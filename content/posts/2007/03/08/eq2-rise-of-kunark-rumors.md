@@ -1,0 +1,28 @@
+---
+date: '2007-03-08T13:08:34-05:00'
+draft: false
+title: "EQ2: Rise of Kunark rumors"
+categories:
+  - "EverQuest"
+  - "MMORPG"
+---
+
+THIS TURNED OUT TO BE A JOKE.
+
+Sorry for falling for it. It really did sound to good to be true.
+
+--
+
+Take this with a generous helping of salt. Someone was claiming they had found a feature list for EQ2: Rise of Kunark, and it included these things:
+
+- Beast lords
+
+- New look for Iksar (closer to EQ1 models)
+
+- New gnomish mounts
+
+- Levitate for mages
+
+- Mounts that can attack
+
+Sounds more like a wish list than a feature list, and I suppose we'll see what the truth is in a few more months.

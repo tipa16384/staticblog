@@ -1,0 +1,80 @@
+---
+date: '2021-08-11T22:44:25-05:00'
+draft: false
+title: "The Most Interesting Game of All Time!"
+categories:
+  - "Blaugust"
+  - "MMORPG"
+tags:
+  - "Blaugust"
+  - "Google Jail"
+  - "Google Trends"
+  - "Python"
+  - "Pytrends"
+featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/runescape-20-years.jpg"
+cover: "https://chasingdings.com/wp-content/uploads/2021/08/runescape-20-years.jpg"
+---
+
+I was [playing around with Google Trends](https://chasingdings.com/2021/08/07/mmos-on-the-bubble/) last week, trying to see how a few MMOs compared to each on the 'Trends. It was fun and all, but I missed a lot of games and I just thought it would be so much better if I could just compare EVERY MMO, past and present, *automatically*!
+
+Google Trends just catalogs the searches people would do for a game, but I figured that had to have at least a loose correlation to popularity, right?
+
+Well, it was an... interesting journey, to be sure.
+
+[![](https://chasingdings.com/wp-content/uploads/2021/08/image-2-1024x986.png)](https://chasingdings.com/wp-content/uploads/2021/08/image-2.png)Code that doesn't work. But why?
+
+I program in Java, JavaScript and TypeScript at work, but my language of choice for my own projects is Python.
+
+Looking around, I found a lot of support for accessing Google Trends via Python -- someone has even written a package, [pytrends](https://github.com/GeneralMills/pytrends), which would do the job.
+
+**How Google Trends works**
+
+The code library works the same way [the website itself](https://trends.google.com/trends/explore?cat=31&geo=US&q=%2Fm%2F07sbkfb,%2Fm%2F05z1_,%2Fm%2F0n50hxv,%2Fm%2F0jgqg,%2Fm%2F03j_q) does. Choose one to five search terms, optionally a category, optionally a time period. It returns a graph of trending searches over time, per search term. The maximum value of a data point is 100; the minimum is zero.
+
+**How sorting works**
+
+The problem here is that there isn't one specific value you can grab that says, this value is how popular a search is, irrespective of what it's compared to. All the values are relative to the other terms in the search. World of Warcraft, the most popular MMO on Google Trends, when compared to, say, Allods Online, will be hovering near 100 every day, and Allods will be zero. Compare Allods Online vs Albion Online, though, and things will be a lot more interesting, as they are in the same general range.
+
+My bright idea was to write a function, in Python, that would take two game names and run them through Trends, average out the daily values for each game, and compare those two values. I could pipe this into Python's sort function, and, easy-peasy, all the games would sort nicely, and I could get a complete ranking of the 260+ games I'd culled from Steam. (I did a search for MMORPGs and Massively Multiplayer on Steam, then copy and pasted those results into a document, and [used regular expressions to strip away anything that wasn't a game name](http://regex.info/blog/2006-09-15/247).)
+
+[![](https://chasingdings.com/wp-content/uploads/2021/08/google-search.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/google-search.jpg)Google Jail
+
+**Welcome to Google Jail**
+
+There's a few problems with that, I'd learn. For one, Google doesn't like people hitting their servers with thousands of requests in a few seconds. They call that an **attack**. Which wounded me. I just loved their service too much. First they throttled me -- if I did just one query a minute, I could stay. But that would take too long! So after a few queries, I would just go as fast as I could for awhile.
+
+Then, they shut me off completely. Any query I sent would be immediately returned with a **Too Many Requests** error. I was in Google Jail. I would get nothing more from them until I'd served my sentence.
+
+A full day later -- this afternoon -- I tried again and I was very sorry and I spaced every query by two seconds and they let me through. I'd also trimmed that mega list down to only MMOs I recognized or at least cared about.
+
+**Garbage In, Garbage Out**
+
+It worked great! Well, it looked like it worked great.
+
+[![](https://chasingdings.com/wp-content/uploads/2021/08/image-3-254x300.png)](https://chasingdings.com/wp-content/uploads/2021/08/image-3.png)
+
+Here's the top ten results, according to my wonderful program. RuneScape... at the top? And MapleStory above World of Warcraft?
+
+It doesn't make any sense. And it's just wrong.
+
+I went through Google Jail for *garbage*.
+
+The problem, I think, is this.
+
+We learned in elementary school that if *a > b* and *b > c*, then *a > c*. Basic stuff. Alice has 10 apples. Betty has 5 apples. Alice has more apples than Betty. Carla has just one apple. Betty has more apples than Carla. Since Alice has more apples than Betty, and Betty has more apples than Carla, then Alice has more apples than Carla. It also follows *c 6 games in my short list. Comparing them all against each other would be 212 = 4,192 individual calls to Google Trends. They only allow 1,400 calls per four hours, so I could run this in ten hours or so. And then we'd know.
+
+**But, doesn't Google Trends allow five terms at once?**
+
+It sure does. Let's talk about that.
+
+I read an article that suggested using a search term that would rank higher, but not substantially so, and make that the first term in every query. Since it would always rank the same (being relatively higher than every other possible term), we would be able to extract an actual unchanging rank value for every other game in that query, and by extension, for every game in the list. With 63 games, it would take 16 such queries to sort the entire list, and the ordering would be... no, it wouldn't be correct.
+
+It's a data thing.
+
+See, World of Warcraft is the obvious choice. We know it's #1. But it's the old hundred billion apples problem, again. It's just so much more popular than the lowest ranked items that it would be WoW at top, a few competitors ranked more or less correctly, and then all the lower ranked games jumbled together as they are all essentially tanked at zero, compared to WoW.
+
+**Lemme think about it.**
+
+Of course, we could iterate. Run through once and find the top few games with enough showing in Trends to be reasonable. Add those to the top of the ranking, then remove them from the list and run it again, this time with the lowest of those removed as the trend setter for the others. And so on, until we were down at the level of the games with the least Trends. That would probably take only two or three runs, and we'd get an idea of the general tiers of popularity for the MMOs.
+
+I'll probably try that next time.

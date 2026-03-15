@@ -1,0 +1,9 @@
+---
+date: '2007-07-28T11:42:34-05:00'
+draft: false
+title: "Book reviews..."
+categories:
+  - "Asides"
+---
+
+I promised Hillary that I'd occasionally post about the stuff I read. Today is the first, about one of my favorite stories by one of my favorite authors, Harlan Ellison.

@@ -1,0 +1,42 @@
+---
+date: '2010-05-26T05:48:44-05:00'
+draft: false
+title: "Wizard101 Gobbler Contest Winners!"
+categories:
+  - "MMORPG"
+  - "Wizard101"
+featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg"
+cover: "https://chasingdings.com/wp-content/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg"
+---
+
+[![](https://chasingdings.com/wp-content/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg "Outside the Myth school")](https://chasingdings.com/wp-content/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg)
+
+The contest is over! Professor Drake is NOT a fair person, and in fact, had constructed his puzzle such that only his favorite student, Bailey, could win. No amount of cheating by Daniel, who was stuck outside the classroom; or Cedric, staring at a wall, could help them with the colors of their own hats. Abigail simply didn't have enough information to make more than a random guess at the color of her own hat.
+
+Shane Kelly had the complete solution:
+
+> "BLUE!", shouts Bailey.
+
+> Professor Drake sneers. "There is no way you could know that so fast.  How can you be sure?"
+
+> Bailey responds "It's easy! Abigail, behind me, was silent.  She would have immediatly yelled out the color she didn't see as 2 are blue and 2 are yellow.  It is because of her silence that I know she sees two different colored hats. Since Cedric's hat is yellow, I know mine must be blue!"
+
+> "Fine", says Professor Drake. "You get an A... MINUS."
+
+The other winners are:
+
+- B Tipton
+
+- Christopher Wong
+
+- Joe Corilla
+
+- Macaroni Man
+
+- Jennifer Eberta
+
+- Obsidian Eye
+
+- Crye
+
+Congrats to all the winners! Codes will be sent immediately.

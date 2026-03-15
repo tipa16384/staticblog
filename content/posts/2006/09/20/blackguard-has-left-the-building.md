@@ -1,0 +1,14 @@
+---
+date: '2006-09-20T09:07:48-05:00'
+draft: false
+title: "Blackguard Has Left the Building"
+categories:
+  - "EverQuest"
+  - "MMORPG"
+---
+
+EQ2 Community Relations manager Ryan "Blackguard" Schwayder is [leaving SOE](http://eqiiforums.station.sony.com/eq2/board/message?board.id=Non-Gameplay&message.id=416177#M416177) to return home to Denver.
+
+Ryan was an expert navigator of those turbulent waters that separate the devs and the players. He was a player, and just wanted to help make a fun game. His humor, intelligence and enthusiasm was contagious in his official and unofficial posts, his podcasts, and [his own website](http://nerfbat.com). He even found time to visit obscure little fansites like this one.
+
+So long, Blackguard, may all your seas be calm ones and every rainbow have a chest - a legendary chest - of gold at the end!

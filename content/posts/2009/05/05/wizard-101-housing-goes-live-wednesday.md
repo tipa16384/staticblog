@@ -1,0 +1,22 @@
+---
+date: '2009-05-05T21:40:07-05:00'
+draft: false
+title: "Wizard 101: Housing goes LIVE Wednesday!"
+categories:
+  - "MMORPG"
+  - "Wizard101"
+tags:
+  - "Player Housing"
+featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-05-22-09-21-98.jpg"
+cover: "https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-05-22-09-21-98.jpg"
+---
+
+![My little Wizard City cottage](https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-05-22-09-21-98.jpg "My little Wizard City cottage")
+
+We've word from Ravenwood that the newly-named Builder Turtles are being dropped off at their new homes across the Spiral, and that tomorrow, we'll be able to buy and furnish our own homes. Thomes the Friendly Necromancer has been [finding lots of treasures everywhere](http://thefriendlynecromancer.blogspot.com/search/label/House%20Item%20of%20the%20Day), and I've gotten a good look at [all ten of the currently available homes](https://chasingdings.com/index.php/2009/04/26/wizard-101-all-ten-player-houses/) ([and a closer look at a couple](https://chasingdings.com/index.php/2009/04/23/wizard-101-player-housing-on-test/)).
+
+Check out the complete information on player housing in [the May newsletter](https://www.wizard101.com/site/home2/wizard101/page_8ad6a4042100700b01211200afe1031f).
+
+> Wizard101 will be offline Wednesday May 06 2009 starting at 3:00am Central US time until approximately 8:00am Central US time.
+
+> Wizard101 will be offline for an extended period of time tonight so we can implement the much anticipated Castles & Lands housing feature, voiceovers for Marleybone, MooShu and Dragonspyre, and many other exciting updates.

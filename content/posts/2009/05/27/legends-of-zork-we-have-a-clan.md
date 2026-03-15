@@ -1,0 +1,22 @@
+---
+date: '2009-05-27T06:31:13-05:00'
+draft: false
+title: "Legends of Zork: We have a Clan!"
+categories:
+  - "Legends of Zork"
+  - "Other Games"
+featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5272009-65734-am.jpg"
+cover: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5272009-65734-am.jpg"
+---
+
+![fullscreen-capture-5272009-65734-am](https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5272009-65734-am.jpg "fullscreen-capture-5272009-65734-am")
+
+Yeah, I *know* [Legends of Zork](http://legendsofzork.com/) is a ["ProgressQuest"-like achiever game](https://chasingdings.com/index.php/2009/04/17/achiever-games-legends-of-zork-and-progress-quest/) where you grind meaningless combat again and again to earn gold for gear that you will wear so you can return to the grind to replace it.
+
+But aren't most RPGs like that? Just because you know there's a man behind the curtain, doesn't mean you can't enjoy the show. It's like five minutes a day to kill my thirty monsters... um, plus the half hour to make spreadsheets analyzing the various combinations of weapons, spells and armor to be most effective.
+
+Two-handed weapons? Total win. Defense spells? Only if you focus on Spirit.
+
+Yesterday, the Implementers ([do they still call them that?](http://en.wikipedia.org/wiki/Implementer)) added Clans (guilds) to the game, and Nostalgia was born on Yet Another Game. Aside from a way of trading out of date items to each other and packing all our stats together to form a guild ranking (we're #39 of 181), and we're not doing too badly with just four members.
+
+Play Legends of Zork at all and are looking for a clan for some reason? Look up Nostalgia!

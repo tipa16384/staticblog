@@ -1,0 +1,13 @@
+---
+date: '2005-11-14T00:00:00-05:00'
+draft: false
+title: "Slashdot"
+categories:
+  - "General"
+---
+
+In the beginning, there was [Slashdot](http://www.slashdot.org), "News for Nerds". I posted replies now and again, and eventually, they started giving me moderator points - the ability to push posts up and down in the ranking. And then they started letting me META-moderate posts - grading the moderators.
+
+Can I use this on my resume?
+
+Who moderates the meta-moderators? [Who watches the Watchmen](http://en.wikipedia.org/wiki/Watchmen)?

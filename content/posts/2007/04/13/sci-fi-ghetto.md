@@ -1,0 +1,9 @@
+---
+date: '2007-04-13T05:05:07-05:00'
+draft: false
+title: "Sci-Fi Ghetto"
+categories:
+  - "Asides"
+---
+
+[Wired.com](http://www.wired.com/culture/culturereviews/news/2007/04/scifighetto_0412) has an article about how the "sci-fi" label is a kiss of death for books and movies, and they invite people to nominate their own favorite SF books that were not marketed as SF. I nominated Atwood's "A Handmaid's Tale"...

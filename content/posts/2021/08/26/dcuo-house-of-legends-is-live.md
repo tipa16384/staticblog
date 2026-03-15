@@ -1,0 +1,38 @@
+---
+date: '2021-08-26T07:52:48-05:00'
+draft: false
+title: "DCUO: House of Legends is LIVE!"
+categories:
+  - "Blaugust"
+  - "DC Universe Online"
+  - "MMORPG"
+  - "Steam Games"
+tags:
+  - "Blaugust"
+  - "DC Universe Online"
+  - "House of Legends"
+featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/avatarofmeta.jpg"
+cover: "https://chasingdings.com/wp-content/uploads/2021/08/avatarofmeta.jpg"
+---
+
+This is going to be a fairly short post, as I didn't get a chance last night and pretty soon I'll have to get ready for work. But: House of Legends is live in DC Universe Online, and it's every bit as good (and bad) as promised!
+
+![](https://cdn.discordapp.com/attachments/333803455703678978/880186326014631991/20210825162009_1.jpg)
+
+**The Good**
+
+- Leveling is fast. My baby villain went from a CR of 53 to 64 -- 11 CR gained in a night, just from drops.- Old armor sets are freely available. My main gained two skill points just from completing old armor sets.- Allies are fun little summons, but they don't stick around.- Easy to find pickup raids.- Seemed like every solo and duo I did with the baby villain scored massive upgrades.
+
+**The Less-than-Good**
+
+- That raid is the Kryptonian Power Core raid. Low CR players seemed to be boosted to 60 -- Wy Knot wasn't 60 when she entered (but was by the time it was over). High CR players were capped at 83. But, nobody knew the raid mechanics. I'd entirely forgotten them, for sure -- it's been at least seven, eight years since I'd done it last.- Getting through that raid took several hours and a lot of personnel changes.- Daily rewards -- I was expecting a pop-up window. The DCUO chat says you're supposed to bring it up with F1. I saw nothing telling me to do that.- Wy Knot got a loot box from Steve Trevor with crappy paramilitary gear. I was supposed to equip it all for a quest. I equipped it all, quest didn't complete. Destroyed it all. Quest still there. I guess I'll hide it forever along with the other quests I'll never complete now.
+
+**The Quick Take**
+
+House of Legends will be amazing for leveling up to max CR. Once there, though, the raids will not drop good gear. The new expansion currency drops in ones and twos and you need 50s and 60s of them to buy the new episode gear. I imagine we will all be seeing a LOT more of the Kryptonian Power Core raid than we want, and every single time, nobody is going to know what to do with it.
+
+For those who would like to know what they're up against, HERE IS THE STRATEGY:
+
+http://dcuo.mmorpg-life.com/1796/news/dcuo-guides-fortress-of-solitude-power-core/
+
+More later.

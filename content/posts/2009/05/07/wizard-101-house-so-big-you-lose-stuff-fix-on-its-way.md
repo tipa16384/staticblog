@@ -1,0 +1,12 @@
+---
+date: '2009-05-07T23:15:15-05:00'
+draft: false
+title: "Wizard 101: House so big you LOSE stuff? Fix on its way!"
+categories:
+  - "MMORPG"
+  - "Wizard101"
+---
+
+> Wizard101 the game will be offline 08 May 2009 during our regular maintenance period of 3am to 4am Central time to address issues with items disappearing from dorm and housing walls. After the update, your items should appear where you placed them. If you still notice something is missing, please let Mr Lincoln know by submitting a bug report by going to Wizard101.com the website and clicking Help & Support. There you will find a link to Contact Us with all the details.
+
+> Thank you for your patience while we continue to make improvements to Wizard101.

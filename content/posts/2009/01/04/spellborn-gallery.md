@@ -1,0 +1,13 @@
+---
+date: '2009-01-04T01:37:46-05:00'
+draft: false
+title: "Spellborn Gallery"
+categories:
+  - "Chronicles of Spellborn"
+  - "MMORPG"
+tags:
+  - "Gallery"
+  - "Picasa"
+---
+
+I took a lot of pictures while adventuring in Spellborn. I intended to make a huge gallery post, but did a comic instead. You can see all the (decent) photos I took by visiting my [Spellborn Gallery](http://picasaweb.google.com/brendahol/SpellbornGallery). Each screen shot has a caption explaining where it was taken and other interesting info. If you really want to get a feel for what the world of the Enclave looks like, [check it out](http://picasaweb.google.com/brendahol/SpellbornGallery).

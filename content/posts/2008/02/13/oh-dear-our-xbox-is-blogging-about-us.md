@@ -1,0 +1,13 @@
+---
+date: '2008-02-13T09:58:12-05:00'
+draft: false
+title: "Oh dear... our Xbox is blogging about us..."
+categories:
+  - "Other Games"
+---
+
+> Scurvsnicker's Xbox - 2/13/2008
+
+> Scurvsnicker showed up yesterday and we were like a superhero team together. I make a great sidekick! Gamerscore stands at 770. Up up and away right? She played Rock Band, Call of Duty 4, Marvel Ult. Alliance, LOST PLANET, and then... oh wait... no and then!!
+
+See what your 360 has to say about you at [http://www.360voice.com/](http://www.360voice.com/)...

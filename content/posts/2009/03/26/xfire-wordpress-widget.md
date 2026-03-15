@@ -1,0 +1,12 @@
+---
+date: '2009-03-26T00:53:22-05:00'
+draft: false
+title: "XFire Wordpress Widget"
+categories:
+  - "General"
+  - "My Work"
+---
+
+... if I could draw your attention to your right, especially you Wordpress bloggers ...
+
+I've written a Wordpress Widget that shows your gaming (via XFire) for the past week. It still has one or two ~~bugs~~ ~~issues~~ challenges before I can release it publicly, but if anyone has any ideas of what they would like to see in such a widget, like sorting, or yes for times/no times, or live information or whatever... let me know.

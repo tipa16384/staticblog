@@ -1,0 +1,431 @@
+type,term_id,name,slug,parent,normalized_name,blog_category
+category,145,3D Printing,3d-printing,,3D Printing,Miniatures & Wargaming
+category,2198,4X,4x,,4X,Strategy & 4X Games
+category,1619,Action RPG,action-rpg,,Action RPG,RPGs (Video Games)
+category,1656,Adventure,adventure,,Adventure,Indie Games
+category,162,adventures in monopoly,adventures-in-monopoly,,Adventures in Monopoly,Indie Games
+category,161,AIM,aim,,Adventures in Monopoly,Indie Games
+category,154,aim,aim,,Adventures in Monopoly,Indie Games
+category,1657,Android,android,,Android,Gaming Hardware & Platforms
+category,416,Asides,asides,,Asides,Blogging & Meta
+category,2133,Atari,atari,,Atari,Retro Gaming
+category,276,Atari 2600,atari-2600-old,,Atari 2600,Retro Gaming
+category,1837,Batman,batman,,Batman,Gaming Culture & Commentary
+category,137,Blaugust,blaugust,,Blaugust,Blogging & Meta
+category,1647,Blaugust 2022,blaugust-2022,blaugust,Blaugust 2022,Blogging & Meta
+category,1947,Blaugust 2023,blaugust-2023,blaugust,Blaugust 2023,Blogging & Meta
+category,2202,Blaugust 2024,blaugust-2024,blaugust,Blaugust 2024,Blogging & Meta
+category,2396,Blaugust 2025,blaugust-2025,blaugust,Blaugust 2025,Blogging & Meta
+category,277,blockchain,blockchain,,Blockchain,Gaming Industry & News
+category,1531,Blockchain,blockchain,,Blockchain,Gaming Industry & News
+category,1537,Browser Game,browser-game,,Browser Game,Gaming Hardware & Platforms
+category,1484,Car Wars,car-wars,,Car Wars,Tabletop RPGs (TTRPGs)
+category,271,Card Games,card-games,,Card Games,Board Games
+category,359,city of heroes,city-of-heroes,,City of Heroes,Gaming Culture & Commentary
+category,152,Comic,comic,,Comic,Gaming Culture & Commentary
+category,153,comic,comic,,Comic,Gaming Culture & Commentary
+category,163,comics,comics,,Comic,Gaming Culture & Commentary
+category,417,cronous,cronous,,Cronous,Gaming Culture & Commentary
+category,723,cronous,cronous,,Cronous,Gaming Culture & Commentary
+category,267,CRPG,crpg,,CRPG,RPGs (Video Games)
+category,1536,Crypto Game,crypto-game,blockchain,Crypto Game,Gaming Industry & News
+category,1539,CryptoKitties,cryptokitties,browser-game,Cryptokitties,Gaming Industry & News
+category,225,darkfall,darkfall,,Darkfall,MMOs
+category,1836,DC Comics,dc-comics,,DC Comics,Gaming Culture & Commentary
+category,344,dc universe online,dc-universe-online,,DC Universe Online,MMOs
+category,1932,Diablo,diablo,,Diablo,RPGs (Video Games)
+category,767,Doctor Who,doctor-who,,Doctor Who,Gaming Culture & Commentary
+category,265,DOS games,dos-games,,DOS Games,Retro Gaming
+category,1538,Dragonereum,dragonereum,browser-game,Dragonereum,Board Games
+category,788,Dungeon Siege,ds,,Dungeon Siege,Gaming Culture & Commentary
+category,2019,Dungeons &amp; Dragons,dungeons-dragons,,Dungeons & Dragons,Tabletop RPGs (TTRPGs)
+category,151,Duolingo,duolingo,,Duolingo,"AI, Tools & Technology"
+category,1608,Elden Ring,elden-ring,,Elden Ring,RPGs (Video Games)
+category,148,Emulators,emulators,,Emulators,Retro Gaming
+category,343,eve online,eve-online,,EVE Online,MMOs
+category,38,everquest,everquest,,EverQuest,MMOs
+category,39,everquest 2,everquest-2,,EverQuest II,MMOs
+category,418,Facebook Games,facebook-games,,Facebook Games,Gaming Hardware & Platforms
+category,375,ff3,ff3,,Final Fantasy III,RPGs (Video Games)
+category,377,ffxiv,ffxiv,,Final Fantasy XIV,RPGs (Video Games)
+category,2300,Fiction,fiction,,Fiction,Blogging & Meta
+category,350,Final Fantasy,final-fantasy,,Final Fantasy,RPGs (Video Games)
+category,52,final fantasy,final-fantasy,,Final Fantasy,RPGs (Video Games)
+category,1503,Final Fantasy Origins,final-fantasy-origins,final-fantasy,Final Fantasy Origins,RPGs (Video Games)
+category,360,final fantasy xi,final-fantasy-xi,,Final Fantasy Xi,RPGs (Video Games)
+category,2257,Final Fantasy XII,final-fantasy-xii,final-fantasy,Final Fantasy Xii,RPGs (Video Games)
+category,170,final fantasy xiv,final-fantasy-xiv,,Final Fantasy Xiv,RPGs (Video Games)
+category,395,flamecraft,flamecraft,,Flamecraft,Board Games
+category,854,florensia,florensia,,Florensia,Gaming Culture & Commentary
+category,419,Fortune League,fortune-league-facebook-games,facebook-games,Fortune League,Gaming Culture & Commentary
+category,353,free realms,free-realms,,Free Realms,Gaming Culture & Commentary
+category,420,Frontierville,frontierville,facebook-games,Frontierville,Gaming Culture & Commentary
+category,1855,Game Development,game-development,,Game Development,Game Development & Design
+category,143,Game Night,game-night,,Game Night,Board Games
+category,90,game night,game-night,,Game Night,Board Games
+category,421,General,general,,General,Blogging & Meta
+category,2168,Generative AI,generative-ai,,Generative AI,"AI, Tools & Technology"
+category,91,gloomhaven,gloomhaven,,Gloomhaven,Board Games
+category,72,godville,godville,,Godville,Board Games
+category,179,greedfall,greedfall,,Greedfall,RPGs (Video Games)
+category,913,Guild Wars,guild-wars,,Guild Wars,MMOs
+category,1609,Horizon Forbidden West,horizon-forbidden-west,,Horizon Forbidden West,Gaming Culture & Commentary
+category,422,Humor,humor,general,Humor,Blogging & Meta
+category,957,Humor,humor,,Humor,Blogging & Meta
+category,2174,Intellivision,intellivision,,Intellivision,Retro Gaming
+category,308,kickstarter,kickstarter,,Kickstarter,Gaming Industry & News
+category,423,Kickstarter,kickstarter,,Kickstarter,Gaming Industry & News
+category,424,League of Cruelty,league-of-cruelty,humor,League of Cruelty,Gaming Culture & Commentary
+category,1019,Legends of Zork,legends-of-zork,,Legends of Zork,Gaming Culture & Commentary
+category,1024,LittleBigPlanet,littlebigplanet,,Littlebigplanet,Gaming Hardware & Platforms
+category,1479,Lord of the Chords,lord-of-the-chords,,Lord of the Chords,Blogging & Meta
+category,357,lord of the rings online,lord-of-the-rings-online,,Lord of the Rings Online,Gaming Culture & Commentary
+category,49,love,love,,Love,Blogging & Meta
+category,2061,Metric Time,metric-time,general,Metric Time,Blogging & Meta
+category,2169,Midjourney,midjourney,generative-ai,Midjourney,"AI, Tools & Technology"
+category,243,minecraft,minecraft,,Minecraft,Gaming Hardware & Platforms
+category,80,miniatures,miniatures,,Miniatures,Miniatures & Wargaming
+category,147,Miniatures,miniatures,,Miniatures,Miniatures & Wargaming
+category,138,MMO,mmo,,MMORPG,RPGs (Video Games)
+category,48,mmo,mmo,,MMORPG,RPGs (Video Games)
+category,425,MMOs,mmos,,MMORPG,RPGs (Video Games)
+category,144,Mobile Games,mobile-games,,Mobile Games,Gaming Hardware & Platforms
+category,2353,Monster Hunter,monster-hunter,mmos,Monster Hunter,RPGs (Video Games)
+category,2055,Monsters &amp; Memories,monsters-memories,mmos,Monsters & Memories,MMOs
+category,1923,Movies,movies,general,Movies,Gaming Culture & Commentary
+category,426,My Empire,my-empire,facebook-games,My Empire,Game Development & Design
+category,1493,my little scythe,my-little-scythe,,My Little Scythe,Board Games
+category,427,My Work,it-stuff,general,My Work,Blogging & Meta
+category,1482,Mystery Dice,mystery-dice,,Mystery Dice,Tabletop RPGs (TTRPGs)
+category,1085,Mythos,mythos,,Mythos,Gaming Culture & Commentary
+category,428,Mythos,mythos,mmos,Mythos,Gaming Culture & Commentary
+category,429,Nationstates,nationstates,mmos,Nationstates,Gaming Culture & Commentary
+category,430,Need For Speed World,need-for-speed-world,mmos,Need for Speed World,Gaming Culture & Commentary
+category,431,Neo Steam,neo-steam,mmos,Neo Steam,Gaming Culture & Commentary
+category,172,neopets,neopets,,Neopets,MMOs
+category,432,Neverwinter,neverwinter,mmos,Neverwinter,Gaming Culture & Commentary
+category,338,new world,new-world,,New World,MMOs
+category,1499,New World,new-world,mmos,New World,MMOs
+category,1532,NFT,nft,blockchain,NFT,Gaming Industry & News
+category,1635,Nintendo 64,nintendo-64,,Nintendo 64,Retro Gaming
+category,140,Nintendo Switch,switch,,Nintendo Switch,Gaming Hardware & Platforms
+category,1769,No Man's Sky,no-mans-sky,mmos,No Man's Sky,Gaming Industry & News
+category,75,nostalgia the guild,nostalgia-the-guild,,Nostalgia the Guild,Gaming Culture & Commentary
+category,1506,Old School Runescape,old-school-runescape,mmos,Old School Runescape,MMOs
+category,433,One Panel Comix,one-panel-comix,humor,One Panel Comix,Blogging & Meta
+category,284,Open World RPG,open-world-rpg,,Open World RPG,RPGs (Video Games)
+category,1777,OpenAI,openai,,OpenAI,"AI, Tools & Technology"
+category,434,Other Games,other-games,,Other Games,Gaming Culture & Commentary
+category,1955,Palia,palia,mmos,Palia,MMOs
+category,2111,Palworld,palworld,open-world-rpg,Palworld,Gaming Industry & News
+category,2063,Pantheon: Rise of the Fallen,pantheon-rise-of-the-fallen,mmos,Pantheon: Rise of the Fallen,MMOs
+category,1768,Path of Exile,path-of-exile,mmos,Path of Exile,RPGs (Video Games)
+category,1550,Pawnbarian,pawnbarian,other-games,Pawnbarian,Board Games
+category,1828,Petalica Paint,petalica-paint,,Petalica Paint,"AI, Tools & Technology"
+category,435,Pi Story,pi-story-mmos,mmos,Pi Story,Blogging & Meta
+category,436,Pillars of Eternity,pillars-of-eternity,other-games,Pillars of Eternity,RPGs (Video Games)
+category,437,Pirate101,pirate101,mmos,Pirate101,Gaming Culture & Commentary
+category,438,Pirates of the Burning Sea,potbs,mmos,Pirates of the Burning Sea,Gaming Culture & Commentary
+category,1910,Pokemon,pokemon,,Pokemon,RPGs (Video Games)
+category,439,Project Powder,project-powder-other-games,other-games,Project Powder,Gaming Culture & Commentary
+category,1942,Project: Gorgon,project-gorgon,mmos,Project: Gorgon,Board Games
+category,1552,PS2,ps2,,PS2,Retro Gaming
+category,1944,PS3,ps3,,PS3,Gaming Hardware & Platforms
+category,56,ps4,ps4,,PS4,Gaming Hardware & Platforms
+category,139,PS4,ps4,,PS4,Gaming Hardware & Platforms
+category,283,PS5,ps5,,PS5,Gaming Hardware & Platforms
+category,288,ps5,ps5,,PS5,Gaming Hardware & Platforms
+category,440,Puyo Puyo,puyo-puyo,other-games,Puyo Puyo,Retro Gaming
+category,326,Puzzle Games,puzzle-games,,Puzzle Games,Indie Games
+category,321,Quick Takes,quick-takes,,Quick Takes,Game Reviews & First Impressions
+category,379,real life,real-life,,Real Life,Blogging & Meta
+category,141,Real Life,real-life,,Real Life,Blogging & Meta
+category,257,Real Time Strategy,real-time-strategy,,Real Time Strategy,Strategy & 4X Games
+category,441,Realm of the Mad God,realm-of-the-mad-god,mmos,Realm of the Mad God,Board Games
+category,442,Recettear,recettear,other-games,Recettear,Gaming Culture & Commentary
+category,443,Redshirt,redshirt,other-games,Redshirt,Blogging & Meta
+category,396,return to dark tower,return-to-dark-tower,,Return to Dark Tower,Board Games
+category,1801,Review,review,general,Review,Game Reviews & First Impressions
+category,315,Rhythm Games,rhythm-games,,Rhythm Games,Gaming Hardware & Platforms
+category,345,rift,rift,,Rift,MMOs
+category,444,Rift,rift,mmos,Rift,MMOs
+category,445,Rock Band,rock-band-other-games,other-games,Rock Band,Gaming Hardware & Platforms
+category,266,Rogue-likes,rogue-likes,,Rogue-Likes,Indie Games
+category,446,Roll20,roll20,kickstarter,Roll20,Tabletop RPGs (TTRPGs)
+category,447,Runes of Magic,runes-of-magic-mmos,mmos,Runes of Magic,Board Games
+category,1601,Salt and Sanctuary,salt-and-sanctuary,other-games,Salt and Sanctuary,RPGs (Video Games)
+category,448,Sci Fi,sci-fi,general,Sci Fi,Gaming Culture & Commentary
+category,102,Scythe,scythe,,Scythe,Board Games
+category,449,Second Life,second-life,mmos,Second Life,Gaming Culture & Commentary
+category,89,set a watch,set-a-watch,,Set a Watch,Board Games
+category,450,Shin Megami Tensei,shin-megami-tensei,mmos,Shin Megami Tensei,RPGs (Video Games)
+category,451,Shin Megami Tensei: Imagine,shin-megami-tensei-imagine,mmos,Shin Megami Tensei: Imagine,RPGs (Video Games)
+category,1498,Ship of Heroes,ship-of-heroes,mmos,Ship of Heroes,MMOs
+category,380,ship of heroes,ship-of-heroes,,Ship of Heroes,MMOs
+category,330,Shooter,shooter,,Shooter,Gaming Hardware & Platforms
+category,331,Shooter,shooter,,Shooter,Gaming Hardware & Platforms
+category,354,shroud of the avatar,shroud-of-the-avatar,,Shroud of the Avatar,MMOs
+category,452,Shroud of the Avatar,shroud-of-the-avatar,mmos,Shroud of the Avatar,MMOs
+category,453,SimCity 2013,simcity-2013,mmos,Simcity 2013,Strategy & 4X Games
+category,454,SimCity 3,simcity-3,mmos,Simcity 3,Retro Gaming
+category,1883,Skyrim,skyrim,other-games,Skyrim,RPGs (Video Games)
+category,1817,Souls-like,souls-like,,Souls-Like,RPGs (Video Games)
+category,1285,Spore,spore,,Spore,Strategy & 4X Games
+category,455,Spore,spore,other-games,Spore,Strategy & 4X Games
+category,1935,Star Citizen,star-citizen,mmos,Star Citizen,MMOs
+category,456,Star Command Galaxies,star-command-galaxies,other-games,Star Command Galaxies,Gaming Culture & Commentary
+category,457,Star Corsairs,star-corsairs,mmos,Star Corsairs,Gaming Culture & Commentary
+category,458,Star Trek Online,star-trek-online,mmos,Star Trek Online,Gaming Culture & Commentary
+category,339,star trek online,star-trek-online,,Star Trek Online,Gaming Culture & Commentary
+category,459,Star Wars The Old Republic,star-wars-the-old-republic,mmos,Star Wars the Old Republic,MMOs
+category,362,star wars: the old republic,star-wars-the-old-republic,,Star Wars: the Old Republic,MMOs
+category,2038,Starfield,starfield,other-games,Starfield,RPGs (Video Games)
+category,2339,Stars Reach,stars-reach,mmos,Stars Reach,MMOs
+category,2129,Starship Simulator,starship-simulator,kickstarter,Starship Simulator,Game Development & Design
+category,142,Steam Games,steam-games,,Steam Games,Gaming Hardware & Platforms
+category,460,Stout Henry,stout-henry-humor-general,humor,Stout Henry,Blogging & Meta
+category,1307,Straight Talk Warhammer,straight-talk-warhammer,,Straight Talk Warhammer,Miniatures & Wargaming
+category,251,Super Nintendo,super-nintendo,,Super Nintendo,Retro Gaming
+category,332,Survival,survival,,Survival,Gaming Industry & News
+category,334,survival,survival,,Survival,Gaming Industry & News
+category,4,Switch,switch,,Switch,Gaming Hardware & Platforms
+category,1906,Sword Art Online Fatal Bullet,sword-art-online-fatal-bullet,other-games,Sword Art Online Fatal Bullet,MMOs
+category,461,Sword Coast Legends,sword-coast-legends,mmos,Sword Coast Legends,Gaming Culture & Commentary
+category,2421,Sword Hero,sword-hero,other-games,Sword Hero,Gaming Culture & Commentary
+category,146,Tabletop Games,tabletop-games,,Tabletop Games,Board Games
+category,462,Tabula Rasa,tabula-rasa,mmos,Tabula Rasa,MMOs
+category,307,Tactical RPG,tactical-rpg,,Tactical RPG,Strategy & 4X Games
+category,1523,Tales from the Loop,tales-from-the-loop,tabletop-games,Tales From the Loop,Tabletop RPGs (TTRPGs)
+category,1481,Tales from the Loop,tales-from-the-loop,,Tales From the Loop,Tabletop RPGs (TTRPGs)
+category,1500,Terra Randoma,terra-randoma,other-games,Terra Randoma,Blogging & Meta
+category,1518,Terraforming Mars,terraforming-mars,tabletop-games,Terraforming Mars,Board Games
+category,110,terraforming mars,terraforming-mars,,Terraforming Mars,Board Games
+category,1507,The Elder Scrolls Online,the-elder-scrolls-online,mmos,The Elder Scrolls Online,RPGs (Video Games)
+category,1570,The Loot Project,the-loot-project,blockchain,The Loot Project,Blogging & Meta
+category,1941,The Secret World,the-secret-world,mmos,The Secret World,Gaming Culture & Commentary
+category,2134,THE400 Mini,the400-mini,,THE400 Mini,Gaming Hardware & Platforms
+category,463,TinyGame2010,tinygame2010,other-games,Tinygame2010,Game Development & Design
+category,464,TIS-100,tis-100,other-games,TIS-100,Game Development & Design
+category,16,TIS-100,tis-100,,TIS-100,Game Development & Design
+category,465,Torchlight,torchlight,other-games,Torchlight,RPGs (Video Games)
+category,12,torchlight,torchlight,,Torchlight,RPGs (Video Games)
+category,466,Torchlight 2,torchlight-2,other-games,Torchlight 2,RPGs (Video Games)
+category,390,townscaper,townscaper,,Townscaper,Gaming Culture & Commentary
+category,467,Treasure Abyss,treasure-abyss,facebook-games,Treasure Abyss,Gaming Culture & Commentary
+category,410,Trends,trends,,Trends,Gaming Industry & News
+category,1734,Turn-based RPGs,turn-based-rpgs,trends,Turn-Based Rpgs,RPGs (Video Games)
+category,468,TV Recaps,tv-recaps,general,Tv Recaps,Gaming Culture & Commentary
+category,1940,Ultima Online,ultima-online,mmos,Ultima Online,MMOs
+category,1,Uncategorized,uncategorized,,Uncategorized,Blogging & Meta
+category,1546,Unexplored 2,unexplored-2,other-games,Unexplored 2,Gaming Culture & Commentary
+category,1620,V Rising,v-rising,,V Rising,Gaming Culture & Commentary
+category,1509,Valheim,valheim,other-games,Valheim,Gaming Culture & Commentary
+category,333,valheim,valheim,,Valheim,Gaming Culture & Commentary
+category,469,Valkyria Chronicles,valkyria-chronicles,other-games,Valkyria Chronicles,Strategy & 4X Games
+category,2114,Vandal Hearts,vandal-hearts,other-games,Vandal Hearts,Strategy & 4X Games
+category,470,Vanguard,vanguard,mmos,Vanguard,MMOs
+category,169,vanguard,vanguard,,Vanguard,MMOs
+category,2110,Vectrex,vectrex,,Vectrex,Retro Gaming
+category,411,Video Game,video-game,trends,Video Game,Gaming Culture & Commentary
+category,1795,Video game console,video-game-console,trends,Video Game Console,Gaming Hardware & Platforms
+category,412,Video Game Series,video-game-series,trends,Video Game Series,Gaming Culture & Commentary
+category,302,Visual Novel,visual-novel,,Visual Novel,Indie Games
+category,233,visual novel,visual-novel,,Visual Novel,Indie Games
+category,471,Warhammer: Age of Reckoning,war,mmos,Warhammer: Age of Reckoning,Miniatures & Wargaming
+category,1417,Warhammer: Age of Reckoning,war,,Warhammer: Age of Reckoning,Miniatures & Wargaming
+category,1418,Warhammer: Age of Reckoning,warhammer-age-of-reckoning,,Warhammer: Age of Reckoning,Miniatures & Wargaming
+category,149,Web Games,web-games,,Web Games,Gaming Hardware & Platforms
+category,472,Web Logging,web-logging,,Web Logging,Blogging & Meta
+category,335,Whatcha Playing?,whatcha-playing,,Whatcha Playing?,Game Reviews & First Impressions
+category,1945,White Knight Chronicles,white-knight-chronicles,other-games,White Knight Chronicles,RPGs (Video Games)
+category,1605,Wildermyth,wildermyth,tactical-rpg,Wildermyth,Gaming Culture & Commentary
+category,473,Wizard 101,wizard101-mmos,mmos,Wizard 101,MMOs
+category,474,Wizardry Online,wizardry-online,mmos,Wizardry Online,MMOs
+category,475,World of Warcraft,world-of-warcraft,mmos,World of Warcraft,MMOs
+category,69,world of warcraft,world-of-warcraft,,World of Warcraft,MMOs
+category,476,World of Warships,world-of-warships,mmos,World of Warships,MMOs
+category,9,world of warships,world-of-warships,,World of Warships,MMOs
+category,1689,Zombie games,zombie-games,trends,Zombie Games,Gaming Culture & Commentary
+category,1714,2D platformer games,2d-platformer-games,trends,2D Platformer Games,Indie Games
+category,1688,2D platformers,2d-platformers,trends,2D Platformers,Indie Games
+category,477,7DRL,7drl,other-games,7drl,Gaming Culture & Commentary
+category,478,7SRL,7srl,other-games,7DRL,Gaming Culture & Commentary
+category,1680,Action Adventure games,action-adventure-games,trends,Action Adventure Games,Indie Games
+category,1583,Advent of Code,advent-of-code,general,Advent of Code,"AI, Tools & Technology"
+category,479,Adventures in Monopoly,adventures-in-monopoly,humor,Adventures in Monopoly,Indie Games
+category,480,AdventureVille,adventureville,facebook-games,Adventureville,Game Development & Design
+category,1810,Advertising,advertising,general,Advertising,Blogging & Meta
+category,481,Age of Conan,aoc,mmos,Age of Conan,Gaming Culture & Commentary
+category,482,Aion,aion,mmos,Aion,MMOs
+category,483,Allods Online,allods-online,mmos,Allods Online,MMOs
+category,413,Arcade Game,arcade-game,trends,Arcade Game,Retro Gaming
+category,1820,Ark Survival Evolved,ark-survival-evolved,survival,Ark Survival Evolved,Gaming Industry & News
+category,484,Armikrog,armikrog,other-games,Armikrog,Gaming Culture & Commentary
+category,1525,Artisans of Splendent Vale,artisans-of-splendent-vale,tabletop-games,Artisans of Splendent Vale,Tabletop RPGs (TTRPGs)
+category,2058,Avalon,avalon,blockchain,Avalon,Board Games
+category,1544,Axie Infinity,axie-infinity,browser-game,Axie Infinity,Gaming Industry & News
+category,485,Ballpoint Universe,ballpoint-universe,kickstarter,Ballpoint Universe,Gaming Culture & Commentary
+category,1736,Bandai Wonderswan,bandai-wonderswan,trends,Bandai Wonderswan,Retro Gaming
+category,1674,Basketball,basketball,trends,Basketball,Gaming Culture & Commentary
+category,486,Battle of the Immortals,battle-of-the-immortals,mmos,Battle of the Immortals,Gaming Culture & Commentary
+category,487,Battlestar Galactica,battlestar-galactica,sci-fi,Battlestar Galactica,Gaming Culture & Commentary
+category,488,Besiege,besiege,other-games,Besiege,Gaming Culture & Commentary
+category,2156,Beyond Shadowgate,beyond-shadowgate,kickstarter,Beyond Shadowgate,Retro Gaming
+category,1937,Black Desert Online,black-desert-online,mmos,Black Desert Online,MMOs
+category,489,Black Prophecy,black-prophecy,mmos,Black Prophecy,Gaming Culture & Commentary
+category,1520,Car Wars,car-wars,tabletop-games,Car Wars,Tabletop RPGs (TTRPGs)
+category,490,Castle Story,castle-story,other-games,Castle Story,Gaming Culture & Commentary
+category,1699,Cats,cats,trends,Cats,Blogging & Meta
+category,491,Champions Online,champions,mmos,Champions Online,MMOs
+category,492,Chess the MMO,chess-the-mmo,mmos,Chess the MMORPG,RPGs (Video Games)
+category,493,Chronicles of Spellborn,chronicles-of-spellborn,mmos,Chronicles of Spellborn,Gaming Culture & Commentary
+category,494,Cities XL,cities-xl,mmos,Cities XL,Gaming Culture & Commentary
+category,495,City of Heroes,city-of-heroes,mmos,City of Heroes,Gaming Culture & Commentary
+category,496,Clone Wars Adventures,clone-wars-adventures,other-games,Clone Wars Adventures,Indie Games
+category,497,Code Hero,code-hero,other-games,Code Hero,Game Development & Design
+category,498,College-Ruled Universe,college-ruled-universe,kickstarter,College-Ruled Universe,Blogging & Meta
+category,499,Comics,comics,humor,Comic,Gaming Culture & Commentary
+category,1474,Console game,console-game,trends,Console Game,Gaming Hardware & Platforms
+category,500,Crayon Chronicles,crayon-chronicles,kickstarter,Crayon Chronicles,Gaming Culture & Commentary
+category,501,Crayon Physics Deluxe,crayon-physics-deluxe,other-games,Crayon Physics Deluxe,Gaming Culture & Commentary
+category,502,Crypt of the NecroDancer,crypt-of-the-necrodancer,other-games,Crypt of the Necrodancer,Gaming Culture & Commentary
+category,1907,Cyberpunk 2077,cyberpunk-2077,other-games,Cyberpunk 2077,RPGs (Video Games)
+category,503,D&amp;D 4E,dd-4e,other-games,D&d 4e,Tabletop RPGs (TTRPGs)
+category,504,Daily Blogroll,weblog,mmos,Daily Blogroll,Blogging & Meta
+category,505,Dark Ages of Camelot,dark-ages-of-camelot,mmos,Dark Ages of Camelot,MMOs
+category,506,Darkfall,darkfall-mmos,mmos,Darkfall,MMOs
+category,507,DC Universe Online,dc-universe-online,mmos,DC Universe Online,MMOs
+category,508,Diablo 3,diablo-3-other-games,other-games,Diablo 3,RPGs (Video Games)
+category,1739,Dinosaur games,dinosaur-games,trends,Dinosaur Games,Gaming Culture & Commentary
+category,509,Divinity II -- Dragon Knight Saga,divinity-ii-dragon-knight-saga,other-games,Divinity Ii -- Dragon Knight Saga,Board Games
+category,510,Doctor Who,doctor-who,sci-fi,Doctor Who,Gaming Culture & Commentary
+category,511,Doctor Who Adventures,doctor-who-adventures,other-games,Doctor Who Adventures,Gaming Culture & Commentary
+category,512,Dragon Age Legends,dragon-age-legends,facebook-games,Dragon Age Legends,Board Games
+category,513,Dragon Age Origins,dragon-age-origins,other-games,Dragon Age Origins,Board Games
+category,514,Dragon Nest,dragon-nest,mmos,Dragon Nest,Board Games
+category,2107,Dragon's Dogma,dragons-dogma,other-games,Dragon's Dogma,Board Games
+category,515,Dragonica Online,dragonica-online,mmos,Dragonica Online,Board Games
+category,516,Dream of Mirror Online,domo,mmos,Dream of Mirror Online,MMOs
+category,2391,Dune Awakening,dune-awakening,mmos,Dune Awakening,Gaming Culture & Commentary
+category,2208,Dungeon Crawl Classics,dungeon-crawl-classics,tabletop-games,Dungeon Crawl Classics,Tabletop RPGs (TTRPGs)
+category,1529,Dungeon Encounters,dungeon-encounters,other-games,Dungeon Encounters,Gaming Culture & Commentary
+category,517,Dungeon Siege,ds,other-games,Dungeon Siege,Gaming Culture & Commentary
+category,518,Dungeons &amp; Dragons Online,dungeons-dragons-online,mmos,Dungeons & Dragons Online,Tabletop RPGs (TTRPGs)
+category,519,Earth Eternal,earth-eternal,mmos,Earth Eternal,Gaming Culture & Commentary
+category,520,Earthrise,earthrise,mmos,Earthrise,Gaming Culture & Commentary
+category,1939,Elite Dangerous,elite-dangerous,mmos,Elite Dangerous,Gaming Culture & Commentary
+category,1569,EQ Online Adventures,eq-online-adventures,mmos,Eq Online Adventures,MMOs
+category,2323,Erenshor,erenshor,mmos,Erenshor,Gaming Culture & Commentary
+category,521,Eureka,eureka,sci-fi,Eureka,Game Development & Design
+category,522,Euro Truck Simulator 2,euro-truck-simulator-2,other-games,Euro Truck Simulator 2,Gaming Culture & Commentary
+category,523,EvE Online,eve-online,mmos,EVE Online,MMOs
+category,2267,EverCraft Online,evercraft-online,mmos,Evercraft Online,MMOs
+category,524,EverQuest,everquest,mmos,EverQuest,MMOs
+category,525,EverQuest 2,everquest-2,mmos,EverQuest II,MMOs
+category,526,EverQuest Next,everquest-next,mmos,Everquest Next,MMOs
+category,1744,Exploration games,exploration-games,trends,Exploration Games,Indie Games
+category,527,Fallen Earth,fallen-earth,mmos,Fallen Earth,Gaming Culture & Commentary
+category,1781,Fanfic,fanfic,general,Fanfic,Blogging & Meta
+category,528,Fantasy Earth Zero,fantasy-earth-zero,mmos,Fantasy Earth Zero,RPGs (Video Games)
+category,351,FF1,ff1,final-fantasy,Ff1,Gaming Culture & Commentary
+category,374,FF3,ff3,final-fantasy,Final Fantasy III,RPGs (Video Games)
+category,376,FFXIV,ffxiv,final-fantasy,Final Fantasy XIV,RPGs (Video Games)
+category,1780,Final Fantasy VI,final-fantasy-vi,trends,Final Fantasy Vi,RPGs (Video Games)
+category,1735,Final Fantasy VII,final-fantasy-vii,trends,Final Fantasy Vii,RPGs (Video Games)
+category,529,Final Fantasy XI,final-fantasy-xi,mmos,Final Fantasy Xi,RPGs (Video Games)
+category,1953,Final Fantasy XIII,final-fantasy-xiii,trends,Final Fantasy Xiii,RPGs (Video Games)
+category,530,Final Fantasy XIV,final-fantasy-xiv,mmos,Final Fantasy Xiv,RPGs (Video Games)
+category,1943,Final Fantasy XVI,final-fantasy-xvi,trends,Final Fantasy Xvi,RPGs (Video Games)
+category,1725,First person shooter,first-person-shooter,trends,First Person Shooter,Gaming Hardware & Platforms
+category,531,Fists of Fu,fists-of-fu,mmos,Fists of Fu,Gaming Culture & Commentary
+category,1526,Flamecraft,flamecraft,tabletop-games,Flamecraft,Board Games
+category,532,Florensia,florensia-mmos,mmos,Florensia,Gaming Culture & Commentary
+category,1770,Fortnite,fortnite,mmos,Fortnite,Gaming Industry & News
+category,533,Free Realms,free-realms,mmos,Free Realms,Gaming Culture & Commentary
+category,534,From Ello,from-ello,general,From Ello,Blogging & Meta
+category,535,FTL,ftl,other-games,Ftl,Gaming Culture & Commentary
+category,1796,Gaming convention,gaming-convention,trends,Gaming Convention,Gaming Culture & Commentary
+category,536,Gatheryn,gatheryn,mmos,Gatheryn,Gaming Culture & Commentary
+category,537,Gauntlet,gauntlet,other-games,Gauntlet,Retro Gaming
+category,1554,Gladius,gladius,other-games,Gladius,Retro Gaming
+category,538,Glitch,glitch,mmos,Glitch,Gaming Culture & Commentary
+category,1514,Gloomhaven,gloomhaven,other-games,Gloomhaven,Board Games
+category,539,Go,go,other-games,Go,Board Games
+category,540,Gods &amp; Heroes,gods-heroes,mmos,Gods & Heroes,Board Games
+category,541,GodsWar Online,godswar-online,mmos,Godswar Online,Board Games
+category,542,Godville,godville,other-games,Godville,Board Games
+category,1838,Gotham Knights,gotham-knights,open-world-rpg,Gotham Knights,Board Games
+category,2106,Granblue Fantasy,granblue-fantasy,other-games,Granblue Fantasy,RPGs (Video Games)
+category,543,Gratuitous Space Battles,gratuitous-space-battles,other-games,Gratuitous Space Battles,Strategy & 4X Games
+category,1513,Greedfall,greedfall,other-games,Greedfall,RPGs (Video Games)
+category,544,Grim Dawn,grim-dawn,other-games,Grim Dawn,RPGs (Video Games)
+category,545,Guild Wars,guild-wars,mmos,Guild Wars,MMOs
+category,2034,Guild Wars 2,guild-wars-2,mmos,Guild Wars 2,MMOs
+category,546,Hearthstone,hearthstone,other-games,Hearthstone,Board Games
+category,547,Hello Kitty Online,hello-kitty,mmos,Hello Kitty Online,MMOs
+category,2044,HeroQuest,heroquest,tabletop-games,Heroquest,Board Games
+category,548,Herotopia,herotopia,other-games,Herotopia,Gaming Culture & Commentary
+category,549,HOARD,hoard,other-games,Hoard,Gaming Culture & Commentary
+category,550,Ingress,ingress,other-games,Ingress,Gaming Industry & News
+category,1727,Isometric tactical strategy,isometric-tactical-strategy,trends,Isometric Tactical Strategy,Strategy & 4X Games
+category,551,It's a Wipe!,its-a-wipe,other-games,It's a Wipe!,Blogging & Meta
+category,1517,Kaiju Wars,kaiju-wars,other-games,Kaiju Wars,Strategy & 4X Games
+category,552,Kerbal Space Program,kerbal-space-program,other-games,Kerbal Space Program,Strategy & 4X Games
+category,2212,Kesmai,kesmai,mmos,Kesmai,Gaming History
+category,553,Kingdoms of Amalur: Reckoning,kingdoms-of-alura-reckoning,other-games,Kingdoms of Amalur: Reckoning,RPGs (Video Games)
+category,554,Kung Foo!,kung-foo,mmos,Kung Foo!,Retro Gaming
+category,555,LaTale,latale,mmos,Latale,Gaming Culture & Commentary
+category,556,Legends of Zork,legends-of-zork,other-games,Legends of Zork,Gaming Culture & Commentary
+category,557,LEGO Universe,lego-universe,mmos,Lego Universe,Board Games
+category,558,LittleBig Planet,littlebig-planet,other-games,Littlebig Planet,Gaming Hardware & Platforms
+category,559,LittleBigPlanet,littlebigplanet,other-games,Littlebigplanet,Gaming Hardware & Platforms
+category,1522,Lord of the Chords,lord-of-the-chords,tabletop-games,Lord of the Chords,Blogging & Meta
+category,560,Lord of the Rings,lord-of-the-rings-online,mmos,Lord of the Rings,Gaming Culture & Commentary
+category,1936,Lost Ark,lost-ark,mmos,Lost Ark,MMOs
+category,561,Love,love,mmos,Love,Blogging & Meta
+category,562,Lucent Heart,lucent-heart,mmos,Lucent Heart,Gaming Culture & Commentary
+category,563,Mabinogi,mabinogi,mmos,Mabinogi,MMOs
+category,1700,Magic,magic,trends,Magic,Board Games
+category,564,Magical Diary,magical-diary,other-games,Magical Diary,Board Games
+category,2247,Malifaux,malifaux,tabletop-games,Malifaux,Miniatures & Wargaming
+category,2158,Manor Lords,manor-lords,other-games,Manor Lords,Strategy & 4X Games
+category,1938,MapleStory,maplestory,mmos,Maplestory,MMOs
+category,1487,Massively multiplayer,massively-multiplayer,trends,Massively Multiplayer,MMOs
+category,565,Metaplace,metaplace,other-games,Metaplace,MMOs
+category,1712,Metroidvania games,metroidvania-games,trends,Metroidvania Games,Gaming Culture & Commentary
+category,566,Minecraft,minecraft,other-games,Minecraft,Gaming Hardware & Platforms
+category,1502,My Little Scythe,my-little-scythe,tabletop-games,My Little Scythe,Board Games
+category,1521,Mystery Dice,mystery-dice,tabletop-games,Mystery Dice,Tabletop RPGs (TTRPGs)
+category,1743,Mystery games,mystery-games,trends,Mystery Games,Gaming Culture & Commentary
+category,2190,Nemesis,nemesis,tabletop-games,Nemesis,Board Games
+category,567,Neopets,neopets,other-games,Neopets,MMOs
+category,568,Neverwinter Nights,nwn,other-games,Neverwinter Nights,Gaming Culture & Commentary
+category,569,Nostalgia the Guild,nostalgia-the-guild,everquest,Nostalgia the Guild,Gaming Culture & Commentary
+category,570,Oblivion,oblivion,other-games,Oblivion,RPGs (Video Games)
+category,1839,Photo Editing,photo-editing,trends,Photo Editing,"AI, Tools & Technology"
+category,1690,Post-apocalyptic games,post-apocalyptic-games,trends,Post-Apocalyptic Games,Gaming Culture & Commentary
+category,1740,Prehistoric games,prehistoric-games,trends,Prehistoric Games,Gaming Culture & Commentary
+category,1472,Programming language,programming-language,trends,Programming Language,"AI, Tools & Technology"
+category,1742,Psychological Thriller,psychological-thriller,trends,Psychological Thriller,Gaming Culture & Commentary
+category,1681,Puzzles,puzzles,trends,Puzzles,Board Games
+category,1528,Return to Dark Tower,return-to-dark-tower,tabletop-games,Return to Dark Tower,Board Games
+category,1678,RPG,rpg,trends,RPG,RPGs (Video Games)
+category,1840,Screenshots,screenshots,trends,Screenshots,Game Reviews & First Impressions
+category,1501,Scythe,scythe,tabletop-games,Scythe,Board Games
+category,1524,Set a Watch,set-a-watch,tabletop-games,Set a Watch,Board Games
+category,571,Shards of Dalaya,shards-of-dalaya,everquest,Shards of Dalaya,Gaming Culture & Commentary
+category,1713,Side-scrolling games,side-scrolling-games,trends,Side-Scrolling Games,Retro Gaming
+category,1675,Sports,sports,trends,Sports,Gaming Culture & Commentary
+category,1519,Star Scrappers Orbital,star-scrappers-orbital,tabletop-games,Star Scrappers Orbital,Gaming Culture & Commentary
+category,1829,Star Trek,star-trek,trends,Star Trek,Gaming Culture & Commentary
+category,572,Straight Talk Warhammer,straight-talk-warhammer,war,Straight Talk Warhammer,Miniatures & Wargaming
+category,1676,Strategy,strategy,trends,Strategy,Strategy & 4X Games
+category,1726,Supernatural Horror,supernatural-horror,trends,Supernatural Horror,Gaming Culture & Commentary
+category,1469,System Software,system-software,trends,System Software,"AI, Tools & Technology"
+category,1492,Tabletop game,tabletop-game,trends,Tabletop Game,Board Games
+category,1677,Tactics,tactics,trends,Tactics,Strategy & 4X Games
+category,1757,Text Adventure game,text-adventure-game,trends,Text Adventure Game,Retro Gaming
+category,1468,Topic,topic,trends,Topic,Blogging & Meta
+category,2125,Unicorn Overlord,unicorn-overlord,rpg,Unicorn Overlord,Strategy & 4X Games
+category,2028,Baldur's Gate 3,baldurs-gate-3,rpg,Baldur's Gate 3,RPGs (Video Games)
+category,2359,Frosthaven,frosthaven,gloomhaven,Frosthaven,Board Games

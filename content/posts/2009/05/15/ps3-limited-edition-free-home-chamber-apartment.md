@@ -1,0 +1,15 @@
+---
+date: '2009-05-15T13:00:57-05:00'
+draft: false
+title: "PS3: Limited edition free \"Home\" Chamber apartment"
+categories:
+  - "Other Games"
+tags:
+  - "Home"
+---
+
+SCEA wants all you PS3 owners who tried their "Home" virtual lobby once and then never tried it again that if you log in from May 14-21, you can get a new, limited edition, never to be offered again, Chamber apartment with trees, waterfalls, and skeeters.
+
+Well, maybe not the skeeters.
+
+[Read all about it](http://playstation.innovyx.net/v?xlllqWvEHWcWqvnJqlPW)!

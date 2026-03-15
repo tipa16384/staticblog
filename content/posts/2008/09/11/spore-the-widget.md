@@ -1,0 +1,22 @@
+---
+date: '2008-09-11T01:22:43-05:00'
+draft: false
+title: "Spore, the Widget"
+categories:
+  - "Other Games"
+  - "Spore"
+tags:
+  - "Known Space"
+  - "Pierson's Puppeteer"
+  - "Schlock Mercenary"
+---
+
+``
+
+I promise, after this, no more Spore posts.
+
+The most fun in the game is creating creatures and space ships. Tonight I made a [Pierson's Puppeteer](http://en.wikipedia.org/wiki/Pierson%27s_Puppeteer) from Larry Niven's "Known Space" stories -- it's been done by others, but I like mine best. I made Corporal Legs and the spaceship Serial Peacemaker from Howard Tayler's "[Schlock Mercenary](http://www.schlockmercenary.com/)" web comic, and a couple others.
+
+I was surprised nobody had done stuff from Schlock already.
+
+Also watched Donnie Darko and the double episode of Buffy at the end of Season 2 where Angel gets his soul back and Buffy sends him to Hell anyway. So I'm in a weird mood.

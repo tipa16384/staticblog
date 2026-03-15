@@ -1,0 +1,34 @@
+---
+date: '2009-07-22T20:37:47-05:00'
+draft: false
+title: "Wizard 101 Comic Contest"
+categories:
+  - "MMORPG"
+  - "Wizard101"
+tags:
+  - "Contest"
+featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/w101comic4isaiah.jpg"
+cover: "https://chasingdings.com/wp-content/uploads/2009/07/w101comic4isaiah.jpg"
+---
+
+![Old Drake doesn](https://chasingdings.com/wp-content/uploads/2009/07/w101comic4isaiah.jpg "Old Drake doesn")
+
+Isaiah Spelldust of Defenders of the Spiral [is having a comic contest](http://defendersofthespiral.blogspot.com/2009/07/comic-contest.html)! Well, I'm always up for a comic :) That's my entry above. Good luck! Here's Isaiah with the rules:
+
+> Just to let you know about my first ever Comic Contest!
+
+> -Anyone can enter!
+
+> -The comic has to be Wizard 101 related
+
+> -Entries can be submitted between July 22-August 13
+
+> -No run-offs of anyone elses comics!
+
+> -The winner's ( 2-3 ) will get to make a comic with me. Except YOU get to make up the theme!
+
+> - You must submit all comics to me via e-mail; [Isaiahspelldust@gmail.com](mailto:Isaiahspelldust@gmail.com)
+
+> -Have fun! And relax, there's no rush in this race!
+
+> Good Luck

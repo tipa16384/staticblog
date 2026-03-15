@@ -1,0 +1,40 @@
+---
+date: '2009-03-26T23:53:14-05:00'
+draft: false
+title: "XFire Wordpress Plugin -- first release"
+categories:
+  - "General"
+  - "My Work"
+tags:
+  - "Plugin"
+  - "Wordpress"
+  - "Xfire"
+---
+
+Announcing the [XFire Stats Wordpress Plugin](https://chasingdings.com/wp-content/uploads/2009/03/xfirestats.zip). This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your gaming stats for the past week -- the title and time spent, sorted by decreasing time.
+
+This is the very first release of this, my very first plugin, and feedback is definitely encouraged.
+
+To install:
+
+- Right click on [this link](https://chasingdings.com/wp-content/uploads/2009/03/xfirestats.zip) and choose "Save Link As..." and name it 'xfirestats.zip'.
+
+- Unzip this file to find 'xfirestats.php'
+
+- Upload 'xfirestats.php' to the plugins folder of your Wordpress installation -- http://*yourblog.com*/wp-content/plugins/ might be the spot, but there will definitely be other plugins there. Automatic installation is coming.
+
+Go to your Wordpress dashboard. Choose Plugins, and activate XFire Stats.
+
+- In your dashboard, choose Appearance and then Widgets.
+
+- Drag the XFire Stats widget where you want it to go.
+
+- Edit it, and entire your XFire Id and, optionally, a title for the widget (otherwise the title will be XFire Weekly Stats).
+
+- Save changes.
+
+- See that it appears correctly in your blog.
+
+Enjoy! Please send me an email at brendahol@gmail.com if you have any trouble, reactions, suggestions, untapped rage, etc.
+
+The most recent version of this plugin will always be at the "XFire Plugin" page linked in the header to this blog.

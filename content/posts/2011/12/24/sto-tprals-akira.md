@@ -1,0 +1,22 @@
+---
+date: '2011-12-24T09:18:15-05:00'
+draft: false
+title: "STO: T'pral's Akira"
+categories:
+  - "MMORPG"
+  - "Star Trek"
+featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-24-07-50-26-61-480x384.jpg"
+cover: "https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-24-07-50-26-61-480x384.jpg"
+---
+
+[![](https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-24-07-50-26-61-480x384.jpg "T")](https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-24-07-50-26-61.jpg)
+
+Is it a coincidence that brings me back to Star Trek Online just when Star Wars: The Old Republic arrives? I have no idea. I loved both Star Wars and Star Trek growing up. Star Trek was TV. Star Wars was movies. Star Trek was often thoughtful and slow-paced. Star Wars was action and adventure.
+
+Then the Star Trek movies came, started out with a slow, thoughtful movie. Which was then tossed away and it's been action ever since.
+
+T'pral, my Vulcan engineer, was promoted to Commander yesterday. She was given command of an Akira-class heavy escort ship. I have loved Akira-class ships since Star Fleet Armada 2, where they were your go-to ship for fast, hit-and-run assaults. The twin hulled design was unique at the time, though it's been often repeated since, most notably in the original Enterprise from Star Trek Enterprise. Which technically would be before the Akira, I guess.
+
+Anyway, the Doff-click enhanced leveling had T'pral tearing through her Lieutenant Commander levels. Somehow I've skipped through most of the Klingon Front episodes; it tossed me into the Devidian Feature Episodes for some reason. And I was able to get two episodes in to the Reman arc before it refused to let me progress (now insisting I get to Captain before I can continue).
+
+The Devidian arc means I'll be travelling into the past pretty soon. Better get my old-school uniform ready. Let's see... in the past, Engineering wore red uniforms, right?

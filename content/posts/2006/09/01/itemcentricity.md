@@ -1,0 +1,15 @@
+---
+date: '2006-09-01T09:02:40-05:00'
+draft: false
+title: "Itemcentricity"
+categories:
+  - "General"
+---
+
+There's a great discussion about how games built around the aquisition of items force certain playstyles on players on [Blackguard's blog](http://www.nerfbat.com).
+
+It's easier to make games based on items rather than player skill. And it lets people who may not be the best twitch gamers in the world compete with those who are. Is there a way to make a game where player skill was a factor without limiting the player base?
+
+Similarly, if you're going to play an itemcentric game, is there a better way to get the items needed to play without having to become a raider?
+
+I've got some thoughts about that and there are plenty other views. Well worth the read.

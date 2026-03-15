@@ -1,0 +1,19 @@
+---
+date: '2006-03-30T00:00:00-05:00'
+draft: false
+title: "The ABCs of EMail"
+categories:
+  - "General"
+---
+
+[Abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com](http://abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.com) wants to give you the longest email address in the world! Among the many advantages of having the address -
+
+1. Some webforms are unable to read your email address
+
+2. Some email software cannot be configured
+
+3. People have a hard time typing in your email address
+
+4. Companies think your email address is fake
+
+An idea for our busy, modern, spam-infested lives.

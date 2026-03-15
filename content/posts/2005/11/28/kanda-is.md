@@ -1,0 +1,28 @@
+---
+date: '2005-11-28T00:00:00-05:00'
+draft: false
+title: "Kanda is 50"
+categories:
+  - "MMORPG"
+  - "World of Warcraft"
+featured_image: "https://chasingdings.com/images/login.jpg"
+cover: "https://chasingdings.com/images/login.jpg"
+---
+
+![](https://chasingdings.com/images/login.jpg)
+
+Not bad progress for a character I had quit. Just over a month from 1 to 50.
+
+Distressed at possibly repeating a mistake I had made in EQ of joining a guild in a very different time zone that made it impossible to get to raids until hours after they began, I planned to restart on the new Aussie server. At 9PM Pacific time, they're just getting started. No rushing at all, ever, to raid or group at a good time.
+
+But Kayllistul urged me to return to Kirin Tor and try his guild, The Compendium, out. It was hard to leave friends in Ghost Watch, but I am having more fun now.
+
+![](https://chasingdings.com/images/felwood.jpg)
+
+What the heck is that? Seen in Felwood.
+
+![](https://chasingdings.com/images/azshara.jpg)
+
+Sure, this dragon is a 40 MAN raid, but it only takes a troll and a deader!
+
+Uh-huh.

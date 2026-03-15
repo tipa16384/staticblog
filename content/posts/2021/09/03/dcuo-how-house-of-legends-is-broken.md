@@ -1,0 +1,59 @@
+---
+date: '2021-09-03T07:53:50-05:00'
+draft: false
+title: "DCUO: How House of Legends is broken"
+categories:
+  - "Blaugust"
+  - "DC Universe Online"
+  - "MMORPG"
+  - "Steam Games"
+tags:
+  - "House of Legends"
+  - "Steam"
+featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
+cover: "https://chasingdings.com/wp-content/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
+---
+
+DC Universe Online's "House of Legends" expansion was meant to create a new game experience for both old heroes and new. It got halfway there.
+
+[![](https://chasingdings.com/wp-content/uploads/2021/09/MADV125_DESIGNERDATA-PC-25-11.19.010-1024x640.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/MADV125_DESIGNERDATA-PC-25-11.19.010.jpg)
+
+DCUO splits its players into two groups, and it's not heroes vs villains. Heroes and Villains can group together now and complete the content together, and have been able to for some time. Most of the threats in DCUO now affect both hero and villain alike, and it's probably not long before they can join together (if reluctantly) in the same super-league. It happens all the time in the comics and the cartoons.
+
+No, the two groups are new characters, and end game characters.
+
+To make it easier for new characters to hit the end game, House of Legends introduced an Omnibus random grouping mechanism. Characters who needed a specific duo, group or raid mission could sign up, and the remaining party or raid members would be assigned from all those queuing for an Omnibus mission.
+
+The group would form and be on their way. I used this mechanism to get a particularly hard-to-manage 50 point feat from some very old content.
+
+My baby villain, Wyoming Knot, uses these random missions to level up *very* quickly. Each day I play her, I usually improve her combat rating between ten and fifteen points. Once she hits 100, she'll be eligible to do all the new Save the Universe content. And of course, Source Marks, the necessary in-game currency, drops like rain from Omnibus missions.
+
+The issue is that it *only* drops from Omnibus missions.
+
+The new House of Legends content is repurposed and rescaled from old Fortress of Solitude content. It's one solo instance, one group instance and one raid instance that must be repeated several times in order to clear the weekly quest. After two weeks, I am about as sick of this content as possible. But I am required to do it in order to afford upgrades.
+
+And all this time, I am not earning source marks, so I need to run the extensive, parallel, Omnibus missions for those. Since source marks aren't account-wide, but only character-specific, I then have to do the same Omnibus work on the baby villain. Where I could do the weekly quests, in Flashpoint Gotham, on both characters in maybe an hour each, now it means working hours each day.
+
+It is a *grind*, and for almost no purpose. I'm one of DCUO's biggest boosters, but I'll just admit that there were days I just wanted to do something else -- anything else.
+
+[Daybreak has heard these complaints.](https://forums.daybreakgames.com/dcuo/index.php?threads/episode-41-week-1.317781/)
+
+They're backing off forcing people to play Omnibus missions, for one. From the website I linked:
+
+***Source Marks In End-Game***
+
+*Source Marks are the lifeblood of the leveling game and an important need at the end-game. We do not want end-game players to feel "forced" to play Omnibus for Source Marks - we want you to be able to play Omnibus, and all of our many years of content, for full rewards, IF you want to.*
+
+***Next:***
+
+- *We will return Source Marks to end-game content (the most recent three episodes)**at the traditional rate: Solo - 1; Duo - 1; Alert - 3; Raid - 10*- *without Combat Rating Relevancy (get Source Marks regardless of your CR in all three episodes, if eligible)*
+
+*The Systems team is now working to make this a reality. We believe the intensity of the frustration many of you expressed with the whole system may be alleviated with this change.*
+
+The other frustration is having your power level be scaled back in all non-endgame content. This is understandable; they don't want old content facerolled. But, sometimes we *like* facerolling content, especially when we're just there to get a particularly pernicious feat.
+
+DCUO's response is to tune the amount of overpowerness we take with us when we do older content -- what they call piercing through the scaling. It's being increased a little bit.
+
+A particular, personal reason: I got the free Starro combat pet when The Suicide Squad promotion was running. When House of Legends went live, I upgraded it to level 2, as I'd completed all the normal Deluge content years ago. But I can't upgrade it to level 3 because I cannot find groups to do all the elite Deluge content required. Since the scaling makes the raids difficult even for endgame players, there's few people who want to even try.
+
+Same with the Save the Universe content. You can set the difficulty level you're interested in, but if that difficulty level is not "Event" easy mode, you're not going to get a group quickly. Everyone is just doing the grind because they have to (for the Hourglass episode currency), but I doubt people are enjoying it.

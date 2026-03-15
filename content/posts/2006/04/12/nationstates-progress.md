@@ -1,0 +1,14 @@
+---
+date: '2006-04-12T00:00:00-05:00'
+draft: false
+title: "NationStates progress"
+categories:
+  - "MMORPG"
+  - "Nationstates"
+featured_image: "https://chasingdings.com/images/dryroot.png"
+cover: "https://chasingdings.com/images/dryroot.png"
+---
+
+There was a week that went by without me sending in my Nationstates moves, but I've been keeping up with it lately. My nation, Dryroot, recently passed 500 million people, which makes it a superpower. Well, here's how it stands. And ignore that bit about being the third most corrupt government in the region; there are only three countries in the region, so Dryroot is the *least* corrupt. We haven't swallowed up any fellow countries recently either... unlike SOME country I could name...
+
+![](https://chasingdings.com/images/dryroot.png)

@@ -1,0 +1,12 @@
+---
+date: '2007-11-15T13:08:38-05:00'
+draft: false
+title: "EQ2: Karnor's Castle: It's not only me."
+categories:
+  - "EverQuest"
+  - "MMORPG"
+---
+
+Kendricke over at Clockwork Gamer [has also noted](http://clockworkgamer.com/2007/11/15/kunark-field-report-i/) that the experience in Karnor's Castle is seriously out of whack, even going so far as to advise his guild *not* to bother going there.
+
+SOE, you have a real problem here. Don't let all that beautiful zone design go to waste!

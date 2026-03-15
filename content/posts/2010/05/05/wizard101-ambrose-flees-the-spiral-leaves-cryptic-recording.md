@@ -1,0 +1,14 @@
+---
+date: '2010-05-05T19:37:13-05:00'
+draft: false
+title: "Wizard101: Ambrose flees the spiral, leaves cryptic recording"
+categories:
+  - "MMORPG"
+  - "Wizard101"
+---
+
+Students and faculty alike were shocked this afternoon when Merle Ambrose, Headmaster of Wizard City's prestigious Ravenwood Academy, left the Spiral and led police on a merry chase through the streets of Austin.
+
+He left behind a cryptic recording. Close friends Gamma and Bartleby have refused to comment. Austin commuters report a second person in the car with the headmaster; descriptions match that of villain Malistaire Drake's long dead wife, Sylvia. If the reports are correct, Sylvia Drake's death may have been faked.
+
+Repeat: Headmaster Ambrose has left the Spiral....

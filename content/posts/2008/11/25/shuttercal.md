@@ -1,0 +1,15 @@
+---
+date: '2008-11-25T21:18:19-05:00'
+draft: false
+title: "ShutterCal?"
+categories:
+  - "General"
+tags:
+  - "Shuttercal"
+---
+
+Anski at [Always Go Right](http://alwaysgoright.com/) blog [wrote today about ShutterCal](http://alwaysgoright.com/2008/11/shuttercal-your-life-in-photos/), a new social site. In this one, you take a picture every day, and post it on an online calendar. Plenty of people doing this on Flickr, but similar to NaNoWriMo, this one subtly nags you to take and post a picture.
+
+I'm not totally sold on the idea, but [I thought I would give it a try](http://shuttercal.com/calendar/Tipa/). Just yesterday and today so far.
+
+Game related? Nah. Just real life. But sometimes, Real Life is good, too.

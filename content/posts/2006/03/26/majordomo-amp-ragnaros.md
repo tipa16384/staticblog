@@ -1,0 +1,20 @@
+---
+date: '2006-03-26T00:00:00-05:00'
+draft: false
+title: "Majordomo &amp; Ragnaros"
+categories:
+  - "MMORPG"
+  - "World of Warcraft"
+featured_image: "https://chasingdings.com/images/ragnaros.jpg"
+cover: "https://chasingdings.com/images/ragnaros.jpg"
+---
+
+![](https://chasingdings.com/images/ragnaros.jpg)
+
+We finally solved the Majordomo encounter in Molten Core. That's a fun encounter; the first WoW encounter with the kind of complexity of the newer EverQuest encounters. I really had to work hard healing, used every bit of mana, three mana pots, and two dark runes.
+
+That won us the right to go visit Ragnaros, the immense boss of Molten Core. Sure, he wiped us, but we got him down further than we expected, and plenty of screenshots.
+
+Here's a picture of us with beaten, whipped Majordomo just as he is about to summon Ragnaros from the lava.
+
+![](https://chasingdings.com/images/majordomo.jpg)

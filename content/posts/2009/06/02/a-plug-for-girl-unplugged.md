@@ -1,0 +1,19 @@
+---
+date: '2009-06-02T17:46:39-05:00'
+draft: false
+title: "A plug for Girl, Unplugged!"
+categories:
+  - "Daily Blogroll"
+  - "MMORPG"
+  - "Other Games"
+tags:
+  - "Team Fortress 2"
+---
+
+I linked to a wonderful post by Jennifer of Girl, Unplugged today wondering why it was okay to have dumpy-looking male heroes but the female ones had to be hypersexy and ... damn, in my hurry to get everything done on time this morning, I forgot to actually put the link in so ----
+
+[Meet the Newer (Sexier) Team!](http://girlunplugged.wordpress.com/2009/06/01/meet-the-newer-sexier-team/)
+
+Read it! It's great AND funny!
+
+Now I gotta run to Snowhill to see the Dares in concert!

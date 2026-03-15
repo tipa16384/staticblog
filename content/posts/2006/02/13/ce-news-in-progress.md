@@ -1,0 +1,36 @@
+---
+date: '2006-02-13T00:00:00-05:00'
+draft: false
+title: "CE News in progress"
+categories:
+  - "EverQuest"
+  - "MMORPG"
+featured_image: "https://chasingdings.com/images/gorillaz1.png"
+cover: "https://chasingdings.com/images/gorillaz1.png"
+---
+
+![](https://chasingdings.com/images/gorillaz1.png)
+
+The first screen of the new CE news page. Will add more as I finish them.
+
+![](https://chasingdings.com/images/tunatguild.jpg)
+
+Some might consider using pics of the guild as a kind of a cop-out for a news page. If you're not in the picture, why would you care?
+
+Well, I AM in the picture. So that's why.
+
+![](https://chasingdings.com/images/shyra.jpg)
+
+I dunno. Take a good look at this picture. Don't read any further, just look at Matriarch Shyra in all her dead glory.
+
+Done?
+
+Does she look like 'she' has some gender issues, maybe? There's something disturbingly erotic about that post... On the floor... back curved... and it looks like 'she' took 'her' Viagra...
+
+![](https://chasingdings.com/images/draygun.jpg)
+
+This is the ONLY picture I have of Draygun. What could be more BORING that a picture of someone tanking a mob in a corner... Nothing. This is the most boring picture there is. Picture of dead grass? More exciting. Much more.
+
+![](https://chasingdings.com/images/VuleDead2.jpg)
+
+I wasn't here for this raid :/

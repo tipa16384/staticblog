@@ -1,0 +1,14 @@
+---
+date: '2006-01-11T00:00:00-05:00'
+draft: false
+title: "Dryroot Update"
+categories:
+  - "MMORPG"
+  - "Nationstates"
+---
+
+This morning, I was kinda alarmed when I pulled up the [dossier for Dryroot](http://www.nationstates.net/dryroot) and found it had gone from being a nation with lush forests, to a barren, inhospitable wasteland. HUH? What did I do?
+
+Luckily, in today's afternoon update, some regrowth had kicked in, and though still bereft of forests, Dryroot is no longer such a wasteland. However, the government is - it's HUGE.
+
+At least I am keeping the taxes low.

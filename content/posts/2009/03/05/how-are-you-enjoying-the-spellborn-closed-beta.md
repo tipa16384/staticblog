@@ -1,0 +1,17 @@
+---
+date: '2009-03-05T08:09:28-05:00'
+draft: false
+title: "How are you enjoying the Spellborn closed beta?"
+categories:
+  - "Chronicles of Spellborn"
+  - "MMORPG"
+tags:
+  - "Beta"
+  - "Closed Beta"
+---
+
+It's just one day shy of a week since the folks at Acclaim proudly stated Spellborn would be entering closed beta this very week. Has anyone gotten in yet? And if so, without breaking the NDA, is the stability good? How do you like the new tutorial on the shardship? How fun will it be once you find out you can't skip it with subsequent characters? :)
+
+Well, maybe they'll add some way around that. (This is based on the EU version of the game)
+
+We've been waiting for this game since its launch was first announced for a year ago. Here's hoping for a smooth beta stage and maybe we can play -- in April? Please?

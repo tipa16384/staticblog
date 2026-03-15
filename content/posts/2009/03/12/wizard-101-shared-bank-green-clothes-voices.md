@@ -1,0 +1,12 @@
+---
+date: '2009-03-12T11:12:24-05:00'
+draft: false
+title: "Wizard 101 shared bank! Green clothes! Voices!"
+categories:
+  - "MMORPG"
+  - "Wizard101"
+---
+
+Wizard 101 added shared bank slots, voice overs to all quests in Wizard City and Krokotopia, and the St Patrick's Day RMT gear in today's patch. Gamer's Daily News has [a full description](http://www.gamersdailynews.com/story-9426-Wizard101-Finds-Its-Voice.html) of the new changes, and I'll be posting all the details after I get into the game tonight.
+
+Thanks to [Game Mom](http://twitter.com/gamemom) for the heads-up!

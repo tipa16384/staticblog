@@ -1,0 +1,11 @@
+---
+date: '2010-08-07T01:28:04-05:00'
+draft: false
+title: "Yes, I'm still alive!"
+categories:
+  - "General"
+---
+
+My Dragon Age: origins replay has been sucking away all my free time. But, that's done with, for now, so I just have to write about it.
+
+Also, I changed the blog theme. Not 100% sure I like it, but I knew it was time to do something. You'll notice (perhaps) that the XFire plug in has been replaced by a Raptr widget; I've moved to Raptr for reasons I'll probably write about at some point.
