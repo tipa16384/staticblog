@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lua on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/lua/</link>
+    <description>Recent content in Lua on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Dec 2022 17:52:42 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code Day 11 -- Monkey in the Middle</title>
+      <link>http://localhost:1313/posts/2022/12/11/advent-of-code-day-11-monkey-in-the-middle/</link>
+      <pubDate>Sun, 11 Dec 2022 17:52:42 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/11/advent-of-code-day-11-monkey-in-the-middle/</guid>
+      <description>I thought this was just a puzzle to see if I knew about modulo arithmetic... but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 10 -- Cathode-Ray Tube</title>
+      <link>http://localhost:1313/posts/2022/12/10/advent-of-code-day-10-cathode-ray-tube/</link>
+      <pubDate>Sat, 10 Dec 2022 19:54:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/10/advent-of-code-day-10-cathode-ray-tube/</guid>
+      <description>Turns out the elves just really loved the Atari 2600 so much, they built their little handheld computers around them. And now it&amp;#39;s up to us to fix one.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 5 -- Supply Stacks</title>
+      <link>http://localhost:1313/posts/2022/12/05/advent-of-code-day-5-supply-stacks/</link>
+      <pubDate>Mon, 05 Dec 2022 22:57:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/05/advent-of-code-day-5-supply-stacks/</guid>
+      <description>The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 4 -- Camp Cleanup</title>
+      <link>http://localhost:1313/posts/2022/12/04/advent-of-code-day-4-camp-cleanup/</link>
+      <pubDate>Sun, 04 Dec 2022 19:39:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/04/advent-of-code-day-4-camp-cleanup/</guid>
+      <description>As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 3 -- Rucksack Reorganization</title>
+      <link>http://localhost:1313/posts/2022/12/03/advent-of-code-day-3-rucksack-reorganization/</link>
+      <pubDate>Sat, 03 Dec 2022 20:59:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/03/advent-of-code-day-3-rucksack-reorganization/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Advent of Code 2022: Day 1 -- Calorie Counting</title>
+      <link>http://localhost:1313/posts/2022/12/01/advent-of-code-2022-day-1-calorie-counting/</link>
+      <pubDate>Thu, 01 Dec 2022 23:39:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/01/advent-of-code-2022-day-1-calorie-counting/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

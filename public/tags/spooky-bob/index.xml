@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spooky Bob on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/spooky-bob/</link>
+    <description>Recent content in Spooky Bob on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Nov 2008 11:22:27 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spooky-bob/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wizard 101: October 30 update and the Cave of Sorrows</title>
+      <link>http://localhost:1313/posts/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/</link>
+      <pubDate>Sat, 01 Nov 2008 11:22:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

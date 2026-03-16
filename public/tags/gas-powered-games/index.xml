@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gas Powered Games on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/gas-powered-games/</link>
+    <description>Recent content in Gas Powered Games on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Sep 2008 10:00:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gas-powered-games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demigod beta opened to pre-orders</title>
+      <link>http://localhost:1313/posts/2008/09/18/demigod-beta-opened-to-pre-orders/</link>
+      <pubDate>Thu, 18 Sep 2008 10:00:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/18/demigod-beta-opened-to-pre-orders/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

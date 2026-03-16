@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UPS on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/ups/</link>
+    <description>Recent content in UPS on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Oct 2025 07:07:44 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Kolam for a Delivery Man</title>
+      <link>http://localhost:1313/posts/2025/10/24/a-kolam-for-a-delivery-man/</link>
+      <pubDate>Fri, 24 Oct 2025 07:07:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/10/24/a-kolam-for-a-delivery-man/</guid>
+      <description>Waiting for a package that never arrives? Maybe all you need is a little practical magic...</description>
+    </item>
+  </channel>
+</rss>

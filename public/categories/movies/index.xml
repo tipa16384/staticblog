@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movies on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/movies/</link>
+    <description>Recent content in Movies on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Apr 2023 12:24:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/movies/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact is a bad movie. And I am angry.</title>
+      <link>http://localhost:1313/posts/2023/04/29/contact-is-a-bad-movie-and-i-am-angry/</link>
+      <pubDate>Sat, 29 Apr 2023 12:24:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/04/29/contact-is-a-bad-movie-and-i-am-angry/</guid>
+      <description>&lt;p&gt;I have a soft spot for this movie. I think Jodie Foster is amazing in it. But almost everything in it is stupid.&lt;/p&gt;&#xA;&lt;p&gt;Carl Sagan was best known, when I was a kid, of being a guy who was on TV all the time making astronomy cool. It was his idea to make a golden disk for the Pioneer space probes so that in a million years, if someone or something comes across it, there will be a (literal) record of who we were and where we came from.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

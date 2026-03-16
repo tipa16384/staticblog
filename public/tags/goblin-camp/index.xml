@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Goblin Camp on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/goblin-camp/</link>
+    <description>Recent content in Goblin Camp on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Sep 2023 08:24:01 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/goblin-camp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baldur&#39;s Gate 3: Finishing off  the Goblin Camp</title>
+      <link>http://localhost:1313/posts/2023/09/26/baldurs-gate-3-finishing-off-the-goblin-camp/</link>
+      <pubDate>Tue, 26 Sep 2023 08:24:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/09/26/baldurs-gate-3-finishing-off-the-goblin-camp/</guid>
+      <description>Jump magic, jump.</description>
+    </item>
+  </channel>
+</rss>

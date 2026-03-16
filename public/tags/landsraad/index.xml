@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Landsraad on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/landsraad/</link>
+    <description>Recent content in Landsraad on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Sep 2025 08:31:56 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/landsraad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dune Awakening: Life in the Deep Desert</title>
+      <link>http://localhost:1313/posts/2025/09/17/dune-awakening-life-in-the-deep-desert/</link>
+      <pubDate>Wed, 17 Sep 2025 08:31:56 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/09/17/dune-awakening-life-in-the-deep-desert/</guid>
+      <description>It&amp;#39;s not just worms and spice and dust and sandstorms and heat and... well, actually, that&amp;#39;s pretty much what it is.</description>
+    </item>
+  </channel>
+</rss>

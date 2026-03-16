@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TinyGame2010 on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/tinygame2010/</link>
+    <description>Recent content in TinyGame2010 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 May 2010 18:50:35 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tinygame2010/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What? A new game programming challenge?</title>
+      <link>http://localhost:1313/posts/2010/05/12/what-a-new-game-programming-challenge/</link>
+      <pubDate>Wed, 12 May 2010 18:50:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/05/12/what-a-new-game-programming-challenge/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2010/05/cube.jpg&#34; title=&#34;Feeling a little pixelated?&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Via Slashie of &lt;a href=&#34;http://www.roguetemple.com/&#34; target=&#34;_blank&#34;&gt;Temple of the Roguelike&lt;/a&gt;&#xA;, news of a NEW game programming challenge: &lt;a href=&#34;http://www.javagaming.org/index.php/topic,22255.0.html&#34; target=&#34;_blank&#34;&gt;Tiny Game 2010&lt;/a&gt;&#xA;.&lt;/p&gt;&#xA;&lt;p&gt;A full game in 40x30 PIXELS, using the 16 color EGA palette. I remember EGA; I wrote an EGA video driver way back when I worked for Digital Research, Inc. The original one.&lt;/p&gt;&#xA;&lt;p&gt;Rules are: 40x30 (or 30x40) pixels, written as a Java applet with no external libraries required.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;d wanted to write my 7DRL game as a Java applet, but I had concerns about that, as my tests showed troubles running applets on a wide variety of browsers. Nonetheless, I program in Java for a &lt;em&gt;living&lt;/em&gt;, so the real question is, can I (without the one week time pressure of 7DRL) actually make a &lt;em&gt;fun&lt;/em&gt; game?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Uncategorized on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/uncategorized/</link>
+    <description>Recent content in Uncategorized on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 May 2020 11:39:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/uncategorized/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project64 and Beetle Adventure Racing</title>
+      <link>http://localhost:1313/posts/2020/05/08/project64-and-beetle-adventure-racing/</link>
+      <pubDate>Fri, 08 May 2020 11:39:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/05/08/project64-and-beetle-adventure-racing/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>MMO updates: Crowfall, EverQuest, Chocobo&#39;s Mystery Dungeon, DCUO</title>
+      <link>http://localhost:1313/posts/2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</link>
+      <pubDate>Thu, 07 May 2020 11:20:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Playing around with the template</title>
+      <link>http://localhost:1313/posts/2020/04/23/playing-around-with-the-template/</link>
+      <pubDate>Thu, 23 Apr 2020 00:08:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/04/23/playing-around-with-the-template/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>So, you&#39;re back.</title>
+      <link>http://localhost:1313/posts/2020/04/21/so-youre-back/</link>
+      <pubDate>Tue, 21 Apr 2020 03:42:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/04/21/so-youre-back/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Hello world!</title>
+      <link>http://localhost:1313/posts/2013/04/26/hello-world/</link>
+      <pubDate>Fri, 26 Apr 2013 02:14:47 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2013/04/26/hello-world/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

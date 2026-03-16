@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Maxine on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/maxine/</link>
+    <description>Recent content in Maxine on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 30 Sep 2025 08:27:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/maxine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malifaux 4e: Rasputina vs Maxine</title>
+      <link>http://localhost:1313/posts/2025/09/30/malifaux-4e-rasputina-vs-maxine/</link>
+      <pubDate>Tue, 30 Sep 2025 08:27:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/09/30/malifaux-4e-rasputina-vs-maxine/</guid>
+      <description>&amp;#34;What do you mean, I can destroy your ice pillars?&amp;#34; The Arcanists face off against the Explorer Society in a match nobody saw coming.</description>
+    </item>
+  </channel>
+</rss>

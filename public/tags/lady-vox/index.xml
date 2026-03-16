@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lady Vox on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/lady-vox/</link>
+    <description>Recent content in Lady Vox on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Aug 2008 11:48:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lady-vox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ: The Last Dragons</title>
+      <link>http://localhost:1313/posts/2008/08/02/eq-the-last-dragons/</link>
+      <pubDate>Sat, 02 Aug 2008 11:48:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/08/02/eq-the-last-dragons/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ: A Night of Terror.</title>
+      <link>http://localhost:1313/posts/2008/07/19/eq-a-night-of-terror/</link>
+      <pubDate>Sat, 19 Jul 2008 08:05:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/07/19/eq-a-night-of-terror/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ: Ding dong, the Vox is dead.</title>
+      <link>http://localhost:1313/posts/2008/07/12/eq-ding-dong-the-vox-is-dead/</link>
+      <pubDate>Sat, 12 Jul 2008 00:20:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/07/12/eq-ding-dong-the-vox-is-dead/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

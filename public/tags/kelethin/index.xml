@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kelethin on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/kelethin/</link>
+    <description>Recent content in Kelethin on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 May 2020 11:32:28 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kelethin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Champions of Norrath playthrough: Act 1, Kelethin</title>
+      <link>http://localhost:1313/posts/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/</link>
+      <pubDate>Fri, 01 May 2020 11:32:28 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

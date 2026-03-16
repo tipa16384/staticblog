@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Veilguard on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/the-veilguard/</link>
+    <description>Recent content in The Veilguard on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/the-veilguard/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best of 2024: Single-Player RPGs</title>
+      <link>http://localhost:1313/posts/2024/12/30/best-of-2024-single-player-rpgs/</link>
+      <pubDate>Mon, 30 Dec 2024 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/30/best-of-2024-single-player-rpgs/</guid>
+      <description>2024 was a great year for RPGs. I didn&amp;#39;t play all the ones I wanted, but the ones I did play were pretty incredible.</description>
+    </item>
+    <item>
+      <title>Dragon Age: the Veilguard finished</title>
+      <link>http://localhost:1313/posts/2024/11/21/dragon-age-the-veilguard-finished/</link>
+      <pubDate>Thu, 21 Nov 2024 16:56:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/11/21/dragon-age-the-veilguard-finished/</guid>
+      <description>82 hours from start to end, all quests completed, all companions at max bond, all factions but one maxed out, 47/52 achievements. Was it worth it?</description>
+    </item>
+    <item>
+      <title>Dragon Age: Saboteur</title>
+      <link>http://localhost:1313/posts/2024/11/14/dragon-age-saboteur/</link>
+      <pubDate>Thu, 14 Nov 2024 07:56:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/11/14/dragon-age-saboteur/</guid>
+      <description>Can I win Dragon Age: Veilguard with a bow that has just one arrow and takes ten seconds to reload?</description>
+    </item>
+    <item>
+      <title>Dragon Age: The Veilguard is not the game you think it is</title>
+      <link>http://localhost:1313/posts/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/</link>
+      <pubDate>Sat, 09 Nov 2024 09:48:52 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/</guid>
+      <description>But maybe the Dragon Age series has always been like this...</description>
+    </item>
+  </channel>
+</rss>

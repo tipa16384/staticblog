@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AoC2023 on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/aoc2023/</link>
+    <description>Recent content in AoC2023 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Dec 2023 17:28:03 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/aoc2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code Day 22 -- Sand Slabs</title>
+      <link>http://localhost:1313/posts/2023/12/22/advent-of-code-day-22-sand-slabs/</link>
+      <pubDate>Fri, 22 Dec 2023 17:28:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/22/advent-of-code-day-22-sand-slabs/</guid>
+      <description>I almost gave up on this one. Then I started playing around with it in a 3D render package and I found the issue.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 21 -- Step Counter</title>
+      <link>http://localhost:1313/posts/2023/12/21/advent-of-code-day-21-step-counter/</link>
+      <pubDate>Thu, 21 Dec 2023 21:26:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/21/advent-of-code-day-21-step-counter/</guid>
+      <description>I had 80% of the solution, but that last 20% killed it. This is the day I failed Advent of Code 2023.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 20 -- Pulse Propagation</title>
+      <link>http://localhost:1313/posts/2023/12/20/advent-of-code-day-20-pulse-propogation/</link>
+      <pubDate>Wed, 20 Dec 2023 17:23:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/20/advent-of-code-day-20-pulse-propogation/</guid>
+      <description>First, you find the right answer using pencil and paper. Then, you write code to produce that answer. Right? No? Just me?</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 19 -- Aplenty</title>
+      <link>http://localhost:1313/posts/2023/12/19/advent-of-code-day-19-aplenty/</link>
+      <pubDate>Tue, 19 Dec 2023 21:09:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/19/advent-of-code-day-19-aplenty/</guid>
+      <description>First puzzle in a few days where I didn&amp;#39;t need to get hints. I guess the problem was musical, aerodynamic, shiny AND extremely cool looking!</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 18 -- Lavaduct Lagoon</title>
+      <link>http://localhost:1313/posts/2023/12/19/advent-of-code-day-18-lavaduct-lagoon/</link>
+      <pubDate>Tue, 19 Dec 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/19/advent-of-code-day-18-lavaduct-lagoon/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 17 -- Clumsy Crucible</title>
+      <link>http://localhost:1313/posts/2023/12/17/advent-of-code-day-17-clumsy-crucible/</link>
+      <pubDate>Sun, 17 Dec 2023 16:50:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/17/advent-of-code-day-17-clumsy-crucible/</guid>
+      <description>Edsger Dijkstra is laughing at me from his grave.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 16 -- The Floor Will Be Lava</title>
+      <link>http://localhost:1313/posts/2023/12/16/advent-of-code-day-16-the-floor-will-be-lava/</link>
+      <pubDate>Sat, 16 Dec 2023 10:54:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/16/advent-of-code-day-16-the-floor-will-be-lava/</guid>
+      <description>/u/YellowZorro hasn&amp;#39;t posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 15 -- Lens Library</title>
+      <link>http://localhost:1313/posts/2023/12/15/advent-of-code-day-15-lens-library/</link>
+      <pubDate>Fri, 15 Dec 2023 21:02:37 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/15/advent-of-code-day-15-lens-library/</guid>
+      <description>The lack of hands is all that is keeping the world&amp;#39;s reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 14 -- Parabolic Reflector Dish</title>
+      <link>http://localhost:1313/posts/2023/12/15/advent-of-code-day-14-parabolic-reflector-dish/</link>
+      <pubDate>Fri, 15 Dec 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/15/advent-of-code-day-14-parabolic-reflector-dish/</guid>
+      <description>We&amp;#39;re almost to the mountaintop where everything begins... but first we need to start a little fire.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 13 -- Point of Incidence</title>
+      <link>http://localhost:1313/posts/2023/12/14/advent-of-code-day-13-point-of-incidence/</link>
+      <pubDate>Thu, 14 Dec 2023 07:08:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/14/advent-of-code-day-13-point-of-incidence/</guid>
+      <description>I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 12 -- Hot Springs</title>
+      <link>http://localhost:1313/posts/2023/12/12/advent-of-code-day-12-hot-springs/</link>
+      <pubDate>Tue, 12 Dec 2023 21:44:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/12/advent-of-code-day-12-hot-springs/</guid>
+      <description>I narrowly avoided yesterday&amp;#39;s trap only to walk right into today&amp;#39;s.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 11 -- Cosmic Expansion</title>
+      <link>http://localhost:1313/posts/2023/12/11/advent-of-code-day-11-cosmic-expansion/</link>
+      <pubDate>Mon, 11 Dec 2023 07:49:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/11/advent-of-code-day-11-cosmic-expansion/</guid>
+      <description>This is why Santa shouldn&amp;#39;t let elves do astrophysics.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 10 -- Pipe Maze</title>
+      <link>http://localhost:1313/posts/2023/12/10/advent-of-code-day-10-pipe-maze/</link>
+      <pubDate>Sun, 10 Dec 2023 14:16:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/10/advent-of-code-day-10-pipe-maze/</guid>
+      <description>Anyone else notice that this is the second puzzle in a row without any elves?</description>
+    </item>
+    <item>
+      <title>Advent of Code Days 8 and 9 -- Ghost Story</title>
+      <link>http://localhost:1313/posts/2023/12/09/advent-of-code-days-8-and-9-ghost-story/</link>
+      <pubDate>Sat, 09 Dec 2023 10:39:23 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/09/advent-of-code-days-8-and-9-ghost-story/</guid>
+      <description>It took me so long to figure out the Day 8 puzzle that I didn&amp;#39;t write it up before bed, so twofer today to catch up.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 7 -- Camel Cards</title>
+      <link>http://localhost:1313/posts/2023/12/07/advent-of-code-day-7-camel-cards/</link>
+      <pubDate>Thu, 07 Dec 2023 22:10:13 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/07/advent-of-code-day-7-camel-cards/</guid>
+      <description>I really tried with Haskell this time. Oh well, looks like we&amp;#39;ll have to play Camel Poker in Python instead.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 6 -- Wait For It</title>
+      <link>http://localhost:1313/posts/2023/12/06/advent-of-code-day-6-wait-for-it/</link>
+      <pubDate>Wed, 06 Dec 2023 21:21:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/06/advent-of-code-day-6-wait-for-it/</guid>
+      <description>This one was easy. TOO easy. Day 7 is going to be bad.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 5 -- If You Give A Seed A Fertilizer</title>
+      <link>http://localhost:1313/posts/2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer/</link>
+      <pubDate>Tue, 05 Dec 2023 22:37:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer/</guid>
+      <description>This can take no time at all or an eternity.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 4 -- Scratchcards</title>
+      <link>http://localhost:1313/posts/2023/12/04/advent-of-code-day-4-scratchcards/</link>
+      <pubDate>Mon, 04 Dec 2023 21:07:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/04/advent-of-code-day-4-scratchcards/</guid>
+      <description>So, I&amp;#39;m back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.</description>
+    </item>
+  </channel>
+</rss>

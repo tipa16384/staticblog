@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Living Earth on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/the-living-earth/</link>
+    <description>Recent content in The Living Earth on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Nov 2008 00:05:03 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/the-living-earth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ: Vegarlson, the Earthen Badlands (the Plane of Earth)</title>
+      <link>http://localhost:1313/posts/2008/11/23/eq-vegarlson-the-earthen-badlands-the-plane-of-earth/</link>
+      <pubDate>Sun, 23 Nov 2008 00:05:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/11/23/eq-vegarlson-the-earthen-badlands-the-plane-of-earth/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

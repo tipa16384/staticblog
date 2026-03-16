@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Return of the Light on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/return-of-the-light/</link>
+    <description>Recent content in Return of the Light on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Feb 2009 07:58:18 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/return-of-the-light/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ2 Mish-mash!</title>
+      <link>http://localhost:1313/posts/2009/02/18/eq2-mish-mash/</link>
+      <pubDate>Wed, 18 Feb 2009 07:58:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/02/18/eq2-mish-mash/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

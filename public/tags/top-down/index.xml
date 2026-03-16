@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Top Down on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/top-down/</link>
+    <description>Recent content in Top Down on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jun 2014 07:11:22 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/top-down/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steam Game of the Week: Little Racers STREET</title>
+      <link>http://localhost:1313/posts/2014/06/15/steam-game-of-the-week-little-racers-street/</link>
+      <pubDate>Sun, 15 Jun 2014 07:11:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/06/15/steam-game-of-the-week-little-racers-street/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

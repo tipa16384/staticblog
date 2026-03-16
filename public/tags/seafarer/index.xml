@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Seafarer on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/seafarer/</link>
+    <description>Recent content in Seafarer on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Dec 2025 13:14:25 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/seafarer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steam Winter Sale: Seafarer, the Ship Sim</title>
+      <link>http://localhost:1313/posts/2025/12/27/steam-winter-sale-seafarer-the-ship-sim/</link>
+      <pubDate>Sat, 27 Dec 2025 13:14:25 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/12/27/steam-winter-sale-seafarer-the-ship-sim/</guid>
+      <description>Dive into the world of commercial shipping as you patrol the seas and learn to love ISO 668 cargo containers.</description>
+    </item>
+  </channel>
+</rss>

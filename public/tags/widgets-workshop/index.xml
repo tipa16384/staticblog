@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Widget&#39;s Workshop on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/widgets-workshop/</link>
+    <description>Recent content in Widget&#39;s Workshop on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 23 Dec 2025 09:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/widgets-workshop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Widget&#39;s Workshop: Build Robots Better.</title>
+      <link>http://localhost:1313/posts/2025/12/23/widgets-workshop-build-robots-better/</link>
+      <pubDate>Tue, 23 Dec 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/12/23/widgets-workshop-build-robots-better/</guid>
+      <description>If you&amp;#39;ve been fomenting a drop-style card crafting revolution, this might be the game for you.</description>
+    </item>
+  </channel>
+</rss>

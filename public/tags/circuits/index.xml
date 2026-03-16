@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Circuits on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/circuits/</link>
+    <description>Recent content in Circuits on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Dec 2023 17:23:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/circuits/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code Day 20 -- Pulse Propagation</title>
+      <link>http://localhost:1313/posts/2023/12/20/advent-of-code-day-20-pulse-propogation/</link>
+      <pubDate>Wed, 20 Dec 2023 17:23:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/20/advent-of-code-day-20-pulse-propogation/</guid>
+      <description>First, you find the right answer using pencil and paper. Then, you write code to produce that answer. Right? No? Just me?</description>
+    </item>
+  </channel>
+</rss>

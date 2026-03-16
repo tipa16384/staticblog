@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fortune League on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/fortune-league/</link>
+    <description>Recent content in Fortune League on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 10 Mar 2011 19:38:24 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fortune-league/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ2 Fortune League: #WINNER</title>
+      <link>http://localhost:1313/posts/2011/03/10/eq2-fortune-league-winner/</link>
+      <pubDate>Thu, 10 Mar 2011 19:38:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/03/10/eq2-fortune-league-winner/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ2: How to win at Fortune League</title>
+      <link>http://localhost:1313/posts/2011/02/13/eq2-how-to-win-at-fortune-league/</link>
+      <pubDate>Sun, 13 Feb 2011 13:03:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/02/13/eq2-how-to-win-at-fortune-league/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Fortune League, or, Wall Street Raiders</title>
+      <link>http://localhost:1313/posts/2011/01/10/fortune-league-or-wall-street-raiders/</link>
+      <pubDate>Mon, 10 Jan 2011 23:50:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/01/10/fortune-league-or-wall-street-raiders/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

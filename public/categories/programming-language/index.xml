@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Language on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/programming-language/</link>
+    <description>Recent content in Programming Language on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2024 19:56:05 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/programming-language/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code 2024: The First Week</title>
+      <link>http://localhost:1313/posts/2024/12/07/advent-of-code-2024-the-first-week/</link>
+      <pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/07/advent-of-code-2024-the-first-week/</guid>
+      <description>AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;rsquo;s life going to be like when AI can do my job, better than me?</description>
+    </item>
+    <item>
+      <title>It&#39;s not writer&#39;s block, it&#39;s distraction</title>
+      <link>http://localhost:1313/posts/2024/06/25/its-not-writers-block-its-distraction/</link>
+      <pubDate>Tue, 25 Jun 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/06/25/its-not-writers-block-its-distraction/</guid>
+      <description>I wanted to write about Origins 2024, but then I just got to wondering if I could write an aquarium simulator for an ASCII terminal, and eventually this happened.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 9 -- Rope Bridge</title>
+      <link>http://localhost:1313/posts/2022/12/09/advent-of-code-day-9-rope-bridge/</link>
+      <pubDate>Fri, 09 Dec 2022 21:35:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/09/advent-of-code-day-9-rope-bridge/</guid>
+      <description>The elves are crossing a bridge, but it is a really short bridge &amp;ndash; in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 4 -- Camp Cleanup</title>
+      <link>http://localhost:1313/posts/2022/12/04/advent-of-code-day-4-camp-cleanup/</link>
+      <pubDate>Sun, 04 Dec 2022 19:39:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/04/advent-of-code-day-4-camp-cleanup/</guid>
+      <description>As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.</description>
+    </item>
+    <item>
+      <title>Chasing Dings! goes to West Karana</title>
+      <link>http://localhost:1313/posts/2021/09/08/chasing-dings-goes-to-west-karana/</link>
+      <pubDate>Wed, 08 Sep 2021 08:01:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/09/08/chasing-dings-goes-to-west-karana/</guid>
+      <description>&lt;p&gt;I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to life as a GitHub repository. A friend on Twitter challenged me to do even better. Yesterday, I found a more recent backup &amp;ndash; posts up to 2016, that I wrote for Google+, and used that as a source to finally get everything merged to &lt;em&gt;this&lt;/em&gt; blog. It&amp;rsquo;s an exciting DevOps adventure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

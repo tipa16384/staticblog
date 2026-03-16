@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Not Funny on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/not-funny/</link>
+    <description>Recent content in Not Funny on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Jan 2011 23:03:37 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/not-funny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1 Hour Review of: Your Life</title>
+      <link>http://localhost:1313/posts/2011/01/04/1-hour-review-of-your-life/</link>
+      <pubDate>Tue, 04 Jan 2011 23:03:37 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/01/04/1-hour-review-of-your-life/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>A Parent&#39;s Guide to MMO Gaming</title>
+      <link>http://localhost:1313/posts/2010/09/03/a-parents-guide-to-mmo-gaming/</link>
+      <pubDate>Fri, 03 Sep 2010 20:59:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/09/03/a-parents-guide-to-mmo-gaming/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Five Better Concepts for EverQuest Next?</title>
+      <link>http://localhost:1313/posts/2010/08/18/five-better-concepts-for-everquest-next/</link>
+      <pubDate>Wed, 18 Aug 2010 07:37:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/08/18/five-better-concepts-for-everquest-next/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Straight Talk Warhammer: The Warrior Priest</title>
+      <link>http://localhost:1313/posts/2008/09/23/straight-talk-warhammer-the-warrior-priest/</link>
+      <pubDate>Tue, 23 Sep 2008 08:00:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/23/straight-talk-warhammer-the-warrior-priest/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Straight Talk Warhammer: The Bright Wizard</title>
+      <link>http://localhost:1313/posts/2008/09/22/straight-talk-warhammer-the-bright-wizard/</link>
+      <pubDate>Mon, 22 Sep 2008 07:16:47 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/22/straight-talk-warhammer-the-bright-wizard/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Straight Talk Warhammer: The Inevitable City</title>
+      <link>http://localhost:1313/posts/2008/09/18/straight-talk-warhammer-the-inevitable-city/</link>
+      <pubDate>Thu, 18 Sep 2008 08:00:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/18/straight-talk-warhammer-the-inevitable-city/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Straight Talk Warhammer: Realm vs Realm</title>
+      <link>http://localhost:1313/posts/2008/09/17/straight-talk-warhammer-realm-vs-realm/</link>
+      <pubDate>Wed, 17 Sep 2008 08:00:54 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/17/straight-talk-warhammer-realm-vs-realm/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Straight Talk Warhammer: The White Lion profession.</title>
+      <link>http://localhost:1313/posts/2008/09/16/straight-talk-warhammer-the-white-lion-profession/</link>
+      <pubDate>Tue, 16 Sep 2008 01:18:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/16/straight-talk-warhammer-the-white-lion-profession/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Stout Henry at the Market</title>
+      <link>http://localhost:1313/posts/2008/08/26/stout-henry-at-the-market/</link>
+      <pubDate>Tue, 26 Aug 2008 20:36:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/08/26/stout-henry-at-the-market/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Stout Henry</title>
+      <link>http://localhost:1313/posts/2008/08/21/stout-henry/</link>
+      <pubDate>Thu, 21 Aug 2008 01:00:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/08/21/stout-henry/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Drozana on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/drozana/</link>
+    <description>Recent content in Drozana on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 14 Nov 2010 01:55:54 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/drozana/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Star Trek Online: S2E5 &#34;Night of the Comet&#34; (spoilers)</title>
+      <link>http://localhost:1313/posts/2010/11/14/star-trek-online-s2e5-night-of-the-comet-spoilers/</link>
+      <pubDate>Sun, 14 Nov 2010 01:55:54 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/11/14/star-trek-online-s2e5-night-of-the-comet-spoilers/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Star Trek Online: S2E4 &#34;Everything Old is New Again&#34;</title>
+      <link>http://localhost:1313/posts/2010/11/07/star-trek-online-s2e4-everything-old-is-new-again/</link>
+      <pubDate>Sun, 07 Nov 2010 19:51:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/11/07/star-trek-online-s2e4-everything-old-is-new-again/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Star Trek Online: What Lies Beneath</title>
+      <link>http://localhost:1313/posts/2010/11/05/star-trek-online-what-lies-beneath/</link>
+      <pubDate>Fri, 05 Nov 2010 07:04:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/11/05/star-trek-online-what-lies-beneath/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Star Trek Online: S02E07 &#34;Spin the Wheel&#34; (spoilers)</title>
+      <link>http://localhost:1313/posts/2010/10/25/star-trek-online-s02e07-spin-the-wheel-spoilers/</link>
+      <pubDate>Mon, 25 Oct 2010 07:22:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/10/25/star-trek-online-s02e07-spin-the-wheel-spoilers/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Star Trek Online: Skirmish (spoilers)</title>
+      <link>http://localhost:1313/posts/2010/10/16/star-trek-online-skirmish-spoilers/</link>
+      <pubDate>Sat, 16 Oct 2010 17:27:54 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/10/16/star-trek-online-skirmish-spoilers/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

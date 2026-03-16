@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wall of Slaughter on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/wall-of-slaughter/</link>
+    <description>Recent content in Wall of Slaughter on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Nov 2008 01:05:02 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wall-of-slaughter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ: The Wall of Slaughter</title>
+      <link>http://localhost:1313/posts/2008/11/15/eq-the-wall-of-slaughter/</link>
+      <pubDate>Sat, 15 Nov 2008 01:05:02 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/11/15/eq-the-wall-of-slaughter/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

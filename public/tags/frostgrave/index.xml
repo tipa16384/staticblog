@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frostgrave on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/frostgrave/</link>
+    <description>Recent content in Frostgrave on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Aug 2024 09:41:06 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/frostgrave/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first Malifaux tournament!</title>
+      <link>http://localhost:1313/posts/2024/08/18/my-first-malifaux-tournament/</link>
+      <pubDate>Sun, 18 Aug 2024 09:41:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/08/18/my-first-malifaux-tournament/</guid>
+      <description>I&amp;#39;ma start by explaining what the game is, as best I can anyway.</description>
+    </item>
+    <item>
+      <title>Scraping BattleTech</title>
+      <link>http://localhost:1313/posts/2023/08/22/scraping-battletech/</link>
+      <pubDate>Tue, 22 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/22/scraping-battletech/</guid>
+      <description>What was that old saying? &amp;#34;Information wants to be free&amp;#34;?</description>
+    </item>
+    <item>
+      <title>Game Night: My Little Scythe and the Watson Game Topper</title>
+      <link>http://localhost:1313/posts/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/</link>
+      <pubDate>Sat, 25 Sep 2021 09:54:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TinyGame2010 on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/tinygame2010/</link>
+    <description>Recent content in TinyGame2010 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 May 2010 18:50:35 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tinygame2010/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What? A new game programming challenge?</title>
+      <link>http://localhost:1313/posts/2010/05/12/what-a-new-game-programming-challenge/</link>
+      <pubDate>Wed, 12 May 2010 18:50:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/05/12/what-a-new-game-programming-challenge/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

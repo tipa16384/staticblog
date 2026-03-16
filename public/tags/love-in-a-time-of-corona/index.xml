@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Love in a Time of Corona on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/love-in-a-time-of-corona/</link>
+    <description>Recent content in Love in a Time of Corona on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Sep 2020 22:28:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/love-in-a-time-of-corona/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life in Pandemia: At least the bicycle shops are doing well...</title>
+      <link>http://localhost:1313/posts/2020/09/08/life-in-pandemia-at-least-the-bicycle-shops-are-doing-well/</link>
+      <pubDate>Tue, 08 Sep 2020 22:28:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/09/08/life-in-pandemia-at-least-the-bicycle-shops-are-doing-well/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

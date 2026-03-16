@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Deneb on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/deneb/</link>
+    <description>Recent content in Deneb on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Nov 2022 20:50:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/deneb/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code 2022 and other exciting news you should totally read!</title>
+      <link>http://localhost:1313/posts/2022/11/28/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</link>
+      <pubDate>Mon, 28 Nov 2022 20:50:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/11/28/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</guid>
+      <description>Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don&amp;#39;t forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!</description>
+    </item>
+    <item>
+      <title>Ogre Battle: Curse your sudden, but inevitable, betrayal</title>
+      <link>http://localhost:1313/posts/2022/07/13/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</link>
+      <pubDate>Wed, 13 Jul 2022 08:16:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/07/13/ogre-battle-curse-your-sudden-but-inevitable-betrayal/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

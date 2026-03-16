@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lagrange on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/lagrange/</link>
+    <description>Recent content in Lagrange on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 Nov 2023 10:26:24 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lagrange/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to your 17 1/2 hour work week!</title>
+      <link>http://localhost:1313/posts/2023/11/20/welcome-to-your-17-1-2-hour-work-week/</link>
+      <pubDate>Mon, 20 Nov 2023 10:26:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/11/20/welcome-to-your-17-1-2-hour-work-week/</guid>
+      <description>Are you really doing metric if you&amp;#39;re still living in a 24 hour reality?</description>
+    </item>
+  </channel>
+</rss>

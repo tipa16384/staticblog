@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nemesis on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/nemesis/</link>
+    <description>Recent content in Nemesis on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 12:09:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/nemesis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best Board Games of 2024!</title>
+      <link>http://localhost:1313/posts/2025/01/05/best-board-games-of-2024/</link>
+      <pubDate>Sun, 05 Jan 2025 12:09:14 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/05/best-board-games-of-2024/</guid>
+      <description>The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world&amp;hellip;</description>
+    </item>
+    <item>
+      <title>The Utter Insanity of Nemesis</title>
+      <link>http://localhost:1313/posts/2024/09/10/the-utter-insanity-of-nemesis/</link>
+      <pubDate>Tue, 10 Sep 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/09/10/the-utter-insanity-of-nemesis/</guid>
+      <description>Survivors face escalating dangers aboard a doomed starship in the final game of Nemesis.</description>
+    </item>
+    <item>
+      <title>Game Night: The Penultimate Nemesis</title>
+      <link>http://localhost:1313/posts/2024/08/06/game-night-the-penultimate-nemesis/</link>
+      <pubDate>Tue, 06 Aug 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/08/06/game-night-the-penultimate-nemesis/</guid>
+      <description>It was a typical mission until the walls of our starship started whispering words of madness to us&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Nemesis: The Board Game</title>
+      <link>http://localhost:1313/posts/2024/07/03/nemesis-the-board-game/</link>
+      <pubDate>Wed, 03 Jul 2024 08:00:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/07/03/nemesis-the-board-game/</guid>
+      <description>Stop me if you&amp;rsquo;ve heard this one before. You&amp;rsquo;ve been awakened from hibernation by your starship&amp;rsquo;s AI. Something has gone wrong. It&amp;rsquo;s&amp;hellip; Aliens. I mean Intruders.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Muppets on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/muppets/</link>
+    <description>Recent content in Muppets on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Nov 2024 15:20:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/muppets/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spy Muppets: License to Croak</title>
+      <link>http://localhost:1313/posts/2024/11/25/spy-muppets-license-to-croak/</link>
+      <pubDate>Mon, 25 Nov 2024 15:20:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/11/25/spy-muppets-license-to-croak/</guid>
+      <description>The credits are longer than the game in this classic Gameboy Advance caper...</description>
+    </item>
+  </channel>
+</rss>

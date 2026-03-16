@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Characters on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/characters/</link>
+    <description>Recent content in Characters on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Sep 2008 19:00:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/characters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vanguard&#39;s character model update? BIG WIN.</title>
+      <link>http://localhost:1313/posts/2008/09/11/vanguards-character-model-update-big-win/</link>
+      <pubDate>Thu, 11 Sep 2008 19:00:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/11/vanguards-character-model-update-big-win/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

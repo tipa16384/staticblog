@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Battahl on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/battahl/</link>
+    <description>Recent content in Battahl on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Apr 2024 07:46:41 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/battahl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dragon&#39;s Dogma 2: Battahl Bound</title>
+      <link>http://localhost:1313/posts/2024/04/01/dragons-dogma-2-battahl-bound/</link>
+      <pubDate>Mon, 01 Apr 2024 07:46:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/04/01/dragons-dogma-2-battahl-bound/</guid>
+      <description>Nobody ever sleeps in Battahl.</description>
+    </item>
+  </channel>
+</rss>

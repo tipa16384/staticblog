@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Modern Art on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/modern-art/</link>
+    <description>Recent content in Modern Art on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Feb 2025 10:31:36 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/modern-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Great Wave Off Kanagawa, by Hokusai</title>
+      <link>http://localhost:1313/posts/2025/02/22/the-great-wave-off-kanagawa-by-hokusai/</link>
+      <pubDate>Sat, 22 Feb 2025 10:31:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/02/22/the-great-wave-off-kanagawa-by-hokusai/</guid>
+      <description>Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Catchy Music on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/catchy-music/</link>
+    <description>Recent content in Catchy Music on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Aug 2022 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/catchy-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Amazing Adventures of 8-Ball!</title>
+      <link>http://localhost:1313/posts/2022/08/08/the-amazing-adventures-of-8-ball/</link>
+      <pubDate>Mon, 08 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/08/the-amazing-adventures-of-8-ball/</guid>
+      <description>&amp;#34;Adventure of 8-Ball&amp;#34; is a 2D platformer mobile game with 50 levels, attractive graphics, and catchy music. The player controls 8-ball, a little black cat, on a quest to save their owner from the evil dog catcher who has kidnapped them.</description>
+    </item>
+  </channel>
+</rss>

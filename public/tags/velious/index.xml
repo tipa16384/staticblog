@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Velious on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/velious/</link>
+    <description>Recent content in Velious on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Jun 2009 22:15:58 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/velious/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SOE Fan Faire news -- some shocking surprises!</title>
+      <link>http://localhost:1313/posts/2009/06/26/eq2-next-expansion-is-odus-not-velious/</link>
+      <pubDate>Fri, 26 Jun 2009 22:15:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/06/26/eq2-next-expansion-is-odus-not-velious/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EVERQUEST II&#39;s NEXT EXPANSION: VELIOUS</title>
+      <link>http://localhost:1313/posts/2009/06/10/everquest-iis-next-expansion-velious/</link>
+      <pubDate>Wed, 10 Jun 2009 21:04:42 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/06/10/everquest-iis-next-expansion-velious/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

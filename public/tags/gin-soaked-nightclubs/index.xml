@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Gin-Soaked Nightclubs on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/gin-soaked-nightclubs/</link>
+    <description>Recent content in Gin-Soaked Nightclubs on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Aug 2022 22:26:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/gin-soaked-nightclubs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dall-E introduces &#34;Outpainting&#34;</title>
+      <link>http://localhost:1313/posts/2022/08/31/dall-e-introduces-outpainting/</link>
+      <pubDate>Wed, 31 Aug 2022 22:26:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/31/dall-e-introduces-outpainting/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

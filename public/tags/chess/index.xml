@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chess on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/chess/</link>
+    <description>Recent content in Chess on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Nov 2021 23:31:03 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/chess/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quick Look: Pawnbarian</title>
+      <link>http://localhost:1313/posts/2021/11/02/quick-look-pawnbarian/</link>
+      <pubDate>Tue, 02 Nov 2021 23:31:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/11/02/quick-look-pawnbarian/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Game Night: Christmas! Chess and Small World of Warcraft</title>
+      <link>http://localhost:1313/posts/2020/12/26/game-night-christmas-chess-and-small-world-of-warcraft/</link>
+      <pubDate>Sat, 26 Dec 2020 11:57:17 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/12/26/game-night-christmas-chess-and-small-world-of-warcraft/</guid>
+      <description>Gamers gotta game, even on Christmas Day...</description>
+    </item>
+  </channel>
+</rss>

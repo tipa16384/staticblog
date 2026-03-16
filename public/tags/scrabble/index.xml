@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Scrabble on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/scrabble/</link>
+    <description>Recent content in Scrabble on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Aug 2022 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scrabble/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>&#34;The 22nd Letter&#34;: A Game of Mystery and Scrabble</title>
+      <link>http://localhost:1313/posts/2022/08/22/the-22nd-letter-a-game-of-mystery-and-scrabble/</link>
+      <pubDate>Mon, 22 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/22/the-22nd-letter-a-game-of-mystery-and-scrabble/</guid>
+      <description>The 22nd Letter is a game of mystery and Scrabble. As you play the game, you&amp;#39;ll gradually uncover the story of &amp;#34;V&amp;#34;, a man who disappeared during a Scrabble tournament long ago. Can you solve the mystery?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D Platformers on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/2d-platformers/</link>
+    <description>Recent content in 2D Platformers on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/2d-platformers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Amazing Adventures of 8-Ball!</title>
+      <link>http://localhost:1313/posts/2022/08/08/the-amazing-adventures-of-8-ball/</link>
+      <pubDate>Mon, 08 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/08/the-amazing-adventures-of-8-ball/</guid>
+      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 8th: “The Amazing Adventures of 8-Ball!”.&lt;/p&gt;&#xA;&lt;p&gt;Genre: Platformer. Title: &amp;ldquo;The Amazing adventures of 8-ball&amp;rdquo;. Outline: You play as 8-ball, a little black cat with a big attitude, on a quest to save your owner from the evil dog catcher. Run, jump, and claw your way through 50 levels of non-stop action.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Steve, the Fifth Horseman of the Apocalypse</title>
+      <link>http://localhost:1313/posts/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/</link>
+      <pubDate>Fri, 05 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/</guid>
+      <description>&lt;p&gt;I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here&amp;rsquo;s its idea for August 5th: &amp;ldquo;Steve, the Fifth Horseman of the Apocalypse&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;This is a game where you play as Steve, the fifth horseman of the Apocalypse, who was left behind when the other four horsemen rode off to bring about the end of the world. With only your trusty steed and a few weapons, you must now ride across the country, fighting off hordes of zombies and other monsters that have taken over the world.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

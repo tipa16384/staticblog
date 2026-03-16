@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Sims on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/the-sims/</link>
+    <description>Recent content in The Sims on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Jul 2009 07:48:51 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/the-sims/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sims 3: Alice comes for a visit</title>
+      <link>http://localhost:1313/posts/2009/07/10/sims-3-alice-comes-for-a-visit/</link>
+      <pubDate>Fri, 10 Jul 2009 07:48:51 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/07/10/sims-3-alice-comes-for-a-visit/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

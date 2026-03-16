@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guild Wars 2 on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/guild-wars-2/</link>
+    <description>Recent content in Guild Wars 2 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Mar 2024 10:07:26 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/guild-wars-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HeroQuest: The Castle of Mystery</title>
+      <link>http://localhost:1313/posts/2024/03/16/heroquest-the-castle-of-mystery/</link>
+      <pubDate>Sat, 16 Mar 2024 10:07:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/03/16/heroquest-the-castle-of-mystery/</guid>
+      <description>This teleporting puzzle box separated the heroes across a deadly dungeon. How many would survive to escape?</description>
+    </item>
+    <item>
+      <title>Pokémon: The New(ish) Addiction</title>
+      <link>http://localhost:1313/posts/2023/02/21/pokemon-the-newish-addiction/</link>
+      <pubDate>Tue, 21 Feb 2023 22:16:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/02/21/pokemon-the-newish-addiction/</guid>
+      <description>With both Pokémon Go and Pokémon Sword &amp;amp; Shield going on, it&amp;#39;s pretty much peak Pokémon at the moment.</description>
+    </item>
+    <item>
+      <title>Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2</title>
+      <link>http://localhost:1313/posts/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</link>
+      <pubDate>Mon, 18 Jul 2022 08:25:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>MMOs on the Bubble</title>
+      <link>http://localhost:1313/posts/2021/08/07/mmos-on-the-bubble/</link>
+      <pubDate>Sat, 07 Aug 2021 10:11:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/08/07/mmos-on-the-bubble/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

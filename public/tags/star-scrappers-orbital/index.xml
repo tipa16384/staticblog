@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Star Scrappers Orbital on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/star-scrappers-orbital/</link>
+    <description>Recent content in Star Scrappers Orbital on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Oct 2021 06:12:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/star-scrappers-orbital/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Star Scrappers Orbital showed up!</title>
+      <link>http://localhost:1313/posts/2021/10/21/star-scrappers-orbital-showed-up/</link>
+      <pubDate>Thu, 21 Oct 2021 06:12:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/10/21/star-scrappers-orbital-showed-up/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Looking for Mr. Kickstarter</title>
+      <link>http://localhost:1313/posts/2021/10/15/looking-for-mr-kickstarter/</link>
+      <pubDate>Fri, 15 Oct 2021 00:21:19 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/10/15/looking-for-mr-kickstarter/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

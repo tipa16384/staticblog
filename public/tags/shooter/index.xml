@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shooter on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/shooter/</link>
+    <description>Recent content in Shooter on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Feb 2023 19:51:46 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/shooter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyberpunk 2077 vs Sword Art Online: Fatal Bullet</title>
+      <link>http://localhost:1313/posts/2023/02/14/cyberpunk-2077-vs-sword-art-online-fatal-bullet/</link>
+      <pubDate>Tue, 14 Feb 2023 19:51:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/02/14/cyberpunk-2077-vs-sword-art-online-fatal-bullet/</guid>
+      <description>When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?</description>
+    </item>
+    <item>
+      <title>Steve, the Fifth Horseman of the Apocalypse</title>
+      <link>http://localhost:1313/posts/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/</link>
+      <pubDate>Fri, 05 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Outriders: What is Hulk if not smash?</title>
+      <link>http://localhost:1313/posts/2021/02/28/outriders-what-is-hulk-if-not-smash/</link>
+      <pubDate>Sun, 28 Feb 2021 09:35:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/02/28/outriders-what-is-hulk-if-not-smash/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

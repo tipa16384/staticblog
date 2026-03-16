@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Um Jammer Lammy on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/um-jammer-lammy/</link>
+    <description>Recent content in Um Jammer Lammy on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Aug 2023 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/um-jammer-lammy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Staying Motivated for Retro World Expo 2023</title>
+      <link>http://localhost:1313/posts/2023/08/24/staying-motivated-for-retro-world-expo-2023/</link>
+      <pubDate>Thu, 24 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/24/staying-motivated-for-retro-world-expo-2023/</guid>
+      <description>This weekend in glorious Hartford, Connecticut. Could I be more motivated?</description>
+    </item>
+  </channel>
+</rss>

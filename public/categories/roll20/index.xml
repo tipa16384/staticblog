@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roll20 on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/roll20/</link>
+    <description>Recent content in Roll20 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2013 07:28:50 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/roll20/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D&amp;D4e: Temporarily Alive</title>
+      <link>http://localhost:1313/posts/2013/03/01/dd4e-temporarily-alive/</link>
+      <pubDate>Fri, 01 Mar 2013 07:28:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2013/03/01/dd4e-temporarily-alive/</guid>
+      <description>&lt;figure class=&#34;align-center&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Exploring a crypt with Roll20.net&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;When there&amp;rsquo;s undead behind you, undead ahead of you, undead below you and for all I know, undead above, you just have to wonder if maybe this &amp;ldquo;living&amp;rdquo; thing is just a mistake. A mistake the gods are trying to fix.&lt;/p&gt;&#xA;&lt;p&gt;This is why Valda puts her faith and trust in good, solid stone. Stone that protects. Stone that builds. Stone which, when dropped from a good height, makes pretty short work of undead.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Persona on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/persona/</link>
+    <description>Recent content in Persona on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 19 Aug 2024 08:36:30 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/persona/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto</title>
+      <link>http://localhost:1313/posts/2024/08/19/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</link>
+      <pubDate>Mon, 19 Aug 2024 08:36:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/08/19/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/</guid>
+      <description>And also that entire day playing Malifaux...</description>
+    </item>
+    <item>
+      <title>Granblue Fantasy: Relink (DEMO)</title>
+      <link>http://localhost:1313/posts/2024/01/18/granblue-fantasy-relink-demo/</link>
+      <pubDate>Thu, 18 Jan 2024 19:49:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/01/18/granblue-fantasy-relink-demo/</guid>
+      <description>Granblue Fantasy makes the leap from mobile to console with Relink. So... what kind of game is it?</description>
+    </item>
+    <item>
+      <title>Quick Look: Persona 5 Strikers</title>
+      <link>http://localhost:1313/posts/2021/09/13/quick-look-persona-5-strikers/</link>
+      <pubDate>Mon, 13 Sep 2021 23:26:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/09/13/quick-look-persona-5-strikers/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Persona 4 Golden: Finished!</title>
+      <link>http://localhost:1313/posts/2020/12/28/persona-4-golden-finished/</link>
+      <pubDate>Mon, 28 Dec 2020 07:51:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/12/28/persona-4-golden-finished/</guid>
+      <description>A warm, friendly murder mystery that doesn&amp;#39;t outstay its welcome and sets up themes that Persona 5 would eventually deconstruct.</description>
+    </item>
+    <item>
+      <title>Persona 4 Golden: The Story Thus Far</title>
+      <link>http://localhost:1313/posts/2020/12/14/persona-4-golden-the-story-thus-far/</link>
+      <pubDate>Mon, 14 Dec 2020 07:22:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/12/14/persona-4-golden-the-story-thus-far/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Too Many Games in my Queue</title>
+      <link>http://localhost:1313/posts/2020/12/08/too-many-games-in-my-queue/</link>
+      <pubDate>Tue, 08 Dec 2020 08:49:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/12/08/too-many-games-in-my-queue/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Daily Gaming Log: April 28 Royal</title>
+      <link>http://localhost:1313/posts/2020/04/28/daily-gaming-log-april-28-royal/</link>
+      <pubDate>Tue, 28 Apr 2020 22:09:40 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/04/28/daily-gaming-log-april-28-royal/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

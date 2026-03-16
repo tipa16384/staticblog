@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Drama on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/drama/</link>
+    <description>Recent content in Drama on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Dec 2007 08:46:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/drama/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ2: Guild drama -- I love it!</title>
+      <link>http://localhost:1313/posts/2007/12/04/eq2-guild-drama-i-love-it/</link>
+      <pubDate>Tue, 04 Dec 2007 08:46:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2007/12/04/eq2-guild-drama-i-love-it/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

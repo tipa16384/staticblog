@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Raspberry Pi on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Aug 2025 08:37:34 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Downsizing!</title>
+      <link>http://localhost:1313/posts/2025/08/18/downsizing/</link>
+      <pubDate>Mon, 18 Aug 2025 08:37:34 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/08/18/downsizing/</guid>
+      <description>Can I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards?</description>
+    </item>
+  </channel>
+</rss>

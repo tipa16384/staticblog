@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lucky Train on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/lucky-train/</link>
+    <description>Recent content in Lucky Train on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Oct 2010 20:59:50 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lucky-train/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Game Review: Lucky Train</title>
+      <link>http://localhost:1313/posts/2010/10/12/social-game-review-lucky-train/</link>
+      <pubDate>Tue, 12 Oct 2010 20:59:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/10/12/social-game-review-lucky-train/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

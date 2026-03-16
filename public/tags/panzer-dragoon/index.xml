@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Panzer Dragoon on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/panzer-dragoon/</link>
+    <description>Recent content in Panzer Dragoon on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Aug 2023 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/panzer-dragoon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>(Not) Taming the Backlog</title>
+      <link>http://localhost:1313/posts/2023/08/03/not-taming-the-backlog/</link>
+      <pubDate>Thu, 03 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/03/not-taming-the-backlog/</guid>
+      <description>If I die, let it be beneath a mound of unplayed video games. Might as well accept the inevitable, right?</description>
+    </item>
+    <item>
+      <title>Is playing on the original hardware worth the trouble?</title>
+      <link>http://localhost:1313/posts/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/</link>
+      <pubDate>Mon, 11 Jul 2022 08:24:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Panzer Dragoon: The Remake</title>
+      <link>http://localhost:1313/posts/2021/09/06/panzer-dragoon-the-remake/</link>
+      <pubDate>Mon, 06 Sep 2021 10:22:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/09/06/panzer-dragoon-the-remake/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

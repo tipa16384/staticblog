@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dragon&#39;s Dogma on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/dragons-dogma/</link>
+    <description>Recent content in Dragon&#39;s Dogma on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dragons-dogma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best of 2024: Single-Player RPGs</title>
+      <link>http://localhost:1313/posts/2024/12/30/best-of-2024-single-player-rpgs/</link>
+      <pubDate>Mon, 30 Dec 2024 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/30/best-of-2024-single-player-rpgs/</guid>
+      <description>2024 was a great year for RPGs. I didn&amp;#39;t play all the ones I wanted, but the ones I did play were pretty incredible.</description>
+    </item>
+    <item>
+      <title>Dragon&#39;s Dogma 2: Battahl Bound</title>
+      <link>http://localhost:1313/posts/2024/04/01/dragons-dogma-2-battahl-bound/</link>
+      <pubDate>Mon, 01 Apr 2024 07:46:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/04/01/dragons-dogma-2-battahl-bound/</guid>
+      <description>Nobody ever sleeps in Battahl.</description>
+    </item>
+    <item>
+      <title>Dragon&#39;s Dogma II: Now Playing</title>
+      <link>http://localhost:1313/posts/2024/03/25/dragons-dogma-ii-now-playing/</link>
+      <pubDate>Mon, 25 Mar 2024 08:02:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/03/25/dragons-dogma-ii-now-playing/</guid>
+      <description>I really, genuinely need to blog more promptly about the games I&amp;#39;m playing. Unicorn Overlord is done; I&amp;#39;m drowning in the world of Dragon&amp;#39;s Dogma II now.</description>
+    </item>
+    <item>
+      <title>Granblue Fantasy: Relink (DEMO)</title>
+      <link>http://localhost:1313/posts/2024/01/18/granblue-fantasy-relink-demo/</link>
+      <pubDate>Thu, 18 Jan 2024 19:49:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/01/18/granblue-fantasy-relink-demo/</guid>
+      <description>Granblue Fantasy makes the leap from mobile to console with Relink. So... what kind of game is it?</description>
+    </item>
+  </channel>
+</rss>

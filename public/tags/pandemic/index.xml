@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pandemic on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/pandemic/</link>
+    <description>Recent content in Pandemic on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Aug 2025 08:43:51 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pandemic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The pandemic wasn&#39;t all bad, actually...</title>
+      <link>http://localhost:1313/posts/2025/08/01/the-pandemic-wasnt-all-bad-actually/</link>
+      <pubDate>Fri, 01 Aug 2025 08:43:51 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/08/01/the-pandemic-wasnt-all-bad-actually/</guid>
+      <description>Not to minimize the people who got sick or lost family members, but being confined for a few months had its perks.</description>
+    </item>
+  </channel>
+</rss>

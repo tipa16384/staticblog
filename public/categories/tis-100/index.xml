@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TIS-100 on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/tis-100/</link>
+    <description>Recent content in TIS-100 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 17:52:23 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tis-100/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>While True(): Learn to teach your cat to drive.</title>
+      <link>http://localhost:1313/posts/2020/04/26/while-true-learn-to-teach-your-cat-to-drive/</link>
+      <pubDate>Sun, 26 Apr 2020 17:52:23 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/04/26/while-true-learn-to-teach-your-cat-to-drive/</guid>
+      <description>&lt;figure&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2020/04/catai-1024x576.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Can you feel the feline neurons growing?&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I&amp;rsquo;ve got a soft spot for &amp;ldquo;programming&amp;rdquo; games. Since that&amp;rsquo;s my day job, I can usually convince myself that this is the one sort of game I might actually be good at.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m looking at you, Octopath Traveler final boss that I&amp;rsquo;m too timid to fight anymore.&lt;/p&gt;&#xA;&lt;p&gt;Programming games can run the gamut from super-techy &lt;a href=&#34;http://www.zachtronics.com/tis-100/&#34; target=&#34;_blank&#34;&gt;TIS-100&lt;/a&gt;&#xA;, which asks you to write multiprocessor programs in a bespoke assembly language, to beginner friendly &lt;a href=&#34;https://tomorrowcorporation.com/7billionhumans&#34; target=&#34;_blank&#34;&gt;7 Billion Humans&lt;/a&gt;&#xA;, which has you write parallel processing algorithms in a &lt;a href=&#34;https://snap.berkeley.edu/&#34; target=&#34;_blank&#34;&gt;Snap-like&lt;/a&gt;&#xA; visual programming language.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TIS-100 Sequence Indexer</title>
+      <link>http://localhost:1313/posts/2015/12/26/tis-100-sequence-indexer/</link>
+      <pubDate>Sat, 26 Dec 2015 09:32:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2015/12/26/tis-100-sequence-indexer/</guid>
+      <description>&lt;figure class=&#34;align-center&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Sequence Indexer program&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;It&amp;rsquo;s been long enough that I should go over what TIS-100 &lt;em&gt;IS&lt;/em&gt;. TIS-100 is a programming puzzle game by the makers of SpaceChem (a previous obsession). Where SpaceChem kind of hid the programming knowledge necessary to solve the puzzles beneath a fun graphical abstraction, TIS-100 just strips away the candy coating. TIS-100 simulates a fictional multicore reduced instruction set computer (RISC). There is no RAM. Sometimes there is a stack or two. Each processor has just one directly-accessible register.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dreams of Code...</title>
+      <link>http://localhost:1313/posts/2015/06/13/i-went-to-bed-with-an-iss/</link>
+      <pubDate>Sat, 13 Jun 2015 13:31:07 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2015/06/13/i-went-to-bed-with-an-iss/</guid>
+      <description>&lt;p&gt;I went to bed with an issue moving from one shape to another in this TIS-100 program. I woke up with the solution.﻿&lt;a href=&#34;https://plus.google.com/&amp;#43;BrendaHolloway/posts/dfwiTTdS2Ld&#34; target=&#34;_blank&#34;&gt;tis100 2015-06-13 08-57-30-58.avi&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://plus.google.com/&amp;#43;BrendaHolloway/posts/dfwiTTdS2Ld&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/-wFzsJen612w/VXwwVqqhQXI/AAAAAAABJ-E/iKU9GFH5qKo/w506-h379-o/tis100%2B2015-06-13%2B08-57-30-58.avi&#34;&gt;&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Exposure Mask Viewer solution&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://plus.google.com/&amp;#43;BrendaHolloway/posts/dfwiTTdS2Ld&#34; target=&#34;_blank&#34;&gt;This was posted on Google+&lt;/a&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>TIS-100: A puzzle from the dawn of computing</title>
+      <link>http://localhost:1313/posts/2015/06/11/if-you-ever-thought-back/</link>
+      <pubDate>Thu, 11 Jun 2015 11:41:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2015/06/11/if-you-ever-thought-back/</guid>
+      <description>&lt;figure class=&#34;align-center&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2015/06/tis100-2015-06-11-07-13-27-35.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;I think you wanted to make that zero a four?&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;If you ever thought back with longing to beautiful summer days spent filling out code sheets with a worn-down pencil and a well-thumbed processor instruction code book your only companions, well, Zachtronics&amp;rsquo; TIS-100 might just be your worst nightmare.&lt;/p&gt;&#xA;&lt;p&gt;The thin plot has your Aunt Doris sending you a bunch of your recently-deceased uncle&amp;rsquo;s belongings, including the TIS-100 and its manual, the last thing on which he was working. Because of some cryptic hints in the manual, and because you have more curiosity than sense, you decide to recreate his work and discover the hidden purpose of this mysterious device.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

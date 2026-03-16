@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Legends of Zork on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/legends-of-zork/</link>
+    <description>Recent content in Legends of Zork on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 21 May 2010 21:41:28 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/legends-of-zork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assault on the Inbox</title>
+      <link>http://localhost:1313/posts/2010/05/21/assault-on-the-inbox/</link>
+      <pubDate>Fri, 21 May 2010 21:41:28 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/05/21/assault-on-the-inbox/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Legends of Zork: Post-mortem</title>
+      <link>http://localhost:1313/posts/2009/10/25/legends-of-zork-post-mortem/</link>
+      <pubDate>Sun, 25 Oct 2009 12:01:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/10/25/legends-of-zork-post-mortem/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Daily Blogroll 9/3 - Sushi day edition!</title>
+      <link>http://localhost:1313/posts/2009/09/03/daily-blogroll-93-sushi-day-edition/</link>
+      <pubDate>Thu, 03 Sep 2009 07:58:02 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/09/03/daily-blogroll-93-sushi-day-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Legends of Zork group quests fixed</title>
+      <link>http://localhost:1313/posts/2009/06/17/legends-of-zork-group-quests-fixed/</link>
+      <pubDate>Wed, 17 Jun 2009 07:04:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/06/17/legends-of-zork-group-quests-fixed/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Legends of Zork: We have a Clan!</title>
+      <link>http://localhost:1313/posts/2009/05/27/legends-of-zork-we-have-a-clan/</link>
+      <pubDate>Wed, 27 May 2009 06:31:13 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/05/27/legends-of-zork-we-have-a-clan/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Achiever games: Legends of Zork and Progress Quest</title>
+      <link>http://localhost:1313/posts/2009/04/17/achiever-games-legends-of-zork-and-progress-quest/</link>
+      <pubDate>Fri, 17 Apr 2009 07:33:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/17/achiever-games-legends-of-zork-and-progress-quest/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Legends of Zork goes live! (UPDATED!)</title>
+      <link>http://localhost:1313/posts/2009/04/15/legends-of-zork-goes-live/</link>
+      <pubDate>Wed, 15 Apr 2009 06:54:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/15/legends-of-zork-goes-live/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

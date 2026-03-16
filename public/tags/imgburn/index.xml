@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Imgburn on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/imgburn/</link>
+    <description>Recent content in Imgburn on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 May 2024 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/imgburn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PCSX2 has gone and done it this time...</title>
+      <link>http://localhost:1313/posts/2024/05/03/pcsx2-has-gone-and-done-it-this-time/</link>
+      <pubDate>Fri, 03 May 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/05/03/pcsx2-has-gone-and-done-it-this-time/</guid>
+      <description>The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility.</description>
+    </item>
+  </channel>
+</rss>

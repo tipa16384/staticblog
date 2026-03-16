@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>I Bet You&#39;re Faking on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/i-bet-youre-faking/</link>
+    <description>Recent content in I Bet You&#39;re Faking on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 26 Sep 2008 08:14:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/i-bet-youre-faking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STW: Off the bus.</title>
+      <link>http://localhost:1313/posts/2008/09/26/stw-off-the-bus/</link>
+      <pubDate>Fri, 26 Sep 2008 08:14:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/26/stw-off-the-bus/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Microsoft Flight Simulator on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/microsoft-flight-simulator/</link>
+    <description>Recent content in Microsoft Flight Simulator on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Aug 2023 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/microsoft-flight-simulator/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Day In Blogging: August 1, 2006</title>
+      <link>http://localhost:1313/posts/2023/08/01/this-day-in-blogging-august-1-2006/</link>
+      <pubDate>Tue, 01 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/01/this-day-in-blogging-august-1-2006/</guid>
+      <description>I&amp;#39;ve been blogging for 25 years. Here&amp;#39;s the things I was blogging about on the first day of August in 1998-ish, 2006, 2008, 2012, and 2020. Enjoy!</description>
+    </item>
+    <item>
+      <title>Stalking My Sister</title>
+      <link>http://localhost:1313/posts/2021/08/24/stalking-my-sister/</link>
+      <pubDate>Tue, 24 Aug 2021 23:34:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/08/24/stalking-my-sister/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Microsoft Flight Simulator: Taxiing up my driveway</title>
+      <link>http://localhost:1313/posts/2020/08/30/microsoft-flight-simulator-taxiing-up-my-driveway/</link>
+      <pubDate>Sun, 30 Aug 2020 18:02:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/08/30/microsoft-flight-simulator-taxiing-up-my-driveway/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

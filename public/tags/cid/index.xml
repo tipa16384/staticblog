@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cid on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/cid/</link>
+    <description>Recent content in Cid on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Sep 2022 08:17:03 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cid&#39;s Legacy: A Story of the World of Ruin</title>
+      <link>http://localhost:1313/posts/2022/09/06/cids-legacy-a-story-of-the-world-of-ruin/</link>
+      <pubDate>Tue, 06 Sep 2022 08:17:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/06/cids-legacy-a-story-of-the-world-of-ruin/</guid>
+      <description>A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him.</description>
+    </item>
+  </channel>
+</rss>

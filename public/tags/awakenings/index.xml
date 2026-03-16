@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Awakenings on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/awakenings/</link>
+    <description>Recent content in Awakenings on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Sep 2010 23:31:18 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/awakenings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dragon Age: Awakening. Good, but Bioware-good?</title>
+      <link>http://localhost:1313/posts/2010/09/07/dragon-age-awakening-good-but-bioware-good/</link>
+      <pubDate>Tue, 07 Sep 2010 23:31:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/09/07/dragon-age-awakening-good-but-bioware-good/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>W. B. Yeats on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/w.-b.-yeats/</link>
+    <description>Recent content in W. B. Yeats on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Nov 2007 06:06:17 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/w.-b.-yeats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rock Band: Naming my fake band.</title>
+      <link>http://localhost:1313/posts/2007/11/04/rock-band-naming-my-fake-band/</link>
+      <pubDate>Sun, 04 Nov 2007 06:06:17 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2007/11/04/rock-band-naming-my-fake-band/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

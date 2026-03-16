@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7DRL on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/7drl/</link>
+    <description>Recent content in 7DRL on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Mar 2025 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/7drl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Fail at Writing A Game in 7 Days</title>
+      <link>http://localhost:1313/posts/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/</link>
+      <pubDate>Mon, 10 Mar 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/</guid>
+      <description>Also, lots of Tunnels &amp;amp; Trolls-adjacent stuff.</description>
+    </item>
+    <item>
+      <title>7DRL 2022: Retrospective</title>
+      <link>http://localhost:1313/posts/2022/03/13/7drl-2022-retrospective/</link>
+      <pubDate>Sun, 13 Mar 2022 09:55:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/13/7drl-2022-retrospective/</guid>
+      <description>&lt;p&gt;7DRL is over. Most everyone has turned in their games. After several hours of last minute changes to improve balance, I submitted &amp;ldquo;You Are the Amulet&amp;rdquo; at the end of Day 6. This is the retrospective on the project; what went well, what went poorly, and what I will do differently next time.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://chasingdings.com/wp-content/uploads/2022/03/image-10.png&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2022/03/image-10.png&#34;&gt;&lt;/a&gt;&#xA;The last map before the boss fight&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;What went well&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Integration with Tiled. This was a last minute addition to the game engine, but I felt it was vital that I be able to play on nice looking levels. I didn&amp;rsquo;t finish Tiled integration, as it has some quirks, and the open source tile sets I was using had their own quirks. I would want to double down on Tiled for another project, and allow mixing tile sets in one map. Tiled supports this; my engine can&amp;rsquo;t handle it yet.- Trinket.io. I &lt;em&gt;knew&lt;/em&gt; that having the game work in a browser would be important. I don&amp;rsquo;t think anyone has run my game from the command line, and I don&amp;rsquo;t know that anyone will. I hope the judges do. A lot of the decisions I made were entirely based on whether it would work in Trinket. They don&amp;rsquo;t seem to support sound or transparency. When I wrote my Layout Manager, I made sure I could switch between Trinket and Native layouts.- YAML. My decision to program the game in a YAML file that was executed by the Python game engine was a literal game changer. As it stands now, I could write an entirely different game just by rewriting the YAML. There&amp;rsquo;s some things I still need to put in the YAML, but that wouldn&amp;rsquo;t take long to do.- Level generation. I was planning to spend Saturday creating levels by hand, but I thought of a way to do procedural generation to generate Tiled maps and populate them with critters. The level generator just adds to the YAML file and added no new Python code, proving again how import YAML was to finishing this.- Pathfinding. I really like how pathfinding worked in the game. Advent of Code gave me the opportunity to really lean into it and make the proper choices of algorithm and stuff.- I thought the prologue screen went well. I think it tells you up front what the game is going to be like, and I think it looks graphically interesting. It was the first map I did for the actual game, and I think it clearly shows why moving to Tiled for map generation was the correct choice, compared to the maps I was generating before I integrated it. I haven&amp;rsquo;t even come close to unlocking all the cool things Tiled can do.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://chasingdings.com/wp-content/uploads/2022/03/yata-screenshot-3.png&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2022/03/yata-screenshot-3.png&#34;&gt;&lt;/a&gt;&#xA;Prologue&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 5: I&#39;m Damaged, and I Like It</title>
+      <link>http://localhost:1313/posts/2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it/</link>
+      <pubDate>Fri, 11 Mar 2022 07:37:23 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it/</guid>
+      <description>&lt;p&gt;It may seem like I&amp;rsquo;m not making a lot of progress, but I have a checklist for each night, and I really am doing what needs doing. Last night, I added a lot of new systems and fixed some crazy bugs, clearing the path for today&amp;rsquo;s &amp;ldquo;jam&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m not gonna apologize for my love of Blue Öyster Cult. Here&amp;rsquo;s &amp;ldquo;Damaged&amp;rdquo;, a song that should have been a hit off an album that should have been a hit. They been done wrong.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 4: Tossing and Turning</title>
+      <link>http://localhost:1313/posts/2022/03/10/7drl-2022-day-4-tossing-and-turning/</link>
+      <pubDate>Thu, 10 Mar 2022 07:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/10/7drl-2022-day-4-tossing-and-turning/</guid>
+      <description>&lt;p&gt;Halfway through the 7DRL and I have finally finished the major building blocks for the game by introducing the main game mechanic (finally)! But it *is *the halfway point, and a good time to wonder if this was the correct game to write for 7DRL?&lt;/p&gt;&#xA;&lt;p&gt;After 7DRL 2022 is done, I&amp;rsquo;ll be trying out as many of the other 7DRL games as I can, and write about them here. There&amp;rsquo;s been a few that I really want to play, and I really want to play them because they have a central new idea, and they build a small game around that idea. You&amp;rsquo;re hitting that new gameplay mechanic from the first second, and it builds from there.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 3: Targeting and Attacking</title>
+      <link>http://localhost:1313/posts/2022/03/09/7drl-2022-day-3-targeting-and-attacking/</link>
+      <pubDate>Wed, 09 Mar 2022 07:33:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/09/7drl-2022-day-3-targeting-and-attacking/</guid>
+      <description>&lt;p&gt;I reached an important milestone, though a day late as I lost a day integrating the new tile set. As I added targeting and combat, I began to realize what kind of game this was becoming, and I think that understanding is going to let me finish 7DRL with an actual game that is, maybe, fun to play?&lt;/p&gt;&#xA;&lt;p&gt;Once you get through the Plotro, you&amp;rsquo;re tossed into the training room with a Sprite who can&amp;rsquo;t fight back. That&amp;rsquo;s because she&amp;rsquo;s using imaginary weapons. Unfortunately for her, &lt;em&gt;you&lt;/em&gt; are using a very real saber.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 2: Dungeon Room</title>
+      <link>http://localhost:1313/posts/2022/03/07/7drl-2022-day-2-dungeon-room/</link>
+      <pubDate>Mon, 07 Mar 2022 23:12:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/07/7drl-2022-day-2-dungeon-room/</guid>
+      <description>&lt;p&gt;The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn&amp;rsquo;t look like much, but it&amp;rsquo;s something. Also, by the &amp;ldquo;Berlin Interpretation&amp;rdquo;, is my game even going to *be *a &amp;ldquo;Roguelike&amp;rdquo;?&lt;/p&gt;&#xA;&lt;p&gt;To GET to that GIF, I had to do a LOT of coding. I loved &lt;a href=&#34;https://opengameart.org/content/isometric-dungeon-tiles-60&#34; target=&#34;_blank&#34;&gt;the tileset I found&lt;/a&gt;&#xA;, but each tile was in its own file, and each tile was 256x512 pixels, which was way larger than the 64x64 I&amp;rsquo;d used for the &amp;ldquo;outside&amp;rdquo; room and for the OG tile system I&amp;rsquo;d written before I decided to move to Tiled for creating rooms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 1: Intro</title>
+      <link>http://localhost:1313/posts/2022/03/07/7drl-2022-day-1-intro/</link>
+      <pubDate>Mon, 07 Mar 2022 06:54:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/07/7drl-2022-day-1-intro/</guid>
+      <description>&lt;p&gt;Yesterday was the day I officially started the 7DRL 2022 &amp;ldquo;Build a Roguelike in 7 Days&amp;rdquo; challenge. I can now reveal the game concept&amp;hellip;.&lt;/p&gt;&#xA;&lt;p&gt;7DRL officially started Saturday, but &lt;a href=&#34;https://itch.io/jam/7drl-challenge-2022&#34; target=&#34;_blank&#34;&gt;the rules say&lt;/a&gt;&#xA; you can choose any seven days, as long as the submissions are in by the 13th. So I spent Saturday working on the game concept some more and started the official coding on Sunday.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://chasingdings.com/wp-content/uploads/2022/03/gamelogo.png&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2022/03/gamelogo.png&#34;&gt;&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;The game is &amp;ldquo;You Are the Amulet&amp;rdquo;. The original Rogue game had the adventurer delving through fifty levels of a deadly dungeon to wrest the fabled Amulet of Yendor from the evil grasp of the Wizard. They then ascend the dungeon and escape, becoming an &amp;ldquo;Ascended&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- I Screwed Up.</title>
+      <link>http://localhost:1313/posts/2022/03/04/7drl-building-an-engine-i-screwed-up/</link>
+      <pubDate>Fri, 04 Mar 2022 08:17:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/04/7drl-building-an-engine-i-screwed-up/</guid>
+      <description>&lt;p&gt;I really thought I had more time. I thought I had a &lt;em&gt;week&lt;/em&gt; to integrate the new Tiled-based map creation tools, and to make a workable combat system. I did not. I am entirely out of time. 7DRL starts tomorrow.&lt;/p&gt;&#xA;&lt;p&gt;I honestly, 100%, thought that 7DRL started on the twelfth. I thought that I would just barely be able to get the engine in rough shape by then, but it turns out I didn&amp;rsquo;t have any time at all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Winner.</title>
+      <link>http://localhost:1313/posts/2022/03/03/7drl-building-an-engine-winner/</link>
+      <pubDate>Thu, 03 Mar 2022 08:21:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/03/7drl-building-an-engine-winner/</guid>
+      <description>&lt;p&gt;The last element of the 7DRL engine&amp;rsquo;s &amp;ldquo;must haves&amp;rdquo; &amp;ndash; a win condition for the player. With that out of the way, let&amp;rsquo;s talk about localization, combat, and making the game look a little less like crap.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Win Condition&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Determining win conditions without using code is a challenge, and it&amp;rsquo;s a challenge I don&amp;rsquo;t yet know how to solve. It&amp;rsquo;s similar to the behaviors attached to weapons &amp;ndash; I can define behaviors in the Python code and then select them in the YAML, but I can&amp;rsquo;t define them entirely in the YAML without writing some code in the YAML that knows about the game state somehow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- and it ends.</title>
+      <link>http://localhost:1313/posts/2022/03/02/7drl-building-an-engine-and-it-ends/</link>
+      <pubDate>Wed, 02 Mar 2022 07:54:11 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/02/7drl-building-an-engine-and-it-ends/</guid>
+      <description>&lt;p&gt;Working through my checklist of &amp;ldquo;must have&amp;rdquo; features for the game.&lt;/p&gt;&#xA;&lt;p&gt;I have a checklist of the bare minimum features I need to implement in the game engine before I can even think of implementing a real combat system. They are:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;T&lt;del&gt;he game &lt;em&gt;must&lt;/em&gt; begin&lt;/del&gt;- The game &lt;em&gt;must&lt;/em&gt; have a win condition- &lt;del&gt;The game &lt;em&gt;must&lt;/em&gt; let you lose&lt;/del&gt;- &lt;del&gt;The game &lt;em&gt;must&lt;/em&gt; let you defeat enemies&lt;/del&gt;- &lt;del&gt;The game &lt;em&gt;must&lt;/em&gt; let you be defeated by enemies&lt;/del&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Yesterday&amp;rsquo;s update covered the introduction to the game, and how I wrote a dispatcher to bring the player from the introduction and into the main game. At that time, the introduction was written entirely in code, but that was a problem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- It Begins</title>
+      <link>http://localhost:1313/posts/2022/03/01/7drl-building-an-engine-it-begins/</link>
+      <pubDate>Tue, 01 Mar 2022 07:38:11 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/01/7drl-building-an-engine-it-begins/</guid>
+      <description>&lt;p&gt;Yesterday I mentioned a few things that were &lt;em&gt;required&lt;/em&gt; to be part of any roguelike game engine. Today, I add two of them &amp;ndash; an introduction, and a way for the player to be defeated.&lt;/p&gt;&#xA;&lt;p&gt;To recap: Here are the things that I felt needed to be addressed in order to even begin thinking about the actual game I&amp;rsquo;ll be building in a week and a half:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The game &lt;em&gt;must&lt;/em&gt; begin- The game &lt;em&gt;must&lt;/em&gt; have a win condition- The game &lt;em&gt;must&lt;/em&gt; let you lose- The game &lt;em&gt;must&lt;/em&gt; let you defeat enemies- The game &lt;em&gt;must&lt;/em&gt; let you be defeated by enemies&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When I start programming the game, I am going to start with these five things. The player will probably be able to win in just a minute or two, or perhaps be defeated. Once I have these five things done &amp;ndash; which really should happen in the first day or two &amp;ndash; then I can start adding content between the beginning of the game and the end of the game, while &lt;em&gt;always&lt;/em&gt; being able to draw a line from start to end, such that, at any point in time, I could say the game was fully playable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Setting the Scope</title>
+      <link>http://localhost:1313/posts/2022/02/28/7drl-building-an-engine-setting-the-scope/</link>
+      <pubDate>Mon, 28 Feb 2022 08:33:52 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/28/7drl-building-an-engine-setting-the-scope/</guid>
+      <description>&lt;p&gt;This weekend, I added weapons, monsters only move when you move, and I added flags to tell if items were identified, cursed, wielded or worn. Each flag multiplies the complexity of the code by at least three times, but it is flags like these that are central to the Roguelike experience. How many flags I choose to implement has a direct correlation to how the game plays&amp;hellip; and whether I can finish it at all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- YAML</title>
+      <link>http://localhost:1313/posts/2022/02/24/7drl-building-an-engine-yaml/</link>
+      <pubDate>Thu, 24 Feb 2022 00:14:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/24/7drl-building-an-engine-yaml/</guid>
+      <description>&lt;p&gt;If someone were to quiz me on how a game engine is different from a game, I&amp;rsquo;d think about it a bit, and then probably explain that a game is run &lt;em&gt;by&lt;/em&gt; the game engine, but no part of the game is actually &lt;em&gt;in&lt;/em&gt; the game engine. I&amp;rsquo;m enforcing that by moving the game (as opposed to the game engine) into YAML, which stands for &lt;em&gt;&lt;strong&gt;Y&lt;/strong&gt;AML &lt;strong&gt;a&lt;/strong&gt;in’t &lt;strong&gt;m&lt;/strong&gt;arkup language&lt;/em&gt;. The game is data. The game engine runs that data.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Line of Sight</title>
+      <link>http://localhost:1313/posts/2022/02/21/7drl-building-an-engine-line-of-sight/</link>
+      <pubDate>Mon, 21 Feb 2022 08:07:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/21/7drl-building-an-engine-line-of-sight/</guid>
+      <description>&lt;p&gt;NPCs don&amp;rsquo;t want to hit their allies while they are attacking you with ranged attacks. Some objects in the room can block them as well &amp;ndash; and using the objects in the room to deal with larger swarms of enemies will be an important strategy in the actual game. Today we go over the line of sight algorithm.&lt;/p&gt;&#xA;&lt;p&gt;As before, you can always test the latest state of the game engine by &lt;a href=&#34;https://trinket.io/pygame/86b9301490?outputOnly=true&#34; target=&#34;_blank&#34;&gt;following this link to Trinket IO&lt;/a&gt;&#xA;. I&amp;rsquo;d rather work with something that has the latest version of Pygame, or at least let me use a larger screen, but ya work with the tools ya have.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Path Finding</title>
+      <link>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-path-finding/</link>
+      <pubDate>Thu, 17 Feb 2022 23:30:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-path-finding/</guid>
+      <description>&lt;p&gt;Path finding is central to all rogue-likes. If an enemy can&amp;rsquo;t &lt;em&gt;find&lt;/em&gt; you, they can&amp;rsquo;t &lt;em&gt;fight&lt;/em&gt; you&amp;hellip; and that wouldn&amp;rsquo;t be any fun. Tonight, I go over Dijkstra&amp;rsquo;s famous pathfinding algorithm, the differences between that and A*, and how I implemented them in the engine.&lt;/p&gt;&#xA;&lt;p&gt;Once again, you can play the engine as it currently exists by &lt;a href=&#34;https://trinket.io/pygame/86b9301490?outputOnly=true&#34; target=&#34;_blank&#34;&gt;clicking this link&lt;/a&gt;&#xA; and then clicking the &amp;ldquo;Run&amp;rdquo; button near the top of the window. New for today: pressing the F5 button on the keyboard creates a new, random map. I don&amp;rsquo;t pretend this is a game &amp;ndash; the game has to wait for 7DRL to officially begin.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Refactoring</title>
+      <link>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-refactoring/</link>
+      <pubDate>Thu, 17 Feb 2022 00:20:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-refactoring/</guid>
+      <description>&lt;p&gt;I didn&amp;rsquo;t make a lot of visible progress today, but I decided it was time to take a step back and do a vital step in any programming project &amp;ndash; refactoring.&lt;/p&gt;&#xA;&lt;p&gt;As usual, you can &amp;ldquo;play&amp;rdquo; the current test engine by &lt;a href=&#34;https://trinket.io/pygame/86b9301490?outputOnly=true&#34; target=&#34;_blank&#34;&gt;following this link to Trinket&lt;/a&gt;&#xA; and then pressing the &amp;ldquo;Run&amp;rdquo; button along the top of the window.&lt;/p&gt;&#xA;&lt;p&gt;Trinket is a &amp;ldquo;good enough&amp;rdquo; solution for now. I&amp;rsquo;d like to move to a native browser implementation, but it ticks the checkbox that says &amp;ldquo;can run in browser&amp;rdquo;, so I move on to issues I haven&amp;rsquo;t yet addressed. (For one thing, Trinket doesn&amp;rsquo;t use the latest version of Pygame, so sometimes I find myself using features not yet available there).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Animation</title>
+      <link>http://localhost:1313/posts/2022/02/15/7drl-building-an-engine-animation/</link>
+      <pubDate>Tue, 15 Feb 2022 22:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/15/7drl-building-an-engine-animation/</guid>
+      <description>&lt;p&gt;Tonight, I made it so my sprites had a walking animation, decided to show all four walls of the room, and found out some things about Trinket I didn&amp;rsquo;t know before. Also, what is a roguelike, anyway? And why not use something like Unity that solves most of the problems I am having?&lt;/p&gt;&#xA;&lt;p&gt;I am building a rogue-like engine to use in the upcoming &amp;ldquo;7DRL&amp;rdquo; game jam. You can see my current progress by heading to Trinket &lt;a href=&#34;https://trinket.io/pygame/86b9301490?outputOnly=true&#34; target=&#34;_blank&#34;&gt;via this link&lt;/a&gt;&#xA; and pressing the &amp;ldquo;Run&amp;rdquo; button up along the top.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- In the Browser</title>
+      <link>http://localhost:1313/posts/2022/02/14/7drl-building-an-engine-in-the-browser/</link>
+      <pubDate>Mon, 14 Feb 2022 22:58:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/14/7drl-building-an-engine-in-the-browser/</guid>
+      <description>&lt;p&gt;One of the items on my 7DRL checklist for this year is to have the game run in a browser. The last time I did this, I used Pygame and could only share it with people by handing them the source and hoping they happened to have Python and Pygame installed. As part of the Rogue-like game engine development, I&amp;rsquo;m looking into ways to get the game playable in the browser, while still being able to use Pygame to develop it. Today, I&amp;rsquo;m looking at &lt;a href=&#34;https://trinket.io/&#34; target=&#34;_blank&#34;&gt;Trinket&lt;/a&gt;&#xA;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- A Room</title>
+      <link>http://localhost:1313/posts/2022/02/13/7drl-building-an-engine-a-room/</link>
+      <pubDate>Sun, 13 Feb 2022 19:58:14 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/13/7drl-building-an-engine-a-room/</guid>
+      <description>&lt;p&gt;The annual 7DRL &amp;ndash; 7 Day Rogue-Like &amp;ndash; game hackathon is next month. I did this a really long time ago, but I didn&amp;rsquo;t know at that time that I could start the competition with a game engine already programmed. By the time I finished the engine, I only had a day left to build some sort of game on it. This time, I&amp;rsquo;m building the engine ahead of time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Daily Blogroll Oct 19: Time enough to learn to swim edition</title>
+      <link>http://localhost:1313/posts/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/</link>
+      <pubDate>Thu, 20 Oct 2011 05:00:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/</guid>
+      <description>&lt;p&gt;If you were given six months to live, you wouldn&amp;rsquo;t spend it leveling up a new character in some MMORPG. You&amp;rsquo;d want to do something that gave your life meaning. Six months at the end of your life isn&amp;rsquo;t more valuable than six months right now. In fact, six months right now is way better. Truth is, your friends and family don&amp;rsquo;t care that you leveled a character. They care about the time you spent with them. (Fact is, it&amp;rsquo;s almost certain nobody in the world cares about your achievements in video games, and in a couple of years, neither will you).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL -- World of Roguecraft: Slightly more fun than clipping your nails.</title>
+      <link>http://localhost:1313/posts/2010/03/24/7drl-world-of-roguecraft-slightly-more-fun-than-clipping-your-nails/</link>
+      <pubDate>Wed, 24 Mar 2010 06:41:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/24/7drl-world-of-roguecraft-slightly-more-fun-than-clipping-your-nails/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://www.roguetemple.com/7drl/2010/&#34; target=&#34;_blank&#34;&gt;ratings for the entries&lt;/a&gt;&#xA; in &lt;a href=&#34;http://tinyurl.com/ybrdra2&#34; target=&#34;_blank&#34;&gt;this year&amp;rsquo;s 7DRL &amp;ndash; 7 Day Rogue-Like &amp;ndash; game design challenge&lt;/a&gt;&#xA; are in, and my entry, &lt;a href=&#34;http://groups.google.com/group/rec.games.roguelike.development/browse_thread/thread/8ae409f0e60c748d#&#34; target=&#34;_blank&#34;&gt;World of Roguecraft&lt;/a&gt;&#xA;, is in the top 95%! So grats me ;)&lt;/p&gt;&#xA;&lt;p&gt;My game had its best scores in aesthetics (2/3) and scope (1.67/3). Can&amp;rsquo;t argue with that. I spent too much time working on the game engine and not enough on the game. Next year, I&amp;rsquo;m going to take the hint and work on my game engine ahead of time, leaving the seven days of the competition focused entirely on making a game. That&amp;rsquo;s what the winner did, and is within the bounds of the challenge as long as you note that your game is built on a game engine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL Day 7: Content, content, content</title>
+      <link>http://localhost:1313/posts/2010/03/13/7drl-day-7-content-content-content/</link>
+      <pubDate>Sat, 13 Mar 2010 16:38:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/13/7drl-day-7-content-content-content/</guid>
+      <description>&lt;p&gt;When I started with the 7DRL game design challenge, I&amp;rsquo;d set a timeline. I would need to get all the game mechanics done by last Sunday, so I could focus on adding content to the game, doing balancing, playtesting the game, polishing it to a fine sheen, until today it would burst on the scene like a supernova. I&amp;rsquo;d be getting piles of emails from indie game studios asking if I wanted to work on some cool projects, doors would open and angels would fly out begging me to expand the game into some monster AAA title and I&amp;hellip;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: World of Roguecraft, Day 5</title>
+      <link>http://localhost:1313/posts/2010/03/12/7drl-world-of-roguecraft-day-5/</link>
+      <pubDate>Fri, 12 Mar 2010 00:27:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/12/7drl-world-of-roguecraft-day-5/</guid>
+      <description>&lt;p&gt;Monday evening, I understood what my game wanted to be about. Tuesday, I realized that the game was horribly, horribly flawed. Coming in, all I really knew I wanted to do was the graph paper-like room generation, and I hoped the rest of the game would occur to me as I was doing that.&lt;/p&gt;&#xA;&lt;p&gt;And it did &amp;ndash; it just turned out to be a different game than the one I was writing.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL Day 3: Inventory, Messages, Improved Targeting</title>
+      <link>http://localhost:1313/posts/2010/03/09/7drl-day-3-inventory-messages-improved-targeting/</link>
+      <pubDate>Tue, 09 Mar 2010 00:03:52 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/09/7drl-day-3-inventory-messages-improved-targeting/</guid>
+      <description>&lt;p&gt;For those people who don&amp;rsquo;t care about the 7DRL game design challenge, don&amp;rsquo;t worry &amp;ndash; things will be back to normal this weekend. I&amp;rsquo;ve just finished day 3 of the seven days, and I&amp;rsquo;ve almost finished the basic mechanics.&lt;/p&gt;&#xA;&lt;p&gt;Today I added the inventory system and integrated it into the targeting window. You can only wield one item at a time; I&amp;rsquo;m not going to bother with armor and that stuff. If you want to use something, you will be holding it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL Day 2: Monsters, Targets, Items</title>
+      <link>http://localhost:1313/posts/2010/03/07/7drl-day-2-monsters-targets-items/</link>
+      <pubDate>Sun, 07 Mar 2010 20:05:11 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/07/7drl-day-2-monsters-targets-items/</guid>
+      <description>&lt;p&gt;My 7DRL entry is moving along, but it&amp;rsquo;s not moving quickly. I&amp;rsquo;d said even before I started this that, given a full time job, how the game was at the end of Sunday &amp;ndash; today &amp;ndash; is how it would have to be.&lt;/p&gt;&#xA;&lt;p&gt;I ALMOST got inventory in today; it is partially in, but I need to display it, and I will get to that, but it will likely be the last feature I implement. I need to start adding in the content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Milestone #1</title>
+      <link>http://localhost:1313/posts/2010/03/06/7drl-milestone-1/</link>
+      <pubDate>Sat, 06 Mar 2010 16:16:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/06/7drl-milestone-1/</guid>
+      <description>&lt;p&gt;I started working on my entry to the annual 7DRL (7 Day Rogue-like) game design challenge today. I&amp;rsquo;ve been working on algorithms for the game for the past week; today I took the algorithms for map generation and room connectivity and put them into real code.&lt;/p&gt;&#xA;&lt;p&gt;It turned out pretty much exactly as I imagined &amp;ndash; I am going for a game that looks like it&amp;rsquo;s being played with toys on a map drawn with marker on graph paper. When I got it first working, I realized I needed a way to show where you had already been, so I draw visited rooms in a muted shade to give the player SOME idea when they&amp;rsquo;ve cleared the map.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Java Test: Ramping up for 7DRL</title>
+      <link>http://localhost:1313/posts/2010/02/15/java-test-ramping-up-for-7drl/</link>
+      <pubDate>Mon, 15 Feb 2010 19:03:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/02/15/java-test-ramping-up-for-7drl/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve decided to take the jump and enter the &lt;a href=&#34;http://roguebasin.roguelikedevelopment.org/index.php?title=7DRL&#34; target=&#34;_blank&#34;&gt;Seven Day Roguelike&lt;/a&gt;&#xA; (7DRL) competition starting next month. The challenge? Write a complete &amp;ldquo;rogue-like&amp;rdquo; adventure game in just seven days. The additional challenge is that these include WORKING days, so there&amp;rsquo;s far less time in which to do it.&lt;/p&gt;&#xA;&lt;p&gt;My first inclination was to do it in Python with the PyGame SDL libraries on Linux. Trouble is, nobody will ever see the game that way. So while talking with Kasul last night, I decided to reach deep into my past and write it as a Java applet.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

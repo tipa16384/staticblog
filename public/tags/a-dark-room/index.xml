@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>A Dark Room on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/a-dark-room/</link>
+    <description>Recent content in A Dark Room on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 31 Mar 2025 12:48:32 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/a-dark-room/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Know What I Did Last Weekend</title>
+      <link>http://localhost:1313/posts/2025/03/31/i-know-what-i-did-last-weekend-3/</link>
+      <pubDate>Mon, 31 Mar 2025 12:48:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/03/31/i-know-what-i-did-last-weekend-3/</guid>
+      <description>Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O&amp;#39; STUFF.</description>
+    </item>
+  </channel>
+</rss>

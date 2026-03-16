@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hurricane Isaias on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/hurricane-isaias/</link>
+    <description>Recent content in Hurricane Isaias on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 26 Aug 2020 07:23:36 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hurricane-isaias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blaugust #26: When the Levee Breaks</title>
+      <link>http://localhost:1313/posts/2020/08/26/blaugust-26-when-the-levee-breaks/</link>
+      <pubDate>Wed, 26 Aug 2020 07:23:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/08/26/blaugust-26-when-the-levee-breaks/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

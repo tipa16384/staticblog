@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Solo Adventure on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/solo-adventure/</link>
+    <description>Recent content in Solo Adventure on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Mar 2025 08:43:21 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/solo-adventure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tunnels &amp;amp; Trolls: Sword for Hire</title>
+      <link>http://localhost:1313/posts/2025/03/03/tunnels-trolls-sword-for-hire/</link>
+      <pubDate>Mon, 03 Mar 2025 08:43:21 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/03/03/tunnels-trolls-sword-for-hire/</guid>
+      <description>I may be committing some light copyright infringement...</description>
+    </item>
+  </channel>
+</rss>

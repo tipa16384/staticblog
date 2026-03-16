@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Arena on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/arena/</link>
+    <description>Recent content in Arena on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Aug 2014 07:31:21 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/arena/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing &#34;Crushbone Arena&#34;</title>
+      <link>http://localhost:1313/posts/2014/08/25/designing-crushbone-arena/</link>
+      <pubDate>Mon, 25 Aug 2014 07:31:21 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/08/25/designing-crushbone-arena/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Star Trek Online FE304: Coliseum (spoilers)</title>
+      <link>http://localhost:1313/posts/2011/02/27/star-trek-online-fe304-coliseum-spoilers/</link>
+      <pubDate>Sun, 27 Feb 2011 13:21:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/02/27/star-trek-online-fe304-coliseum-spoilers/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Arena Season 1 and Automagic</title>
+      <link>http://localhost:1313/posts/2009/05/15/wizard-101-arena-season-1-and-automagic/</link>
+      <pubDate>Fri, 15 May 2009 10:00:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/05/15/wizard-101-arena-season-1-and-automagic/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Housing slump? What housing slump?</title>
+      <link>http://localhost:1313/posts/2009/05/07/wizard-101-housing-slump-what-housing-slump/</link>
+      <pubDate>Thu, 07 May 2009 00:46:34 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/05/07/wizard-101-housing-slump-what-housing-slump/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Killing me softly with your spells</title>
+      <link>http://localhost:1313/posts/2008/12/20/wizard-101-killing-me-softly-with-your-spells/</link>
+      <pubDate>Sat, 20 Dec 2008 19:39:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/12/20/wizard-101-killing-me-softly-with-your-spells/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101 Arena Season 1</title>
+      <link>http://localhost:1313/posts/2008/12/15/wizard-101-arena-season-1/</link>
+      <pubDate>Mon, 15 Dec 2008 23:53:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/12/15/wizard-101-arena-season-1/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

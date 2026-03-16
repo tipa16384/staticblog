@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Master Tower on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/master-tower/</link>
+    <description>Recent content in Master Tower on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 14 Nov 2008 10:00:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/master-tower/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wizard 101: I am finally free.</title>
+      <link>http://localhost:1313/posts/2008/11/14/wizard-101-i-am-finally-free/</link>
+      <pubDate>Fri, 14 Nov 2008 10:00:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/11/14/wizard-101-i-am-finally-free/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

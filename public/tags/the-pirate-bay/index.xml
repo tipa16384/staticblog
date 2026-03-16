@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Pirate Bay on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/the-pirate-bay/</link>
+    <description>Recent content in The Pirate Bay on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Apr 2009 05:53:24 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/the-pirate-bay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weblog 4/17</title>
+      <link>http://localhost:1313/posts/2009/04/17/weblog-417/</link>
+      <pubDate>Fri, 17 Apr 2009 05:53:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/17/weblog-417/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

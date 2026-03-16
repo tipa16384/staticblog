@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mew on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/mew/</link>
+    <description>Recent content in Mew on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Sep 2023 20:16:35 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mew/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Defeating Mewtwo in Pokémon Scarlet/Violet</title>
+      <link>http://localhost:1313/posts/2023/09/01/defeating-mewtwo-in-pokemon-scarlet-violet/</link>
+      <pubDate>Fri, 01 Sep 2023 20:16:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/09/01/defeating-mewtwo-in-pokemon-scarlet-violet/</guid>
+      <description>It&amp;#39;s not really hard to defeat Mewtwo if everyone is on the same page. I did it both times with Mew; once built for support, once built for damage.</description>
+    </item>
+    <item>
+      <title>Only Mew can stop Mewtwo now...</title>
+      <link>http://localhost:1313/posts/2023/08/11/only-mew-can-stop-mewtwo-now/</link>
+      <pubDate>Fri, 11 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/11/only-mew-can-stop-mewtwo-now/</guid>
+      <description>Mewtwo is coming to Pokemon Scarlet and Violet in a 7 star Tera raid. I&amp;#39;ve had exactly zero luck winning any 7 star raids so far. This time, I plan to be prepared.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>World Yo-Yo Contest on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/world-yo-yo-contest/</link>
+    <description>Recent content in World Yo-Yo Contest on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 18 Aug 2023 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/world-yo-yo-contest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>World Yo-Yo Contest 2023: Life is the Medium, Content is the Point</title>
+      <link>http://localhost:1313/posts/2023/08/18/world-yo-yo-contest-2023-life-is-the-medium-content-is-the-point/</link>
+      <pubDate>Fri, 18 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/18/world-yo-yo-contest-2023-life-is-the-medium-content-is-the-point/</guid>
+      <description>YouTube decided I needed to learn about the World Yo-Yo Contest today. Okay.</description>
+    </item>
+  </channel>
+</rss>

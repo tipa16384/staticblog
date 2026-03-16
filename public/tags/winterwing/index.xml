@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Winterwing on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/winterwing/</link>
+    <description>Recent content in Winterwing on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 07 Aug 2008 07:46:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/winterwing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ2: Night of the Living Goblin</title>
+      <link>http://localhost:1313/posts/2008/08/07/eq2-night-of-the-living-goblin/</link>
+      <pubDate>Thu, 07 Aug 2008 07:46:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/08/07/eq2-night-of-the-living-goblin/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Nostalgia: Paludal Caverns, Mistmoore LDoNs and ... Darklight Woods?</title>
+      <link>http://localhost:1313/posts/2008/05/17/nostalgia-paludal-caverns-mistmoore-ldons-and-darklight-woods/</link>
+      <pubDate>Sat, 17 May 2008 08:34:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/05/17/nostalgia-paludal-caverns-mistmoore-ldons-and-darklight-woods/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ2: Taking Flight</title>
+      <link>http://localhost:1313/posts/2008/05/13/eq2-taking-flight/</link>
+      <pubDate>Tue, 13 May 2008 10:07:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/05/13/eq2-taking-flight/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Short updates: Rock Band, Vanguard and Pirates of the Burning Sea</title>
+      <link>http://localhost:1313/posts/2008/01/29/short-updates-rock-band-vanguard-and-pirates-of-the-burning-sea/</link>
+      <pubDate>Tue, 29 Jan 2008 08:18:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/01/29/short-updates-rock-band-vanguard-and-pirates-of-the-burning-sea/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ2: Failure Cascade</title>
+      <link>http://localhost:1313/posts/2007/11/30/eq2-failure-cascade/</link>
+      <pubDate>Fri, 30 Nov 2007 08:37:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2007/11/30/eq2-failure-cascade/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pantheon: Rise of the Fallen on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/pantheon-rise-of-the-fallen/</link>
+    <description>Recent content in Pantheon: Rise of the Fallen on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Jan 2025 16:46:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pantheon-rise-of-the-fallen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best of 2024: My Favorite MMOs</title>
+      <link>http://localhost:1313/posts/2025/01/04/best-of-2024-my-favorite-mmos/</link>
+      <pubDate>Sat, 04 Jan 2025 16:46:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/04/best-of-2024-my-favorite-mmos/</guid>
+      <description>I played a few MMOs this past year. Here&amp;#39;s some of my favorites, including two from way back when.</description>
+    </item>
+    <item>
+      <title>Pantheon: Rise of the Fallen (alpha peek)</title>
+      <link>http://localhost:1313/posts/2023/12/21/pantheon-rise-of-the-fallen-alpha-peek/</link>
+      <pubDate>Thu, 21 Dec 2023 07:41:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/21/pantheon-rise-of-the-fallen-alpha-peek/</guid>
+      <description>More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new.</description>
+    </item>
+    <item>
+      <title>Pantheon: What&#39;s so bad about 247 Extraction?</title>
+      <link>http://localhost:1313/posts/2023/11/24/pantheon-whats-so-bad-about-247-extraction/</link>
+      <pubDate>Fri, 24 Nov 2023 10:33:38 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/11/24/pantheon-whats-so-bad-about-247-extraction/</guid>
+      <description>We need to have a little talk about Pantheon...</description>
+    </item>
+    <item>
+      <title>MMOs on the Bubble</title>
+      <link>http://localhost:1313/posts/2021/08/07/mmos-on-the-bubble/</link>
+      <pubDate>Sat, 07 Aug 2021 10:11:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/08/07/mmos-on-the-bubble/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EverQuest is dead. Long live EverQuest! New games trying to capture EQ nostalgia are doomed.</title>
+      <link>http://localhost:1313/posts/2020/05/11/mangled-everquest-day-1/</link>
+      <pubDate>Mon, 11 May 2020 01:02:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/05/11/mangled-everquest-day-1/</guid>
+      <description>I&amp;#39;ve been running around in an EverQuest Time-Limited Progression (TLP) server the past couple of days. Is there even such a thing as a new EverQuest player anymore?</description>
+    </item>
+  </channel>
+</rss>

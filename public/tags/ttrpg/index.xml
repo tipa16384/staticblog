@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TTRPG on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/ttrpg/</link>
+    <description>Recent content in TTRPG on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Jul 2024 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ttrpg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dungeon Crawl Classics TTRPG: Survival of the Fittest</title>
+      <link>http://localhost:1313/posts/2024/07/24/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</link>
+      <pubDate>Wed, 24 Jul 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/07/24/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</guid>
+      <description>Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying.</description>
+    </item>
+  </channel>
+</rss>

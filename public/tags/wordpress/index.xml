@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wordpress on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/wordpress/</link>
+    <description>Recent content in Wordpress on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 16 Oct 2025 08:46:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Taking Control of my Skeets and Toots</title>
+      <link>http://localhost:1313/posts/2025/10/16/taking-control-of-my-skeets-and-toots/</link>
+      <pubDate>Thu, 16 Oct 2025 08:46:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/10/16/taking-control-of-my-skeets-and-toots/</guid>
+      <description>I lost so much stuff when I left Twitter, and again when G&#43; shut down. Never again. I&amp;#39;m using WordLand to control my social media.</description>
+    </item>
+    <item>
+      <title>Chasing Dings! goes to West Karana</title>
+      <link>http://localhost:1313/posts/2021/09/08/chasing-dings-goes-to-west-karana/</link>
+      <pubDate>Wed, 08 Sep 2021 08:01:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/09/08/chasing-dings-goes-to-west-karana/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>XFire Wordpress Plugin -- first release</title>
+      <link>http://localhost:1313/posts/2009/03/26/xfire-wordpress-plugin-first-release/</link>
+      <pubDate>Thu, 26 Mar 2009 23:53:14 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/26/xfire-wordpress-plugin-first-release/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>How to start an EverQuest blog.</title>
+      <link>http://localhost:1313/posts/2008/10/22/how-to-start-an-everquest-blog/</link>
+      <pubDate>Wed, 22 Oct 2008 12:14:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/22/how-to-start-an-everquest-blog/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

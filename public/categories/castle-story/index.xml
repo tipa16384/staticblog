@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Castle Story on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/castle-story/</link>
+    <description>Recent content in Castle Story on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Oct 2012 23:43:44 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/castle-story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Log: Castle Story, Diablo 3</title>
+      <link>http://localhost:1313/posts/2012/10/17/game-log-castle-story-diablo-3/</link>
+      <pubDate>Wed, 17 Oct 2012 23:43:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2012/10/17/game-log-castle-story-diablo-3/</guid>
+      <description>&lt;figure class=&#34;align-center&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;Castle Story Prototype&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;When Sauropod was hawking their &lt;a href=&#34;http://www.kickstarter.com/projects/902505202/castle-story&#34; target=&#34;_blank&#34;&gt;Kickstarter for RTS/Minecraft hybrid Castle Story&lt;/a&gt;&#xA;, they promised that backers past a certain tier would get access to the very prototype they were using in the demo. Today they sent out the prototype, with the warning that the game probably wouldn&amp;rsquo;t be really playable or anything in this primal state.&lt;/p&gt;&#xA;&lt;p&gt;Well, it&amp;rsquo;s hard to argue with that. I couldn&amp;rsquo;t really get the game to do anything or build anything. I figured out how to do logging, and after I did something, the little critters built some barrels and log pits, and eventually some mining, but getting them to fill resource caches with stone bricks and then go on to make a castle from them (which I&amp;rsquo;d sketched out with their wireframe maker tools) did nothing.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

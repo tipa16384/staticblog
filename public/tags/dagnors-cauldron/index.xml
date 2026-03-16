@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dagnor&#39;s Cauldron on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/dagnors-cauldron/</link>
+    <description>Recent content in Dagnor&#39;s Cauldron on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 11 Sep 2008 08:32:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dagnors-cauldron/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ: Plane of Storms</title>
+      <link>http://localhost:1313/posts/2008/09/11/eq-plane-of-storms/</link>
+      <pubDate>Thu, 11 Sep 2008 08:32:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/11/eq-plane-of-storms/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

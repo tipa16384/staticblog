@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bridges on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/bridges/</link>
+    <description>Recent content in Bridges on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 08 Aug 2023 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bridges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sam Portsmouth Bridges</title>
+      <link>http://localhost:1313/posts/2023/08/08/sam-portsmouth-bridges/</link>
+      <pubDate>Tue, 08 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/08/sam-portsmouth-bridges/</guid>
+      <description>I really don&amp;#39;t know what else you would call a blog post on a gaming blog about bridges in Portsmouth, NH. It&amp;#39;s introduction week, so get ready.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 9 -- Rope Bridge</title>
+      <link>http://localhost:1313/posts/2022/12/09/advent-of-code-day-9-rope-bridge/</link>
+      <pubDate>Fri, 09 Dec 2022 21:35:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/09/advent-of-code-day-9-rope-bridge/</guid>
+      <description>The elves are crossing a bridge, but it is a really short bridge -- in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?</description>
+    </item>
+    <item>
+      <title>Blaugust #19: Defend Your Life</title>
+      <link>http://localhost:1313/posts/2020/08/19/blaugust-19-defend-your-life/</link>
+      <pubDate>Wed, 19 Aug 2020 07:54:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/08/19/blaugust-19-defend-your-life/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

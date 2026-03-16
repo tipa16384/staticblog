@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Say Hello to My Little Friend on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/say-hello-to-my-little-friend/</link>
+    <description>Recent content in Say Hello to My Little Friend on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 27 Oct 2024 10:55:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/say-hello-to-my-little-friend/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond Shadowgate: The SECRET Menu?!</title>
+      <link>http://localhost:1313/posts/2024/10/27/beyond-shadowgate-the-secret-menu/</link>
+      <pubDate>Sun, 27 Oct 2024 10:55:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/10/27/beyond-shadowgate-the-secret-menu/</guid>
+      <description>If you&amp;#39;re a Beyond Shadowgate speedrunner, or are considering a promising career in Shadowgate speedrunning, you&amp;#39;re going to want to read this.</description>
+    </item>
+  </channel>
+</rss>

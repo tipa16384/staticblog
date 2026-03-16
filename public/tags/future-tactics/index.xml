@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Future Tactics on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/future-tactics/</link>
+    <description>Recent content in Future Tactics on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 09 Jun 2024 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/future-tactics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retro Haul: Tactics and Sea Monkeys</title>
+      <link>http://localhost:1313/posts/2024/06/09/retro-haul-tactics-and-sea-monkeys/</link>
+      <pubDate>Sun, 09 Jun 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/06/09/retro-haul-tactics-and-sea-monkeys/</guid>
+      <description>We found ourselves once again awash in a sea of retro games. We found some winners, maybe...?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shards of Dalaya on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/shards-of-dalaya/</link>
+    <description>Recent content in Shards of Dalaya on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Oct 2009 07:02:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/shards-of-dalaya/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Blogroll 10/8: Inappropriate Birth Metaphor edition</title>
+      <link>http://localhost:1313/posts/2009/10/08/daily-blogroll-108-inappropriate-birth-metaphor-edition/</link>
+      <pubDate>Thu, 08 Oct 2009 07:02:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/10/08/daily-blogroll-108-inappropriate-birth-metaphor-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Daily Blogroll 8/4 -- Lifetime edition</title>
+      <link>http://localhost:1313/posts/2009/08/04/daily-blogroll-84-lifetime-edition/</link>
+      <pubDate>Tue, 04 Aug 2009 08:00:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/08/04/daily-blogroll-84-lifetime-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Daily Blogroll 7/15 -- Same quests, different day edition</title>
+      <link>http://localhost:1313/posts/2009/07/15/daily-blogroll-715-same-quests-different-day-edition/</link>
+      <pubDate>Wed, 15 Jul 2009 07:34:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/07/15/daily-blogroll-715-same-quests-different-day-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Daily Blogroll 6/1 -- Almost Summer edition</title>
+      <link>http://localhost:1313/posts/2009/06/01/daily-blogroll-61-almost-summer-edition/</link>
+      <pubDate>Mon, 01 Jun 2009 07:44:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/06/01/daily-blogroll-61-almost-summer-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Web Log 4/25</title>
+      <link>http://localhost:1313/posts/2009/04/25/web-log-425/</link>
+      <pubDate>Sat, 25 Apr 2009 08:01:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/25/web-log-425/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Web log 4/19</title>
+      <link>http://localhost:1313/posts/2009/04/19/web-log-419/</link>
+      <pubDate>Sun, 19 Apr 2009 10:01:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/19/web-log-419/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Web Logging!</title>
+      <link>http://localhost:1313/posts/2009/04/16/web-logging/</link>
+      <pubDate>Thu, 16 Apr 2009 07:21:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/16/web-logging/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Shards of Dalaya blog: Dalayan Diary</title>
+      <link>http://localhost:1313/posts/2009/04/13/shards-of-dalaya-blog-dalayan-diary/</link>
+      <pubDate>Mon, 13 Apr 2009 18:10:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/13/shards-of-dalaya-blog-dalayan-diary/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

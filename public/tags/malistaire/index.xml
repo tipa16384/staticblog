@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Malistaire on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/malistaire/</link>
+    <description>Recent content in Malistaire on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jun 2009 00:28:33 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/malistaire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wizard 101: The Ghost of Mrs. Malistaire</title>
+      <link>http://localhost:1313/posts/2009/06/25/wizard-101-the-ghost-of-mrs-malistaire/</link>
+      <pubDate>Thu, 25 Jun 2009 00:28:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/06/25/wizard-101-the-ghost-of-mrs-malistaire/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Malistaire finally coughs up my robe!</title>
+      <link>http://localhost:1313/posts/2009/04/25/wizard-101-malistaire-finally-coughs-up-my-robe/</link>
+      <pubDate>Sat, 25 Apr 2009 20:10:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/25/wizard-101-malistaire-finally-coughs-up-my-robe/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: So, Malistaire. We meet again.</title>
+      <link>http://localhost:1313/posts/2009/03/28/wizard-101-so-malistaire-we-meet-again/</link>
+      <pubDate>Sat, 28 Mar 2009 21:19:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/28/wizard-101-so-malistaire-we-meet-again/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Father Drake&#39;s Tower</title>
+      <link>http://localhost:1313/posts/2009/03/18/wizard-101-father-drakes-tower-2/</link>
+      <pubDate>Wed, 18 Mar 2009 07:44:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/18/wizard-101-father-drakes-tower-2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Opening Silver Chests</title>
+      <link>http://localhost:1313/posts/2009/03/05/wizard-101-opening-silver-chests/</link>
+      <pubDate>Thu, 05 Mar 2009 06:46:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/05/wizard-101-opening-silver-chests/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Bringing Balance to Wizard 101</title>
+      <link>http://localhost:1313/posts/2009/02/17/bringing-balance-to-wizard-101/</link>
+      <pubDate>Tue, 17 Feb 2009 07:47:13 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/02/17/bringing-balance-to-wizard-101/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Crown of Fire</title>
+      <link>http://localhost:1313/posts/2009/02/10/wuzard-101-crown-of-fire/</link>
+      <pubDate>Tue, 10 Feb 2009 08:32:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/02/10/wuzard-101-crown-of-fire/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Dragonspyre Unleashed</title>
+      <link>http://localhost:1313/posts/2009/01/20/wizard-101-dragonspyre-unleashed/</link>
+      <pubDate>Tue, 20 Jan 2009 02:14:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/01/20/wizard-101-dragonspyre-unleashed/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Kensington... and DRAGONSPYRE!</title>
+      <link>http://localhost:1313/posts/2009/01/10/wizard-101-kensington-and-dragonspyre/</link>
+      <pubDate>Sat, 10 Jan 2009 14:28:28 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/01/10/wizard-101-kensington-and-dragonspyre/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>W101: The long journey to Moo Shu</title>
+      <link>http://localhost:1313/posts/2008/10/19/w101-the-long-journey-to-moo-shu/</link>
+      <pubDate>Sun, 19 Oct 2008 23:32:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/19/w101-the-long-journey-to-moo-shu/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

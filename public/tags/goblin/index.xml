@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Goblin on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/goblin/</link>
+    <description>Recent content in Goblin on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Jan 2024 07:58:24 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/goblin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trash Goblin Demo</title>
+      <link>http://localhost:1313/posts/2024/01/08/trash-goblin-demo/</link>
+      <pubDate>Mon, 08 Jan 2024 07:58:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/01/08/trash-goblin-demo/</guid>
+      <description>One goblin&amp;#39;s trash is another goblin&amp;#39;s treasure...</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abashi on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/abashi/</link>
+    <description>Recent content in Abashi on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jun 2020 11:45:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/abashi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EverQuest introduces &#34;appointment gaming&#34;; bring on the Abashi Server?</title>
+      <link>http://localhost:1313/posts/2020/06/01/everquest-introduces-appointment-gaming-bring-on-the-abashi-server/</link>
+      <pubDate>Mon, 01 Jun 2020 11:45:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/06/01/everquest-introduces-appointment-gaming-bring-on-the-abashi-server/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

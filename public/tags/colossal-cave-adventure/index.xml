@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Colossal Cave Adventure on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/colossal-cave-adventure/</link>
+    <description>Recent content in Colossal Cave Adventure on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Dec 2024 11:08:43 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/colossal-cave-adventure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Best of 2024: Adventure Games</title>
+      <link>http://localhost:1313/posts/2024/12/28/the-best-of-2024-adventure-games/</link>
+      <pubDate>Sat, 28 Dec 2024 11:08:43 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/28/the-best-of-2024-adventure-games/</guid>
+      <description>They were a mainstay of 80s gaming and then all but disappeared until Portal revolutionized the genre. They are still some of the most fun you can have on a computer.</description>
+    </item>
+    <item>
+      <title>ADVENT: Colossal Cave 3D</title>
+      <link>http://localhost:1313/posts/2024/05/12/advent-colossal-cave-3d/</link>
+      <pubDate>Sun, 12 May 2024 09:59:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/05/12/advent-colossal-cave-3d/</guid>
+      <description>Having spent the past several days mapping and exploring the text version, it&amp;#39;s finally time to replay Colossal Cave Adventure in glorious 3D.</description>
+    </item>
+    <item>
+      <title>ADVENT: Seasoned Adventurer</title>
+      <link>http://localhost:1313/posts/2024/05/11/advent-seasoned-adventurer/</link>
+      <pubDate>Sat, 11 May 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/05/11/advent-seasoned-adventurer/</guid>
+      <description>I got all the treasures I knew about... now, how about the treasures I don&amp;#39;t know about?</description>
+    </item>
+    <item>
+      <title>ADVENT: Twisty Passages, All Alike</title>
+      <link>http://localhost:1313/posts/2024/05/09/advent-twisty-passages-all-alike/</link>
+      <pubDate>Thu, 09 May 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/05/09/advent-twisty-passages-all-alike/</guid>
+      <description>A pirate stole our treasure! Time to steal it BACK. But first, we have to find our way through one of the most notorious mazes of all time...</description>
+    </item>
+    <item>
+      <title>ADVENT: The Secrets of Adventure</title>
+      <link>http://localhost:1313/posts/2024/05/08/advent-the-secrets-of-adventure/</link>
+      <pubDate>Wed, 08 May 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/05/08/advent-the-secrets-of-adventure/</guid>
+      <description>What you need to know before you begin to play Crowther and Woods&amp;#39; &amp;#34;Colossal Cave Adventure&amp;#34;.</description>
+    </item>
+    <item>
+      <title>ADVENT: The Road to Adventure</title>
+      <link>http://localhost:1313/posts/2024/05/07/advent-the-road-to-adventure/</link>
+      <pubDate>Tue, 07 May 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/05/07/advent-the-road-to-adventure/</guid>
+      <description>You can draw a direct line from Crowther and Woods&amp;#39; &amp;#34;Adventure&amp;#34; to MMOs such as EverQuest. I&amp;#39;m going to be playing it all the way through... twice.</description>
+    </item>
+  </channel>
+</rss>

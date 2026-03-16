@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Haven on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/the-haven/</link>
+    <description>Recent content in The Haven on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Mar 2025 07:56:22 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/the-haven/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malifaux: New Crew Two</title>
+      <link>http://localhost:1313/posts/2025/03/19/malifaux-new-crew-two/</link>
+      <pubDate>Wed, 19 Mar 2025 07:56:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/03/19/malifaux-new-crew-two/</guid>
+      <description>Rasputina meets the alien, mind-controlling Cadmus project on the streets of Malifaux City.</description>
+    </item>
+    <item>
+      <title>Malifaux: Booty &amp;amp; Plunder</title>
+      <link>http://localhost:1313/posts/2025/01/29/malifaux-booty-plunder/</link>
+      <pubDate>Wed, 29 Jan 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/29/malifaux-booty-plunder/</guid>
+      <description>Rasputina and her crew are painted and ready for &amp;#34;primed&amp;#34; time in her first serious match-up.</description>
+    </item>
+    <item>
+      <title>Malifaux: The Littlest Cap&#39;n</title>
+      <link>http://localhost:1313/posts/2025/01/12/malifaux-the-littlest-capn/</link>
+      <pubDate>Sun, 12 Jan 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/12/malifaux-the-littlest-capn/</guid>
+      <description>The local Malifaux club decided to hold a practice tournament ahead of Captain Con at the end of the month. I brought my new crew to give them a baptism by ice.</description>
+    </item>
+    <item>
+      <title>Malifaux Night: Literally Hell</title>
+      <link>http://localhost:1313/posts/2024/12/05/malifaux-night-literally-hell/</link>
+      <pubDate>Thu, 05 Dec 2024 15:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/05/malifaux-night-literally-hell/</guid>
+      <description>Tuesday night Malifaux. The snow outside was no match for the ice that waited for me inside.</description>
+    </item>
+    <item>
+      <title>Malifaux: Pig Farm</title>
+      <link>http://localhost:1313/posts/2024/11/20/malifaux-pig-farm/</link>
+      <pubDate>Wed, 20 Nov 2024 09:45:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/11/20/malifaux-pig-farm/</guid>
+      <description>Pig Love was the name of the game in last night’s exciting match against the infamous Captain Zipp.</description>
+    </item>
+  </channel>
+</rss>

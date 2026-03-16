@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pantheon: Rise of the Fallen on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/pantheon-rise-of-the-fallen/</link>
+    <description>Recent content in Pantheon: Rise of the Fallen on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Jan 2025 16:46:09 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/pantheon-rise-of-the-fallen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best of 2024: My Favorite MMOs</title>
+      <link>http://localhost:1313/posts/2025/01/04/best-of-2024-my-favorite-mmos/</link>
+      <pubDate>Sat, 04 Jan 2025 16:46:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/04/best-of-2024-my-favorite-mmos/</guid>
+      <description>I played a few MMOs this past year. Here&amp;rsquo;s some of my favorites, including two from way back when.</description>
+    </item>
+    <item>
+      <title>Pantheon: Rise of the Fallen (alpha peek)</title>
+      <link>http://localhost:1313/posts/2023/12/21/pantheon-rise-of-the-fallen-alpha-peek/</link>
+      <pubDate>Thu, 21 Dec 2023 07:41:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/21/pantheon-rise-of-the-fallen-alpha-peek/</guid>
+      <description>More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new.</description>
+    </item>
+    <item>
+      <title>Pantheon: What&#39;s so bad about 247 Extraction?</title>
+      <link>http://localhost:1313/posts/2023/11/24/pantheon-whats-so-bad-about-247-extraction/</link>
+      <pubDate>Fri, 24 Nov 2023 10:33:38 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/11/24/pantheon-whats-so-bad-about-247-extraction/</guid>
+      <description>We need to have a little talk about Pantheon&amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

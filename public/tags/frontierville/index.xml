@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frontierville on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/frontierville/</link>
+    <description>Recent content in Frontierville on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 31 Aug 2010 07:07:29 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/frontierville/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Treasure Abyss: Not your ordinary social game</title>
+      <link>http://localhost:1313/posts/2010/08/31/treasure-abyss-not-your-ordinary-social-game/</link>
+      <pubDate>Tue, 31 Aug 2010 07:07:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/08/31/treasure-abyss-not-your-ordinary-social-game/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Thoughts on the social gaming explosion</title>
+      <link>http://localhost:1313/posts/2010/08/27/thoughts-on-the-social-gaming-explosion/</link>
+      <pubDate>Fri, 27 Aug 2010 18:52:43 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/08/27/thoughts-on-the-social-gaming-explosion/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Frontierville: the Panorama</title>
+      <link>http://localhost:1313/posts/2010/08/07/frontierville-the-panorama/</link>
+      <pubDate>Sat, 07 Aug 2010 12:55:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/08/07/frontierville-the-panorama/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Zynga&#39;s Frontierville is Capitalism for Kids</title>
+      <link>http://localhost:1313/posts/2010/07/29/zyngas-frontierville-is-capitalism-for-kids/</link>
+      <pubDate>Thu, 29 Jul 2010 23:14:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/07/29/zyngas-frontierville-is-capitalism-for-kids/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

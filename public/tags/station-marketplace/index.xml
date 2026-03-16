@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Station Marketplace on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/station-marketplace/</link>
+    <description>Recent content in Station Marketplace on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Apr 2009 07:40:41 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/station-marketplace/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ2: Bugbears always roll need</title>
+      <link>http://localhost:1313/posts/2009/04/10/eq2-bugbears-always-roll-need/</link>
+      <pubDate>Fri, 10 Apr 2009 07:40:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/10/eq2-bugbears-always-roll-need/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ2: Epic encounter in my bedroom</title>
+      <link>http://localhost:1313/posts/2009/04/05/eq2-epic-encounter-in-my-bedroom/</link>
+      <pubDate>Sun, 05 Apr 2009 22:19:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/05/eq2-epic-encounter-in-my-bedroom/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ2: Latest arrivals in the Station Marketplace</title>
+      <link>http://localhost:1313/posts/2009/03/12/eq2-latest-arrivals-in-the-station-marketplace/</link>
+      <pubDate>Thu, 12 Mar 2009 07:47:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/12/eq2-latest-arrivals-in-the-station-marketplace/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ2: Hooded Justice never looked so sweet</title>
+      <link>http://localhost:1313/posts/2009/02/27/eq2-hooded-justice-never-looked-so-sweet/</link>
+      <pubDate>Fri, 27 Feb 2009 08:00:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/02/27/eq2-hooded-justice-never-looked-so-sweet/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

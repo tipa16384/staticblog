@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Neo Steam on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/neo-steam/</link>
+    <description>Recent content in Neo Steam on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 04 Aug 2023 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/neo-steam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Palia First Impressions: A Promising Start to a Social MMO Adventure</title>
+      <link>http://localhost:1313/posts/2023/08/04/palia-first-impressions-a-promising-start-to-a-social-mmo-adventure/</link>
+      <pubDate>Fri, 04 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/04/palia-first-impressions-a-promising-start-to-a-social-mmo-adventure/</guid>
+      <description>If you were waiting for the second coming of Free Realms, Palia ain&amp;#39;t it. But, if you hate adventuring and love gathering and crafting in your MMO of choice, you might just find a new home in Palia, the new social MMO from Singularity 6.</description>
+    </item>
+    <item>
+      <title>Daily Blogroll 12/2 -- Rift-tease Edition</title>
+      <link>http://localhost:1313/posts/2010/12/02/daily-blogroll-122-rift-tease-edition/</link>
+      <pubDate>Thu, 02 Dec 2010 06:00:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/12/02/daily-blogroll-122-rift-tease-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Assault on the Inbox: May 7, 2010</title>
+      <link>http://localhost:1313/posts/2010/05/08/assault-on-the-inbox-may-7-2010/</link>
+      <pubDate>Sat, 08 May 2010 08:26:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/05/08/assault-on-the-inbox-may-7-2010/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Nightly Blogroll -- Though Amaryllis dance edition</title>
+      <link>http://localhost:1313/posts/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/</link>
+      <pubDate>Mon, 08 Jun 2009 22:45:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Daily Blogroll 5/28 -- No funny name episode</title>
+      <link>http://localhost:1313/posts/2009/05/28/daily-blogroll-528-no-funny-name-episode/</link>
+      <pubDate>Thu, 28 May 2009 08:15:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/05/28/daily-blogroll-528-no-funny-name-episode/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Atlus&#39; NeoSteam: First Impressions</title>
+      <link>http://localhost:1313/posts/2009/05/22/atlus-neosteam-first-impressions/</link>
+      <pubDate>Fri, 22 May 2009 06:44:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/05/22/atlus-neosteam-first-impressions/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Atlus&#39; Neo Steam: F2P Fantasy Steampunk MMO</title>
+      <link>http://localhost:1313/posts/2009/02/24/atlus-neo-steam-f2p-fantasy-steampunk-mmo/</link>
+      <pubDate>Tue, 24 Feb 2009 07:22:19 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/02/24/atlus-neo-steam-f2p-fantasy-steampunk-mmo/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

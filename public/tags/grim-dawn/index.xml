@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Grim Dawn on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/grim-dawn/</link>
+    <description>Recent content in Grim Dawn on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Dec 2014 06:30:58 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/grim-dawn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grim Dawn: The Warden is Dead</title>
+      <link>http://localhost:1313/posts/2014/12/25/finished-the-first-chapter-of-grim-dawn-the-warden-is-dead-the-fights-move-so-fast-that-i-dont/</link>
+      <pubDate>Thu, 25 Dec 2014 06:30:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/25/finished-the-first-chapter-of-grim-dawn-the-warden-is-dead-the-fights-move-so-fast-that-i-dont/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Grim Dawn: I am a Witch Hunter!</title>
+      <link>http://localhost:1313/posts/2014/12/22/at-level-10-i-chose-occultist-as-my-second-class-and-thus-became-a-nightbladeoccultist-aka-witch/</link>
+      <pubDate>Mon, 22 Dec 2014 21:12:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/22/at-level-10-i-chose-occultist-as-my-second-class-and-thus-became-a-nightbladeoccultist-aka-witch/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Just started playing Grim Dawn</title>
+      <link>http://localhost:1313/posts/2014/12/22/just-started-playing-grim-dawn-an-old-school-style-rpg-i-kickstarted-sometime-in-the-distant-past/</link>
+      <pubDate>Mon, 22 Dec 2014 13:09:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/22/just-started-playing-grim-dawn-an-old-school-style-rpg-i-kickstarted-sometime-in-the-distant-past/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

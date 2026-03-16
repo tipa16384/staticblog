@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Star Wars on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/star-wars/</link>
+    <description>Recent content in Star Wars on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Dec 2024 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/star-wars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best of 2024: Single-Player RPGs</title>
+      <link>http://localhost:1313/posts/2024/12/30/best-of-2024-single-player-rpgs/</link>
+      <pubDate>Mon, 30 Dec 2024 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/30/best-of-2024-single-player-rpgs/</guid>
+      <description>2024 was a great year for RPGs. I didn&amp;#39;t play all the ones I wanted, but the ones I did play were pretty incredible.</description>
+    </item>
+    <item>
+      <title>Star Wars: Outlaws. Just you and your &#34;cat&#34; against the galaxy.</title>
+      <link>http://localhost:1313/posts/2024/12/01/star-wars-outlaws-just-you-and-your-cat-against-the-galaxy/</link>
+      <pubDate>Sun, 01 Dec 2024 14:48:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/01/star-wars-outlaws-just-you-and-your-cat-against-the-galaxy/</guid>
+      <description>This game took a lot of flack for being a buggy mess when it came out, but at least on the PS5, it&amp;#39;s a fun, if slow paced, open world adventure in the Star Wars universe.</description>
+    </item>
+    <item>
+      <title>The Games that Defined Me, Part 2 -- Arcade</title>
+      <link>http://localhost:1313/posts/2023/08/17/the-games-that-defined-me-part-2-arcade/</link>
+      <pubDate>Thu, 17 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/17/the-games-that-defined-me-part-2-arcade/</guid>
+      <description>In the 80s, I went to the arcade two or three times a week. I took my love of arcade games to home consoles.</description>
+    </item>
+    <item>
+      <title>Clone Wars Adventures: You&#39;re in ar-cade world now.</title>
+      <link>http://localhost:1313/posts/2010/08/19/clone-wars-adventures-youre-in-ar-cade-world-now/</link>
+      <pubDate>Thu, 19 Aug 2010 23:56:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/08/19/clone-wars-adventures-youre-in-ar-cade-world-now/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

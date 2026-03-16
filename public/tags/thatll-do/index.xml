@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>That&#39;ll Do on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/thatll-do/</link>
+    <description>Recent content in That&#39;ll Do on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Nov 2024 09:45:29 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/thatll-do/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malifaux: Pig Farm</title>
+      <link>http://localhost:1313/posts/2024/11/20/malifaux-pig-farm/</link>
+      <pubDate>Wed, 20 Nov 2024 09:45:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/11/20/malifaux-pig-farm/</guid>
+      <description>Pig Love was the name of the game in last night’s exciting match against the infamous Captain Zipp.</description>
+    </item>
+  </channel>
+</rss>

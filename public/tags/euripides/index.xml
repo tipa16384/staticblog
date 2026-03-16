@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Euripides on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/euripides/</link>
+    <description>Recent content in Euripides on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Dec 2024 15:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/euripides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malifaux Night: Literally Hell</title>
+      <link>http://localhost:1313/posts/2024/12/05/malifaux-night-literally-hell/</link>
+      <pubDate>Thu, 05 Dec 2024 15:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/05/malifaux-night-literally-hell/</guid>
+      <description>Tuesday night Malifaux. The snow outside was no match for the ice that waited for me inside.</description>
+    </item>
+  </channel>
+</rss>

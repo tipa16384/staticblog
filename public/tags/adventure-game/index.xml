@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Adventure Game on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/adventure-game/</link>
+    <description>Recent content in Adventure Game on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Apr 2024 07:58:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/adventure-game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond Shadowgate -- the Demo</title>
+      <link>http://localhost:1313/posts/2024/04/19/beyond-shadowgate-the-demo/</link>
+      <pubDate>Fri, 19 Apr 2024 07:58:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/04/19/beyond-shadowgate-the-demo/</guid>
+      <description>Still trying to figure out the puzzles in that old NES cart of Shadowgate you still somehow have? Well, you can finally take the game out of your NES because the sequel is finally here, almost.</description>
+    </item>
+    <item>
+      <title>Breaking the 4th Wall: A Mysterious Point-and-Click Adventure</title>
+      <link>http://localhost:1313/posts/2022/07/29/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</link>
+      <pubDate>Fri, 29 Jul 2022 08:06:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/07/29/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Quick Takes: The Innsmouth Case</title>
+      <link>http://localhost:1313/posts/2021/01/03/quick-takes-the-innsmouth-case/</link>
+      <pubDate>Sun, 03 Jan 2021 20:50:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/01/03/quick-takes-the-innsmouth-case/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

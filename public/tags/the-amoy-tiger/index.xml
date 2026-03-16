@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Amoy Tiger on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/the-amoy-tiger/</link>
+    <description>Recent content in The Amoy Tiger on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Jan 2024 07:19:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/the-amoy-tiger/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City of Heroes: Homecoming...</title>
+      <link>http://localhost:1313/posts/2024/01/16/city-of-heroes-homecoming/</link>
+      <pubDate>Tue, 16 Jan 2024 07:19:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/01/16/city-of-heroes-homecoming/</guid>
+      <description>It&amp;#39;s probably been 15 years since I last played City of Heroes... and now it&amp;#39;s come back. Should I?</description>
+    </item>
+    <item>
+      <title>CoX: Madame Scurry, Ms. Narusegawa, and the Amoy Tiger -- Villains and Heroes</title>
+      <link>http://localhost:1313/posts/2007/12/01/cox-madame-scurry-ms-narusegawa-and-the-amoy-tiger-villains-and-heroes/</link>
+      <pubDate>Sat, 01 Dec 2007 14:38:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2007/12/01/cox-madame-scurry-ms-narusegawa-and-the-amoy-tiger-villains-and-heroes/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

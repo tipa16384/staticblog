@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>December on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/december/</link>
+    <description>Recent content in December on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 22 Aug 2025 09:29:46 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/december/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Kind of Malifaux You Play at Home</title>
+      <link>http://localhost:1313/posts/2025/08/22/the-kind-of-malifaux-you-play-at-home/</link>
+      <pubDate>Fri, 22 Aug 2025 09:29:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/08/22/the-kind-of-malifaux-you-play-at-home/</guid>
+      <description>With 4th Edition leaving beta, players are waiting for the official release. Meanwhile, some of us still want to play a game...</description>
+    </item>
+    <item>
+      <title>Malifaux 4e: December Meets the Family</title>
+      <link>http://localhost:1313/posts/2025/06/07/malifaux-4e-december-meets-the-family/</link>
+      <pubDate>Sat, 07 Jun 2025 21:12:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/06/07/malifaux-4e-december-meets-the-family/</guid>
+      <description>Or, Perdita, Neverborn Hunter, runs head-first into the Wall of Ice at the Edge of the World.</description>
+    </item>
+    <item>
+      <title>Malifaux: &#34;New Crew&#34; League, Week 1</title>
+      <link>http://localhost:1313/posts/2025/03/11/malifaux-new-crew-league-week-1/</link>
+      <pubDate>Tue, 11 Mar 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/03/11/malifaux-new-crew-league-week-1/</guid>
+      <description>The local gaming store is running a league this spring for new players or for players who want to play a crew they&amp;#39;ve never played before.</description>
+    </item>
+    <item>
+      <title>Malifaux: Booty &amp;amp; Plunder</title>
+      <link>http://localhost:1313/posts/2025/01/29/malifaux-booty-plunder/</link>
+      <pubDate>Wed, 29 Jan 2025 09:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/29/malifaux-booty-plunder/</guid>
+      <description>Rasputina and her crew are painted and ready for &amp;#34;primed&amp;#34; time in her first serious match-up.</description>
+    </item>
+    <item>
+      <title>Malifaux: The Littlest Cap&#39;n</title>
+      <link>http://localhost:1313/posts/2025/01/12/malifaux-the-littlest-capn/</link>
+      <pubDate>Sun, 12 Jan 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/12/malifaux-the-littlest-capn/</guid>
+      <description>The local Malifaux club decided to hold a practice tournament ahead of Captain Con at the end of the month. I brought my new crew to give them a baptism by ice.</description>
+    </item>
+  </channel>
+</rss>

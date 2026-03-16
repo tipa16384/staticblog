@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Casual Game on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/casual-game/</link>
+    <description>Recent content in Casual Game on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Oct 2008 07:47:56 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/casual-game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kudos 2 review</title>
+      <link>http://localhost:1313/posts/2008/10/03/kudos-2/</link>
+      <pubDate>Fri, 03 Oct 2008 07:47:56 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/03/kudos-2/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

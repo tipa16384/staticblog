@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>From Ello on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/from-ello/</link>
+    <description>Recent content in From Ello on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Dec 2014 13:33:02 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/from-ello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Roomba is sick, Project Ascension is a fraud (I predict)</title>
+      <link>http://localhost:1313/posts/2014/12/19/roomba-is-sick-project-ascension-is-a-fraud-i-predict/</link>
+      <pubDate>Fri, 19 Dec 2014 13:33:02 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/19/roomba-is-sick-project-ascension-is-a-fraud-i-predict/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Ingress: Darsana Saturday!</title>
+      <link>http://localhost:1313/posts/2014/12/13/ingress-darsana-saturday/</link>
+      <pubDate>Sat, 13 Dec 2014 16:53:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/13/ingress-darsana-saturday/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>A Review of William Gibson&#39;s &#34;The Peripheral&#34;</title>
+      <link>http://localhost:1313/posts/2014/12/03/a-review-of-william-gibsons-the-peripheral/</link>
+      <pubDate>Wed, 03 Dec 2014 16:57:37 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/03/a-review-of-william-gibsons-the-peripheral/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

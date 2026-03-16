@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tal Shiar on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/tal-shiar/</link>
+    <description>Recent content in Tal Shiar on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Feb 2011 17:22:37 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tal-shiar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Star Trek Online: FE302 &#34;Mine Enemy&#34; (spoilers!)</title>
+      <link>http://localhost:1313/posts/2011/02/13/star-trek-online-fe302-mine-enemy-spoilers/</link>
+      <pubDate>Sun, 13 Feb 2011 17:22:37 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/02/13/star-trek-online-fe302-mine-enemy-spoilers/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

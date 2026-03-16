@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>It&#39;s a Wipe! on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/its-a-wipe/</link>
+    <description>Recent content in It&#39;s a Wipe! on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Dec 2014 05:50:01 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/its-a-wipe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>It&#39;s a Wipe: Done, finished, everyone kicked out of the guild...</title>
+      <link>http://localhost:1313/posts/2014/12/31/i-finished-its-a-wipe-tonight-i-wont-spoil-the-last-raid-because-its-something-people-should/</link>
+      <pubDate>Wed, 31 Dec 2014 05:50:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/31/i-finished-its-a-wipe-tonight-i-wont-spoil-the-last-raid-because-its-something-people-should/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>It&#39;s a Wipe: Dragon&#39;s Lair cleared by Crimson Eternity.</title>
+      <link>http://localhost:1313/posts/2014/12/30/dragons-lair-cleared-by-crimson-eternity-draconic-berserker-turns-out-your-have-to-move-everyone/</link>
+      <pubDate>Tue, 30 Dec 2014 15:24:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/30/dragons-lair-cleared-by-crimson-eternity-draconic-berserker-turns-out-your-have-to-move-everyone/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>It&#39;s a Wipe: Last boss in Fiery Center</title>
+      <link>http://localhost:1313/posts/2014/12/24/last-boss-in-fiery-center-bombs-cast-nukes-and-explode-after-awhile-which-can-be-deadly-if-you-have/</link>
+      <pubDate>Wed, 24 Dec 2014 23:37:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/24/last-boss-in-fiery-center-bombs-cast-nukes-and-explode-after-awhile-which-can-be-deadly-if-you-have/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>It&#39;s a Wipe: Second to last fight in Fiery Center</title>
+      <link>http://localhost:1313/posts/2014/12/24/second-to-last-fight-in-fiery-center-fiery-warriors-hit-the-primary-and-offtank-the-fiery-wizards/</link>
+      <pubDate>Wed, 24 Dec 2014 23:34:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/24/second-to-last-fight-in-fiery-center-fiery-warriors-hit-the-primary-and-offtank-the-fiery-wizards/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>It&#39;s a Wipe: Fiery Hounds.</title>
+      <link>http://localhost:1313/posts/2014/12/23/havent-beaten-this-one-yet-the-five-fiery-hounds-dont-do-much-damage-and-one-tank-this-is-my-other/</link>
+      <pubDate>Tue, 23 Dec 2014 01:20:19 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/23/havent-beaten-this-one-yet-the-five-fiery-hounds-dont-do-much-damage-and-one-tank-this-is-my-other/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>It&#39;s a Wipe! Orc raid, final boss.</title>
+      <link>http://localhost:1313/posts/2014/12/22/its-a-wipe-orc-raid-final-boss-here-you-can-see-all-my-wizards-in-the-raid-and-my-rogue-protege/</link>
+      <pubDate>Mon, 22 Dec 2014 14:44:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/22/its-a-wipe-orc-raid-final-boss-here-you-can-see-all-my-wizards-in-the-raid-and-my-rogue-protege/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>It&#39;s a Wipe! strategy update: Troll City</title>
+      <link>http://localhost:1313/posts/2014/12/22/its-a-wipe-strategy-update-troll-city-for-this-fight-all-three-of-these-mobs-can-rez-the-other/</link>
+      <pubDate>Mon, 22 Dec 2014 14:39:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2014/12/22/its-a-wipe-strategy-update-troll-city-for-this-fight-all-three-of-these-mobs-can-rez-the-other/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

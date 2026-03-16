@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bloggers on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/bloggers/</link>
+    <description>Recent content in Bloggers on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Aug 2022 21:33:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/bloggers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blaugust 2022: Staying (un)Motivated</title>
+      <link>http://localhost:1313/posts/2022/08/29/blaugust-2022-staying-unmotivated/</link>
+      <pubDate>Mon, 29 Aug 2022 21:33:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/29/blaugust-2022-staying-unmotivated/</guid>
+      <description>Keeping a blog alive is a lot of pressure. Wouldn&amp;#39;t it make more sense to have a central Blaugust blog that everyone could post in, rather than having a hundred small blogs?</description>
+    </item>
+    <item>
+      <title>How to start an EverQuest blog.</title>
+      <link>http://localhost:1313/posts/2008/10/22/how-to-start-an-everquest-blog/</link>
+      <pubDate>Wed, 22 Oct 2008 12:14:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/22/how-to-start-an-everquest-blog/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

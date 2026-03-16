@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TIS-100 on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/tis-100/</link>
+    <description>Recent content in TIS-100 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Apr 2020 17:52:23 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/tis-100/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>While True(): Learn to teach your cat to drive.</title>
+      <link>http://localhost:1313/posts/2020/04/26/while-true-learn-to-teach-your-cat-to-drive/</link>
+      <pubDate>Sun, 26 Apr 2020 17:52:23 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/04/26/while-true-learn-to-teach-your-cat-to-drive/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>TIS-100 Sequence Indexer</title>
+      <link>http://localhost:1313/posts/2015/12/26/tis-100-sequence-indexer/</link>
+      <pubDate>Sat, 26 Dec 2015 09:32:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2015/12/26/tis-100-sequence-indexer/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Dreams of Code...</title>
+      <link>http://localhost:1313/posts/2015/06/13/i-went-to-bed-with-an-iss/</link>
+      <pubDate>Sat, 13 Jun 2015 13:31:07 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2015/06/13/i-went-to-bed-with-an-iss/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>TIS-100: A puzzle from the dawn of computing</title>
+      <link>http://localhost:1313/posts/2015/06/11/if-you-ever-thought-back/</link>
+      <pubDate>Thu, 11 Jun 2015 11:41:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2015/06/11/if-you-ever-thought-back/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

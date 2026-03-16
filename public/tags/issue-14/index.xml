@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Issue 14 on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/issue-14/</link>
+    <description>Recent content in Issue 14 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 19 Mar 2009 07:45:35 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/issue-14/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>City of Heroes Architect system: Don&#39;t you know that you&#39;re my hero?</title>
+      <link>http://localhost:1313/posts/2009/03/19/city-of-heroes-architect-system-dont-you-know-that-youre-my-hero/</link>
+      <pubDate>Thu, 19 Mar 2009 07:45:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/19/city-of-heroes-architect-system-dont-you-know-that-youre-my-hero/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

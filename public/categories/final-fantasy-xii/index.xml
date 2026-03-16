@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Final Fantasy XII on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/final-fantasy-xii/</link>
+    <description>Recent content in Final Fantasy XII on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Oct 2024 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/final-fantasy-xii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>October retro finds!</title>
+      <link>http://localhost:1313/posts/2024/10/13/october-retro-finds/</link>
+      <pubDate>Sun, 13 Oct 2024 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/10/13/october-retro-finds/</guid>
+      <description>We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly.</description>
+    </item>
+  </channel>
+</rss>

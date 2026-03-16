@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fantasy Earth Zero on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/fantasy-earth-zero/</link>
+    <description>Recent content in Fantasy Earth Zero on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 Dec 2010 06:00:43 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fantasy-earth-zero/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Blogroll 12/23 -- Christmas Eve Eve edition</title>
+      <link>http://localhost:1313/posts/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/</link>
+      <pubDate>Thu, 23 Dec 2010 06:00:43 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Fantasy Earth Zero Blogfail: Under the Radar</title>
+      <link>http://localhost:1313/posts/2010/07/06/fantasy-earth-zero-blogfail-under-the-radar/</link>
+      <pubDate>Tue, 06 Jul 2010 06:34:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/07/06/fantasy-earth-zero-blogfail-under-the-radar/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Fantasy Earth Zero review: MMORTS goes mainstream</title>
+      <link>http://localhost:1313/posts/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/</link>
+      <pubDate>Sun, 04 Jul 2010 17:48:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Time Travel on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/time-travel/</link>
+    <description>Recent content in Time Travel on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Aug 2022 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/time-travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 27th Chamber: A Game about Time</title>
+      <link>http://localhost:1313/posts/2022/08/27/the-27th-chamber-a-game-about-time/</link>
+      <pubDate>Sat, 27 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/27/the-27th-chamber-a-game-about-time/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Star Trek Online: S2E5 &#34;Night of the Comet&#34; (spoilers)</title>
+      <link>http://localhost:1313/posts/2010/11/14/star-trek-online-s2e5-night-of-the-comet-spoilers/</link>
+      <pubDate>Sun, 14 Nov 2010 01:55:54 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/11/14/star-trek-online-s2e5-night-of-the-comet-spoilers/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Star Trek Online: S2E4 &#34;Everything Old is New Again&#34;</title>
+      <link>http://localhost:1313/posts/2010/11/07/star-trek-online-s2e4-everything-old-is-new-again/</link>
+      <pubDate>Sun, 07 Nov 2010 19:51:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/11/07/star-trek-online-s2e4-everything-old-is-new-again/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Star Trek Online: What Lies Beneath</title>
+      <link>http://localhost:1313/posts/2010/11/05/star-trek-online-what-lies-beneath/</link>
+      <pubDate>Fri, 05 Nov 2010 07:04:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/11/05/star-trek-online-what-lies-beneath/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

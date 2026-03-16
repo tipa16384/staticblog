@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kerbal Space Program on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/kerbal-space-program/</link>
+    <description>Recent content in Kerbal Space Program on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Dec 2012 07:45:40 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/kerbal-space-program/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kerbal Space Program: To the Mun and Back</title>
+      <link>http://localhost:1313/posts/2012/12/17/kerbal-space-program-to-the-mun-and-back/</link>
+      <pubDate>Mon, 17 Dec 2012 07:45:40 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2012/12/17/kerbal-space-program-to-the-mun-and-back/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Kerbal Space Program: Marooned</title>
+      <link>http://localhost:1313/posts/2012/12/13/kerbal-space-program-marooned/</link>
+      <pubDate>Thu, 13 Dec 2012 08:12:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2012/12/13/kerbal-space-program-marooned/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Kerbal Space Program: Lost in Space</title>
+      <link>http://localhost:1313/posts/2012/12/07/kerbal-space-program-lost-in-space/</link>
+      <pubDate>Fri, 07 Dec 2012 13:57:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2012/12/07/kerbal-space-program-lost-in-space/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

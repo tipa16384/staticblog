@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>First Light on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/first-light/</link>
+    <description>Recent content in First Light on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Nov 2025 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/first-light/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HeroQuest First Light #5: The Horrors of Synchroform</title>
+      <link>http://localhost:1313/posts/2025/11/02/heroquest-first-light-5-the-horrors-of-synchroform/</link>
+      <pubDate>Sun, 02 Nov 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/11/02/heroquest-first-light-5-the-horrors-of-synchroform/</guid>
+      <description>Halfway through the quests, we discover the secret of Qwindrak&amp;#39;s transformation...</description>
+    </item>
+    <item>
+      <title>HeroQuest First Light: The Fortress of the Fire King</title>
+      <link>http://localhost:1313/posts/2025/09/16/heroquest-first-light-the-fortress-of-the-fire-king/</link>
+      <pubDate>Tue, 16 Sep 2025 07:47:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/09/16/heroquest-first-light-the-fortress-of-the-fire-king/</guid>
+      <description>The Witch Queen Kessandria encounters the FO part of FAFO.</description>
+    </item>
+    <item>
+      <title>HeroQuest First Light: Second Adventure</title>
+      <link>http://localhost:1313/posts/2025/07/07/heroquest-first-light-second-adventure/</link>
+      <pubDate>Mon, 07 Jul 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/07/07/heroquest-first-light-second-adventure/</guid>
+      <description>The one where an elf dies and a wizard retires and we meet someone surprising.</description>
+    </item>
+    <item>
+      <title>HeroQuest: First Light: First Adventure</title>
+      <link>http://localhost:1313/posts/2025/06/23/heroquest-first-light-first-adventure/</link>
+      <pubDate>Mon, 23 Jun 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/06/23/heroquest-first-light-first-adventure/</guid>
+      <description>After a couple of years, a Target HeroQuest exclusive edition brings the game back to the table.</description>
+    </item>
+  </channel>
+</rss>

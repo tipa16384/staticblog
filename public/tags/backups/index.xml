@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Backups on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/backups/</link>
+    <description>Recent content in Backups on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 05 Aug 2024 08:29:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/backups/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again</title>
+      <link>http://localhost:1313/posts/2024/08/05/not-gonna-lose-my-blog-again/</link>
+      <pubDate>Mon, 05 Aug 2024 08:29:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/08/05/not-gonna-lose-my-blog-again/</guid>
+      <description>I lost my blog. Backups saved me. Now I&amp;#39;m taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive.</description>
+    </item>
+  </channel>
+</rss>

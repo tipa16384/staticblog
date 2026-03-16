@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>A* on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/a/</link>
+    <description>Recent content in A* on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Dec 2023 16:50:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code Day 17 -- Clumsy Crucible</title>
+      <link>http://localhost:1313/posts/2023/12/17/advent-of-code-day-17-clumsy-crucible/</link>
+      <pubDate>Sun, 17 Dec 2023 16:50:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/17/advent-of-code-day-17-clumsy-crucible/</guid>
+      <description>Edsger Dijkstra is laughing at me from his grave.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 24 -- Blizzard Basin</title>
+      <link>http://localhost:1313/posts/2022/12/24/advent-of-code-day-24-blizzard-basin/</link>
+      <pubDate>Sat, 24 Dec 2022 16:02:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/24/advent-of-code-day-24-blizzard-basin/</guid>
+      <description>The Christmas elves don&amp;#39;t like the snow for some reason? They have the wrong boss, I think. Well, we better help them get through those couple hundred blizzards.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Path Finding</title>
+      <link>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-path-finding/</link>
+      <pubDate>Thu, 17 Feb 2022 23:30:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-path-finding/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

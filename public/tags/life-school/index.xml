@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Life School on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/life-school/</link>
+    <description>Recent content in Life School on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Apr 2009 00:29:57 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/life-school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wizard 101: Training Points, Easter Wands, &amp; Rebirth</title>
+      <link>http://localhost:1313/posts/2009/04/15/wizard-101-training-points-easter-wands-rebirth/</link>
+      <pubDate>Wed, 15 Apr 2009 00:29:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/15/wizard-101-training-points-easter-wands-rebirth/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

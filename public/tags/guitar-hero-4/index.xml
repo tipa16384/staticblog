@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guitar Hero 4 on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/guitar-hero-4/</link>
+    <description>Recent content in Guitar Hero 4 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 30 Jun 2008 12:54:42 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/guitar-hero-4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rock Band 2 announced</title>
+      <link>http://localhost:1313/posts/2008/06/30/rock-band-2-announced/</link>
+      <pubDate>Mon, 30 Jun 2008 12:54:42 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/06/30/rock-band-2-announced/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

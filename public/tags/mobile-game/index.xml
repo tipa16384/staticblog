@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mobile Game on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/mobile-game/</link>
+    <description>Recent content in Mobile Game on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Aug 2021 00:07:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mobile-game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shadowverse Showdown!</title>
+      <link>http://localhost:1313/posts/2021/08/27/shadowverse-showdown/</link>
+      <pubDate>Fri, 27 Aug 2021 00:07:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/08/27/shadowverse-showdown/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>I am free of Fallout Shelter&#39;s evil clutches</title>
+      <link>http://localhost:1313/posts/2020/12/28/i-am-free-of-fallout-shelters-evil-clutches/</link>
+      <pubDate>Mon, 28 Dec 2020 20:27:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/12/28/i-am-free-of-fallout-shelters-evil-clutches/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Quick Takes: Fallout Shelter</title>
+      <link>http://localhost:1313/posts/2020/12/22/quick-take-fallout-shelter/</link>
+      <pubDate>Tue, 22 Dec 2020 13:15:02 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/12/22/quick-take-fallout-shelter/</guid>
+      <description>A &amp;#34;Fallout&amp;#34;-branded worker placement mobile game in the vein of Ellison&amp;#39;s &amp;#34;A Boy and His Dog&amp;#34;</description>
+    </item>
+    <item>
+      <title>Save the Fish! A Deep Dive into 11 Mobile Pull-Pin Games.</title>
+      <link>http://localhost:1313/posts/2020/09/02/save-the-fish-a-deep-dive-into-11-mobile-pull-pin-games/</link>
+      <pubDate>Wed, 02 Sep 2020 22:54:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/09/02/save-the-fish-a-deep-dive-into-11-mobile-pull-pin-games/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Let&#39;s have a little talk about RAID: SHADOW LEGENDS.</title>
+      <link>http://localhost:1313/posts/2020/07/15/lets-have-a-little-talk-about-raid-shadow-legends/</link>
+      <pubDate>Wed, 15 Jul 2020 12:28:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/07/15/lets-have-a-little-talk-about-raid-shadow-legends/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

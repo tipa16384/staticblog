@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Fae on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/fae/</link>
+    <description>Recent content in Fae on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Feb 2025 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/fae/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rolling Dice and Taking Names: My CaptainCon 2025 Experience</title>
+      <link>http://localhost:1313/posts/2025/02/03/my-adventures-at-captaincon-2025/</link>
+      <pubDate>Mon, 03 Feb 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/02/03/my-adventures-at-captaincon-2025/</guid>
+      <description>We traveled through the Quiet Corner to the exotic Rhode Island to chew bubblegum and play board games. There was a lot more going on than just Malifaux!</description>
+    </item>
+  </channel>
+</rss>

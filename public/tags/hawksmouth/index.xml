@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hawksmouth on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/hawksmouth/</link>
+    <description>Recent content in Hawksmouth on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Mar 2009 07:59:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hawksmouth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chronicles of Spellborn: Grouped!</title>
+      <link>http://localhost:1313/posts/2009/03/24/chronicles-of-spellborn-grouped/</link>
+      <pubDate>Tue, 24 Mar 2009 07:59:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/24/chronicles-of-spellborn-grouped/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>The many worlds of Chronicles of Spellborn</title>
+      <link>http://localhost:1313/posts/2009/01/03/the-many-worlds-of-chronicles-of-spellborn/</link>
+      <pubDate>Sat, 03 Jan 2009 17:35:40 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/01/03/the-many-worlds-of-chronicles-of-spellborn/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Spellborn soundscape</title>
+      <link>http://localhost:1313/posts/2008/11/01/spellborn-soundscape/</link>
+      <pubDate>Sat, 01 Nov 2008 16:16:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/11/01/spellborn-soundscape/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

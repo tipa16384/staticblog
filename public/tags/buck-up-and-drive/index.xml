@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Buck Up and Drive on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/buck-up-and-drive/</link>
+    <description>Recent content in Buck Up and Drive on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Dec 2024 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/buck-up-and-drive/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Best of 2024: Arcade Games</title>
+      <link>http://localhost:1313/posts/2024/12/23/best-of-2024-arcade-games/</link>
+      <pubDate>Mon, 23 Dec 2024 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/23/best-of-2024-arcade-games/</guid>
+      <description>I played dozens of games in 2024. Trying to distill them down to &amp;#34;the best&amp;#34; is hard. First up: arcade games.</description>
+    </item>
+  </channel>
+</rss>

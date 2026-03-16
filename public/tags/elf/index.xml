@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Elf on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/elf/</link>
+    <description>Recent content in Elf on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Jun 2024 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/elf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HeroQuest: Return to Barak-Tor</title>
+      <link>http://localhost:1313/posts/2024/06/12/heroquest-return-to-barak-tor/</link>
+      <pubDate>Wed, 12 Jun 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/06/12/heroquest-return-to-barak-tor/</guid>
+      <description>It&amp;#39;s the final quest of the starter campaign. How was it? Is this game even worth playing in 2024?</description>
+    </item>
+    <item>
+      <title>HeroQuest: A Race Against Time</title>
+      <link>http://localhost:1313/posts/2024/02/07/heroquest-a-race-against-time/</link>
+      <pubDate>Wed, 07 Feb 2024 08:18:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/02/07/heroquest-a-race-against-time/</guid>
+      <description>Spoiler alert: There was no time limit for this quest.</description>
+    </item>
+    <item>
+      <title>HeroQuest: The Fire Mage</title>
+      <link>http://localhost:1313/posts/2024/01/23/heroquest-the-fire-mage/</link>
+      <pubDate>Tue, 23 Jan 2024 07:48:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/01/23/heroquest-the-fire-mage/</guid>
+      <description>The monk and the rogue take the place of the barbarian and the wizard as the party faces their greatest challenge yet...</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 21 -- Step Counter</title>
+      <link>http://localhost:1313/posts/2023/12/21/advent-of-code-day-21-step-counter/</link>
+      <pubDate>Thu, 21 Dec 2023 21:26:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/21/advent-of-code-day-21-step-counter/</guid>
+      <description>I had 80% of the solution, but that last 20% killed it. This is the day I failed Advent of Code 2023.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 19 -- Aplenty</title>
+      <link>http://localhost:1313/posts/2023/12/19/advent-of-code-day-19-aplenty/</link>
+      <pubDate>Tue, 19 Dec 2023 21:09:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/19/advent-of-code-day-19-aplenty/</guid>
+      <description>First puzzle in a few days where I didn&amp;#39;t need to get hints. I guess the problem was musical, aerodynamic, shiny AND extremely cool looking!</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 18 -- Lavaduct Lagoon</title>
+      <link>http://localhost:1313/posts/2023/12/19/advent-of-code-day-18-lavaduct-lagoon/</link>
+      <pubDate>Tue, 19 Dec 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/19/advent-of-code-day-18-lavaduct-lagoon/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 17 -- Clumsy Crucible</title>
+      <link>http://localhost:1313/posts/2023/12/17/advent-of-code-day-17-clumsy-crucible/</link>
+      <pubDate>Sun, 17 Dec 2023 16:50:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/17/advent-of-code-day-17-clumsy-crucible/</guid>
+      <description>Edsger Dijkstra is laughing at me from his grave.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 7 -- Camel Cards</title>
+      <link>http://localhost:1313/posts/2023/12/07/advent-of-code-day-7-camel-cards/</link>
+      <pubDate>Thu, 07 Dec 2023 22:10:13 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/07/advent-of-code-day-7-camel-cards/</guid>
+      <description>I really tried with Haskell this time. Oh well, looks like we&amp;#39;ll have to play Camel Poker in Python instead.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 6 -- Wait For It</title>
+      <link>http://localhost:1313/posts/2023/12/06/advent-of-code-day-6-wait-for-it/</link>
+      <pubDate>Wed, 06 Dec 2023 21:21:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/06/advent-of-code-day-6-wait-for-it/</guid>
+      <description>This one was easy. TOO easy. Day 7 is going to be bad.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 3 -- Gear Ratios</title>
+      <link>http://localhost:1313/posts/2023/12/03/advent-of-code-day-3-gear-ratios/</link>
+      <pubDate>Sun, 03 Dec 2023 13:01:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/03/advent-of-code-day-3-gear-ratios/</guid>
+      <description>My Haskell experiments end. Even though I got the answer, have I failed?</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 25 -- Full of Hot Air</title>
+      <link>http://localhost:1313/posts/2022/12/25/advent-of-code-day-25-full-of-hot-air/</link>
+      <pubDate>Sun, 25 Dec 2022 14:27:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/25/advent-of-code-day-25-full-of-hot-air/</guid>
+      <description>That&amp;#39;s a wrap -- a Christmas wrap! -- on Advent of Code 2022!</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 24 -- Blizzard Basin</title>
+      <link>http://localhost:1313/posts/2022/12/24/advent-of-code-day-24-blizzard-basin/</link>
+      <pubDate>Sat, 24 Dec 2022 16:02:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/24/advent-of-code-day-24-blizzard-basin/</guid>
+      <description>The Christmas elves don&amp;#39;t like the snow for some reason? They have the wrong boss, I think. Well, we better help them get through those couple hundred blizzards.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 23 -- Unstable Diffusion</title>
+      <link>http://localhost:1313/posts/2022/12/23/advent-of-code-day-23-unstable-diffusion/</link>
+      <pubDate>Fri, 23 Dec 2022 21:22:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/23/advent-of-code-day-23-unstable-diffusion/</guid>
+      <description>...because Stable Diffusion was already used, I guess. This is the annual cellular automata puzzle. Plus, why no puzzle 22?</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 20 -- Grove Positioning System</title>
+      <link>http://localhost:1313/posts/2022/12/20/advent-of-code-day-20-grove-positioning-system/</link>
+      <pubDate>Tue, 20 Dec 2022 23:06:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/20/advent-of-code-day-20-grove-positioning-system/</guid>
+      <description>As someone remarked today on Reddit, the entire plan hinged upon you remembering a ten digit prime number you randomly overheard twenty days ago.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 9 -- Rope Bridge</title>
+      <link>http://localhost:1313/posts/2022/12/09/advent-of-code-day-9-rope-bridge/</link>
+      <pubDate>Fri, 09 Dec 2022 21:35:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/09/advent-of-code-day-9-rope-bridge/</guid>
+      <description>The elves are crossing a bridge, but it is a really short bridge -- in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?</description>
+    </item>
+    <item>
+      <title>Advent of Code 2022: Day 1 -- Calorie Counting</title>
+      <link>http://localhost:1313/posts/2022/12/01/advent-of-code-2022-day-1-calorie-counting/</link>
+      <pubDate>Thu, 01 Dec 2022 23:39:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/01/advent-of-code-2022-day-1-calorie-counting/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

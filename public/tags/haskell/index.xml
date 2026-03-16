@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Haskell on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/haskell/</link>
+    <description>Recent content in Haskell on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Dec 2024 19:56:05 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/haskell/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code 2024: The First Week</title>
+      <link>http://localhost:1313/posts/2024/12/07/advent-of-code-2024-the-first-week/</link>
+      <pubDate>Sat, 07 Dec 2024 19:56:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/12/07/advent-of-code-2024-the-first-week/</guid>
+      <description>AI has changed programming forever. It has changed Advent of Code and the way I work. What&amp;#39;s life going to be like when AI can do my job, better than me?</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 4 -- Scratchcards</title>
+      <link>http://localhost:1313/posts/2023/12/04/advent-of-code-day-4-scratchcards/</link>
+      <pubDate>Mon, 04 Dec 2023 21:07:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/04/advent-of-code-day-4-scratchcards/</guid>
+      <description>So, I&amp;#39;m back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 3 -- Gear Ratios</title>
+      <link>http://localhost:1313/posts/2023/12/03/advent-of-code-day-3-gear-ratios/</link>
+      <pubDate>Sun, 03 Dec 2023 13:01:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/03/advent-of-code-day-3-gear-ratios/</guid>
+      <description>My Haskell experiments end. Even though I got the answer, have I failed?</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 2 -- Cube Conundrum</title>
+      <link>http://localhost:1313/posts/2023/12/02/advent-of-code-day-2-cube-conundrum/</link>
+      <pubDate>Sat, 02 Dec 2023 15:44:35 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/02/advent-of-code-day-2-cube-conundrum/</guid>
+      <description>The hands of the Christmas elf are far, far larger than they appear.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 1 -- Trebuchet?!</title>
+      <link>http://localhost:1313/posts/2023/12/01/advent-of-code-day-1-trebuchet/</link>
+      <pubDate>Fri, 01 Dec 2023 08:03:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/01/advent-of-code-day-1-trebuchet/</guid>
+      <description>Elves can&amp;#39;t fly, but maybe YOU can... with a little help from a friendly Christmas trebuchet...</description>
+    </item>
+  </channel>
+</rss>

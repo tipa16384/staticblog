@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pi Story on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/pi-story/</link>
+    <description>Recent content in Pi Story on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Oct 2008 12:55:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/pi-story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pi Story: one in a thousand</title>
+      <link>http://localhost:1313/posts/2008/10/12/pi-story-one-in-a-thousand/</link>
+      <pubDate>Sun, 12 Oct 2008 12:55:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/12/pi-story-one-in-a-thousand/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Pi Story, because everyone likes Pi(e)</title>
+      <link>http://localhost:1313/posts/2008/10/10/pi-story-because-everyone-likes-pie/</link>
+      <pubDate>Fri, 10 Oct 2008 08:16:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/10/pi-story-because-everyone-likes-pie/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Free-to-play game of the month?</title>
+      <link>http://localhost:1313/posts/2008/07/24/free-to-play-game-of-the-month/</link>
+      <pubDate>Thu, 24 Jul 2008 09:07:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/07/24/free-to-play-game-of-the-month/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>What I am playing 7/23</title>
+      <link>http://localhost:1313/posts/2008/07/23/what-i-am-playing-723/</link>
+      <pubDate>Wed, 23 Jul 2008 14:18:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/07/23/what-i-am-playing-723/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

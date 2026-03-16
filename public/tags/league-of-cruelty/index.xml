@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>League of Cruelty on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/league-of-cruelty/</link>
+    <description>Recent content in League of Cruelty on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Mar 2009 10:39:17 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/league-of-cruelty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The League of Cruelty presents: Mad Money and leveling pacts</title>
+      <link>http://localhost:1313/posts/2009/03/15/league-of-curelty-presents-mad-money-and-leveling-pacts/</link>
+      <pubDate>Sun, 15 Mar 2009 10:39:17 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/15/league-of-curelty-presents-mad-money-and-leveling-pacts/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>The League of Cruelty presents: The Teleprompter</title>
+      <link>http://localhost:1313/posts/2009/03/09/the-league-of-cruelty-presents-the-teleprompter/</link>
+      <pubDate>Mon, 09 Mar 2009 22:09:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/09/the-league-of-cruelty-presents-the-teleprompter/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>The League of Cruelty presents: Rush O Mon</title>
+      <link>http://localhost:1313/posts/2009/03/08/the-league-of-cruelty-presents-rush-o-mon/</link>
+      <pubDate>Sun, 08 Mar 2009 11:45:51 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/08/the-league-of-cruelty-presents-rush-o-mon/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>The League of Cruelty Presents: Octomom</title>
+      <link>http://localhost:1313/posts/2009/03/07/the-league-of-cruelty-presents-octomom/</link>
+      <pubDate>Sat, 07 Mar 2009 15:19:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/07/the-league-of-cruelty-presents-octomom/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

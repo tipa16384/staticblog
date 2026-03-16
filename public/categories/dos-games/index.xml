@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DOS Games on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/dos-games/</link>
+    <description>Recent content in DOS Games on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Oct 2020 07:49:41 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/dos-games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rogue -- the original rogue-like</title>
+      <link>http://localhost:1313/posts/2020/10/27/rogue-the-original-rogue-like/</link>
+      <pubDate>Tue, 27 Oct 2020 07:49:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/10/27/rogue-the-original-rogue-like/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s been many efforts to define exactly what a &amp;ldquo;rogue-like&amp;rdquo; game is. Permadeath is definitely one. A different map every time you play is another. Having to discover each time what the magic items you discover do, that&amp;rsquo;s one. Descending into a deep dungeon, grabbing a quest item and making it back to the surface in one go, definitely.&lt;/p&gt;&#xA;&lt;p&gt;Rogue came out of a thriving ecosystem of similar dungeon-exploration games from the late 70s and early 80s. Its simple, quick gameplay was perfect for quick gaming sessions between classes, which is how I first encountered it at the University of New Hampshire back in the day. Universities, back then, were the fertile breeding ground for the progenitors of many computer game genres that we still play today. It was a wonderful time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

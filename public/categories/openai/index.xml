@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpenAI on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/openai/</link>
+    <description>Recent content in OpenAI on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Dec 2022 19:39:29 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/openai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advent of Code Day 4 -- Camp Cleanup</title>
+      <link>http://localhost:1313/posts/2022/12/04/advent-of-code-day-4-camp-cleanup/</link>
+      <pubDate>Sun, 04 Dec 2022 19:39:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/04/advent-of-code-day-4-camp-cleanup/</guid>
+      <description>As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented.</description>
+    </item>
+    <item>
+      <title>Advent of Code Day 3 -- Rucksack Reorganization</title>
+      <link>http://localhost:1313/posts/2022/12/03/advent-of-code-day-3-rucksack-reorganization/</link>
+      <pubDate>Sat, 03 Dec 2022 20:59:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/03/advent-of-code-day-3-rucksack-reorganization/</guid>
+      <description>&lt;p&gt;I did this puzzle last night while writing the post about Day 2. This time I&amp;rsquo;m not in quite so much of a rush. Weekends.&lt;/p&gt;&#xA;&lt;p&gt;The puzzle description is best read &lt;a href=&#34;https://adventofcode.com/2022/day/3&#34; target=&#34;_blank&#34;&gt;on the AoC site&lt;/a&gt;&#xA; &amp;ndash; they&amp;rsquo;re always fun to read :-)&lt;/p&gt;&#xA;&lt;p&gt;Advent of Code always starts out slowly, getting people used to how things go before they start pouring on the hard stuff. You can see some concepts come up that will undoubtedly become key in later puzzles. Yesterday was modulo arithmetic. Today was sets. Naturally, people did it their own ways, but typically the fast solvers will immediately focus in on the concept being introduced and doing their thing in seconds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advent of Code 2022 Day 2 -- Rock Paper Scissors</title>
+      <link>http://localhost:1313/posts/2022/12/03/advent-of-code-2022-day-2-rock-paper-scissors/</link>
+      <pubDate>Sat, 03 Dec 2022 00:45:56 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/12/03/advent-of-code-2022-day-2-rock-paper-scissors/</guid>
+      <description>&lt;p&gt;So I made it to day 2 of Advent of Code! Not entirely &lt;em&gt;awake&lt;/em&gt;. I stayed up past midnight to solve it. I messed up my first approach, so I went to a more brute force approach that worked. I got my solution logged in in about twelve minutes or so? But I was still 8,000 positions from the leaderboard, so&amp;hellip; yeah, I don&amp;rsquo;t really think I need to be staying up late to get the puzzle the moment it drops.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Crypto, Crypto, what will you do?</title>
+      <link>http://localhost:1313/posts/2022/11/29/crypto-crypto-what-will-you-do/</link>
+      <pubDate>Tue, 29 Nov 2022 16:32:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/11/29/crypto-crypto-what-will-you-do/</guid>
+      <description>This song tells the story of a pup named Crypto who dreams of becoming wealthy through trading on various cryptocurrency markets.</description>
+    </item>
+    <item>
+      <title>A Country Song about Today&#39;s News -- November 28, 2022</title>
+      <link>http://localhost:1313/posts/2022/11/28/a-country-song-about-todays-news-november-28-2022/</link>
+      <pubDate>Mon, 28 Nov 2022 21:22:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/11/28/a-country-song-about-todays-news-november-28-2022/</guid>
+      <description>It&amp;rsquo;s a country song, about the news of today, written by AI!</description>
+    </item>
+    <item>
+      <title>Advent of Code 2022 and other exciting news you should totally read!</title>
+      <link>http://localhost:1313/posts/2022/11/28/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</link>
+      <pubDate>Mon, 28 Nov 2022 20:50:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/11/28/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/</guid>
+      <description>Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don&amp;rsquo;t forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!</description>
+    </item>
+    <item>
+      <title>Coloring between the lines... with AI</title>
+      <link>http://localhost:1313/posts/2022/10/25/coloring-between-the-lines-with-ai/</link>
+      <pubDate>Tue, 25 Oct 2022 00:29:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/10/25/coloring-between-the-lines-with-ai/</guid>
+      <description>&lt;p&gt;A million or so years ago, I worked for Sony New Technologies, writing system software and applications for their Magic Link handheld computer, which ran General Magic&amp;rsquo;s Magic Cap operating system. The management came down one day and told us that what the Magic Link needed more than anything else was some games, goshdurnit, and so all of us developers were to take a break from writing serious software and do some games.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dissidia 012 Final Fantasy comes highly recommended</title>
+      <link>http://localhost:1313/posts/2022/09/29/dissidia-012-final-fantasy-comes-highly-recommended/</link>
+      <pubDate>Thu, 29 Sep 2022 08:52:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/29/dissidia-012-final-fantasy-comes-highly-recommended/</guid>
+      <description>&lt;p&gt;So I was chatting with Terra yesterday and&amp;hellip; wait, no, keep reading. Because I think we&amp;rsquo;re in the future now.&lt;/p&gt;&#xA;&lt;p&gt;OpenAI&amp;rsquo;s GPT-3 makes it easy to create chat bots that can hold a fairly decent conversation for a little while. I&amp;rsquo;ve made a couple &amp;ndash; I did one that let me converse in German, I did one that featured DC Comics&amp;rsquo; The Flash, and I actually programmed an actual chatbot app to talk with Terra Branford, one of the playable characters in Final Fantasy VI.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?</title>
+      <link>http://localhost:1313/posts/2022/09/26/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</link>
+      <pubDate>Mon, 26 Sep 2022 17:54:44 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/26/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/</guid>
+      <description>&lt;p&gt;It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel &amp;amp; Ebert? Keep reading!&lt;/p&gt;&#xA;&lt;p&gt;Dear Abby,&lt;/p&gt;&#xA;&lt;p&gt;I have been playing Star Ocean: The Divine Force, and I have a problem. I’m in love with a robot.&lt;/p&gt;&#xA;&lt;p&gt;I know, I know. I’m not supposed to fall in love with robots. I’m supposed to fall in love with a man. A man who is a space pirate and who crashed his escape pod at my feet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Life of a Medical Student Who Sold Himself as an NFT to Pay for School</title>
+      <link>http://localhost:1313/posts/2022/09/07/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</link>
+      <pubDate>Wed, 07 Sep 2022 10:32:14 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/07/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/</guid>
+      <description>An AI-written article about someone who sold himself as an NFT to pay for medical school, but ended up trapped.</description>
+    </item>
+    <item>
+      <title>The Battle for Locke&#39;s Heart: The Remake</title>
+      <link>http://localhost:1313/posts/2022/09/05/the-battle-for-lockes-heart-the-remake/</link>
+      <pubDate>Mon, 05 Sep 2022 09:41:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/05/the-battle-for-lockes-heart-the-remake/</guid>
+      <description>More Celes/Terra/Locke fanfic, I&amp;rsquo;m afraid. I gave TerraChat a lot more background on the characters and their motivations, than before.</description>
+    </item>
+    <item>
+      <title>How I used AI to write a Final Fantasy VI chatbot</title>
+      <link>http://localhost:1313/posts/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/</link>
+      <pubDate>Sun, 04 Sep 2022 21:25:13 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/</guid>
+      <description>GPT-3&amp;rsquo;s real power comes when it can use AI to help people find what they need. In this case, information about Final Fantasy VI. Read on to find out how I used AI to help make a FF6 chatbot &amp;ndash; TerraChat.</description>
+    </item>
+    <item>
+      <title>The Battle for Locke&#39;s Heart: A Final Fantasy VI Fan Fic</title>
+      <link>http://localhost:1313/posts/2022/09/04/the-battle-for-lockes-heart-a-final-fantasy-vi-fan-fic/</link>
+      <pubDate>Sun, 04 Sep 2022 11:46:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/04/the-battle-for-lockes-heart-a-final-fantasy-vi-fan-fic/</guid>
+      <description>A fan-fic written by my TerraChat FF6 bot. In this episode, Celes and Terra both love Locke, but he chooses Terra. They eventually become friends. And then it all falls to pieces.</description>
+    </item>
+    <item>
+      <title>Creating &#34;32 Bullets&#34; -- an AI adventure.</title>
+      <link>http://localhost:1313/posts/2022/09/01/32-bullets-new-first-person-shooter-game/</link>
+      <pubDate>Thu, 01 Sep 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/01/32-bullets-new-first-person-shooter-game/</guid>
+      <description>In &amp;ldquo;32 Bullets&amp;rdquo;, you play as a professional hitman with only 32 bullets to complete 32 contracts. The catch is that you must complete them all within a certain amount of time.</description>
+    </item>
+    <item>
+      <title>Dall-E introduces &#34;Outpainting&#34;</title>
+      <link>http://localhost:1313/posts/2022/08/31/dall-e-introduces-outpainting/</link>
+      <pubDate>Wed, 31 Aug 2022 22:26:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/31/dall-e-introduces-outpainting/</guid>
+      <description>&lt;p&gt;Dall-E 2 renders have been trapped in squares, requiring people to either crop the image or play tricks with paint programs to trick the AI into extending the image. Today, OpenAI built that capability right into the program. Edit to your heart&amp;rsquo;s content to make the perfect image for your needs.&lt;/p&gt;&#xA;&lt;figure class=&#34;align-center&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2022/08/DALL%C2%B7E-2022-08-31-21.00.36-A-golden-robot-playing-an-acoustic-guitar-on-a-small-stage-in-a-spotlight-old-band-posters-on-the-wall-behind-the-robot-viewpoint-is-from-stage-righ-1024x1024.png&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;h4&gt;A golden robot playing an acoustic guitar on a small stage in a spotlight, old band posters on the wall behind the robot, viewpoint is from stage right&lt;/h4&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;My partner and I were watching Dice Tower&amp;rsquo;s &amp;ldquo;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PQ4IecqrVOE?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&amp;rdquo; tonight, and one of their non-game projects was for a &lt;a href=&#34;https://www.kickstarter.com/projects/megcell/a-portable-arduino-guitar-robot&#34; target=&#34;_blank&#34;&gt;Guitar Robot&lt;/a&gt;&#xA; &amp;ndash; plans to build an Arduino-powered guitar playing robot.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blaugust Hath 31 Days</title>
+      <link>http://localhost:1313/posts/2022/08/31/blaugust-hath-31-days/</link>
+      <pubDate>Wed, 31 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/31/blaugust-hath-31-days/</guid>
+      <description>&lt;p&gt;Genre: 2D Platformer. Title: &amp;ldquo;Blaugust Hath 31 Days&amp;rdquo;. Outline: In this 2D platformer, you play as a young woman who is terrorized by 31 different monsters, one for each night of August. You must use your agility and wit to survive until morning and defeat the monsters once and for all.&lt;/p&gt;&#xA;&lt;p&gt;The game is set in a small town that is being terrorized by 31 different monsters, one for each night of August. The player must use their agility and wit to survive until morning and defeat the monsters once and for all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Blaugust theme week: Lessons learned</title>
+      <link>http://localhost:1313/posts/2022/08/30/blaugust-theme-week-lessons-learned/</link>
+      <pubDate>Tue, 30 Aug 2022 23:51:54 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/30/blaugust-theme-week-lessons-learned/</guid>
+      <description>&lt;p&gt;I spent the 31 days of Blaugust working to see if I could get AI to show some creativity in game design, and if I could get AI image generation programs to produce the art I want at a price I could afford. I learned some things.&lt;/p&gt;&#xA;&lt;p&gt;I used OpenAI&amp;rsquo;s GPT-3 &amp;ldquo;text-davinci-002&amp;rdquo; text completion tool. I chose this because most of the alarm over how the rise of AI would be the death of writing tended to surround this particular tool.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Golden Years: 30 Something</title>
+      <link>http://localhost:1313/posts/2022/08/30/the-golden-years-30-something/</link>
+      <pubDate>Tue, 30 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/30/the-golden-years-30-something/</guid>
+      <description>The Golden Years: 30 Something is a life simulation game that highlights the importance of balancing work, life, and everything in between. The game features multiple different endings depending on the choices you make throughout the game.</description>
+    </item>
+    <item>
+      <title>Leap Year: the 29th Day</title>
+      <link>http://localhost:1313/posts/2022/08/29/leap-year-the-29th-day/</link>
+      <pubDate>Mon, 29 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/29/leap-year-the-29th-day/</guid>
+      <description>After the world disappears on Leap Day, you must team up with the only other person left awake to find out what happened.</description>
+    </item>
+    <item>
+      <title>The 28th Amendment -- a game about the USA Constitution</title>
+      <link>http://localhost:1313/posts/2022/08/28/the-28th-amendment-a-game-about-the-usa-constitution/</link>
+      <pubDate>Sun, 28 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/28/the-28th-amendment-a-game-about-the-usa-constitution/</guid>
+      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 28th: “The 28th Amendment”.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;The 28th Amendment&amp;rdquo; is a political simulation game in which the player is tasked with drafting and ratifying a new amendment to the United States Constitution. The player can choose from a variety of topics, including gun control, abortion, and same-sex marriage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 27th Chamber: A Game about Time</title>
+      <link>http://localhost:1313/posts/2022/08/27/the-27th-chamber-a-game-about-time/</link>
+      <pubDate>Sat, 27 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/27/the-27th-chamber-a-game-about-time/</guid>
+      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 27th: “The 27th Chamber”.&lt;/p&gt;&#xA;&lt;p&gt;Number: 27. Genre: Metroidvania. Title: &amp;ldquo;The 27th Chamber&amp;rdquo;. Outline: You play as a member of an elite group of soldiers who are sent on a mission to investigate a strange energy signature emanating from an abandoned research facility.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>1926: The Golden Age of Aviation</title>
+      <link>http://localhost:1313/posts/2022/08/26/1926-the-golden-age-of-aviation/</link>
+      <pubDate>Fri, 26 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/26/1926-the-golden-age-of-aviation/</guid>
+      <description>Experience the golden age of aviation in this flight simulator set in the 1920s.</description>
+    </item>
+    <item>
+      <title>25 Cents: The Age of the Arcade</title>
+      <link>http://localhost:1313/posts/2022/08/25/25-cents-the-age-of-the-arcade/</link>
+      <pubDate>Thu, 25 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/25/25-cents-the-age-of-the-arcade/</guid>
+      <description>In 25 Cents, players take on the role of arcade owners in the 1980s, running their businesses and competing against each other to attract high scores from players who drop quarters into virtual machines.</description>
+    </item>
+    <item>
+      <title>24/7: Attention, Undead Shoppers edition.</title>
+      <link>http://localhost:1313/posts/2022/08/24/24-7-attention-undead-shoppers-edition/</link>
+      <pubDate>Wed, 24 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/24/24-7-attention-undead-shoppers-edition/</guid>
+      <description>Do you have what it takes to keep the undead under control? Find out in 24/7, a challenging and exciting first-person shooter with a horror twist. Patrol the mall at night and keep the creatures of the night in check. Use a variety of different weapons and tools to help you in your task. Can you survive until dawn?</description>
+    </item>
+    <item>
+      <title>23 Fathoms: A Cold War Era Submarine Simulator</title>
+      <link>http://localhost:1313/posts/2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator/</link>
+      <pubDate>Tue, 23 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator/</guid>
+      <description>&lt;p&gt;Number: 23. Genre: Submarine Simulator. Title: &amp;ldquo;23 Fathoms&amp;rdquo;. Outline: In this submarine simulator, you are the captain of a nuclear submarine on a secret mission. You must navigate the treacherous waters, avoid detection, and complete your mission without being detected.&lt;/p&gt;&#xA;&lt;p&gt;In the grand tradition of Silent Hunter, &amp;ldquo;23 Fathoms&amp;rdquo; puts you in the captain’s chair of a nuclear submarine. As you navigate the treacherous waters, you must avoid detection while completing your mission. The game features realistic submarine physics and gameplay, as well as a dynamic campaign that changes based on your choices.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>&#34;The 22nd Letter&#34;: A Game of Mystery and Scrabble</title>
+      <link>http://localhost:1313/posts/2022/08/22/the-22nd-letter-a-game-of-mystery-and-scrabble/</link>
+      <pubDate>Mon, 22 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/22/the-22nd-letter-a-game-of-mystery-and-scrabble/</guid>
+      <description>The 22nd Letter is a game of mystery and Scrabble. As you play the game, you&amp;rsquo;ll gradually uncover the story of &amp;ldquo;V&amp;rdquo;, a man who disappeared during a Scrabble tournament long ago. Can you solve the mystery?</description>
+    </item>
+    <item>
+      <title>21 Reactions: Chemical Chaos</title>
+      <link>http://localhost:1313/posts/2022/08/21/21-reactions-chemical-chaos/</link>
+      <pubDate>Sun, 21 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/21/21-reactions-chemical-chaos/</guid>
+      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 21st: “21 Reactions: Chemical Chaos”.&lt;/p&gt;&#xA;&lt;p&gt;Number: 21. Genre: Rhythm game. Title: &amp;ldquo;21 Grams&amp;rdquo;. Outline: In this rhythm game, you must keep the beat while 21 grams of various substances are added to a beaker. The challenge lies in ensuring that the mixture does not explode.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Wild 20s - The City is Your Sandbox</title>
+      <link>http://localhost:1313/posts/2022/08/20/the-wild-20s-the-city-is-your-sandbox/</link>
+      <pubDate>Sat, 20 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/20/the-wild-20s-the-city-is-your-sandbox/</guid>
+      <description>&amp;ldquo;The Wild 20s&amp;rdquo; is an open-world sandbox game set in the Roaring Twenties. You can explore the city, find jobs, start businesses, get into trouble, or just enjoy the nightlife. It&amp;rsquo;s up to you!</description>
+    </item>
+    <item>
+      <title>Can You Make It To The End Of 19th Street In This Frantic Endless Runner?</title>
+      <link>http://localhost:1313/posts/2022/08/19/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/</link>
+      <pubDate>Fri, 19 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/19/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/</guid>
+      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 19th: “19th Street Dash”.&lt;/p&gt;&#xA;&lt;p&gt;You dallied a little too long over your coffee at the Mug &amp;amp; Cup, and now you&amp;rsquo;re going to be late for your interview crosstown. You bolt out the door and start sprinting down 19th Street. You have to be careful not to trip on cracks in the sidewalk, jump over obstacles in your path, and be mindful of the gaps between buildings.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Death Dealer 18 Wheeler</title>
+      <link>http://localhost:1313/posts/2022/08/18/death-dealer-18-wheeler/</link>
+      <pubDate>Thu, 18 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/18/death-dealer-18-wheeler/</guid>
+      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 18th: “Death Dealer 18 Wheeler”.&lt;/p&gt;&#xA;&lt;p&gt;Number: 18. Genre: Tower defense game. Title: &amp;ldquo;Death Dealer 18 Wheeler&amp;rdquo;. Outline: You are in charge of a 18-wheeler truck and must deliver your load safely while fending off attacks from bandits.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>There is No Room 17 in Kaisei Academy</title>
+      <link>http://localhost:1313/posts/2022/08/17/there-is-no-room-17-in-kaisei-academy/</link>
+      <pubDate>Wed, 17 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/17/there-is-no-room-17-in-kaisei-academy/</guid>
+      <description>&amp;ldquo;There Is No Room 17 in Kaisei Academy&amp;rdquo; is a fun and mystery-filled visual novel that is perfect for fans of the genre.</description>
+    </item>
+    <item>
+      <title>The Escape of King Louis XVI</title>
+      <link>http://localhost:1313/posts/2022/08/16/the-escape-of-king-louis-xvi/</link>
+      <pubDate>Tue, 16 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/16/the-escape-of-king-louis-xvi/</guid>
+      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 16th: “The 16th King”.&lt;/p&gt;&#xA;&lt;p&gt;Number: 16. Genre: Text-based adventure game. Title: &amp;ldquo;The 16th King&amp;rdquo; Outline: King Louis XVI was the 16 King Louis and the final king of France. You play as the king during the French Revolution, and must escape from prison and flee to safety.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The 15th Element: A Squad-Based Shooter With Puzzle Elements</title>
+      <link>http://localhost:1313/posts/2022/08/15/the-15th-element-a-squad-based-shooter-with-puzzle-elements/</link>
+      <pubDate>Mon, 15 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/15/the-15th-element-a-squad-based-shooter-with-puzzle-elements/</guid>
+      <description>The 15th Element is a squad-based first person shooter with puzzle elements, set in an alien world. The game includes a variety of DLC options, such as a new enemy race and a survival-style mode.</description>
+    </item>
+    <item>
+      <title>The 14 Pages of Sarah Woods</title>
+      <link>http://localhost:1313/posts/2022/08/14/the-14-pages-of-sarah-woods/</link>
+      <pubDate>Sun, 14 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/14/the-14-pages-of-sarah-woods/</guid>
+      <description>The Number 14: A Touching Game with Excellent Writing and Interesting Characters</description>
+    </item>
+    <item>
+      <title>Thirteen Step Program: A Psychological Thriller</title>
+      <link>http://localhost:1313/posts/2022/08/13/thirteen-step-program-a-psychological-thriller/</link>
+      <pubDate>Sat, 13 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/13/thirteen-step-program-a-psychological-thriller/</guid>
+      <description>You play as a young woman who is struggling with addiction. After hitting rock bottom, you enter into recovery and start attending AA meetings. However, you quickly discover that not all is as it seems within the group…</description>
+    </item>
+    <item>
+      <title>Trial by Wombat? Not in my Mastodon!</title>
+      <link>http://localhost:1313/posts/2022/08/12/trial-by-wombat-not-in-my-mastodon/</link>
+      <pubDate>Fri, 12 Aug 2022 23:05:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/12/trial-by-wombat-not-in-my-mastodon/</guid>
+      <description>&lt;p&gt;Just griping.&lt;/p&gt;&#xA;&lt;p&gt;I was asked to remove or hide behind a content warning any AI art I feel like posting to the Mastodon instance (Elekk.xyz) where I made my home when it looked like Musk was going to turn Twitter into his own personal fiefdom. That&amp;rsquo;s looking increasingly unlikely, but I have met some cool folks on Mastodon, so I still use it. Sometimes I post there things I don&amp;rsquo;t think would fit somewhere else &amp;ndash; like my friendly wombat, here.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Twelve Angry Zoos</title>
+      <link>http://localhost:1313/posts/2022/08/12/twelve-angry-zoos/</link>
+      <pubDate>Fri, 12 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/12/twelve-angry-zoos/</guid>
+      <description>&amp;ldquo;Twelve Angry Zoos&amp;rdquo; is a fast-paced arcade game that will test your reflexes and puzzle-solving skills. With 12 different zoos in 12 different cities, there&amp;rsquo;s plenty of gameplay to keep you entertained.</description>
+    </item>
+    <item>
+      <title>11/11/11: The Thousand Year Second</title>
+      <link>http://localhost:1313/posts/2022/08/11/11-11-11-the-thousand-year-second/</link>
+      <pubDate>Thu, 11 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/11/11-11-11-the-thousand-year-second/</guid>
+      <description>“11/11/11: The Thousand Year Second” is a turn-based strategy game about time, relationships, and choices.</description>
+    </item>
+    <item>
+      <title>10 Million B.C.: An open-world action RPG set in the time of the dinosaurs</title>
+      <link>http://localhost:1313/posts/2022/08/10/10000-b-c-an-open-world-action-rpg-set-in-the-time-of-the-dinosaurs/</link>
+      <pubDate>Wed, 10 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/10/10000-b-c-an-open-world-action-rpg-set-in-the-time-of-the-dinosaurs/</guid>
+      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 10th: “10 Million B.C.”.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Number:&lt;/strong&gt; 10. &lt;strong&gt;Genre:&lt;/strong&gt; Open-world action RPG. &lt;strong&gt;Title:&lt;/strong&gt; &amp;ldquo;10 Million B.C.&amp;rdquo; &lt;strong&gt;Outline:&lt;/strong&gt; In this open-world action RPG set in the time of the dinosaurs, you play as a young hunter who must survive in a hostile world filled with giant beasts. Tame dinosaurs and use them to help you travel across the vast landscape and discover lost civilizations.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Game Night, by Shakespeare, Renoir and OpenAI</title>
+      <link>http://localhost:1313/posts/2022/08/09/game-night-by-shakespeare-renoir-and-openai/</link>
+      <pubDate>Tue, 09 Aug 2022 18:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/09/game-night-by-shakespeare-renoir-and-openai/</guid>
+      <description>&lt;p&gt;If I&amp;rsquo;ve scheduled this right, this should be going live right about the time people are arriving for Game Night. With the help of Open AI, I wrote a short play we can perform about deciding what to order out for dinner. We&amp;rsquo;ll see if I have the guts to actually insist people perform it, but&amp;hellip; who knows&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;Game Night for Hamlet&lt;/p&gt;&#xA;&lt;p&gt;DRAMATIS PERSONAE&lt;/p&gt;&#xA;&lt;p&gt;CLAUDIUS, the King of Denmark&#xA;GERTRUDE, the Queen of Denmark&#xA;HAMLET, son to Gertrude, and Prince of Denmark&#xA;OPHELIA, daughter of a courtier&#xA;A DELIVERY PERSON&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Nine-Lives Chronicles</title>
+      <link>http://localhost:1313/posts/2022/08/09/the-nine-lives-chronicles/</link>
+      <pubDate>Tue, 09 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/09/the-nine-lives-chronicles/</guid>
+      <description>You play as a young woman who discovers she has nine lives. Along with eight other people who also have nine lives, you must use your extra lives to help others and make the world a better place.</description>
+    </item>
+    <item>
+      <title>8 Bit Love - The Princess and the Plumber</title>
+      <link>http://localhost:1313/posts/2022/08/08/8-bit-love-the-princess-and-the-plumber/</link>
+      <pubDate>Mon, 08 Aug 2022 19:45:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/08/8-bit-love-the-princess-and-the-plumber/</guid>
+      <description>Join Mario, Link, and Dirk in their fight to save Princess Toadstool from a life of misery with Bowser. Will they be able to get through to her? Or will she stay with the monster she loves? Find out in this heart-pounding adventure!</description>
+    </item>
+    <item>
+      <title>Fast and Furious 2099 -- an AI written final chapter to the F&amp;F franchise.</title>
+      <link>http://localhost:1313/posts/2022/08/08/fast-and-furious-2099/</link>
+      <pubDate>Mon, 08 Aug 2022 15:12:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/08/fast-and-furious-2099/</guid>
+      <description>OpenAI&amp;rsquo;s GPT-3 writes the final chapter in the Fast and Furious saga &amp;ndash; Fast and Furious 2099.</description>
+    </item>
+    <item>
+      <title>#51: Make a new plan, Stan?</title>
+      <link>http://localhost:1313/posts/2022/08/08/51-make-a-new-plan-stan/</link>
+      <pubDate>Mon, 08 Aug 2022 07:47:56 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/08/51-make-a-new-plan-stan/</guid>
+      <description>&lt;p&gt;I asked OpenAI&amp;rsquo;s GPT-3 to list fifty ways to leave your lover&amp;hellip; I&amp;rsquo;m just trying to help out here, Paul Simon!&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Get a divorce- Sell your house and move away- Find a new job in a different city- Join the military and get stationed elsewhere- Go back to school full time- Win the lottery and move to another country- Pack up your things and move out without telling them where you&amp;rsquo;re going or why- Tell them you&amp;rsquo;re moving out and leave while they&amp;rsquo;re at work/school- Leave town for a weekend with no explanation and don&amp;rsquo;t come back- Change your phone number, email address, social media accounts, etc., so they can&amp;rsquo;t contact you anymore- Get a restraining order- Tell them you&amp;rsquo;re seeing someone else and that you want to end things- Send them a break-up letter or email- Ghost them completely (stop all communication without any explanation)- Unfriend/unfollow them on social media- Change your appearance so they don&amp;rsquo;t recognize you if they see you in public- Sell/give away their belongings that are still at your house- Get rid of anything that reminds you of them- Block their number and email address- Move to a different city/state/country- Go on a trip for an extended period of time (weeks, months, etc.)- Study abroad for a semester or year- Get a new hobby that takes up a lot of your time- Volunteer for something that requires you to be away from home often- Go backpacking/traveling alone for awhile- Work on building up your self-confidence and esteem- Find someone else to date/have as a rebound relationship- Spend more time with friends and family members- Focus on taking care of yourself and your own happiness first- Get therapy to work through your issues- Take a break from dating altogether- Go on a social media cleanse and unfollow/delete anyone who isn&amp;rsquo;t positive in your life- Declutter your entire life (physical space, digital space, etc.)- Join a new gym or fitness class and get into shape- Cut off all communication with their friends and family members too- Give away anything they gifted to you during the relationship- Donate their clothes to charity- Clean out your shared closet and get rid of anything that reminds you of them or the relationship- Cancel any joint plans/memberships/subscriptions- Return any keys/cards/gifts- Move any furniture they bought back to their house- Uninstall any apps you only had because of them- Get a new job- Transfer schools- Learn how to say &amp;ldquo;no&amp;rdquo;- Find a creative outlet (painting, writing, etc.)- Spend more time outside- Create (and stick to) firm boundaries- Set goals for yourself- Focus on healing&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>The Amazing Adventures of 8-Ball!</title>
+      <link>http://localhost:1313/posts/2022/08/08/the-amazing-adventures-of-8-ball/</link>
+      <pubDate>Mon, 08 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/08/the-amazing-adventures-of-8-ball/</guid>
+      <description>&amp;ldquo;Adventure of 8-Ball&amp;rdquo; is a 2D platformer mobile game with 50 levels, attractive graphics, and catchy music. The player controls 8-ball, a little black cat, on a quest to save their owner from the evil dog catcher who has kidnapped them.</description>
+    </item>
+    <item>
+      <title>The Seven Sages: A Masterclass in Metroidvania Design</title>
+      <link>http://localhost:1313/posts/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/</link>
+      <pubDate>Sun, 07 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/</guid>
+      <description>In &amp;ldquo;The Seven Sages&amp;rdquo;, you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil.</description>
+    </item>
+    <item>
+      <title>The Six Cats of Madame Miracle</title>
+      <link>http://localhost:1313/posts/2022/08/06/the-six-cats-of-madame-miracle/</link>
+      <pubDate>Sat, 06 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/06/the-six-cats-of-madame-miracle/</guid>
+      <description>The Six Cats of Madame Miracle is a light-hearted and fun visual novel that is perfect for players of all ages. The puzzles are easy to learn and solve, and the game&amp;rsquo;s cute art style and cheerful music make it a joy to play.</description>
+    </item>
+    <item>
+      <title>Dall-E 2 vs Craiyon: Which AI program generates better images?</title>
+      <link>http://localhost:1313/posts/2022/08/03/dall-e-2-vs-craiyon-which-ai-program-generates-better-images/</link>
+      <pubDate>Wed, 03 Aug 2022 07:31:47 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/03/dall-e-2-vs-craiyon-which-ai-program-generates-better-images/</guid>
+      <description>I&amp;rsquo;ve been using AI to generate images for articles and I&amp;rsquo;m really impressed with the results.</description>
+    </item>
+    <item>
+      <title>Three Frow: A deep, tactical basketball RPG</title>
+      <link>http://localhost:1313/posts/2022/08/03/three-throw-a-deep-tactical-basketball-rpg/</link>
+      <pubDate>Wed, 03 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/03/three-throw-a-deep-tactical-basketball-rpg/</guid>
+      <description>&lt;p&gt;I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here&amp;rsquo;s its idea for August 3rd: &amp;ldquo;Three Frow&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;In this tactical strategy sports game, you must recruit and play the best basketball players from around the world in order to win the NBA championship. Cheering crowds will be your constant companion on your rise to the top. These aren&amp;rsquo;t your ordinary crowds, though — if you make a bad play, expect the fans to boo you mercilessly, or even throw things at you. Make a great play or a stunning assist, though, and the fans may just carry you off the court on their shoulders.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>One: The Game - A Superheroic Multiplayer Experience</title>
+      <link>http://localhost:1313/posts/2022/08/01/one-the-game-a-superheroic-multiplayer-experience/</link>
+      <pubDate>Mon, 01 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/01/one-the-game-a-superheroic-multiplayer-experience/</guid>
+      <description>&lt;p&gt;I asked OpenAI&amp;rsquo;s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here&amp;rsquo;s its idea for August 1st.&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;One: The Game&amp;rdquo; is an online multiplayer game where you play as one of a group of super-powered beings who must work together to stop a madman from taking over the world.&lt;/p&gt;&#xA;&lt;p&gt;The game is played in a third-person perspective, and you can choose to play as one of several different characters, each with their own unique abilities.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

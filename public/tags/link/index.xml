@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Link on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/link/</link>
+    <description>Recent content in Link on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Aug 2022 19:45:36 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8 Bit Love - The Princess and the Plumber</title>
+      <link>http://localhost:1313/posts/2022/08/08/8-bit-love-the-princess-and-the-plumber/</link>
+      <pubDate>Mon, 08 Aug 2022 19:45:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/08/8-bit-love-the-princess-and-the-plumber/</guid>
+      <description>Join Mario, Link, and Dirk in their fight to save Princess Toadstool from a life of misery with Bowser. Will they be able to get through to her? Or will she stay with the monster she loves? Find out in this heart-pounding adventure!</description>
+    </item>
+  </channel>
+</rss>

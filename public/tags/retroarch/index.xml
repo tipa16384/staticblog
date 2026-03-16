@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Retroarch on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/retroarch/</link>
+    <description>Recent content in Retroarch on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 May 2024 17:18:51 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/retroarch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retro Game Haul: Tron Deadly Discs and Reversi</title>
+      <link>http://localhost:1313/posts/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/</link>
+      <pubDate>Sat, 25 May 2024 17:18:51 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/</guid>
+      <description>The sale of the Intellivision brand to the Atari brand means it&amp;#39;s finally legal for me to play Intellivision games after only 40 years.</description>
+    </item>
+    <item>
+      <title>PCSX2 has gone and done it this time...</title>
+      <link>http://localhost:1313/posts/2024/05/03/pcsx2-has-gone-and-done-it-this-time/</link>
+      <pubDate>Fri, 03 May 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/05/03/pcsx2-has-gone-and-done-it-this-time/</guid>
+      <description>The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility.</description>
+    </item>
+    <item>
+      <title>Is playing on the original hardware worth the trouble?</title>
+      <link>http://localhost:1313/posts/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/</link>
+      <pubDate>Mon, 11 Jul 2022 08:24:06 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Dark Stone, Retroarch, and Steam.</title>
+      <link>http://localhost:1313/posts/2022/07/04/dark-stone-retroarch-and-steam/</link>
+      <pubDate>Mon, 04 Jul 2022 23:27:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/07/04/dark-stone-retroarch-and-steam/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

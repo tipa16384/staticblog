@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Seven Sages on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/seven-sages/</link>
+    <description>Recent content in Seven Sages on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Aug 2022 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/seven-sages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Seven Sages: A Masterclass in Metroidvania Design</title>
+      <link>http://localhost:1313/posts/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/</link>
+      <pubDate>Sun, 07 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/</guid>
+      <description>In &amp;#34;The Seven Sages&amp;#34;, you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil.</description>
+    </item>
+  </channel>
+</rss>

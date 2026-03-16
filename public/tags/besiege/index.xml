@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Besiege on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/besiege/</link>
+    <description>Recent content in Besiege on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Feb 2015 04:53:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/besiege/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Besiege! Done with the current official content...</title>
+      <link>http://localhost:1313/posts/2015/02/08/besiege-is-still-in-alpha-and-most-of-the-maps-and-challenges-arent-ready-i-finished-up-what-there/</link>
+      <pubDate>Sun, 08 Feb 2015 04:53:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2015/02/08/besiege-is-still-in-alpha-and-most-of-the-maps-and-challenges-arent-ready-i-finished-up-what-there/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Besiege! Watch the skies!</title>
+      <link>http://localhost:1313/posts/2015/02/07/silly-stupidly-addictive-game-went-back-and-tried-to-conquer-a-previous-level-with-the-power-of-flight/</link>
+      <pubDate>Sat, 07 Feb 2015 13:33:14 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2015/02/07/silly-stupidly-addictive-game-went-back-and-tried-to-conquer-a-previous-level-with-the-power-of-flight/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Besiege! Love at first siege...</title>
+      <link>http://localhost:1313/posts/2015/02/07/i-love-builder-games-like-minecraft-and-kerbal-space-program-when-i-saw-the-zany-creations-from-besiege/</link>
+      <pubDate>Sat, 07 Feb 2015 02:40:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2015/02/07/i-love-builder-games-like-minecraft-and-kerbal-space-program-when-i-saw-the-zany-creations-from-besiege/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

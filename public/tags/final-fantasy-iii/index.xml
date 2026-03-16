@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Final Fantasy III on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/final-fantasy-iii/</link>
+    <description>Recent content in Final Fantasy III on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Aug 2021 09:14:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/final-fantasy-iii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FF3 Complete!</title>
+      <link>http://localhost:1313/posts/2021/08/22/ff3-complete/</link>
+      <pubDate>Sun, 22 Aug 2021 09:14:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/08/22/ff3-complete/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Final Fantasy III -- The Adventure Begins!</title>
+      <link>http://localhost:1313/posts/2021/08/14/final-fantasy-iii-the-adventure-begins/</link>
+      <pubDate>Sat, 14 Aug 2021 09:51:19 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/08/14/final-fantasy-iii-the-adventure-begins/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

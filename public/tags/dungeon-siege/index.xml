@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dungeon Siege on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/dungeon-siege/</link>
+    <description>Recent content in Dungeon Siege on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 25 Apr 2020 03:40:55 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dungeon-siege/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Follow up: Dungeon Siege with HD texture pack</title>
+      <link>http://localhost:1313/posts/2020/04/25/follow-up-dungeon-siege-with-hd-texture-pack/</link>
+      <pubDate>Sat, 25 Apr 2020 03:40:55 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/04/25/follow-up-dungeon-siege-with-hd-texture-pack/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Favorite Game Series #5: Dungeon Siege</title>
+      <link>http://localhost:1313/posts/2020/04/24/favorite-game-series-5-dungeon-siege/</link>
+      <pubDate>Fri, 24 Apr 2020 11:50:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/04/24/favorite-game-series-5-dungeon-siege/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Dungeon Siege 3: Polished, Simple, Short</title>
+      <link>http://localhost:1313/posts/2011/06/25/dungeon-siege-3-polished-simple-short/</link>
+      <pubDate>Sat, 25 Jun 2011 19:59:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/06/25/dungeon-siege-3-polished-simple-short/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Demigod beta opened to pre-orders</title>
+      <link>http://localhost:1313/posts/2008/09/18/demigod-beta-opened-to-pre-orders/</link>
+      <pubDate>Thu, 18 Sep 2008 10:00:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/18/demigod-beta-opened-to-pre-orders/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Guild Wars: Nightfall, Day 1</title>
+      <link>http://localhost:1313/posts/2008/08/04/guild-wars-nightfall-day-1/</link>
+      <pubDate>Mon, 04 Aug 2008 07:50:19 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/08/04/guild-wars-nightfall-day-1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Bad article ideas: MMO Pinup Calendar</title>
+      <link>http://localhost:1313/posts/2008/03/31/bad-article-ideas-mmo-pinup-calendar/</link>
+      <pubDate>Mon, 31 Mar 2008 08:05:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/03/31/bad-article-ideas-mmo-pinup-calendar/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

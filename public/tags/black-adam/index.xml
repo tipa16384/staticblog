@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Black Adam on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/black-adam/</link>
+    <description>Recent content in Black Adam on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 07 Nov 2022 07:42:30 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/black-adam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Black Adam: No Spoiler Review</title>
+      <link>http://localhost:1313/posts/2022/11/07/black-adam-no-spoiler-review/</link>
+      <pubDate>Mon, 07 Nov 2022 07:42:30 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/11/07/black-adam-no-spoiler-review/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

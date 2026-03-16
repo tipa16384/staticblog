@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Adrullan Online Adventures on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/adrullan-online-adventures/</link>
+    <description>Recent content in Adrullan Online Adventures on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 18 Feb 2025 08:42:08 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/adrullan-online-adventures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wot&#39;s... Uh the Deal?</title>
+      <link>http://localhost:1313/posts/2025/02/18/wots-uh-the-deal/</link>
+      <pubDate>Tue, 18 Feb 2025 08:42:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/02/18/wots-uh-the-deal/</guid>
+      <description>Lots of stuff going on, I guess I should update on all the things.</description>
+    </item>
+    <item>
+      <title>Best of 2024: My Favorite MMOs</title>
+      <link>http://localhost:1313/posts/2025/01/04/best-of-2024-my-favorite-mmos/</link>
+      <pubDate>Sat, 04 Jan 2025 16:46:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/01/04/best-of-2024-my-favorite-mmos/</guid>
+      <description>I played a few MMOs this past year. Here&amp;#39;s some of my favorites, including two from way back when.</description>
+    </item>
+    <item>
+      <title>EverCraft Online: The Unholy Child of EQ and MineCraft</title>
+      <link>http://localhost:1313/posts/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/</link>
+      <pubDate>Mon, 21 Oct 2024 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/</guid>
+      <description>Not a MineCraft mod, ECO brings back the 1999 experience in style -- block style.</description>
+    </item>
+  </channel>
+</rss>

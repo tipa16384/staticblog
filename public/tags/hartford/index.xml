@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hartford on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/hartford/</link>
+    <description>Recent content in Hartford on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Sep 2022 22:07:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hartford/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retro World Expo 2022 -- Hartford, CT</title>
+      <link>http://localhost:1313/posts/2022/09/13/retro-world-expo-2022-hartford-ct/</link>
+      <pubDate>Tue, 13 Sep 2022 22:07:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/13/retro-world-expo-2022-hartford-ct/</guid>
+      <description>Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn&amp;#39;t a fan and is warning me away from Drakkhen for the SNES.</description>
+    </item>
+    <item>
+      <title>Shop smart, shop S-Mart, in Connecticut</title>
+      <link>http://localhost:1313/posts/2008/11/07/shop-smart-shop-s-mart-in-connecticut/</link>
+      <pubDate>Fri, 07 Nov 2008 10:21:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/11/07/shop-smart-shop-s-mart-in-connecticut/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

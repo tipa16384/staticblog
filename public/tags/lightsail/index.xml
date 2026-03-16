@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lightsail on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/lightsail/</link>
+    <description>Recent content in Lightsail on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Sep 2021 08:01:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lightsail/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chasing Dings! goes to West Karana</title>
+      <link>http://localhost:1313/posts/2021/09/08/chasing-dings-goes-to-west-karana/</link>
+      <pubDate>Wed, 08 Sep 2021 08:01:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/09/08/chasing-dings-goes-to-west-karana/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

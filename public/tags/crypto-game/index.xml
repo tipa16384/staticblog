@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Crypto Game on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/crypto-game/</link>
+    <description>Recent content in Crypto Game on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Apr 2022 20:06:46 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/crypto-game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Much is that Star Trek NFT in the Window?</title>
+      <link>http://localhost:1313/posts/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/</link>
+      <pubDate>Fri, 08 Apr 2022 20:06:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Hodgepodge: Games, Crypto and NFTs.</title>
+      <link>http://localhost:1313/posts/2021/11/10/hodgepodge-games-crypto-and-nfts/</link>
+      <pubDate>Wed, 10 Nov 2021 23:52:22 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/11/10/hodgepodge-games-crypto-and-nfts/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Cryptogaming: A Brief Adventure</title>
+      <link>http://localhost:1313/posts/2021/11/01/cryptogaming-a-brief-adventure/</link>
+      <pubDate>Mon, 01 Nov 2021 00:29:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/11/01/cryptogaming-a-brief-adventure/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Dragonereum: If NeoPets Cost $7,000</title>
+      <link>http://localhost:1313/posts/2021/10/20/dragonereum-if-neopets-cost-7000/</link>
+      <pubDate>Wed, 20 Oct 2021 08:26:25 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/10/20/dragonereum-if-neopets-cost-7000/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

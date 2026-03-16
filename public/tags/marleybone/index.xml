@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Marleybone on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/marleybone/</link>
+    <description>Recent content in Marleybone on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 23 Aug 2010 22:49:33 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/marleybone/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wizard101: It&#39;s all about the Ninja Pig</title>
+      <link>http://localhost:1313/posts/2010/08/23/wizard101-its-all-about-the-ninja-pig/</link>
+      <pubDate>Mon, 23 Aug 2010 22:49:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/08/23/wizard101-its-all-about-the-ninja-pig/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: First Night in Grizzleheim &amp; Crafting Secrets</title>
+      <link>http://localhost:1313/posts/2009/07/02/wizard-101-first-night-in-grizzleheim-crafting-secrets/</link>
+      <pubDate>Thu, 02 Jul 2009 07:04:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/07/02/wizard-101-first-night-in-grizzleheim-crafting-secrets/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101 Player Housing ON TEST!</title>
+      <link>http://localhost:1313/posts/2009/04/23/wizard-101-player-housing-on-test/</link>
+      <pubDate>Thu, 23 Apr 2009 01:24:47 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/23/wizard-101-player-housing-on-test/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Building a deck</title>
+      <link>http://localhost:1313/posts/2009/02/26/wizard-101-building-a-deck/</link>
+      <pubDate>Thu, 26 Feb 2009 08:50:13 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/02/26/wizard-101-building-a-deck/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Hametsu Village</title>
+      <link>http://localhost:1313/posts/2008/10/27/wizard-101-hametsu-village/</link>
+      <pubDate>Mon, 27 Oct 2008 08:45:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/27/wizard-101-hametsu-village/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>W101: The long journey to Moo Shu</title>
+      <link>http://localhost:1313/posts/2008/10/19/w101-the-long-journey-to-moo-shu/</link>
+      <pubDate>Sun, 19 Oct 2008 23:32:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/19/w101-the-long-journey-to-moo-shu/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>W101: The Ironworks</title>
+      <link>http://localhost:1313/posts/2008/10/16/w101-the-ironworks/</link>
+      <pubDate>Thu, 16 Oct 2008 08:59:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/16/w101-the-ironworks/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>W101: Hallowe&#39;en in Wizard City (and October patch notes)</title>
+      <link>http://localhost:1313/posts/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/</link>
+      <pubDate>Mon, 13 Oct 2008 08:42:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>W101: Leaving Krokotopia</title>
+      <link>http://localhost:1313/posts/2008/10/06/w101-leaving-krokotopia/</link>
+      <pubDate>Mon, 06 Oct 2008 08:00:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/06/w101-leaving-krokotopia/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Let&#39;s check in on Wizard 101...</title>
+      <link>http://localhost:1313/posts/2008/07/29/lets-check-in-on-wizard-101/</link>
+      <pubDate>Tue, 29 Jul 2008 01:09:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/07/29/lets-check-in-on-wizard-101/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

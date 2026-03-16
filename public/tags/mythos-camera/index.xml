@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mythos Camera on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/mythos-camera/</link>
+    <description>Recent content in Mythos Camera on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jul 2008 09:41:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/mythos-camera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring the Overworld in Mythos</title>
+      <link>http://localhost:1313/posts/2008/07/01/exploring-the-overworld-in-mythos/</link>
+      <pubDate>Tue, 01 Jul 2008 09:41:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/07/01/exploring-the-overworld-in-mythos/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

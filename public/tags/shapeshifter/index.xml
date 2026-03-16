@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Shapeshifter on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/shapeshifter/</link>
+    <description>Recent content in Shapeshifter on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Aug 2010 15:07:54 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/shapeshifter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neopets wants me to solve Shapeshifter again.</title>
+      <link>http://localhost:1313/posts/2010/08/07/neopets-wants-me-to-solve-shapeshifter-again/</link>
+      <pubDate>Sat, 07 Aug 2010 15:07:54 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/08/07/neopets-wants-me-to-solve-shapeshifter-again/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Returning to Shapeshifter</title>
+      <link>http://localhost:1313/posts/2008/07/02/returning-to-shapeshifter/</link>
+      <pubDate>Wed, 02 Jul 2008 09:31:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/07/02/returning-to-shapeshifter/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

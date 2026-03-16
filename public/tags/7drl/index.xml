@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>7DRL on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/7drl/</link>
+    <description>Recent content in 7DRL on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Mar 2025 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/7drl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Fail at Writing A Game in 7 Days</title>
+      <link>http://localhost:1313/posts/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/</link>
+      <pubDate>Mon, 10 Mar 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/</guid>
+      <description>Also, lots of Tunnels &amp;amp; Trolls-adjacent stuff.</description>
+    </item>
+    <item>
+      <title>7DRL 2022: Retrospective</title>
+      <link>http://localhost:1313/posts/2022/03/13/7drl-2022-retrospective/</link>
+      <pubDate>Sun, 13 Mar 2022 09:55:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/13/7drl-2022-retrospective/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 5: I&#39;m Damaged, and I Like It</title>
+      <link>http://localhost:1313/posts/2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it/</link>
+      <pubDate>Fri, 11 Mar 2022 07:37:23 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 4: Tossing and Turning</title>
+      <link>http://localhost:1313/posts/2022/03/10/7drl-2022-day-4-tossing-and-turning/</link>
+      <pubDate>Thu, 10 Mar 2022 07:35:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/10/7drl-2022-day-4-tossing-and-turning/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 3: Targeting and Attacking</title>
+      <link>http://localhost:1313/posts/2022/03/09/7drl-2022-day-3-targeting-and-attacking/</link>
+      <pubDate>Wed, 09 Mar 2022 07:33:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/09/7drl-2022-day-3-targeting-and-attacking/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 2: Dungeon Room</title>
+      <link>http://localhost:1313/posts/2022/03/07/7drl-2022-day-2-dungeon-room/</link>
+      <pubDate>Mon, 07 Mar 2022 23:12:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/07/7drl-2022-day-2-dungeon-room/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 1: Intro</title>
+      <link>http://localhost:1313/posts/2022/03/07/7drl-2022-day-1-intro/</link>
+      <pubDate>Mon, 07 Mar 2022 06:54:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/07/7drl-2022-day-1-intro/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- I Screwed Up.</title>
+      <link>http://localhost:1313/posts/2022/03/04/7drl-building-an-engine-i-screwed-up/</link>
+      <pubDate>Fri, 04 Mar 2022 08:17:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/04/7drl-building-an-engine-i-screwed-up/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Winner.</title>
+      <link>http://localhost:1313/posts/2022/03/03/7drl-building-an-engine-winner/</link>
+      <pubDate>Thu, 03 Mar 2022 08:21:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/03/7drl-building-an-engine-winner/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- and it ends.</title>
+      <link>http://localhost:1313/posts/2022/03/02/7drl-building-an-engine-and-it-ends/</link>
+      <pubDate>Wed, 02 Mar 2022 07:54:11 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/02/7drl-building-an-engine-and-it-ends/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- It Begins</title>
+      <link>http://localhost:1313/posts/2022/03/01/7drl-building-an-engine-it-begins/</link>
+      <pubDate>Tue, 01 Mar 2022 07:38:11 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/01/7drl-building-an-engine-it-begins/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Setting the Scope</title>
+      <link>http://localhost:1313/posts/2022/02/28/7drl-building-an-engine-setting-the-scope/</link>
+      <pubDate>Mon, 28 Feb 2022 08:33:52 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/28/7drl-building-an-engine-setting-the-scope/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- YAML</title>
+      <link>http://localhost:1313/posts/2022/02/24/7drl-building-an-engine-yaml/</link>
+      <pubDate>Thu, 24 Feb 2022 00:14:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/24/7drl-building-an-engine-yaml/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Line of Sight</title>
+      <link>http://localhost:1313/posts/2022/02/21/7drl-building-an-engine-line-of-sight/</link>
+      <pubDate>Mon, 21 Feb 2022 08:07:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/21/7drl-building-an-engine-line-of-sight/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Path Finding</title>
+      <link>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-path-finding/</link>
+      <pubDate>Thu, 17 Feb 2022 23:30:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-path-finding/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Refactoring</title>
+      <link>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-refactoring/</link>
+      <pubDate>Thu, 17 Feb 2022 00:20:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/17/7drl-building-an-engine-refactoring/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Animation</title>
+      <link>http://localhost:1313/posts/2022/02/15/7drl-building-an-engine-animation/</link>
+      <pubDate>Tue, 15 Feb 2022 22:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/15/7drl-building-an-engine-animation/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- In the Browser</title>
+      <link>http://localhost:1313/posts/2022/02/14/7drl-building-an-engine-in-the-browser/</link>
+      <pubDate>Mon, 14 Feb 2022 22:58:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/14/7drl-building-an-engine-in-the-browser/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- A Room</title>
+      <link>http://localhost:1313/posts/2022/02/13/7drl-building-an-engine-a-room/</link>
+      <pubDate>Sun, 13 Feb 2022 19:58:14 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/13/7drl-building-an-engine-a-room/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Daily Blogroll Oct 19: Time enough to learn to swim edition</title>
+      <link>http://localhost:1313/posts/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/</link>
+      <pubDate>Thu, 20 Oct 2011 05:00:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL -- World of Roguecraft: Slightly more fun than clipping your nails.</title>
+      <link>http://localhost:1313/posts/2010/03/24/7drl-world-of-roguecraft-slightly-more-fun-than-clipping-your-nails/</link>
+      <pubDate>Wed, 24 Mar 2010 06:41:26 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/24/7drl-world-of-roguecraft-slightly-more-fun-than-clipping-your-nails/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL Day 7: Content, content, content</title>
+      <link>http://localhost:1313/posts/2010/03/13/7drl-day-7-content-content-content/</link>
+      <pubDate>Sat, 13 Mar 2010 16:38:36 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/13/7drl-day-7-content-content-content/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: World of Roguecraft, Day 5</title>
+      <link>http://localhost:1313/posts/2010/03/12/7drl-world-of-roguecraft-day-5/</link>
+      <pubDate>Fri, 12 Mar 2010 00:27:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/12/7drl-world-of-roguecraft-day-5/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL Day 3: Inventory, Messages, Improved Targeting</title>
+      <link>http://localhost:1313/posts/2010/03/09/7drl-day-3-inventory-messages-improved-targeting/</link>
+      <pubDate>Tue, 09 Mar 2010 00:03:52 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/09/7drl-day-3-inventory-messages-improved-targeting/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL Day 2: Monsters, Targets, Items</title>
+      <link>http://localhost:1313/posts/2010/03/07/7drl-day-2-monsters-targets-items/</link>
+      <pubDate>Sun, 07 Mar 2010 20:05:11 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/07/7drl-day-2-monsters-targets-items/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>7DRL: Milestone #1</title>
+      <link>http://localhost:1313/posts/2010/03/06/7drl-milestone-1/</link>
+      <pubDate>Sat, 06 Mar 2010 16:16:09 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/03/06/7drl-milestone-1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Java Test: Ramping up for 7DRL</title>
+      <link>http://localhost:1313/posts/2010/02/15/java-test-ramping-up-for-7drl/</link>
+      <pubDate>Mon, 15 Feb 2010 19:03:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/02/15/java-test-ramping-up-for-7drl/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

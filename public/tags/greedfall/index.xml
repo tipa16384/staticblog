@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Greedfall on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/greedfall/</link>
+    <description>Recent content in Greedfall on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Oct 2022 12:19:41 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/greedfall/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Steelrising: A Souls-Like for Revolutionary Spirits</title>
+      <link>http://localhost:1313/posts/2022/10/08/steelrising-a-souls-like-for-revolutionary-spirits/</link>
+      <pubDate>Sat, 08 Oct 2022 12:19:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/10/08/steelrising-a-souls-like-for-revolutionary-spirits/</guid>
+      <description>Aegis, a living automaton, is on a quest to free France from Mad King Louis XVI&amp;#39;s tyranny in this dark souls-like game set during the French Revolution.</description>
+    </item>
+    <item>
+      <title>He thought I was joking.</title>
+      <link>http://localhost:1313/posts/2021/10/07/he-thought-i-was-joking/</link>
+      <pubDate>Thu, 07 Oct 2021 23:37:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/10/07/he-thought-i-was-joking/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>New World: FOMO or FOTM?</title>
+      <link>http://localhost:1313/posts/2021/07/22/new-world-fomo-or-fotm/</link>
+      <pubDate>Thu, 22 Jul 2021 21:16:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/07/22/new-world-fomo-or-fotm/</guid>
+      <description>Amazon&amp;#39;s new MMO, &amp;#34;New World&amp;#34;, comes out soon. Everyone is excited -- but I don&amp;#39;t know if I&amp;#39;m ready for a new MMO commitment.</description>
+    </item>
+    <item>
+      <title>Blaugust #20: It&#39;s Good to be Bad</title>
+      <link>http://localhost:1313/posts/2020/08/20/blaugust-20-its-good-to-be-bad/</link>
+      <pubDate>Thu, 20 Aug 2020 08:08:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/08/20/blaugust-20-its-good-to-be-bad/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

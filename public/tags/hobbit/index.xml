@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hobbit on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/hobbit/</link>
+    <description>Recent content in Hobbit on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Feb 2024 07:31:31 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hobbit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Retro Game Quick Look: Sword of Mana, LotR: Two Towers, Iridion 3D</title>
+      <link>http://localhost:1313/posts/2024/02/20/retro-game-quick-look-sword-of-mana-lotr-two-towers-iridion-3d/</link>
+      <pubDate>Tue, 20 Feb 2024 07:31:31 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/02/20/retro-game-quick-look-sword-of-mana-lotr-two-towers-iridion-3d/</guid>
+      <description>I shuffled through the Gameboy Advance discount bins at some local retro game stores, and this is what I came away with.</description>
+    </item>
+    <item>
+      <title>The Hobbit (Gameboy Advance)</title>
+      <link>http://localhost:1313/posts/2023/12/05/the-hobbit-gameboy-advance/</link>
+      <pubDate>Tue, 05 Dec 2023 08:22:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/05/the-hobbit-gameboy-advance/</guid>
+      <description>See, it&amp;#39;s a story about a little man who lives in a hole dug into a hill...</description>
+    </item>
+    <item>
+      <title>Lord of the Rings Online: Hobbit vs Troll</title>
+      <link>http://localhost:1313/posts/2009/01/19/lord-of-the-rings-online-hobbit-vs-troll/</link>
+      <pubDate>Mon, 19 Jan 2009 13:57:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/01/19/lord-of-the-rings-online-hobbit-vs-troll/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Petalica Paint on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/petalica-paint/</link>
+    <description>Recent content in Petalica Paint on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 25 Oct 2022 00:29:53 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/petalica-paint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coloring between the lines... with AI</title>
+      <link>http://localhost:1313/posts/2022/10/25/coloring-between-the-lines-with-ai/</link>
+      <pubDate>Tue, 25 Oct 2022 00:29:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/10/25/coloring-between-the-lines-with-ai/</guid>
+      <description>&lt;p&gt;A million or so years ago, I worked for Sony New Technologies, writing system software and applications for their Magic Link handheld computer, which ran General Magic&amp;rsquo;s Magic Cap operating system. The management came down one day and told us that what the Magic Link needed more than anything else was some games, goshdurnit, and so all of us developers were to take a break from writing serious software and do some games.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

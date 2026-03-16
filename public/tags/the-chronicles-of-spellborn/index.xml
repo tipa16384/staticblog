@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>The Chronicles of Spellborn on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/the-chronicles-of-spellborn/</link>
+    <description>Recent content in The Chronicles of Spellborn on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Jul 2021 21:16:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/the-chronicles-of-spellborn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New World: FOMO or FOTM?</title>
+      <link>http://localhost:1313/posts/2021/07/22/new-world-fomo-or-fotm/</link>
+      <pubDate>Thu, 22 Jul 2021 21:16:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/07/22/new-world-fomo-or-fotm/</guid>
+      <description>Amazon&amp;#39;s new MMO, &amp;#34;New World&amp;#34;, comes out soon. Everyone is excited -- but I don&amp;#39;t know if I&amp;#39;m ready for a new MMO commitment.</description>
+    </item>
+    <item>
+      <title>How far would I go to play Spellborn?</title>
+      <link>http://localhost:1313/posts/2008/11/20/how-far-would-i-go-to-play-spellborn/</link>
+      <pubDate>Thu, 20 Nov 2008 01:14:40 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/11/20/how-far-would-i-go-to-play-spellborn/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Spellborn vs Runes of Magic CAGE MATCH</title>
+      <link>http://localhost:1313/posts/2008/07/23/spellborn-vs-runes-of-magic-cage-match/</link>
+      <pubDate>Wed, 23 Jul 2008 13:03:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/07/23/spellborn-vs-runes-of-magic-cage-match/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

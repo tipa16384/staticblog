@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Contest on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/contest/</link>
+    <description>Recent content in Contest on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 30 Mar 2011 00:28:56 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/contest/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wizard101: It&#39;s MOUNT WEEK!</title>
+      <link>http://localhost:1313/posts/2011/03/30/wizard101-its-mount-week/</link>
+      <pubDate>Wed, 30 Mar 2011 00:28:56 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2011/03/30/wizard101-its-mount-week/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101 Comic Contest</title>
+      <link>http://localhost:1313/posts/2009/07/22/wizard-101-comic-contest/</link>
+      <pubDate>Wed, 22 Jul 2009 20:37:47 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/07/22/wizard-101-comic-contest/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Name the Turtles!</title>
+      <link>http://localhost:1313/posts/2009/04/20/wizard-101-name-the-turtles/</link>
+      <pubDate>Mon, 20 Apr 2009 10:00:15 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/20/wizard-101-name-the-turtles/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

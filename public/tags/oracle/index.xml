@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Oracle on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/oracle/</link>
+    <description>Recent content in Oracle on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 09 Mar 2009 00:28:18 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/oracle/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adventures in Monopoly: Oracle, Part II</title>
+      <link>http://localhost:1313/posts/2009/03/09/adventures-in-monopoly-oracle-part-ii/</link>
+      <pubDate>Mon, 09 Mar 2009 00:28:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/09/adventures-in-monopoly-oracle-part-ii/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

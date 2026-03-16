@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Giving Tree on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/giving-tree/</link>
+    <description>Recent content in Giving Tree on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Dec 2010 08:55:14 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/giving-tree/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wizard101: The last gift of the Giving Tree</title>
+      <link>http://localhost:1313/posts/2010/12/24/wizard101-the-last-gift-of-the-giving-tree/</link>
+      <pubDate>Fri, 24 Dec 2010 08:55:14 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/12/24/wizard101-the-last-gift-of-the-giving-tree/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard101: Level 58, and I Feel Fine.</title>
+      <link>http://localhost:1313/posts/2010/12/15/wizard101-level-58-and-i-feel-fine/</link>
+      <pubDate>Wed, 15 Dec 2010 01:33:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/12/15/wizard101-level-58-and-i-feel-fine/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

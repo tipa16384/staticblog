@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Empire on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/my-empire/</link>
+    <description>Recent content in My Empire on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Sep 2010 07:03:37 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/my-empire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Facebook game roundup: Warstorm and City of Wonder</title>
+      <link>http://localhost:1313/posts/2010/09/14/facebook-game-roundup-warstorm-and-city-of-wonder/</link>
+      <pubDate>Tue, 14 Sep 2010 07:03:37 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/09/14/facebook-game-roundup-warstorm-and-city-of-wonder/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Thoughts on the social gaming explosion</title>
+      <link>http://localhost:1313/posts/2010/08/27/thoughts-on-the-social-gaming-explosion/</link>
+      <pubDate>Fri, 27 Aug 2010 18:52:43 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/08/27/thoughts-on-the-social-gaming-explosion/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Facebook Games Ho! Will Playfish&#39; &#34;My Empire&#34; make you forget Caesar IV?</title>
+      <link>http://localhost:1313/posts/2010/07/29/facebook-games-ho-will-playfish-my-empire-make-you-forget-caesar-iv/</link>
+      <pubDate>Thu, 29 Jul 2010 06:59:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/07/29/facebook-games-ho-will-playfish-my-empire-make-you-forget-caesar-iv/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

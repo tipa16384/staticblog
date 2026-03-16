@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rise Eterna on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/rise-eterna/</link>
+    <description>Recent content in Rise Eterna on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Jul 2021 23:01:10 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/rise-eterna/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rise Eterna</title>
+      <link>http://localhost:1313/posts/2021/07/20/rise-eterna/</link>
+      <pubDate>Tue, 20 Jul 2021 23:01:10 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/07/20/rise-eterna/</guid>
+      <description>Rise Eterna claims to be a modern successor to the legendary tactical rpgs of the past. Can Rise Eterna really wear Final Fantasy Tactics&amp;#39; crown?</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Scythe on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/scythe/</link>
+    <description>Recent content in Scythe on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Oct 2021 10:08:04 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scythe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Night: Scythe (and My Little Scythe)</title>
+      <link>http://localhost:1313/posts/2021/10/02/game-night-scythe-and-my-little-scythe/</link>
+      <pubDate>Sat, 02 Oct 2021 10:08:04 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/10/02/game-night-scythe-and-my-little-scythe/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Game Night: My Little Scythe and the Watson Game Topper</title>
+      <link>http://localhost:1313/posts/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/</link>
+      <pubDate>Sat, 25 Sep 2021 09:54:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Game Night: Game of Thrones: the Card Game</title>
+      <link>http://localhost:1313/posts/2020/05/29/game-night-game-of-thrones-the-card-game/</link>
+      <pubDate>Fri, 29 May 2020 11:46:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/05/29/game-night-game-of-thrones-the-card-game/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

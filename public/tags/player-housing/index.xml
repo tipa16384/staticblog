@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Player Housing on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/player-housing/</link>
+    <description>Recent content in Player Housing on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Jun 2009 20:34:27 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/player-housing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Catching up with Wizard 101</title>
+      <link>http://localhost:1313/posts/2009/06/04/catching-up-with-wizard-101/</link>
+      <pubDate>Thu, 04 Jun 2009 20:34:27 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/06/04/catching-up-with-wizard-101/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Housing slump? What housing slump?</title>
+      <link>http://localhost:1313/posts/2009/05/07/wizard-101-housing-slump-what-housing-slump/</link>
+      <pubDate>Thu, 07 May 2009 00:46:34 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/05/07/wizard-101-housing-slump-what-housing-slump/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: Housing goes LIVE Wednesday!</title>
+      <link>http://localhost:1313/posts/2009/05/05/wizard-101-housing-goes-live-wednesday/</link>
+      <pubDate>Tue, 05 May 2009 21:40:07 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/05/05/wizard-101-housing-goes-live-wednesday/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: All ten player houses</title>
+      <link>http://localhost:1313/posts/2009/04/26/wizard-101-all-ten-player-houses/</link>
+      <pubDate>Sun, 26 Apr 2009 09:04:12 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/26/wizard-101-all-ten-player-houses/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101 Player Housing ON TEST!</title>
+      <link>http://localhost:1313/posts/2009/04/23/wizard-101-player-housing-on-test/</link>
+      <pubDate>Thu, 23 Apr 2009 01:24:47 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/23/wizard-101-player-housing-on-test/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: So, Malistaire. We meet again.</title>
+      <link>http://localhost:1313/posts/2009/03/28/wizard-101-so-malistaire-we-meet-again/</link>
+      <pubDate>Sat, 28 Mar 2009 21:19:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/28/wizard-101-so-malistaire-we-meet-again/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101 unveils player housing!</title>
+      <link>http://localhost:1313/posts/2009/03/26/wizard-101-unveils-player-housing/</link>
+      <pubDate>Thu, 26 Mar 2009 07:54:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/26/wizard-101-unveils-player-housing/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

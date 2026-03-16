@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Eq3 on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/eq3/</link>
+    <description>Recent content in Eq3 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 28 May 2009 07:01:20 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/eq3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Will EverQuest III be Free Realms II?</title>
+      <link>http://localhost:1313/posts/2009/05/28/will-everquest-iii-be-free-realms-ii/</link>
+      <pubDate>Thu, 28 May 2009 07:01:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/05/28/will-everquest-iii-be-free-realms-ii/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>It&#39;s official, the new EverQuest server is chosen, plus EQ3 rumors?</title>
+      <link>http://localhost:1313/posts/2009/05/02/its-official-the-new-everquest-server-is-chosen-plus-eq3-rumors/</link>
+      <pubDate>Sat, 02 May 2009 10:05:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/05/02/its-official-the-new-everquest-server-is-chosen-plus-eq3-rumors/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Can we get back to talking about EverQuest 3 now?</title>
+      <link>http://localhost:1313/posts/2009/04/28/can-we-get-back-to-talking-about-everquest-3-now/</link>
+      <pubDate>Tue, 28 Apr 2009 08:08:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/28/can-we-get-back-to-talking-about-everquest-3-now/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

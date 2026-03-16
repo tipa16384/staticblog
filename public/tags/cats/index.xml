@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cats on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/cats/</link>
+    <description>Recent content in Cats on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 13 Mar 2025 08:04:02 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cats/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Game Night: CULTivate</title>
+      <link>http://localhost:1313/posts/2025/03/13/game-night-cultivate/</link>
+      <pubDate>Thu, 13 Mar 2025 08:04:02 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/03/13/game-night-cultivate/</guid>
+      <description>This isn&amp;#39;t a picture of the CULT-ivate board game. It&amp;#39;s my cat, Midnight, helping me to play &amp;#34;The Plucky Squire&amp;#34;. He was really getting into it.</description>
+    </item>
+    <item>
+      <title>Bienvenue à monsieur Minuit, mon nouveau chat noir</title>
+      <link>http://localhost:1313/posts/2024/07/17/bienvenue-a-monsieur-minuit-mon-nouveau-chat-noir/</link>
+      <pubDate>Wed, 17 Jul 2024 23:37:38 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/07/17/bienvenue-a-monsieur-minuit-mon-nouveau-chat-noir/</guid>
+      <description>Well, that&amp;#39;s about all the French I know...</description>
+    </item>
+    <item>
+      <title>Goodbye, Lannister</title>
+      <link>http://localhost:1313/posts/2023/12/26/goodbye-lannister/</link>
+      <pubDate>Tue, 26 Dec 2023 11:17:19 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/12/26/goodbye-lannister/</guid>
+      <description>The story of my chocolate Maine Coon, Lannister, who died today.</description>
+    </item>
+    <item>
+      <title>The Amazing Adventures of 8-Ball!</title>
+      <link>http://localhost:1313/posts/2022/08/08/the-amazing-adventures-of-8-ball/</link>
+      <pubDate>Mon, 08 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/08/the-amazing-adventures-of-8-ball/</guid>
+      <description>&amp;#34;Adventure of 8-Ball&amp;#34; is a 2D platformer mobile game with 50 levels, attractive graphics, and catchy music. The player controls 8-ball, a little black cat, on a quest to save their owner from the evil dog catcher who has kidnapped them.</description>
+    </item>
+    <item>
+      <title>GPT-3 interviews me about Stray.</title>
+      <link>http://localhost:1313/posts/2022/08/07/gpt-3-interviews-me-about-stray/</link>
+      <pubDate>Sun, 07 Aug 2022 09:45:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/07/gpt-3-interviews-me-about-stray/</guid>
+      <description>For a game where AIs rule the world, I thought it would be fun to ask an AI to interview me about my experiences playing &amp;#34;Stray&amp;#34;...</description>
+    </item>
+    <item>
+      <title>The Six Cats of Madame Miracle</title>
+      <link>http://localhost:1313/posts/2022/08/06/the-six-cats-of-madame-miracle/</link>
+      <pubDate>Sat, 06 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/06/the-six-cats-of-madame-miracle/</guid>
+      <description>The Six Cats of Madame Miracle is a light-hearted and fun visual novel that is perfect for players of all ages. The puzzles are easy to learn and solve, and the game&amp;#39;s cute art style and cheerful music make it a joy to play.</description>
+    </item>
+  </channel>
+</rss>

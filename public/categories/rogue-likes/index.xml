@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rogue-Likes on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/rogue-likes/</link>
+    <description>Recent content in Rogue-Likes on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Aug 2025 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/rogue-likes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Micro Hero: Hercules</title>
+      <link>http://localhost:1313/posts/2025/08/14/micro-hero-hercules/</link>
+      <pubDate>Thu, 14 Aug 2025 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/08/14/micro-hero-hercules/</guid>
+      <description>Hercules has to complete a dozen tough jobs to atone for killing his family. Only you can help him in this solo deckbuilding game!</description>
+    </item>
+    <item>
+      <title>Breakhack: Fight, Die, Repeat</title>
+      <link>http://localhost:1313/posts/2024/08/13/breakhack-fight-die-repeat/</link>
+      <pubDate>Tue, 13 Aug 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/08/13/breakhack-fight-die-repeat/</guid>
+      <description>A dev decided one day to gather freely given assets and combine that with some &amp;lsquo;C&amp;rsquo; code and make a really cool roguelike. Just the thing to waste a few minutes now and then.</description>
+    </item>
+    <item>
+      <title>The Nightmare of Druaga (PS2)</title>
+      <link>http://localhost:1313/posts/2024/04/29/the-nightmare-of-druaga-ps2/</link>
+      <pubDate>Mon, 29 Apr 2024 07:53:52 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/04/29/the-nightmare-of-druaga-ps2/</guid>
+      <description>It&amp;rsquo;s a roguelike, it&amp;rsquo;s the next chapter in TWO long running game series&amp;hellip; but is it any good?</description>
+    </item>
+    <item>
+      <title>Games That Defined Me (Part 1)</title>
+      <link>http://localhost:1313/posts/2023/08/09/games-that-defined-me-part-1/</link>
+      <pubDate>Wed, 09 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/09/games-that-defined-me-part-1/</guid>
+      <description>It&amp;rsquo;s an interesting question, stated a few different ways &amp;ndash; 10 games to know me, or games that defined me. The question has been bouncing around Mastodon for a few days. Here&amp;rsquo;s mine.</description>
+    </item>
+    <item>
+      <title>7DRL 2022 Day 2: Dungeon Room</title>
+      <link>http://localhost:1313/posts/2022/03/07/7drl-2022-day-2-dungeon-room/</link>
+      <pubDate>Mon, 07 Mar 2022 23:12:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/07/7drl-2022-day-2-dungeon-room/</guid>
+      <description>&lt;p&gt;The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn&amp;rsquo;t look like much, but it&amp;rsquo;s something. Also, by the &amp;ldquo;Berlin Interpretation&amp;rdquo;, is my game even going to *be *a &amp;ldquo;Roguelike&amp;rdquo;?&lt;/p&gt;&#xA;&lt;p&gt;To GET to that GIF, I had to do a LOT of coding. I loved &lt;a href=&#34;https://opengameart.org/content/isometric-dungeon-tiles-60&#34; target=&#34;_blank&#34;&gt;the tileset I found&lt;/a&gt;&#xA;, but each tile was in its own file, and each tile was 256x512 pixels, which was way larger than the 64x64 I&amp;rsquo;d used for the &amp;ldquo;outside&amp;rdquo; room and for the OG tile system I&amp;rsquo;d written before I decided to move to Tiled for creating rooms.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Setting the Scope</title>
+      <link>http://localhost:1313/posts/2022/02/28/7drl-building-an-engine-setting-the-scope/</link>
+      <pubDate>Mon, 28 Feb 2022 08:33:52 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/28/7drl-building-an-engine-setting-the-scope/</guid>
+      <description>&lt;p&gt;This weekend, I added weapons, monsters only move when you move, and I added flags to tell if items were identified, cursed, wielded or worn. Each flag multiplies the complexity of the code by at least three times, but it is flags like these that are central to the Roguelike experience. How many flags I choose to implement has a direct correlation to how the game plays&amp;hellip; and whether I can finish it at all.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7DRL: Building an Engine -- Animation</title>
+      <link>http://localhost:1313/posts/2022/02/15/7drl-building-an-engine-animation/</link>
+      <pubDate>Tue, 15 Feb 2022 22:50:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/02/15/7drl-building-an-engine-animation/</guid>
+      <description>&lt;p&gt;Tonight, I made it so my sprites had a walking animation, decided to show all four walls of the room, and found out some things about Trinket I didn&amp;rsquo;t know before. Also, what is a roguelike, anyway? And why not use something like Unity that solves most of the problems I am having?&lt;/p&gt;&#xA;&lt;p&gt;I am building a rogue-like engine to use in the upcoming &amp;ldquo;7DRL&amp;rdquo; game jam. You can see my current progress by heading to Trinket &lt;a href=&#34;https://trinket.io/pygame/86b9301490?outputOnly=true&#34; target=&#34;_blank&#34;&gt;via this link&lt;/a&gt;&#xA; and pressing the &amp;ldquo;Run&amp;rdquo; button up along the top.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quick Look: Pawnbarian</title>
+      <link>http://localhost:1313/posts/2021/11/02/quick-look-pawnbarian/</link>
+      <pubDate>Tue, 02 Nov 2021 23:31:03 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/11/02/quick-look-pawnbarian/</guid>
+      <description>&lt;p&gt;A lot of indie developers of turn-based, tactical RPGs were strutting their stuff on Twitter yesterday. So wait a second &amp;ndash; Pawnbarian is a card based tactical strategy puzzle RPG? And the hero moves like chess pieces? That you can upgrade? &lt;a href=&#34;https://store.steampowered.com/app/1142080/Pawnbarian/&#34; target=&#34;_blank&#34;&gt;And there&amp;rsquo;s a &lt;em&gt;demo&lt;/em&gt;?&lt;/a&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Me? I&amp;rsquo;d already be downloading the demo. And did. But for those of you who need a little more convincing&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://chasingdings.com/wp-content/uploads/2021/11/20211102204946_1.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2021/11/20211102204946_1-1024x576.jpg&#34;&gt;&lt;/a&gt;&#xA;The Goblin Caves, Floor 1&lt;/p&gt;&#xA;&lt;p&gt;In the demo, you are Pawnbarian, a warrior from the northern Chesslands come to die in glorious battle. The full game has four different character classes with different abilities. Pawnbarian&amp;rsquo;s special ability revolves around pawn promotion &amp;ndash; pieces are promoted when their move starts in the top rank, a pawn moves into it, or there are three pawns in the hand.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quick Look: Unexplored 2</title>
+      <link>http://localhost:1313/posts/2021/11/01/quick-look-unexplored-2/</link>
+      <pubDate>Mon, 01 Nov 2021 23:18:50 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/11/01/quick-look-unexplored-2/</guid>
+      <description>&lt;p&gt;Ludomotion&amp;rsquo;s sequel to 2017&amp;rsquo;s &amp;ldquo;&lt;a href=&#34;https://store.steampowered.com/app/506870/Unexplored/&#34; target=&#34;_blank&#34;&gt;Unexplored&lt;/a&gt;&#xA;&amp;rdquo; roguelike dungeon crawler brings 3D procedural generation to the overworld in a clever little legacy roguelike with some interesting quirks.&lt;/p&gt;&#xA;&lt;p&gt;After &lt;a href=&#34;https://chasingdings.com/category/townscaper/&#34; target=&#34;_blank&#34;&gt;Townscaper&lt;/a&gt;&#xA; blew me away with its quaint procedural town-building meditative piece, I followed &lt;a href=&#34;https://twitter.com/OskSta&#34; target=&#34;_blank&#34;&gt;its author&lt;/a&gt;&#xA; on Twitter. Stålberg&amp;rsquo;s standing with the procedural generation community leads to all sorts of different niches, including that belonging to Ludomotion&amp;rsquo;s &amp;ldquo;Unexplored 2: The Wayfarer&amp;rsquo;s Legacy&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;The demo was briefly available on Steam a little while back, and I immediately fell in love. The demo expired, but I went looking and found that the game is currently &lt;a href=&#34;https://www.epicgames.com/store/en-US/p/unexplored-2&#34; target=&#34;_blank&#34;&gt;in early access on the Epic store&lt;/a&gt;&#xA;. I don&amp;rsquo;t really need another gaming portal in my life or on my hard drive, but I wanted to play the game, and so I did what I had to do and spent some time with it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dungeon Encounters: Finished and finished.</title>
+      <link>http://localhost:1313/posts/2021/10/24/dungeon-encounters-finished-and-finished/</link>
+      <pubDate>Sun, 24 Oct 2021 17:27:23 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/10/24/dungeon-encounters-finished-and-finished/</guid>
+      <description>&lt;p&gt;Everyone says that this game has no story and all the characters are the same and once you&amp;rsquo;ve played the first few levels, you&amp;rsquo;ve seen all the game can offer. But, everyone is wrong.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve played for 50 hours and not seen all there is to see. I&amp;rsquo;ve gotten most of the trophies (I played on the PS5), but not all of them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130306-scaled.jpg&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130306-1024x576.jpg&#34;&gt;&lt;/a&gt;&#xA;The end&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;A man spent his life caring for his sickly brother. When his brother passed on, the man went to the Academy to find new meaning to his life. As he approached the Academy, he saw a dog waiting for him. When he looked into the dog&amp;rsquo;s eyes, he saw his brother looking back at him. Together, they entered the labyrinth.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dungeon Encounters: For Those Who Skip Cutscenes</title>
+      <link>http://localhost:1313/posts/2021/10/18/dungeon-encounters-for-those-who-skip-cutscenes/</link>
+      <pubDate>Mon, 18 Oct 2021 08:24:56 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2021/10/18/dungeon-encounters-for-those-who-skip-cutscenes/</guid>
+      <description>&lt;p&gt;DM: &lt;em&gt;You see an encounter before you&lt;/em&gt;&#xA;Party: I don&amp;rsquo;t recognize this one. Hmmm. Okay, everyone, brace up, we&amp;rsquo;re heading in!&#xA;DM: &lt;em&gt;It is a black hole. It immediately begins to suck you in.&lt;/em&gt;&#xA;Party: Run! RUN!&#xA;DM: &lt;em&gt;You can&amp;rsquo;t get away. You are sucked in, everyone dies. Roll up a new party.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;After my original party was sucked in by a black hole, and I&amp;rsquo;d taken a new character with no experience or equipment down through the labyrinth to do a CR, I got to thinking how I would defeat the Black Hole next time I encountered one. Use the stopwatch we got to keep resetting its Action Time Bar (ATB)? Try and petrify it?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rogue -- the original rogue-like</title>
+      <link>http://localhost:1313/posts/2020/10/27/rogue-the-original-rogue-like/</link>
+      <pubDate>Tue, 27 Oct 2020 07:49:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/10/27/rogue-the-original-rogue-like/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s been many efforts to define exactly what a &amp;ldquo;rogue-like&amp;rdquo; game is. Permadeath is definitely one. A different map every time you play is another. Having to discover each time what the magic items you discover do, that&amp;rsquo;s one. Descending into a deep dungeon, grabbing a quest item and making it back to the surface in one go, definitely.&lt;/p&gt;&#xA;&lt;p&gt;Rogue came out of a thriving ecosystem of similar dungeon-exploration games from the late 70s and early 80s. Its simple, quick gameplay was perfect for quick gaming sessions between classes, which is how I first encountered it at the University of New Hampshire back in the day. Universities, back then, were the fertile breeding ground for the progenitors of many computer game genres that we still play today. It was a wonderful time.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

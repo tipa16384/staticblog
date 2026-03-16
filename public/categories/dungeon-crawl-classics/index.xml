@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dungeon Crawl Classics on Chasing Dings!</title>
+    <link>http://localhost:1313/categories/dungeon-crawl-classics/</link>
+    <description>Recent content in Dungeon Crawl Classics on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Sep 2024 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/dungeon-crawl-classics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The End of the Dragon of Icespire Peak</title>
+      <link>http://localhost:1313/posts/2024/09/08/the-end-of-the-dragon-of-icespire-peak/</link>
+      <pubDate>Sun, 08 Sep 2024 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/09/08/the-end-of-the-dragon-of-icespire-peak/</guid>
+      <description>Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable.</description>
+    </item>
+    <item>
+      <title>More Confessions of a Kickstarter Superbacker</title>
+      <link>http://localhost:1313/posts/2024/08/03/more-confessions-of-a-kickstarter-superbacker/</link>
+      <pubDate>Sat, 03 Aug 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/08/03/more-confessions-of-a-kickstarter-superbacker/</guid>
+      <description>It&amp;rsquo;s like the number one sign you have too much money: logging into Kickstarter. Here&amp;rsquo;s an update on what games are coming my way and (hopefully) onto the table.</description>
+    </item>
+    <item>
+      <title>Dungeon Crawl Classics TTRPG: Survival of the Fittest</title>
+      <link>http://localhost:1313/posts/2024/07/24/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</link>
+      <pubDate>Wed, 24 Jul 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/07/24/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/</guid>
+      <description>Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying.</description>
+    </item>
+  </channel>
+</rss>

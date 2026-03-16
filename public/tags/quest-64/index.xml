@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Quest 64 on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/quest-64/</link>
+    <description>Recent content in Quest 64 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 11 Jan 2026 21:08:53 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/quest-64/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it</title>
+      <link>http://localhost:1313/posts/2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/</link>
+      <pubDate>Sun, 11 Jan 2026 21:08:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/</guid>
+      <description>My quest to play every RPG on the Nintendo 64 continues with Quest 64, often called the worst RPG on the system. But is it?</description>
+    </item>
+    <item>
+      <title>Holiday Grab Bag: Dune, Palworld, Quest 64</title>
+      <link>http://localhost:1313/posts/2026/01/05/holiday-grab-bag-dune-palworld-quest-64/</link>
+      <pubDate>Mon, 05 Jan 2026 08:56:39 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2026/01/05/holiday-grab-bag-dune-palworld-quest-64/</guid>
+      <description>We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on...</description>
+    </item>
+    <item>
+      <title>I Know What I Did Last Weekend</title>
+      <link>http://localhost:1313/posts/2025/12/15/i-know-what-i-did-last-weekend-6/</link>
+      <pubDate>Mon, 15 Dec 2025 08:25:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/12/15/i-know-what-i-did-last-weekend-6/</guid>
+      <description>Time for another round-up of my recent gaming adventures.</description>
+    </item>
+  </channel>
+</rss>

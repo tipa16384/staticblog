@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Twitter on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/twitter/</link>
+    <description>Recent content in Twitter on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 02 Aug 2023 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/twitter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Speedrunning the Apocalypse</title>
+      <link>http://localhost:1313/posts/2023/08/02/speedrunning-the-apocalypse/</link>
+      <pubDate>Wed, 02 Aug 2023 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/08/02/speedrunning-the-apocalypse/</guid>
+      <description>Remember way back when when social media was a way to bring together and the internet was fun and exciting? Yeah. Me, too. Let&amp;#39;s find a way to get back there.</description>
+    </item>
+    <item>
+      <title>My One-Sided Argument with Raid: Shadow Legend&#39;s Marketing Department</title>
+      <link>http://localhost:1313/posts/2022/09/26/my-one-sided-argument-with-raid-shadow-legends-marketing-department/</link>
+      <pubDate>Mon, 26 Sep 2022 18:26:54 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/09/26/my-one-sided-argument-with-raid-shadow-legends-marketing-department/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Trial by Wombat? Not in my Mastodon!</title>
+      <link>http://localhost:1313/posts/2022/08/12/trial-by-wombat-not-in-my-mastodon/</link>
+      <pubDate>Fri, 12 Aug 2022 23:05:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/12/trial-by-wombat-not-in-my-mastodon/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>I Jump on Bandwagons</title>
+      <link>http://localhost:1313/posts/2020/08/22/i-jump-on-bandwagons/</link>
+      <pubDate>Sat, 22 Aug 2020 09:28:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/08/22/i-jump-on-bandwagons/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Weblog 4/17</title>
+      <link>http://localhost:1313/posts/2009/04/17/weblog-417/</link>
+      <pubDate>Fri, 17 Apr 2009 05:53:24 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/04/17/weblog-417/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Acclaim Spellborn client available for download</title>
+      <link>http://localhost:1313/posts/2009/03/06/acclaim-spellborn-client-available-for-download/</link>
+      <pubDate>Fri, 06 Mar 2009 12:36:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/03/06/acclaim-spellborn-client-available-for-download/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Thoughts on a Twitter RPG</title>
+      <link>http://localhost:1313/posts/2009/02/19/thoughts-on-a-twitter-rpg/</link>
+      <pubDate>Thu, 19 Feb 2009 13:15:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2009/02/19/thoughts-on-a-twitter-rpg/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Twitter</title>
+      <link>http://localhost:1313/posts/2008/08/25/twitter/</link>
+      <pubDate>Mon, 25 Aug 2008 16:27:47 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/08/25/twitter/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

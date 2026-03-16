@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Jade Oni on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/jade-oni/</link>
+    <description>Recent content in Jade Oni on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Nov 2008 10:00:42 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/jade-oni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wizard 101: Stick a fork in it, it&#39;s done</title>
+      <link>http://localhost:1313/posts/2008/11/05/wizard-101-stick-a-fork-in-it-its-done/</link>
+      <pubDate>Wed, 05 Nov 2008 10:00:42 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/11/05/wizard-101-stick-a-fork-in-it-its-done/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Battle of the Immortals on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/battle-of-the-immortals/</link>
+    <description>Recent content in Battle of the Immortals on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Dec 2010 06:00:33 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/battle-of-the-immortals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Blogroll 12/29: Super Duper edition</title>
+      <link>http://localhost:1313/posts/2010/12/29/daily-blogroll-1229-super-duper-edition/</link>
+      <pubDate>Wed, 29 Dec 2010 06:00:33 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/12/29/daily-blogroll-1229-super-duper-edition/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

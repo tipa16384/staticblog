@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Alien on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/alien/</link>
+    <description>Recent content in Alien on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Sep 2024 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/alien/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Utter Insanity of Nemesis</title>
+      <link>http://localhost:1313/posts/2024/09/10/the-utter-insanity-of-nemesis/</link>
+      <pubDate>Tue, 10 Sep 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/09/10/the-utter-insanity-of-nemesis/</guid>
+      <description>Survivors face escalating dangers aboard a doomed starship in the final game of Nemesis.</description>
+    </item>
+    <item>
+      <title>Game Night: The Penultimate Nemesis</title>
+      <link>http://localhost:1313/posts/2024/08/06/game-night-the-penultimate-nemesis/</link>
+      <pubDate>Tue, 06 Aug 2024 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/08/06/game-night-the-penultimate-nemesis/</guid>
+      <description>It was a typical mission until the walls of our starship started whispering words of madness to us...</description>
+    </item>
+    <item>
+      <title>Nemesis: The Board Game</title>
+      <link>http://localhost:1313/posts/2024/07/03/nemesis-the-board-game/</link>
+      <pubDate>Wed, 03 Jul 2024 08:00:08 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/07/03/nemesis-the-board-game/</guid>
+      <description>Stop me if you&amp;#39;ve heard this one before. You&amp;#39;ve been awakened from hibernation by your starship&amp;#39;s AI. Something has gone wrong. It&amp;#39;s... Aliens. I mean Intruders.</description>
+    </item>
+  </channel>
+</rss>

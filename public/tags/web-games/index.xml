@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web Games on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/web-games/</link>
+    <description>Recent content in Web Games on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 May 2020 11:48:21 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/web-games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Godville is ten years old!</title>
+      <link>http://localhost:1313/posts/2020/05/11/godville-is-ten-years-old/</link>
+      <pubDate>Mon, 11 May 2020 11:48:21 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/05/11/godville-is-ten-years-old/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Redshirt on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/redshirt/</link>
+    <description>Recent content in Redshirt on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Nov 2013 12:38:01 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/redshirt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Redshirt: Please Like Us On Spacebook</title>
+      <link>http://localhost:1313/posts/2013/11/17/redshirts-please-like-us-on-spacebook/</link>
+      <pubDate>Sun, 17 Nov 2013 12:38:01 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2013/11/17/redshirts-please-like-us-on-spacebook/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

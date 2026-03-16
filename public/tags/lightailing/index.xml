@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Lightailing on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/lightailing/</link>
+    <description>Recent content in Lightailing on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 07 Jan 2024 13:49:13 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/lightailing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LEGO Tallneck &#43; Lightailing lighting kit</title>
+      <link>http://localhost:1313/posts/2024/01/07/lego-tallneck-lightailing-lighting-kit/</link>
+      <pubDate>Sun, 07 Jan 2024 13:49:13 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/01/07/lego-tallneck-lightailing-lighting-kit/</guid>
+      <description>I really wanted a LEGO Tallneck, all lit up, so I bought one, built it, and lit it up.</description>
+    </item>
+  </channel>
+</rss>

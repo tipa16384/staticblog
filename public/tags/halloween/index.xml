@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Halloween on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/halloween/</link>
+    <description>Recent content in Halloween on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Nov 2024 08:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/halloween/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malifaux-ing in Massachusetts</title>
+      <link>http://localhost:1313/posts/2024/11/04/malifaux-ing-in-massacusetts/</link>
+      <pubDate>Mon, 04 Nov 2024 08:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/11/04/malifaux-ing-in-massacusetts/</guid>
+      <description>To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?</description>
+    </item>
+    <item>
+      <title>This Halloween, Erenshor Gets Spooky!</title>
+      <link>http://localhost:1313/posts/2024/09/14/this-halloween-erenshor-gets-spooky/</link>
+      <pubDate>Sat, 14 Sep 2024 18:37:20 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/09/14/this-halloween-erenshor-gets-spooky/</guid>
+      <description>I can see this becoming a good &amp;#34;I got half an hour, I&amp;#39;ll just do this dungeon&amp;#34; game.</description>
+    </item>
+    <item>
+      <title>Is your teenager a Minecraft addict?</title>
+      <link>http://localhost:1313/posts/2010/11/03/is-your-teenager-a-minecraft-addict/</link>
+      <pubDate>Wed, 03 Nov 2010 23:08:34 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2010/11/03/is-your-teenager-a-minecraft-addict/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Wizard 101: I am finally free.</title>
+      <link>http://localhost:1313/posts/2008/11/14/wizard-101-i-am-finally-free/</link>
+      <pubDate>Fri, 14 Nov 2008 10:00:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/11/14/wizard-101-i-am-finally-free/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ2: The Loping Plains Haunted House. Scared yet?</title>
+      <link>http://localhost:1313/posts/2008/10/24/eq2-the-loping-plains-haunted-house-scared-yet/</link>
+      <pubDate>Fri, 24 Oct 2008 08:31:11 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/24/eq2-the-loping-plains-haunted-house-scared-yet/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>W101: Hallowe&#39;en in Wizard City (and October patch notes)</title>
+      <link>http://localhost:1313/posts/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/</link>
+      <pubDate>Mon, 13 Oct 2008 08:42:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

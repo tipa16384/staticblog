@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>2D on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/2d/</link>
+    <description>Recent content in 2D on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Aug 2024 18:16:18 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/2d/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nexus: Kingdom of the Wind</title>
+      <link>http://localhost:1313/posts/2024/08/24/nexus-kingdom-of-the-wind/</link>
+      <pubDate>Sat, 24 Aug 2024 18:16:18 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2024/08/24/nexus-kingdom-of-the-wind/</guid>
+      <description>Most people have never heard of NexusTK. Some people maybe heard of it long ago. It&amp;#39;s different for me. Nexus: Kingdom of the Wind was my only MMO before EverQuest rewrote the MMO rulebook.</description>
+    </item>
+    <item>
+      <title>Salt &amp; Sanctuary: When Watching Elden Ring Isn&#39;t Enough</title>
+      <link>http://localhost:1313/posts/2022/03/28/salt-sanctuary-when-watching-elden-ring-isnt-enough/</link>
+      <pubDate>Mon, 28 Mar 2022 08:03:14 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/03/28/salt-sanctuary-when-watching-elden-ring-isnt-enough/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Duolingo on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/duolingo/</link>
+    <description>Recent content in Duolingo on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Oct 2025 08:44:49 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/duolingo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Falling out of love with Duolingo</title>
+      <link>http://localhost:1313/posts/2025/10/14/falling-out-of-love-with-duolingo/</link>
+      <pubDate>Tue, 14 Oct 2025 08:44:49 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2025/10/14/falling-out-of-love-with-duolingo/</guid>
+      <description>The owl&amp;#39;s tireless hunger for my money has finally pushed me out of the nest.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Veksar on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/veksar/</link>
+    <description>Recent content in Veksar on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 03 Sep 2008 11:20:16 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/veksar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EQ2: Game update 48 is live</title>
+      <link>http://localhost:1313/posts/2008/09/03/eq2-game-update-48-is-live/</link>
+      <pubDate>Wed, 03 Sep 2008 11:20:16 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/09/03/eq2-game-update-48-is-live/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>EQ: Veksar Rising</title>
+      <link>http://localhost:1313/posts/2008/08/08/eq-veksar-rising/</link>
+      <pubDate>Fri, 08 Aug 2008 08:13:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2008/08/08/eq-veksar-rising/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>The Deep Ones</title>
+      <link>http://localhost:1313/posts/2007/10/12/the-deep-ones/</link>
+      <pubDate>Fri, 12 Oct 2007 12:24:28 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2007/10/12/the-deep-ones/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dark and Darker on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/dark-and-darker/</link>
+    <description>Recent content in Dark and Darker on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 24 Nov 2023 10:33:38 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dark-and-darker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pantheon: What&#39;s so bad about 247 Extraction?</title>
+      <link>http://localhost:1313/posts/2023/11/24/pantheon-whats-so-bad-about-247-extraction/</link>
+      <pubDate>Fri, 24 Nov 2023 10:33:38 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/11/24/pantheon-whats-so-bad-about-247-extraction/</guid>
+      <description>We need to have a little talk about Pantheon...</description>
+    </item>
+  </channel>
+</rss>

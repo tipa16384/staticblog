@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cyberpunk 2077 on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/cyberpunk-2077/</link>
+    <description>Recent content in Cyberpunk 2077 on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 14 Feb 2023 19:51:46 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/cyberpunk-2077/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyberpunk 2077 vs Sword Art Online: Fatal Bullet</title>
+      <link>http://localhost:1313/posts/2023/02/14/cyberpunk-2077-vs-sword-art-online-fatal-bullet/</link>
+      <pubDate>Tue, 14 Feb 2023 19:51:46 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2023/02/14/cyberpunk-2077-vs-sword-art-online-fatal-bullet/</guid>
+      <description>When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?</description>
+    </item>
+    <item>
+      <title>Too Many Games in my Queue</title>
+      <link>http://localhost:1313/posts/2020/12/08/too-many-games-in-my-queue/</link>
+      <pubDate>Tue, 08 Dec 2020 08:49:58 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2020/12/08/too-many-games-in-my-queue/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>

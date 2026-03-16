@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D Platformer Games on Chasing Dings!</title>
+    <link>http://localhost:1313/tags/2d-platformer-games/</link>
+    <description>Recent content in 2D Platformer Games on Chasing Dings!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Aug 2022 07:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/2d-platformer-games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Seven Sages: A Masterclass in Metroidvania Design</title>
+      <link>http://localhost:1313/posts/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/</link>
+      <pubDate>Sun, 07 Aug 2022 07:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/</guid>
+      <description>&lt;p&gt;I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 7th: “The Seven Sages”. I found out later this was a Zelda reference&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;In &amp;ldquo;The Seven Sages&amp;rdquo;, you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil. The general play is similar to Megaman, in that you start off as a newbie sage and must then explore the world, fighting enemies and collecting items to help you on your quest. However, this is a Metroidvania game, so there will be plenty of exploration and backtracking as you uncover new areas and abilities that allow you to progress further.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
