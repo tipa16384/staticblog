@@ -373,11 +373,11 @@ category,552,Kerbal Space Program,kerbal-space-program,other-games,Kerbal Space 
 category,2212,Kesmai,kesmai,mmos,Kesmai
 category,553,Kingdoms of Amalur: Reckoning,kingdoms-of-alura-reckoning,other-games,Kingdoms of Amalur: Reckoning
 category,554,Kung Foo!,kung-foo,mmos,Kung Foo!
-category,555,LaTale,latale,mmos,Latale
+category,555,LaTale,latale,mmos,LaTale
 category,556,Legends of Zork,legends-of-zork,other-games,Legends of Zork
-category,557,LEGO Universe,lego-universe,mmos,Lego Universe
-category,558,LittleBig Planet,littlebig-planet,other-games,Littlebig Planet
-category,559,LittleBigPlanet,littlebigplanet,other-games,Littlebigplanet
+category,557,LEGO Universe,lego-universe,mmos,LEGO Universe
+category,558,LittleBig Planet,littlebig-planet,other-games,Little Big Planet
+category,559,LittleBigPlanet,littlebigplanet,other-games,Little Big Planet
 category,1522,Lord of the Chords,lord-of-the-chords,tabletop-games,Lord of the Chords
 category,560,Lord of the Rings,lord-of-the-rings-online,mmos,Lord of the Rings
 category,1936,Lost Ark,lost-ark,mmos,Lost Ark
@@ -464,7 +464,7 @@ tag,582,achiever,achiever,,Achiever
 tag,2047,act i,act-i,,Act I
 tag,583,act iii,act-iii,,Act III
 tag,1721,action,action,,Action
-tag,1682,Action adventure game,action-adventure-game,,Action Adventure Game
+tag,1682,Action adventure game,action-adventure-game,,Action Adventure Games
 tag,1694,action game,action-game,,Action Game
 tag,1804,adam oyebanji,adam-oyebanji,,Adam Oyebanji
 tag,584,Add new tag,add-new-tag,,Add New Tag
@@ -514,7 +514,7 @@ tag,604,anniversary,anniversary,,Anniversary
 tag,2161,anno 1404,anno-1404,,Anno 1404
 tag,1662,anxiety,anxiety,,Anxiety
 tag,1857,aoc,aoc,,AoC
-tag,2068,aoc2023,aoc2023,,AoC2023
+tag,2068,aoc2023,aoc2023,,AoC 2023
 tag,605,apb,apb,,APB
 tag,606,apocalypse now,apocalypse-now,,Apocalypse Now
 tag,607,app,app,,App
@@ -1250,7 +1250,7 @@ tag,5,Hero Forge,hero-forge,,Hero Forge
 tag,933,hero's journey,heros-journey,,Hero's Journey
 tag,934,heroengine,heroengine,,Heroengine
 tag,2377,heroes of mount dragon,heroes-of-mount-dragon,,Heroes of Mount Dragon
-tag,2104,HeroQuest,heroquest,,Heroquest
+tag,2104,HeroQuest,heroquest,,HeroQuest
 tag,1646,hex grid,hex-grid,,Hex Grid
 tag,1707,Hidden obects,hidden-obects,,Hidden Obects
 tag,935,high elf,high-elf,,High Elf
@@ -1583,7 +1583,7 @@ tag,1091,namco,namco,,Namco
 tag,1092,name the turtles,name-the-turtles,,Name the Turtles
 tag,28,narbacular drop,narbacular-drop,,Narbacular Drop
 tag,1093,nashuya,nashuya,,Nashuya
-tag,1094,ncsoft,ncsoft,,Ncsoft
+tag,1094,ncsoft,ncsoft,,NCsoft
 tag,1095,necropolis,necropolis,,Necropolis
 tag,51,necropost,necropost,,Necropost
 tag,1096,neil patrick harris,neil-patrick-harris,,Neil Patrick Harris
@@ -1622,12 +1622,12 @@ tag,1112,nostalgia,nostalgia,,Nostalgia
 tag,1113,not funny,not-funny,,Not Funny
 tag,1114,not furries dammit,not-furries-dammit,,Not Furries Dammit
 tag,2443,nova game designs,nova-game-designs,,Nova Game Designs
-tag,1115,nxe,nxe,,Nxe
+tag,1115,nxe,nxe,,NXE
 tag,387,nyctophobia,nyctophobia,,Nyctophobia
 tag,2072,oasis of marr,oasis-of-marr,,Oasis of Marr
 tag,1116,obex,obex,,Obex
 tag,1117,obisek,obisek,,Obisek
-tag,2251,obs,obs,,Obs
+tag,2251,obs,obs,,OBS
 tag,2080,observatory,observatory,,Observatory
 tag,1118,oceangreen hills,oceangreen-hills,,Oceangreen Hills
 tag,1119,oceangreen village,oceangreen-village,,Oceangreen Village
@@ -1654,7 +1654,7 @@ tag,1607,opensea,opensea,,Opensea
 tag,1128,ophiga,ophiga,,Ophiga
 tag,1129,oracle,oracle,,Oracle
 tag,1130,orc,orc,,Orc
-tag,2184,origins 2024,origins-2024,,Origins 2024
+tag,2184,origins 2024,origins-2024,,Origins Game Fair
 tag,2185,origins game fair,origins-game-fair,,Origins Game Fair
 tag,1131,orin grimcaster,orin-grimcaster,,Orin Grimcaster
 tag,185,othello,othello,,Othello
@@ -1684,7 +1684,7 @@ tag,1140,paragon city,paragon-city,,Paragon City
 tag,1141,parallel kingdoms,parallel-kingdoms,,Parallel Kingdoms
 tag,94,parallels,parallels,,Parallels
 tag,2006,parappa the rapper,parappa-the-rapper,,Parappa the Rapper
-tag,2302,parappa the rapper 2,parappa-the-rapper-2,,Parappa the Rapper 2
+tag,2302,parappa the rapper 2,parappa-the-rapper-2,,Parappa the Rapper
 tag,1142,parliament,parliament,,Parliament
 tag,2205,partial pressure,partial-pressure,,Partial Pressure
 tag,1143,patch,patch,,Patch
@@ -1999,7 +1999,7 @@ tag,2303,sly cooper,sly-cooper,,Sly Cooper
 tag,319,small world of warcraft,small-world-of-warcraft,,Small World of Warcraft
 tag,318,smallworld,smallworld,,Smallworld
 tag,1266,smogger,smogger,,Smogger
-tag,20,SNAP,snap,,Snap
+tag,20,SNAP,snap,,SNAP
 tag,1841,SnapEdit,snapedit,,SnapEdit
 tag,254,snes,snes,,Snes
 tag,1267,snowball,snowball,,Snowball
@@ -2033,7 +2033,7 @@ tag,205,spacewar,spacewar,,Spacewar
 tag,2037,speak with the dead,speak-with-the-dead,,Speak with the Dead
 tag,1279,spear of fire,spear-of-fire,,Spear of Fire
 tag,1280,spellborn,spellborn,,Spellborn
-tag,1281,spellborn nav,spellborn-nav,,Spellborn Nav
+tag,1281,spellborn nav,spellborn-nav,,Spellborn
 tag,1819,spiders,spiders,,Spiders
 tag,2417,spike,spike,,Spike
 tag,1282,spin the wheel,spin-the-wheel,,Spin the Wheel
