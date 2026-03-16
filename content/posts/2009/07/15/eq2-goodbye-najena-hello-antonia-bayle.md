@@ -2,11 +2,38 @@
 date: '2009-07-15T00:15:29-05:00'
 draft: false
 title: "EQ2: Goodbye, Najena. Hello, Antonia Bayle."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/15/eq2-goodbye-najena-hello-antonia-bayle/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-15-00-07-40-83.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-15-00-07-40-83.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-15-00-07-40-83.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Pulling lizards in the Sanctum of Fear](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-15-00-07-40-83.jpg "Pulling lizards in the Sanctum of Fear")

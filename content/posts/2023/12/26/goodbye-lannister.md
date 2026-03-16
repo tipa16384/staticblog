@@ -2,12 +2,38 @@
 date: '2023-12-26T11:17:19-05:00'
 draft: false
 title: "Goodbye, Lannister"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/26/goodbye-lannister/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The story of my chocolate Maine Coon, Lannister, who died today."
-categories:
+description: "The story of my chocolate Maine Coon, Lannister, who died today."
+tags:
   - "Cats"
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/IMG_9234.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/IMG_9234.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/IMG_9234.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not going to federate this post, but my cat was put to sleep this morning and I want to talk about him a little.

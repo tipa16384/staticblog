@@ -2,7 +2,25 @@
 date: '2022-08-05T07:00:00-05:00'
 draft: false
 title: "Steve, the Fifth Horseman of the Apocalypse"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "2D Platformer"
   - "Action Adventure Games"
   - "Blaugust"
@@ -10,21 +28,26 @@ categories:
   - "Post-Apocalyptic Games"
   - "Shooter"
   - "Zombie Games"
-tags:
-  - "2D Platformer"
   - "Action Game"
   - "AI"
-  - "Blaugust"
   - "Craiyon"
   - "Gpt-3"
   - "Light-Hearted Tone"
   - "Post-Apocalyptic"
-  - "Shooter"
   - "Super Mario"
   - "Wild West"
   - "Zombies"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here's its idea for August 5th: "Steve, the Fifth Horseman of the Apocalypse".

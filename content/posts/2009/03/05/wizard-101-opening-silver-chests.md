@@ -2,16 +2,42 @@
 date: '2009-03-05T06:46:30-05:00'
 draft: false
 title: "Wizard 101: Opening Silver Chests"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/05/wizard-101-opening-silver-chests/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Dragonspyre"
   - "Drake Hatchery"
   - "Malistaire"
   - "Silver Chest"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![wizardgraphicalclient-2009-03-04-19-57-11-59](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg "wizardgraphicalclient-2009-03-04-19-57-11-59")

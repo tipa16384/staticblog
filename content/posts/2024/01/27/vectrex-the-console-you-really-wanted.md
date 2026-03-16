@@ -2,16 +2,41 @@
 date: '2024-01-27T07:00:00-05:00'
 draft: false
 title: "Vectrex: The Console You Really Wanted"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/27/vectrex-the-console-you-really-wanted/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I didn't want to blog about my Vectrex just yet, but I'm just way to squeee at the moment, so..."
-categories:
+description: "I didn't want to blog about my Vectrex just yet, but I'm just way to squeee at the moment, so..."
+tags:
   - "Atari 2600"
   - "Vectrex"
-tags:
   - "Colecovision"
   - "Girls Screaming in Vector Graphics"
   - "Retro World Expo"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/vectrexheader.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/vectrexheader.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/vectrexheader.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was lucky enough to be ~~a kid~~ well, not too old during the Age of Arcades, that magic time from 1980-1985 where arcades were just where you spent a lot of time. There were a couple of hotels in Concord (NH) where we could go, and then at University of New Hampshire, they had a bunch in the basement of the student union, but I lived in Dover, and we had Funspot. Just one of those remains (in Laconia, NH), but back then, you could find them lots of places, and lots of competitors besides. Everyplace had at least a couple machines. The Fox Run Mall in Newington had an excellent arcade, and Chuck E. Cheese was a good place to play the classics.

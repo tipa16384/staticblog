@@ -2,16 +2,41 @@
 date: '2023-10-17T07:00:00-05:00'
 draft: false
 title: "HeroQuest: The Trial"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/10/17/heroquest-the-trial/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We played the modern reprinting of the classic adventure game, HeroQuest. Even the first adventure may have been too much for our brave crew."
-categories:
+description: "We played the modern reprinting of the classic adventure game, HeroQuest. Even the first adventure may have been too much for our brave crew."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "Les Edwards"
   - "The Trial"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/heroquest-board-game-artwork-les-edwards.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2023/10/heroquest-board-game-artwork-les-edwards.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/10/heroquest-board-game-artwork-les-edwards.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 HeroQuest. There's a bunch of games that I never got to play, or maybe only played once, back in the day. I thought I'd missed my chance, or maybe I'd just never know anyone else who wanted to play.

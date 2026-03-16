@@ -2,15 +2,40 @@
 date: '2022-08-08T15:12:57-05:00'
 draft: false
 title: "Fast and Furious 2099 -- an AI written final chapter to the F&F franchise."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/08/fast-and-furious-2099/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "OpenAI's GPT-3 writes the final chapter in the Fast and Furious saga -- Fast and Furious 2099."
-categories:
+description: "OpenAI's GPT-3 writes the final chapter in the Fast and Furious saga -- Fast and Furious 2099."
+tags:
   - "General"
   - "OpenAI"
-tags:
   - "Craiyon"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/craiyon_150855_An_astronaut_in_a_sports_convertible_on_the_Moon.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/craiyon_150855_An_astronaut_in_a_sports_convertible_on_the_Moon.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/craiyon_150855_An_astronaut_in_a_sports_convertible_on_the_Moon.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I think I may have a GPT-3 problem.

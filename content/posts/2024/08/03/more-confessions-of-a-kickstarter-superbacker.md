@@ -2,23 +2,48 @@
 date: '2024-08-03T07:00:00-05:00'
 draft: false
 title: "More Confessions of a Kickstarter Superbacker"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/03/more-confessions-of-a-kickstarter-superbacker/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's like the number one sign you have too much money: logging into Kickstarter. Here's an update on what games are coming my way and (hopefully) onto the table."
-categories:
+description: "It's like the number one sign you have too much money: logging into Kickstarter. Here's an update on what games are coming my way and (hopefully) onto the table."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Dungeon Crawl Classics"
   - "Game Night"
   - "Kickstarter"
   - "Tabletop Games"
-tags:
   - "Alf"
   - "DC Superheroes United"
   - "Dice"
   - "Dragonstrike"
   - "Tanglewoods"
   - "Thracia"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/image-6-300x217.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/image-6-300x217.png"
+featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/superbacker.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/04/superbacker.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every so often, [I like to look back](https://chasingdings.com/?s=kickstarter) on the incredible number of games, usually tabletop games, that I back on Kickstarter (and GameFound, and BackerKit). We *do* eventually play them, but I think we have to admit we're not really ever going to give most of these games the time they deserve. We are still working our way through [Nemesis](https://chasingdings.com/2024/07/03/nemesis-the-board-game/), the "aliens invaded your starship while you were in hypersleep" game, because I am insisting that once a game *does* come to the table, we play it enough times that we really feel we understand the game.

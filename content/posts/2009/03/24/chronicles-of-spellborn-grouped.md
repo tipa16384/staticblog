@@ -2,14 +2,40 @@
 date: '2009-03-24T07:59:49-05:00'
 draft: false
 title: "Chronicles of Spellborn: Grouped!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/24/chronicles-of-spellborn-grouped/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
-tags:
   - "Aldenvault"
   - "Hawksmouth"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![sb_client-2009-03-23-22-45-18-95](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg "sb_client-2009-03-23-22-45-18-95")

@@ -2,15 +2,41 @@
 date: '2008-08-28T08:26:14-05:00'
 draft: false
 title: "CoX Issue 13 takes a page out of EVE's book"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/28/cox-issue-13-takes-a-page-out-of-eves-book/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "MMORPG"
-tags:
   - "Architect"
   - "City of Villains"
   - "Issue 13"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-28-07-06-42-61.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-28-07-06-42-61.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-28-07-06-42-61.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-28-07-06-42-61.jpg "cityofheroes-2008-08-28-07-06-42-61")

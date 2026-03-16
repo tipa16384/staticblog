@@ -2,8 +2,37 @@
 date: '2006-03-20T00:00:00-05:00'
 draft: false
 title: "Prairie Home Companion et al"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/03/20/prairie-home-companion-et-al/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Heard on my way home from a frantic pre-MC shopping run Sunday, this bit on Prairie Home Companion about [finding love with English majors on the Internet](http://prairiehome.publicradio.org/programs/2006/01/07/scripts/poem.shtml) was hilarious.

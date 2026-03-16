@@ -2,13 +2,39 @@
 date: '2008-11-05T13:19:09-05:00'
 draft: false
 title: "Shin Megami Tensei -- the MMO"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/05/shin-megami-tensei-the-mmo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Shin Megami Tensei"
-tags:
   - "Aeria Games"
 featured_image: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
-cover: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
+cover:
+  image: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Shin Megami Tensei](http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg)

@@ -2,7 +2,25 @@
 date: '2009-03-05T12:58:04-05:00'
 draft: false
 title: "Will 2009 be the best year ever for MMOs?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/05/will-2009-be-the-best-year-ever-for-mmos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Champions Online"
   - "Chronicles of Spellborn"
@@ -14,6 +32,17 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In 2007, you could have surprised absolutely nobody by predicting that 2008, last year, would be the biggest, best year ever for MMOs. Triple A titles abounded -- Age of Conan and Warhammer Online were both just going to tear WoW a new one, but heck, even WoW was coming out with its second expansion. Pirates of the Burning Sea would take MMOs into a new direction, Chronicles of Spellborn would be an indie hit from Europe, and Flagship would be following up Hellgate: London with their MMO homage to Diablo II, Mythos.

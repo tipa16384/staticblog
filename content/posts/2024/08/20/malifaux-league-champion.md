@@ -2,15 +2,41 @@
 date: '2024-08-20T07:00:00-05:00'
 draft: false
 title: "Malifaux: League champion?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/20/malifaux-league-champion/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Building on Saturday's Malifaux tournament, yesterday was the start of the 2024 Fall Malifaux league and I came the closest yet to actually winning a match."
-categories:
+description: "Building on Saturday's Malifaux tournament, yesterday was the start of the 2024 Fall Malifaux league and I came the closest yet to actually winning a match."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Malifaux"
   - "Strategy"
   - "Tabletop Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/malifaux-league-1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/malifaux-league-1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/malifaux-league-1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A lot of people come up to me and ask how it feels to be a ranked Malifaux player. Not bad, I reply. Not bad at all. I feel humbled by all the fame and respect, to be honest. It's taken a very long time to get to this point, and the journey is not over.

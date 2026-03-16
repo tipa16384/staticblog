@@ -2,11 +2,38 @@
 date: '2011-07-08T06:52:32-05:00'
 draft: false
 title: "Star Trek Online: Perfect Timing"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/07/08/star-trek-online-perfect-timing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/07/GameClient-2011-07-07-22-50-05-73-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/07/GameClient-2011-07-07-22-50-05-73-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/07/GameClient-2011-07-07-22-50-05-73-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/GameClient-2011-07-07-22-50-05-73-480x384.jpg" title="Entering Earth Spacedock" class="align-center" >}}

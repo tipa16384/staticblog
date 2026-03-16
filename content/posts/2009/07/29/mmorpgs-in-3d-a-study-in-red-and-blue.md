@@ -2,7 +2,25 @@
 date: '2009-07-29T07:30:31-05:00'
 draft: false
 title: "MMORPGs in 3D: A Study in Red and Blue"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/29/mmorpgs-in-3d-a-study-in-red-and-blue/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "EVE Online"
   - "EverQuest"
@@ -10,6 +28,17 @@ categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [slide width="640" height="480"]

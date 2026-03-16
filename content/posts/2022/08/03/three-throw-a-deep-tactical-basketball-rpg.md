@@ -2,7 +2,25 @@
 date: '2022-08-03T07:00:00-05:00'
 draft: false
 title: "Three Frow: A deep, tactical basketball RPG"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/03/three-throw-a-deep-tactical-basketball-rpg/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Basketball"
   - "Blaugust"
   - "Blaugust 2022"
@@ -12,14 +30,20 @@ categories:
   - "Strategy"
   - "Tactical RPG"
   - "Tactics"
-tags:
-  - "Basketball"
   - "Craiyon"
   - "Gpt-3"
-  - "Tactics"
   - "Three Frow"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/craiyon_183021_a_close_up_of_five_basketball_players_wearing_medieval_armor_and_holding_basketballs_-1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/craiyon_183021_a_close_up_of_five_basketball_players_wearing_medieval_armor_and_holding_basketballs_-1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/craiyon_183021_a_close_up_of_five_basketball_players_wearing_medieval_armor_and_holding_basketballs_-1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here's its idea for August 3rd: "Three Frow".

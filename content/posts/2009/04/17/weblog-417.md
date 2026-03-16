@@ -2,13 +2,41 @@
 date: '2009-04-17T05:53:24-05:00'
 draft: false
 title: "Weblog 4/17"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/17/weblog-417/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "Cities XL"
   - "Daily Blogroll"
-tags:
   - "The Pirate Bay"
   - "Twitter"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Play [Wizard 101](http://wizard101.com)? Want a rare treasure card? Calamity Boompants will be on the Pixie realm, in Area 1, between 2 and 2:30 PM CST with cards the likes of which you won't often see. Just, you know, don't be standing behind her when her Boompants have a Calamity...

@@ -2,13 +2,39 @@
 date: '2025-09-25T08:09:25-05:00'
 draft: false
 title: "Frosthaven #18 -- Crystal Fields"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/25/frosthaven-18-crystal-fields/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Back to Frosthaven with an entirely new threat -- and a weighty decision to make."
-categories:
+description: "Back to Frosthaven with an entirely new threat -- and a weighty decision to make."
+tags:
   - "Frosthaven"
   - "Game Night"
   - "Tabletop Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/frosthaven-20250924.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/frosthaven-20250924.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/frosthaven-20250924.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've been working so hard on Dune: Awakening and my new [Daily Blogroll app](https://gamepad.club/@Tipa/115264473610635090) (more on that later) that I haven't been *blogging* as much.

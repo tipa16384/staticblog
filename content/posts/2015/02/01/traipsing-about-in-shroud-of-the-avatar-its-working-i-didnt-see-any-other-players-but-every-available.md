@@ -2,9 +2,38 @@
 date: '2015-02-01T18:28:01-05:00'
 draft: false
 title: "Traipsing about in Shroud of the Avatar."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/02/01/traipsing-about-in-shroud-of-the-avatar-its-working-i-didnt-see-any-other-players-but-every-available/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Shroud of the Avatar"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Traipsing about in Shroud of the Avatar. It's working. I didn't see any other players, but every available housing plot I came across was all bought up. Ye shall know them by their claims....

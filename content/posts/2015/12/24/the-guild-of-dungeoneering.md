@@ -2,10 +2,37 @@
 date: '2015-12-24T21:32:28-05:00'
 draft: false
 title: "The Guild of Dungeoneering"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/12/24/the-guild-of-dungeoneering/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/12/dungeoneering-2015-12-24-20-39-17-29.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/12/dungeoneering-2015-12-24-20-39-17-29.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/12/dungeoneering-2015-12-24-20-39-17-29.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/dungeoneering-2015-12-24-20-39-17-29.jpg" title="Just sit right down and you'll hear a tale..." class="align-center" >}}

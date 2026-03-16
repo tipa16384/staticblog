@@ -2,13 +2,38 @@
 date: '2023-11-12T15:39:42-05:00'
 draft: false
 title: "Clickbait"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/12/clickbait/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Making some changes to the blogroll..."
-categories:
-  - "Daily Blogroll"
+description: "Making some changes to the blogroll..."
 tags:
+  - "Daily Blogroll"
   - "Raid Shadow Legends"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/tipachu_a_desk_strewn_with_images_of_clickbait_ads_featuring_se_f9bb71a2-c331-4950-943b-4a0a5117b826.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/tipachu_a_desk_strewn_with_images_of_clickbait_ads_featuring_se_f9bb71a2-c331-4950-943b-4a0a5117b826.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/tipachu_a_desk_strewn_with_images_of_clickbait_ads_featuring_se_f9bb71a2-c331-4950-943b-4a0a5117b826.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I kinda spoiled this on Mastodon, but I decided that the blogroll wasn't super useful, and I was probably the only person clicking through the newsfeed to read other people's blogs, so also not useful. I more often use Feedly to keep up to date on the blogosphere.

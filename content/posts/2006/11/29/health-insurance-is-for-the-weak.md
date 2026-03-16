@@ -2,8 +2,37 @@
 date: '2006-11-29T15:12:57-05:00'
 draft: false
 title: "Health insurance is for the weak"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/11/29/health-insurance-is-for-the-weak/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My son told me yesterday, after I got home from work, that he had a pain and an ache in his mouth; he thought it might be his wisdom teeth coming in, and the people he'd asked in our EQ2 guild had told him it might well be. Ah, the new millennium, where actual family is thousands of miles away, and we use strangers in their place through the magical medium of the internet.

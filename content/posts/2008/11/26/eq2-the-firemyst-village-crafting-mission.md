@@ -2,16 +2,42 @@
 date: '2008-11-26T09:15:49-05:00'
 draft: false
 title: "EQ2: The Firemyst Village crafting mission"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/26/eq2-the-firemyst-village-crafting-mission/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Crafting"
   - "Firemyst Gully"
   - "Isle of Mara"
   - "Village of Shin"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While I love MMOs, the idea of playing a game where wanton killing is the only path of advancement just seems morally wrong. If anyone acted like that in the real world, they'd be shut away. Yet in MMOs, it's meant to be heroic to kill as much as you can, until killing itself becomes so humdrum and ordinary that nobody ever talks about it. Even killing a god is just a means to an end. At least EverQuest had the decency to be shocked when players finished killing the pantheon of Norrathian gods, when Druzzil Ro reset time itself so that it never happened. The gods remembered, though, and left Norrath rather than serve as the Raid Target of the Day for a new generation of adventurers.

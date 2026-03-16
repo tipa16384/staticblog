@@ -2,10 +2,37 @@
 date: '2022-03-09T07:33:04-05:00'
 draft: false
 title: "7DRL 2022 Day 3: Targeting and Attacking"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/09/7drl-2022-day-3-targeting-and-attacking/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/day3teaser.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/day3teaser.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/day3teaser.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I reached an important milestone, though a day late as I lost a day integrating the new tile set. As I added targeting and combat, I began to realize what kind of game this was becoming, and I think that understanding is going to let me finish 7DRL with an actual game that is, maybe, fun to play?

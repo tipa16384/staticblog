@@ -2,13 +2,39 @@
 date: '2014-09-10T19:28:21-05:00'
 draft: false
 title: "Neverwinter: Cult Foundry Contest Week 2 Reviews"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/09/10/neverwinter-cult-foundry-contest-week-2-reviews/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh6.googleusercontent.com/-vL3eELxUDkw/VBTx2BPWXlI/AAAAAAAA1Wo/5NJf140JjUY/w745-h596-no/GameClient%2B2014-09-12%2B21-24-35-27.jpg"
-cover: "https://lh6.googleusercontent.com/-vL3eELxUDkw/VBTx2BPWXlI/AAAAAAAA1Wo/5NJf140JjUY/w745-h596-no/GameClient%2B2014-09-12%2B21-24-35-27.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-vL3eELxUDkw/VBTx2BPWXlI/AAAAAAAA1Wo/5NJf140JjUY/w745-h596-no/GameClient%2B2014-09-12%2B21-24-35-27.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Temple of all Colors and None](https://lh6.googleusercontent.com/-vL3eELxUDkw/VBTx2BPWXlI/AAAAAAAA1Wo/5NJf140JjUY/w745-h596-no/GameClient%2B2014-09-12%2B21-24-35-27.jpg)

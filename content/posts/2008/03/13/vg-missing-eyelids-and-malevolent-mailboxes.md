@@ -2,11 +2,38 @@
 date: '2008-03-13T19:08:59-05:00'
 draft: false
 title: "VG: Missing Eyelids and Malevolent Mailboxes"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/13/vg-missing-eyelids-and-malevolent-mailboxes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Vanguard"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-13-07-15-11-70.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-13-07-15-11-70.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-13-07-15-11-70.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was aghast to find that after Vanguard GU 4 that I no longer had eyelids! Crikey! Was I going to have to go everywhere with a damp cloth over my eyes? [I petitioned](https://chasingdings.com/index.php/2008/03/12/vg-can-i-have-my-eyelids-back/), of course, and got my reply this morning.

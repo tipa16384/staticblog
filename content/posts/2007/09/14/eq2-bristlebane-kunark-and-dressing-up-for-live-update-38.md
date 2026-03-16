@@ -2,11 +2,38 @@
 date: '2007-09-14T11:16:01-05:00'
 draft: false
 title: "EQ2: Bristlebane, Kunark, and Dressing up for Live Update 38"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/09/14/eq2-bristlebane-kunark-and-dressing-up-for-live-update-38/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/09/dinaboat2.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/09/dinaboat2.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/09/dinaboat2.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![dinaboat2.jpg](https://chasingdings.com/wp-content/uploads/2007/09/dinaboat2.jpg)

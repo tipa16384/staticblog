@@ -2,20 +2,45 @@
 date: '2022-08-25T21:04:09-05:00'
 draft: false
 title: "Blaugust 2022: Dev Appreciation Week"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/25/blaugust-2022-dev-appreciation-week/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We highlight some of the great turn-based RPGs that are currently in development by independent developers. These are games that are being made with passion and care, and it shows in the quality of the games. If you're a fan of turn-based RPGs, be sure to check out these games!"
-categories:
+description: "We highlight some of the great turn-based RPGs that are currently in development by independent developers. These are games that are being made with passion and care, and it shows in the quality of the games. If you're a fan of turn-based RPGs, be sure to check out these games!"
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "Pawnbarian"
   - "Terra Randoma"
   - "Unexplored 2"
-tags:
   - "Arcadian Atlas"
   - "Dall-E 2"
   - "Mahokenshi"
   - "Those Who Rule"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-25-20.38.03-characters-from-final-fantasy-tactics-tactics-ogre-and-octopath-traveler-fight-a-huge-boss-together-on-3D-tactical-terrain..png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-25-20.38.03-characters-from-final-fantasy-tactics-tactics-ogre-and-octopath-traveler-fight-a-huge-boss-together-on-3D-tactical-terrain..png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-25-20.38.03-characters-from-final-fantasy-tactics-tactics-ogre-and-octopath-traveler-fight-a-huge-boss-together-on-3D-tactical-terrain..png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every Thursday, some game developer on Twitter takes their turn creating a thread and encouraging turn based RPG developers to promote their game. These are often games of passion, many done by single developers working on their project while holding down a full time job and every other challenge life brings.

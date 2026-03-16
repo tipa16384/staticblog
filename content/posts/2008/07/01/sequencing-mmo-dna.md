@@ -2,7 +2,25 @@
 date: '2008-07-01T10:09:42-05:00'
 draft: false
 title: "Sequencing MMO DNA"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/01/sequencing-mmo-dna/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Dark Ages of Camelot"
   - "EverQuest"
@@ -11,6 +29,17 @@ categories:
   - "Mythos"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I just had a thought, while writing the Mythos article. We all know where Mythos came from. Diablo II game play with a Warcraft art style. Diablo II came from Diablo, and Diablo was heavily influenced by the rogue-likes Moria and Angband, I think? Both those games were inspired by Hack, which was inspired by Rogue, which was heavily influenced by Temple of Apshai (I'm guessing), which took its inspiration from Dungeons and Dragons.

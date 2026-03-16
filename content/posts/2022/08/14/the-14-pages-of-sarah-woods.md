@@ -2,21 +2,46 @@
 date: '2022-08-14T07:00:00-05:00'
 draft: false
 title: "The 14 Pages of Sarah Woods"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/14/the-14-pages-of-sarah-woods/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The Number 14: A Touching Game with Excellent Writing and Interesting Characters"
-categories:
+description: "The Number 14: A Touching Game with Excellent Writing and Interesting Characters"
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "Exploration Games"
   - "Mystery Games"
   - "OpenAI"
   - "Puzzle Games"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Laura Shigihara"
   - "Telltale Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 14th: “The 14 Pages of Sarah Woods”.

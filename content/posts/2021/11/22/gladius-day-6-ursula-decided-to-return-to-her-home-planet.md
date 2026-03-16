@@ -2,18 +2,44 @@
 date: '2021-11-22T23:23:11-05:00'
 draft: false
 title: "Gladius, day 6: Ursula decided to return to her home planet"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/22/gladius-day-6-ursula-decided-to-return-to-her-home-planet/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "Gladius"
   - "PS2"
   - "Tactical RPG"
-tags:
   - "Lucasarts"
   - "Ogre Battle"
   - "PCSX2"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211122204522.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211122204522.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211122204522.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So, there, it's done. 62 hours and 22 minutes from the start to the end of the game, LucasArt's near forgotten cinematic tactical strategy gladiatorial combat RPG defied all my expectations.

@@ -2,16 +2,42 @@
 date: '2020-09-01T20:11:04-05:00'
 draft: false
 title: "Banner of the Maid: Let's try this again"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/01/banner-of-the-maid-lets-try-this-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "Switch"
   - "Tactical RPG"
-tags:
   - "Girls Screaming in Chinese"
   - "RPG"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was a *[little frustrated](https://chasingdings.com/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/)* the last time I played Banner of the Maid, the tactical RPG for the Switch (et al) about a fantasy retelling of the French Revolution. I hadn't leveled my characters evenly and it became clear I was never going to be able to beat a certain fight as I had no opportunities to grind my poor performers to higher levels.

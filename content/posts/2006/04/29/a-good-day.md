@@ -2,8 +2,37 @@
 date: '2006-04-29T00:00:00-05:00'
 draft: false
 title: "A good day"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/04/29/a-good-day/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My son is well again, I'm not sick anymore, my daughter is preggers. It's a warm San Diego Saturday afternoon. Cat's off his medicine. The apartment is clean, shopping is done. We went out and saw a good movie ("Thank You For Smoking"). Finished the two songs in Guitar Hero that was keeping me from the final set of five in the game on hard.

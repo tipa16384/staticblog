@@ -2,11 +2,38 @@
 date: '2012-01-23T07:13:39-05:00'
 draft: false
 title: "DDO: Unfinished business in Gianthold Tor"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/01/23/ddo-unfinished-business-in-gianthold-tor/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-22-23-07-49-00-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-22-23-07-49-00-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-22-23-07-49-00-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-22-23-07-49-00-480x384.jpg" title="Go ask Alice, when the white dragons fall" class="align-center" >}}

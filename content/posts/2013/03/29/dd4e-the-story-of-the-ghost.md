@@ -2,11 +2,38 @@
 date: '2013-03-29T06:43:47-05:00'
 draft: false
 title: "D&D4e: The Story of the Ghost"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/03/29/dd4e-the-story-of-the-ghost/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "D&D 4e"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-03-28-22-13-50-43-480x269.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-03-28-22-13-50-43-480x269.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-03-28-22-13-50-43-480x269.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-03-28-22-13-50-43-480x269.jpg" title="Ghost Encounter of the Blurred Kind" class="align-center" >}}

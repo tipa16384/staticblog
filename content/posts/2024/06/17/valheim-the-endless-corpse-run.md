@@ -2,16 +2,41 @@
 date: '2024-06-17T07:00:00-05:00'
 draft: false
 title: "Valheim: The Endless Corpse Run"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/06/17/valheim-the-endless-corpse-run/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Getting ready for killing the Goblin King was bad enough. Mistlands is worse."
-categories:
+description: "Getting ready for killing the Goblin King was bad enough. Mistlands is worse."
+tags:
   - "Other Games"
   - "Survival"
   - "Valheim"
-tags:
   - "Mistlands"
   - "Yagluth"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.50.56.55-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.50.56.55-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.50.56.55-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have a little outdoor shed in my Valheim base. It has four chests that are locked away behind a decorative trellis.

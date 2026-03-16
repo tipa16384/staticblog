@@ -2,11 +2,38 @@
 date: '2008-02-11T09:03:54-05:00'
 draft: false
 title: "EQ2: Guild search, AA mirror, more epic progress"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/02/11/eq2-guild-search-aa-mirror-more-epic-progress/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-10-15-20-34-07.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-10-15-20-34-07.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-10-15-20-34-07.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![everquest2-2008-02-10-15-20-34-07.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-10-15-20-34-07.jpg)

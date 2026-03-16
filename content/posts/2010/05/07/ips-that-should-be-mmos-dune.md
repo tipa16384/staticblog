@@ -2,10 +2,37 @@
 date: '2010-05-07T06:47:38-05:00'
 draft: false
 title: "IPs that SHOULD be MMOs, part 3: Dune"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/07/ips-that-should-be-mmos-dune/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/dunelego.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/dunelego.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/dunelego.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2010/05/dunelego.jpg" title="Click to see the builder's (RebelRock) gallery" class="align-center" >}}

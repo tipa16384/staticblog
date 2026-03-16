@@ -2,14 +2,40 @@
 date: '2022-07-02T19:17:29-05:00'
 draft: false
 title: "Symphony of War -- Done!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/02/symphony-of-war-done/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Steam Games"
   - "Tactical RPG"
-tags:
   - "Symphony of War"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/20220702161823_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/20220702161823_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/20220702161823_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Steam says I spent a little over 36 hours in Symphony of War: The Nephilim Saga. The game had a lot to recommend it, and I enjoyed my time with it.

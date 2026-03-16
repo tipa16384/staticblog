@@ -2,7 +2,25 @@
 date: '2008-07-30T17:24:10-05:00'
 draft: false
 title: "Trying and failing to care about WoW-like MMOs."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/30/trying-and-failing-to-care-about-wow-like-mmos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Final Fantasy"
   - "Lord of the Rings"
@@ -11,6 +29,17 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've had my level 75 cleric on Luclin for about... four months now. The level cap on EverQuest is 80. There have been three expansions since I last played her, The Serpent's Spine, The Buried Sea and Secrets of Faydwer (I played TSS just long enough to get to level 75). A new expansion, Seeds of Destruction is about to come out.

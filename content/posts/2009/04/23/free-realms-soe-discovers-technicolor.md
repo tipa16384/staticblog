@@ -2,13 +2,39 @@
 date: '2009-04-23T08:32:13-05:00'
 draft: false
 title: "Free Realms: SOE discovers Technicolor"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/23/free-realms-soe-discovers-technicolor/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Free Realms"
   - "MMORPG"
-tags:
   - "Beta"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4152009-105546-pm.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4152009-105546-pm.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4152009-105546-pm.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![fullscreen-capture-4152009-105546-pm](https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4152009-105546-pm.jpg "fullscreen-capture-4152009-105546-pm")

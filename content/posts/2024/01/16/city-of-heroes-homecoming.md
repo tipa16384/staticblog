@@ -2,16 +2,41 @@
 date: '2024-01-16T07:19:55-05:00'
 draft: false
 title: "City of Heroes: Homecoming..."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/16/city-of-heroes-homecoming/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's probably been 15 years since I last played City of Heroes... and now it's come back. Should I?"
-categories:
+description: "It's probably been 15 years since I last played City of Heroes... and now it's come back. Should I?"
+tags:
   - "City of Heroes"
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Homecoming"
   - "The Amoy Tiger"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/cohhclogo.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/cohhclogo.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/cohhclogo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The last time I blogged about time I personally spent in City of Heroes or Villains was in March of 2009, when I was [playing in the Architect system](https://chasingdings.com/2009/03/25/city-of-heroes-architect-killer-klowns/), where players could author their own missions. I imagine I kept playing for at least a little while after, but there were always so many other games to play... so best guess, this is a game that I haven't played for a decade and a half but I still think about it every now and then.

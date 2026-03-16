@@ -2,14 +2,40 @@
 date: '2009-02-26T20:10:56-05:00'
 draft: false
 title: "Out of work? Home sick? Wanna talk about Spellborn?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/26/out-of-work-home-sick-wanna-talk-about-spellborn/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
-tags:
   - "Acclaim"
   - "Voon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 # **Breaking news! Acclaim CEO Howard Marks says Chronicles of Spellborn closed beta starts NEXT WEEK!**

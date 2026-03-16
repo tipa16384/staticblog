@@ -2,18 +2,43 @@
 date: '2022-08-17T07:00:00-05:00'
 draft: false
 title: "There is No Room 17 in Kaisei Academy"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/17/there-is-no-room-17-in-kaisei-academy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "\"There Is No Room 17 in Kaisei Academy\" is a fun and mystery-filled visual novel that is perfect for fans of the genre."
-categories:
+description: "\"There Is No Room 17 in Kaisei Academy\" is a fun and mystery-filled visual novel that is perfect for fans of the genre."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
   - "Visual Novel"
-tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 17th, “There is No Room 17 in Kaisei Academy”.

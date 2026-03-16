@@ -2,12 +2,38 @@
 date: '2022-03-23T23:16:00-05:00'
 draft: false
 title: "My Destructive Parasocial Relationship with TopWar: BattleGame."
-categories:
-  - "Asides"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/23/my-destructive-parasocial-relationship-with-topwar-battlegame/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Asides"
   - "Topwar: Battlegame"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/totalwar.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/totalwar.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/totalwar.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Nobody really expects the ads for a mobile game to resemble in any way the actual game, do they? Why do I care so much when TW:BG advertises a game that doesn't exist?

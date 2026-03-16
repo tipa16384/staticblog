@@ -2,15 +2,41 @@
 date: '2020-09-14T07:21:32-05:00'
 draft: false
 title: "Banner of the Maid: The Fall of the Monarchy"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/14/banner-of-the-maid-the-fall-of-the-monarchy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "Switch"
-tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Queen Antoinette, one of the famed Maids of France, was no longer able to hold back the tides of populism in Revolutionary France. While Pauline Bonaparte, with the help of her brother Napoleon, struggled to free Italy from the horrors of an Austrian invasion, things were falling apart back home.

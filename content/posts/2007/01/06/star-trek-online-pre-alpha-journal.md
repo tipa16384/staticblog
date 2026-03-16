@@ -2,9 +2,38 @@
 date: '2007-01-06T02:29:03-05:00'
 draft: false
 title: "Star Trek Online Pre-Alpha Journal"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/01/06/star-trek-online-pre-alpha-journal/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So there we were, three light years into the Neutral Zone, with two Romulan cruisers starin' us in the face, an' we could tell by the micro distortions in the subspace that there were probably three more we couldna see.

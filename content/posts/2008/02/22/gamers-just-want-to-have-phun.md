@@ -2,11 +2,38 @@
 date: '2008-02-22T08:14:51-05:00'
 draft: false
 title: "Gamers just want to have \"Phun\""
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/02/22/gamers-just-want-to-have-phun/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "Other Games"
 featured_image: "http://www.vrlab.umu.se/research/images/phun_080207_0002.png"
-cover: "http://www.vrlab.umu.se/research/images/phun_080207_0002.png"
+cover:
+  image: "http://www.vrlab.umu.se/research/images/phun_080207_0002.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I saw yesterday that a Swedish researcher at Umeå University VRlab had released the latest version of "Phun". This is software that takes anything you can draw... and animates it with real world physics. This kind of reminds me of [Crayon Physics](http://www.kloonigames.com/crayon/), which does the physics, but makes it into a puzzle game. Phun gives you a blank screen and your mouse. What you do then is up to you.

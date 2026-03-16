@@ -2,11 +2,38 @@
 date: '2014-07-11T21:13:53-05:00'
 draft: false
 title: "Neverwinter: Are We There Yeti?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/07/11/neverwinter-are-we-there-yeti/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
 featured_image: "https://lh5.googleusercontent.com/-rM8BfwhXmr0/U8CWOPvO8MI/AAAAAAAAxm0/9Vuj73ntx4k/w760-h761-no/1-GameClient+2014-07-11+21-33-13-15.jpg"
-cover: "https://lh5.googleusercontent.com/-rM8BfwhXmr0/U8CWOPvO8MI/AAAAAAAAxm0/9Vuj73ntx4k/w760-h761-no/1-GameClient+2014-07-11+21-33-13-15.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-rM8BfwhXmr0/U8CWOPvO8MI/AAAAAAAAxm0/9Vuj73ntx4k/w760-h761-no/1-GameClient+2014-07-11+21-33-13-15.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Me and the Yeti](https://lh5.googleusercontent.com/-rM8BfwhXmr0/U8CWOPvO8MI/AAAAAAAAxm0/9Vuj73ntx4k/w760-h761-no/1-GameClient+2014-07-11+21-33-13-15.jpg)

@@ -2,13 +2,39 @@
 date: '2014-09-19T19:20:20-05:00'
 draft: false
 title: "Neverwinter: Cult Foundry Contest Week 3 Reviews"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/09/19/neverwinter-cult-foundry-contest-week-3-reviews/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg"
-cover: "https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Wow, week 3 already. It’s been a rollercoaster so far, but this week is special. We have missions by two of the foundry’s pro builders -- and the unluckiest contest entry of them all. But we’ll get to that one later. First, one of the three quests the overworked cleric who stands near Sergeant Knox gives out this week.

@@ -2,10 +2,37 @@
 date: '2006-07-27T17:19:11-05:00'
 draft: false
 title: "WordPress, OpenOffice, and Inkscape"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/07/27/wordpress-openoffice-and-inkscape/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "My Work"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/07/joyouslogo.png"
-cover: "https://chasingdings.com/wp-content/uploads/2006/07/joyouslogo.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/07/joyouslogo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I love free and open source software (FOSS) -- I really do. Out of more than twenty years of programming, the only software of mine still out in the wild was some open source stuff I wrote back in the late 80s. All the stuff I wrote for pay was locked away by my employers, never to see daylight again. Well, except for stuff I cleverly saved, like this tiny applet for illustrating the voltage, capacitance and potential of different kinds of capacitors:

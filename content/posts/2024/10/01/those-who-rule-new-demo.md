@@ -2,18 +2,43 @@
 date: '2024-10-01T23:49:27-05:00'
 draft: false
 title: "Those Who Rule: new demo!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/01/those-who-rule-new-demo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Those crazy kids and their ruling! Story driven tactical RPG that punches well above its weight, you wouldn't know this was the work of a single developer."
-categories:
+description: "Those crazy kids and their ruling! Story driven tactical RPG that punches well above its weight, you wouldn't know this was the work of a single developer."
+tags:
   - "Steam Games"
   - "Strategy"
   - "Tactical RPG"
   - "Tactics"
-tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Those Who Rule"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/thosewhorulebanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/thosewhorulebanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/thosewhorulebanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 One of the really nice things about Xitter, in the before times, was that it was a great place to catch up with the indie game dev world. I found so many great titles that way and had a lot of fun playing them. One of those was "Those Who Rule".

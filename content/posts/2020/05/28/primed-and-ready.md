@@ -2,18 +2,44 @@
 date: '2020-05-28T03:27:17-05:00'
 draft: false
 title: "Octomini Project Day 2: Primed and Ready"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/28/primed-and-ready/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Gloomhaven"
   - "Miniatures"
   - "Nintendo Switch"
-tags:
   - "Aradune"
   - "Cragheart"
   - "Octomini Project"
   - "Octopath Traveler"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-primed.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/1-primed.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-primed.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'd really wanted to talk about playing in the new EverQuest server today. I took a day off from work to play EverQuest and watch the SpaceX rocket take off with two American astronauts from American soil.

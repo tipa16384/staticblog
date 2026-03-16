@@ -2,7 +2,25 @@
 date: '2010-05-08T08:26:27-05:00'
 draft: false
 title: "Assault on the Inbox: May 7, 2010"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/08/assault-on-the-inbox-may-7-2010/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "EVE Online"
   - "EverQuest"
@@ -12,7 +30,16 @@ categories:
   - "Star Trek"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/stochair.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/stochair.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/stochair.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/05/stochair.jpg "It isn")](https://chasingdings.com/wp-content/uploads/2010/05/stochair.jpg)

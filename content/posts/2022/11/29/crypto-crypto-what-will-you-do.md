@@ -2,17 +2,42 @@
 date: '2022-11-29T16:32:32-05:00'
 draft: false
 title: "Crypto, Crypto, what will you do?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/11/29/crypto-crypto-what-will-you-do/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This song tells the story of a pup named Crypto who dreams of becoming wealthy through trading on various cryptocurrency markets."
-categories:
+description: "This song tells the story of a pup named Crypto who dreams of becoming wealthy through trading on various cryptocurrency markets."
+tags:
   - "Blockchain"
   - "NFT"
   - "OpenAI"
-tags:
   - "Crypto"
   - "Puppy"
   - "Song"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/11/1-A_puppy_surrounded_by_stacks_of_Bitcoin__Visual_Novel_Seed-2422298_Steps-50_Guidance-7.5.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/11/1-A_puppy_surrounded_by_stacks_of_Bitcoin__Visual_Novel_Seed-2422298_Steps-50_Guidance-7.5.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/11/1-A_puppy_surrounded_by_stacks_of_Bitcoin__Visual_Novel_Seed-2422298_Steps-50_Guidance-7.5.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Song written by text-davinci-003 given the prompt of an article about FTX.

@@ -2,12 +2,40 @@
 date: '2008-09-03T11:20:16-05:00'
 draft: false
 title: "EQ2: Game update 48 is live"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/03/eq2-game-update-48-is-live/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Gu48"
   - "Veksar"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [I guess I know what I'll be doing tonight](http://mmoquests.com/2008/09/03/gu48-goes-live-on-everquestii/)...

@@ -2,14 +2,40 @@
 date: '2022-03-28T08:03:14-05:00'
 draft: false
 title: "Salt & Sanctuary: When Watching Elden Ring Isn't Enough"
-categories:
-  - "Salt and Sanctuary"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/28/salt-sanctuary-when-watching-elden-ring-isnt-enough/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Salt and Sanctuary"
   - "2D"
   - "Black and White"
   - "Souls-Like"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My partner is playing our copy of Elden Ring, and I'd love to do more than just watch. Doesn't make much sense to buy another copy when I can just use his when he's done, but I wanted to play a Souls-like and I didn't much like Bloodborne (which I had for free). Enter Salt & Sanctuary, a 2D souls-like for those who think a third dimension is just showing off.

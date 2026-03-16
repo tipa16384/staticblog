@@ -2,16 +2,42 @@
 date: '2020-09-10T07:44:35-05:00'
 draft: false
 title: "Banner of the Maid: La Victoire est à Nous!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/10/banner-of-the-maid-la-victoire-est-a-nous/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "Switch"
   - "Visual Novel"
-tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My opinion of this French Revolution-themed visual novel/tactical strategy game keeps rising as I work my way through the campaign. Once you get past the fact that the main army commanders are all teenage girls, there's a decent story there, and the battles are just over the top.

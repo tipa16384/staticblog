@@ -2,8 +2,25 @@
 date: '2023-08-16T07:00:00-05:00'
 draft: false
 title: "From Hydaelyn to Veeshan: A Tribute to Creators"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/16/a-tribute-to-creators/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's creator appreciation week, and I'm appreciating the creation myths of the most popular MMOs in the world!"
-categories:
+description: "It's creator appreciation week, and I'm appreciating the creation myths of the most popular MMOs in the world!"
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "DC Universe Online"
@@ -15,10 +32,18 @@ categories:
   - "Rift"
   - "The Elder Scrolls Online"
   - "World of Warcraft"
-tags:
   - "Creator"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/hydaelyn.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/hydaelyn.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/hydaelyn.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's Creator Appreciation Week on Blaugust, our third theme week this year. Honestly, every blogger is a creator, so just by making a post -- grats, you made it. Today I want to talk about the creators of our game worlds, from the perspective of those who live in that world :-)

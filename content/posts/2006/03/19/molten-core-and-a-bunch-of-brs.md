@@ -2,11 +2,38 @@
 date: '2006-03-19T00:00:00-05:00'
 draft: false
 title: "Molten Core and a bunch of BRS"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/03/19/molten-core-and-a-bunch-of-brs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/images/mc031806b.jpg"
-cover: "https://chasingdings.com/images/mc031806b.jpg"
+cover:
+  image: "https://chasingdings.com/images/mc031806b.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While I have been off "moving" and "cleaning" and "spending time with my children", Prophetic Fate has been forging ever deeper into Molten Core - they are up to Majordomo, the penultimate boss in MC. I just logged in to say hello yesterday, but was drawn into joining the Molten Core raid.

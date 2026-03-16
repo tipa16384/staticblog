@@ -2,11 +2,27 @@
 date: '2024-06-09T07:00:00-05:00'
 draft: false
 title: "Retro Haul: Tactics and Sea Monkeys"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/06/09/retro-haul-tactics-and-sea-monkeys/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We found ourselves once again awash in a sea of retro games. We found some winners, maybe...?"
-categories:
+description: "We found ourselves once again awash in a sea of retro games. We found some winners, maybe...?"
+tags:
   - "Tactical RPG"
   - "Video Game"
-tags:
   - "Boba Tea"
   - "Dr. Stone"
   - "Future Tactics"
@@ -18,7 +34,16 @@ tags:
   - "Retrogames"
   - "Sea Monkeys"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/06/IMG_4308.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/06/IMG_4308.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/06/IMG_4308.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I always go to retro game stores intending to play every game I buy, but I honestly just don't always have the time. Something keeps coming up. This week, it's Valheim. Next week, who knows?

@@ -2,17 +2,43 @@
 date: '2010-12-15T01:33:24-05:00'
 draft: false
 title: "Wizard101: Level 58, and I Feel Fine."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/15/wizard101-level-58-and-i-feel-fine/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Celestia"
   - "Forest Lord"
   - "Gardening"
   - "Giving Tree"
   - "Ra"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg "Allison and Tara")](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31.jpg)

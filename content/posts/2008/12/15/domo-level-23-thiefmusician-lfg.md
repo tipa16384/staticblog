@@ -2,13 +2,39 @@
 date: '2008-12-15T21:12:28-05:00'
 draft: false
 title: "DOMO: Level 23 Thief/Musician, LFG"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/15/domo-level-23-thiefmusician-lfg/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dream of Mirror Online"
   - "MMORPG"
-tags:
   - "New Shiny"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg "domo-2008-12-14-11-32-57-40")

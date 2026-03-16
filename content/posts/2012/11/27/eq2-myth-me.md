@@ -2,11 +2,38 @@
 date: '2012-11-27T07:03:35-05:00'
 draft: false
 title: "EQ2: Myth me?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/11/27/eq2-myth-me/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-24-23-53-45-38-480x299.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-24-23-53-45-38-480x299.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-24-23-53-45-38-480x299.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-24-23-53-45-38-480x299.jpg" title="Fully myth'd" class="align-center" >}}

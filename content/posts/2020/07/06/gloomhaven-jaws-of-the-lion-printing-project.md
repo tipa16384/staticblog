@@ -2,15 +2,41 @@
 date: '2020-07-06T11:16:50-05:00'
 draft: false
 title: "Gloomhaven: Jaws of the Lion printing project"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/07/06/gloomhaven-jaws-of-the-lion-printing-project/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Gloomhaven"
   - "Tabletop Games"
-tags:
   - "Jaws of the Lion"
   - "Maghex"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1715.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1715.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1715.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm printing all the scenarios in Gloomhaven: Jaws of the Lion, in collaboration with my boyfriend, on a filament and a resin 3D printer. After the printing comes the painting. I know nothing about painting terrain or miniatures, but what better time to learn? This is all to make the best Gloomhaven, Jaws of the Lion and Frosthaven playing experience we can create.

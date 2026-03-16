@@ -2,15 +2,40 @@
 date: '2022-12-28T20:38:48-05:00'
 draft: false
 title: "Skyrim, except it's a board game"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/28/skyrim-except-its-a-board-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We've been really enjoying this board game version of Skyrim the last couple of family game nights... but maybe it is a little TOO faithful to the videogame?"
-categories:
+description: "We've been really enjoying this board game version of Skyrim the last couple of family game nights... but maybe it is a little TOO faithful to the videogame?"
+tags:
   - "Game Night"
   - "Tabletop Game"
-tags:
   - "Bethesda"
   - "Skyrim"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/pic7203331.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/pic7203331.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/pic7203331.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Bethesda has a plan for you. And that plan is to have you buy Skyrim multiple times. Dozens of times. From the various releases on the various consoles and PCs, and the DLCs, and the soundtrack albums, and the Dragonborn cosplay helmet and... and now, the board game.

@@ -2,16 +2,41 @@
 date: '2025-06-25T08:30:29-05:00'
 draft: false
 title: "Dune Awakening: Walking Without Rhythm"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/06/25/dune-awakening-walking-without-rhythm/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Also: walking without WATER. Also: Why isn't there a \"walk without rhythm\" button? Also: What if I just have, like, natural rhythm? What do I do then?"
-categories:
+description: "Also: walking without WATER. Also: Why isn't there a \"walk without rhythm\" button? Also: What if I just have, like, natural rhythm? What do I do then?"
+tags:
   - "Dune Awakening"
   - "MMORPG"
-tags:
   - "Dune"
   - "Harkonnen"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/walk.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/06/walk.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/06/walk.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The first Imperial Testing Station I'd encountered was a fun little romp. These are the Dune Awakening versions of dungeons. These are the old school kind of dungeons; not instanced, everyone shares the same dungeon and if there's someone a few minutes deeper into the dungeon than you, you're probably not going to find much. Since these dungeons are open to all, the mob respawn is pretty fast. It's entirely possible to happen upon a testing station and just keep working through it for experience and loot.

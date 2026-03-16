@@ -2,15 +2,40 @@
 date: '2022-12-08T20:12:31-05:00'
 draft: false
 title: "Advent of Code Day 8 -- Tree Top Treehouse"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/08/advent-of-code-day-8-tree-top-treehouse/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's all about taking a break from those busy reindeer games to build a treehouse with a really stellar view. Also, what is code golf?"
-categories:
-  - "Advent of Code"
+description: "It's all about taking a break from those busy reindeer games to build a treehouse with a really stellar view. Also, what is code golf?"
 tags:
+  - "Advent of Code"
   - "Advent"
   - "Java"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-08-19.17.41-Several-Christmas-Elves-enjoying-the-view-from-a-Treetop-Tree-House-in-a-forest-by-Bob-Eggleton-detailed-and-intricate.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-08-19.17.41-Several-Christmas-Elves-enjoying-the-view-from-a-Treetop-Tree-House-in-a-forest-by-Bob-Eggleton-detailed-and-intricate.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-08-19.17.41-Several-Christmas-Elves-enjoying-the-view-from-a-Treetop-Tree-House-in-a-forest-by-Bob-Eggleton-detailed-and-intricate.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We're supposed to be hunting for special stars for reindeer magic power, but ya know, why not [build a treehouse](https://adventofcode.com/2022/day/8)?

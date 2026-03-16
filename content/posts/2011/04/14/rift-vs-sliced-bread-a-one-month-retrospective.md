@@ -2,11 +2,38 @@
 date: '2011-04-14T07:22:22-05:00'
 draft: false
 title: "Rift vs Sliced Bread: A one month retrospective."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/04/14/rift-vs-sliced-bread-a-one-month-retrospective/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Rift"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg" title="Harlan's Vista" class="align-center" >}}

@@ -2,7 +2,25 @@
 date: '2009-04-24T07:24:29-05:00'
 draft: false
 title: "Web Log 4/24 -- Friday is Free Day edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/24/web-log-424-friday-is-free-day-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
@@ -18,7 +36,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "http://www.penny-arcade.com/images/2009/20090424.jpg"
-cover: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+cover:
+  image: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](http://www.penny-arcade.com/images/2009/20090424.jpg "Its Reall Quite Simple")](http://www.penny-arcade.com/comic/2009/4/24/)

@@ -2,12 +2,28 @@
 date: '2025-05-09T19:52:49-05:00'
 draft: false
 title: "PAX East 2025: Wow, kinda big, right?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/05/09/pax-east-2025-wow-kinda-big-right/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "First time at PAX, having a great time, wish you were here."
-categories:
+description: "First time at PAX, having a great time, wish you were here."
+tags:
   - "Erenshor"
   - "Gaming Convention"
   - "Tabletop Games"
-tags:
   - "Buy the Vote"
   - "Cat Secretary"
   - "Gigasword"
@@ -16,7 +32,16 @@ tags:
   - "Planet Hexx"
   - "Sage Stones"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5091-scaled.jpeg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5091-scaled.jpeg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5091-scaled.jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I am having a great time, except that it’s cold and rainy here at the Boston sea coast, and I picked up my boyfriend’s cold, and I put my back out last week and am still feeling it, but you know, aside from that.

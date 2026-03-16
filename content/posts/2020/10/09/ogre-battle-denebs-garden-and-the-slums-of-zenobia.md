@@ -2,15 +2,41 @@
 date: '2020-10-09T08:04:18-05:00'
 draft: false
 title: "Ogre Battle: Deneb's Garden and the Slums of Zenobia"
-categories:
-  - "Super Nintendo"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/09/ogre-battle-denebs-garden-and-the-slums-of-zenobia/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Super Nintendo"
   - "Ogre Battle"
   - "RPG"
   - "Snes"
   - "The March of the Black Queen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-000.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-000.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-000.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I took Wednesday night off to watch the VP debates, which were way more fun than any dumb game. Thursday, with the drop of Fall Guys Season 2, was already pretty full, but after embarrassing myself for awhile dodging swinging axes and spiky rollers, I thought it was about time to check in on the battling ogres.

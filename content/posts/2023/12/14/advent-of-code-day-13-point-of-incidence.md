@@ -2,15 +2,40 @@
 date: '2023-12-14T07:08:33-05:00'
 draft: false
 title: "Advent of Code Day 13 -- Point of Incidence"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/14/advent-of-code-day-13-point-of-incidence/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world."
-categories:
-  - "Advent of Code"
+description: "I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world."
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Mirrors"
   - "Volcano"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My boyfriend walked up to me as I was solving this puzzle and thought I was still working on *yesterday's* puzzle, because they looked the same.

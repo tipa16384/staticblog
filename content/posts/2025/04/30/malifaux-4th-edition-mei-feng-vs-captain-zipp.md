@@ -2,17 +2,42 @@
 date: '2025-04-30T08:00:00-05:00'
 draft: false
 title: "Malifaux 4th Edition: Mei Feng vs Captain Zipp"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/04/30/malifaux-4th-edition-mei-feng-vs-captain-zipp/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Foundry and Infamous meet once again... and the result is pretty much same as last time."
-categories:
+description: "Foundry and Infamous meet once again... and the result is pretty much same as last time."
+tags:
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "4th Edition"
   - "Foundry"
   - "Mei Feng"
   - "The Battle Standard"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/04/newcrew4ebanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/04/newcrew4ebanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/04/newcrew4ebanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It wasn’t very kind of Wyrd Games to release the *Malifaux 4th Edition open beta* right in the middle of our league season. All the rules were rewritten; everything was different. My *current* crew, December, doesn't even have cards yet, so I was forced to fall back on my *old* crew, Foundry, and do the best I could.

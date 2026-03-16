@@ -2,13 +2,39 @@
 date: '2011-10-10T06:58:40-05:00'
 draft: false
 title: "DDO: Baby I'm A-maze-d"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/10/10/ddo-baby-im-a-maze-d/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-10-00-53-19-17-480x313.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-10-00-53-19-17-480x313.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-10-00-53-19-17-480x313.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-10-00-53-19-17-480x313.jpg" title="Grand Skellie Poo-bah" class="align-center" >}}

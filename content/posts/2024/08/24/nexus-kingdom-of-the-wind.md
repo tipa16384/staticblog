@@ -2,17 +2,42 @@
 date: '2024-08-24T18:16:18-05:00'
 draft: false
 title: "Nexus: Kingdom of the Wind"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/24/nexus-kingdom-of-the-wind/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Most people have never heard of NexusTK. Some people maybe heard of it long ago. It's different for me. Nexus: Kingdom of the Wind was my only MMO before EverQuest rewrote the MMO rulebook."
-categories:
+description: "Most people have never heard of NexusTK. Some people maybe heard of it long ago. It's different for me. Nexus: Kingdom of the Wind was my only MMO before EverQuest rewrote the MMO rulebook."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "MMORPG"
-tags:
   - "2D"
   - "Nexus the Kingdom of the Winds"
   - "Nexustk"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/nexus-afk.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/nexus-afk.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/nexus-afk.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was mad at EverQuest. Well, mad, I guess, at Verant Interactive, the original EverQuest developers, because I was just so damned excited about EverQuest but I could *not* get into the beta. It's all anyone was talking about. I don't know if any new MMO could get the kind of press EQ was getting; Ultima Online had raised the bar on what had come before, but in requiring a 3D card and immersing you in a world -- "You're in our world now" was their motto -- EverQuest was the true harbinger of things to come.

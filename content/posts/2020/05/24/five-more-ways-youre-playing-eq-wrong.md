@@ -2,16 +2,42 @@
 date: '2020-05-24T14:13:08-05:00'
 draft: false
 title: "Five MORE Ways You're Playing EQ Wrong!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/24/five-more-ways-youre-playing-eq-wrong/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Aradune"
   - "Macintosh"
   - "Parallels"
   - "TLP"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/Image-5-24-20-at-7.56-AM.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/Image-5-24-20-at-7.56-AM.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/Image-5-24-20-at-7.56-AM.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Hey, don't blame me -- blame the incomparable Jeff Rimer...

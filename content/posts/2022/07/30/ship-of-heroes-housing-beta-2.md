@@ -2,18 +2,44 @@
 date: '2022-07-30T21:02:28-05:00'
 draft: false
 title: "Ship of Heroes: Housing Beta #2"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/30/ship-of-heroes-housing-beta-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "DC Universe Online"
   - "EverQuest"
   - "Final Fantasy"
   - "MMORPG"
   - "Ship of Heroes"
-tags:
   - "Housing Beta"
   - "Supergroup Bases"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/1-20220730211912_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/1-20220730211912_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/1-20220730211912_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't played the Ship of Heroes beta in awhile, and I entirely missed the previous housing beta. I wasn't going to make that same mistake twice; when I got the offer to join the superhero MMOs second housing beta, I signed right up and dove right in.

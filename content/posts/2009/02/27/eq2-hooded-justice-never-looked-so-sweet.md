@@ -2,14 +2,40 @@
 date: '2009-02-27T08:00:22-05:00'
 draft: false
 title: "EQ2: Hooded Justice never looked so sweet"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/27/eq2-hooded-justice-never-looked-so-sweet/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "RMT"
   - "Station Marketplace"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/feedingtime.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/feedingtime.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/feedingtime.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Back in, oh, I guess this would be the early 90s, I had a friend who was so excited about finally putting all her paintings -- 'paintings' -- on this new World Wide Web thing. I'd known she liked art, but painting? I didn't know she did that.

@@ -2,17 +2,43 @@
 date: '2008-11-23T00:05:03-05:00'
 draft: false
 title: "EQ: Vegarlson, the Earthen Badlands (the Plane of Earth)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/23/eq-vegarlson-the-earthen-badlands-the-plane-of-earth/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Plane of Earth"
   - "Prismatic Basilisk"
   - "The Living Earth"
   - "Vegarlson"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg "eqgame-2008-11-21-18-57-24-07")

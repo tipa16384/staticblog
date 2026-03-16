@@ -2,18 +2,44 @@
 date: '2021-10-24T17:27:23-05:00'
 draft: false
 title: "Dungeon Encounters: Finished and finished."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/10/24/dungeon-encounters-finished-and-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeon Encounters"
   - "PS4"
   - "PS5"
   - "Rogue-Likes"
   - "Switch"
   - "Tactical RPG"
-tags:
   - "Square-Enix"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Everyone says that this game has no story and all the characters are the same and once you've played the first few levels, you've seen all the game can offer. But, everyone is wrong.

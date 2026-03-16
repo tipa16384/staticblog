@@ -2,18 +2,43 @@
 date: '2024-09-28T12:34:27-05:00'
 draft: false
 title: "Champions: Return to Arms finished!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/28/champions-return-to-arms-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Hey, I finished another game! I hope this doesn't become some kind of trend. I had a lot of fun with it."
-categories:
+description: "Hey, I finished another game! I hope this doesn't become some kind of trend. I had a lot of fun with it."
+tags:
   - "Action RPG"
   - "EverQuest"
   - "PS2"
   - "RPG"
-tags:
   - "Champions of Norrath"
   - "Champions Return to Arms"
   - "PCSX2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/cazicthule.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/cazicthule.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/cazicthule.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's strange how things work out sometimes. I'd played a little bit of Champions: RtA but bounced out because of the lack of a map overlay. I then played Baldurs Gate: Dark Alliance II, an earlier title by the same company, and *that* had a map overlay. Surely C:RtA did, too?

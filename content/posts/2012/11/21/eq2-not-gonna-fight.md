@@ -2,11 +2,38 @@
 date: '2012-11-21T15:04:28-05:00'
 draft: false
 title: "EQ2: Not gonna fight."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/11/21/eq2-not-gonna-fight/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg" title="Haunted Diorama" class="align-center" >}}

@@ -2,11 +2,38 @@
 date: '2007-02-01T11:41:00-05:00'
 draft: false
 title: "EQ2: Barakah"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/02/01/eq2-barakah/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/barrthumb.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/02/barrthumb.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/02/barrthumb.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![barrthumb.jpg](https://chasingdings.com/wp-content/uploads/2007/02/barrthumb.jpg)More in my little series of the big baddies of EverQuest 2 -- Today, Barakah, the gold dragon who holds part of the mystic barrier guarding access to the Djinn Master's Prism, the Pedestal of Sky, and Poet's Palace: Return.

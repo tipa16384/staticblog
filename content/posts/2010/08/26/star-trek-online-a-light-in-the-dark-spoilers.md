@@ -2,10 +2,27 @@
 date: '2010-08-26T23:01:21-05:00'
 draft: false
 title: "Star Trek Online: A Light in the Dark (spoilers)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/26/star-trek-online-a-light-in-the-dark-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Celestara Mex"
   - "Episode"
   - "Fluidic Space"
@@ -14,7 +31,16 @@ tags:
   - "Starfleet"
   - "Undine"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg "A portal -- to where?")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-23-10-17-94.jpg)

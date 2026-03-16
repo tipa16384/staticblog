@@ -2,11 +2,38 @@
 date: '2006-03-23T00:00:00-05:00'
 draft: false
 title: "Finished Onyxia Key!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/03/23/finished-onyxia-key/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/images/onyember.jpg"
-cover: "https://chasingdings.com/images/onyember.jpg"
+cover:
+  image: "https://chasingdings.com/images/onyember.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I really don't like key quests. They're just an intentional roadblock to slow people down - very artificial. EverQuest was full of these artificial roadblocks, but since then, they've become enlightened; for most places, five fully-flagged people can get a sixth unflagged in free. And many times, they can get a bit in the raid that fully flags them, bypassing the need to do a quest series just for one or two people.

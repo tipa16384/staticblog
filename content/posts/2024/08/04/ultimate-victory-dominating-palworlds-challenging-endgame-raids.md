@@ -2,17 +2,42 @@
 date: '2024-08-04T16:45:52-05:00'
 draft: false
 title: "Ultimate Victory: Dominating Palworld’s Challenging Endgame Raids"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/04/ultimate-victory-dominating-palworlds-challenging-endgame-raids/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "To take on this boss, you need to be ferocious, serene, muscle-headed and impatient."
-categories:
+description: "To take on this boss, you need to be ferocious, serene, muscle-headed and impatient."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Open World RPG"
   - "Palworld"
-tags:
   - "Bellanoir Libero"
   - "Raiding"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/bellanoirultra.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/bellanoirultra.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/bellanoirultra.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's a lot to do in the Palworld endgame. I think most players don't even know there *is* an endgame. The main quest will lead you through killing the first tower boss, with the implication that you might want to go and do what needs to be done to the other tower bosses.

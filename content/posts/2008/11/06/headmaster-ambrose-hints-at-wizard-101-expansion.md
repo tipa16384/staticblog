@@ -2,13 +2,41 @@
 date: '2008-11-06T15:23:19-05:00'
 draft: false
 title: "Headmaster Ambrose hints at Wizard 101 expansion"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/06/headmaster-ambrose-hints-at-wizard-101-expansion/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Astral Magic"
   - "Dragonspyre"
   - "Expansion"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After months of speculation over the school of magic Ambrose, Headmaster of Wizard 101's Ravenwood Academy, prefers, Ambrose has revealed that he is a [master of all schools of magic](https://www.wizard101.com/site/posts/list/2471.ftl).

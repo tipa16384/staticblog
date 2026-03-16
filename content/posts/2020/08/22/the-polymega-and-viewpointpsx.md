@@ -2,9 +2,26 @@
 date: '2020-08-22T14:49:33-05:00'
 draft: false
 title: "The Polymega and Viewpoint(PSX)"
-categories:
-  - "Emulators"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/22/the-polymega-and-viewpointpsx/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Emulators"
   - "Arcade"
   - "Banned in Denmark"
   - "Bullet Hell"
@@ -12,7 +29,16 @@ tags:
   - "Girls Screaming in Techno"
   - "PSX"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was so excited when I saw a video on the Polymega this morning. The Polymega is [a sort of uber-emulator console](https://www.polymega.com/) that can take your PS1, Sega Saturn, Sega TurboGrafx 16, and Neo Geo CD games, rip them to internal storage to keep them safe forever, and from then you can play them on a cool looking console while your original games are stored safely away. I've got an original copy of Panzer Dragoon for the Sega Saturn, which (last time I looked) was worth over $600. I want that kept *safe*.

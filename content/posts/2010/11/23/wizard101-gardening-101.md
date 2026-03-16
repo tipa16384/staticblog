@@ -2,13 +2,39 @@
 date: '2010-11-23T01:11:58-05:00'
 draft: false
 title: "Wizard101: Gardening 101."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/11/23/wizard101-gardening-101/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Gardening"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-23-00-55-16-79-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-23-00-55-16-79-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-23-00-55-16-79-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-23-00-55-16-79-480x384.jpg "Yummy boom shroom!")](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-23-00-55-16-79.jpg)

@@ -2,15 +2,41 @@
 date: '2009-06-09T19:12:26-05:00'
 draft: false
 title: "Shiren the Wanderer 3 coming next year for the Wii"
-categories:
-  - "Other Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/09/shiren-the-wanderer-3-coming-next-year-for-the-wii/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Other Games"
   - "Rogue"
   - "Rogue-Like"
   - "Shiren the Wanderer"
   - "Wii"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![Shiren is about to die....](https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg "Shiren is about to die....")](http://www.atlus.com/shiren/)

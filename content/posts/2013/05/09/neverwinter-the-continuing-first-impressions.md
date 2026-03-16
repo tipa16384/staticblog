@@ -2,11 +2,38 @@
 date: '2013-05-09T22:57:05-05:00'
 draft: false
 title: "Neverwinter: The continuing first impressions"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/05/09/neverwinter-the-continuing-first-impressions/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-09-23-05-56-41-480x342.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-09-23-05-56-41-480x342.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-09-23-05-56-41-480x342.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-09-23-05-56-41-480x342.jpg" title="Tipa at 26" class="align-center" >}}

@@ -2,11 +2,38 @@
 date: '2006-11-14T13:52:44-05:00'
 draft: false
 title: "EQ2: EoF Character Goals"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/11/14/eq2-character-goals/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/dinapdoll.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/11/dinapdoll.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/11/dinapdoll.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![dinapdoll.jpg](https://chasingdings.com/wp-content/uploads/2006/11/dinapdoll.jpg)With the expansion, I have a lot of work ahead. I've done a lot of exploring and played some classes I don't normally play (e.g. Fury and Conjurer), done many new quests and seen a lot of new places. I just have to figure out how to best do all I would like to do without having to level too many new chaarcters.

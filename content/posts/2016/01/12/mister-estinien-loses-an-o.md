@@ -2,11 +2,38 @@
 date: '2016-01-12T22:36:37-05:00'
 draft: false
 title: "Mister Estinien Loses an \"O\""
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2016/01/12/mister-estinien-loses-an-o/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![vlcsnap-2016-01-12-20h34m26s188](https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg)](https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg)

@@ -2,11 +2,38 @@
 date: '2007-10-27T08:39:57-05:00'
 draft: false
 title: "EQ2 Screenshot Throwdown!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/10/27/eq2-screenshot-throwdown/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/everquest2-2007-10-27-07-49-11-08.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/10/everquest2-2007-10-27-07-49-11-08.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/10/everquest2-2007-10-27-07-49-11-08.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Syncaine over at [Hardcore Casual](http://syncaine.wordpress.com/2007/10/25/screen-shot-comparison/) thinks EQ2 is "flat, boring and lifeless", and as examples, puts up some [rather poor EQ2 screenshots](http://syncaine.files.wordpress.com/2007/10/eq2.thumbnail.jpg) (which he got from the official site so you'd expect better, though I suspect he got at least one of them from a player-submitted shot). Sure enough, in comparison, EQ2 suffers.

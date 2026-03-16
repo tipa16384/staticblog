@@ -2,11 +2,38 @@
 date: '2013-05-07T06:16:33-05:00'
 draft: false
 title: "EQ2: Scars of the Awakened, Part 3"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/05/07/eq2-scars-of-the-awakened-part-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-04-09-27-05-70-480x343.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-04-09-27-05-70-480x343.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-04-09-27-05-70-480x343.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-04-09-27-05-70-480x343.jpg" title="Taking on an Otyugh" class="align-center" >}}

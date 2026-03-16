@@ -2,11 +2,38 @@
 date: '2015-05-30T04:38:57-05:00'
 draft: false
 title: "Starting off in Ul'dah..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/05/30/after-much-discussion-kasul-and-i-decided-to-start-final-fantasy-xiv-in-uldur-i-think-thats-how/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://lh3.googleusercontent.com/-CBA8da2G-JQ/VWk-4FObU1I/AAAAAAABJTc/16fbSYBcQFM/w506-h750/ffxiv%2B2015-05-30%2B00-30-36-43.jpg"
-cover: "https://lh3.googleusercontent.com/-CBA8da2G-JQ/VWk-4FObU1I/AAAAAAABJTc/16fbSYBcQFM/w506-h750/ffxiv%2B2015-05-30%2B00-30-36-43.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-CBA8da2G-JQ/VWk-4FObU1I/AAAAAAABJTc/16fbSYBcQFM/w506-h750/ffxiv%2B2015-05-30%2B00-30-36-43.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After much discussion, Kasul and I decided to start Final Fantasy XIV in Ul'dur (I think that's how it's spelled), me as a Guardian, he as a Thaumaturge. Though I don't think he's created his character yet -- he's been fully pulled in to EverQuest, Ragefire style :)

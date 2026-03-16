@@ -2,10 +2,37 @@
 date: '2012-06-25T21:15:26-05:00'
 draft: false
 title: "So, games... that's a thing, right?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/06/25/so-games-thats-a-thing-right/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/06/team-480x389.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/06/team-480x389.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/06/team-480x389.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/06/team-480x389.jpg" title="Marvel: Avenger's Alliance" class="align-center" >}}

@@ -2,15 +2,41 @@
 date: '2020-05-14T11:15:16-05:00'
 draft: false
 title: "World of Warships: Submarines Sail In"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/14/world-of-warships-submarines-sail-in/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warships"
-tags:
   - "Clark Gable"
   - "Run Silent Run Deep"
   - "Submarines"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/runsilent.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/runsilent.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/runsilent.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2020/05/runsilent.png)"Frankly, my dear, I don't give a damn about depth charges"

@@ -2,18 +2,43 @@
 date: '2023-05-07T12:10:55-05:00'
 draft: false
 title: "FFXIV: How I Ruined a Realm Reborn..."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/05/07/ffxiv-how-i-ruined-a-realm-reborn/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I really wanted to title this post, \"FFXIV: Who Hurt You To Make You Do This?\". I didn't, because I knew the answer. It was me. I'm to blame."
-categories:
+description: "I really wanted to title this post, \"FFXIV: Who Hurt You To Make You Do This?\". I didn't, because I knew the answer. It was me. I'm to blame."
+tags:
   - "Final Fantasy"
   - "MMORPG"
-tags:
   - "A Realm Reborn"
   - "Heavensward"
   - "Praetorium"
   - "Shadowbringer"
   - "Stormblood"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My son was pretty excited to get a new laptop for his birthday. He immediately wanted suggestions for MMOs he could put on it. The laptop was a Macbook Air, so EverQuest and EQ2 were right out. (You *could *play EQ, at least, on an Intel-based Mac, using a Windows emulator, but I doubt the new Macs can do that anymore).

@@ -2,7 +2,25 @@
 date: '2009-05-19T08:09:23-05:00'
 draft: false
 title: "Daily Blogroll 5/19 -- Black Lung edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/19/daily-blogroll-519-black-lung-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Champions Online"
   - "Chronicles of Spellborn"
@@ -18,7 +36,16 @@ categories:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Kasul and I head to a combat mission in our Tristans](https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg "Kasul and I head to a combat mission in our Tristans")

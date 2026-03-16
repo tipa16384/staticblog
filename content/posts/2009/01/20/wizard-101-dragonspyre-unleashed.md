@@ -2,15 +2,41 @@
 date: '2009-01-20T02:14:31-05:00'
 draft: false
 title: "Wizard 101: Dragonspyre Unleashed"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/20/wizard-101-dragonspyre-unleashed/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Cyrus Drake"
   - "Dragonspyre"
   - "Malistaire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-20-00-56-49-11.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-20-00-56-49-11.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-20-00-56-49-11.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 KingsIsle brought the servers down. When they came back up again, Bartleby had discovered he now knew the way to the world of Dragonspyre, the evil Malistaire's last refuge. He doesn't call himself Malistaire, though. He is now the Necromaster, and Dragonspyre is the plaything he rules from deep within the Necropolis. Or so I imagine. I haven't managed to get to the Necropolis yet. Walls and... things.

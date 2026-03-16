@@ -2,17 +2,42 @@
 date: '2024-09-12T07:00:00-05:00'
 draft: false
 title: "Upping my game with AI"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/12/upping-my-game-with-ai/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Designing better game streams with AI feedback—turning creative ideas into reality."
-categories:
+description: "Designing better game streams with AI feedback—turning creative ideas into reality."
+tags:
   - "EverQuest"
   - "Generative AI"
   - "PS2"
-tags:
   - "Champions Return to Arms"
   - "Obs"
   - "Twitch"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/obstemplate.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/obstemplate.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/obstemplate.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 AI is really having it rough these days. I dunno hardly any blogger that admits to it having any sort of use, except bad uses. I can see their point. Copyright infringement on a massive scale. Artists out of work. Quality writers being pushes aside for emotionless dreck. I've used AI for a couple of years now; I know all those things.

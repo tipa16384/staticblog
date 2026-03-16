@@ -2,16 +2,41 @@
 date: '2023-08-19T07:00:00-05:00'
 draft: false
 title: "Blue Beetle"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/19/blue-beetle/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's a superhero movie that says \"Family!\" more times than Dom Toretto on a bender. Worth your time?"
-categories:
+description: "It's a superhero movie that says \"Family!\" more times than Dom Toretto on a bender. Worth your time?"
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "DC Comics"
   - "NFT"
-tags:
   - "Blue Beetle"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/blue_beetle_movie_costume_concept_art.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/blue_beetle_movie_costume_concept_art.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/blue_beetle_movie_costume_concept_art.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I admit I am not a huge Blue Beetle fan; not because I don't like him at all, it's just because there's *just so much comic content* that there isn't any possible way I could keep track of it all. I did see the latest version on, I think, Justice League Unlimited or the Teen Titans or maybe one of the movies, and he felt, to me, very like Spiderman... different bug, same mixing of being a teenager and dealing with his uneasy relationship to his powers.

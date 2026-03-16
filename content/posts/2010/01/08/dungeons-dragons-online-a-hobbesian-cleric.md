@@ -2,11 +2,38 @@
 date: '2010-01-08T02:11:51-05:00'
 draft: false
 title: "Dungeons & Dragons Online: A Hobbesian Cleric"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/01/08/dungeons-dragons-online-a-hobbesian-cleric/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/dndclient-2010-01-07-22-38-06-21.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/01/dndclient-2010-01-07-22-38-06-21.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/01/dndclient-2010-01-07-22-38-06-21.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/01/dndclient-2010-01-07-22-38-06-21.jpg "Derra Tanglewood, Cleric. Dammit.") What's a Hobbesian cleric? One who is [nasty, brutish and SHORT](http://www.phrases.org.uk/meanings/254050.html).

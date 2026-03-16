@@ -2,8 +2,25 @@
 date: '2021-07-22T21:16:15-05:00'
 draft: false
 title: "New World: FOMO or FOTM?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/07/22/new-world-fomo-or-fotm/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Amazon's new MMO, \"New World\", comes out soon. Everyone is excited -- but I don't know if I'm ready for a new MMO commitment."
-categories:
+description: "Amazon's new MMO, \"New World\", comes out soon. Everyone is excited -- but I don't know if I'm ready for a new MMO commitment."
+tags:
   - "DC Universe Online"
   - "EVE Online"
   - "EverQuest"
@@ -13,15 +30,22 @@ categories:
   - "New World"
   - "Open World RPG"
   - "Rift"
-tags:
   - "Dark Age of Camelot"
-  - "DC Universe Online"
   - "Fomo"
   - "Fotm"
   - "Neverwinter Online"
   - "The Chronicles of Spellborn"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A long, long time ago, in a different blog, I was frustrated with myself for trying and abandoning so many MMOs. Every new MMO that came along -- I'd try.

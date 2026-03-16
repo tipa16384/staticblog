@@ -2,16 +2,42 @@
 date: '2009-02-13T08:16:22-05:00'
 draft: false
 title: "EQ2: Wings of the Void? WANT. Also, Flower."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/13/eq2-wings-of-the-void-want-also-flower/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Against the Void"
   - "Flower"
   - "Legends of Norrath"
   - "Wings of the Void"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/voidwingsf.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/voidwingsf.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/voidwingsf.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The new [Legends of Norrath set](http://legendsofnorrath.station.sony.com/), *Against the Void* launched yesterday. I want to get into LoN, I like collectible card games, but I just worry that to do well, I'll have to sink serious money into cards. That's what finally got me off Magic: the Gathering -- but at least I got to keep my cards when I stopped playing. I have nostalgic fun every time I move somewhere and move them from one box to a new box.

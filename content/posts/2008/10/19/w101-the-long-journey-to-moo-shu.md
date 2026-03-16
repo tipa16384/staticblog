@@ -2,10 +2,27 @@
 date: '2008-10-19T23:32:08-05:00'
 draft: false
 title: "W101: The long journey to Moo Shu"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/19/w101-the-long-journey-to-moo-shu/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Big Ben"
   - "Counterweight East"
   - "Counterweigt West"
@@ -19,9 +36,17 @@ tags:
   - "Smogger"
   - "The Friendly Necromancer"
   - "W101"
-  - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-22-19-93.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-22-19-93.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-22-19-93.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It took the better part of two days and the help of a handful of friends, but I finally finished the story line missions in Marleybone to unlock Moo Shu, Wizard 101's fourth (and so far, final) world.

@@ -2,15 +2,41 @@
 date: '2020-04-24T11:50:26-05:00'
 draft: false
 title: "Favorite Game Series #5: Dungeon Siege"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/04/24/favorite-game-series-5-dungeon-siege/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Steam Games"
   - "Torchlight"
-tags:
   - "Arpg"
   - "Dungeon Siege"
   - "Five Game Series"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/Giant_Spider2.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/04/Giant_Spider2.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/04/Giant_Spider2.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/Giant_Spider2.jpg" title="A very large arachnid" >}}

@@ -2,17 +2,43 @@
 date: '2020-04-26T17:52:23-05:00'
 draft: false
 title: "While True(): Learn to teach your cat to drive."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/04/26/while-true-learn-to-teach-your-cat-to-drive/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "TIS-100"
-tags:
   - "7 Billion Humans"
   - "AI"
   - "Snap"
   - "Spacechem"
   - "While True: Learn()"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/catai-1024x576.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/04/catai-1024x576.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/04/catai-1024x576.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/catai-1024x576.jpg" title="Can you feel the feline neurons growing?" >}}

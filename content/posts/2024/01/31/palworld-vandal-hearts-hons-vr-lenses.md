@@ -2,14 +2,30 @@
 date: '2024-01-31T07:56:14-05:00'
 draft: false
 title: "Palworld, Vandal Hearts, Hons VR Lenses"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/31/palworld-vandal-hearts-hons-vr-lenses/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Okay, there's a lot of gaming stuff going on so I'm just going to go over some of it, briefly."
-categories:
+description: "Okay, there's a lot of gaming stuff going on so I'm just going to go over some of it, briefly."
+tags:
   - "Open World RPG"
   - "Palworld"
   - "Pokemon"
   - "Survival"
   - "Vandal Hearts"
-tags:
   - "Beat Saber"
   - "Drums Rock"
   - "Final Fantasy Tactics"
@@ -18,7 +34,16 @@ tags:
   - "Snowrunner"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/zoe.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/zoe.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/zoe.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 **Vandal Hearts**

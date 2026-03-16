@@ -2,11 +2,38 @@
 date: '2007-02-24T14:36:06-05:00'
 draft: false
 title: "LotRO Stress Test Notes: Intro Part 2"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/02/24/lotro-stress-test-notes-intro-part-2-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-wolfbaiting.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-wolfbaiting.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-wolfbaiting.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Ah, Captain Brackenbrook wants me to kill stuff. FINALLY.

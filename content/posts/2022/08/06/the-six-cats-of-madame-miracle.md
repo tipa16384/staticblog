@@ -2,8 +2,25 @@
 date: '2022-08-06T07:00:00-05:00'
 draft: false
 title: "The Six Cats of Madame Miracle"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/06/the-six-cats-of-madame-miracle/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The Six Cats of Madame Miracle is a light-hearted and fun visual novel that is perfect for players of all ages. The puzzles are easy to learn and solve, and the game's cute art style and cheerful music make it a joy to play."
-categories:
+description: "The Six Cats of Madame Miracle is a light-hearted and fun visual novel that is perfect for players of all ages. The puzzles are easy to learn and solve, and the game's cute art style and cheerful music make it a joy to play."
+tags:
   - "Adventure"
   - "Blaugust"
   - "Blaugust 2022"
@@ -11,8 +28,6 @@ categories:
   - "Magic"
   - "OpenAI"
   - "Puzzles"
-tags:
-  - "Blaugust"
   - "Card Game"
   - "Dall-E 2"
   - "Environment Manipulation"
@@ -23,7 +38,16 @@ tags:
   - "The Six Cats of Madame Miracle"
   - "Visual Novel"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/sixcats.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/sixcats.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/sixcats.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 6th: “The Six Cats of Madame Miracle”.

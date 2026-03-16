@@ -2,17 +2,42 @@
 date: '2025-08-25T08:37:09-05:00'
 draft: false
 title: "Herdling"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/25/herdling/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Care for and guide a growing herd of cattle-like Calicorn to a mysterious destination in this \"Journey\"-like wordless game of wonder and danger."
-categories:
+description: "Care for and guide a growing herd of cattle-like Calicorn to a mysterious destination in this \"Journey\"-like wordless game of wonder and danger."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Puzzle Games"
   - "Steam Games"
-tags:
   - "Herdling"
   - "Journey"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/herdlingbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/herdlingbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/herdlingbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Journey blew me away. There's no dialogue; the world is alien; the few murals you find along the way are evocative but ambiguous. In the end, the game is revealed as a metaphor for the circle of life as you're sent to start your journey over and over again until you finally reach perfection, struggling against the trials life brings you.

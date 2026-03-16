@@ -2,11 +2,38 @@
 date: '2015-02-07T02:40:33-05:00'
 draft: false
 title: "Besiege! Love at first siege..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/02/07/i-love-builder-games-like-minecraft-and-kerbal-space-program-when-i-saw-the-zany-creations-from-besiege/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Besiege"
   - "Other Games"
 featured_image: "https://lh3.googleusercontent.com/proxy/zClYTrqPD5BVHtxmqkDs58jgTKk-ykYCFwmcAQZQ9Yopy6pLmr83OKAAQ5AJd1KrAw4fqqjj9crnff3XMTVWww=w506-h284-n"
-cover: "https://lh3.googleusercontent.com/proxy/zClYTrqPD5BVHtxmqkDs58jgTKk-ykYCFwmcAQZQ9Yopy6pLmr83OKAAQ5AJd1KrAw4fqqjj9crnff3XMTVWww=w506-h284-n"
+cover:
+  image: "https://lh3.googleusercontent.com/proxy/zClYTrqPD5BVHtxmqkDs58jgTKk-ykYCFwmcAQZQ9Yopy6pLmr83OKAAQ5AJd1KrAw4fqqjj9crnff3XMTVWww=w506-h284-n"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I love "builder" games like Minecraft and Kerbal Space Program. When I saw the zany creations from Besiege (available from the developers [http://www.besiegethegame.com/](http://www.besiegethegame.com/) or Steam Early Access) I knew I had to get it.

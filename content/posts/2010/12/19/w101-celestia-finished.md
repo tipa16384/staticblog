@@ -2,13 +2,39 @@
 date: '2010-12-19T14:55:47-05:00'
 draft: false
 title: "W101: Celestia finished!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/19/w101-celestia-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Celestia"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-19-14-19-18-93-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-19-14-19-18-93-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-19-14-19-18-93-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-19-14-19-18-93-480x384.jpg "Tara and Allison after the Trial of the Spheres")](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-19-14-19-18-93.jpg)

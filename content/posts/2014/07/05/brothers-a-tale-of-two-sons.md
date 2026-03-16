@@ -2,14 +2,40 @@
 date: '2014-07-05T10:47:43-05:00'
 draft: false
 title: "Brothers: A Tale of Two Sons"
-categories:
-  - "Other Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/07/05/brothers-a-tale-of-two-sons/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Other Games"
   - "Brothers"
   - "Co-Op"
   - "Single Player"
 featured_image: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
-cover: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Troll bridge](https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg)

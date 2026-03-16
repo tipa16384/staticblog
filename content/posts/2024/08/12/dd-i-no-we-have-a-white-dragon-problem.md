@@ -2,18 +2,43 @@
 date: '2024-08-12T07:00:00-05:00'
 draft: false
 title: "D&amp;D: I -- no, WE -- have a white dragon problem"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/12/dd-i-no-we-have-a-white-dragon-problem/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The problem is, we're about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room."
-categories:
+description: "The problem is, we're about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room."
+tags:
   - "3D Printing"
   - "Blaugust"
   - "Blaugust 2024"
   - "Dungeons & Dragons"
   - "Miniatures"
   - "Tabletop Games"
-tags:
   - "Dragons"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have a 3D printer downstairs.

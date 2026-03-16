@@ -2,18 +2,43 @@
 date: '2025-08-26T07:41:01-05:00'
 draft: false
 title: "Frosthaven Scenario #10: Crystal Enclosure"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/26/frosthaven-scenario-10-crystal-enclosure/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Where we run afoul of a Drinking Donkey and evil Ice Pillars."
-categories:
+description: "Where we run afoul of a Drinking Donkey and evil Ice Pillars."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
-tags:
   - "Crystal Enclosure"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5344-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5344-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5344-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Too long passes between our Frosthaven games, what with various sickesses, people being elsewhere at the time, and just - you know - stuff comes up. But we finally able to meet last night.

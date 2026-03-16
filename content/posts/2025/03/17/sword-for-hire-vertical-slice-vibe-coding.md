@@ -2,15 +2,40 @@
 date: '2025-03-17T08:00:00-05:00'
 draft: false
 title: "Sword for Hire: Vertical Slice &amp; Vibe Coding"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/03/17/sword-for-hire-vertical-slice-vibe-coding/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "When it's mapped out, Sword for Hire isn't as large as it looks in the book. But, it is possible to play through the game and level up."
-categories:
-  - "Text Adventure Game"
+description: "When it's mapped out, Sword for Hire isn't as large as it looks in the book. But, it is possible to play through the game and level up."
 tags:
+  - "Text Adventure Game"
   - "Python"
   - "Tunnels & Trolls"
   - "Vibe Coding"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/swordforhiremap.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/03/swordforhiremap.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/03/swordforhiremap.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was watching a documentary about the creation of the first XCOM game a long, long time ago. The game devs were so focused on the concept of making their "vertical slice" -- enough of the game so that all the important systems could be demonstrated to work.

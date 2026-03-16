@@ -2,15 +2,41 @@
 date: '2009-01-04T00:32:37-05:00'
 draft: false
 title: "EQ2: The gladdest/saddest sight in Veeshan's Peak"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/04/eq2-the-gladdestsaddest-sight-in-veeshans-peak/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Druushk"
   - "Troubadour Epic"
   - "Veeshan's Peak"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-03-23-15-52-82.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-03-23-15-52-82.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-03-23-15-52-82.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'd worked so long on the [Spellborn comic](https://chasingdings.com/index.php/2009/01/03/the-many-worlds-of-chronicles-of-spellborn/) -- way longer than I thought, it took forever to come up with the story and then I had to go back and make tedious reshoots to fill in the plot and a long time in Photoshop to make it look like Mercy and Erisa were in the same place at the same time -- that I thought I would reward myself with some EverQuest II time. I don't play enough of my favorite game :)

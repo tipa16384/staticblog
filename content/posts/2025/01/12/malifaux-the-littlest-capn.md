@@ -2,16 +2,41 @@
 date: '2025-01-12T08:00:00-05:00'
 draft: false
 title: "Malifaux: The Littlest Cap'n"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/12/malifaux-the-littlest-capn/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The local Malifaux club decided to hold a practice tournament ahead of Captain Con at the end of the month. I brought my new crew to give them a baptism by ice."
-categories:
+description: "The local Malifaux club decided to hold a practice tournament ahead of Captain Con at the end of the month. I brought my new crew to give them a baptism by ice."
+tags:
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "CaptainCon"
   - "December"
   - "The Haven"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/littlecaptainbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/littlecaptainbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/littlecaptainbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've been nervously looking forward to [CaptainCon](https://www.captaincon.com/), the annual tabletop gaming convention next door in Rhode Island. They have plenty of games that aren't Malifaux, but for Malifaux, this is the site of the most important tournament in New England. 

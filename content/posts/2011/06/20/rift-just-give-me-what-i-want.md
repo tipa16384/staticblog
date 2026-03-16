@@ -2,11 +2,38 @@
 date: '2011-06-20T07:01:21-05:00'
 draft: false
 title: "Rift: Just give me what I want..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/06/20/rift-just-give-me-what-i-want/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Rift"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg" title="Raid rift in Shimmersands" class="align-center" >}}

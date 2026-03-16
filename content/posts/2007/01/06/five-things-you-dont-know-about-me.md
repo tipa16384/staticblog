@@ -2,10 +2,37 @@
 date: '2007-01-06T12:08:59-05:00'
 draft: false
 title: "Five things you don't know about me..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/01/06/five-things-you-dont-know-about-me/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/teddy.thumbnail.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/01/teddy.thumbnail.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/01/teddy.thumbnail.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![teddy.jpg](https://chasingdings.com/wp-content/uploads/2007/01/teddy.thumbnail.jpg) [MrrX](http://mrrx.wordpress.com/) [tagged me](http://mrrx.wordpress.com/2007/01/04/five-things-about-me/) for this (and also [Amber](http://ambernight.org/archives/2006/12/28/453)... OOPS)... so here it goes... Five things about me you probably don't know...

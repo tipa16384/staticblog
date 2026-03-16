@@ -2,16 +2,41 @@
 date: '2024-01-09T07:50:53-05:00'
 draft: false
 title: "HeroQuest: The Stone Hunter"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/09/heroquest-the-stone-hunter/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Taking the dwarf from solving crossword puzzles to kicking skellie butt."
-categories:
+description: "Taking the dwarf from solving crossword puzzles to kicking skellie butt."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Game"
-tags:
   - "Board Game"
   - "Dwarf"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While the rest of the crew has been enjoying their *crossbows* and their *spells*, the dwarf has just been making do with a short sword (that looks, somehow, like an axe). The barbarian can shoot at anything he sees for three combat dice. The dwarf has to get up close and personal to every single monster and poke it for only two combat dice. Its only the helmet he picked up a few quests back that let him have three defense dice -- which is *not nearly enough* given all the danger he's in.

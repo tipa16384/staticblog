@@ -2,10 +2,37 @@
 date: '2010-06-29T22:33:11-05:00'
 draft: false
 title: "TV Recap: Gilligan's Island (pilot episode)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/06/29/tv-recap-gilligans-island-pilot-episode/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "TV Recaps"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/Gilligans_Island_title_card.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/06/Gilligans_Island_title_card.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/06/Gilligans_Island_title_card.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/06/Gilligans_Island_title_card.jpg "Gilligan")](https://chasingdings.com/wp-content/uploads/2010/06/Gilligans_Island_title_card.jpg)

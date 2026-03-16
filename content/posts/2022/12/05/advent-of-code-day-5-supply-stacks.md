@@ -2,17 +2,42 @@
 date: '2022-12-05T22:57:46-05:00'
 draft: false
 title: "Advent of Code Day 5 -- Supply Stacks"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/05/advent-of-code-day-5-supply-stacks/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input."
-categories:
+description: "The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input."
+tags:
   - "Advent of Code"
   - "Game Development"
-tags:
   - "Java"
   - "Lua"
   - "Pico-8"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [Today's puzzle](https://adventofcode.com/2022/day/5) had our star-seeking elves unloading Yet More Supplies from their old steamship. For elves with a hard deadline of Christmas Eve staring them in the face, they sure are taking their sweet time getting ready to head out to the star groves.

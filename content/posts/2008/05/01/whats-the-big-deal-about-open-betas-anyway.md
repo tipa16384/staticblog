@@ -2,11 +2,40 @@
 date: '2008-05-01T13:27:24-05:00'
 draft: false
 title: "What's the big deal about open betas, anyway?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/05/01/whats-the-big-deal-about-open-betas-anyway/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Today, the Age of Conan open beta opens. And people are fibrillating over it, slavering, EAGER to download a game most of them will have forgotten about in six months. But not today. Today, it brings meaning to their lives. Today the sun is shining right on them and the birds are singing because, today, they can play a new video game.

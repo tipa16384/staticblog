@@ -2,16 +2,41 @@
 date: '2008-06-29T07:51:49-05:00'
 draft: false
 title: "Crafting enhancements in Project Powder"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/29/crafting-enhancements-in-project-powder/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Project Powder"
-tags:
   - "Enhancements"
   - "Outspark"
-  - "Project Powder"
   - "Snowboarding"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![run-2008-06-28-18-43-39-74.jpg](https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg)

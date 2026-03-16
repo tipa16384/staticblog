@@ -2,15 +2,40 @@
 date: '2021-01-20T23:36:31-05:00'
 draft: false
 title: "Game Night: Roll Player"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/01/20/game-night-roll-player/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's a game about rolling up a character for a tabletop fantasy RPG. You just roll up the character. That's it. It's amazing, though."
-categories:
+description: "It's a game about rolling up a character for a tabletop fantasy RPG. You just roll up the character. That's it. It's amazing, though."
+tags:
   - "Game Night"
   - "Tabletop Games"
-tags:
   - "Dice Drafting"
   - "Roll Player"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/01/1-IMG_2082.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/01/1-IMG_2082.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/01/1-IMG_2082.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't know when I first heard about "[Roll Player](https://boardgamegeek.com/boardgame/169426/roll-player)". Maybe I saw it once at a game store, and it looked interesting. Maybe I saw a video about it, or one of their [Kickstarters](https://www.kickstarter.com/projects/cartographersheroes/roll-player-the-dice-game-that-builds-character).

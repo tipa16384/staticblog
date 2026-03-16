@@ -2,16 +2,41 @@
 date: '2023-01-27T08:25:03-05:00'
 draft: false
 title: "No kidding: I bought (and sold) an NFT."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/01/27/no-kidding-i-bought-and-sold-an-nft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Turns out there might be at least one use case for the things."
-categories:
+description: "Turns out there might be at least one use case for the things."
+tags:
   - "Comic"
   - "DC Comics"
   - "NFT"
-tags:
   - "Future State"
   - "Wonder Woman"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/01/futurestatewonderwoman1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/01/futurestatewonderwoman1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/01/futurestatewonderwoman1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've had a lot of fun at the expense of Atari and DC's attempts to make spinning comic book covers or game cartridge boxes a thing. I'd have to pay someone to care enough to even watch my little box or floppy disk spin slowly back and forth, back and forth. A hundred of these things spinning slowly, back and forth. I've seen large collections of these things and the only real question I ever had, was "why?"

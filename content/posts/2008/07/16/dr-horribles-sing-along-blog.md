@@ -2,15 +2,43 @@
 date: '2008-07-16T10:28:11-05:00'
 draft: false
 title: "Dr. Horrible's Sing-Along Blog"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/16/dr-horribles-sing-along-blog/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "Sci Fi"
-tags:
   - "Dr. Horrible"
   - "Dr. Horrible's Sing-Along Blog"
   - "Felecia Day"
   - "Joss Whedon"
   - "Neil Patrick Harris"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 If you actually CAN watch this, then I guess their servers have managed to recover from yesterday's crush. After trying for awhile, I just got the first episode of Joss Whedon's "Dr. Horrible's Sing-Along Blog" through a torrent.

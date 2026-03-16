@@ -2,17 +2,42 @@
 date: '2021-08-10T22:02:08-05:00'
 draft: false
 title: "My Board Game is on a Slow Boat from China"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/10/my-board-game-is-on-a-slow-boat-from-china/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Kickstarter"
   - "Set a Watch"
   - "Tabletop Games"
-tags:
-  - "Blaugust"
   - "China"
   - "Swords of the Coin"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/slowboat.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/slowboat.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/slowboat.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's just gotten worse with time. The Kickstarter you were so excited for funded! YAY! The creators are as excited as you are, and they are showing every bit of the process and you just can't *wait* to get your hands on what you funded and start playing the incredible game or whatever. Perfect Christmas present! Gonna be a hit at Game Night!

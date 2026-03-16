@@ -2,11 +2,27 @@
 date: '2021-08-24T23:34:48-05:00'
 draft: false
 title: "Stalking My Sister"
-categories:
-  - "Blaugust"
-  - "Tabletop Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/24/stalking-my-sister/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
+  - "Tabletop Games"
   - "Challenge of the Superfriends"
   - "Microsoft Flight Simulator"
   - "Mini Rogue"
@@ -14,7 +30,16 @@ tags:
   - "The Red Dragon Inn"
   - "War with the Evil Power Master"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210824215934_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210824215934_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210824215934_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My sister and her family recently moved from Texas back to Connecticut! Yay! So she's living now on the coast, just 45 minutes away! More yay! We're going down for a visit in a couple of weeks to see how she's settling in! Maximum yay!

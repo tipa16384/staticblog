@@ -2,11 +2,38 @@
 date: '2007-04-11T21:45:18-05:00'
 draft: false
 title: "EQ2: Fangs a Lot!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/04/11/eq2-fangs-a-lot/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/04/dina-fang.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/04/dina-fang.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/04/dina-fang.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![dina-fang.jpg](https://chasingdings.com/wp-content/uploads/2007/04/dina-fang.jpg)Between doing my epic run from Ered Luin to Rivendell tonight on LotRO, and giving a big HECK YEAH to Haley the Skank as she was booted from American Idol tonight, we kinda maybe destroyed Lord Vyemm AND his lab ("and I would have gotten away with it if it hadn't been for those meddling adventurers!").

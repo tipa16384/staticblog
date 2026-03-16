@@ -70,11 +70,14 @@ def create_hugo_post(post_date, title, slug):
     
     print(f"DEBUG: Escaped title: '{escaped_title}'")
     
-    # Create Hugo frontmatter in YAML format
+        # Create Hugo frontmatter in YAML format
     frontmatter = f"""---
 date: '{iso_date}'
 draft: false
 title: "{escaped_title}"
+canonicalURL: "https://example.com/"
+editPost:
+    URL: "https://github.com/tipa16384/staticblog/tree/main/content"
 ---
 
 This post intentionally left blank.

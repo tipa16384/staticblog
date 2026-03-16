@@ -2,7 +2,25 @@
 date: '2011-10-20T05:00:04-05:00'
 draft: false
 title: "Daily Blogroll Oct 19: Time enough to learn to swim edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
   - "Daily Blogroll"
   - "MMORPG"
@@ -11,7 +29,16 @@ categories:
   - "Star Wars the Old Republic"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 If you were given six months to live, you wouldn't spend it leveling up a new character in some MMORPG. You'd want to do something that gave your life meaning. Six months at the end of your life isn't more valuable than six months right now. In fact, six months right now is way better. Truth is, your friends and family don't care that you leveled a character. They care about the time you spent with them. (Fact is, it's almost certain nobody in the world cares about your achievements in video games, and in a couple of years, neither will you).

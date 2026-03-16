@@ -2,16 +2,41 @@
 date: '2025-04-04T08:47:37-05:00'
 draft: false
 title: "Tariffs will destroy the board game industry, and I am there for it."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/04/04/tariffs-will-destroy-the-board-game-industry-and-i-am-there-for-it/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I think we have to look on the bright side of the death of Kickstarted board games."
-categories:
+description: "I think we have to look on the bright side of the death of Kickstarted board games."
+tags:
   - "Kickstarter"
   - "Tabletop Games"
-tags:
   - "Dr. Doom"
   - "Goats of Lamentation"
   - "Tariffs"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/04/John-Wick-Hex-Review.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/04/John-Wick-Hex-Review.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/04/John-Wick-Hex-Review.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My inbox is burning up from all the board game creators whose games I have kickstarted panicking about the new tariffs that will kill their profitability and likely their company. Steve Jackson Games posted [a long letter](https://www.sjgames.com/ill/archive/2025-04-03) about how they don't know how they will continue with their business. Car companies are laying people off. It's an economic disaster. Unemployment will spike. The economy is crashing.

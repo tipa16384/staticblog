@@ -2,13 +2,38 @@
 date: '2025-12-22T08:07:37-05:00'
 draft: false
 title: "The Perfect Christmas Gift"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/22/the-perfect-christmas-gift/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Hint: It's not 3D printed puzzle boxes. But that's what they're getting, anyway."
-categories:
-  - "3D Printing"
+description: "Hint: It's not 3D printed puzzle boxes. But that's what they're getting, anyway."
 tags:
+  - "3D Printing"
   - "Christmas"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5577-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5577-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5577-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 3D printers are a lot like AI, in a way. People think 3D printing is no more than pressing a button and waiting for the print to finish. They would value what you made a lot more if you whittled it from wood and painted it with pigments from rare wildflowers. (And back in the day when I worked with wood, I would make hand-stained and decorated wooden boxes for gifts).

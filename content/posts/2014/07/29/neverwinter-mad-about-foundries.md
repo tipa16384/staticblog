@@ -2,13 +2,39 @@
 date: '2014-07-29T21:25:07-05:00'
 draft: false
 title: "Neverwinter: Mad About Foundries!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/07/29/neverwinter-mad-about-foundries/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh5.googleusercontent.com/-GG157oDbCtM/U9oma0QqsxI/AAAAAAAAywk/sDlzSVo0y7k/w684-h547-no/GameClient%2B2014-07-29%2B23-52-53-60.jpg"
-cover: "https://lh5.googleusercontent.com/-GG157oDbCtM/U9oma0QqsxI/AAAAAAAAywk/sDlzSVo0y7k/w684-h547-no/GameClient%2B2014-07-29%2B23-52-53-60.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-GG157oDbCtM/U9oma0QqsxI/AAAAAAAAywk/sDlzSVo0y7k/w684-h547-no/GameClient%2B2014-07-29%2B23-52-53-60.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Doing odd jobs for trash](https://lh5.googleusercontent.com/-GG157oDbCtM/U9oma0QqsxI/AAAAAAAAywk/sDlzSVo0y7k/w684-h547-no/GameClient%2B2014-07-29%2B23-52-53-60.jpg)

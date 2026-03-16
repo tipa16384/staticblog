@@ -2,14 +2,41 @@
 date: '2010-05-11T07:01:41-05:00'
 draft: false
 title: "Weekend Gaming: DDO, W101, EQ, STO"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/11/weekend-gaming-ddo-w101-eq-sto/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-09-00-32-14-90.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-09-00-32-14-90.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-09-00-32-14-90.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-09-00-32-14-90.jpg "Dungeons & Dragons Online: Misery")

@@ -2,7 +2,25 @@
 date: '2010-11-30T06:00:13-05:00'
 draft: false
 title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "EverQuest"
   - "Everquest"
@@ -14,7 +32,16 @@ categories:
   - "Vanguard"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg "Well, Vanguard needs SOMETHING!")

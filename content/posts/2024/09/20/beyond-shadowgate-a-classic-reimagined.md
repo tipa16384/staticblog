@@ -2,17 +2,42 @@
 date: '2024-09-20T07:55:51-05:00'
 draft: false
 title: "Beyond Shadowgate: a classic reimagined."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/20/beyond-shadowgate-a-classic-reimagined/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's the 80s again! The developers of the original Shadowgate are back 35 years later with a sequel that doubles down on everything that made the first game great."
-categories:
+description: "It's the 80s again! The developers of the original Shadowgate are back 35 years later with a sequel that doubles down on everything that made the first game great."
+tags:
   - "Adventure"
   - "RPG"
   - "Steam Games"
   - "Text Adventure Game"
-tags:
   - "Beyond Shadowgate"
   - "Shadowgate"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/2-Beyond-Shadowgate-Screenshot-2024.09.19-23.10.27.86.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/2-Beyond-Shadowgate-Screenshot-2024.09.19-23.10.27.86.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/2-Beyond-Shadowgate-Screenshot-2024.09.19-23.10.27.86.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't been blogging or even gaming much recently; I had the flu and so I have been spending a lot of time sitting in bed, sleeping and occasionally waking up to watch TV. It's nicer than it sounds. But it sounds really nice, too.

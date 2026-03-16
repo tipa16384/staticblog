@@ -2,17 +2,42 @@
 date: '2024-08-06T07:00:00-05:00'
 draft: false
 title: "Game Night: The Penultimate Nemesis"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/06/game-night-the-penultimate-nemesis/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It was a typical mission until the walls of our starship started whispering words of madness to us..."
-categories:
+description: "It was a typical mission until the walls of our starship started whispering words of madness to us..."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Game Night"
   - "Nemesis"
   - "Tabletop Games"
-tags:
   - "Alien"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4539.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4539.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4539.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We've been playing Nemesis on game night [for awhile now](https://chasingdings.com/2024/07/03/nemesis-the-board-game/); we've dealt with chest-bursting aliens, aliens that force mutations on you until you die, and tonight, aliens that drive you insane.

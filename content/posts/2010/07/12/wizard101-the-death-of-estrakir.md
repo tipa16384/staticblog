@@ -2,11 +2,38 @@
 date: '2010-07-12T06:53:58-05:00'
 draft: false
 title: "Wizard101: The Death of Estrakir"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/07/12/wizard101-the-death-of-estrakir/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81-480x360.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81-480x360.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81-480x360.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81-480x360.jpg "The Death of Estrakir")](https://chasingdings.com/wp-content/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81.jpg)

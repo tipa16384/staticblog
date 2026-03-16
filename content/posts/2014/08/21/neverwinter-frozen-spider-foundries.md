@@ -2,13 +2,39 @@
 date: '2014-08-21T22:00:11-05:00'
 draft: false
 title: "Neverwinter: Frozen Spider Foundries!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/08/21/neverwinter-frozen-spider-foundries/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh5.googleusercontent.com/-3hoau4TwQjM/U_SATAmaSeI/AAAAAAAAznU/Ki3RdbUzOhE/w787-h630-no/GameClient%2B2014-08-20%2B00-00-37-93.jpg"
-cover: "https://lh5.googleusercontent.com/-3hoau4TwQjM/U_SATAmaSeI/AAAAAAAAznU/Ki3RdbUzOhE/w787-h630-no/GameClient%2B2014-08-20%2B00-00-37-93.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-3hoau4TwQjM/U_SATAmaSeI/AAAAAAAAznU/Ki3RdbUzOhE/w787-h630-no/GameClient%2B2014-08-20%2B00-00-37-93.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Frozen Folly](https://lh5.googleusercontent.com/-3hoau4TwQjM/U_SATAmaSeI/AAAAAAAAznU/Ki3RdbUzOhE/w787-h630-no/GameClient%2B2014-08-20%2B00-00-37-93.jpg)

@@ -2,16 +2,42 @@
 date: '2007-12-02T09:45:15-05:00'
 draft: false
 title: "Jethro Tull, Wallingford, CT - 12/1/07"
-categories:
-  - "General"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/02/jethro-tull-wallingford-ct-12107/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "General"
   - "Aqualung"
   - "Calliandra String Quartet"
   - "Ian Anderson"
   - "Jethro Tull"
   - "Locomotive Breath"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/stp60784.JPG"
-cover: "https://chasingdings.com/wp-content/uploads/2007/12/stp60784.JPG"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/12/stp60784.JPG"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![stp60784.JPG](https://chasingdings.com/wp-content/uploads/2007/12/stp60784.JPG)

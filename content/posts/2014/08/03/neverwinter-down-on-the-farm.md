@@ -2,13 +2,39 @@
 date: '2014-08-03T21:15:52-05:00'
 draft: false
 title: "Neverwinter: Down on the Farm"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/08/03/neverwinter-down-on-the-farm/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh6.googleusercontent.com/-0y_wk-gc_HI/U94-SYH341I/AAAAAAAAy1I/kNYikp2ajAc/w684-h547-no/GameClient%2B2014-08-03%2B09-29-15-34.jpg"
-cover: "https://lh6.googleusercontent.com/-0y_wk-gc_HI/U94-SYH341I/AAAAAAAAy1I/kNYikp2ajAc/w684-h547-no/GameClient%2B2014-08-03%2B09-29-15-34.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-0y_wk-gc_HI/U94-SYH341I/AAAAAAAAy1I/kNYikp2ajAc/w684-h547-no/GameClient%2B2014-08-03%2B09-29-15-34.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Down on the farm](https://lh6.googleusercontent.com/-0y_wk-gc_HI/U94-SYH341I/AAAAAAAAy1I/kNYikp2ajAc/w684-h547-no/GameClient%2B2014-08-03%2B09-29-15-34.jpg)

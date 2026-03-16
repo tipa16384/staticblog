@@ -2,10 +2,37 @@
 date: '2022-03-13T09:55:32-05:00'
 draft: false
 title: "7DRL 2022: Retrospective"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/13/7drl-2022-retrospective/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/1-Dream_TradingCard-4.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/1-Dream_TradingCard-4.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/1-Dream_TradingCard-4.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 7DRL is over. Most everyone has turned in their games. After several hours of last minute changes to improve balance, I submitted "You Are the Amulet" at the end of Day 6. This is the retrospective on the project; what went well, what went poorly, and what I will do differently next time.

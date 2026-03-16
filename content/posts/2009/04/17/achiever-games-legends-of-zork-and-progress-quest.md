@@ -2,18 +2,44 @@
 date: '2009-04-17T07:33:50-05:00'
 draft: false
 title: "Achiever games: Legends of Zork and Progress Quest"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/17/achiever-games-legends-of-zork-and-progress-quest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Legends of Zork"
   - "MMORPG"
   - "Vanguard"
   - "World of Warcraft"
-tags:
   - "Achiever"
   - "Bartle Test"
   - "ProgressQuest"
   - "Zork"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/stp62024.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/stp62024.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/stp62024.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![stp62024](https://chasingdings.com/wp-content/uploads/2009/04/stp62024.jpg "stp62024")

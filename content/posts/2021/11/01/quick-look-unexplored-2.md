@@ -2,12 +2,29 @@
 date: '2021-11-01T23:18:50-05:00'
 draft: false
 title: "Quick Look: Unexplored 2"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/01/quick-look-unexplored-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "CRPG"
   - "Quick Takes"
   - "Rogue-Likes"
   - "Unexplored 2"
-tags:
   - "Early Access"
   - "Epic Games"
   - "Ludomotion"
@@ -15,7 +32,16 @@ tags:
   - "Rogue-Like"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/mainmenu.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/mainmenu.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/mainmenu.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Ludomotion's sequel to 2017's "[Unexplored](https://store.steampowered.com/app/506870/Unexplored/)" roguelike dungeon crawler brings 3D procedural generation to the overworld in a clever little legacy roguelike with some interesting quirks.

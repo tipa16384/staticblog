@@ -2,11 +2,38 @@
 date: '2015-05-30T01:41:49-05:00'
 draft: false
 title: "Ma, A Moss Snake Kicked Me!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/05/30/with-the-opening-of-the-new-lockjaw-progression-server-life-on-ragefire-settled-down-enough-for-me/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://lh3.googleusercontent.com/-s2oOmJJEcIc/VWkVXLq2qLI/AAAAAAABJRs/_YmGZ6q5Af8/w506-h750/eqgame%2B2015-05-29%2B21-34-35-17.jpg"
-cover: "https://lh3.googleusercontent.com/-s2oOmJJEcIc/VWkVXLq2qLI/AAAAAAABJRs/_YmGZ6q5Af8/w506-h750/eqgame%2B2015-05-29%2B21-34-35-17.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-s2oOmJJEcIc/VWkVXLq2qLI/AAAAAAABJRs/_YmGZ6q5Af8/w506-h750/eqgame%2B2015-05-29%2B21-34-35-17.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 With the opening of the new Lockjaw progression server, life on Ragefire settled down enough for me to log in at prime time, and even find, eventually, all the moss snakes (who no longer seem to kick much, darn it) and black wolves I could want to destroy. After an hour of grinding, and thanks to a buff cast on me by a passing cleric, I made it a little bit into level 2. Couldn't afford any upgrades... couldn't afford to craft, either.

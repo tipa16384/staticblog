@@ -2,14 +2,40 @@
 date: '2008-11-06T08:17:18-05:00'
 draft: false
 title: "Wizard 101: So, this is what addiction feels like"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/06/wizard-101-so-this-is-what-addiction-feels-like/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Shin Megami Tensei"
   - "Wizard101"
-tags:
   - "Moo Shu; Big Ben; Meowiarty; Tree of Life; Jade Oni; De"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-54-04-47.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-54-04-47.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-54-04-47.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-54-04-47.jpg "wizardgraphicalclient-2008-11-05-23-54-04-47")

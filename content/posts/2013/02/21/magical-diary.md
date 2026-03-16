@@ -2,11 +2,38 @@
 date: '2013-02-21T07:47:32-05:00'
 draft: false
 title: "Magical Diary"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/02/21/magical-diary/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Magical Diary"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg" title="Yearbook, Freshman Year at Iris Academy" class="align-center" >}}

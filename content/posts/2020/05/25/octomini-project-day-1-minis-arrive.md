@@ -2,10 +2,27 @@
 date: '2020-05-25T20:46:58-05:00'
 draft: false
 title: "Octomini Project Day 1: Minis Arrive"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/25/octomini-project-day-1-minis-arrive/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Miniatures"
   - "Nintendo Switch"
-tags:
   - "Hero Forge"
   - "Octomini Project"
   - "Octopath Traveler"
@@ -13,7 +30,16 @@ tags:
   - "Primrose"
   - "Shapeways"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-both.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/1-both.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-both.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I'd fixed Olberic's sword to resemble the one he used in game a little better. Primrose is a mini we haven't seen before.

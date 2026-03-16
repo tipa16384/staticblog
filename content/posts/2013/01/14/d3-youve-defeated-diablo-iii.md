@@ -2,13 +2,40 @@
 date: '2013-01-14T07:08:17-05:00'
 draft: false
 title: "D3: You've Defeated Diablo III"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/01/14/d3-youve-defeated-diablo-iii/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Diablo 3"
   - "MMORPG"
   - "Other Games"
   - "Realm of the Mad God"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg" title="You've Defeated Diablo III" class="align-center" >}}

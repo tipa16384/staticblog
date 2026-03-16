@@ -2,19 +2,44 @@
 date: '2024-08-11T08:00:00-05:00'
 draft: false
 title: "Worshippers of Cthulhu: the Demo"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/11/worshippers-of-cthulhu-the-demo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Loosing an ultimate evil upon the world starts with clean clothing, good food, well-built homes and safe streets."
-categories:
+description: "Loosing an ultimate evil upon the world starts with clean clothing, good food, well-built homes and safe streets."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Manor Lords"
   - "Other Games"
   - "Steam Games"
   - "Survival"
-tags:
   - "Cthulhu"
   - "Demo"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/cthulhu.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/cthulhu.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/cthulhu.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It was hard for me to wrap my head around Worshippers of Cthulhu. On the face of it, it's a standard city builder. Villagers cut down trees, build homes, harvest crops, raise sheep, and other thoroughly mundane activities like that.

@@ -2,11 +2,38 @@
 date: '2006-11-10T16:34:25-05:00'
 draft: false
 title: "EQ2: Your First Fae"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/11/10/eq2-your-first-fae/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/1110yummy.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/11/1110yummy.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/11/1110yummy.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Snack Time!](https://chasingdings.com/wp-content/uploads/2006/11/1110yummy.jpg)

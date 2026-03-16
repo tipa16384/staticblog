@@ -2,14 +2,39 @@
 date: '2025-10-05T12:59:40-05:00'
 draft: false
 title: "Social media is a terrible way to find blogs to read"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/05/social-media-is-a-terrible-way-to-find-blogs-to-read/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The answer comes from the forgotten history of blogging itself."
-categories:
-  - "Daily Blogroll"
+description: "The answer comes from the forgotten history of blogging itself."
 tags:
+  - "Daily Blogroll"
   - "Blogging"
   - "Penultimatum"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/Screenshot-2025-10-05-113937.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/Screenshot-2025-10-05-113937.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/Screenshot-2025-10-05-113937.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I had a problem, this last Blaugust. There were so many blogs to read, but I'd have to hunt down a spreadsheet, or hope I saw them as they scrolled by on Mastodon or BlueSky, or scroll through the Blaugust Discord. When I did find them, I'd see that I'd missed double the number of posts as I'd read.

@@ -2,14 +2,40 @@
 date: '2008-11-08T08:41:02-05:00'
 draft: false
 title: "EQ: The Attack of the Killer Bees"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/08/eq-the-attack-of-the-killer-bees/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Bastion of Thunder"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg "eqgame-2008-11-07-22-07-08-71")

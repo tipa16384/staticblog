@@ -2,9 +2,38 @@
 date: '2007-11-26T17:23:24-05:00'
 draft: false
 title: "Does the end of Perpetual mean an end to Star Trek Online?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/26/does-the-end-of-perpetual-mean-an-end-to-star-trek-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 According to [this article](http://www.massively.com/2007/11/26/perpetual-disbanding-sto-in-jeopardy/) over at Massively, Perpetual Entertainment, who recently closed down their nearly-released Gods & Heroes MMO, is about to shut down altogether. It was clear from all we've been hearing over the past year that they were in trouble, but who knew just how bad it was?

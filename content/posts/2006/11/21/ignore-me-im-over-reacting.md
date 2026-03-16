@@ -2,11 +2,38 @@
 date: '2006-11-21T11:48:13-05:00'
 draft: false
 title: "Ignore me, I'm over-reacting."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/11/21/ignore-me-im-over-reacting/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "My Work"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/dec25.png"
-cover: "https://chasingdings.com/wp-content/uploads/2006/11/dec25.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/11/dec25.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Business is incredibly slow here at Surya at the end of a year. This year, we're asked to work only four-day work weeks in December. Now since I'm salaried, I shouldn't care, as I supposedly get a fixed annual pay regardless of how much or how little I work.

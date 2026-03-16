@@ -2,14 +2,39 @@
 date: '2025-03-21T08:00:00-05:00'
 draft: false
 title: "Game Night: Bardwood Grove"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/03/21/game-night-bardwood-grove/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Run around a forest, do bard stuff, become the most famous bard in Bardwood Grove."
-categories:
+description: "Run around a forest, do bard stuff, become the most famous bard in Bardwood Grove."
+tags:
   - "Game Night"
   - "Tabletop Games"
-tags:
   - "Bardwood Grove"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/bwgrove.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/03/bwgrove.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/03/bwgrove.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have a bunch of instruments in my office: some whistles, a mandolin, a kalimba, and a couple of cats. I find that if I bang them into each other, it sounds like a car crash in slow motion—with cats. But in my head, it sounds like glorious, sweet music. I’ve been uploading the music I play into Suno, and it’s been turning it around and making me sound like a pro.

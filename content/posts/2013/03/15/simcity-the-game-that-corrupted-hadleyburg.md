@@ -2,11 +2,38 @@
 date: '2013-03-15T07:22:37-05:00'
 draft: false
 title: "SimCity: The Game that Corrupted Hadleyburg"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/03/15/simcity-the-game-that-corrupted-hadleyburg/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Simcity 2013"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png"
-cover: "https://chasingdings.com/wp-content/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png" title="Incorruptible Hadleyburg" class="align-center" >}}

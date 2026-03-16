@@ -2,15 +2,40 @@
 date: '2024-05-03T07:00:00-05:00'
 draft: false
 title: "PCSX2 has gone and done it this time..."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/03/pcsx2-has-gone-and-done-it-this-time/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility."
-categories:
-  - "PS2"
+description: "The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility."
 tags:
+  - "PS2"
   - "Imgburn"
   - "PCSX2"
   - "Retroarch"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/pcsx2logo.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/pcsx2logo.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/pcsx2logo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm a huge fan of the PlayStation 2 and its games. I liked the PlayStation fine, and it had a lot of games that remain classics, but the PS2's weirdly named Emotion Engine brought games to life in a way never before seen at the time. I was blown away.

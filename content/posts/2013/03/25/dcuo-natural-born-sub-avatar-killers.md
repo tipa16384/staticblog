@@ -2,11 +2,38 @@
 date: '2013-03-25T06:11:25-05:00'
 draft: false
 title: "DCUO: Natural Born Sub-Avatar Killers"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/03/25/dcuo-natural-born-sub-avatar-killers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/MGOT101_SKYBOX-PC-24-22.24.200-480x299.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/03/MGOT101_SKYBOX-PC-24-22.24.200-480x299.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/03/MGOT101_SKYBOX-PC-24-22.24.200-480x299.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/MGOT101_SKYBOX-PC-24-22.24.200-480x299.jpg" title="Team Spode vs Sub-Avatar" class="align-center" >}}

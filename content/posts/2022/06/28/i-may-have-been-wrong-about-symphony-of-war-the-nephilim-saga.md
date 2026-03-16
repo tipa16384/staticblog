@@ -2,14 +2,40 @@
 date: '2022-06-28T08:36:57-05:00'
 draft: false
 title: "I may have been wrong about Symphony of War: The Nephilim Saga"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/06/28/i-may-have-been-wrong-about-symphony-of-war-the-nephilim-saga/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Steam Games"
   - "Tactical RPG"
-tags:
   - "Symphony of War"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/06/1-20220627230027_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/06/1-20220627230027_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/06/1-20220627230027_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I wrote that this game was competently developed, but the plot was entirely vanilla. Then I played through more of the game. There are some spoilers below the fold.

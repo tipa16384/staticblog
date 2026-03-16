@@ -2,14 +2,40 @@
 date: '2020-12-14T07:22:29-05:00'
 draft: false
 title: "Persona 4 Golden: The Story Thus Far"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/14/persona-4-golden-the-story-thus-far/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "CRPG"
   - "Steam Games"
-tags:
   - "Persona"
   - "RPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/20201209215453_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/20201209215453_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/20201209215453_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In a more consistent world, I'd have played Persona 4 before I played Persona 5. Not because the plots or characters of the two games are at all connected; they are not. It's because I am continually seeing the P4 characters and plot through a P5 lens. And, I think this is maybe spoiling some plot twists for me, twists that P5 players were supposed to have been expecting.

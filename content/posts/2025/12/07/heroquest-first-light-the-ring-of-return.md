@@ -2,11 +2,39 @@
 date: '2025-12-07T06:45:52-05:00'
 draft: false
 title: "HeroQuest First Light: The Ring of Return"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/07/heroquest-first-light-the-ring-of-return/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Dragons to the left of us, Dread Warriors to the right, here I am, stuck in the middle with a dwarf, an elf, a rogue and a barbarian."
-categories:
+description: "Dragons to the left of us, Dread Warriors to the right, here I am, stuck in the middle with a dwarf, an elf, a rogue and a barbarian."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
+featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/1-IMG_5557-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/1-IMG_5557-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In the previous adventure, we’d found a clue to a powerful item that might prove a turning point in the upcoming war. The good guys were in a difficult place: the forces of the transforming wizard Qwindrak on one side, the dark agents of the Witch Queen Kessandria on the other. Both believed we were in league with the other, and both were eager to gain an advantage by taking us out.

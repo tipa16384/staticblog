@@ -2,20 +2,46 @@
 date: '2022-06-26T11:12:47-05:00'
 draft: false
 title: "V Rising: Hitting the Hemoglobin"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/06/26/v-rising-hitting-the-hemoglobin/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Action RPG"
   - "Diablo 3"
   - "Steam Games"
   - "Survival"
   - "V Rising"
   - "Valheim"
-tags:
   - "Arpg"
   - "Steam"
   - "Team Spode"
   - "Vampires"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/06/20220626091446_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/06/20220626091446_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/06/20220626091446_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Ever want to play a vampire who hides from the sun in the castle they have built to protect their riches from other vampires? Then this is literally the game for you. If you're more in the mood for a PvE survival game, though... have you heard the good news about Valheim?

@@ -2,15 +2,41 @@
 date: '2021-11-26T21:35:54-05:00'
 draft: false
 title: "Valheim: Murder Swamp Online"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/26/valheim-murder-swamp-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Survival"
   - "Valheim"
-tags:
   - "Roots"
   - "Stats"
   - "Swamp"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/20211126173621_1_resized.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/20211126173621_1_resized.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/20211126173621_1_resized.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The swamp biome was already Valheim's deadliest, in my opinion. A new "stirring in the mist" just made it a little bit deadlier -- but also brought some new rewards.

@@ -2,15 +2,41 @@
 date: '2021-02-28T09:35:15-05:00'
 draft: false
 title: "Outriders: What is Hulk if not smash?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/02/28/outriders-what-is-hulk-if-not-smash/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "PS4"
   - "PS5"
   - "Shooter"
-tags:
   - "RPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/02/OUTRIDERS-DEMO_20210227201851-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/02/OUTRIDERS-DEMO_20210227201851-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/02/OUTRIDERS-DEMO_20210227201851-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Square Enix's new co-op third person shooter RPG, "Outriders", doesn't have anything to do with the Marvel heroes. Just, the last demo I played of this sort was Marvel's Avengers, and I didn't have a great experience with the co-op features, and this title was just there, for some reason.

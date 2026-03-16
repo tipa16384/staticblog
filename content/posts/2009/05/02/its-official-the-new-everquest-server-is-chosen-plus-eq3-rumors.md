@@ -2,15 +2,41 @@
 date: '2009-05-02T10:05:08-05:00'
 draft: false
 title: "It's official, the new EverQuest server is chosen, plus EQ3 rumors?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/02/its-official-the-new-everquest-server-is-chosen-plus-eq3-rumors/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "51/50"
   - "Eq3"
   - "Server"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/neriak5150.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/neriak5150.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/neriak5150.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![neriak5150](https://chasingdings.com/wp-content/uploads/2009/05/neriak5150.jpg "neriak5150")

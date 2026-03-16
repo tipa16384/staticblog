@@ -2,19 +2,44 @@
 date: '2022-12-04T19:39:29-05:00'
 draft: false
 title: "Advent of Code Day 4 -- Camp Cleanup"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/04/advent-of-code-day-4-camp-cleanup/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented."
-categories:
+description: "As well as my Day 4 solutions in Python and Java, I talk about the AI solving controversy in Advent of Code, and teach the chat bot to speak a language I just now invented."
+tags:
   - "Advent of Code"
   - "OpenAI"
   - "Programming Language"
-tags:
   - "AI"
   - "Gpt-3"
   - "Java"
   - "Lua"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-04-18.27.11-Several-Christmas-elves-doing-chores-around-a-campsite-in-the-jungle-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's a[ bit of a kerfuffle](https://old.reddit.com/r/adventofcode/comments/zbpq5g/gpt_openai_solutions_should_be_removed_from_the/) on the Advent of Code subreddit over people using GPT-3's new text-davinci-003 to solve puzzles and submit them automatically. Someone has been submitting correct answers in seconds in the past few days.

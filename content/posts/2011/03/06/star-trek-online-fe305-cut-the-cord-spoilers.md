@@ -2,10 +2,27 @@
 date: '2011-03-06T00:00:03-05:00'
 draft: false
 title: "Star Trek Online FE305: Cutting the Cord (spoilers)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/03/06/star-trek-online-fe305-cut-the-cord-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Cloaked Intentions"
   - "Cutting the Cord"
   - "Feature Episode"
@@ -18,7 +35,16 @@ tags:
   - "Romulan"
   - "Scimitar"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg" title="Cutting the Cord" class="align-center" >}}

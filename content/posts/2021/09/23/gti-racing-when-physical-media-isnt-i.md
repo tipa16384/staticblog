@@ -2,9 +2,26 @@
 date: '2021-09-23T20:34:37-05:00'
 draft: false
 title: "GTI Racer: When Physical Media... isn't."
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/23/gti-racing-when-physical-media-isnt-i/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "Beetle Adventure Racing"
   - "GTI"
   - "Gti Racer"
@@ -12,7 +29,16 @@ tags:
   - "Steam"
   - "Volkswagen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/itsalie.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/itsalie.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/itsalie.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I drive a VW GTI. My son drives a VW GTI. I have owned many VWs over the years. I bought GTI Racer for the PC. The box is in good condition. The disk is in good condition. But even though I have a physical copy of the game with all the bits, I don't actually have the game.

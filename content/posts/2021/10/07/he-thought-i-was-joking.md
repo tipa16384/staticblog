@@ -2,18 +2,44 @@
 date: '2021-10-07T23:37:50-05:00'
 draft: false
 title: "He thought I was joking."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/10/07/he-thought-i-was-joking/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Daily Blogroll"
   - "Final Fantasy"
   - "Greedfall"
   - "MMORPG"
   - "New World"
-tags:
   - "Blogging"
   - "Daily Log"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [UltrViolet](http://endgameviable.com/) writes great posts but doesn't have any comment section on his blog. Sometimes you just have to take that extra step.

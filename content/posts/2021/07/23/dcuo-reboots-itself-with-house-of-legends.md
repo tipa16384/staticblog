@@ -2,18 +2,44 @@
 date: '2021-07-23T19:16:16-05:00'
 draft: false
 title: "DCUO Reboots itself with House of Legends"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "PS4"
   - "PS5"
   - "Steam Games"
   - "Switch"
-tags:
   - "DC Universe Online"
   - "Steam"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 DC Universe Online has had a problem. It's [the most popular of Daybreak's MMOs](https://massivelyop.com/2020/12/02/everything-we-just-learned-about-daybreak-thanks-to-eg7/), but its spandex tights flies under the radar of most MMO players. Recent content dumps (called "episodes") are still very crowded. Recent changes to show exactly how many players are in each zone (and across how many instances) shows that the most recent hub areas support hundreds of players at any time of the day -- and this isn't counting the Nintendo Switch players, who have their own sets of servers.

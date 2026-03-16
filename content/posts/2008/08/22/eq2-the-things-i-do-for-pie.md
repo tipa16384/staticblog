@@ -2,11 +2,38 @@
 date: '2008-08-22T01:55:55-05:00'
 draft: false
 title: "EQ2: The things I do for pie..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/22/eq2-the-things-i-do-for-pie/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg "everquest2-2008-08-21-23-12-07-85")

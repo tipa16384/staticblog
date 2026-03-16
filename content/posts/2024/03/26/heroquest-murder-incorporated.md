@@ -2,15 +2,40 @@
 date: '2024-03-26T18:41:48-05:00'
 draft: false
 title: "HeroQuest: Murder, Incorporated."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/03/26/heroquest-murder-incorporated/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Okay, the actual title of the quest is \"Bastion of Chaos\", but that's not how it felt to us. We're the murderers in the title, btw."
-categories:
+description: "Okay, the actual title of the quest is \"Bastion of Chaos\", but that's not how it felt to us. We're the murderers in the title, btw."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "Bastion of Chaos"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/hqallfour.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/03/hqallfour.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/03/hqallfour.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We're on the eleventh quest of the fourteen base HeroQuest quests. We've been through a lot. Deaths, loss, betrayal, laughing ghosts, paltry rewards, and the time I knocked the vase holding my Valentine's Day roses and a lot of water alllllll over the board, though I guess that was the game itself going through a lot at that point.

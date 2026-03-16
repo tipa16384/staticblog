@@ -2,20 +2,44 @@
 date: '2025-12-15T08:25:57-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/15/i-know-what-i-did-last-weekend-6/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Time for another round-up of my recent gaming adventures."
-categories:
+description: "Time for another round-up of my recent gaming adventures."
+tags:
   - "Dune Awakening"
   - "Guild Wars"
   - "MMORPG"
   - "Pokemon"
-tags:
   - "Audiomech"
-  - "Pokemon"
   - "Quest 64"
   - "Sword for Hire"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5573-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5573-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5573-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every so often I hit a tipping point where I have a lot of game-related things to talk about, but none of them quite rise to the level of needing a full post on their own. And so… here we are, with bits and pieces from a lot of games.

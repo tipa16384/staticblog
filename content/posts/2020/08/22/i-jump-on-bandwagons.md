@@ -2,10 +2,27 @@
 date: '2020-08-22T09:28:16-05:00'
 draft: false
 title: "I Jump on Bandwagons"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/22/i-jump-on-bandwagons/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "PS4"
   - "Tabletop Games"
-tags:
   - "Avengers Beta"
   - "Chocobo Mystery Dungeon"
   - "DC Universe Online"
@@ -14,7 +31,16 @@ tags:
   - "Othello"
   - "Twitter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2020/08/othello.png)

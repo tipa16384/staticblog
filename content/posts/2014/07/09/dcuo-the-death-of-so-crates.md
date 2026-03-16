@@ -2,13 +2,39 @@
 date: '2014-07-09T23:09:10-05:00'
 draft: false
 title: "DCUO: The Death of So Crates"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/07/09/dcuo-the-death-of-so-crates/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh4.googleusercontent.com/-t9eOOsZT7_Y/U70qvFKYZUI/AAAAAAAAxjQ/MGuzQ3wG4kA/w812-h693-no/DCGame+2014-07-08+22-18-08-44.jpg"
-cover: "https://lh4.googleusercontent.com/-t9eOOsZT7_Y/U70qvFKYZUI/AAAAAAAAxjQ/MGuzQ3wG4kA/w812-h693-no/DCGame+2014-07-08+22-18-08-44.jpg"
+cover:
+  image: "https://lh4.googleusercontent.com/-t9eOOsZT7_Y/U70qvFKYZUI/AAAAAAAAxjQ/MGuzQ3wG4kA/w812-h693-no/DCGame+2014-07-08+22-18-08-44.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Keep It Safe](https://lh4.googleusercontent.com/-t9eOOsZT7_Y/U70qvFKYZUI/AAAAAAAAxjQ/MGuzQ3wG4kA/w812-h693-no/DCGame+2014-07-08+22-18-08-44.jpg)

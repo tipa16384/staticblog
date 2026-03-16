@@ -2,8 +2,37 @@
 date: '2007-07-18T13:22:20-05:00'
 draft: false
 title: "38 Studios to unveil their MMO at San Diego Comic Con"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/07/18/38-games-to-unveil-their-mmo-at-san-diego-comic-con/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 According to this [Wired blog post](http://blog.wired.com/games/2007/07/mcfarlane-shill.html) that refers to an IGN announcement (that I can't read, since IGN (but not Wired) is blocked at work), 38 Studios will announce their MMO at the San Diego Comic Con this weekend.

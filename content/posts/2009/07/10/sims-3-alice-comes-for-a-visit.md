@@ -2,13 +2,39 @@
 date: '2009-07-10T07:48:51-05:00'
 draft: false
 title: "Sims 3: Alice comes for a visit"
-categories:
-  - "Other Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/10/sims-3-alice-comes-for-a-visit/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Other Games"
   - "Alice and Kev"
   - "The Sims"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/TS3-2009-07-10-08-20-01-82.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/TS3-2009-07-10-08-20-01-82.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/TS3-2009-07-10-08-20-01-82.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Alice at the party](https://chasingdings.com/wp-content/uploads/2009/07/TS3-2009-07-10-08-20-01-82.jpg "Alice at the party")

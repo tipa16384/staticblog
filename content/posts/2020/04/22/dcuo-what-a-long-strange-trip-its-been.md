@@ -2,13 +2,39 @@
 date: '2020-04-22T11:48:46-05:00'
 draft: false
 title: "DCUO: What a long, strange trip it's been."
-categories:
-  - "MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/04/22/dcuo-what-a-long-strange-trip-its-been/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "MMORPG"
   - "DC Universe Online"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/1-MPYR0296_AUDIO-PC-22-07.03.480.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/04/1-MPYR0296_AUDIO-PC-22-07.03.480.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/04/1-MPYR0296_AUDIO-PC-22-07.03.480.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/1-MPYR0296_AUDIO-PC-22-07.03.480.jpg" title="Me and Huntress saving a cowering Superman from the Hive. Poor Supes." >}}

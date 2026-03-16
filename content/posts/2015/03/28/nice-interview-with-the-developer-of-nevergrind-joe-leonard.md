@@ -2,10 +2,37 @@
 date: '2015-03-28T21:55:51-05:00'
 draft: false
 title: "Nice interview with the developer of Nevergrind, Joe Leonard. "
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/03/28/nice-interview-with-the-developer-of-nevergrind-joe-leonard/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://lh6.googleusercontent.com/proxy/anaAhmxJRwUkGD8iN0RAaJwLxgdfZcp7rIJnrZrRzauCDbaG-kO-CF2opmfFs-aTasvUDPPFdN3Dt8g1YoBclI78GSRlCV3QUfIYQqkJxQ4=w506-h303-p"
-cover: "https://lh6.googleusercontent.com/proxy/anaAhmxJRwUkGD8iN0RAaJwLxgdfZcp7rIJnrZrRzauCDbaG-kO-CF2opmfFs-aTasvUDPPFdN3Dt8g1YoBclI78GSRlCV3QUfIYQqkJxQ4=w506-h303-p"
+cover:
+  image: "https://lh6.googleusercontent.com/proxy/anaAhmxJRwUkGD8iN0RAaJwLxgdfZcp7rIJnrZrRzauCDbaG-kO-CF2opmfFs-aTasvUDPPFdN3Dt8g1YoBclI78GSRlCV3QUfIYQqkJxQ4=w506-h303-p"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Nice interview with the developer of Nevergrind, Joe Leonard. ﻿[Joe Leonard on EverQuest Inspired RPG Nevergrind - Cliqist](http://cliqist.com/2015/03/28/joe-leonard-on-everquest-inspired-rpg-nevergrind/)

@@ -2,13 +2,29 @@
 date: '2023-08-05T07:00:00-05:00'
 draft: false
 title: "Adventures in Bad Game Development"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/05/adventures-in-bad-game-development/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I've never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them."
-categories:
+description: "I've never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them."
+tags:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2023"
   - "Game Development"
-tags:
   - "Asteroids"
   - "Aws"
   - "Centipede"
@@ -16,7 +32,16 @@ tags:
   - "Phaser"
   - "Space Invaders"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm going on vacation this next week. I have some parent visiting to do, but I should have a few days to myself. And I don't want to use it gaming. I have the [Phaser JavaScript game engine](https://phaser.io/) right here, and I want to make some quick games. Though given how slow I am, maybe one game.

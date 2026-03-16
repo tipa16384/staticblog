@@ -2,11 +2,38 @@
 date: '2010-05-22T09:37:47-05:00'
 draft: false
 title: "The Zen of World of Warcraft"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/22/the-zen-of-world-of-warcraft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/WoW-2010-05-22-09-39-39-55.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/WoW-2010-05-22-09-39-39-55.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/WoW-2010-05-22-09-39-39-55.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/05/WoW-2010-05-22-09-39-39-55.jpg "Chilling at an inn in the Outlands")

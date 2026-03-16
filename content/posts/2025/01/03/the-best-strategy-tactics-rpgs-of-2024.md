@@ -2,18 +2,43 @@
 date: '2025-01-03T19:37:01-05:00'
 draft: false
 title: "The Best Strategy/Tactics RPGs of 2024"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/03/the-best-strategy-tactics-rpgs-of-2024/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Tactics RPGs have been a favorite of mine since Final Fantasy Tactics. These are the best strategy/tactics RPGs I played in 2024."
-categories:
+description: "Tactics RPGs have been a favorite of mine since Final Fantasy Tactics. These are the best strategy/tactics RPGs I played in 2024."
+tags:
   - "Strategy"
   - "Tactical RPG"
   - "Unicorn Overlord"
-tags:
   - "Endless RPG"
   - "Popup Dungeon"
   - "The White Raven"
   - "Those Who Rule"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/tacticsbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/tacticsbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/tacticsbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's something immensely satisfying about strategy/tactics RPGs. You have your units, the enemy has theirs, and you move them around the board like an asymmetrical game of chess. This differs from pure board game simulators such as Battle Chess and Archon in that the units are characters, and through these battles, a story is being told.

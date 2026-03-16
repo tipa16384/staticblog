@@ -2,11 +2,38 @@
 date: '2013-02-02T13:19:00-05:00'
 draft: false
 title: "Star Trek Online: The Temporal Ambassador"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/02/02/star-trek-online-the-temporal-ambassador/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-50-33-30-480x343.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-50-33-30-480x343.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-50-33-30-480x343.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-50-33-30-480x343.jpg" title="The Enterprise C and a time ship battle a Tholian fleet" class="align-center" >}}

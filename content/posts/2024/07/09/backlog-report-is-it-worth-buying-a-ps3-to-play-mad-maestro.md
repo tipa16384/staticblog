@@ -2,17 +2,42 @@
 date: '2024-07-09T06:30:00-05:00'
 draft: false
 title: "Backlog Report: Is it worth buying a PS3 to play Mad Maestro?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/07/09/backlog-report-is-it-worth-buying-a-ps3-to-play-mad-maestro/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Mad Maestro is a PS2 classical music rhythm game. Why would you need a PS3 to play it?"
-categories:
+description: "Mad Maestro is a PS2 classical music rhythm game. Why would you need a PS3 to play it?"
+tags:
   - "PS2"
   - "Rhythm Games"
-tags:
   - "Cello Hero"
   - "Elite Beat Agents"
   - "PCSX2"
   - "Umjammer Lammy"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/Screenshot-2024-07-08-212742.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/07/Screenshot-2024-07-08-212742.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/07/Screenshot-2024-07-08-212742.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 No, obviously. You don't need a PlayStation 3 to play Mad Maestro. Your PlayStation 2 with your PS2 DualShock controllers will play this just fine.

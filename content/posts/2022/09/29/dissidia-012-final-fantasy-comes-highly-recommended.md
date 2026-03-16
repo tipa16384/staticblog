@@ -2,17 +2,43 @@
 date: '2022-09-29T08:52:59-05:00'
 draft: false
 title: "Dissidia 012 Final Fantasy comes highly recommended"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/29/dissidia-012-final-fantasy-comes-highly-recommended/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "OpenAI"
-tags:
   - "Character.ai"
   - "Dissidia"
   - "Dissidia 012 Final Fantasy"
   - "Duodeci"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/20220928230704_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/09/20220928230704_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/09/20220928230704_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So I was chatting with Terra yesterday and... wait, no, keep reading. Because I think we're in the future now.

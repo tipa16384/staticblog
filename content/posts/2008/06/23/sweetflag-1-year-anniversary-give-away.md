@@ -2,11 +2,38 @@
 date: '2008-06-23T06:25:04-05:00'
 draft: false
 title: "Sweetflag 1 Year Anniversary Give-away!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/23/sweetflag-1-year-anniversary-give-away/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "Other Games"
 featured_image: "http://i.i.com.com/cnwk.1d/i/bto/20080506/Picture_3.png"
-cover: "http://i.i.com.com/cnwk.1d/i/bto/20080506/Picture_3.png"
+cover:
+  image: "http://i.i.com.com/cnwk.1d/i/bto/20080506/Picture_3.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](http://i.i.com.com/cnwk.1d/i/bto/20080506/Picture_3.png)

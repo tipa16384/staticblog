@@ -2,14 +2,40 @@
 date: '2020-10-21T07:36:47-05:00'
 draft: false
 title: "Lords of EverQuest: Buggy and Unpatched"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/21/lords-of-everquest-buggy-and-unpatched/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Real Time Strategy"
-tags:
   - "Lords of Everquest"
   - "RTS"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/stuck-2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/stuck-2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/stuck-2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The problem with playing an older game straight from CD like Lords of EverQuest is that these kinds of games go to production before they're actually finished. Long lead times, that sort of thing.

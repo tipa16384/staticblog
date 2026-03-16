@@ -2,12 +2,40 @@
 date: '2009-03-20T08:04:16-05:00'
 draft: false
 title: "Chronicles of Spellborn enters open beta!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/20/chronicles-of-spellborn-enters-open-beta/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
-tags:
   - "Acclaim"
   - "Open Beta"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Announced today, and thanks to Tierrunner for catching this, the Acclaim hosted Chronicles of Spellborn [is now in open beta](http://spellborn.acclaim.com/index.html). Also announced is their pricing plan, which is managed via Acclaim Coins, their RMT currency, to tie it in with other Acclaim games.

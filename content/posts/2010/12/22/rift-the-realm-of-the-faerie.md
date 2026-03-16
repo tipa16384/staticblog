@@ -2,11 +2,38 @@
 date: '2010-12-22T13:36:11-05:00'
 draft: false
 title: "Rift: The Realm of the Faerie"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/22/rift-the-realm-of-the-faerie/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Rift"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-11-23-19-41-480x385.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-11-23-19-41-480x385.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-11-23-19-41-480x385.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-11-23-19-41-480x385.jpg "Character")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-11-23-19-41.jpg)

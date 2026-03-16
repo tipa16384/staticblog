@@ -2,8 +2,37 @@
 date: '2006-11-27T11:14:34-05:00'
 draft: false
 title: "GH2: Bonding"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/11/27/gh2-bonding/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Andrew finished Guitar Hero 2 on Medium before I finished it on Hard (medium not requiring mastery of hammer-ons and pull-offs as hard does, and plus I get distracted with Kansas and Matthew Sweet). He unlocked the very last encore, Freebird, and the last play mode, Pro Facedown.

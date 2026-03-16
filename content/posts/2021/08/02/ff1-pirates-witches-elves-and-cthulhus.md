@@ -2,16 +2,41 @@
 date: '2021-08-02T21:07:00-05:00'
 draft: false
 title: "FF1: Pirates, Witches, Elves and Cthulhus."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/02/ff1-pirates-witches-elves-and-cthulhus/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "CRPG"
   - "Final Fantasy"
   - "Steam Games"
-tags:
-  - "Blaugust"
   - "Jrpg"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/FF1neslogo.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/FF1neslogo.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/FF1neslogo.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We defeated Garland and rescued Princess Sarah! Yay! A grateful king embarked on an impromptu "Infrastructure Week", and built us a bridge because that was *exactly* the reward we were looking for. Sure, he could have given us gold or weapons, but instead the Cupertino Corps of Engineers lali-ho'd their way north and built a bridge.

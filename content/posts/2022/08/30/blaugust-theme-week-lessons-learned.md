@@ -2,18 +2,44 @@
 date: '2022-08-30T23:51:54-05:00'
 draft: false
 title: "Blaugust theme week: Lessons learned"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/30/blaugust-theme-week-lessons-learned/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "Midjourney"
   - "OpenAI"
-tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
   - "Tiddlywinks"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I spent the 31 days of Blaugust working to see if I could get AI to show some creativity in game design, and if I could get AI image generation programs to produce the art I want at a price I could afford. I learned some things.

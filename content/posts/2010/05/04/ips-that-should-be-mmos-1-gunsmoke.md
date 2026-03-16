@@ -2,10 +2,37 @@
 date: '2010-05-04T23:28:34-05:00'
 draft: false
 title: "IPs that SHOULD be MMOs part 1: Gunsmoke"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/04/ips-that-should-be-mmos-1-gunsmoke/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/gunsmoke-225x225.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/gunsmoke-225x225.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/gunsmoke-225x225.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A good intellectual property (IP) can more than provide a setting for a game; it can in a single word tell a player what his or her role is without even knowing one thing about the game itself. The very best IPs are open enough so that the game developers have plenty of room to grow beyond their starting bounds.

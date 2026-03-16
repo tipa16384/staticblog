@@ -2,15 +2,40 @@
 date: '2026-01-24T10:26:41-05:00'
 draft: false
 title: "Dominus Automa: An Idle MMO for Busy Dads"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Someday it'll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday."
-categories:
+description: "Someday it'll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday."
+tags:
   - "MMORPG"
   - "Steam Games"
-tags:
   - "Dominus Automa"
   - "ZPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/dominusautoma.png"
-cover: "https://chasingdings.com/wp-content/uploads/2026/01/dominusautoma.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2026/01/dominusautoma.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The elevator pitch for Dominus Automa intrigued me a bit. An MMO where you didn't directly control your player character, who would happily quest, craft and grind levels for you even if you weren't online?

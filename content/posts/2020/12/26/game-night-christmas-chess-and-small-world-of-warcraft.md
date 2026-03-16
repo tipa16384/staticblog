@@ -2,17 +2,42 @@
 date: '2020-12-26T11:57:17-05:00'
 draft: false
 title: "Game Night: Christmas! Chess and Small World of Warcraft"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/26/game-night-christmas-chess-and-small-world-of-warcraft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Gamers gotta game, even on Christmas Day..."
-categories:
+description: "Gamers gotta game, even on Christmas Day..."
+tags:
   - "Game Night"
   - "Tabletop Games"
-tags:
   - "Chess"
   - "Small World of Warcraft"
   - "Smallworld"
   - "The Dragon Staff of Maladoria"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/2-IMG_2047.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/2-IMG_2047.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/2-IMG_2047.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't think anyone could watch "The Queen's Gambit" and not immediately want to pull out a chessboard. After we watched the series, my son started getting into chess online again. I eventually remembered that I have a 3D printer (two, actually), and that I hadn't yet printed a chess set. I think if you have a 3D printer, you are obligated to eventually print one.

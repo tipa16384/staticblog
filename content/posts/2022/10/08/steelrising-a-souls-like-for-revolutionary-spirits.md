@@ -2,19 +2,44 @@
 date: '2022-10-08T12:19:41-05:00'
 draft: false
 title: "Steelrising: A Souls-Like for Revolutionary Spirits"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/10/08/steelrising-a-souls-like-for-revolutionary-spirits/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Aegis, a living automaton, is on a quest to free France from Mad King Louis XVI's tyranny in this dark souls-like game set during the French Revolution."
-categories:
+description: "Aegis, a living automaton, is on a quest to free France from Mad King Louis XVI's tyranny in this dark souls-like game set during the French Revolution."
+tags:
   - "Action RPG"
   - "Elden Ring"
   - "Greedfall"
   - "RPG"
   - "Souls-Like"
-tags:
   - "French Revolution"
   - "Girls Screaming in Clockwork"
   - "Spiders"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/10/steelrising.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/10/steelrising.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/10/steelrising.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It is the late 18th century. The Marquis de la Fayette has returned to France after helping the Americans win their country, and now it is time to free his own country from Louis XVI, the Clockwork King, who has constructed a mechanical army to terrorize Paris.

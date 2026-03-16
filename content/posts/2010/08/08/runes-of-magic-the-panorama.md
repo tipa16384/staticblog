@@ -2,15 +2,41 @@
 date: '2010-08-08T07:27:53-05:00'
 draft: false
 title: "Runes of Magic: the Panorama"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/08/runes-of-magic-the-panorama/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Runes of Magic"
-tags:
   - "Autostitch"
   - "Panorama"
   - "Sacilla Steppes"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/pano1-480x87.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/pano1-480x87.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/pano1-480x87.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2010/08/pano1-480x87.jpg" title="Click to expand (very large)" class="align-center" >}}

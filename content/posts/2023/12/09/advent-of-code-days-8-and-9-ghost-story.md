@@ -2,16 +2,41 @@
 date: '2023-12-09T10:39:23-05:00'
 draft: false
 title: "Advent of Code Days 8 and 9 -- Ghost Story"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/09/advent-of-code-days-8-and-9-ghost-story/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It took me so long to figure out the Day 8 puzzle that I didn't write it up before bed, so twofer today to catch up."
-categories:
-  - "Advent of Code"
+description: "It took me so long to figure out the Day 8 puzzle that I didn't write it up before bed, so twofer today to catch up."
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Camel"
   - "Desert Walk"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every year there is at least one problem where I know what the answer is, but I don't know *why* the answer is. Part of that, on day 8, was my own fault. I was just futzing with things for hours before I decided to submit the puzzle solution. Only when I started looking at *other* solution on the subreddit did I figure out that I was at least partially right all along and I should have gone with my instincts.

@@ -2,17 +2,43 @@
 date: '2020-10-27T07:49:41-05:00'
 draft: false
 title: "Rogue -- the original rogue-like"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/27/rogue-the-original-rogue-like/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "CRPG"
   - "DOS Games"
   - "Rogue-Likes"
-tags:
   - "Dos"
   - "Epyx Games"
   - "Rogue"
   - "Rogue-Like"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/roguebanner.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/roguebanner.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/roguebanner.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's been many efforts to define exactly what a "rogue-like" game is. Permadeath is definitely one. A different map every time you play is another. Having to discover each time what the magic items you discover do, that's one. Descending into a deep dungeon, grabbing a quest item and making it back to the surface in one go, definitely.

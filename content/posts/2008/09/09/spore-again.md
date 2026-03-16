@@ -2,9 +2,38 @@
 date: '2008-09-09T09:41:19-05:00'
 draft: false
 title: "Spore again..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/09/spore-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Spore"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I know, you want to see pictures :/ But when I'm home, I'm playing Spore! I'll put some up tonight. If you have Spore, you can see all my stuff by putting "tipadaknife" on your buddy list. I put Bildo and Darren on, and now I have some of their stuff trundling along in my world. It's always fun to see a friendly face, though most of the stuff on the worlds I encounter are the things I made in Sunday's game.

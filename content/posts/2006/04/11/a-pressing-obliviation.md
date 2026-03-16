@@ -2,11 +2,38 @@
 date: '2006-04-11T00:00:00-05:00'
 draft: false
 title: "A Pressing Obliviation"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/04/11/a-pressing-obliviation/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Oblivion"
   - "Other Games"
 featured_image: "https://chasingdings.com/images/ranger.jpg"
-cover: "https://chasingdings.com/images/ranger.jpg"
+cover:
+  image: "https://chasingdings.com/images/ranger.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yes, and my apologies to my friends in EQ1, EQ2 and WoW, but I have been Obliviated. I went to Fry's for a coax cable, got involved in a little Guitar Hero dueling, and bought Oblivion. Yes, I know it's popular and everyone is playing it... and for once, I wanted to be part of something everyone else was doing. I wanted to be Pepsi.

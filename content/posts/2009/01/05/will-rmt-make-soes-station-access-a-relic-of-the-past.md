@@ -2,9 +2,38 @@
 date: '2009-01-05T08:03:50-05:00'
 draft: false
 title: "Will RMT make SOE's Station Access a relic of the past?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/05/will-rmt-make-soes-station-access-a-relic-of-the-past/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Last year, Massively's Michael Zenke interviewed SOE's John Smedley about, among other things, [the future of SOE's all-inclusive Station Access plan](http://www.massively.com/2008/01/14/a-ces-interview-with-soe-ceo-john-smedley-pt-2/):

@@ -2,15 +2,40 @@
 date: '2025-09-15T08:50:10-05:00'
 draft: false
 title: "Retro World Expo 2025: A Guilty (Gear) Pleasure"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/15/retro-world-expo-2025-a-guilty-gear-pleasure/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I brought my Atari messenger bag with one game in it, and turned that into a bag full of games."
-categories:
+description: "I brought my Atari messenger bag with one game in it, and turned that into a bag full of games."
+tags:
   - "Nintendo 64"
   - "PS2"
   - "Vectrex"
-tags:
   - "Retro World Expo"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't know *when* I am getting my Analogue 3D Nintendo 64 player. I hope it's soon. Because of a curse, I cannot stop buying N64 games until I can finally play them, on that. I could play them on my actual N64, but it's really not the best on modern monitors.

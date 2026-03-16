@@ -2,8 +2,25 @@
 date: '2022-08-07T07:00:00-05:00'
 draft: false
 title: "The Seven Sages: A Masterclass in Metroidvania Design"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "In \"The Seven Sages\", you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil."
-categories:
+description: "In \"The Seven Sages\", you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil."
+tags:
   - "2D Platformer"
   - "Action Adventure Games"
   - "Blaugust"
@@ -11,7 +28,6 @@ categories:
   - "Metroidvania Games"
   - "OpenAI"
   - "Side-Scrolling Games"
-tags:
   - "Action"
   - "Adventure"
   - "Craiyon"
@@ -25,7 +41,16 @@ tags:
   - "The Seven Sages"
   - "Video Game"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/7sages2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/7sages2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/7sages2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 7th: “The Seven Sages”. I found out later this was a Zelda reference...

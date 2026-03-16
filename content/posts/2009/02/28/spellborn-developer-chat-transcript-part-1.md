@@ -2,10 +2,27 @@
 date: '2009-02-28T11:08:00-05:00'
 draft: false
 title: "Spellborn Developer Chat transcript, Part 1"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/28/spellborn-developer-chat-transcript-part-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
-tags:
   - "Acclaim"
   - "David Perry"
   - "Developer Chat"
@@ -14,7 +31,16 @@ tags:
   - "Howard Marks"
   - "Transcript"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![sb_client-2009-01-02-00-54-38-24](https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg "sb_client-2009-01-02-00-54-38-24")

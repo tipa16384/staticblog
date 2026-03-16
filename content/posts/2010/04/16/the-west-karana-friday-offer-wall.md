@@ -2,7 +2,25 @@
 date: '2010-04-16T06:59:58-05:00'
 draft: false
 title: "The West Karana Friday Offer Wall!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/16/the-west-karana-friday-offer-wall/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "Daily Blogroll"
   - "Final Fantasy"
@@ -12,7 +30,16 @@ categories:
   - "Runes of Magic"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Unlike other offer walls, this one probably won't infect your computer with anything TOO harmful.

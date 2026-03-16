@@ -2,9 +2,38 @@
 date: '2008-02-18T13:38:16-05:00'
 draft: false
 title: "Jumper, TV, books, music and stuff this week."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/02/18/jumper-tv-books-music-and-stuff-this-week/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "Sci Fi"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 First, a bit about LAST week. [Playing for Keeps](http://playingforkeepsnovel.com), the superhero podcast, came to a thunderous end last Thursday. If you've been hesitating to start it, wanting to wait until it was done, well, it's done, so enjoy.

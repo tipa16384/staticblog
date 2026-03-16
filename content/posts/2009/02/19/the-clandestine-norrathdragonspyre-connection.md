@@ -2,18 +2,44 @@
 date: '2009-02-19T07:38:11-05:00'
 draft: false
 title: "The clandestine Norrath/Dragonspyre connection"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/19/the-clandestine-norrathdragonspyre-connection/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Dragonspyre"
   - "Temple of Veeshan"
   - "The Labyrinth"
   - "Veeshan"
   - "Veeshan's Peak"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/veeshansymbol.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/veeshansymbol.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/veeshansymbol.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Norrath, the planet itself, wasn't discovered by humans or elves or iksar or the ancient snake people or even the gods. It was discovered by the great she-dragon Veeshan, who chose this nondescript planet on which to raise her brood. She marked the planet with a swipe of her claws, claiming it as her own to all who could read her sign.

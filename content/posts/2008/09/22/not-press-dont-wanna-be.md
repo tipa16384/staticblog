@@ -2,9 +2,38 @@
 date: '2008-09-22T13:14:02-05:00'
 draft: false
 title: "Not press, don't wanna be."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/22/not-press-dont-wanna-be/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Jaye [wrote this weekend](http://www.journeyswithjaye.com/?p=1365) about the notion that bloggers might be press, and she goes on to define press as the process of getting information out to the public. Presumably without bias or commentary.

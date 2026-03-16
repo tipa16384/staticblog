@@ -2,9 +2,38 @@
 date: '2007-03-12T08:27:44-05:00'
 draft: false
 title: "38 Studios better watch itself"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/03/12/38-studios-better-not-screw-up/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Kendricke at Warcry [reports](http://eq2.warcry.com/scripts/news/view_news.phtml?site=68&id=69487) that Jason "Dymus" Roberts has left his position at SOE of EQ2 Lead Designer. It's rumored that he may join the crowd at 38 Studios in their unannounced MMO.

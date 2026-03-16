@@ -2,7 +2,25 @@
 date: '2009-06-26T07:59:43-05:00'
 draft: false
 title: "Daily Blogroll 6/26 -- Space Michael edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/26/daily-blogroll-626-space-michael-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
   - "EverQuest"
@@ -11,7 +29,16 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/jackson.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/jackson.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/jackson.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![jackson](https://chasingdings.com/wp-content/uploads/2009/06/jackson.jpg "jackson")

@@ -2,11 +2,38 @@
 date: '2009-02-23T12:00:02-05:00'
 draft: false
 title: "EQ: A signature trip down memory lane."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/23/eq-a-signature-trip-down-memory-lane/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/terris.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/terris.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/terris.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Stargrace's [high speed romp](http://mmoquests.com/2009/02/23/now-thats-a-canon/) through EverQuest has made me nostalgic. REALLY nostalgic. I remember when each new victory, the culmination of much effort, many tries, and no little creativity, would bring us just a little closer toward -- I dunno. Guild status? That was part of it. The feeling that we were all a tightly knit group of friends that we could utterly rely upon? That was part of it. There was so much to it.

@@ -2,13 +2,38 @@
 date: '2025-10-29T07:00:00-05:00'
 draft: false
 title: "DragonStrike: The Aerial Combat Board Game"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/29/dragonstrike-the-aerial-combat-board-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "With Amazon's \"New World\" MMO shuttering, can a simple board game provide a new home for its players?"
-categories:
-  - "Tabletop Games"
+description: "With Amazon's \"New World\" MMO shuttering, can a simple board game provide a new home for its players?"
 tags:
+  - "Tabletop Games"
   - "Dragonstrike"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5465-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5465-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5465-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 "With Amazon's *New World* MMO shuttering, can a simple board game provide a new home for its players?"

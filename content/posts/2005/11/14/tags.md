@@ -2,11 +2,38 @@
 date: '2005-11-14T00:00:00-05:00'
 draft: false
 title: "Tags"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2005/11/14/tags/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "My Work"
 featured_image: "https://chasingdings.com/images/havenbleu.png"
-cover: "https://chasingdings.com/images/havenbleu.png"
+cover:
+  image: "https://chasingdings.com/images/havenbleu.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I do have a life outside RPGs. My real work sometimes includes some illustration; here's a project I did recently. All these images are copyright (c) 2005 by Surya, Inc.

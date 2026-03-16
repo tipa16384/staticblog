@@ -2,16 +2,42 @@
 date: '2008-07-29T01:09:53-05:00'
 draft: false
 title: "Let's check in on Wizard 101..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/29/lets-check-in-on-wizard-101/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Comic"
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Krokotopia"
   - "Marleybone"
   - "Mooshu"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/wizardcomic.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/07/wizardcomic.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/07/wizardcomic.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/07/wizardcomic.jpg "wizardcomic")

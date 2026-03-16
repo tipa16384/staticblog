@@ -2,16 +2,41 @@
 date: '2020-08-27T08:20:39-05:00'
 draft: false
 title: "Blaugust #27: Be the Content You Want to See"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/27/blaugust-27-be-the-content-you-want-to-see/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Comic"
   - "Lord of the Rings"
   - "MMORPG"
-tags:
-  - "Blaugust"
   - "Girls Screaming at Readers"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/ClipartKey_519651.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/ClipartKey_519651.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/ClipartKey_519651.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't even know if that title makes any *sense*. Anyway. A bunch of the prompts from the past week have dealt, in some way, with *content creation*. A lot of people have disagreed with my interpretation of that task as a method of drawing people to a website for the purpose of monetizing them in some way and getting your message and your content seen by those who'd enjoy seeing it.

@@ -2,16 +2,42 @@
 date: '2021-09-03T07:53:50-05:00'
 draft: false
 title: "DCUO: How House of Legends is broken"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/03/dcuo-how-house-of-legends-is-broken/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "DC Universe Online"
   - "MMORPG"
   - "Steam Games"
-tags:
   - "House of Legends"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 DC Universe Online's "House of Legends" expansion was meant to create a new game experience for both old heroes and new. It got halfway there.

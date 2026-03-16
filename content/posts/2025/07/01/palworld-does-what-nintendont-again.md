@@ -2,15 +2,40 @@
 date: '2025-07-01T08:00:00-05:00'
 draft: false
 title: "Palworld Does What Nintendon't. Again."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/07/01/palworld-does-what-nintendont-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Palworld's new update does more than let your Pals become their true selves. There's also fishing. And, almost forgot, a portal to the world of Terraria!"
-categories:
+description: "Palworld's new update does more than let your Pals become their true selves. There's also fishing. And, almost forgot, a portal to the world of Terraria!"
+tags:
   - "Open World RPG"
   - "Palworld"
   - "Survival"
-tags:
   - "Terraria"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/drbrawngenderclinic.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/06/drbrawngenderclinic.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/06/drbrawngenderclinic.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 No more flying your Pals to Thailand for a little snippety-snip. The surgery table introduced in the latest Palworld update lets you swap the gender of any Pal at the click of the button -- which is great news for when you want to start breeding your Pals, have the perfect pair but they just happen to be the same gender. Click click, Eve is now Steve.

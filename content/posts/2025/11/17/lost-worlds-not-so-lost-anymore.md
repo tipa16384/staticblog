@@ -2,15 +2,40 @@
 date: '2025-11-17T14:35:36-05:00'
 draft: false
 title: "Lost Worlds: not so lost anymore?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/17/lost-worlds-not-so-lost-anymore/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The \"Lost Worlds\" series of fantasy combat book games is being reprinted? Here in Connecticut? And I'm just finding out about this?"
-categories:
-  - "Tabletop Games"
+description: "The \"Lost Worlds\" series of fantasy combat book games is being reprinted? Here in Connecticut? And I'm just finding out about this?"
 tags:
+  - "Tabletop Games"
   - "Ace of Aces"
   - "Lost Worlds"
   - "Nova Game Designs"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I am a terrible person. You'll agree once you know what I know.

@@ -2,14 +2,40 @@
 date: '2021-12-27T14:59:48-05:00'
 draft: false
 title: "Advent of Code 2021 -- Completed."
-categories:
-  - "Advent of Code"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/12/27/advent-of-code-2021-completed/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Advent of Code"
   - "Algorithms"
   - "Clojure"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/12/AoC_banner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/12/AoC_banner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/12/AoC_banner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It was an obsession, it was a challenge, it was a lesson. The [Advent of Code](https://adventofcode.com/) is an annual coding event that runs from the first to the twenty-fifth of December, but instead of chocolate treats, this advent calendar delivers delicious daily coding puzzles... although you don't necessarily need to code to solve them.

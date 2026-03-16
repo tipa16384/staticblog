@@ -2,15 +2,43 @@
 date: '2008-11-21T11:27:35-05:00'
 draft: false
 title: "The Xbox NXE"
-categories:
-  - "Other Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/21/the-xbox-nxe/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Other Games"
   - "Avatar"
   - "Mii"
   - "New Xbox Experience"
   - "Nxe"
   - "Wii"
   - "Xbox"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Seems weird to be writing about the Xbox New Xbox Experience because, after all, I don't have an Xbox... but my son does :) And when he returned home from college last night for Thanksgiving, he came toting his 360. And so I got my first look at the NXE.

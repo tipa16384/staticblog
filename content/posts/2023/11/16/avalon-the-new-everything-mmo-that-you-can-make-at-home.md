@@ -2,14 +2,40 @@
 date: '2023-11-16T07:00:00-05:00'
 draft: false
 title: "Avalon: the new everything MMO that you can make at home!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/16/avalon-the-new-everything-mmo-that-you-can-make-at-home/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Content warning: Blockchain, AI, Metaverse. Please do not read if you have or feel you may have a susceptibility toward \"Web3\". See your doctor at the first sign of symptoms."
-categories:
+description: "Content warning: Blockchain, AI, Metaverse. Please do not read if you have or feel you may have a susceptibility toward \"Web3\". See your doctor at the first sign of symptoms."
+tags:
   - "Avalon"
   - "Blockchain"
   - "EverQuest"
   - "NFT"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Just to get everyone up to speed: Avalon is a coming MMO that is built on user generated content. They see themselves more as a metaverse toolbox, than a metaverse themselves. It's fronted by MMO industry vets including Jeff Butler, who was a producer on EverQuest, co-founder with Brad McQuaid of Sigil (of Vanguard fame), and a lead designer of EverQuest Next.

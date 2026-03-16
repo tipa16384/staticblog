@@ -2,12 +2,39 @@
 date: '2012-01-18T08:14:04-05:00'
 draft: false
 title: "EQ2: I wonder what he eats..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/01/18/eq2-i-wonder-what-he-eats/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg" title="My lizard, Leapster" class="align-center" >}}

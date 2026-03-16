@@ -2,18 +2,43 @@
 date: '2022-08-12T07:00:00-05:00'
 draft: false
 title: "Twelve Angry Zoos"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/12/twelve-angry-zoos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "\"Twelve Angry Zoos\" is a fast-paced arcade game that will test your reflexes and puzzle-solving skills. With 12 different zoos in 12 different cities, there's plenty of gameplay to keep you entertained."
-categories:
+description: "\"Twelve Angry Zoos\" is a fast-paced arcade game that will test your reflexes and puzzle-solving skills. With 12 different zoos in 12 different cities, there's plenty of gameplay to keep you entertained."
+tags:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
-tags:
   - "Craiyon"
   - "Funspot"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/12angryzoos.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/12angryzoos.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/12angryzoos.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 12th: “Twelve Angry Zoos”.

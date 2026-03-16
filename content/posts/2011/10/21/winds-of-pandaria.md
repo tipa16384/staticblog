@@ -2,11 +2,38 @@
 date: '2011-10-21T23:02:01-05:00'
 draft: false
 title: "Winds of Pandaria!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/10/21/winds-of-pandaria/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/pandaria-1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2011/10/pandaria-1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/10/pandaria-1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yeah, I've been in the Winds of Pandaria ALPHA for awhile. I'm telling you, it's AWESOME. You guys are gonna freak. NDA prevents me from being too specific, buuuut... ya know Deathwing? Yeah. He's a mount and you can ride him.

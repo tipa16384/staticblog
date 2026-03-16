@@ -2,15 +2,40 @@
 date: '2022-12-18T20:30:03-05:00'
 draft: false
 title: "Advent of Code Day 18 -- Boiling Boulders"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/18/advent-of-code-day-18-boiling-boulders/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We're about to start on Christmas Week, that week when Advent of Code's most iconic puzzles are released. But today, we're dealing with the aftermath of an exploding volcano."
-categories:
-  - "Advent of Code"
+description: "We're about to start on Christmas Week, that week when Advent of Code's most iconic puzzles are released. But today, we're dealing with the aftermath of an exploding volcano."
 tags:
+  - "Advent of Code"
   - "Advent"
   - "Python"
   - "Volcano"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-18-19.03.10-An-elephant-watching-a-flaming-meteor-crash-into-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-18-19.03.10-An-elephant-watching-a-flaming-meteor-crash-into-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-18-19.03.10-An-elephant-watching-a-flaming-meteor-crash-into-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 That little handheld device you have is something else. It only has six rows of 40 characters each, but it can scan for beacons, play trillion piece games of Tetris, and today, [track a molten globule of lava](https://adventofcode.com/2022/day/18) as it crosses the sky and splashes into a lake.

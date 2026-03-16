@@ -2,14 +2,41 @@
 date: '2009-06-05T00:22:21-05:00'
 draft: false
 title: "EQ2: No good deed goes unpunished"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/05/eq2-no-good-deed-goes-unpunished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Comic"
   - "EverQuest"
   - "Humor"
   - "MMORPG"
   - "One Panel Comix"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/cameldaycare.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/cameldaycare.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/cameldaycare.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Camel Day Care](https://chasingdings.com/wp-content/uploads/2009/06/cameldaycare.jpg "Camel Day Care")

@@ -2,10 +2,27 @@
 date: '2011-02-27T13:21:35-05:00'
 draft: false
 title: "Star Trek Online FE304: Coliseum (spoilers)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/02/27/star-trek-online-fe304-coliseum-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Amok Time"
   - "Arena"
   - "Bread and Circuses"
@@ -21,7 +38,16 @@ tags:
   - "Romulan"
   - "Sandworms"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg" title="Vanity, thy name is Reman shields" class="align-center" >}}

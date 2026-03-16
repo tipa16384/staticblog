@@ -2,13 +2,40 @@
 date: '2010-04-16T00:20:39-05:00'
 draft: false
 title: "IP-based MMOs Part 2 (of 5)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/16/ip-based-mmos-part-2-of-5/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "Final Fantasy"
   - "Hello Kitty Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/07305s-225x225.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/07305s-225x225.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/07305s-225x225.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While developing a game to an established IP may bring the potential of thousands of players eager to live in the world they have come to know, the property may also be a straight-jacket. Clever developers have found ways around these problems, though.

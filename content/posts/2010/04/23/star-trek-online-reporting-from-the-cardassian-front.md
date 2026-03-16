@@ -2,11 +2,38 @@
 date: '2010-04-23T21:13:11-05:00'
 draft: false
 title: "Star Trek Online: Reporting from the Cardassian Front"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/23/star-trek-online-reporting-from-the-cardassian-front/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-23-19-39-00-04.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-23-19-39-00-04.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-23-19-39-00-04.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-23-19-39-00-04.jpg "The Federation News Service at Tortig")

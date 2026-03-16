@@ -2,10 +2,27 @@
 date: '2009-01-19T13:57:00-05:00'
 draft: false
 title: "Lord of the Rings Online: Hobbit vs Troll"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/19/lord-of-the-rings-online-hobbit-vs-troll/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
-tags:
   - "Bree-Lands"
   - "Chetwood"
   - "Ettie"
@@ -13,7 +30,16 @@ tags:
   - "The Shire"
   - "Troll"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/lotroclient-2009-01-18-10-50-14-05.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/lotroclient-2009-01-18-10-50-14-05.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/lotroclient-2009-01-18-10-50-14-05.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/01/lotroclient-2009-01-18-10-50-14-05.jpg "lotroclient-2009-01-18-10-50-14-05")

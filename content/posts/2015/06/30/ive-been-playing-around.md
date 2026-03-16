@@ -2,10 +2,37 @@
 date: '2015-06-30T19:34:29-05:00'
 draft: false
 title: "Welcome to your New Week"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/06/30/ive-been-playing-around/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/newcal.png"
-cover: "https://chasingdings.com/wp-content/uploads/2015/06/newcal.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/06/newcal.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/newcal.png" title="These are the Days of the Week" class="align-center" >}}

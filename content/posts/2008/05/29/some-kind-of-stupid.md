@@ -2,10 +2,39 @@
 date: '2008-05-29T23:40:46-05:00'
 draft: false
 title: "Some kind of stupid"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/05/29/some-kind-of-stupid/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I remember level 44. On my first character, my druid Etha, it almost certainly happened in the pits and warrens of Nagafen's Lair, ridding the place of its kobold problem. On Tipa, I remember that level well; it was in the Dreadlands, and I was so excited because it meant I would soon be able to get Velk's groups. Brita, my cleric -- she was named Dera then -- made 44 in Kaesora. We owned that place.

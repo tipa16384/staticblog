@@ -2,10 +2,37 @@
 date: '2014-12-28T05:31:58-05:00'
 draft: false
 title: "Valkyria Chronicles mission: Wildwood Warfare at Kloden"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/28/valkyria-chronicles-mission-wildwood-warfare-at-kloden/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://lh5.googleusercontent.com/-B5PWxQ8Qbc8/VJ-Qbl6WVII/AAAAAAAA9nM/EGsixX9dk7c/w506-h750/Valkyria%2B2014-12-28%2B00-05-35-22.jpg"
-cover: "https://lh5.googleusercontent.com/-B5PWxQ8Qbc8/VJ-Qbl6WVII/AAAAAAAA9nM/EGsixX9dk7c/w506-h750/Valkyria%2B2014-12-28%2B00-05-35-22.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-B5PWxQ8Qbc8/VJ-Qbl6WVII/AAAAAAAA9nM/EGsixX9dk7c/w506-h750/Valkyria%2B2014-12-28%2B00-05-35-22.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 **Valkyria Chronicles mission: Wildwood Warfare at Kloden**

@@ -2,12 +2,39 @@
 date: '2007-02-12T03:03:39-05:00'
 draft: false
 title: "EQ2: The Fashionable Bard"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/02/12/eq2-the-fashionable-bard/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/bard1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/02/bard1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/02/bard1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The Slavering Azid finally let go of his bard legs tonight. I *told* Taps, the other bard (a dirge, poor guy) on the raid, that when he went AFK to get his kid that bard gear would be sure to drop, and it did... but I doubt he was unhappy with the Nightchord wrists and boots he got.

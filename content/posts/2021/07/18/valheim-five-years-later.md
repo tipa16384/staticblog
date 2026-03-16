@@ -2,15 +2,40 @@
 date: '2021-07-18T10:00:00-05:00'
 draft: false
 title: "Valheim: Five Years Later"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/07/18/valheim-five-years-later/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "When all the bosses are dead, building is all that's left."
-categories:
+description: "When all the bosses are dead, building is all that's left."
+tags:
   - "Steam Games"
   - "Survival"
   - "Valheim"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/20210717220919_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/07/20210717220919_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/07/20210717220919_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I like Valheim beyond all reason. Everyone in my play group has moved on; only I remain. And all I do is build and explore; well, not so much exploring. The devs have said that with the upcoming Mistlands patch, any explored biomes of that type will not be updated with the new content as they have been set in stone already.

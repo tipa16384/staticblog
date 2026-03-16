@@ -2,17 +2,42 @@
 date: '2025-08-15T16:00:59-05:00'
 draft: false
 title: "Base44: Games from a Prompt"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/15/base44-games-from-a-prompt/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Yes, I'm going to talk about AI-created games here. Feel free to go off on me IN THE COMMENTS :-)"
-categories:
+description: "Yes, I'm going to talk about AI-created games here. Feel free to go off on me IN THE COMMENTS :-)"
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Midjourney"
-tags:
   - "Base44"
   - "Blue Oyster Cult"
   - "ChatGPT"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/pendeenpoint.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/pendeenpoint.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/pendeenpoint.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The pitch was simple: write a prompt, and AI will write an entire and complete game from it, with no interaction from you!

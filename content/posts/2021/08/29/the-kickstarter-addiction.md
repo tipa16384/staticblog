@@ -2,21 +2,47 @@
 date: '2021-08-29T21:36:08-05:00'
 draft: false
 title: "The Kickstarter Addiction"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/29/the-kickstarter-addiction/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Flamecraft"
   - "Game Night"
   - "Kickstarter"
   - "Return to Dark Tower"
   - "Tabletop Games"
-tags:
   - "Hangin with Dr Z"
   - "Rainbow 6"
   - "Sacrifire"
   - "Sunrise Market"
   - "Tiny Epic Dungeons"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/drz.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/drz.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/drz.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I buy too much stuff on Kickstarter. And so can you. Might be fun to look into some of the recent projects I've backed... especially since I can't reliably connect to DCUO since the patch so I am practicing mandolin and backing Kickstarters... and one of them is too horrifying to talk about. The other one is about giving your money to strangers.

@@ -2,8 +2,37 @@
 date: '2009-05-02T07:46:42-05:00'
 draft: false
 title: "My favorite spam ever!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/02/my-favorite-spam-ever/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I get a LOT of spam, most of it I just silently delete... but this one... this one is special. It's from Russia, and any email or offer or web site from Russia is a scam. The place is the world capital of scams. I'd hate to actually try using the Internet from within Russia, as the citizens of that fine country probably find they can't trust anything at all.

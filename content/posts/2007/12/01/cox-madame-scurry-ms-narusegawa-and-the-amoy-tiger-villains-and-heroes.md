@@ -2,21 +2,46 @@
 date: '2007-12-01T14:38:06-05:00'
 draft: false
 title: "CoX: Madame Scurry, Ms. Narusegawa, and the Amoy Tiger -- Villains and Heroes"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/01/cox-madame-scurry-ms-narusegawa-and-the-amoy-tiger-villains-and-heroes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "MMORPG"
-tags:
   - "City of Villains"
   - "CoH"
   - "CoV"
   - "Madame Scurry"
-  - "MMORPG"
   - "Ms. Narusegawa"
   - "Paragon City"
   - "Rogue Isle"
   - "The Amoy Tiger"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/cityofheroes-2007-12-01-12-05-32-84.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/12/cityofheroes-2007-12-01-12-05-32-84.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/12/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I thought I'd say hello to my City of Heroes/Villains characters again. Now that I am not paying for a second Station Pass subscription, I can check back in on my older games, like City of Heroes and World of Warcraft. I never had played City of Villains, actually, and I'd entirely forgotten how to play these games, so I started a new character to get in the swing of things -- Madame Scurry. Yeah, I know, she should have had a science origin with a name like that... I got a lot of group invites for her. Most of the people I saw were playing brutes. Is that such a wonderful class?

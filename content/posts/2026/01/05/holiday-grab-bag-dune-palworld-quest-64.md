@@ -2,16 +2,41 @@
 date: '2026-01-05T08:56:39-05:00'
 draft: false
 title: "Holiday Grab Bag: Dune, Palworld, Quest 64"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2026/01/05/holiday-grab-bag-dune-palworld-quest-64/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on..."
-categories:
+description: "We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on..."
+tags:
   - "Dune Awakening"
   - "MMORPG"
   - "Palworld"
-tags:
   - "Analogue"
   - "Quest 64"
 featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/1-20260104163451_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2026/01/1-20260104163451_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2026/01/1-20260104163451_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every day, the leader of the Prophets of Melange guild hosts a control point capping party in the Dune: Awakening Deep Desert. I've not been on one; I guess you can capture a control point each day, and if you're in a group when it's done, everyone gets the credit. I have a mission that requires me to do this, just once, and it's been sitting there, undone, for months, as by the time I get on to play, it's been done.

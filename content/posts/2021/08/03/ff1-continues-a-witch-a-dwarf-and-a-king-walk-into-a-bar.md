@@ -2,18 +2,44 @@
 date: '2021-08-03T23:17:26-05:00'
 draft: false
 title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "CRPG"
   - "Final Fantasy"
   - "Final Fantasy XIV"
   - "Steam Games"
-tags:
   - "Jrpg"
   - "RPG"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/laliho.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/laliho.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/laliho.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was just going to play Final Fantasy XIV long enough to get a picture with a dwarf to illustrate how Final Fantasy themes crop up again and again... and I *did* that... but then I started working on the main story quest again... and... well, maybe later.

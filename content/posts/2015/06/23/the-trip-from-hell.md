@@ -2,11 +2,38 @@
 date: '2015-06-23T19:48:55-05:00'
 draft: false
 title: "The trip from Hell."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/06/23/the-trip-from-hell/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Euro Truck Simulator 2"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/2015-06-23_00001.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/06/2015-06-23_00001.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/06/2015-06-23_00001.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/2015-06-23_00001.jpg" title="Am I lost? I can't even tell anymore." class="align-center" >}}

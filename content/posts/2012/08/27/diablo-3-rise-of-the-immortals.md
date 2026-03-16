@@ -2,10 +2,37 @@
 date: '2012-08-27T22:36:46-05:00'
 draft: false
 title: "Diablo 3: Rise of the Immortals"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/08/27/diablo-3-rise-of-the-immortals/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-26-23-45-29-61-480x269.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-26-23-45-29-61-480x269.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-26-23-45-29-61-480x269.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-26-23-45-29-61-480x269.jpg" title="Headed to the Butcher" class="align-center" >}}

@@ -2,15 +2,41 @@
 date: '2008-09-15T08:29:50-05:00'
 draft: false
 title: "Vanguard noob experience: The Isle of Dawn"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/15/vanguard-noob-experience-the-isle-of-dawn/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Vanguard"
-tags:
   - "Isle of Dawn"
   - "Newbie Island"
   - "Temple of the Ancients"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've played Vanguard before -- but only up to 18. I still consider myself a Vanguad "noobie". I felt more like a noob than ever after running through the new player experience, "The Isle of Dawn". Almost everyone I met there had at least one max level character, and for those Vanguard experts, the noob island was easy and fun. To someone still fairly new to Vanguard, it was a somewhat frustrating experience. I crashed to desktop four times, got stuck in an elevator three times (being warned each time I typed /stuck yes that my usage was being logged and I could be banned), and drowned in the middle of an open room with no water in sight.

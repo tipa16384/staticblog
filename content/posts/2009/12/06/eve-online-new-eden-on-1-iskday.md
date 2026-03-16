@@ -2,11 +2,38 @@
 date: '2009-12-06T14:28:14-05:00'
 draft: false
 title: "EVE Online: New Eden on 1 ISK/day"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/12/06/eve-online-new-eden-on-1-iskday/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/1ISK.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/12/1ISK.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/12/1ISK.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Intergalactic Traders, AWAY!](https://chasingdings.com/wp-content/uploads/2009/12/1ISK.jpg "Intergalactic Traders, AWAY!")

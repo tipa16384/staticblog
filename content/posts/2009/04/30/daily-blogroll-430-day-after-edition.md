@@ -2,7 +2,25 @@
 date: '2009-04-30T08:13:35-05:00'
 draft: false
 title: "Daily Blogroll 4/30 -- Wednesday is the new Tuesday edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/30/daily-blogroll-430-day-after-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Daily Blogroll"
   - "EverQuest"
@@ -10,7 +28,16 @@ categories:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4302009-81249-am.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4302009-81249-am.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4302009-81249-am.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![fullscreen-capture-4302009-81249-am](https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4302009-81249-am.jpg "fullscreen-capture-4302009-81249-am")

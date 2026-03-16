@@ -2,8 +2,37 @@
 date: '2014-12-26T21:23:36-05:00'
 draft: false
 title: "More \"It's a Wipe!\" progress in the Insect Temple. Prophet Dung Beetle -- kill the P.D.B. until it ..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/26/more-its-a-wipe-progress-in-the-insect-temple-prophet-dung-beetle-kill-the-p-d-b-until-it/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 More "It's a Wipe!" progress in the Insect Temple.

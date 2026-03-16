@@ -2,13 +2,40 @@
 date: '2011-05-24T07:09:13-05:00'
 draft: false
 title: "What if Rift was modeled after EverQuest?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/05/24/what-if-rift-was-modeled-after-everquest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Rift"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg" title="The awe-inspiring Harbinger of Regulos" class="align-center" >}}

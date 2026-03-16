@@ -2,11 +2,38 @@
 date: '2009-09-30T18:55:21-05:00'
 draft: false
 title: "EVE Online: PvP ops fallout"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/30/eve-online-pvp-ops-fallout/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-08-20-34-50-99.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-08-20-34-50-99.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-08-20-34-50-99.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![C beams on fire off the shoulder of Orion](https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-08-20-34-50-99.jpg "C beams on fire off the shoulder of Orion")

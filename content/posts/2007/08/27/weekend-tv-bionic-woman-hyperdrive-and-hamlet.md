@@ -2,10 +2,37 @@
 date: '2007-08-27T07:41:14-05:00'
 draft: false
 title: "Weekend TV: Bionic Woman, Hyperdrive and Hamlet"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/08/27/weekend-tv-bionic-woman-hyperdrive-and-hamlet/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/08/nup_106414_0301.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/08/nup_106414_0301.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/08/nup_106414_0301.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![nup_106414_0301.jpg](https://chasingdings.com/wp-content/uploads/2007/08/nup_106414_0301.jpg)

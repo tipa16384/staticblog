@@ -2,12 +2,28 @@
 date: '2023-08-17T07:00:00-05:00'
 draft: false
 title: "The Games that Defined Me, Part 2 -- Arcade"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/17/the-games-that-defined-me-part-2-arcade/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "In the 80s, I went to the arcade two or three times a week. I took my love of arcade games to home consoles."
-categories:
+description: "In the 80s, I went to the arcade two or three times a week. I took my love of arcade games to home consoles."
+tags:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "Babylon 5"
   - "Gauntlet"
   - "Radiant Silvergun"
@@ -16,7 +32,16 @@ tags:
   - "Wing Commander"
   - "Xevious"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/startrek.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/startrek.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/startrek.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have M.A.M.E. installed on my gaming computer, and writing this post about classic arcade games and how they lead to the games I play today just sent me on a huge trip into the past... literally. I just played through the first three levels of Cadillacs & Dinosaurs....

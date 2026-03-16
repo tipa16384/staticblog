@@ -2,7 +2,25 @@
 date: '2011-01-16T06:00:18-05:00'
 draft: false
 title: "Daily Blogroll 1/16 -- Lazy Sunday edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/01/16/daily-blogroll-116-lazy-sunday-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "DC Universe Online"
   - "Earthrise"
@@ -11,7 +29,16 @@ categories:
   - "Guild Wars"
   - "Vanguard"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/teevee.png"
-cover: "https://chasingdings.com/wp-content/uploads/2011/01/teevee.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/01/teevee.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2011/01/teevee.png "It")

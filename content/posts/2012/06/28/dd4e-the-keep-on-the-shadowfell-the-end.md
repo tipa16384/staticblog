@@ -2,11 +2,38 @@
 date: '2012-06-28T06:48:57-05:00'
 draft: false
 title: "D&D4E: The Keep on the Shadowfell: the end."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/06/28/dd4e-the-keep-on-the-shadowfell-the-end/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "D&D 4e"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/06/1-FantasyGrounds-2012-06-27-21-24-30-36-480x328.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/06/1-FantasyGrounds-2012-06-27-21-24-30-36-480x328.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/06/1-FantasyGrounds-2012-06-27-21-24-30-36-480x328.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/06/1-FantasyGrounds-2012-06-27-21-24-30-36-480x328.jpg" title="Kalarel's chamber" class="align-center" >}}

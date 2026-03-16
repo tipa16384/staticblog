@@ -2,16 +2,41 @@
 date: '2025-06-11T08:00:00-05:00'
 draft: false
 title: "Dark Quest 4: More Hero Quest than ever?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/06/11/dark-quest-4-more-hero-quest-than-ever/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Can Dark Quest 4 satisfy your insatiable appetite for Hero Quest, except on a computer?"
-categories:
+description: "Can Dark Quest 4 satisfy your insatiable appetite for Hero Quest, except on a computer?"
+tags:
   - "HeroQuest"
   - "Steam Games"
   - "Tabletop Games"
   - "Turn-Based Rpgs"
-tags:
   - "Dark Quest"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/1-20250610202611_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/06/1-20250610202611_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/06/1-20250610202611_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I admit that I'd never heard of the Dark Quest series before, which is bizarre, as I am a huge Hero Quest fan. We're even about to start a new campaign in real life. So... when I finally did hear about it, I wishlisted it immediately. The demo dropped today, and I dropped everything to play it.

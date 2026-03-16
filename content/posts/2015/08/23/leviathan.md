@@ -2,11 +2,38 @@
 date: '2015-08-23T15:44:07-05:00'
 draft: false
 title: "Leviathan!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/08/23/leviathan/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/08/vlcsnap-2015-08-23-08h54m18s52.png"
-cover: "https://chasingdings.com/wp-content/uploads/2015/08/vlcsnap-2015-08-23-08h54m18s52.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/08/vlcsnap-2015-08-23-08h54m18s52.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/08/vlcsnap-2015-08-23-08h54m18s52.png" title="Looking for a snack..." class="align-center" >}}

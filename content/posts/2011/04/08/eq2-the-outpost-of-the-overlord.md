@@ -2,11 +2,38 @@
 date: '2011-04-08T06:48:35-05:00'
 draft: false
 title: "EQ2: The Outpost of the Overlord"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/04/08/eq2-the-outpost-of-the-overlord/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24-480x480.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24-480x480.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24-480x480.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24-480x480.jpg "Alone in the Outpost")](https://chasingdings.com/wp-content/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24.jpg)

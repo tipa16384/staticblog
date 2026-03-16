@@ -2,12 +2,39 @@
 date: '2006-12-04T12:11:39-05:00'
 draft: false
 title: "EQ2: Of Interagents, Vindicators and Glowy Things"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/12/04/eq2-of-interagents-vindicators-and-glowy-things/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/12/crush.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/12/crush.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/12/crush.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've done the D'Vinn's Throne Room instance (a level 30-35 instance within Crushbone Keep that starts the plot completed in the 60ish instance Acadechism) a couple of times, but didn't get a chance to get a good picture of Vindicator Crush when he arrives at the call of Emperor D'Vinn. Because I've been healing it with my defiler, Etha, and when you're healing, in EQ2 as in all other MMOs in which I've healed, all you see is health bars.

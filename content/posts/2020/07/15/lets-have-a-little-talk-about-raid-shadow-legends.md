@@ -2,14 +2,40 @@
 date: '2020-07-15T12:28:49-05:00'
 draft: false
 title: "Let's have a little talk about RAID: SHADOW LEGENDS."
-categories:
-  - "Mobile Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/07/15/lets-have-a-little-talk-about-raid-shadow-legends/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Mobile Games"
   - "Gacha"
   - "Mobile Game"
   - "Raid Shadow Legends"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/IMG_1733.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/07/IMG_1733.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/07/IMG_1733.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I finally succumbed to the advertising, and downloaded Raid: Shadow Legends. It couldn't be *as bad* as everyone made it sound, could it? My Free Company on FFXIV is always making fun of it, and I can kinda see why?

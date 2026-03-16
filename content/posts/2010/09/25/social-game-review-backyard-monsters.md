@@ -2,9 +2,26 @@
 date: '2010-09-25T00:41:18-05:00'
 draft: false
 title: "Social Game Review: Backyard Monsters"
-categories:
-  - "Facebook Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/09/25/social-game-review-backyard-monsters/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Facebook Games"
   - "Backyard Monsters"
   - "Casual Collective"
   - "Facebook"
@@ -12,7 +29,16 @@ tags:
   - "Social Game"
   - "Tower Defense"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg "Backyard Monsters")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9242010-91206-PM.jpg)

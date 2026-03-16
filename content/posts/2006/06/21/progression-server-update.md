@@ -2,8 +2,37 @@
 date: '2006-06-21T00:00:00-05:00'
 draft: false
 title: "Progression Server Update"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/06/21/progression-server-update/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 MMORPG.com has an [interview with an EQ producer](http://www.mmorpg.com/gamelist.cfm/gameId/9/setView/features/loadFeature/723) about the new progression server. There's more talk about what players might expect when they join, and they announce a second progression server, The Sleeper, to launch alongside The Combine.

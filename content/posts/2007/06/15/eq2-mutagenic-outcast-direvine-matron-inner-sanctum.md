@@ -2,11 +2,38 @@
 date: '2007-06-15T06:51:53-05:00'
 draft: false
 title: "EQ2: Mutagenic Outcast, Direvine Matron, Inner Sanctum"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/06/15/eq2-mutagenic-outcast-direvine-matron-inner-sanctum/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000004.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000004.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000004.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The Mutagenic Outcast is a little critter who stands about, minding his own business really, on the Isle of Ravasects in the Bonemire. I don't know why he was outcast. If you roll a ball to him, he'll knock it back, but he won't talk. Lost in thought, he is. Did he commit a crime? Did the other ravasects not want to play with him because he was mutagenic?

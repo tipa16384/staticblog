@@ -2,16 +2,42 @@
 date: '2023-04-23T15:18:33-05:00'
 draft: false
 title: "Horizon Forbidden West: Aloy Finds Love"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/04/23/horizon-forbidden-west-aloy-finds-love/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Horizon Forbidden West"
   - "PS5"
-tags:
   - "Aloy"
   - "Burning Shores"
   - "Gildun"
   - "Horizon Zero Dawn"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/04/1-Horizon-Forbidden-West_20230423112855.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/04/1-Horizon-Forbidden-West_20230423112855.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/04/1-Horizon-Forbidden-West_20230423112855.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After their meeting in *Frozen Wilds*, I never expected to see Gildun again -- but when he appeared again in the first DLC for Horizon Forbidden West, *The Burning Shores*, what happened shocked even me.

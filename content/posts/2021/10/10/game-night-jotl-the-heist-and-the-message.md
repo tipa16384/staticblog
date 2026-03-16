@@ -2,15 +2,41 @@
 date: '2021-10-10T10:01:10-05:00'
 draft: false
 title: "Game Night: JotL \"The Heist\" and \"The Message\""
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/10/10/game-night-jotl-the-heist-and-the-message/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Game"
   - "Tabletop Games"
-tags:
   - "Jaws of the Lion"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2350.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2350.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2350.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Two short scenarios for last night's Jaws of the Lion campaign: First was "The Heist", where we investigate a sewer branch that led directly beneath some rich dude's mansion. Second was the Red Guard's personal quest. Both were harrowing races against time.

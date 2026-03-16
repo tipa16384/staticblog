@@ -2,15 +2,41 @@
 date: '2021-11-27T10:47:49-05:00'
 draft: false
 title: "Wombo.art -- create abstract fantasy art"
-categories:
-  - "Asides"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/27/wombo-art-create-abstract-fantasy-art/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Asides"
   - "AI"
   - "Artflow"
   - "Wombo.ai"
   - "Wombo.art"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/1-Tree_TradingCard.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/1-Tree_TradingCard.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/1-Tree_TradingCard.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Creating portraits with [artflow.ai](https://chasingdings.com/2021/11/12/im-a-little-obsessed-with-this-ai-portrait-generator/)? Old news. Creating abstract fantasy paintings with [wombo.art](https://www.wombo.art/) -- *now* we're talking.

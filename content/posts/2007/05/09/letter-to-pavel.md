@@ -2,10 +2,37 @@
 date: '2007-05-09T19:34:25-05:00'
 draft: false
 title: "Letter to Pavel"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/05/09/letter-to-pavel/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
 featured_image: "http://img.photobucket.com/albums/v134/bholloway/tipanew.gif"
-cover: "http://img.photobucket.com/albums/v134/bholloway/tipanew.gif"
+cover:
+  image: "http://img.photobucket.com/albums/v134/bholloway/tipanew.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](http://img.photobucket.com/albums/v134/bholloway/tipanew.gif)

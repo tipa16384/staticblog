@@ -2,11 +2,38 @@
 date: '2010-02-21T01:25:58-05:00'
 draft: false
 title: "Allods Online: Workers of the World!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/02/21/allods-online-workers-of-the-world/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Allods Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-21-00-58-10-84-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-21-00-58-10-84-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-21-00-58-10-84-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-21-00-58-10-84-480x384.jpg" title="Click to Enlarge" class="align-center" >}}

@@ -2,8 +2,37 @@
 date: '2008-01-15T16:20:19-05:00'
 draft: false
 title: "Read the prologue to Iain M. Banks' new book, \"Matter\"."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/15/read-the-prologue-to-iain-m-banks-new-book-matter/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Sci Fi"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A new book by Iain [M] Banks is always something to celebrate. Humor, action, politics, joy and despair (but usually more of the latter than the former, alas) combined with meticulous world-building and characters real enough to care for... he is one of the most brilliant SF writers of his age.

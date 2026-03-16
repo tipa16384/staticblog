@@ -2,13 +2,38 @@
 date: '2020-08-31T07:35:16-05:00'
 draft: false
 title: "Blaugust #30: Don't Worry, Be Happy"
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/31/blaugust-30-dont-worry-be-happy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
   - "Nobody Scream and Nobody Gets Hurt"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/PSP-Final-Fantasy-4-The-Complete-Collection-The-After-Years-White-Mage.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/PSP-Final-Fantasy-4-The-Complete-Collection-The-After-Years-White-Mage.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/PSP-Final-Fantasy-4-The-Complete-Collection-The-After-Years-White-Mage.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This is the last Blaugust Promptapalooza post for this year! It's my first one, and I really feel badly that I missed all the previous ones.

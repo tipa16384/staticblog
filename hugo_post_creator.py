@@ -565,7 +565,7 @@ def create_hugo_post(item, child_items=None, tag_normalization_dict=None, tags_o
     else:
         normalized_title = "Untitled"
 
-    # Add summary only when excerpt:encoded has content.
+    # Add summary when excerpt:encoded has content.
     summary_text = ""
     if excerpt_encoded.strip():
         summary_text = re.sub(r'[\r\n]+', ' ', excerpt_encoded)
@@ -591,42 +591,76 @@ def create_hugo_post(item, child_items=None, tag_normalization_dict=None, tags_o
             lines.append(f"  - \"{escape_yaml_string(value)}\"")
         return "\n".join(lines)
 
+    def dedupe_preserve_order(values):
+        """Deduplicate a sequence while preserving input order."""
+        seen = set()
+        result = []
+        for value in values:
+            if value not in seen:
+                seen.add(value)
+                result.append(value)
+        return result
+
     # Create Hugo frontmatter in YAML format
     frontmatter_lines = [
         "---",
         f"date: '{iso_date}'",
         "draft: false",
         f"title: \"{escape_yaml_string(normalized_title)}\"",
+        "author: \"Tipa\"",
+        "showToc: true",
+        "TocOpen: false",
+        "hidemeta: false",
+        "comments: false",
+        f"canonicalURL: \"{escape_yaml_string(link_url)}\"",
+        "disableHLJS: false",
+        "disableShare: false",
+        "hideSummary: false",
+        "searchHidden: true",
+        "ShowReadingTime: true",
+        "ShowBreadCrumbs: true",
+        "ShowPostNavLinks: true",
+        "ShowWordCount: true",
+        "ShowRssButtonInSectionTermList: true",
+        "UseHugoToc: true",
     ]
 
+    frontmatter_lines.append(f"summary: \"{escape_yaml_string(summary_text)}\"")
     if summary_text:
-        frontmatter_lines.append(f"summary: \"{escape_yaml_string(summary_text)}\"")
-    
-    if tags_only:
-        # Combine categories and tags into a single tags array
-        all_tags = []
-        if 'category' in taxonomies and taxonomies['category']:
-            all_tags.extend(taxonomies['category'])
-        if 'tag' in taxonomies and taxonomies['tag']:
-            all_tags.extend(taxonomies['tag'])
-        
-        if all_tags:
-            frontmatter_lines.append(yaml_list_block("tags", all_tags))
+        frontmatter_lines.append(f"description: \"{escape_yaml_string(summary_text)}\"")
     else:
-        # Add categories if they exist
-        if 'category' in taxonomies and taxonomies['category']:
-            categories_list = taxonomies['category']
-            frontmatter_lines.append(yaml_list_block("categories", categories_list))
-        
-        # Add tags if they exist  
-        if 'tag' in taxonomies and taxonomies['tag']:
-            tags_list = taxonomies['tag']
-            frontmatter_lines.append(yaml_list_block("tags", tags_list))
+        frontmatter_lines.append("description: \"Desc Text.\"")
     
-    if featured_image_url:
-        escaped_featured = escape_yaml_string(featured_image_url)
-        frontmatter_lines.append(f"featured_image: \"{escaped_featured}\"")
-        frontmatter_lines.append(f"cover: \"{escaped_featured}\"")
+    # Combine categories and tags into a single tags array.
+    all_tags = []
+    if 'category' in taxonomies and taxonomies['category']:
+        all_tags.extend(taxonomies['category'])
+    if 'tag' in taxonomies and taxonomies['tag']:
+        all_tags.extend(taxonomies['tag'])
+    all_tags = dedupe_preserve_order(all_tags)
+
+    if all_tags:
+        frontmatter_lines.append(yaml_list_block("tags", all_tags))
+    else:
+        frontmatter_lines.append("tags:")
+        frontmatter_lines.append("  - \"first\"")
+    
+    escaped_featured = escape_yaml_string(featured_image_url) if featured_image_url else ""
+    frontmatter_lines.append(f"featured_image: \"{escaped_featured}\"")
+    frontmatter_lines.append("cover:")
+    if escaped_featured:
+        frontmatter_lines.append(f"  image: \"{escaped_featured}\"")
+    else:
+        frontmatter_lines.append("  image: \"<image path/url>\"")
+    frontmatter_lines.append("  alt: \"<alt text>\"")
+    frontmatter_lines.append("  caption: \"<text>\"")
+    frontmatter_lines.append("  relative: false")
+    frontmatter_lines.append("  hidden: false")
+
+    frontmatter_lines.append("editPost:")
+    frontmatter_lines.append("  URL: \"https://github.com/tipa16384/staticblog/tree/main/content\"")
+    frontmatter_lines.append("  Text: \"Suggest Changes\"")
+    frontmatter_lines.append("  appendFilePath: true")
 
     frontmatter = "\n".join(frontmatter_lines) + f"\n---\n\n{post_content}\n"
     

@@ -2,16 +2,42 @@
 date: '2020-10-14T08:33:56-05:00'
 draft: false
 title: "Ogre Battle: Alignment and Charisma"
-categories:
-  - "Super Nintendo"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/14/ogre-battle-alignment-and-charisma/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Super Nintendo"
   - "Ogre Battle"
   - "RPG"
   - "Snes"
   - "Tactics"
   - "The March of the Black Queen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Before I decided to consolidate my groups a bit, my lord's alignment and charisma were sky-high. I'm even proudly wielding the holy sword Brunhild. They just don't toss those out to just *anyone*.

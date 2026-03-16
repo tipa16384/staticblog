@@ -2,19 +2,44 @@
 date: '2010-08-31T07:07:29-05:00'
 draft: false
 title: "Treasure Abyss: Not your ordinary social game"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/31/treasure-abyss-not-your-ordinary-social-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Facebook Games"
   - "Treasure Abyss"
-tags:
   - "Bandai"
   - "City of Wonder"
   - "Facebook"
   - "Frontierville"
   - "Namco"
   - "RPG"
-  - "Treasure Abyss"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg "Dungeon crawling")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-63135-PM.jpg)

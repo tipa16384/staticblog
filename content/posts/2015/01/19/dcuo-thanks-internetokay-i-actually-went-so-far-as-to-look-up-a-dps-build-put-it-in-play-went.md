@@ -2,11 +2,38 @@
 date: '2015-01-19T17:53:59-05:00'
 draft: false
 title: "DCUO: Thanks, Internet!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/19/dcuo-thanks-internetokay-i-actually-went-so-far-as-to-look-up-a-dps-build-put-it-in-play-went/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://lh5.googleusercontent.com/--z95yQJlIGA/VL1D8SnGqCI/AAAAAAAA-5k/6RSLhwmEPa0/w506-h750/DCGame%2B2015-01-19%2B12-37-07-57.jpg"
-cover: "https://lh5.googleusercontent.com/--z95yQJlIGA/VL1D8SnGqCI/AAAAAAAA-5k/6RSLhwmEPa0/w506-h750/DCGame%2B2015-01-19%2B12-37-07-57.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/--z95yQJlIGA/VL1D8SnGqCI/AAAAAAAA-5k/6RSLhwmEPa0/w506-h750/DCGame%2B2015-01-19%2B12-37-07-57.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 DCUO: Thanks, Internet!

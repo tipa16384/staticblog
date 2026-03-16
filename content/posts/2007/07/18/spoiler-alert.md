@@ -2,8 +2,37 @@
 date: '2007-07-18T08:46:29-05:00'
 draft: false
 title: "Spoiler Alert"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/07/18/spoiler-alert/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Hi. I am writing this with my eyes ckised, U canb't be sure something I have written won't spoil the ending of the new Harry Potter boiok or me. It's a real damger -- seems everywhere I turn, people are eager to tell me things I do not want to know yet. For all I know, this very post could be full of tons of spoilers.

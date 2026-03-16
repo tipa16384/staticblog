@@ -2,18 +2,43 @@
 date: '2025-01-06T08:16:45-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/06/i-know-what-i-did-last-weekend/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This weekend was a little time in a lot of games. There's a game or two in here you might not have heard of."
-categories:
+description: "This weekend was a little time in a lot of games. There's a game or two in here you might not have heard of."
+tags:
   - "Baldur's Gate 3"
   - "Guild Wars"
   - "Malifaux"
   - "Palworld"
-tags:
   - "Bardwood Grove"
   - "Fantasian Neo Dimension"
   - "Starvaders"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/2025-1-6.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/2025-1-6.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/2025-1-6.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I thought it might be fun to just *summarize* last weekend's gaming. I do a few things, but not one of them deserves its own blog post.

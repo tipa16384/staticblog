@@ -2,14 +2,40 @@
 date: '2024-10-21T08:00:00-05:00'
 draft: false
 title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Not a MineCraft mod, ECO brings back the 1999 experience in style -- block style."
-categories:
+description: "Not a MineCraft mod, ECO brings back the 1999 experience in style -- block style."
+tags:
   - "Adrullan Online Adventures"
   - "EverQuest"
   - "Minecraft"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/evercraft-banner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/evercraft-banner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/evercraft-banner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It really is mysterious to me why there are so, so many games seeking to recreate the vibe of the original EverQuest -- the game that brought 3D MMOs to the masses and sparked an industry. Just recently, I wrote about Erenshor, a single-player MMO. Monsters & Memories, Pantheon and Embers Adrift try to bring the game to the modern day. And then there's EverCraft Online.

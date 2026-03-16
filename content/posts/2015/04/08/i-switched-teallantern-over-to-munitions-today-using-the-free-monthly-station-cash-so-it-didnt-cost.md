@@ -2,10 +2,37 @@
 date: '2015-04-08T03:38:16-05:00'
 draft: false
 title: "I switched TealLantern over to Munitions today, using the \"free\" monthly station cash so it didn't cost..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/04/08/i-switched-teallantern-over-to-munitions-today-using-the-free-monthly-station-cash-so-it-didnt-cost/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://lh6.googleusercontent.com/-DibjNrEZa54/VSSfN-0rhPI/AAAAAAABBbk/BShmCMLZhpA/w506-h750/CHARSELECT_CREATE-PC-07-23.22.270.jpg"
-cover: "https://lh6.googleusercontent.com/-DibjNrEZa54/VSSfN-0rhPI/AAAAAAABBbk/BShmCMLZhpA/w506-h750/CHARSELECT_CREATE-PC-07-23.22.270.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-DibjNrEZa54/VSSfN-0rhPI/AAAAAAABBbk/BShmCMLZhpA/w506-h750/CHARSELECT_CREATE-PC-07-23.22.270.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I switched TealLantern over to Munitions today, using the "free" monthly station cash so it didn't cost me any REAL money. I've only worked on a damage build so far.

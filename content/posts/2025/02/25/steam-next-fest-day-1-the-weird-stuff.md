@@ -2,14 +2,39 @@
 date: '2025-02-25T08:15:36-05:00'
 draft: false
 title: "Steam Next Fest: Day 1, the Weird Stuff"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/02/25/steam-next-fest-day-1-the-weird-stuff/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's the day when indies strut their stuff! Quick looks at Infinity Cats Project, Desktop Survivors 98, Inconceivable Rat Endeavor and Make Your Choice."
-categories:
+description: "It's the day when indies strut their stuff! Quick looks at Infinity Cats Project, Desktop Survivors 98, Inconceivable Rat Endeavor and Make Your Choice."
+tags:
   - "Puzzle Games"
   - "Steam Games"
-tags:
   - "Steam Next Fest"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/1-steam-next-fest.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/02/1-steam-next-fest.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/02/1-steam-next-fest.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Steam holds a lot of events throughout the year, but "Next Fest" is, by far, the most creative. Developers big and small showcase their upcoming games and there is nothing too weird to show.

@@ -2,7 +2,25 @@
 date: '2009-05-11T07:18:38-05:00'
 draft: false
 title: "Daily Blogroll 5/11 -- Reboot edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/11/daily-blogroll-511-reboot-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "City of Heroes"
   - "Daily Blogroll"
@@ -14,6 +32,17 @@ categories:
   - "Mythos"
   - "Star Trek"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I saw *Star Trek* Friday night -- and it was great. Kinda made me wonder if someone could do the same for *Star Wars*... like if, somehow, Jarjar Binks went back in time to train Anakin before Qui-gon Schindler got to him...

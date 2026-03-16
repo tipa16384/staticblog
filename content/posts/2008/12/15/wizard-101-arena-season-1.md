@@ -2,14 +2,40 @@
 date: '2008-12-15T23:53:44-05:00'
 draft: false
 title: "Wizard 101 Arena Season 1"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/15/wizard-101-arena-season-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Arena"
   - "PvP"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg "wizardgraphicalclient-2008-12-15-20-25-48-13")

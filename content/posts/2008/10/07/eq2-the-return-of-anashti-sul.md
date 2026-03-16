@@ -2,10 +2,27 @@
 date: '2008-10-07T08:40:20-05:00'
 draft: false
 title: "EQ2: The return of Anashti Sul?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/07/eq2-the-return-of-anashti-sul/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Anashti Sul"
   - "Bertoxxulous"
   - "EverQuest II"
@@ -15,7 +32,16 @@ tags:
   - "The Shadow Odyssey"
   - "The Void"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-06-22-41-21-45.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The EverQuest 2 GU48 world quest deals with, from the evil side, anyway, discovering who is responsible for the death of a Qeynosian Seeress who died mysteriously just before she was to make a pronouncement. All the signs point to work by Bertoxxulous's disciples, but the high priest of the god of disease swears that though they have no love for any follower of the Prime Healer, Rodcet Nife, it wasn't them. They were framed.

@@ -2,10 +2,27 @@
 date: '2008-10-27T08:45:01-05:00'
 draft: false
 title: "Wizard 101: Hametsu Village"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/27/wizard-101-hametsu-village/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Hametsu Village"
   - "Knight's Court"
   - "Krokotopia"
@@ -13,9 +30,17 @@ tags:
   - "Moo Shu"
   - "Tatakai Outpost"
   - "W101"
-  - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg "wizardgraphicalclient-2008-10-26-17-18-58-70")

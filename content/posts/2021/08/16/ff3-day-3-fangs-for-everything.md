@@ -2,15 +2,40 @@
 date: '2021-08-16T08:01:53-05:00'
 draft: false
 title: "FF3, Day 3: Fangs for Everything"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/16/ff3-day-3-fangs-for-everything/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Final Fantasy"
   - "Steam Games"
-tags:
-  - "Blaugust"
   - "Jrpg"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210815094224_1-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210815094224_1-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210815094224_1-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Just one crystal to restore -- the Earth crystal. We've already restored three of them. How hard could the last one be?

@@ -2,12 +2,39 @@
 date: '2006-10-17T16:55:18-05:00'
 draft: false
 title: "EQ2: Crafting Milestones"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/10/17/eq2-crafting-milestones/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/10/haffervs.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/10/haffervs.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/10/haffervs.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Haffer vs Haffer](https://chasingdings.com/wp-content/uploads/2006/10/haffervs.jpg)

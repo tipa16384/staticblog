@@ -2,17 +2,43 @@
 date: '2022-05-02T08:59:24-05:00'
 draft: false
 title: "Restarting in Valheim"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/05/02/restarting-in-valheim/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Steam Games"
   - "Survival"
   - "Valheim"
-tags:
   - "RPG"
   - "Steam"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/05/20220429225417_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/05/20220429225417_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/05/20220429225417_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Those "in the know" remember how much I'm struggling in Bloodborne and Elden Ring, even as I finish up the last of the main campaigns in Wildermyth. Those, though, are all primarily solo games. When I want to hang with friends, though, there's only two choices: DCUO, and Valheim. And Team Spode mate Calrain made a whole new world and invited me in to go through the game a second time as we wait for Mistlands to re-appear.

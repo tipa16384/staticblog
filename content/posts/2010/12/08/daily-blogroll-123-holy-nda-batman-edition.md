@@ -2,7 +2,25 @@
 date: '2010-12-08T06:00:22-05:00'
 draft: false
 title: "Daily Blogroll 12/8 -- Holy NDA, Batman! edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/08/daily-blogroll-123-holy-nda-batman-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "EVE Online"
   - "EverQuest"
@@ -10,7 +28,16 @@ categories:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/lantern.png"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/lantern.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/lantern.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/12/lantern.png "DCUO brings console gaming to MMOs")

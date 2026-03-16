@@ -2,10 +2,37 @@
 date: '2012-10-06T19:48:57-05:00'
 draft: false
 title: "Game Log: Been awhile"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/10/06/game-log-been-awhile/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg" title="Whimsyshire" class="align-center" >}}

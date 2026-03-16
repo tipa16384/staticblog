@@ -2,15 +2,40 @@
 date: '2022-09-07T10:32:14-05:00'
 draft: false
 title: "The Life of a Medical Student Who Sold Himself as an NFT to Pay for School"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/07/the-life-of-a-medical-student-who-sold-himself-as-an-nft-to-pay-for-school/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "An AI-written article about someone who sold himself as an NFT to pay for medical school, but ended up trapped."
-categories:
+description: "An AI-written article about someone who sold himself as an NFT to pay for medical school, but ended up trapped."
+tags:
   - "NFT"
   - "OpenAI"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-07-08.36.20-A-young-male-medical-student-mining-gold-in-World-of-Warcraft..png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-07-08.36.20-A-young-male-medical-student-mining-gold-in-World-of-Warcraft..png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-07-08.36.20-A-young-male-medical-student-mining-gold-in-World-of-Warcraft..png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 *This story is not real, and was written by an AI after I had GPT-3 summarize several articles about NFTs and people being recruited to add value to them by rich folks. I also wrote an outline for this article and added that along with the summaries to OpenAI's prompt. Once the initial article was generated, I used OpenAI's beta editing function to continue building out details and to improve the writing. I've been using AI to do pictures for awhile -- including the one for this article. This is how it can create articles.*

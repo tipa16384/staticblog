@@ -2,11 +2,38 @@
 date: '2006-02-08T00:00:00-05:00'
 draft: false
 title: "Prosthetic Feet&#039;s first Molten Core run"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/02/08/prosthetic-feets-first-molten-core-run/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/images/mc1a-hd.jpg"
-cover: "https://chasingdings.com/images/mc1a-hd.jpg"
+cover:
+  image: "https://chasingdings.com/images/mc1a-hd.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/images/mc1a-hd.jpg)

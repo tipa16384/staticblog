@@ -2,10 +2,27 @@
 date: '2010-09-23T21:31:27-05:00'
 draft: false
 title: "Wizard101: A Chat with KI VP of Marketing, Fred Howard"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/09/23/wizard101-a-chat-with-ki-vp-of-marketing-fred-howard/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Celestia"
   - "Fred Howard"
   - "Free"
@@ -17,7 +34,16 @@ tags:
   - "Merch"
   - "Selena Gomez"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-23-21-36-13-33.jpg "This is not Fred Howard")

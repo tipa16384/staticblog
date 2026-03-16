@@ -2,13 +2,40 @@
 date: '2008-04-15T07:31:47-05:00'
 draft: false
 title: "More Shard of Hate, Nox Noctis for teh win, and the fate of Liz Strickland"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/04/15/more-shard-of-hate-nox-noctis-for-teh-win-and-the-fate-of-liz-strickland/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Pirates of the Burning Sea"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/noxnocti.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/04/noxnocti.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/04/noxnocti.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![noxnocti.jpg](https://chasingdings.com/wp-content/uploads/2008/04/noxnocti.jpg)

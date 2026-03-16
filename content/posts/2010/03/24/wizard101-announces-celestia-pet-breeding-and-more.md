@@ -2,9 +2,38 @@
 date: '2010-03-24T17:57:12-05:00'
 draft: false
 title: "Wizard101 announces Celestia, Pet Breeding and more!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/24/wizard101-announces-celestia-pet-breeding-and-more/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Very exciting news today from KingsIsle. We've known for awhile that a new world was coming, and that it was likely to be the last of the worlds mentioned in the original game, Celestia. Headmaster Ambrose mentioned last year that we might see Astral magic introduced in the game, and it is part of this expansion. What we DIDN'T know (until their teaser announcement last month) was that they were adding a broad range of pet games. Breeding? Racing? Can't wait :)

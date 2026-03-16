@@ -2,15 +2,40 @@
 date: '2024-05-24T16:44:31-05:00'
 draft: false
 title: "George Plimpton Has Risen from His Grave"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/24/george-plimpton-has-risen-from-his-grave/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world."
-categories:
+description: "The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world."
+tags:
   - "Atari"
   - "Atari 2600"
   - "NFT"
-tags:
   - "Intellivision"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/plimpton.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/plimpton.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/plimpton.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'd never even heard of George Plimpton before he did those Intellivision commercials back in 1980, but afterward, I knew him as "Intellivision Guy". Apparently he wrote books and newspaper articles, but for me, he was the one always trying to convince me that playing baseball on the Intellivision was the closest you could get to the real thing.

@@ -2,11 +2,38 @@
 date: '2008-12-03T09:40:12-05:00'
 draft: false
 title: "Megaten: Very briefly"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/03/megaten-very-briefly/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Shin Megami Tensei"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-03-00-57-14-20.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-03-00-57-14-20.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-03-00-57-14-20.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Aeria Games never had me sign a NDA for Shin Megami Tensei: Imagine (or in fact, ever, for any of the games I've beta'd), so, given that I'm just barely out of the tutorial, here's some screen shots. Remember, this is from closed beta and what it looks like now may be 100% different by the time it ships. At least there will likely be less Japanese in the cut scenes... (Who or what is Nizero?)

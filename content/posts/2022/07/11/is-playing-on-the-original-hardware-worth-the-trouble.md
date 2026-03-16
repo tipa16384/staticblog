@@ -2,10 +2,27 @@
 date: '2022-07-11T08:24:06-05:00'
 draft: false
 title: "Is playing on the original hardware worth the trouble?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "Tactical RPG"
-tags:
   - "Capture Card"
   - "Hdmi"
   - "Ogre Battle"
@@ -13,7 +30,16 @@ tags:
   - "Retroarch"
   - "Stream"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/20220710085048_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/20220710085048_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/20220710085048_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today's high resolution, digital monitors. Was it worth it?

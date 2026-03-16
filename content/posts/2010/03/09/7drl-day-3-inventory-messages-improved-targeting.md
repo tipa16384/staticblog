@@ -2,9 +2,38 @@
 date: '2010-03-09T00:03:52-05:00'
 draft: false
 title: "7DRL Day 3: Inventory, Messages, Improved Targeting"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/09/7drl-day-3-inventory-messages-improved-targeting/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
   - "Other Games"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 For those people who don't care about the 7DRL game design challenge, don't worry -- things will be back to normal this weekend. I've just finished day 3 of the seven days, and I've almost finished the basic mechanics.

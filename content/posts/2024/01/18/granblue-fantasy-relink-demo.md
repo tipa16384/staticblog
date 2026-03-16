@@ -2,18 +2,43 @@
 date: '2024-01-18T19:49:27-05:00'
 draft: false
 title: "Granblue Fantasy: Relink (DEMO)"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/18/granblue-fantasy-relink-demo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Granblue Fantasy makes the leap from mobile to console with Relink. So... what kind of game is it?"
-categories:
+description: "Granblue Fantasy makes the leap from mobile to console with Relink. So... what kind of game is it?"
+tags:
   - "Dragon's Dogma"
   - "Granblue Fantasy"
   - "Other Games"
-tags:
   - "Action Game"
   - "Hack and Slash"
   - "Persona"
   - "RPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/Granblue-Fantasy_-Relink-Demo_20240117201543-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/Granblue-Fantasy_-Relink-Demo_20240117201543-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/Granblue-Fantasy_-Relink-Demo_20240117201543-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't have a whole lot to say about this game. I thought I'd played the mobile version at some point, but now it looks like that was some other game. And I'd love to know what *that* game was...

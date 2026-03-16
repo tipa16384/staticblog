@@ -2,16 +2,42 @@
 date: '2020-10-07T07:36:50-05:00'
 draft: false
 title: "Tactics Ogre and Ogre Battle: Let Us Get Sirius"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/07/tactics-ogre-and-ogre-battle-let-us-get-sirius/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Super Nintendo"
   - "Tactical RPG"
-tags:
   - "Ogre Battle"
   - "RPG"
   - "Tactics"
   - "The March of the Black Queen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/sirius.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/sirius.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/sirius.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In a little bit of serendipity, fan site [RPG Site](https://www.rpgsite.net/) posted up on Twitter yesterday that the successor to {{< youtube 7p-5CgWP7Iw >}}: {{< youtube SoBMhx_ap_g >}} turned 25 yesterday.

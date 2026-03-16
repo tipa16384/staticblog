@@ -2,11 +2,38 @@
 date: '2009-12-05T19:44:11-05:00'
 draft: false
 title: "World of Warcraft: I fail at WoW."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/12/05/word-of-warcraft-i-fail-at-wow/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/wowfail.png"
-cover: "https://chasingdings.com/wp-content/uploads/2009/12/wowfail.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/12/wowfail.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Kanda, Tipa and Etha failing at WoW](https://chasingdings.com/wp-content/uploads/2009/12/wowfail.png "Kanda, Tipa and Etha failing at WoW")

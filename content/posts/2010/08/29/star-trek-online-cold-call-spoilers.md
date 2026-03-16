@@ -2,10 +2,27 @@
 date: '2010-08-29T08:45:09-05:00'
 draft: false
 title: "Star Trek Online: Cold Call (spoilers)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/29/star-trek-online-cold-call-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Breen"
   - "Cold Call"
   - "Defera"
@@ -15,10 +32,18 @@ tags:
   - "Klingon"
   - "Longasc"
   - "Monterey"
-  - "Star Trek"
   - "Thumupp"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg "Cold Call")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-15-48-16.jpg)

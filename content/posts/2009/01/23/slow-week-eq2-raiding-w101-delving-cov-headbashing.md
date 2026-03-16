@@ -2,15 +2,41 @@
 date: '2009-01-23T07:34:42-05:00'
 draft: false
 title: "Slow week -- EQ2 raiding, W101 delving, CoV headbashing"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/23/slow-week-eq2-raiding-w101-delving-cov-headbashing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "EverQuest"
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Dragonspyre"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/specimen.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/specimen.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/specimen.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This is my week to be the "on call" developer at work, which means I carry the Pager of Doom and also have to go to bed early and get up early. PLUS, yesterday I had more dental work done and was in so much pain I drugged myself senseless and slept from the time I got home until 11PM. But there's always casual MMOs to fill in the free hour here and there.

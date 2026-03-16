@@ -2,7 +2,25 @@
 date: '2009-09-10T08:00:41-05:00'
 draft: false
 title: "Daily Blogroll 9/10 - Launch Madness edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/10/daily-blogroll-910/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "Daily Blogroll"
   - "EverQuest"
@@ -11,7 +29,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Buh bye, Dorn](https://chasingdings.com/wp-content/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg "Buh bye, Dorn")

@@ -2,15 +2,40 @@
 date: '2025-06-02T08:45:46-05:00'
 draft: false
 title: "GW2: She's Found the Altar to Balthazar"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/06/02/gw2-shes-found-the-altar-to-balthazar/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "He's found the saucer news. Don't report this. The end of Path of Fire was a thing that happened."
-categories:
+description: "He's found the saucer news. Don't report this. The end of Path of Fire was a thing that happened."
+tags:
   - "Guild Wars"
   - "MMORPG"
-tags:
   - "Mounts"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/1-gw033.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/06/1-gw033.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/06/1-gw033.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Path of Fire isn't the *first* storyline I completed. We did Secrets of the Obscure to the end, and we're up to date on Janthir Wilds. But it's the first *in a while*, especially for content so old.

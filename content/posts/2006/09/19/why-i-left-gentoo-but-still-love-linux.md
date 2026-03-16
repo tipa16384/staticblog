@@ -2,8 +2,37 @@
 date: '2006-09-19T16:37:13-05:00'
 draft: false
 title: "Why I Left Gentoo but Still Love Linux"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/09/19/why-i-left-gentoo-but-still-love-linux/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was originally going to do a few blogs; one for gaming, one for Linux/IT/work stuff, and one just for personal stuff. Instead it all got glommed into this one! Probably a mistake, but whatever...

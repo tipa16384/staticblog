@@ -2,17 +2,42 @@
 date: '2023-08-12T09:19:16-05:00'
 draft: false
 title: "A Cheater's Guide to Wordle, Waffle and Squaredle"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/12/a-cheaters-guide-to-wordle-waffle-and-squaredle/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "There's a really good reason why I solve these daily puzzles in full view of my family, at the kitchen table, now. It's to stop me from cheating."
-categories:
+description: "There's a really good reason why I solve these daily puzzles in full view of my family, at the kitchen table, now. It's to stop me from cheating."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "Cheating"
   - "Squaredle"
   - "Waffle"
   - "Wordle"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-12-09.16.41-clip-art-of-a-woman-solving-a-crossword-puzzle-that-is-drawn-on-a-chalkboard.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-12-09.16.41-clip-art-of-a-woman-solving-a-crossword-puzzle-that-is-drawn-on-a-chalkboard.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-12-09.16.41-clip-art-of-a-woman-solving-a-crossword-puzzle-that-is-drawn-on-a-chalkboard.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 When the Wordle craze started a couple years ago, toward the beginning of the pandemic, I jumped on that bandwagon. I used to share my solution to Twitter, before it became clear that doing so was very much a bad thing for those who use screen readers due to sight issues. Screen readers would laboriously describe each of the ten or more emojis used to display the Wordle result. So mostly I just keep them in a group chat with my sisters.

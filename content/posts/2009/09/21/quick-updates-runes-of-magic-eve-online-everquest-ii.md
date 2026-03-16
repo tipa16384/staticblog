@@ -2,13 +2,40 @@
 date: '2009-09-21T07:01:27-05:00'
 draft: false
 title: "Quick Updates: Runes of Magic, EVE Online, EverQuest II"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/21/quick-updates-runes-of-magic-eve-online-everquest-ii/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "EverQuest"
   - "MMORPG"
   - "Runes of Magic"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/Client-2009-09-20-18-43-52-25.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/Client-2009-09-20-18-43-52-25.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/Client-2009-09-20-18-43-52-25.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Fighting Wild Mane](https://chasingdings.com/wp-content/uploads/2009/09/Client-2009-09-20-18-43-52-25.jpg "Fighting Wild Mane")

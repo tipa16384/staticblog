@@ -2,14 +2,40 @@
 date: '2020-08-13T11:52:36-05:00'
 draft: false
 title: "Blaugust #7: Be The Best that Ever Was"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/13/blaugust-7-be-the-best-that-ever-was/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "MMORPG"
-tags:
   - "Foundry"
   - "Neverwinter Online"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm still catching up on the Blaugust "Promptapalooza" prompts that I missed during the clean up after Tropical Storm Isaias. Today's prompt comes from [Stingite over at The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2020/08/promptapalooza-what-skill-do-you-want.html), who asks:

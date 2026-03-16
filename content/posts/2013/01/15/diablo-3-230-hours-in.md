@@ -2,11 +2,38 @@
 date: '2013-01-15T08:09:48-05:00'
 draft: false
 title: "Diablo 3: 230 Hours In"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/01/15/diablo-3-230-hours-in/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Diablo 3"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-22-32-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-22-32-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-22-32-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-22-32-480x300.jpg" title="Restoring Heaven just means it's ready to be destroyed again" class="align-center" >}}

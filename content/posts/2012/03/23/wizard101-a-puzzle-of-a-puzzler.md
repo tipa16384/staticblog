@@ -2,11 +2,38 @@
 date: '2012-03-23T20:43:58-05:00'
 draft: false
 title: "Wizard101: A Puzzle of a Puzzler"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/03/23/wizard101-a-puzzle-of-a-puzzler/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/03/piece1-480x480.png"
-cover: "https://chasingdings.com/wp-content/uploads/2012/03/piece1-480x480.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/03/piece1-480x480.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't spend a LOT of time in my homes in Wizard101, so I'm not sure exactly when I got some new artwork. Maybe someone can help fit these pieces together?

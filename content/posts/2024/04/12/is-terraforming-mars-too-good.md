@@ -2,15 +2,40 @@
 date: '2024-04-12T07:58:42-05:00'
 draft: false
 title: "Is Terraforming Mars... too good?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/04/12/is-terraforming-mars-too-good/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Terraforming Mars has been on the list of top 10 board games since first published in 2016. It's good, but is it TOO good?"
-categories:
+description: "Terraforming Mars has been on the list of top 10 board games since first published in 2016. It's good, but is it TOO good?"
+tags:
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
-tags:
   - "The Red Dragon Inn"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/terraformingmarsbanner.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/04/terraformingmarsbanner.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/04/terraformingmarsbanner.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have, sitting on my game shelves, the board game of Terraforming Mars, where you and your closest friends (or you, solo) set about competing to see who can make Mars habitable the fastest. There's no fighting or monsters. You play a corporation or NGO that has its own unique mission statement that provides you some sort of benefit during play. Each turn, you buy projects that you then work to complete using resources you generate. When Mars is completely terraformed, whoever contributed the most, wins.

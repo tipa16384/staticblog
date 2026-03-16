@@ -2,14 +2,39 @@
 date: '2025-11-02T08:00:00-05:00'
 draft: false
 title: "HeroQuest First Light #5: The Horrors of Synchroform"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/02/heroquest-first-light-5-the-horrors-of-synchroform/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Halfway through the quests, we discover the secret of Qwindrak's transformation..."
-categories:
+description: "Halfway through the quests, we discover the secret of Qwindrak's transformation..."
+tags:
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "First Light"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/1-IMG_5471.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/1-IMG_5471.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/1-IMG_5471.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In the last session, our group of intrepid heroes found the secret passage to the mad sorcerer Qwindrak's secret underground mountain lair. If you're a villain, that really should be one of the questions you ask your evil real estate agent: "Are there secret passages into my secret underground volcano lair?" If they answer in the affirmative, have it written into your contract that the previous owner must block the secret passage before you take possession.

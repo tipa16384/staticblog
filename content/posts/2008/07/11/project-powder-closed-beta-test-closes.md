@@ -2,14 +2,41 @@
 date: '2008-07-11T13:30:18-05:00'
 draft: false
 title: "Project Powder closed beta test... closes."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/11/project-powder-closed-beta-test-closes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Project Powder"
-tags:
   - "CBT"
   - "Closed Beta"
   - "Outspark"
-  - "Project Powder"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Project Powder, the online snowboarding sim, ended their closed beta test yesterday. They sent around a survey asking what we liked and didn't like about the game.

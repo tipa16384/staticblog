@@ -2,15 +2,40 @@
 date: '2020-08-25T07:28:27-05:00'
 draft: false
 title: "Blaugust #25: Blogging in a Time of Corona"
-categories:
-  - "Blaugust"
-  - "Real Life"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/25/blaugust-25-blogging-in-a-time-of-corona/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
+  - "Real Life"
   - "Coronavirus"
   - "Girls Screaming in Existential Dread"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/coronavirus.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/coronavirus.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/coronavirus.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I thought I was so incredibly original when I started using the tag *#loveinatimeofcorona* on [all my Instagram posts](https://www.instagram.com/decisivenotice/) back at the beginning of the pandemic. Now I see it everywhere. And I saw it everywhere on Instagram, too. But now it's *everywhere*.

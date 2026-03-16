@@ -2,9 +2,38 @@
 date: '2009-10-15T22:21:53-05:00'
 draft: false
 title: "Wizard101: A Zillion (and One) Changes!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/15/wizard101-a-zillion-and-one-changes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [The latest update to Wizard101](https://www.wizard101.com/game/community/patchnotes) hits the servers Friday, and it has all the things we saw on the test server, and more! (Well, and less -- the Wishing Well will not be coming to Wizard City after all).

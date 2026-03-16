@@ -2,16 +2,42 @@
 date: '2021-03-31T21:13:45-05:00'
 draft: false
 title: "Valheim: Friends in the Afterlife"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/03/31/valheim-friends-in-the-afterlife/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Steam Games"
   - "Survival"
   - "Valheim"
-tags:
   - "DC Universe Online"
   - "Steam"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/03/10-20210329072158_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/03/10-20210329072158_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/03/10-20210329072158_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't really play survival games. I liked Minecraft until an update broke my roller coaster. I spent a lot of time on that. I tried that Age of Conan one, but grew bored. I never thought I would play another tree puncher.

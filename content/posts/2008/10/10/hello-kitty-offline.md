@@ -2,11 +2,38 @@
 date: '2008-10-10T07:11:11-05:00'
 draft: false
 title: "Hello Kitty Offline"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/10/hello-kitty-offline/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Hello Kitty Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/gothhellokitty2.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/gothhellokitty2.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/gothhellokitty2.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/gothhellokitty2.gif "gothhellokitty2")As a Founding Member of Hello Kitty Online (you may now be seated), I was hoping to install it last night with the hopes that I would have better experiences with it now, than I did in closed beta.

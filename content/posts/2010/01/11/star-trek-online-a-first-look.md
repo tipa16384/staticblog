@@ -2,11 +2,38 @@
 date: '2010-01-11T21:34:19-05:00'
 draft: false
 title: "Star Trek Online: A First Look"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/01/11/star-trek-online-a-first-look/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-09-18-55-50.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-09-18-55-50.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-09-18-55-50.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-09-18-55-50.jpg "Leaving Deep Space 9")

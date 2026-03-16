@@ -2,10 +2,37 @@
 date: '2010-04-26T23:48:10-05:00'
 draft: false
 title: "A first look at Dragon Oath: All kung fu, all the time"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/26/a-first-look-at-dragon-oath-all-kung-fu-all-the-time/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/Game-2010-04-26-21-38-58-89-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/Game-2010-04-26-21-38-58-89-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/Game-2010-04-26-21-38-58-89-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/04/Game-2010-04-26-21-38-58-89-480x384.jpg "Tipa in Dragon Oath")](https://chasingdings.com/wp-content/uploads/2010/04/Game-2010-04-26-21-38-58-89.jpg)

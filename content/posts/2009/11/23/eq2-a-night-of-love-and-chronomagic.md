@@ -2,11 +2,38 @@
 date: '2009-11-23T08:35:56-05:00'
 draft: false
 title: "EQ2: A Night of Love and Chronomagic"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/11/23/eq2-a-night-of-love-and-chronomagic/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-22-22-42-15-62.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-22-22-42-15-62.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-22-22-42-15-62.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Hobbits vs a God](https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-22-22-42-15-62.jpg "Hobbits vs a God")

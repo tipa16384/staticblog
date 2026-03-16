@@ -2,11 +2,38 @@
 date: '2013-03-05T21:48:08-05:00'
 draft: false
 title: "SimCity 2013: Too Big To Fail?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/03/05/simcity-3-too-big-to-fail/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Simcity 3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-05-20-09-50-44-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-05-20-09-50-44-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-05-20-09-50-44-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-05-20-09-50-44-480x300.jpg" title="The SimCity \"Ha Ha!\" screen" class="align-center" >}}

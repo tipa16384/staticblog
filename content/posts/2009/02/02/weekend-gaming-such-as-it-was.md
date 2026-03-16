@@ -2,13 +2,40 @@
 date: '2009-02-02T08:17:55-05:00'
 draft: false
 title: "Weekend Gaming, such as it was"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/02/weekend-gaming-such-as-it-was/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This weekend was filled with "real life" stuff, leaving little time for gaming... but I did get some time in now and then.

@@ -2,15 +2,39 @@
 date: '2023-09-15T07:57:32-05:00'
 draft: false
 title: "The Teal Mask: The Loyal Three"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/15/the-teal-mask-the-loyal-three/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "There's secrets in old Kitakami, and spoilers within."
-categories:
-  - "Pokemon"
+description: "There's secrets in old Kitakami, and spoilers within."
 tags:
   - "Pokemon"
   - "The Loyal Three"
   - "The Teal Mask"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/2023091423002200-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/2023091423002200-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/2023091423002200-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [Oh, wow, I Never Expected The Loyal Three To Come Back To Life](https://chasingdings.com/2023/09/14/pokemon-scarlet-violet-the-teal-mask-first-impressions/). Never, ever. Nope.

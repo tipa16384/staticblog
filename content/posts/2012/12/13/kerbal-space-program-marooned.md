@@ -2,11 +2,38 @@
 date: '2012-12-13T08:12:31-05:00'
 draft: false
 title: "Kerbal Space Program: Marooned"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/12/13/kerbal-space-program-marooned/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Kerbal Space Program"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg" title="Rescue!" class="align-center" >}}

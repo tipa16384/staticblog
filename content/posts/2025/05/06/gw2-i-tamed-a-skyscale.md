@@ -2,15 +2,40 @@
 date: '2025-05-06T08:00:00-05:00'
 draft: false
 title: "GW2: I TAMED A SKYSCALE!*"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/05/06/gw2-i-tamed-a-skyscale/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "*Well, it was a team effort."
-categories:
+description: "*Well, it was a team effort."
+tags:
   - "Guild Wars"
   - "MMORPG"
-tags:
   - "Skyscale"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/2-gw007.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/05/2-gw007.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/05/2-gw007.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Well, it was due to Jovan, the Guild Wars 2 expert in Team Spode. It's due to him and Clever Clara that we're playing the game at all, and it's due to him that we haven't really looked at any other MMO since we moved back to GW2 from DCUO.

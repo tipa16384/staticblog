@@ -2,7 +2,25 @@
 date: '2009-07-01T07:56:36-05:00'
 draft: false
 title: "Daily Blogroll 7/1 - MMO Overload edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/01/daily-blogroll-71-mmo-overload-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "Chronicles of Spellborn"
   - "Cities XL"
@@ -11,7 +29,16 @@ categories:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/l2pmode.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/l2pmode.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/l2pmode.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Learn2Play Mode](https://chasingdings.com/wp-content/uploads/2009/07/l2pmode.jpg "Learn2Play Mode")

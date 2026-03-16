@@ -2,16 +2,41 @@
 date: '2024-10-26T15:23:33-05:00'
 draft: false
 title: "Last Call BBS: Puzzle Games for the Retro-Inclined"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/26/last-call-bbs-puzzle-games-for-the-retro-inclined/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The last game from the makers of TIS-100, SpaceChem, Exapunks and many other puzzle games feels like a Greatest Hits collection."
-categories:
+description: "The last game from the makers of TIS-100, SpaceChem, Exapunks and many other puzzle games feels like a Greatest Hits collection."
+tags:
   - "Puzzle Games"
   - "Steam Games"
-tags:
   - "Exapunks"
   - "Last Call Bbs"
   - "Zachtronics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/2-20241026104137_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/2-20241026104137_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/2-20241026104137_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't know who the target market is for Zachtronics games, other than to have a deep and certain knowledge that I am in that market. They're known for a specific kind of puzzle game -- puzzles that take inspiration not from fantasy or science fiction, but from real-world engineering. Chemical engineers, mechanical engineers, software engineers, industrial engineers -- you're going to find a game that you'll recognize from your day-to-day. Not to say that only engineers can appreciate and enjoy these games, but if you aren't, and you like Zachtronics games, then maybe, just maybe, you might want to look into a change of profession? Because to be totally honest, I can't imagine what a non-techie would see in these games. For me, who has been programming since I had to flip switches to load a program on the school's PDP-8e to writing O/S kernels for the company of my dreams -- this is like *heroin*. Right into the vein.

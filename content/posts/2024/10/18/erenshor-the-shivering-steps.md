@@ -2,16 +2,41 @@
 date: '2024-10-18T08:00:00-05:00'
 draft: false
 title: "Erenshor: The Shivering Steps"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/18/erenshor-the-shivering-steps/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Took me a minute and some leading hints but I finally worked my way through the Halloween content and killed all six bosses."
-categories:
+description: "Took me a minute and some leading hints but I finally worked my way through the Halloween content and killed all six bosses."
+tags:
   - "MMORPG"
   - "Open World RPG"
   - "Steam Games"
-tags:
   - "Erenshor"
   - "Shivering Steps"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/erenshor-shivering.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/erenshor-shivering.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/erenshor-shivering.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've talked before about Erenshor, the single player RPG that pretends to be a full MMO with a large assortment of characters who will chat with each other in the group and also anyone else who happens to be in the zone, demand to roll for loot and so on. It's EverQuest if the perfect group was just always available and wanted to do anything you wanted to do. And when you aren't grouping with them, they are fine to go off and level and gear up on their own.

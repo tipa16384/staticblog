@@ -2,11 +2,38 @@
 date: '2010-03-05T19:18:19-05:00'
 draft: false
 title: "EVE Online: Nemesis Initiative update"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/05/eve-online-nemesis-initiative-update/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg "Success in invention comes at a price")](https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg)

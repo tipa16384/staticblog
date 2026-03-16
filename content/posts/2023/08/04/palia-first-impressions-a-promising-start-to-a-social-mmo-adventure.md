@@ -2,8 +2,25 @@
 date: '2023-08-04T07:00:00-05:00'
 draft: false
 title: "Palia First Impressions: A Promising Start to a Social MMO Adventure"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/04/palia-first-impressions-a-promising-start-to-a-social-mmo-adventure/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "If you were waiting for the second coming of Free Realms, Palia ain't it. But, if you hate adventuring and love gathering and crafting in your MMO of choice, you might just find a new home in Palia, the new social MMO from Singularity 6."
-categories:
+description: "If you were waiting for the second coming of Free Realms, Palia ain't it. But, if you hate adventuring and love gathering and crafting in your MMO of choice, you might just find a new home in Palia, the new social MMO from Singularity 6."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "EverQuest"
@@ -13,10 +30,17 @@ categories:
   - "Neo Steam"
   - "Palia"
   - "Second Life"
-tags:
-  - "Palia"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/PALIA_Key_Art_Logo_1920x1080.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have been looking forward to a social MMO since... I dunno... since 2009's [Gatheryn](https://chasingdings.com/?s=gatheryn) came and went. There were a bunch of social MMOs back then -- Neo-Steam, Free Realms, of course, Second Life, a bunch more. None really had the impact of a World of Warcraft or even an EverQuest, both games which were just as open to socializing, but also had dungeons and raids to pass the time between dinner parties.

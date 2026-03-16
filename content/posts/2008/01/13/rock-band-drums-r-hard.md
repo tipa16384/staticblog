@@ -2,10 +2,37 @@
 date: '2008-01-13T11:17:49-05:00'
 draft: false
 title: "Rock Band: Drums R Hard"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/13/rock-band-drums-r-hard/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Rock Band"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/stp60927.JPG"
-cover: "https://chasingdings.com/wp-content/uploads/2008/01/stp60927.JPG"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/01/stp60927.JPG"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![stp60927.JPG](https://chasingdings.com/wp-content/uploads/2008/01/stp60927.JPG)

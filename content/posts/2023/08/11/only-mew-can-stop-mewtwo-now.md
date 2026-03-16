@@ -2,17 +2,41 @@
 date: '2023-08-11T07:00:00-05:00'
 draft: false
 title: "Only Mew can stop Mewtwo now..."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/11/only-mew-can-stop-mewtwo-now/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Mewtwo is coming to Pokemon Scarlet and Violet in a 7 star Tera raid. I've had exactly zero luck winning any 7 star raids so far. This time, I plan to be prepared."
-categories:
+description: "Mewtwo is coming to Pokemon Scarlet and Violet in a 7 star Tera raid. I've had exactly zero luck winning any 7 star raids so far. This time, I plan to be prepared."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "Pokemon"
-tags:
   - "Mew"
   - "Mewtwo"
-  - "Pokemon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/mewtoo.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/mewtoo.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/mewtoo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Mewtwo is coming to Pokemon Scarlet and Violet in a 7 star Tera raid. I've had exactly zero luck winning any 7 star raids so far. This time, I plan to be prepared.

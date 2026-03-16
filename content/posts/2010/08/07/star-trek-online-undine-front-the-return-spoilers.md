@@ -2,17 +2,43 @@
 date: '2010-08-07T16:41:01-05:00'
 draft: false
 title: "Star Trek Online, Undine Front: The Return (spoilers)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/07/star-trek-online-undine-front-the-return-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Borg"
   - "Episode"
   - "Obex"
   - "Romulan"
   - "Undine"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg "Inside a Romulan research lab")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-22-16-69.jpg)

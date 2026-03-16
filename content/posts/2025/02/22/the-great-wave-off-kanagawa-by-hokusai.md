@@ -2,15 +2,40 @@
 date: '2025-02-22T10:31:36-05:00'
 draft: false
 title: "The Great Wave Off Kanagawa, by Hokusai"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/02/22/the-great-wave-off-kanagawa-by-hokusai/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work."
-categories:
-  - "3D Printing"
+description: "Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work."
 tags:
+  - "3D Printing"
   - "Hokusai"
   - "Modern Art"
   - "Pollock"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/IMG_4991-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/02/IMG_4991-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/02/IMG_4991-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Everyone has seen this print by Japanese ukiyo-e master Hokusai. A huge wave is crashing down. Mount Fuji stands in contrast serene on the horizon. Fast, urgent, dangerous action in the foreground. Unchanging permanence in the background.

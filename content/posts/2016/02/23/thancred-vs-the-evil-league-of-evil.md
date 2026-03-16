@@ -2,11 +2,38 @@
 date: '2016-02-23T22:59:25-05:00'
 draft: false
 title: "Thancred vs The Evil League of Evil"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2016/02/23/thancred-vs-the-evil-league-of-evil/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2016/02/vlcsnap-2016-02-23-21h55m49s92.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2016/02/vlcsnap-2016-02-23-21h55m49s92.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2016/02/vlcsnap-2016-02-23-21h55m49s92.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2016/02/vlcsnap-2016-02-23-21h55m49s92.jpg" title="Soooo Eeeeeevil" class="align-center" >}}

@@ -2,18 +2,43 @@
 date: '2025-02-03T08:00:00-05:00'
 draft: false
 title: "Rolling Dice and Taking Names: My CaptainCon 2025 Experience"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/02/03/my-adventures-at-captaincon-2025/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We traveled through the Quiet Corner to the exotic Rhode Island to chew bubblegum and play board games. There was a lot more going on than just Malifaux!"
-categories:
+description: "We traveled through the Quiet Corner to the exotic Rhode Island to chew bubblegum and play board games. There was a lot more going on than just Malifaux!"
+tags:
   - "Malifaux"
   - "RPG"
   - "Tabletop Games"
-tags:
   - "CaptainCon"
   - "Dead Reckoning"
   - "Fae"
   - "Planet Hexx"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/captainconbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/02/captainconbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/02/captainconbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The problem with game conventions is that there is always too much to see, play, and experience. You never know what you’re going to find. Before the con, looking at the schedule, there’s a lot of guesswork—will this game I’ve never heard of be fun to play? Do I want to roleplay with a bunch of strangers?

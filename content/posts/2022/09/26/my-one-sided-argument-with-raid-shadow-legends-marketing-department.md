@@ -2,14 +2,40 @@
 date: '2022-09-26T18:26:54-05:00'
 draft: false
 title: "My One-Sided Argument with Raid: Shadow Legend's Marketing Department"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/26/my-one-sided-argument-with-raid-shadow-legends-marketing-department/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Advertising"
   - "Mobile Games"
-tags:
   - "Raid Shadow Legends"
   - "Twitter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-26-18.24.24-digital-art-Raid-Shadow-Legends.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Some may tilt at windmills. I tilt at lazy marketers for mobile games. But I pick which giants I joust; mine is Raid: Shadow Legends.

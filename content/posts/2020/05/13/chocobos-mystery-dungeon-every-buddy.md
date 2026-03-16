@@ -2,13 +2,39 @@
 date: '2020-05-13T01:13:45-05:00'
 draft: false
 title: "Chocobo's Mystery Dungeon: Every Buddy!"
-categories:
-  - "PS4"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/13/chocobos-mystery-dungeon-every-buddy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "PS4"
   - "Chocobo Mystery Dungeon"
   - "Rogue-Like"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200506203739.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200506203739.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200506203739.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't know anyone who has ever played any Final Fantasy game and *didn't* say to themselves, "Well, why can't *I* play as the *Chocobo*???2???" I think you can split Final Fantasy players between those who want to play as Chocobos, and those who want to play as Moogles. I don't think there's many people in that second category. They'd be monsters. Kupo.

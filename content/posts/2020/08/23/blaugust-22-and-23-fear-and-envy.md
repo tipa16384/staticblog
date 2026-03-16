@@ -2,20 +2,45 @@
 date: '2020-08-23T08:26:20-05:00'
 draft: false
 title: "Blaugust #22 and #23: Fear and Envy"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/23/blaugust-22-and-23-fear-and-envy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "EverQuest"
   - "MMORPG"
   - "PS4"
   - "Real Life"
-tags:
-  - "Blaugust"
   - "Eqpa"
   - "Green Lantern"
   - "Heavy Rain"
   - "Tanglewood"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/lantern-corps-970x545-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/lantern-corps-970x545-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/lantern-corps-970x545-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I at first didn't want to write anything about fear, the topic of the first Blaugust Promptapalooza prompt. I'd much rather talk about the second one, which was easy, and all prepared. But, I came into this Blaugust thing determined to write a post for each writing prompt. Just because something is hard doesn't mean I get to skip each. The things that are hard, are the things on which I should focus.

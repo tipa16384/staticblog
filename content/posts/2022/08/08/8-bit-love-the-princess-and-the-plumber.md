@@ -2,12 +2,28 @@
 date: '2022-08-08T19:45:36-05:00'
 draft: false
 title: "8 Bit Love - The Princess and the Plumber"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/08/8-bit-love-the-princess-and-the-plumber/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Join Mario, Link, and Dirk in their fight to save Princess Toadstool from a life of misery with Bowser. Will they be able to get through to her? Or will she stay with the monster she loves? Find out in this heart-pounding adventure!"
-categories:
+description: "Join Mario, Link, and Dirk in their fight to save Princess Toadstool from a life of misery with Bowser. Will they be able to get through to her? Or will she stay with the monster she loves? Find out in this heart-pounding adventure!"
+tags:
   - "Humor"
   - "OpenAI"
   - "Video Game Series"
-tags:
   - "Bowser"
   - "Dall-E 2"
   - "Dirk the Daring"
@@ -16,7 +32,16 @@ tags:
   - "Princess Toadstool"
   - "Super Mario"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-08-19.33.03-Zelda-and-Link-fighting-with-swords-as-high-resolution-digital-art.-they-are-spotlighted-and-they-are-on-a-stage..png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-08-19.33.03-Zelda-and-Link-fighting-with-swords-as-high-resolution-digital-art.-they-are-spotlighted-and-they-are-on-a-stage..png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-08-19.33.03-Zelda-and-Link-fighting-with-swords-as-high-resolution-digital-art.-they-are-spotlighted-and-they-are-on-a-stage..png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A few days ago, I interviewed Mario for his thoughts on Princess Toadstool, Bowser, and Wario. I posted that conversation on Elekk.xyz. I'm going back to the well here to help AI spin a tale of an unusual love...

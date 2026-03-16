@@ -2,15 +2,41 @@
 date: '2008-08-26T07:57:23-05:00'
 draft: false
 title: "Bringing a character to life -- three character creators"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/26/bringing-a-character-to-life-three-character-creators/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "EverQuest"
   - "MMORPG"
   - "Vanguard"
-tags:
   - "Stout Henry"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was writing a new Stout Henry story last night, when I got the idea to try and model him with the character creators from all the MMOs I had which could actually make unique characters. That left out EverQuest and World of Warcraft right off the bat; neither one has many character choices and people generally look a lot like other people of their race and gender.

@@ -2,7 +2,25 @@
 date: '2009-06-25T07:59:41-05:00'
 draft: false
 title: "Daily Blogroll 6/25 -- A Valiant Effort edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/25/daily-blogroll-625-a-valiant-effort-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
@@ -13,7 +31,16 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/valianteffort.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/valianteffort.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/valianteffort.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Mark Jacobs leaves behind a tearful Mythic](https://chasingdings.com/wp-content/uploads/2009/06/valianteffort.jpg "Mark Jacobs leaves behind a tearful Mythic")

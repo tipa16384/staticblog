@@ -2,17 +2,43 @@
 date: '2022-07-09T11:52:15-05:00'
 draft: false
 title: "When to say goodbye to a game?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/09/when-to-say-goodbye-to-a-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "Mobile Games"
-tags:
   - "Dragonquest"
   - "Final Fantasy Brave Exvius"
   - "Flight Rising"
   - "Idle Champions"
   - "Shadowverse"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/bogsneak.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/bogsneak.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/bogsneak.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Some games will last forever, if you let them. You expect that in an MMO, but with mobile gacha games -- when do you just decide it's time to move on?

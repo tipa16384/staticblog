@@ -2,18 +2,43 @@
 date: '2024-08-18T09:41:06-05:00'
 draft: false
 title: "My first Malifaux tournament!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/18/my-first-malifaux-tournament/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I'ma start by explaining what the game is, as best I can anyway."
-categories:
+description: "I'ma start by explaining what the game is, as best I can anyway."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "Frostgrave"
   - "Tactics"
   - "Warhammer"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/malifaux-wtf.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/malifaux-wtf.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/malifaux-wtf.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 At some point a couple hundred years ago, a mysterious portal to another world -- Malifaux -- appeared. A world of magic; magic that could be brought to Earth in the form of Soulstones.

@@ -2,11 +2,38 @@
 date: '2010-03-30T07:00:17-05:00'
 draft: false
 title: "The 9000 players of EverQuest"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/30/the-9000-players-of-everquest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-29-21-43-48-34.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-29-21-43-48-34.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-29-21-43-48-34.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 OpenEdge1 has for awhile been estimating the number of subscribers to a game based on the number of its players who report their usage with XFire. [His latest calculations](http://simple-n-complex.blogspot.com/2010/03/xfire-game.html) put Star Trek Online at 117K players, which more or less jibes with Cryptic's reports. I'm dubious about the other standings. His formula would give WoW 6.3 million players in the West, which I believe would be a real high water mark for them. Of oft-repeated 11.5 million players, the majority were in Asia, and unlikely to be XFire users.

@@ -2,16 +2,42 @@
 date: '2022-06-23T21:17:44-05:00'
 draft: false
 title: "Symphony of War: The Nephilim Saga"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/06/23/symphony-of-war-the-nephilim-saga/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Steam Games"
   - "Tactical RPG"
-tags:
   - "Ogre Battle"
   - "Symphony of War"
   - "Tactics"
   - "Valkyrie Chronicles"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/06/20220622113658_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/06/20220622113658_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/06/20220622113658_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a tactical RPG where you control an army on the battlefield made of several squads. It's a callout to one of the most unusual tactics battlers of all time -- [Ogre Battle](https://chasingdings.com/?s=ogre+battle).

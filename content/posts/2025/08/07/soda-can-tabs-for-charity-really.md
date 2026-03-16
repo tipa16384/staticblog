@@ -2,14 +2,40 @@
 date: '2025-08-07T10:02:34-05:00'
 draft: false
 title: "Soda can tabs for charity? REALLY?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/07/soda-can-tabs-for-charity-really/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Feels like a scam, but apparently this is real. Stupid, but real."
-categories:
+description: "Feels like a scam, but apparently this is real. Stupid, but real."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "General"
   - "Real Life"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5304-scaled.jpeg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5304-scaled.jpeg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5304-scaled.jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Right off the bat, we don’t call soda “pop” in New England, so you pretty much lost me, right from the start. 

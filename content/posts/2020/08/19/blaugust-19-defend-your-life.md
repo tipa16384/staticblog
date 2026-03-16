@@ -2,14 +2,40 @@
 date: '2020-08-19T07:54:57-05:00'
 draft: false
 title: "Blaugust #19: Defend Your Life"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/19/blaugust-19-defend-your-life/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Neopets"
-tags:
   - "Bridges"
   - "Kalimba"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1538.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1538.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1538.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not really sure how to respond to today's Blaugust Promptapalooza prompt, which is from [Solarayo of Ace Asunder](https://aceasunder.com/2020/08/19/unbabbled-about-hobbies/):

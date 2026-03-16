@@ -2,16 +2,41 @@
 date: '2023-12-04T21:07:24-05:00'
 draft: false
 title: "Advent of Code Day 4 -- Scratchcards"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/04/advent-of-code-day-4-scratchcards/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "So, I'm back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out."
-categories:
-  - "Advent of Code"
+description: "So, I'm back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out."
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Haskell"
   - "Java"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In today's puzzle, we're helping an elf figure out[ if any of the few hundred scratchcards he's scratched off](https://adventofcode.com/2023/day/4) have won him anything.

@@ -2,15 +2,39 @@
 date: '2023-07-01T21:53:18-05:00'
 draft: false
 title: "White Knight Chronicles -- best RPG I never heard of?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/07/01/white-knight-chronicles-best-rpg-i-never-heard-of/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "White Knight Chronicles, a 2009 PS3 RPG exclusive, shut down its servers a decade ago, leaving it with only half a game. But that half a game is deeply customizable and surprisingly fun."
-categories:
+description: "White Knight Chronicles, a 2009 PS3 RPG exclusive, shut down its servers a decade ago, leaving it with only half a game. But that half a game is deeply customizable and surprisingly fun."
+tags:
   - "PS3"
   - "RPG"
   - "White Knight Chronicles"
-tags:
-  - "PS3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/07/1-chronicles-fantasy-fighting-knight-wallpaper-1910b83d718a7dab6617b89fb0d126ed.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/07/1-chronicles-fantasy-fighting-knight-wallpaper-1910b83d718a7dab6617b89fb0d126ed.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/07/1-chronicles-fantasy-fighting-knight-wallpaper-1910b83d718a7dab6617b89fb0d126ed.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In the PlayStation store, this RPG had no pictures, no movies, and only a note that the game's servers had closed down a decade ago. Couldn't download it, could only stream it, and it wouldn't allow any screenshots or streaming.

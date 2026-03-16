@@ -2,13 +2,41 @@
 date: '2008-07-23T13:03:24-05:00'
 draft: false
 title: "Spellborn vs Runes of Magic CAGE MATCH"
-categories:
-  - "MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/23/spellborn-vs-runes-of-magic-cage-match/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "MMORPG"
   - "Aeria Games"
   - "Frogster"
   - "Runes of Magic"
   - "The Chronicles of Spellborn"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's two MMOs out there you have probably not heard of. There's HUNDREDS of those, right? Once you get out of the calm, safe, bathwater-warm surf of the current crowd of big budget MMOs, it's a wild tide of MMOs with names you can't remember and details you can't recall.

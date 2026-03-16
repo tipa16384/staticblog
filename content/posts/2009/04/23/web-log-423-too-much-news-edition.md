@@ -2,7 +2,25 @@
 date: '2009-04-23T07:11:26-05:00'
 draft: false
 title: "Web Log 4/23 -- Too Much News edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/23/web-log-423-too-much-news-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "Daily Blogroll"
   - "Darkfall"
@@ -12,6 +30,17 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Wednesday? Seriously? All these MMO companies, at the same time, said, we're gonna have some big news, and it's gonna come out on a Wednesday?

@@ -2,15 +2,40 @@
 date: '2025-09-22T08:00:00-05:00'
 draft: false
 title: "Dune Awakening: Apotheosis"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/22/dune-awakening-apotheosis/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I had a vision of what life in the Deep Desert might be like, and it happened? Also, if Funcom names an expansion \"Apotheosis\", they owe me money."
-categories:
+description: "I had a vision of what life in the Deep Desert might be like, and it happened? Also, if Funcom names an expansion \"Apotheosis\", they owe me money."
+tags:
   - "Dune Awakening"
   - "MMORPG"
-tags:
   - "Team Spode"
   - "Tell Me of Your Homeworld Usul"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250920233213_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250920233213_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250920233213_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've made it through the DLC and got my treadwheel.

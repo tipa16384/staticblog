@@ -2,11 +2,38 @@
 date: '2013-05-14T06:04:25-05:00'
 draft: false
 title: "Neverwinter: I just met you, and this is crazy..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/05/14/neverwinter-i-just-met-you-and-this-is-crazy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-13-23-24-23-16-480x342.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-13-23-24-23-16-480x342.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-13-23-24-23-16-480x342.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-13-23-24-23-16-480x342.jpg" title="Nina and Kasul at the Job Board" class="align-center" >}}

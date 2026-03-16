@@ -2,12 +2,39 @@
 date: '2020-06-05T11:39:12-05:00'
 draft: false
 title: "Game Night: Terraforming Mars"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/06/05/game-night-terraforming-mars/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/pieces.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/06/pieces.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/06/pieces.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It won't be any sort of surprise that a family that has weekly board game nights plays one of the most popular board games on this planet or any other (as far as we know). [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/) is a long time staple of ours. It's easy and fun to play, can take as many people as you can throw at it, and is pretty fast moving to boot.

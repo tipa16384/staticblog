@@ -2,11 +2,38 @@
 date: '2006-09-28T20:25:40-05:00'
 draft: false
 title: "EQ1: Hatchet the Torturer Dead, Ding! 75"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/09/28/eq1-hatchet-the-torturer-dead/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/09/group.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/09/group.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/09/group.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Group shot after Hatched dead](https://chasingdings.com/wp-content/uploads/2006/09/group.jpg)

@@ -2,8 +2,37 @@
 date: '2014-12-12T01:43:51-05:00'
 draft: false
 title: "This week’s foundries! There’s one I did myself… and one we nearly didn’t do at all, since the foundry..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/12/this-weeks-foundries-theres-one-i-did-myself-and-one-we-nearly-didnt-do-at-all-since-the-foundry/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This week’s foundries! There’s one I did myself… and one we nearly didn’t do at all, since the foundry was bugged… but with perseverance and pluck, we managed to make it through.**

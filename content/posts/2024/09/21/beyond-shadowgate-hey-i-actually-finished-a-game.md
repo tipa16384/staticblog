@@ -2,16 +2,41 @@
 date: '2024-09-21T20:20:28-05:00'
 draft: false
 title: "Beyond Shadowgate: Hey, I actually finished a game!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/21/beyond-shadowgate-hey-i-actually-finished-a-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Thanks to a lot of help from chat! Am... am I a streamer now?"
-categories:
+description: "Thanks to a lot of help from chat! Am... am I a streamer now?"
+tags:
   - "Adventure"
   - "Steam Games"
   - "Text Adventure Game"
-tags:
   - "Beyond Shadowgate"
   - "Shadowgate"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I like to stream games on Twitch as I play them in case I want to go back over what happened or to grab screenshots and stuff for blog posts. It doesn't cost anything, I'm not on camera or mic, so why not? Streaming was one of the first things I started doing once I got fiber internet.

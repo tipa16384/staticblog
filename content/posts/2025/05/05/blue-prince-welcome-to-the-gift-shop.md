@@ -2,14 +2,39 @@
 date: '2025-05-05T08:00:00-05:00'
 draft: false
 title: "Blue Prince: Welcome to the Gift Shop"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/05/05/blue-prince-welcome-to-the-gift-shop/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Hey, I completed another game! And what a journey..."
-categories:
+description: "Hey, I completed another game! And what a journey..."
+tags:
   - "Puzzle Games"
   - "RPG"
-tags:
   - "Blue Prince"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Would I have picked this game up if it hadn't been offered through the PlayStation Plus service? I dunno. I might have. But probably not. And I would have really been missing out.

@@ -2,20 +2,45 @@
 date: '2022-11-28T20:50:00-05:00'
 draft: false
 title: "Advent of Code 2022 and other exciting news you should totally read!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/11/28/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don't forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!"
-categories:
+description: "Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don't forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!"
+tags:
   - "Advent of Code"
   - "Gotham Knights"
   - "OpenAI"
   - "Tactics"
-tags:
   - "Deneb"
   - "Guardians of the Galaxy"
   - "Pico-8"
   - "Starro"
   - "Tactics Ogre"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/11/aoc-robot.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/11/aoc-robot.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/11/aoc-robot.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Last year was SO EXHAUSTING.

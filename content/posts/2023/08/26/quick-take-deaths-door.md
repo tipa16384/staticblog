@@ -2,17 +2,42 @@
 date: '2023-08-26T07:00:00-05:00'
 draft: false
 title: "Quick Take: Death's Door"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/26/quick-take-deaths-door/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "You're a Reaper, a crow searching for souls to power the whole soul-taking operation in his souls-like with a sense of humor."
-categories:
+description: "You're a Reaper, a crow searching for souls to power the whole soul-taking operation in his souls-like with a sense of humor."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "Quick Takes"
-tags:
   - "Crow"
   - "Reaper"
   - "Souls-Like"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/snapedit_1693017882163.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/snapedit_1693017882163.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/snapedit_1693017882163.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Death's Door was a free offering for PlayStation Plus, and I went in knowing almost nothing about it. I knew it involved crows. I *didn't* know it was a souls-like.

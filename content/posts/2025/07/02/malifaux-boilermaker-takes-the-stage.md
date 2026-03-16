@@ -2,17 +2,42 @@
 date: '2025-07-02T08:00:00-05:00'
 draft: false
 title: "Malifaux: Boilermaker takes the stage"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/07/02/malifaux-boilermaker-takes-the-stage/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "For Canada Day, a special crew. Not all of the Foundry crew are from Canada, but some are, and they have a proud history of bending molten metal to their will."
-categories:
+description: "For Canada Day, a special crew. Not all of the Foundry crew are from Canada, but some are, and they have a proud history of bending molten metal to their will."
+tags:
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "Boilermaker"
   - "Foundry"
   - "Pack Rat Gaming"
   - "Transmortis"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5205-1-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5205-1-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5205-1-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Not all of the Foundry crew are from Canada, but some are. The Foundry folks mix metal and magic into living constructs that stalk around the battlefield, melting stuff.

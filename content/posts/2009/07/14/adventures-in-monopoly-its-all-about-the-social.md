@@ -2,12 +2,39 @@
 date: '2009-07-14T07:00:31-05:00'
 draft: false
 title: "Adventures in Monopoly: It's all about the Social"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/14/adventures-in-monopoly-its-all-about-the-social/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Adventures in Monopoly"
   - "Comic"
   - "Humor"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/aim20-fixed.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/aim20-fixed.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/aim20-fixed.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![The Adventures in Monopoly Invitational via the Social Web](https://chasingdings.com/wp-content/uploads/2009/07/aim20-fixed.jpg "The Adventures in Monopoly Invitational via the Social Web")

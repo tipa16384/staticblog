@@ -2,15 +2,40 @@
 date: '2024-09-07T08:00:00-05:00'
 draft: false
 title: "Fall into Faux: The One Where I Win"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/07/fall-into-faux-the-one-where-i-win/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?"
-categories:
+description: "Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?"
+tags:
   - "Malifaux"
   - "Miniatures"
-tags:
   - "Tactics"
   - "The Battle Standard"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/1988-mei-feng.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/1988-mei-feng.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/1988-mei-feng.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Just finished game 2 of 3 in our fall Malifaux league. There were a lot of new things going on in this game that played well into my crew's strength and so... I won.

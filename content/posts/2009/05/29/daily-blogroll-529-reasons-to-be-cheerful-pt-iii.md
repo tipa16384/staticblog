@@ -2,7 +2,25 @@
 date: '2009-05-29T07:54:40-05:00'
 draft: false
 title: "Daily Blogroll 5/29 -- Reasons to be Cheerful, Pt III"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/29/daily-blogroll-529-reasons-to-be-cheerful-pt-iii/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Daily Blogroll"
   - "EVE Online"
@@ -13,7 +31,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![everquest2-2009-05-17-07-38-31-44](https://chasingdings.com/wp-content/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg "everquest2-2009-05-17-07-38-31-44")

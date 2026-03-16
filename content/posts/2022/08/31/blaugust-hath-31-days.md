@@ -2,16 +2,42 @@
 date: '2022-08-31T07:00:00-05:00'
 draft: false
 title: "Blaugust Hath 31 Days"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/31/blaugust-hath-31-days/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "Metroidvania Games"
   - "OpenAI"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-24-22.46.10-a-young-woman-fighting-a-monster-with-a-rune-carved-sword.-She-is-surrounded-by-a-dark-forest-and-the-full-moon-is-shining-overhead-in-the-style-of-.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Genre: 2D Platformer. Title: "Blaugust Hath 31 Days". Outline: In this 2D platformer, you play as a young woman who is terrorized by 31 different monsters, one for each night of August. You must use your agility and wit to survive until morning and defeat the monsters once and for all. 

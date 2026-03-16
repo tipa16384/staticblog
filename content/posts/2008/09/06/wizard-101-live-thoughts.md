@@ -2,14 +2,39 @@
 date: '2008-09-06T18:04:30-05:00'
 draft: false
 title: "Wizard 101 Live thoughts"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/06/wizard-101-live-thoughts/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Kingsisle"
-  - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/lifewizardcover.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/lifewizardcover.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/lifewizardcover.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/09/lifewizardcover.jpg "lifewizardcover")

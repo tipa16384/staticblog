@@ -2,11 +2,38 @@
 date: '2015-07-01T04:08:55-05:00'
 draft: false
 title: "This is why I tank."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/07/01/this-is-why-i-tank-kasu/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-06-30-23-27-01-31.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-06-30-23-27-01-31.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-06-30-23-27-01-31.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-06-30-23-27-01-31.jpg" title="You want some? YOU WANT SOME?" class="align-center" >}}Kasul came on tonight after work. I had wasted a lot of time tonight getting my camera all set up to catch the Venus/Jupiter convergence (no dice; thanks clouds) and I'm not sure what else, but I logged in kinda late.

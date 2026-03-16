@@ -2,8 +2,37 @@
 date: '2007-06-20T11:31:38-05:00'
 draft: false
 title: "Comment Spam"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/06/20/comment-spam/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The [Ancient Gaming Noob](http://tagn.wordpress.com/2007/06/19/complimentary-comment-spam/) had an interesting post today about the spam comments he gets in his blog. I've often complimented him before on how his well-designed site has changed my life, caused me to burst into laughter unexpectedly and inspired me to become a better person -- many of my heartfelt comments, he displayed there for everyone to see.

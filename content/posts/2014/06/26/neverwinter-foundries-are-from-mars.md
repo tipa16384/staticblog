@@ -2,13 +2,39 @@
 date: '2014-06-26T18:46:37-05:00'
 draft: false
 title: "Neverwinter: Foundries are from Mars"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/06/26/neverwinter-foundries-are-from-mars/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Foundry"
 featured_image: "https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg"
-cover: "https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Shocked by the Spear of Mars!](https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg)

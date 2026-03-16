@@ -2,15 +2,41 @@
 date: '2021-10-02T10:08:04-05:00'
 draft: false
 title: "Game Night: Scythe (and My Little Scythe)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/10/02/game-night-scythe-and-my-little-scythe/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Game Night"
   - "My Little Scythe"
   - "Scythe"
   - "Tabletop Games"
-tags:
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/Scythe-Board-Game-img06.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/Scythe-Board-Game-img06.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/Scythe-Board-Game-img06.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Last week, we saved the forest with apple pies in [My Little Scythe](https://chasingdings.com/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/). Now we have to save the world -- or at least 1920s Eastern Europe -- in [Scythe](https://stonemaiergames.com/games/scythe/).

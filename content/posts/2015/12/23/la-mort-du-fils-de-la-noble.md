@@ -2,11 +2,38 @@
 date: '2015-12-23T16:12:51-05:00'
 draft: false
 title: "La Mort du Fils de la Noble"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/12/23/la-mort-du-fils-de-la-noble/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/12/vlcsnap-2015-12-23-13h35m10s233.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/12/vlcsnap-2015-12-23-13h35m10s233.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/12/vlcsnap-2015-12-23-13h35m10s233.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/vlcsnap-2015-12-23-13h35m10s233.jpg" title="A sudden, stabbing pain..." class="align-center" >}}

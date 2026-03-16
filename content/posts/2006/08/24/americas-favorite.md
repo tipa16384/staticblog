@@ -2,10 +2,37 @@
 date: '2006-08-24T15:35:58-05:00'
 draft: false
 title: "America's Favorite"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/08/24/americas-favorite/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/faveblog.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/08/faveblog.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/08/faveblog.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![America](https://chasingdings.com/wp-content/uploads/2006/08/faveblog.jpg)I had no idea my blog was so popular until I started getting dozens of spam comments each day. These guys would make millions with their illicit drugs if I would only let their comments through! What market pull I must have! I admit, it is tough having America's Favorite Blog, but I bear the burden gladly.

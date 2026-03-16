@@ -2,10 +2,37 @@
 date: '2012-08-06T07:03:35-05:00'
 draft: false
 title: "Diablo 3 Hardcore: The Lord of Lies, Part 1"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/08/06/diablo-3-hardcore-the-lord-of-lies-part-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-05-23-06-44-83-480x320.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-05-23-06-44-83-480x320.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-05-23-06-44-83-480x320.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-05-23-06-44-83-480x320.jpg" title="Dude, where's my Belial?" class="align-center" >}}

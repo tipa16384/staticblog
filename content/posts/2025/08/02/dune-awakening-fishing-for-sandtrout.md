@@ -2,17 +2,42 @@
 date: '2025-08-02T08:00:00-05:00'
 draft: false
 title: "Dune Awakening: Fishing for Sandtrout"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/02/dune-awakening-fishing-for-sandtrout/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Is Dune: Awakening even an MMO if it doesn't have fishing? My playgroup moves into the Deep Desert and finds..."
-categories:
+description: "Is Dune: Awakening even an MMO if it doesn't have fishing? My playgroup moves into the Deep Desert and finds..."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Dune Awakening"
   - "MMORPG"
-tags:
   - "Team Spode"
   - "Tell Me of Your Homeworld Usul"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/fishingforsandtrout.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/fishingforsandtrout.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/fishingforsandtrout.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Steam says I've been playing Dune: Awakening now for 114 hours.

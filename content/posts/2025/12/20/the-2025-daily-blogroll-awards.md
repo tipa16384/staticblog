@@ -2,13 +2,38 @@
 date: '2025-12-20T09:00:44-05:00'
 draft: false
 title: "The 2025 Daily Blogroll Awards"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/20/the-2025-daily-blogroll-awards/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The (short) history of the Daily Blogroll, and a recognition of the best bloggers from the past three months, as judged by the LLM summarizer itself."
-categories:
-  - "Daily Blogroll"
+description: "The (short) history of the Daily Blogroll, and a recognition of the best bloggers from the past three months, as judged by the LLM summarizer itself."
 tags:
+  - "Daily Blogroll"
   - "Blogging"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/dailyblogrollawards.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/12/dailyblogrollawards.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/dailyblogrollawards.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 As I write this, Baldur's Gate 3 developers Larian are being [dragged through the mud](https://www.gamedeveloper.com/production/dev-backlash-to-larian-ceo-s-ai-comments-is-about-leadership-not-just-tech) for admitting that they use generative AI in their workflow. Concept artists are up in arms. Other game developers, the purists, are publicly stating that they are not now and will not ever use AI at all, in any part of any game they make. Stay strong, fighters!

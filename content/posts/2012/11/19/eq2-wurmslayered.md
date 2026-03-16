@@ -2,11 +2,38 @@
 date: '2012-11-19T20:27:37-05:00'
 draft: false
 title: "EQ2: Wurmslayered!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/11/19/eq2-wurmslayered/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77-480x268.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77-480x268.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77-480x268.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![Slaying wurms!](https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77-480x268.jpg "EverQuest2 2012-11-19 13-36-36-77")](https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77.jpg)

@@ -2,11 +2,38 @@
 date: '2015-11-22T10:36:18-05:00'
 draft: false
 title: "A Captain of the Second League"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/11/22/a-member-of-the-second-league/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warships"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/warships-second-league.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/11/warships-second-league.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/11/warships-second-league.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/warships-second-league.jpg" title="Ranked up!" class="align-center" >}}

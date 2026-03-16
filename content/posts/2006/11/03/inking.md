@@ -2,11 +2,38 @@
 date: '2006-11-03T17:15:42-05:00'
 draft: false
 title: "Inking"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/11/03/inking/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "My Work"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/crestblue.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/11/crestblue.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/11/crestblue.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![crestblue.jpg](https://chasingdings.com/wp-content/uploads/2006/11/crestblue.jpg)* Note: My decision to take the pencil sketch and redraw and ink it in Photoshop over the objections of the assistant sales manager for the line who said the sketch's roughness was "why we liked it," was vindicated when the sales manager said she liked it, but needed the background to be a blue gradient to match the backgrounds of the models in the brochure. Woohoo! And just another note: Photoshop CS2 is a real dog on my cheap work computer. My uncle Bruce Holloway is a professional illustrator. We visited him this summer while we were out in New Hampshire. He has this beautiful state of the art Mac and Photoshop setup, and he works on the second floor of a reconverted old barn with floor-to-ceiling windows looking out over picture-postcard rural New Hampshire beauty.*

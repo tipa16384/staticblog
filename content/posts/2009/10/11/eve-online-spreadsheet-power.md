@@ -2,11 +2,38 @@
 date: '2009-10-11T10:22:18-05:00'
 draft: false
 title: "EVE Online: Spreadsheet Power"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/11/eve-online-spreadsheet-power/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/evespreadsheet.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/10/evespreadsheet.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/10/evespreadsheet.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Business for fun and profit, but mostly profit](https://chasingdings.com/wp-content/uploads/2009/10/evespreadsheet.jpg "Business for fun and profit, but mostly profit")

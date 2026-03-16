@@ -2,8 +2,25 @@
 date: '2025-01-04T16:46:09-05:00'
 draft: false
 title: "Best of 2024: My Favorite MMOs"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/04/best-of-2024-my-favorite-mmos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I played a few MMOs this past year. Here's some of my favorites, including two from way back when."
-categories:
+description: "I played a few MMOs this past year. Here's some of my favorites, including two from way back when."
+tags:
   - "Adrullan Online Adventures"
   - "Guild Wars"
   - "Kesmai"
@@ -11,10 +28,18 @@ categories:
   - "Mythos"
   - "Pantheon: Rise of the Fallen"
   - "Ship of Heroes"
-tags:
   - "Nexus the Kingdom of the Winds"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/mmosbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/mmosbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/mmosbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't really want to say "best of", because I don't think I played any MMOs that actually came out in 2024. I played several that aren't officially out yet.

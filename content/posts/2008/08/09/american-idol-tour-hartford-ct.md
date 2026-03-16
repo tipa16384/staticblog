@@ -2,9 +2,26 @@
 date: '2008-08-09T10:05:50-05:00'
 draft: false
 title: "American Idol Tour -- Hartford, CT"
-categories:
-  - "General"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/09/american-idol-tour-hartford-ct/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "General"
   - "American Idol"
   - "American Idol Tour 2008"
   - "Brooke White"
@@ -18,7 +35,16 @@ tags:
   - "Ramiele Mercado"
   - "Syesha Mercado"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/stp61259.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/stp61259.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/stp61259.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't have any video and not many pictures because the indicator on my camera's battery lies. My camera is so happy to be taking pictures in the dark that it builds up its energy for a couple of seconds so it can release it all at once in an arena-filling burst. It can do that about five times.

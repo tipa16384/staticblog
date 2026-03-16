@@ -2,11 +2,38 @@
 date: '2010-08-07T10:27:04-05:00'
 draft: false
 title: "Dragon Age Origins spoiler: Everyone dies."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/07/dragon-age-origins-spoiler-everyone-dies/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dragon Age Origins"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg "Warden Tipa and Wynne sit through a cut-scene")](https://chasingdings.com/wp-content/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15.jpg)

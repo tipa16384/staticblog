@@ -2,14 +2,40 @@
 date: '2020-09-30T07:58:01-05:00'
 draft: false
 title: "Kingdoms of Amalur: Sailing to Mel Senshir"
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/30/kingdoms-of-amalur-sailing-to-mel-senshir/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "Kingdoms of Amalur: Reckoning"
   - "RPG"
   - "Twitch"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/20200929233714_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/20200929233714_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/20200929233714_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Rathir and Mel Senshir are twin cities, on either side of a strait that separates the lands of mortals and Fae from the land of the Tuatha, fallen Fae who seek to destroy the mortal worlds.

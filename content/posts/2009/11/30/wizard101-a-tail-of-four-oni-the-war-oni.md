@@ -2,11 +2,38 @@
 date: '2009-11-30T08:35:48-05:00'
 draft: false
 title: "Wizard101: A Tail of Four Oni -- The War Oni"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/11/30/wizard101-a-tail-of-four-oni-the-war-oni/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-29-13-15-20-97.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-29-13-15-20-97.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-29-13-15-20-97.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Allison and Marissa in Moo Shu](https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-29-13-15-20-97.jpg "Allison and Marissa in Moo Shu")

@@ -2,14 +2,39 @@
 date: '2025-09-27T14:58:09-05:00'
 draft: false
 title: "Becoming Unreasonably Angry about Sonic Crossworlds Racing"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/27/becoming-unreasonably-angry-about-sonic-crossworlds-racing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The Fornite-ization of an iconic kart racing series has just gotten out of control."
-categories:
-  - "Arcade Game"
+description: "The Fornite-ization of an iconic kart racing series has just gotten out of control."
 tags:
+  - "Arcade Game"
   - "Season Pass"
   - "Sonic the Hedgehog"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/SonicRacingBanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/SonicRacingBanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/SonicRacingBanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I got an e-mail in my promotions tab -- not a tab I spend a lot of time browsing. But, for some reason, there I was -- in GMail -- looking through promotions.

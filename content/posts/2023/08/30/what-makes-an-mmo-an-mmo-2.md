@@ -2,13 +2,39 @@
 date: '2023-08-30T07:00:00-05:00'
 draft: false
 title: "What makes an MMO, an MMO?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/30/what-makes-an-mmo-an-mmo-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Is \"I know one when I see one\" enough?"
-categories:
+description: "Is \"I know one when I see one\" enough?"
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/notanmmo.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/notanmmo.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/notanmmo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Since I ran out of credits for the month at Dall-E 2, I've been using Midjourney. Tonight, I went to Stable Diffusion, which is free and only took a dozen tries to make something that looks like it might have come from an MMO.

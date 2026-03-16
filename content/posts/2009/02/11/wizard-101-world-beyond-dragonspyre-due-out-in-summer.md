@@ -2,11 +2,38 @@
 date: '2009-02-11T07:36:11-05:00'
 draft: false
 title: "Wizard 101: World beyond Dragonspyre due out in summer"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/11/wizard-101-world-beyond-dragonspyre-due-out-in-summer/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-11-07-31-42-30.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-11-07-31-42-30.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-11-07-31-42-30.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-11-07-31-42-30.jpg "wizardgraphicalclient-2009-02-11-07-31-42-30")Professor Greyrose of the Ravenwood faculty confirmed that there would be [a new world to explore this summer](https://www.wizard101.com/site/posts/list/3524.ftl), and that it would raise the level cap beyond level 50.

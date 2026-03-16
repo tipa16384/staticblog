@@ -2,11 +2,38 @@
 date: '2008-04-06T11:26:22-05:00'
 draft: false
 title: "Doctor Who: Partners in Crime"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/04/06/doctor-who-partners-in-crime/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Doctor Who"
   - "Sci Fi"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/drwho.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/04/drwho.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/04/drwho.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![drwho.jpg](https://chasingdings.com/wp-content/uploads/2008/04/drwho.jpg)

@@ -2,7 +2,25 @@
 date: '2011-10-11T05:00:54-05:00'
 draft: false
 title: "Daily Blogroll Oct 11: Can't break the NDA edition."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "Dragon Nest"
   - "EVE Online"
@@ -10,7 +28,16 @@ categories:
   - "Star Wars the Old Republic"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/starwarsguys.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/10/starwarsguys.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/10/starwarsguys.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/starwarsguys.jpg" title="Star Wars: The Crayon Republic" class="align-center" >}}

@@ -2,16 +2,42 @@
 date: '2010-08-18T07:37:05-05:00'
 draft: false
 title: "Five Better Concepts for EverQuest Next?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/18/five-better-concepts-for-everquest-next/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Everquest"
   - "Humor"
   - "MMORPG"
-tags:
   - "Concept"
   - "Not Funny"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/village.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/village.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/village.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/08/village.jpg "From the World Creator v2.5 website.")](http://www.inet2inet.com/InetSoftware/World-Creator/WorldCreator-info.asp)

@@ -2,12 +2,38 @@
 date: '2011-11-07T21:02:40-05:00'
 draft: false
 title: "Bulls Bridge"
-categories:
-  - "General"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/11/07/bulls-bridge/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "General"
   - "Google+"
 featured_image: "https://lh3.googleusercontent.com/-hq0V2Nm1-Zc/TrhDEKzCF5I/AAAAAAAAPUc/SufQlMVpP1s/IMG_2053.JPG"
-cover: "https://lh3.googleusercontent.com/-hq0V2Nm1-Zc/TrhDEKzCF5I/AAAAAAAAPUc/SufQlMVpP1s/IMG_2053.JPG"
+cover:
+  image: "https://lh3.googleusercontent.com/-hq0V2Nm1-Zc/TrhDEKzCF5I/AAAAAAAAPUc/SufQlMVpP1s/IMG_2053.JPG"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Today I visited the Bulls Bridge in Kent, CT. The bridge crosses over the Housatonic (HOOS-a-tonic) river onto a large island that splits the river in two for a ways; a more conventional bridge leads off it the other way. The Bulls Bridge is currently one of only two covered bridges in the state. When the Comstock Covered Bridge is rebuilt, there will be three again. Kent is in the beautiful Berkshires that extend north of here through western Massachusetts and up to Vermont, where they become the Green Mountains.[In album Bulls Bridge (14 photos)](https://plus.google.com/photos/108460561201888322767/albums/5672357451403541649)

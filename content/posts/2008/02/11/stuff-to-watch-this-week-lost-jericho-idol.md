@@ -2,10 +2,39 @@
 date: '2008-02-11T10:32:50-05:00'
 draft: false
 title: "Stuff to watch this week: Lost, Jericho, Idol"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/02/11/stuff-to-watch-this-week-lost-jericho-idol/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "MMORPG"
   - "Sci Fi"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Tuesday -- American Idol begins Hollywood week, which winnows the people who made it through the audition process to the twenty-four people who will make it to the actual contest. This year, people are allowed to play instruments. I don't know how this fits into a singing show, but I guess, anything for the ratings.

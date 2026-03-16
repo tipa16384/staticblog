@@ -2,15 +2,31 @@
 date: '2024-03-30T14:54:28-05:00'
 draft: false
 title: "Retro Game Haul: March 30, 2024"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/03/30/retro-game-haul-march-30-2024/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I have way too many games to ever play, but still I can't help it. Today's haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details..."
-categories:
+description: "I have way too many games to ever play, but still I can't help it. Today's haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details..."
+tags:
   - "Adventure"
   - "PS5"
   - "Text Adventure Game"
   - "Vectrex"
   - "Video Game"
   - "Video Game Console"
-tags:
   - "Atari"
   - "Basic"
   - "Broken Sword"
@@ -21,7 +37,16 @@ tags:
   - "Pinball"
   - "Spinball"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/IMG_4228.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/03/IMG_4228.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/03/IMG_4228.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm a retro game collector. It's 2024, you can play pretty much any video game from the last fifty years on your PC with emulation, and most of the good ones have been remade (one of those in today's haul is such a remake, actually). Not all of these games are going straight into the backlog, though -- some have already been a lot of fun.

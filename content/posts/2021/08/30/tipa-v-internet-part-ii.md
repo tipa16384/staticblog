@@ -2,15 +2,40 @@
 date: '2021-08-30T23:51:06-05:00'
 draft: false
 title: "Tipa v Internet: Part II"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/30/tipa-v-internet-part-ii/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "DC Universe Online"
   - "Real Life"
-tags:
-  - "Blaugust"
   - "Internet"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I bought a new router and haven't crashed in DCUO all night. Is everything good now? Did I fix the issue?

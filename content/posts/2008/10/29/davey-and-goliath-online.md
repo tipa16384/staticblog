@@ -2,12 +2,38 @@
 date: '2008-10-29T14:13:33-05:00'
 draft: false
 title: "Davey and Goliath Online?"
-categories:
-  - "MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/29/davey-and-goliath-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "MMORPG"
   - "Davey and Goliath Online"
 featured_image: "http://www.daveyandgoliath.org/images/davey_goliath_bkgd_church.jpg"
-cover: "http://www.daveyandgoliath.org/images/davey_goliath_bkgd_church.jpg"
+cover:
+  image: "http://www.daveyandgoliath.org/images/davey_goliath_bkgd_church.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Davey and Goliath](http://www.daveyandgoliath.org/images/davey_goliath_bkgd_church.jpg)

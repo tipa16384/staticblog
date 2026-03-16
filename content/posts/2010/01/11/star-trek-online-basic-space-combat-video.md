@@ -2,9 +2,38 @@
 date: '2010-01-11T23:27:36-05:00'
 draft: false
 title: "Star Trek Online: Basic Space Combat (video)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/01/11/star-trek-online-basic-space-combat-video/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In [the first post](https://chasingdings.com/index.php/2010/01/11/star-trek-online-a-first-look/) in this series, I gave a brief overview of the game. In [the second](https://chasingdings.com/index.php/2010/01/12/star-trek-online-character-and-ship-creation/), I covered the sorts of character and ship customization you can do.

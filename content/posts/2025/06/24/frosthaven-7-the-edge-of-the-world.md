@@ -2,15 +2,41 @@
 date: '2025-06-24T08:22:41-05:00'
 draft: false
 title: "Frosthaven #7: The Edge of the World"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/06/24/frosthaven-7-the-edge-of-the-world/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Taking a break from the Algox situation to have a seafood snack."
-categories:
+description: "Taking a break from the Algox situation to have a seafood snack."
+tags:
   - "3D Printing"
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/IMG_5196-1-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/06/IMG_5196-1-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/06/IMG_5196-1-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't think we've really found a direction in Frosthaven yet, several scenarios in. Frosthaven, the wintry outpost, has forged a temporary peace with the Algox. We're supposed to be helping it shore up its defenses, but instead we're taking the momentary ceasefire as an opportunity to do some exploring.

@@ -2,7 +2,25 @@
 date: '2009-04-18T06:17:29-05:00'
 draft: false
 title: "Web Log 4/18"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/18/web-log-418/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
   - "Darkfall"
@@ -10,10 +28,20 @@ categories:
   - "Free Realms"
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Elves"
   - "Shadowbane"
   - "Xkcd"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Interested in playing a little game called Free Realms? They're letting ANYONE in. They let ME in, right? If you haven't gotten a key, and want to try out the Next Big Thing, head on over to [http://www.freerealms.com/index.vm?cid=1054126](http://www.freerealms.com/index.vm?cid=1054126) and sign up, first thousand get in (via [@freerealms](http://twitter.com/freerealms)). Odds not good enough for you? [USA Today has 20 *thousand* keys to give away](http://content.usatoday.com/Contests/ContestEntry/Contests.aspx?ContestId=0a3eb78d-e70d-4703-a4ed-6cc6ee8eecc0) (via [Grimwell](http://www.grimwell.com/?p=391)). Why exactly can't we talk about this game? This sounds so much like an OPEN beta.

@@ -2,10 +2,37 @@
 date: '2006-06-14T00:00:00-05:00'
 draft: false
 title: "Deadwood"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/06/14/deadwood/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Sci Fi"
 featured_image: "https://chasingdings.com/images/deadwood.jpg"
-cover: "https://chasingdings.com/images/deadwood.jpg"
+cover:
+  image: "https://chasingdings.com/images/deadwood.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/images/deadwood.jpg)

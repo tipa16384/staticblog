@@ -2,13 +2,38 @@
 date: '2025-12-16T08:31:37-05:00'
 draft: false
 title: "Prompting Malifaux"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/16/prompting-malifaux/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Why yes, I do enjoy making my Malifaux masters into chibis :-)"
-categories:
-  - "Malifaux"
+description: "Why yes, I do enjoy making my Malifaux masters into chibis :-)"
 tags:
+  - "Malifaux"
   - "ChatGPT"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_13_14-AM.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_13_14-AM.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-16-2025-08_13_14-AM.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 IverCold asked in my previous post how I made chibi Malifaux characters.

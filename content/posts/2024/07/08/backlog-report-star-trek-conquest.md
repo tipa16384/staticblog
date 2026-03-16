@@ -2,16 +2,41 @@
 date: '2024-07-08T07:00:00-05:00'
 draft: false
 title: "Backlog Report: Star Trek Conquest"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/07/08/backlog-report-star-trek-conquest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I promised myself I would work through my PS2 game backlog by playing every game at least a couple hours. First up: Star Trek Conquest."
-categories:
+description: "I promised myself I would work through my PS2 game backlog by playing every game at least a couple hours. First up: Star Trek Conquest."
+tags:
   - "4X"
   - "Star Trek"
   - "Tactics"
-tags:
   - "PCSX2"
   - "PS2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/Star-Trek-Conquest_SLUS-21630_20240707230409.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/07/Star-Trek-Conquest_SLUS-21630_20240707230409.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/07/Star-Trek-Conquest_SLUS-21630_20240707230409.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have dozens of games to play and I keep buying more of them. PCSX2 makes it easy to pick up and play these games on the spur of the moment, and so I have been dipping into my backlog here and there.

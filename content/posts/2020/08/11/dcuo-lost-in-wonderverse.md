@@ -2,14 +2,40 @@
 date: '2020-08-11T12:00:00-05:00'
 draft: false
 title: "DCUO: Lost in Wonderverse"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/11/dcuo-lost-in-wonderverse/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Steam Games"
-tags:
   - "DC Universe Online"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-MPYR0303_AUDIO-PC-10-21.16.490.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/1-MPYR0303_AUDIO-PC-10-21.16.490.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-MPYR0303_AUDIO-PC-10-21.16.490.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 *I just read that [DC Comics and DC Universe have been hit with massive layoffs](https://www.hollywoodreporter.com/heat-vision/dc-comics-dc-universe-hit-by-major-layoffs-1306743). While I doubt DC Universe Online will be much affected, I have been playing this game for ten years now and have a little bit of time invested in it. I hope everyone there does well and lands on their feet.*

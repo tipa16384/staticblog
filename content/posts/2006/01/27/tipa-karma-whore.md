@@ -2,8 +2,37 @@
 date: '2006-01-27T00:00:00-05:00'
 draft: false
 title: "Tipa: Karma Whore"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/01/27/tipa-karma-whore/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was browsing through [Slashdot's FAQ](http://slashdot.org/faq/), and discovered that, far from just being a boring list of hows, whys and wherefores, it was actually a set of rules for a Slashdot [metagame](http://www.urbandictionary.com/define.php?term=metagame). This game is based entirely on improving your *karma* - which is, in short, the likelihood that articles and comments you write will be seen by other people, or lost in the hundreds of low-karma posts nobody but the moderators read.

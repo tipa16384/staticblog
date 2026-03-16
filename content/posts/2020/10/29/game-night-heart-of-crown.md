@@ -2,16 +2,42 @@
 date: '2020-10-29T07:34:04-05:00'
 draft: false
 title: "Game Night: Heart of Crown"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/29/game-night-heart-of-crown/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Card Games"
   - "Game Night"
-tags:
   - "Anime"
   - "Card Game"
   - "Dominion"
   - "Heart of Crown"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1972.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1972.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1972.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'd forgotten we'd discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game.

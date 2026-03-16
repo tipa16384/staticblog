@@ -2,10 +2,37 @@
 date: '2009-01-07T07:31:59-05:00'
 draft: false
 title: "The Evolution of Ebony"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/07/the-evolution-of-ebony/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/ebonysm.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/ebonysm.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/ebonysm.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/01/ebonysm.jpg "ebonysm")

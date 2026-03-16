@@ -2,11 +2,38 @@
 date: '2015-05-31T16:33:45-05:00'
 draft: false
 title: "Act III: The Anger of the Gods"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/05/31/when-i-got-to-act-iii-in/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Pillars of Eternity"
 featured_image: "https://lh3.googleusercontent.com/-p_mPOkpAiuw/VWs36IBFf-I/AAAAAAABJY4/CdhIDs1Wuyc/w506-h750/PillarsOfEternity%2B2015-05-31%2B12-16-55-44.jpg"
-cover: "https://lh3.googleusercontent.com/-p_mPOkpAiuw/VWs36IBFf-I/AAAAAAABJY4/CdhIDs1Wuyc/w506-h750/PillarsOfEternity%2B2015-05-31%2B12-16-55-44.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-p_mPOkpAiuw/VWs36IBFf-I/AAAAAAABJY4/CdhIDs1Wuyc/w506-h750/PillarsOfEternity%2B2015-05-31%2B12-16-55-44.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 When I got to Act III in Pillars of Eternity, I stopped. One of the first quests I got asked me to strengthen the future bloodline of a long-established family by culling its weak souls so stronger ones could take their place. The weak soul the quest giver had in mind was currently in a child.

@@ -2,16 +2,42 @@
 date: '2020-09-11T07:00:00-05:00'
 draft: false
 title: "Game Night: Jaws of the Lion, the Black Ship"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/11/game-night-jaws-of-the-lion-the-black-ship/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Game Night"
   - "Gloomhaven"
   - "Miniatures"
   - "Tabletop Games"
-tags:
   - "Jaws of the Lion"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1908.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1908.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1908.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Since school has started up, we've been hesitant to continue with the family game night. But you just can't keep us down. We've decided to alternate Jaws of the Lion, a campaign game, with other games. Last time we met it was for mahjong. Tonight, we're back in Gloomhaven.

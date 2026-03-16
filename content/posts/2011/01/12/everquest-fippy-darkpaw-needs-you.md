@@ -2,11 +2,38 @@
 date: '2011-01-12T07:18:38-05:00'
 draft: false
 title: "EverQuest: Fippy Darkpaw NEEDS YOU!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/01/12/everquest-fippy-darkpaw-needs-you/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2011-01-12-06-52-29-24-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2011-01-12-06-52-29-24-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2011-01-12-06-52-29-24-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2011-01-12-06-52-29-24-480x384.jpg "I will destroy your lands!")](https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2011-01-12-06-52-29-24.jpg)

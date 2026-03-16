@@ -2,14 +2,41 @@
 date: '2009-08-06T07:23:17-05:00'
 draft: false
 title: "When I die...."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/08/06/when-i-die/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "EverQuest"
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/eqgame-2009-08-05-19-48-14-80.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/08/eqgame-2009-08-05-19-48-14-80.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/08/eqgame-2009-08-05-19-48-14-80.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Whoa, didn](https://chasingdings.com/wp-content/uploads/2009/08/eqgame-2009-08-05-19-48-14-80.jpg "Whoa, didn")

@@ -2,17 +2,42 @@
 date: '2024-02-07T08:18:03-05:00'
 draft: false
 title: "HeroQuest: A Race Against Time"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/02/07/heroquest-a-race-against-time/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Spoiler alert: There was no time limit for this quest."
-categories:
+description: "Spoiler alert: There was no time limit for this quest."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "Dall-E 2"
   - "Elf"
   - "Rogue"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have such an appreciation for how actual real comic book colorists work. I don't know who Dall-E 3 ripped this style off from, but wow, I have seen comic books with this sort of detailed coloring and I think it is the most intricate job in comics.

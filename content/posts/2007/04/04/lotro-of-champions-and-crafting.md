@@ -2,9 +2,38 @@
 date: '2007-04-04T09:12:06-05:00'
 draft: false
 title: "LotrO: Of Champions and Crafting."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/04/04/lotro-of-champions-and-crafting/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I reached level 13 with my champion last night and finished the Ered LuinÂ part of the elf epic quest series. The last step of which is to form a fellowship and go into an instance which, like every fellowship instance I've seen so far, is escorting some NPC through a mission on rails -- entirely linear.

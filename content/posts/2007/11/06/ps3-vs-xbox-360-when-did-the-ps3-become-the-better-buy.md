@@ -2,8 +2,37 @@
 date: '2007-11-06T07:57:30-05:00'
 draft: false
 title: "PS3 vs Xbox 360... when did the PS3 become the better buy?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/06/ps3-vs-xbox-360-when-did-the-ps3-become-the-better-buy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Because the PS3 is, as everyone is fully aware, incredibly more expensive than the Xbox 360, when I went to buy my "Rock Band"-playing system over the weekend, I chose the Xbox to save some money.

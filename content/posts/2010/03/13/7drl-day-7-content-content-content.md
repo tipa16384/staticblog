@@ -2,11 +2,38 @@
 date: '2010-03-13T16:38:36-05:00'
 draft: false
 title: "7DRL Day 7: Content, content, content"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/13/7drl-day-7-content-content-content/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/Fullscreen-capture-3132010-35853-PM-480x384-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/02/Fullscreen-capture-3132010-35853-PM-480x384-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/02/Fullscreen-capture-3132010-35853-PM-480x384-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 When I started with the 7DRL game design challenge, I'd set a timeline. I would need to get all the game mechanics done by last Sunday, so I could focus on adding content to the game, doing balancing, playtesting the game, polishing it to a fine sheen, until today it would burst on the scene like a supernova. I'd be getting piles of emails from indie game studios asking if I wanted to work on some cool projects, doors would open and angels would fly out begging me to expand the game into some monster AAA title and I....

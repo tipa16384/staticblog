@@ -2,13 +2,39 @@
 date: '2014-07-16T05:57:37-05:00'
 draft: false
 title: "Neverwinter: Foundries on the Half-Shell"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/07/16/neverwinter-foundries-on-the-half-shell/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh6.googleusercontent.com/-4O4qM0goqn4/U8UTxIrlvNI/AAAAAAAAx6I/Fcn-tBZgLUw/w649-h519-no/GameClient+2014-07-14+20-39-19-81.jpg"
-cover: "https://lh6.googleusercontent.com/-4O4qM0goqn4/U8UTxIrlvNI/AAAAAAAAx6I/Fcn-tBZgLUw/w649-h519-no/GameClient+2014-07-14+20-39-19-81.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-4O4qM0goqn4/U8UTxIrlvNI/AAAAAAAAx6I/Fcn-tBZgLUw/w649-h519-no/GameClient+2014-07-14+20-39-19-81.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Wild Man of the Wood](https://lh6.googleusercontent.com/-4O4qM0goqn4/U8UTxIrlvNI/AAAAAAAAx6I/Fcn-tBZgLUw/w649-h519-no/GameClient+2014-07-14+20-39-19-81.jpg)

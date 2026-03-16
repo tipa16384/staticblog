@@ -2,13 +2,39 @@
 date: '2009-05-05T21:40:07-05:00'
 draft: false
 title: "Wizard 101: Housing goes LIVE Wednesday!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/05/wizard-101-housing-goes-live-wednesday/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Player Housing"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-05-22-09-21-98.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-05-22-09-21-98.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-05-22-09-21-98.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![My little Wizard City cottage](https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-05-22-09-21-98.jpg "My little Wizard City cottage")

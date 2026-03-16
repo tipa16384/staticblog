@@ -2,19 +2,44 @@
 date: '2022-09-23T23:15:14-05:00'
 draft: false
 title: "Star Ocean: The Divine Force: The Demo"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/23/star-ocean-the-divine-force-the-demo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Star Ocean: The Divine Force is an upcoming action RPG with a flying combat drone and a focus on disabling enemies through battle effects. The demo offers a taste of the game's fast-paced combat and linear storytelling."
-categories:
+description: "Star Ocean: The Divine Force is an upcoming action RPG with a flying combat drone and a focus on disabling enemies through battle effects. The demo offers a taste of the game's fast-paced combat and linear storytelling."
+tags:
   - "Action RPG"
   - "PS5"
   - "RPG"
-tags:
   - "Demo"
   - "Ffxii"
   - "Ffxv"
   - "Star Ocean"
   - "The Divine Force"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Space pirate crash lands on fantasy planet at the dainty feet of a runaway magic princess, it's a story as old as time itself. Can Star Ocean: The Divine Force's innovative combat bring something new to the formula?

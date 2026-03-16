@@ -2,10 +2,37 @@
 date: '2007-08-11T08:01:27-05:00'
 draft: false
 title: "Neopets: Fire Faerie Quest Completed"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/08/11/neopets-fire-faerie-quest-completed/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/08/faerie1.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2007/08/faerie1.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/08/faerie1.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Random quests in Neopets have some odd repercussions.... like not being able to use the Shop Wizard to search for items to, say, finish the quest...

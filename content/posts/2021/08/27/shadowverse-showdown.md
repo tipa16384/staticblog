@@ -2,17 +2,42 @@
 date: '2021-08-27T00:07:04-05:00'
 draft: false
 title: "Shadowverse Showdown!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/27/shadowverse-showdown/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Card Games"
   - "Mobile Games"
   - "Nintendo Switch"
-tags:
-  - "Blaugust"
   - "Mobile Game"
   - "Shadowverse"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/shadowverselogo.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/shadowverselogo.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/shadowverselogo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Okay, picture this: A collectible card game -- except digital! And you play as one of a bunch of different classes, with cards themed to your class. You can play through a deep RPG with unique storylines for all classes, or test your deck against other players! There's never been anything quite like ~~Hearthstone~~ Shadowverse!

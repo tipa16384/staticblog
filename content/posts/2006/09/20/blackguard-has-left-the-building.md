@@ -2,9 +2,38 @@
 date: '2006-09-20T09:07:48-05:00'
 draft: false
 title: "Blackguard Has Left the Building"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/09/20/blackguard-has-left-the-building/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 EQ2 Community Relations manager Ryan "Blackguard" Schwayder is [leaving SOE](http://eqiiforums.station.sony.com/eq2/board/message?board.id=Non-Gameplay&message.id=416177#M416177) to return home to Denver.

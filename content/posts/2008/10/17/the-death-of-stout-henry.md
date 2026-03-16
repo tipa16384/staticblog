@@ -2,15 +2,40 @@
 date: '2008-10-17T08:45:20-05:00'
 draft: false
 title: "The Death of Stout Henry"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/17/the-death-of-stout-henry/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "MMORPG"
   - "Stout Henry"
-tags:
-  - "Stout Henry"
   - "The Death of Stout Henry"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/gallows.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/gallows.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/gallows.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/gallows.jpg "gallows")

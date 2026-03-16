@@ -2,18 +2,43 @@
 date: '2024-08-09T07:30:00-05:00'
 draft: false
 title: "It's my birthday, but *I* get the presents!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/09/its-my-birthday-but-i-get-the-presents/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "My boyfriend knows exactly the kind of stuff I love, but you'd expect that. Read on for why all this stuff is SO FREAKIN' COOL."
-categories:
+description: "My boyfriend knows exactly the kind of stuff I love, but you'd expect that. Read on for why all this stuff is SO FREAKIN' COOL."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "HeroQuest"
   - "Horizon Forbidden West"
   - "Super Nintendo"
   - "Tabletop Games"
-tags:
   - "Gameboy"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4544-EDIT.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4544-EDIT.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4544-EDIT.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I get e-mails from online stores always saying it's their anniversary or birthday or whatever, but they want to give us presents, which usually entails sending them money.

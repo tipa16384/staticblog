@@ -2,12 +2,39 @@
 date: '2010-06-17T20:44:17-05:00'
 draft: false
 title: "Free2Play: The Remedy for All Ills"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/06/17/free2play-the-remedy-for-all-ills/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/tabula_rasa-2007-12-30-09-17-08-46.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/06/tabula_rasa-2007-12-30-09-17-08-46.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/06/tabula_rasa-2007-12-30-09-17-08-46.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/06/tabula_rasa-2007-12-30-09-17-08-46.jpg "Could F2P have saved Tabula Rasa?")

@@ -2,10 +2,27 @@
 date: '2020-05-08T11:39:04-05:00'
 draft: false
 title: "Project64 and Beetle Adventure Racing"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/08/project64-and-beetle-adventure-racing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "Uncategorized"
-tags:
   - "Beetle Adventure Racing"
   - "Emulator"
   - "GTI"
@@ -13,7 +30,16 @@ tags:
   - "Project64"
   - "Volkswagen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/Project64-2020-05-08-07-01-57-40.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/Project64-2020-05-08-07-01-57-40.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/Project64-2020-05-08-07-01-57-40.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's 1999, my old broken down Super Beetle is sitting in the driveway, probably waiting on another rebuilt part for its underpowered engine, and Volkswagen wants me to know that it's about to release brand new Beetles, and I could get one.

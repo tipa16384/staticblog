@@ -2,11 +2,38 @@
 date: '2007-10-26T23:39:55-05:00'
 draft: false
 title: "EQ Nostalgia #2: Karnor's Castle"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/10/26/eq-nostalgia-2-karnors-castle/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/kc1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2007/10/kc1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/10/kc1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Statue in Dreadlands outside Firiona Vie zone](https://chasingdings.com/wp-content/uploads/2007/10/kc1.png) One of the draws EQ2 has for all of us old EQ players is the nostalgia, especially for those of us who were there from the beginning.

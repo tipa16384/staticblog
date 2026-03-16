@@ -2,13 +2,39 @@
 date: '2014-06-14T16:45:50-05:00'
 draft: false
 title: "DCUO: CR 100!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/06/14/dcuo-cr-100/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh3.googleusercontent.com/-alHT2iKOfLI/U5yxv_CPmUI/AAAAAAAAvEw/GEaBiI0Fm5U/w664-h498-no/DCGame+2014-06-14+16-23-22-11.jpg"
-cover: "https://lh3.googleusercontent.com/-alHT2iKOfLI/U5yxv_CPmUI/AAAAAAAAvEw/GEaBiI0Fm5U/w664-h498-no/DCGame+2014-06-14+16-23-22-11.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-alHT2iKOfLI/U5yxv_CPmUI/AAAAAAAAvEw/GEaBiI0Fm5U/w664-h498-no/DCGame+2014-06-14+16-23-22-11.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://lh3.googleusercontent.com/-alHT2iKOfLI/U5yxv_CPmUI/AAAAAAAAvEw/GEaBiI0Fm5U/w664-h498-no/DCGame+2014-06-14+16-23-22-11.jpg" title="Teal Lantern blasting at something you can't see but would go OOOOOOOO if you could. If only!" class="align-center" >}}

@@ -2,12 +2,39 @@
 date: '2012-10-15T06:35:51-05:00'
 draft: false
 title: "Game Log: Pirate101, Star Trek Online"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/10/15/game-log-pirate101-star-trek-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Pirate101"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg" title="In the cellar of any tavern" class="align-center" >}}

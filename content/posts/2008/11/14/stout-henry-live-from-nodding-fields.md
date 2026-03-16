@@ -2,13 +2,38 @@
 date: '2008-11-14T00:07:00-05:00'
 draft: false
 title: "Stout Henry: LIVE! From Nodding Fields!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/14/stout-henry-live-from-nodding-fields/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "Stout Henry"
-tags:
-  - "Stout Henry"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/stouthenrylive.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/stouthenrylive.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/stouthenrylive.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/11/stouthenrylive.jpg "stouthenrylive")Ferd's guards, sent to apprehend Stout Henry and bring him back to face his sentence -- death -- had decided instead to have him face the penalty meted out by the mysterious that... THING that lived in Owlshead Forest. Which was, to enter the Tournament that had filled all the inns of Nodding Fields with contestants and the crowds who had come from all over the Southlands to take part in the many battle royales that would give bragging rights to the villages and towns who'd sent their best to compete.

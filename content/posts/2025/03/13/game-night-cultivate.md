@@ -2,16 +2,41 @@
 date: '2025-03-13T08:04:02-05:00'
 draft: false
 title: "Game Night: CULTivate"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/03/13/game-night-cultivate/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This isn't a picture of the CULT-ivate board game. It's my cat, Midnight, helping me to play \"The Plucky Squire\". He was really getting into it."
-categories:
+description: "This isn't a picture of the CULT-ivate board game. It's my cat, Midnight, helping me to play \"The Plucky Squire\". He was really getting into it."
+tags:
   - "Cats"
   - "Game Night"
   - "Tabletop Games"
-tags:
   - "Cultivate"
   - "The Plucky Squire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/pluckymidnight.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/03/pluckymidnight.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/03/pluckymidnight.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have too many hobbies. It's true. I think, if I only had one or two, I could really get *good* at one of them and have more fun and stuff. Like, I could really get good at Irish flute or mandolin, and start playing with some of the local sessions. Or I could get better at gamedev and maybe join the ranks of those solo devs who come out with their purest visions of their perfect game. Or get better at writing and finish those stories I have in my head. Or get better at painting minis and gaming in person.

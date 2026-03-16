@@ -2,7 +2,25 @@
 date: '2009-07-21T08:03:07-05:00'
 draft: false
 title: "Daily Blogroll 7/21 -- Scrapyard edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/21/daily-blogroll-721-scrapyard-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "EVE Online"
   - "EverQuest"
@@ -11,7 +29,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/eqgame-2009-07-21-07-17-41-46.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/eqgame-2009-07-21-07-17-41-46.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/eqgame-2009-07-21-07-17-41-46.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![The Junk Beast in the Plane of Innovation](https://chasingdings.com/wp-content/uploads/2009/07/eqgame-2009-07-21-07-17-41-46.jpg "The Junk Beast in the Plane of Innovation")

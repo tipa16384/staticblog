@@ -2,16 +2,42 @@
 date: '2008-08-08T22:54:03-05:00'
 draft: false
 title: "Runes of Magic coming soon to a Leipzig near you!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/08/runes-of-magic-coming-soon-to-a-leipzig-near-you/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
   - "Runes of Magic"
-tags:
   - "Free to Play"
   - "Games Convention"
   - "Leipzig"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/runeschars.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/runeschars.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/runeschars.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/08/runeschars.jpg "runeschars")

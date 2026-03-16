@@ -2,16 +2,40 @@
 date: '2025-02-11T08:01:35-05:00'
 draft: false
 title: "Erenshor: Oh, by the way, which one is Bink?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/02/11/erenshor-oh-by-the-way-which-one-is-bink/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Erenshor is the single player RPG you tell MMO stories about."
-categories:
+description: "Erenshor is the single player RPG you tell MMO stories about."
+tags:
   - "Erenshor"
   - "MMORPG"
   - "Steam Games"
-tags:
-  - "Erenshor"
   - "Pink Floyd"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/1-20250210223651_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/02/1-20250210223651_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/02/1-20250210223651_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's been a couple of weeks since I joined the Erenshor Beta Test. I haven't had a super huge amount of time to play -- there was CaptainCon, and then there's a bunch of new models to paint for an upcoming Malifaux tournament, and then there's just other games out there, etc.

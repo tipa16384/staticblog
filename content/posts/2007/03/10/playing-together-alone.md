@@ -2,8 +2,37 @@
 date: '2007-03-10T10:55:47-05:00'
 draft: false
 title: "Playing together alone"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/03/10/playing-together-alone/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 From [Raph Koster's notes on GDC](http://www.raphkoster.com/2007/03/09/gdc-07-game-studies-download/)... a stunning insight into the innovation WoW brought to the MMO realm... given the chance, players only group less than a third of their playtime and for the vast bulk of their playtime, like playing solo, but still chatting and being part of the community.

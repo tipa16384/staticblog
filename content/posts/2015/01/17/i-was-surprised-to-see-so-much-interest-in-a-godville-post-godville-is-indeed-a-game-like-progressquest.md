@@ -2,11 +2,38 @@
 date: '2015-01-17T02:31:06-05:00'
 draft: false
 title: "Godville: Dungeon Run"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/17/i-was-surprised-to-see-so-much-interest-in-a-godville-post-godville-is-indeed-a-game-like-progressquest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Godville"
   - "Other Games"
 featured_image: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
-cover: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was surprised to see so much interest in a  [#Godville](https://plus.google.com/s/%23Godville)  post :) Godville is indeed a game like ProgressQuest, a parody of MMOs where it seemed all you would do is just grind gear... forever.

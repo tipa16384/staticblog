@@ -2,16 +2,41 @@
 date: '2008-11-03T09:51:20-05:00'
 draft: false
 title: "Wizard 101: Shiritaki Temple and the Plague Oni"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/03/wizard-101-shiritakai-temple-and-the-plague-oni/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Plague Oni"
   - "Shiritakai Temple"
   - "W101"
-  - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg "wizardgraphicalclient-2008-11-01-17-59-57-21")

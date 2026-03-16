@@ -2,11 +2,38 @@
 date: '2013-02-19T07:39:18-05:00'
 draft: false
 title: "EQ2: Twoo Luv and the Nerfbat"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/02/19/eq2-twoo-luv-and-the-nerfbat/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-16-14-48-03-41-480x342.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-16-14-48-03-41-480x342.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-16-14-48-03-41-480x342.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Well, mostly, this post is to test how my usual article heading picture can replace the header image, which is cool. Secondly, yes, I am NOT ONLY playing DC Universe Online, though from looking at the past few posts, it certainly looks as though I am.

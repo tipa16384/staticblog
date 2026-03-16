@@ -2,10 +2,37 @@
 date: '2006-07-17T00:00:00-05:00'
 draft: false
 title: "Lost Legend of Lavastorm"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/07/17/lost-legend-of-lavastorm/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
 featured_image: "https://chasingdings.com/images/arms.jpg"
-cover: "https://chasingdings.com/images/arms.jpg"
+cover:
+  image: "https://chasingdings.com/images/arms.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/images/arms.jpg) Finally finished getting my Xegonite Melodic armor. My guild leader, Xagain, gave me a present of most of the pieces when I turned 62, but due to my personal definition of what arm meant (armor worn on your arm) versus EQ2's definition (armor worn on your wrist), I got a bracer instead of what EQ2 calls shoulder armor. So, since due to all the restless level 70s foraging and sending the prices of those forages plummeting, xegonite was cheap enough that I bought a cluster and had the ~~arms~~ shoulders made.

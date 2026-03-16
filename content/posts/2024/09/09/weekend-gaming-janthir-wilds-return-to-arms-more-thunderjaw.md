@@ -2,20 +2,45 @@
 date: '2024-09-09T08:13:16-05:00'
 draft: false
 title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I finish Guild Wars 2’s Janthir Wilds prologue, revisit **Champions: Return to Arms** with a PS4 controller, and make progress on my LEGO Thunderjaw build."
-categories:
+description: "I finish Guild Wars 2’s Janthir Wilds prologue, revisit **Champions: Return to Arms** with a PS4 controller, and make progress on my LEGO Thunderjaw build."
+tags:
   - "Guild Wars"
   - "Horizon Forbidden West"
   - "MMORPG"
   - "PS2"
-tags:
   - "Champions Return to Arms"
   - "Lego"
   - "PCSX2"
   - "The Last Starfighter"
   - "Thunderjaw"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/gw2janthir.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/gw2janthir.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/gw2janthir.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I talk so little about Guild Wars 2 here that I don't think anyone really knows I play it. It's the only MMO I play, actually, but I only find myself playing it an hour a week, when Team Spode comes together to play it.

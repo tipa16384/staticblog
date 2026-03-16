@@ -2,15 +2,40 @@
 date: '2023-12-05T22:37:57-05:00'
 draft: false
 title: "Advent of Code Day 5 -- If You Give A Seed A Fertilizer"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This can take no time at all or an eternity."
-categories:
-  - "Advent of Code"
+description: "This can take no time at all or an eternity."
 tags:
+  - "Advent of Code"
   - "Advent"
   - "AoC2023"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every year, there is a problem where the first part is easy and trivial, but if you tried the same solution on the second part, stars would burn out before it finished. That's today's puzzle.

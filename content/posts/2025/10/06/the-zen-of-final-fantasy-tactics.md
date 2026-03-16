@@ -2,15 +2,40 @@
 date: '2025-10-06T08:12:32-05:00'
 draft: false
 title: "The Zen of Final Fantasy Tactics"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/06/the-zen-of-final-fantasy-tactics/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "There's the recommended way to play Final Fantasy Tactics. And then there's the way I play it."
-categories:
+description: "There's the recommended way to play Final Fantasy Tactics. And then there's the way I play it."
+tags:
   - "Final Fantasy"
   - "PS5"
-tags:
   - "Final Fantasy Tactics"
   - "The Ivalice Chronicles"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a story of love. It's a story of betrayal. It's a story of class warfare. It's a classic story that has stood the test of time for thirty years. Final Fantasy Tactics stands as not just one of the best Final Fantasy games, but one of the best tactical RPGs ever produced.

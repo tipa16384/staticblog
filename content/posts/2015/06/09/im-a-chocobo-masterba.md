@@ -2,11 +2,38 @@
 date: '2015-06-09T04:17:28-05:00'
 draft: false
 title: "I'm a Chocobo Master!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/06/09/im-a-chocobo-masterba/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-08-23-34-16-99.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-08-23-34-16-99.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-08-23-34-16-99.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-08-23-34-16-99.jpg" title="I choose you, Chocobo!" class="align-center" >}}

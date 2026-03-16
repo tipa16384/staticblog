@@ -2,14 +2,40 @@
 date: '2009-10-10T22:55:00-05:00'
 draft: false
 title: "Lemons Looks at Love"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/10/lemons-looks-at-love/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Love"
   - "MMORPG"
-tags:
   - "Lemons"
   - "Necropost"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/loveworld-1024x578.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/loveworld-1024x578.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/loveworld-1024x578.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 *A guest article by [Lemons](http://www.xfire.com/profile/ham2/) :)*

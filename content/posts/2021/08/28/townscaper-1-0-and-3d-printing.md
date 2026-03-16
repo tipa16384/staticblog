@@ -2,17 +2,42 @@
 date: '2021-08-28T17:16:55-05:00'
 draft: false
 title: "Townscaper 1.0 and 3D Printing"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/28/townscaper-1-0-and-3d-printing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Blaugust"
   - "Steam Games"
   - "Townscaper"
-tags:
-  - "Blaugust"
   - "Fusion 360"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210828092303_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210828092303_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210828092303_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Townscaper has left early access and hit app stores all around the world with the peaceful grooves of Swedish seaside villages.

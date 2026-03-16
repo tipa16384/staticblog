@@ -2,17 +2,41 @@
 date: '2024-05-04T16:48:35-05:00'
 draft: false
 title: "EverQuest II goes retro with Anashti Sul"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's probably intentional that the latest EverQuest 2 server, Anashti Sul, is named after a deity once known as the \"Lifegiver\", but now more known for bringing life to the dead."
-categories:
+description: "It's probably intentional that the latest EverQuest 2 server, Anashti Sul, is named after a deity once known as the \"Lifegiver\", but now more known for bringing life to the dead."
+tags:
   - "EverQuest II"
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Anashti Sul"
-  - "EverQuest II"
   - "TLP"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/anashtisul.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/anashtisul.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/anashtisul.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While I have tried out some of the EverQuest time limited servers, I've never jumped on that bandwagon with EverQuest 2, The new stuff on the live servers was more compelling than replaying the old, and in any event, I haven't been playing EQ2 for years, and really hardly play MMOs at all, any more.

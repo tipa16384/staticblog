@@ -2,11 +2,38 @@
 date: '2012-10-22T07:36:03-05:00'
 draft: false
 title: "Pirate101: Two week review"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/10/22/pirate101-two-week-review/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Pirate101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-21-19-08-20-15-480x269.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-21-19-08-20-15-480x269.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-21-19-08-20-15-480x269.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-21-19-08-20-15-480x269.jpg" title="Weed Whacking" class="align-center" >}}

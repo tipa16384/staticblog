@@ -2,11 +2,38 @@
 date: '2007-10-01T06:38:13-05:00'
 draft: false
 title: "EQ2: Tradeskilling, Heritage Quests and Duoing SoS"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/10/01/eq2-tradeskilling-heritage-quests-and-duoing-sos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/eq2_000066.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/10/eq2_000066.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/10/eq2_000066.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've started work on tailoring again. Making my appearance clothes in the Nest got the juices running, and I was in Lavastorm farming rares for my defiler (who just made 40) anyway... so what the heck... I leveled to tier 6, and after a night of harvesting which got me about four hundred roots and a similar number of pelts, got to level 52 before I ran out of roots. At six to eight roots per combine, they go pretty quick. At 1.5% experience per combine, it takes a lot of them to get anywhere, too. Without the new tradeskill experience bonus for tradeskill writs, I doubt I could have done it at all.

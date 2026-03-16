@@ -2,16 +2,42 @@
 date: '2009-06-16T06:44:42-05:00'
 draft: false
 title: "Welcome to Mayong, EverQuest's 51/50 server"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/16/welcome-to-mayong-everquests-5150-server/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "51"
   - "51/50"
   - "Mayong"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/mayong.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/mayong.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/mayong.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Mayong Mistmoore, from the Legends of Norrath art book](https://chasingdings.com/wp-content/uploads/2009/06/mayong.jpg "Mayong Mistmoore, from the Legends of Norrath art book") Thanks to commenter Wimp, who revealed that EverQuest's newest server, the one with the new "51/50" rule set (new characters start at level 51 with 50 AAs), has actually been (briefly) live and players have played on it.

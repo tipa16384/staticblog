@@ -2,11 +2,38 @@
 date: '2015-11-26T00:19:23-05:00'
 draft: false
 title: "EQ Next Landmark still exists apparently"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/11/26/eq-next-landmark-still-exists-apparently/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Everquest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg" title="Tell me can I be your honey be, be strong..." class="align-center" >}}

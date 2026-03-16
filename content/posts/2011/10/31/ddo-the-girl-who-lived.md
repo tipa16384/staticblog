@@ -2,13 +2,39 @@
 date: '2011-10-31T19:35:05-05:00'
 draft: false
 title: "DDO: The girl who lived"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/10/31/ddo-the-girl-who-lived/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-30-20-06-40-57-480x320.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-30-20-06-40-57-480x320.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-30-20-06-40-57-480x320.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-30-20-06-40-57-480x320.jpg" title="My bot army" class="align-center" >}}

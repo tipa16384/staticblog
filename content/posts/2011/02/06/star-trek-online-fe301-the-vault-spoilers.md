@@ -2,10 +2,27 @@
 date: '2011-02-06T11:52:29-05:00'
 draft: false
 title: "Star Trek Online FE301: The Vault (spoilers)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/02/06/star-trek-online-fe301-the-vault-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Anniversary"
   - "Feature Episode"
   - "Federation News Service"
@@ -15,7 +32,16 @@ tags:
   - "Reman"
   - "Romulan"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg "The Vault")](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-16-08-15.jpg)

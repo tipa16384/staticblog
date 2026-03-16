@@ -2,11 +2,38 @@
 date: '2010-04-21T23:02:44-05:00'
 draft: false
 title: "DDO: A Night of Crime"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/21/ddo-a-night-of-crime/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-18-21-34-14-47.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-18-21-34-14-47.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-18-21-34-14-47.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I know that I make fun of my dwarven cleric, Derra, a lot. Sure, she's stocky, so ugly she scares bugbears away, has kind of a gruff voice, has a husband who voluntarily got himself exiled for life because of littering and creating a public nuisance JUST to get away. It's okay when I do it. But if someone else wants to have a go about her looks, well....

@@ -2,8 +2,37 @@
 date: '2015-03-08T13:04:00-05:00'
 draft: false
 title: "The Crypt of Befallen v2, AKA \"Newfallen\", is now live in Neverwinter! It's an entirely re-imagined ..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/03/08/the-crypt-of-befallen-v2-aka-newfallen-is-now-live-in-neverwinter-its-an-entirely-re-imagined/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The Crypt of Befallen v2, AKA "Newfallen", is now live in Neverwinter! It's an entirely re-imagined and rebuilt dungeon based on the classic EverQuest dungeon. The evil Rethkan has killed Marnek, the traditional master of Befallen (who was resurrected by the necromancer Menizzia in the previous version of the dungeon). And now a young gnome girl will become his latest victim... unless you can save her.

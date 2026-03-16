@@ -2,11 +2,38 @@
 date: '2011-01-16T10:00:14-05:00'
 draft: false
 title: "GodsWar Online -- the easiest MMO you'll ever play"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/01/16/godswar-online-the-easiest-mmo-youll-ever-play/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Godswar Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1152011-102553-PM.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1152011-102553-PM.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1152011-102553-PM.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1152011-102553-PM.jpg "Pirate Panda!") I'm a sucker for Facebook games; it's my not-so-secret dirty little secret. Especially RPGs. ESPECIALLY MMOs! That's just gonna be made of win for me. There's been a little pirate panda sitting on my ad bar for a couple of weeks now. First 3D Facebook MMO, hmm, okay. I went to the page and it said this about the game:

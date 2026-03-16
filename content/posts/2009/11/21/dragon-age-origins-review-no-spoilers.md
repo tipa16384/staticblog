@@ -2,11 +2,38 @@
 date: '2009-11-21T10:05:59-05:00'
 draft: false
 title: "Dragon Age Origins: Review (no spoilers)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/11/21/dragon-age-origins-review-no-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dragon Age Origins"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/DAOrigins-2009-11-20-23-49-28-74.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/11/DAOrigins-2009-11-20-23-49-28-74.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/11/DAOrigins-2009-11-20-23-49-28-74.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Archdemon dies!](https://chasingdings.com/wp-content/uploads/2009/11/DAOrigins-2009-11-20-23-49-28-74.jpg "Archdemon dies!")

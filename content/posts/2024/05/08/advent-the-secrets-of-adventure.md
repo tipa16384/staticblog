@@ -2,15 +2,40 @@
 date: '2024-05-08T07:00:00-05:00'
 draft: false
 title: "ADVENT: The Secrets of Adventure"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/08/advent-the-secrets-of-adventure/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "What you need to know before you begin to play Crowther and Woods' \"Colossal Cave Adventure\"."
-categories:
-  - "Adventure"
+description: "What you need to know before you begin to play Crowther and Woods' \"Colossal Cave Adventure\"."
 tags:
+  - "Adventure"
   - "Colossal Cave"
   - "Colossal Cave Adventure"
   - "RPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 You have probably never played an adventure game quite like ADVENT. It wasn't intended to be a commercial product. It was intended to be a fun diversion; you had half an hour free, see how far you could get.

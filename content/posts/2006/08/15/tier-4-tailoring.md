@@ -2,12 +2,39 @@
 date: '2006-08-15T11:19:41-05:00'
 draft: false
 title: "Tier 4 Tailoring"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/08/15/tier-4-tailoring/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/clothes34.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/08/clothes34.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/08/clothes34.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Tipa and her husband, Verd, took time out from their busy betrayal of Qeynos to model some of the fashions Dina has been crafting as she finishes up Tier 4 tailoring. Verd isn't sporting the nice level 37 druid armor as Dina's tailoring progress has been stalled by running out of tradeskill vitality. A few hex dolls a day (and of course the daily quota of a dozen backpacks to give out to any who can't run away in time) is all she can manage.

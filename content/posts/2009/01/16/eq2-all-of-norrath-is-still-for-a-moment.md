@@ -2,11 +2,38 @@
 date: '2009-01-16T00:51:24-05:00'
 draft: false
 title: "EQ2: All of Norrath is still for a moment..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/16/eq2-all-of-norrath-is-still-for-a-moment/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-15-20-55-29-64.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-15-20-55-29-64.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-15-20-55-29-64.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Regular readers of this blog may know that my eyesight is really bad. Tonight, I set up my laptop to use an old 1280x1024 monitor that I could set pretty close instead of its own display, a 1680x1050 display that is really cool, but has tiny pixels. I can see again! I can actually read all the text on the screen, and follow conversations!

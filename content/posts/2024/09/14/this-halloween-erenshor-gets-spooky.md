@@ -2,14 +2,41 @@
 date: '2024-09-14T18:37:20-05:00'
 draft: false
 title: "This Halloween, Erenshor Gets Spooky!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/14/this-halloween-erenshor-gets-spooky/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I can see this becoming a good \"I got half an hour, I'll just do this dungeon\" game."
-categories:
+description: "I can see this becoming a good \"I got half an hour, I'll just do this dungeon\" game."
+tags:
   - "MMORPG"
   - "RPG"
   - "Steam Games"
-tags:
   - "Erenshor"
   - "Halloween"
+featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/erenshotheader.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/erenshotheader.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every MMO has their holiday events, so it only makes sense that the MMO *simulator*, Erenshor, has them, too. The demo now live on Steam takes you through the tutorial island of Stowaway's Step, but starting October 14, during Steam's Next Fest, players will be able to cross a portal and enter a dark mirror to the island, Shivering Step.

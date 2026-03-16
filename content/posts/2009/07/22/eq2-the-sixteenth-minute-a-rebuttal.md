@@ -2,12 +2,39 @@
 date: '2009-07-22T07:53:45-05:00'
 draft: false
 title: "EQ2: The sixteenth minute -- a rebuttal"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/22/eq2-the-sixteenth-minute-a-rebuttal/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-21-20-29-32-68.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-21-20-29-32-68.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-21-20-29-32-68.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![The planets are in alignment at the sicteenth minute...](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-21-20-29-32-68.jpg "The planets are in alignment at the sicteenth minute...")

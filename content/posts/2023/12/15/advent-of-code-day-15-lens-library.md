@@ -2,16 +2,41 @@
 date: '2023-12-15T21:02:37-05:00'
 draft: false
 title: "Advent of Code Day 15 -- Lens Library"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/15/advent-of-code-day-15-lens-library/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The lack of hands is all that is keeping the world's reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware."
-categories:
-  - "Advent of Code"
+description: "The lack of hands is all that is keeping the world's reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware."
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Hash"
   - "Laser"
   - "Reindeer"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/aoc2023-15.jpeg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/aoc2023-15.jpeg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/aoc2023-15.jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The header art was used with the permission of the artist, [YellowZorro](https://old.reddit.com/user/YellowZorro). You can find more of their [AoC-themed art here](https://old.reddit.com/r/adventofcode/comments/18ivwtz/2023_aoc_doodles_days_1315/)!

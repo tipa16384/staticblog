@@ -2,16 +2,41 @@
 date: '2023-11-30T07:00:00-05:00'
 draft: false
 title: "Advent of Code 2023 -- Day 0"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/30/advent-of-code-2023-day-0/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Oh heck... it's just about Advent of Code time! I am SO FAR from being ready."
-categories:
+description: "Oh heck... it's just about Advent of Code time! I am SO FAR from being ready."
+tags:
   - "Advent of Code"
   - "Midjourney"
-tags:
   - "Java"
   - "Pico-8"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My boyfriend loves Advent calendars. He's got them all wrapped up, ready to hand out Friday. I have one for him, too.

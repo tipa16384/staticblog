@@ -2,12 +2,38 @@
 date: '2024-08-01T07:00:00-05:00'
 draft: false
 title: "Welcome to Blaugust, 2024!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/01/welcome-to-blaugust-2024/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Shout out to Belghast for all of his incredibly hard and professional work to bring all these people together to celebrate the lost art of blogging! We don't deserve him."
-categories:
+description: "Shout out to Belghast for all of his incredibly hard and professional work to bring all these people together to celebrate the lost art of blogging! We don't deserve him."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/blaugust-2024.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/07/blaugust-2024.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/07/blaugust-2024.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Without Blaugust, this blog would not even exist. I'd blogged for a long time, but then grew discouraged, convinced nobody was reading the blog, tapered off and quit entirely. I was so checked out that someone stole my old domain from me and I didn't even notice until I suddenly wanted to look up something and found my blog gone.

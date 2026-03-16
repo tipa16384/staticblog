@@ -2,11 +2,38 @@
 date: '2009-10-25T12:01:27-05:00'
 draft: false
 title: "Legends of Zork: Post-mortem"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/25/legends-of-zork-post-mortem/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Legends of Zork"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/lozbanner1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2009/10/lozbanner1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/10/lozbanner1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Zork old timers just can](https://chasingdings.com/wp-content/uploads/2009/10/lozbanner1.png "Zork old timers just can")

@@ -2,11 +2,38 @@
 date: '2006-06-23T00:00:00-05:00'
 draft: false
 title: "EQ2: Tier 3 Tailoring"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/06/23/eq-tier-tailoring/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
 featured_image: "http://eq2.eqtraders.com/images/articles/small_28_regal.jpg"
-cover: "http://eq2.eqtraders.com/images/articles/small_28_regal.jpg"
+cover:
+  image: "http://eq2.eqtraders.com/images/articles/small_28_regal.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Live Update #25 is bringing [new tailoring recipes](http://eq2.eqtraders.com/articles/article_page.php?article=g93) to EQ2 - casual clothes, just for looks.

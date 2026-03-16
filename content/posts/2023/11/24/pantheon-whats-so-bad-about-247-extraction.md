@@ -2,15 +2,40 @@
 date: '2023-11-24T10:33:38-05:00'
 draft: false
 title: "Pantheon: What's so bad about 247 Extraction?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/24/pantheon-whats-so-bad-about-247-extraction/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We need to have a little talk about Pantheon..."
-categories:
+description: "We need to have a little talk about Pantheon..."
+tags:
   - "EverQuest"
   - "Pantheon: Rise of the Fallen"
-tags:
   - "Dark and Darker"
   - "Palia"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/247extraction.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/247extraction.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/247extraction.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The problem with streaming a game like the classic EverQuest or FFXI Online, is that most of the stuff you do in a group just isn't that exciting to watch. I can't imagine a streamer broadcasting their Karnor's Castle wall group for six hours of a tank bringing random drolvargs to the group that would then get up from their spell books, nuke and slash a couple of minutes, then sit down again while the tank went out to pull, would have many viewers.

@@ -2,20 +2,44 @@
 date: '2024-05-25T17:18:51-05:00'
 draft: false
 title: "Retro Game Haul: Tron Deadly Discs and Reversi"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/25/retro-game-haul-tron-deadly-discs-and-reversi/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The sale of the Intellivision brand to the Atari brand means it's finally legal for me to play Intellivision games after only 40 years."
-categories:
+description: "The sale of the Intellivision brand to the Atari brand means it's finally legal for me to play Intellivision games after only 40 years."
+tags:
   - "Console Game"
   - "Intellivision"
   - "Video Game Console"
-tags:
   - "Atari 2600"
   - "Discs of Tron"
-  - "Intellivision"
   - "Othello"
   - "Retroarch"
   - "Tron"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/trondeadlydisks.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/trondeadlydisks.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/trondeadlydisks.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't know why it hasn't occurred to me, before now, that I could emulate Intellivision games just as easily as I do PS2 games or any other retro game.

@@ -2,18 +2,43 @@
 date: '2025-08-14T08:00:00-05:00'
 draft: false
 title: "Micro Hero: Hercules"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/14/micro-hero-hercules/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Hercules has to complete a dozen tough jobs to atone for killing his family. Only you can help him in this solo deckbuilding game!"
-categories:
+description: "Hercules has to complete a dozen tough jobs to atone for killing his family. Only you can help him in this solo deckbuilding game!"
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Card Games"
   - "Rogue-Likes"
-tags:
   - "Deckbuilding"
   - "Hercules"
   - "Solo"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5324-EDIT-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Hercules or Heracles? By either name, Hercules was the greatest hero of the ancient world, a child of gods who was hated by gods, suckled unknowingly by the same goddess that most wanted him dead, driven mad enough to kill his own family, forced to serve a cruel king to pay his penance, a dozen heroic tasks.

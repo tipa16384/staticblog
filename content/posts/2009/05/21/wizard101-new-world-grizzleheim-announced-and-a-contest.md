@@ -2,13 +2,39 @@
 date: '2009-05-21T06:13:16-05:00'
 draft: false
 title: "Wizard101: New world Grizzleheim announced! And a contest!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/21/wizard101-new-world-grizzleheim-announced-and-a-contest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Grizzleheim"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/grizzleheim.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/grizzleheim.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/grizzleheim.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Critters from Wizard101](https://chasingdings.com/wp-content/uploads/2009/05/grizzleheim.jpg "Critters from Wizard101")

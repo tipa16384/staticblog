@@ -2,18 +2,44 @@
 date: '2021-10-03T13:11:58-05:00'
 draft: false
 title: "Stranger of Paradise: Final Fantasy Origins"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/10/03/stranger-of-paradise-final-fantasy-origins/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Console Game"
   - "Final Fantasy"
   - "Final Fantasy Origins"
   - "PS5"
   - "Video Game"
   - "Video Game Series"
-tags:
   - "Chaos"
   - "Garland"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Some call me a Warrior of Light. Some call me a renegade. Some call me when Chaos rears its corrupted head. But you can call me Garland. Jack Garland. I'm the one they call when there's nobody else.

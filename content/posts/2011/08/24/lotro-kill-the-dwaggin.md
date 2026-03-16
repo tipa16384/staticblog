@@ -2,11 +2,38 @@
 date: '2011-08-24T06:50:08-05:00'
 draft: false
 title: "LotRO: Kill the Dwaggin"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/08/24/lotro-kill-the-dwaggin/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg" title="It's Dwaggin Season" class="align-center" >}}

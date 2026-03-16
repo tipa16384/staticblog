@@ -2,9 +2,38 @@
 date: '2010-03-12T00:27:27-05:00'
 draft: false
 title: "7DRL: World of Roguecraft, Day 5"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/12/7drl-world-of-roguecraft-day-5/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
   - "Other Games"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Monday evening, I understood what my game wanted to be about. Tuesday, I realized that the game was horribly, horribly flawed. Coming in, all I really knew I wanted to do was the graph paper-like room generation, and I hoped the rest of the game would occur to me as I was doing that.

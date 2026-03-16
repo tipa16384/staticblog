@@ -2,13 +2,39 @@
 date: '2010-11-25T19:49:34-05:00'
 draft: false
 title: "Daily Blogroll: Thanksgiving Edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/11/25/daily-blogroll-thanksgiving-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "MMORPG"
-tags:
   - "Thanksgiving"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg "When all you have is a fireball, everything starts smelling like roast turkey.")](https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-25-14-28-20-81.jpg)

@@ -2,12 +2,38 @@
 date: '2006-06-21T00:00:00-05:00'
 draft: false
 title: "EQ2: Betraying Qeynos - Proving My Worth"
-categories:
-  - "EverQuest"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/06/21/eq-betraying-qeynos-proving-my-worth/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "EverQuest"
   - "Buddy"
 featured_image: "https://chasingdings.com/images/betraybuddy.jpg"
-cover: "https://chasingdings.com/images/betraybuddy.jpg"
+cover:
+  image: "https://chasingdings.com/images/betraybuddy.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/images/betraybuddy.jpg)

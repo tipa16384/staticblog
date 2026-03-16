@@ -2,17 +2,42 @@
 date: '2025-05-18T10:00:00-05:00'
 draft: false
 title: "Clair Obscur: Expedition 33 1/3"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/05/18/clair-obscur-expedition-33-1-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Clair Obscure: great gameplay, characters and milieu, but its third act seems in a hurry to get off the stage."
-categories:
+description: "Clair Obscure: great gameplay, characters and milieu, but its third act seems in a hurry to get off the stage."
+tags:
   - "PS5"
   - "RPG"
   - "Turn-Based Rpgs"
-tags:
   - "Clair Obscur"
   - "Expedition 33"
   - "Sandfall Interactive"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 For some reason, 67 years before the events in the story take place, Belle Époque-era Paris is sundered apart in an event called "The Fracture", and the heart of the city is transported offshore onto a handy island named "Lumière". Back on the continent, an immense monolith was erected, with the number "100" painted on it. An enormous creature, called "The Paintress", once a year wakes up, erases the old number, and paints a new number, one lower. Anyone who was that year's age or older just disappears in a shower of flower petals.

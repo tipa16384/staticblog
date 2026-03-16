@@ -2,11 +2,38 @@
 date: '2009-04-11T06:43:43-05:00'
 draft: false
 title: "Shin Megami Tensei: New mounts and cool stuff!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/11/shin-megami-tensei-new-mounts-and-cool-stuff/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Shin Megami Tensei"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/smt.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/smt.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/smt.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![smt](https://chasingdings.com/wp-content/uploads/2009/04/smt.jpg "smt")

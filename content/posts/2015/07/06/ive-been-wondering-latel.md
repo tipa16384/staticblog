@@ -2,11 +2,38 @@
 date: '2015-07-06T16:40:36-05:00'
 draft: false
 title: "Taking Leadership"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/07/06/ive-been-wondering-latel/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-04-15-26-05-51.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-04-15-26-05-51.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-04-15-26-05-51.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![ffxiv 2015-07-04 15-26-05-51](https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-04-15-26-05-51.jpg)](https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-04-15-26-05-51.jpg)

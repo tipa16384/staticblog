@@ -2,12 +2,39 @@
 date: '2007-01-05T14:29:30-05:00'
 draft: false
 title: "When We Return: Television's Finest (Part 1)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/01/05/when-we-return-televisions-finest-part-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Battlestar Galactica"
   - "Doctor Who"
   - "Sci Fi"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/avatar.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/01/avatar.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/01/avatar.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a new year and time for all the shows that left us hanging last year to finally get around to rescuing us from that cliff. Read on for spoilers, rumors, speculation and rabid fangirl-ism for *Avatar: The Last Airbender*, *Battlestar Galactica*, and *Doctor Who*. Tomorrow I'll finish up with *Heroes*, *Lost*, *Robin Hood*, and *Studio 60 on the Sunset Strip*.

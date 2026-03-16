@@ -2,11 +2,38 @@
 date: '2007-11-10T01:02:12-05:00'
 draft: false
 title: "EQ2 - Kunark: a BRIEF first look"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/10/eq2-kunark-a-brief-first-look/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-03-17-52-42-75.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-03-17-52-42-75.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-03-17-52-42-75.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The original continent of Kunark in EverQuest was really big. The centuries since then haven't made it any smaller. In my days of exploration, I doubt I've seen more than a tenth of the expansion, and only been in one dungeon. Two, if you count Chardok.

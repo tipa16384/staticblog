@@ -2,11 +2,38 @@
 date: '2009-07-07T07:02:35-05:00'
 draft: false
 title: "EQ2 Fashion Show: Metal Gear and Tramp Wear"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/07/eq2-fashion-show-metal-gear-and-tramp-wear/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-06-22-03-44-23.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-06-22-03-44-23.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-06-22-03-44-23.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Wow, it's been awhile since I did an EQ2 fashion post. But, ahead of my (soon to be) triumphant return to the game in a big way -- waiting on the new character transfer service to carry my characters to a new home on Antonia Bayle server -- it's time to start getting things ready for the trip.

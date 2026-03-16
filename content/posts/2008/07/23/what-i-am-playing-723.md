@@ -2,7 +2,25 @@
 date: '2008-07-23T14:18:58-05:00'
 draft: false
 title: "What I am playing 7/23"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/23/what-i-am-playing-723/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "EverQuest"
   - "Florensia"
@@ -10,8 +28,18 @@ categories:
   - "Mythos"
   - "Vanguard"
   - "Wizard101"
-tags:
   - "Pi Story"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't done a "what I'm playing" thing for awhile. So here's my current roster of games, and I'll start off with what I'm NOT playing. And that game would be Mythos.

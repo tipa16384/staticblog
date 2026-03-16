@@ -2,11 +2,38 @@
 date: '2007-12-30T13:30:01-05:00'
 draft: false
 title: "EQ2: Here's what a good day looks like."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/30/eq2-heres-what-a-good-day-looks-like/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-29-12-42-41-53.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-29-12-42-41-53.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-29-12-42-41-53.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Saturday was an off-day for the guild, so I figured I'd get going with the whole crafting biz. I have to get Dorah, my jeweler, to 40,000 faction with her tradeskill society, *and* to level 80 jewelcraft so she can make Dina's spells. No problem, thinks I. I drag her to Gorowyn because there's no possible way I can find my way out of that confusing place (Mission: Find the mender in thirty minutes or left, starting... NOW!), grab some writs from Mister Hi I'm The Guy Who Stands Here Night And Day Just In Case You Came Buy, and set off, whistling merrily, Dina's mind wandering as she finds herself being Dorah's mana battery. Because, you know, bards = power song.

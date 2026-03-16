@@ -2,13 +2,39 @@
 date: '2011-02-15T07:09:12-05:00'
 draft: false
 title: "EQ: Fippy, Fippy wherefore art thou, Fippy"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/02/15/eq-fippy-fippy-wherefore-art-thou-fippy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Fippy Darkpaw"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/eqgame-2011-02-15-07-00-56-91-480x356.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/02/eqgame-2011-02-15-07-00-56-91-480x356.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/02/eqgame-2011-02-15-07-00-56-91-480x356.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2011/02/eqgame-2011-02-15-07-00-56-91-480x356.jpg "Server list")](https://chasingdings.com/wp-content/uploads/2011/02/eqgame-2011-02-15-07-00-56-91.jpg)

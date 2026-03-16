@@ -2,15 +2,41 @@
 date: '2020-09-02T22:54:31-05:00'
 draft: false
 title: "Save the Fish! A Deep Dive into 11 Mobile Pull-Pin Games."
-categories:
-  - "Mobile Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/02/save-the-fish-a-deep-dive-into-11-mobile-pull-pin-games/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Mobile Games"
   - "Fish Screaming"
   - "Fishdom"
   - "Mobile Game"
   - "Save the Fish"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/fishdom.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/fishdom.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/fishdom.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 If you've ever played a mobile app, sooner or later you're going to see a very particular ad. There's a fish that needs to be saved -- from sharks, poison, lava for some reason, dehydration -- and all you need to do is pull a pin to let good stuff happen. But the finger on the screen is doing it ALL WRONG! And NOW THE FISH IS DEAD!

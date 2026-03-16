@@ -2,15 +2,41 @@
 date: '2009-04-23T01:24:47-05:00'
 draft: false
 title: "Wizard 101 Player Housing ON TEST!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/23/wizard-101-player-housing-on-test/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Marleybone"
   - "Player Housing"
   - "Wizard City"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![wizardgraphicalclient-2009-04-23-01-13-36-76](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-23-01-13-36-76.jpg "wizardgraphicalclient-2009-04-23-01-13-36-76")

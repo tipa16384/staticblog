@@ -2,14 +2,39 @@
 date: '2024-11-25T15:20:20-05:00'
 draft: false
 title: "Spy Muppets: License to Croak"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/11/25/spy-muppets-license-to-croak/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The credits are longer than the game in this classic Gameboy Advance caper..."
-categories:
-  - "Arcade Game"
+description: "The credits are longer than the game in this classic Gameboy Advance caper..."
 tags:
+  - "Arcade Game"
   - "Gameboy Advance"
   - "Muppets"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/20241125_153617.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/11/20241125_153617.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/11/20241125_153617.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Sometimes, at the retro game store, I see a game that just raises so many questions. Like, why? That's a really common question. A question you can't really ask when the Muppets are involved. The stupider, the sillier, the better.

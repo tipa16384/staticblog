@@ -2,14 +2,40 @@
 date: '2009-06-22T08:23:25-05:00'
 draft: false
 title: "Wizard 101: Grizzleheim"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/22/wizard-101-grizzleheim/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Grizz"
   - "Grizzleheim"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Tara and Allison show off the level 30 gear sold at the Bear village](https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg "Tara and Allison show off the level 30 gear sold at the Bear village")

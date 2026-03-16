@@ -2,15 +2,40 @@
 date: '2023-10-06T07:59:21-05:00'
 draft: false
 title: "Baldur's Gate 3: Back on Track"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/10/06/baldurs-gate-3-back-on-track/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "There's always another way to do something in Baldur's Gate 3..."
-categories:
+description: "There's always another way to do something in Baldur's Gate 3..."
+tags:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
   - "PS5"
-tags:
   - "Speak with the Dead"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-073659.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-073659.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-073659.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't think I have played another game where online guides have been quite so useless. Sure, there is an easy path through the game, probably a "correct" path, and by slavishly following it, there would be an objectively best outcome. I have definitely done that with these sorts of games before.

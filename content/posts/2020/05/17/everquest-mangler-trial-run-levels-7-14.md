@@ -2,17 +2,43 @@
 date: '2020-05-17T12:09:33-05:00'
 draft: false
 title: "EverQuest Mangler trial run: Levels 7-14"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/17/everquest-mangler-trial-run-levels-7-14/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Aradune"
   - "Butcherblock"
   - "Field of Bone"
   - "Mangler"
   - "The Estate of Unrest"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a couple of weeks.

@@ -2,11 +2,38 @@
 date: '2015-09-19T22:56:52-05:00'
 draft: false
 title: "World of Warships?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/09/19/world-of-warships/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warships"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg" title="Terror on the High Seas, me" class="align-center" >}}

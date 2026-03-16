@@ -2,15 +2,41 @@
 date: '2009-01-10T14:28:28-05:00'
 draft: false
 title: "Wizard 101: Kensington... and DRAGONSPYRE!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/10/wizard-101-kensington-and-dragonspyre/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Dragonspyre"
   - "Kensington Court"
   - "Malistaire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/ohthomas.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/ohthomas.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/ohthomas.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/01/ohthomas.jpg "ohthomas")I'm mad at my Sprite. Most of the time, she's a good pal. We go out in the world, fight evil, have a laugh, do magic tricks... Sure, sometimes she asks about boys, but I just laugh it off. She's not ready, you know? She just isn't ready for that thing.

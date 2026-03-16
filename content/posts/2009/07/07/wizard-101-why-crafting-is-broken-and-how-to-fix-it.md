@@ -2,14 +2,40 @@
 date: '2009-07-07T00:40:39-05:00'
 draft: false
 title: "Wizard 101: Why crafting is broken, and how to fix it"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/07/wizard-101-why-crafting-is-broken-and-how-to-fix-it/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Crafting"
   - "Grizzleheim"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/w101station.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/w101station.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/w101station.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Crafting in Wizard101 is done at one of four crafting stations](https://chasingdings.com/wp-content/uploads/2009/07/w101station.jpg "Crafting in Wizard101 is done at one of four crafting stations")

@@ -2,11 +2,38 @@
 date: '2013-01-30T07:49:13-05:00'
 draft: false
 title: "DCUO: Home Turf"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/01/30/dcuo-home-turf/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg" title="The Mainframe in the Membrane" class="align-center" >}}

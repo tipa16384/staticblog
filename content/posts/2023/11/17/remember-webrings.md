@@ -2,13 +2,38 @@
 date: '2023-11-17T22:54:01-05:00'
 draft: false
 title: "Remember Webrings?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/17/remember-webrings/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Webrings were like... guilds, but for blogs."
-categories:
-  - "Web Logging"
+description: "Webrings were like... guilds, but for blogs."
 tags:
+  - "Web Logging"
   - "Web Ring"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/tipachu_a_thumbnail_image_for_a_webring_that_covers_gaming_blog_5b3eac4f-e005-496a-84b7-10034f7501b6-1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/tipachu_a_thumbnail_image_for_a_webring_that_covers_gaming_blog_5b3eac4f-e005-496a-84b7-10034f7501b6-1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/tipachu_a_thumbnail_image_for_a_webring_that_covers_gaming_blog_5b3eac4f-e005-496a-84b7-10034f7501b6-1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Back in the age before search engines, the only way to find a site was usually to go to Yahoo! and find a category you liked. I tried, a lot, to get listed there, never did.

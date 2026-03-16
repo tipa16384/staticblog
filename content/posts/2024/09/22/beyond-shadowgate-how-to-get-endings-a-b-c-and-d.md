@@ -2,16 +2,41 @@
 date: '2024-09-22T14:54:47-05:00'
 draft: false
 title: "Beyond Shadowgate -- how to get endings A, B, C and D."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/22/beyond-shadowgate-how-to-get-endings-a-b-c-and-d/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I couldn't leave Beyond Shadowgate behind unless I'd managed to get all four endings. Here's how."
-categories:
+description: "I couldn't leave Beyond Shadowgate behind unless I'd managed to get all four endings. Here's how."
+tags:
   - "Adventure"
   - "Steam Games"
   - "Text Adventure Game"
-tags:
   - "Beyond Shadowgate"
   - "Shadowgate"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.22-13.07.42.90.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.22-13.07.42.90.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.22-13.07.42.90.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Ever look something up on the internet and just want the instructions on how to do the thing, and nothing extra?

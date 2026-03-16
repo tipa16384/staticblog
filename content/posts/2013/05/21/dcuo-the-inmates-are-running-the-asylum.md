@@ -2,11 +2,38 @@
 date: '2013-05-21T06:01:33-05:00'
 draft: false
 title: "DCUO: The inmates are running the asylum?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/05/21/dcuo-the-inmates-are-running-the-asylum/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg" title="Arkham Asylum" class="align-center" >}}

@@ -2,11 +2,38 @@
 date: '2008-12-10T02:40:10-05:00'
 draft: false
 title: "EQ2: The Seafury Buckaroo and Tunarian Treehugger RMT Armors"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/10/eq2-the-seafury-buckaroo-and-tunarian-treehugger-rmt-armors/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-09-22-05-51-44.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-09-22-05-51-44.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-09-22-05-51-44.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There is no point in having RMT appearance armor if nobody knows you're wearing it. The entire purpose is to be seen, right? It's a fashion statement. So let's look at these armors from a fashion perspective.

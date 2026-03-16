@@ -2,17 +2,42 @@
 date: '2020-08-20T08:08:29-05:00'
 draft: false
 title: "Blaugust #20: It's Good to be Bad"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/20/blaugust-20-its-good-to-be-bad/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Greedfall"
   - "PS4"
-tags:
-  - "Blaugust"
   - "Death Stranding"
   - "Ghost of Tsushima"
   - "Red Dead Redemption"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It is known that the best bad guys are mirror reflections of the good guys. Batman and the Joker. Superman and Darkseid. Wonder Woman and Cheetah. Captain Marvel* and Black Adam. I imagine the same holds true with the Marvel heroes, but I'm not very familiar with them. They should make some movies, get some publicity.

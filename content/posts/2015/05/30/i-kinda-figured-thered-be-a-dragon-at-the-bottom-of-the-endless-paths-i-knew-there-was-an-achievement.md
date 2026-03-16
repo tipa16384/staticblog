@@ -2,11 +2,38 @@
 date: '2015-05-30T20:32:08-05:00'
 draft: false
 title: "Suddenly, a dragon..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/05/30/i-kinda-figured-thered-be-a-dragon-at-the-bottom-of-the-endless-paths-i-knew-there-was-an-achievement/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Pillars of Eternity"
 featured_image: "https://lh3.googleusercontent.com/-1WaWEZQXNMA/VWoeR0pYr4I/AAAAAAABJXk/U1czCFD5CJ8/w506-h750/PillarsOfEternity%2B2015-05-30%2B16-28-18-64.jpg"
-cover: "https://lh3.googleusercontent.com/-1WaWEZQXNMA/VWoeR0pYr4I/AAAAAAABJXk/U1czCFD5CJ8/w506-h750/PillarsOfEternity%2B2015-05-30%2B16-28-18-64.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-1WaWEZQXNMA/VWoeR0pYr4I/AAAAAAABJXk/U1czCFD5CJ8/w506-h750/PillarsOfEternity%2B2015-05-30%2B16-28-18-64.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I kinda figured there'd be a dragon at the bottom of the Endless Paths. I knew there was an achievement for killing all the dragons in Pillars of Eternity, and I hadn't seen any, yet. Some mean old drakes, but no actual dragons. This is the first.

@@ -2,12 +2,28 @@
 date: '2022-06-21T07:53:29-05:00'
 draft: false
 title: "Elden Ring: Aftermath"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/06/21/elden-ring-aftermath/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Elden Ring"
   - "Open World RPG"
   - "PS5"
-tags:
-  - "Elden Ring"
   - "Loretta"
   - "Malenia"
   - "Millicent"
@@ -15,7 +31,16 @@ tags:
   - "Souls-Like"
   - "Tree Sentinel"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've finished the main plot to Elden Ring, and gotten one of the six endings. Now it's time to go back and get my revenge on all the things I didn't get to along the way. Oh yeah, Millicent is back!

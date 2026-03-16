@@ -2,16 +2,42 @@
 date: '2022-11-14T23:55:47-05:00'
 draft: false
 title: "Gotham Knights completed"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/11/14/gotham-knights-completed/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Gotham Knights"
   - "PS5"
   - "Review"
-tags:
   - "Batman"
   - "DC Comics"
   - "DC Universe Online"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/11/Gotham-Knights_20221114221226-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/11/Gotham-Knights_20221114221226-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/11/Gotham-Knights_20221114221226-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Finished! My PlayStation says I spent 39 hours in the game. I was taking my time at it, too, doing all the optional content, so this isn't a speed run. Tactics Ogre Reborn came today, though, so I just went straight for the ending, which wasn't all that far away.

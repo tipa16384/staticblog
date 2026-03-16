@@ -2,14 +2,40 @@
 date: '2022-07-11T18:08:55-05:00'
 draft: false
 title: "Short, satisfying, occasionally sweet: Developing a taste for Deimos."
-categories:
-  - "Terraforming Mars"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/11/short-satisfying-occasionally-sweet-developing-a-taste-for-deimos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Terraforming Mars"
   - "Deimos"
   - "Mars"
   - "Phobos"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/200602153929-deimos-mars-moon.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/200602153929-deimos-mars-moon.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/200602153929-deimos-mars-moon.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's pronounced DAY-moss. I always feel I need to point that out when someone plays the card in Terraforming Mars that sends Mars' smaller, outer moon crashing to the ground purely to just raise the temperature by a couple degrees C.

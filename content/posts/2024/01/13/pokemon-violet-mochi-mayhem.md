@@ -2,14 +2,38 @@
 date: '2024-01-13T14:21:39-05:00'
 draft: false
 title: "Pokemon Violet: Mochi Mayhem"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/13/pokemon-violet-mochi-mayhem/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Finished with Pokemon Scarlet/Violet... again... with a strange little episode about a Pokemon who forces people to do the chicken dance?"
-categories:
-  - "Pokemon"
+description: "Finished with Pokemon Scarlet/Violet... again... with a strange little episode about a Pokemon who forces people to do the chicken dance?"
 tags:
-  - "Dlc"
   - "Pokemon"
+  - "Dlc"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/2024011219550300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/2024011219550300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/2024011219550300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I love Pokemon games, and in fact, I could probably *just* play Pokemon games, every day, the entire year, and still not come close to exhausting all the possible content. And I'm not even talking about the card game, just the main line video games. 

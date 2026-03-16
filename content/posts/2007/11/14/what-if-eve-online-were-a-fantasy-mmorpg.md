@@ -2,9 +2,38 @@
 date: '2007-11-14T15:23:09-05:00'
 draft: false
 title: "What if EvE Online were a Fantasy MMORPG?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/14/what-if-eve-online-were-a-fantasy-mmorpg/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 What if we took EvE Online, and made a fantasy game out of it -- using all of EvE's mechanisms, as closely as possible? [Syncaine claims](http://syncaine.wordpress.com/2007/11/14/challenge-thoughts-and-a-bit-of-a-wrap-up/) that EvE has solved nearly all MMO problems. Fine, let's turn that around.

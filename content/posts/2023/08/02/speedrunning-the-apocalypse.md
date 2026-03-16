@@ -2,16 +2,41 @@
 date: '2023-08-02T07:00:00-05:00'
 draft: false
 title: "Speedrunning the Apocalypse"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/02/speedrunning-the-apocalypse/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Remember way back when when social media was a way to bring together and the internet was fun and exciting? Yeah. Me, too. Let's find a way to get back there."
-categories:
+description: "Remember way back when when social media was a way to bring together and the internet was fun and exciting? Yeah. Me, too. Let's find a way to get back there."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "Cory Doctorow"
   - "Tom Eastman"
   - "Twitter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-01-22.15.05-1990s-era-CGI-render-of-a-wooly-mammoth-running-along-a-road-left-to-right-with-a-giant-fireball-destroying-Silicon-Valley-in-the-background.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-01-22.15.05-1990s-era-CGI-render-of-a-wooly-mammoth-running-along-a-road-left-to-right-with-a-giant-fireball-destroying-Silicon-Valley-in-the-background.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-01-22.15.05-1990s-era-CGI-render-of-a-wooly-mammoth-running-along-a-road-left-to-right-with-a-giant-fireball-destroying-Silicon-Valley-in-the-background.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I thought of this title this morning, and it really was too good not to use, even though a quick google found [a story by that title](https://www.royalroad.com/fiction/55164/speedrunning-the-apocalypse) already existed. Well, I'm not going to let that stop me.

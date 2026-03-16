@@ -2,7 +2,25 @@
 date: '2009-06-18T07:49:05-05:00'
 draft: false
 title: "Daily Blogroll 6/18 -- Fun with your new Brad edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "Cities XL"
   - "Daily Blogroll"
@@ -12,7 +30,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Woot! Lord Tipa has come to save us!](https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg "Woot! Lord Tipa has come to save us!")

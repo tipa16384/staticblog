@@ -2,9 +2,38 @@
 date: '2008-02-04T17:32:11-05:00'
 draft: false
 title: "Warhammer: A note to wolves about sheep herding."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/02/04/warhammer-a-note-to-wolves-about-sheep-herding/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 *Sheep tend to be timid, nervous and easily frightened. Having little natural means of defense, they instinctively join together in a group, called a flock, to run from perceived danger.*

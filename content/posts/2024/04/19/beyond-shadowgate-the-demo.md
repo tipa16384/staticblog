@@ -2,17 +2,42 @@
 date: '2024-04-19T07:58:49-05:00'
 draft: false
 title: "Beyond Shadowgate -- the Demo"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/04/19/beyond-shadowgate-the-demo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Still trying to figure out the puzzles in that old NES cart of Shadowgate you still somehow have? Well, you can finally take the game out of your NES because the sequel is finally here, almost."
-categories:
+description: "Still trying to figure out the puzzles in that old NES cart of Shadowgate you still somehow have? Well, you can finally take the game out of your NES because the sequel is finally here, almost."
+tags:
   - "Beyond Shadowgate"
   - "Kickstarter"
-tags:
   - "Adventure Game"
   - "NES"
   - "Point and Click"
   - "Shadowgate"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/thumb0-640x360-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/04/thumb0-640x360-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/04/thumb0-640x360-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After I wrote about "[Beyond Shadowgate](https://www.kickstarter.com/projects/zojoi/beyond-shadowgate)" in my [Kickstarter post](https://chasingdings.com/2024/04/18/confessions-of-a-kickstarter-superbacker/) yesterday, I was unsure if I'd ever actually played it. I have distinct memories about playing a game *like* that, but I was really so terribly sue that I'd played Castlevania on the Mac Classic back in the day, only to find out it had been an entirely *different* game, Dark Castle. So I had to play a version of Castlevania just to get back some of that gamer cred I'd lost.

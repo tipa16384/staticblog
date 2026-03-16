@@ -2,18 +2,43 @@
 date: '2024-10-13T08:00:00-05:00'
 draft: false
 title: "October retro finds!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/13/october-retro-finds/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly."
-categories:
+description: "We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly."
+tags:
   - "Final Fantasy"
   - "Final Fantasy XII"
   - "Lord of the Rings"
   - "PS2"
-tags:
   - "Collector's Edition"
   - "Livestream 2"
   - "War in the North"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/IMG_4727-scaled.jpeg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/IMG_4727-scaled.jpeg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/IMG_4727-scaled.jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I’m working on some plays of other games, so this is going to just be a shorter post just because I’m still here and felt I should write something.

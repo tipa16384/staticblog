@@ -2,10 +2,37 @@
 date: '2012-07-25T06:47:24-05:00'
 draft: false
 title: "Diablo 3 Hardcore: Hedging my bets"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/07/25/diablo-3-hardcore-hedging-my-bets/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-25-07-21-48-93-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-25-07-21-48-93-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-25-07-21-48-93-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-25-07-21-48-93-480x384.jpg" title="Tipa the Substitute Monk" class="align-center" >}}

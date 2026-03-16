@@ -2,11 +2,38 @@
 date: '2009-11-03T07:40:24-05:00'
 draft: false
 title: "EVE Online: Dealing with the Caldari problem"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/11/03/eve-online-dealing-with-the-caldari-problem/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/ultralight.png"
-cover: "https://chasingdings.com/wp-content/uploads/2009/11/ultralight.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/11/ultralight.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 As much as I like picking up Caldari and Amarr dogtags from my kills and selling them for lots of ISK to pilots who pretend loyalty to those violent races, it's getting to the point where I can hardly warp into Amarr or Caldari space without warnings to move off or be shot down. Since I do like running trade routes into Caldari-owned Jita for spare change, this could become a problem. Only my training in Diplomacy lets me dock at 4-4.

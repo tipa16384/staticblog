@@ -2,26 +2,50 @@
 date: '2010-09-03T20:59:20-05:00'
 draft: false
 title: "A Parent's Guide to MMO Gaming"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/09/03/a-parents-guide-to-mmo-gaming/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Fallen Earth"
   - "Hello Kitty Online"
   - "Humor"
   - "MMORPG"
   - "World of Warcraft"
-tags:
   - "All Points Bulletin"
   - "APB"
   - "Bible"
   - "Blizzard"
   - "Cataclysm"
-  - "Fallen Earth"
-  - "Hello Kitty Online"
   - "Not Funny"
   - "Sanrio"
   - "Tera Online"
   - "The Bible Online"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/worgen_1280x1024-225x225.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/09/worgen_1280x1024-225x225.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/09/worgen_1280x1024-225x225.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Someone needs to tell the truth about MMOs. I guess it falls to me to explain to parents about the games their children are playing online with people whose idea of a good conversation opener is "I AM SO HIGH."

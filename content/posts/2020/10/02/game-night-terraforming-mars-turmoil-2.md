@@ -2,13 +2,40 @@
 date: '2020-10-02T07:54:13-05:00'
 draft: false
 title: "Game Night: Terraforming Mars (Turmoil #2)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/02/game-night-terraforming-mars-turmoil-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/3-IMG_1937.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/3-IMG_1937.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/3-IMG_1937.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Quick recap: Terraforming Mars is one of the most popular board games in the world right now, and has been for years. It's a game not just about about terraforming Mars, but eventually exploring and colonizing our Moon, Venus, Mercury, and the outer planets' larger moons through several expansions.

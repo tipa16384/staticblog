@@ -2,13 +2,41 @@
 date: '2008-01-29T08:18:35-05:00'
 draft: false
 title: "Short updates: Rock Band, Vanguard and Pirates of the Burning Sea"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/29/short-updates-rock-band-vanguard-and-pirates-of-the-burning-sea/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Pirates of the Burning Sea"
   - "Rock Band"
   - "Vanguard"
-tags:
   - "Winterwing"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I finally hit 31 in Rock Band last night after about a dozen duels of which I lost two.

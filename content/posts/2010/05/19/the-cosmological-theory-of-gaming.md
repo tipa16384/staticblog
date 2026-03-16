@@ -2,10 +2,37 @@
 date: '2010-05-19T06:51:28-05:00'
 draft: false
 title: "The Cosmological Theory of Gaming"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/19/the-cosmological-theory-of-gaming/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5162010-71921-PM-480x195.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5162010-71921-PM-480x195.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5162010-71921-PM-480x195.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5162010-71921-PM-480x195.jpg "Full of achievement in Legends of Zork")](https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5162010-71921-PM.jpg)

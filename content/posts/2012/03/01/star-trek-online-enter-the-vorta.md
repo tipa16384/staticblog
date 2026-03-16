@@ -2,11 +2,38 @@
 date: '2012-03-01T08:21:12-05:00'
 draft: false
 title: "Star Trek Online: Enter the Vorta"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/03/01/star-trek-online-enter-the-vorta/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/03/GameClient-2012-03-01-07-02-00-08-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/03/GameClient-2012-03-01-07-02-00-08-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/03/GameClient-2012-03-01-07-02-00-08-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/GameClient-2012-03-01-07-02-00-08-480x383.jpg" title="Vorta Heerza Huo" class="align-center" >}}

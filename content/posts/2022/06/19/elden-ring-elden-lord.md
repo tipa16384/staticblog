@@ -2,15 +2,40 @@
 date: '2022-06-19T18:27:17-05:00'
 draft: false
 title: "Elden Ring: Elden Lord"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/06/19/elden-ring-elden-lord/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Elden Ring"
   - "Open World RPG"
   - "PS5"
-tags:
-  - "Elden Ring"
   - "RPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 About three weeks ago, I finished the required fights up to the final fight. I then spent the time between then and now leveling and exploring all the parts I'd missed to that point, always trying to tune my build enough to push it over the edge. That plan was doomed to fail.

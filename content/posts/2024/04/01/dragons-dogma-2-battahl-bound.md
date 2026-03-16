@@ -2,18 +2,43 @@
 date: '2024-04-01T07:46:41-05:00'
 draft: false
 title: "Dragon's Dogma 2: Battahl Bound"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/04/01/dragons-dogma-2-battahl-bound/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Nobody ever sleeps in Battahl."
-categories:
+description: "Nobody ever sleeps in Battahl."
+tags:
   - "Dragon's Dogma"
   - "Open World RPG"
   - "Other Games"
   - "PS5"
   - "RPG"
-tags:
   - "Battahl"
   - "Bestral"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/Dragons-Dogma-2_20240401072306-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/04/Dragons-Dogma-2_20240401072306-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/04/Dragons-Dogma-2_20240401072306-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not sure I have ever played an RPG with such a strong theme of *exhaustion* in it. It's just one damned thing after another.

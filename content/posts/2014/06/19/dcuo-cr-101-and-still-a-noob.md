@@ -2,13 +2,39 @@
 date: '2014-06-19T07:13:21-05:00'
 draft: false
 title: "DCUO: CR 101 and still a noob."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/06/19/dcuo-cr-101-and-still-a-noob/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg"
-cover: "https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Odyssey CR Calculator](https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg)

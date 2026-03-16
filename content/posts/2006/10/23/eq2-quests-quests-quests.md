@@ -2,12 +2,39 @@
 date: '2006-10-23T13:03:38-05:00'
 draft: false
 title: "EQ2: Quests, Quests, Quests"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/10/23/eq2-quests-quests-quests/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/10/orrery.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/10/orrery.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/10/orrery.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Orrery in the Tower of the Moon](https://chasingdings.com/wp-content/uploads/2006/10/orrery.jpg)

@@ -2,13 +2,39 @@
 date: '2026-01-21T08:34:36-05:00'
 draft: false
 title: "Erenshor v0.3: \"Rising Shadows\""
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2026/01/21/erenshor-v0-3-rising-shadows/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I hit max level in Erenshor, and BurgeeMedia immediately drops a whole new update full of cool stuff. Coincidence? Maybe!"
-categories:
+description: "I hit max level in Erenshor, and BurgeeMedia immediately drops a whole new update full of cool stuff. Coincidence? Maybe!"
+tags:
   - "Erenshor"
   - "MMORPG"
   - "Steam Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/20260120210322_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2026/01/20260120210322_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2026/01/20260120210322_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 If you drop off for a week or a month or a season in a normal MMO, there's a good chance that the friends you made won't be there any longer, your guild may have dumped you, the game itself will have moved on and left you behind.

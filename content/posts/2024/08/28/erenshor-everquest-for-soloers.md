@@ -2,17 +2,42 @@
 date: '2024-08-28T08:18:55-05:00'
 draft: false
 title: "Erenshor -- EverQuest for soloers"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/28/erenshor-everquest-for-soloers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's not an MMO, it's an MMO simulator where you can handpick the party of your dreams and clear dungeons, kill bosses, and find uber lewtz."
-categories:
+description: "It's not an MMO, it's an MMO simulator where you can handpick the party of your dreams and clear dungeons, kill bosses, and find uber lewtz."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "EverQuest"
   - "MMORPG"
   - "Open World RPG"
-tags:
   - "Erenshor"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/erenshotheader.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/erenshotheader.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/erenshotheader.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I dunno how many times I sat LFG in EverQuest, just wasting hours away chatting or doing busywork or shooting the breeze at a dungeon zone while waiting for a spot to open up in some group. If I could just have NPCs with me, I could just do it myself.

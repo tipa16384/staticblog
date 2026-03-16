@@ -2,11 +2,38 @@
 date: '2009-03-21T07:52:18-05:00'
 draft: false
 title: "Chronicles of Spellborn: Adventures in Newbieville"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/21/chronicles-of-spellborn-adventures-in-newbieville/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-20-21-17-27-04.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-20-21-17-27-04.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-20-21-17-27-04.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 One of the really great things about the open beta is that it is the FIRST time, my time on the EU servers included, where there were enough people running around that it felt like an MMO.

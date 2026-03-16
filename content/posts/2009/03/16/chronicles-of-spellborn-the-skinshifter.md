@@ -2,16 +2,42 @@
 date: '2009-03-16T07:35:02-05:00'
 draft: false
 title: "Chronicles of Spellborn -- the Skinshifter"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/16/chronicles-of-spellborn-the-skinshifter/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
-tags:
   - "Acclaim"
   - "Closed Beta"
   - "Rogue"
   - "Skinshifter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This isn't going to be a new player's preview to the Chronicles of Spellborn -- you can find links to that sort of information after this post that point to my experiences playing on the EU servers prior to the Acclaim closed beta, or take a look at Dragonchasers' excellent [initial impressions](http://dragonchasers.com/2009/03/15/the-chronicles-of-spellborn-initial-impressions/).

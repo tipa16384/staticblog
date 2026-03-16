@@ -2,16 +2,41 @@
 date: '2025-07-14T08:38:30-05:00'
 draft: false
 title: "Blaugust kommt."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/07/14/blaugust-kommt/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I didn't think Blaugust 2025 would happen, but then the community stepped up. Also, reflections on using (and NOT using) AI art in blogs."
-categories:
+description: "I didn't think Blaugust 2025 would happen, but then the community stepped up. Also, reflections on using (and NOT using) AI art in blogs."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
-tags:
   - "Blogging"
   - "Deviantart"
   - "Shutterstock"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/07/blaugustbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/07/blaugustbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/07/blaugustbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I am very much not ready for Blaugust this year.

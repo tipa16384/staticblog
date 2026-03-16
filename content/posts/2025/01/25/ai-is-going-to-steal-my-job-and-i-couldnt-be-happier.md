@@ -2,15 +2,40 @@
 date: '2025-01-25T09:00:00-05:00'
 draft: false
 title: "AI is going to steal my job -- and I couldn't be happier"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Taking an idea to reality takes just minutes, even if you don't know one thing about programming. It's a new world."
-categories:
-  - "Malifaux"
+description: "Taking an idea to reality takes just minutes, even if you don't know one thing about programming. It's a new world."
 tags:
+  - "Malifaux"
   - "AI"
   - "ChatGPT"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/minitray.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/minitray.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/minitray.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm a programmer. Aside from a few odd jobs, programming is all I've ever done. I think I'm pretty good at it; people keep wanting to pay me to do it, anyway.

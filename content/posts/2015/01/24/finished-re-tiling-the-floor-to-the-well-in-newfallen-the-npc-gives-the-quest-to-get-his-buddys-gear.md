@@ -2,13 +2,39 @@
 date: '2015-01-24T05:14:15-05:00'
 draft: false
 title: "Finished re-tiling the floor to the Well in Newfallen."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/24/finished-re-tiling-the-floor-to-the-well-in-newfallen-the-npc-gives-the-quest-to-get-his-buddys-gear/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh5.googleusercontent.com/-gujsSEJb8aM/VMMo66VyBhI/AAAAAAAA_Ig/8_4Qd0lA-Eo/w506-h750/GameClient%2B2015-01-24%2B00-00-32-62.jpg"
-cover: "https://lh5.googleusercontent.com/-gujsSEJb8aM/VMMo66VyBhI/AAAAAAAA_Ig/8_4Qd0lA-Eo/w506-h750/GameClient%2B2015-01-24%2B00-00-32-62.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-gujsSEJb8aM/VMMo66VyBhI/AAAAAAAA_Ig/8_4Qd0lA-Eo/w506-h750/GameClient%2B2015-01-24%2B00-00-32-62.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Finished re-tiling the floor to the Well in Newfallen. The NPC gives the quest to get his buddy's gear from the bottom of the well. The buddy accidentally fell down, was instantly killed, and now his stuff's going to poof before he can run back from Freeport. Ooooh I should make it Qeynos.

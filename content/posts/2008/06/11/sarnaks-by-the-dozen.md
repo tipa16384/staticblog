@@ -2,12 +2,39 @@
 date: '2008-06-11T08:33:43-05:00'
 draft: false
 title: "Sarnaks by the dozen"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/11/sarnaks-by-the-dozen/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-10-20-39-03-26.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-10-20-39-03-26.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-10-20-39-03-26.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![eqgame-2008-06-10-20-39-03-26.jpg](https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-10-20-39-03-26.jpg)

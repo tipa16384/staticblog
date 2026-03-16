@@ -2,18 +2,43 @@
 date: '2024-08-15T18:43:17-05:00'
 draft: false
 title: "Champions: Return to Arms"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/15/champions-return-to-arms/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "In Champions of Norrath, you're tasked with single-handedly killing the God of Hate. Now they want you to kill the God of War in the sequel. Firiona and her crew are really pretty useless, aren't they?"
-categories:
+description: "In Champions of Norrath, you're tasked with single-handedly killing the God of Hate. Now they want you to kill the God of War in the sequel. Firiona and her crew are really pretty useless, aren't they?"
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "EverQuest"
   - "PS2"
-tags:
   - "Champions of Norrath"
   - "Champions Return to Arms"
   - "PCSX2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/firiona.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/firiona.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/firiona.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's weird, but no other High Elf in the actual EverQuest game wears next to nothing -- it's just her. I'm really not buying her argument that all the princesses are wearing harem outfits. You don't see the dwarf princesses wearing them. You don't see the clockwork princesses wearing them (although, admittedly, they don't wear anything). Even the wood elves, who you'd expect to wanna be more *au natural*, don't dress like this. It's just her.

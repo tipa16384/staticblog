@@ -2,9 +2,38 @@
 date: '2009-10-07T23:02:13-05:00'
 draft: false
 title: "Earth Eternal open beta opening early for closed beta testers"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/07/earth-eternal-open-beta-opening-early-for-closed-beta-testers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Earth Eternal"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Um, title kinda says it all. But to repeat -- the new, free, browser-based, anthropomorphic MMO from Sparkplay has just finished up its closed beta and is trundling steadily toward open. But if you were one of the lucky few to get into the closed beta, you can get into the open beta starting.... tomorrow, Thursday.

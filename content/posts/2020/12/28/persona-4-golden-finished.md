@@ -2,14 +2,39 @@
 date: '2020-12-28T07:51:22-05:00'
 draft: false
 title: "Persona 4 Golden: Finished!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/28/persona-4-golden-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A warm, friendly murder mystery that doesn't outstay its welcome and sets up themes that Persona 5 would eventually deconstruct."
-categories:
-  - "Steam Games"
+description: "A warm, friendly murder mystery that doesn't outstay its welcome and sets up themes that Persona 5 would eventually deconstruct."
 tags:
+  - "Steam Games"
   - "Persona"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/20201227203256_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/20201227203256_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/20201227203256_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A transfer student spends a year in a strange town. He discovers he has the ability to enter a supernatural world and summon a manifestation of his inner self that he calls a Persona. He immediately makes new friends who find they can also enter this supernatural world and also summon Personas. He eventually collects a team of fellow high school students with Personas who go on to secretly save the world. At the end of the year, the transfer student returns home.

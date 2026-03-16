@@ -2,10 +2,37 @@
 date: '2015-05-16T02:28:53-05:00'
 draft: false
 title: "Second Hyperlapse test."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/05/16/second-hyperlapse-test-ive-been-waiting-for-this-to-come-out-for-months-it-really-does-make-sped/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n"
-cover: "https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n"
+cover:
+  image: "https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Second Hyperlapse test. I've been waiting for this to come out for months. It really does make sped-up bike video look almost watchable, though, ironically, YouTube said it looked a little shaky and offered to clean it up ;-)

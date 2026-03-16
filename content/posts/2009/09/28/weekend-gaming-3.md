@@ -2,7 +2,25 @@
 date: '2009-09-28T00:12:16-05:00'
 draft: false
 title: "Weekend Gaming"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/28/weekend-gaming-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "City of Heroes"
   - "Earth Eternal"
@@ -11,7 +29,16 @@ categories:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-27-21-46-57-10.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Sean E asked me why I wasn't playing Dungeons and Dragons Online. I hear DDO and I think "hey, another fantasy MMO with wizards and stuff". Why add a twenty-first to the twenty I already play or have played? And who has that kind of time? I guess it depends on who you play with; in an MMO, it's more about the company you keep than the merits of the game.

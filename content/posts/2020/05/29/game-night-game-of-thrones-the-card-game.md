@@ -2,16 +2,42 @@
 date: '2020-05-29T11:46:57-05:00'
 draft: false
 title: "Game Night: Game of Thrones: the Card Game"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/29/game-night-game-of-thrones-the-card-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Game Night"
   - "Lord of the Rings"
   - "Scythe"
   - "Tabletop Games"
-tags:
   - "Deckbuilding"
   - "Game of Thrones"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/lordsandladies.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/lordsandladies.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/lordsandladies.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Last year for my birthday, Kasul got me a huge, mysteriously heavy box and refused to say what was inside. Anticipation was killing me. When my birthday came, I opened it up and it was absolutely full of [Fantasy Flight Games'](https://www.fantasyflightgames.com/) [Game of Thrones, the Card Game](https://www.fantasyflightgames.com/en/products/a-game-of-thrones-lcg/) stuff. The base game, custom card holders for each noble house, every expansion, box after box of stuff.

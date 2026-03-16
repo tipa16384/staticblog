@@ -2,10 +2,37 @@
 date: '2008-03-20T07:38:40-05:00'
 draft: false
 title: "Metaplace stress test -- Uberspace"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/20/metaplace-stress-test-uberspace/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Metaplace"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/us.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/03/us.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/03/us.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![us.jpg](https://chasingdings.com/wp-content/uploads/2008/03/us.jpg)

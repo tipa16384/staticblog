@@ -2,17 +2,43 @@
 date: '2021-09-06T10:22:53-05:00'
 draft: false
 title: "Panzer Dragoon: The Remake"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/06/panzer-dragoon-the-remake/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Arcade Game"
   - "PS4"
   - "PS5"
   - "Video Game"
   - "Video Game Series"
-tags:
   - "Limited Run"
   - "Panzer Dragoon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Needle drop some {{< youtube m2wN9myIOGw >}}, and you could pretend this post-apocalyptic arcade shooter is the iconic Taarna segment from the Heavy Metal movie. It's all the otherworldly rails shooter action you could want in a game.

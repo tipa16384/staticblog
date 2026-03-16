@@ -2,14 +2,41 @@
 date: '2008-04-21T08:10:18-05:00'
 draft: false
 title: "Weekend Gaming"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/04/21/weekend-gaming/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "EverQuest"
   - "MMORPG"
   - "Mythos"
   - "Nostalgia the Guild"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-21-07-15-12-85.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-21-07-15-12-85.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-21-07-15-12-85.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Nostalgia the Guild took most of my time this last weekend. It's supposed to just be a very casual, once-a-week grouping experience through EverQuest's old world, and it shouldn't really require as much work as I've put into it. However, I don't see how it could have taken any less, either. If you have a static group, how do you keep everything arranged? Maybe I just want everything planned out.

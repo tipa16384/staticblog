@@ -2,12 +2,39 @@
 date: '2011-02-22T07:54:26-05:00'
 draft: false
 title: "The Inertia of EVE Online and EverQuest II"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/02/22/the-inertia-of-eve-online-and-everquest-ii/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg" title="A portrait of a nerd" class="align-center" >}}

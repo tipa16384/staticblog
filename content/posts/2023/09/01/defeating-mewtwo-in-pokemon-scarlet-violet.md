@@ -2,15 +2,39 @@
 date: '2023-09-01T20:16:35-05:00'
 draft: false
 title: "Defeating Mewtwo in Pokémon Scarlet/Violet"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/01/defeating-mewtwo-in-pokemon-scarlet-violet/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's not really hard to defeat Mewtwo if everyone is on the same page. I did it both times with Mew; once built for support, once built for damage."
-categories:
-  - "Pokemon"
+description: "It's not really hard to defeat Mewtwo if everyone is on the same page. I did it both times with Mew; once built for support, once built for damage."
 tags:
+  - "Pokemon"
   - "Mew"
   - "Mewtwo"
-  - "Pokemon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's not really hard to defeat Mewtwo if everyone is on the same page. I did it both times with Mew; once built for support, once built for damage.

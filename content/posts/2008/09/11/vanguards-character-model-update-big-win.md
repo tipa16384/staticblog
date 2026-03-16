@@ -2,14 +2,40 @@
 date: '2008-09-11T19:00:31-05:00'
 draft: false
 title: "Vanguard's character model update? BIG WIN."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/11/vanguards-character-model-update-big-win/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Vanguard"
-tags:
   - "Characters"
   - "Game Update 6"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Vanguard offered its Game Update #6 yesterday, finally fixing and updating their character models, something promised pretty much from launch. Worth it? Definitely.

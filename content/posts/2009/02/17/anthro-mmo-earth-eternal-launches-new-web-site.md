@@ -2,15 +2,41 @@
 date: '2009-02-17T07:01:16-05:00'
 draft: false
 title: "*Anthro* MMO Earth Eternal launches new web site"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/17/anthro-mmo-earth-eternal-launches-new-web-site/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Earth Eternal"
   - "MMORPG"
-tags:
   - "Beta"
   - "Not Furries Dammit"
   - "Website"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/pigsinspace.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/pigsinspace.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/pigsinspace.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/02/pigsinspace.jpg "pigsinspace")There's a slim possibility [I may have been dismissive](http://www.massively.com/2008/07/25/furries-let-their-tails-down-in-earth-eternal/) of Sparkplay's Anthro (not Furry) MMO, [Earth Eternal](http://www.eartheternal.com/), in the past, but --

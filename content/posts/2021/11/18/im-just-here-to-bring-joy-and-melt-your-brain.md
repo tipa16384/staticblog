@@ -2,19 +2,45 @@
 date: '2021-11-18T00:15:44-05:00'
 draft: false
 title: "I'm just here to bring joy and melt your brain."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/18/im-just-here-to-bring-joy-and-melt-your-brain/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Atari 2600"
   - "Axie Infinity"
   - "Free Realms"
   - "NFT"
   - "The Loot Project"
-tags:
   - "Atari"
   - "Crypto"
   - "Ethereum"
   - "Shiba Inu"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/genesisloot.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/genesisloot.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/genesisloot.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Not necessarily in that order. I have a lot to talk about and I just have to put it down in the blog, and I guarantee both joy and brain melting.

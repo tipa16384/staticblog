@@ -2,11 +2,38 @@
 date: '2009-12-08T07:27:09-05:00'
 draft: false
 title: "EVE Online: Cul-de-Wormhole"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/12/08/eve-online-cul-de-wormhole/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Ringed planet, moon and Retriever](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg "Ringed planet, moon and Retriever")

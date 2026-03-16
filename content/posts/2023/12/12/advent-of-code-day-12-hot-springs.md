@@ -2,17 +2,42 @@
 date: '2023-12-12T21:44:16-05:00'
 draft: false
 title: "Advent of Code Day 12 -- Hot Springs"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/12/advent-of-code-day-12-hot-springs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I narrowly avoided yesterday's trap only to walk right into today's."
-categories:
-  - "Advent of Code"
+description: "I narrowly avoided yesterday's trap only to walk right into today's."
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Caching"
   - "Python"
   - "Springs"
   - "Volcano"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-20.48.05-A-repairman-in-a-safety-vest-and-hardhat-looking-at-a-damaged-map-in-a-landscape-reminiscent-of-Iceland-near-a-dormant-volcano.-The-scene-includes-ste.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-20.48.05-A-repairman-in-a-safety-vest-and-hardhat-looking-at-a-damaged-map-in-a-landscape-reminiscent-of-Iceland-near-a-dormant-volcano.-The-scene-includes-ste.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-20.48.05-A-repairman-in-a-safety-vest-and-hardhat-looking-at-a-damaged-map-in-a-landscape-reminiscent-of-Iceland-near-a-dormant-volcano.-The-scene-includes-ste.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After your cosmological stylings yesterday, you're back on the job today, looking for the famed Hot Springs where you've been told you may find help. You don't have to travel long before you come to a land filled with steaming pools of comfortably heated water. A sign nearby confirms that these are indeed the Hot Springs.

@@ -2,12 +2,39 @@
 date: '2013-03-06T07:50:23-05:00'
 draft: false
 title: "Code Hero (alpha)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/03/06/code-hero-alpha/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Code Hero"
   - "Kickstarter"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg" title="Code Hero Alpha" class="align-center" >}}

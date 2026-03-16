@@ -2,11 +2,38 @@
 date: '2016-02-27T09:47:34-05:00'
 draft: false
 title: "Another Day, Another Slime Monster..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2016/02/27/another-day-another-slime-monster/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2016/02/FINAL-FANTASY-XIV-2_25_2016-9_22_55-PM.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2016/02/FINAL-FANTASY-XIV-2_25_2016-9_22_55-PM.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2016/02/FINAL-FANTASY-XIV-2_25_2016-9_22_55-PM.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2016/02/FINAL-FANTASY-XIV-2_25_2016-9_22_55-PM.jpg" title="Slime boss!" class="align-center" >}}

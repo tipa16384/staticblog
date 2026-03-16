@@ -2,17 +2,42 @@
 date: '2023-08-15T07:00:00-05:00'
 draft: false
 title: "Jurassic World: The Legacy of Isla Nublar"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/15/jurassic-world-the-legacy-of-isla-nublar/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Today is the day we evacuated Isla Nublar. But, the adventure isn't yet over."
-categories:
+description: "Today is the day we evacuated Isla Nublar. But, the adventure isn't yet over."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "Game Night"
-tags:
   - "Board Game"
   - "Jurassic Park"
   - "Legacy"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/IMG_3952-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/IMG_3952-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/IMG_3952-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Today is the day we evacuated Isla Nublar. But, the adventure isn't yet over.

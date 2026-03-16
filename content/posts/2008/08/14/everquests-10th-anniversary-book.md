@@ -2,11 +2,38 @@
 date: '2008-08-14T08:14:40-05:00'
 draft: false
 title: "EverQuest's 10th Anniversary Book"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/14/everquests-10th-anniversary-book/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest10ann.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/everquest10ann.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest10ann.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/08/everquest10ann.jpg "everquest10ann")Remember those spam books that you could get in the 80s that would claim to have all the genealogy of your family name and trace your roots and print your family crest and stuff? And then it would turn out to have the phone book information of everyone in the country with your last name, along with some really generic information and a totally made up crest.

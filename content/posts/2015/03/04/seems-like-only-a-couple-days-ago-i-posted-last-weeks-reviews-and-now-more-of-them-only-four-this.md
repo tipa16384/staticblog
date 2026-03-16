@@ -2,8 +2,37 @@
 date: '2015-03-04T03:28:49-05:00'
 draft: false
 title: "Seems like only a couple days ago I posted last week’s reviews… and now more of them! Only four this..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/03/04/seems-like-only-a-couple-days-ago-i-posted-last-weeks-reviews-and-now-more-of-them-only-four-this/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Seems like only a couple days ago I posted last week’s reviews… and now more of them! Only four this time. But, one of them was unlike any foundry we’d ever played before.**

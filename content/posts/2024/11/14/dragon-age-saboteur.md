@@ -2,16 +2,41 @@
 date: '2024-11-14T07:56:03-05:00'
 draft: false
 title: "Dragon Age: Saboteur"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/11/14/dragon-age-saboteur/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Can I win Dragon Age: Veilguard with a bow that has just one arrow and takes ten seconds to reload?"
-categories:
+description: "Can I win Dragon Age: Veilguard with a bow that has just one arrow and takes ten seconds to reload?"
+tags:
   - "Action RPG"
   - "Dragon Age Origins"
   - "RPG"
-tags:
   - "Dragon Age"
   - "The Veilguard"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/1-20241113215345_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/11/1-20241113215345_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/11/1-20241113215345_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We tend to watch a few video game challenge runs here in RPG Central. Mostly in the souls-like genre. My favorites of those have always been the challenge runs where the player has to kill every boss with one keypress, usually using an extreme sort of build that would leave nothing on the table; if the boss has a chance to attack, it's game over.

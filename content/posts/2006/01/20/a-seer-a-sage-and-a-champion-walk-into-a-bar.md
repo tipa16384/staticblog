@@ -2,9 +2,38 @@
 date: '2006-01-20T00:00:00-05:00'
 draft: false
 title: "A Seer, a Sage and a Champion walk into a bar..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/01/20/a-seer-a-sage-and-a-champion-walk-into-a-bar/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Someone posted a long description of a guild he was starting, that separated the classes into three categories, Seers, Sages and Champions. Then he followed it up with a next post which said, simply, *"A Seer, a Sage, and a Champion walk into a bar...."*

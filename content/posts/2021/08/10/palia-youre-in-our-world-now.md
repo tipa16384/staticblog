@@ -2,14 +2,39 @@
 date: '2021-08-10T09:06:40-05:00'
 draft: false
 title: "Palia: You're In Our World Now."
-categories:
-  - "Blaugust"
-  - "MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/10/palia-youre-in-our-world-now/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
+  - "MMORPG"
   - "Palia"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 That... isn't actually their tagline (old folks know that it was EverQuest's), but it seems like what this social MMO is going for. An idyllic world where you can relax with friends. The trailer shows players building their own homes and communities, but is that all there is?

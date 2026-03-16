@@ -2,18 +2,43 @@
 date: '2023-10-09T07:46:14-05:00'
 draft: false
 title: "Starfield vs. Baldur's Gate 3"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/10/09/starfield-vs-baldurs-gate-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I played Baldur's Gate 3 while my partner played Starfield. Which of us had the most fun?"
-categories:
+description: "I played Baldur's Gate 3 while my partner played Starfield. Which of us had the most fun?"
+tags:
   - "Baldur's Gate 3"
   - "PS5"
   - "Starfield"
-tags:
   - "Astarion"
   - "Gale"
   - "Lae'zal"
   - "Shadowheart"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/sfvsbg3.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/10/sfvsbg3.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/10/sfvsbg3.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I recently replayed Skyrim all the way through, including both expansions, and really enjoyed it. I couldn't have been more ready to play Bethesda's "Skyrim in Space" game, Starfield.

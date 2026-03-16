@@ -2,11 +2,39 @@
 date: '2015-01-14T03:46:39-05:00'
 draft: false
 title: "Neverwinter: Weekly Foundry Reviews -- January 14, 2015"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/14/who-says-sequels-never-bring-the-goods-weve-got-a-couple-of-good-ones-this-week-and-a-couple-new/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Who says sequels never bring the goods? We’ve got a couple of good ones this week… and a couple new ones as well.**

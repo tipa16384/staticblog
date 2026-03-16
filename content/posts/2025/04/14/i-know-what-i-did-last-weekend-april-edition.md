@@ -2,19 +2,44 @@
 date: '2025-04-14T13:23:48-05:00'
 draft: false
 title: "I Know What I Did Last Weekend (April edition)"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/04/14/i-know-what-i-did-last-weekend-april-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Blue Prince, Monster Hunter Wilds, Sword for Hire news, some new boardgames, something new coming for Malifaux, and probably more..."
-categories:
+description: "Blue Prince, Monster Hunter Wilds, Sword for Hire news, some new boardgames, something new coming for Malifaux, and probably more..."
+tags:
   - "Beyond Shadowgate"
   - "Monster Hunter"
   - "Tabletop Games"
-tags:
   - "Bardwood Grove"
   - "Blue Prince"
   - "Cryptmaster"
   - "One Hit Heroes"
   - "Sword for Hire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/04/Blue-Prince_20250414075008-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 What I was *supposed* to be doing, was painting minis for Frosthaven. What I *actually* was doing was pretty much everything else.

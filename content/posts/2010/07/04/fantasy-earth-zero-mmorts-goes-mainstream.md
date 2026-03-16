@@ -2,11 +2,38 @@
 date: '2010-07-04T17:48:46-05:00'
 draft: false
 title: "Fantasy Earth Zero review: MMORTS goes mainstream"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Fantasy Earth Zero"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg "A Dragon Summons in Fantasy Earth Zero")](https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83.jpg)

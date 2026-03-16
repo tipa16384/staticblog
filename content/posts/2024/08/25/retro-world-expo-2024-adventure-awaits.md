@@ -2,18 +2,43 @@
 date: '2024-08-25T08:00:00-05:00'
 draft: false
 title: "Retro World Expo 2024: Adventure Awaits"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/25/retro-world-expo-2024-adventure-awaits/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "That's another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more..."
-categories:
+description: "That's another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more..."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "PS2"
   - "Vectrex"
-tags:
   - "Analogue"
   - "Crocs"
   - "Retro World Expo"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I know we're not supposed to use AI images anymore, and especially not for the featured image, but I wanted to and so I did.

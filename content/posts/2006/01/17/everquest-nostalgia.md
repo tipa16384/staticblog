@@ -2,11 +2,38 @@
 date: '2006-01-17T00:00:00-05:00'
 draft: false
 title: "EverQuest Nostalgia"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/01/17/everquest-nostalgia/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/images/eqchars.jpg"
-cover: "https://chasingdings.com/images/eqchars.jpg"
+cover:
+  image: "https://chasingdings.com/images/eqchars.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Before I was the blue-skinned beauty I am today, I was pretty into EQ.

@@ -2,22 +2,46 @@
 date: '2023-08-03T07:00:00-05:00'
 draft: false
 title: "(Not) Taming the Backlog"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/03/not-taming-the-backlog/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "If I die, let it be beneath a mound of unplayed video games. Might as well accept the inevitable, right?"
-categories:
+description: "If I die, let it be beneath a mound of unplayed video games. Might as well accept the inevitable, right?"
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "Final Fantasy"
   - "Nintendo Switch"
   - "Pokemon"
   - "White Knight Chronicles"
-tags:
   - "Legend of Zelda"
   - "Live a Live"
   - "Octopath Traveler"
   - "Panzer Dragoon"
-  - "Pokemon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-02-23.10.21-A-dragon-wearing-glasses-surrounded-by-stacks-of-video-games.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 What the heck do I do with my free time? I always feel guilty when I look at the games in my backlog. I want to emphasize that these are physical games, usually, because I am an old crusty Luddite and don't really trust that the digital games I "buy" are really mine in any sense of the word.

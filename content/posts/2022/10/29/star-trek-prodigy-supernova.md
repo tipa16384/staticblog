@@ -2,17 +2,42 @@
 date: '2022-10-29T15:51:15-05:00'
 draft: false
 title: "Star Trek Prodigy: Supernova"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/10/29/star-trek-prodigy-supernova/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Action Adventure Games"
   - "Puzzle Games"
   - "Star Trek"
   - "Video Game"
-tags:
   - "Check It"
   - "Pew Pew"
-  - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/10/star-trek-header-mobile.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2022/10/star-trek-header-mobile.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/10/star-trek-header-mobile.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Out of all the new-era Star Trek shows, Star Trek Prodigy is the one that strays furthest from the basic template. It's the first targeted specifically toward children, and the first that, at least at first, doesn't involve Starfleet.

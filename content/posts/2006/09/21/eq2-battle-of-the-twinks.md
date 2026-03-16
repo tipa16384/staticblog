@@ -2,12 +2,39 @@
 date: '2006-09-21T02:01:58-05:00'
 draft: false
 title: "EQ2: Battle of the Twinks"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/09/21/eq2-battle-of-the-twinks/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/images/pics092006/battleofthetwinks.jpg"
-cover: "https://chasingdings.com/images/pics092006/battleofthetwinks.jpg"
+cover:
+  image: "https://chasingdings.com/images/pics092006/battleofthetwinks.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Dina vs Arioma](https://chasingdings.com/images/pics092006/battleofthetwinks.jpg "Dina vs Arioma")

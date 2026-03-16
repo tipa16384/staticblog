@@ -2,7 +2,25 @@
 date: '2008-01-09T13:05:57-05:00'
 draft: false
 title: "EQ2, Rock Band, Goong, Xbox, PS3, PotBS, and stuff."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/09/eq2-rock-band-goong-xbox-ps3-potbs-and-stuff/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
@@ -10,6 +28,17 @@ categories:
   - "Rock Band"
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Huh. I wonder if I spend too much time gaming?

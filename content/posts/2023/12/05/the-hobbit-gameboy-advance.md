@@ -2,16 +2,41 @@
 date: '2023-12-05T08:22:00-05:00'
 draft: false
 title: "The Hobbit (Gameboy Advance)"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/05/the-hobbit-gameboy-advance/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "See, it's a story about a little man who lives in a hole dug into a hill..."
-categories:
-  - "Action Adventure Games"
+description: "See, it's a story about a little man who lives in a hole dug into a hill..."
 tags:
+  - "Action Adventure Games"
   - "Analogue"
   - "Gameboy Advance"
   - "Hobbit"
   - "Sierra"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/20231205_085706.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/20231205_085706.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/20231205_085706.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't really talked much about my Analogue Pocket. I got it a month or two back, when they were advertising the retro translucent cases. Back in the day, translucent was a thing. Anyway, it plays Gameboy, Gameboy Color and Gameboy Advance games out of the box, PC card, Neo Geo Pocket, and Neo Geo Pocket Color with adapters, and consoles from the Intellivision to the Bandai Wonderswan (and many, many more, even Super Nintendo) using their OpenFPGA architecture.

@@ -2,11 +2,38 @@
 date: '2010-12-14T07:58:21-05:00'
 draft: false
 title: "Wizard101: Plant a Giving Tree for Charity"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/14/wizard101-plant-a-giving-tree-for-charity/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/givingtree.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/givingtree.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/givingtree.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/12/givingtree.gif "Giving Tree")](https://chasingdings.com/wp-content/uploads/2010/12/givingtree.gif)

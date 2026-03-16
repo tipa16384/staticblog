@@ -2,11 +2,37 @@
 date: '2024-09-04T07:00:00-05:00'
 draft: false
 title: "The Transgressive Charm of Um Jammer Lammy"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/04/the-transgressive-charm-of-um-jammer-lammy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "All \"Jammer\" Lammy wants to do is rock. The only thing stopping her is... everything."
-categories:
+description: "All \"Jammer\" Lammy wants to do is rock. The only thing stopping her is... everything."
+tags:
   - "Rhythm Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/umjammer-240903-213013.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/umjammer-240903-213013.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/umjammer-240903-213013.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It is weird just how obscure this game is, today. It's a spinoff from 1996's "PaRappa the Rapper", which is itself hard to find these days. But at least people have *heard* of it. When I go to retro video game stores looking for Um Jammer Lammy, I usually have to spell it out. The last place actually looked on eBay to see if it was a real game.

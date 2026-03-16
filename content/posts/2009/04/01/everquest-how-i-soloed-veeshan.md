@@ -2,14 +2,40 @@
 date: '2009-04-01T07:13:20-05:00'
 draft: false
 title: "EverQuest: How I soloed Veeshan"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/01/everquest-how-i-soloed-veeshan/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "April Fool"
   - "Veeshan"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/eqgame-2009-04-01-07-33-01-42.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/eqgame-2009-04-01-07-33-01-42.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/eqgame-2009-04-01-07-33-01-42.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![eqgame-2009-04-01-07-33-01-42](https://chasingdings.com/wp-content/uploads/2009/04/eqgame-2009-04-01-07-33-01-42.jpg "eqgame-2009-04-01-07-33-01-42")

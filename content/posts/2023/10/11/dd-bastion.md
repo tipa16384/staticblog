@@ -2,14 +2,39 @@
 date: '2023-10-11T07:00:00-05:00'
 draft: false
 title: "D&D: Bastions"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/10/11/dd-bastion/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Finally, after fifty years, housing comes to Dungeons & Dragons. Innkeepers across the land protest."
-categories:
-  - "Dungeons & Dragons"
+description: "Finally, after fifty years, housing comes to Dungeons & Dragons. Innkeepers across the land protest."
 tags:
+  - "Dungeons & Dragons"
   - "5e"
   - "Bastions"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/bastion.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/10/bastion.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/10/bastion.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I am *so confused* by all of this. I think I remember reading in the old Advanced Dungeons & Dragons player handbook that once you reached a certain level, you could attract followers and have a class-appropriate lair/castle/whatever that you could run. Your character could retire there, and then you would start a new character.

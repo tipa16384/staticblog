@@ -2,11 +2,38 @@
 date: '2009-01-06T01:08:09-05:00'
 draft: false
 title: "Slow night with City of Villains & Rock Band 2"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/06/slow-night-with-city-of-villains-rock-band-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-05-19-20-04-34.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-05-19-20-04-34.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-05-19-20-04-34.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-05-19-20-04-34.jpg "cityofheroes-2009-01-05-19-20-04-34")

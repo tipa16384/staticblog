@@ -2,16 +2,41 @@
 date: '2024-10-27T10:55:12-05:00'
 draft: false
 title: "Beyond Shadowgate: The SECRET Menu?!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/27/beyond-shadowgate-the-secret-menu/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "If you're a Beyond Shadowgate speedrunner, or are considering a promising career in Shadowgate speedrunning, you're going to want to read this."
-categories:
+description: "If you're a Beyond Shadowgate speedrunner, or are considering a promising career in Shadowgate speedrunning, you're going to want to read this."
+tags:
   - "Adventure"
   - "Beyond Shadowgate"
   - "Kickstarter"
   - "Steam Games"
-tags:
   - "Say Hello to My Little Friend"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/bs-secretmenu.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/bs-secretmenu.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/bs-secretmenu.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Beyond Shadowgate, the NES-inspired point and click adventure game from the developers of the original Shadowgate, dropped [a new patch](https://store.steampowered.com/news/app/2332240/view/4534654356721500220?l=english) last week that fixes a couple bugs, a couple exploits, and adds a new... secret menu? Here's that part of the patch notes:

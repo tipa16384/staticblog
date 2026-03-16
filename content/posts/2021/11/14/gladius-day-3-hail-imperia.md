@@ -2,16 +2,42 @@
 date: '2021-11-14T13:27:08-05:00'
 draft: false
 title: "Gladius, Day 3: Hail, Imperia"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/14/gladius-day-3-hail-imperia/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "Gladius"
   - "PS2"
   - "Tactical RPG"
-tags:
   - "Lucasarts"
   - "PCSX2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211113225044.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211113225044.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211113225044.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After adding another hero *and* a minotaur to their motley crew, the Viking twins conquer the fighting pits of Imperia and set their sights windward.

@@ -2,7 +2,25 @@
 date: '2022-08-10T07:00:00-05:00'
 draft: false
 title: "10 Million B.C.: An open-world action RPG set in the time of the dinosaurs"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/10/10000-b-c-an-open-world-action-rpg-set-in-the-time-of-the-dinosaurs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Action RPG"
   - "Blaugust"
   - "Blaugust 2022"
@@ -11,12 +29,20 @@ categories:
   - "OpenAI"
   - "Prehistoric Games"
   - "Survival"
-tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-02-21.08.16-A-35mm-high-resolution-photograph-of-a-caveman-sitting-on-the-back-of-a-dinosaur-with-a-vast-landscape-behind-them-with-realistic-animals-and-lush-ve.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-02-21.08.16-A-35mm-high-resolution-photograph-of-a-caveman-sitting-on-the-back-of-a-dinosaur-with-a-vast-landscape-behind-them-with-realistic-animals-and-lush-ve.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-02-21.08.16-A-35mm-high-resolution-photograph-of-a-caveman-sitting-on-the-back-of-a-dinosaur-with-a-vast-landscape-behind-them-with-realistic-animals-and-lush-ve.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 10th: “10 Million B.C.”.

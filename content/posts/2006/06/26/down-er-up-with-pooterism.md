@@ -2,10 +2,37 @@
 date: '2006-06-26T00:00:00-05:00'
 draft: false
 title: "Down... er... Up With Pooterism!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/06/26/down-er-up-with-pooterism/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Charles_and_Lupin_Pooter.gif/250px-Charles_and_Lupin_Pooter.gif"
-cover: "http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Charles_and_Lupin_Pooter.gif/250px-Charles_and_Lupin_Pooter.gif"
+cover:
+  image: "http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Charles_and_Lupin_Pooter.gif/250px-Charles_and_Lupin_Pooter.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Charles_and_Lupin_Pooter.gif/250px-Charles_and_Lupin_Pooter.gif)

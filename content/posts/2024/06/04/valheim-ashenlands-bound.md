@@ -2,13 +2,38 @@
 date: '2024-06-04T06:30:00-05:00'
 draft: false
 title: "Valheim: Ashenlands Bound"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/06/04/valheim-ashenlands-bound/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I didn't think I'd be playing Valheim again, but here we are. Let's try something different, this time."
-categories:
-  - "Valheim"
+description: "I didn't think I'd be playing Valheim again, but here we are. Let's try something different, this time."
 tags:
+  - "Valheim"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/06/banner060324.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/06/banner060324.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/06/banner060324.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My son-in-law has been making the rounds of survival games. He stood a Palworld server up, so I played -- and loved -- Palworld. He sent me the server save file for my own use and was going to switch to an Enshrouded server, but one of his friends wanted to try Valheim again to explore the new Ashenlands expansion, so he swapped to a Valheim server instead, and invited me to come along with them through the new content.

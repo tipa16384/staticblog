@@ -2,11 +2,38 @@
 date: '2007-06-27T07:36:22-05:00'
 draft: false
 title: "EQ2: Darklight Woods, Cyenadros, EOF Armor, EQ2Flames"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/06/27/eq2-darklight-woods-cyenadros-eof-armor-eq2flames/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000035.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000035.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000035.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 That Shapeshifter game doesn't take up all my time. It just seems like it does. Another game that doesn't take all my time: Overlord. I downloaded it based on the giddy reviews from Cuppy and Brent, but it seemed boring to me. MMOs have raised my expectations of games beyond what single player games can satisfy. Games without other people playing seem lifeless and barren, now.

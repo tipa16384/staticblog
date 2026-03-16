@@ -2,18 +2,43 @@
 date: '2023-08-14T08:10:52-05:00'
 draft: false
 title: "My Non-Controversial Take on the AI Revolution"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/14/my-non-controversial-take-on-the-ai-revolution/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "At least, I haven't heard anyone contravene my take, yet."
-categories:
+description: "At least, I haven't heard anyone contravene my take, yet."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "ChatGPT"
   - "Copilot"
   - "Github"
   - "Programming"
   - "Substack"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/revolution.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/revolution.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/revolution.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 At least, I haven't heard anyone contravene my take, yet.

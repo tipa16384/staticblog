@@ -2,16 +2,41 @@
 date: '2025-03-03T08:43:21-05:00'
 draft: false
 title: "Tunnels &amp; Trolls: Sword for Hire"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/03/03/tunnels-trolls-sword-for-hire/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I may be committing some light copyright infringement..."
-categories:
+description: "I may be committing some light copyright infringement..."
+tags:
   - "CRPG"
   - "Tabletop Games"
-tags:
   - "Solo Adventure"
   - "Sword for Hire"
   - "Tunnels & Trolls"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/ttbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/03/ttbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/03/ttbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We were at the [House of Books and Games](http://houseofbooksandgames.com/) in South Windsor the other day. This is a small store squeezed into non-Euclidean space somehow, only open on the weekends. We love going there whenever we're in the area; they have a quirky selection of stuff not seen elsewhere. This time, there was a local author just sitting there at the table. We talked for a long time, and of course, I bought his book -- [Revenants, by B. L. Daniels](https://www.amazon.com/Revenants-B-L-Daniels-ebook/dp/B0DBC93Z2C/ref=sr_1_1?crid=W36WJDF4A6XK&dib=eyJ2IjoiMSJ9.e8hNE4TBtErI0S9mg_gDfz8OiTLrBfRUGvCB9xGVWXhlBYYFjBthhL53NgXEDv8RBa2WrmAsaSy5ArBV-9FRK8pq-UBX2AIDBlGyUS1QxvHp95CMkMm5qHQv262Uhq-Ch1x5wj0k5ivMK7qG3nISrww9p161lvSYUqpVMD9ErNHvF51UiRrc42_Wb37YwpLodveqIHUQQsT4XJKGzLCBuhiBsOsJK7k3wvZpSxJhD_c.N-1xpCGS4jJyzDIu6VFESM3m_iE6pyUEbedAfJtyuR0&dib_tag=se&keywords=b.+l.+daniels&qid=1741007587&sprefix=b.+l.+daniels%2Caps%2C94&sr=8-1). It's also on Kindle Unlimited, so I could have saved the fifteen bucks, but then I couldn't have gotten it *signed*.

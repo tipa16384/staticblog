@@ -2,17 +2,42 @@
 date: '2020-11-07T19:52:35-05:00'
 draft: false
 title: "AtariNFT.io -- the dumbest thing Atari has ever done."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/11/07/atarinft-io-the-dumbest-thing-atari-has-ever-done/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Atari 2600"
   - "Blockchain"
   - "Emulators"
   - "NFT"
-tags:
   - "Asteroids"
-  - "Atari 2600"
   - "Non-Fungible Token"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/11/atari.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/11/atari.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/11/atari.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I hate to be hyperbolic about this. But... I just can't.

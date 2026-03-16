@@ -2,11 +2,39 @@
 date: '2008-09-03T15:04:26-05:00'
 draft: false
 title: "Why not make a MMO EXACTLY like World of Warcraft?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/03/why-not-make-a-mmo-exactly-like-world-of-warcraft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
-tags:
   - "WoW-Like"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was reading [Openedge's comments about Lord of the Rings Online](http://simple-n-complex.blogspot.com/2008/09/blog-comments-am-i-arguing-with-you.html), and remembering claims by a Turbine exec that [LotRO was destined to overtake and surpass WoW](http://www.digitalspy.co.uk/gaming/a128645/rings-mmo-destined-for-success.html), which seems unlikely to me. A EA exec thinks WAR will be huge. Everyone thinks the magic formula is to copy WoW, then change something to make it different.

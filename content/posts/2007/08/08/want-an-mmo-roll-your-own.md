@@ -2,8 +2,37 @@
 date: '2007-08-08T14:19:06-05:00'
 draft: false
 title: "Want an MMO? Roll your own."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/08/08/want-an-mmo-roll-your-own/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Everyone complains about MMOs, but nobody does anything about them. The GuardianÂ reports today about [Multiverse](http://blogs.guardian.co.uk/games/archives/2007/08/08/make_a_mmo.html), a platform for developing your own MMOs.

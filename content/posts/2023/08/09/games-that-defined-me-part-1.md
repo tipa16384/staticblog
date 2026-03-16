@@ -2,21 +2,46 @@
 date: '2023-08-09T07:00:00-05:00'
 draft: false
 title: "Games That Defined Me (Part 1)"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/09/games-that-defined-me-part-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's an interesting question, stated a few different ways -- 10 games to know me, or games that defined me. The question has been bouncing around Mastodon for a few days. Here's mine."
-categories:
+description: "It's an interesting question, stated a few different ways -- 10 games to know me, or games that defined me. The question has been bouncing around Mastodon for a few days. Here's mine."
+tags:
   - "Adventure"
   - "Blaugust"
   - "Blaugust 2023"
   - "Rogue-Likes"
   - "Star Trek"
   - "Text Adventure Game"
-tags:
   - "Advent"
   - "Empire"
   - "Rogue"
   - "Walter Bright"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/gamesthatdefinedme.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/gamesthatdefinedme.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/gamesthatdefinedme.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's introduction week all this week in Blaugust. Yesterday I shared a little bit about my bridge hunting passion, today it's a more relevant list of games.

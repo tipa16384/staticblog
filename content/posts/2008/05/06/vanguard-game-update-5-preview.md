@@ -2,13 +2,39 @@
 date: '2008-05-06T09:27:44-05:00'
 draft: false
 title: "Vanguard Game Update 5 preview!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/05/06/vanguard-game-update-5-preview/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Vanguard"
-tags:
   - "Gu5"
 featured_image: "http://www.massively.com/media/2008/05/vgclient-2008-05-01-18-36-02-20.jpg"
-cover: "http://www.massively.com/media/2008/05/vgclient-2008-05-01-18-36-02-20.jpg"
+cover:
+  image: "http://www.massively.com/media/2008/05/vgclient-2008-05-01-18-36-02-20.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Telon traffic jam](http://www.massively.com/media/2008/05/vgclient-2008-05-01-18-36-02-20.jpg)

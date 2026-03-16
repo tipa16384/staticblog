@@ -2,15 +2,40 @@
 date: '2025-09-11T08:00:00-05:00'
 draft: false
 title: "Frosthaven #114: Work Freeze"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/11/frosthaven-114-work-freeze/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Sure, we'll place these explosives for you. They're safe, right guys? Guys? Where'd you all go?"
-categories:
+description: "Sure, we'll place these explosives for you. They're safe, right guys? Guys? Where'd you all go?"
+tags:
   - "Frosthaven"
   - "Game Night"
   - "Tabletop Games"
-tags:
   - "Work Freeze"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/1-IMG_5360-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/1-IMG_5360-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/1-IMG_5360-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Those silly tinkerers with their silly little... tinkered things. We're looking for a way through the Copperneck Mountains so that we can explore the ancient ruins said to lie beyond them, and we were excited when a tinkerer hired us to clear a couple of local wildlife from a pass they wanted to make through the mountains.

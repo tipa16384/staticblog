@@ -2,16 +2,41 @@
 date: '2024-08-17T07:00:00-05:00'
 draft: false
 title: "La Brute: You should totally join my clan"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/17/la-brute-you-should-totally-join-my-clan/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This game was super popular 15 years ago but you should play it now."
-categories:
+description: "This game was super popular 15 years ago but you should play it now."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Browser Game"
   - "Other Games"
-tags:
   - "My Brute"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/labrute.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/labrute.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/labrute.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was being kinda smug a few days ago when I confidently mentioned to someone that I had quit my addiction to F2P mobile games. I'm DONE. They're OVER.

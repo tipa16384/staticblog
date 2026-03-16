@@ -2,7 +2,25 @@
 date: '2021-09-25T09:54:27-05:00'
 draft: false
 title: "Game Night: My Little Scythe and the Watson Game Topper"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Game Night"
   - "Kickstarter"
   - "Miniatures"
@@ -10,14 +28,22 @@ categories:
   - "Scythe"
   - "Tabletop Game"
   - "Tabletop Games"
-tags:
   - "Frostgrave"
   - "Game Topper"
   - "Lords of Waterdeep"
   - "The Red Dragon Inn"
   - "Vast the Crystal Caverns"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/2-IMG_2337.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/2-IMG_2337.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/2-IMG_2337.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In yesterday's Game Night, we eased my sister deeper into the world of board gaming with "My Little Scythe", and tested out Game Toppers' "Watson" gaming surface and mat.

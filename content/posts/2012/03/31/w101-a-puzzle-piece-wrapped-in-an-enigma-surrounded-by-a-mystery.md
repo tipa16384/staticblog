@@ -2,11 +2,38 @@
 date: '2012-03-31T23:33:10-05:00'
 draft: false
 title: "W101: A puzzle piece, wrapped in an enigma, surrounded by a mystery"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/03/31/w101-a-puzzle-piece-wrapped-in-an-enigma-surrounded-by-a-mystery/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/03/puzzle3.png"
-cover: "https://chasingdings.com/wp-content/uploads/2012/03/puzzle3.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/03/puzzle3.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2012/03/puzzle3.png "puzzle3")](https://chasingdings.com/wp-content/uploads/2012/03/puzzle3.png)

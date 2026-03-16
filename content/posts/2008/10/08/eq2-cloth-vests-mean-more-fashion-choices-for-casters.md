@@ -2,17 +2,43 @@
 date: '2008-10-08T14:00:59-05:00'
 draft: false
 title: "EQ2: Cloth vests mean more fashion choices for casters"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/08/eq2-cloth-vests-mean-more-fashion-choices-for-casters/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "EverQuest II"
   - "Gu48"
   - "Gu49"
   - "Multicore"
   - "Tailoring"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-08-07-37-27-60.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In either this latest game update, GU49, or the previous one, SOE added new recipes for tailors so that cloth-wearing classes, the ones whose clothing choices have previously been limited pretty much to all-covering burkas, can have a little more flexibility with their look.

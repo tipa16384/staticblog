@@ -2,16 +2,42 @@
 date: '2009-03-28T21:19:16-05:00'
 draft: false
 title: "Wizard 101: So, Malistaire. We meet again."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/28/wizard-101-so-malistaire-we-meet-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Dragonspyre"
   - "Malistaire"
   - "Player Housing"
   - "Thomas"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![wizardgraphicalclient-2009-03-28-00-49-38-56](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg "wizardgraphicalclient-2009-03-28-00-49-38-56")

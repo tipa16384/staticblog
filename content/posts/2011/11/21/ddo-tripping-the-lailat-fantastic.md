@@ -2,13 +2,39 @@
 date: '2011-11-21T07:08:34-05:00'
 draft: false
 title: "DDO: Tripping the Lailat Fantastic"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/11/21/ddo-tripping-the-lailat-fantastic/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg" title="Team Spode vs the Kite Runner" class="align-center" >}}

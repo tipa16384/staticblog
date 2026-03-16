@@ -2,14 +2,40 @@
 date: '2014-12-17T16:35:44-05:00'
 draft: false
 title: "Crushbone's Revenge almost finished."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/17/crushbones-revenge-almost-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Crushbone"
   - "Foundry"
 featured_image: "https://chasingdings.com/wp-content/uploads/2014/12/GameClient-2014-12-17-08-13-42-49-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2014/12/GameClient-2014-12-17-08-13-42-49-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2014/12/GameClient-2014-12-17-08-13-42-49-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2014/12/GameClient-2014-12-17-08-13-42-49-480x300.jpg" title="Lanys T'Vyl and friend plot against the player" class="align-center" >}}

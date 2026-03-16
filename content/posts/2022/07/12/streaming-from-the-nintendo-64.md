@@ -2,11 +2,27 @@
 date: '2022-07-12T07:42:43-05:00'
 draft: false
 title: "Streaming from the Nintendo 64"
-categories:
-  - "Nintendo 64"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/12/streaming-from-the-nintendo-64/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
-  - "Hdmi"
   - "Nintendo 64"
+  - "Hdmi"
   - "Retrotink"
   - "S-Video"
   - "Stream"
@@ -15,7 +31,16 @@ tags:
   - "Video Capture"
   - "Video Converter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's not pretty and it could be better, but I'm able to stream from my unmodified Nintendo 64 at an acceptable resolution using about $50 of hardware.

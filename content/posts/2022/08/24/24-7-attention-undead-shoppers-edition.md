@@ -2,20 +2,45 @@
 date: '2022-08-24T07:00:00-05:00'
 draft: false
 title: "24/7: Attention, Undead Shoppers edition."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/24/24-7-attention-undead-shoppers-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Do you have what it takes to keep the undead under control? Find out in 24/7, a challenging and exciting first-person shooter with a horror twist. Patrol the mall at night and keep the creatures of the night in check. Use a variety of different weapons and tools to help you in your task. Can you survive until dawn?"
-categories:
+description: "Do you have what it takes to keep the undead under control? Find out in 24/7, a challenging and exciting first-person shooter with a horror twist. Patrol the mall at night and keep the creatures of the night in check. Use a variety of different weapons and tools to help you in your task. Can you survive until dawn?"
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "First Person Shooter"
   - "OpenAI"
   - "Zombie Games"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Mall"
   - "Security Guards"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Number: 24. Genre: First-person shooter. Title: "24/7"

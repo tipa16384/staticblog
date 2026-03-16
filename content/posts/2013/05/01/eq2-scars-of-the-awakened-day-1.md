@@ -2,11 +2,38 @@
 date: '2013-05-01T06:54:57-05:00'
 draft: false
 title: "EQ2: Scars of the Awakened: Day 1"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/05/01/eq2-scars-of-the-awakened-day-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-04-30-21-31-14-27-480x343.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-04-30-21-31-14-27-480x343.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-04-30-21-31-14-27-480x343.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-04-30-21-31-14-27-480x343.jpg" title="Frog Wars" class="align-center" >}}

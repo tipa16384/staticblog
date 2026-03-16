@@ -2,11 +2,38 @@
 date: '2008-01-24T15:11:37-05:00'
 draft: false
 title: "Rock Band: Real PvP vs Carebear PvP"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/24/rock-band-real-pvp-vs-carebear-pvp/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Rock Band"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/test.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/01/test.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/01/test.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![test.jpg](https://chasingdings.com/wp-content/uploads/2008/01/test.jpg)

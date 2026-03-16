@@ -2,15 +2,41 @@
 date: '2009-02-17T07:47:13-05:00'
 draft: false
 title: "Bringing Balance to Wizard 101"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/17/bringing-balance-to-wizard-101/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Dragonspyre"
   - "Lord Nightshade"
   - "Malistaire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Agh, I have SO MUCH STUFF TO TALK ABOUT! I won't even get a chance to write about EQ2 today :/

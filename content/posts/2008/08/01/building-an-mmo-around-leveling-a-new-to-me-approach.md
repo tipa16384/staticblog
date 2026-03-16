@@ -2,8 +2,37 @@
 date: '2008-08-01T13:18:32-05:00'
 draft: false
 title: "Building an MMO around leveling? A new (to me) approach."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/01/building-an-mmo-around-leveling-a-new-to-me-approach/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 One of the problems with WoW-likes is that leveling is seen as a means to an end. That is, after a time, you reach max level, and the only way to get people to come back and level some more is by raising the level cap, at which time you have to make them grind for replacement gear and all that good stuff. This is particularly tiresome for raiders, who really just want to get started raiding again; for raiders, the time spent leveling is wasted time that could be spent learning new raids.

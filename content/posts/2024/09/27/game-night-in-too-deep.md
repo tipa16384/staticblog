@@ -2,15 +2,40 @@
 date: '2024-09-27T08:10:54-05:00'
 draft: false
 title: "Game Night: In Too Deep"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/27/game-night-in-too-deep/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "You're a psychic cop hijacking the minds of supervillains to solve crimes. But mind control... it's a two way street."
-categories:
+description: "You're a psychic cop hijacking the minds of supervillains to solve crimes. But mind control... it's a two way street."
+tags:
   - "Game Night"
   - "Sci Fi"
   - "Tabletop Games"
-tags:
   - "In Too Deep"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/intoodeepbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/intoodeepbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/intoodeepbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm struggling a little bit on how to describe the game.

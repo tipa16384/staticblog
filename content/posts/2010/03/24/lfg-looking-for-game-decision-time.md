@@ -2,7 +2,25 @@
 date: '2010-03-24T00:19:46-05:00'
 draft: false
 title: "LFG (Looking For Game); decision time."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/24/lfg-looking-for-game-decision-time/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "EVE Online"
   - "EverQuest"
@@ -10,7 +28,16 @@ categories:
   - "Star Trek"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-23-22-23-09-47.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-23-22-23-09-47.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-23-22-23-09-47.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I sat in front of my computer the other night, not really feeling a pull toward any MMO. I was watching Zombieland, and I couldn't think of any MMO that would be more fun than watching the best comedy zombie movie since Shaun of the Dead. Blahblahblah. This isn't a post about quitting MMOs.

@@ -2,8 +2,37 @@
 date: '2007-10-12T02:03:55-05:00'
 draft: false
 title: "Music my sister might like..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/10/12/music-my-sister-might-like/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So every month or so, my sister comes in from New York. I meet her at the train station in New Haven, we spend the night at my apartment and then she and her daughter and I and my son all pile in the VW and head to New ~~Hamster~~ Hampshire to visit our stepmother and any other relatives who forgot to be away that weekend.

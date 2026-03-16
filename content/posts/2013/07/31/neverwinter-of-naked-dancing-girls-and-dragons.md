@@ -2,11 +2,38 @@
 date: '2013-07-31T06:04:50-05:00'
 draft: false
 title: "Neverwinter: Of Dancing Girls and Dragons"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/07/31/neverwinter-of-naked-dancing-girls-and-dragons/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/07/GameClient-2013-07-29-22-49-15-86-480x270.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/07/GameClient-2013-07-29-22-49-15-86-480x270.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/07/GameClient-2013-07-29-22-49-15-86-480x270.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/GameClient-2013-07-29-22-49-15-86-480x270.jpg" title="Garrundar the Vile and friends" class="align-center" >}}

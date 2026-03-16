@@ -2,9 +2,38 @@
 date: '2008-03-11T14:35:55-05:00'
 draft: false
 title: "EQ2: LFG kicked from the raid."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/11/eq2-lfg-kicked-from-the-raid/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The site is loaded right now, so it may be hard to get in, but check it out -- EQ2Flame's LFG was just kicked from the Community Influencer's program, and is [raising hell over it](http://www.eq2flames.com/general-gameplay/22038-how-will.html).

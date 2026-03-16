@@ -2,7 +2,25 @@
 date: '2009-06-01T07:44:09-05:00'
 draft: false
 title: "Daily Blogroll 6/1 -- Almost Summer edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/01/daily-blogroll-61-almost-summer-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "EverQuest"
   - "Free Realms"
@@ -11,7 +29,16 @@ categories:
   - "Vanguard"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/dungeonparty.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/dungeonparty.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/dungeonparty.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Doesn](https://chasingdings.com/wp-content/uploads/2009/06/dungeonparty.jpg "Doesn")

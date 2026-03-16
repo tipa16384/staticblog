@@ -2,11 +2,38 @@
 date: '2010-06-25T19:00:34-05:00'
 draft: false
 title: "Wizard101: 10,000,000 Players, +1"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/06/25/wizard101-10000000-players-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/wizard101emmafinal.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/06/wizard101emmafinal.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/06/wizard101emmafinal.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Wizard101 recently announced their ten millionth player, a not-inconsiderable achievement for a non-free to play game. Even given second or third accounts, millions of people have spent some bit of their lives enjoying the mystic worlds of the Spiral. Tara Windwalker wrote me today to share the sad but somehow joyful story of Emma Elizabeth Bradford, one of those ten million.

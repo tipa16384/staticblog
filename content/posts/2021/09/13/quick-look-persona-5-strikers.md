@@ -2,16 +2,42 @@
 date: '2021-09-13T23:26:33-05:00'
 draft: false
 title: "Quick Look: Persona 5 Strikers"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/13/quick-look-persona-5-strikers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Console Game"
   - "Nintendo Switch"
   - "Switch"
   - "Video Game"
   - "Video Game Series"
-tags:
   - "Persona"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Persona 5, Persona 5 Royal, Persona 5 Dancing in Starlight, and now Persona 5 Strikers. The Persona 5 legacy lives on in this new, action-oriented chapter in the story of Joker & Friends as they seek to save the innocent people of Shibuya, once again.

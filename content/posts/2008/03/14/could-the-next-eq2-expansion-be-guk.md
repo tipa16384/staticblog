@@ -2,9 +2,38 @@
 date: '2008-03-14T10:11:03-05:00'
 draft: false
 title: "Could the next EQ2 expansion be... Guk?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/14/could-the-next-eq2-expansion-be-guk/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Massively [has been running a feature](http://www.massively.com/2008/03/14/part-two-of-eqii-lore-feature-escape-from-guk/) on newly-discovered EQ2 lore dealing with that famous EQ1 dungeon, Guk, the ancient home of the Frogloks.

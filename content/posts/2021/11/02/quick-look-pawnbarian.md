@@ -2,20 +2,46 @@
 date: '2021-11-02T23:31:03-05:00'
 draft: false
 title: "Quick Look: Pawnbarian"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/02/quick-look-pawnbarian/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chess the MMORPG"
   - "Pawnbarian"
   - "Quick Takes"
   - "Rogue-Likes"
   - "Steam Games"
   - "Tactical RPG"
-tags:
   - "Chess"
   - "J4nw"
   - "Steam"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/20211102204800_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/20211102204800_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/20211102204800_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A lot of indie developers of turn-based, tactical RPGs were strutting their stuff on Twitter yesterday. So wait a second -- Pawnbarian is a card based tactical strategy puzzle RPG? And the hero moves like chess pieces? That you can upgrade? [And there's a *demo*?](https://store.steampowered.com/app/1142080/Pawnbarian/)

@@ -2,12 +2,38 @@
 date: '2020-07-27T11:32:54-05:00'
 draft: false
 title: "Ghost of Tsushima: Act III complete. (Spoilers!)"
-categories:
-  - "PS4"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/07/27/ghost-of-tsushima-act-iii-complete-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "PS4"
   - "Ghost of Tsushima"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200726212441.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200726212441.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200726212441.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Since at least the thumbnail to this post will be shared where people who have not completed Ghost of Tsushima will see it, I headed this with a picture of Jin and Yuna limping together off the battlefield after the final battle with the Khan. But, it was clear from almost the beginning of Act II that this game would not have a happy ending.

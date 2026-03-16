@@ -2,15 +2,40 @@
 date: '2024-05-14T06:30:00-05:00'
 draft: false
 title: "HeroQuest: Barak Tor - The Barrow of the Witch Lord"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/14/heroquest-barak-tor-the-barrow-of-the-witch-lord/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We're nearing the end of the first HeroQuest campaign... and we're up against an undefeatable lich. Should be fun."
-categories:
+description: "We're nearing the end of the first HeroQuest campaign... and we're up against an undefeatable lich. Should be fun."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "Rogue"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/barrow-12.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/barrow-12.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/barrow-12.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 What with one thing and another, we haven't played HeroQuest for a long time. And we're so close! In this twelfth of fourteen missions in the first campaign, we are finally becoming powerful enough to begin girding for the final fight against the Witch Lord.

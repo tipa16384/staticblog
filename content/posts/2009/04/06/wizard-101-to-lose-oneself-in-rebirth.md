@@ -2,11 +2,38 @@
 date: '2009-04-06T00:44:34-05:00'
 draft: false
 title: "Wizard 101: To lose oneself in Rebirth"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/06/wizard-101-to-lose-oneself-in-rebirth/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-16-52-69.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-16-52-69.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-16-52-69.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 *To lose oneself in reverb, in all that is and all that seems. So, ladies, fish and gentlemen, here's my angled dream. To see me in the blue sky bag, and meet me by the sea.* -- *Blue Oyster Cult*

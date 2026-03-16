@@ -2,18 +2,43 @@
 date: '2024-05-12T09:59:22-05:00'
 draft: false
 title: "ADVENT: Colossal Cave 3D"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/12/advent-colossal-cave-3d/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Having spent the past several days mapping and exploring the text version, it's finally time to replay Colossal Cave Adventure in glorious 3D."
-categories:
+description: "Having spent the past several days mapping and exploring the text version, it's finally time to replay Colossal Cave Adventure in glorious 3D."
+tags:
   - "Adventure"
   - "EverQuest"
   - "RPG"
   - "Text Adventure Game"
-tags:
   - "Colossal Cave"
   - "Colossal Cave Adventure"
   - "Sierra"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-troll2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/cc-troll2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-troll2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was *really skeptical* when I read that Roberta and Ken Williams of the dearly departed Sierra Online were remaking Crowther and Woods' ADVENT for modern consoles. I'd already *played* it; couldn't they come out with something new? Like a new tech Quest for Glory?

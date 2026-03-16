@@ -2,15 +2,40 @@
 date: '2025-01-21T08:48:50-05:00'
 draft: false
 title: "FANTASIAN Neo Dimension (Part 1)"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/21/fantasian-neo-dimension-part-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A throwback to the classic JRPGs set in handcrafted dioramas, Fantasian Neo Dimension is a love letter to the Final Fantasy series."
-categories:
+description: "A throwback to the classic JRPGs set in handcrafted dioramas, Fantasian Neo Dimension is a love letter to the Final Fantasy series."
+tags:
   - "Final Fantasy"
   - "PS5"
   - "Turn-Based Rpgs"
-tags:
   - "Fantasian Neo Dimension"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There was a point this last weekend where I decided I'd had enough Neo Dimension and would just be starting a new game with the dimensions I already had at home. The grind was getting to be too much. Then I unlocked more of the "growth tree" and was able to start shaping the characters more to my liking, and suddenly, things began to look up.

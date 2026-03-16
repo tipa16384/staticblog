@@ -2,17 +2,42 @@
 date: '2024-08-10T08:00:00-05:00'
 draft: false
 title: "AI has transformed the way I code"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/10/ai-has-transformed-the-way-i-code/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it's here to stay."
-categories:
+description: "Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it's here to stay."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Generative AI"
-tags:
   - "Copilot"
   - "Github"
   - "Waffle"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/copilot.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/copilot.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/copilot.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Large Language Models (LLMs) can generate art, but I am not an artist, it isn't coming for me. They can write, but I am not a writer, I'm not affected. They can code... and there's where I come in.

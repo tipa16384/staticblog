@@ -2,18 +2,44 @@
 date: '2008-07-16T07:13:38-05:00'
 draft: false
 title: "EQ: Tower of Frozen Shadow, floors 2 and 3."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/16/eq-tower-of-frozen-shadow-floors-2-and-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Enraged Librarian"
   - "Lord Nagafen"
   - "Nagafen"
   - "Shadow Armor"
   - "Tower of Frozen Shadow"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Walking armor on floor 3 of the Tower of Frozen Shadow](https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-15-22-00-20-56.jpg "eqgame-2008-07-15-22-00-20-56")

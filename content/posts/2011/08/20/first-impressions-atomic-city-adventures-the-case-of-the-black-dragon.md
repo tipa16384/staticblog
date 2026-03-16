@@ -2,10 +2,37 @@
 date: '2011-08-20T20:41:04-05:00'
 draft: false
 title: "First impressions: Atomic City Adventures: The Case of the Black Dragon"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/08/20/first-impressions-atomic-city-adventures-the-case-of-the-black-dragon/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89-480x384.jpg "Kyoto Industries logo")](https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89.jpg)

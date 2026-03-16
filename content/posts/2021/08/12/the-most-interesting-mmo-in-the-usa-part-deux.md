@@ -2,16 +2,42 @@
 date: '2021-08-12T23:42:37-05:00'
 draft: false
 title: "The Most Interesting MMO in the USA, Part Deux."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/12/the-most-interesting-mmo-in-the-usa-part-deux/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "MMORPG"
-tags:
   - "Coding"
   - "Python"
   - "Pytrends"
   - "Runescape"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/RuneScape_Android_Screen_4.0.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/RuneScape_Android_Screen_4.0.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/RuneScape_Android_Screen_4.0.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've just spent the entire night with my hands deep in the guts of the Google Trends API and the Python package that calls it. I've even sprinkled in Google Suggested Searches to sweeten the search. I've implemented a quick sort algorithm. My boyfriend was helping debug the program. But no matter what I do, the answer always comes out the same.

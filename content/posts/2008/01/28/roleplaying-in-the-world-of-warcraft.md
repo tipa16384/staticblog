@@ -2,11 +2,38 @@
 date: '2008-01-28T09:11:42-05:00'
 draft: false
 title: "Roleplaying in the World of Warcraft"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/28/roleplaying-in-the-world-of-warcraft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/images/darn.jpg"
-cover: "https://chasingdings.com/images/darn.jpg"
+cover:
+  image: "https://chasingdings.com/images/darn.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The AB roleplay channel last night was filled with people getting ready for Erollisi's Day, and while Stargrace and I were talking about how the denizens of Norrath enjoyed their holidays, I couldn't help thinking back to what was once the World of Warcraft's newest roleplaying server, Kirin Tor, where I played both a husband-hungry troll priestess and a Horde-sympathizing gnome rogue.

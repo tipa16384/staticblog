@@ -2,7 +2,25 @@
 date: '2009-07-20T07:30:46-05:00'
 draft: false
 title: "Daily Blogroll 7/20 - Much Ado about Nothing edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/20/daily-blogroll-720/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "Champions Online"
   - "City of Heroes"
@@ -14,7 +32,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/LaTaleClient-2009-07-18-15-50-33-45.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/LaTaleClient-2009-07-18-15-50-33-45.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/LaTaleClient-2009-07-18-15-50-33-45.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Can](https://chasingdings.com/wp-content/uploads/2009/07/LaTaleClient-2009-07-18-15-50-33-45.jpg "Can")

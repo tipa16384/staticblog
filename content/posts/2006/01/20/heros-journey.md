@@ -2,8 +2,37 @@
 date: '2006-01-20T00:00:00-05:00'
 draft: false
 title: "Hero&#039;s Journey"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/01/20/heros-journey/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Well, if Sigil doesn't hire me (/target tipa; /powerword: hireme-aura), I can do the same thing for free for [Hero's Journey](http://www.play.net/hj/). That's that MMO with huge customization - look the way you want, what your clothes look like doesn't affect your abilities - like City of Heroes. It looks really slick.

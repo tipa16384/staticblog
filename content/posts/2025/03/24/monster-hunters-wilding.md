@@ -2,18 +2,43 @@
 date: '2025-03-24T08:19:36-05:00'
 draft: false
 title: "Monster Hunters Wilding"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/03/24/monster-hunters-wilding/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I like to think of the Monster Hunter series being set in the same world as the Pokemon games."
-categories:
+description: "I like to think of the Monster Hunter series being set in the same world as the Pokemon games."
+tags:
   - "Final Fantasy"
   - "MMORPG"
   - "Monster Hunter"
   - "Pokemon"
   - "PS5"
-tags:
   - "Monster Hunter Wilds"
   - "Monster Hunter World"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/mhwildsbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/03/mhwildsbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/03/mhwildsbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm taking a break from Sword for Hire. I will finish it. I know everything I need to do. I just need a break.

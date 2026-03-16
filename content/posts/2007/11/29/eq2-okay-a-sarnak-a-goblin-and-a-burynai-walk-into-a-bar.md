@@ -2,11 +2,38 @@
 date: '2007-11-29T07:47:01-05:00'
 draft: false
 title: "EQ2: Okay, a Sarnak, a Goblin and a Burynai walk into a bar..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/29/eq2-okay-a-sarnak-a-goblin-and-a-burynai-walk-into-a-bar/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-28-21-44-29-09.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-28-21-44-29-09.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-28-21-44-29-09.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![everquest2-2007-11-28-21-44-29-09.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-28-21-44-29-09.jpg)

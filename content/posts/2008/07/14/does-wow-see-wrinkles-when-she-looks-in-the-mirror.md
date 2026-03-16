@@ -2,7 +2,25 @@
 date: '2008-07-14T08:44:21-05:00'
 draft: false
 title: "Does WoW see wrinkles when she looks in the mirror?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/14/does-wow-see-wrinkles-when-she-looks-in-the-mirror/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Dark Ages of Camelot"
   - "EverQuest"
@@ -10,6 +28,17 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have nothing against old MMOs. In  fact, I spend most of my time in [one of the oldest](http://nostalgiatheguild.org). But I know that EQ is old, and I play it now not to see new things, but just to reminisce about all the good times I had in it.

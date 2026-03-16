@@ -2,18 +2,43 @@
 date: '2023-02-04T21:00:56-05:00'
 draft: false
 title: "I Was Trapped in a Closet and Forced to Play Skyrim"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/02/04/i-was-trapped-in-a-closet-and-forced-to-play-skyrim/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I mean, there must be some reason why I was unable to play any other game until I played through Skyrim and all three of its expansions..."
-categories:
+description: "I mean, there must be some reason why I was unable to play any other game until I played through Skyrim and all three of its expansions..."
+tags:
   - "Open World RPG"
   - "Skyrim"
-tags:
   - "Bethesda"
   - "Dawnguard"
   - "Dlc"
   - "Dragonborn"
   - "Fus-Ro-Da"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/02/skyrim.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/02/skyrim.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/02/skyrim.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was trapped in a closet by Skyrim, and the only way I could possibly escape was to play through the game from beginning to end. From the dragon-botched execution to killing that same dragon outside Valhalla.  From freeing an island of mind controlled miners to defeating the previous minion of the evil god of knowledge to take his place. From signing up to be a vampire hunter to myself becoming a vile, undead monstrosity in order to save the world from an even viler undead monstrosity. From being a Breton on a casual tour of Tamriel to being a married mom living (or rather, unliving) well in Windhelm.

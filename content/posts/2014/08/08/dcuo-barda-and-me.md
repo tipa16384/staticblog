@@ -2,11 +2,38 @@
 date: '2014-08-08T21:02:56-05:00'
 draft: false
 title: "DCUO: Barda and Me"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/08/08/dcuo-barda-and-me/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://lh5.googleusercontent.com/-aCNtFiTGYmQ/U-Skd9f3oKI/AAAAAAAAzD8/UA7LvdKv4Q4/w684-h513-no/MHQS103_AUDIO-PC-08-00.16.380.jpg"
-cover: "https://lh5.googleusercontent.com/-aCNtFiTGYmQ/U-Skd9f3oKI/AAAAAAAAzD8/UA7LvdKv4Q4/w684-h513-no/MHQS103_AUDIO-PC-08-00.16.380.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-aCNtFiTGYmQ/U-Skd9f3oKI/AAAAAAAAzD8/UA7LvdKv4Q4/w684-h513-no/MHQS103_AUDIO-PC-08-00.16.380.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Me and Barda](https://lh5.googleusercontent.com/-aCNtFiTGYmQ/U-Skd9f3oKI/AAAAAAAAzD8/UA7LvdKv4Q4/w684-h513-no/MHQS103_AUDIO-PC-08-00.16.380.jpg)

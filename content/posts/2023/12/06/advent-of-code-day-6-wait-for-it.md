@@ -2,16 +2,41 @@
 date: '2023-12-06T21:21:22-05:00'
 draft: false
 title: "Advent of Code Day 6 -- Wait For It"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/06/advent-of-code-day-6-wait-for-it/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This one was easy. TOO easy. Day 7 is going to be bad."
-categories:
-  - "Advent of Code"
+description: "This one was easy. TOO easy. Day 7 is going to be bad."
 tags:
+  - "Advent of Code"
   - "Advent"
   - "AoC2023"
   - "Basic"
   - "Elf"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-06-20.55.25-A-whimsical-and-vibrant-scene-depicting-an-island-with-a-small-ferry-dock-and-numerous-toy-boats-ready-for-a-race.-The-island-is-surrounded-by-water-a.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-06-20.55.25-A-whimsical-and-vibrant-scene-depicting-an-island-with-a-small-ferry-dock-and-numerous-toy-boats-ready-for-a-race.-The-island-is-surrounded-by-water-a.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-06-20.55.25-A-whimsical-and-vibrant-scene-depicting-an-island-with-a-small-ferry-dock-and-numerous-toy-boats-ready-for-a-race.-The-island-is-surrounded-by-water-a.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Already a quarter of the way through AoC! I'm taking off the week before Christmas so that I can burn some of my unused vacation time and maybe work on some of the really gnarly puzzles I know are coming.

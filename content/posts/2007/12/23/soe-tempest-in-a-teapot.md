@@ -2,9 +2,38 @@
 date: '2007-12-23T08:12:49-05:00'
 draft: false
 title: "SOE: Tempest in a Teapot"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/23/soe-tempest-in-a-teapot/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Last night while recovering from a wipe, I was browsing my RSS feeds and was stunned by Ogrebear' story that [SOE was to be bought out](http://ogrebear.com/?p=325) by an Indian entertainment company, Zapak. That spread throughout the blogosphere by wildfire, and even to the people at SOE, who hadn't heard about this, frantically e-mailed John Smedley about it, and found out, as we all did, that [the rumor was false](http://www.massively.com/2007/12/23/john-smedley-sony-online-is-not-getting-purchased-by-zapak/).

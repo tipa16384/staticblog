@@ -2,11 +2,38 @@
 date: '2013-04-22T07:06:12-05:00'
 draft: false
 title: "DCUO: Still the Walrus"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/04/22/dcuo-still-the-walrus/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-22.33.210-480x342.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-22.33.210-480x342.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-22.33.210-480x342.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-22.33.210-480x342.jpg" title="Return to Oolong Island" class="align-center" >}}

@@ -2,11 +2,38 @@
 date: '2010-03-04T08:38:53-05:00'
 draft: false
 title: "Dungeons & Dragons Online Playthrough: The Waterworks"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/04/dungeons-dragons-online-playthrough-the-waterworks/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-03-21-53-42-89-480x385.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-03-21-53-42-89-480x385.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-03-21-53-42-89-480x385.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Even if you have a static group in Dungeons & Dragons Online, it's a good idea to familiarize yourself with the dungeons by trying them yourself on the casual or normal settings. If nobody in the group is a subscriber (as none of the people in my group are), then SOMEONE has to have done it at least once so that the group difficulties -- hard and elite -- open.

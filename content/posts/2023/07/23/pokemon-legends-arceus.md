@@ -2,13 +2,37 @@
 date: '2023-07-23T22:55:18-05:00'
 draft: false
 title: "Pokémon Legends: Arceus"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/07/23/pokemon-legends-arceus/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Step into an ancient and treacherous world where Pokémon reign as wild and untamed forces, embark on a perilous quest, and discover why Pokémon Legends: Arceus delivers the most daring and immersive Pokémon experience yet!"
-categories:
-  - "Pokemon"
+description: "Step into an ancient and treacherous world where Pokémon reign as wild and untamed forces, embark on a perilous quest, and discover why Pokémon Legends: Arceus delivers the most daring and immersive Pokémon experience yet!"
 tags:
   - "Pokemon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/07/1-snapedit_1690161413949.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/07/1-snapedit_1690161413949.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/07/1-snapedit_1690161413949.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 When Pokémon Legends: Arceus came out a couple years ago, I heard a lot about it. It seemed primitive, without all the quality of life updates that have come to the Pokémon games over the decades. The screen shots seemed low poly. People were throwing around words like "MMO-like" and "open world", but that was said about Pokémon Scarlet/Violet, too, and those were very much like open world MMOs.

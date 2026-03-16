@@ -2,17 +2,42 @@
 date: '2023-12-15T07:00:00-05:00'
 draft: false
 title: "Advent of Code Day 14 -- Parabolic Reflector Dish"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/15/advent-of-code-day-14-parabolic-reflector-dish/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We're almost to the mountaintop where everything begins... but first we need to start a little fire."
-categories:
-  - "Advent of Code"
+description: "We're almost to the mountaintop where everything begins... but first we need to start a little fire."
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Cycle Detection Algorithm"
   - "Mirrors"
   - "Python"
   - "Volcano"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-14-21.53.41-A-wall-of-mirrors-attached-to-a-cliff-face-on-the-left-side-of-the-image-with-a-dormant-volcano-in-the-background-steaming.-The-sun-is-setting-over-.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-14-21.53.41-A-wall-of-mirrors-attached-to-a-cliff-face-on-the-left-side-of-the-image-with-a-dormant-volcano-in-the-background-steaming.-The-sun-is-setting-over-.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-14-21.53.41-A-wall-of-mirrors-attached-to-a-cliff-face-on-the-left-side-of-the-image-with-a-dormant-volcano-in-the-background-steaming.-The-sun-is-setting-over-.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So, you've reached your destination, and the dormant volcano is in front of you. Something needs to be done to turn it back *on*, though. Maybe that conveniently placed giant multi-segment parabolic mirror could be of some help?

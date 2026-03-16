@@ -2,12 +2,39 @@
 date: '2006-08-01T13:26:42-05:00'
 draft: false
 title: "The End in Sight"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/08/01/the-end-in-sight/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/080106chamberlain.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/08/080106chamberlain.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/08/080106chamberlain.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Chamberlain in the Nest](https://chasingdings.com/wp-content/uploads/2006/08/080106chamberlain.jpg)I have to be honest -- I'm a bit ambivalent about reaching level 70 (soon; level 66 at the moment). On one hand - I no longer *have* to get experience. On the other hand, it's either raid or stagnate or work on alts.

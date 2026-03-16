@@ -2,9 +2,38 @@
 date: '2006-01-16T00:00:00-05:00'
 draft: false
 title: "Nationstates Update"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/01/16/nationstates-update/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Nationstates"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My economy was crumbling, people were unhappy: I had to make deals with big business. My utopian vision of a [Dryroot](http://www.nationstates.net/dryroot) where free peoples sustain themselves in small, nomadic communities became a relic that had to be abandoned. The environment is still wonky, led, I suspect, by pollution from nearby industrial nations, but I will work on that when I can.

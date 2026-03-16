@@ -2,10 +2,37 @@
 date: '2022-03-07T06:54:53-05:00'
 draft: false
 title: "7DRL 2022 Day 1: Intro"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/07/7drl-2022-day-1-intro/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/amuletintro.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/amuletintro.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/amuletintro.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yesterday was the day I officially started the 7DRL 2022 "Build a Roguelike in 7 Days" challenge. I can now reveal the game concept....

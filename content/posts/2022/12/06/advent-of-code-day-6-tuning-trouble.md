@@ -2,15 +2,40 @@
 date: '2022-12-06T21:49:59-05:00'
 draft: false
 title: "Advent of Code Day 6 -- Tuning Trouble"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/06/advent-of-code-day-6-tuning-trouble/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "What is probably the first puzzle in the theme for the rest of Advent of Code started today... with the easiest puzzle so far."
-categories:
-  - "Advent of Code"
+description: "What is probably the first puzzle in the theme for the rest of Advent of Code started today... with the easiest puzzle so far."
 tags:
+  - "Advent of Code"
   - "Advent"
   - "Java"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-06-21.33.38-Christmas-elves-trying-to-fix-a-broken-radio-in-the-style-of-Bob-Eggleton-detailed-and-intricate.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-06-21.33.38-Christmas-elves-trying-to-fix-a-broken-radio-in-the-style-of-Bob-Eggleton-detailed-and-intricate.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-06-21.33.38-Christmas-elves-trying-to-fix-a-broken-radio-in-the-style-of-Bob-Eggleton-detailed-and-intricate.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's been a rough day for me in real life. I have a potentially terrible family issue, and the plumber says it's going to cost $10,000 to fix our pipe out to the city sewer. Which is too bad, because in a better day, I'd have just the game to write for [today's puzzle challenge](https://adventofcode.com/2022/day/6).

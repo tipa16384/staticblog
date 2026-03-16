@@ -2,11 +2,38 @@
 date: '2020-09-29T07:49:04-05:00'
 draft: false
 title: "A Mystery Blogger asks: Which game would you kill? I laugh, and reply..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/29/a-mystery-blogger-asks-which-game-would-you-kill-i-laugh-and-reply/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/photogrid_1476365612975.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/photogrid_1476365612975.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/photogrid_1476365612975.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [Magi over at Indicator](https://indiecator.home.blog/2020/09/27/mystery-blogger-award-nomination/) was tagged by a "Mystery Blogger", and like any good virus, he went on to infect at a "R" value of 10 other bloggers, including me. I know all this cool science virus fact stuff because we are in a pandemic. Yay for the learning.

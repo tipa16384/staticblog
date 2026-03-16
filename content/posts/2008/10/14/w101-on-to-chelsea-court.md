@@ -2,17 +2,42 @@
 date: '2008-10-14T08:38:20-05:00'
 draft: false
 title: "W101: On to Chelsea Court"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/14/w101-on-to-chelsea-court/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Baxter"
   - "Chelsea Court"
   - "Hyde Park"
   - "W101"
-  - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Kinda embarrassed to have fallen asleep while grouping with Kasul in Chardok last night. Sorry, Kasul :( It was weird, though. Wake up, at the keyboard, no idea how long you've been out... I just shut down the computer and went to bed.

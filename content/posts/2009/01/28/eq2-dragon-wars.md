@@ -2,16 +2,42 @@
 date: '2009-01-28T08:00:33-05:00'
 draft: false
 title: "EQ2: Dragon Wars"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/28/eq2-dragon-wars/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Nexona"
   - "Silverwing"
   - "Taskmaster"
   - "Veeshan's Peak"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg "wizardgraphicalclient-2009-01-25-00-13-31-29")

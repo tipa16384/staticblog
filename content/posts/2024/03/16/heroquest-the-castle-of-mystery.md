@@ -2,20 +2,45 @@
 date: '2024-03-16T10:07:26-05:00'
 draft: false
 title: "HeroQuest: The Castle of Mystery"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/03/16/heroquest-the-castle-of-mystery/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This teleporting puzzle box separated the heroes across a deadly dungeon. How many would survive to escape?"
-categories:
+description: "This teleporting puzzle box separated the heroes across a deadly dungeon. How many would survive to escape?"
+tags:
   - "Frosthaven"
   - "Game Night"
   - "HeroQuest"
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "Guild Wars 2"
   - "Palworld"
   - "Sword of Mana"
   - "Unicorn Overlord"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/castleofmystery.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/03/castleofmystery.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/03/castleofmystery.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Hi, sorry for taking so long to blog again. There has been a lot of gaming going on, but also a lot of real-life stuff, including and especially my employer mandating I return to the office. This means more time spent commuting, less time spent writing.

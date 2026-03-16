@@ -2,12 +2,38 @@
 date: '2025-11-29T08:00:00-05:00'
 draft: false
 title: "Return to Erenshor"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/29/return-to-erenshor/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's been a few months since I last played, and now there's been a change that makes the wait worthwhile."
-categories:
+description: "It's been a few months since I last played, and now there's been a change that makes the wait worthwhile."
+tags:
   - "Erenshor"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/1-20251128220305_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/1-20251128220305_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/1-20251128220305_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A lot of old EverQuest players, myself included, look back at the first days of that MMO with a certain bit of nostalgia that blinds us to the flaws in the game. EQ wasn't the only MMO or even the first MMO, but it was the MMO that set the template for what the genre would become.

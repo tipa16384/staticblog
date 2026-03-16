@@ -2,25 +2,49 @@
 date: '2022-07-31T14:28:30-05:00'
 draft: false
 title: "Welcome to Blaugust 2022: 31 game ideas from AI"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This article is about the author's plan to use AI to help write their blog posts for Blaugust."
-categories:
+description: "This article is about the author's plan to use AI to help write their blog posts for Blaugust."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "First Person Shooter"
   - "Isometric Tactical Strategy"
   - "Midjourney"
   - "Supernatural Horror"
-tags:
   - "AI"
   - "Author"
-  - "Blaugust"
   - "Blogging"
   - "Craiyon"
   - "Dall-E 2"
   - "Generate Ideas"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/blaugust2022.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/blaugust2022.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/blaugust2022.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So for *this* Blaugust, I'm going to do something different. I'm not going to write most of the posts. I'm not going to take screenshots. I'm not going to do much at all. I'm just going to sit back and watch what happens as Artificial Intelligence takes over Chasing Dings!

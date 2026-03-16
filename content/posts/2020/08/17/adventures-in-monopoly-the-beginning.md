@@ -2,13 +2,39 @@
 date: '2020-08-17T17:34:20-05:00'
 draft: false
 title: "Adventures in Monopoly: The Beginning"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/17/adventures-in-monopoly-the-beginning/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Adventures in Monopoly"
   - "Comic"
-tags:
   - "Monopoly"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/panel1-redo.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/panel1-redo.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/panel1-redo.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A long, long time ago, I got a shiny metal bear in an EverQuest 2 expansion box. I kinda thought it looked like it could be a piece to a Monopoly game, so I took out my Monopoly board and played around with it a little... and the characters took on a life of their own.

@@ -2,11 +2,37 @@
 date: '2025-11-10T08:14:05-05:00'
 draft: false
 title: "Does AI need to be in EVERYTHING?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/10/does-ai-need-to-be-in-everything/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Billionaires want you to become so dependent on AI that they finally get what they really want -- complete control over your life."
-categories:
+description: "Billionaires want you to become so dependent on AI that they finally get what they really want -- complete control over your life."
+tags:
   - "Generative AI"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/monopoly.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/monopoly.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/monopoly.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Gonna say right up front that I use AI. I use it as a tool in writing, to catch spelling or grammatical errors. I use it in coding to do the boring bits, like file parsing and stuff so that I can focus on the creative bits. I generate images using AI. And, at work I am *required* to use AI. Really. I get marked down if I don't use it enough.

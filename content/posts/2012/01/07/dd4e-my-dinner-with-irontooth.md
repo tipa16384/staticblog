@@ -2,11 +2,38 @@
 date: '2012-01-07T01:39:30-05:00'
 draft: false
 title: "D&D4E: My Dinner with Irontooth"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/01/07/dd4e-my-dinner-with-irontooth/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "D&D 4e"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/yoirontooth.png"
-cover: "https://chasingdings.com/wp-content/uploads/2012/01/yoirontooth.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/01/yoirontooth.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2012/01/yoirontooth.png "Yo! Irontooth!")](https://chasingdings.com/wp-content/uploads/2012/01/yoirontooth.png)

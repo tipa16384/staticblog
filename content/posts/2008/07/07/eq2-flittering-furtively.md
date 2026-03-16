@@ -2,12 +2,39 @@
 date: '2008-07-07T08:14:14-05:00'
 draft: false
 title: "EQ2: Flittering furtively"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/07/eq2-flittering-furtively/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't blogged about EQ2 in about a month from never. Not because I haven't been playing it -- I have -- but just because I haven't really been doing anything of interest. Running around, exploring. Being without a guild on my main characters tends to limit the time I spend on them, since EQ2 is a group-based game at all levels but especially so at higher levels, and without friends to group with, there's little incentive to log in. Part of that is due to having two jobs and entirely unable to devote the time to a raiding guild that would be required, since raid guilds are themselves a second (unpaid) job. I suppose a casual guild is the best thing I could hope for, but -- I LOVE RAiDING. Logging in and NOT raiding would make me sad.

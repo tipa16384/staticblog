@@ -2,17 +2,42 @@
 date: '2023-12-11T07:49:29-05:00'
 draft: false
 title: "Advent of Code Day 11 -- Cosmic Expansion"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/11/advent-of-code-day-11-cosmic-expansion/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This is why Santa shouldn't let elves do astrophysics."
-categories:
-  - "Advent of Code"
+description: "This is why Santa shouldn't let elves do astrophysics."
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Cosmology"
   - "Observatory"
   - "Starry Starry Night"
   - "Telescope"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After yesterday, I was hoping for an easier puzzle, and we got an easier puzzle.

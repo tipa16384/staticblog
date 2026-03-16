@@ -2,18 +2,42 @@
 date: '2025-03-31T12:48:32-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/03/31/i-know-what-i-did-last-weekend-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O' STUFF."
-categories:
+description: "Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O' STUFF."
+tags:
   - "Gloomhaven"
   - "Pokemon"
   - "Steam Games"
-tags:
   - "A Dark Room"
   - "Arcade Paradise"
-  - "Pokemon"
   - "Sword for Hire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/arcadeparadisebanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/03/arcadeparadisebanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/03/arcadeparadisebanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 First up, I get so many spam comments in Russian on my blog. Do they think I speak Russian? If I let those comments through, would they only be read by other Russian scammers?

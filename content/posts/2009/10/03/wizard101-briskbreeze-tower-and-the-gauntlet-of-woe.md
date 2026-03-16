@@ -2,11 +2,38 @@
 date: '2009-10-03T22:32:35-05:00'
 draft: false
 title: "Wizard101: Briskbreeze Tower and the Gauntlet of Woe"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/03/wizard101-briskbreeze-tower-and-the-gauntlet-of-woe/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66-480x360.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66-480x360.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66-480x360.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Ever wondered what kind of tricks KingsIsle has in store for those brave enough to step into their new instance?

@@ -2,17 +2,43 @@
 date: '2023-08-10T07:00:00-05:00'
 draft: false
 title: "Quick Look: Phaser Game Engine"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/10/quick-look-phaser-game-engine/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "Aws"
   - "Godot"
   - "Javascript"
   - "Othello"
   - "Phaser"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/gameover.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/gameover.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/gameover.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've been spending a few hours trying to get this Asteroids clone to some sort of playable state. Since I haven't really done anything else blog-worthy today, I guess we're talking about Phaser.

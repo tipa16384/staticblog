@@ -2,11 +2,38 @@
 date: '2013-05-03T07:05:19-05:00'
 draft: false
 title: "EQ2: Scars of the Awakened, Part 2"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/05/03/eq2-scars-of-the-awakened-part-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-02-23-30-43-53-480x342.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-02-23-30-43-53-480x342.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-02-23-30-43-53-480x342.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-02-23-30-43-53-480x342.jpg" title="Siren's Grotto: Tavalan Abyss" class="align-center" >}}

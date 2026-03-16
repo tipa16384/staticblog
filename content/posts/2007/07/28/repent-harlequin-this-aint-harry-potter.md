@@ -2,10 +2,37 @@
 date: '2007-07-28T11:34:55-05:00'
 draft: false
 title: "Repent, Harlequin! This ain't Harry Potter..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/07/28/repent-harlequin-this-aint-harry-potter/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Sci Fi"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/07/repent.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/07/repent.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/07/repent.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![repent.jpg](https://chasingdings.com/wp-content/uploads/2007/07/repent.jpg)

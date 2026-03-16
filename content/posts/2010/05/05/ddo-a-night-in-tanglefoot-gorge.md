@@ -2,11 +2,38 @@
 date: '2010-05-05T23:50:17-05:00'
 draft: false
 title: "DDO: A night in Tangleroot Gorge"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/05/ddo-a-night-in-tanglefoot-gorge/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg "Deep in a dungeon")](https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg)

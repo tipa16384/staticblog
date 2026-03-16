@@ -2,9 +2,26 @@
 date: '2020-10-12T08:52:12-05:00'
 draft: false
 title: "Ogre Battle: The Tastiest Mermaids are the Ones You Catch Yourself"
-categories:
-  - "Super Nintendo"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/12/ogre-battle-the-tastiest-mermaids-are-the-ones-you-catch-yourself/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Super Nintendo"
   - "Island Avalon"
   - "Kastolatian Sea"
   - "Ogre Battle"
@@ -12,7 +29,16 @@ tags:
   - "Snes"
   - "The March of the Black Queen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The first time I tried to play Ogre Battle: The March of the Black Queen, I didn't know how there could be any sort of strategy or planning when every map was just continually battling enemies that are continually attacking you.

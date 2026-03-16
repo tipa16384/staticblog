@@ -2,7 +2,25 @@
 date: '2011-10-12T05:00:25-05:00'
 draft: false
 title: "Daily Blogroll Oct 12: No time for heroes edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Adventureville"
   - "Daily Blogroll"
   - "Facebook Games"
@@ -10,7 +28,16 @@ categories:
   - "Star Wars the Old Republic"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/castleville.png"
-cover: "https://chasingdings.com/wp-content/uploads/2011/10/castleville.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/10/castleville.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/castleville.png" title="Magic Castle for Sale: Sold!" class="align-center" >}}

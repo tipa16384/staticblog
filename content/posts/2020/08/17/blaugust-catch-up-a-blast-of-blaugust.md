@@ -2,12 +2,37 @@
 date: '2020-08-17T08:40:23-05:00'
 draft: false
 title: "Blaugust Catch-Up: A Blast of Blaugust!"
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/17/blaugust-catch-up-a-blast-of-blaugust/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/81940886-cartoon-illustration-of-ketchup-super-hero-saving-the-day.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/81940886-cartoon-illustration-of-ketchup-super-hero-saving-the-day.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/81940886-cartoon-illustration-of-ketchup-super-hero-saving-the-day.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Using a stock photo with a watermark makes me feel like the [Spiffing Brit](https://www.youtube.com/channel/UCRHXUZ0BxbkU2MYZgsuFgkQ). I've been gaming for a few days and not blogging, so I've really fallen behind on Blaugust. Even though I'm not an official participant, I've been enjoying reading people's posts and taking part :-)

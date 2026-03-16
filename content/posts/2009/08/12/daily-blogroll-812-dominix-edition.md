@@ -2,7 +2,25 @@
 date: '2009-08-12T07:45:14-05:00'
 draft: false
 title: "Daily Blogroll 8/12 - Dominix edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/08/12/daily-blogroll-812-dominix-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "Daily Blogroll"
   - "EVE Online"
@@ -12,7 +30,16 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![It looks better on the inside.](https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg "It looks better on the inside.")

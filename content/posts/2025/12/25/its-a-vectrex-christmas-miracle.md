@@ -2,18 +2,43 @@
 date: '2025-12-25T15:12:24-05:00'
 draft: false
 title: "It's a Vectrex Christmas Miracle!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/25/its-a-vectrex-christmas-miracle/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Also Nintendo 64 and... EverQuest II? Yes, EQ2."
-categories:
+description: "Also Nintendo 64 and... EverQuest II? Yes, EQ2."
+tags:
   - "EverQuest"
   - "Nintendo 64"
   - "Vectrex"
-tags:
   - "Clean Sweep"
   - "Cosmic Chasm"
   - "Lost Worlds"
   - "Viewpoint"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5584-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5584-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5584-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Before we get into it, an updated on the 3D-printed puzzle box I predicted my grandson would not be able to open.

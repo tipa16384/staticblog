@@ -2,11 +2,38 @@
 date: '2012-04-09T22:24:26-05:00'
 draft: false
 title: "W101: The Puzzle revealed -- the Rise of Avalon!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/04/09/w101-the-puzzle-revealed-the-rise-of-avalon/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/04/Avalon-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/04/Avalon-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/04/Avalon-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/04/Avalon-480x384.jpg" title="Avalon" class="align-center" >}}

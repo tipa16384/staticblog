@@ -2,15 +2,41 @@
 date: '2008-08-14T01:30:15-05:00'
 draft: false
 title: "A first look at Cronous"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/14/a-first-look-at-cronous/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Cronous"
   - "MMORPG"
   - "Mythos"
-tags:
   - "Diablo"
   - "Dungeon Runners"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/game-2008-08-14-00-29-26-79.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/game-2008-08-14-00-29-26-79.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/game-2008-08-14-00-29-26-79.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/08/game-2008-08-14-00-29-26-79.jpg "game-2008-08-14-00-29-26-79")

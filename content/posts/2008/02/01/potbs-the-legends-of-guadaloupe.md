@@ -2,11 +2,38 @@
 date: '2008-02-01T13:02:10-05:00'
 draft: false
 title: "PotBS: The Legends of Guadaloupe"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/02/01/potbs-the-legends-of-guadaloupe/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Pirates of the Burning Sea"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-01-00-20-36-47.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-01-00-20-36-47.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-01-00-20-36-47.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![potbs-2008-02-01-00-20-36-47.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-01-00-20-36-47.jpg)

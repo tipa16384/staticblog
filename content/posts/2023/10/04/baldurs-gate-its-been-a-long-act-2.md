@@ -2,15 +2,40 @@
 date: '2023-10-04T19:19:26-05:00'
 draft: false
 title: "Baldur's Gate: It's been a long Act 2"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/10/04/baldurs-gate-its-been-a-long-act-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I always do this. I get so wrapped up in a game that I forget to write about it, and when I try to write about it, there's too much!"
-categories:
+description: "I always do this. I get so wrapped up in a game that I forget to write about it, and when I try to write about it, there's too much!"
+tags:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
   - "PS5"
-tags:
   - "Crippling Failure"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/daveinvestmentbanker.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/10/daveinvestmentbanker.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/10/daveinvestmentbanker.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So what's happening now is, I'm in the Gauntlet of Shar, having done the trials, met one of the three Wise Men from Orient Are, and now I am on the hunt to kill a devil that some other devil wants dead, because Astarion thinks he's not working for Devil #2, even though he totally is.

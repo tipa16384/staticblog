@@ -2,11 +2,38 @@
 date: '2007-11-20T10:16:10-05:00'
 draft: false
 title: "EQ2: Dera and Dina's Travels Through Kunark"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/20/eq2-dera-and-dinas-travels-through-kunark/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-18-20-30-45-54.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-18-20-30-45-54.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-18-20-30-45-54.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![everquest2-2007-11-18-20-30-45-54.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-18-20-30-45-54.jpg)

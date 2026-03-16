@@ -2,11 +2,38 @@
 date: '2010-04-19T21:18:36-05:00'
 draft: false
 title: "IP-based MMOs: Part 4 (of 5)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/19/ip-based-mmos-part-4-of-5/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4192010-72359-AM-225x225.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4192010-72359-AM-225x225.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4192010-72359-AM-225x225.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 IP-based games have a significant downside. If someone doesn't like, say, the *Twilight* books and movies, news of your new [*Twilight* MMO](http://www.massively.com/2009/07/28/theres-a-er-twilight-mmo-coming/) isn't going to get them excited. Or even worse -- the game could be so focused on shoehorning every bit of the IP into the game that it forgets to build any fun in; ALL it is, is the IP. This has long been a weakness for IP-based videogames from the Empire Strikes Back Atari 2600 cartridge way back in the 80s. You just kept shooting AT-AT walkers on Hoth, again and again and again.

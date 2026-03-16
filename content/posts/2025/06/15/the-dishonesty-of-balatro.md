@@ -2,15 +2,40 @@
 date: '2025-06-15T10:00:00-05:00'
 draft: false
 title: "The Dishonesty of Balatro"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/06/15/the-dishonesty-of-balatro/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Now that I have finally won the game, I have some thoughts..."
-categories:
+description: "Now that I have finally won the game, I have some thoughts..."
+tags:
   - "Arcade Game"
   - "Card Games"
   - "PS5"
-tags:
   - "Balatro"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's a kind of video game that claims to be *one* sort of game, but is actually a very different kind of game once you get into it. *Inscryption*, for instance, pretends to be a card game, but is actually a weird sort of Blair Witch-type mystery-horror game. *Doki Doki Literature Club* looks to be a pretty standard visual novel dating sim, but turns out to be a story about a video game character who very much doesn't want to be one. *Papers, Please* pretends to be a game about matching patterns, but is actually a story about finding yourself the face of an oppressive government.

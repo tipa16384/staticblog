@@ -2,19 +2,44 @@
 date: '2024-08-22T07:00:00-05:00'
 draft: false
 title: "PS2 RPGs: Quick Reviews"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/22/ps2-rpgs-quick-reviews/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "You're down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?"
-categories:
+description: "You're down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?"
+tags:
   - "Battlestar Galactica"
   - "Blaugust"
   - "Blaugust 2024"
   - "Final Fantasy"
   - "PS2"
-tags:
   - "Avatar"
   - "Avatar the Last Airbender"
   - "Dirge of Cerberus"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I honestly thought I'd talked about a few of these games in the blog, but APPARENTLY NOT, so, here we go.

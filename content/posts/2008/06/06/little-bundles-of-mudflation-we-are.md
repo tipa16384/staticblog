@@ -2,12 +2,39 @@
 date: '2008-06-06T07:34:06-05:00'
 draft: false
 title: "Little bundles of mudflation, we are."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/06/little-bundles-of-mudflation-we-are/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
 featured_image: "http://chasingdings.com/sig/out.png"
-cover: "http://chasingdings.com/sig/out.png"
+cover:
+  image: "http://chasingdings.com/sig/out.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![My sig!](http://chasingdings.com/sig/out.png)

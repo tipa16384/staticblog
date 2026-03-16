@@ -2,7 +2,25 @@
 date: '2009-05-06T08:36:55-05:00'
 draft: false
 title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "Daily Blogroll"
   - "Darkfall"
@@ -17,7 +35,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My new computer is due to be delivered today! I'll be at work, of course, but maybe I can finally find their delivery center and pick it up afterward. My hope and fervent dream is that this will be the computer powerful enough to run Lord of the Rings Online....

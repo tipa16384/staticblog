@@ -2,15 +2,39 @@
 date: '2025-10-01T07:37:26-05:00'
 draft: false
 title: "I cancelled my Pokémon TCG Pocket premium subscription"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/01/i-cancelled-my-pokemon-tcg-pocket-premium-subscription/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The latest expansion pack is really a slap in the face of dedicated collectors."
-categories:
+description: "The latest expansion pack is really a slap in the face of dedicated collectors."
+tags:
   - "Card Games"
   - "Mobile Games"
   - "Pokemon"
-tags:
-  - "Pokemon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5411.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5411.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5411.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Some context:

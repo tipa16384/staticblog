@@ -2,15 +2,40 @@
 date: '2025-11-14T08:30:27-05:00'
 draft: false
 title: "Octopath Traveler 0: You're the Octopath"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/14/octopath-traveler-0-youre-the-octopath/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "In the third console release of the Octopath Traveler series, you become the hero who can rebuild your town."
-categories:
-  - "Switch"
+description: "In the third console release of the Octopath Traveler series, you become the hero who can rebuild your town."
 tags:
+  - "Switch"
   - "Jrpg"
   - "Octopath Traveler"
   - "Octopath Traveler 0"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/octopath0.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/octopath0.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/octopath0.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I hadn't heard much about the latest entry in the Octopath Traveler series, 0. They can't use the word for the digit -- Zero, Zed, Nil, Null -- and this is weird, because I believe it's the only digit with so many different words for it in the English speaking world. 

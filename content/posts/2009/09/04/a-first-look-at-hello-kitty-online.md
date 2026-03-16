@@ -2,11 +2,38 @@
 date: '2009-09-04T07:39:35-05:00'
 draft: false
 title: "A First Look at: Hello Kitty Online"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/04/a-first-look-at-hello-kitty-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Hello Kitty Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/kitty.png"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/kitty.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/kitty.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Hello, Kitty!](https://chasingdings.com/wp-content/uploads/2009/09/kitty.png "Hello, Kitty!")Either the thought of playing in the world of Hello Kitty! makes you really excited, or you couldn't care less. Nothing in this "first look" is going to change your mind.

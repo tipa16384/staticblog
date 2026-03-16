@@ -2,7 +2,25 @@
 date: '2009-07-23T07:26:16-05:00'
 draft: false
 title: "Daily Blogroll 7/23 -- Aftermath edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/23/daily-blogroll-723-aftermath-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "Champions Online"
   - "Chronicles of Spellborn"
@@ -13,7 +31,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Statue District on Quarterstone in Chronicles of Spellborn](https://chasingdings.com/wp-content/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg "Statue District on Quarterstone in Chronicles of Spellborn")

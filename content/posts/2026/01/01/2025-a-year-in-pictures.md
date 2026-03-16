@@ -2,15 +2,40 @@
 date: '2026-01-01T10:35:23-05:00'
 draft: false
 title: "2025, a Year in Pictures"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2026/01/01/2025-a-year-in-pictures/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Remembering 2025 through the pictures and screenshots I took throughout the year. There's a lot."
-categories:
+description: "Remembering 2025 through the pictures and screenshots I took throughout the year. There's a lot."
+tags:
   - "Blaugust 2025"
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/1-2025-Collage.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2026/01/1-2025-Collage.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2026/01/1-2025-Collage.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's easy to see what I played through the year, since I tried to blog, at least a little, about anything I played. My blogging fervor comes and goes, and there might be gaps. I thought it might be fun to go through the folder of pictures I had saved for Blaugust 2025 and see what happened with my favorite games of 2025 -- video games, miniatures games, and board games together. And some other stuff.

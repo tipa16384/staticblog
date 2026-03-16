@@ -2,11 +2,38 @@
 date: '2010-07-29T06:59:29-05:00'
 draft: false
 title: "Facebook Games Ho! Will Playfish' \"My Empire\" make you forget Caesar IV?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/07/29/facebook-games-ho-will-playfish-my-empire-make-you-forget-caesar-iv/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Facebook Games"
   - "My Empire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7292010-70920-AM-480x366.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7292010-70920-AM-480x366.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7292010-70920-AM-480x366.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7292010-70920-AM-480x366.jpg "My Empire")](https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7292010-70920-AM.jpg)

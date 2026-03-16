@@ -2,11 +2,38 @@
 date: '2009-08-25T07:17:59-05:00'
 draft: false
 title: "A first look at Dragonica Online"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/08/25/a-first-look-at-dragonica-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dragonica Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Gawking at passers-by in Dragonica Online](https://chasingdings.com/wp-content/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg "Gawking at passers-by in Dragonica Online")

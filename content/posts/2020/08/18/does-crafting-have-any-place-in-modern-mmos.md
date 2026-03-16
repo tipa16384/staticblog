@@ -2,17 +2,43 @@
 date: '2020-08-18T20:01:55-05:00'
 draft: false
 title: "Does Crafting have any place in modern MMOs?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/18/does-crafting-have-any-place-in-modern-mmos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "EverQuest II"
   - "Final Fantasy XIV"
   - "MMORPG"
   - "Vanguard"
   - "World of Warcraft"
-tags:
   - "Crafting"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-EverQuest2-2020-08-18-18-11-08-10.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This is going to be a little Twitter-heavy, and I apologize for that.

@@ -2,11 +2,38 @@
 date: '2010-09-14T21:03:02-05:00'
 draft: false
 title: "Treasure Abyss: Where's the Dragon?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/09/14/treasure-abyss-wheres-the-dragon/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Facebook Games"
   - "Treasure Abyss"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg "Four warriors with four swords")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-92709-PM.jpg)

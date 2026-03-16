@@ -2,11 +2,38 @@
 date: '2013-05-24T07:10:04-05:00'
 draft: false
 title: "Crayon Chronicles: A Roguelike for your Inner Second Grader"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/05/24/crayon-chronicles-a-roguelike-for-your-inner-second-grader/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Crayon Chronicles"
   - "Kickstarter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg" title="Crayon Chronicles" class="align-center" >}}

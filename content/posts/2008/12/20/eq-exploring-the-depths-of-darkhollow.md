@@ -2,15 +2,41 @@
 date: '2008-12-20T17:49:59-05:00'
 draft: false
 title: "EQ: Exploring the Depths of Darkhollow"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/20/eq-exploring-the-depths-of-darkhollow/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Depths of Darkhollow"
   - "Stoneroot Falls"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-19-20-26-00-27.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-19-20-26-00-27.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-19-20-26-00-27.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-19-20-26-00-27.jpg "eqgame-2008-12-19-20-26-00-27")

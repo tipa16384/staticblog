@@ -2,12 +2,38 @@
 date: '2022-03-10T07:35:45-05:00'
 draft: false
 title: "7DRL 2022 Day 4: Tossing and Turning"
-categories:
-  - "7DRL"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/10/7drl-2022-day-4-tossing-and-turning/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "7DRL"
   - "Messiah"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/yata-screenshot-2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/yata-screenshot-2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/yata-screenshot-2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Halfway through the 7DRL and I have finally finished the major building blocks for the game by introducing the main game mechanic (finally)! But it *is *the halfway point, and a good time to wonder if this was the correct game to write for 7DRL?

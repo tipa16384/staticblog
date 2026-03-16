@@ -2,11 +2,38 @@
 date: '2009-05-12T07:16:23-05:00'
 draft: false
 title: "Free Realms: First Impressions"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/12/free-realms-first-impressions/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Free Realms"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5112009-110730-pm.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5112009-110730-pm.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5112009-110730-pm.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![fullscreen-capture-5112009-110730-pm](https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5112009-110730-pm.jpg "fullscreen-capture-5112009-110730-pm")

@@ -2,11 +2,38 @@
 date: '2013-11-17T12:38:01-05:00'
 draft: false
 title: "Redshirt: Please Like Us On Spacebook"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/11/17/redshirts-please-like-us-on-spacebook/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Redshirt"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg" title="Redshirts title screen" class="align-center" >}}

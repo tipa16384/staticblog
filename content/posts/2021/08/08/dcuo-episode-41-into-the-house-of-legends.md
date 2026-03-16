@@ -2,16 +2,42 @@
 date: '2021-08-08T10:07:46-05:00'
 draft: false
 title: "DCUO Episode 41: Into the House of Legends"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/08/dcuo-episode-41-into-the-house-of-legends/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "DC Universe Online"
   - "MMORPG"
   - "Steam Games"
-tags:
   - "House of Legends"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/HouseOfLegends.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/HouseOfLegends.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/HouseOfLegends.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So, I listened to [the DCUO livestream](https://www.twitch.tv/videos/1110360816) the other day, where they showed a preview of the House of Legends episode, packed to the rafters with quality-of-life changes and new content. I was listening, fascinated, until they mentioned that House of Legends was currently LIVE ON THE TEST SERVER.

@@ -2,13 +2,39 @@
 date: '2009-06-10T21:04:42-05:00'
 draft: false
 title: "EVERQUEST II's NEXT EXPANSION: VELIOUS"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/10/everquest-iis-next-expansion-velious/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Velious"
 featured_image: "http://img141.imageshack.us/img141/884/veliousboatvn0.jpg"
-cover: "http://img141.imageshack.us/img141/884/veliousboatvn0.jpg"
+cover:
+  image: "http://img141.imageshack.us/img141/884/veliousboatvn0.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](http://img141.imageshack.us/img141/884/veliousboatvn0.jpg "Boat to Iceclad")

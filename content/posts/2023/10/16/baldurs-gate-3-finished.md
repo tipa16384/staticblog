@@ -2,13 +2,39 @@
 date: '2023-10-16T07:00:00-05:00'
 draft: false
 title: "Baldur's Gate 3: Finished!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/10/16/baldurs-gate-3-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "There will be spoilers below."
-categories:
+description: "There will be spoilers below."
+tags:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
   - "PS5"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/scritches1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/10/scritches1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/10/scritches1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Time to complete: 138 hours. I could have spent more on some side quests. I think the only one I intentionally didn't finish, but could have, was the hag fight in Act 3. It was annoying enough in Act 1. Act 3 looked to be even *more* annoying.

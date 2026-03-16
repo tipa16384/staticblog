@@ -2,10 +2,37 @@
 date: '2006-06-22T00:00:00-05:00'
 draft: false
 title: "GigaBlast and Search Engine Mania"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/06/22/gigablast-and-search-engine-mania/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/images/huffpo.png"
-cover: "https://chasingdings.com/images/huffpo.png"
+cover:
+  image: "https://chasingdings.com/images/huffpo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Whilst perusing the lists of bots indexing this blog, I noticed an unfamiliar name, [GigaBlast](http://gigablast.com). They search through blogs with a natural language interface, similar to what [Jeeves claimed to do](http://ask.com) but never quite managed.

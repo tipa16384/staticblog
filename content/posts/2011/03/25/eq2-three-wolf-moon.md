@@ -2,12 +2,39 @@
 date: '2011-03-25T06:37:35-05:00'
 draft: false
 title: "EQ2: Three Wolf Moon"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/03/25/eq2-three-wolf-moon/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Humor"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg" title="Three Wolf Moon cloak" class="align-center" >}}

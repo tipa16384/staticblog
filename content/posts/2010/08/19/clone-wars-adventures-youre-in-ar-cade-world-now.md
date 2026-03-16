@@ -2,10 +2,27 @@
 date: '2010-08-19T23:56:50-05:00'
 draft: false
 title: "Clone Wars Adventures: You're in ar-cade world now."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/19/clone-wars-adventures-youre-in-ar-cade-world-now/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Clone Wars Adventures"
   - "Other Games"
-tags:
   - "Casual"
   - "F2P"
   - "Jedi"
@@ -13,7 +30,16 @@ tags:
   - "Sony Online Entertainment"
   - "Star Wars"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg "At home in Coruscant")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg)

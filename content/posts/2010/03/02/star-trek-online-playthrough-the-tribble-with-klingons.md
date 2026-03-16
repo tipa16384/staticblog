@@ -2,11 +2,38 @@
 date: '2010-03-02T08:06:02-05:00'
 draft: false
 title: "Star Trek Online Playthrough: The Tribble with Klingons"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/02/star-trek-online-playthrough-the-tribble-with-klingons/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-21-51-03-24.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-21-51-03-24.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-21-51-03-24.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I thought it might be fun to do "playthroughs" of certain MMO missions, to try and give a feel for what it's like to simply play the game. I play a good variety of MMOs, so what I'm going to do is go through each one of them and do a mission or quest from start to end. For this first one, I will be doing a Star Trek Online "episode" called "The Tribble with Klingons". Klingons and Tribbles have never gotten along... but why?

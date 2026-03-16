@@ -2,15 +2,40 @@
 date: '2023-09-05T07:00:00-05:00'
 draft: false
 title: "Jurassic World: The Legacy of Isla Nublar: Finished!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/05/jurassic-world-the-legacy-of-isla-nublar-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Racing a band of mercenaries and an exploding volcano in a desperate bid to save the dinos of Isla Nublar."
-categories:
-  - "Game Night"
+description: "Racing a band of mercenaries and an exploding volcano in a desperate bid to save the dinos of Isla Nublar."
 tags:
+  - "Game Night"
   - "Board Game"
   - "Jurassic Park"
   - "Jurassic World the Legacy of Isla Nublar"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/jwfinished.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/jwfinished.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/jwfinished.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We're just closing up shop on games these days.

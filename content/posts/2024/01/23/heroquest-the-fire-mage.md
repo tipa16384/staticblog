@@ -2,19 +2,44 @@
 date: '2024-01-23T07:48:12-05:00'
 draft: false
 title: "HeroQuest: The Fire Mage"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/23/heroquest-the-fire-mage/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The monk and the rogue take the place of the barbarian and the wizard as the party faces their greatest challenge yet..."
-categories:
+description: "The monk and the rogue take the place of the barbarian and the wizard as the party faces their greatest challenge yet..."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "Dwarf"
   - "Elf"
   - "Monk"
   - "Rogue"
   - "Wizard"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-22.36.44-A-vivid-and-dynamic-heroic-fantasy-battle-scene-not-in-the-form-of-miniatures.-It-features-a-Shaolin-Monk-bare-to-the-waist-and-wearing-a-red-sash-.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-22.36.44-A-vivid-and-dynamic-heroic-fantasy-battle-scene-not-in-the-form-of-miniatures.-It-features-a-Shaolin-Monk-bare-to-the-waist-and-wearing-a-red-sash-.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/DALL·E-2024-01-22-22.36.44-A-vivid-and-dynamic-heroic-fantasy-battle-scene-not-in-the-form-of-miniatures.-It-features-a-Shaolin-Monk-bare-to-the-waist-and-wearing-a-red-sash-.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 With the introduction of the monk and the rogue to our HeroQuest table, I think we can say that we've moved out of the "starter box" phase of our HQ journey, and are well into the "how much *more* money can I sink into this game" phase.

@@ -2,16 +2,41 @@
 date: '2025-07-10T08:01:31-05:00'
 draft: false
 title: "Frosthaven Scenario 14: Jagged Shoals"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?"
-categories:
+description: "They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?"
+tags:
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
   - "Other Games"
-tags:
   - "Jagged Shoals"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5225-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5225-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5225-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Picture above is how it ended. Or rather, how I ended. Surrounded by lightning eels and piranha pigs with a pig herder staring me in the face with a lizardry grin twisting his scaly skin around.

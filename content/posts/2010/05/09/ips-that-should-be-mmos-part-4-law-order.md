@@ -2,11 +2,38 @@
 date: '2010-05-09T09:39:18-05:00'
 draft: false
 title: "IPs that should be MMOs, part 4: Law & Order"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/09/ips-that-should-be-mmos-part-4-law-order/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/law-and-order.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/law-and-order.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/law-and-order.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 wgOggPlayer.msg = {"ogg-play": "Play", "ogg-pause": "Pause", "ogg-stop": "Stop", "ogg-no-player": "Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.", "ogg-player-videoElement": "Native browser support", "ogg-player-oggPlugin": "Browser plugin", "ogg-player-cortado": "Cortado (Java)", "ogg-player-vlc-mozilla": "VLC", "ogg-player-vlc-activex": "VLC (ActiveX)", "ogg-player-quicktime-mozilla": "QuickTime", "ogg-player-quicktime-activex": "QuickTime (ActiveX)", "ogg-player-totem": "Totem", "ogg-player-kaffeine": "Kaffeine", "ogg-player-kmplayer": "KMPlayer", "ogg-player-mplayerplug-in": "mplayerplug-in", "ogg-player-thumbnail": "Still image only", "ogg-player-selected": "(selected)", "ogg-use-player": "Use player:", "ogg-more": "More…", "ogg-download": "Download file", "ogg-desc-link": "About this file", "ogg-dismiss": "Close", "ogg-player-soundthumb": "No player", "ogg-no-xiphqt": "You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};

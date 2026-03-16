@@ -2,11 +2,38 @@
 date: '2015-09-20T15:11:39-05:00'
 draft: false
 title: "Sword Coast Legends Headstart"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/09/20/sword-coast-legends-headstart/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Sword Coast Legends"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/1-SwordCoast-2015-09-20-12-26-44-85.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/09/1-SwordCoast-2015-09-20-12-26-44-85.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/09/1-SwordCoast-2015-09-20-12-26-44-85.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-SwordCoast-2015-09-20-12-26-44-85.jpg" title="My first quest!" class="align-center" >}}

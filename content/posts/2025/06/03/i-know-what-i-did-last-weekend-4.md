@@ -2,19 +2,44 @@
 date: '2025-06-03T10:00:00-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/06/03/i-know-what-i-did-last-weekend-4/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Sometimes I just want to play games to relax. Sometimes."
-categories:
+description: "Sometimes I just want to play games to relax. Sometimes."
+tags:
   - "Frosthaven"
   - "HeroQuest"
   - "PS2"
   - "PS5"
   - "Tabletop Games"
-tags:
   - "Balatro"
   - "Dora the Explorer"
   - "The Pathless"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Kasul and I hadn't been down to the retro game stores for awhile, so that was our Saturday -- lunch at Arby's, checking out the game stores in Newington (where I bought some Citadel paints for mini adventures), back up to Manchester for The Grid and Retro Junk... we found some stuff.

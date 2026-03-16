@@ -2,11 +2,38 @@
 date: '2012-12-07T13:57:22-05:00'
 draft: false
 title: "Kerbal Space Program: Lost in Space"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/12/07/kerbal-space-program-lost-in-space/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Kerbal Space Program"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg" title="Moon shot" class="align-center" >}}

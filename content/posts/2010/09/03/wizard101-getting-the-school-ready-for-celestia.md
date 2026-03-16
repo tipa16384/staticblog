@@ -2,16 +2,41 @@
 date: '2010-09-03T06:35:53-05:00'
 draft: false
 title: "Wizard101: Getting the school ready for Celestia"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/09/03/wizard101-getting-the-school-ready-for-celestia/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Celestia"
   - "Sandra Bullock"
   - "Teen Choice"
-  - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg "Go ninja pig or go home!")

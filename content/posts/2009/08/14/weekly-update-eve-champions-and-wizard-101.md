@@ -2,13 +2,40 @@
 date: '2009-08-14T08:01:17-05:00'
 draft: false
 title: "Weekly update: EVE, Champions and Wizard 101"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/08/14/weekly-update-eve-champions-and-wizard-101/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "EVE Online"
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![WTF is the story with this?](https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg "WTF is the story with this?")

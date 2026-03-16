@@ -2,8 +2,24 @@
 date: '2020-08-03T11:45:17-05:00'
 draft: false
 title: "Blaugust Day #3: Nothing is Real. But, That's Okay."
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/03/blaugust-day-3-nothing-is-real-but-thats-okay/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
   - "Jonathan Livingston Seagull"
@@ -11,7 +27,16 @@ tags:
   - "Richard Bach"
   - "Ubik"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1812.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1812.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1812.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Today's "Blaugust" writing prompt comes from [Mailvatar at "MMOs and Other Stuff"](https://mailvaltar.wordpress.com/2020/08/02/media-thats-shaped-my-worldview/).

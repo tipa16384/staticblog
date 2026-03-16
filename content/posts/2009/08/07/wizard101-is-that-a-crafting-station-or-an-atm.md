@@ -2,13 +2,39 @@
 date: '2009-08-07T01:03:37-05:00'
 draft: false
 title: "Wizard101: Is that a crafting station or an ATM?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/08/07/wizard101-is-that-a-crafting-station-or-an-atm/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Crafting"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/WizardGraphicalClient-2009-08-07-01-35-22-19.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/08/WizardGraphicalClient-2009-08-07-01-35-22-19.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/08/WizardGraphicalClient-2009-08-07-01-35-22-19.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Marissa and Allison in new finery](https://chasingdings.com/wp-content/uploads/2009/08/WizardGraphicalClient-2009-08-07-01-35-22-19.jpg "Marissa and Allison in new finery")

@@ -2,11 +2,38 @@
 date: '2009-12-11T22:15:06-05:00'
 draft: false
 title: "World of Warcraft: Random Dungeons FTW"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/12/11/world-of-warcraft-random-dungeons-ftw/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-11-19-01-32-52.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-11-19-01-32-52.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-11-19-01-32-52.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![In the Scarlet Monastery](https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-11-19-01-32-52.jpg "In the Scarlet Monastery")

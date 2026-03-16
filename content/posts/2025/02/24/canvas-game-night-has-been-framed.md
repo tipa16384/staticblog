@@ -2,13 +2,38 @@
 date: '2025-02-24T07:59:36-05:00'
 draft: false
 title: "Canvas: Game Night has been Framed"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/02/24/canvas-game-night-has-been-framed/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A timeless piece of art or a directionless collage of imagery that belongs on a refrigerator door?"
-categories:
-  - "Game Night"
+description: "A timeless piece of art or a directionless collage of imagery that belongs on a refrigerator door?"
 tags:
+  - "Game Night"
   - "Canvas"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/1-IMG_5004.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/02/1-IMG_5004.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/02/1-IMG_5004.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After working on recreating a famous woodcut in 3D ({{< youtube ShOo0CED_yU >}}), it only made sense that Saturday's family game night would be Canvas, the game where every player creates works of art -- in plastic.

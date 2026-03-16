@@ -2,11 +2,38 @@
 date: '2013-01-28T08:22:50-05:00'
 draft: false
 title: "DCUO: A Slippery Slope"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/01/28/dcuo-a-slippery-slope/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/MADV101_AUDIO-PC-28-00.02.180-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/01/MADV101_AUDIO-PC-28-00.02.180-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/01/MADV101_AUDIO-PC-28-00.02.180-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/MADV101_AUDIO-PC-28-00.02.180-480x300.jpg" title="Aboard Brainiac's ship in Area 51" class="align-center" >}}

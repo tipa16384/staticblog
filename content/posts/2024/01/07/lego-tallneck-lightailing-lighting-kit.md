@@ -2,15 +2,40 @@
 date: '2024-01-07T13:49:13-05:00'
 draft: false
 title: "LEGO Tallneck + Lightailing lighting kit"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/07/lego-tallneck-lightailing-lighting-kit/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I really wanted a LEGO Tallneck, all lit up, so I bought one, built it, and lit it up."
-categories:
-  - "Horizon Forbidden West"
+description: "I really wanted a LEGO Tallneck, all lit up, so I bought one, built it, and lit it up."
 tags:
+  - "Horizon Forbidden West"
   - "Lego"
   - "Lightailing"
   - "Tallneck"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/etallneck.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/etallneck.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/etallneck.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's a reason Guerilla Games always opens its Horizon videos with the Tallneck walking past the camera, absolutely unconcerned with anything happening around it. It's big -- it's MASSIVE -- and it sets the scene instantly. This is even more impressive in the Call of the Mountain PSVR2 game, where it walks right over you.

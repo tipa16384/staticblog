@@ -2,18 +2,43 @@
 date: '2022-08-22T07:00:00-05:00'
 draft: false
 title: "\"The 22nd Letter\": A Game of Mystery and Scrabble"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/22/the-22nd-letter-a-game-of-mystery-and-scrabble/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The 22nd Letter is a game of mystery and Scrabble. As you play the game, you'll gradually uncover the story of \"V\", a man who disappeared during a Scrabble tournament long ago. Can you solve the mystery?"
-categories:
+description: "The 22nd Letter is a game of mystery and Scrabble. As you play the game, you'll gradually uncover the story of \"V\", a man who disappeared during a Scrabble tournament long ago. Can you solve the mystery?"
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Scrabble"
   - "Wombats"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/22ndletter.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/22ndletter.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/22ndletter.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 22nd: “The 22nd Letter”.

@@ -2,12 +2,38 @@
 date: '2025-09-01T13:04:43-05:00'
 draft: false
 title: "August Blogging from 2005 to today"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/01/august-blogging-from-2005-to-today/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's been hours since Blaugust officially ended; is it too late to do a retrospective? How about for every August from the blog's start in 2005?"
-categories:
+description: "It's been hours since Blaugust officially ended; is it too late to do a retrospective? How about for every August from the blog's start in 2005?"
+tags:
   - "Blaugust"
   - "Blaugust 2025"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/raspy-blogging.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/raspy-blogging.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/raspy-blogging.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I looked at my Blaugust stats yesterday for the past few years, and was a little disappointed by what I found...

@@ -2,11 +2,38 @@
 date: '2015-12-26T09:32:32-05:00'
 draft: false
 title: "TIS-100 Sequence Indexer"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/12/26/tis-100-sequence-indexer/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "TIS-100"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png"
-cover: "https://chasingdings.com/wp-content/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png" title="Sequence Indexer program" class="align-center" >}}

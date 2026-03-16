@@ -2,8 +2,25 @@
 date: '2023-05-20T18:39:04-05:00'
 draft: false
 title: "The Official, Scientific, 2023 List of Popular MMORPGs"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/05/20/the-official-scientific-2023-list-of-popular-mmorpgs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends."
-categories:
+description: "Here we go again. The top 38 MMOs in the last 30 days in the USA, as reported by Google Trends."
+tags:
   - "Aion"
   - "Allods Online"
   - "Black Desert Online"
@@ -37,7 +54,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/05/1-rotmg.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/05/1-rotmg.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/05/1-rotmg.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Discord dropped the Clyde chatbot into our Team Spode channel yesterday, and we had a lot of fun playing with it, forcing it to write songs and roll up D&D characters for us. It eventually responded with a meme before it finally refused to say anything more.

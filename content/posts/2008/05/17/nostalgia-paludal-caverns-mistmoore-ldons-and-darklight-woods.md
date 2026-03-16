@@ -2,17 +2,43 @@
 date: '2008-05-17T08:34:20-05:00'
 draft: false
 title: "Nostalgia: Paludal Caverns, Mistmoore LDoNs and ... Darklight Woods?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/05/17/nostalgia-paludal-caverns-mistmoore-ldons-and-darklight-woods/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Ldon"
   - "Mistmoore"
   - "Paludal Caverns"
   - "Winterwing"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-13-22-19-40-68.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-13-22-19-40-68.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-13-22-19-40-68.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![eqgame-2008-05-13-22-19-40-68.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-13-22-19-40-68.jpg)

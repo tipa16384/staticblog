@@ -2,13 +2,39 @@
 date: '2014-06-16T06:57:21-05:00'
 draft: false
 title: "DCUO: Brainiac dead, Spode complicit"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/06/16/dcuo-brainiac-dead-spode-complicit/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh4.googleusercontent.com/-4L3YXasK_1E/U55eknAQgwI/AAAAAAAAvG0/WV1LQy7P44k/w741-h556-no/DCGame+2014-06-15+23-03-43-63.jpg"
-cover: "https://lh4.googleusercontent.com/-4L3YXasK_1E/U55eknAQgwI/AAAAAAAAvG0/WV1LQy7P44k/w741-h556-no/DCGame+2014-06-15+23-03-43-63.jpg"
+cover:
+  image: "https://lh4.googleusercontent.com/-4L3YXasK_1E/U55eknAQgwI/AAAAAAAAvG0/WV1LQy7P44k/w741-h556-no/DCGame+2014-06-15+23-03-43-63.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Brainiac the once and future toaster](https://lh4.googleusercontent.com/-4L3YXasK_1E/U55eknAQgwI/AAAAAAAAvG0/WV1LQy7P44k/w741-h556-no/DCGame+2014-06-15+23-03-43-63.jpg)

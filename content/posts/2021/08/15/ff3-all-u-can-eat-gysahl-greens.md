@@ -2,15 +2,40 @@
 date: '2021-08-15T08:55:31-05:00'
 draft: false
 title: "FF3 -- All-U-Can-Eat Gysahl Greens"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/15/ff3-all-u-can-eat-gysahl-greens/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Final Fantasy"
   - "Steam Games"
-tags:
-  - "Blaugust"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210814221925_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210814221925_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210814221925_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I can stop eating Gysahl Greens *any time I want*. Not like mister "dude, can I like crash on your couch just for tonight? Won't even know I'm there" there. That was A WEEK AGO, CHOCO-BRO.

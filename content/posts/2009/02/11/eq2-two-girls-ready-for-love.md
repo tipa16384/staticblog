@@ -2,13 +2,39 @@
 date: '2009-02-11T02:07:04-05:00'
 draft: false
 title: "EQ2: Two girls ready for LOVE!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/11/eq2-two-girls-ready-for-love/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Erollisi Day"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-11-01-05-41-95.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-11-01-05-41-95.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-11-01-05-41-95.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 And oh yeah, we finished clearing Veeshan's Peak and then cleared up to the Maestro in the Shard of Hate! First time the experience is new. Second time, it's like, can we skip ahead to the part where I get something :) No, it was fun, just not much to write about.

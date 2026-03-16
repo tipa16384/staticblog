@@ -2,11 +2,38 @@
 date: '2014-12-22T14:44:59-05:00'
 draft: false
 title: "It's a Wipe! Orc raid, final boss."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/22/its-a-wipe-orc-raid-final-boss-here-you-can-see-all-my-wizards-in-the-raid-and-my-rogue-protege/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "It's a Wipe!"
   - "Other Games"
 featured_image: "https://lh4.googleusercontent.com/-5NblM2xFDzE/VJgtQUOe_2I/AAAAAAAA86M/p21u5670_ek/w506-h750/IAWgame%2B2014-12-20%2B22-40-51-57.jpg"
-cover: "https://lh4.googleusercontent.com/-5NblM2xFDzE/VJgtQUOe_2I/AAAAAAAA86M/p21u5670_ek/w506-h750/IAWgame%2B2014-12-20%2B22-40-51-57.jpg"
+cover:
+  image: "https://lh4.googleusercontent.com/-5NblM2xFDzE/VJgtQUOe_2I/AAAAAAAA86M/p21u5670_ek/w506-h750/IAWgame%2B2014-12-20%2B22-40-51-57.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a Wipe! Orc raid, final boss.

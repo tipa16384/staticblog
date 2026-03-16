@@ -2,11 +2,38 @@
 date: '2007-07-17T07:36:35-05:00'
 draft: false
 title: "Games that at least try: EVE Online"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/07/17/games-that-at-least-try-eve-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/07/650627757.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/07/650627757.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/07/650627757.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![650627757.jpg](https://chasingdings.com/wp-content/uploads/2007/07/650627757.jpg)The thing that frustrates me most about Fantasy MMORPGs is their lack of imagination. Not imagination like in creating the mystical world of Elflandia populated by mystic Elfians who are under siege by the vicious Orcanauts or however they manage to fit elves and orcs into any fantasy game world (Does it have elves? CHECK. Orcs? CHECK. We're GOOD TO GO!) I do wish that MMO devs would look beyond Tolkein for inspiration. Why not the world of "The Worm Ouroborous"? Or of "Ill Met in Lankhmar"? Or "The Dying Earth"?(*)

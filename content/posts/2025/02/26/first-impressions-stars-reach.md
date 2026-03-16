@@ -2,15 +2,41 @@
 date: '2025-02-26T08:00:00-05:00'
 draft: false
 title: "First Impressions: Stars Reach"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/02/26/first-impressions-stars-reach/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The game is very much in development and far from finished, but I think I see where it wants to go."
-categories:
+description: "The game is very much in development and far from finished, but I think I see where it wants to go."
+tags:
   - "Kickstarter"
   - "MMORPG"
   - "No Man's Sky"
   - "Stars Reach"
   - "Survival"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/20250225215602_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/02/20250225215602_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/02/20250225215602_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 If I had to compare Stars Reach to another game, it would be -- obviously, really -- No Man's Sky. Both have an almost infinite number of worlds, both let you build bases, both let you explore, solve mysteries, kill alien creatures. Grouping isn't a thing in NMS, but people can meet up and do things in the same location, and of course you can take on instanced expeditions with other people. In both games, you really are going to be defining for yourself what the game means to you.

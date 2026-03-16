@@ -2,10 +2,39 @@
 date: '2008-06-09T23:08:51-05:00'
 draft: false
 title: "The end of the age of the auteur game designer?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/09/the-end-of-the-age-of-the-auteur-game-designer/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Tabula Rasa"
   - "Vanguard"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 NCSoft's first quarter report came out, and  they don't want to talk about their space marine-fps-mmo, Tabula Rasa, except to say they are fairly disappointed bu its performance.

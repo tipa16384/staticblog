@@ -2,11 +2,38 @@
 date: '2008-12-24T08:47:38-05:00'
 draft: false
 title: "DOMO Mission night"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/24/domo-mission-night/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dream of Mirror Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-23-22-10-24-86.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-23-22-10-24-86.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-23-22-10-24-86.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-23-22-10-24-86.jpg "domo-2008-12-23-22-10-24-86")

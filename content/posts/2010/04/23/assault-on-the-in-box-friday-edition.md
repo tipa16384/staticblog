@@ -2,7 +2,25 @@
 date: '2010-04-23T06:50:30-05:00'
 draft: false
 title: "Assault on the In Box, Friday edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/23/assault-on-the-in-box-friday-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "Daily Blogroll"
   - "Dungeons & Dragons Online"
@@ -11,7 +29,16 @@ categories:
   - "MMORPG"
   - "Shin Megami Tensei"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/04/eqgame-2010-04-10-20-48-38-69.jpg "Boomerang!")

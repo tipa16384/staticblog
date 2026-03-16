@@ -2,12 +2,39 @@
 date: '2007-01-23T09:14:06-05:00'
 draft: false
 title: "EQ2: The Necrojeweler"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/01/23/eq2-the-necrojeweler/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/teaser.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/01/teaser.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/01/teaser.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![teaser.jpg](https://chasingdings.com/wp-content/uploads/2007/01/teaser.jpg)Commissioner Dorah Tanglewood, Vindicator of the Coin. Her full name now is twice as long as she is tall, she dinged 60, completed her third tradeskill title and the final quest for the Court of the Coin. But there's a lot yet left to do.

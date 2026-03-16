@@ -2,17 +2,42 @@
 date: '2023-11-29T07:00:00-05:00'
 draft: false
 title: "HeroQuest: Lair of the Orc Warlord"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/29/heroquest-lair-of-the-orc-warlord/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it."
-categories:
+description: "Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Midjourney"
   - "Tabletop Games"
-tags:
   - "ChatGPT"
   - "Dall-E 2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This is the third of the starter adventures in the new HeroQuest reprint.

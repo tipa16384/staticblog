@@ -2,10 +2,37 @@
 date: '2006-07-14T00:00:00-05:00'
 draft: false
 title: "The Ego Trip: Kits and Characters in MMOs"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/07/14/the-ego-trip-kits-and-characters-in-mmos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
 featured_image: "https://chasingdings.com/images/threerogues.jpg"
-cover: "https://chasingdings.com/images/threerogues.jpg"
+cover:
+  image: "https://chasingdings.com/images/threerogues.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 > *What is it that is exactly the same about every single vacation you have ever taken? You! You're the same. No matter where you go, there you are. It's always the same old you. Let me suggest that you take a vacation from yourself. I-I know it sounds wild. It is the latest thing in travel. We call it the Ego Trip.* - Total Recall

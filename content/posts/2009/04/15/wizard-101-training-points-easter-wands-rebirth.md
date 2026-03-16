@@ -2,16 +2,42 @@
 date: '2009-04-15T00:29:57-05:00'
 draft: false
 title: "Wizard 101: Training Points, Easter Wands, & Rebirth"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/15/wizard-101-training-points-easter-wands-rebirth/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Bartleby"
   - "Easter"
   - "Life School"
   - "Rebirth"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-18-00-34-82-245x480.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-18-00-34-82-245x480.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-18-00-34-82-245x480.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After the thrilling adventure that gaining the Life power of Rebirth held for me on the Test realm, nothing could stop me from invading the Labyrinth with thoughts of crushing Life bosses to dust once again, or maybe for the first time, at least with the crushing.

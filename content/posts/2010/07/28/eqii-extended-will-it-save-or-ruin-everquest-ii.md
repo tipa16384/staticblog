@@ -2,11 +2,38 @@
 date: '2010-07-28T00:38:38-05:00'
 draft: false
 title: "EQII Extended: Will it save or ruin EverQuest II?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/07/28/eqii-extended-will-it-save-or-ruin-everquest-ii/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/eq2extended-480x219.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/07/eq2extended-480x219.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/07/eq2extended-480x219.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/07/eq2extended-480x219.jpg "EQ2 Extended")](https://chasingdings.com/wp-content/uploads/2010/07/eq2extended.jpg)

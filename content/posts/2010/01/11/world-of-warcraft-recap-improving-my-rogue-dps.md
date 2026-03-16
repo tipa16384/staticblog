@@ -2,11 +2,38 @@
 date: '2010-01-11T07:52:25-05:00'
 draft: false
 title: "World of Warcraft recap: Improving my rogue DPS"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/01/11/world-of-warcraft-recap-improving-my-rogue-dps/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-11-07-19-38-54.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-11-07-19-38-54.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-11-07-19-38-54.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Thanks to everyone who commented on my [semi-frustrated post Saturday](https://chasingdings.com/index.php/2010/01/09/world-of-warcraft-i-suck-at-this-whole-dps-thing/) about my cruddy DPS as a rogue newly come to Dire Maul East. Angry Gamer suggester changing my spec to Assassination, dumping my swords for daggers and relying on beefy crits to up my DPS. Myrix offered up a Combat-focused spec (as opposed to my Combat/Assassination spec), urged me to ditch my slow offhand for a fast one, and reminded me, with Rohan, to keep Slice-and-Dice up at all times. Gordon and Endelon worried that I was focusing too much on my DPS at such a low level (55). Many people thought the heavy emphasis on min-maxing in World of Warcraft hurt the pure enjoyment of the game.

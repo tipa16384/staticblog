@@ -2,12 +2,39 @@
 date: '2010-04-15T06:38:07-05:00'
 draft: false
 title: "IP-based MMOs: Part 1 (of 5)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/15/ip-based-mmos-part-1-of-5/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Champions Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/at_screenshot_04_tn-225x225.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/at_screenshot_04_tn-225x225.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/at_screenshot_04_tn-225x225.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Basing your MMORPG on an existing property can be an easy way to get attention for your new game and tap into a base of potential players who are already familiar with the world and its lore. It's a wonder that more games haven't tried it. Where's our [Wheel of Time](http://en.wikipedia.org/wiki/The_Wheel_of_Time) MMO? Our [Honor Harrington](http://en.wikipedia.org/wiki/Honor_Harrington) MMO? Our [Sailor Moon](http://en.wikipedia.org/wiki/Sailor_moon) MMO? (Oops, didn't mean to mention that one....)

@@ -2,16 +2,41 @@
 date: '2024-07-17T23:37:38-05:00'
 draft: false
 title: "Bienvenue à monsieur Minuit, mon nouveau chat noir"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/07/17/bienvenue-a-monsieur-minuit-mon-nouveau-chat-noir/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Well, that's about all the French I know..."
-categories:
+description: "Well, that's about all the French I know..."
+tags:
   - "Cats"
   - "Real Life"
-tags:
   - "Brownian Motion"
   - "Houseflies"
   - "Partial Pressure"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/IMG_4436.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/07/IMG_4436.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/07/IMG_4436.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I know I'm supposed to wait until Blaugust actually begins before I start sharing pet pictures, but... about seven months ago, I lost my companion of sixteen years Lannister, my chocolate Maine Coon.

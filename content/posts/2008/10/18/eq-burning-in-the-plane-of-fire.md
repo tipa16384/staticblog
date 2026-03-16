@@ -2,16 +2,42 @@
 date: '2008-10-18T10:32:57-05:00'
 draft: false
 title: "EQ: Burning in the Plane of Fire"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/18/eq-burning-in-the-plane-of-fire/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Doomfire"
   - "Plane of Fire"
   - "The Burning Lands"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/planeoffirenotitle.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/planeoffirenotitle.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/planeoffirenotitle.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/planeoffirenotitle.jpg "planeoffirenotitle")

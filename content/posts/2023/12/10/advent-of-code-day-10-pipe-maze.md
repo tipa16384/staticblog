@@ -2,17 +2,42 @@
 date: '2023-12-10T14:16:27-05:00'
 draft: false
 title: "Advent of Code Day 10 -- Pipe Maze"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/10/advent-of-code-day-10-pipe-maze/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Anyone else notice that this is the second puzzle in a row without any elves?"
-categories:
-  - "Advent of Code"
+description: "Anyone else notice that this is the second puzzle in a row without any elves?"
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Flood Fill"
   - "Maze"
   - "Pipes"
   - "Point in Polygon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Midjourney was entirely unable to render a picture using the holiday card style I'd generated, so I removed that constraint and told it to use its best judgement today to render a repairman in a metal world of pipes and mazes. Dall-E 3 did a better job with what I asked for, but Midjourney's response was so creepy and cool that it had to be the header image.

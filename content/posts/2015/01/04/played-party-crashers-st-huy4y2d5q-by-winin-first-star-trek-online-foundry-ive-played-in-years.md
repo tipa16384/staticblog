@@ -2,13 +2,39 @@
 date: '2015-01-04T17:24:36-05:00'
 draft: false
 title: "Star Trek Online: \"Party Crashers\""
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/04/played-party-crashers-st-huy4y2d5q-by-winin-first-star-trek-online-foundry-ive-played-in-years/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Foundry"
 featured_image: "https://lh4.googleusercontent.com/-PQIrr6AqiIo/VKl2OTu8-DI/AAAAAAAA-J8/6okCJs_Fi3w/w506-h750/GameClient%2B2015-01-04%2B10-50-58-60.jpg"
-cover: "https://lh4.googleusercontent.com/-PQIrr6AqiIo/VKl2OTu8-DI/AAAAAAAA-J8/6okCJs_Fi3w/w506-h750/GameClient%2B2015-01-04%2B10-50-58-60.jpg"
+cover:
+  image: "https://lh4.googleusercontent.com/-PQIrr6AqiIo/VKl2OTu8-DI/AAAAAAAA-J8/6okCJs_Fi3w/w506-h750/GameClient%2B2015-01-04%2B10-50-58-60.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Played "Party Crashers", ST-HUY4Y2D5Q by @Winin, first Star Trek Online foundry I've played in years. In this, you tell a junior officer a story while beating the hell out of him in the gym. The story is the direct sequel to the one in the Cardassian arc, where you're wiping the True Way Cardassians off of a breakaway colony planet.

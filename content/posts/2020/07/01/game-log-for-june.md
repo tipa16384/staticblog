@@ -2,19 +2,45 @@
 date: '2020-07-01T12:35:25-05:00'
 draft: false
 title: "Game Log for June"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/07/01/game-log-for-june/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Gloomhaven"
   - "MMORPG"
   - "PS4"
   - "Steam Games"
   - "Tabletop Games"
-tags:
   - "Chocobo Mystery Dungeon"
   - "Death Stranding"
   - "The Witcher"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 June hasn't been the best month for gaming. Tom and I are ramping up our 3D printing, and working on that sort of stuff is taking more and more of our time. I hope it's worth it. I have a severe backlog of minis to paint -- I have to finish the Gloomhaven PC minis, I have an army of vermlings and cultists to paint for the first few Jaws of the Lions scenarios, some snakes... Plus printing the terrain tiles.

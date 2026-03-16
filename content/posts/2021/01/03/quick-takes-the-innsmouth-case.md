@@ -2,14 +2,40 @@
 date: '2021-01-03T20:50:53-05:00'
 draft: false
 title: "Quick Takes: The Innsmouth Case"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/01/03/quick-takes-the-innsmouth-case/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "Switch"
-tags:
   - "Adventure Game"
   - "Text Adventure"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/01/the-innsmouth-case-switch-hero-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/01/the-innsmouth-case-switch-hero-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/01/the-innsmouth-case-switch-hero-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was looking for something light and frothy in the Switch eShop's list of new games that they thought I might like.

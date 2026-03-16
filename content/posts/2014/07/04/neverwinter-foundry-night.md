@@ -2,13 +2,39 @@
 date: '2014-07-04T13:21:29-05:00'
 draft: false
 title: "Neverwinter: Foundry Night!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/07/04/neverwinter-foundry-night/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh4.googleusercontent.com/-4XVpKHXDoas/U7adSrlQwXI/AAAAAAAAxQk/cBW3I7Vcqkk/w876-h700-no/GameClient+2014-07-03+21-11-59-78.jpg"
-cover: "https://lh4.googleusercontent.com/-4XVpKHXDoas/U7adSrlQwXI/AAAAAAAAxQk/cBW3I7Vcqkk/w876-h700-no/GameClient+2014-07-03+21-11-59-78.jpg"
+cover:
+  image: "https://lh4.googleusercontent.com/-4XVpKHXDoas/U7adSrlQwXI/AAAAAAAAxQk/cBW3I7Vcqkk/w876-h700-no/GameClient+2014-07-03+21-11-59-78.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Benny Hillgiant](https://lh4.googleusercontent.com/-4XVpKHXDoas/U7adSrlQwXI/AAAAAAAAxQk/cBW3I7Vcqkk/w876-h700-no/GameClient+2014-07-03+21-11-59-78.jpg)

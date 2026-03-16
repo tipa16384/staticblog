@@ -2,11 +2,40 @@
 date: '2008-11-03T17:52:54-05:00'
 draft: false
 title: "Playing Second Life"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/03/playing-second-life/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Littlebigplanet"
   - "MMORPG"
   - "Other Games"
   - "Second Life"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was reading Scott Jenning's [concise explanation](http://brokentoys.org/2008/11/03/second-life-users-furious-over-barely-understandable-controversy/) of the uproar over Linden Labs' changes to the open space sims in their Second Life virtual world simulation, and as I read it, I wondered why I never really 'got' Second Life.

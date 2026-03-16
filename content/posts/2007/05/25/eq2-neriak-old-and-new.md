@@ -2,11 +2,38 @@
 date: '2007-05-25T07:26:51-05:00'
 draft: false
 title: "EQ2: Neriak, Old and New"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/05/25/eq2-neriak-old-and-new/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/05/_nentrance.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/05/_nentrance.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/05/_nentrance.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Centuries ago, during the Age of Turmoil, the necromancers of the Tier'dal city of Neriak threw their undesirables into the outskirts of the city and shut themselves off from the world. Those undesirables -- trolls, ogres, and dark elves deemed insufficiently pure by the Queen -- found themselves under assault by brave, courageous, legendary, fabulous, and in all other ways the perfect paragons of pulchritude (thanks, Sanya), Halflings. Having battled the inkies in Nektulos, they invaded Neriak itself, killing and destroying what they could. The embattled Foreign Quarter of Neriak became Fallen Gate, haunted by the spirits of those who died there, betrayed by the Thexians. Now, seizing upon Lucan D'Lere's apparent disinterest, they have returned from their centuries-long exile, and brought with them a new race, the living personifications of the darkest magics, the Arasai.

@@ -2,11 +2,38 @@
 date: '2014-06-20T06:56:50-05:00'
 draft: false
 title: "Neverwinter: Protector's Jubilee"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/06/20/neverwinter-protectors-jubilee/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
 featured_image: "https://lh6.googleusercontent.com/-iU30dqTy-N8/U6Olsnw5VeI/AAAAAAAAvug/R8MLvA1gQuo/w712-h570-no/GameClient+2014-06-19+20-04-44-67.jpg"
-cover: "https://lh6.googleusercontent.com/-iU30dqTy-N8/U6Olsnw5VeI/AAAAAAAAvug/R8MLvA1gQuo/w712-h570-no/GameClient+2014-06-19+20-04-44-67.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-iU30dqTy-N8/U6Olsnw5VeI/AAAAAAAAvug/R8MLvA1gQuo/w712-h570-no/GameClient+2014-06-19+20-04-44-67.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It was a pretty exciting week back in Neverwinter, my home town on the edge of Mt. Hotenow, where the dwarves are good looking, the elves are loud, and all the children are above average.

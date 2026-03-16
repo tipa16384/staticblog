@@ -2,15 +2,41 @@
 date: '2009-05-15T10:00:39-05:00'
 draft: false
 title: "Wizard 101: Arena Season 1 and Automagic"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/15/wizard-101-arena-season-1-and-automagic/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Sci Fi"
   - "Wizard101"
-tags:
   - "Arena"
   - "PvP"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/w101pvppreview.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/w101pvppreview.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/w101pvppreview.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![w101pvppreview](https://chasingdings.com/wp-content/uploads/2009/05/w101pvppreview.jpg "w101pvppreview")](https://www.wizard101.com/site/home2/wizard101/page_8ad6a4042131e7c401213b7c805700b3)

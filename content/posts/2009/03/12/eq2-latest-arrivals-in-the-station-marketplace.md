@@ -2,15 +2,41 @@
 date: '2009-03-12T07:47:08-05:00'
 draft: false
 title: "EQ2: Latest arrivals in the Station Marketplace"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/12/eq2-latest-arrivals-in-the-station-marketplace/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Brewday"
   - "RMT"
   - "Station Marketplace"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-11-19-29-59-07.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-11-19-29-59-07.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-11-19-29-59-07.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Too long has the EQ2 Station Marketplace modeling job been dominated by "sexy" or "good looking" or even "somewhat attractive" models. It's time for a change. It's time for the gnomes to take over.

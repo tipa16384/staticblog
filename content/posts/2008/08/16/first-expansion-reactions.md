@@ -2,15 +2,41 @@
 date: '2008-08-16T11:40:46-05:00'
 draft: false
 title: "First expansion reactions"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/16/first-expansion-reactions/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Fan Faire"
   - "Seeds of Destruction"
   - "The Shadow Odyssey"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/befallen.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/befallen.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/befallen.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'll be seeing these live hopefully later today, but here's my first reactions to the expansions.

@@ -2,11 +2,38 @@
 date: '2007-04-11T04:23:34-05:00'
 draft: false
 title: "LotRO: The Captain"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/04/11/lotro-the-captain/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/04/lotr-0411-a.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/04/lotr-0411-a.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/04/lotr-0411-a.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![lotr-0411-a.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotr-0411-a.jpg)

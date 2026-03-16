@@ -2,16 +2,42 @@
 date: '2020-08-24T20:34:45-05:00'
 draft: false
 title: "Blaugust #24: It's All About the Eyeballs"
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/24/blaugust-24-its-all-about-the-eyeballs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Blaugust"
   - "Content Creation"
   - "Girls Screaming in Vector Graphics"
   - "Pong"
   - "Spacewar"
   - "Tennis for Two"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-phrenology.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/1-phrenology.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-phrenology.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 "Content creation" -- it's one of those words like "influencer" or "social media" that seem vague but have come to have very specific definitions in modern times. Content creation, as I understand it, is stuff generated to be ranked highly in search engines in order to entice people to follow it to your website, at which point they will be monetized and you will eventually get paid.

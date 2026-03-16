@@ -2,7 +2,25 @@
 date: '2010-10-01T07:02:49-05:00'
 draft: false
 title: "Star Trek Online, Minecraft, Treasure Abyss"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/10/01/star-trek-online-minecraft-treasure-abyss/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Facebook Games"
   - "Minecraft"
   - "MMORPG"
@@ -10,7 +28,16 @@ categories:
   - "Star Trek"
   - "Treasure Abyss"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg "Minecraft")](https://chasingdings.com/wp-content/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg)

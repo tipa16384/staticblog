@@ -2,17 +2,42 @@
 date: '2024-04-29T07:53:52-05:00'
 draft: false
 title: "The Nightmare of Druaga (PS2)"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/04/29/the-nightmare-of-druaga-ps2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's a roguelike, it's the next chapter in TWO long running game series... but is it any good?"
-categories:
+description: "It's a roguelike, it's the next chapter in TWO long running game series... but is it any good?"
+tags:
   - "PS2"
   - "Rogue-Likes"
-tags:
   - "Chocobo Mystery Dungeon"
   - "Mystery Dungeon"
   - "Rogue"
   - "The Nightmare of Druaga"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421183241.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421183241.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421183241.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In the beginning, there was the game "Rogue". Fifty levels of dungeon, each randomly generated, and you didn't know what anything you picked up did, exactly, without rolling the dice and quaffing, reading, wielding, eating or equipping it. Monsters moved when you moved; if you didn't move, nothing else happened. Over time, you would grow hungry and weary. Time and the environment were as much dangerous as the monsters.

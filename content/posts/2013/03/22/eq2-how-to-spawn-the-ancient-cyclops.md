@@ -2,11 +2,38 @@
 date: '2013-03-22T06:43:20-05:00'
 draft: false
 title: "EQ2: How to spawn the Ancient Cyclops"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/03/22/eq2-how-to-spawn-the-ancient-cyclops/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-21-32-47-480x294.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-21-32-47-480x294.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-21-32-47-480x294.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-21-32-47-480x294.jpg" title="Camp Check!" class="align-center" >}}

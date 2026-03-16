@@ -2,11 +2,38 @@
 date: '2007-06-04T06:50:19-05:00'
 draft: false
 title: "EQ2: Ganking Q's on Nagafen"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/06/04/eq2-ganking-qs-on-nagafen/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/naggy.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/06/naggy.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/06/naggy.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![naggy.jpg](https://chasingdings.com/wp-content/uploads/2007/06/naggy.jpg)Lord of the Rings Online being a bore (but a pretty one) -- I didn't even last through my free month -- I was desperate to get some fun back into my online gaming. My 9-year old niece suggested [Neopets](http://www.neopets.com)*, and that was fun for awhile.

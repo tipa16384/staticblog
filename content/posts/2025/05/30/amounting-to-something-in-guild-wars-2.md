@@ -2,15 +2,40 @@
 date: '2025-05-30T18:40:18-05:00'
 draft: false
 title: "Amounting to something in Guild Wars 2"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/05/30/amounting-to-something-in-guild-wars-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's about mounts. In Guild Wars 2."
-categories:
+description: "It's about mounts. In Guild Wars 2."
+tags:
   - "Guild Wars"
   - "MMORPG"
-tags:
   - "Mounts"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/1-gw031.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/05/1-gw031.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/05/1-gw031.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I couldn't just leave it with getting the Skyscale mount in Guild Wars. And on the other hand, I'd feel guilty forcing Team Spode to help me out with every little thing as if I needed to be given anything.

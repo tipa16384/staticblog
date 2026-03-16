@@ -2,18 +2,44 @@
 date: '2020-05-10T03:35:23-05:00'
 draft: false
 title: "Game Log: EQOA, DCUO, EverQuest, PCSX2"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/10/game-log-eqoa-dcuo-everquest-pcsx2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "EverQuest"
   - "MMORPG"
-tags:
   - "DC Universe Online"
   - "Eq Zone Viewer"
   - "Everquest Online Adventures"
   - "PCSX2"
   - "Project1999"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-09-20-55-21-56.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-09-20-55-21-56.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-09-20-55-21-56.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We've been getting into EverQuest a little here, and some perfect storm of the new version of the best PS2 emulator out there, [PCSX2](https://pcsx2.net/293-pcsx2-1-6-0-is-out.html), EverQuest nostalgia (BF and I spent some time making new EQ characters on various servers and checking up on our older characters) got me wondering how the EverQuest Online Adventures fans were doing with their reboot, [Project: Return Home](https://www.projectreturnhome.com/).

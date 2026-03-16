@@ -2,8 +2,25 @@
 date: '2025-08-04T08:53:41-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/04/i-know-what-i-did-last-weekend-5/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "My monthly grab bag of stuff I've been up to recently..."
-categories:
+description: "My monthly grab bag of stuff I've been up to recently..."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Dune Awakening"
@@ -14,7 +31,16 @@ categories:
   - "MMORPG"
   - "Tabletop Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/bewarethesandworm.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/bewarethesandworm.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/bewarethesandworm.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Sometimes stuff happens and it just doesn't seem to rise to the level of a whole blog post, and so I like to sometimes just do a potpourri post... a post-pourri, I guess.

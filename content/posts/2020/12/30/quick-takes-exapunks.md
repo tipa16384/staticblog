@@ -2,18 +2,43 @@
 date: '2020-12-30T09:05:06-05:00'
 draft: false
 title: "Quick Takes: Exapunks"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/30/quick-takes-exapunks/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Basically Cyberpunk 2077, except you never leave your bedroom."
-categories:
+description: "Basically Cyberpunk 2077, except you never leave your bedroom."
+tags:
   - "Quick Takes"
   - "Steam Games"
-tags:
   - "Exapunks"
   - "Programming"
   - "Puzzle"
   - "Steam"
   - "Zachtronics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/20201230072838_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/20201230072838_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/20201230072838_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Take a hacker plot that mixes up *Hackers*, *The Matrix*, *Johnny Mnemonic*, *The Cuckoo's Egg *and *Neuromancer*.  Add a little *2600 Magazine* and [Captain Crunch](https://en.wikipedia.org/wiki/John_Draper). Mix in the standard Zachtronics programming puzzles you already know from *SpaceChem*, *TIS-100* and *Shenzen I/O*. And now you've got Exapunks all over you.

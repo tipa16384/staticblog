@@ -2,16 +2,41 @@
 date: '2024-09-08T08:00:00-05:00'
 draft: false
 title: "The End of the Dragon of Icespire Peak"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/08/the-end-of-the-dragon-of-icespire-peak/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable."
-categories:
+description: "Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable."
+tags:
   - "Dungeon Crawl Classics"
   - "Dungeons & Dragons"
   - "Miniatures"
   - "Tabletop Games"
-tags:
   - "Icespire Peak"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/1-IMG_4688.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/1-IMG_4688.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/1-IMG_4688.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In our previous session, we fully explored the ruined fortress at the top of Icespire Peak while the dragon, Cryovein, was off harassing the bandit crew we'd just run off. 

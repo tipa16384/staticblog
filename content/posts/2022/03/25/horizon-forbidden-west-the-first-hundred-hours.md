@@ -2,15 +2,41 @@
 date: '2022-03-25T08:25:09-05:00'
 draft: false
 title: "Horizon Forbidden West: The First Hundred Hours"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/25/horizon-forbidden-west-the-first-hundred-hours/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Open World RPG"
   - "PS5"
-tags:
   - "Horizon"
   - "Horizon Forbidden West"
   - "Horizon Zero Dawn"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/Horizon-Forbidden-West_20220219085401-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/Horizon-Forbidden-West_20220219085401-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/Horizon-Forbidden-West_20220219085401-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Supergirl meets up with the Justice League of Future America to once again, save the world. But first, she will have to defeat the Legion of Doom. What evil plot does Lex Luthor have up his sleeve?

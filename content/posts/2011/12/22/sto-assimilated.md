@@ -2,11 +2,38 @@
 date: '2011-12-22T07:51:44-05:00'
 draft: false
 title: "STO: Assimilated"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/12/22/sto-assimilated/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/glowy.png"
-cover: "https://chasingdings.com/wp-content/uploads/2011/12/glowy.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/12/glowy.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/glowy.png" title="May the force be with you" class="align-center" >}}

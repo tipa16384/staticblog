@@ -2,8 +2,37 @@
 date: '2008-06-26T09:03:38-05:00'
 draft: false
 title: "Etha Gray"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/26/etha-gray/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A long time ago, writer and radio show host Etha Gray visited [St. Matthias' Episcopal Church](http://www.encyclopedia.com/doc/1G1-152190242.html) in Seaside, CA, where I was a lay reader and member of the Bishop's Council. She was such an inspiration that I... well, I named my favorite EverQuest character after her -- Etha Tanglewood. Whenever I saw the name, I thought of her.

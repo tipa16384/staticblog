@@ -2,12 +2,38 @@
 date: '2008-06-27T08:11:38-05:00'
 draft: false
 title: "Floating in the abyss with Dungeon Crawl"
-categories:
-  - "Other Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/27/floating-in-the-abyss-with-dungeon-crawl/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Other Games"
   - "Dungeon Crawl"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/abyss.png"
-cover: "https://chasingdings.com/wp-content/uploads/2008/06/abyss.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/06/abyss.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![abyss.png](https://chasingdings.com/wp-content/uploads/2008/06/abyss.png)

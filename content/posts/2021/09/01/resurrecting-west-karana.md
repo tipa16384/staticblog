@@ -2,18 +2,43 @@
 date: '2021-09-01T07:48:11-05:00'
 draft: false
 title: "Resurrecting West Karana"
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/01/resurrecting-west-karana/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
-  - "Aws"
   - "Blaugust"
+  - "Aws"
   - "Devops"
   - "Github"
   - "Markdown"
   - "Python"
   - "West Karana"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was fascinated by UltrViolet's DevOps-ification of his blog, "[Endgame Viable](https://endgameviable.com/dev/2021/08/status-quest-for-the-one-blog-part-13/)". The sort of stuff he's doing is the sort of stuff I do every day at work. I'm getting paid to get better at doing all of this stuff, but my own blog can't take advantage?

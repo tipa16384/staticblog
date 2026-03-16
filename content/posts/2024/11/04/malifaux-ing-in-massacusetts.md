@@ -2,18 +2,43 @@
 date: '2024-11-04T08:00:00-05:00'
 draft: false
 title: "Malifaux-ing in Massachusetts"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/11/04/malifaux-ing-in-massacusetts/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?"
-categories:
+description: "To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?"
+tags:
   - "Malifaux"
   - "Strategy"
   - "Tabletop Games"
   - "Tactics"
-tags:
   - "Halloween"
   - "Tournament"
   - "Webway Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/carverbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/11/carverbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/11/carverbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I thought Carver Day was some holiday I didn't know about. Google says that it's actually in January, to celebrate George Washington Carver, and celebrates the death of the famous inventory. There's also a Carver Day in July to honor his birth. November is... I dunno what's in November. Only an hour and a half trip to this Worcester suburb and through some of Massachusetts famously terrible drivers and much more terrible roads to a small store absolutely filled to the brim with Malifaux players, some Magic players, and a wedding reception.

@@ -2,18 +2,43 @@
 date: '2022-04-08T20:06:46-05:00'
 draft: false
 title: "How Much is that Star Trek NFT in the Window?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blockchain"
   - "Crypto Game"
   - "NFT"
-tags:
   - "Atari"
   - "Coinbase"
-  - "NFT"
   - "Opensea"
   - "Wax.io"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/04/Screenshot-2022-04-08-184902.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/04/Screenshot-2022-04-08-184902.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/04/Screenshot-2022-04-08-184902.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 You aren't going to enjoy the RECUR/Paramount.xyz experience -- and you won't be able to afford it, either. I went through the process to make a Star Trek NFT profile picture, one recognized by Twitter, and I did it for a fraction of the price and I got exactly what I wanted. Here's how you can do the same.

@@ -2,11 +2,38 @@
 date: '2007-06-09T09:35:49-05:00'
 draft: false
 title: "Emerald Halls and the Plane of Growth"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/06/09/emerald-halls-and-the-plane-of-growth/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/eq000076.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/06/eq000076.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/06/eq000076.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We raided Emerald Halls last night, and the whole thing reminded me so much of old Everquest's Plane of Growth... so before getting into our Emerald Halls raid, a little nostalgia to another zone that, years ago, was *also* filled with loads and loads of trash, mobs with a zillion hit points, and more growing things than you could pile on your lawn and burn in a lifetime.

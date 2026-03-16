@@ -2,11 +2,38 @@
 date: '2007-10-01T06:09:26-05:00'
 draft: false
 title: "EQ2: Knights of the Round...."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/10/01/eq2-knights-of-the-round-and-nizara-woohoo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/09/sod1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/09/sod1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/09/sod1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![sod1.jpg](https://chasingdings.com/wp-content/uploads/2007/09/sod1.jpg)*

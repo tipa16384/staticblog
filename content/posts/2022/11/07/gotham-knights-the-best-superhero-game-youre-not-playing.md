@@ -2,19 +2,44 @@
 date: '2022-11-07T23:42:14-05:00'
 draft: false
 title: "Gotham Knights - The Best Superhero Game You're Not Playing"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Gotham Knights is the perfect game for Batman fans who want an open world game with a good story."
-categories:
+description: "Gotham Knights is the perfect game for Batman fans who want an open world game with a good story."
+tags:
   - "Batman"
   - "Gotham Knights"
   - "Open World RPG"
   - "PS5"
   - "Video Game"
-tags:
   - "DC Comics"
   - "DC Universe Online"
   - "RPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Batman is dead, killed by his longtime foe Ra's al-Ghul. The city is in chaos with the loss of their defender. Commissioner Gordon is dead and the Gotham City Police are in the pocket of the mob. The Penguin has gone straight. Mr. Freeze is on a rampage. Harley Quinn has some nefarious plan in mind. Mindless shards of Clayface have been spotted. The League of Shadows is lurking about, the Court of Owls is on the move, and Batman's last case, the murder of a Professor Langstrom, is still unsolved.

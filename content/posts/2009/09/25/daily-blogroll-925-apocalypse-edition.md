@@ -2,7 +2,25 @@
 date: '2009-09-25T07:08:45-05:00'
 draft: false
 title: "Daily Blogroll 9/25 - Apocalypse edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/25/daily-blogroll-925-apocalypse-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "Chronicles of Spellborn"
   - "Earth Eternal"
@@ -10,7 +28,16 @@ categories:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Adventuring after a mysterious apocalypse forever changed the landscape, with strange creatures everywhere and a refugee populace just trying to survive in a mutant world overrun with danger.... I didn't even know I'd gotten into the Earth Eternal closed beta. ~~Tails~~ Tales of my chubby little rat rogue, the kind that Cinderella did NOT want helping make her dress, once I've seen more of the game.

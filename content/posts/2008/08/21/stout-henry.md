@@ -2,15 +2,40 @@
 date: '2008-08-21T01:00:48-05:00'
 draft: false
 title: "Stout Henry"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/21/stout-henry/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "MMORPG"
   - "Stout Henry"
-tags:
   - "Not Funny"
-  - "Stout Henry"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/stouthenry.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/stouthenry.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/stouthenry.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/08/stouthenry.jpg "stouthenry")This is a story about Stout Henry, an average citizen of an average land, doing the average things one might do, in a land far away.

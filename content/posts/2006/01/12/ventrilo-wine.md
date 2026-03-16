@@ -2,11 +2,38 @@
 date: '2006-01-12T00:00:00-05:00'
 draft: false
 title: "Ventrilo Wine"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/01/12/ventrilo-wine/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "World of Warcraft"
 featured_image: "http://www.winehq.org/images/winehq_top_logo.png"
-cover: "http://www.winehq.org/images/winehq_top_logo.png"
+cover:
+  image: "http://www.winehq.org/images/winehq_top_logo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](http://www.winehq.org/images/winehq_top_logo.png)

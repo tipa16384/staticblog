@@ -2,16 +2,42 @@
 date: '2008-11-21T09:39:36-05:00'
 draft: false
 title: "EQ2: Crafting an alliance"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/21/eq2-crafting-an-alliance/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Crafting"
   - "Moors of Ykesha"
   - "The Shadow Odyssey"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 No, really, I'm sure there are millions of puns out there about "crafting" and "tradeskills". No laws against them. They aren't WEA-PUNS of LAUGHS INSTRUCTION, after all.

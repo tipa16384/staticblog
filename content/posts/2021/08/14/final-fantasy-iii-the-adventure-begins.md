@@ -2,16 +2,41 @@
 date: '2021-08-14T09:51:19-05:00'
 draft: false
 title: "Final Fantasy III -- The Adventure Begins!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/14/final-fantasy-iii-the-adventure-begins/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Final Fantasy"
   - "Final Fantasy III"
   - "Steam Games"
-tags:
-  - "Blaugust"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210813233332_1-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210813233332_1-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210813233332_1-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Final Fantasy I was a lot of fun. I really struggled which of the old NES Final Fantasy games to play next. FF2 added Cid and Chocobos -- two elements that appeared in every Final Fantasy game afterwards. FF3, though, adds the *jobs* system, and I really wanted to try that.

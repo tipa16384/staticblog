@@ -2,16 +2,42 @@
 date: '2008-10-03T08:43:43-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Archmage"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/03/straight-talk-warhammer-the-archmage/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
-tags:
   - "Archmage"
   - "High Elf"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/d2sorceress.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/d2sorceress.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/d2sorceress.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I admit it, life before Warhammer Online: Age of Reckoning was fairly bland and meaningless. My life before I became consumed by WHOOOOAAAAA was just a shadow -- a shadow OF a shadow, really. Before Public Quests, how could I really do a quest? Before the Tome of Knowledge, how would I know what to do? Before Open Groups, how would I ever find a group? MMOs before WAR were mostly people just standing around, without direction, without anything to do.

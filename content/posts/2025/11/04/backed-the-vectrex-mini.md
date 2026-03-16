@@ -2,14 +2,39 @@
 date: '2025-11-04T08:00:00-05:00'
 draft: false
 title: "Backed the Vectrex Mini"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/04/backed-the-vectrex-mini/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Here's what I know about it. Which is a bit."
-categories:
+description: "Here's what I know about it. Which is a bit."
+tags:
   - "Kickstarter"
   - "Vectrex"
-tags:
   - "Vectrex Mini"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/vectrexdemo-scaled.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/vectrexdemo-scaled.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/vectrexdemo-scaled.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yay! I backed it! You can, too! I'll tell you about it in a second, but first, I want you to take a good look at the header image.

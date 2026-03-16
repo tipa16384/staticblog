@@ -2,11 +2,38 @@
 date: '2006-12-13T10:14:42-05:00'
 draft: false
 title: "Green Monster Games and Other Ramblings"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/12/13/green-monster-games-and-other-ramblings/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/12/Schilling_NPC_in_EQ2_closeup.thumbnail.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/12/Schilling_NPC_in_EQ2_closeup.thumbnail.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/12/Schilling_NPC_in_EQ2_closeup.thumbnail.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Schilling_NPC_in_EQ2_closeup.jpg](https://chasingdings.com/wp-content/uploads/2006/12/Schilling_NPC_in_EQ2_closeup.thumbnail.jpg)On the news that [Green Monster Games](http://www.greenmonstergames.net/) is continuing to drain people from SOE, I have to wonder just what happened to Curt Schillings' avatar within EQ2. It was supposed to be put in game somewhere after the ALS promotion ended... My guess? In a dark, secret room somewhere that players never see, Curt Schilling's avatar is killed over and over by a horde of giggling goblins while the manacled avatars of Blackguard and Moorgard watch helplessly.

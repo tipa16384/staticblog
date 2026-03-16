@@ -2,15 +2,41 @@
 date: '2023-07-31T22:24:02-05:00'
 draft: false
 title: "OMG it's that time again already!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/07/31/omg-its-that-time-again-already/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "EverQuest"
-tags:
   - "Crimson Eternity"
   - "Welcometoblaugust"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/07/blaugust2023-logo-full.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2023/07/blaugust2023-logo-full.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/07/blaugust2023-logo-full.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Welcome to Blaugust!

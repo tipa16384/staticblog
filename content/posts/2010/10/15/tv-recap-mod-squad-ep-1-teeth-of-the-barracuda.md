@@ -2,11 +2,38 @@
 date: '2010-10-15T06:33:22-05:00'
 draft: false
 title: "TV Recap: Mod Squad ep 1, \"Teeth of the Barracuda\""
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/10/15/tv-recap-mod-squad-ep-1-teeth-of-the-barracuda/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "TV Recaps"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/modsquad.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/07/modsquad.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/07/modsquad.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/07/modsquad.jpg "The Mod Squad -- in Color")

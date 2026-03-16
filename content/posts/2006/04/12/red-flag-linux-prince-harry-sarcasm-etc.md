@@ -2,10 +2,37 @@
 date: '2006-04-12T00:00:00-05:00'
 draft: false
 title: "Red Flag Linux, Prince Harry, Sarcasm, etc."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/04/12/red-flag-linux-prince-harry-sarcasm-etc/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "http://upload.wikimedia.org/wikipedia/en/b/b8/Red_Flag_Linux_logo.png"
-cover: "http://upload.wikimedia.org/wikipedia/en/b/b8/Red_Flag_Linux_logo.png"
+cover:
+  image: "http://upload.wikimedia.org/wikipedia/en/b/b8/Red_Flag_Linux_logo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Was just surfing, and came across mention of China's government-sanctioned Linux distro, [Red Flag Linux](http://en.wikipedia.org/wiki/Red_Flag_Linux). It has the cutest logo ever... but I wonder how they reconcile the freedom and openness signified by Tux, the Linux Penguin, with the oppressive communist regime of the PRC?

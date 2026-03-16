@@ -2,15 +2,41 @@
 date: '2020-09-23T07:57:50-05:00'
 draft: false
 title: "Kingdoms of Amalur: Twitch combat"
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/23/kingdoms-of-amalur-twitch-combat/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "Kingdoms of Amalur: Reckoning"
   - "RPG"
   - "Twitch"
   - "Youtube"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/1-streaming_client-2020-09-22-23-09-00-17.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/1-streaming_client-2020-09-22-23-09-00-17.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/1-streaming_client-2020-09-22-23-09-00-17.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This post today isn't actually about Kingdoms of Amalur: Re-Reckoning. Mostly.

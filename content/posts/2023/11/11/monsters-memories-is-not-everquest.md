@@ -2,14 +2,39 @@
 date: '2023-11-11T20:20:05-05:00'
 draft: false
 title: "Monsters & Memories is not EverQuest"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/11/monsters-memories-is-not-everquest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "...except in all the ways it IS EverQuest, of course."
-categories:
+description: "...except in all the ways it IS EverQuest, of course."
+tags:
   - "EverQuest"
   - "Monsters & Memories"
-tags:
   - "Stress Test"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/mnmisnoteq.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/mnmisnoteq.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/mnmisnoteq.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's a few MMOs coming out in the next few years that try to evoke the feeling EverQuest gave new players the first time they played it. An MMO where going alone was almost always a prescription for death. Where dying meant losing everything you had on you, unless you could make it safely back to where you died -- and back home again. An MMO where every level was fought for, and could be lost (along with all your stuff) at your next death. An MMO where night was *dark*. An MMO without any quest hubs, without glowing arrows, without maps, without any in game tutorials, without *anything*, except for the friends you made, without whom the game would be unplayable.

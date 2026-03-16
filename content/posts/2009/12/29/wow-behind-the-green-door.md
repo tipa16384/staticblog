@@ -2,11 +2,38 @@
 date: '2009-12-29T07:55:06-05:00'
 draft: false
 title: "WoW: Behind the Green Door"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/12/29/wow-behind-the-green-door/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/faction-480x357.png"
-cover: "https://chasingdings.com/wp-content/uploads/2009/12/faction-480x357.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/12/faction-480x357.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While leveling Tipa the Gnome Rogue through WoW's classic dungeons, it was brought home to me again and again how my poor level of twinkitude was hurting my standings in random groups. Even though I read lots of WoW Rogue guides on setting my talent spec and what sort of ability rotation to use, and even though my average dps has risen from 65 to 175 in the past few days, in groups I am not often a top performer. Sometimes half the group is doubling my dps. They have amazing looking weapons and armor with shoulders up to HERE.

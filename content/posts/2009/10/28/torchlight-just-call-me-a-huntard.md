@@ -2,11 +2,38 @@
 date: '2009-10-28T06:04:23-05:00'
 draft: false
 title: "Torchlight: Just call me a Huntard...."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/28/torchlight-just-call-me-a-huntard/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Torchlight"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/Torchlight-2009-10-28-00-27-09-44.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/10/Torchlight-2009-10-28-00-27-09-44.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/10/Torchlight-2009-10-28-00-27-09-44.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Tipa the Vanquisher](https://chasingdings.com/wp-content/uploads/2009/10/Torchlight-2009-10-28-00-27-09-44.jpg "Tipa the Vanquisher")

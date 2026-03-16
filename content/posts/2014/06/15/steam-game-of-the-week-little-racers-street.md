@@ -2,14 +2,40 @@
 date: '2014-06-15T07:11:22-05:00'
 draft: false
 title: "Steam Game of the Week: Little Racers STREET"
-categories:
-  - "Other Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/06/15/steam-game-of-the-week-little-racers-street/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Other Games"
   - "Arcade"
   - "Racing"
   - "Top Down"
 featured_image: "https://lh5.googleusercontent.com/-rccMy-gwepE/U51_Un5JBnI/AAAAAAAAvF0/T9hgf1q6JMs/w741-h593-no/LittleRacersStreet+2014-06-15+07-11-12-06.jpg"
-cover: "https://lh5.googleusercontent.com/-rccMy-gwepE/U51_Un5JBnI/AAAAAAAAvF0/T9hgf1q6JMs/w741-h593-no/LittleRacersStreet+2014-06-15+07-11-12-06.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-rccMy-gwepE/U51_Un5JBnI/AAAAAAAAvF0/T9hgf1q6JMs/w741-h593-no/LittleRacersStreet+2014-06-15+07-11-12-06.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every couple of weeks I buy something cheap and fun on Steam. Transistor a few weeks ago, Mirror's Edge the week before last, Injustice: Gods Among Us last week. This week's game is Little Racers STREET.

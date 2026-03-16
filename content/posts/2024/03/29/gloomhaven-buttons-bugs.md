@@ -2,17 +2,42 @@
 date: '2024-03-29T07:00:00-05:00'
 draft: false
 title: "Gloomhaven: Buttons & Bugs"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/03/29/gloomhaven-buttons-bugs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "What if Gloomhaven, but tiny? Cephalofair has managed to cram 10kg of board game into a box no bigger than four decks of cards stacked together."
-categories:
+description: "What if Gloomhaven, but tiny? Cephalofair has managed to cram 10kg of board game into a box no bigger than four decks of cards stacked together."
+tags:
   - "Frosthaven"
   - "Gloomhaven"
   - "Tabletop Games"
-tags:
   - "Buttons & Bugs"
   - "Gloomholdin'"
   - "Jaws of the Lion"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/pic8114705.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2024/03/pic8114705.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/03/pic8114705.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A few years back, a dedicated fan made a print-and-play Gloomhaven conversion that put a version of the game into 18 cards that you could play entirely in your hand. (This was called [Gloomholdin'](https://boardgamegeek.com/boardgame/340909/gloomholdin), designed by [Joe Klipfel](https://boardgamegeek.com/boardgamedesigner/135009/joe-klipfel) using assets graciously licensed by Cephalofair games). Gloomholdin' won a bunch of awards and made a big splash in the online Gloomhaven community. I was thinking about giving it a shot. It was just so wild -- arranging these cards like some intricate puzzle so you always knew what was going on.

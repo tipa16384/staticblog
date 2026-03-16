@@ -2,11 +2,38 @@
 date: '2015-12-29T18:57:44-05:00'
 draft: false
 title: "An Overdue Encounter"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/12/29/an-overdue-encounter/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg" title="Let me stamp that for you..." class="align-center" >}}

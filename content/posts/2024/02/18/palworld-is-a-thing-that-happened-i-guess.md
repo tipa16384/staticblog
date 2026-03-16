@@ -2,15 +2,40 @@
 date: '2024-02-18T08:00:00-05:00'
 draft: false
 title: "Palworld is a thing that happened, I guess"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/02/18/palworld-is-a-thing-that-happened-i-guess/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I'm still playing Palworld, but I'm really not sure why..."
-categories:
+description: "I'm still playing Palworld, but I'm really not sure why..."
+tags:
   - "Palworld"
   - "Pokemon"
   - "Survival"
-tags:
   - "Sandbox"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/02/swifty.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/02/swifty.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/02/swifty.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't want to start on a down note, here. I've dropped a hundred hours into Palworld, and I bet I have twenty or thirty more before I finish the main quest line. Pokemon Legends: Arceus is my favorite Pokemon game. I love survival games like Valheim and V Rising. I love seeing what what the little people get up to in the Sims.

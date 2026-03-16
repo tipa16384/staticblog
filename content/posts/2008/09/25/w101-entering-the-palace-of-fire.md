@@ -2,10 +2,27 @@
 date: '2008-09-25T12:00:57-05:00'
 draft: false
 title: "W101: Entering the Palace of Fire"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/25/w101-entering-the-palace-of-fire/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Chamber of Flames"
   - "Krokosphinx"
   - "Krokotopia"
@@ -13,9 +30,17 @@ tags:
   - "Pyramid of the Sun"
   - "Royal Halls"
   - "Sprite Guardian"
-  - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg "wizardgraphicalclient-2008-09-24-20-52-32-26")

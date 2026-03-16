@@ -2,11 +2,38 @@
 date: '2009-11-04T07:01:39-05:00'
 draft: false
 title: "EVE Online: It's Wabbit Season"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/11/04/eve-online-its-wabbit-season/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-03-23-55-23-64.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-03-23-55-23-64.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-03-23-55-23-64.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Very, very far from home](https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-03-23-55-23-64.jpg "Very, very far from home")

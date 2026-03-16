@@ -2,16 +2,41 @@
 date: '2025-08-03T08:00:00-05:00'
 draft: false
 title: "Pryzm: The Review: Part 1."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/03/pryzm-the-review-part-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's hot troll-on-unicorn action as Karrock and Pryzm take on the plague of corruption infecting their world."
-categories:
+description: "It's hot troll-on-unicorn action as Karrock and Pryzm take on the plague of corruption infecting their world."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "PS2"
-tags:
   - "Action Adventure Game"
   - "PCSX2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/pryzmbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/pryzmbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/pryzmbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Today's post was going to be on another topic entirely. But we were at a retro game store, as we often are, and Kasul pulled out this PlayStation 2 game, a game I'd never heard of: Pryzm Chapter One: The Dark Unicorn. The store had *three copies*. This puts it squarely into Madden[1](#c88b2f5a-d297-4a07-ac47-a81ef88bb10b) territory.

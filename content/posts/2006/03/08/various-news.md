@@ -2,12 +2,39 @@
 date: '2006-03-08T00:00:00-05:00'
 draft: false
 title: "Various News"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/03/08/various-news/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "http://www.boingboing.net/images/_images_cat-piano.jpg"
-cover: "http://www.boingboing.net/images/_images_cat-piano.jpg"
+cover:
+  image: "http://www.boingboing.net/images/_images_cat-piano.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](http://www.boingboing.net/images/_images_cat-piano.jpg)

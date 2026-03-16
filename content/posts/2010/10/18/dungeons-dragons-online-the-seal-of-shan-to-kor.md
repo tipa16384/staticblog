@@ -2,17 +2,43 @@
 date: '2010-10-18T23:19:12-05:00'
 draft: false
 title: "Dungeons & Dragons Online: The Seal of Shan-To-Kor"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/10/18/dungeons-dragons-online-the-seal-of-shan-to-kor/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-tags:
   - "Dungeon Crawl"
   - "Guild"
   - "Guild Hall"
   - "Shan to Kor"
   - "Static Group"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg "Group Portrait")](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg)

@@ -2,10 +2,27 @@
 date: '2008-10-22T12:14:46-05:00'
 draft: false
 title: "How to start an EverQuest blog."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/22/how-to-start-an-everquest-blog/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Blog"
   - "Bloggers"
   - "No Really"
@@ -14,6 +31,17 @@ tags:
   - "Wru Bloggers"
   - "You Can Blog"
   - "You Can Do It"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 1) Be an EverQuest player of any level, experience, anything. This is the tough step.

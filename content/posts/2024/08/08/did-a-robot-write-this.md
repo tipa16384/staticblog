@@ -2,15 +2,40 @@
 date: '2024-08-08T07:00:00-05:00'
 draft: false
 title: "Did a robot write this?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/08/did-a-robot-write-this/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "When it was revealed that more than one blog was relying upon AI-generated content, the blogosphere erupted in righteous indignation. Why?"
-categories:
+description: "When it was revealed that more than one blog was relying upon AI-generated content, the blogosphere erupted in righteous indignation. Why?"
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Generative AI"
-tags:
   - "Blogging"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Belghast, who runs Blaugust every year, [wrote today](https://aggronaut.com/2024/08/07/blaugust-and-large-language-models/) about his complicated feelings regarding some participating blogs that were using LLMs -- large language models, what most people these days call "AI" -- to generate their blog posts.

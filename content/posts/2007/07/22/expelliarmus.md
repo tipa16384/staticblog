@@ -2,10 +2,37 @@
 date: '2007-07-22T11:22:39-05:00'
 draft: false
 title: "Expelliarmus!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/07/22/expelliarmus/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/07/stp60621.JPG"
-cover: "https://chasingdings.com/wp-content/uploads/2007/07/stp60621.JPG"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/07/stp60621.JPG"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![stp60621.JPG](https://chasingdings.com/wp-content/uploads/2007/07/stp60621.JPG)

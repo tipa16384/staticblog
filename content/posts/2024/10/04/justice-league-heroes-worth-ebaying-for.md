@@ -2,17 +2,42 @@
 date: '2024-10-04T08:00:00-05:00'
 draft: false
 title: "Justice League Heroes: Worth eBaying for?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/04/justice-league-heroes-worth-ebaying-for/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Loved Champions of Norrath and Return to Arms. Snowblind's next game was Justice League Heroes. Can it be just as good? Better?"
-categories:
+description: "Loved Champions of Norrath and Return to Arms. Snowblind's next game was Justice League Heroes. Can it be just as good? Better?"
+tags:
   - "Action RPG"
   - "DC Comics"
   - "Lord of the Rings"
   - "PS2"
-tags:
   - "Justice League Heroes"
   - "Snowblind Studios"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've played a few of Snowblind Studios' RPGs for the PlayStation 2; each of them has been a really great RPG. Each time the engine improved, the number of things you could do improved, different story paths... Some of the best action RPGs for the system came out of the studio.

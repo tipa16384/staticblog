@@ -2,18 +2,43 @@
 date: '2022-09-11T11:47:24-05:00'
 draft: false
 title: "Game Night: Flamecraft"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/11/game-night-flamecraft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Flamecraft is a light-hearted game in which players take on the role of Flamekeepers, tasked with helping Artisan dragons create a variety of goods using their specialized flames. The game is easy to pick up and play, with players taking turns visiting shops, placing dragons, and casting enchantments to earn rewards.."
-categories:
+description: "Flamecraft is a light-hearted game in which players take on the role of Flamekeepers, tasked with helping Artisan dragons create a variety of goods using their specialized flames. The game is easy to pick up and play, with players taking turns visiting shops, placing dragons, and casting enchantments to earn rewards.."
+tags:
   - "Flamecraft"
   - "Game Night"
   - "Tabletop Game"
-tags:
   - "1-4 Players"
   - "45 Minutes"
   - "Dragons"
   - "Worker Placement"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Flamecraft? It's like Lords of Waterdeep, except instead of being one of the secret masters of city, you knew a lot of cute little dragons, some of whom were fancy. And instead of building shops for dark deeds and hidden quests, they were shops where you could bake bread, or cut some meat, or grind up nice smelling herbs into potions, and instead of fighting against corruption, you just wanted yourself and your dragons to have the best reputation in town.

@@ -2,19 +2,44 @@
 date: '2025-03-10T08:00:00-05:00'
 draft: false
 title: "How To Fail at Writing A Game in 7 Days"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/03/10/how-to-fail-at-writing-a-game-in-7-days/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Also, lots of Tunnels & Trolls-adjacent stuff."
-categories:
+description: "Also, lots of Tunnels & Trolls-adjacent stuff."
+tags:
   - "7DRL"
   - "Generative AI"
   - "Kickstarter"
-tags:
   - "Ken St Andre"
   - "Rebellion"
   - "Skull Quest"
   - "Trollgod"
   - "Tunnels & Trolls"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/gamedevadventure.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/03/gamedevadventure.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/03/gamedevadventure.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every year, hobbyist game developers (and some pros) are tasked with writing an original game in just seven days, and it has to be a roguelike. What roguelike *means* is up for debate, with almost any particular roguelike breaking some of the supposed rules, which include randomized levels, randomized loot, a punishing difficulty with no continues, top down perspective, ASCII graphics and stuff like that.

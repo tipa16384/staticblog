@@ -2,14 +2,41 @@
 date: '2009-12-21T01:05:41-05:00'
 draft: false
 title: "Weekend Gaming: WoW, AoC, EVE, W101 et al"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/12/21/weekend-gaming-wow-aoc-eve-w101-et-al/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "EVE Online"
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg "Weeping Plant Boss")

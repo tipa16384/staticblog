@@ -2,10 +2,37 @@
 date: '2006-08-01T10:14:18-05:00'
 draft: false
 title: "Artifacts of a Misspent Youth"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/08/01/artifacts-of-a-misspent-youth/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/EntranceToolPict.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2006/08/EntranceToolPict.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/08/EntranceToolPict.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Entrance Tool for Magic Cap](https://chasingdings.com/wp-content/uploads/2006/08/EntranceToolPict.gif) Okay, so not really anything to do with a misspent youth, but if the [Internet Wayback Machine](http://www.archive.org/index.php) had been around when I was a kid, I'd be dredging up bad poetry and long, long rants about how unfair the world was instead of bits and pieces of my [old web site](http://web.archive.org/web/20021129103855/http://www.darfstellar.com/).

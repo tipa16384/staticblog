@@ -2,13 +2,39 @@
 date: '2020-11-15T09:38:32-05:00'
 draft: false
 title: "The Prusa i3 Mk3S 3D printer: When you just want to print"
-categories:
-  - "3D Printing"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/11/15/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "3D Printing"
   - "Creality Ender 3 Pro"
   - "Prusa"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/11/howitstarted.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/11/howitstarted.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/11/howitstarted.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I chose my first 3D printer carefully. I lurked on r/3dprinting for months, reading all their guides, looking at what they were printing, finding people who were doing the sorts of things with their printer that I wanted to do, and finally ordered the best of the bunch: The Creality Ender 3 Pro. There was a lot of help for it and a lot of support, and I was so excited by it, that I ordered it the moment I had a couple hundred bucks I didn't need. Because it was *affordable*, too. Budget printing for amazing results.

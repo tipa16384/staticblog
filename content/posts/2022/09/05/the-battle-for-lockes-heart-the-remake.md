@@ -2,19 +2,44 @@
 date: '2022-09-05T09:41:00-05:00'
 draft: false
 title: "The Battle for Locke's Heart: The Remake"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/05/the-battle-for-lockes-heart-the-remake/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "More Celes/Terra/Locke fanfic, I'm afraid. I gave TerraChat a lot more background on the characters and their motivations, than before."
-categories:
+description: "More Celes/Terra/Locke fanfic, I'm afraid. I gave TerraChat a lot more background on the characters and their motivations, than before."
+tags:
   - "Fanfic"
   - "Final Fantasy"
   - "OpenAI"
-tags:
   - "Celes"
   - "Dall-E 2"
   - "Gpt-3"
   - "Locke"
   - "Terra"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-04-21.39.29-Digital-painting-of-a-tall-woman-with-green-hair-in-a-high-ponytail-a-long-blonde-woman-wearing-armor-a-man-in-blue-jeans-and-jacket-a-gentleman-ga.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Celes and Terra glared at each other, both trying to keep their emotions in check. They both knew that Locke was caught in the middle, and they didn't want to hurt him. But they couldn't help feeling jealous of each other. 

@@ -2,14 +2,39 @@
 date: '2025-09-09T08:00:00-05:00'
 draft: false
 title: "Dune Awakening: Order of the Wombat Steps Out"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/09/dune-awakening-order-of-the-wombat-steps-out/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I'm sad that this carrier's future is going to be as burning scrap next to a large spice blow as enemy assault 'thopters hover nearby."
-categories:
+description: "I'm sad that this carrier's future is going to be as burning scrap next to a large spice blow as enemy assault 'thopters hover nearby."
+tags:
   - "Dune Awakening"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250908074317_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250908074317_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250908074317_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I guess I don't *really* think the carrier is going to be shot out of the sky. But we live in the Deep Desert now -- and it's the kind of place where that kind of thing happens.

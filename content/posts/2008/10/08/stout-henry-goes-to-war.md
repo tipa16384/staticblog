@@ -2,14 +2,39 @@
 date: '2008-10-08T08:37:45-05:00'
 draft: false
 title: "Stout Henry goes to war"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/08/stout-henry-goes-to-war/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "MMORPG"
   - "Stout Henry"
-tags:
-  - "Stout Henry"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/vgclient-2008-10-07-20-41-55-41.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/vgclient-2008-10-07-20-41-55-41.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/vgclient-2008-10-07-20-41-55-41.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/vgclient-2008-10-07-20-41-55-41.jpg "vgclient-2008-10-07-20-41-55-41") Being a generally peaceful land, few people ever saw the inside of Cotsberry Prison, and those that did were often the sons of nobles who were left to sleep off their drunken carouses out of the sight of commoners. As such, the cells were clean and dry, the cot mattresses stuffed with soft feathers and the ticking, tick-free.

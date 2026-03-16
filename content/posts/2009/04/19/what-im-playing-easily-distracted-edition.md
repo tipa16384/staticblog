@@ -2,7 +2,25 @@
 date: '2009-04-19T13:37:38-05:00'
 draft: false
 title: "What I'm Playing: Easily Distracted edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/19/what-im-playing-easily-distracted-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "EverQuest"
   - "Free Realms"
@@ -10,7 +28,16 @@ categories:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 These are the games I've played at least a little in the past week. I'm going to end up with Chronicles of Spellborn, because I haven't talked about it in awhile.

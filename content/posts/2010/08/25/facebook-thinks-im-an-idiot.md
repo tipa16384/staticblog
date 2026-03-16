@@ -2,15 +2,41 @@
 date: '2010-08-25T18:24:04-05:00'
 draft: false
 title: "Facebook thinks I'm an idiot."
-categories:
-  - "Facebook Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/25/facebook-thinks-im-an-idiot/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Facebook Games"
   - "Adware"
   - "Facebook"
   - "Scam"
   - "Spyware"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg "Stupid ad.")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg)

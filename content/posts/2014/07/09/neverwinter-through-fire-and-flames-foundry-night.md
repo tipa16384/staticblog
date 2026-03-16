@@ -2,13 +2,39 @@
 date: '2014-07-09T07:04:20-05:00'
 draft: false
 title: "Neverwinter: Through Fire and Flames -- Foundry Night!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/07/09/neverwinter-through-fire-and-flames-foundry-night/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh3.googleusercontent.com/-qJFH52EuAz0/U7vXSfgxfVI/AAAAAAAAxhg/1z4Q-HvtbXQ/w907-h727-no/GameClient+2014-07-07+20-52-12-13.jpg"
-cover: "https://lh3.googleusercontent.com/-qJFH52EuAz0/U7vXSfgxfVI/AAAAAAAAxhg/1z4Q-HvtbXQ/w907-h727-no/GameClient+2014-07-07+20-52-12-13.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-qJFH52EuAz0/U7vXSfgxfVI/AAAAAAAAxhg/1z4Q-HvtbXQ/w907-h727-no/GameClient+2014-07-07+20-52-12-13.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Heaters gonna heat!](https://lh3.googleusercontent.com/-qJFH52EuAz0/U7vXSfgxfVI/AAAAAAAAxhg/1z4Q-HvtbXQ/w907-h727-no/GameClient+2014-07-07+20-52-12-13.jpg)

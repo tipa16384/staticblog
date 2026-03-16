@@ -2,17 +2,42 @@
 date: '2024-12-27T08:28:55-05:00'
 draft: false
 title: "The Best Puzzle Games of 2024"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/12/27/the-best-puzzle-games-of-2024/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "These were the games that made me think this year."
-categories:
-  - "Puzzle Games"
+description: "These were the games that made me think this year."
 tags:
+  - "Puzzle Games"
   - "Best Of 2024"
   - "Cryptmaster"
   - "Humanity"
   - "Sixty Four"
   - "Zachtronics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/puzzlegamesbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/12/puzzlegamesbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/12/puzzlegamesbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked Midjourney to make a screenshot for a puzzle game to use as a background, and it gave me what looks to be a screen from a Moss VR level. But Moss 2 is an adventure game! That's a different day.

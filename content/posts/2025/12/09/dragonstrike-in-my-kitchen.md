@@ -2,15 +2,40 @@
 date: '2025-12-09T08:00:00-05:00'
 draft: false
 title: "DragonStrike in my kitchen?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/09/dragonstrike-in-my-kitchen/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We finally got the dragon aerial combat game to the table, and it was an unqualified hit."
-categories:
+description: "We finally got the dragon aerial combat game to the table, and it was an unqualified hit."
+tags:
   - "Game Night"
   - "Tabletop Games"
-tags:
   - "Dragonstrike"
   - "Fighting Hedgehog"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/1-IMG_5562-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/12/1-IMG_5562-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/1-IMG_5562-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The most unfortunate thing about the DragonStrike board game [that was kickstarted last year](https://www.kickstarter.com/projects/clashofspears/dragonstrike/) is the name; there's at least two, and possibly three, games by that name already. Potential players have got to be asking themselves if this is a remake of one of the older games, maybe the one with [a dragon with a motorized head](https://www.amazon.com/Dragon-Strike-Game-Motorized-Sweepin/dp/B00005YXWT)?

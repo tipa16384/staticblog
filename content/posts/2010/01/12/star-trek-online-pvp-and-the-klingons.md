@@ -2,11 +2,38 @@
 date: '2010-01-12T00:16:55-05:00'
 draft: false
 title: "Star Trek Online: PvP and the Klingons"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/01/12/star-trek-online-pvp-and-the-klingons/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-10-14-14-23.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-10-14-14-23.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-10-14-14-23.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In my first Star Trek Online open beta post, I gave [a brief overview](https://chasingdings.com/index.php/2010/01/11/star-trek-online-a-first-look/) of the entire game. In the second, I covered the basics of [character and ship customization](https://chasingdings.com/index.php/2010/01/11/star-trek-online-character-and-ship-creation/). After that, I went over some of the beginning tactics you'll be using in [space combat](https://chasingdings.com/index.php/2010/01/11/star-trek-online-basic-space-combat-video/). In this post, I'd like to talk about PvP.

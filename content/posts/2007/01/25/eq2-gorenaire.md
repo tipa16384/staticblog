@@ -2,11 +2,38 @@
 date: '2007-01-25T12:12:30-05:00'
 draft: false
 title: "EQ2: Gorenaire"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/01/25/eq2-gorenaire/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/gorethumb.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/01/gorethumb.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/01/gorethumb.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![gorethumb.jpg](https://chasingdings.com/wp-content/uploads/2007/01/gorethumb.jpg)Lauren over at [Mystic Worlds](http://notadiary.typepad.com/mysticworlds/) was bemoaning the fact a month or so ago that she [hadn't seen any pictures of EQ2 boss mobs!](http://notadiary.typepad.com/mysticworlds/2006/12/missing_the_god.html) She wanted to feel the danger and majesty of those fell creatures whom raids must take down.

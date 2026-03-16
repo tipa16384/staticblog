@@ -2,14 +2,40 @@
 date: '2020-05-13T11:41:00-05:00'
 draft: false
 title: "EverQuest: Bones Everywhere."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/13/everquest-bones-everywhere/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Mangler"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I saw my bf running around in Nektulos Forest yesterday on his baby cleric, and just had to join in.

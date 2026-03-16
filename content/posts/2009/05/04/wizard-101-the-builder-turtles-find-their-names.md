@@ -2,9 +2,38 @@
 date: '2009-05-04T18:06:23-05:00'
 draft: false
 title: "Wizard 101: The Builder Turtles find their names!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/04/wizard-101-the-builder-turtles-find-their-names/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 That contest all we Wizard 101 fansites had last week? Where we named the Builder Turtles for Wizard 101 player housing? The votes are in, the challenges have been made, the lawyers for all sides have counted and re-counted the votes, and the Spiral Supreme Court has made their ruling, and here are the names of your Builder Turtles!

@@ -2,15 +2,40 @@
 date: '2025-09-16T07:47:59-05:00'
 draft: false
 title: "HeroQuest First Light: The Fortress of the Fire King"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/16/heroquest-first-light-the-fortress-of-the-fire-king/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The Witch Queen Kessandria encounters the FO part of FAFO."
-categories:
+description: "The Witch Queen Kessandria encounters the FO part of FAFO."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "First Light"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/IMG_5371-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/IMG_5371-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/IMG_5371-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 With the rogue gaining a shield and the dwarf a bunch of armor and a battleaxe, we're finding ourselves on the far side of the power curve.

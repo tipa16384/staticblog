@@ -2,15 +2,41 @@
 date: '2008-12-15T10:16:44-05:00'
 draft: false
 title: "EQ2: The Icy Keep ... of LAG."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/15/eq2-the-icy-keep-of-lag/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Frostfell"
   - "The Icy Keep"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg "everquest2-2008-12-14-16-56-40-60")

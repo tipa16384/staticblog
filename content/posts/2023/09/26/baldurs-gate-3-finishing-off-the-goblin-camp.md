@@ -2,15 +2,40 @@
 date: '2023-09-26T08:24:01-05:00'
 draft: false
 title: "Baldur's Gate 3: Finishing off  the Goblin Camp"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/26/baldurs-gate-3-finishing-off-the-goblin-camp/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Jump magic, jump."
-categories:
+description: "Jump magic, jump."
+tags:
   - "Baldur's Gate 3"
   - "PS5"
-tags:
   - "Goblin Camp"
   - "The Labyrinth"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/jumpmagicjump.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/jumpmagicjump.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/jumpmagicjump.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The last time I had a moment to play Baldur's Gate 3, I had just finished off the first of the Goblin Camp's three bosses, the goblin High Priestess Gut. I then explored, without the rest of the party, some of the back rooms, solved a rotating disk puzzle that required lighting torches to give hints, declined to go down the dark stairway alone, and returned to the party.

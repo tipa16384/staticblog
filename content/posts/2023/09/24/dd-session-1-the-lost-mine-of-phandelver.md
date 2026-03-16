@@ -2,18 +2,43 @@
 date: '2023-09-24T16:29:36-05:00'
 draft: false
 title: "D&D Session 1: The Lost Mine of Phandelver"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/24/dd-session-1-the-lost-mine-of-phandelver/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This is a ChatGPT-written description of our first D&D session in the 5e starter adventure, The Lost Mine of Phandelver."
-categories:
+description: "This is a ChatGPT-written description of our first D&D session in the 5e starter adventure, The Lost Mine of Phandelver."
+tags:
   - "Dungeons & Dragons"
   - "Game Night"
   - "Tabletop Game"
-tags:
   - "5e"
   - "D&d"
   - "Phandalin"
   - "Phandelver"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/Phandelverobservers.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/Phandelverobservers.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/Phandelverobservers.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This was written by ChatGPT 4 based on our DM's notes.

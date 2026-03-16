@@ -2,10 +2,26 @@
 date: '2024-04-16T07:31:20-05:00'
 draft: false
 title: "That is not a sandworm in your driveway"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Just random stuff I've asked ChatGPT..."
-categories:
-  - "General"
+description: "Just random stuff I've asked ChatGPT..."
 tags:
+  - "General"
   - "AI"
   - "Bell Book and Candle"
   - "Bewitched"
@@ -14,7 +30,16 @@ tags:
   - "Mr. Bean"
   - "Sandworms"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/sandwormindriveway.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/04/sandwormindriveway.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/04/sandwormindriveway.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have nobody who will take my weird questions seriously.

@@ -2,16 +2,42 @@
 date: '2008-09-24T07:55:04-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Dwarf Engineer"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/24/straight-talk-warhammer-the-dwarf-engineer/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
-tags:
   - "Dwarf"
   - "Engineer"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/bomberman.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/bomberman.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/bomberman.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Ever since Blizzard created the MMORPG genre with World of Warcraft, generations of people wondered if the genre they invented would end with that game -- it was just so good, such a shining gem of perfection, that to add or subtract any one thing to that game would just mar its sublime beauty.

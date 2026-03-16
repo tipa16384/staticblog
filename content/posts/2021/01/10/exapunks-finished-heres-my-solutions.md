@@ -2,16 +2,42 @@
 date: '2021-01-10T18:01:14-05:00'
 draft: false
 title: "EXAPUNKS Finished! Here's my solutions..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/01/10/exapunks-finished-heres-my-solutions/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Puzzle Games"
   - "Steam Games"
-tags:
   - "Exapunks"
   - "Puzzle"
   - "Steam"
   - "Zachtronics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/01/exaepilogue.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/01/exaepilogue.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/01/exaepilogue.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Okay, I have been working on EXAPUNKS the last few weekends, and *dreaming* about it most nights. But I'm done with the main plot; got the achievement for proof, and I'm going to exorcise the game by writing down how I solved each puzzle.

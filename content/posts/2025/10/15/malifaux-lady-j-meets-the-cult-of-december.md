@@ -2,14 +2,39 @@
 date: '2025-10-15T08:13:48-05:00'
 draft: false
 title: "Malifaux: Lady J meets the Cult of December"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/15/malifaux-lady-j-meets-the-cult-of-december/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I died to a FREAKIN' PINATA?"
-categories:
+description: "I died to a FREAKIN' PINATA?"
+tags:
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "Pack Rat Gaming"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5423-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5423-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5423-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Quick recap: Malifaux is a story-based miniatures skirmish game where factions battle it out for the resources of the magical world on the other side of a mysterious breach that was opened in Europe in the late 19th century. The Guild is the faction comprised of the European governments that seek to control access to that world. There are twelve "titans" in the magical world that manifest as spirits that form alliances with the humans that travel to that world; the titan December resides within former Guild prisoner Rasputina. Lady J -- Lady Justice -- is the head of the Guild's "Death Marshalls", a squad of death dealers charged with rooting out necromancers. After a epic battle left Lady J blind and weakened, and her lover and most of her squad dead, Justice started using necromancy herself in order to sense the world around her and bring back her dead squad to continue their mission.

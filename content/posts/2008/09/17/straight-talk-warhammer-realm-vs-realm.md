@@ -2,7 +2,25 @@
 date: '2008-09-17T08:00:54-05:00'
 draft: false
 title: "Straight Talk Warhammer: Realm vs Realm"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/17/straight-talk-warhammer-realm-vs-realm/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dark Ages of Camelot"
   - "EverQuest"
   - "Humor"
@@ -10,10 +28,18 @@ categories:
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-tags:
   - "Not Funny"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/warcraftbattle.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/warcraftbattle.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/warcraftbattle.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Hey, welcome back to the second in our exclusive series about the exciting innovative gameplay of Mythic's Warhammer Online: Age of Reckoning.

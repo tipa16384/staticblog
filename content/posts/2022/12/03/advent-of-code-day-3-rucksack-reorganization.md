@@ -2,17 +2,43 @@
 date: '2022-12-03T20:59:41-05:00'
 draft: false
 title: "Advent of Code Day 3 -- Rucksack Reorganization"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/03/advent-of-code-day-3-rucksack-reorganization/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Advent of Code"
   - "OpenAI"
-tags:
   - "Advent"
   - "Java"
   - "Lua"
   - "Pico-8"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/aoc2022.3.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/aoc2022.3.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/aoc2022.3.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I did this puzzle last night while writing the post about Day 2. This time I'm not in quite so much of a rush. Weekends.

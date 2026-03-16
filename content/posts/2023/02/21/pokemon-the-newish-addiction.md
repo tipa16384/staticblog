@@ -2,17 +2,41 @@
 date: '2023-02-21T22:16:36-05:00'
 draft: false
 title: "Pokémon: The New(ish) Addiction"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/02/21/pokemon-the-newish-addiction/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "With both Pokémon Go and Pokémon Sword & Shield going on, it's pretty much peak Pokémon at the moment."
-categories:
+description: "With both Pokémon Go and Pokémon Sword & Shield going on, it's pretty much peak Pokémon at the moment."
+tags:
   - "Pokemon"
   - "Valheim"
-tags:
   - "Guild Wars 2"
   - "Octopath Traveler"
-  - "Pokemon"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/02/pokemonaddiction.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/02/pokemonaddiction.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/02/pokemonaddiction.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've been playing Pokémon Go, on and off, since 2016. I've been playing Pokémon since the Red, Blue and Yellow days, when I played them with my kids. It kept them busy during our long trips to drop them off for visitation every couple weeks.

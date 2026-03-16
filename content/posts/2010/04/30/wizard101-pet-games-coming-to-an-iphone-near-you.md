@@ -2,11 +2,38 @@
 date: '2010-04-30T06:27:46-05:00'
 draft: false
 title: "Wizard101: Pet games coming to an iPhone near you?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/30/wizard101-pet-games-coming-to-an-iphone-near-you/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg "Cannon Game")

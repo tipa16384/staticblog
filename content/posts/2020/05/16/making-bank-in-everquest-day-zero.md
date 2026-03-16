@@ -2,14 +2,40 @@
 date: '2020-05-16T12:37:34-05:00'
 draft: false
 title: "Making Bank in EverQuest: Day Zero"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/16/making-bank-in-everquest-day-zero/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Aradune"
   - "TLP"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-15-20-29-01-97.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-15-20-29-01-97.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-15-20-29-01-97.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I kid. I don't know how to make any money in EverQuest, and I never did (but read on, I do have a strategy). You have me down here, and then you have people who know what they're doing up there, and all I can do is just look up in wonder.

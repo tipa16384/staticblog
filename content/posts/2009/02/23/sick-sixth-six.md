@@ -2,12 +2,39 @@
 date: '2009-02-23T18:44:46-05:00'
 draft: false
 title: "Sick Sixth Six!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/23/sick-sixth-six/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/2b0b27c337a6b9f7f5fb6a707be25cb8.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/2b0b27c337a6b9f7f5fb6a707be25cb8.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/2b0b27c337a6b9f7f5fb6a707be25cb8.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Okay, Stargrace [tagged me with a meme](http://mmoquests.com/2009/02/23/sixth-screenshot-meme/) to post the sixth screenshot from the sixth subfolder of my saved screenshots.

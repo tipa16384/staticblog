@@ -2,7 +2,25 @@
 date: '2009-08-26T07:50:40-05:00'
 draft: false
 title: "Täglich Blogroll 26.8 - Auflage: Sturm und Drang"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/08/26/taglich-blogroll-26-8-auflage-sturm-und-drang/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "Daily Blogroll"
   - "EverQuest"
@@ -11,7 +29,16 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/stargateworlds.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/08/stargateworlds.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/08/stargateworlds.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![SG-1 in Stargate Worlds](https://chasingdings.com/wp-content/uploads/2009/08/stargateworlds.jpg "SG-1 in Stargate Worlds")

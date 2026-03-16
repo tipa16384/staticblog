@@ -2,12 +2,39 @@
 date: '2007-02-10T00:19:55-05:00'
 draft: false
 title: "EQ2: There be DRAGONS! Let's kill them."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/02/10/eq2-there-be-dragons-lets-kill-them/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/tarinaxthumb.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/02/tarinaxthumb.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/02/tarinaxthumb.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![tarinaxthumb.jpg](https://chasingdings.com/wp-content/uploads/2007/02/tarinaxthumb.jpg)There be further foul denizens cluttering the shores and deeps of Norrath, and it's my intention to carry on in the grand tradition of halflings everywhere and watch them die.

@@ -2,11 +2,38 @@
 date: '2013-11-10T19:20:29-05:00'
 draft: false
 title: "Merc Science! Is your mercenary RIPPING YOU OFF?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/11/10/merc-science/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-10-16-35-27-26.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-10-16-35-27-26.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-10-16-35-27-26.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-10-16-35-27-26.jpg" title="Ethra and Lord Valkiss take on Captain Goldjaw" class="align-center" >}}

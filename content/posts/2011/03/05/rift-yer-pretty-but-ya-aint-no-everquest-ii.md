@@ -2,12 +2,39 @@
 date: '2011-03-05T08:24:52-05:00'
 draft: false
 title: "Rift, yer pretty, but ya ain't no EverQuest II"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/03/05/rift-yer-pretty-but-ya-aint-no-everquest-ii/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Rift"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg" title="Plushies, Appearance Items and Housing" class="align-center" >}}

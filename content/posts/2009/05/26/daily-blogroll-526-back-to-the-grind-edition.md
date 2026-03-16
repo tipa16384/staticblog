@@ -2,7 +2,25 @@
 date: '2009-05-26T07:39:29-05:00'
 draft: false
 title: "Daily Blogroll 5/26 -- Back to the Grind edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/26/daily-blogroll-526-back-to-the-grind-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "Darkfall"
   - "EVE Online"
@@ -12,7 +30,16 @@ categories:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/mabinogibanner.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/mabinogibanner.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/mabinogibanner.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Oh look! A bunny rabbit!](https://chasingdings.com/wp-content/uploads/2009/05/mabinogibanner.jpg "Oh look! A bunny rabbit!")

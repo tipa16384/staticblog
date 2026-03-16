@@ -2,10 +2,37 @@
 date: '2020-04-21T04:03:40-05:00'
 draft: false
 title: "Octoplastic Traveler"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/04/21/octoplastic-traveler/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Miniatures"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/Alfyn-1024x1024.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/04/Alfyn-1024x1024.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/04/Alfyn-1024x1024.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've got 110 hours into Octopath Traveler on the Switch, and those hundred and ten don't like -- it's a fun game. Frustrating at times... I've been working on the true final ending for a couple of weeks now, slowly improving, getting a little bit further. Most of my characters are around level 70, but that final boss is TOUGH.

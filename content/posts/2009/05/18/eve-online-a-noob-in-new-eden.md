@@ -2,11 +2,38 @@
 date: '2009-05-18T08:20:02-05:00'
 draft: false
 title: "EVE Online: A noob in New Eden"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/18/eve-online-a-noob-in-new-eden/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-17-20-53-19-11.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-17-20-53-19-11.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-17-20-53-19-11.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm in a sort of MMO rut these days, and it's not because MMOs have let me down. They haven't; most of the MMOs I play regularly are extremely good, and if I'm not having much fun, I'm sure it's not he game's fault.

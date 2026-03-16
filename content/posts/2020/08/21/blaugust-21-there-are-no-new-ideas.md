@@ -2,8 +2,24 @@
 date: '2020-08-21T08:18:40-05:00'
 draft: false
 title: "Blaugust #21: There Are No New Ideas"
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/21/blaugust-21-there-are-no-new-ideas/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
   - "Desert Planet"
@@ -11,7 +27,16 @@ tags:
   - "Girls Screaming in British"
   - "Tell Me of Your Homeworld Usul"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/seamonsters.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/seamonsters.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/seamonsters.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My son hates old movies, old songs, old anything. If it's over ten years old, he'll refuse to have anything to do with it -- with certain exceptions. I try to sneak things in, sometimes, but then he'll catch on. "That's Led Zeppelin. Not interested."

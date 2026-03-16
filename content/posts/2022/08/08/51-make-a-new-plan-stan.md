@@ -2,14 +2,40 @@
 date: '2022-08-08T07:47:56-05:00'
 draft: false
 title: "#51: Make a new plan, Stan?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/08/51-make-a-new-plan-stan/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "OpenAI"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-08-07.44.18-Ink-and-watercolor-gray-scale-comic-of-a-woman-sitting-in-a-tent-with-a-campfire-in-the-front-yard-of-a-house..png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-08-07.44.18-Ink-and-watercolor-gray-scale-comic-of-a-woman-sitting-in-a-tent-with-a-campfire-in-the-front-yard-of-a-house..png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-08-07.44.18-Ink-and-watercolor-gray-scale-comic-of-a-woman-sitting-in-a-tent-with-a-campfire-in-the-front-yard-of-a-house..png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI's GPT-3 to list fifty ways to leave your lover... I'm just trying to help out here, Paul Simon!

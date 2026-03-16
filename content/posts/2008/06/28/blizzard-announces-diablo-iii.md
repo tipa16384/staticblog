@@ -2,15 +2,41 @@
 date: '2008-06-28T07:04:40-05:00'
 draft: false
 title: "Blizzard announces Diablo III!"
-categories:
-  - "Other Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/28/blizzard-announces-diablo-iii/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Other Games"
   - "Blizzard"
   - "Diablo"
   - "Diablo 3"
   - "Diablo Iii"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/diablo3.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/06/diablo3.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/06/diablo3.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![diablo3.jpg](https://chasingdings.com/wp-content/uploads/2008/06/diablo3.jpg)

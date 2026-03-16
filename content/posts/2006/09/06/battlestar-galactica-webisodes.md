@@ -2,12 +2,39 @@
 date: '2006-09-06T08:45:32-05:00'
 draft: false
 title: "Battlestar Galactica Webisodes"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/09/06/battlestar-galactica-webisodes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Battlestar Galactica"
   - "Eureka"
   - "Sci Fi"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/09/katie.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/09/katie.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/09/katie.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Katie Sakhoff in Battlestar Galactica](https://chasingdings.com/wp-content/uploads/2006/09/katie.jpg)

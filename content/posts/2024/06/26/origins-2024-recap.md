@@ -2,14 +2,30 @@
 date: '2024-06-26T07:00:00-05:00'
 draft: false
 title: "Origins 2024 Recap"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/06/26/origins-2024-recap/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This was my first Origins. It was a little overwhelming, but I'll do better, next time."
-categories:
+description: "This was my first Origins. It was a little overwhelming, but I'll do better, next time."
+tags:
   - "Frosthaven"
   - "Gloomhaven"
   - "Malifaux"
   - "Tabletop Game"
   - "Tabletop Games"
-tags:
   - "Battletech"
   - "Dice"
   - "Dungeon Crawl Classic"
@@ -18,7 +34,16 @@ tags:
   - "Origins Game Fair"
   - "Traveller"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/06/IMG_4347-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/06/IMG_4347-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/06/IMG_4347-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've been to a lot of gaming conventions, but none that were as full-throatedly devoted to tabletop RPGs and board gaming as the Origins Game Fair. COVID ruined our plans to go in 2023, but this year, nothing was going to stand in our way.

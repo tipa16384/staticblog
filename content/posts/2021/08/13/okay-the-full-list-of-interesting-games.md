@@ -2,14 +2,40 @@
 date: '2021-08-13T19:39:45-05:00'
 draft: false
 title: "Okay -- the FULL LIST of Interesting Games!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/13/okay-the-full-list-of-interesting-games/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "MMORPG"
-tags:
   - "Google Trends"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/supermechachampions.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/supermechachampions.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/supermechachampions.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not going to blast this post anywhere, but if someone was interested in what a full run of the Google Trendifier looks like with about 160 games on the list. I'm still counting it toward my Blaugust quota, though.

@@ -2,19 +2,44 @@
 date: '2024-12-28T11:08:43-05:00'
 draft: false
 title: "The Best of 2024: Adventure Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/12/28/the-best-of-2024-adventure-games/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "They were a mainstay of 80s gaming and then all but disappeared until Portal revolutionized the genre. They are still some of the most fun you can have on a computer."
-categories:
+description: "They were a mainstay of 80s gaming and then all but disappeared until Portal revolutionized the genre. They are still some of the most fun you can have on a computer."
+tags:
   - "Adventure"
   - "Beyond Shadowgate"
   - "Text Adventure Game"
-tags:
   - "Advent"
   - "Colossal Cave Adventure"
   - "Moss"
   - "Poop"
   - "Sable"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/adventurebanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/12/adventurebanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/12/adventurebanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I maybe shouldn't have mentioned Portal in the capsule for this post. Games like Portal don't come around often. There's also a fuzzy line between adventure games and puzzle games. Where would Superliminal fall? Human Fall Flat? Maniac Mansion? I've chosen to define an adventure game as one with a focus on a single character and tells a story.

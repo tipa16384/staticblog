@@ -2,14 +2,41 @@
 date: '2012-10-11T06:51:44-05:00'
 draft: false
 title: "Game Log: Pirate101, Torchlight 2"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/10/11/game-log-pirate101-torchlight-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Diablo 3"
   - "MMORPG"
   - "Other Games"
   - "Pirate101"
   - "Torchlight"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg" title="Rumble in the Presidio" class="align-center" >}}

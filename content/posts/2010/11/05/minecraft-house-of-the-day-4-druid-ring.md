@@ -2,14 +2,40 @@
 date: '2010-11-05T21:43:40-05:00'
 draft: false
 title: "Minecraft: House of the Day #4 -- Druid Ring"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/11/05/minecraft-house-of-the-day-4-druid-ring/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Minecraft"
   - "Other Games"
-tags:
   - "Druid Ring"
   - "House of the Day"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-05-22-33-52-24-480x376.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-05-22-33-52-24-480x376.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-05-22-33-52-24-480x376.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-05-22-33-52-24-480x376.jpg "Druid ring at night")](https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-05-22-33-52-24.jpg)

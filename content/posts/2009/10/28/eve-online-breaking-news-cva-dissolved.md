@@ -2,11 +2,38 @@
 date: '2009-10-28T18:20:17-05:00'
 draft: false
 title: "EVE Online breaking news: CVA dissolved"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/28/eve-online-breaking-news-cva-dissolved/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-09-13-11-23-00-48.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-09-13-11-23-00-48.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-09-13-11-23-00-48.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Random EVE screenie that has nothing to do with this story. But cool Titan, eh?](https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-09-13-11-23-00-48.jpg "Random EVE screenie that has nothing to do with this story. But cool Titan, eh?")

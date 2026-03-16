@@ -2,17 +2,42 @@
 date: '2024-08-05T08:29:00-05:00'
 draft: false
 title: "Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/05/not-gonna-lose-my-blog-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I lost my blog. Backups saved me. Now I'm taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive."
-categories:
+description: "I lost my blog. Backups saved me. Now I'm taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Real Life"
-tags:
   - "3-2-1 Strategy"
   - "Backups"
   - "West Karana"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/3-2-1-Backup-Rule.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/3-2-1-Backup-Rule.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/3-2-1-Backup-Rule.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A few years back, I let my blog's domain name expire. And my blog was gone. Ten years of posts; terrible ones in 2006, but over the years, I learned how to write -- a little. Learned how to get my ideas out on the page -- somewhat. It's a journey.

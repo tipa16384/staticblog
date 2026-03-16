@@ -2,11 +2,37 @@
 date: '2025-10-14T08:44:49-05:00'
 draft: false
 title: "Falling out of love with Duolingo"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/14/falling-out-of-love-with-duolingo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The owl's tireless hunger for my money has finally pushed me out of the nest."
-categories:
+description: "The owl's tireless hunger for my money has finally pushed me out of the nest."
+tags:
   - "Duolingo"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5416.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5416.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5416.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I like to think that I have a flair for the dramatic. I feel like Lady Fuchsia at times, performing to a dark room to an imaginary audience.

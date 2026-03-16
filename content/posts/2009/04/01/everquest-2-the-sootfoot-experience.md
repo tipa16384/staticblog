@@ -2,15 +2,41 @@
 date: '2009-04-01T23:57:42-05:00'
 draft: false
 title: "EverQuest 2: The Sootfoot Experience."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/01/everquest-2-the-sootfoot-experience/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Gu51"
   - "Lavastorm"
   - "Sootfoot"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![everquest2-2009-04-01-23-19-49-21](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg "everquest2-2009-04-01-23-19-49-21")

@@ -2,11 +2,38 @@
 date: '2015-08-25T07:31:25-05:00'
 draft: false
 title: "Who moo? Ramuh."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/08/25/who-moo-ramuh/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-24-21-39-12-97.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-24-21-39-12-97.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-24-21-39-12-97.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-24-21-39-12-97.jpg" title="Moo?" class="align-center" >}}

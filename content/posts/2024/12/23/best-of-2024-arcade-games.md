@@ -2,10 +2,26 @@
 date: '2024-12-23T08:00:00-05:00'
 draft: false
 title: "Best of 2024: Arcade Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/12/23/best-of-2024-arcade-games/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I played dozens of games in 2024. Trying to distill them down to \"the best\" is hard. First up: arcade games."
-categories:
-  - "Arcade Game"
+description: "I played dozens of games in 2024. Trying to distill them down to \"the best\" is hard. First up: arcade games."
 tags:
+  - "Arcade Game"
   - "Best Of 2024"
   - "Buck up and Drive"
   - "Drums Rock"
@@ -13,7 +29,16 @@ tags:
   - "Parappa the Rapper"
   - "Sly Cooper"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't actually played any arcade games in an actual arcade this year. I've been to some, but modern arcade games are so thirsty for your money now. They always were, but it's somehow worse when you have to put money on a card and try to spend exactly amount of that money.

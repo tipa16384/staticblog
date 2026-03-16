@@ -2,18 +2,44 @@
 date: '2022-07-04T23:27:41-05:00'
 draft: false
 title: "Dark Stone, Retroarch, and Steam."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/04/dark-stone-retroarch-and-steam/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Action RPG"
   - "CRPG"
   - "Emulators"
-tags:
   - "Atari 2600"
   - "Dark Stone"
   - "PSX"
   - "Retroarch"
   - "RPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/IMG_2596-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/IMG_2596-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/IMG_2596-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was looking for a game to keep me occupied during the long holiday weekend, and my partner handed me an old RPG from the original PlayStation days -- Dark Stone. It didn't run super well on my usual PSX emulator, so I was forced to try something different -- RetroArch, now on Steam.

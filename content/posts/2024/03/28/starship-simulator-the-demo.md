@@ -2,16 +2,41 @@
 date: '2024-03-28T07:00:00-05:00'
 draft: false
 title: "Starship Simulator: The Demo"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/03/28/starship-simulator-the-demo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "About 200 lightyears inward from Sol hangs a giant nebula in the middle of nothing, and you can go there."
-categories:
+description: "About 200 lightyears inward from Sol hangs a giant nebula in the middle of nothing, and you can go there."
+tags:
   - "Kickstarter"
   - "Starship Simulator"
-tags:
   - "Star Trek"
   - "Steam"
   - "VR"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/starshipsimulatorbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/03/starshipsimulatorbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/03/starshipsimulatorbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 According to the science station on the bridge of the UNSF Magellan, the center of the galaxy is north of 25,000 light years away, it will take a bit less than four days to get there at our cruising speed of 2,000,000 times the speed of light, and there we will find either a gas dwarf planet or perhaps a terrestrial planet. It kept changing its mind.

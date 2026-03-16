@@ -2,14 +2,40 @@
 date: '2025-11-19T08:00:00-05:00'
 draft: false
 title: "Frosthaven #28: Summit Meeting"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/19/frosthaven-28-summit-meeting/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Frosthaven"
   - "Gloomhaven"
   - "Tabletop Games"
-tags:
   - "Summit Meeting"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5490-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5490-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5490-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This scenario... had an *errata*. 

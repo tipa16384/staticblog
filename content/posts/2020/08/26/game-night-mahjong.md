@@ -2,16 +2,42 @@
 date: '2020-08-26T23:01:58-05:00'
 draft: false
 title: "Game Night: Mahjong"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/26/game-night-mahjong/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy XIV"
   - "Game Night"
   - "Tabletop Games"
-tags:
   - "ASMR"
   - "Girls Screaming in Chinese"
   - "Mahjong"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1763-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1763-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1763-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We have been preparing for this night for a *very* long time. Tom has always had an intense interest in Mahjong, especially in the Japanese variant, Riichi Mahjong. He's got books and books about it. Lots of apps. A vast collection of Vita and Super Famicom versions.

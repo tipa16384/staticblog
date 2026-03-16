@@ -2,14 +2,41 @@
 date: '2010-04-17T16:18:27-05:00'
 draft: false
 title: "Quick Shots... WoW, Vanguard, STO, EQ2"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/17/quick-shots-wow-vanguard-sto-eq2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
   - "Vanguard"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/WoW-2010-04-16-19-02-11-50.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/WoW-2010-04-16-19-02-11-50.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/WoW-2010-04-16-19-02-11-50.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/04/WoW-2010-04-16-19-02-11-50.jpg "WoW 2010-04-16 19-02-11-50")](https://chasingdings.com/wp-content/uploads/2010/04/WoW-2010-04-16-19-02-11-50.jpg)

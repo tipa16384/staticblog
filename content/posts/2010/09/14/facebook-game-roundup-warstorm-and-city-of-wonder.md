@@ -2,9 +2,26 @@
 date: '2010-09-14T07:03:37-05:00'
 draft: false
 title: "Facebook game roundup: Warstorm and City of Wonder"
-categories:
-  - "Facebook Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/09/14/facebook-game-roundup-warstorm-and-city-of-wonder/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Facebook Games"
   - "City of Wonder"
   - "Facebook"
   - "Magic the Gathering"
@@ -16,7 +33,16 @@ tags:
   - "Yu-Gi-Oh"
   - "Zynga"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg "Warstorm")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-64431-AM.jpg)

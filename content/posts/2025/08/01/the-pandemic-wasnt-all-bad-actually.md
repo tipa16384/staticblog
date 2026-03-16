@@ -2,16 +2,41 @@
 date: '2025-08-01T08:43:51-05:00'
 draft: false
 title: "The pandemic wasn't all bad, actually..."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/01/the-pandemic-wasnt-all-bad-actually/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Not to minimize the people who got sick or lost family members, but being confined for a few months had its perks."
-categories:
+description: "Not to minimize the people who got sick or lost family members, but being confined for a few months had its perks."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
-tags:
   - "COVID"
   - "Mandolin"
   - "Pandemic"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/covid.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/covid.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/covid.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Whenever people think of the 2020s in the future, they're going to think of the pandemic. It was a worldwide phenomenon. No matter where you go, you're going to be able to ask someone what they did during the pandemic, and how it affected them, and you're going to get a unique story.

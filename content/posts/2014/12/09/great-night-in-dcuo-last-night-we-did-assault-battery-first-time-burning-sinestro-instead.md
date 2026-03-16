@@ -2,10 +2,37 @@
 date: '2014-12-09T00:33:51-05:00'
 draft: false
 title: "Great night in #DCUO  last night. We did ... Assault &amp; Battery -- first time burning Sinestro instead..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/09/great-night-in-dcuo-last-night-we-did-assault-battery-first-time-burning-sinestro-instead/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://lh4.googleusercontent.com/-iUWy6m_GZsE/VIZBu7x-1KI/AAAAAAAA7xU/XLXZtsqBnxY/w506-h750/DCGame%2B2014-12-07%2B22-09-35-21.jpg"
-cover: "https://lh4.googleusercontent.com/-iUWy6m_GZsE/VIZBu7x-1KI/AAAAAAAA7xU/XLXZtsqBnxY/w506-h750/DCGame%2B2014-12-07%2B22-09-35-21.jpg"
+cover:
+  image: "https://lh4.googleusercontent.com/-iUWy6m_GZsE/VIZBu7x-1KI/AAAAAAAA7xU/XLXZtsqBnxY/w506-h750/DCGame%2B2014-12-07%2B22-09-35-21.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Great night in  [#DCUO](https://plus.google.com/s/%23DCUO)  last night. We did ... Assault & Battery -- first time burning Sinestro instead of breaking the tubes first, a LOT easier on us controllers, Epic Odyssey in Paradox Wave -- first time for epic odyssey -- got some new feats in Nexus, found five hunters in ICW... it was a good night. Recently we did Artifacts for the first time, too, though we wiped a lot.

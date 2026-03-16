@@ -2,13 +2,40 @@
 date: '2009-09-04T15:23:50-05:00'
 draft: false
 title: "Gatheryn, Star Trek Online, Hello Kitty Online infomegadump"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/04/gatheryn-star-trek-online-hello-kitty-online-infomegadump/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Gatheryn"
   - "Hello Kitty Online"
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've gotten a bunch of emails telling about updates et al to a lot of games. Rather than write an article about each one, or ignoring them entirely, I thought I'd just combine them into a single post.

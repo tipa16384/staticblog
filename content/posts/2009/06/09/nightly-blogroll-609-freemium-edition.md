@@ -2,13 +2,40 @@
 date: '2009-06-09T23:42:13-05:00'
 draft: false
 title: "Nightly Blogroll 6/09 -- Freemium Edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/09/nightly-blogroll-609-freemium-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "MMORPG"
   - "Star Trek"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/ddo.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/ddo.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/ddo.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Dungeons & Dragons Online goes Free to Play](https://chasingdings.com/wp-content/uploads/2009/06/ddo.jpg "Dungeons & Dragons Online goes Free to Play")

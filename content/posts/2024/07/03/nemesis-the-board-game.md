@@ -2,16 +2,41 @@
 date: '2024-07-03T08:00:08-05:00'
 draft: false
 title: "Nemesis: The Board Game"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/07/03/nemesis-the-board-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Stop me if you've heard this one before. You've been awakened from hibernation by your starship's AI. Something has gone wrong. It's... Aliens. I mean Intruders."
-categories:
+description: "Stop me if you've heard this one before. You've been awakened from hibernation by your starship's AI. Something has gone wrong. It's... Aliens. I mean Intruders."
+tags:
   - "Game Night"
   - "Nemesis"
   - "Tabletop Games"
-tags:
   - "Alien"
   - "Prometheus"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/1-pic8211747.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/07/1-pic8211747.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/07/1-pic8211747.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Spoiler alert: Nemesis is the legally-distinct board game of the movie "Alien".

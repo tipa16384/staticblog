@@ -2,11 +2,38 @@
 date: '2012-10-26T08:18:33-05:00'
 draft: false
 title: "Pirate101 Ninja Pig codes? OMG!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/10/26/pirate101-ninja-pig-codes-omg/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Pirate101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-22-20-11-09-47-480x269.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-22-20-11-09-47-480x269.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-22-20-11-09-47-480x269.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-22-20-11-09-47-480x269.jpg" title="But only three!" class="align-center" >}}

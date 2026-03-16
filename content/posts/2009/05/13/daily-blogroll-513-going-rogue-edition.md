@@ -2,7 +2,25 @@
 date: '2009-05-13T07:27:25-05:00'
 draft: false
 title: "Daily Blogroll 5/13 -- Going Rogue edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/13/daily-blogroll-513-going-rogue-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "Daily Blogroll"
   - "EverQuest"
@@ -15,7 +33,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/angelatheangelic.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/angelatheangelic.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/angelatheangelic.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Angela the Angelic](https://chasingdings.com/wp-content/uploads/2009/05/angelatheangelic.jpg "Angela the Angelic")

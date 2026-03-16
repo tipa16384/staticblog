@@ -2,13 +2,39 @@
 date: '2014-12-29T14:56:10-05:00'
 draft: false
 title: "DCUO: Death to the Necropolis!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/29/dcuo-death-to-the-necropolisteam-spode-completed-the-necropolis-relics-of-urgrund-last-night-for/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh3.googleusercontent.com/-eTGcYrcHX_k/VKFjWBkNNhI/AAAAAAAA9rg/ndQWxJNnJMU/w506-h750/MLOC124_AUDIO-PC-28-22.59.080.jpg"
-cover: "https://lh3.googleusercontent.com/-eTGcYrcHX_k/VKFjWBkNNhI/AAAAAAAA9rg/ndQWxJNnJMU/w506-h750/MLOC124_AUDIO-PC-28-22.59.080.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-eTGcYrcHX_k/VKFjWBkNNhI/AAAAAAAA9rg/ndQWxJNnJMU/w506-h750/MLOC124_AUDIO-PC-28-22.59.080.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Team Spode completed the Necropolis: Relics of Urgrund last night for the first time as a league, though I think most of the heroes of Team Spode had done it in pickup raids before (not me). The raid is kind of muddled; it all looks just as brown and dull as this screen shot.

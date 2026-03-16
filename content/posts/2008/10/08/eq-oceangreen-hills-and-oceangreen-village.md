@@ -2,18 +2,43 @@
 date: '2008-10-08T10:00:21-05:00'
 draft: false
 title: "EQ: Oceangreen Hills and Oceangreen Village"
-categories:
-  - "EverQuest"
-  - "MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/08/eq-oceangreen-hills-and-oceangreen-village/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "EverQuest"
+  - "MMORPG"
   - "Eq Expansion"
   - "Game Update"
   - "Oceangreen Hills"
   - "Oceangreen Village"
   - "Seeds of Destruction"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-07-23-48-01-47.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-07-23-48-01-47.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-07-23-48-01-47.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'll say straight out that I can be slow sometimes. Even after all the clues from the last update, even after I knew that the Herald of Druzzil Ro would be sending me into Norrath's past, I didn't really connect the dots, right away. I landed in a place called Oceangreen Hills, and the area chat channel was called The Void, so I just assumed that I had landed in a particularly verdant part of the (incredibly inaccurately named) Void.

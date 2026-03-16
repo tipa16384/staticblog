@@ -2,14 +2,40 @@
 date: '2020-09-08T22:28:15-05:00'
 draft: false
 title: "Life in Pandemia: At least the bicycle shops are doing well..."
-categories:
-  - "Real Life"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/08/life-in-pandemia-at-least-the-bicycle-shops-are-doing-well/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Real Life"
   - "Catrike559"
   - "Love in a Time of Corona"
   - "Peugeot"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1891.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1891.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1891.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My next birthday is a "5" year -- a year evenly divisible by five. I'm not going to tell you how many times that five can fit in the year, but it's more than five. So on my next birthday, I've decided that I'm going to do a "bucket list" activity and climb Mount Washington, the highest mountain in the northeast.

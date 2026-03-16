@@ -2,8 +2,37 @@
 date: '2006-06-22T00:00:00-05:00'
 draft: false
 title: "Demographics of the Blogosphere"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/06/22/demographics-of-the-blogosphere/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I guess it was only a matter of time before some company found a way to glean polling information from blogs. CNN [has a story](http://www.cnn.com/2006/TECH/internet/06/22/blogs.gasprices/index.html) about how automated programs search millions of blogs to determine how people feel about the issues of the day -- in this case, rising gas prices.

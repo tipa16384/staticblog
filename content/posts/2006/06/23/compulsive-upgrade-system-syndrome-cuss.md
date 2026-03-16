@@ -2,10 +2,37 @@
 date: '2006-06-23T00:00:00-05:00'
 draft: false
 title: "Compulsive Upgrade System Syndrome (CUSS)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/06/23/compulsive-upgrade-system-syndrome-cuss/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "http://www.old-computers.com/museum/photos/Compupro_816_System_1.jpg"
-cover: "http://www.old-computers.com/museum/photos/Compupro_816_System_1.jpg"
+cover:
+  image: "http://www.old-computers.com/museum/photos/Compupro_816_System_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was out in the warehouse this morning, installing new software on the UPS machine... and during this long, dull process, was *looking* at the computer itself, an old Gateway, the flat kind you put on your desk and sat a monitor on top... Whatever happened to computers you put on your desk? I've used towers for years...

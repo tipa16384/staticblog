@@ -2,11 +2,27 @@
 date: '2025-09-04T08:00:00-05:00'
 draft: false
 title: "Still More Confessions of a Kickstarter Superbacker"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here's what I'm waiting for today."
-categories:
+description: "Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here's what I'm waiting for today."
+tags:
   - "Kickstarter"
   - "Mystery Dice"
-tags:
   - "Dragonstrike"
   - "Embers"
   - "Even Steven"
@@ -15,8 +31,17 @@ tags:
   - "Pocket RPG"
   - "The Red Dragon Inn"
   - "Zachtronics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/image-4-150x150.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/image-4-150x150.png"
+featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/superbacker.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/04/superbacker.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Alright, how have I wasted my money recently... Quickly, because I have a lot to get through. Why do I do this?

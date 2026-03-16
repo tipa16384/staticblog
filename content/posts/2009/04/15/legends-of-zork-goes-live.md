@@ -2,10 +2,37 @@
 date: '2009-04-15T06:54:33-05:00'
 draft: false
 title: "Legends of Zork goes live! (UPDATED!)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/15/legends-of-zork-goes-live/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Legends of Zork"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4152009-71336-am.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4152009-71336-am.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4152009-71336-am.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Ready to return to the last days of the Great Underground Empire and carve bloody Zorkmids from the flesh of every goblin you find? Are you prepared to match wits with a troll? And if not, why not? They aren't very bright and let's face it, if YOU think the stench is bad, think of how THEY feel. They have to live with it ALL THE TIME. Killing them would be doing them a FAVOR. Especially those holding shiny treasures; those are the ones who need your help the MOST, because the shiny treasure only continually reminds them of how wretched they are compared to you, the best the Frobozz Magic Company has to offer. You just might be one of the [Legends of Zork](http://legendsofzork.com)!

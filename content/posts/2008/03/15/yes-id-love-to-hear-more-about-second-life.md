@@ -2,11 +2,38 @@
 date: '2008-03-15T08:58:12-05:00'
 draft: false
 title: "Yes, I'd love to hear more about Second Life"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/15/yes-id-love-to-hear-more-about-second-life/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Second Life"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/slnpr.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/03/slnpr.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/03/slnpr.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![slnpr.jpg](https://chasingdings.com/wp-content/uploads/2008/03/slnpr.jpg)

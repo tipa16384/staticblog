@@ -2,11 +2,38 @@
 date: '2014-12-23T01:46:50-05:00'
 draft: false
 title: "Gauntlet: Throwing Down."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/23/i-thought-i-would-just-dive-into-gauntlet-in-normal-mode-i-was-okay-at-this-in-the-arcades-thirty/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Gauntlet"
   - "Other Games"
 featured_image: "https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg"
-cover: "https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I thought I would just dive into Gauntlet in "Normal" mode. I was okay at this, in the arcades, thirty years ago. Nothing much has changed, right?

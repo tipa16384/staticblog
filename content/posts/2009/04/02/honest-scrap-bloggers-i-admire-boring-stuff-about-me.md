@@ -2,10 +2,37 @@
 date: '2009-04-02T12:29:17-05:00'
 draft: false
 title: "Honest Scrap. Bloggers I admire, boring stuff about me."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/02/honest-scrap-bloggers-i-admire-boring-stuff-about-me/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/honest_scrap1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/honest_scrap1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/honest_scrap1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So, thanks to Stargrace at [MMOQuests.com](http://mmoquests.com/2009/03/31/another-meme/) and Peter at [Dragonchasers.com](http://dragonchasers.com/2009/03/30/memed/) for their kind words :)

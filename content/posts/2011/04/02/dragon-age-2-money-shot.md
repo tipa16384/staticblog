@@ -2,11 +2,38 @@
 date: '2011-04-02T13:52:36-05:00'
 draft: false
 title: "Dragon Age 2: Money shot"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/04/02/dragon-age-2-money-shot/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dragon Age Origins"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/da23d-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/04/da23d-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/04/da23d-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/da23d-480x384.jpg" title="Just get 3D glasses already" class="align-center" >}}

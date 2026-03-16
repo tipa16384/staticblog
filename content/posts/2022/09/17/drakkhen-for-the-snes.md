@@ -2,18 +2,44 @@
 date: '2022-09-17T15:53:34-05:00'
 draft: false
 title: "Drakkhen for the Super Nintendo: An Unexpected Gem"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/17/drakkhen-for-the-snes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Console Game"
   - "RPG"
   - "Super Nintendo"
-tags:
   - "Analogue"
   - "Drakkhen"
   - "Drakkhen Ii"
   - "Kemco"
   - "Snes"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/drakkhentitle.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/09/drakkhentitle.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/09/drakkhentitle.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 As I promised Terra in my last post, I would be playing Drakkhen for the Super Nintendo. It's 3D! It has dragons! You get to create your own party! And dragons! Well, there may be a couple bad eggs in the bushel.

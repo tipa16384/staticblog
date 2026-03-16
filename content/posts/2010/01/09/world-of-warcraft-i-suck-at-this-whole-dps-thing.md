@@ -2,11 +2,38 @@
 date: '2010-01-09T11:51:56-05:00'
 draft: false
 title: "World of Warcraft: I suck at this whole DPS thing."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/01/09/world-of-warcraft-i-suck-at-this-whole-dps-thing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-09-10-20-42-35-480x397.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-09-10-20-42-35-480x397.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-09-10-20-42-35-480x397.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Bhagpuss commented on [my previous WoW article](https://chasingdings.com/index.php/2009/12/29/wow-behind-the-green-door/) that he never really cared to know how much DPS he was doing in a group, and was just satisfied if the instance went well. I can kinda see his point. It's a game, right? As long as you're having fun, the game is doing its job.

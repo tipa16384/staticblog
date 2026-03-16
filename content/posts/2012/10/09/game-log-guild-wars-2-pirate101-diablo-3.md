@@ -2,10 +2,37 @@
 date: '2012-10-09T23:38:18-05:00'
 draft: false
 title: "Game Log: Guild Wars 2, Pirate101, Diablo 3"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/10/09/game-log-guild-wars-2-pirate101-diablo-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-09-23-35-43-68-480x282.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-09-23-35-43-68-480x282.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-09-23-35-43-68-480x282.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-09-23-35-43-68-480x282.jpg" title="Guild Wars 2" class="align-center" >}}

@@ -2,11 +2,38 @@
 date: '2012-12-16T11:15:55-05:00'
 draft: false
 title: "EQ2: Player Foundry -- goldmine or lost opportunity?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/12/16/eq2-player-foundry/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-15-22-17-08-72-480x324.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-15-22-17-08-72-480x324.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-15-22-17-08-72-480x324.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-15-22-17-08-72-480x324.jpg" title="Player made Heroic Ornate Chest" class="align-center" >}}

@@ -2,12 +2,39 @@
 date: '2008-08-29T08:43:03-05:00'
 draft: false
 title: "EQ: I love the smell of Harpies in the morning"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/29/eq-i-love-the-smell-of-harpies-in-the-morning/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-28-22-24-18-62.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-28-22-24-18-62.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-28-22-24-18-62.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-28-22-24-18-62.jpg "eqgame-2008-08-28-22-24-18-62")

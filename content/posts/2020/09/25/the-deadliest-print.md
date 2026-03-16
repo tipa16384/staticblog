@@ -2,13 +2,40 @@
 date: '2020-09-25T07:00:00-05:00'
 draft: false
 title: "The Deadliest Print"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/25/the-deadliest-print/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Gloomhaven"
   - "Miniatures"
   - "Tabletop Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1927.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1927.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1927.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I more or less love my 3D printer. More or less. I can make physical stuff out of bits -- that's pretty cool.

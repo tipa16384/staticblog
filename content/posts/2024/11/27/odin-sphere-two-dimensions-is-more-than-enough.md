@@ -2,19 +2,44 @@
 date: '2024-11-27T14:04:28-05:00'
 draft: false
 title: "Odin Sphere: Two dimensions is more than enough"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/11/27/odin-sphere-two-dimensions-is-more-than-enough/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin."
-categories:
+description: "It's a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin."
+tags:
   - "Action Adventure Games"
   - "Action RPG"
   - "PS2"
   - "PS4"
   - "RPG"
-tags:
   - "Atlus"
   - "Odin Sphere"
   - "PS3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/odinsphere.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/11/odinsphere.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/11/odinsphere.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Around the middle part of the 2000s, there was an explosion of 2D side-scrolling MMOs. LaTale, Dragon Saga, MapleStory -- it was a *thing*. And a fun thing! These MMOs tended to be packed with action, NPCs and quests, and they typically had very quick grouping that just begged for your team to take on levels again and again, looking for loot and high scores.

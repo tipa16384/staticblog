@@ -2,8 +2,37 @@
 date: '2007-10-22T07:08:42-05:00'
 draft: false
 title: "CompUSA vs Best Buy"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/10/22/compusa-vs-best-buy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My son's laptop started shutting off for no reason last week. For a guy who spends as much time online as he does, that's a tragedy. And a tragedy for me, too -- because I could just see how repairing the laptop could cost more than the laptop was worth, and nothing bugs me as much as throwing away good stuff just because it costs too much to fix.

@@ -2,10 +2,37 @@
 date: '2012-04-05T21:03:05-05:00'
 draft: false
 title: "Will Kickstarter usher in the age of boutique gaming?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/04/05/will-kickstarter-usher-in-the-age-of-boutique-gaming/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/04/dfa-480x360.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/04/dfa-480x360.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/04/dfa-480x360.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2012/04/dfa-480x360.jpg "Double Fine Adventure")](https://chasingdings.com/wp-content/uploads/2012/04/dfa.jpg)

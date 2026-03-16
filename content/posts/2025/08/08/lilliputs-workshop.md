@@ -2,15 +2,40 @@
 date: '2025-08-08T19:10:50-05:00'
 draft: false
 title: "Lilliput's Workshop"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/08/lilliputs-workshop/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Do you like little wooden train sets and solving puzzles? Well, if you do, have I got a game for you..."
-categories:
+description: "Do you like little wooden train sets and solving puzzles? Well, if you do, have I got a game for you..."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Steam Games"
-tags:
   - "Lilliput Workshop"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/lilliputbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/lilliputbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/lilliputbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Anyone who has read this blog for long knows that I loves me some puzzle games, especially those really intricate creations where you have to put together some really complicated process from really small parts. SpaceChem, Factorio, Last Call BBS. Give me a bucket of parts and a goal and I'll figure it out eventually.

@@ -2,16 +2,42 @@
 date: '2008-12-10T09:44:11-05:00'
 draft: false
 title: "New EverQuest hot zones. RMT, and Frostfell missions"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Frostfell"
   - "Hot Zones"
   - "RMT"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Much thanks to [Danshir](http://themmoexperience.blogspot.com/) for reminding me last night that EverQuest has changed its list of hot zones, places that give extra adventure and AA experience if you fight there. If leveling is your goal in EverQuest, you want to go to the hot zone best for your level and look for a group. Usually there will be plenty of other people there to group with. SOE usually adds a few new drops (often nice augments) to sweeten the deal, as well.

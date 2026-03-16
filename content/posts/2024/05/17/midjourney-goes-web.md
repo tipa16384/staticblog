@@ -2,16 +2,41 @@
 date: '2024-05-17T07:00:00-05:00'
 draft: false
 title: "Midjourney goes Web"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/17/midjourney-goes-web/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Midjourney has famously relied upon the Discord app to be the front end to its image generation AI. But now, all you need is a browser and a prompt."
-categories:
+description: "Midjourney has famously relied upon the Discord app to be the front end to its image generation AI. But now, all you need is a browser and a prompt."
+tags:
   - "EverQuest"
   - "Generative AI"
   - "Midjourney"
-tags:
   - "Dall-E 2"
   - "Website"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/tipachu_cat_wearing_a_college_t-shirt_working_at_a_1970s-styl_dfd676f1-e727-4efc-89cf-0bcbc8ad125d_0.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/tipachu_cat_wearing_a_college_t-shirt_working_at_a_1970s-styl_dfd676f1-e727-4efc-89cf-0bcbc8ad125d_0.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/tipachu_cat_wearing_a_college_t-shirt_working_at_a_1970s-styl_dfd676f1-e727-4efc-89cf-0bcbc8ad125d_0.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [My uncle](https://brucehollowayart.com/index.html) is a professional illustrator, so I always feel a little guilty when I use Midjourney or Dall-E to generate illustrations for my blog. I've never asked him about his feelings about generative AI art, but I know that when illustration went digital, he had to give up his paints and watercolors and go back to school to learn how to do it again with a computer. And he was pretty impressed with what computers could do for him. He's super old now, so maybe he just wouldn't care that much.

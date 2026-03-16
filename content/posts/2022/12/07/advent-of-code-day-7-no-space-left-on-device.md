@@ -2,15 +2,40 @@
 date: '2022-12-07T20:36:28-05:00'
 draft: false
 title: "Advent of Code Day 7 -- No Space Left On Device"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/07/advent-of-code-day-7-no-space-left-on-device/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Today's coding challenge was, \"Make a file system without making a file system!\" I failed that task."
-categories:
-  - "Advent of Code"
+description: "Today's coding challenge was, \"Make a file system without making a file system!\" I failed that task."
 tags:
+  - "Advent of Code"
   - "Advent"
   - "Java"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-07-20.16.30-A-Christmas-elf-sitting-at-a-computer-looking-at-a-Windows-error-screen-by-Bob-Eggleton-intricate-and-detaile.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-07-20.16.30-A-Christmas-elf-sitting-at-a-computer-looking-at-a-Windows-error-screen-by-Bob-Eggleton-intricate-and-detaile.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-07-20.16.30-A-Christmas-elf-sitting-at-a-computer-looking-at-a-Windows-error-screen-by-Bob-Eggleton-intricate-and-detaile.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [Today's puzzle](https://adventofcode.com/2022/day/7) is one of those puzzles that just test whether you are familiar with some basic computer stuff, like hierarchical file systems and Unix shell commands.

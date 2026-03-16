@@ -2,13 +2,40 @@
 date: '2008-12-05T00:58:34-05:00'
 draft: false
 title: "Chess: The MMO game update 1 now live"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/05/chess-the-mmo-game-update-1-now-live/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chess the MMORPG"
   - "Humor"
   - "MMORPG"
   - "Tactical RPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/chessmmo.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/chessmmo.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/chessmmo.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We here at West Karana Games Inc. have been blown away by the positive response to our new Chess MMO. Taking a game from tabletop to the MMO arena is a challenge and an opportunity, and I am so pleased that our teams of artists and designers rose to both.

@@ -2,12 +2,29 @@
 date: '2008-10-04T00:26:03-05:00'
 draft: false
 title: "EQ: Nostalgia enters the everlovin' PLANE of TIME."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/04/eq-nostalgia-enters-the-everlovin-plane-of-time/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
   - "World of Warcraft"
-tags:
   - "Dreadlands"
   - "Field of Bone"
   - "Lavaspinner's Lair"
@@ -16,7 +33,16 @@ tags:
   - "Seeds of Destruction"
   - "Warsliks Woods"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/pot.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/pot.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/pot.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/pot.jpg "pot")

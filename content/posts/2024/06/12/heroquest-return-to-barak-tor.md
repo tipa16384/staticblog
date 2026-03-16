@@ -2,20 +2,45 @@
 date: '2024-06-12T07:00:00-05:00'
 draft: false
 title: "HeroQuest: Return to Barak-Tor"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/06/12/heroquest-return-to-barak-tor/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's the final quest of the starter campaign. How was it? Is this game even worth playing in 2024?"
-categories:
+description: "It's the final quest of the starter campaign. How was it? Is this game even worth playing in 2024?"
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Midjourney"
   - "Tabletop Games"
-tags:
   - "Dall-E 2"
   - "Dwarf"
   - "Elf"
   - "Monk"
   - "Rogue"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/06/return-14.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/06/return-14.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/06/return-14.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In the months we have been playing this game, I think the most memorable moment was a quest, toward the beginning, when suddenly every monster in the entire dungeon started heading right toward us, and we were prevented from moving quickly because we had to escort a slow-moving NPC.

@@ -2,16 +2,41 @@
 date: '2023-08-23T07:00:00-05:00'
 draft: false
 title: "The Resurrection of the Atari 2600"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/23/the-resurrection-of-the-atari-2600/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "No, this isn't about the previous resurrection of the Atari 2600. Nor the previous one. Not that other one either. This is new."
-categories:
+description: "No, this isn't about the previous resurrection of the Atari 2600. Nor the previous one. Not that other one either. This is new."
+tags:
   - "Atari 2600"
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "Atari"
   - "River Raid"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/atari2600.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/atari2600.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/atari2600.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 With all the hundreds of millions of dollars Atari must have been making with their NFTs, it's weird that the company now bearing that name even feels the need to dabble in electronics, but here they go -- again.

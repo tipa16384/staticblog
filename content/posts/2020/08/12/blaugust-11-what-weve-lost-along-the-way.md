@@ -2,17 +2,43 @@
 date: '2020-08-12T12:28:57-05:00'
 draft: false
 title: "Blaugust #11: What We've Lost Along the Way"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/12/blaugust-11-what-weve-lost-along-the-way/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "MMORPG"
-tags:
   - "Befallen"
   - "Blogging"
   - "Foundry"
   - "Google Reader"
   - "Neverwinter Online"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/googlere.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/googlere.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/googlere.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This prompt comes at a really good (or bad) time, because I am deep right now into thinking back on the past couple of decades when my life has been lived around and within online gaming, bar the occasional break from it all.

@@ -2,17 +2,43 @@
 date: '2010-09-13T21:14:36-05:00'
 draft: false
 title: "Is Wizard101's marketing getting out of hand?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/09/13/is-wizard101s-marketing-getting-out-of-hand/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Celestia"
   - "Crab Alley"
   - "Disney"
   - "Marketing"
   - "Selena Gomez"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg "Selena Gomez shoots a dance video in W101")](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32.jpg)

@@ -2,11 +2,38 @@
 date: '2010-04-29T06:32:18-05:00'
 draft: false
 title: "DDO: A Fighters' Tale"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/29/ddo-a-fighters-tale/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-25-22-18-24-57.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-25-22-18-24-57.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-25-22-18-24-57.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-25-22-18-24-57.jpg" title="Kobold-eye view of Derra the Fighter/Cleric" class="align-center" >}}

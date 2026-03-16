@@ -2,11 +2,38 @@
 date: '2008-01-30T09:01:00-05:00'
 draft: false
 title: "A Glance at Pirates of the Burning Sea"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/30/a-glance-at-pirates-of-the-burning-sea/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Pirates of the Burning Sea"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![potbs-2008-01-30-01-24-42-83.jpg](https://chasingdings.com/wp-content/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg)

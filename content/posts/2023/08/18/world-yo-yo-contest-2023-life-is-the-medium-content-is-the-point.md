@@ -2,15 +2,40 @@
 date: '2023-08-18T07:00:00-05:00'
 draft: false
 title: "World Yo-Yo Contest 2023: Life is the Medium, Content is the Point"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/18/world-yo-yo-contest-2023-life-is-the-medium-content-is-the-point/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "YouTube decided I needed to learn about the World Yo-Yo Contest today. Okay."
-categories:
+description: "YouTube decided I needed to learn about the World Yo-Yo Contest today. Okay."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "World Yo-Yo Contest"
   - "Yoyo"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/worldyoyo2023.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/worldyoyo2023.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/worldyoyo2023.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yesterday, I knew very little about competitive yo-yo. Today, I know a little more. I'm watching the World Yo-Yo Contest 2023 live right now, where it is about 11 PM here but presumably Friday morning in Osaka. The competitors are all young men from Japan, Korea and China since I've been watching.

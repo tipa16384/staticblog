@@ -2,14 +2,40 @@
 date: '2020-06-03T11:52:55-05:00'
 draft: false
 title: "EverQuest 10-12: Stepping outside Nektulos"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/06/03/everquest-10-12-stepping-outside-nektulos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Aradune"
   - "TLP"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a week since Aradune opened. Raid guilds have the planes of Hate and Fear on lockdown. Naggy died last night; probably Vox has died, too, when I wasn't on to see it. Groups have level 50 alts to sit outside the group and buff and heal.

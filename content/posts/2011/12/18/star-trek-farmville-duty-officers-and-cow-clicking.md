@@ -2,11 +2,38 @@
 date: '2011-12-18T22:00:17-05:00'
 draft: false
 title: "Star Trek Farmville: Duty Officers and Cow Clicking!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/12/18/star-trek-farmville-duty-officers-and-cow-clicking/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg" title="Execute for Incompetence" class="align-center" >}}

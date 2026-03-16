@@ -2,10 +2,37 @@
 date: '2022-03-02T07:54:11-05:00'
 draft: false
 title: "7DRL: Building an Engine -- and it ends."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/02/7drl-building-an-engine-and-it-ends/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/deathscreenshot.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/deathscreenshot.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/deathscreenshot.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Working through my checklist of "must have" features for the game.

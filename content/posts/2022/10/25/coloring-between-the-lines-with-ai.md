@@ -2,17 +2,42 @@
 date: '2022-10-25T00:29:53-05:00'
 draft: false
 title: "Coloring between the lines... with AI"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/10/25/coloring-between-the-lines-with-ai/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "OpenAI"
   - "Petalica Paint"
-tags:
   - "Game Pack"
   - "Magic Bag"
   - "Magic Link"
-  - "Petalica Paint"
   - "Sony New Technologies"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/10/1-SonyMagicBagCoverColorized.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/10/1-SonyMagicBagCoverColorized.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/10/1-SonyMagicBagCoverColorized.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A million or so years ago, I worked for Sony New Technologies, writing system software and applications for their Magic Link handheld computer, which ran General Magic's Magic Cap operating system. The management came down one day and told us that what the Magic Link needed more than anything else was some games, goshdurnit, and so all of us developers were to take a break from writing serious software and do some games.

@@ -2,15 +2,41 @@
 date: '2020-08-23T17:43:32-05:00'
 draft: false
 title: "Tanglewood: the Game."
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/23/tanglewood-the-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "Platformer"
   - "Steam"
   - "Tanglewood"
   - "What Does the Fox Say"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/tanglewd_win_64-2020-08-23-15-02-49-65.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/tanglewd_win_64-2020-08-23-15-02-49-65.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/tanglewd_win_64-2020-08-23-15-02-49-65.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After I posted [today's Blaugust prompts](https://chasingdings.com/?p=784), especially the bit about the origin of most of my characters' last name, "Tanglewood", [Bhagpuss commented](https://chasingdings.com/?p=784#comment-783) that there was actually a *game* by that name, back awhile ago.

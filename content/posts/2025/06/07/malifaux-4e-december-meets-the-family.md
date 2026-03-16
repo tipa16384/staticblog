@@ -2,18 +2,43 @@
 date: '2025-06-07T21:12:46-05:00'
 draft: false
 title: "Malifaux 4e: December Meets the Family"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/06/07/malifaux-4e-december-meets-the-family/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Or, Perdita, Neverborn Hunter, runs head-first into the Wall of Ice at the Edge of the World."
-categories:
+description: "Or, Perdita, Neverborn Hunter, runs head-first into the Wall of Ice at the Edge of the World."
+tags:
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "December"
   - "Family"
   - "Packrat Gaming"
   - "Perdita"
   - "Rasputina"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/perdita.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/06/perdita.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/06/perdita.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'd won my first 4e game with Rasputina (Abominable), AKA Raspy2. Was it a fluke? Could I win against someone who *had* played in the last six months? Those were questions I had.

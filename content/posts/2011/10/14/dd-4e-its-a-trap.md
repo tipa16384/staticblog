@@ -2,11 +2,38 @@
 date: '2011-10-14T06:44:46-05:00'
 draft: false
 title: "D&D 4E: It's a trap!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/10/14/dd-4e-its-a-trap/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "D&D 4e"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/FantasyGrounds-2011-10-13-22-11-25-45-480x360.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/10/FantasyGrounds-2011-10-13-22-11-25-45-480x360.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/10/FantasyGrounds-2011-10-13-22-11-25-45-480x360.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/FantasyGrounds-2011-10-13-22-11-25-45-480x360.jpg" title="Floor 2" class="align-center" >}}

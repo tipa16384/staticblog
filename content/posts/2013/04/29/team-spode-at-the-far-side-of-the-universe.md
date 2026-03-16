@@ -2,11 +2,38 @@
 date: '2013-04-29T06:54:12-05:00'
 draft: false
 title: "Team Spode at the Far Side of the Universe"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/04/29/team-spode-at-the-far-side-of-the-universe/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/04/MADV113_DESIGNERDATA-PC-28-22.57.020-480x342.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/04/MADV113_DESIGNERDATA-PC-28-22.57.020-480x342.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/04/MADV113_DESIGNERDATA-PC-28-22.57.020-480x342.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/MADV113_DESIGNERDATA-PC-28-22.57.020-480x342.jpg" title="Oa Sciencells" class="align-center" >}}

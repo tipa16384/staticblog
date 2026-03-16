@@ -2,15 +2,40 @@
 date: '2024-11-23T14:12:02-05:00'
 draft: false
 title: "LEGO Horizon Adventures"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/11/23/lego-horizon-adventures/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I hurried through Dragon Age: the Veilguard because I knew this was waiting for me to finish."
-categories:
+description: "I hurried through Dragon Age: the Veilguard because I knew this was waiting for me to finish."
+tags:
   - "Action RPG"
   - "Horizon Forbidden West"
   - "PS5"
-tags:
   - "Lego"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Just to get the obvious out of the way -- I loved Veilguard and wanted to spend more time with the game. But... ROBOT DINOSAURS.

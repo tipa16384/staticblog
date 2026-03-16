@@ -2,20 +2,45 @@
 date: '2024-08-19T08:36:30-05:00'
 draft: false
 title: "Weekend Gaming: Ship of Heroes, Persona 5 Tactica, Giants Citizen Kabuto"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/19/weekend-gaming-ship-of-heroes-persona-5-tactica-giants-citizen-kabuto/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "And also that entire day playing Malifaux..."
-categories:
+description: "And also that entire day playing Malifaux..."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Malifaux"
   - "MMORPG"
   - "Ship of Heroes"
   - "Tactical RPG"
-tags:
   - "Giants Citizen Kabuto"
   - "PCSX2"
   - "Persona"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/1-20240819074418_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/1-20240819074418_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/1-20240819074418_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I spent too much time playing games this weekend and not enough time writing about playing games this weekend, so this post is going to be short.

@@ -2,9 +2,38 @@
 date: '2009-01-02T14:09:45-05:00'
 draft: false
 title: "Inhabitants of Spellborn not the brightest bulbs in the Deadspell Storm"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/02/inhabitants-of-spellborn-not-the-brightest-bulbs-in-the-deadspell-storm/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In Spellborn, The Enclave is the collective name for the good, law-abiding survivors of the destruction of their planet that followed the defeat of their alien oppressors. Since they are good people, they punish evil doers and other criminal sorts only with exile, where they have set up an outcast faction called the Ousted.

@@ -2,16 +2,41 @@
 date: '2023-12-07T22:10:13-05:00'
 draft: false
 title: "Advent of Code Day 7 -- Camel Cards"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/07/advent-of-code-day-7-camel-cards/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I really tried with Haskell this time. Oh well, looks like we'll have to play Camel Poker in Python instead."
-categories:
-  - "Advent of Code"
+description: "I really tried with Haskell this time. Oh well, looks like we'll have to play Camel Poker in Python instead."
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Card Game"
   - "Elf"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-07-21.36.26-In-a-desert-setting-a-Christmas-elf-mom-and-a-repair-person-in-a-safety-vest-and-hard-hat-are-riding-camels.-Both-characters-are-holding-a-hand-of-pl.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-07-21.36.26-In-a-desert-setting-a-Christmas-elf-mom-and-a-repair-person-in-a-safety-vest-and-hard-hat-are-riding-camels.-Both-characters-are-holding-a-hand-of-pl.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-07-21.36.26-In-a-desert-setting-a-Christmas-elf-mom-and-a-repair-person-in-a-safety-vest-and-hard-hat-are-riding-camels.-Both-characters-are-holding-a-hand-of-pl.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I solved this one, in Python, before work today. It wasn't that hard. During the rare free moments during work today, I was poring over the Haskell tutorials, and I thought I had a decent approach to re-implement it in Haskell. When it came time to put hands to keyboard, though, I got a couple small functions done, but the larger, important functions, the ones that did the real work, no clue. And I couldn't explain to the AIs what I was looking for, so... it's Python again. Sorry.

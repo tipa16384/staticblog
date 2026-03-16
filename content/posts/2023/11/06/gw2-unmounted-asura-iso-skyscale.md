@@ -2,15 +2,40 @@
 date: '2023-11-06T07:34:02-05:00'
 draft: false
 title: "GW2: Unmounted Asura ISO Skyscale"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/06/gw2-unmounted-asura-iso-skyscale/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "All my friends have skyscales and I am jealous and also lazy."
-categories:
+description: "All my friends have skyscales and I am jealous and also lazy."
+tags:
   - "Guild Wars"
   - "Rift"
-tags:
   - "Skyscale"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/gw024.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/gw024.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/gw024.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So, I announced to Team Spode today that I am not leaving the zones of the new expansion, maybe ever, but at least not until I get my own little baby dragon to flit around with.

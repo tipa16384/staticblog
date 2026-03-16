@@ -2,11 +2,38 @@
 date: '2009-09-01T22:56:59-05:00'
 draft: false
 title: "Happy Birthday, Wizard101!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/01/happy-birthday-wizard101/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Back in July of 2008, I downloaded a new MMO, played for several hours, and barely managed [to tear myself away long enough to write about this still-in-beta Wizard101](https://chasingdings.com/index.php/2008/07/10/1688/):

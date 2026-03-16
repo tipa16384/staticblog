@@ -2,13 +2,39 @@
 date: '2015-11-24T19:20:39-05:00'
 draft: false
 title: "Desecrated Cathedral"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/11/24/desecrated-cathedral/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg" title="Kickin' back with Raven" class="align-center" >}}

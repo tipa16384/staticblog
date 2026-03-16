@@ -2,16 +2,42 @@
 date: '2021-09-22T08:24:34-05:00'
 draft: false
 title: "Valheim: Hearth & Home & Lox"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/22/valheim-hearth-home-lox/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Steam Games"
   - "Survival"
   - "Valheim"
   - "Video Game"
-tags:
   - "Hearth and Home"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/20210922072238_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/20210922072238_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/20210922072238_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Valheim's first content expansion brings a little adventure together with a lot of new things to make and build. Is it going to be enough to bring the magic back?

@@ -2,15 +2,41 @@
 date: '2008-07-19T08:05:33-05:00'
 draft: false
 title: "EQ: A Night of Terror."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/19/eq-a-night-of-terror/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Lady Vox"
   - "Lord Nagafen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Terror -- if you're a dragon. Nostalgia the Guild set up a face-to-face for Naggy and Vox with old Veeshan, and I don't think Queen Vee will be too happy with her progeny.

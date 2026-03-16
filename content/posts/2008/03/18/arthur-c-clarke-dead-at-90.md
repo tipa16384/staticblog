@@ -2,8 +2,37 @@
 date: '2008-03-18T19:39:46-05:00'
 draft: false
 title: "Arthur C. Clarke, Dead at 90"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/18/arthur-c-clarke-dead-at-90/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Sci Fi"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [Arthur C. Clarke](http://en.wikipedia.org/wiki/Arthur_C._Clarke), grandmaster author of some of the greatest science fiction ever written and inventor of the [geosynchronous communication satellite](http://en.wikipedia.org/wiki/Geosynchronous_orbit), [is dead today](http://www.latimes.com/news/local/la-me-clarke19mar19,0,393161.story).

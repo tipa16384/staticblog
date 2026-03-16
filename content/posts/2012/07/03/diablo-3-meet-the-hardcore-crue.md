@@ -2,10 +2,37 @@
 date: '2012-07-03T19:39:20-05:00'
 draft: false
 title: "Diablo 3: Meet the Hardcore Crüe"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/07/03/diablo-3-meet-the-hardcore-crue/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-01-23-13-42-99-480x329.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-01-23-13-42-99-480x329.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-01-23-13-42-99-480x329.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-01-23-13-42-99-480x329.jpg" title="The instance group... in Diablo 3" class="align-center" >}}

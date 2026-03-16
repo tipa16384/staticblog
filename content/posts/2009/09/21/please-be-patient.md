@@ -2,12 +2,39 @@
 date: '2009-09-21T21:52:58-05:00'
 draft: false
 title: "Please be patient...."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/21/please-be-patient/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "Humor"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/bepatient.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/bepatient.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/bepatient.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![It](https://chasingdings.com/wp-content/uploads/2009/09/bepatient.jpg "It")

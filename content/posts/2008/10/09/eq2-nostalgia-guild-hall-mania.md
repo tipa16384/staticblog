@@ -2,18 +2,44 @@
 date: '2008-10-09T07:25:21-05:00'
 draft: false
 title: "EQ2: Nostalgia Guild Hall mania!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/09/eq2-nostalgia-guild-hall-mania/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Buddy"
   - "EverQuest II"
   - "Gu49"
   - "Guild Hall"
   - "Nostalgia"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-08-18-05-29-271.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Since I barely did anything to help with the guild hall, compared with [Stargrace](http://mmoquests.com), [Kasul](http://shatteredblog.wordpress.com) and Ecor, I feel kinda embarrassed to be the first to blog about it, but there ya go.

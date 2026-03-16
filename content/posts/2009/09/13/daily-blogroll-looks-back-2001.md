@@ -2,13 +2,40 @@
 date: '2009-09-13T21:29:49-05:00'
 draft: false
 title: "Daily Blogroll Looks Back: 2001"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/13/daily-blogroll-looks-back-2001/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/blogdisks.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/blogdisks.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/blogdisks.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Some very VERY old floppies....](https://chasingdings.com/wp-content/uploads/2009/09/blogdisks.jpg "Some very VERY old floppies....")I was cleaning out my closet and found a few old floppy disks, REALLY old. Someone had scrawled "Daily Blogroll: Sep '01" on them. I honestly don't remember writing any blogs way back then. I had no idea what was on them. They were two 8" disks, so between the two of them, there could be as many as four or five pages of documents sitting there, unread, for eight years.

@@ -2,12 +2,38 @@
 date: '2011-11-10T13:20:28-05:00'
 draft: false
 title: "I'm semi-Internet famous!"
-categories:
-  - "General"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/11/10/im-semi-internet-famous/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "General"
   - "Google+"
 featured_image: "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=http%3A%2F%2Fmmoquests.com%2Fwp-content%2Fuploads%2F2011%2F11%2Fgoogleplus-westkarana-logo.jpg"
-cover: "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=http%3A%2F%2Fmmoquests.com%2Fwp-content%2Fuploads%2F2011%2F11%2Fgoogleplus-westkarana-logo.jpg"
+cover:
+  image: "http://images0-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&resize_h=100&url=http%3A%2F%2Fmmoquests.com%2Fwp-content%2Fuploads%2F2011%2F11%2Fgoogleplus-westkarana-logo.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Stargrace of MMO Quests interviewed me about gaming :)

@@ -2,18 +2,43 @@
 date: '2025-08-05T08:00:00-05:00'
 draft: false
 title: "International Play Your Vectrex Day is November 1!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/05/international-play-your-vectrex-day-is-november-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The world comes together for just one day each year to enjoy a forgotten 1980s home arcade classic -- the GCE Vectrex. Also, a new Vectrex song."
-categories:
+description: "The world comes together for just one day each year to enjoy a forgotten 1980s home arcade classic -- the GCE Vectrex. Also, a new Vectrex song."
+tags:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2025"
   - "Vectrex"
-tags:
   - "Retro World Expo"
   - "Spinball"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Kid with nose pressed against a Toys 'Я' Us display case, back when there were TЯU's and display cases; that was me, though I wasn't really a kid. What I was, was *poor*. I'd loved the vector graphic arcade games for years -- Asteroids, Battle Zone, Star Trek, Star Wars, Omega Race, Space War, so many more. The Atari 2600 I had wasn't the same.

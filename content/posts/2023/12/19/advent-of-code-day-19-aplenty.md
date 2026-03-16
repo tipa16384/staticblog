@@ -2,15 +2,40 @@
 date: '2023-12-19T21:09:24-05:00'
 draft: false
 title: "Advent of Code Day 19 -- Aplenty"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/19/advent-of-code-day-19-aplenty/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "First puzzle in a few days where I didn't need to get hints. I guess the problem was musical, aerodynamic, shiny AND extremely cool looking!"
-categories:
-  - "Advent of Code"
+description: "First puzzle in a few days where I didn't need to get hints. I guess the problem was musical, aerodynamic, shiny AND extremely cool looking!"
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Elf"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-19-20.12.32-A-whimsical-and-detailed-illustration-set-on-Gear-Island-where-a-magical-workshop-is-bustling-with-activity.-Elves-dressed-in-colorful-attire-are-b.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-19-20.12.32-A-whimsical-and-detailed-illustration-set-on-Gear-Island-where-a-magical-workshop-is-bustling-with-activity.-Elves-dressed-in-colorful-attire-are-b.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-19-20.12.32-A-whimsical-and-detailed-illustration-set-on-Gear-Island-where-a-magical-workshop-is-bustling-with-activity.-Elves-dressed-in-colorful-attire-are-b.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yeah, pretty pumped. I did this puzzle in my own head. Part 1 I did, I thought, in a sneaky way, and I was hoping it would be sneaky enough for Part 2. Nope, Part 2 shook up the parts box, but I thought of an approach in the morning, and when I sat down to implement it after dinner, it took a little work, but I got the correct solution for both the sample puzzle input and the real puzzle input, first time.

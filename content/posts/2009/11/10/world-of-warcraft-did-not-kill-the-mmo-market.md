@@ -2,12 +2,39 @@
 date: '2009-11-10T06:59:36-05:00'
 draft: false
 title: "World of Warcraft did NOT kill the MMO market"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/11/10/world-of-warcraft-did-not-kill-the-mmo-market/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/staff-225x225.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/11/staff-225x225.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/11/staff-225x225.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![Early EA developers](https://chasingdings.com/wp-content/uploads/2009/11/staff-225x225.jpg "Early EA developers")](https://chasingdings.com/wp-content/uploads/2009/11/staff.jpg) It's probably too early to be calling Warhammer's time of death, even though [Electronic Arts has reportedly laid off 40% of the Mythic staff](http://brokentoys.org/2009/11/09/ea-its-in-the-game-the-unemployment-line-specifically/), including 90% of the development talent. Mythic is responsible for Ultima Online, Dark Age of Camelot, Warhammer, and has an advisory role with Bioware's Star Wars: The Old Republic. The inset picture is of [the rock star programmers of EA's biggest early hits](http://www.gamasutra.com/features/20070216/fleming_01.shtml).

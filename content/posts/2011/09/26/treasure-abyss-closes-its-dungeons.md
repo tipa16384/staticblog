@@ -2,11 +2,38 @@
 date: '2011-09-26T06:46:25-05:00'
 draft: false
 title: "Treasure Abyss closes its dungeons"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/09/26/treasure-abyss-closes-its-dungeons/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Facebook Games"
   - "Treasure Abyss"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/09/Fullscreen-capture-9232011-74807-AM-480x380.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/09/Fullscreen-capture-9232011-74807-AM-480x380.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/09/Fullscreen-capture-9232011-74807-AM-480x380.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/09/Fullscreen-capture-9232011-74807-AM-480x380.jpg" title="Treasure Abyss' goodbye message" class="align-center" >}}

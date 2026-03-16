@@ -2,12 +2,39 @@
 date: '2013-02-28T08:20:32-05:00'
 draft: false
 title: "EQ2: Leveling done, time to level. Also, some DCUO."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/02/28/eq2-leveling-done-time-to-level-also-some-dcuo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg" title="Haffer and Haffikin" class="align-center" >}}

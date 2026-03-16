@@ -2,10 +2,38 @@
 date: '2011-10-20T22:34:51-05:00'
 draft: false
 title: "Signed up for the Manchester Road Race tonight"
-categories:
-  - "General"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/10/20/signed-up-for-the-manchester-road-race-tonight/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "General"
   - "Google+"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I had to sign a waiver that says if I die on the road, not their fault. However, I will have the t-shirt.**Google+:** [View post on Google+](https://plus.google.com/108460561201888322767/posts/RJkimMHDdzP)

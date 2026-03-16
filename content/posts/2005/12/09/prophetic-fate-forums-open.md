@@ -2,9 +2,38 @@
 date: '2005-12-09T00:00:00-05:00'
 draft: false
 title: "Prophetic Fate forums open"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2005/12/09/prophetic-fate-forums-open/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Just finished bringing up a stub for the [Prophetic Fate](http://fate.westkarana.com/) message board. After seeing the crappy guild websites for the two WoW guilds I have been in that had web sites, I volunteered to do something better for Prophetic Fate.

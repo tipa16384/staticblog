@@ -2,16 +2,42 @@
 date: '2020-06-02T12:12:54-05:00'
 draft: false
 title: "Octomini Project Day 3: The $250 mini"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/06/02/octomini-project-day-3-the-250-mini/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Gloomhaven"
   - "Nintendo Switch"
-tags:
   - "Creality Ender 3 Pro"
   - "Octomini Project"
   - "Octopath Traveler"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1622.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1622.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1622.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I want to point out at the start that I did not buy a 3D printer to print miniatures.

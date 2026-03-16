@@ -2,8 +2,37 @@
 date: '2007-08-31T08:09:34-05:00'
 draft: false
 title: "Finally, a real use for the Playstation 3"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/08/31/finally-a-real-use-for-the-playstation-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not here to bash the PS3. Just that I cannot find even one game on the system that I want to play. It's all the shooters and sports games, just like the Xbox 360 (another console that doesn't seem to want to publish games for the non-twitch crowd).

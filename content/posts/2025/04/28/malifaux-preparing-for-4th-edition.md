@@ -2,14 +2,39 @@
 date: '2025-04-28T08:16:54-05:00'
 draft: false
 title: "Malifaux: Preparing for 4th Edition"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/04/28/malifaux-preparing-for-4th-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I've spent the last couple of weeks trying to get a mostly new crew ready for 4th edition..."
-categories:
+description: "I've spent the last couple of weeks trying to get a mostly new crew ready for 4th edition..."
+tags:
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "Sword for Hire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/04/IMG_5075-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/04/IMG_5075-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/04/IMG_5075-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's not like I haven't done any gaming these past couple of weeks. Working my way through Blue Prince. Got through the credits in Monster Hunter Wilds (about halfway through the main plot). Played a couple games on my Analogue Pocket. Finished up Shining Revelry on Pokemon TCG Pocket. Spent way too much time working on the lighting model for Sword for Hire. Ya know, *stuff*.

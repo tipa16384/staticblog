@@ -2,16 +2,42 @@
 date: '2021-08-18T23:00:23-05:00'
 draft: false
 title: "Developer Appreciation: Cryptic Studios"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/18/developer-appreciation-cryptic-studios/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "City of Heroes"
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Champions Online"
   - "City of Villains"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's Developer Appreciation week. Whenever these come up, I really don't know what to say. The games I've played have changed my life. When things were darkest, they maybe even saved my life. MMOs, in particular, have made it easy for me to "find my people". I've played with the same group of people now for more years than I care to count. My daughter married someone she met in EverQuest. I'm living with someone I met there.

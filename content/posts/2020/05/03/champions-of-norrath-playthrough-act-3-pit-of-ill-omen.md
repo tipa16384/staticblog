@@ -2,14 +2,40 @@
 date: '2020-05-03T14:04:04-05:00'
 draft: false
 title: "Champions of Norrath playthrough, Act 3: Pit of Ill Omen"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/03/champions-of-norrath-playthrough-act-3-pit-of-ill-omen/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "EverQuest"
-tags:
   - "Champions of Norrath"
   - "PS2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg" >}}

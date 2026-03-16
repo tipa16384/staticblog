@@ -2,19 +2,44 @@
 date: '2021-07-20T23:01:10-05:00'
 draft: false
 title: "Rise Eterna"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/07/20/rise-eterna/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Rise Eterna claims to be a modern successor to the legendary tactical rpgs of the past. Can Rise Eterna really wear Final Fantasy Tactics' crown?"
-categories:
+description: "Rise Eterna claims to be a modern successor to the legendary tactical rpgs of the past. Can Rise Eterna really wear Final Fantasy Tactics' crown?"
+tags:
   - "Nintendo Switch"
   - "Steam Games"
   - "Switch"
   - "Tactical RPG"
-tags:
   - "Banner of the Maid"
   - "Rise Eterna"
   - "RPG"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/07/2021051618021700-BA2A6D95681540D14D17CA98DC5AFB99.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm a sucker for tactical strategy RPGs. Most people will know of X-COM, or Final Fantasy Tactics, or the Fire Emblem series. I've played them all. There's something about having the time to think of some really devastating moves to turn the battles around... 

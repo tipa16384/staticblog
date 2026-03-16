@@ -2,17 +2,42 @@
 date: '2025-01-29T09:00:00-05:00'
 draft: false
 title: "Malifaux: Booty &amp; Plunder"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/29/malifaux-booty-plunder/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Rasputina and her crew are painted and ready for \"primed\" time in her first serious match-up."
-categories:
+description: "Rasputina and her crew are painted and ready for \"primed\" time in her first serious match-up."
+tags:
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "CaptainCon"
   - "December"
   - "Rasputina"
   - "The Haven"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/bootyplunder.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/bootyplunder.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/bootyplunder.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's four days until CaptainCon. Kasul is sick in bed; we're hoping he's well enough for the trip to Rhode Island. I was sent alone to Enfield, December box in hand, to save the family honor.

@@ -2,13 +2,29 @@
 date: '2024-12-30T08:00:00-05:00'
 draft: false
 title: "Best of 2024: Single-Player RPGs"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/12/30/best-of-2024-single-player-rpgs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "2024 was a great year for RPGs. I didn't play all the ones I wanted, but the ones I did play were pretty incredible."
-categories:
+description: "2024 was a great year for RPGs. I didn't play all the ones I wanted, but the ones I did play were pretty incredible."
+tags:
   - "Dragon's Dogma"
   - "Lord of the Rings"
   - "Open World RPG"
   - "RPG"
-tags:
   - "Dragon Age"
   - "Erenshor"
   - "Outlaws"
@@ -16,7 +32,16 @@ tags:
   - "The Veilguard"
   - "War in the North"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/bestrpgbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/12/bestrpgbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/12/bestrpgbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 RPGs have been a mainstay of my gaming life since I spent hours (and hours and hours) playing ROGUE and DND back in college. (We'd call both of those roguelikes today). The earliest of them were based off of Dungeons & Dragons, but as time went on they would become a way to tell all sorts of stories.

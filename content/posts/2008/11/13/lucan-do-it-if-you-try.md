@@ -2,12 +2,39 @@
 date: '2008-11-13T09:13:02-05:00'
 draft: false
 title: "Lucan do it if you try..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/13/lucan-do-it-if-you-try/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-12-20-20-57-23.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-12-20-20-57-23.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-12-20-20-57-23.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-12-20-20-57-23.jpg "everquest2-2008-11-12-20-20-57-23")

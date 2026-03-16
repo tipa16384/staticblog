@@ -2,12 +2,39 @@
 date: '2011-02-09T07:14:29-05:00'
 draft: false
 title: "Dragon Age goes social (codes included)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/02/09/dragon-age-goes-social-codes-included/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dragon Age Origins"
   - "Facebook Games"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg" title="Dragon Age Legends character creator" class="align-center" >}}

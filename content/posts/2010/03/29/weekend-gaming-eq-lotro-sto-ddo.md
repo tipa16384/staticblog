@@ -2,14 +2,41 @@
 date: '2010-03-29T07:47:49-05:00'
 draft: false
 title: "Weekend gaming: EQ, LotRO, STO, DDO"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/29/weekend-gaming-eq-lotro-sto-ddo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "EverQuest"
   - "Fallen Earth"
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The games in the title -- EverQuest, Lord of the Rings Online, Star Trek Online, Dungeons & Dragons Online. Three of the four have "online" in their name. It's Lord of the Rings, except ONLINE! It's Star Trek like you never imagined it -- ONLINE! Throw away your pencils and dice because D&D is ONLINE! EverQuest is just -- EverQuest. Online is all it knows. That's the power of having a pre-existing IP for your game; its name is its best feature.

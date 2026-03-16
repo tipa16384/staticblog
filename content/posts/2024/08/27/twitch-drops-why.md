@@ -2,16 +2,41 @@
 date: '2024-08-27T07:48:05-05:00'
 draft: false
 title: "Twitch Drops: Why?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/27/twitch-drops-why/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's an army of low-effort streamers playing commercials to hundreds of hidden browser tabs."
-categories:
+description: "It's an army of low-effort streamers playing commercials to hundreds of hidden browser tabs."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Open World RPG"
   - "Palworld"
-tags:
   - "Twitch"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 With the latest content update, Palworld included a new base ornament that let you reskin one of your pals. It came with a free skin, with others promised to be on the way.

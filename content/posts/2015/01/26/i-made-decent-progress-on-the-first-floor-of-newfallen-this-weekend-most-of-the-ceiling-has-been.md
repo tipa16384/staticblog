@@ -2,14 +2,40 @@
 date: '2015-01-26T01:21:07-05:00'
 draft: false
 title: "Neverwinter: Decent progress on the first floor of \"Newfallen\" this weekend."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/26/i-made-decent-progress-on-the-first-floor-of-newfallen-this-weekend-most-of-the-ceiling-has-been/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
   - "Newfallen"
 featured_image: "https://lh3.googleusercontent.com/-eO8Ig7d-HjY/VMWTVK71f4I/AAAAAAAA_O8/LUMddHDsLw0/w506-h750/GameClient%2B2015-01-25%2B20-04-20-96.jpg"
-cover: "https://lh3.googleusercontent.com/-eO8Ig7d-HjY/VMWTVK71f4I/AAAAAAAA_O8/LUMddHDsLw0/w506-h750/GameClient%2B2015-01-25%2B20-04-20-96.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-eO8Ig7d-HjY/VMWTVK71f4I/AAAAAAAA_O8/LUMddHDsLw0/w506-h750/GameClient%2B2015-01-25%2B20-04-20-96.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I made decent progress on the first floor of "Newfallen" this weekend. Most of the ceiling has been added. I've sketched out the Gynok Moltar encounter, but I think I need to make it a little easier. The druid is now Pham Willowbark, who appears in most of my other EQ adventures.

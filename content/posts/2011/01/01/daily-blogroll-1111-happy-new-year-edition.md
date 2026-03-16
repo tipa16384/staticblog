@@ -2,7 +2,25 @@
 date: '2011-01-01T06:00:01-05:00'
 draft: false
 title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Allods Online"
   - "Daily Blogroll"
@@ -15,7 +33,16 @@ categories:
   - "Tabula Rasa"
   - "Warhammer: Age of Reckoning"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg "Beta 3")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-31-16-51-43-97.jpg)

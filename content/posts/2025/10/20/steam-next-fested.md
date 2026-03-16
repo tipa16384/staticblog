@@ -2,14 +2,39 @@
 date: '2025-10-20T19:21:36-05:00'
 draft: false
 title: "Steam Next Fested"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/20/steam-next-fested/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Steam suggested 30+ games to me in Next Fest that it thought I would enjoy. They think I enjoy survival crafting games, that much is clear."
-categories:
-  - "Video Game"
+description: "Steam suggested 30+ games to me in Next Fest that it thought I would enjoy. They think I enjoy survival crafting games, that much is clear."
 tags:
+  - "Video Game"
   - "Steam"
   - "Steam Next Fest"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/steamnextfest.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/steamnextfest.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/steamnextfest.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've been trying to publish this all day, but I just couldn't get this Google Sheets spreadsheet to display like anything in the West Karana blog. I've downloaded a plugin -- TablePress -- that claims to be able to do the trick.

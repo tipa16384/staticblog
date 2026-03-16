@@ -2,14 +2,39 @@
 date: '2025-09-03T07:51:00-05:00'
 draft: false
 title: "The Mystery of the Casterville Legion"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/03/the-mystery-of-the-casterville-legion/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "@Nimgimli used AI Dungeon to make him an adventure. I wondered if I could get the same or better for free."
-categories:
-  - "Fiction"
+description: "@Nimgimli used AI Dungeon to make him an adventure. I wondered if I could get the same or better for free."
 tags:
+  - "Fiction"
   - "AI"
   - "ChatGPT"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/tess-of-casterville.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/tess-of-casterville.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/tess-of-casterville.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm reading Thomas Hardy's "*The Mayor of Casterville*", one of his books set in his fictional Wessex. That series includes *Tess of the d'Urbervilles* and *Jude the Obscure*, among others. I'd read the others, but not this one.

@@ -2,16 +2,41 @@
 date: '2024-08-16T08:05:22-05:00'
 draft: false
 title: "Could this be the end of Palworld?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/16/could-this-be-the-end-of-palworld/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "For me, I mean. Could this be the end of Palworld -- for me. Betteridge's law of headlines may apply."
-categories:
+description: "For me, I mean. Could this be the end of Palworld -- for me. Betteridge's law of headlines may apply."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Open World RPG"
   - "Palworld"
-tags:
   - "Raiding"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/palworld-cheevs.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/palworld-cheevs.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/palworld-cheevs.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I really love Palworld, the game. It just hits on all cylinders for me. I love base building in any game that allows it, from EverQuest II to Valheim to V Rising to Palworld. I love capturing, breeding and raising pets. I like forming teams. I like raiding. I love virtual pets. I love sharing an online world with friends.

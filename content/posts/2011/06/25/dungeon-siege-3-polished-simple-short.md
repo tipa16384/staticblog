@@ -2,11 +2,38 @@
 date: '2011-06-25T19:59:01-05:00'
 draft: false
 title: "Dungeon Siege 3: Polished, Simple, Short"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/06/25/dungeon-siege-3-polished-simple-short/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeon Siege"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg" title="It's a Mule's Life" class="align-center" >}}

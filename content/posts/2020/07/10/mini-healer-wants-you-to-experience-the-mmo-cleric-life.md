@@ -2,14 +2,40 @@
 date: '2020-07-10T11:51:31-05:00'
 draft: false
 title: "Mini Healer wants you to experience the MMO Cleric Life"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/07/10/mini-healer-wants-you-to-experience-the-mmo-cleric-life/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Steam Games"
-tags:
   - "Mini Healer"
   - "RPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/1-streaming_client-2020-07-08-22-52-59-00.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/07/1-streaming_client-2020-07-08-22-52-59-00.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/07/1-streaming_client-2020-07-08-22-52-59-00.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 If you've ever healed a party in an MMO, you know the drill: the tank forgets their defense moves, the DPS wander into every well-telegraphed attack, the party rushes ahead while you're still frantically trying to get mana back for the next encounter. Everyone else in the party is prone to random, unexpected suicidal thoughts and actions and it's up to you, the cleric, druid, priest or whatever your official title, to see them safely through to the other side of the dungeon. Of course, the party is grateful... to the tank...

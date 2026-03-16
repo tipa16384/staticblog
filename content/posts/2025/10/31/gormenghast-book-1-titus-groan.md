@@ -2,15 +2,40 @@
 date: '2025-10-31T08:01:00-05:00'
 draft: false
 title: "Gormenghast Book 1: Titus Groan"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/31/gormenghast-book-1-titus-groan/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's a book filled with fencing, fighting, torture, revenge, giants, monsters, chases, escapes, true love, and miracles!"
-categories:
-  - "Review"
+description: "It's a book filled with fencing, fighting, torture, revenge, giants, monsters, chases, escapes, true love, and miracles!"
 tags:
+  - "Review"
   - "Gormenghast"
   - "Mervyn Peake"
   - "Titus Groan"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/earling.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/earling.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/earling.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Peter Falk's Grandpa character in the movie "The Princess Bride" tells his grandson about the book, "The Princess Bride", describing it as "filled with fencing, fighting, torture, revenge, giants, monsters, chases, escapes, true love, and miracles", in order to get the kid interested in the book.

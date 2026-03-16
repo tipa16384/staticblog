@@ -2,17 +2,42 @@
 date: '2024-11-07T07:00:00-05:00'
 draft: false
 title: "Malifaux: A Close Race"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/11/07/malifaux-a-close-race/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I thought I would stave off the existential dread of the election by playing Malifaux... little did I know..."
-categories:
+description: "I thought I would stave off the existential dread of the election by playing Malifaux... little did I know..."
+tags:
   - "Malifaux"
   - "Miniatures"
   - "Tabletop Games"
   - "Tactics"
-tags:
   - "Arcane Emissary"
   - "Elections"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/closerace.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/11/closerace.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/11/closerace.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yeah, all that happened. I didn't sleep last night. I'm kinda numb now, but I expect I'll be trying to figure out what I can do and what I can help others do.

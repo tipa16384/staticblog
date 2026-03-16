@@ -2,12 +2,39 @@
 date: '2008-01-28T09:49:59-05:00'
 draft: false
 title: "Weekend Gaming: Of Veeshan's Peak, Twins, and Things that Go Bump in the Night"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/28/weekend-gaming-of-veeshans-peak-twins-and-things-that-go-bump-in-the-night/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Rock Band"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Well, if you insist upon knowing the truth, I spent the weekend learning to twirl drumsticks. Yes, really. Poring over Youtube videos, dropping sticks onto cats, sending them helicoptering across the room. I can do it, though. I can twirl drumsticks the standard (what some call, boring) way. There's variations so you can do little quick twirls while playing that I have to work on now. And of course, the double twirl is still beyond me. Someday, maybe years from now, it will be as important to know, RIGHT THEN, how to twirl drumsticks, as it was when I taught myself the one-handed card shuffle. Well, actually, that STILL hasn't really been all that useful (which reminds me: must practice one-handed card shuffle.)

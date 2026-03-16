@@ -2,8 +2,37 @@
 date: '2007-08-08T13:13:23-05:00'
 draft: false
 title: "Vista update: Maybe I'll finally be able to play EverQuest again..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/08/08/vista-update-maybe-ill-finally-be-able-to-play-everquest-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 According to [this post](http://arstechnica.com/news.ars/post/20070807-vista-performance-and-compatibility-packs-released.html) over at Ars Technica, Vista will be pushing a couple of updates that should, among other things, make games work better under Vista.

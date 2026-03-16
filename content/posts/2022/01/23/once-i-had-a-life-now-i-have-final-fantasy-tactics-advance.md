@@ -2,14 +2,40 @@
 date: '2022-01-23T11:43:28-05:00'
 draft: false
 title: "Once, I had a life. Now, I have Final Fantasy Tactics Advance."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/01/23/once-i-had-a-life-now-i-have-final-fantasy-tactics-advance/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "Tactical RPG"
-tags:
   - "Gameboy Advance"
   - "Ogre Battle"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't played the sequel to my favorite Final Fantasy game, Final Fantasy Tactics, in *ages*. And even when I played it before, back in the Gameboy Advance days, I never got that far into it -- the tiny screen just didn't work for JRPGs for me. So I spent a lot of money getting a Nintendo DS -- the one with the GBA slot -- and a complete copy of the game, and decided to give it another shot.

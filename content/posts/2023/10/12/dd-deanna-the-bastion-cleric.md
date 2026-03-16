@@ -2,15 +2,40 @@
 date: '2023-10-12T07:00:00-05:00'
 draft: false
 title: "D&D: Deanna, the Bastion Cleric"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/10/12/dd-deanna-the-bastion-cleric/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Sometimes, the silliest rules in Dungeons & Dragons can be a blessing in disguise..."
-categories:
-  - "Dungeons & Dragons"
+description: "Sometimes, the silliest rules in Dungeons & Dragons can be a blessing in disguise..."
 tags:
+  - "Dungeons & Dragons"
   - "5e"
   - "Bastions"
   - "Fiction"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/deanna.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/10/deanna.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/10/deanna.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 `**Deanna: **Hey, DM... got a moment?`

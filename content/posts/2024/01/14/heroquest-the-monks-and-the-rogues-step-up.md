@@ -2,16 +2,41 @@
 date: '2024-01-14T20:05:18-05:00'
 draft: false
 title: "HeroQuest: The Monks and the Rogues step up"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/14/heroquest-the-monks-and-the-rogues-step-up/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Barbarian, Dwarf, Elf and Wizard are looking around nervously..."
-categories:
+description: "Barbarian, Dwarf, Elf and Wizard are looking around nervously..."
+tags:
   - "Game Night"
   - "HeroQuest"
-tags:
   - "Monk"
   - "Rogue"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/IMG_4162-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/IMG_4162-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/IMG_4162-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 One of the very coolest things you can do on Mastodon is follow hashtags. I'm always thinking of new hashtags I can follow; I was kind of surprised at myself that I hadn't already followed the #HeroQuest hashtag, given how often I post about it and how much fun my family gaming group is having actually playing it.

@@ -2,9 +2,38 @@
 date: '2008-02-25T09:06:12-05:00'
 draft: false
 title: "HKO: Want to test Hello Kitty? Make a video!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/02/25/hko-want-to-test-hello-kitty-make-a-video/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Hello Kitty Online"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 You can't just sign up for the Hello Kitty Online beta and expect to get in. Oh, no. You need to make a video explaining why you should be chosen. Here's the email I got:

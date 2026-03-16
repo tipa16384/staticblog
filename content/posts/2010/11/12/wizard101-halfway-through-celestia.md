@@ -2,14 +2,40 @@
 date: '2010-11-12T08:01:02-05:00'
 draft: false
 title: "Wizard101: Halfway through Celestia!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/11/12/wizard101-halfway-through-celestia/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Celestia"
   - "Queen Umbra"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg "New clothes!")

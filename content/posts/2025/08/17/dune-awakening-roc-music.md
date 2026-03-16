@@ -2,16 +2,41 @@
 date: '2025-08-17T11:36:37-05:00'
 draft: false
 title: "Dune: Awakening -- Roc Music"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/17/dune-awakening-roc-music/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "After a bunch of crafting and farming, Team Spode builds the largest ornithopter in Dune: Awakening. Now what?"
-categories:
+description: "After a bunch of crafting and farming, Team Spode builds the largest ornithopter in Dune: Awakening. Now what?"
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Dune Awakening"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/dunecarrier.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/dunecarrier.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/dunecarrier.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 You have to have goals in any MMO, some reason to get you logging in, day after day. It could be levels, it could be dungeon runs, it could be raiding.

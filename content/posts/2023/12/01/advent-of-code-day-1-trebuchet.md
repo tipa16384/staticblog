@@ -2,15 +2,40 @@
 date: '2023-12-01T08:03:44-05:00'
 draft: false
 title: "Advent of Code Day 1 -- Trebuchet?!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/01/advent-of-code-day-1-trebuchet/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Elves can't fly, but maybe YOU can... with a little help from a friendly Christmas trebuchet..."
-categories:
-  - "Advent of Code"
+description: "Elves can't fly, but maybe YOU can... with a little help from a friendly Christmas trebuchet..."
 tags:
+  - "Advent of Code"
   - "Advent"
   - "Haskell"
   - "Trebuchet"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_catapult_surrounded_by_Christmas_elves_af0eba66-cf81-40e8-8736-e61609b50fdd.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_catapult_surrounded_by_Christmas_elves_af0eba66-cf81-40e8-8736-e61609b50fdd.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_catapult_surrounded_by_Christmas_elves_af0eba66-cf81-40e8-8736-e61609b50fdd.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 When I posted about Advent of Code yesterday, I planned to do the puzzles in my comfort language, Python. But as I went through the day, I wondered if I could just go a *little bit* out of my comfort zone, and use an entirely different language which operated entirely differently -- Haskell.

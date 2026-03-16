@@ -2,7 +2,25 @@
 date: '2011-05-13T06:13:34-05:00'
 draft: false
 title: "Daily Blogroll 5/13: Truth in Advertising Edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "Darkfall"
   - "Dragon Age Legends"
@@ -15,7 +33,16 @@ categories:
   - "Treasure Abyss"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg" title="Dragon Age Legends" class="align-center" >}}

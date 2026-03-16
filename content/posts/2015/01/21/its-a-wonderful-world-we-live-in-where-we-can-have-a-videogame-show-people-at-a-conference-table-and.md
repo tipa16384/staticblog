@@ -2,11 +2,38 @@
 date: '2015-01-21T13:20:29-05:00'
 draft: false
 title: "STO: So what IS up with Seven's outfit?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/21/its-a-wonderful-world-we-live-in-where-we-can-have-a-videogame-show-people-at-a-conference-table-and/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg"
-cover: "https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a wonderful world we live in where we can have a videogame show people at a conference table and still get in a decent crotch shot.

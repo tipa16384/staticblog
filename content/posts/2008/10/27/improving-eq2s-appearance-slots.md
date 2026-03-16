@@ -2,13 +2,41 @@
 date: '2008-10-27T13:03:29-05:00'
 draft: false
 title: "Improving EQ2's Appearance slots"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/27/improving-eq2s-appearance-slots/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Appearance"
   - "Appearance Armor"
   - "Interior Decoration"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 EverQuest 2 allows you to do amazing things with interior decorating, one of the few, if not the only, MMO, that allows you so much freedom in designing your living space and that of others. Interior decorator is one of EQ2's unofficial professions, but nonetheless, a lucrative one.

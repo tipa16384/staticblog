@@ -2,14 +2,40 @@
 date: '2020-08-28T21:09:57-05:00'
 draft: false
 title: "FFXIV: A Match of Mahjong"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/28/ffxiv-a-match-of-mahjong/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy XIV"
   - "MMORPG"
   - "Steam Games"
-tags:
   - "Mahjong"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-Fullscreen-capture-8282020-90402-PM.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/1-Fullscreen-capture-8282020-90402-PM.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-Fullscreen-capture-8282020-90402-PM.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm still so pumped from Wednesday's game night. I just want to play more Mahjong. Luckily, FFXIV is always there to help with that need. I'm still a novice, an absolute beginner, so I sat down at the beginner board and the game gave me some AI opponents to play with.

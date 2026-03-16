@@ -2,9 +2,38 @@
 date: '2007-07-21T10:30:53-05:00'
 draft: false
 title: "Star Trek Online Devlog"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/07/21/star-trek-online-devlog/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The Star Trek Online devs have [posted their first devlog](http://www.startrekonline.com/devlog/). If you're at all interested in the upcoming Star Trek-based MMO, you should definitely check it out. Their first devblog focuses on their world creation tools -- VERY interesting, at least if you're into that kind of thing.

@@ -2,20 +2,44 @@
 date: '2023-08-28T07:00:00-05:00'
 draft: false
 title: "Retro World Expo Scorecard"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/28/retro-world-expo-scorecard/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Retro World Expo has been defeated by us. Here's the games we ripped from its steaming corpse."
-categories:
+description: "Retro World Expo has been defeated by us. Here's the games we ripped from its steaming corpse."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "Pokemon"
-tags:
   - "Ogre Battle"
   - "Othello"
-  - "Pokemon"
   - "Powermonger"
   - "Retro World Expo"
   - "Sailor Moon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/sailormoonpikachu.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/sailormoonpikachu.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/sailormoonpikachu.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I ran out of credits for Dall-E 2, so today's mutant images are courtesy of #Midjourney. If you're on the Team Spode Discord, you might see a new channel ;-)

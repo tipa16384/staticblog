@@ -2,14 +2,40 @@
 date: '2020-10-03T15:32:03-05:00'
 draft: false
 title: "Kingdoms of Amalur: Two times a failure."
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/03/kingdoms-of-amalur-two-times-a-failure/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "Kingdoms of Amalur: Reckoning"
   - "RPG"
   - "Spoilers"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/20201003105145_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/20201003105145_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/20201003105145_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I finished Kingdoms of Amalur: Re-Reckoning today at 51 1/2 hours, making it one of the shorter RPGs I've finished. According to the Steam achievement, only 2% of the people who purchased this remake on Steam have killed the final boss as of today.

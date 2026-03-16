@@ -2,11 +2,38 @@
 date: '2015-11-21T19:00:06-05:00'
 draft: false
 title: "Sohm Al and the Death of Love"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/11/21/sohm-al-and-the-death-of-love/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-21-16h59m50s121.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-21-16h59m50s121.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-21-16h59m50s121.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-21-16h59m50s121.jpg" title="Tiamat. I mean, Tioman." class="align-center" >}}

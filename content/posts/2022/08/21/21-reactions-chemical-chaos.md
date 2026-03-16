@@ -2,18 +2,44 @@
 date: '2022-08-21T07:00:00-05:00'
 draft: false
 title: "21 Reactions: Chemical Chaos"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/21/21-reactions-chemical-chaos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
   - "Rhythm Games"
-tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
   - "Wombats"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 21st: “21 Reactions: Chemical Chaos”.

@@ -2,11 +2,38 @@
 date: '2010-03-25T07:10:41-05:00'
 draft: false
 title: "A return to EverQuest?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/25/a-return-to-everquest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-24-20-36-44-95-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-24-20-36-44-95-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-24-20-36-44-95-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Based on helpful comments and e-mails from yesterday's post about choosing a game in which to immerse myself for awhile. I've decided to go with EverQuest, but to also keep checking out EVE opportunities while I complete some long-term training goals, AND to try out Fallen Earth at some point! Because it's clear that my brief experience with FE in its early beta wasn't enough to get a good feel for the game.

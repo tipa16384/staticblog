@@ -2,11 +2,38 @@
 date: '2010-04-17T12:45:41-05:00'
 draft: false
 title: "IP-based MMOs: Part 3 (of 5)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/17/ip-based-mmos-part-3-of-5/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/928202_20060510_790screen013-225x225.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/928202_20060510_790screen013-225x225.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/928202_20060510_790screen013-225x225.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 If you're ever in the position where you'd want to tell a non-gamer about your hobby, you can either try to explain WHAT the game is (like, you're a dwarf or an elf, and you go out hunting Meezle Monsters, except if you come across the Grand Meezle, you better have some friends with you or you'll get smooshed with the Meezle Blaster, and that can hurt if you're not in the Stance of Unmeezlement, but of course, you can't use the Meezle Tooth Rot Ointment then). MUCH easier to just say, "oh, I'm playing that Star Wars game" or "yeah, I hung out with Bilbo in Rivendell the other day". Because people UNDERSTAND when you're playing in IP-based game. They can meet you halfway.

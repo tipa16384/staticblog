@@ -2,7 +2,25 @@
 date: '2022-07-18T08:25:39-05:00'
 draft: false
 title: "Ogre Battle, Blaugust, Steam Deck, V Rising, and Guild Wars 2"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/18/ogre-battle-blaugust-steam-deck-v-rising-and-guild-wars-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Final Fantasy"
   - "Guild Wars"
@@ -11,13 +29,21 @@ categories:
   - "Tactical RPG"
   - "V Rising"
   - "Valheim"
-tags:
   - "Guild Wars 2"
   - "Ogre Battle"
   - "Steam Deck"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/ogrebbbllll.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/ogrebbbllll.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/ogrebbbllll.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Each of these probably should get their own posts, but I am exceedingly lazy.

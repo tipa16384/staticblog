@@ -2,11 +2,38 @@
 date: '2015-01-31T18:30:06-05:00'
 draft: false
 title: "EverQuest: Plight of the Undead"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/31/just-for-verisimilitudes-sake-i-ran-through-the-plight-of-the-undead-befallen-quest-in-actual-everquest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://lh5.googleusercontent.com/-Vf1EcQeQtvY/VM0daZSyEqI/AAAAAAAA_h0/-v1ThGDJ-U0/w506-h750/eqgame%2B2015-01-31%2B13-07-03-84.jpg"
-cover: "https://lh5.googleusercontent.com/-Vf1EcQeQtvY/VM0daZSyEqI/AAAAAAAA_h0/-v1ThGDJ-U0/w506-h750/eqgame%2B2015-01-31%2B13-07-03-84.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-Vf1EcQeQtvY/VM0daZSyEqI/AAAAAAAA_h0/-v1ThGDJ-U0/w506-h750/eqgame%2B2015-01-31%2B13-07-03-84.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Just for verisimilitude's sake, I ran through the "Plight of the Undead" Befallen quest in actual EverQuest to get tips and pointers and you know what, I think my version of the quest is going to be better.

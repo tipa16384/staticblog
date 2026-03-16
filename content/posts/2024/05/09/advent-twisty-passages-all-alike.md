@@ -2,16 +2,41 @@
 date: '2024-05-09T07:00:00-05:00'
 draft: false
 title: "ADVENT: Twisty Passages, All Alike"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/09/advent-twisty-passages-all-alike/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A pirate stole our treasure! Time to steal it BACK. But first, we have to find our way through one of the most notorious mazes of all time..."
-categories:
+description: "A pirate stole our treasure! Time to steal it BACK. But first, we have to find our way through one of the most notorious mazes of all time..."
+tags:
   - "Adventure"
   - "Text Adventure Game"
-tags:
   - "Colossal Cave"
   - "Colossal Cave Adventure"
   - "Pygame"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-pirate.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/cc-pirate.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-pirate.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I think someone who knew what they were doing could finish ADVENT in half an hour at most. It's taken me days. I lose points every time I save, but I'm always getting so excited about finally replaying a game that meant so much to me when I was a kid; I just want to make it special.

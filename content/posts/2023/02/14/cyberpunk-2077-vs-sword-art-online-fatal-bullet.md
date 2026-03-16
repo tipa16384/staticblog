@@ -2,17 +2,42 @@
 date: '2023-02-14T19:51:46-05:00'
 draft: false
 title: "Cyberpunk 2077 vs Sword Art Online: Fatal Bullet"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/02/14/cyberpunk-2077-vs-sword-art-online-fatal-bullet/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?"
-categories:
+description: "When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?"
+tags:
   - "Cyberpunk 2077"
   - "Sword Art Online Fatal Bullet"
-tags:
   - "Gun Gale Online"
   - "RPG"
   - "Shooter"
   - "Sword Art Online"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/02/jvsk.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/02/jvsk.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/02/jvsk.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There are only two shooter RPGs in the world, which is kinda surprising, thought there would be more, but I'm not going to let the Internet, or anyone else, tell me differently. There are only two. And while someone who was a real student of this two game genre might play them both, who really has that sort of time?

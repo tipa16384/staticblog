@@ -2,15 +2,40 @@
 date: '2023-05-17T07:37:37-05:00'
 draft: false
 title: "To G'raha, whom I shall never, ever, see again"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/05/17/to-graha-whom-i-shall-never-ever-see-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "My heart aches for the loss of G'raha Tia, as I wonder what could have been between us."
-categories:
+description: "My heart aches for the loss of G'raha Tia, as I wonder what could have been between us."
+tags:
   - "Final Fantasy"
   - "Final Fantasy XIV"
-tags:
   - "Crystal Tower"
   - "G'raha Tia"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/05/1-ffxiv_05162023_205146_829.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/05/1-ffxiv_05162023_205146_829.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/05/1-ffxiv_05162023_205146_829.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My Dearest G'raha Tia,

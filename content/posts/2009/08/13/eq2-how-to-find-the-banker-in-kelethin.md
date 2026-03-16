@@ -2,11 +2,38 @@
 date: '2009-08-13T06:25:08-05:00'
 draft: false
 title: "EQ2: How to find the banker in Kelethin"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/08/13/eq2-how-to-find-the-banker-in-kelethin/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/1-findguard.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/08/1-findguard.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/08/1-findguard.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Here's how to find the banker -- or any other NPC -- in Kelethin. This works for NPCs in any city. [Wolfshead was pretty positive about the Greater Faydark area in general](http://www.wolfsheadonline.com/?p=2828), and I appreciate that -- I think it's a great starting zone -- but to flatly say it's impossible to get a guard to show you to the banker unless you know the banker's name, or that it's all that hard to get around the city with the map, well....

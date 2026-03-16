@@ -2,13 +2,39 @@
 date: '2014-06-23T23:00:38-05:00'
 draft: false
 title: "DCUO: Rise of Rage"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/06/23/dcuo-rise-of-rage/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh6.googleusercontent.com/-zRozOvS54MQ/U6gXDgy5SnI/AAAAAAAAv98/RKVpRFRZ91M/w753-h565-no/DCGame+2014-06-22+00-53-18-80.jpg"
-cover: "https://lh6.googleusercontent.com/-zRozOvS54MQ/U6gXDgy5SnI/AAAAAAAAv98/RKVpRFRZ91M/w753-h565-no/DCGame+2014-06-22+00-53-18-80.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-zRozOvS54MQ/U6gXDgy5SnI/AAAAAAAAv98/RKVpRFRZ91M/w753-h565-no/DCGame+2014-06-22+00-53-18-80.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Encase a sparring target. Bring it up to the main area. Bowl :)](https://lh6.googleusercontent.com/-zRozOvS54MQ/U6gXDgy5SnI/AAAAAAAAv98/RKVpRFRZ91M/w753-h565-no/DCGame+2014-06-22+00-53-18-80.jpg)

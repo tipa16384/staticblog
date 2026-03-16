@@ -2,15 +2,40 @@
 date: '2025-12-23T09:00:00-05:00'
 draft: false
 title: "Widget's Workshop: Build Robots Better."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/23/widgets-workshop-build-robots-better/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "If you've been fomenting a drop-style card crafting revolution, this might be the game for you."
-categories:
+description: "If you've been fomenting a drop-style card crafting revolution, this might be the game for you."
+tags:
   - "Game Night"
   - "Kickstarter"
   - "Tabletop Games"
-tags:
   - "Widget's Workshop"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5579-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5579-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5579-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 "Revolutionary drop-style card crafting in the Dungeon Drop universe. Drop 80 part cards to create Widget's chaotic workshop, then use one finger to pull perfect components for your robots and golems. Unique spatial set collection meets strategic card crafting."

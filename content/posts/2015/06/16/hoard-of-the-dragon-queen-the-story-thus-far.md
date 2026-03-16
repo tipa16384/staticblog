@@ -2,11 +2,38 @@
 date: '2015-06-16T20:34:33-05:00'
 draft: false
 title: "Hoard of the Dragon Queen: The Story Thus Far..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/06/16/hoard-of-the-dragon-queen-the-story-thus-far/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "D&D 4e"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/inndrawing.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/06/inndrawing.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/06/inndrawing.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/inndrawing.jpg" title="Inn of the Trolls" class="align-center" >}}

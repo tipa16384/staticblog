@@ -2,18 +2,43 @@
 date: '2024-10-19T08:00:00-05:00'
 draft: false
 title: "Analogue 3D: If I were to get one..."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/19/analogue-3d-if-i-were-to-get-one/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Do I love Nintendo 64 games enough to buy a $250 console that would bring them into the 21st century?"
-categories:
+description: "Do I love Nintendo 64 games enough to buy a $250 console that would bring them into the 21st century?"
+tags:
   - "Beyond Shadowgate"
   - "Nintendo 64"
-tags:
   - "Analogue"
   - "Hybrid Heaven"
   - "Legend of Zelda"
   - "Paper Mario"
   - "Perfect Dark"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/analogue3d.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/analogue3d.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/analogue3d.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yes, I know that the [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) was already sold well into the 21st century. You knew what I meant.

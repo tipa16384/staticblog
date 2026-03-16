@@ -2,10 +2,37 @@
 date: '2022-03-01T07:38:11-05:00'
 draft: false
 title: "7DRL: Building an Engine -- It Begins"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/01/7drl-building-an-engine-it-begins/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/mar01roguelikeintro.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/mar01roguelikeintro.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/mar01roguelikeintro.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yesterday I mentioned a few things that were *required* to be part of any roguelike game engine. Today, I add two of them -- an introduction, and a way for the player to be defeated.

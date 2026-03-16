@@ -2,18 +2,43 @@
 date: '2025-01-09T08:00:55-05:00'
 draft: false
 title: "Our STAR*VADERS!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/09/our-starvaders/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's \"Slay the Spire\" meets \"Into the Breach\" meets \"Space Invaders\" meets... Space Battleship Yamato?"
-categories:
+description: "It's \"Slay the Spire\" meets \"Into the Breach\" meets \"Space Invaders\" meets... Space Battleship Yamato?"
+tags:
   - "Steam Games"
   - "Tactical RPG"
   - "Tactics"
-tags:
   - "Into the Breach"
   - "Slay the Spire"
   - "Space Invaders"
   - "Starvaders"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/KeyArt_920x430.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/KeyArt_920x430.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/KeyArt_920x430.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-29-150x150.png" class="align-left" >}}

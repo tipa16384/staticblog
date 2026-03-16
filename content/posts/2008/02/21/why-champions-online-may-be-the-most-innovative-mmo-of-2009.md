@@ -2,12 +2,39 @@
 date: '2008-02-21T12:41:29-05:00'
 draft: false
 title: "Why Champions Online may be the most innovative MMO of 2009."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/02/21/why-champions-online-may-be-the-most-innovative-mmo-of-2009/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "City of Heroes"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/drdestroyer.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/02/drdestroyer.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/02/drdestroyer.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![drdestroyer.jpg](https://chasingdings.com/wp-content/uploads/2008/02/drdestroyer.jpg)

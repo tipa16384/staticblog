@@ -2,14 +2,40 @@
 date: '2020-10-19T08:32:09-05:00'
 draft: false
 title: "Lords of EverQuest: First Impressions"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/19/lords-of-everquest-first-impressions/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Real Time Strategy"
-tags:
   - "Lords of Everquest"
   - "RTS"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/1-Lords-2020-10-19-07-01-59-39.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/1-Lords-2020-10-19-07-01-59-39.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/1-Lords-2020-10-19-07-01-59-39.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I am not a Real Time Strategy gamer. I haven't played Warcraft, or Starcraft, or Dune or even Total Annihilation. So, I really have nothing to which to compare Lords of EverQuest, a game developed by Rapid Eye Entertainment for SOE to tie into the MMO way back in the day.

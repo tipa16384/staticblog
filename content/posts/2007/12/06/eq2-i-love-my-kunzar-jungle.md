@@ -2,9 +2,38 @@
 date: '2007-12-06T08:48:16-05:00'
 draft: false
 title: "EQ2: I love my Kunzar Jungle"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/06/eq2-i-love-my-kunzar-jungle/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I really really REALLY wanted to level last night, so I made a promise to myself and to anyone in earshot that yes, THIS TIME, I was going to start on those Kunzar Jungle quests, and damned be he that gets in my way. Just for fun I checked on groups in guild -- apparently guild leader changed again, and some people who left came back, I missed all that drama somehow because I was playing my cleric all night before last and she is not in the guild.

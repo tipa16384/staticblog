@@ -2,11 +2,38 @@
 date: '2010-06-25T06:56:40-05:00'
 draft: false
 title: "Fists of Fu: Beat 'em Up MMOs go Platform"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/06/25/fists-of-fu-beat-em-up-mmos-go-platform/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Fists of Fu"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg "PvP Victory Screen")](https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76.jpg)

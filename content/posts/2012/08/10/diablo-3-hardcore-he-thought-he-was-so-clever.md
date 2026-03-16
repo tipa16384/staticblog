@@ -2,10 +2,37 @@
 date: '2012-08-10T22:24:51-05:00'
 draft: false
 title: "Diablo 3 Hardcore: He thought he was so clever"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/08/10/diablo-3-hardcore-he-thought-he-was-so-clever/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![The Death of Azmodan](https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41-480x384.jpg "The Death of Azmodan")](https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41.jpg)

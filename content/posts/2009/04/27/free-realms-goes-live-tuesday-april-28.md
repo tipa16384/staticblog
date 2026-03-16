@@ -2,11 +2,39 @@
 date: '2009-04-27T06:35:26-05:00'
 draft: false
 title: "Free Realms goes live Tuesday, April 28"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/27/free-realms-goes-live-tuesday-april-28/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Free Realms"
   - "MMORPG"
-tags:
   - "Closed Beta"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The servers are coming down this morning, all beta characters are being deleted (answering a question of mine), and tomorrow, you'll be able to start cooking, racing, shooting, mining and everything else.

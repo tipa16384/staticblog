@@ -2,11 +2,38 @@
 date: '2007-11-12T01:39:28-05:00'
 draft: false
 title: "EQ2: Tier 8 Tailoring"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/12/eq2-tier-8-tailoring/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/tailoring.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/11/tailoring.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/11/tailoring.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I promise, this is the last screenshot of clothing :) I logged on tonight, scoured the broker for the rare hides and other stuff I'd need, and made some Tier 8 clothes.

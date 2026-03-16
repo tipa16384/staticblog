@@ -2,13 +2,40 @@
 date: '2008-11-10T09:36:17-05:00'
 draft: false
 title: "Wizard Friends and LittleBigPlanet Mazes"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/10/wizard-friends-and-littlebigplanet-mazes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Littlebigplanet"
   - "MMORPG"
   - "Other Games"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was going to title this, "Friends don't let friends play Wizard 101" because it's so addictive, but I couldn't. I really, really enjoyed playing my current crush with friends this weekend.

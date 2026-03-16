@@ -2,16 +2,41 @@
 date: '2025-08-18T08:37:34-05:00'
 draft: false
 title: "Downsizing!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/18/downsizing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Can I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards?"
-categories:
+description: "Can I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards?"
+tags:
   - "Blaugust"
   - "Blaugust 2025"
-tags:
   - "Pi 5"
   - "Raspberry Pi"
   - "Raspbian"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/1-Photos-1-001-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/1-Photos-1-001-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/1-Photos-1-001-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Could I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards? *Should* I?

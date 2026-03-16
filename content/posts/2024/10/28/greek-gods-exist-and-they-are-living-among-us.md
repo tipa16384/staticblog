@@ -2,15 +2,40 @@
 date: '2024-10-28T08:00:00-05:00'
 draft: false
 title: "Greek Gods Exist and they are Living Among Us!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/28/greek-gods-exist-and-they-are-living-among-us/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "\"Stray Gods: The Roleplaying Musical\" puts a Broadway spin on the problems of immortal gods..."
-categories:
+description: "\"Stray Gods: The Roleplaying Musical\" puts a Broadway spin on the problems of immortal gods..."
+tags:
   - "Adventure"
   - "RPG"
   - "Visual Novel"
-tags:
   - "Stray Gods"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/Key_Art_-_THE_ROLEPLAYING_MUSICAL_1080p_PNG.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/Key_Art_-_THE_ROLEPLAYING_MUSICAL_1080p_PNG.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/Key_Art_-_THE_ROLEPLAYING_MUSICAL_1080p_PNG.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I really wanted to play this game pretty much the moment I heard about it. I love musicals. I love Broadway. Kinda like the whole "gods living among us" thing. So... I think I put this on a wishlist and waited for it to go on sale? Eventually I think I picked it up for free as a Twitch drop, and *even then*, I didn't play it.

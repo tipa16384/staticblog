@@ -2,16 +2,41 @@
 date: '2023-11-07T07:00:00-05:00'
 draft: false
 title: "HeroQuest: The Rescue of Sir Ragnar"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/07/heroquest-the-rescue-of-sir-ragnar/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Where the wizard runs ahead of the rest of the party and everyone else pays the price. Again."
-categories:
+description: "Where the wizard runs ahead of the rest of the party and everyone else pays the price. Again."
+tags:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "Orc"
   - "Wizard"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/rescueofsirragnar.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/rescueofsirragnar.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/rescueofsirragnar.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Midjourney -- the text-to-image program I used for this post's title image -- has released a tool to tune Midjourney to an almost ridiculous extent, and once tuned, to keep using this tuning for other images. This is WAY beyond Dall-E 2. I'm betting Dall-E 3 will raise the bar again, but I'm happy.

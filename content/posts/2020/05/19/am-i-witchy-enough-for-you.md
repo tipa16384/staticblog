@@ -2,20 +2,46 @@
 date: '2020-05-19T11:06:56-05:00'
 draft: false
 title: "Am I Witchy Enough For You?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/19/am-i-witchy-enough-for-you/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Miniatures"
   - "Nintendo Switch"
   - "PS4"
   - "Steam Games"
-tags:
   - "Chocobo Mystery Dungeon"
   - "Hero Forge"
   - "Octopath Traveler"
   - "Switch Tax"
   - "The Witcher"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/witcher.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/witcher.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/witcher.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Since I finished Octopath Traveler a few weeks ago, I've been looking for another really decent RPG in which to lose myself. My boyfriend had several suggestions: Persona 4, DragonQuest XI, or the Witcher 3.

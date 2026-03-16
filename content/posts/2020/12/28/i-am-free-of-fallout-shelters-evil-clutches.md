@@ -2,15 +2,41 @@
 date: '2020-12-28T20:27:08-05:00'
 draft: false
 title: "I am free of Fallout Shelter's evil clutches"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/28/i-am-free-of-fallout-shelters-evil-clutches/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Mobile Games"
   - "PS5"
-tags:
   - "F2P"
   - "Fallout Shelter"
   - "Mobile Game"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Header image shows the moment I knew I was done with Fallout Shelter. I had just gotten things back on track from an attack of radioactive scorpions, when some death claws came by and took out my defenses, then killed my main power, water and food facilities. Even "Cut-Rate Richard Branson" couldn't fight them off.

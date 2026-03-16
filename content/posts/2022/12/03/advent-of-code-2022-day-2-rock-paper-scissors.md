@@ -2,17 +2,43 @@
 date: '2022-12-03T00:45:56-05:00'
 draft: false
 title: "Advent of Code 2022 Day 2 -- Rock Paper Scissors"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/03/advent-of-code-2022-day-2-rock-paper-scissors/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Advent of Code"
   - "OpenAI"
-tags:
   - "2022"
   - "Advent"
   - "Java"
   - "Python"
   - "Rock Paper Scissors"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/Two_elves_playing_rock_paper_scissors_in_an_abandoned_jungle_village__by_Bob_Eggleton__Detailed_and__Seed-6967716_Steps-175_Guidance-7.5.jpeg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/Two_elves_playing_rock_paper_scissors_in_an_abandoned_jungle_village__by_Bob_Eggleton__Detailed_and__Seed-6967716_Steps-175_Guidance-7.5.jpeg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/Two_elves_playing_rock_paper_scissors_in_an_abandoned_jungle_village__by_Bob_Eggleton__Detailed_and__Seed-6967716_Steps-175_Guidance-7.5.jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So I made it to day 2 of Advent of Code! Not entirely *awake*. I stayed up past midnight to solve it. I messed up my first approach, so I went to a more brute force approach that worked. I got my solution logged in in about twelve minutes or so? But I was still 8,000 positions from the leaderboard, so... yeah, I don't really think I need to be staying up late to get the puzzle the moment it drops.

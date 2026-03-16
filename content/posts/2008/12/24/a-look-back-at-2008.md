@@ -2,7 +2,25 @@
 date: '2008-12-24T14:20:44-05:00'
 draft: false
 title: "A look back at 2008"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/24/a-look-back-at-2008/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Champions Online"
   - "Chronicles of Spellborn"
@@ -21,7 +39,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-30-22-10-50-69.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 2008 has been an absolutely amazing year for MMOs, and my personal progress through them.

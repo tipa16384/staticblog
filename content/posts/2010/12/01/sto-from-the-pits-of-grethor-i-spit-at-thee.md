@@ -2,15 +2,41 @@
 date: '2010-12-01T01:20:18-05:00'
 draft: false
 title: "STO: From the Pits of Gre'thor, I Spit at Thee"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/01/sto-from-the-pits-of-grethor-i-spit-at-thee/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Gre'thor"
   - "Kahless"
   - "Sword of Kahless"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-01-00-14-23-37-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-01-00-14-23-37-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-01-00-14-23-37-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-01-00-14-23-37-480x300.jpg "Kahless Sword Replica")](https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-01-00-14-23-37.jpg)

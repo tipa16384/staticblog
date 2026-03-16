@@ -2,15 +2,41 @@
 date: '2009-02-26T08:50:13-05:00'
 draft: false
 title: "Wizard 101: Building a deck"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/26/wizard-101-building-a-deck/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Colossus Boulevard"
   - "Decks"
   - "Marleybone"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Wizard 101 is built around a card game, and that card game is built around your deck. Deck construction can be tricky. I was [talking with a friend](http://shatteredblog.wordpress.com/) about building decks for collectible card games last night, and he told me of some people who would bring massive decks of eighty or more cards to a tournament. How could that player ever get the card he wanted?

@@ -2,17 +2,42 @@
 date: '2021-08-11T22:44:25-05:00'
 draft: false
 title: "The Most Interesting Game of All Time!"
-categories:
-  - "Blaugust"
-  - "MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/11/the-most-interesting-game-of-all-time/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
+  - "MMORPG"
   - "Google Jail"
   - "Google Trends"
   - "Python"
   - "Pytrends"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/runescape-20-years.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/runescape-20-years.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/runescape-20-years.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was [playing around with Google Trends](https://chasingdings.com/2021/08/07/mmos-on-the-bubble/) last week, trying to see how a few MMOs compared to each on the 'Trends. It was fun and all, but I missed a lot of games and I just thought it would be so much better if I could just compare EVERY MMO, past and present, *automatically*!

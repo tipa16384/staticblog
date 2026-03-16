@@ -2,18 +2,43 @@
 date: '2023-09-12T08:10:37-05:00'
 draft: false
 title: "Looks like it's D&D time again"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/12/looks-like-its-dd-time-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "My son-in-law is interested in running a D&D game, and I have just the character."
-categories:
+description: "My son-in-law is interested in running a D&D game, and I have just the character."
+tags:
   - "Dungeons & Dragons"
   - "Game Night"
-tags:
   - "Cleric"
   - "D&d"
   - "Gruumsh"
   - "Half-Orc"
   - "Hobbesian Cleric"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/halforcclericcloseup.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/halforcclericcloseup.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/halforcclericcloseup.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I read recently that the least played class in Baldur's Gate 3 was the cleric, and it wasn't even really close. Nobody wants to play the support class. Heck, I agree. The last D&D game I was in, I played a bard and I desperately tried to make myself more useful to the group than just amusing our enemies with a spirited round of Vicious Mockery.

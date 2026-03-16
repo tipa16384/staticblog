@@ -2,15 +2,40 @@
 date: '2025-09-17T08:31:56-05:00'
 draft: false
 title: "Dune Awakening: Life in the Deep Desert"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/17/dune-awakening-life-in-the-deep-desert/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's not just worms and spice and dust and sandstorms and heat and... well, actually, that's pretty much what it is."
-categories:
+description: "It's not just worms and spice and dust and sandstorms and heat and... well, actually, that's pretty much what it is."
+tags:
   - "Dune Awakening"
   - "MMORPG"
-tags:
   - "Landsraad"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250915204452_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250915204452_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250915204452_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's said that you don't really know an MMO until you get to its endgame. Once you've done all the fun leveling up, what keeps you logging in, night after night, when there's no real game goal to strive toward?

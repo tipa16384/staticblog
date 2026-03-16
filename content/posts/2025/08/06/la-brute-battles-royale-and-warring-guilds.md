@@ -2,16 +2,41 @@
 date: '2025-08-06T19:44:35-05:00'
 draft: false
 title: "La Brute: Battles Royale and Warring Guilds"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Beneath this seeming auto battler is a surprisingly deep strategy game..."
-categories:
+description: "Beneath this seeming auto battler is a surprisingly deep strategy game..."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Browser Game"
   - "Other Games"
-tags:
   - "My Brute"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/LaBrute.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/LaBrute.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/LaBrute.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 *It occurs to me that people might not want to play a game in French if they themselves do not read French well or at all. No worries -- La Brute is localized to many languages, including English. I just prefer to play it in the original language. If you want all the French to go away, just open the preferences and change the language. *

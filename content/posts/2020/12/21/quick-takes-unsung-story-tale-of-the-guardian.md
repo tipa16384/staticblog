@@ -2,11 +2,28 @@
 date: '2020-12-21T11:38:02-05:00'
 draft: false
 title: "Quick Takes: Unsung Story, Tale of the Guardian"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/21/quick-takes-unsung-story-tale-of-the-guardian/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Kickstarter"
   - "Steam Games"
   - "Tactical RPG"
-tags:
   - "Little Orbit"
   - "Playdek"
   - "RPG"
@@ -14,7 +31,16 @@ tags:
   - "Tactics"
   - "Unsung Story"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/20201219085246_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/20201219085246_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/20201219085246_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Unsung Story, by Little Orbit, is the game I never thought I would see. It was due to be released five and a half years ago, but is only hitting early access on Steam now with a lot of work ahead of it. I had written it off. But, here it is -- mostly.

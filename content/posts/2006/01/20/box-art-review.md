@@ -2,10 +2,37 @@
 date: '2006-01-20T00:00:00-05:00'
 draft: false
 title: "Box Art Review!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/01/20/box-art-review/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
 featured_image: "https://chasingdings.com/images/Qaliasp2.gif"
-cover: "https://chasingdings.com/images/Qaliasp2.gif"
+cover:
+  image: "https://chasingdings.com/images/Qaliasp2.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/images/Qaliasp2.gif) Sigil's fan service model for their new MMO got me wondering... aside from clearly targeting their game at teenage males, how well does using sexy cover art actually sell the game?

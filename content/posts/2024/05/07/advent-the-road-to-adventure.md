@@ -2,14 +2,39 @@
 date: '2024-05-07T07:00:00-05:00'
 draft: false
 title: "ADVENT: The Road to Adventure"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/07/advent-the-road-to-adventure/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "You can draw a direct line from Crowther and Woods' \"Adventure\" to MMOs such as EverQuest. I'm going to be playing it all the way through... twice."
-categories:
+description: "You can draw a direct line from Crowther and Woods' \"Adventure\" to MMOs such as EverQuest. I'm going to be playing it all the way through... twice."
+tags:
   - "Adventure"
   - "Text Adventure Game"
-tags:
   - "Colossal Cave Adventure"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've mentioned finding [the original ADVENT game](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) (as it was called on my university's PDP-10) and having it transform the trajectory of my life. It's such an influential game, that I'm really surprised I haven't played it since my college days.

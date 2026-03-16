@@ -2,7 +2,25 @@
 date: '2008-10-01T15:42:37-05:00'
 draft: false
 title: "Will the rise of User Generated Content be the real \"WoW-killer\"?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/01/will-the-rise-of-user-generated-content-be-the-real-wow-killer/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "EverQuest"
   - "MMORPG"
@@ -10,7 +28,16 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/sporeapp-2008-09-28-08-02-17-19.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/sporeapp-2008-09-28-08-02-17-19.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/sporeapp-2008-09-28-08-02-17-19.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/sporeapp-2008-09-28-08-02-17-19.jpg "sporeapp-2008-09-28-08-02-17-19")

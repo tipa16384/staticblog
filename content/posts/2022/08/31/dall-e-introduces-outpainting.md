@@ -2,15 +2,41 @@
 date: '2022-08-31T22:26:55-05:00'
 draft: false
 title: "Dall-E introduces \"Outpainting\""
-categories:
-  - "OpenAI"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/31/dall-e-introduces-outpainting/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "OpenAI"
   - "Dall-E 2"
   - "Gin-Soaked Nightclubs"
   - "Robots"
   - "Wombats"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/guitarrobot.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/guitarrobot.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/guitarrobot.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Dall-E 2 renders have been trapped in squares, requiring people to either crop the image or play tricks with paint programs to trick the AI into extending the image. Today, OpenAI built that capability right into the program. Edit to your heart's content to make the perfect image for your needs.

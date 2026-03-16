@@ -2,16 +2,42 @@
 date: '2010-11-03T23:08:34-05:00'
 draft: false
 title: "Is your teenager a Minecraft addict?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/11/03/is-your-teenager-a-minecraft-addict/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Minecraft"
   - "Other Games"
-tags:
   - "Halloween"
   - "Hell"
   - "Mines"
   - "The Nether"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg "Tipaville from The Big ")](https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-03-20-09-47-09.jpg)

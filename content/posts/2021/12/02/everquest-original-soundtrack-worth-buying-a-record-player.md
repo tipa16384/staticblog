@@ -2,16 +2,42 @@
 date: '2021-12-02T23:30:02-05:00'
 draft: false
 title: "EverQuest Original Soundtrack: Worth buying a record player."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/12/02/everquest-original-soundtrack-worth-buying-a-record-player/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Real Life"
-tags:
   - "Album"
   - "Record Player"
   - "Soundtrack"
   - "Vinyl"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/12/IMG_2397_resized.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/12/IMG_2397_resized.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/12/IMG_2397_resized.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Is there a vinyl album out there that would spur you to buy a record player? I thought I'd never do it, until that one album came along.

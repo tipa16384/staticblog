@@ -2,10 +2,37 @@
 date: '2015-02-27T15:14:19-05:00'
 draft: false
 title: "I ran through the original EverQuest version of my newly rewritten Neverwinter foundry  quest, \"The ..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/02/27/i-ran-through-the-original-everquest-version-of-my-newly-rewritten-neverwinter-foundry-quest-the/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://lh3.googleusercontent.com/proxy/EJz6KtrPhYMQe_-l1BwVQpsLGWz0xk9vbjiF74UZzxeGR2UhiWg3pCPfnIBCpL25ZDA3EvgJl2StmBPTbm2EuQ=w506-h284-n"
-cover: "https://lh3.googleusercontent.com/proxy/EJz6KtrPhYMQe_-l1BwVQpsLGWz0xk9vbjiF74UZzxeGR2UhiWg3pCPfnIBCpL25ZDA3EvgJl2StmBPTbm2EuQ=w506-h284-n"
+cover:
+  image: "https://lh3.googleusercontent.com/proxy/EJz6KtrPhYMQe_-l1BwVQpsLGWz0xk9vbjiF74UZzxeGR2UhiWg3pCPfnIBCpL25ZDA3EvgJl2StmBPTbm2EuQ=w506-h284-n"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I ran through the original EverQuest version of my newly rewritten Neverwinter foundry  quest, "The Crypt of Befallen"... so if you wanna see what a classic  [#EverQuest](https://plus.google.com/s/%23EverQuest)  dungeon looks like today, here 'tis, running the special "Plight of the Undead" solo quest. Also, you get to see me remember how to play my mage. Just be thankful I cut out all the Plane of Tranquility stuff; I parked her there years ago. I also had to cut the quest finishing up in Ak'anon for time reasons.

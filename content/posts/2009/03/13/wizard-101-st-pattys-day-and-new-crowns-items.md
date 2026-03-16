@@ -2,10 +2,27 @@
 date: '2009-03-13T07:22:39-05:00'
 draft: false
 title: "Wizard 101: St. Patty's day -- and new Crowns items!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/13/wizard-101-st-pattys-day-and-new-crowns-items/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Crowns"
   - "Dragonspyre"
   - "Mooshu"
@@ -13,7 +30,16 @@ tags:
   - "St. Patrick's Day"
   - "Zeke the Prospector"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A funny little man dressed in green dragged me to my computer. "Log in! To Wizard 101!" he insisted. And when I started to do just that, he slapped my hands rudely from the keyboard. "No! Log in to the TEST SERVER! There all the new St. Patty's Day things you will see!"

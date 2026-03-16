@@ -2,10 +2,27 @@
 date: '2010-12-06T20:20:59-05:00'
 draft: false
 title: "DDO: Taking a Wight at the Ghast Station"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-tags:
   - "Archer's Point"
   - "Dead Girl's Notebook"
   - "Delera's Tomb"
@@ -13,7 +30,16 @@ tags:
   - "Mirra's Sleepless Nights"
   - "Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg "Spode did it! Look, he")

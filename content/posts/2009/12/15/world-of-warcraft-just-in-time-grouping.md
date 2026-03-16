@@ -2,11 +2,38 @@
 date: '2009-12-15T06:41:02-05:00'
 draft: false
 title: "World of Warcraft: Just-in-Time Grouping"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/12/15/world-of-warcraft-just-in-time-grouping/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-12-22-20-55-09.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-12-22-20-55-09.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-12-22-20-55-09.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Dead Body Alert! (DBA)](https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-12-22-20-55-09.jpg "Dead Body Alert! (DBA)")

@@ -2,9 +2,38 @@
 date: '2007-12-22T12:20:11-05:00'
 draft: false
 title: "Is Lord of the Rings Online a failure?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/22/is-lord-of-the-rings-online-a-failure/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Over at [Mind-Bending Puzzles](http://mindbendingpuzzles.blogspot.com/2007/12/lotro-refugees-from-azeroth-have-all.html), they're concerned that the spike of players coming from the World of Warcraft have pretty much all left. Lord of the Rings Online was hailed as the [PC MMO of the Year](http://www.lotrolife.com/news_full/lotro_named_pc_mmo_game_of_the_year/142) by Gamespy, and claims [over four million characters and the second largest MMO](http://forums.lotro.com/showthread.php?t=87696) in (presumably) the world since they mention "critial acclaim from around the globe".

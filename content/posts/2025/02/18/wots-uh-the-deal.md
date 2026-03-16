@@ -2,19 +2,43 @@
 date: '2025-02-18T08:42:08-05:00'
 draft: false
 title: "Wot's... Uh the Deal?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/02/18/wots-uh-the-deal/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Lots of stuff going on, I guess I should update on all the things."
-categories:
+description: "Lots of stuff going on, I guess I should update on all the things."
+tags:
   - "Erenshor"
   - "Adrullan Online Adventures"
   - "Malifaux"
   - "MMORPG"
-tags:
   - "Cryptmaster"
-  - "Erenshor"
   - "Fantasian Neo Dimension"
   - "Stars Reach"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/image-1-150x150.png" class="align-left" >}}

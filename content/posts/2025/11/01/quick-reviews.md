@@ -2,11 +2,37 @@
 date: '2025-11-01T08:00:00-05:00'
 draft: false
 title: "Quick Reviews"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/01/quick-reviews/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A little bit about games I've played recently, including Winter Burrow, Death by Scrolling, Alabaster Dawn, Solasta II, Mario Kart World and Pokemon Legends Z-A."
-categories:
+description: "A little bit about games I've played recently, including Winter Burrow, Death by Scrolling, Alabaster Dawn, Solasta II, Mario Kart World and Pokemon Legends Z-A."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/winterburrow.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/winterburrow.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/winterburrow.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've been playing a lot of games lately and I really haven't been sitting down and writing reviews of them! Well, that changes tonight.

@@ -2,18 +2,43 @@
 date: '2023-02-10T23:15:20-05:00'
 draft: false
 title: "If I buy an NFT, that art is mine now. Right?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/02/10/if-a-buy-an-nft-that-art-is-mine-now-right/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Of course not. Why do people even think that?"
-categories:
+description: "Of course not. Why do people even think that?"
+tags:
   - "DC Comics"
   - "NFT"
-tags:
   - "Green Lantern"
   - "Harley Quinn"
   - "Palm"
   - "Poison Ivy"
   - "The Last of Us"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/02/mylantern.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/02/mylantern.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/02/mylantern.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've been buying and selling DC comics as NFTs on their marketplace. I can read the comic books and make almost all my money back selling them to the next reader. It's totally legal and legit, and I'm enjoying it. There's no particular reason why these have to be NFTs; they could just mark you as the owner in some database somewhere, same way Kindle and Comixology do.

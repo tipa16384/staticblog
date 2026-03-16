@@ -2,10 +2,26 @@
 date: '2024-02-20T07:31:31-05:00'
 draft: false
 title: "Retro Game Quick Look: Sword of Mana, LotR: Two Towers, Iridion 3D"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/02/20/retro-game-quick-look-sword-of-mana-lotr-two-towers-iridion-3d/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I shuffled through the Gameboy Advance discount bins at some local retro game stores, and this is what I came away with."
-categories:
-  - "Lord of the Rings"
+description: "I shuffled through the Gameboy Advance discount bins at some local retro game stores, and this is what I came away with."
 tags:
+  - "Lord of the Rings"
   - "Analogue"
   - "Gameboy Advance"
   - "Hobbit"
@@ -13,7 +29,16 @@ tags:
   - "Sword of Mana"
   - "The Two Towers"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/02/DALL·E-2024-02-19-23.10.31-Illustrate-an-anime-style-boy-and-girl-standing-on-a-hill-looking-towards-an-enormous-tree-surrounded-by-blue-crystals-capturing-the-essence-of-a-19.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2024/02/DALL·E-2024-02-19-23.10.31-Illustrate-an-anime-style-boy-and-girl-standing-on-a-hill-looking-towards-an-enormous-tree-surrounded-by-blue-crystals-capturing-the-essence-of-a-19.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/02/DALL·E-2024-02-19-23.10.31-Illustrate-an-anime-style-boy-and-girl-standing-on-a-hill-looking-towards-an-enormous-tree-surrounded-by-blue-crystals-capturing-the-essence-of-a-19.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My boyfriend is crazy about a chicken finger restaurant called Raising Cain's. I've never eaten there, as far as I know. I think the last time I ate at a chicken-only restaurant was at a Chic-Fil-A as I was coming back from visiting my son in Virginia. This was before the news broke about how awful the company management was, and the restaurant became a cause célèbre for a certain kind of person. So I haven't eaten there since, and this was at least fifteen years ago.

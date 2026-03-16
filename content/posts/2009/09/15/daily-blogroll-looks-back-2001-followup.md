@@ -2,11 +2,38 @@
 date: '2009-09-15T11:00:50-05:00'
 draft: false
 title: "Daily Blogroll Looks Back: 2001 -- Followup"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/15/daily-blogroll-looks-back-2001-followup/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-9142009-100654-PM-480x394.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-9142009-100654-PM-480x394.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-9142009-100654-PM-480x394.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yesterday I blogged about several games in development in 2001 that maybe aren't so well known these days. Back in 2001, nobody knew Blizzard's World of Warcraft would change the scene, but everyone knew great things were ahead. Computers were doubling in power every year, graphics as well, and what looked good in 1999 looked downright primitive just two years later -- EverQuest's graphics overhaul that began with Shadows of Luclin and continues today was testament to that, as well as the new beginning of EverQuest II.

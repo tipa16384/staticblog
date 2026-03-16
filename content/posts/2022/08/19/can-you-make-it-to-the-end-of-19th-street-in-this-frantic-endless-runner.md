@@ -2,18 +2,44 @@
 date: '2022-08-19T07:00:00-05:00'
 draft: false
 title: "Can You Make It To The End Of 19th Street In This Frantic Endless Runner?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/19/can-you-make-it-to-the-end-of-19th-street-in-this-frantic-endless-runner/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
-tags:
   - "2D Platformer"
   - "Dall-E 2"
   - "Endless Runner"
   - "Gpt-3"
   - "Platformer"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-11-19.48.05-synthwave-one-point-perspective-a-businesswoman-sprinting-toward-the-camera-along-a-busy-city-sidewalk-with-tall-buildings-in-the-background.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-11-19.48.05-synthwave-one-point-perspective-a-businesswoman-sprinting-toward-the-camera-along-a-busy-city-sidewalk-with-tall-buildings-in-the-background.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-11-19.48.05-synthwave-one-point-perspective-a-businesswoman-sprinting-toward-the-camera-along-a-busy-city-sidewalk-with-tall-buildings-in-the-background.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 19th: “19th Street Dash”.

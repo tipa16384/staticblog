@@ -2,15 +2,40 @@
 date: '2025-10-19T12:28:38-05:00'
 draft: false
 title: "Final Fantasy Tactics: The Ivalice Chronicles, a retrospective"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/19/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake."
-categories:
+description: "Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake."
+tags:
   - "Final Fantasy"
   - "PS5"
   - "Tactical RPG"
-tags:
   - "Final Fantasy Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 As near as I can tell, by doing some archaeology on my computer, is that I played Final Fantasy Tactics: The War of the Lion, a remake of the game for handheld game machines, a few years back. I replayed the original, on an emulator, about ten years ago. And I know I played it at least twice through on the original PSX hardware.

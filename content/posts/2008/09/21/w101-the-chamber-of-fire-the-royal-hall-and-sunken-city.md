@@ -2,18 +2,43 @@
 date: '2008-09-21T20:34:27-05:00'
 draft: false
 title: "W101: The Chamber of Fire, the Royal Hall and Sunken City"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Chamber of Fire"
   - "Krokotopia"
   - "Pyramid of the Sun"
   - "Sunken City"
   - "W101"
-  - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg "wizardgraphicalclient-2008-09-21-17-39-05-38")

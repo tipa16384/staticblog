@@ -2,15 +2,40 @@
 date: '2023-08-20T15:23:23-05:00'
 draft: false
 title: "Final Fantasy XIII goes Chapter 11"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/20/final-fantasy-xiii-goes-chapter-11/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Our crafty band of l'Cie defeat the big bad for the second time and head back to Cocoon to either save or destroy the floating world."
-categories:
+description: "Our crafty band of l'Cie defeat the big bad for the second time and head back to Cocoon to either save or destroy the floating world."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "Final Fantasy"
-tags:
   - "Barthandelus"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/ffxiiich11-1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/ffxiiich11-1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/ffxiiich11-1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 FFXIII's eleventh chapter was the first one to take place on Gran Pulse, the supposed source of all evil to the residents of the pampered world that floats above it, Cocoon, home to millions of people all doomed to be killed in order to summon back their maker god.

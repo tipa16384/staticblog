@@ -2,14 +2,39 @@
 date: '2023-12-13T07:00:00-05:00'
 draft: false
 title: "HeroQuest: Prince Magnus' Gold"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/13/heroquest-prince-magnus-gold/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "How can a single pit trap wipe out the entire party???"
-categories:
+description: "How can a single pit trap wipe out the entire party???"
+tags:
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "Pit Trap"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-23.14.40-Exactly-four-adventurers-stuck-humorously-in-a-pit-trap-that-is-barely-big-enough-for-one-of-them-viewed-from-directly-overhead.-The-adventurers-incl.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-23.14.40-Exactly-four-adventurers-stuck-humorously-in-a-pit-trap-that-is-barely-big-enough-for-one-of-them-viewed-from-directly-overhead.-The-adventurers-incl.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-12-23.14.40-Exactly-four-adventurers-stuck-humorously-in-a-pit-trap-that-is-barely-big-enough-for-one-of-them-viewed-from-directly-overhead.-The-adventurers-incl.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Our band of adventurers were, once again, called upon to dive into a dungeon and retrieve what they find there. Prince Magnus order us to slay the orc chieftain Ulag in a previous adventure, but now it seems he has another task: To infiltrate the lair of the dread warrior Gulthor and retrieve three stolen treasure chests. There will be 60 gold in it for each of us -- 240 in all. And maybe much more if, say, one of the treasure chests were to get lost?

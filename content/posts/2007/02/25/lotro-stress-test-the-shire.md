@@ -2,11 +2,38 @@
 date: '2007-02-25T12:02:57-05:00'
 draft: false
 title: "LotRO Stress Test: The Shire"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/02/25/lotro-stress-test-the-shire/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-queue.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-queue.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-queue.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![lotr-queue.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-queue.jpg)Returned to the game only to be put in a queue. The game initially said it would be fifteen minutes before I got in the game, but it was more like five. I hate queues. Not for the first time, I wonder what "Game Experience May Change During Online Play" really means.

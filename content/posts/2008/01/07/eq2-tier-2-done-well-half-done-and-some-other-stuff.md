@@ -2,11 +2,38 @@
 date: '2008-01-07T08:59:52-05:00'
 draft: false
 title: "EQ2: Tier 2 done. Well, half done. And some other stuff."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/07/eq2-tier-2-done-well-half-done-and-some-other-stuff/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-03-23-13-06-63.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-03-23-13-06-63.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-03-23-13-06-63.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![everquest2-2008-01-03-23-13-06-63.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-03-23-13-06-63.jpg)

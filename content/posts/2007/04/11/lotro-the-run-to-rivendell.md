@@ -2,11 +2,38 @@
 date: '2007-04-11T22:55:55-05:00'
 draft: false
 title: "LotRO: The Run to Rivendell"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/04/11/lotro-the-run-to-rivendell/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/04/lotro-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/04/lotro-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/04/lotro-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![lotro-1.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-1.jpg)*And then I ran into Marcy down at the Inn and she was wearing this little padded number that I just knew she made to catch the eye of old Bounder Dono. And anyway we were talking about 'you-know-who' and who do you think walked in right then? Hey, are you even **listening** to me anymore? **HELLO?***

@@ -2,15 +2,40 @@
 date: '2022-08-03T07:31:47-05:00'
 draft: false
 title: "Dall-E 2 vs Craiyon: Which AI program generates better images?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/03/dall-e-2-vs-craiyon-which-ai-program-generates-better-images/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I've been using AI to generate images for articles and I'm really impressed with the results."
-categories:
+description: "I've been using AI to generate images for articles and I'm really impressed with the results."
+tags:
   - "Basketball"
   - "OpenAI"
-tags:
   - "Craiyon"
   - "Dall-E 2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-03-07.03.58-A-dramatic-painting-of-five-basketball-players-wearing-armor-and-holding-basketballs-standing-in-a-spotlight-surrounded-by-green-mist-style-of-ESPN.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-03-07.03.58-A-dramatic-painting-of-five-basketball-players-wearing-armor-and-holding-basketballs-standing-in-a-spotlight-surrounded-by-green-mist-style-of-ESPN.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-03-07.03.58-A-dramatic-painting-of-five-basketball-players-wearing-armor-and-holding-basketballs-standing-in-a-spotlight-surrounded-by-green-mist-style-of-ESPN.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It was around this time, in my "31 Days of GPT-3" project, that I got access to Dall-E 2 and started using both it and Craiyon in parallel to see which would better generate images for the articles.

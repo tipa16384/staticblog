@@ -2,18 +2,44 @@
 date: '2021-11-10T23:52:22-05:00'
 draft: false
 title: "Hodgepodge: Games, Crypto and NFTs."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/10/hodgepodge-games-crypto-and-nfts/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Atari 2600"
   - "Blockchain"
   - "Crypto Game"
   - "Dragonereum"
-tags:
   - "Atari"
   - "Bitcoin"
   - "Coinbase"
   - "Ethereum"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/senile.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/senile.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/senile.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't have anything long-form to talk about, but there's been a bunch of smaller things. So let's talk about those.

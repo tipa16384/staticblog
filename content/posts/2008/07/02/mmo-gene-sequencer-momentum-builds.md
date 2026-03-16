@@ -2,10 +2,39 @@
 date: '2008-07-02T13:16:37-05:00'
 draft: false
 title: "MMO Gene Sequencer momentum builds..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/02/mmo-gene-sequencer-momentum-builds/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "MMORPG"
   - "My Work"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Raph Koster today posted an article proposing that the reason people flock to games similar to ones they have already played is because they have [no easy way of finding the alternatives](http://www.raphkoster.com/2008/07/02/do-players-know-what-they-want/). [I agree! That's a HUGE problem!](https://chasingdings.com/index.php/2008/07/01/sequencing-mmo-dna/) How can I convince anyone Pi Story is a good game when they assume all MMOs must be 3D? How can I convince myself that oh, I dunno, Age of Conan is a game I'd like without going to the effort of buying it and installing it?

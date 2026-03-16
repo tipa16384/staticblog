@@ -2,18 +2,43 @@
 date: '2022-09-01T07:00:00-05:00'
 draft: false
 title: "Creating \"32 Bullets\" -- an AI adventure."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/01/32-bullets-new-first-person-shooter-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "In \"32 Bullets\", you play as a professional hitman with only 32 bullets to complete 32 contracts. The catch is that you must complete them all within a certain amount of time."
-categories:
+description: "In \"32 Bullets\", you play as a professional hitman with only 32 bullets to complete 32 contracts. The catch is that you must complete them all within a certain amount of time."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "First Person Shooter"
   - "OpenAI"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Twitch"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/32bulletsbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/32bulletsbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/32bulletsbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I streamed the creation of this AI-assisted post to show the process of using GPT-3, DALL-E 2, and other tools to make something new. Ish. New-ish.

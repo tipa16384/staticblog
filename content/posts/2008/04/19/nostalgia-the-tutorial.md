@@ -2,12 +2,39 @@
 date: '2008-04-19T10:57:43-05:00'
 draft: false
 title: "Nostalgia the Tutorial"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/04/19/nostalgia-the-tutorial/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-18-20-23-13-43.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-18-20-23-13-43.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-18-20-23-13-43.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It was a wild, exhausting first night for our EQ Nostalgia group. We had more show than could fit in one group, so we made two and went our separate ways. The beginning bit with the spiders -- didn't really need a group for that. So things started slow. They picked up when we got to the kobold area; the fight against the giant beast Krenshin definitely capped the evening! The kobolds also dropped a lot of very nice Gloom armor that quickly prepared us for the wider world.

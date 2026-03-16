@@ -2,15 +2,39 @@
 date: '2024-03-30T07:00:00-05:00'
 draft: false
 title: "The Atari 400 Mini. Is it worth the nostalgia?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/03/30/the-atari-400-mini-is-it-worth-the-nostalgia/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Betteridge's law of headlines is in play here, but... The Atari 800, the 400's big brother, was my first personal computer, and I have a lot of fond memories teaching myself to program on it."
-categories:
-  - "Atari"
-  - "THE400 Mini"
+description: "Betteridge's law of headlines is in play here, but... The Atari 800, the 400's big brother, was my first personal computer, and I have a lot of fond memories teaching myself to program on it."
 tags:
   - "Atari"
+  - "THE400 Mini"
   - "Retrogames"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/banner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/03/banner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/03/banner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Well, I already knew how to program, but the articles one of their lead developers kept writing about how to program games for the Atari 400/800 inspired me to write some games on my own. I never finished any, and once I got a good job, I replaced it with more conventional computers, but I really enjoyed my time with my 800. Even though I'm not sure what happened to it. Some move or other.

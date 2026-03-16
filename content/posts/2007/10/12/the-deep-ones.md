@@ -2,19 +2,44 @@
 date: '2007-10-12T12:24:28-05:00'
 draft: false
 title: "The Deep Ones"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/10/12/the-deep-ones/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Deep Ones"
-  - "EverQuest"
   - "Lovecraft"
   - "Murlocs"
   - "Plane of Water"
   - "Veksar"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/goblin.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/10/goblin.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/10/goblin.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 > And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant saraband of fantastic nightmare.  And some of them had tall tiaras of that nameless whitish-gold metal ...  and some were strangely robed ...  and one, who led the way, was clad in a ghoulishly humped black coat and striped trousers, and had a man's felt hat perched on the shapeless thing that answered for a head.

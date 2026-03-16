@@ -2,17 +2,42 @@
 date: '2024-10-22T07:00:00-05:00'
 draft: false
 title: "Game Night: In Too Deep, Terraforming Mars, what comes next?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/22/game-night-in-too-deep-terraforming-mars-what-comes-next/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Catching up on game night posts. We played with the super duper \"all in\" Terraforming Mars gear and finished up In Too Deep. What's next for Game Night?"
-categories:
+description: "Catching up on game night posts. We played with the super duper \"all in\" Terraforming Mars gear and finished up In Too Deep. What's next for Game Night?"
+tags:
   - "Game Night"
   - "Tabletop Games"
   - "Tales From the Loop"
   - "Terraforming Mars"
-tags:
   - "Bardwood Grove"
   - "In Too Deep"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/intoodeep.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/intoodeep.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/intoodeep.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every time I've sat down to write about Game Night, there's something else that I need to write about *first*. The Malifaux stuff. All the real and simulated MMOs around. Stuff I want to write about but can't, just yet. Well, I suppose that last one isn't preventing me from writing about Game Night, so here we are.

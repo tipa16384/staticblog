@@ -2,16 +2,41 @@
 date: '2022-09-04T11:46:20-05:00'
 draft: false
 title: "The Battle for Locke's Heart: A Final Fantasy VI Fan Fic"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/04/the-battle-for-lockes-heart-a-final-fantasy-vi-fan-fic/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A fan-fic written by my TerraChat FF6 bot. In this episode, Celes and Terra both love Locke, but he chooses Terra. They eventually become friends. And then it all falls to pieces."
-categories:
+description: "A fan-fic written by my TerraChat FF6 bot. In this episode, Celes and Terra both love Locke, but he chooses Terra. They eventually become friends. And then it all falls to pieces."
+tags:
   - "Fanfic"
   - "Final Fantasy"
   - "OpenAI"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-04-11.23.53-A-digital-painting-of-a-young-man-with-pale-blonde-hair-and-pale-skin-wearing-a-blue-bandana..png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-04-11.23.53-A-digital-painting-of-a-young-man-with-pale-blonde-hair-and-pale-skin-wearing-a-blue-bandana..png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-04-11.23.53-A-digital-painting-of-a-young-man-with-pale-blonde-hair-and-pale-skin-wearing-a-blue-bandana..png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Celes and Terra were sitting in the Blackjack, both fuming. They had just found out that they were both in love with Locke, and they were both trying to convincing him that he should be with them instead of the other.

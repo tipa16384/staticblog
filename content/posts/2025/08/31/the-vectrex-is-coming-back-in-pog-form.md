@@ -2,12 +2,28 @@
 date: '2025-08-31T21:02:05-05:00'
 draft: false
 title: "The Vectrex is coming back... in pog form!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/31/the-vectrex-is-coming-back-in-pog-form/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Well, in mini form! It's true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon."
-categories:
+description: "Well, in mini form! It's true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Vectrex"
-tags:
   - "Light Pen"
   - "Mail Plane"
   - "Major Tom"
@@ -15,7 +31,16 @@ tags:
   - "Spike"
   - "Vectrex Mini"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexmini.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexmini.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexmini.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's impossible for me to really explain how special it was, a couple years ago, to finally receive a Vectrex all my own. I feel weirdly split between having it sitting right on my desk, ready for instant use at any time, and keeping it safely stored away in its custom slipcase downstairs on its special shelf with the games, careful as one can be with a 42-year old console.

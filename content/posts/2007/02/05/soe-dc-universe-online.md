@@ -2,8 +2,37 @@
 date: '2007-02-05T11:31:02-05:00'
 draft: false
 title: "SOE: DC Universe Online"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/02/05/soe-dc-universe-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 SOE posted a cattle call for [experienced game developers](http://sonyonline.recruitmax.com/candidate/default.cfm?szTemplate=3&szOrderID=1780&szCandidateID=0&szSearchWords=) on their career site for "[DC Universe Online](http://ps3.ign.com/objects/755/755358.html)". According to the ad, they plan to have it run both on the PC and the PS3. Doing it on such different architectures is pretty tricky -- Square-Enix tried porting their FFXI Online to the PC and what they got was a PC game that felt like a PS2 game (and was best played with a PS2 game controller at that).

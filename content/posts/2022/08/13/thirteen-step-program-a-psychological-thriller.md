@@ -2,18 +2,43 @@
 date: '2022-08-13T07:00:00-05:00'
 draft: false
 title: "Thirteen Step Program: A Psychological Thriller"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/13/thirteen-step-program-a-psychological-thriller/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "You play as a young woman who is struggling with addiction. After hitting rock bottom, you enter into recovery and start attending AA meetings. However, you quickly discover that not all is as it seems within the group…"
-categories:
+description: "You play as a young woman who is struggling with addiction. After hitting rock bottom, you enter into recovery and start attending AA meetings. However, you quickly discover that not all is as it seems within the group…"
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
   - "Psychological Thriller"
-tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-05-19.50.36-a-close-up-of-a-females-eye-with-dark-circles-around-it.-The-pupil-is-dilated-and-there-is-a-single-tear-running-down-the-cheek.-The-woman-looks-tir.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-05-19.50.36-a-close-up-of-a-females-eye-with-dark-circles-around-it.-The-pupil-is-dilated-and-there-is-a-single-tear-running-down-the-cheek.-The-woman-looks-tir.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-05-19.50.36-a-close-up-of-a-females-eye-with-dark-circles-around-it.-The-pupil-is-dilated-and-there-is-a-single-tear-running-down-the-cheek.-The-woman-looks-tir.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 13th: “The Thirteen Step Program”.

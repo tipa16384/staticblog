@@ -2,15 +2,40 @@
 date: '2021-10-11T21:08:02-05:00'
 draft: false
 title: "DCUO: The Legion of Doom invades Washington D.C."
-categories:
-  - "DC Universe Online"
-  - "MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "DC Universe Online"
+  - "MMORPG"
   - "Episode 42"
   - "Legion of Doom"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/dcuodc.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/dcuodc.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/dcuodc.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 And they call DCUO an apolitical, fictional game. Also, Dimensional Ink to rebalance clamped stats to make super heroes (and super villains) super again.

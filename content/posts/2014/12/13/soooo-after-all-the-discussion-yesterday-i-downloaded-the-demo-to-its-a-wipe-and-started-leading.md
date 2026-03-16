@@ -2,10 +2,37 @@
 date: '2014-12-13T12:45:32-05:00'
 draft: false
 title: "Soooo after all the discussion yesterday, I downloaded the demo to \"It's a Wipe\" and started leading..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/13/soooo-after-all-the-discussion-yesterday-i-downloaded-the-demo-to-its-a-wipe-and-started-leading/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://lh5.googleusercontent.com/-4MRDKAGO_yU/VIwzZ74pI9I/AAAAAAAA7-U/xsMJrLYAWL8/w506-h750/IAWDemo%2B2014-12-12%2B21-51-51-94.jpg"
-cover: "https://lh5.googleusercontent.com/-4MRDKAGO_yU/VIwzZ74pI9I/AAAAAAAA7-U/xsMJrLYAWL8/w506-h750/IAWDemo%2B2014-12-12%2B21-51-51-94.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-4MRDKAGO_yU/VIwzZ74pI9I/AAAAAAAA7-U/xsMJrLYAWL8/w506-h750/IAWDemo%2B2014-12-12%2B21-51-51-94.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Soooo after all the discussion yesterday, I downloaded the demo to "It's a Wipe" and started leading my guild through the raids. You only get three raids in the demo -- a tutorial, an easy raid (defeated below), and a medium raid.

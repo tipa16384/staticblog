@@ -2,17 +2,43 @@
 date: '2022-07-25T23:06:23-05:00'
 draft: false
 title: "Those Who Rule: Chapter 1"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/25/those-who-rule-chapter-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Steam Games"
   - "Tactical RPG"
-tags:
   - "Banner of the Maid"
   - "Fire Emblem"
   - "Hex Grid"
   - "Tactics"
   - "Those Who Rule"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/20220725222601_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/20220725222601_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/20220725222601_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Anyone who has read this blog more than a day knows that I am always looking out for new strategy tactics games to play. I've been following the development of [Those Who Rule](https://twitter.com/ThoseWhoRule) on Twitter for awhile, and finally had a chance to play through its first chapter.

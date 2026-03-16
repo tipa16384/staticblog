@@ -2,12 +2,39 @@
 date: '2013-03-01T07:28:50-05:00'
 draft: false
 title: "D&D4e: Temporarily Alive"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/03/01/dd4e-temporarily-alive/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "D&D 4e"
   - "Other Games"
   - "Roll20"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg" title="Exploring a crypt with Roll20.net" class="align-center" >}}

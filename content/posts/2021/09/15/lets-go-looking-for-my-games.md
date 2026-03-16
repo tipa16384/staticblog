@@ -2,7 +2,25 @@
 date: '2021-09-15T23:42:21-05:00'
 draft: false
 title: "Let's Go Looking For My Games"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/15/lets-go-looking-for-my-games/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Car Wars"
   - "Card Games"
   - "Frosthaven"
@@ -13,7 +31,6 @@ categories:
   - "Tabletop Games"
   - "Tales From the Loop"
   - "Visual Novel"
-tags:
   - "China"
   - "Ctrl-Alt-Del"
   - "Megatokyo"
@@ -23,7 +40,16 @@ tags:
   - "Tokyo Sidekick"
   - "Zombie Life Insurance"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/china-map.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/china-map.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/china-map.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Spoiler alert: They're in China.

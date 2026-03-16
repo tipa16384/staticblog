@@ -2,8 +2,37 @@
 date: '2007-08-27T10:40:46-05:00'
 draft: false
 title: "TV continued: IT Crowd, second series"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/08/27/tv-continued-it-crowd-second-series/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Talk about synchronicity! I do a post about television I've been watching, and today I hear that the [second series](http://www.boingboing.net/2007/08/25/the_it_crowd_season_.html) of the incredible "The IT Crowd" has started. I've been showing the first series to anyone who comes over and sits down long enough to watch.

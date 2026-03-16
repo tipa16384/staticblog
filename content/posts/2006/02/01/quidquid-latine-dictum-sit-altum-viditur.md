@@ -2,11 +2,38 @@
 date: '2006-02-01T00:00:00-05:00'
 draft: false
 title: "Quidquid latine dictum sit, altum viditur"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/02/01/quidquid-latine-dictum-sit-altum-viditur/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "My Work"
 featured_image: "https://chasingdings.com/images/hgbrochure-small.jpg"
-cover: "https://chasingdings.com/images/hgbrochure-small.jpg"
+cover:
+  image: "https://chasingdings.com/images/hgbrochure-small.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 *"Whatever is said in Latin, sounds profound"*

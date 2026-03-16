@@ -2,17 +2,41 @@
 date: '2023-09-18T07:00:00-05:00'
 draft: false
 title: "The Teal Mask: Was it worth it?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/18/teal-mask-was-it-worth-it/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I finished the main plot and a bit of the post-expansion content for Pokemon Scarlet/Violet's first DLC, \"The Teal Mask\". Now that it's over... was it worth playing?"
-categories:
-  - "Pokemon"
+description: "I finished the main plot and a bit of the post-expansion content for Pokemon Scarlet/Violet's first DLC, \"The Teal Mask\". Now that it's over... was it worth playing?"
 tags:
+  - "Pokemon"
   - "Bloodmoon Ursaluna"
   - "Ogerpon"
-  - "Pokemon"
   - "The Loyal Three"
   - "The Teal Mask"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yes.

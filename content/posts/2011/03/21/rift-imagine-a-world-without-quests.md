@@ -2,11 +2,38 @@
 date: '2011-03-21T06:19:13-05:00'
 draft: false
 title: "Rift: Imagine a world without quests..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/03/21/rift-imagine-a-world-without-quests/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Rift"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-19-19-37-26-25-480x269.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-19-19-37-26-25-480x269.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-19-19-37-26-25-480x269.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-19-19-37-26-25-480x269.jpg" title="Droughtlands" class="align-center" >}}

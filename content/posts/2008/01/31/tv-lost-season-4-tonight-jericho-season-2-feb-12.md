@@ -2,8 +2,37 @@
 date: '2008-01-31T12:20:41-05:00'
 draft: false
 title: "TV: Lost season 4 tonight, Jericho season 2 Feb. 12"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/31/tv-lost-season-4-tonight-jericho-season-2-feb-12/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 "Lost" returns to television tonight for the seven weeks of its fourth season. At the close of season three, we saw that Jack and Kate, at least, had managed to escape the island in a "flash forward", but Jack was desperate to get back, ranting that they were not meant to leave the island.

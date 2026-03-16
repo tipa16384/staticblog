@@ -2,13 +2,39 @@
 date: '2024-08-31T10:26:25-05:00'
 draft: false
 title: "My California"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/31/my-california/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "If you live on the Central Coast, you already know."
-categories:
+description: "If you live on the Central Coast, you already know."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Real Life"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4623-scaled.jpeg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4623-scaled.jpeg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4623-scaled.jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 When my boyfriend went to California for the first time on business last year, I was a little jealous. I wanted to be the one to show him California. He’d flown into San Jose and stayed mostly around there and Fremont — very urban, built-up areas. But then he was taken to dinner in Half Moon Bay — through the coastal mountains and down into the home of the largest pumpkins in the state. Seriously, pumpkins and Christmas trees are huge in HMB. I’d lost the chance, though, to show Kasul the beauty of the state outside the cities.

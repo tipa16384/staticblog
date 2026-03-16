@@ -2,9 +2,38 @@
 date: '2006-03-10T00:00:00-05:00'
 draft: false
 title: "The Problem with Zombies"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/03/10/the-problem-with-zombies/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Other Games"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My Internet connection went out unexpectedly last night. Rather than stare forlornly at the router all night, I decided to be productive. Put together that lamp I bought. Did the dishes. Unpacked some more boxes. Complained to my cat that even though we sleep together, he's not my type...

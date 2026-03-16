@@ -2,13 +2,39 @@
 date: '2009-04-26T09:04:12-05:00'
 draft: false
 title: "Wizard 101: All ten player houses"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/26/wizard-101-all-ten-player-houses/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Player Housing"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-06-57-46-79.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-06-57-46-79.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-06-57-46-79.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I read on [The Friendly Necromancer's site](http://thefriendlynecromancer.blogspot.com/2009/04/fwd-free-gold-on-test-realm.html) that little leprechauns had appeared all over Wizard City, ready, willing and hoping to give everyone who talked to them 50,000 gold.

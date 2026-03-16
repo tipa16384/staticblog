@@ -2,7 +2,25 @@
 date: '2007-12-21T11:33:42-05:00'
 draft: false
 title: "MMO Mishmash"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/21/mmo-mishmash/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "Dark Ages of Camelot"
   - "EVE Online"
@@ -12,6 +30,17 @@ categories:
   - "MMORPG"
   - "Mythos"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's been a lot of topics going around the blogosphere, and I've been holding off on them because, well, I don't really have anything groundbreaking to say about them.

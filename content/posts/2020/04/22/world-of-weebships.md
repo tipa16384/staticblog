@@ -2,13 +2,39 @@
 date: '2020-04-22T15:02:00-05:00'
 draft: false
 title: "World of Warships is the perfect MMO for someone who just can't be bothered to care any more."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/04/22/world-of-weebships/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warships"
-tags:
   - "Imperial Japanese Navy"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/WorldOfWarships64-2020-04-22-22-20-32-93.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/04/WorldOfWarships64-2020-04-22-22-20-32-93.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/04/WorldOfWarships64-2020-04-22-22-20-32-93.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/WorldOfWarships64-2020-04-22-22-41-18-23-1024x576.jpg" title="During this PvE mission, I was politely asked by a teammate to \"uninstall the game\"." >}}

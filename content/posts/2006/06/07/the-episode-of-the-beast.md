@@ -2,11 +2,38 @@
 date: '2006-06-07T00:00:00-05:00'
 draft: false
 title: "The Episode of the Beast"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/06/07/the-episode-of-the-beast/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Doctor Who"
   - "Sci Fi"
 featured_image: "https://chasingdings.com/images/hell1.jpg"
-cover: "https://chasingdings.com/images/hell1.jpg"
+cover:
+  image: "https://chasingdings.com/images/hell1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yesterday was June 6th, 2006 - 6/6/6 - and naturally, the entertainment industry was full of devil love for the day. The entire pointless remake of [the Omen](http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20060605/REVIEWS/60524002/1023) came out; [Slayer kicked off their Unholy tour](http://seattletimes.nwsource.com/html/musicnightlife/2003041078_slayer05.html); and Doctor Who woke Satan.

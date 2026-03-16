@@ -2,10 +2,27 @@
 date: '2011-02-20T20:52:35-05:00'
 draft: false
 title: "Star Trek Online: Ambassadors"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/02/20/star-trek-online-ambassadors/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Ambassador"
   - "Borg"
   - "Federation News Service"
@@ -14,7 +31,16 @@ tags:
   - "Tipa"
   - "Undine"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg" title="This one's for Longasc" class="align-center" >}}

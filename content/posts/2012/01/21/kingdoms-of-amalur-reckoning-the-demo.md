@@ -2,11 +2,38 @@
 date: '2012-01-21T19:29:25-05:00'
 draft: false
 title: "Kingdoms of Amalur: Reckoning: the Demo"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/01/21/kingdoms-of-amalur-reckoning-the-demo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg" title="Cinematic dialog" class="align-center" >}}

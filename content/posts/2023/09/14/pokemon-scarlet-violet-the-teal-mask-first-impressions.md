@@ -2,16 +2,40 @@
 date: '2023-09-14T08:19:39-05:00'
 draft: false
 title: "Pokémon Scarlet/Violet: The Teal Mask first impressions"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/14/pokemon-scarlet-violet-the-teal-mask-first-impressions/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Anyone who doesn't think we will be catching these three legendary Pokémon at some point has clearly never played a Pokémon game."
-categories:
-  - "Pokemon"
+description: "Anyone who doesn't think we will be catching these three legendary Pokémon at some point has clearly never played a Pokémon game."
 tags:
-  - "Dlc"
   - "Pokemon"
+  - "Dlc"
   - "The Hidden Treasure of Area Zero"
   - "The Teal Mask"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/2023091322223400-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/2023091322223400-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/2023091322223400-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The mainline Pokemon games -- even those that try to break the mold a little, like Legends Arceus -- all follow a common theme: you come to a new area and you meet your new rival who is conveniently easy to beat with whatever you have at hand. There is a new Pokedex for you to fill, and the Legendary mons to pursue, and at the end you battle to become the champ.

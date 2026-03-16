@@ -2,13 +2,39 @@
 date: '2014-06-26T18:40:37-05:00'
 draft: false
 title: "DCUO: Defend The Mascara!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/06/26/dcuo-defend-the-mascara/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh3.googleusercontent.com/-ewB2eN7BACY/U6qudpjF-MI/AAAAAAAAwCE/HWsLyIal0N8/w907-h680-no/DCGame+2014-06-24+23-39-11-40.jpg"
-cover: "https://lh3.googleusercontent.com/-ewB2eN7BACY/U6qudpjF-MI/AAAAAAAAwCE/HWsLyIal0N8/w907-h680-no/DCGame+2014-06-24+23-39-11-40.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-ewB2eN7BACY/U6qudpjF-MI/AAAAAAAAwCE/HWsLyIal0N8/w907-h680-no/DCGame+2014-06-24+23-39-11-40.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Fighting Circe](https://lh3.googleusercontent.com/-ewB2eN7BACY/U6qudpjF-MI/AAAAAAAAwCE/HWsLyIal0N8/w907-h680-no/DCGame+2014-06-24+23-39-11-40.jpg)

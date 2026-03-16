@@ -2,15 +2,40 @@
 date: '2020-08-29T09:24:42-05:00'
 draft: false
 title: "Blaugust #29: Communities"
-categories:
-  - "Blaugust"
-  - "Real Life"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/29/blaugust-29-communities/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
+  - "Real Life"
   - "Community"
   - "Girls Screaming From the House Across the Street"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/LordBritishAddressingTheMasses.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/LordBritishAddressingTheMasses.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/LordBritishAddressingTheMasses.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I thought and thought and thought about what I would want to use as the header image to this post. Communities... I was watching the game dev documentary on Netflix last night and when Richard Garriot's segment came up, I remembered that glorious day so long ago when the Ultima Online community came together to assassinate his avatar, Lord British, on the day of that MMO's opening.

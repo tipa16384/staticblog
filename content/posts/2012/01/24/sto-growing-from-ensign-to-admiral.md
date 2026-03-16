@@ -2,11 +2,38 @@
 date: '2012-01-24T07:50:56-05:00'
 draft: false
 title: "STO: Growing from ensign to admiral"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/01/24/sto-growing-from-ensign-to-admiral/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-24-07-32-07-26.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-24-07-32-07-26.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-24-07-32-07-26.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![Ensign T](https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-24-07-32-07-26.jpg "GameClient 2012-01-24 07-32-07-26")](https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-24-07-32-07-26.jpg)

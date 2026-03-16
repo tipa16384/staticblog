@@ -2,17 +2,42 @@
 date: '2024-12-02T07:00:00-05:00'
 draft: false
 title: "Advent of Code 2024.1:"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/12/02/advent-of-code-2024-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Where is that darned elvish historian?"
-categories:
-  - "Advent of Code"
+description: "Where is that darned elvish historian?"
 tags:
+  - "Advent of Code"
   - "AI"
   - "Counter"
   - "Elves"
   - "Python"
   - "Sort"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A word about AI images:

@@ -2,10 +2,26 @@
 date: '2023-11-10T20:21:24-05:00'
 draft: false
 title: "Knight of Lodis: Entering the Crypt"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/11/10/knight-of-lodis-entering-the-crypt/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It was supposed to just be a battle. It turned into a gauntlet."
-categories:
-  - "Tactical RPG"
+description: "It was supposed to just be a battle. It turned into a gauntlet."
 tags:
+  - "Tactical RPG"
   - "Analogue"
   - "Final Fantasy Tactics"
   - "Fpga"
@@ -13,7 +29,16 @@ tags:
   - "Ogre Battle"
   - "Tactics Ogre"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/20231110_002228.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/11/20231110_002228.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/11/20231110_002228.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Okay, so let's get situated on the Ogre Battle/Final Fantasy Tactics timeline. These games were all developed or at least designed by the same team, play very similarly, so I kind of think of them all as being just one series.

@@ -2,18 +2,43 @@
 date: '2022-09-06T08:17:03-05:00'
 draft: false
 title: "Cid's Legacy: A Story of the World of Ruin"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/09/06/cids-legacy-a-story-of-the-world-of-ruin/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him."
-categories:
+description: "A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him."
+tags:
   - "Fanfic"
   - "Final Fantasy"
-tags:
   - "Celes"
   - "Cid"
   - "Dall-E 2"
   - "Gpt-3"
   - "World of Ruin"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Celes slowly opened her eyes, the light hurting them after being in the dark for so long. It took a moment for her to adjust and remember where she was. She was in Cid's cabin, on the small island they had been stranded on for the past year. Cid had found her after Kefka had destroyed the world and taken care of her ever since.

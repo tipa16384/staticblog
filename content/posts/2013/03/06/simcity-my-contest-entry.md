@@ -2,11 +2,38 @@
 date: '2013-03-06T18:20:47-05:00'
 draft: false
 title: "SimCity: My Contest Entry"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/03/06/simcity-my-contest-entry/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Simcity 2013"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-06-18-10-05-87-480x307.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-06-18-10-05-87-480x307.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-06-18-10-05-87-480x307.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-06-18-10-05-87-480x307.jpg" title="This is my life. Paused at the loading screen." class="align-center" >}}

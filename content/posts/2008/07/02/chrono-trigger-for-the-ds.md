@@ -2,13 +2,39 @@
 date: '2008-07-02T05:35:56-05:00'
 draft: false
 title: "Chrono Trigger for the DS?"
-categories:
-  - "Other Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/02/chrono-trigger-for-the-ds/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Other Games"
   - "Chrono Resurrection"
   - "Chrono Trigger"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/zombor.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/07/zombor.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/07/zombor.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![zombor.jpg](https://chasingdings.com/wp-content/uploads/2008/07/zombor.jpg)

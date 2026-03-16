@@ -2,19 +2,44 @@
 date: '2025-08-22T09:29:46-05:00'
 draft: false
 title: "The Kind of Malifaux You Play at Home"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "With 4th Edition leaving beta, players are waiting for the official release. Meanwhile, some of us still want to play a game..."
-categories:
+description: "With 4th Edition leaving beta, players are waiting for the official release. Meanwhile, some of us still want to play a game..."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "4th Edition"
   - "December"
   - "Performer"
   - "Tormented"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5337-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5337-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5337-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Malifaux isn't a game for everyone. Skirmish games are a tough sell in general. You have to buy minis -- lots of them -- and they are expensive. A decent Warhammer 40K army could cost you over a thousand bucks. Then they must be painted, the rules for each of them learned, then find people with whom to play, hope beyond hope that they're cool, and, finally, after all that, try to have a good time.

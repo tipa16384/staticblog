@@ -2,16 +2,41 @@
 date: '2024-05-11T07:00:00-05:00'
 draft: false
 title: "ADVENT: Seasoned Adventurer"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/11/advent-seasoned-adventurer/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I got all the treasures I knew about... now, how about the treasures I don't know about?"
-categories:
+description: "I got all the treasures I knew about... now, how about the treasures I don't know about?"
+tags:
   - "Adventure"
   - "Text Adventure Game"
-tags:
   - "Colossal Cave Adventure"
   - "Seasoned Adventurer"
   - "Troll"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-troll.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/cc-troll.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-troll.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I figure that someone who really knows what they are doing in Colossal Cave Adventures, someone who has everything mapped out, moves confidently, avoids dwarves and pirates, could finish the original version of the game, start to end, in about half an hour. I bet speed runners could get the thing done in ten minutes or less.

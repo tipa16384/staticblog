@@ -2,11 +2,38 @@
 date: '2008-05-29T10:58:46-05:00'
 draft: false
 title: "Mythos' Overworld goes into test"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/05/29/mythos-overworld-goes-into-test/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Mythos"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-28-23-42-04-66.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-28-23-42-04-66.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-28-23-42-04-66.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![mythos-2008-05-28-23-42-04-66.jpg](https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-28-23-42-04-66.jpg)

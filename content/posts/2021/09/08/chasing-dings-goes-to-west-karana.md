@@ -2,11 +2,28 @@
 date: '2021-09-08T08:01:16-05:00'
 draft: false
 title: "Chasing Dings! goes to West Karana"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/08/chasing-dings-goes-to-west-karana/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Programming Language"
   - "System Software"
   - "Topic"
-tags:
   - "Aws"
   - "Filezilla"
   - "Lightsail"
@@ -15,7 +32,16 @@ tags:
   - "West Karana"
   - "Wordpress"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/tara21.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/tara21.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/tara21.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to life as a GitHub repository. A friend on Twitter challenged me to do even better. Yesterday, I found a more recent backup -- posts up to 2016, that I wrote for Google+, and used that as a source to finally get everything merged to *this* blog. It's an exciting DevOps adventure.

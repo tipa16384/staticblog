@@ -2,16 +2,41 @@
 date: '2023-12-09T20:39:44-05:00'
 draft: false
 title: "Monsters & Memories: Wish you were here?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/09/monsters-memories-wish-you-were-here/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Got a notice on Discord that Monsters & Memories was open for testing again, so in I went."
-categories:
+description: "Got a notice on Discord that Monsters & Memories was open for testing again, so in I went."
+tags:
   - "EverQuest"
   - "Monsters & Memories"
-tags:
   - "Druid"
   - "Halfling"
   - "Oasis of Marr"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/mandmwishyouwerehere.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/mandmwishyouwerehere.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/mandmwishyouwerehere.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not sure what attraction Monsters & Memories has for me. It's easily as punishing, if not more so, than 1999-era EverQuest. I haven't noticed experience loss on death, yet, but that may just be because I'm still very low level. And likely to continue to be. Experience is very slow solo (but possible!), money is hard to come by, and with crappy gear to no gear and spells that *can be lost when you die*, it's just... not for the fainthearted.

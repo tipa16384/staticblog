@@ -2,17 +2,42 @@
 date: '2025-08-29T18:39:28-05:00'
 draft: false
 title: "I guess I suck at this whole Blaugust thing"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/29/i-guess-i-suck-at-this-whole-blaugust-thing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I had such plans, but in the end, I didn't do so well."
-categories:
+description: "I had such plans, but in the end, I didn't do so well."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Dune Awakening"
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "Suno"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/arcaniststage.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/arcaniststage.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/arcaniststage.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I look forward to Blaugust every year. It's a chance to see bloggers at their best and most numerous. It's a chance, also, to rise to the occasion and stake out a claim to a small part of the gaming blogosphere, maybe find some new blogs to read and new friends to enjoy.

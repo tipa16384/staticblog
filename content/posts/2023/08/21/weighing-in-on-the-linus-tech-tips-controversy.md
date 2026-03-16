@@ -2,18 +2,43 @@
 date: '2023-08-21T07:00:00-05:00'
 draft: false
 title: "Weighing in on the Linus Tech Tips Controversy"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/21/weighing-in-on-the-linus-tech-tips-controversy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Linus is reportedly taking a week off to play RAID: Shadow Legends, or so I assume."
-categories:
+description: "Linus is reportedly taking a week off to play RAID: Shadow Legends, or so I assume."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "Gamer's Nexus"
   - "Linus Tech Tips"
   - "LTT"
   - "Project Farm"
   - "Raid Shadow Legends"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/ltt.webp"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/ltt.webp"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/ltt.webp"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We watch a fair amount of gaming content creators, and I just marvel at some of the streamers who do the exact same thing, every day, or seek out the most grindy content and do something no normal gamer would ever find fun, such as seeing how much you could progress your character by standing in just one spot, for instance.

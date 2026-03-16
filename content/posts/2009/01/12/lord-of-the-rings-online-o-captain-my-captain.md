@@ -2,11 +2,38 @@
 date: '2009-01-12T00:37:12-05:00'
 draft: false
 title: "Lord of the Rings Online: O Captain, My Captain"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/12/lord-of-the-rings-online-o-captain-my-captain/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/lotroclient-2009-01-11-18-51-28-35.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/lotroclient-2009-01-11-18-51-28-35.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/lotroclient-2009-01-11-18-51-28-35.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I loaded Lord of the Rings Online back onto my computer (where it replaced Vanguard and Guild Wars; my disk space is such that if a new game goes on, an old game has to come off). I'm not sure how I felt about the game. I'd not left it on the best of terms; after a bit of excitement, LotRO had settled into a series of horrid grinds. Kill N of X. Run to some far off place, and then run back.

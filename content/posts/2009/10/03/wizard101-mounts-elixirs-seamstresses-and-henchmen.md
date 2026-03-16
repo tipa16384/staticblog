@@ -2,11 +2,38 @@
 date: '2009-10-03T00:22:37-05:00'
 draft: false
 title: "Wizard101: Mounts, Elixirs, Seamstresses and Henchmen"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/03/wizard101-mounts-elixirs-seamstresses-and-henchmen/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36-480x334.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36-480x334.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36-480x334.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![Dragon mount flying around Mooshu](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36-480x334.jpg "Dragon mount flying around Mooshu")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36.jpg)

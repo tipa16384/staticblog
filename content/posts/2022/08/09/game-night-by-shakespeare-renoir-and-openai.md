@@ -2,17 +2,43 @@
 date: '2022-08-09T18:00:00-05:00'
 draft: false
 title: "Game Night, by Shakespeare, Renoir and OpenAI"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/09/game-night-by-shakespeare-renoir-and-openai/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Game Night"
   - "OpenAI"
-tags:
   - "Dall-E 2"
   - "Girls Screaming in Chinese"
   - "Gpt-3"
   - "Hamlet"
   - "Shakespeare"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-09-07.25.25-Renoir-painting-of-King-Claudius-Queen-Gertrude-Prince-Hamlet-and-Ophelia-playing-Scrabble.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-09-07.25.25-Renoir-painting-of-King-Claudius-Queen-Gertrude-Prince-Hamlet-and-Ophelia-playing-Scrabble.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-09-07.25.25-Renoir-painting-of-King-Claudius-Queen-Gertrude-Prince-Hamlet-and-Ophelia-playing-Scrabble.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 If I've scheduled this right, this should be going live right about the time people are arriving for Game Night. With the help of Open AI, I wrote a short play we can perform about deciding what to order out for dinner. We'll see if I have the guts to actually insist people perform it, but... who knows...

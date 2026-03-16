@@ -2,10 +2,27 @@
 date: '2007-12-01T03:46:56-05:00'
 draft: false
 title: "EQ2: Healing the Crypt of Agony"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/01/eq2-healing-the-crypt-of-agony/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "CoA"
   - "Crypt of Agony"
   - "Dera"
@@ -16,7 +33,16 @@ tags:
   - "Kunark"
   - "Sebilis"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-01-01-47-14-26.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-01-01-47-14-26.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-01-01-47-14-26.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![eq2 dera sebilis kunark “crypt of agony” inquisitor emperor](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-01-01-47-14-26.jpg)

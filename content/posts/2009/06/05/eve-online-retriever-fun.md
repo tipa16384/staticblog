@@ -2,11 +2,38 @@
 date: '2009-06-05T06:24:20-05:00'
 draft: false
 title: "EVE Online: Retriever fun"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/05/eve-online-retriever-fun/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/exefile-2009-06-04-17-18-17-07.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/exefile-2009-06-04-17-18-17-07.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/exefile-2009-06-04-17-18-17-07.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Strip mining in Durante system](https://chasingdings.com/wp-content/uploads/2009/06/exefile-2009-06-04-17-18-17-07.jpg "Strip mining in Durante system")

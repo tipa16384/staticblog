@@ -2,7 +2,25 @@
 date: '2009-06-04T07:43:34-05:00'
 draft: false
 title: "Daily Blogroll 6/4 -- Get off my lawn edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/04/daily-blogroll-64-get-off-my-lawn-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "Daily Blogroll"
   - "EverQuest"
@@ -14,7 +32,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/retirement.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/retirement.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/retirement.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Retirement Party](https://chasingdings.com/wp-content/uploads/2009/06/retirement.jpg "Retirement Party")

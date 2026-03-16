@@ -2,14 +2,41 @@
 date: '2010-02-19T08:20:10-05:00'
 draft: false
 title: "EVE, W101, WoW, STO... Sheesh!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/02/19/eve-w101-wow-sto-sheesh/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/ishtar.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/02/ishtar.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/02/ishtar.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I am playing too many MMOs, it's true... but there's some good gaming out there.

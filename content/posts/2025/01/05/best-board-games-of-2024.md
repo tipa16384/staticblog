@@ -2,19 +2,44 @@
 date: '2025-01-05T12:09:14-05:00'
 draft: false
 title: "Best Board Games of 2024!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/05/best-board-games-of-2024/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world..."
-categories:
+description: "The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world..."
+tags:
   - "HeroQuest"
   - "Nemesis"
   - "Tabletop Games"
   - "Tales From the Loop"
-tags:
   - "Axe-O-Lot-L"
   - "Bardwood Grove"
   - "Best Of 2024"
   - "In Too Deep"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/bestboardgamebanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/bestboardgamebanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/bestboardgamebanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There are some games I'm not going to talk about here. They are the "emeritus" honorees, games that we'll bring to the table whenever we just want to have some fun with a game everyone enjoys, no questions asked. Those are:

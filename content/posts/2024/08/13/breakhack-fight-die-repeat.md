@@ -2,17 +2,42 @@
 date: '2024-08-13T07:00:00-05:00'
 draft: false
 title: "Breakhack: Fight, Die, Repeat"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/13/breakhack-fight-die-repeat/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A dev decided one day to gather freely given assets and combine that with some 'C' code and make a really cool roguelike. Just the thing to waste a few minutes now and then."
-categories:
+description: "A dev decided one day to gather freely given assets and combine that with some 'C' code and make a really cool roguelike. Just the thing to waste a few minutes now and then."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Rogue-Likes"
   - "Steam Games"
-tags:
   - "NetHack"
   - "Rogue"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/1-20240812215759_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/1-20240812215759_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/1-20240812215759_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The game is perfectly fun, if you like roguelikes. It has some of the familiar elements -- monsters move when you move, you descend through a procedural dungeon, there's bosses you can fight, the dungeon itself can throw tricks at you... it's a fun little game, [$0.99 on Steam](https://store.steampowered.com/app/931040/BreakHack/), and you really can't go wrong at that price, though the developer has [made the source code available freely](https://github.com/Oliveshark/breakhack) on GitHub, if you don't mind compiling it yourself.

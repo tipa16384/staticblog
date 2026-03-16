@@ -49,29 +49,38 @@ def migrate_wordpress_to_hugo():
         parent_children_map = {}
         all_items_by_id = {}
         
-        # First pass: collect all items and identify parents/children
+        # First pass: collect all items by post_id
         for item in items:
-            # Get post ID
             post_id_elem = item.find('.//{http://wordpress.org/export/1.2/}post_id')
             if post_id_elem is None or not post_id_elem.text:
                 continue
-            
+            all_items_by_id[post_id_elem.text] = item
+        
+        # Second pass: build parent_children_map via post_parent AND _thumbnail_id postmeta
+        for item in items:
+            post_id_elem = item.find('.//{http://wordpress.org/export/1.2/}post_id')
+            if post_id_elem is None or not post_id_elem.text:
+                continue
             post_id = post_id_elem.text
-            all_items_by_id[post_id] = item
             
-            # Get parent ID
+            # Add this item to its parent's list if it has a non-zero post_parent
             post_parent_elem = item.find('.//{http://wordpress.org/export/1.2/}post_parent')
             parent_id = post_parent_elem.text if post_parent_elem is not None and post_parent_elem.text else "0"
+            if parent_id != "0" and parent_id != "":
+                parent_children_map.setdefault(parent_id, []).append(item)
             
-            # If this is a parent post (parent_id is 0 or blank)
-            if parent_id == "0" or parent_id == "":
-                if post_id not in parent_children_map:
-                    parent_children_map[post_id] = []
-            else:
-                # This is a child post, add it to the parent's children list
-                if parent_id not in parent_children_map:
-                    parent_children_map[parent_id] = []
-                parent_children_map[parent_id].append(item)
+            # Add thumbnail attachment to this post's list via _thumbnail_id postmeta
+            for postmeta in item.findall('.//{http://wordpress.org/export/1.2/}postmeta'):
+                meta_key = postmeta.find('.//{http://wordpress.org/export/1.2/}meta_key')
+                meta_value = postmeta.find('.//{http://wordpress.org/export/1.2/}meta_value')
+                if (meta_key is not None and meta_key.text == '_thumbnail_id'
+                        and meta_value is not None and meta_value.text):
+                    thumbnail_item = all_items_by_id.get(meta_value.text)
+                    if thumbnail_item is not None:
+                        children = parent_children_map.setdefault(post_id, [])
+                        if thumbnail_item not in children:
+                            children.append(thumbnail_item)
+                    break
         
         post_count = 0
         
@@ -103,7 +112,7 @@ def migrate_wordpress_to_hugo():
             child_items = parent_children_map.get(post_id, [])
             
             # Create the Hugo post using the entire item and its children
-            if create_hugo_post(item, child_items, tag_normalization_dict, tags_only=False):
+            if create_hugo_post(item, child_items, tag_normalization_dict, tags_only=True):
                 post_count += 1
         
         print(f"\nMigration complete! Processed {post_count} posts.")

@@ -2,16 +2,41 @@
 date: '2024-05-21T06:45:00-05:00'
 draft: false
 title: "HeroQuest: Quest for the Spirit Blade"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/05/21/heroquest-quest-for-the-spirit-blade/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Last time, we accidentally woke the Witch Lord. Oops. Now we are in search of the one weapon that can put him down."
-categories:
+description: "Last time, we accidentally woke the Witch Lord. Oops. Now we are in search of the one weapon that can put him down."
+tags:
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "Quest for the Spirit Blade"
   - "Spirit Blade"
   - "Witch Lord"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/quest-13.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/05/quest-13.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/05/quest-13.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not really sure what the point of last week's quest was. We got the Gem of the West or whatever, and the king used it for a crown or something, and there is an orc army involved, but it looks like we're free to go kill this Witch Lord.

@@ -2,19 +2,44 @@
 date: '2020-05-11T01:02:22-05:00'
 draft: false
 title: "EverQuest is dead. Long live EverQuest! New games trying to capture EQ nostalgia are doomed."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/11/mangled-everquest-day-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I've been running around in an EverQuest Time-Limited Progression (TLP) server the past couple of days. Is there even such a thing as a new EverQuest player anymore?"
-categories:
+description: "I've been running around in an EverQuest Time-Limited Progression (TLP) server the past couple of days. Is there even such a thing as a new EverQuest player anymore?"
+tags:
   - "EverQuest"
   - "EverQuest II"
   - "MMORPG"
   - "World of Warcraft"
-tags:
   - "Aradune"
   - "Everquest 3"
   - "Pantheon: Rise of the Fallen"
   - "Truebox Server"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-10-20-24-56-57.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-10-20-24-56-57.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-10-20-24-56-57.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My mother's day present was my son washed and detailed my car :) But I was *also* left alone to play EverQuest all day.

@@ -2,8 +2,37 @@
 date: '2007-12-21T14:36:24-05:00'
 draft: false
 title: "Good blogs make good neighbors."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/21/good-blogs-make-good-neighbors/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was surfing around through the Wordpress site, looking for ways to make my blog even yet more awesome, when I followed a link to Technorati, did an ego search on my own blog and had a bit of a WTF moment when I found I had more "authority" than a lot of blogs way more popular than mine.

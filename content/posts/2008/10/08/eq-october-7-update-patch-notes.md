@@ -2,12 +2,39 @@
 date: '2008-10-08T12:00:28-05:00'
 draft: false
 title: "EQ: October 7 update patch notes"
-categories:
-  - "EverQuest"
-  - "MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/08/eq-october-7-update-patch-notes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "EverQuest"
+  - "MMORPG"
   - "Patch"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Reader and guildmate Egat pointed out that not only EverQuest 2 patched yesterday -- so did its daddy, EverQuest. Here's the patch notes, along with some commentary.

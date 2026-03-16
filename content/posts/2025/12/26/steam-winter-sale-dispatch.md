@@ -2,16 +2,41 @@
 date: '2025-12-26T09:00:00-05:00'
 draft: false
 title: "Steam Winter Sale: Dispatch"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/26/steam-winter-sale-dispatch/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Part superhero cartoon, part workplace comedy, part 911 Operator, this collaboration between ex-Telltale devs and Critical Role hits more than it misses."
-categories:
+description: "Part superhero cartoon, part workplace comedy, part 911 Operator, this collaboration between ex-Telltale devs and Critical Role hits more than it misses."
+tags:
   - "Adventure"
   - "Visual Novel"
-tags:
   - "Critical Role"
   - "Dispatch"
   - "Telltale Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/dispatch.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/12/dispatch.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/dispatch.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I bought a bunch of games at this latest Steam winter sale; Dispatch was the first I finished.

@@ -2,9 +2,38 @@
 date: '2007-03-01T12:55:06-05:00'
 draft: false
 title: "Goodbye, Station Access"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/03/01/goodbye-station-access/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 On the news that SOE will be [raising the price](http://forums.station.sony.com/eq2/posts/list.m?topic_id=350069) of their Station Access one-price-for-all-games pass from $25 to $30 per month, and since I currently only play one of their games (EverQuest 2) on a regular basis, *and* since I am paying for three accounts (my two and my son's), there's no compelling reason to pay all this extra for no reason.

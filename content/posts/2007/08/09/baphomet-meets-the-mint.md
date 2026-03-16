@@ -2,10 +2,37 @@
 date: '2007-08-09T23:07:04-05:00'
 draft: false
 title: "Baphomet meets the Mint"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/08/09/baphomet-meets-the-mint/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/08/mintdesk2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2007/08/mintdesk2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/08/mintdesk2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [LinuxMint](http://distrowatch.com/table.php?distribution=mint), that is...

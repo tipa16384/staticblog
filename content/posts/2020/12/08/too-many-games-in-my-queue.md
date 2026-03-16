@@ -2,13 +2,30 @@
 date: '2020-12-08T08:49:58-05:00'
 draft: false
 title: "Too Many Games in my Queue"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/08/too-many-games-in-my-queue/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "PS4"
   - "PS5"
   - "Steam Games"
   - "Switch"
-tags:
   - "Animal Crossing New Horizons"
   - "Assassin's Creed"
   - "Breath of the Wild"
@@ -22,7 +39,16 @@ tags:
   - "Wizard of Legend"
   - "Zachtronics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/2020120808035600-67D01338887DAC4477826B5EA75BFB74.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 One really nice thing about playing a long, involved game like Assassins Creed Valhalla is that I don't have to think about what game I want to play when I'm done work and chores in the evening. For the past month, it's been off to Valhalla for a few hours. It's the same feeling I get when I'm seriously into an MMO and logging in and saying hello to the guild is just a great start to an evening.

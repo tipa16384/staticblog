@@ -2,11 +2,38 @@
 date: '2014-08-07T21:17:54-05:00'
 draft: false
 title: "DCUO: It's a Miracle!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/08/07/dcuo-its-a-miracle/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://lh4.googleusercontent.com/-G4hdX5mPaos/U-NkzWyn49I/AAAAAAAAzA8/01JK11En5TE/w684-h513-no/DCGame%2B2014-08-07%2B07-33-26-99.jpg"
-cover: "https://lh4.googleusercontent.com/-G4hdX5mPaos/U-NkzWyn49I/AAAAAAAAzA8/01JK11En5TE/w684-h513-no/DCGame%2B2014-08-07%2B07-33-26-99.jpg"
+cover:
+  image: "https://lh4.googleusercontent.com/-G4hdX5mPaos/U-NkzWyn49I/AAAAAAAAzA8/01JK11En5TE/w684-h513-no/DCGame%2B2014-08-07%2B07-33-26-99.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Mister Miracle](https://lh4.googleusercontent.com/-G4hdX5mPaos/U-NkzWyn49I/AAAAAAAAzA8/01JK11En5TE/w684-h513-no/DCGame%2B2014-08-07%2B07-33-26-99.jpg)

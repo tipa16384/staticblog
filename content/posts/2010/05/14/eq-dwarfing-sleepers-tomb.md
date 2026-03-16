@@ -2,11 +2,38 @@
 date: '2010-05-14T06:12:08-05:00'
 draft: false
 title: "EQ: Dwarfing Sleeper's Tomb"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/14/eq-dwarfing-sleepers-tomb/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/eqgame-2010-05-13-21-36-12-65.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/eqgame-2010-05-13-21-36-12-65.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/eqgame-2010-05-13-21-36-12-65.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I might never get my epic rogue epic 1.5 done in EverQuest. I work a little on the tradeskills, get bored, and start looking for trouble. I logged in last night, did two weapons in the test of smithing, then had to go to Crystal Caverns and farm some velium ore for the Velious test. Snuck into Thurgadin after to get some Coldain Temper, was heading out to the Plane of Knowledge book in the Great Divide to return to the forge, when... I went a different way.

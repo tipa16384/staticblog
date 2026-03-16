@@ -2,14 +2,31 @@
 date: '2020-12-11T09:23:17-05:00'
 draft: false
 title: "My RPGs of 2020"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/11/my-rpgs-of-2020/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "CRPG"
   - "Nintendo Switch"
   - "PS4"
   - "PS5"
   - "Steam Games"
   - "Visual Novel"
-tags:
   - "Assassin's Creed"
   - "Banner of the Maid"
   - "Chocobo Mystery Dungeon"
@@ -30,7 +47,16 @@ tags:
   - "Valhalla"
   - "Zero Escape"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I looked at all the RPGs I've played this year, trying to pick the one of them all that would be the best of the year. Several stood out, but I couldn't pick just one. I guess if there were a game that I felt worth spending hours of my life playing, that proved its quality, maybe?

@@ -2,17 +2,41 @@
 date: '2021-08-26T07:52:48-05:00'
 draft: false
 title: "DCUO: House of Legends is LIVE!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/26/dcuo-house-of-legends-is-live/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "DC Universe Online"
   - "MMORPG"
   - "Steam Games"
-tags:
-  - "Blaugust"
-  - "DC Universe Online"
   - "House of Legends"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/avatarofmeta.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/avatarofmeta.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/avatarofmeta.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This is going to be a fairly short post, as I didn't get a chance last night and pretty soon I'll have to get ready for work. But: House of Legends is live in DC Universe Online, and it's every bit as good (and bad) as promised!

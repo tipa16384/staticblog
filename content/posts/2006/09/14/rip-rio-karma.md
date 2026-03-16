@@ -2,10 +2,37 @@
 date: '2006-09-14T00:13:43-05:00'
 draft: false
 title: "R.I.P. Rio Karma"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/09/14/rip-rio-karma/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg"
-cover: "http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg"
+cover:
+  image: "http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I promise, I'll get back to fun EQ2 (and EQ1!) stuff soon. Just... well, I usually prepare and write the blog entries on Baphomet, whom you may remember as my Linux computer. Ever since I accidentally updated a file I didn't mean to update, Baph has been getting sicker and sicker.

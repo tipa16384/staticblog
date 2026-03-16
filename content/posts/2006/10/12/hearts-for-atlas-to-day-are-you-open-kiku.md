@@ -2,11 +2,38 @@
 date: '2006-10-12T12:35:46-05:00'
 draft: false
 title: "Hearts for Atlas: To day, Are you open kiku?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/10/12/hearts-for-atlas-to-day-are-you-open-kiku/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "My Work"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/10/atlas2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2006/10/atlas2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/10/atlas2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Atlas](https://chasingdings.com/wp-content/uploads/2006/10/atlas2.png)I promised Atlas hearts and smiles when he finally began working. Got all the email issues sorted, wrote workarounds so the salespeople could still read their email and I am being very careful with him. He's earned his name; he really *does* have the whole world on his shoulders.

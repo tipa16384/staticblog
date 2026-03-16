@@ -2,11 +2,38 @@
 date: '2014-09-25T07:28:26-05:00'
 draft: false
 title: "D&D 5e: When Clerics Attack"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/09/25/dd-5e-when-clerics-attack/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "D&D 4e"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg" title="Cultists on the River" class="align-center" >}}

@@ -2,17 +2,42 @@
 date: '2024-08-29T23:19:09-05:00'
 draft: false
 title: "Going to California"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/29/going-to-california/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I took a chance on a big jet plane, don’t let anyone tell you that they’re all the same."
-categories:
+description: "I took a chance on a big jet plane, don’t let anyone tell you that they’re all the same."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Real Life"
-tags:
   - "California"
   - "Marina"
   - "Monterey"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4594-scaled.jpeg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4594-scaled.jpeg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4594-scaled.jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Normally I don’t blog about my vacations, but it is Blaugust, so why not?

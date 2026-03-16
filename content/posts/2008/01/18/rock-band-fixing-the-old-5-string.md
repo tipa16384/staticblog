@@ -2,8 +2,37 @@
 date: '2008-01-18T15:19:26-05:00'
 draft: false
 title: "Rock Band: Fixing the old 5 String"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/18/rock-band-fixing-the-old-5-string/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Rock Band"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I mentioned a few weeks back that the guitar controller that came with Rock Band broke midway through our epic struggle with the Endless Set List. It would only strum UP, and only Jazz could make that thing work.

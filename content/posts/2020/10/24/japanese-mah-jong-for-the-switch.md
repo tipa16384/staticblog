@@ -2,13 +2,39 @@
 date: '2020-10-24T14:56:37-05:00'
 draft: false
 title: "Japanese Mah-jong for the Switch"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/24/japanese-mah-jong-for-the-switch/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "Switch"
-tags:
   - "Mahjong"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not as big a collector of Mahjong games as my boyfriend is; he has a really impressive collection of both import and domestic games for the SNES (even leaving the solitaire mahjong games aside, there's an impressive number). But, even though I am nothing more than a beginner, I do like playing the game and am always looking out for something new.

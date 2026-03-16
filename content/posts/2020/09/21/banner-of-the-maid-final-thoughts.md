@@ -2,18 +2,44 @@
 date: '2020-09-21T07:00:00-05:00'
 draft: false
 title: "Banner of the Maid: Final Thoughts"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/21/banner-of-the-maid-final-thoughts/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "Steam Games"
   - "Switch"
   - "Tactical RPG"
-tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Switch Tax"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Banner of the Maid has been my constant gaming companion over the past several weeks. In short, Banner of the Maid takes place in an alternate fantasy version of the French Revolution. Napoleon has fended off a British incursion and is now in Italy fighting against an Austrian invasion.

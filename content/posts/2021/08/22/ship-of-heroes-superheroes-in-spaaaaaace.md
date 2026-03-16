@@ -2,17 +2,42 @@
 date: '2021-08-22T23:45:47-05:00'
 draft: false
 title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "DC Universe Online"
   - "MMORPG"
   - "Ship of Heroes"
-tags:
   - "Beta"
-  - "Blaugust"
   - "Champions Online"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ...or so they would like you to believe. The GOVERNMENT says that we are in a GIANT SPACESHIP, a HUNDRED KILOMETERS LONG. How does that make any sense? DO YOUR RESEARCH! We, the ones the media disparagingly call "Round Earthers", KNOW that we live on a spherical planet that circles a STAR. WAKE UP SHEEPLE!

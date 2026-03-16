@@ -2,11 +2,38 @@
 date: '2008-12-06T22:28:27-05:00'
 draft: false
 title: "Wizard 101: Money for nothing."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/06/wizard-101-money-for-nothing/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-06-14-52-11-23.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-06-14-52-11-23.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-06-14-52-11-23.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-06-14-52-11-23.jpg "wizardgraphicalclient-2008-12-06-14-52-11-23")

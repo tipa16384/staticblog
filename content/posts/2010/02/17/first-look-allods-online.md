@@ -2,11 +2,38 @@
 date: '2010-02-17T07:23:31-05:00'
 draft: false
 title: "First Look: Allods Online"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/02/17/first-look-allods-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Allods Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-16-19-33-38-62.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-16-19-33-38-62.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-16-19-33-38-62.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-16-19-33-38-62.jpg "Gibberlings meet the Ultimate Lord of Darkness.")

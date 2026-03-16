@@ -2,12 +2,41 @@
 date: '2008-03-27T09:36:37-05:00'
 draft: false
 title: "Quick Takes: Mythos, EQ2, WAR, AoC and Massively"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/27/quick-takes-mythos-eq2-war-aoc-and-massively/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "EverQuest"
   - "MMORPG"
   - "Mythos"
   - "Warhammer: Age of Reckoning"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Mythos, still in closed beta, has completely relaunched. No more beta codes to give out (sorry), but if you have been a beta tester, you will have to uninstall your current client and download the new one. I did this this morning; things look shinier. Expect a new look at Mythos soon.

@@ -2,8 +2,37 @@
 date: '2007-08-24T12:29:01-05:00'
 draft: false
 title: "Gods & Heroes goes solo"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/08/24/gods-heroes-goes-solo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's old news by now that Perpetual has decided to [publish its Gods & Heroes independently](http://kotaku.com/gaming/soe-takes-backseat/perpetual-publishing-gods--heroes-alone-290432.php), and rely on SOE just for promotion and (I believe) hosting. As such, G&H won't be on Station Pass.

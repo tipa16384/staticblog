@@ -2,8 +2,37 @@
 date: '2007-07-12T09:45:49-05:00'
 draft: false
 title: "Thank you! Now it's time to rethink my life."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/07/12/thank-you-now-its-time-to-rethink-my-life/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Thank you for all your kind comments and emails. It's a surreal experience, losing a parent. I knew him all my life but I don't feel I really knew him at all. If I could rewrite history so I never moved to California and could have spent more time with my parents and my family, I would.

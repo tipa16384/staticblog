@@ -2,11 +2,38 @@
 date: '2009-12-26T21:30:28-05:00'
 draft: false
 title: "EVE Online: Acts & Revelations"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/12/26/eve-online-acts-revelations/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12-480x319.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12-480x319.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12-480x319.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 One of the big hurdles I've been struggling to, um, hurdle (I guess) in EVE Online is the whole process of a Level 4 mission. They are the big money makers and they give loads of standing and loyalty points, so if you're going to do missions at all, you want to do Level 4s if you can.

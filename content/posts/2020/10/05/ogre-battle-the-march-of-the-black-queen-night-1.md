@@ -2,17 +2,43 @@
 date: '2020-10-05T08:03:07-05:00'
 draft: false
 title: "Ogre Battle \"The March of the Black Queen\" -- Night 1"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Super Nintendo"
   - "Tactical RPG"
-tags:
   - "Final Fantasy Tactics"
   - "Ogre Battle"
   - "RPG"
   - "Tactics"
   - "The March of the Black Queen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/blackqueen.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/blackqueen.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/blackqueen.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Before Final Fantasy Tactics, my favorite fantasy tactical battle RPG, there was the Ogre Battle series. I discovered the franchise the other way around, though: after loving and completing FFT on the PlayStation back in the day, I looked around and found Ogre Battle: Let Us Cling Together, the second game in the series, and was again blown away.

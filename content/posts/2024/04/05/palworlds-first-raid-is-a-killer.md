@@ -2,16 +2,41 @@
 date: '2024-04-05T08:05:54-05:00'
 draft: false
 title: "Palworld's First Raid is a Killer"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/04/05/palworlds-first-raid-is-a-killer/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I was gonna go with something clickbaity like, \"can you beat the legendary Palworld level 50 raid boss with only a stick and level 1 pals?\". I bet someone out there CAN, but not me."
-categories:
+description: "I was gonna go with something clickbaity like, \"can you beat the legendary Palworld level 50 raid boss with only a stick and level 1 pals?\". I bet someone out there CAN, but not me."
+tags:
   - "Open World RPG"
   - "Palworld"
-tags:
   - "Bellanoir"
   - "Bellanoir Libero"
   - "Raiding"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/bellenoir.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/04/bellenoir.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/04/bellenoir.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 To be brutally honest, I haven't been playing a lot of Palworld lately. Unicorn Overlord took me out, and now there's Dragon's Dogma 2, and so many other games I really want to play. I *like* the game, but I only have a few hours each day for gaming, and I can't play everything I want to play.

@@ -2,10 +2,37 @@
 date: '2008-02-15T08:54:56-05:00'
 draft: false
 title: "Watch the Skies: Free books from Tor"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/02/15/watch-the-skies-free-books-from-tor/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Sci Fi"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/tor.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2008/02/tor.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/02/tor.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![tor.gif](https://chasingdings.com/wp-content/uploads/2008/02/tor.gif)

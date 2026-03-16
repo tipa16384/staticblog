@@ -2,16 +2,42 @@
 date: '2022-07-19T23:19:23-05:00'
 draft: false
 title: "Gloomhaven Jaws of the Lion: Finished."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
   - "Terraforming Mars"
-tags:
   - "Jaws of the Lion"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/jotlbox.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/jotlbox.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/jotlbox.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It took us a little over two years to play through the twenty-five scenarios of Jaws of the Lion. But we enjoyed every single one of those twenty five.

@@ -2,12 +2,38 @@
 date: '2023-09-03T15:19:23-05:00'
 draft: false
 title: "Final Fantasy XIII: Finished"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/03/final-fantasy-xiii-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it... mostly."
-categories:
+description: "While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it... mostly."
+tags:
   - "Final Fantasy"
   - "Review"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/ffxiiifinished.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/ffxiiifinished.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/ffxiiifinished.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it… mostly.

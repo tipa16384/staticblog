@@ -2,11 +2,38 @@
 date: '2009-01-15T00:25:58-05:00'
 draft: false
 title: "Veeshan's Peak, illustrated by City of Villains"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/01/15/veeshans-peak-illustrated-by-city-of-villains/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-14-06-56-17-46.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-14-06-56-17-46.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-14-06-56-17-46.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The pickup raid group I'm with killed Venril Sathir and cleared up to Elder Enron in VP last night, but I'd crashed earlier and after I rebooted, didn't dare launch FRAPS and XFire in case they were the cause of my crippling lag, so no pictures. Since I hate posts without pictures, I've illustrated last night's raids with pictures of an entirely unrelated mission in City of Villains.

@@ -2,14 +2,39 @@
 date: '2024-08-07T07:00:00-05:00'
 draft: false
 title: "How to lose $2K without hardly trying"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/07/how-to-lose-2k-without-hardly-trying/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Talking about my triumphant crypto journey and the joy of HODL."
-categories:
+description: "Talking about my triumphant crypto journey and the joy of HODL."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
-tags:
   - "Crypto"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/crypto_upscaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/crypto_upscaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/crypto_upscaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Don't do crypto. Friends don't let friends do crypto. Someone should have stopped me.

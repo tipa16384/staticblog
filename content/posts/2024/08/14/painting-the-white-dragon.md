@@ -2,18 +2,43 @@
 date: '2024-08-14T07:00:00-05:00'
 draft: false
 title: "Painting the White Dragon"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/14/painting-the-white-dragon/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I printed the White Dragon in white filament. Then I told the D&D group that I still needed to paint it. \"Why? It's already white?\" Ha!"
-categories:
+description: "I printed the White Dragon in white filament. Then I told the D&D group that I still needed to paint it. \"Why? It's already white?\" Ha!"
+tags:
   - "3D Printing"
   - "Blaugust"
   - "Blaugust 2024"
   - "Dungeons & Dragons"
   - "Malifaux"
   - "Miniatures"
-tags:
   - "Dragons"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/dragoncura.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/dragoncura.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/dragoncura.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My D&D group -- which is mostly my immediate family, with the DM being my son-in-law -- is working our way through the Dragon of Icespire Peak, an introductory D&D 5e campaign.

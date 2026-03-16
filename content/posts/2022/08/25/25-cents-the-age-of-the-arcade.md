@@ -2,19 +2,44 @@
 date: '2022-08-25T07:00:00-05:00'
 draft: false
 title: "25 Cents: The Age of the Arcade"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/25/25-cents-the-age-of-the-arcade/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "In 25 Cents, players take on the role of arcade owners in the 1980s, running their businesses and competing against each other to attract high scores from players who drop quarters into virtual machines."
-categories:
+description: "In 25 Cents, players take on the role of arcade owners in the 1980s, running their businesses and competing against each other to attract high scores from players who drop quarters into virtual machines."
+tags:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2022"
   - "MMORPG"
   - "OpenAI"
-tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 25th, “25 Cents: The Age of the Arcade”.

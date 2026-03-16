@@ -2,11 +2,38 @@
 date: '2010-03-26T06:51:24-05:00'
 draft: false
 title: "STO wants to sell you a bridge"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/26/sto-wants-to-sell-you-a-bridge/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/tellarite-480x421.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/tellarite-480x421.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/tellarite-480x421.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Actually, STO wants to sell you bridge PACKS. 120 Cryptic Points will now buy you three new bridges for your newbie ship, and 200 will get you four new bridges for your top-of-the-line Federation or Klingon cruisers. These are still (for the Feds, anyway), the cavernous flight deck hangar-sized bridges.

@@ -2,17 +2,42 @@
 date: '2021-08-19T22:43:57-05:00'
 draft: false
 title: "Game Night: JotL \"The Gauntlet\""
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/19/game-night-jotl-the-gauntlet/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Blaugust"
   - "Game Night"
   - "Gloomhaven"
   - "Real Life"
   - "Tabletop Games"
-tags:
-  - "Blaugust"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2293-001.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2293-001.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2293-001.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm kind of worried about the next time when we play "Jaws of the Lion", as we'll be confronting cultists again. I don't really know if I'll be able to fight against the Blue Oyster Cult...

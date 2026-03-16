@@ -2,16 +2,42 @@
 date: '2009-04-01T08:05:34-05:00'
 draft: false
 title: "EverQuest 2: Lavastorm revamp"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/01/everquest-2-lavastorm-revamp/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Far Seas Trading Company"
   - "Gu51"
   - "Lavastorm"
   - "Sootfoot"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![everquest2-2009-03-31-19-35-03-75](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg "everquest2-2009-03-31-19-35-03-75")

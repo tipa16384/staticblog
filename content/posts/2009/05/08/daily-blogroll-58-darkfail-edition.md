@@ -2,7 +2,25 @@
 date: '2009-05-08T07:14:59-05:00'
 draft: false
 title: "Daily Blogroll 5/8 -- Darkfail edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/08/daily-blogroll-58-darkfail-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "City of Heroes"
   - "Daily Blogroll"
@@ -19,7 +37,16 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/darkfall.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/darkfall.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/darkfall.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Actual Darkfall Screenshot](https://chasingdings.com/wp-content/uploads/2009/05/darkfall.jpg "Actual Darkfall Screenshot")

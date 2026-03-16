@@ -2,14 +2,42 @@
 date: '2008-09-17T13:44:11-05:00'
 draft: false
 title: "EQ2: GU 49 Test patch notes commentary"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/17/eq2-gu-49-test-patch-notes-commentary/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Anashti Sul"
   - "Crafting"
   - "EverQuest II"
   - "Gu49"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 EverQuest 2's game update 49 is pretty much the most exciting single update since Kunark. As the last (I believe) update before the launch of "The Shadow Odyssey" expansion, they seem to be rolling out a lot of their new tech to prepare for what we'll be seeing live in November.

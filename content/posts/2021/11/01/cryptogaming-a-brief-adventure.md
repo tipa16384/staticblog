@@ -2,20 +2,46 @@
 date: '2021-11-01T00:29:18-05:00'
 draft: false
 title: "Cryptogaming: A Brief Adventure"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/01/cryptogaming-a-brief-adventure/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Axie Infinity"
   - "Blockchain"
   - "Crypto Game"
   - "Cryptokitties"
   - "Dragonereum"
   - "EverQuest"
-tags:
   - "Coinbase"
   - "Entropia Universe"
   - "Ethereum"
   - "Shiba Inu"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/CryptoDragons-a-week-later.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/CryptoDragons-a-week-later.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/CryptoDragons-a-week-later.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames. This is what I found.

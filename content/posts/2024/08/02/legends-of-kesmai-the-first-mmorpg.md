@@ -2,18 +2,43 @@
 date: '2024-08-02T07:00:00-05:00'
 draft: false
 title: "Legends of Kesmai: The first MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/02/legends-of-kesmai-the-first-mmorpg/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I love old school, retro games. Maybe not quite THAT retro, though..."
-categories:
+description: "I love old school, retro games. Maybe not quite THAT retro, though..."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Kesmai"
   - "MMORPG"
-tags:
   - "Compuserve"
   - "Island of Kesmai"
   - "Legends of Kesmai"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/Screenshot-2024-08-02-000358.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/Screenshot-2024-08-02-000358.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/Screenshot-2024-08-02-000358.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So, back in the 1980s, there wasn't the internet as we think of it today. Back then, if you had a computer, the only way you had to exchange files with another computer was by writing your file to a floppy, walking up to whomever it was you wanted to give it to, and handing it to them. And then both of you could enjoy trying to get the floppy to work in a different computer.

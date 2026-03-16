@@ -2,13 +2,39 @@
 date: '2009-07-18T08:57:17-05:00'
 draft: false
 title: "Wizard 101: New Bazaar on Test"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/18/wizard-101-new-bazaar-on-test/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Bazaar"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/WizardGraphicalClient-2009-07-18-08-50-45-82.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/WizardGraphicalClient-2009-07-18-08-50-45-82.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/WizardGraphicalClient-2009-07-18-08-50-45-82.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![New Bazaar window](https://chasingdings.com/wp-content/uploads/2009/07/WizardGraphicalClient-2009-07-18-08-50-45-82.jpg "New Bazaar window")

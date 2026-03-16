@@ -2,16 +2,41 @@
 date: '2025-09-30T08:27:00-05:00'
 draft: false
 title: "Malifaux 4e: Rasputina vs Maxine"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/09/30/malifaux-4e-rasputina-vs-maxine/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "\"What do you mean, I can destroy your ice pillars?\" The Arcanists face off against the Explorer Society in a match nobody saw coming."
-categories:
+description: "\"What do you mean, I can destroy your ice pillars?\" The Arcanists face off against the Explorer Society in a match nobody saw coming."
+tags:
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "Maxine"
   - "Rasputina"
   - "The Battle Standard"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/rasp2vsmax2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/09/rasp2vsmax2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/09/rasp2vsmax2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's autumn here in the northeast, and so with the turning leaves comes the new Malifaux league. Three matches held over six weeks, followed by a tournament to crown the best Malifaux-er of the Northern Connecticut/Western Massachusetts area.

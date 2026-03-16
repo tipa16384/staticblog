@@ -2,10 +2,39 @@
 date: '2014-12-23T19:18:39-05:00'
 draft: false
 title: "Star Command Galaxies: First Alpha"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/23/finally-got-into-the-alpha-for-star-command-galaxies-a-game-i-kickstarted-a-few-years-ago-this-alpha/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Kickstarter"
   - "Other Games"
   - "Star Command Galaxies"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [gallery ids="11249,11250,11251,11252,11253,11254,11255"]

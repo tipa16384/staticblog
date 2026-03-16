@@ -2,11 +2,38 @@
 date: '2010-03-12T08:09:35-05:00'
 draft: false
 title: "EVE Online: Building the Stealth Bomber"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/12/eve-online-building-the-stealth-bomber/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg "The Purifier")](https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg)

@@ -2,11 +2,38 @@
 date: '2015-06-07T09:47:03-05:00'
 draft: false
 title: "Why I am not playing Neverwinter..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/06/07/why-i-am-not-playing-neverwinter/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/GameClient-2015-06-07-07-17-55-81-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/06/GameClient-2015-06-07-07-17-55-81-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/06/GameClient-2015-06-07-07-17-55-81-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/GameClient-2015-06-07-07-17-55-81-480x300.jpg" title="No Game for You" class="align-center" >}}

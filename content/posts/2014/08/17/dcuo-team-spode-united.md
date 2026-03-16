@@ -2,13 +2,39 @@
 date: '2014-08-17T21:55:32-05:00'
 draft: false
 title: "DCUO: Team Spode United"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/08/17/dcuo-team-spode-united/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh5.googleusercontent.com/-jlDqPKjRMxE/U_HbhJ0zhUI/AAAAAAAAziI/fRY1n_RD9nQ/w786-h590-no/DCGame%2B2014-08-17%2B23-13-22-06.jpg"
-cover: "https://lh5.googleusercontent.com/-jlDqPKjRMxE/U_HbhJ0zhUI/AAAAAAAAziI/fRY1n_RD9nQ/w786-h590-no/DCGame%2B2014-08-17%2B23-13-22-06.jpg"
+cover:
+  image: "https://lh5.googleusercontent.com/-jlDqPKjRMxE/U_HbhJ0zhUI/AAAAAAAAziI/fRY1n_RD9nQ/w786-h590-no/DCGame%2B2014-08-17%2B23-13-22-06.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Black Dawn](https://lh5.googleusercontent.com/-jlDqPKjRMxE/U_HbhJ0zhUI/AAAAAAAAziI/fRY1n_RD9nQ/w786-h590-no/DCGame%2B2014-08-17%2B23-13-22-06.jpg)

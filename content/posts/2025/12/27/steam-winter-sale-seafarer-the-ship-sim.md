@@ -2,14 +2,39 @@
 date: '2025-12-27T13:14:25-05:00'
 draft: false
 title: "Steam Winter Sale: Seafarer, the Ship Sim"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/12/27/steam-winter-sale-seafarer-the-ship-sim/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Dive into the world of commercial shipping as you patrol the seas and learn to love ISO 668 cargo containers."
-categories:
-  - "Steam Games"
+description: "Dive into the world of commercial shipping as you patrol the seas and learn to love ISO 668 cargo containers."
 tags:
+  - "Steam Games"
   - "Seafarer"
   - "Simulation Game"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/1-20251226095656_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/12/1-20251226095656_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/12/1-20251226095656_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Okay. I don't play a *lot* of job simulators, or at least I don't seem to play them for very long. But... I'm going to need to fill in some backstory on how I came to be looking for and ultimately purchasing this Seafarer: the Ship Sim.

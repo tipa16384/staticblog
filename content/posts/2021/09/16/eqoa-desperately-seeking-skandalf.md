@@ -2,19 +2,45 @@
 date: '2021-09-16T23:04:52-05:00'
 draft: false
 title: "EQOA: Desperately Seeking Skandalf"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/16/eqoa-desperately-seeking-skandalf/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Massively Multiplayer"
   - "MMORPG"
   - "Video Game"
   - "Video Game Series"
-tags:
   - "Eqoa"
   - "PCSX2"
   - "PS2"
   - "Skandalf Wru"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/gsdx_20210916212834.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/gsdx_20210916212834.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/gsdx_20210916212834.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I didn't know what to expect when I logged into EverQuest Online Adventures for the first time. When a dark elf cleric named Skandalf started following me around, healing me when I fought anything, I thought she was a bot. But now, I'm not so sure.

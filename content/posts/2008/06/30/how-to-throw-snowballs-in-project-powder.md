@@ -2,12 +2,39 @@
 date: '2008-06-30T15:18:22-05:00'
 draft: false
 title: "How to throw snowballs in Project Powder"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/30/how-to-throw-snowballs-in-project-powder/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Project Powder"
-tags:
-  - "Project Powder"
   - "Snowball"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't really looked at the stats for this blog since I started working at [Massively](http://massively.com). I took a peek and hey, there are still four to five hundred people coming by daily at almost ten thousand visitors in the month of June! Love you all!!!

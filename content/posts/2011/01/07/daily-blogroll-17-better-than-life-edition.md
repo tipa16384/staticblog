@@ -2,7 +2,25 @@
 date: '2011-01-07T06:00:14-05:00'
 draft: false
 title: "Daily Blogroll 1/7 - Better than Life edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/01/07/daily-blogroll-17-better-than-life-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "Lucent Heart"
   - "MMORPG"
@@ -11,7 +29,16 @@ categories:
   - "Second Life"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/ZodiacOnline.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/01/ZodiacOnline.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/01/ZodiacOnline.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 If there could be a greater revolution in online gaming than Microsoft's upcoming Avatar Kinect, I'm not really sure what it could be. {{< youtube WxmyXxeczuE >}} uses its popular new peripheral to track your gestures, mouth movements and even your eyebrows and use this data to create a lifelike puppet of you in an online chat room. The traditional problems of the Kinect remain; your avatar won't be spending much time walking from place to place, but it is certainly worlds better than having to clean house to have friends over.

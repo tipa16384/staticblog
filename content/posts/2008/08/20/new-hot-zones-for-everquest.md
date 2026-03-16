@@ -2,11 +2,39 @@
 date: '2008-08-20T19:02:03-05:00'
 draft: false
 title: "New hot zones for EverQuest"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/20/new-hot-zones-for-everquest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Hot Zones"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 As expected, SOE has made a whole new set of hot zones for nearly all levels. There are some old favorites, and a couple of new ones in the list. Hot zones give a substantial bonus to combat experience, and usually have some unique drops as well to encourage people to come to the zone.

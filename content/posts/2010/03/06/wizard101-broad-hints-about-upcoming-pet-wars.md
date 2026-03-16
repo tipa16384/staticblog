@@ -2,11 +2,38 @@
 date: '2010-03-06T07:04:25-05:00'
 draft: false
 title: "Wizard101: Broad hints about upcoming PET WARS!?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/06/wizard101-broad-hints-about-upcoming-pet-wars/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/dhj6p59w_29d5xmd6dz_b.png"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/dhj6p59w_29d5xmd6dz_b.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/dhj6p59w_29d5xmd6dz_b.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Well, the fine faculty at the Ravenwood School of Magical Arts have put a month's worth of speculation into a handful of paragraphs. The full press release is below, but let's take a look at it, shall we?

@@ -2,13 +2,38 @@
 date: '2023-03-11T15:56:46-05:00'
 draft: false
 title: "PokeReport: Regidrago & Friends"
-categories:
-  - "Pokemon"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/03/11/pokereport-regidrago-friends/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Pokemon"
   - "Raiding"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/03/1-snapedit_1678565419578.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/03/1-snapedit_1678565419578.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/03/1-snapedit_1678565419578.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 So, it's been a busy month in Pokémon since the last post. I finished Pokémon Shield -- loved it, have started on Pokemon Violet, and things have progressed somewhat in Pokémon Go. I haven't met Giovanni again, yet. So, I don't know what he has for me when he does crawl out of whatever hole he's dug.

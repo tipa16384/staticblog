@@ -2,17 +2,43 @@
 date: '2008-08-08T08:13:29-05:00'
 draft: false
 title: "EQ: Veksar Rising"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/08/eq-veksar-rising/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Fens of Nathsar"
   - "Gu47"
   - "Veksar"
   - "Void Storms"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The number one rule of Nostalgia the Guild is that we level together and nobody gets left behind (unless they stop showing up). Last night we had the twin goals of getting everyone up to our current cap of level 55, and to explore the sunken city of Veksar, deep beneath the waves of the Lake of Ill Omen. SOE introduced the original Veksar as a free content update in June of 2003, and are poised to do it once again in EverQuest II.

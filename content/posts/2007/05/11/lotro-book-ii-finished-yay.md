@@ -2,11 +2,38 @@
 date: '2007-05-11T07:21:40-05:00'
 draft: false
 title: "LotRO: Book II Finished (yay!?)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/05/11/lotro-book-ii-finished-yay/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00136.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00136.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00136.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The Hobbits, we find at the end of Retake Weathertop, have made it safely to Rivendell.Â  With them out of harm's way, for a time, it's up to the numberless heroes of the world to do their part. In Book II, we find the source of the Red Marsh's evil, the immortal Red Maid, and redeem some long-dead shades who broke an oath and must now be summoned for one final mission to save them all.

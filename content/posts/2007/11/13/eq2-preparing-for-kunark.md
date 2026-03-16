@@ -2,11 +2,38 @@
 date: '2007-11-13T10:40:23-05:00'
 draft: false
 title: "EQ2: Preparing for Kunark"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/13/eq2-preparing-for-kunark/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 How did you get ready for the expansion? Do anything special?

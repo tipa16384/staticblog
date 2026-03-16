@@ -2,11 +2,38 @@
 date: '2010-06-19T07:58:50-05:00'
 draft: false
 title: "TV Recap: Land of the Giants ep 1, \"The Crash\""
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/06/19/tv-recap-land-of-the-giants-ep-1-crash/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "TV Recaps"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/land-of-the-giants.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/06/land-of-the-giants.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/06/land-of-the-giants.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Hulu's most enduring legacy may well turn out to be the treasure trove of classic American television from the 50s, 60s and 70s that tell tales of a world far different than ours. I loved Irwin Allen's kid-friendly science fiction shows; *Lost in Space*, *Time Tunnel*, *Voyage to the Bottom of the Sea* and the effervescent *Land of the Giants*.

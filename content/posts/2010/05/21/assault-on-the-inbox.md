@@ -2,7 +2,25 @@
 date: '2010-05-21T21:41:28-05:00'
 draft: false
 title: "Assault on the Inbox"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/05/21/assault-on-the-inbox/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "Dragon Age Origins"
   - "EverQuest"
@@ -11,7 +29,16 @@ categories:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/assault-479x185.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/05/assault-479x185.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/05/assault-479x185.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Another week, another truckload of gaming press releases.

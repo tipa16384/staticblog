@@ -2,9 +2,38 @@
 date: '2006-11-30T08:14:58-05:00'
 draft: false
 title: "EQ2: Five \"Easy\" Alternate-Rules Zones"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/11/30/eq2-five-easy-alternate-rules-zones/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The alternate planes of existence haven't been opened yet in EverQuest 2. In EQ1, there was really no difference in the planes from any other zone, aside from there being a god or goddess lurking about. Some of them erased your levitation buff. Plane of Water (and Kedge Keep) required you had a water-breathing buff of some sort.

@@ -2,18 +2,44 @@
 date: '2022-08-23T07:00:00-05:00'
 draft: false
 title: "23 Fathoms: A Cold War Era Submarine Simulator"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Simulation Game"
   - "Submarines"
   - "Wombats"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/smallsub.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/smallsub.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/smallsub.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Number: 23. Genre: Submarine Simulator. Title: "23 Fathoms". Outline: In this submarine simulator, you are the captain of a nuclear submarine on a secret mission. You must navigate the treacherous waters, avoid detection, and complete your mission without being detected. 

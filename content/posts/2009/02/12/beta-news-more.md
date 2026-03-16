@@ -2,13 +2,40 @@
 date: '2009-02-12T08:31:01-05:00'
 draft: false
 title: "Beta News & More"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/12/beta-news-more/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "General"
   - "Hello Kitty Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/cityofheroes-2009-02-12-07-29-18-01.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/cityofheroes-2009-02-12-07-29-18-01.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/cityofheroes-2009-02-12-07-29-18-01.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/02/cityofheroes-2009-02-12-07-29-18-01.jpg "cityofheroes-2009-02-12-07-29-18-01")City of Heroes is currently running their [Valentine event](http://www.cityofheroes.com/news/news_archive/spring_fling_into_valentines_d.html), the one time in the year when heroes and villains can come together and luuuurve each other. Visit Pocket D, the rockin' night club presided over by the hip DJ Zero, his power vendors Chill and Dram, and somewhat alarmed mission-giver and part time DJ Scratch to find out how you can save the Rogue Isles AND Paragon City from an onslaught of super-powered war bots. There's also some more information about [the secretive Architect project](http://www.cityofheroes.com/news/paragon_journals/mission_architect.html), the future of interactive entertainment within City of Heroes. The Architect company will allow you to set the parameters, NPCs and goals for short missions of your own creation. It doesn't seem like you'll be able to actually build your own levels; you'll select a setting and probably a size, where the NPCs should be and what they say and do, and off you go. Not quite the game creator I was hoping for, but looks like a good time nonetheless.

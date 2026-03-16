@@ -2,17 +2,42 @@
 date: '2021-08-04T23:50:28-05:00'
 draft: false
 title: "FF1 Playthrough: Pheasant Dreams!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/04/ff1-playthrough-pheasant-dreams/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "CRPG"
   - "Final Fantasy"
   - "Steam Games"
-tags:
-  - "Blaugust"
   - "Jrpg"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-lich.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/1-lich.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-lich.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Having made our way to the town of Melmond, we were shocked to find a ruin. A vampire was draining all of their Earthpower? The High Lord's Council is nowhere to be seen? Even Thomas Covenant has gone missing? Well, I guess maybe a few Warriors of Light could get the job done...

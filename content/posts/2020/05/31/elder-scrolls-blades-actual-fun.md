@@ -2,15 +2,41 @@
 date: '2020-05-31T15:23:45-05:00'
 draft: false
 title: "Elder Scrolls Blades: Actual Fun."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/31/elder-scrolls-blades-actual-fun/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "Switch"
-tags:
   - "Elder Scrolls"
   - "Elder Scrolls Blades"
   - "F2P"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/2020053021340800-6B6C230ACF880337BA4FF42F6D6F95AB.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/2020053021340800-6B6C230ACF880337BA4FF42F6D6F95AB.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/2020053021340800-6B6C230ACF880337BA4FF42F6D6F95AB.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm always looking for a good F2P game to play for awhile. I never stay with them for long. They tend to follow a similar pattern of providing a lot of enjoyable, entirely free game before essentially locking you out of playing the game as much as you'd like unless you start paying money.

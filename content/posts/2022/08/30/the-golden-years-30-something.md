@@ -2,17 +2,42 @@
 date: '2022-08-30T07:00:00-05:00'
 draft: false
 title: "The Golden Years: 30 Something"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/30/the-golden-years-30-something/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The Golden Years: 30 Something is a life simulation game that highlights the importance of balancing work, life, and everything in between. The game features multiple different endings depending on the choices you make throughout the game."
-categories:
+description: "The Golden Years: 30 Something is a life simulation game that highlights the importance of balancing work, life, and everything in between. The game features multiple different endings depending on the choices you make throughout the game."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
-tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Simulation Game"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 30th: “The Golden Years: 30 Something”.

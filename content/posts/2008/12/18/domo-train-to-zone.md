@@ -2,15 +2,41 @@
 date: '2008-12-18T10:09:02-05:00'
 draft: false
 title: "DOMO: Train to Zone!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/18/domo-train-to-zone/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dream of Mirror Online"
   - "MMORPG"
-tags:
   - "Phoenix Tower"
   - "Placid Plains"
   - "Swan Lake Basin"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-18-08-08-30-92.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-18-08-08-30-92.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-18-08-08-30-92.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-18-08-08-30-92.jpg "domo-2008-12-18-08-08-30-92")

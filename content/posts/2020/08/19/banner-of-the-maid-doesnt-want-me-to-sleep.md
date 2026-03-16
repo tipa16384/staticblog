@@ -2,18 +2,44 @@
 date: '2020-08-19T20:17:37-05:00'
 draft: false
 title: "Banner of the Maid doesn't want me to sleep."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Nintendo Switch"
   - "Switch"
   - "Tactical RPG"
-tags:
   - "Banner of the Maid"
   - "Final Fantasy Tactics"
   - "French Revolution"
   - "Girls Screaming in Chinese"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/banner-of-the-maid-switch-hero.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was initially a little unsure about playing Banner of the Maid. It has a lot of things in it that I like -- deeply tactical gameplay *a la* Final Fantasy Tactics and Fire Emblem Houses. It's set in a sort of alternate French Revolution era which isn't all that familiar to me, though I'm pretty sure Napoleon didn't have a little sister as one of his generals.

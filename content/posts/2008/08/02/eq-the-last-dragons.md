@@ -2,17 +2,43 @@
 date: '2008-08-02T11:48:12-05:00'
 draft: false
 title: "EQ: The Last Dragons"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/02/eq-the-last-dragons/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Crypt of Nadox"
   - "Icewind"
   - "Lady Vox"
   - "Lord Nagafen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Come Hell or high water, we were going to start leveling again after last night's dragon raids. Everyone has been getting antsy about perpetually staying at level 52 solely to farm the dragons. Last night, we killed them both, and have killed each of them three times. Nostalgia the Guild has gone back in time nine years to when mega guilds used to roam the world, throwing themselves against the greatest monsters of the age. But now, we're moving on to EverQuest's first expansion. Next week: Veksar, the city hidden beneath the smoothly lapping waves of the Lake of Ill Omen. Nostalgians, remember that for the next two weeks, we're meeting on Thursday instead of Friday. And that the new level cap is 55.

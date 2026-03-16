@@ -2,11 +2,38 @@
 date: '2010-07-05T18:29:42-05:00'
 draft: false
 title: "STO: Sparkle Ponies in Space -- Adrift with the Galaxy X"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/07/05/sto-sparkle-ponies-in-space-adrift-with-the-galaxy-x/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-05-16-45-22-02.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-05-16-45-22-02.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-05-16-45-22-02.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-05-16-45-22-02.jpg "Pavane for Borg and Dreadnought")

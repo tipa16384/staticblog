@@ -2,11 +2,38 @@
 date: '2012-11-08T08:11:11-05:00'
 draft: false
 title: "Game Log: EQ2 Age of Discovery"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/11/08/game-log-eq2-age-of-discovery/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-07-21-35-36-66-480x319.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-07-21-35-36-66-480x319.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-07-21-35-36-66-480x319.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-07-21-35-36-66-480x319.jpg" title="Halfling Beastlord" class="align-center" >}}

@@ -2,11 +2,38 @@
 date: '2010-02-18T07:07:48-05:00'
 draft: false
 title: "Wizard101: Now THIS is cool! Wings that work!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/02/18/wizard101-now-this-is-cool-wings-that-work/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/Bat-Wings.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/02/Bat-Wings.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/02/Bat-Wings.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/02/Bat-Wings.jpg "Bat Wings")

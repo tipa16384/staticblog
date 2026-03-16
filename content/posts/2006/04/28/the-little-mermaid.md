@@ -2,8 +2,37 @@
 date: '2006-04-28T00:00:00-05:00'
 draft: false
 title: "The Little Mermaid"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/04/28/the-little-mermaid/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Sci Fi"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I never played Kingdom Hearts, where famous Final Fantasy characters meet up with famous Disney characters and go on an adventure. I used to be a big Disney fan when I was a kid... watched Wonderful World of Disney *every* Sunday, with popcorn of course, saw every Disney movie (mostly live action when I was growing up; they weren't really doing animation then).

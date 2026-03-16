@@ -2,12 +2,39 @@
 date: '2008-04-27T14:13:56-05:00'
 draft: false
 title: "An evening in the Moors"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/04/27/an-evening-in-the-moors/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-27-11-27-24-51.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-27-11-27-24-51.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-27-11-27-24-51.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 People who think it is hard to level in EverQuest haven't even been through Blightfire Moors. This 20-30 zone will level you so fast, and leave you with  such great gear, that you'll hardly notice you skipped past most old-world content. That's been a problem with the progression guild. Every week, we find ourselves smashed against our weekly progression limit because EQ leveling is now so fast. Back nine years ago, you had plenty of time to smell the roses. Now, it's a mad rush, and I have no idea where the express train ends. We're going to have to take a step off it so we can see some of the old places we loved.

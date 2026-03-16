@@ -2,11 +2,38 @@
 date: '2007-05-03T17:21:09-05:00'
 draft: false
 title: "LotRO: The Song of Lysistra"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/05/03/lotro-the-song-of-lysistra/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00117.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00117.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00117.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 *Young Frodo, to you has fallen the most perilous task. You must bring the Ring to Mordor. But first, kill twenty boars and bring me their tusks. I will also require their hooves, but I won't tell you that until you get back with the tusks.*

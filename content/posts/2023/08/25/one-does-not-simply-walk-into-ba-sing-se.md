@@ -2,16 +2,41 @@
 date: '2023-08-25T07:00:00-05:00'
 draft: false
 title: "One does not simply walk into Ba Sing Se!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/25/one-does-not-simply-walk-into-ba-sing-se/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Not feeling creative tonight, so here is a ChatGPT-generated story of what Avatar: The Last Airbender might have looked like if its main characters were hobbits."
-categories:
+description: "Not feeling creative tonight, so here is a ChatGPT-generated story of what Avatar: The Last Airbender might have looked like if its main characters were hobbits."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "ChatGPT"
   - "The Last Airbender"
   - "The Lord of the Rings"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/frodoavatar.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/frodoavatar.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/frodoavatar.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I forgot to mention that the Ringbearer gains the powers of the Avatar, able to bend all four elements.

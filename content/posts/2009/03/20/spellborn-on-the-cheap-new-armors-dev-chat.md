@@ -2,10 +2,27 @@
 date: '2009-03-20T19:06:25-05:00'
 draft: false
 title: "Spellborn on the cheap, new armors, dev chat"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
-tags:
   - "Acclaim"
   - "Armor"
   - "Closed Beta"
@@ -13,7 +30,16 @@ tags:
   - "Developer Chat"
   - "High House"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/armor1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/armor1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/armor1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Just finished listening in on the Spellborn dev chat/'webinar'. Lots of interesting discussion, some of which is after the break.

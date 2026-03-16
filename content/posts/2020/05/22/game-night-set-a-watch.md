@@ -2,13 +2,40 @@
 date: '2020-05-22T03:25:51-05:00'
 draft: false
 title: "Game Night: Set a Watch"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/22/game-night-set-a-watch/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Game Night"
   - "Gloomhaven"
   - "Set a Watch"
   - "Tabletop Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/setawatch.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/setawatch.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/setawatch.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We've been doing a family game night where my boyfriend and myself, my son, my daughter and her family all get together to play board games once or twice a week. We recently finished an epic, year-long [Gloomhaven](https://www.kickstarter.com/projects/frosthaven/gloomhaven) campaign. If you have been [following my Instagram](https://www.instagram.com/decisivenotice/?hl=en), you're probably really familiar with our game nights...

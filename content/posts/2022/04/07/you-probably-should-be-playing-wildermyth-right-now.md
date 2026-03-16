@@ -2,16 +2,42 @@
 date: '2022-04-07T08:54:12-05:00'
 draft: false
 title: "You probably should be playing Wildermyth right now."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/04/07/you-probably-should-be-playing-wildermyth-right-now/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Steam Games"
   - "Tactical RPG"
   - "Wildermyth"
-tags:
   - "Fire Emblem"
   - "RPG"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/04/screenshot_30.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/04/screenshot_30.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/04/screenshot_30.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a story, or maybe a comic. Some friends gather together to save their town. Well, a couple of them don't really get along. A couple get along really well -- REALLY well. And then bad stuff happens, but some good stuff, too. Time passes and people get old, but there's always a new danger and new people to step up to face it. It's... everything I ever wanted in an RPG.

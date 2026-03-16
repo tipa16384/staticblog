@@ -2,12 +2,39 @@
 date: '2007-11-29T11:08:18-05:00'
 draft: false
 title: "Vernor Vinge's \"Rainbow's End\" free to read... so go read it"
-categories:
-  - "Sci Fi"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/29/vernor-vinges-rainbows-end-free-to-read-so-go-read-it/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
-  - "Rainbow's End"
   - "Sci Fi"
+  - "Rainbow's End"
   - "Vernor Vinge"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Way back in the 70s, [Vernor Vinge](http://en.wikipedia.org/wiki/Vernor_Vinge) wrote a short story called "[True Names](http://en.wikipedia.org/wiki/True_Names)" which is about a bunch of people who hang out in a virtual world, talk, hack, have fun... until some of them start dying, one or more of them may not be human at all, and the only way to find out what's really happening is to leave the virtual world and meet up in real life to defeat an enemy that wants to kill them all.

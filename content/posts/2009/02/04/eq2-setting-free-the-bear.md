@@ -2,11 +2,38 @@
 date: '2009-02-04T08:23:42-05:00'
 draft: false
 title: "EQ2: Setting Free the Bear"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/04/eq2-setting-free-the-bear/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-03-07-51-49-54.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-03-07-51-49-54.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-03-07-51-49-54.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We started Veeshan's Peak last night, but it didn't go all that well. We were supposed to clear up to the Taskmaster, and then finish it on Thursday. As the night wore on, we were just going to clear up past Nexona. And then at the end, we would have been happy to just have Druushk dead before we finished for the night.

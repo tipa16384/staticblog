@@ -2,13 +2,39 @@
 date: '2020-07-08T12:01:06-05:00'
 draft: false
 title: "Chocobo's Mystery Dungeon: Every Buddy FINISHED! Sorta."
-categories:
-  - "PS4"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/07/08/chocobos-mystery-dungeon-every-buddy-finished-sorta/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "PS4"
   - "Chocobo Mystery Dungeon"
   - "Rogue-Like"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've been buying a lot of casual games to pass the time when I don't have a lot of time to play. Bunches of puzzle games. Some programming games. Some action games (and more on those later). But the one casual game that had that perfect blend of drop-in playability and finely tuned difficulty was one I didn't even see coming: [Chocobo's Mystery Dungeon: Every Buddy](https://square-enix-games.com/en_US/games/chocobos-mystery-dungeon-every-buddy).

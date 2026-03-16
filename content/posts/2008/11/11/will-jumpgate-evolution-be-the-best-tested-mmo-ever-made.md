@@ -2,8 +2,37 @@
 date: '2008-11-11T14:30:32-05:00'
 draft: false
 title: "Will Jumpgate Evolution be the best tested MMO ever made?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/11/will-jumpgate-evolution-be-the-best-tested-mmo-ever-made/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Kyle over at Massively reports that [Jumpgate: Evolution has passed 150,000 beta signups](http://www.massively.com/2008/11/11/jumpgate-evolution-surpasses-150k-beta-sign-ups/).

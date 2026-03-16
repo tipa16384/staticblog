@@ -2,14 +2,41 @@
 date: '2008-06-30T12:54:42-05:00'
 draft: false
 title: "Rock Band 2 announced"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/30/rock-band-2-announced/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Rock Band"
-tags:
   - "Guitar Hero"
   - "Guitar Hero 4"
   - "Guitar Hero World Tour"
-  - "Rock Band"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We knew it was coming, and it's here. Rock Band 2 will be [out in September](http://arstechnica.com/journals/thumbs.ars/2008/06/30/rock-band-2-announced-detailed-fans-listened-to) for the Xbox 360 and somewhat later for the PS3. Rock Band DLC will work with Rock Band 2, and vice versa. The old instruments will work, but the new ones will be better (it will be tough to be worse than the original guitar, at least for the 360).

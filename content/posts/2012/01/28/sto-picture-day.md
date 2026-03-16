@@ -2,11 +2,38 @@
 date: '2012-01-28T01:06:25-05:00'
 draft: false
 title: "STO: Picture Day"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/01/28/sto-picture-day/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/tpral-480x207.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/01/tpral-480x207.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/01/tpral-480x207.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/tpral-480x207.jpg" title="Admiral T'pral's crew" class="align-center" >}}

@@ -2,10 +2,26 @@
 date: '2025-05-10T18:49:03-05:00'
 draft: false
 title: "PAX East 2025: Part Deux"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/05/10/pax-east-2025-part-deux/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Traipsing through Boston rain didn't do anything for my cold, so my PAX weekend ended early. Still, here's more of what we saw there."
-categories:
-  - "Gaming Convention"
+description: "Traipsing through Boston rain didn't do anything for my cold, so my PAX weekend ended early. Still, here's more of what we saw there."
 tags:
+  - "Gaming Convention"
   - "Beloved Rapture"
   - "God Save Birmingham"
   - "Heroes of Mount Dragon"
@@ -15,7 +31,16 @@ tags:
   - "Pax East"
   - "Section 13"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5120-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5120-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5120-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a kind of cruel irony that my boyfriend was sick the week leading up to PAX, but I felt fine. I was urging him to get rest, drink liquids, shake that thing off... and by Thursday night, I was feeling under the weather; Friday, I had the full-blown cold, and Saturday morning, we both knew I wasn't going to be doing more PAX-ing. How could I sit down and game with others with a dripping cold? It would be wrong.

@@ -2,11 +2,38 @@
 date: '2014-12-24T23:34:32-05:00'
 draft: false
 title: "It's a Wipe: Second to last fight in Fiery Center"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/24/second-to-last-fight-in-fiery-center-fiery-warriors-hit-the-primary-and-offtank-the-fiery-wizards/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "It's a Wipe!"
   - "Other Games"
 featured_image: "https://lh3.googleusercontent.com/-qBnOqQ98_6s/VJtMctUo__I/AAAAAAAA9Xo/Le-CJf0URKk/w506-h750/IAWgame%2B2014-12-24%2B17-48-36-57.jpg"
-cover: "https://lh3.googleusercontent.com/-qBnOqQ98_6s/VJtMctUo__I/AAAAAAAA9Xo/Le-CJf0URKk/w506-h750/IAWgame%2B2014-12-24%2B17-48-36-57.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-qBnOqQ98_6s/VJtMctUo__I/AAAAAAAA9Xo/Le-CJf0URKk/w506-h750/IAWgame%2B2014-12-24%2B17-48-36-57.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Second to last fight in Fiery Center. Fiery Warriors hit the primary and offtank. The Fiery Wizards cast small AEs. The Fiery Medics cast heals. Kill order is Wizards -> Warriors -> Medics. Pretty easy fight once you have the right raid group.

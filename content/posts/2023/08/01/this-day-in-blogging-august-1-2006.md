@@ -2,16 +2,41 @@
 date: '2023-08-01T07:00:00-05:00'
 draft: false
 title: "This Day In Blogging: August 1, 2006"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/01/this-day-in-blogging-august-1-2006/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I've been blogging for 25 years. Here's the things I was blogging about on the first day of August in 1998-ish, 2006, 2008, 2012, and 2020. Enjoy!"
-categories:
+description: "I've been blogging for 25 years. Here's the things I was blogging about on the first day of August in 1998-ish, 2006, 2008, 2012, and 2020. Enjoy!"
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "EverQuest II"
-tags:
   - "Microsoft Flight Simulator"
   - "Povray"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/07/dawnfull.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/07/dawnfull.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/07/dawnfull.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Since this blog is ancient, I thought it would be fun to see what I was blogging back on this day in history. [The earliest post that was marked as August 1st](https://chasingdings.com/2006/08/01/artifacts-of-a-misspent-youth/) in my blog backlog was actually a nostalgic look at my previous blog, [Darfstellar](https://web.archive.org/web/20020811065548/http://www.darfstellar.com/). Since I did that somewhere around 1998-1999, I have been blogging to some extent for 25 years.

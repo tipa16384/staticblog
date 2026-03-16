@@ -2,15 +2,40 @@
 date: '2020-08-02T11:34:15-05:00'
 draft: false
 title: "Blaugust #2: Everything You Like is Bad (and you should feel bad)"
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/02/blaugust-2-everything-you-like-is-bad-and-you-should-feel-bad/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
   - "Disney"
   - "Facebook"
   - "Twitch"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/you-like-bad-stuff-and-you-should-feel-bad.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/you-like-bad-stuff-and-you-should-feel-bad.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/you-like-bad-stuff-and-you-should-feel-bad.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Today's Blaugust prompt is from the blog [Azerothian Life](https://azerothianlife.com/2020/08/01/promptapalooza-here-we-go/): 

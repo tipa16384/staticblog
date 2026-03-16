@@ -2,11 +2,38 @@
 date: '2010-03-30T23:52:12-05:00'
 draft: false
 title: "Star Trek Online: Trading Spaces"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/30/star-trek-online-trading-spaces/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-30-19-41-25-45.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-30-19-41-25-45.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-30-19-41-25-45.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Tuesday is typically not a gaming night for me; Tuesday is American Idol night! So you'll find me planted in front of the television with a cat, a bowl of pistachios and a glass of Diet Coke, rooting for Crystal Bowersox. This year, anyway.

@@ -2,7 +2,25 @@
 date: '2008-04-07T07:44:41-05:00'
 draft: false
 title: "The MMO Nostalgia Challenge"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/04/07/the-mmo-nostalgia-challenge/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Champions Online"
   - "EVE Online"
@@ -14,6 +32,17 @@ categories:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While discussing the possibility of "classic" servers in World of Warcraft, [Cameron waxes nostalgic](http://random-battle.com/2008/04/06/hitting-the-old-nostalgia-pipe/) about his own yearning for the simpler days of gnoll-pounding in the Karanas. I loved those days too -- my blog is named after one of those old zones, and my header images are all from EQ1, so you know I'm standing right there with Cameron, casting SoW, shooting off careless lightning and healing as best an old-school druid can. I was so nostalgic at one point that I restarted on a new no-transfer server, Stromm, and went through the entire game from scratch (xping in East Commonlands and Permafrost and Oasis, seeing the world once again), so that helped sate that particular yearning.

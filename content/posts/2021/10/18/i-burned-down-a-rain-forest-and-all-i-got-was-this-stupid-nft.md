@@ -2,15 +2,41 @@
 date: '2021-10-18T19:06:59-05:00'
 draft: false
 title: "I Burned Down a Rain Forest and All I Got Was This Stupid NFT"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/10/18/i-burned-down-a-rain-forest-and-all-i-got-was-this-stupid-nft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blockchain"
   - "NFT"
-tags:
   - "DC Comics"
   - "Ethereum"
   - "Palm"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/51k1w0ALNL.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/51k1w0ALNL.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/51k1w0ALNL.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 DC Fandome said -- [sign up and get a special NFT *just for you*](https://www.dccomics.com/blog/2021/09/29/dc-x-palm-nft-faqs)! Tweet it, and *get another one*! Well, I'm just about to buy my Lambo, because I have an NFT and I'm gonna be RICH.

@@ -2,12 +2,29 @@
 date: '2008-10-02T08:31:41-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Ironbreaker"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/02/straight-talk-warhammer-the-ironbreaker/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
-tags:
   - "Alderich"
   - "Apocalypse Now"
   - "Der Ring Des Nibelungen"
@@ -20,7 +37,16 @@ tags:
   - "The Ring of the Nibelung"
   - "What's Opera Doc"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's just so much to say about Warhammer Online: Age of Reckoning that people don't even talk about. I'm don't mean innovations like Public Quests or the Tome of Knowledge or Open Groups or stuff like that, but stuff that really makes you sit down and go, "damn, why hasn't any other game ever done this?" It's that "I coulda had a V-8" forehead slap moment.

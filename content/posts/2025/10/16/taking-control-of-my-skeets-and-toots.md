@@ -2,16 +2,41 @@
 date: '2025-10-16T08:46:20-05:00'
 draft: false
 title: "Taking Control of my Skeets and Toots"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/16/taking-control-of-my-skeets-and-toots/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I lost so much stuff when I left Twitter, and again when G+ shut down. Never again. I'm using WordLand to control my social media."
-categories:
-  - "Daily Blogroll"
+description: "I lost so much stuff when I left Twitter, and again when G+ shut down. Never again. I'm using WordLand to control my social media."
 tags:
+  - "Daily Blogroll"
   - "Blogging"
   - "West Karana"
   - "Wordland"
   - "Wordpress"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/hq720.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/hq720.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/hq720.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The header image, BTW, is from "{{< youtube 0jRI79wS9SA >}}", a collection of computer animated shorts meant to, I guess, keep a toddler entertained for an hour or so. As research for using this image, I watched a bit of it. Bugs Bunny ain't got nothing to worry about.

@@ -2,18 +2,44 @@
 date: '2021-09-28T23:07:27-05:00'
 draft: false
 title: "New World: Fun, but does it live up to the hype?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/28/new-world-fun-but-does-it-live-up-to-the-hype/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "Massively Multiplayer"
   - "New World"
   - "Steam Games"
   - "Terra Randoma"
   - "Video Game"
-tags:
   - "Rogue-Like"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/terrarandoma.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/09/terrarandoma.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/09/terrarandoma.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not one to jump on bandwagons, but with approximately 150% of the people I follow on Twitter jumping into the New World, I really just had to find out what all the fuss was about.

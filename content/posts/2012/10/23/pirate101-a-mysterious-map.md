@@ -2,11 +2,38 @@
 date: '2012-10-23T06:58:46-05:00'
 draft: false
 title: "Pirate101: A Mysterious Map"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/10/23/pirate101-a-mysterious-map/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Pirate101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/IMG_7463-480x360.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/10/IMG_7463-480x360.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/10/IMG_7463-480x360.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/IMG_7463-480x360.jpg" title="The Map to El Dorado" class="align-center" >}}

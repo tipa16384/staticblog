@@ -2,17 +2,42 @@
 date: '2023-09-21T08:24:07-05:00'
 draft: false
 title: "Baldur's Gate 3: Embracing Evil"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/21/baldurs-gate-3-embracing-evil/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Baldur's Gate 3 didn't really grab me until the evening I woke up to find Astarion's teeth inches from my neck..."
-categories:
+description: "Baldur's Gate 3 didn't really grab me until the evening I woke up to find Astarion's teeth inches from my neck..."
+tags:
   - "Baldur's Gate 3"
   - "PS5"
   - "RPG"
-tags:
   - "Astarion"
   - "Gruumsh"
   - "Volo"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/astarion.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/astarion.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/astarion.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I didn't even know if I was going to write about Baldur's Gate 3. Zillions of people are playing it (1,8 gigazillions at last count). I just wouldn't have anything to say.

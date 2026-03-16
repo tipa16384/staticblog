@@ -2,13 +2,40 @@
 date: '2009-04-20T06:13:19-05:00'
 draft: false
 title: "Web log 4/20 -- Special Contest Edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/20/web-log-420-special-contest-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "MMORPG"
   - "Sci Fi"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/whatisawesome.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/whatisawesome.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/whatisawesome.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I am SO EXCITED today! Last week, KingsIsle, developers of the wonderful MMO, Wizard 101, asked if I would be interested in participating in a little contest to help promote their new player housing. Players will be able to buy homes based on themes from each of the five worlds in game -- Wizard City, Krokotopia, Marleybone, Moo Shu and Dragonspyre. The vendors for these homes are going to be industrious builder turtles, who will exchange piles of gold for the keys to your new home. The names of these turtles will be determined by the players, and the readers of West Karana who also play Wizard 101 will be naming the turtle for Marleybone, which is my personal favorite world.

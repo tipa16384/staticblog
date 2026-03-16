@@ -2,10 +2,37 @@
 date: '2011-08-23T07:06:26-05:00'
 draft: false
 title: "Dragon Nest: A Warrior, a Sorceress and a Priest walk into a bar..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/08/23/dragon-nest-a-warrior-a-sorceress-and-a-priest-walk-into-a-bar/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dragon Nest"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg" title="Warrior in the Valley of Mourning" class="align-center" >}}

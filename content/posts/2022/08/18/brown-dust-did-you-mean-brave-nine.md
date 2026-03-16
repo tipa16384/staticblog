@@ -2,16 +2,42 @@
 date: '2022-08-18T09:30:10-05:00'
 draft: false
 title: "Brown Dust? Did you mean Brave Nine?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/18/brown-dust-did-you-mean-brave-nine/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Mobile Games"
   - "Tactical RPG"
-tags:
   - "Bluestacks"
   - "Gacha"
   - "Girls Screaming in Chinese"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 A few days, Friendly Necro was going over all the mobile games on which he's worked. I was wondering why mobile games just didn't stick with me, and I remembered this strategy tactical one I played a long time ago and I just couldn't remember when, or why I stopped. I hardly ever remember why I stop playing mobile games. I just stop.

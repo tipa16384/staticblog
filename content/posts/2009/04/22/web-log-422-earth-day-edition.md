@@ -2,7 +2,25 @@
 date: '2009-04-22T07:48:04-05:00'
 draft: false
 title: "Web Log 4/22 -- Earth Day edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/22/web-log-422-earth-day-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Daily Blogroll"
   - "Free Realms"
@@ -10,6 +28,17 @@ categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Day 2 of the Wizard 101 [Name the Turtles contest](https://chasingdings.com/index.php/2009/04/20/wizard-101-name-the-turtles/)! My site stats show that well over a THOUSAND wizards have come to this site to choose a name for the Marleybone turtle.

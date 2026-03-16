@@ -2,19 +2,44 @@
 date: '2022-08-20T07:00:00-05:00'
 draft: false
 title: "The Wild 20s - The City is Your Sandbox"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/20/the-wild-20s-the-city-is-your-sandbox/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "\"The Wild 20s\" is an open-world sandbox game set in the Roaring Twenties. You can explore the city, find jobs, start businesses, get into trouble, or just enjoy the nightlife. It's up to you!"
-categories:
+description: "\"The Wild 20s\" is an open-world sandbox game set in the Roaring Twenties. You can explore the city, find jobs, start businesses, get into trouble, or just enjoy the nightlife. It's up to you!"
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "Open World RPG"
   - "OpenAI"
-tags:
   - "Assassin's Creed"
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/wild20s.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/wild20s.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/wild20s.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 **Number**: 20. **Genre**: Open-world sandbox game. **Title**: "The Wild 20s". **Outline**: In this open-world sandbox game, you play as a young adult in the 1920s, exploring the city and trying to make your way in the world. You can choose to be honest or dishonest, work hard or party hard, find love or get into trouble. It's up to you!

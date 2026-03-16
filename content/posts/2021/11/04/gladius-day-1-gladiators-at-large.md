@@ -2,18 +2,44 @@
 date: '2021-11-04T08:06:56-05:00'
 draft: false
 title: "Gladius, Day 1: Gladiators at Large"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/04/gladius-day-1-gladiators-at-large/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "Gladius"
   - "PS2"
   - "Tactical RPG"
-tags:
   - "Final Fantasy Tactics"
   - "Lucasarts"
   - "PCSX2"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211103184301.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211103184301.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211103184301.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Welcome to the start of my playthrough of LucasArts' "Gladius", a tactical arena fighting game for the PlayStation 2.

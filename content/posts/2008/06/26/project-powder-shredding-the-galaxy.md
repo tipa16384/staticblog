@@ -2,15 +2,40 @@
 date: '2008-06-26T07:19:36-05:00'
 draft: false
 title: "Project Powder: Shredding the Galaxy"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/06/26/project-powder-shredding-the-galaxy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Project Powder"
-tags:
   - "Outspark"
-  - "Project Powder"
   - "Snowboarding"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It looked like it might have been an MMO, and I wrote up [a quick article](http://www.massively.com/2008/06/20/shredding-the-galaxy-in-project-powder/) thinking it *might* be, but Project Powder really isn't. What it is, is a helluva fun online snowboarding sim with chat channels, guilds/clans/crews, levels, more tricks than you can handle, and an item shop.

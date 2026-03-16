@@ -2,12 +2,39 @@
 date: '2010-04-21T06:34:43-05:00'
 draft: false
 title: "IP-based MMOs: Part 5 (of 5)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/21/ip-based-mmos-part-5-of-5/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/warhammer_002-225x225.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/warhammer_002-225x225.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/warhammer_002-225x225.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We reach the end of the ~~Internet Protocol~~ Intellectual Property-based MMO list with the biggest MMO ever... and the one that promised to dethrone it.

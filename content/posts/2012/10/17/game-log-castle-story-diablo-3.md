@@ -2,12 +2,39 @@
 date: '2012-10-17T23:43:44-05:00'
 draft: false
 title: "Game Log: Castle Story, Diablo 3"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/10/17/game-log-castle-story-diablo-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Castle Story"
   - "Diablo 3"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg" title="Castle Story Prototype" class="align-center" >}}

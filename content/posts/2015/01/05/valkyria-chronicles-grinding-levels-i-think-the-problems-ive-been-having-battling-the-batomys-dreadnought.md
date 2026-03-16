@@ -2,11 +2,38 @@
 date: '2015-01-05T05:42:25-05:00'
 draft: false
 title: "Valkyria Chronicles: Grinding levels."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/05/valkyria-chronicles-grinding-levels-i-think-the-problems-ive-been-having-battling-the-batomys-dreadnought/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Valkyria Chronicles"
 featured_image: "https://lh3.googleusercontent.com/-8qGA2cddApM/VKohgpASGxI/AAAAAAAA-NQ/WsMsSZOzOLQ/w506-h750/Valkyria%2B2015-01-04%2B21-49-12-16.jpg"
-cover: "https://lh3.googleusercontent.com/-8qGA2cddApM/VKohgpASGxI/AAAAAAAA-NQ/WsMsSZOzOLQ/w506-h750/Valkyria%2B2015-01-04%2B21-49-12-16.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-8qGA2cddApM/VKohgpASGxI/AAAAAAAA-NQ/WsMsSZOzOLQ/w506-h750/Valkyria%2B2015-01-04%2B21-49-12-16.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Valkyria Chronicles: Grinding levels.

@@ -2,10 +2,37 @@
 date: '2008-03-16T07:32:17-05:00'
 draft: false
 title: "Now Reading... Born Standing Up, by Steve Martin"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/16/now-reading-born-standing-up-by-steve-martin/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "http://ecx.images-amazon.com/images/I/41U9%2Bvy3OTL._AA240_.jpg"
-cover: "http://ecx.images-amazon.com/images/I/41U9%2Bvy3OTL._AA240_.jpg"
+cover:
+  image: "http://ecx.images-amazon.com/images/I/41U9%2Bvy3OTL._AA240_.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Born Standing Up by Steve Martin](http://ecx.images-amazon.com/images/I/41U9%2Bvy3OTL._AA240_.jpg)

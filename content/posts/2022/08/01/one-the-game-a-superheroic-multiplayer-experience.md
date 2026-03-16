@@ -2,18 +2,43 @@
 date: '2022-08-01T07:00:00-05:00'
 draft: false
 title: "One: The Game - A Superheroic Multiplayer Experience"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/01/one-the-game-a-superheroic-multiplayer-experience/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
-tags:
   - "AI"
-  - "Blaugust"
   - "Craiyon"
   - "Gpt-3"
   - "One the Game"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here's its idea for August 1st.

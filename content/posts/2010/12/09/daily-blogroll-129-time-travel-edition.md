@@ -2,13 +2,40 @@
 date: '2010-12-09T06:00:50-05:00'
 draft: false
 title: "Daily Blogroll 12/9 -- Time Travel edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/09/daily-blogroll-129-time-travel-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "MMORPG"
   - "Rift"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/apollo.png"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/apollo.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/apollo.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/12/apollo.png "from the Star Trek episode ")

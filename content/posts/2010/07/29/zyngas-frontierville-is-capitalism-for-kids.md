@@ -2,11 +2,38 @@
 date: '2010-07-29T23:14:55-05:00'
 draft: false
 title: "Zynga's Frontierville is Capitalism for Kids"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/07/29/zyngas-frontierville-is-capitalism-for-kids/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Facebook Games"
   - "Frontierville"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1-480x389.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1-480x389.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1-480x389.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1-480x389.jpg "Clicking away in Frontierville")](https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1.jpg)

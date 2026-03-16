@@ -2,17 +2,42 @@
 date: '2025-01-27T08:31:11-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/27/i-know-what-i-did-last-weekend-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Some updates on games and game-related dinguses from this past weekend..."
-categories:
+description: "Some updates on games and game-related dinguses from this past weekend..."
+tags:
   - "Erenshor"
   - "Malifaux"
   - "Palworld"
   - "Pokemon"
-tags:
   - "Fantasian Neo Dimension"
   - "Paper Apps Dungeon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/drbrawn.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/drbrawn.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/drbrawn.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I feel Palworld really gets the short shrift when people casually dismiss it as just "Pokemon with guns". It's so much more than that. It's *also* "Pokemon with Nazis". Those gun-toting Pokemon have something worth using those guns on. That makes it better, right?

@@ -2,13 +2,39 @@
 date: '2015-01-19T16:53:41-05:00'
 draft: false
 title: "DCUO: War of Light II!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/01/19/dcuo-war-of-light-iiits-been-a-whirlwind-few-days-since-i-mysteriously-hit-cr-106-and-became-eligible/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh6.googleusercontent.com/-gzNw8KKJpYw/VL0y4IwEpWI/AAAAAAAA-4I/O5mz27BYkNo/w506-h750/MLOC128_DESIGNERDATA-PC-18-22.43.420.jpg"
-cover: "https://lh6.googleusercontent.com/-gzNw8KKJpYw/VL0y4IwEpWI/AAAAAAAA-4I/O5mz27BYkNo/w506-h750/MLOC128_DESIGNERDATA-PC-18-22.43.420.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-gzNw8KKJpYw/VL0y4IwEpWI/AAAAAAAA-4I/O5mz27BYkNo/w506-h750/MLOC128_DESIGNERDATA-PC-18-22.43.420.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's been a whirlwind few days since I mysteriously hit CR 106 and became eligible to play the newest endgame content in DC Universe Online.

@@ -2,8 +2,25 @@
 date: '2022-08-22T13:19:07-05:00'
 draft: false
 title: "The 5 Best MMOs to Play in 2022"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/22/the-5-best-mmos-to-play-in-2022/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "With so many MMOs on the market, it can be hard to decide which one is right for you. Here are the 5 best MMOs to play in 2022 to help you make your decision!"
-categories:
+description: "With so many MMOs on the market, it can be hard to decide which one is right for you. Here are the 5 best MMOs to play in 2022 to help you make your decision!"
+tags:
   - "Final Fantasy"
   - "Fortnite"
   - "Guild Wars"
@@ -11,13 +28,21 @@ categories:
   - "Old School Runescape"
   - "Path of Exile"
   - "World of Warcraft"
-tags:
   - "Blaugust"
   - "Dall-E 2"
   - "MMORPG Challenge"
   - "Pandering"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked Google what people wanted most to know about MMOs in this day and age, and who better to answer it than me, whose last serious MMO was DC Universe Online.

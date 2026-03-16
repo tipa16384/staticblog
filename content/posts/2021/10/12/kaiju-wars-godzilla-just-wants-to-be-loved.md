@@ -2,13 +2,39 @@
 date: '2021-10-12T23:28:10-05:00'
 draft: false
 title: "Kaiju Wars: Godzilla just wants to be loved!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/10/12/kaiju-wars-godzilla-just-wants-to-be-loved/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Kaiju Wars"
   - "Tactical RPG"
-tags:
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/1-20211012222357_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/1-20211012222357_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/1-20211012222357_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Foolish Mortal Games' new monster battler pits you and your hapless military against giant, unstoppable beasts. Can Major Danger and kaiju scientist Dr. Wagner help you out? Or are *they responsible*? Ooooohhhh...

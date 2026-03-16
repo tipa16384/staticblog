@@ -2,13 +2,38 @@
 date: '2025-11-26T14:22:58-05:00'
 draft: false
 title: "Analogue 3D: Play your Nintendo 64 games again"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/26/analogue-3d-play-your-nintendo-64-games-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Analogue's latest retro console hardware emulator is a godsend for N64 afficionados, and almost nothing for anyone else."
-categories:
-  - "Nintendo 64"
+description: "Analogue's latest retro console hardware emulator is a godsend for N64 afficionados, and almost nothing for anyone else."
 tags:
+  - "Nintendo 64"
   - "Analogue"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5508-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5508-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5508-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 You have to really love your Nintendo 64 games to spend $250 to play them on modern monitors. Or just have too much money and need to get rid of some of it on something that will only give you a little bit of joy.

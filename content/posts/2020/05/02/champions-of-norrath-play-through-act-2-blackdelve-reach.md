@@ -2,15 +2,41 @@
 date: '2020-05-02T15:59:42-05:00'
 draft: false
 title: "Champions of Norrath play through: Act 2, Blackdelve Reach"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/02/champions-of-norrath-play-through-act-2-blackdelve-reach/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "EverQuest"
-tags:
   - "Champions of Norrath"
   - "Playthrough"
   - "PS2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg" title="I vahnt your cleecks" >}}

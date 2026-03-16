@@ -2,10 +2,37 @@
 date: '2012-07-09T20:34:39-05:00'
 draft: false
 title: "Diablo 3 Hardcore: Win some, lose some, win some."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/07/09/diablo-3-hardcore-win-some-lose-some-win-some/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-08-22-57-50-97-480x315.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-08-22-57-50-97-480x315.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-08-22-57-50-97-480x315.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-08-22-57-50-97-480x315.jpg" title="Ooops. Dropped your sword." class="align-center" >}}

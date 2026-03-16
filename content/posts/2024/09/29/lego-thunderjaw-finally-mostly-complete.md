@@ -2,14 +2,39 @@
 date: '2024-09-29T15:06:14-05:00'
 draft: false
 title: "LEGO Thunderjaw: Finally mostly complete!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/29/lego-thunderjaw-finally-mostly-complete/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Don't look at it too hard, pieces will start falling off. In fact, don't even look at this PICTURE too long. Putting this together was a leeeeetle bit stressful."
-categories:
-  - "Horizon Forbidden West"
+description: "Don't look at it too hard, pieces will start falling off. In fact, don't even look at this PICTURE too long. Putting this together was a leeeeetle bit stressful."
 tags:
+  - "Horizon Forbidden West"
   - "Lego"
   - "Thunderjaw"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/thunderjaw-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/thunderjaw-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/thunderjaw-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 For my birthday, Kasul got me a picture of a LEGO Thunderjaw and several pounds of LEGO bricks and Technic bits. Somewhere in there, I was told, lived a Thunderjaw to help protect my (official) LEGO Tallneck from the cats.

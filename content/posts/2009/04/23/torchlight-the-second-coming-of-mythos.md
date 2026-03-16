@@ -2,11 +2,38 @@
 date: '2009-04-23T19:38:04-05:00'
 draft: false
 title: "Torchlight: The second coming of Mythos?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/23/torchlight-the-second-coming-of-mythos/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Torchlight"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/image1-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/image1-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/image1-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![image1](https://chasingdings.com/wp-content/uploads/2009/04/image1-480x300.jpg "image1")](https://chasingdings.com/wp-content/uploads/2009/04/image1.jpg)

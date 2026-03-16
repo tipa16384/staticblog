@@ -2,17 +2,43 @@
 date: '2020-10-17T20:40:19-05:00'
 draft: false
 title: "Ogre Battle: The March of the Black Queen: How to Win the Game."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/17/ogre-battle-the-march-of-the-black-queen-how-to-win-the-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Super Nintendo"
   - "Tactical RPG"
-tags:
   - "Ogre Battle"
   - "RPG"
   - "Snes"
   - "Tactics"
   - "The March of the Black Queen"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't really been blogging, streaming or even talking about my progress in Ogre Battle lately. I've been mostly just working my way through the story.

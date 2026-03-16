@@ -2,14 +2,40 @@
 date: '2021-07-27T00:38:19-05:00'
 draft: false
 title: "DCUO: New Player Experience"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/07/27/dcuo-new-player-experience/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Steam Games"
-tags:
   - "DC Universe Online"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/1-20210725214657_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/07/1-20210725214657_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/07/1-20210725214657_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I like my main character, Teal Green, just fine. Well, most of the time. She started out as a hard light controller -- a deputy of the Green Lantern corp. But I soured on all the constant comboing and didn't feel I contributed much DPS. With wild abandon, I tried a few different DPS options, finally settling on Munitions when it came out. I later changed over to become an electricity-based healer, and that is where I am today. My DPS is ... reasonable. Team Spode (the league I belong to) is usually at the tops of the DPS charts, and I'm usually third or fourth behind Lord Spode's ice tank and Stingheal's sorcery healer.

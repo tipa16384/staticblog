@@ -2,17 +2,42 @@
 date: '2023-12-22T17:28:03-05:00'
 draft: false
 title: "Advent of Code Day 22 -- Sand Slabs"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/22/advent-of-code-day-22-sand-slabs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I almost gave up on this one. Then I started playing around with it in a 3D render package and I found the issue."
-categories:
-  - "Advent of Code"
+description: "I almost gave up on this one. Then I started playing around with it in a 3D render package and I found the issue."
 tags:
+  - "Advent of Code"
   - "AoC2023"
   - "Babylonjs"
   - "Jenga"
   - "Pygame"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/jenga.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/jenga.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/jenga.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This is one of those that looked easy to begin with, but then I just had a bunch of issues. I gave up, started playing with 3D rendering packages for fun, and then while flying around the rendered puzzle -- I found the issue.

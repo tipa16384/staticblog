@@ -2,11 +2,38 @@
 date: '2015-09-01T21:57:03-05:00'
 draft: false
 title: "Snowcloak, Fenris-style"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/09/01/snowcloak-fenris-style/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-31-23-58-10-81.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-31-23-58-10-81.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-31-23-58-10-81.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-31-23-58-10-81.jpg" title="Fenris" class="align-center" >}}

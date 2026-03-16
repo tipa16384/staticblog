@@ -2,9 +2,38 @@
 date: '2008-01-18T20:39:54-05:00'
 draft: false
 title: "MMO: Science Fiction MMO Outline #1 -- \"Book of Days\""
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/18/mmo-science-fiction-mmo-outline-1-book-of-days/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Sci Fi"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Inspired by [Wilhelm](http://tagn.wordpress.com/2008/01/17/is-there-hope-for-a-science-fiction-mmorpg/) and [Potshot](http://potshot.wordpress.com/2008/01/18/no-hope-for-a-science-fiction-mmorpg/), who both see the barriers against any sort of MMO with a science fictional basis as nearly insurmountable... I found I disagreed.

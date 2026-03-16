@@ -2,16 +2,42 @@
 date: '2022-05-30T23:44:51-05:00'
 draft: false
 title: "What if Elden, but Ring?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/05/30/what-if-elden-but-ring/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Elden Ring"
   - "Horizon Forbidden West"
   - "PS5"
-tags:
   - "Dark Souls"
   - "RPG"
   - "Souls-Like"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over for the Elden Beast. I think it's one of the best games I've played in quite awhile, but I do have some issues with it. Spoilers below.

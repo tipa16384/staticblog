@@ -2,7 +2,25 @@
 date: '2010-03-01T08:37:41-05:00'
 draft: false
 title: "Weekend Gaming: EVE, EQ2, STO, DDO, Dragonica Online"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/03/01/weekend-gaming-eve-eq2-sto-ddo-dragonica-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dragonica Online"
   - "Dungeons & Dragons Online"
   - "EVE Online"
@@ -11,7 +29,16 @@ categories:
   - "Star Trek"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-02-28-18-44-20-73.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-02-28-18-44-20-73.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-02-28-18-44-20-73.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-02-28-18-44-20-73.jpg "Mission of peace? You mean, mission of BOOM.")

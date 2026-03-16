@@ -2,15 +2,41 @@
 date: '2020-05-06T11:23:56-05:00'
 draft: false
 title: "Favorite Game Series #1: Final Fantasy"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/06/favorite-game-series-1-final-fantasy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "Final Fantasy"
-tags:
   - "Favorite Game Series"
   - "Final Fantasy Tactics"
   - "Jrpg"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/FFFridge.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/FFFridge.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/FFFridge.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/FFFridge.png" title="Epic battle in my kitchen" >}}

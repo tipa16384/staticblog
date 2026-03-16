@@ -2,12 +2,40 @@
 date: '2014-12-21T00:53:40-05:00'
 draft: false
 title: "Could Crushbone's Revenge be finished?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/21/could-crushbones-revenge-be-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Crushbone"
   - "Foundry"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Now, this IS relevant to EverQuest. I think I'm just about finished with Crushbone's Revenge, the sort of sequel to Tempest in a Freepot. You're on a mission to save Retlon Brenclog, a gnome who was last seen in Crushbone. But you uncover something much darker on your quest, and a gnome isn't all you save.

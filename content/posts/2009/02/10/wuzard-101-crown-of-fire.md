@@ -2,14 +2,40 @@
 date: '2009-02-10T08:32:31-05:00'
 draft: false
 title: "Wizard 101: Crown of Fire"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/10/wuzard-101-crown-of-fire/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Dragonspyre"
   - "Malistaire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-07-10-21-36-72.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-07-10-21-36-72.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-07-10-21-36-72.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-07-10-21-36-72.jpg "wizardgraphicalclient-2009-02-07-10-21-36-72")Malistaire death number one, and counting. Killing Malistaire with the quest to kill him might actually just give you his robe; last night, [Thomas](http://thefriendlynecromancer.blogspot.com/) got his, while his son's character got a balance robe (not sure if it was the one Balance wizards would get), and I got an athame off of him. So either you get your robe first time, or the chances are even worse than I thought.

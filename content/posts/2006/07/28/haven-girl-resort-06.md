@@ -2,10 +2,37 @@
 date: '2006-07-28T10:28:27-05:00'
 draft: false
 title: "Surya Fashions, Resort '06"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/07/28/haven-girl-resort-06/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "My Work"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/07/HGR06.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/07/HGR06.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/07/HGR06.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The Haven Girl brochure I did last week got printed up and we got them back yesterday (you can see the first page below). The printers finally used the Haven Girl logo font I specified instead of whichever one was their favorite that day. Came out pretty well. I tried to use more color. Have two more brochures arriving next week, probably while I'm on vacation. I'm seriously iffy about one of them.

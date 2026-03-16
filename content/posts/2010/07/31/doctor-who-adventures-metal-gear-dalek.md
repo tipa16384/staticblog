@@ -2,11 +2,38 @@
 date: '2010-07-31T00:28:30-05:00'
 draft: false
 title: "Doctor Who Adventures: Metal Gear Dalek"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/07/31/doctor-who-adventures-metal-gear-dalek/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Doctor Who Adventures"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51-480x299.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51-480x299.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51-480x299.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51-480x299.jpg "The Daleks just want to exterminate. Is that so wrong?")](https://chasingdings.com/wp-content/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51.jpg)

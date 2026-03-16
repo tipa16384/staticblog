@@ -2,11 +2,38 @@
 date: '2009-10-03T13:53:19-05:00'
 draft: false
 title: "Wizard101: Questions about the new stuff? We have answers!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/03/wizard101-questions-about-the-new-stuff-we-have-answers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![You CAN destroy high level armor!](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93-480x383.jpg "You CAN destroy high level armor!")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93.jpg)

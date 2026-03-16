@@ -2,11 +2,38 @@
 date: '2016-03-01T07:19:55-05:00'
 draft: false
 title: "Little Ladies"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2016/03/01/little-ladies/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2016/03/ffxiv_dx11-2016-02-27-21-16-28-70.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2016/03/ffxiv_dx11-2016-02-27-21-16-28-70.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2016/03/ffxiv_dx11-2016-02-27-21-16-28-70.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2016/03/ffxiv_dx11-2016-02-27-21-16-28-70.jpg" title="Lovely ladies going for a song" class="align-center" >}}

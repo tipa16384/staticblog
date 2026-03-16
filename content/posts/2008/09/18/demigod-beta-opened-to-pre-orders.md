@@ -2,15 +2,41 @@
 date: '2008-09-18T10:00:57-05:00'
 draft: false
 title: "Demigod beta opened to pre-orders"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/18/demigod-beta-opened-to-pre-orders/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeon Siege"
   - "Other Games"
-tags:
   - "Demigod"
   - "Gas Powered Games"
   - "Stardock"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/demigod.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/demigod.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/demigod.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/09/demigod.jpg "demigod")

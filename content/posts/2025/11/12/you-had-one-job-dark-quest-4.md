@@ -2,15 +2,40 @@
 date: '2025-11-12T08:30:09-05:00'
 draft: false
 title: "You had ONE JOB, Dark Quest 4!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/12/you-had-one-job-dark-quest-4/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "You had one job -- bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!"
-categories:
+description: "You had one job -- bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!"
+tags:
   - "HeroQuest"
   - "Tabletop Games"
-tags:
   - "Dark Quest"
   - "Dark Quest 4"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/1-20250610202611_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/1-20250610202611_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/1-20250610202611_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We play a lot of HeroQuest here in Chez Tanglewood; you'll have seen that from all of my posts about it. It's really fun because we're never quite sure what's going to happen. Kasul plays the unseen evil sorcerer that is controlling the scenario and all the monsters. The rest of us play different characters -- barbarian, dwarf, rogue and elf. And because we're all different people, we're not always working together. This leads to some hilarious situations. My character died once, and I had to start over with a new clone. In our last game, the rogue died and we had to use a one-time-only artifact to bring him back so he wouldn't have to start over.

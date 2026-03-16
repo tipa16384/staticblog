@@ -2,11 +2,38 @@
 date: '2010-01-11T23:00:32-05:00'
 draft: false
 title: "Star Trek Online: Character and Ship Creation"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/01/11/star-trek-online-character-and-ship-creation/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-42-62.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-42-62.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-42-62.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every article about Star Trek Online is going to discuss the character creator. Cryptic is justly famous for the extreme customization it allows in its games. In City of Heroes, designing a hero (or villain) was a game in itself. Champions Online took that one step further, allowing you unprecedented ability to customize your powers as well. Star Trek Online has the challenge to allow you room to express your creativity, yet still keep you and your ship recognizably part of Starfleet (or the Klingon Empire).

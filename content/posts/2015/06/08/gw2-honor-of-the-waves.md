@@ -2,11 +2,38 @@
 date: '2015-06-08T18:52:52-05:00'
 draft: false
 title: "GW2: Honor of the Waves"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/06/08/gw2-honor-of-the-waves/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Guild Wars"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/T1IegWNo-original.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/06/T1IegWNo-original.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/06/T1IegWNo-original.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/T1IegWNo-original.jpg" title="I just don't like giants these days" class="align-center" >}}

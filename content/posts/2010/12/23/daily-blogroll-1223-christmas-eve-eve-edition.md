@@ -2,7 +2,25 @@
 date: '2010-12-23T06:00:43-05:00'
 draft: false
 title: "Daily Blogroll 12/23 -- Christmas Eve Eve edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Black Prophecy"
   - "Daily Blogroll"
   - "EverQuest"
@@ -12,7 +30,16 @@ categories:
   - "Rift"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/rifty.png"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/rifty.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/rifty.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/12/rifty.png)](https://chasingdings.com/wp-content/uploads/2010/12/rifty.png)

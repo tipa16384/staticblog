@@ -2,15 +2,31 @@
 date: '2022-08-04T07:00:00-05:00'
 draft: false
 title: "Fourt Knight: An Awesome Game That's Worth the Price"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/04/fourt-knight-an-awesome-game-thats-worth-the-price/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Action Adventure Games"
   - "Blaugust"
   - "Blaugust 2022"
   - "Puzzles"
   - "Video Game"
-tags:
   - "Action Adventure Game"
-  - "Blaugust"
   - "Craiyon"
   - "Easy to Learn"
   - "Gpt-3"
@@ -19,7 +35,16 @@ tags:
   - "Third Person Perspective"
   - "Wasd to Move"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here's its idea for August 4th: "Fourt Knight".

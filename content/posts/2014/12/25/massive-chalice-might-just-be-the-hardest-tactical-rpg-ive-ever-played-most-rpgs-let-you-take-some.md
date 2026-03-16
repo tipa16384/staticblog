@@ -2,8 +2,37 @@
 date: '2014-12-25T20:06:12-05:00'
 draft: false
 title: "Massive Chalice might just be the hardest tactical RPG I've ever played. Most RPGs let you take some..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/25/massive-chalice-might-just-be-the-hardest-tactical-rpg-ive-ever-played-most-rpgs-let-you-take-some/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Massive Chalice might just be the hardest tactical RPG I've ever played. Most RPGs let you take some heroes from novice to legend at your own pace. Massive Chalice takes that away from you. You might only get a chance to play them once or twice in their life, and maybe not at all.

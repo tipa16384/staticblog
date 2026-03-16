@@ -2,14 +2,39 @@
 date: '2020-08-28T07:16:06-05:00'
 draft: false
 title: "Blaugust #28: Let's forget 2020 ever happened."
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/28/blaugust-28-lets-forget-2020-ever-happened/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
-  - "2020"
   - "Blaugust"
+  - "2020"
   - "Girls Screaming"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/01a15x11vangoghgreenwheatcorn-and-cypresses.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/01a15x11vangoghgreenwheatcorn-and-cypresses.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/01a15x11vangoghgreenwheatcorn-and-cypresses.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Wow. I'd hate to be in the shoes of [UltrViolet of Endgame Viable](https://endgameviable.com/), who has the unenviable task of asking the question:

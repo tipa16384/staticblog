@@ -2,8 +2,37 @@
 date: '2008-03-13T10:05:27-05:00'
 draft: false
 title: "What MMO would I unmake?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/13/what-mmo-would-i-unmake/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Reader Elench dislikes [EQ2](https://chasingdings.com/index.php/2008/03/07/eq2-nothing-special/#comment-5958) so much that he wishes it would die a swift death. Heartless Gamer wants to wipe [EverQuest](http://hgamer.blogspot.com/2008/03/unmake-that-game.html) from the pages of history. Keen wants to zap [Star Wars Galaxies](http://www.keenandgraev.com/?p=865).

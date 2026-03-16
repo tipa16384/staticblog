@@ -2,14 +2,40 @@
 date: '2010-12-15T08:00:47-05:00'
 draft: false
 title: "Next Rift Beta event: Guardians of the Vigil"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/15/next-rift-beta-event-guardians-of-the-vigil/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Rift"
-tags:
   - "Beta"
   - "Closed Beta"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/headline-480x186.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/headline-480x186.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/headline-480x186.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/12/headline-480x186.jpg "Guardians of the Vigil")](https://chasingdings.com/wp-content/uploads/2010/12/headline.jpg)

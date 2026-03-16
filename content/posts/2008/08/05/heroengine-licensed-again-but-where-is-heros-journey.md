@@ -2,13 +2,41 @@
 date: '2008-08-05T17:08:55-05:00'
 draft: false
 title: "HeroEngine licensed again, but where is Hero's Journey?"
-categories:
-  - "MMORPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/05/heroengine-licensed-again-but-where-is-heros-journey/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "MMORPG"
   - "Hero's Journey"
   - "Heroengine"
   - "Hsc Labs"
   - "Simultronics"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The number one, market leader middleware for MMO development? Unreal Engine? No, sorry, though I would have thought that. MMOs like DC Universe Online, Stargate Worlds and Vanguard (which reportedly used it poorly) plus dozens of console games of all descriptions had me guessing that. Or BigWorld, which a few upcoming MMOs will use (like Twin Skies and 38 Studios' code-name "Copernicus" MMO, which also [claims to be using Unreal Engine](http://www.nerfbat.com/2008/03/05/38-studios-licenses-unreal-engine-3/)... so I'm confused. UE3 for client and BW for middleware? Okay...).

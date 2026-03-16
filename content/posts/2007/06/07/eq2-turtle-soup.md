@@ -2,11 +2,38 @@
 date: '2007-06-07T07:08:42-05:00'
 draft: false
 title: "EQ2: Turtle Soup"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/06/07/eq2-turtle-soup/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/pic2.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/06/pic2.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/06/pic2.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![pic2.jpg](https://chasingdings.com/wp-content/uploads/2007/06/pic2.jpg)

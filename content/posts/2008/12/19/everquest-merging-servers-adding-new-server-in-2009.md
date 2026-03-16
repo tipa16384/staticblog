@@ -2,9 +2,38 @@
 date: '2008-12-19T20:48:58-05:00'
 draft: false
 title: "EverQuest merging servers, adding NEW server in 2009"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/19/everquest-merging-servers-adding-new-server-in-2009/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Actually in an EverQuest group *right now* so can't write this up fully, but briefly, next month, Druzzil Ro (Tarew Marr) will merge with progression server The Combine to become Druzzil Ro (Tarew Marr, The Combine).

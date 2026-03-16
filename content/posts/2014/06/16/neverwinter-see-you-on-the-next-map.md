@@ -2,13 +2,39 @@
 date: '2014-06-16T23:10:32-05:00'
 draft: false
 title: "Neverwinter: See you on the next map!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/06/16/neverwinter-see-you-on-the-next-map/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh3.googleusercontent.com/-j91aI-jQDIU/U5-PpbKJ8FI/AAAAAAAAvMc/755vTsYxsZQ/w712-h570-no/GameClient+2014-06-16+20-45-21-07.jpg"
-cover: "https://lh3.googleusercontent.com/-j91aI-jQDIU/U5-PpbKJ8FI/AAAAAAAAvMc/755vTsYxsZQ/w712-h570-no/GameClient+2014-06-16+20-45-21-07.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-j91aI-jQDIU/U5-PpbKJ8FI/AAAAAAAAvMc/755vTsYxsZQ/w712-h570-no/GameClient+2014-06-16+20-45-21-07.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Felling the Forgemaster](https://lh3.googleusercontent.com/-j91aI-jQDIU/U5-PpbKJ8FI/AAAAAAAAvMc/755vTsYxsZQ/w712-h570-no/GameClient+2014-06-16+20-45-21-07.jpg)

@@ -2,10 +2,27 @@
 date: '2010-08-09T21:38:51-05:00'
 draft: false
 title: "Star Trek Online: Fluid Dynamics (spoilers!)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/08/09/star-trek-online-fluid-dynamics-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Episode"
   - "Fluid Dynamics"
   - "Fluidic Space"
@@ -13,7 +30,16 @@ tags:
   - "Starfleet"
   - "Undine"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg "Looking for a stable portal")

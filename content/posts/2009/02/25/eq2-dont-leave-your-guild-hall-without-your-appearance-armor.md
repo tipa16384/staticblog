@@ -2,12 +2,39 @@
 date: '2009-02-25T08:45:57-05:00'
 draft: false
 title: "EQ2: Don't leave your guild hall without your appearance armor!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/25/eq2-dont-leave-your-guild-hall-without-your-appearance-armor/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-22-23-56-36-63.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-22-23-56-36-63.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-22-23-56-36-63.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's been a long time since I peeked beneath Dina's appearance armor to see what all that cool stuff looks like. I'd gotten the TSO Tier 1 armor crafting book from a crafting mission Kasul and I duoed, and so was making TSO armor like crazy to fill up some gaping holes in my outfit.

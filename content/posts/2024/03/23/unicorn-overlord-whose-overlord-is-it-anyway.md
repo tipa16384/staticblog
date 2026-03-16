@@ -2,20 +2,44 @@
 date: '2024-03-23T10:03:57-05:00'
 draft: false
 title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "After playing through this amazing real-time tactics RPG, the only question I hadn't answered was... were we the baddies all the time?"
-categories:
+description: "After playing through this amazing real-time tactics RPG, the only question I hadn't answered was... were we the baddies all the time?"
+tags:
   - "PS5"
   - "Tactical RPG"
   - "Tactics"
   - "Unicorn Overlord"
-tags:
   - "Final Fantasy Tactics"
   - "Ogre Battle"
   - "RPG"
-  - "Tactics"
   - "Tactics Ogre"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Unicorn Overlord was just dropped into my lap out of the blue. Well, out of my boyfriend's hands, I guess. I was playing Palworld when it happened. "I thought you might like playing this more than Palworld," he said, having just opened one of those distinctive plastic Amazon envelopes.

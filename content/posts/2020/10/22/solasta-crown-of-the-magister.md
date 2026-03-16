@@ -2,9 +2,26 @@
 date: '2020-10-22T08:03:52-05:00'
 draft: false
 title: "Solasta: Crown of the Magister"
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/22/solasta-crown-of-the-magister/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "5e"
   - "Crown of the Magister"
   - "D&d"
@@ -12,7 +29,16 @@ tags:
   - "Solasta"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/20201022065807_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/20201022065807_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/20201022065807_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This game flew entirely under my radar, but maybe it's the Dungeons & Dragons 5e-compliant tactical RPG we need right now. Coming out at almost the same time the Baldur's Gate 3 D&D 5e-compliant game was released to Steam early access, you can't help but compare them. Like when "Volcano!" and "Dante's Inferno" came out at the same time, or "Armageddon" and "That Other Giant Asteroid Hitting the Earth Movie" I can't remember. ("Deep Impact". Thanks, Google.)

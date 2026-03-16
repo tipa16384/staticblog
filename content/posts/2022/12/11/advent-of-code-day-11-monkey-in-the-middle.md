@@ -2,10 +2,26 @@
 date: '2022-12-11T17:52:42-05:00'
 draft: false
 title: "Advent of Code Day 11 -- Monkey in the Middle"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/11/advent-of-code-day-11-monkey-in-the-middle/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I thought this was just a puzzle to see if I knew about modulo arithmetic... but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?"
-categories:
-  - "Advent of Code"
+description: "I thought this was just a puzzle to see if I knew about modulo arithmetic... but then it turned into a puzzle about VERY LARGE NUMBERS! Also, why do I bother with Java?"
 tags:
+  - "Advent of Code"
   - "Advent"
   - "Clojure"
   - "Java"
@@ -13,7 +29,16 @@ tags:
   - "Lua"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-11-16.50.33-A-woman-wearing-a-Christmas-hat-staring-at-a-monkey-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This puzzle is the first one where I had to sit and think about the puzzle solution. Well, not really about what the solution was about -- but how to get it to return the answer before the Earth falls into the Sun.

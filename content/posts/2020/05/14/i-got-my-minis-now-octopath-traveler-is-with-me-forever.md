@@ -2,14 +2,40 @@
 date: '2020-05-14T22:49:22-05:00'
 draft: false
 title: "I got my minis: Now Octopath Traveler is with me forever."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/14/i-got-my-minis-now-octopath-traveler-is-with-me-forever/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Miniatures"
   - "Nintendo Switch"
-tags:
   - "Hero Forge"
   - "Octopath Traveler"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/minis-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/minis-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/minis-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It wasn't super long ago that I ordered these minis from [Hero Forge](https://www.heroforge.com/). I'd backed their latest Kickstarter and had a color mini as a reward. I didn't really have an idea what mini I'd want to make, but I was pretty sure I'd think of something.

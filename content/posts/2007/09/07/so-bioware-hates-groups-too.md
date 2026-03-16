@@ -2,9 +2,38 @@
 date: '2007-09-07T09:47:36-05:00'
 draft: false
 title: "So, Bioware hates groups, too?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/09/07/so-bioware-hates-groups-too/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 JoBildo [reposted a summary](http://bildos.blogspot.com/2007/09/biowares-walton-on-making-mmos-in-post.html) of a talk given by Gordon Watson, co-director of Bioware, at GDC Austin. Work blocks Gamasutra, so I couldn't get this from the source. Watson's talk was about the lessons learned from the World of Warcraft.

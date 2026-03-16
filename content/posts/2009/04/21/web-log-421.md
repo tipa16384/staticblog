@@ -2,7 +2,25 @@
 date: '2009-04-21T08:07:47-05:00'
 draft: false
 title: "Web Log 4/21"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/21/web-log-421/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "Daily Blogroll"
   - "Darkfall"
@@ -13,7 +31,16 @@ categories:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/frstationaccess-480x64.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/frstationaccess-480x64.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/frstationaccess-480x64.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 As near as I can tell, nearly 900 people came to this blog yesterday just to name the Marleybone builder turtle in Wizard 101. That's fantastic! There's still a bunch of time left, and as long as the contest is going, there's going to be a big button over there on the right leading to the post since, this being a blog, stuff scrolls off the front page almost immediately, and the [Name the Turtles contest](https://chasingdings.com/index.php/2009/04/20/wizard-101-name-the-turtles/) is already buried under THIS post, and a long, long comic about two hobbits discussing how cool a X Files MMO would totally be.

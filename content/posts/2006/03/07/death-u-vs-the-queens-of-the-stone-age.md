@@ -2,8 +2,37 @@
 date: '2006-03-07T00:00:00-05:00'
 draft: false
 title: "Death 2 U vs the Queens of the Stone Age"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/03/07/death-u-vs-the-queens-of-the-stone-age/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I took my fictional metal band, Death 2 U, on stage last night. Packed stadium. Roaring crowd. Wetting-their-pants crazy to see us, just last week an unknown band playing in someone's basement, cover Queens of the Stone Age's "No One Knows".

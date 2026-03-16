@@ -2,19 +2,44 @@
 date: '2008-10-01T12:00:35-05:00'
 draft: false
 title: "W101: Krokosphinx and October 1 patch notes"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/01/w101-krokosphinx-and-october-1-patch-notes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Krokosphinx"
   - "Krokotopia"
   - "Patch Notes"
   - "Temple of Storm"
   - "The Map Room"
   - "W101"
-  - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg "wizardgraphicalclient-2008-10-01-00-34-18-86")

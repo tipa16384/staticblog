@@ -2,11 +2,38 @@
 date: '2015-09-26T09:52:54-05:00'
 draft: false
 title: "Vindicated!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/09/26/vindicated/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-21-21-21-32-15.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-21-21-21-32-15.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-21-21-21-32-15.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-21-21-21-32-15.jpg" title="Steps of Faith took a couple of tries" class="align-center" >}}

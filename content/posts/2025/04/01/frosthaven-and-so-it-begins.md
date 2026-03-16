@@ -2,14 +2,40 @@
 date: '2025-04-01T08:00:00-05:00'
 draft: false
 title: "Game Night: Frosthaven! And So It Begins..."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/04/01/frosthaven-and-so-it-begins/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "After a few years on the shelf, we're finally playing Frosthaven. It's pretty different from Gloomhaven; could be a real challenge."
-categories:
+description: "After a few years on the shelf, we're finally playing Frosthaven. It's pretty different from Gloomhaven; could be a real challenge."
+tags:
   - "3D Printing"
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/1-IMG_5048-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/03/1-IMG_5048-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/03/1-IMG_5048-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We finished Gloomhaven about five years ago, and Jaws of the Lion about three years ago. Aside from the solo mini box, *Buttons & Bugs*, we hadn’t gone Gloomhavening for quite some time. I backed the *Frosthaven* Kickstarter fully expecting we’d play it as soon as it arrived, but there was a bit of malaise around the Haven games at the time, and we decided as a group to try other games -- Skyrim, Jurassic World, Tales from the Loop and so on.

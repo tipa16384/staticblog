@@ -2,15 +2,40 @@
 date: '2024-09-10T07:00:00-05:00'
 draft: false
 title: "The Utter Insanity of Nemesis"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/10/the-utter-insanity-of-nemesis/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Survivors face escalating dangers aboard a doomed starship in the final game of Nemesis."
-categories:
+description: "Survivors face escalating dangers aboard a doomed starship in the final game of Nemesis."
+tags:
   - "Game Night"
   - "Nemesis"
   - "Tabletop Games"
-tags:
   - "Alien"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/nemesis-header.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/nemesis-header.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/nemesis-header.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This was it, our last night on that doomed starship drifting far from any stars. One last hyperjump to safety.

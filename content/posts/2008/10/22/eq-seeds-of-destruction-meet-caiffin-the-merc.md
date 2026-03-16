@@ -2,15 +2,41 @@
 date: '2008-10-22T00:53:11-05:00'
 draft: false
 title: "EQ: Seeds of Destruction: Meet Caiffin, the Merc."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/22/eq-seeds-of-destruction-meet-caiffin-the-merc/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Hirelings"
   - "Seeds of Destruction"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg "eqgame-2008-10-21-22-24-23-12")

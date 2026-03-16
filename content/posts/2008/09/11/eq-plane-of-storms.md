@@ -2,17 +2,43 @@
 date: '2008-09-11T08:32:16-05:00'
 draft: false
 title: "EQ: Plane of Storms"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/11/eq-plane-of-storms/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Berserker Epic"
   - "Dagnor's Cauldron"
   - "Plane of Storms"
   - "Warsliks Woods"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg "eqgame-2008-09-05-20-38-19-75")

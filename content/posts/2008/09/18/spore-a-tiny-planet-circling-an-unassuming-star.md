@@ -2,15 +2,41 @@
 date: '2008-09-18T14:00:58-05:00'
 draft: false
 title: "Spore: a tiny planet circling an unassuming star"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/18/spore-a-tiny-planet-circling-an-unassuming-star/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Other Games"
   - "Spore"
-tags:
   - "Earth"
   - "Grox"
   - "Puppeteers"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was exploring further up the galactic arm that is home to my main system, when after a small gap in the arm (easily bridged by Interstellar Drive 5), I came across a small T1 planet circling a yellow star...

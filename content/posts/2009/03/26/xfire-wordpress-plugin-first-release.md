@@ -2,13 +2,41 @@
 date: '2009-03-26T23:53:14-05:00'
 draft: false
 title: "XFire Wordpress Plugin -- first release"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/26/xfire-wordpress-plugin-first-release/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "My Work"
-tags:
   - "Plugin"
   - "Wordpress"
   - "Xfire"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Announcing the [XFire Stats Wordpress Plugin](https://chasingdings.com/wp-content/uploads/2009/03/xfirestats.zip). This plugin adds a widget that you can place on the sidebar of your Wordpress blog to show your gaming stats for the past week -- the title and time spent, sorted by decreasing time.

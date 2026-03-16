@@ -2,14 +2,39 @@
 date: '2025-10-28T07:00:00-05:00'
 draft: false
 title: "Malifaux 4e: Rasputina vs Seamus"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/10/28/malifaux-4e-rasputina-vs-seamus/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I showed this to my opponent. \"Look, snipers, on a rooftop, in a book depository, shooting a VIP and his partner? No?\" Nope. Meant nothing to him."
-categories:
+description: "I showed this to my opponent. \"Look, snipers, on a rooftop, in a book depository, shooting a VIP and his partner? No?\" Nope. Meant nothing to him."
+tags:
   - "Malifaux"
   - "Tabletop Games"
-tags:
   - "Pack Rat Gaming"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/1-IMG_5451-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/10/1-IMG_5451-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/10/1-IMG_5451-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It was the third and last battle of the Malifaux league; we'll have a tournament to decide it all in a couple of weeks.

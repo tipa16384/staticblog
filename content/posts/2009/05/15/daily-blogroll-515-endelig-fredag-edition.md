@@ -2,7 +2,25 @@
 date: '2009-05-15T07:47:07-05:00'
 draft: false
 title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Age of Conan"
   - "Daily Blogroll"
   - "EverQuest"
@@ -15,7 +33,16 @@ categories:
   - "Vanguard"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/clangreenscaledragon.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/clangreenscaledragon.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/clangreenscaledragon.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![Clan of the Dire Bear needs you! http://a-dire-bear.mybrute.com](https://chasingdings.com/wp-content/uploads/2009/05/clangreenscaledragon.jpg "Clan of the Dire Bear needs you! http://a-dire-bear.mybrute.com")](http://a-dire-bear.mybrute.com)

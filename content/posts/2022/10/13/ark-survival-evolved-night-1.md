@@ -2,14 +2,40 @@
 date: '2022-10-13T08:20:29-05:00'
 draft: false
 title: "Ark: Survival Evolved -- Night 1"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/10/13/ark-survival-evolved-night-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Ark Survival Evolved"
   - "PS5"
   - "Survival"
-tags:
   - "Playstation Plus"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/10/black.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/10/black.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/10/black.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 PlayStation Plus offered Ark: Survival Evolved last spring, but I only got intrigued enough to give it a try when I saw a friend tweeting about. I just had to see what it was all about -- Valheim, but with dinosaurs?

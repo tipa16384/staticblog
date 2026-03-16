@@ -2,7 +2,25 @@
 date: '2009-08-11T07:34:45-05:00'
 draft: false
 title: "Daily Blogroll 8/11 -- Cataclysm edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/08/11/daily-blogroll-811/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "Daily Blogroll"
   - "Guild Wars"
@@ -11,7 +29,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Gnome conga line](https://chasingdings.com/wp-content/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg "Gnome conga line")

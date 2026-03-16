@@ -2,14 +2,40 @@
 date: '2020-06-20T11:20:03-05:00'
 draft: false
 title: "EverQuest: Third Wave Adventuring in Unrest"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/06/20/everquest-third-wave-adventuring-in-unrest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Aradune"
   - "TLP"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It struck me last night, as I was pulling Unrest for our fireplace room group, that it was the experience of taking a camp and pulling mobs to it for the group to kill -- probably EverQuest's core gameplay -- is precisely the gameplay feature that no other MMO has valued enough to include in their game.

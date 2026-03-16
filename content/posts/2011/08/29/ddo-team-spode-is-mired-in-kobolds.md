@@ -2,13 +2,39 @@
 date: '2011-08-29T06:23:08-05:00'
 draft: false
 title: "DDO: Team Spode is Mired in Kobolds"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/08/29/ddo-team-spode-is-mired-in-kobolds/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-28-22-51-21-03-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-28-22-51-21-03-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-28-22-51-21-03-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-28-22-51-21-03-480x383.jpg" title="Varath the Unloved" class="align-center" >}}

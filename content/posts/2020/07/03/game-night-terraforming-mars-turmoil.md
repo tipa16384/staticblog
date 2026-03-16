@@ -2,12 +2,39 @@
 date: '2020-07-03T19:24:22-05:00'
 draft: false
 title: "Game Night: Terraforming Mars (Turmoil)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/07/03/game-night-terraforming-mars-turmoil/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1710.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1710.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1710.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Back in the Before Times, when we only had a small number of board games, Game Night would rotate between Magic the Gathering, Vast and Terraforming Mars. Now we have dozens of games to play, but Terraforming Mars is still on our rotation.

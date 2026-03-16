@@ -2,15 +2,41 @@
 date: '2025-04-29T08:00:00-05:00'
 draft: false
 title: "Frosthaven Scenario #1: Town in Flames"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/04/29/frosthaven-scenario-1-town-in-flames/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Having completed the tutorial scenario and let a month pass before schedules matched up again, we finally started Frosthaven for reals."
-categories:
+description: "Having completed the tutorial scenario and let a month pass before schedules matched up again, we finally started Frosthaven for reals."
+tags:
   - "3D Printing"
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/04/IMG_5077-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/04/IMG_5077-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/04/IMG_5077-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It seemed like we were never going to get a Monday night game going again. Kids would have stuff to go to. There was car trouble. Calamities would happen. Last night, it was going to happen. **It was GOING TO HAPPEN.**

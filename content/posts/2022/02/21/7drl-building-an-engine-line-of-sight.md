@@ -2,10 +2,37 @@
 date: '2022-02-21T08:07:58-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Line of Sight"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/02/21/7drl-building-an-engine-line-of-sight/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/trinketamulet.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/02/trinketamulet.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/02/trinketamulet.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 NPCs don't want to hit their allies while they are attacking you with ranged attacks. Some objects in the room can block them as well -- and using the objects in the room to deal with larger swarms of enemies will be an important strategy in the actual game. Today we go over the line of sight algorithm.

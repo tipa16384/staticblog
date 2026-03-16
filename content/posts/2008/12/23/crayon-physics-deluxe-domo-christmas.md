@@ -2,13 +2,40 @@
 date: '2008-12-23T07:50:19-05:00'
 draft: false
 title: "Crayon Physics Deluxe & DOMO Christmas"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/12/23/crayon-physics-deluxe-domo-christmas/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Crayon Physics Deluxe"
   - "Dream of Mirror Online"
   - "MMORPG"
   - "Other Games"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/crayon-2008-12-22-22-40-17-88.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/12/crayon-2008-12-22-22-40-17-88.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/12/crayon-2008-12-22-22-40-17-88.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/12/crayon-2008-12-22-22-40-17-88.jpg "crayon-2008-12-22-22-40-17-88")

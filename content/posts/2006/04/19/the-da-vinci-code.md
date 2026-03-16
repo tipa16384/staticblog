@@ -2,8 +2,37 @@
 date: '2006-04-19T00:00:00-05:00'
 draft: false
 title: "The Da Vinci Code"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/04/19/the-da-vinci-code/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Sci Fi"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Being sick has been a great opportunity to catch up on my reading. And I've been wanting to get into Dan Brown's "The Da Vinci Code" for a long time. For one thing, he's from my home state of New Hampshire, so that puts him right up there with my other favorite New Hampshire novelists, like John Irving, ____, ____, and ummm _____... okay I can't think of any others.

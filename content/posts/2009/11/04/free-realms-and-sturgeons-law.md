@@ -2,9 +2,38 @@
 date: '2009-11-04T08:01:08-05:00'
 draft: false
 title: "Free Realms and Sturgeon's Law"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/11/04/free-realms-and-sturgeons-law/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Free Realms"
   - "MMORPG"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 In 1958, noted science fiction author Theodore Sturgeon wrote that [90% of science fiction was crud](http://en.wikipedia.org/wiki/Sturgeon%27s_Law), which was generalized and explained that **90% of EVERYTHING is crud**.

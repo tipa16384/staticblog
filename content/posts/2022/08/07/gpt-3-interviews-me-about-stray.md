@@ -2,19 +2,44 @@
 date: '2022-08-07T09:45:49-05:00'
 draft: false
 title: "GPT-3 interviews me about Stray."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/07/gpt-3-interviews-me-about-stray/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "For a game where AIs rule the world, I thought it would be fun to ask an AI to interview me about my experiences playing \"Stray\"..."
-categories:
+description: "For a game where AIs rule the world, I thought it would be fun to ask an AI to interview me about my experiences playing \"Stray\"..."
+tags:
   - "Cats"
   - "PS5"
   - "Puzzles"
   - "RPG"
   - "Video Game"
-tags:
   - "AI"
   - "Gpt-3"
   - "Stray"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/Stray_20220806152752-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/Stray_20220806152752-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/Stray_20220806152752-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I thought it would be fun, with my focus this month on using AI tools for blogging, to have GPT-3 interview *me* about my experiences playing the recently released cat adventure, Stray. What follows is the unedited transcript. I have to keep prompting it to stop it from trying to complete both sides of the interview.

@@ -2,15 +2,41 @@
 date: '2008-11-19T09:56:12-05:00'
 draft: false
 title: "Chronicles of Spellborn pushed back to January"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/19/chronicles-of-spellborn-pushed-back-to-january/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
-tags:
   - "Acclaim"
   - "Big Surprise"
   - "Same Old Same Old"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/tcosbeta.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/tcosbeta.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/tcosbeta.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/11/tcosbeta.jpg "tcosbeta")I don't think that anyone is really surprised by this, but [Massively](http://www.massively.com/) reports that the launch of Chronicles of Spellborn in North America, UK, Oz, NZ and South Africa has been [pushed back to January](http://www.massively.com/2008/11/19/spellborn-american-launch-date-pushed-back-closed-beta-starts-t/).

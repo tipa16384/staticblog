@@ -2,12 +2,39 @@
 date: '2013-04-24T06:54:28-05:00'
 draft: false
 title: "EQ Next: Storybricks to provide AI to SOE's next game"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/04/24/eq-next-storybricks-to-provide-ai-to-soes-next-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "Everquest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/04/shrubbery-480x343.png"
-cover: "https://chasingdings.com/wp-content/uploads/2013/04/shrubbery-480x343.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/04/shrubbery-480x343.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/shrubbery-480x343.png" title="This is NOT EQ Next. Obviously." class="align-center" >}}

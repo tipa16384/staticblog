@@ -2,9 +2,26 @@
 date: '2020-04-27T11:17:00-05:00'
 draft: false
 title: "Favorite Game Series #4: Portal"
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/04/27/favorite-game-series-4-portal/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "J.k.simmons"
   - "Narbacular Drop"
   - "Old Man Murray"
@@ -12,7 +29,16 @@ tags:
   - "This is a Triumph"
   - "Xkcd"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/turretandcube.png"
-cover: "https://chasingdings.com/wp-content/uploads/2020/04/turretandcube.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/04/turretandcube.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/turretandcube.png" title="My little desk friends." >}}

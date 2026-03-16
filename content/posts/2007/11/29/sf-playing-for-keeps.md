@@ -2,12 +2,39 @@
 date: '2007-11-29T12:45:23-05:00'
 draft: false
 title: "SF: Playing for Keeps"
-categories:
-  - "Sci Fi"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/29/sf-playing-for-keeps/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Sci Fi"
   - "Mur Lafferty"
   - "Playing for Keeps"
-  - "Sci Fi"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I don't game all the time, though you wouldn't know it from this blog. I also enjoy reading, dinking around with 3D renders, playing real instruments (gotta keep my pennywhistle skills up should I find an Irish band without one), writing fiction.... Anyway. I planned awhile back to try and branch out to perhaps other interesting things besides MMOs, but I'm not really sure how to go about it.

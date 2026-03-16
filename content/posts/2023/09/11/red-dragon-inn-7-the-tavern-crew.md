@@ -2,13 +2,38 @@
 date: '2023-09-11T07:42:22-05:00'
 draft: false
 title: "Red Dragon Inn 7: The Tavern Crew"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/11/red-dragon-inn-7-the-tavern-crew/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "We brought four new characters to the table for Game Night. Three of them were a hit. One... didn't get any love."
-categories:
-  - "Game Night"
+description: "We brought four new characters to the table for Game Night. Three of them were a hit. One... didn't get any love."
 tags:
+  - "Game Night"
   - "The Red Dragon Inn"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/RDI7Logo-1024x424-1.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/RDI7Logo-1024x424-1.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/RDI7Logo-1024x424-1.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We brought four new characters to the table for Game Night. Three of them were a hit. One... didn't get any love.

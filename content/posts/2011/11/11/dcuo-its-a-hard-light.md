@@ -2,13 +2,39 @@
 date: '2011-11-11T01:21:45-05:00'
 draft: false
 title: "DCUO: It's a hard light"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/11/11/dcuo-its-a-hard-light/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Google+"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg" title="Tipara, member of the Sinestro Corps" class="align-center" >}}

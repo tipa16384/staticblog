@@ -2,18 +2,43 @@
 date: '2022-07-24T14:58:23-05:00'
 draft: false
 title: "Ogre Battle 64: I am a Person of Lordly Caliber"
-categories:
-  - "Nintendo 64"
-  - "Tactical RPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Nintendo 64"
+  - "Tactical RPG"
   - "Ogre Battle"
   - "Person of Lordly Caliber"
   - "RPG"
   - "Symphony of War"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/danika.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/danika.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/danika.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?

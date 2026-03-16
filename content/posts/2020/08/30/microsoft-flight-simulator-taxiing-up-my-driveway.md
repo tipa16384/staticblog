@@ -2,13 +2,39 @@
 date: '2020-08-30T18:02:22-05:00'
 draft: false
 title: "Microsoft Flight Simulator: Taxiing up my driveway"
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/30/microsoft-flight-simulator-taxiing-up-my-driveway/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "Girls Screaming in Fear"
   - "Microsoft Flight Simulator"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/20200830170238_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/20200830170238_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/20200830170238_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've looked and looked and can't find out where Microsoft ever *officially* said that you would be able to find your house in its world-spanning flight simulator, but it sure as heck looks like every other review of the game mentions that.

@@ -2,9 +2,38 @@
 date: '2010-01-11T18:18:01-05:00'
 draft: false
 title: "Star Trek Online: Congratulations, Lieutenant!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/01/11/star-trek-online-congratulations-lieutenant/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've just learned that Star Trek Online is now in Open Beta! The weekend closed beta patch is being backed out, I guess it wasn't stable enough. There will be a less sweeping patch before Open Beta goes live. The title of this post is an in-joke referring to the odd, unexplained times when Leonard Nimoy's voice would pop out of the speaker with his heartfelt congratulations.

@@ -2,9 +2,38 @@
 date: '2006-07-28T16:24:42-05:00'
 draft: false
 title: "Dead Like Me, Eureka, Who Wants to be a Superhero?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/07/28/dead-like-me-eureka-who-wants-to-be-a-superhero/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Eureka"
   - "Sci Fi"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm kinda actually enjoying the SciFi channel now and then. Since I have a [reliable way to see TV listings](http://tv.yahoo.com/grid), I can deftly avoid accidentally tuning into Stargate - it used to be "all Stargate, all the time", and I just can't watch that show.

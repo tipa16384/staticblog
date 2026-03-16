@@ -2,16 +2,41 @@
 date: '2023-09-04T16:21:26-05:00'
 draft: false
 title: "Retro World Find: Othello World"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/04/retro-world-find-othello-world/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This Othello game for the Super Famicom is funny and surprisingly challenging."
-categories:
+description: "This Othello game for the Super Famicom is funny and surprisingly challenging."
+tags:
   - "Strategy"
   - "Super Nintendo"
-tags:
   - "Board Game"
   - "Othello"
   - "Retro World Expo"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/Screenshot-2023-09-04-162409.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/Screenshot-2023-09-04-162409.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/Screenshot-2023-09-04-162409.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I picked up a few Super Famicom (AKA Super Nintendo outside Japan) games at Retro World Expo a few weeks back, and am only now getting into them.

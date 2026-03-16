@@ -2,16 +2,42 @@
 date: '2020-08-14T07:23:35-05:00'
 draft: false
 title: "Game Night: Gloomhaven, Jaws of the Lion"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/14/game-night-gloomhaven-jaws-of-the-lion/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Game Night"
   - "Gloomhaven"
   - "Miniatures"
   - "Tabletop Games"
-tags:
   - "Jaws of the Lion"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1822.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1822.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1822.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Finally, finally, FINALLY! All the work Tom and I have been doing in printing and painting miniatures and dungeon parts paid off last night as we finally sat down to play the first two scenarios in Gloomhaven: Jaws of the Lion.

@@ -2,16 +2,41 @@
 date: '2021-04-02T07:21:43-05:00'
 draft: false
 title: "Valheim: National No More Bosses Day"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/04/02/valheim-national-no-more-bosses-day/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I probably should have waited one more day to blog about Valheim, as last night we took down the Goblin King, Yagluth, in an epic fight."
-categories:
+description: "I probably should have waited one more day to blog about Valheim, as last night we took down the Goblin King, Yagluth, in an epic fight."
+tags:
   - "Steam Games"
   - "Survival"
   - "Valheim"
-tags:
   - "Steam"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/04/20210401223728_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/04/20210401223728_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/04/20210401223728_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I told everyone that Moder was enough for me. Killing her got us the best crafting, while the Plains boss, Yagluth, wouldn't particularly help us in any way, were we to kill him. Kasul was frankly against the idea -- he'd read that once Yagluth dies, the goblin Fulings would start spawning in the relatively friendly Meadows and Black Forest biomes, and suggested we'd probably need to start in a new world where the worst we'd have to worry about would be weak Greylings and boars.

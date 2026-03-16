@@ -2,11 +2,38 @@
 date: '2010-07-06T06:34:48-05:00'
 draft: false
 title: "Fantasy Earth Zero Blogfail: Under the Radar"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/07/06/fantasy-earth-zero-blogfail-under-the-radar/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Fantasy Earth Zero"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg "My Fantasy Earth Zero character")

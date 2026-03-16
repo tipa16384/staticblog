@@ -2,17 +2,43 @@
 date: '2024-06-10T07:00:00-05:00'
 draft: false
 title: "SacriFire: A love letter to the golden age of JRPGS"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/06/10/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Action RPG"
   - "Kickstarter"
   - "Steam Games"
-tags:
   - "Jrpg"
   - "Sacrifire"
   - "Vagrant Story"
   - "Xenogears"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Pixelated Milk's new game in development, SacriFire, dropped their open playtest this weekend. This is the first time that even the game's Kickstarter backers have been able to play the game, and... this game isn't what I expected.

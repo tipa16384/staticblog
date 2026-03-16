@@ -2,11 +2,38 @@
 date: '2015-09-08T22:19:36-05:00'
 draft: false
 title: "Sifting Shiva"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/09/08/sifting-shiva/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Final Fantasy"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/1-vlcsnap-2015-09-08-07h00m21s189.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/09/1-vlcsnap-2015-09-08-07h00m21s189.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/09/1-vlcsnap-2015-09-08-07h00m21s189.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-vlcsnap-2015-09-08-07h00m21s189.jpg" title="Shiva Awakens" class="align-center" >}}

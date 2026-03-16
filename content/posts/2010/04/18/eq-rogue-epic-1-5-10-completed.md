@@ -2,11 +2,38 @@
 date: '2010-04-18T10:17:38-05:00'
 draft: false
 title: "EQ: Rogue Epic 1.5 10% completed!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/04/18/eq-rogue-epic-1-5-10-completed/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/eqgame-2010-04-17-21-43-08-94.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/04/eqgame-2010-04-17-21-43-08-94.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/04/eqgame-2010-04-17-21-43-08-94.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 After about a month of occasional work on it, I've completed the first task in my Rogue 1.5 epic. In that same time, I've gained 10 levels, from 71 to 81... This portion of the epic requires, for no really good reason, that the rogue master several trade skills. The first: cooking, which also required some skill in fishing, smithing, pottery and brewing. Thankfully, I had a character who is decent at tradeskills; back when I first started EQ in 1999, I had this idea that tradeskills could make me rich. I found out eventually that if tradeskills could make me rich, then being poor was okay with me. Such a mind-numbing -- and expensive -- grind. My then-main at the time, the halfling druid Etha, came away with decent skills in all the needed trades, so she handled the non-cooking parts of this first task.

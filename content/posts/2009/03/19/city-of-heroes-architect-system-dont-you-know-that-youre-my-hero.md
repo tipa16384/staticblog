@@ -2,14 +2,40 @@
 date: '2009-03-19T07:45:35-05:00'
 draft: false
 title: "City of Heroes Architect system: Don't you know that you're my hero?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/19/city-of-heroes-architect-system-dont-you-know-that-youre-my-hero/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "MMORPG"
-tags:
   - "Architect"
   - "Issue 14"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's the wave of the future. No, it's not the wave of the future. Handing the level making tools to the players is the wave of the past, and it's made game after game stick around for years past the "sell by" date. Half Life, Warcraft III, Unreal 2... It doesn't take a genius to see that tapping the boundless enthusiasm and creativity of your players can be a *good thing*.

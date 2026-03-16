@@ -2,18 +2,43 @@
 date: '2022-11-21T11:26:25-05:00'
 draft: false
 title: "Dive into the world of Tactics Ogre with this remake of a classic"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/11/21/dive-into-the-world-of-tactics-ogre-with-this-remake-of-a-classic/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The original Tactics Ogre returns, updated and improved for a new generation. Any fan of tactical strategy games like Fire Emblem or Final Fantasy Tactics should really take a look at the game that inspired them all."
-categories:
+description: "The original Tactics Ogre returns, updated and improved for a new generation. Any fan of tactical strategy games like Fire Emblem or Final Fantasy Tactics should really take a look at the game that inspired them all."
+tags:
   - "PS5"
   - "Strategy"
   - "Tactics"
   - "Video Game"
-tags:
   - "Final Fantasy Tactics"
   - "Fire Emblem"
   - "Tactics Ogre"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/11/1-Tactics-Ogre_-Reborn_20221121083341-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2022/11/1-Tactics-Ogre_-Reborn_20221121083341-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/11/1-Tactics-Ogre_-Reborn_20221121083341-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Tactics Ogre Reborn is a remake of 2010's PlayStation Portable release of Tactics Ogre: Wheel of Fortune, itself a remake of an earlier release for the Super Famicon (Tactics Ogre: Let Us Cling Together) that was later ported to the PlayStation and the Sega Saturn. This is a game that's been around for a long time, but has been overshadowed in the West by its more famous cousins, Final Fantasy Tactics and the Fire Emblem series.

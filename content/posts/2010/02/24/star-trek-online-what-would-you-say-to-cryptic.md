@@ -2,11 +2,38 @@
 date: '2010-02-24T08:04:39-05:00'
 draft: false
 title: "Star Trek Online: What would you say to Cryptic?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/02/24/star-trek-online-what-would-you-say-to-cryptic/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-24-06-55-51-65.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-24-06-55-51-65.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-24-06-55-51-65.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-24-06-55-51-65.jpg "Surveys sent right to the ship!")

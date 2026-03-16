@@ -2,11 +2,38 @@
 date: '2009-10-13T07:06:25-05:00'
 draft: false
 title: "Wizard101: Straight outta Marleybone"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/10/13/wizard101-straight-outta-marleybone/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-12-23-36-21-74.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-12-23-36-21-74.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-12-23-36-21-74.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Outside Marleybone](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-12-23-36-21-74.jpg "Outside Marleybone")

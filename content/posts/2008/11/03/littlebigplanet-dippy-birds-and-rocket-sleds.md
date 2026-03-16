@@ -2,16 +2,42 @@
 date: '2008-11-03T08:59:26-05:00'
 draft: false
 title: "LittleBigPlanet: Dippy Birds and Rocket Sleds"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/11/03/littlebigplanet-dippy-birds-and-rocket-sleds/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Littlebigplanet"
   - "Other Games"
-tags:
   - "Dippy Birds"
   - "Jurassic Park"
   - "Rocket Sled"
   - "Tanglewood Labs"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/stp61427.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/11/stp61427.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/11/stp61427.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/11/stp61427.jpg "stp61427")

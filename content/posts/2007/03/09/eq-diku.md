@@ -2,11 +2,38 @@
 date: '2007-03-09T14:39:41-05:00'
 draft: false
 title: "EQ Diku"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/03/09/eq-diku/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/03/diku.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2007/03/diku.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/03/diku.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 EQ and its related games (pretty much every modern MMO) have long been dismissed as nothing but "[DikuMUDs](http://en.wikipedia.org/wiki/DikuMUD) with a graphical interface slapped on top of them".

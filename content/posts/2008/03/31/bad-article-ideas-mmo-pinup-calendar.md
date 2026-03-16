@@ -2,7 +2,25 @@
 date: '2008-03-31T08:05:59-05:00'
 draft: false
 title: "Bad article ideas: MMO Pinup Calendar"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/03/31/bad-article-ideas-mmo-pinup-calendar/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "Dream of Mirror Online"
   - "Dungeon Siege"
@@ -13,7 +31,16 @@ categories:
   - "Vanguard"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/cityofheroes-2008-03-31-00-51-43-33.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/03/cityofheroes-2008-03-31-00-51-43-33.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/03/cityofheroes-2008-03-31-00-51-43-33.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's been a little over a week since I started blogging over at Massively, and while I am really enjoying myself, I think I still have a lot to learn about story ideas. It's all about the page views, right, and what brings in the eyeballs better than our dear old friend, porn. So I suggested this to the editors, and they pretty much informed me that they already had plenty of Second Life coverage, and maybe I could work on this piece about "Shoulder armor through the ages -- how high is too high?".

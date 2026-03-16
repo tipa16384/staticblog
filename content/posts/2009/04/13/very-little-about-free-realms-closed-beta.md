@@ -2,13 +2,39 @@
 date: '2009-04-13T06:50:46-05:00'
 draft: false
 title: "Very little about Free Realms closed beta"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/13/very-little-about-free-realms-closed-beta/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Free Realms"
   - "MMORPG"
-tags:
   - "Closed Beta"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/54755-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/54755-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/54755-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![54755](https://chasingdings.com/wp-content/uploads/2009/04/54755-480x300.jpg "54755")](https://chasingdings.com/wp-content/uploads/2009/04/54755.jpg)

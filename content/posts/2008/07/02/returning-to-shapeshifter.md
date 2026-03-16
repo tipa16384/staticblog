@@ -2,13 +2,41 @@
 date: '2008-07-02T09:31:09-05:00'
 draft: false
 title: "Returning to Shapeshifter"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/02/returning-to-shapeshifter/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Neopets"
   - "Other Games"
-tags:
   - "Meteor Games"
   - "Shapeshifter"
   - "Time Out of Joint"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 With the original [Neopets](http://neopets.com) founders talking up [their new company and their new game](http://www.massively.com/2008/07/02/neopets-founders-announce-a-new-mmo/), I decided to go back and check out how my Xweetok was doing in the older game.

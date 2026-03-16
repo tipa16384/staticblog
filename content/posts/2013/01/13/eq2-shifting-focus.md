@@ -2,11 +2,38 @@
 date: '2013-01-13T10:54:53-05:00'
 draft: false
 title: "EQ2: Shifting Focus"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/01/13/eq2-shifting-focus/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-13-00-17-16-22-480x299.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-13-00-17-16-22-480x299.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-13-00-17-16-22-480x299.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-13-00-17-16-22-480x299.jpg" title="Epic!" class="align-center" >}}

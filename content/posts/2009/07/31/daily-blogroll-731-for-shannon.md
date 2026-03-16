@@ -2,7 +2,25 @@
 date: '2009-07-31T07:59:32-05:00'
 draft: false
 title: "Daily Blogroll 7/31 -- For Shannon"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/07/31/daily-blogroll-731-for-shannon/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "Daily Blogroll"
   - "EverQuest"
@@ -12,7 +30,16 @@ categories:
   - "Wizard101"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/forzha.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/07/forzha.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/07/forzha.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2009/07/forzha.jpg)

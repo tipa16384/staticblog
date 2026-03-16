@@ -2,11 +2,38 @@
 date: '2007-10-11T09:01:42-05:00'
 draft: false
 title: "EQ2: Case of the Missing Tree"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/10/11/eq2-case-of-the-missing-tree/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/notrunk.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/10/notrunk.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/10/notrunk.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Last night we had low raid attendance (and it was lucky I was even there at all -- I'd just woken up from a drugged sleep... stupid toothache...), so the raid leaders decided to have everyone that was on finish up their Roost access.

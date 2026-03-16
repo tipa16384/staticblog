@@ -2,11 +2,38 @@
 date: '2022-02-15T22:50:18-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Animation"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/02/15/7drl-building-an-engine-animation/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "7DRL"
   - "Rogue-Likes"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Tonight, I made it so my sprites had a walking animation, decided to show all four walls of the room, and found out some things about Trinket I didn't know before. Also, what is a roguelike, anyway? And why not use something like Unity that solves most of the problems I am having?

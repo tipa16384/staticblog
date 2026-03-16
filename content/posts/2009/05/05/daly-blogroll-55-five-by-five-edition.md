@@ -2,7 +2,25 @@
 date: '2009-05-05T07:30:24-05:00'
 draft: false
 title: "Daily Blogroll 5/5 -- Five by Five edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/05/daly-blogroll-55-five-by-five-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "Daily Blogroll"
   - "Darkfall"
@@ -11,6 +29,17 @@ categories:
   - "Other Games"
   - "Spore"
   - "Torchlight"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a gray, rainy day today, perfect time to stay home and game a little.

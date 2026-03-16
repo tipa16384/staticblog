@@ -2,14 +2,38 @@
 date: '2025-11-21T10:19:36-05:00'
 draft: false
 title: "Pokémon Legends: Z-A rolls credits"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/11/21/pokemon-legends-z-a-rolls-credits/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Is the latest entry in the Pokemon series worth buying a Switch 2 to play? Is it important to have played Pokemon X/Y first? These are questions!"
-categories:
+description: "Is the latest entry in the Pokemon series worth buying a Switch 2 to play? Is it important to have played Pokemon X/Y first? These are questions!"
+tags:
   - "Nintendo Switch"
   - "Pokemon"
-tags:
-  - "Pokemon"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I knew going in to Z-A that this was set in the same region as the earlier [*Pokemon X and Y*](https://en.wikipedia.org/wiki/Pok%C3%A9mon_X_and_Y) games. This was great, because I hadn't *played* those games; I'd taken a Poke-break from the series after Pearl/Diamond until I rejoined with *Sword/Shield*. The previous game with the "Legends" moniker, *Pokemon Legends: Arceus*, took place five hundred years before the events of Pearl/Diamond and only featured a couple of characters from that game. I thought there'd be a similar separation here.

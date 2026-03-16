@@ -2,20 +2,46 @@
 date: '2021-10-20T08:26:25-05:00'
 draft: false
 title: "Dragonereum: If NeoPets Cost $7,000"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/10/20/dragonereum-if-neopets-cost-7000/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blockchain"
   - "Browser Game"
   - "Crypto Game"
   - "Cryptokitties"
   - "Dragonereum"
-tags:
   - "Bitcoin"
   - "Coinbase"
   - "Ethereum"
   - "Gas"
   - "Metamask"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/dragon-main-30501377.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/10/dragon-main-30501377.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/10/dragon-main-30501377.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Am I just too stupid to play crypto browser games? Or just too poor?

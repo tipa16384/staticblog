@@ -2,13 +2,40 @@
 date: '2010-10-07T07:06:18-05:00'
 draft: false
 title: "Dungeons & Dragons Online: Adventure by the Bite"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/10/07/dungeons-dragons-online-adventure-by-the-bite/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Dungeons & Dragons Online"
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-06-23-21-52-93.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-06-23-21-52-93.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-06-23-21-52-93.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-06-23-21-52-93.jpg "Standing before the Seal of Shan-ti-kor")

@@ -2,7 +2,25 @@
 date: '2011-10-10T06:00:07-05:00'
 draft: false
 title: "Daily Blogroll Oct 10: Columbus Day edition"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/10/10/daily-blogroll-oct-10-columbus-day-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
   - "Glitch"
@@ -12,7 +30,16 @@ categories:
   - "Star Corsairs"
   - "Web Logging"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/glitch.png"
-cover: "https://chasingdings.com/wp-content/uploads/2011/10/glitch.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/10/glitch.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/glitch.png" title="Creativity can be deadly" class="align-center" >}}

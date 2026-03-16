@@ -2,13 +2,39 @@
 date: '2008-09-13T10:01:17-05:00'
 draft: false
 title: "Hello Kitty Online... yes, it's real."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/13/hello-kitty-online-yes-its-real/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Hello Kitty Online"
   - "MMORPG"
-tags:
   - "Founders Beta"
 featured_image: "http://www.sanriotown.com/login/download/screenshots/HK_02.jpg"
-cover: "http://www.sanriotown.com/login/download/screenshots/HK_02.jpg"
+cover:
+  image: "http://www.sanriotown.com/login/download/screenshots/HK_02.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](http://www.sanriotown.com/login/download/screenshots/HK_02.jpg)

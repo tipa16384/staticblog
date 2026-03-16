@@ -2,18 +2,44 @@
 date: '2008-08-25T01:54:55-05:00'
 draft: false
 title: "Weekend Gaming"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/25/weekend-gaming-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Vanguard"
-tags:
   - "Audiosurf"
   - "Facebook"
   - "Last.fm"
   - "Linkedin"
   - "Xfire"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-24-23-45-52-15.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-24-23-45-52-15.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-24-23-45-52-15.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-24-23-45-52-15.jpg "everquest2-2008-08-24-23-45-52-15")

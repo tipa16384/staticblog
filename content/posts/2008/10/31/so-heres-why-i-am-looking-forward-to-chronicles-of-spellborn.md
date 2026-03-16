@@ -2,11 +2,38 @@
 date: '2008-10-31T01:15:18-05:00'
 draft: false
 title: "So, here's why I am looking forward to Chronicles of Spellborn"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/31/so-heres-why-i-am-looking-forward-to-chronicles-of-spellborn/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/spellborn1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/spellborn1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/spellborn1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/spellborn1.jpg "spellborn1")

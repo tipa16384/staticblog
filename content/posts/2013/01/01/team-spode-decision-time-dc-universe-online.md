@@ -2,11 +2,38 @@
 date: '2013-01-01T09:28:00-05:00'
 draft: false
 title: "Team Spode Decision Time: DC Universe Online"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/01/01/team-spode-decision-time-dc-universe-online/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/DCGame-2013-01-01-08-05-05-76-480x352.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/01/DCGame-2013-01-01-08-05-05-76-480x352.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/01/DCGame-2013-01-01-08-05-05-76-480x352.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/DCGame-2013-01-01-08-05-05-76-480x352.jpg" title="DC Universe Online" class="align-center" >}}

@@ -2,16 +2,41 @@
 date: '2025-08-30T16:49:36-05:00'
 draft: false
 title: "Dune Awakening: We finally got ganked"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/08/30/dune-awakening-we-finally-got-ganked/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Dune: Awakening is a PvP game, and our base was in a PvP area, so it wasn't entirely unexpected..."
-categories:
+description: "Dune: Awakening is a PvP game, and our base was in a PvP area, so it wasn't entirely unexpected..."
+tags:
   - "Blaugust"
   - "Blaugust 2025"
   - "Dune Awakening"
   - "MMORPG"
-tags:
   - "PvP"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/20250830103401_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2025/08/20250830103401_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/08/20250830103401_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Years ago, back in the EverQuest days, I was a guide on the Tallon Zek server. All the "Zek" servers were PvP servers under different rule sets. Rallos Zek was full-on PvP, kill anyone. Tallon Zek grouped the player races into two teams, Team Good and Team Evil. You couldn't attack anyone on your own team, but the other team was fair game. I don't think your teams even shared a language.

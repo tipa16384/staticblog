@@ -2,12 +2,38 @@
 date: '2022-03-04T08:17:29-05:00'
 draft: false
 title: "7DRL: Building an Engine -- I Screwed Up."
-categories:
-  - "7DRL"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/03/04/7drl-building-an-engine-i-screwed-up/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "7DRL"
   - "Tiled"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/7drlfail.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/03/7drlfail.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/03/7drlfail.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I really thought I had more time. I thought I had a *week* to integrate the new Tiled-based map creation tools, and to make a workable combat system. I did not. I am entirely out of time. 7DRL starts tomorrow.

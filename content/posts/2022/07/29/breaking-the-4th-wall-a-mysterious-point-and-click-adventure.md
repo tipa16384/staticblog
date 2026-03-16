@@ -2,11 +2,28 @@
 date: '2022-07-29T08:06:45-05:00'
 draft: false
 title: "Breaking the 4th Wall: A Mysterious Point-and-Click Adventure"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/07/29/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Adventure"
   - "Android"
   - "Comic"
-tags:
   - "11sheep"
   - "80s and 90s"
   - "Adrian"
@@ -23,7 +40,16 @@ tags:
   - "Scott Pilgrim"
   - "Video Cameras"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I ran across this gem by accident, actually -- an AI told me about it.

@@ -2,11 +2,38 @@
 date: '2008-01-12T14:01:09-05:00'
 draft: false
 title: "SF MMOs we'd like to see..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/12/sf-mmos-wed-like-to-see/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "Sci Fi"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/avon.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/01/avon.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/01/avon.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 When Wired ran a story headlined "[Apple Plotting an Avon Power Play](http://www.wired.com/gadgets/mac/commentary/cultofmac/2008/01/cultofmac_0109)", all I could think was, "Damn that Avon! Which side is he ON?". Of course, he's always on *his* side, but then I wondered why they mentioned [Blake's 7](http://en.wikipedia.org/wiki/Blake%27s_7) in a "Cult of Mac" article.

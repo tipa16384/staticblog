@@ -2,13 +2,39 @@
 date: '2014-09-24T19:12:56-05:00'
 draft: false
 title: "Neverwinter: Week 4 Cult Foundry Contest Reviews"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/09/24/neverwinter-week-4-cult-foundry-contest-reviews/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh3.googleusercontent.com/-eObxj77KbRs/VCTfqY4amaI/AAAAAAAA2zc/wJwvDnO9plE/w745-h596-no/GameClient%2B2014-09-23%2B23-09-17-66.jpg"
-cover: "https://lh3.googleusercontent.com/-eObxj77KbRs/VCTfqY4amaI/AAAAAAAA2zc/wJwvDnO9plE/w745-h596-no/GameClient%2B2014-09-23%2B23-09-17-66.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-eObxj77KbRs/VCTfqY4amaI/AAAAAAAA2zc/wJwvDnO9plE/w745-h596-no/GameClient%2B2014-09-23%2B23-09-17-66.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 By my estimates, we’re about halfway through the foundry contest. So far, interest seems to have been generally falling week to week. Three Week 1 entries hold their grip on the prize spots. Since I changed my scoring method to the one (I hope) the devs will use to judge the contest midway through Week 2, the Week 1 entries might have an unfair advantage in my charts… but, we’ll see. Were the best three quests all just randomly in Week 1?

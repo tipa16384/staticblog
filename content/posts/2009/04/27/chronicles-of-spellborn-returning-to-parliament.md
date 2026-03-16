@@ -2,16 +2,42 @@
 date: '2009-04-27T12:00:58-05:00'
 draft: false
 title: "Chronicles of Spellborn: Returning to Parliament"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/27/chronicles-of-spellborn-returning-to-parliament/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Chronicles of Spellborn"
   - "MMORPG"
-tags:
   - "Mines"
   - "Parliament"
   - "Quarterstone"
   - "Sorrowmist"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![sb_client-2009-04-26-20-09-32-00](https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg "sb_client-2009-04-26-20-09-32-00")

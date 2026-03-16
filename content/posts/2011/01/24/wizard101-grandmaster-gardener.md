@@ -2,13 +2,39 @@
 date: '2011-01-24T07:36:38-05:00'
 draft: false
 title: "Wizard101: Grandmaster Gardener"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/01/24/wizard101-grandmaster-gardener/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
-tags:
   - "Gardening"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/WizardGraphicalClient-2011-01-24-07-08-22-05-480x360.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/01/WizardGraphicalClient-2011-01-24-07-08-22-05-480x360.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/01/WizardGraphicalClient-2011-01-24-07-08-22-05-480x360.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2011/01/WizardGraphicalClient-2011-01-24-07-08-22-05-480x360.jpg "Ding!")](https://chasingdings.com/wp-content/uploads/2011/01/WizardGraphicalClient-2011-01-24-07-08-22-05.jpg)

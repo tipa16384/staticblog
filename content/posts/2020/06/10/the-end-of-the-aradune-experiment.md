@@ -2,15 +2,41 @@
 date: '2020-06-10T12:25:38-05:00'
 draft: false
 title: "The End of the Aradune Experiment"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/06/10/the-end-of-the-aradune-experiment/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Aradune"
   - "Mangler"
   - "TLP"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 We absolutely, 100%, gave it our all.

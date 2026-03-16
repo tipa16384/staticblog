@@ -2,16 +2,41 @@
 date: '2021-08-09T17:32:32-05:00'
 draft: false
 title: "FF1: It is the End of Eternity"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/09/ff1-it-is-the-end-of-eternity/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Blaugust"
   - "CRPG"
   - "Final Fantasy"
-tags:
-  - "Blaugust"
   - "Jrpg"
   - "Steam"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/20210809143848_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/20210809143848_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/20210809143848_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 What brought the four Warriors of Light together? From where did they get the crystals of the four primal forces? Who were their families? Where'd they go to school? What foods did they like?

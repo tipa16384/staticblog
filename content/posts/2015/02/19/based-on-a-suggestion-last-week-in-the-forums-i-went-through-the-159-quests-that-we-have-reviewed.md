@@ -2,11 +2,39 @@
 date: '2015-02-19T03:01:31-05:00'
 draft: false
 title: "Weekly Foundry Reviews -- February 18, 2015"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/02/19/based-on-a-suggestion-last-week-in-the-forums-i-went-through-the-159-quests-that-we-have-reviewed/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Based on a suggestion last week in the forums, I went through the 159 quests that we have reviewed (we played many more before I first thought to write about them) and compiled them in a spreadsheet based on the one I kept for the Cult of the Dragon foundry contest.**

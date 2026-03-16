@@ -2,11 +2,38 @@
 date: '2007-03-07T07:55:38-05:00'
 draft: false
 title: "Battlestar Galactica, frame by frame"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/03/07/battlestar-galactica-frame-by-frame/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Battlestar Galactica"
   - "Sci Fi"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/03/bg1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/03/bg1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/03/bg1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 What *really* happened at the end of Battlestar Galactica? Here's a frame-by-frame examination of the last few seconds. It's full of spoilers, so DO NOT read further unless you have seen the episode, "Maelstrom".

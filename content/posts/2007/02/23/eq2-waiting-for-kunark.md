@@ -2,12 +2,39 @@
 date: '2007-02-23T14:55:04-05:00'
 draft: false
 title: "EQ2: Waiting for Kunark"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/02/23/eq2-waiting-for-kunark/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/archers.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/02/archers.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/02/archers.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![archers.jpg](https://chasingdings.com/wp-content/uploads/2007/02/archers.jpg)Rumors have the next EQ2 expansion as "The Rise of Kunark". That's a small surprise; I was expecting them to follow up "Echoes of Faydwer" with another adventure pack, not something as grand as a whole 'nother expansion, especially one that opens the lands that really launched the original EverQuest into MMO history.

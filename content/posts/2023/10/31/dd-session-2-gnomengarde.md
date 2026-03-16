@@ -2,16 +2,41 @@
 date: '2023-10-31T00:19:01-05:00'
 draft: false
 title: "D&D Session 2: Gnomengarde"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/10/31/dd-session-2-gnomengarde/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Our adventuring party -- half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes -- travel to the tunnel city of rock gnomes, Gnomengarde."
-categories:
+description: "Our adventuring party -- half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes -- travel to the tunnel city of rock gnomes, Gnomengarde."
+tags:
   - "Dungeons & Dragons"
   - "Game Night"
-tags:
   - "Gnomengarde"
   - "Gnomes"
   - "Mimic"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/gnomengarde.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/10/gnomengarde.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/10/gnomengarde.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 **Chapter 1: The Dubious Welcome**

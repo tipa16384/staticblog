@@ -2,11 +2,38 @@
 date: '2009-11-02T05:18:16-05:00'
 draft: false
 title: "EVE Online: It's all fun and games until someone loses a Megathron"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/11/02/eve-online-its-all-fun-and-games-until-someone-loses-a-megathron/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EVE Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-10-04-21-34-16-87.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-10-04-21-34-16-87.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-10-04-21-34-16-87.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![In happier times....](https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-10-04-21-34-16-87.jpg "In happier times....")

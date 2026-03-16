@@ -2,12 +2,28 @@
 date: '2024-12-06T08:00:00-05:00'
 draft: false
 title: "Bonaparte: A Mechanized Revolution"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/12/06/bonaparte-a-mechanized-revolution/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs..."
-categories:
+description: "Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs..."
+tags:
   - "Isometric Tactical Strategy"
   - "Tactical RPG"
   - "Tactics"
-tags:
   - "Azure Flame"
   - "Banner of the Maid"
   - "Bonaparte"
@@ -15,7 +31,16 @@ tags:
   - "Spiders"
   - "Studio Imugi"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/Bonaparte-keyart-1080p.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/12/Bonaparte-keyart-1080p.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/12/Bonaparte-keyart-1080p.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 There's something that makes game devs want to tinker with the French Revolution... Azure Flame filled it with Magical Girls in Banner of the Maid. Spiders filled it with robots in Steelrising. Studio Imugi seeks to do them one better by imaging a Paris filled with *giant* robots -- Colossi, fighting for the King, the People, and/or France itself.

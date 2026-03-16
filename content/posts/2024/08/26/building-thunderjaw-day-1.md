@@ -2,17 +2,42 @@
 date: '2024-08-26T07:00:00-05:00'
 draft: false
 title: "Building Thunderjaw — Day 1"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/08/26/building-thunderjaw-day-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together."
-categories:
+description: "My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "Horizon Forbidden West"
-tags:
   - "Lego"
   - "Tallneck"
   - "Thunderjaw"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_0230.jpeg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_0230.jpeg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_0230.jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I’m going on vacation to California this week, so I am trying out writing a blog on my iPad to see how it goes, as I won’t be near my computer when I’m. I *had* a MacBook, but it was stolen. I’ve heard that modern iPads are nearly as capable as an actual laptop. We’ll see.

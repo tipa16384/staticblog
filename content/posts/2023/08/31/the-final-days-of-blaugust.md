@@ -2,8 +2,25 @@
 date: '2023-08-31T07:35:07-05:00'
 draft: false
 title: "The final days of Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/31/the-final-days-of-blaugust/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "...and I'm ending it as I began it..."
-categories:
+description: "...and I'm ending it as I began it..."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
   - "DC Universe Online"
@@ -13,7 +30,16 @@ categories:
   - "Neverwinter"
   - "Second Life"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/solongblaugust.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/solongblaugust.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/solongblaugust.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The first day of Blaugust, I went through what I posted on the first of August through the years. Now I'm going to do the same with the last of August.

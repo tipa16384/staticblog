@@ -2,10 +2,37 @@
 date: '2008-07-11T08:30:10-05:00'
 draft: false
 title: "Innovation in RPGs: An Illustrated History"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/07/11/innovation-in-rpgs-an-illustrated-history/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/advent.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/07/advent.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/07/advent.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Okay, I have looked through the history of MMORPGs trying to find examples of what I'm saying -- and why I am waiting for a new paradigm in MMOs, and why I am not that interested in the various iterations of World of Warcraft.

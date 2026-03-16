@@ -2,12 +2,39 @@
 date: '2006-08-31T11:11:45-05:00'
 draft: false
 title: "Second Life: MUD 2.0"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/08/31/second-life-mud-20/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "My Work"
   - "Second Life"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/tipah.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/08/tipah.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/08/tipah.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Tipa Hawthorne in Second Life](https://chasingdings.com/wp-content/uploads/2006/08/tipah.jpg)An EQ friend, Caldabuse, and I were talking a few years back about what was right and wrong with MMOs. An individual player has no impact on the world, and has the same abilities as everyone else. In fact, conformity is seen as the perfect ideal in the MMO world. We'd both just started playing City of Heroes, which prizes individuality to some extent. But CoH was still just like the other MMOs. The devs plotted out your path, and pretty much all you could do was follow. Success was defined as how closely what you did matched what the devs designed.

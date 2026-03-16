@@ -2,11 +2,38 @@
 date: '2015-02-03T16:13:36-05:00'
 draft: false
 title: "DCUO: Valentine 2015!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/02/03/new-valentines-day-event-for-2015-in-soes-daybreaks-dcuo-in-this-one-tragic-lover-mister-freeze/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://lh3.googleusercontent.com/-u5Fy4Wu21DI/VNDxto7OYrI/AAAAAAAA_rw/wtj4DUTTmrE/w506-h750/DCGame%2B2015-02-02%2B18-16-37-31.jpg"
-cover: "https://lh3.googleusercontent.com/-u5Fy4Wu21DI/VNDxto7OYrI/AAAAAAAA_rw/wtj4DUTTmrE/w506-h750/DCGame%2B2015-02-02%2B18-16-37-31.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-u5Fy4Wu21DI/VNDxto7OYrI/AAAAAAAA_rw/wtj4DUTTmrE/w506-h750/DCGame%2B2015-02-02%2B18-16-37-31.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 New Valentine's Day event for 2015 in ~~SOE's~~ Daybreak's  [#DCUO](https://plus.google.com/s/%23DCUO)  . In this one, tragic lover Mister Freeze has decided to take advantage of the invasion of Metropolis by the Star Sapphires to steal some of their amethyst crystals to power his freeze tech. Hey, cheaper than diamonds.

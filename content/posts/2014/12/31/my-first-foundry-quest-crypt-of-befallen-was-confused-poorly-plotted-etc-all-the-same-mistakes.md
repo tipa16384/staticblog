@@ -2,13 +2,39 @@
 date: '2014-12-31T15:54:57-05:00'
 draft: false
 title: "Neverwinter: Crypt of Befallen redesign started."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/31/my-first-foundry-quest-crypt-of-befallen-was-confused-poorly-plotted-etc-all-the-same-mistakes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
-tags:
   - "Foundry"
 featured_image: "https://lh6.googleusercontent.com/-8h8ChJxTVxY/VKQYpnkeKkI/AAAAAAAA93A/U_BREqbx7K0/w506-h750/GameClient%2B2014-12-31%2B01-02-38-59.jpg"
-cover: "https://lh6.googleusercontent.com/-8h8ChJxTVxY/VKQYpnkeKkI/AAAAAAAA93A/U_BREqbx7K0/w506-h750/GameClient%2B2014-12-31%2B01-02-38-59.jpg"
+cover:
+  image: "https://lh6.googleusercontent.com/-8h8ChJxTVxY/VKQYpnkeKkI/AAAAAAAA93A/U_BREqbx7K0/w506-h750/GameClient%2B2014-12-31%2B01-02-38-59.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My first foundry quest, Crypt of Befallen, was confused, poorly plotted, etc -- all the same mistakes I see made by every first time author. It's embarrassing to have that quest be the entry point to my Adventures in Norrath campaign. I'm sketching ideas for a remake with an entirely custom map, no pre-built rooms.

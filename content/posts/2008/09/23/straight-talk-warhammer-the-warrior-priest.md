@@ -2,17 +2,43 @@
 date: '2008-09-23T08:00:48-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Warrior Priest"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/23/straight-talk-warhammer-the-warrior-priest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
-tags:
   - "Galahad the Brave"
   - "Not Funny"
   - "Warrior Priest"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/galahad.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/galahad.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/galahad.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Do you remember what life was like before Warhammer Online: The Age of Reckoning? I sure can't. Well, sometimes it comes in little bits and pieces... a world where to do a raid or join a group, you had to talk to people, and sometimes, make friends. Brrr. We're all pretty glad THOSE days are over! The exciting new Public Quests and Open Groups and Scenarios keep things nice and anonymous -- just like watching porn in a movie theater! And that is the mastery AND mystery of Mythic's groundbreakingly innovative new MMO that will forever change what we think of, when we think of MMOs -- Warhammer Online: Age of Reckoning.

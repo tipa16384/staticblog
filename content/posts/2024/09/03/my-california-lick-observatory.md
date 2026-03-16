@@ -2,15 +2,40 @@
 date: '2024-09-03T13:58:55-05:00'
 draft: false
 title: "My California: Lick Observatory"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/09/03/my-california-lick-observatory/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "What was once the largest refracting telescope in the world looks out high above Silicon Valley…"
-categories:
-  - "Real Life"
+description: "What was once the largest refracting telescope in the world looks out high above Silicon Valley…"
 tags:
+  - "Real Life"
   - "California"
   - "Lick Observatory"
   - "Telescope"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/IMG_4669-scaled.jpeg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/09/IMG_4669-scaled.jpeg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/09/IMG_4669-scaled.jpeg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 When I used to work at Apple, I’d commute each day from the Monterey area, over Route 17 into the Santa Clara Valley. It was probably around then that I caught a glimpse of the white domes of the Lick Observatory on the other side of the valley.

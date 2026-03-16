@@ -2,11 +2,38 @@
 date: '2011-03-03T07:46:57-05:00'
 draft: false
 title: "Rift: Who am I, this time?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2011/03/03/rift-who-am-i-this-time/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Rift"
 featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-02-00-34-14-98-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-02-00-34-14-98-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-02-00-34-14-98-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-02-00-34-14-98-480x383.jpg" title="Striking a Power Chord in Deepstrike Mines" class="align-center" >}}

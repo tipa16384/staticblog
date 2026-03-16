@@ -2,16 +2,42 @@
 date: '2008-08-01T08:02:50-05:00'
 draft: false
 title: "EQ2: GU47 Dorah stories"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/01/eq2-gu47-dorah-stories/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-tags:
   - "Game Update 47"
   - "Gu47"
   - "Guild Halls"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-07-31-23-41-51-61.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-07-31-23-41-51-61.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-07-31-23-41-51-61.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Game Update 47 went live yesterday, though not without problems for me. I was a little apprehensive about the patch because it had consistently crashed my computer when I was trying to check it out on Test, but I patched (eventually) and logged in fine. Stargrace was after me to get on voice chat, and even after all her detailed, patient instructions, it just didn't work. It would say "You are not in a channel" whenever I pressed the push to talk button, even though I had selected a channel. Midway through the evening, it suddenly began working. No, I don't know why.

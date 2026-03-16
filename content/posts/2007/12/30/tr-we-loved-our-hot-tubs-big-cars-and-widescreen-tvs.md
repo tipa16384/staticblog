@@ -2,11 +2,38 @@
 date: '2007-12-30T12:30:03-05:00'
 draft: false
 title: "TR: We loved our hot tubs, big cars and widescreen TVs..."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/12/30/tr-we-loved-our-hot-tubs-big-cars-and-widescreen-tvs/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Tabula Rasa"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/tabula_rasa-2007-12-30-09-17-08-46.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/12/tabula_rasa-2007-12-30-09-17-08-46.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/12/tabula_rasa-2007-12-30-09-17-08-46.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ... and then the Bane came and those of us who escaped could only take what we could carry. And most of that was left in piles outside the alien wormholes that brought us to the front lines in a war we could never understand, never win. Each day we fight is another day we live, and we go on, somehow.

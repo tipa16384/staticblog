@@ -2,11 +2,38 @@
 date: '2013-12-04T08:29:27-05:00'
 draft: false
 title: "Dragons Must Die"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/12/04/dragons-must-die/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Neverwinter"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-11-26-19-21-40-80-480x270.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-11-26-19-21-40-80-480x270.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-11-26-19-21-40-80-480x270.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-11-26-19-21-40-80-480x270.jpg" title="Chartilifax is Dead" class="align-center" >}}

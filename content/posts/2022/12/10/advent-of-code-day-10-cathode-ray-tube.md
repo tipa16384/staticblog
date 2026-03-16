@@ -2,11 +2,27 @@
 date: '2022-12-10T19:54:04-05:00'
 draft: false
 title: "Advent of Code Day 10 -- Cathode-Ray Tube"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/12/10/advent-of-code-day-10-cathode-ray-tube/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Turns out the elves just really loved the Atari 2600 so much, they built their little handheld computers around them. And now it's up to us to fix one."
-categories:
+description: "Turns out the elves just really loved the Atari 2600 so much, they built their little handheld computers around them. And now it's up to us to fix one."
+tags:
   - "Advent of Code"
   - "Game Development"
-tags:
   - "2022"
   - "Advent"
   - "Java"
@@ -14,7 +30,16 @@ tags:
   - "Pico-8"
   - "Python"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-10-19.36.37-A-woman-in-ragged-clothes-wearing-a-Christmas-hat-playing-a-video-game-in-the-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 This is the first puzzle that doesn't feature any elves, just the presumably human protagonist, and so I use a human for today's picture.

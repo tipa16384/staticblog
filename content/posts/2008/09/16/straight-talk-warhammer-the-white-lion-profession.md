@@ -2,18 +2,44 @@
 date: '2008-09-16T01:18:53-05:00'
 draft: false
 title: "Straight Talk Warhammer: The White Lion profession."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/16/straight-talk-warhammer-the-white-lion-profession/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-tags:
   - "Fakehammer"
   - "Not Funny"
   - "White Lion"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Warhammer Online. Warhammer. WAR. WAAAAGH. All ways to describe the game sweeping our interwebs in ways Google can easily find. More? Public quests? This game has public quests. Tome of Knowledge? This is the ONLY GAME with a Tome of Knowledge. World of Warcraft: Wrath of the Lich King, coming this November, does not have public quests OR a Tome of Knowledge. Order. Destruction. War everywhere becomes WAR everywhere.

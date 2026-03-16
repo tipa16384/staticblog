@@ -2,16 +2,41 @@
 date: '2024-11-05T08:00:00-05:00'
 draft: false
 title: "Game Night: Tales from the Loop"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/11/05/game-night-tales-from-the-loop/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Goonies meets Stranger Things meets robots in a board game set in an alternate 80s Sweden, inspired by the art of Simon Stålenhag."
-categories:
+description: "Goonies meets Stranger Things meets robots in a board game set in an alternate 80s Sweden, inspired by the art of Simon Stålenhag."
+tags:
   - "Game Night"
   - "Tabletop Games"
   - "Tales From the Loop"
-tags:
   - "Simon Stålenhag"
   - "The Goonies"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/333_hlwF_jn4o-Dzc7qidX-0apq-1wvs.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/11/333_hlwF_jn4o-Dzc7qidX-0apq-1wvs.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/11/333_hlwF_jn4o-Dzc7qidX-0apq-1wvs.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Simon Stålenhag's famous art combines scenes of utter banality with the fantastic -- a robot in branded colors patrolling a field of wheat; a giant robot in ruins behind an old diner, and so on. Stålenhag's book, "Tales from the Loop", on which the game is based, connects his artwork through a fanciful tale of his upbringing in the area, telling the tale of the world's largest particle accelerator -- the Loop -- through his eyes as a child.

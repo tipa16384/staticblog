@@ -2,15 +2,41 @@
 date: '2008-10-03T07:47:56-05:00'
 draft: false
 title: "Kudos 2 review"
-categories:
-  - "Other Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/10/03/kudos-2/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Other Games"
   - "Casual Game"
   - "Kudos"
   - "Kudos 2"
   - "Positech"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/kudos2-2008-10-02-20-08-25-79.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/10/kudos2-2008-10-02-20-08-25-79.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/10/kudos2-2008-10-02-20-08-25-79.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/10/kudos2-2008-10-02-20-08-25-79.jpg "kudos2-2008-10-02-20-08-25-79")

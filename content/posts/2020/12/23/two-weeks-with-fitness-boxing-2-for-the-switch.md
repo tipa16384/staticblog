@@ -2,16 +2,41 @@
 date: '2020-12-23T10:18:48-05:00'
 draft: false
 title: "Two Weeks with Fitness Boxing 2 for the Switch"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/23/two-weeks-with-fitness-boxing-2-for-the-switch/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A decent light workout for those who enjoy rhythm games, but it won't teach you much about boxing."
-categories:
+description: "A decent light workout for those who enjoy rhythm games, but it won't teach you much about boxing."
+tags:
   - "Nintendo Switch"
   - "Rhythm Games"
   - "Switch"
-tags:
   - "Exercise"
   - "Fitness Boxing 2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/2020122308294700-50311348FAD42346F7EA7100A31B9680.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/2020122308294700-50311348FAD42346F7EA7100A31B9680.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/2020122308294700-50311348FAD42346F7EA7100A31B9680.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My gym shut down back in March; it's been open intermittingly since then, but in this time of COVID, gyms with all the sweating and heavy breathing are among the worst places to be. During the summer, exercising outside was an option, but now that winter has settled in here in New England, everyone is looking for exercises they can do indoors.

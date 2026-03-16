@@ -2,9 +2,38 @@
 date: '2006-11-01T14:19:42-05:00'
 draft: false
 title: "My Son vs the World (of Warcraft)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/11/01/my-son-vs-the-world-of-warcraft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "World of Warcraft"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My son is a lazy gamer. In Warcraft III, he prefers to play the god games where you gather all the power ups and then are pretty much unbeatable. He knows where they all are, grabs them, waits for people to find him, then puts his guy on auto while he watches TV. The other players send wave after wave of lower powered units at him and he just mows them down.

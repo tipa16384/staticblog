@@ -2,16 +2,42 @@
 date: '2020-10-23T07:28:17-05:00'
 draft: false
 title: "Solasta: Crown of the Magister -- Bringing the Boom"
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/10/23/solasta-crown-of-the-magister-bringing-the-boom/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "Crown of the Magister"
   - "D&d"
   - "RPG"
   - "Solasta"
   - "Tactics"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/20201022225458_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/10/20201022225458_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/10/20201022225458_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While writing up yesterday's post about my first experiences with Solasta, the D&D 5e-compatible RPG released to Steam early access a couple days ago, I found that I'd actually made the most boring adventuring party possible.

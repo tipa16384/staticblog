@@ -2,12 +2,37 @@
 date: '2020-08-10T12:17:42-05:00'
 draft: false
 title: "Blaugust #6: Quoth the Blogger, \"Nevermore\"."
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/08/10/blaugust-6-quoth-the-blogger-nevermore/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/green-lantern-oath-wallpaper_5883704.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/08/green-lantern-oath-wallpaper_5883704.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/08/green-lantern-oath-wallpaper_5883704.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Back in sixth grade, first day of science class, the teacher asked us "what is science?" First day, we were supposed to answer that? The paper was blank, the pencil was blunt, and I was just there wracking my brains, trying to figure out what science was. All I could think of when I thought about science were old movies with lots crazy guys in lab coats working with beakers and tubes and bubbling stuff, so I put down "Science is chemistry!"

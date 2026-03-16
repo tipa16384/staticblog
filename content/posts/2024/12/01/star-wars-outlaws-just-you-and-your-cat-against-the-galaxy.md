@@ -2,16 +2,41 @@
 date: '2024-12-01T14:48:48-05:00'
 draft: false
 title: "Star Wars: Outlaws. Just you and your \"cat\" against the galaxy."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/12/01/star-wars-outlaws-just-you-and-your-cat-against-the-galaxy/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This game took a lot of flack for being a buggy mess when it came out, but at least on the PS5, it's a fun, if slow paced, open world adventure in the Star Wars universe."
-categories:
+description: "This game took a lot of flack for being a buggy mess when it came out, but at least on the PS5, it's a fun, if slow paced, open world adventure in the Star Wars universe."
+tags:
   - "Open World RPG"
   - "PS5"
-tags:
   - "Greedo Shot First"
   - "Outlaws"
   - "Star Wars"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/outlawsbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/12/outlawsbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/12/outlawsbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It took me about fifteen hours of exploring, sneaking, and scavenging for *Star Wars: Outlaws* protagonist Kay Vess to stumble into the plot. But those were hours well spent. Kay isn’t your typical *Star Wars* hero — no lightsaber, no special Force connection, and barely passable blaster skills. She’s a lone thief trying to survive after her mother abandoned her.

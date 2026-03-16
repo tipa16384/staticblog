@@ -2,12 +2,39 @@
 date: '2009-04-03T08:08:39-05:00'
 draft: false
 title: "Lord of the Rings Online: Champion of the World"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/04/03/lord-of-the-rings-online-champion-of-the-world/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Lord of the Rings"
   - "MMORPG"
   - "Nostalgia the Guild"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yeah, it's a Jimmy Buffet song. Did you REALLY want me to...? Really? Okay, just for you, because you're a friend, the real title of this post is "We are the Champions".

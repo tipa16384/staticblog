@@ -2,14 +2,41 @@
 date: '2009-05-20T07:57:40-05:00'
 draft: false
 title: "Daily Blogroll 5/20 -- Hump Day edition!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/05/20/daily-blogroll-520-hump-day-edition/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Daily Blogroll"
   - "EVE Online"
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/plantsvsrmt.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/05/plantsvsrmt.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/05/plantsvsrmt.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![If everyone would just plant one plant against mediocre games, what a happy and zombie-free world this would be!](https://chasingdings.com/wp-content/uploads/2009/05/plantsvsrmt.jpg "If everyone would just plant one plant against mediocre games, what a happy and zombie-free world this would be!")

@@ -2,7 +2,25 @@
 date: '2008-09-11T10:57:18-05:00'
 draft: false
 title: "Why I'm not playing WAR *right now*"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/09/11/why-im-not-playing-war-right-now/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "City of Heroes"
   - "EverQuest"
   - "Guild Wars"
@@ -10,6 +28,17 @@ categories:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Well, first of all, I'm not playing WAR because I'm at work.

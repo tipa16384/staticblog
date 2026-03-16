@@ -2,13 +2,39 @@
 date: '2020-06-12T03:14:54-05:00'
 draft: false
 title: "Game Night: Kingdom Death"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/06/12/game-night-kingdom-death/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Game Night"
   - "Tabletop Games"
-tags:
   - "Kingdom Death"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/kingdomdeath2.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/06/kingdomdeath2.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/06/kingdomdeath2.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not really sure what kind of game someone would expect to play if they were told its name was "Kingdom Death". Is... a kingdom dying? Is it Death's kingdom?

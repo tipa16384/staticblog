@@ -2,11 +2,38 @@
 date: '2009-09-22T19:19:15-05:00'
 draft: false
 title: "Aion - Living the Dream in the Ghetto"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/09/22/aion-living-the-dream-in-the-ghetto/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Aion"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/Aion_Madness1-480x288.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/09/Aion_Madness1-480x288.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/09/Aion_Madness1-480x288.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 *Can't stop Saylah from blogging :) - Tipa*

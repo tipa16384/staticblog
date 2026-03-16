@@ -2,17 +2,42 @@
 date: '2024-07-06T10:51:06-05:00'
 draft: false
 title: "The White Raven: A Cinematic Tactical RPG"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/07/06/the-white-raven-a-cinematic-tactical-rpg/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game."
-categories:
+description: "After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game."
+tags:
   - "RPG"
   - "Tactical RPG"
   - "Tactics"
   - "Turn-Based Rpgs"
-tags:
   - "Sword & Sworcery"
   - "The White Raven"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/whiteraventitle.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/07/whiteraventitle.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/07/whiteraventitle.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm a huge fan of tactical RPGs -- I've played dozens. The basics are always the same -- tactical, turn-based combat that arises naturally from a rich, intricate storyline. Final Fantasy Tactics, XCOM, Fire Emblem, Tactics Ogre -- these games are the best of the genre.

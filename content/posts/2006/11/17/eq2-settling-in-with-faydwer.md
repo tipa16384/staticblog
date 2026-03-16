@@ -2,11 +2,38 @@
 date: '2006-11-17T15:04:33-05:00'
 draft: false
 title: "EQ2: Settling in with Faydwer"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/11/17/eq2-settling-in-with-faydwer/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/rings.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2006/11/rings.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2006/11/rings.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![rings.jpg](https://chasingdings.com/wp-content/uploads/2006/11/rings.jpg)

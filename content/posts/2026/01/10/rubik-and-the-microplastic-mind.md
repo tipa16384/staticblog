@@ -2,14 +2,39 @@
 date: '2026-01-10T20:05:14-05:00'
 draft: false
 title: "Rubik and the Microplastic Mind"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2026/01/10/rubik-and-the-microplastic-mind/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I just went to my first \"cubing\" competition -- the \"Wide Moves and Waterslides CT\" tournament held this weekend by Cube New England. It won't be the last,"
-categories:
-  - "Real Life"
+description: "I just went to my first \"cubing\" competition -- the \"Wide Moves and Waterslides CT\" tournament held this weekend by Cube New England. It won't be the last,"
 tags:
+  - "Real Life"
   - "Cube New England"
   - "Rubik's Cube"
 featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
-cover: "https://chasingdings.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My grandson is obsessed with solving Rubik's Cubes. I had one, maybe a few -- everyone did, back in the day. I had a book that showed me how to solve it, and back then, I could take a scrambled cube and solve it in a few minutes. I felt pretty good about that.

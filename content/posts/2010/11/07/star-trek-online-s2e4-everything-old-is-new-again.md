@@ -2,15 +2,41 @@
 date: '2010-11-07T19:51:59-05:00'
 draft: false
 title: "Star Trek Online: S2E4 \"Everything Old is New Again\""
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/11/07/star-trek-online-s2e4-everything-old-is-new-again/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Devidian"
   - "Drozana"
   - "Time Travel"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg "He")](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-06-14-02-09-96.jpg)

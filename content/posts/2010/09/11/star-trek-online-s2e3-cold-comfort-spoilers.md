@@ -2,10 +2,27 @@
 date: '2010-09-11T18:14:07-05:00'
 draft: false
 title: "Star Trek Online: S2E3 Cold Comfort (spoilers)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/09/11/star-trek-online-s2e3-cold-comfort-spoilers/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Breen"
   - "Cold Comfort"
   - "Defera"
@@ -14,7 +31,16 @@ tags:
   - "Krontar"
   - "Weekly"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-11-16-55-05-27-480x292.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-11-16-55-05-27-480x292.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-11-16-55-05-27-480x292.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-11-16-55-05-27-480x292.jpg "Cold Comfort")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-11-16-55-05-27.jpg)

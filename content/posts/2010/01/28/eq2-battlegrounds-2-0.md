@@ -2,11 +2,38 @@
 date: '2010-01-28T07:50:34-05:00'
 draft: false
 title: "EQ2: Battlegrounds 2.0"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/01/28/eq2-battlegrounds-2-0/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/EverQuest2-2010-01-28-07-08-12-76.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/01/EverQuest2-2010-01-28-07-08-12-76.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/01/EverQuest2-2010-01-28-07-08-12-76.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2010/01/EverQuest2-2010-01-28-07-08-12-76.jpg "Avatar Arena")

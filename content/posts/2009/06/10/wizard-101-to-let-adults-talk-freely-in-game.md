@@ -2,11 +2,38 @@
 date: '2009-06-10T19:08:51-05:00'
 draft: false
 title: "Wizard 101 to let adults talk freely in game!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/06/10/wizard-101-to-let-adults-talk-freely-in-game/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/wizardgraphicalclient-2009-06-10-19-06-13-92.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/06/wizardgraphicalclient-2009-06-10-19-06-13-92.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/06/wizardgraphicalclient-2009-06-10-19-06-13-92.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![What I MEANT to say was ... the ... and ... the .... in ... rounds.](https://chasingdings.com/wp-content/uploads/2009/06/wizardgraphicalclient-2009-06-10-19-06-13-92.jpg "What I MEANT to say was ... the ... and ... the .... in ... rounds.")

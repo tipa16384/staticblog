@@ -2,10 +2,37 @@
 date: '2008-04-28T21:04:47-05:00'
 draft: false
 title: "Doctor Who: The Sontaren Stratagem"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/04/28/doctor-who-the-sontaren-stratagem/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Doctor Who"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/atmos.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2008/04/atmos.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/04/atmos.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![atmos.gif](https://chasingdings.com/wp-content/uploads/2008/04/atmos.gif)

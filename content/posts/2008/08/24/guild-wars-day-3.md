@@ -2,14 +2,40 @@
 date: '2008-08-24T23:42:03-05:00'
 draft: false
 title: "Guild Wars -- Day 3"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/08/24/guild-wars-day-3/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Guild Wars"
   - "MMORPG"
-tags:
   - "Day 3"
   - "Nightfall"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg "gw-2008-08-24-21-15-40-74")

@@ -2,17 +2,42 @@
 date: '2024-11-21T16:56:32-05:00'
 draft: false
 title: "Dragon Age: the Veilguard finished"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/11/21/dragon-age-the-veilguard-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "82 hours from start to end, all quests completed, all companions at max bond, all factions but one maxed out, 47/52 achievements. Was it worth it?"
-categories:
+description: "82 hours from start to end, all quests completed, all companions at max bond, all factions but one maxed out, 47/52 achievements. Was it worth it?"
+tags:
   - "Action RPG"
   - "Dragon Age Origins"
   - "Other Games"
   - "RPG"
-tags:
   - "Dragon Age"
   - "The Veilguard"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/banner2.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/11/banner2.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/11/banner2.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 While Dragon Age: Origins is one of my favorite games of all time, Dragon Age II seemed like a big step back in world building and companion customization. Dragon Age: Inquisition caught the Far Cry disease and became an open world RPG with a bunch of quests that did little to advance the story but were necessary to grind experience.

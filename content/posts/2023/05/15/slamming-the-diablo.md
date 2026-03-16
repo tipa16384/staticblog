@@ -2,15 +2,40 @@
 date: '2023-05-15T08:47:56-05:00'
 draft: false
 title: "Slamming the Diablo."
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/05/15/slamming-the-diablo/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "The Diablo series evolved from dungeon crawler to dungeon brawler. Diablo IV brings it one step further..."
-categories:
+description: "The Diablo series evolved from dungeon crawler to dungeon brawler. Diablo IV brings it one step further..."
+tags:
   - "Diablo"
   - "Diablo 3"
-tags:
   - "Blizzard"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/05/d4.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/05/d4.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/05/d4.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 That title sounds more like a beer ad. I dunno. I'm going with it.

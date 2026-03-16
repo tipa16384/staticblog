@@ -2,11 +2,38 @@
 date: '2006-07-19T00:00:00-05:00'
 draft: false
 title: "Eureka: All Icing, No Cake"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/07/19/eureka-all-icing-no-cake/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Eureka"
   - "Sci Fi"
 featured_image: "https://chasingdings.com/images/triangle.png"
-cover: "https://chasingdings.com/images/triangle.png"
+cover:
+  image: "https://chasingdings.com/images/triangle.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Sat down in anticipation last night for Eureka, the SciFi channel's newest show.

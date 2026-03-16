@@ -2,15 +2,40 @@
 date: '2021-09-26T09:05:56-05:00'
 draft: false
 title: "Ship of Heroes: Mission Beta Feedback"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/09/26/ship-of-heroes-mission-beta-feedback/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Champions Online"
   - "City of Heroes"
   - "MMORPG"
   - "Ship of Heroes"
-tags:
-  - "Champions Online"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-1-1024x576.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-1-1024x576.jpg"
+featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-redsigilbase.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-redsigilbase.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 City of Heroes *INNN SPAAAAAAACE* MMO Ship of Heroes [posted an update](https://www.shipofheroes.com/2021-summer-beta-wrap-up/) on this summer's "MIssion Beta", in which I and apparently many, many others participated...

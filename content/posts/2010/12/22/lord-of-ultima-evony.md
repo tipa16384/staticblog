@@ -2,10 +2,37 @@
 date: '2010-12-22T22:09:34-05:00'
 draft: false
 title: "Lord of Ultima Evony"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/12/22/lord-of-ultima-evony/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/lordultima-480x212.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/12/lordultima-480x212.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/12/lordultima-480x212.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Shady browser strategy game Evony [has been long criticized for its deceptive ads](http://www.lazygamer.net/a-history-of-evony-ads-the-insanity-continues/) featuring scantily clad women advertising a game where you build houses and sawmills and really, have very little sex at all. And no women.

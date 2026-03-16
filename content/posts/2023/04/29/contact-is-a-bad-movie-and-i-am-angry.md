@@ -2,14 +2,40 @@
 date: '2023-04-29T12:24:55-05:00'
 draft: false
 title: "Contact is a bad movie. And I am angry."
-categories:
-  - "Movies"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/04/29/contact-is-a-bad-movie-and-i-am-angry/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Movies"
   - "Carl Sagan"
   - "Contact"
   - "Pi"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/04/tileburnedin.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/04/tileburnedin.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/04/tileburnedin.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I have a soft spot for this movie. I think Jodie Foster is amazing in it. But almost everything in it is stupid.

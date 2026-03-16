@@ -2,11 +2,27 @@
 date: '2023-08-08T07:00:00-05:00'
 draft: false
 title: "Sam Portsmouth Bridges"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/08/08/sam-portsmouth-bridges/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "I really don't know what else you would call a blog post on a gaming blog about bridges in Portsmouth, NH. It's introduction week, so get ready."
-categories:
+description: "I really don't know what else you would call a blog post on a gaming blog about bridges in Portsmouth, NH. It's introduction week, so get ready."
+tags:
   - "Blaugust"
   - "Blaugust 2023"
-tags:
   - "Bridges"
   - "Kittery"
   - "Maine"
@@ -15,7 +31,16 @@ tags:
   - "Sam Porter Bridges"
   - "Sarah Mildred Long"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/IMG_3945-EFFECTS-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2023/08/IMG_3945-EFFECTS-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/08/IMG_3945-EFFECTS-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The statue up top is called "[My Mother the Wind](https://www.seacoastonline.com/story/news/2020/10/30/portsmouth-stabilizes-cabot-lyford-sculpture-honoring-immigrant-women/6075737002/)", and it's currently at the western tip of Four Tree Island in the Piscataqua River in Portsmouth, NH. The statue honors the immigrant women who came to America in days past.

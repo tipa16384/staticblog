@@ -2,16 +2,41 @@
 date: '2024-10-20T08:00:00-05:00'
 draft: false
 title: "Malifaux: \"Fall into Faux\" tournament"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/20/malifaux-fall-into-faux-tournament/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "This tournament was the culmination of many games and a lot of paint."
-categories:
+description: "This tournament was the culmination of many games and a lot of paint."
+tags:
   - "Malifaux"
   - "Miniatures"
   - "Tabletop Games"
-tags:
   - "Mei Feng"
   - "Tournament"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/malifaux-10-19-24-banner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/malifaux-10-19-24-banner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/malifaux-10-19-24-banner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I can't say that I ever really look forward to gaming on my feet for a tournament day -- that's eight hours with just a couple of breaks. Malifaux games take a *long time* and three in a day... well.

@@ -2,17 +2,42 @@
 date: '2024-10-07T07:00:00-05:00'
 draft: false
 title: "The Lord of the Rings: War in the North"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/10/07/the-lord-of-the-rings-war-in-the-north/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Snowblind Studios' swan song might have been the best RPG they ever made."
-categories:
+description: "Snowblind Studios' swan song might have been the best RPG they ever made."
+tags:
   - "Action RPG"
   - "Lord of the Rings"
   - "PS3"
   - "Steam Games"
-tags:
   - "Snowblind Studios"
   - "War in the North"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/20241006100304_1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/10/20241006100304_1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/10/20241006100304_1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I bought Snowblind Studios' final PlayStation 2 RPG, Justice League Heroes, and I liked it fine. But I knew they'd made one more game under their own name before being swallowed up and spit out by a conglomerate, on a new version of their famous game engine for the PS3, one of the XBoxes, and Steam. That game was the licensed The Lord of the Rings: War in the North.

@@ -2,11 +2,38 @@
 date: '2007-03-05T11:37:58-05:00'
 draft: false
 title: "EQ2: Elimination Round"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/03/05/eq2-elimination-round/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/03/gal-dina.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/03/gal-dina.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/03/gal-dina.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's no easy thing saying goodbye to beloved characters. Losing Station Pass means that some characters have got to go. In this post, the characters that are staying, and where they are in the world.

@@ -2,10 +2,27 @@
 date: '2020-05-01T11:32:28-05:00'
 draft: false
 title: "Champions of Norrath playthrough: Act 1, Kelethin"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Emulators"
   - "EverQuest"
-tags:
   - "Champions of Norrath"
   - "Crushbone"
   - "Faydark"
@@ -13,7 +30,16 @@ tags:
   - "PCSX2"
   - "PS2"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg" >}}

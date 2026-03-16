@@ -2,11 +2,38 @@
 date: '2010-11-24T01:23:45-05:00'
 draft: false
 title: "Thoughts on Elitism and Speed Runs, or, My Dinner with Thrall"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2010/11/24/thoughts-on-elitism-and-speed-runs-or-my-dinner-with-yhrall/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg "Waiting for a healer")](https://chasingdings.com/wp-content/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91.jpg)

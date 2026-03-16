@@ -2,17 +2,42 @@
 date: '2024-07-24T07:00:00-05:00'
 draft: false
 title: "Dungeon Crawl Classics TTRPG: Survival of the Fittest"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/07/24/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying."
-categories:
+description: "Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying."
+tags:
   - "Dungeon Crawl Classics"
   - "Dungeons & Dragons"
   - "Tabletop Games"
-tags:
   - "Dungeon Crawl Classic"
   - "Goodman Games"
   - "TTRPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/dccbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/07/dccbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/07/dccbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The Dungeon Crawl Classics folks really gave me the hard sell at Origins 2024. Gaming like they did it in the 70s. A focus on adventuring over roleplaying. Mixing things up. Don't care if you live or die, as long as you had fun doing it.

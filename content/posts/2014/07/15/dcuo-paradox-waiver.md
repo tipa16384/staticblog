@@ -2,13 +2,39 @@
 date: '2014-07-15T18:57:05-05:00'
 draft: false
 title: "DCUO: Paradox Waiver"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/07/15/dcuo-paradox-waiver/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://lh4.googleusercontent.com/-P-J7sC2id4w/U8PCUn1DpaI/AAAAAAAAx2o/6XrzEtj54ds/w619-h464-no/DCGame+2014-07-13+22-58-56-10.jpg"
-cover: "https://lh4.googleusercontent.com/-P-J7sC2id4w/U8PCUn1DpaI/AAAAAAAAx2o/6XrzEtj54ds/w619-h464-no/DCGame+2014-07-13+22-58-56-10.jpg"
+cover:
+  image: "https://lh4.googleusercontent.com/-P-J7sC2id4w/U8PCUn1DpaI/AAAAAAAAx2o/6XrzEtj54ds/w619-h464-no/DCGame+2014-07-13+22-58-56-10.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![Paradox Wave](https://lh4.googleusercontent.com/-P-J7sC2id4w/U8PCUn1DpaI/AAAAAAAAx2o/6XrzEtj54ds/w619-h464-no/DCGame+2014-07-13+22-58-56-10.jpg)

@@ -2,13 +2,39 @@
 date: '2015-09-21T19:33:14-05:00'
 draft: false
 title: "That's the Power of Love"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2015/09/21/thats-the-power-of-love/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
-tags:
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg" title="Sinestro needs Hal Jordan's LUUURVE" class="align-center" >}}

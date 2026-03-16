@@ -2,9 +2,26 @@
 date: '2021-11-12T07:27:59-05:00'
 draft: false
 title: "I'm a little obsessed with this AI portrait generator"
-categories:
-  - "Asides"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/11/12/im-a-little-obsessed-with-this-ai-portrait-generator/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Asides"
   - "Aquaman"
   - "Artflow"
   - "Death"
@@ -17,7 +34,16 @@ tags:
   - "She Hulk"
   - "Wonder Woman"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/shehulk.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2021/11/shehulk.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/11/shehulk.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's at [artflow.ai](https://artflow.ai/) -- you type in a description of the portrait you want, and out comes a portrait of someone who never was. The featured is what displayed when I asked for "She Hulk"...

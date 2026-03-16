@@ -2,19 +2,44 @@
 date: '2020-12-22T13:15:02-05:00'
 draft: false
 title: "Quick Takes: Fallout Shelter"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/12/22/quick-take-fallout-shelter/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "A \"Fallout\"-branded worker placement mobile game in the vein of Ellison's \"A Boy and His Dog\""
-categories:
+description: "A \"Fallout\"-branded worker placement mobile game in the vein of Ellison's \"A Boy and His Dog\""
+tags:
   - "Mobile Games"
   - "PS4"
   - "PS5"
-tags:
   - "F2P"
   - "Fallout"
   - "Fallout Shelter"
   - "Mobile Game"
   - "Quick Take"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not a huge fan of the "Fallout" game series, so when Fallout Shelter, a mobile game based on the series, was released, I wasn't very interested. I happened upon it recently while browsing games on the PS5, and thought I'd give it another chance. I found a pretty interesting worker placement game for which a non-mobile platform like the PlayStation might not be the best choice on which to play it.

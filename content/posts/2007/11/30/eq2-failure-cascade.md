@@ -2,19 +2,44 @@
 date: '2007-11-30T08:37:16-05:00'
 draft: false
 title: "EQ2: Failure Cascade"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/11/30/eq2-failure-cascade/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest II"
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Arasai"
   - "Bruiser Gi"
   - "Butcherblock"
-  - "EverQuest II"
   - "Failure Cascade"
   - "Winterwing"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-30-06-50-11-87.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-30-06-50-11-87.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-30-06-50-11-87.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![everquest2-2007-11-30-06-50-11-87.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-30-06-50-11-87.jpg)

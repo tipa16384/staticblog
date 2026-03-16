@@ -2,17 +2,42 @@
 date: '2024-01-06T11:38:00-05:00'
 draft: false
 title: "Tactics Ogre: The Knight of Lodis FINISHED!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/01/06/tactics-ogre-the-knight-of-lodis-finished/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "It's a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight's journey to discover his place in the world."
-categories:
-  - "Final Fantasy"
+description: "It's a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight's journey to discover his place in the world."
 tags:
+  - "Final Fantasy"
   - "Analogue"
   - "Gameboy Advance"
   - "Knight of Lodis"
   - "Ogre Battle"
   - "Tactics Ogre"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/20240104_221426.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/01/20240104_221426.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/01/20240104_221426.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Every game in the Ogre Battle/Tactics Ogre series tells essentially a political story. There usually is a "big bad" -- as there is in this game -- but just as usually, the big bad *isn't* the real villain.

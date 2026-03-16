@@ -2,7 +2,25 @@
 date: '2013-09-12T00:32:46-05:00'
 draft: false
 title: "Top 5 Reasons why Neverwinter is the Best MMO That Can Exist, or, How To Twerk in World of Warcraft"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/09/12/top-5-reasons-why-neverwinter-is-the-best-mmo-that-can-exist-or-how-to-twerk-in-world-of-warcraft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Guild Wars"
   - "Hoard"
   - "MMORPG"
@@ -10,7 +28,16 @@ categories:
   - "Other Games"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg" title="Boared Stiff." class="align-center" >}}

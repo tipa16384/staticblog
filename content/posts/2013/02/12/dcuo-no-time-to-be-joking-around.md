@@ -2,11 +2,38 @@
 date: '2013-02-12T07:46:27-05:00'
 draft: false
 title: "DCUO: No time for jokes"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2013/02/12/dcuo-no-time-to-be-joking-around/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "DC Universe Online"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/MPYR0167_AUDIO-PC-10-22.37.390-480x300.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2013/02/MPYR0167_AUDIO-PC-10-22.37.390-480x300.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2013/02/MPYR0167_AUDIO-PC-10-22.37.390-480x300.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MPYR0167_AUDIO-PC-10-22.37.390-480x300.jpg" title="Harlequin & Robin" class="align-center" >}}

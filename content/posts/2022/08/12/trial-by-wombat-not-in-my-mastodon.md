@@ -2,17 +2,43 @@
 date: '2022-08-12T23:05:57-05:00'
 draft: false
 title: "Trial by Wombat? Not in my Mastodon!"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/12/trial-by-wombat-not-in-my-mastodon/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
   - "OpenAI"
-tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Mastodon"
   - "Twitter"
   - "Wombats"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-12-07.55.44-a-sketch-of-a-wombat-in-a-barristers-wig-sitting-at-a-judges-bench.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-12-07.55.44-a-sketch-of-a-wombat-in-a-barristers-wig-sitting-at-a-judges-bench.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-12-07.55.44-a-sketch-of-a-wombat-in-a-barristers-wig-sitting-at-a-judges-bench.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Just griping.

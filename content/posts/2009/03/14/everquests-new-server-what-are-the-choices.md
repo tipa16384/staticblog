@@ -2,11 +2,38 @@
 date: '2009-03-14T08:27:45-05:00'
 draft: false
 title: "EverQuest's new server -- what are the choices?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/03/14/everquests-new-server-what-are-the-choices/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/eqgame-2009-03-14-08-52-56-71.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/03/eqgame-2009-03-14-08-52-56-71.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/03/eqgame-2009-03-14-08-52-56-71.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Way back in December, SOE mentioned offhandedly that they would be [adding a NEW server](https://chasingdings.com/index.php/2008/12/19/everquest-merging-servers-adding-new-server-in-2009/) to EverQuest -- the first since the [two progression servers](https://chasingdings.com/index.php/2006/06/21/progression-server-update/) from a couple of years ago.

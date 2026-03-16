@@ -2,10 +2,37 @@
 date: '2007-06-23T01:44:47-05:00'
 draft: false
 title: "Neopets, Lambda Calculus and Decision Tree Pruning"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/06/23/neopets-lambda-calculus-and-decision-tree-pruning/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/shifter.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2007/06/shifter.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/06/shifter.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 "What has she been working on?" you might well ask. "All this raiding, all these long long long comments on everyone else's blogs but precious little here?"

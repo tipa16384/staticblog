@@ -2,12 +2,39 @@
 date: '2007-01-10T16:30:03-05:00'
 draft: false
 title: "Corporate Warcraft"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2007/01/10/corporate-warcraft/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "My Work"
   - "World of Warcraft"
 featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/headshot.gif"
-cover: "https://chasingdings.com/wp-content/uploads/2007/01/headshot.gif"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2007/01/headshot.gif"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![headshot.gif](https://chasingdings.com/wp-content/uploads/2007/01/headshot.gif)In my job search, there is a question I dread hearing from an interviewer. And that would be, "Do you play World of Warcraft?"

@@ -2,13 +2,40 @@
 date: '2009-11-02T08:08:01-05:00'
 draft: false
 title: "Weekend Gaming: Torchlight and Wizard101"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/11/02/weekend-gaming-torchlight-and-wizard101/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Other Games"
   - "Torchlight"
   - "Wizard101"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/Torchlight-2009-11-01-10-48-21-22.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/11/Torchlight-2009-11-01-10-48-21-22.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/11/Torchlight-2009-11-01-10-48-21-22.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 The weekend wasn't ALL EVE Online, though it could have been. That game is just SO addictive, though, that I have to consciously NOT log in, find something else to do.

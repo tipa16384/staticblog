@@ -2,13 +2,39 @@
 date: '2023-09-22T07:00:00-05:00'
 draft: false
 title: "FFXIV Tabletop RPG: Playtest #1"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/09/22/ffxiv-tabletop-rpg-playtest-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Square Enix is coming out with a sourcebook and game master's guide for a table top version of Final Fantasy XIV in May. I wonder what playing that would be like..."
-categories:
+description: "Square Enix is coming out with a sourcebook and game master's guide for a table top version of Final Fantasy XIV in May. I wonder what playing that would be like..."
+tags:
   - "Final Fantasy"
   - "Humor"
   - "Tabletop Game"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/ffxivttrpg.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/09/ffxivttrpg.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/09/ffxivttrpg.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Tonight was game night, and I was super excited to bring the new Final Fantasy XIV Tabletop Role Playing Game to the group. All of us are devoted FFXIV players, so we wouldn't need any time at all to get accustomed to the setting of Eorzea, the magical continent where most of the MMORPG takes place.

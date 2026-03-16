@@ -2,12 +2,37 @@
 date: '2021-08-31T07:31:23-05:00'
 draft: false
 title: "Blaugust 2021 -- That's a Wrap!"
-categories:
-  - "Blaugust"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2021/08/31/blaugust-2021-thats-a-wrap/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
   - "Blaugust"
 featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/Blaugust2021-Logo-800.png"
-cover: "https://chasingdings.com/wp-content/uploads/2021/08/Blaugust2021-Logo-800.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2021/08/Blaugust2021-Logo-800.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's been a month of blog posts! Maybe a little more, since I started posting daily a little before August in order to get in the routine. How'd I do? Let's take a look...

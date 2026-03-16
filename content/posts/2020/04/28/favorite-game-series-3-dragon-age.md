@@ -2,16 +2,42 @@
 date: '2020-04-28T11:31:24-05:00'
 draft: false
 title: "Favorite Game Series #3: Dragon Age"
-categories:
-  - "Steam Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/04/28/favorite-game-series-3-dragon-age/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
 tags:
+  - "Steam Games"
   - "Bioware"
   - "Dragon Age"
   - "Facebook"
   - "Favorite Game Series"
   - "Roman Numeral III"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/DragonAgeInquisition-2014-11-23-19-25-40-81-1024x819.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/04/DragonAgeInquisition-2014-11-23-19-25-40-81-1024x819.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/04/DragonAgeInquisition-2014-11-23-19-25-40-81-1024x819.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 {{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/DragonAgeInquisition-2014-11-23-19-25-40-81-1024x819.jpg" title="Dragon Age: Inquisition" >}}

@@ -2,9 +2,38 @@
 date: '2014-12-19T13:33:02-05:00'
 draft: false
 title: "Roomba is sick, Project Ascension is a fraud (I predict)"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/19/roomba-is-sick-project-ascension-is-a-fraud-i-predict/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "From Ello"
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Watched the first half of the first episode of Ascension last night. The premise is that, in the mid sixties, America launched an interstellar starship based on Orion technology in total secret to the stars, and now, 51 years later, their frozen-in-amber society is beginning to unravel.

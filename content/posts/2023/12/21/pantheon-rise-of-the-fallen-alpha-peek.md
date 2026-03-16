@@ -2,17 +2,42 @@
 date: '2023-12-21T07:41:59-05:00'
 draft: false
 title: "Pantheon: Rise of the Fallen (alpha peek)"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/12/21/pantheon-rise-of-the-fallen-alpha-peek/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new."
-categories:
+description: "More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new."
+tags:
   - "EverQuest"
   - "Monsters & Memories"
   - "Pantheon: Rise of the Fallen"
   - "Vanguard"
-tags:
   - "Alpha"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Alpha testers weren't allowed to use in-game footage or screenshots, and so any illustrations here are the fevered imaginings of Dall-E 3 or Midjourney.

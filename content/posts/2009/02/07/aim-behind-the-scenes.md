@@ -2,10 +2,37 @@
 date: '2009-02-07T19:19:20-05:00'
 draft: false
 title: "AiM: Behind the scenes"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2009/02/07/aim-behind-the-scenes/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "Adventures in Monopoly"
 featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/pat1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2009/02/pat1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2009/02/pat1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I was working on the next Adventures in Monopoly comic, and thought it would be fun to show how I created the first panel.

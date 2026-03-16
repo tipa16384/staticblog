@@ -2,18 +2,43 @@
 date: '2024-11-09T09:48:52-05:00'
 draft: false
 title: "Dragon Age: The Veilguard is not the game you think it is"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "But maybe the Dragon Age series has always been like this..."
-categories:
+description: "But maybe the Dragon Age series has always been like this..."
+tags:
   - "Action RPG"
   - "Dragon Age Origins"
   - "Other Games"
   - "RPG"
-tags:
   - "Dragon Age"
   - "The Veilguard"
   - "Treasure"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/davg-banner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/11/davg-banner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/11/davg-banner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I've read a dozen times over that Dragon Age: The Veilguard doesn't really show you the true game until you're eight hours in...

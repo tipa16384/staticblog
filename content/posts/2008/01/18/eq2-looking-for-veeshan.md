@@ -2,11 +2,38 @@
 date: '2008-01-18T12:08:33-05:00'
 draft: false
 title: "EQ2: Looking for Veeshan."
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2008/01/18/eq2-looking-for-veeshan/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
 featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/eqgame-2008-01-18-06-43-28-06.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2008/01/eqgame-2008-01-18-06-43-28-06.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2008/01/eqgame-2008-01-18-06-43-28-06.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 ![eqgame-2008-01-18-06-43-28-06.jpg](https://chasingdings.com/wp-content/uploads/2008/01/eqgame-2008-01-18-06-43-28-06.jpg)

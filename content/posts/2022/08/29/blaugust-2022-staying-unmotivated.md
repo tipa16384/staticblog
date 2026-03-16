@@ -2,16 +2,41 @@
 date: '2022-08-29T21:33:57-05:00'
 draft: false
 title: "Blaugust 2022: Staying (un)Motivated"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/29/blaugust-2022-staying-unmotivated/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Keeping a blog alive is a lot of pressure. Wouldn't it make more sense to have a central Blaugust blog that everyone could post in, rather than having a hundred small blogs?"
-categories:
+description: "Keeping a blog alive is a lot of pressure. Wouldn't it make more sense to have a central Blaugust blog that everyone could post in, rather than having a hundred small blogs?"
+tags:
   - "Blaugust"
   - "Blaugust 2022"
-tags:
   - "Bloggers"
   - "Blogging"
   - "West Karana"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-29-21.17.59-A-pen-and-ink-drawing-of-a-penguin-typing-on-a-computer-while-floating-on-an-ice-floe-in-the-middle-of-the-ocean..png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-29-21.17.59-A-pen-and-ink-drawing-of-a-penguin-typing-on-a-computer-while-floating-on-an-ice-floe-in-the-middle-of-the-ocean..png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-29-21.17.59-A-pen-and-ink-drawing-of-a-penguin-typing-on-a-computer-while-floating-on-an-ice-floe-in-the-middle-of-the-ocean..png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Catching up on the theme weeks with "How I stay motivated", and this is... hard for me, as I don't really stay motivated.

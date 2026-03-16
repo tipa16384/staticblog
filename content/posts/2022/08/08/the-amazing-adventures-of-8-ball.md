@@ -2,8 +2,25 @@
 date: '2022-08-08T07:00:00-05:00'
 draft: false
 title: "The Amazing Adventures of 8-Ball!"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2022/08/08/the-amazing-adventures-of-8-ball/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "\"Adventure of 8-Ball\" is a 2D platformer mobile game with 50 levels, attractive graphics, and catchy music. The player controls 8-ball, a little black cat, on a quest to save their owner from the evil dog catcher who has kidnapped them."
-categories:
+description: "\"Adventure of 8-Ball\" is a 2D platformer mobile game with 50 levels, attractive graphics, and catchy music. The player controls 8-ball, a little black cat, on a quest to save their owner from the evil dog catcher who has kidnapped them."
+tags:
   - "2D Platformer"
   - "Action Adventure Games"
   - "Blaugust"
@@ -13,15 +30,22 @@ categories:
   - "Mobile Games"
   - "OpenAI"
   - "Puzzles"
-tags:
-  - "2D Platformer"
   - "Attractive Graphics"
   - "Catchy Music"
   - "Challenging"
   - "Dall-E 2"
   - "Gpt-3"
 featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
-cover: "https://chasingdings.com/wp-content/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 8th: “The Amazing Adventures of 8-Ball!”.

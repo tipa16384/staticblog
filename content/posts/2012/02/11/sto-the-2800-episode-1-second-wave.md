@@ -2,10 +2,27 @@
 date: '2012-02-11T20:56:38-05:00'
 draft: false
 title: "STO: \"The 2800\" episode 1 -- Second Wave"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2012/02/11/sto-the-2800-episode-1-second-wave/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "MMORPG"
   - "Star Trek"
-tags:
   - "Deep Space 9"
   - "Dominion"
   - "Ds9"
@@ -13,7 +30,16 @@ tags:
   - "Fns"
   - "Jem'hadar"
 featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 [![](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg "Second Wave")](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-15-41.jpg)

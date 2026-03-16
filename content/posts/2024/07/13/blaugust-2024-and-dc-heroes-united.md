@@ -2,16 +2,41 @@
 date: '2024-07-13T08:00:00-05:00'
 draft: false
 title: "Blaugust 2024 and DC Heroes United"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/07/13/blaugust-2024-and-dc-heroes-united/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "Sure, I could use two posts to write about two things... OR I could do this, and write about them both. It's a Value Size Blog."
-categories:
+description: "Sure, I could use two posts to write about two things... OR I could do this, and write about them both. It's a Value Size Blog."
+tags:
   - "Blaugust"
   - "Blaugust 2024"
   - "DC Comics"
-tags:
   - "DC Superheroes United"
   - "Gamefound"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/dcunited.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/07/dcunited.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/07/dcunited.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Okay, so, big news -- Blaugust is back!

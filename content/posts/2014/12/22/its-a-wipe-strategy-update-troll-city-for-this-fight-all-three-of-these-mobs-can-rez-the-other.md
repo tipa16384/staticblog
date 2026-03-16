@@ -2,11 +2,38 @@
 date: '2014-12-22T14:39:15-05:00'
 draft: false
 title: "It's a Wipe! strategy update: Troll City"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2014/12/22/its-a-wipe-strategy-update-troll-city-for-this-fight-all-three-of-these-mobs-can-rez-the-other/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "It's a Wipe!"
   - "Other Games"
 featured_image: "https://lh3.googleusercontent.com/-BxzLruMZ9hk/VJgrzHr5EOI/AAAAAAAA85o/Wxvkoamc570/w506-h750/IAWgame%2B2014-12-20%2B23-59-29-53.jpg"
-cover: "https://lh3.googleusercontent.com/-BxzLruMZ9hk/VJgrzHr5EOI/AAAAAAAA85o/Wxvkoamc570/w506-h750/IAWgame%2B2014-12-20%2B23-59-29-53.jpg"
+cover:
+  image: "https://lh3.googleusercontent.com/-BxzLruMZ9hk/VJgrzHr5EOI/AAAAAAAA85o/Wxvkoamc570/w506-h750/IAWgame%2B2014-12-20%2B23-59-29-53.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 It's a Wipe! strategy update: Troll City.

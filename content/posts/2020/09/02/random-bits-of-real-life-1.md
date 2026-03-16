@@ -2,11 +2,28 @@
 date: '2020-09-02T07:00:00-05:00'
 draft: false
 title: "Random Bits of Real Life #1"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/09/02/random-bits-of-real-life-1/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "PS4"
   - "Real Life"
-tags:
   - "Bicycling"
   - "Charter Oak Greenway"
   - "Death Stranding"
@@ -14,7 +31,16 @@ tags:
   - "Kalimba"
   - "Sam Porter Bridges"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1859.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1859.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1859.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I'm not really sure how interested people will be, but I took some pictures and want to write about them and I have a blog and... well... here we go.

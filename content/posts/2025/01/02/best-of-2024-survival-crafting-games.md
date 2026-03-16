@@ -2,16 +2,41 @@
 date: '2025-01-02T08:22:08-05:00'
 draft: false
 title: "Best of 2024: Survival Crafting Games"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2025/01/02/best-of-2024-survival-crafting-games/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "If you've ever punched a tree, you've played a survival crafting game. There were a lot of these in 2024. Here's the ones I played."
-categories:
+description: "If you've ever punched a tree, you've played a survival crafting game. There were a lot of these in 2024. Here's the ones I played."
+tags:
   - "Palia"
   - "Palworld"
   - "Survival"
   - "Valheim"
-tags:
   - "Nightingale"
 featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/survivalbanner.png"
-cover: "https://chasingdings.com/wp-content/uploads/2025/01/survivalbanner.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2025/01/survivalbanner.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 My connection to the "survival crafting" genre began with Minecraft, but the genre stretches all the way back to 1992's [UnReal World](https://en.wikipedia.org/wiki/UnReal_World), which makes clear the genre's roots in roguelike games.

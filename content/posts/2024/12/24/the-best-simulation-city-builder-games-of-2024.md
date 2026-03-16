@@ -2,17 +2,42 @@
 date: '2024-12-24T08:00:00-05:00'
 draft: false
 title: "The Best Simulation/City Builder Games of 2024"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/12/24/the-best-simulation-city-builder-games-of-2024/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "These are the simulation / city builder games I have played during 2024. It's not a comprehensive list! Some gems in here, though."
-categories:
+description: "These are the simulation / city builder games I have played during 2024. It's not a comprehensive list! Some gems in here, though."
+tags:
   - "Manor Lords"
   - "Starship Simulator"
-tags:
   - "City Builder"
   - "Cthulhu"
   - "Plastic Ducks"
   - "Simulation Game"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/simgames.png"
-cover: "https://chasingdings.com/wp-content/uploads/2024/12/simgames.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/12/simgames.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Yesterday, none of the arcade games I listed were released in actual calendar year 2024. At least one of them, I hadn't even played in 2024. I can do better! I will!

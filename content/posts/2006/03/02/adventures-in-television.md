@@ -2,8 +2,37 @@
 date: '2006-03-02T00:00:00-05:00'
 draft: false
 title: "Adventures in Television"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2006/03/02/adventures-in-television/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "General"
+featured_image: ""
+cover:
+  image: "<image path/url>"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Unpacking is keeping me from MMO gaming, but television is new and exciting. I turned it on last night hoping to see "Mythbusters". Everyone talks about it, I heard it would be on. I couldn't find it. As I stepped slowly through the channels, looking for the logos on the bottom of the screen to tell me what network was on that channel, it occurred to me that there must be a great need for some sort of 'guide' for 'TV' that would tell you what was playing on various channels so you would know what was coming up.

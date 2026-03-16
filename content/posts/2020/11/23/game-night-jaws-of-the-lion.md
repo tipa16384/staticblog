@@ -2,16 +2,42 @@
 date: '2020-11-23T09:04:39-05:00'
 draft: false
 title: "Game Night: Jaws of the Lion"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/11/23/game-night-jaws-of-the-lion/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "3D Printing"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
-tags:
   - "Jaws of the Lion"
   - "Prusa"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/11/2-IMG_2014.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/11/2-IMG_2014.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/11/2-IMG_2014.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I really want to apologize for the gaps in game blogging. I'm still gaming, as much as ever. I have a lot to write about with EverQuest II, the PlayStation 5, and especially Assassins Creed: Valhalla, and I *will* try to get to these things :-) As well as streaming again. But for now, here's our latest adventures in Gloomhaven: Jaws of the Lion.

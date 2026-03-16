@@ -2,14 +2,40 @@
 date: '2020-06-01T11:45:20-05:00'
 draft: false
 title: "EverQuest introduces \"appointment gaming\"; bring on the Abashi Server?"
-categories:
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2020/06/01/everquest-introduces-appointment-gaming-bring-on-the-abashi-server/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
+summary: ""
+description: "Desc Text."
+tags:
   - "EverQuest"
   - "MMORPG"
-tags:
   - "Abashi"
   - "Aradune"
 featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-05-31-08-05-57-78.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-05-31-08-05-57-78.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-05-31-08-05-57-78.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 I haven't written much about our adventures on the Aradune server in EverQuest largely because we haven't had very much time to adventure on the Aradune server in EverQuest.

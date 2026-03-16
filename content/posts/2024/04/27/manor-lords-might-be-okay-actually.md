@@ -2,17 +2,42 @@
 date: '2024-04-27T19:53:27-05:00'
 draft: false
 title: "Manor Lords might be okay, actually"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2024/04/27/manor-lords-might-be-okay-actually/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "City builder sims usually are so addictive that often avoid them, but I couldn't resist this one; it has the one feature I always wanted from this type of game."
-categories:
+description: "City builder sims usually are so addictive that often avoid them, but I couldn't resist this one; it has the one feature I always wanted from this type of game."
+tags:
   - "Manor Lords"
   - "Other Games"
-tags:
   - "Anno 1404"
   - "Banished"
   - "City Builder"
   - "Life is Feudal"
 featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
-cover: "https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Manor Lords was released to early access on Steam yesterday to much fanfare; I heard about it from so many places, it's hard to believe it is a single developer, indie game. Someone's marketing budget was on point.

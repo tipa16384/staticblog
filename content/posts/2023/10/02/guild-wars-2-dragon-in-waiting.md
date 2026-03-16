@@ -2,15 +2,40 @@
 date: '2023-10-02T08:15:15-05:00'
 draft: false
 title: "Guild Wars 2: Dragon in Waiting"
+author: "Tipa"
+showToc: true
+TocOpen: false
+hidemeta: false
+comments: false
+canonicalURL: "https://chasingdings.com/2023/10/02/guild-wars-2-dragon-in-waiting/"
+disableHLJS: false
+disableShare: false
+hideSummary: false
+searchHidden: true
+ShowReadingTime: true
+ShowBreadCrumbs: true
+ShowPostNavLinks: true
+ShowWordCount: true
+ShowRssButtonInSectionTermList: true
+UseHugoToc: true
 summary: "After a decade or so of playing Guild Wars 2, I'm finally working on my character's personal quest -- to save the world, and then rule it. Tonight: Chapter 6, \"Retribution\"."
-categories:
-  - "Guild Wars"
+description: "After a decade or so of playing Guild Wars 2, I'm finally working on my character's personal quest -- to save the world, and then rule it. Tonight: Chapter 6, \"Retribution\"."
 tags:
+  - "Guild Wars"
   - "Personal Quest"
   - "Retribution"
   - "Team Spode"
 featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/gw2pqch6.png"
-cover: "https://chasingdings.com/wp-content/uploads/2023/10/gw2pqch6.png"
+cover:
+  image: "https://chasingdings.com/wp-content/uploads/2023/10/gw2pqch6.png"
+  alt: "<alt text>"
+  caption: "<text>"
+  relative: false
+  hidden: false
+editPost:
+  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
+  Text: "Suggest Changes"
+  appendFilePath: true
 ---
 
 Guild Wars 2 is really two games. Maybe three games, depending on how much you get into World vs World and PvP.
