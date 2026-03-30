@@ -3,40 +3,18 @@ date: '2023-11-24T10:33:38-05:00'
 draft: false
 title: "Pantheon: What's so bad about 247 Extraction?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/24/pantheon-whats-so-bad-about-247-extraction/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We need to have a little talk about Pantheon..."
-description: "We need to have a little talk about Pantheon..."
-tags:
+categories:
   - "EverQuest"
   - "Pantheon: Rise of the Fallen"
+tags:
   - "Dark and Darker"
   - "Palia"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/247extraction.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/247extraction.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/247extraction.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/247extraction.webp"
 ---
+We need to have a little talk about Pantheon...
+<!--more-->
 
 The problem with streaming a game like the classic EverQuest or FFXI Online, is that most of the stuff you do in a group just isn't that exciting to watch. I can't imagine a streamer broadcasting their Karnor's Castle wall group for six hours of a tank bringing random drolvargs to the group that would then get up from their spell books, nuke and slash a couple of minutes, then sit down again while the tank went out to pull, would have many viewers.
 
@@ -46,7 +24,7 @@ I watched a few streams, and the answer was: they can't, really. Visionary Realm
 
 While VR tried to curry the favor of streamers, behind the scenes they were rewriting the game... I guess it's been rewritten a couple of times now. Recently, they decided to revamp the art style from their realistic vision to a more casual, less graphically intensive style. A simple lighting system, less realistic characters, basically the style used for mobile and casual games. Palia is a good example. Since I am not an influencer, I haven't played Pantheon, so these screenshots came from Palia.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/dragonstatue.webp" title="Dragon Statue in Palia, I imagine Pantheon has something like it" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/dragonstatue.webp" title="Dragon Statue in Palia, I imagine Pantheon has something like it" classes="center" >}}
 
 So the way I see it, VR decided to make changes to the game that would make it more fun for streamers. Exit camping in one spot for hours. Enter... extraction mode.
 
@@ -72,7 +50,7 @@ Sure, the game would have no resemblance to the game they started making, but do
 
 An extraction mode game based on fantasy classes would be fun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/image-9-1024x576.png" title="Dark and Darker" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/image-9-1024x576.png" title="Dark and Darker" classes="center" >}}
 
 But... maybe VR aren't the ones to make it. The intro video of the character hacking slowly at a mob didn't make me want to jump in game. EverQuest, after all, *still exists*. Extraction games like Dark and Darker are fast, exciting, filled with magic and combat, and are very streamer-friendly. If you twist the definition around a little, you could call the FFXIV dungeon instances "extraction mode". You enter with your own group or get randomly placed into a team. You run through the dungeon and are extracted at the end. I guess World of Warcraft even has that nowadays.
 

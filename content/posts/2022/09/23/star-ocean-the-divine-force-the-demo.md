@@ -3,44 +3,22 @@ date: '2022-09-23T23:15:14-05:00'
 draft: false
 title: "Star Ocean: The Divine Force: The Demo"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/23/star-ocean-the-divine-force-the-demo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Star Ocean: The Divine Force is an upcoming action RPG with a flying combat drone and a focus on disabling enemies through battle effects. The demo offers a taste of the game's fast-paced combat and linear storytelling."
-description: "Star Ocean: The Divine Force is an upcoming action RPG with a flying combat drone and a focus on disabling enemies through battle effects. The demo offers a taste of the game's fast-paced combat and linear storytelling."
-tags:
+categories:
   - "Action RPG"
   - "PS5"
   - "RPG"
+tags:
   - "Demo"
   - "Ffxii"
   - "Ffxv"
   - "Star Ocean"
   - "The Divine Force"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/2-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923212513.jpg"
 ---
+Star Ocean: The Divine Force is an upcoming action RPG with a flying combat drone and a focus on disabling enemies through battle effects. The demo offers a taste of the game's fast-paced combat and linear storytelling.
+<!--more-->
 
 Space pirate crash lands on fantasy planet at the dainty feet of a runaway magic princess, it's a story as old as time itself. Can Star Ocean: The Divine Force's innovative combat bring something new to the formula?
 
@@ -52,7 +30,7 @@ A bunch of demos have been dropping on the PS5 these days. I grabbed Star Ocean 
 
 The demo (and presumably the full game) opens with a small cargo vessel run by its captain, Raymond, an inflatable android and a girl who looks JUST LIKE the one he bumps into just before the demo ends, being fired upon by a space battleship. They are forced to abandon ship. Raymond's escape pod lands at the feet of a runaway princess and her bodyguard, which is lucky for him, probably.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/3-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923213549.jpg" title="Raymond, about to shout \"LUCKY\" again" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/3-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923213549.jpg" title="Raymond, about to shout \"LUCKY\" again" classes="center" >}}
 
 Stuff continues in standard JRPG fashion. But SO:tDF is more than its plot. It is all about its combat.
 
@@ -68,7 +46,7 @@ In battle, similar to FFXII, you control one character in your party while the o
 
 Battles do get pretty chaotic.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/1-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923214324.jpg" title="The end of the demo" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/1-STAR-OCEAN-THE-DIVINE-FORCE-DEMO_20220923214324.jpg" title="The end of the demo" classes="center" >}}
 
 The demo only allows playing as Raymond. I imagine the full game lets you play as the crewmate he's looking for, who probably has her own story that eventually intersects Raymond's. The demo ends when the player reaches the second village, so it's about an hour or two of content, long enough to get a feel for the game, but not long enough to learn much about the plot.
 

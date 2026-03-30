@@ -3,42 +3,20 @@ date: '2021-07-19T21:53:23-05:00'
 draft: false
 title: "Scarlet Nexus"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/07/19/scarlet-nexus/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "What are a couple of post-apocalyptic psionic kids gonna do when all the extraterrestrial invaders in the world try to tear them apart?"
-description: "What are a couple of post-apocalyptic psionic kids gonna do when all the extraterrestrial invaders in the world try to tear them apart?"
-tags:
+categories:
   - "PS5"
   - "Quick Takes"
   - "Visual Novel"
+tags:
   - "Jrpg"
   - "RPG"
   - "Scarlet Nexus"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/2-SCARLET-NEXUS_20210709212449.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/07/2-SCARLET-NEXUS_20210709212449.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2-SCARLET-NEXUS_20210709212449.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/2-SCARLET-NEXUS_20210709212449.jpg"
 ---
+What are a couple of post-apocalyptic psionic kids gonna do when all the extraterrestrial invaders in the world try to tear them apart?
+<!--more-->
 
 I bought Scarlet Nexus for the Playstation 5 the day it came out. I was in the mood for a post-apocalyptic action RPG where psionic anime kids battle aliens from the stratosphere as part of a loose confederation of psi-fighters as they manage their real-life relationships.
 
@@ -48,13 +26,13 @@ The game follows either Yuito or Kasane, both new recruits to the Other Suppress
 
 The plot alternates between action chapters and interlude chapters. Action chapters have one of the protagonists sent out on a series of missions, either alone or with up to three of their team mates. The protagonists can borrow the powers of their teammates to enhance their own abilities; there's a number of useful combos, but I soon settled on the few that work best for me. Fighting well eventually powers up a "brain drive", which turns the power level and fighting ability up a few notches. Brain drive power can also be spent by summoning a "brain field", which turns the world into neon and burns out the protagonist's telekinetic powers in a burst of destruction. (This power can kill its wielder if used for too long).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/1-SCARLET-NEXUS_20210708231537.jpg" title="Kasane has an existential crisis" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/1-SCARLET-NEXUS_20210708231537.jpg" title="Kasane has an existential crisis" classes="center" >}}
 
 The interlude chambers take place in the team's "hideout". It's there that the protagonist builds their social connection with their team, occasionally members of the other team, and certain NPCs. This is done by exchanging data gathered from the action missions to the merchant NPC for presents which are then given to teammates. If they like you enough, you get a bonding episode that will deepen your connection and make the power sharing that more powerful. If enough team members bond, the whole team will level up.
 
 These connections will become extremely important in the later game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/SCARLET-NEXUS_20210709223129-1024x576.jpg" title="The Brain Map" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/SCARLET-NEXUS_20210709223129-1024x576.jpg" title="The Brain Map" classes="center" >}}
 
 A skill tree provides even more customization; there's a few really mandatory skills to learn, and many others that may fit well with your playstyle.
 

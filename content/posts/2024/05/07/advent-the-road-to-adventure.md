@@ -3,39 +3,17 @@ date: '2024-05-07T07:00:00-05:00'
 draft: false
 title: "ADVENT: The Road to Adventure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/05/07/advent-the-road-to-adventure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "You can draw a direct line from Crowther and Woods' \"Adventure\" to MMOs such as EverQuest. I'm going to be playing it all the way through... twice."
-description: "You can draw a direct line from Crowther and Woods' \"Adventure\" to MMOs such as EverQuest. I'm going to be playing it all the way through... twice."
-tags:
+categories:
   - "Adventure"
   - "Text Adventure Game"
+tags:
   - "Colossal Cave Adventure"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner.png"
 ---
+You can draw a direct line from Crowther and Woods' "Adventure" to MMOs such as EverQuest. I'm going to be playing it all the way through... twice.
+<!--more-->
 
 I've mentioned finding [the original ADVENT game](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) (as it was called on my university's PDP-10) and having it transform the trajectory of my life. It's such an influential game, that I'm really surprised I haven't played it since my college days.
 
@@ -47,7 +25,7 @@ My second playthrough will be with[ Ken and Roberta Williams' graphical conversi
 
 At the end of this, I'll be thoroughly adventure'd out. And it will be nice to see just how close the Williams' stayed to the puzzles in the original game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-2-1024x707.png" title="Adventure!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-2-1024x707.png" title="Adventure!" classes="center" >}}
 
 **Challenge 1: Get it running**
 
@@ -73,7 +51,7 @@ Perfect. Instantly brought me back forty years.
 
 Now, playing it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-3-1024x926.png" title="PARTIAL map" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-3-1024x926.png" title="PARTIAL map" classes="center" >}}
 
 **Challenge 3: Making a map**
 
@@ -85,7 +63,7 @@ There is a puzzle in the game that challenges you to do a thing, run to a certai
 
 I said, I can fix this with software.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-4.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-4.png" classes="center" >}}
 
 I read awhile back about this program that can simulate folding proteins in 3D space. It works by trying to find the lowest energy among all the different molecules involved. That was what I needed -- except in 2D. I needed to make a connection map that would have rooms that are close to one another be close to one another on the map, with connection lines so that I could quickly move from one location to another. I'll worry about the keywords required later. Just interested in the actual connections.
 

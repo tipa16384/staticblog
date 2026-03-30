@@ -3,39 +3,18 @@ date: '2006-03-06T00:00:00-05:00'
 draft: false
 title: "Stupid Stuff I Did With The Rest Of My Weekend"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/03/06/stupid-stuff-i-did-with-the-rest-of-my-weekend/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Watched the Academy Awards; followed by placing my characters on the red carpet. I guess I should have gotten a better dress for Nash......"
+categories:
   - "General"
-featured_image: "https://chasingdings.com/images/zooksmall.jpg"
-cover:
-  image: "https://chasingdings.com/images/zooksmall.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/zooksmall.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/zooksmall.jpg"
 ---
+Watched the Academy Awards; followed by placing my characters on the red carpet. I guess I should have gotten a better dress for Nash......
+<!--more-->
 
-![](https://chasingdings.com/images/zooksmall.jpg)Watched the Academy Awards; *followed by* placing my characters on the red carpet. I guess I should have gotten a better dress for Nash...
+
+
+Watched the Academy Awards; *followed by* placing my characters on the red carpet. I guess I should have gotten a better dress for Nash...
 
 Changed the name of my Guitar Hero band to the suitably necrotic Death2U. I also became a guitar god and was lifted bodily into Rock Heaven for beating the game on "Medium". Working through it on "Hard" is going KINDA slow.
 
@@ -43,6 +22,6 @@ Cleaned my son's bedroom in the old apartment. An experience I never wish to rep
 
 Tried to get my Miata to San Marcos. Thwarted by an alarm system that I couldn't turn off!
 
-![](https://chasingdings.com/images/lochinvar.jpg)Found a picture in my daughter's stuff that she never collected of my gone-but-never-forgotten cat Lochinvar. This is the only one I can remember that isn't against a dark background, making him seem like a pair of disembodied, floating eyes.
+{{< image src="https://tipa16384.github.io/wkblog/images/lochinvar.jpg" classes="fig-20" >}}Found a picture in my daughter's stuff that she never collected of my gone-but-never-forgotten cat Lochinvar. This is the only one I can remember that isn't against a dark background, making him seem like a pair of disembodied, floating eyes.
 
 Killed Vule on EQ1. On EQ2, Etha became a level 32 Alchemist, and Nashuya became a level 33 Shadow Knight. Didn't have enough time to join Day 2 of Molten Core on WoW, but I understand they killed some burning rock critter.

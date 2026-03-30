@@ -3,43 +3,23 @@ date: '2010-12-24T08:55:14-05:00'
 draft: false
 title: "Wizard101: The last gift of the Giving Tree"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/24/wizard101-the-last-gift-of-the-giving-tree/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Celestia"
   - "Gardening"
   - "Giving Tree"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45-480x360.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45-480x360.jpg "Harvesting the elder tree")](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-24-08-35-39-45.jpg)
 
 I'd hoped that the Giving Tree would give, as its final gift, the seed for another Giving Tree, but -- no such luck. A bunch of rare Celestia harvests, a handful of gold and Rank 7 -- Expert Gardener -- will have to do in its place, I guess.
 

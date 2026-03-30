@@ -3,40 +3,17 @@ date: '2006-02-08T00:00:00-05:00'
 draft: false
 title: "Prosthetic Feet&#039;s first Molten Core run"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/08/prosthetic-feets-first-molten-core-run/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yes, I still play WoW :P..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/images/mc1a-hd.jpg"
-cover:
-  image: "https://chasingdings.com/images/mc1a-hd.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/mc1a-hd.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/mc1a-hd.jpg"
 ---
+Yes, I still play WoW :P...
+<!--more-->
 
-![](https://chasingdings.com/images/mc1a-hd.jpg)
+
 
 Yes, I still play WoW :P
 
@@ -44,11 +21,11 @@ We had a wonderful turnout at our first Molten Core run last Saturday, with gues
 
 Well, it was a first time for me, anyway.
 
-![](https://chasingdings.com/images/mc1b-hd.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/mc1b-hd.jpg" classes="center" >}}
 
 We side-stepped a number of wipes through trollish skill (we trolls really carry the Horde... it's true...) and soon came to the first boss, Lucifron. He's a big sweety, but apparently they had fiddled with his AE so our uber strats needed some adjustments.
 
-![](https://chasingdings.com/images/mc1c-hd.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/mc1c-hd.jpg" classes="center" >}}
 
 What kills you makes you stronger. Here's Luci about to make a fresh batch of Kanda Krunchies. If only the healers had been healing instead of taking snapshote...
 

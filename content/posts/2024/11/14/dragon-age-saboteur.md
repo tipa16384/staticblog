@@ -3,47 +3,25 @@ date: '2024-11-14T07:56:03-05:00'
 draft: false
 title: "Dragon Age: Saboteur"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/11/14/dragon-age-saboteur/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Can I win Dragon Age: Veilguard with a bow that has just one arrow and takes ten seconds to reload?"
-description: "Can I win Dragon Age: Veilguard with a bow that has just one arrow and takes ten seconds to reload?"
-tags:
+categories:
   - "Action RPG"
   - "Dragon Age Origins"
   - "RPG"
+tags:
   - "Dragon Age"
   - "The Veilguard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/1-20241113215345_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/11/1-20241113215345_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/1-20241113215345_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/1-20241113215345_1.jpg"
 ---
+Can I win Dragon Age: Veilguard with a bow that has just one arrow and takes ten seconds to reload?
+<!--more-->
 
 We tend to watch a few video game challenge runs here in RPG Central. Mostly in the souls-like genre. My favorites of those have always been the challenge runs where the player has to kill every boss with one keypress, usually using an extreme sort of build that would leave nothing on the table; if the boss has a chance to attack, it's game over.
 
 Dragon Age: Veilguard usually hands out a unique item after a major boss fight. These typically have great benefits, but also severe drawbacks -- for instance, an armor with zero initial defense, but as you get hit, the armor buffs itself up to insane levels. When Andruil's Chord dropped, I was excited.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/1-20241113231053_1-1024x575.jpg" title="Not a great bow. Or...?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/1-20241113231053_1-1024x575.jpg" title="Not a great bow. Or...?" classes="center" >}}
 
 Andruil's Chord is a unique longbow with 315 physical damage -- super high, and 100 stagger -- makes them unable to fight if it accrues enough. Weakpoint damage is super strong -- the only way to kill dragons is by focusing on their glowing weakpoints. BUT: the arrows refresh super slow, taking ten seconds. AND: you only get one arrow. Being able to attack from range only once every ten seconds won't be nearly enough to build up the momentum for the abilities to fire.
 
@@ -53,7 +31,7 @@ As far as I can tell, though, it is impossible to one shot the big bosses in the
 
 My solution: arrow regeneration.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/1-20241113224307_1-1024x576.jpg" title="The rogue skill tree" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/1-20241113224307_1-1024x576.jpg" title="The rogue skill tree" classes="center" >}}
 
 There's a specific armor that grants +50% arrow regeneration. There's a ring that gives a little more. An enchantment that gives some more. And in the skill tree -- if you go looking, there's two or three places which give you more.
 

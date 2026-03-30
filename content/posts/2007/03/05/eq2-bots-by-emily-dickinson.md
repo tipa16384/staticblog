@@ -3,40 +3,17 @@ date: '2007-03-05T09:27:19-05:00'
 draft: false
 title: "EQ2: Bots, by Emily Dickinson"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/03/05/eq2-bots-by-emily-dickinson/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Because I would not stop for bots..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/03/bots1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/03/bots1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/bots1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/bots1.jpg"
 ---
+Because I would not stop for bots...
+<!--more-->
 
-![bots1.jpg](https://chasingdings.com/wp-content/uploads/2007/03/bots1.jpg)
+
 
 Because I would not stop for bots
 
@@ -62,7 +39,7 @@ They passed the tents where centaurs grazed
 
 They passed the bear-filled wood
 
-![bots2.jpg](https://chasingdings.com/wp-content/uploads/2007/03/bots2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/bots2.jpg" classes="center" >}}
 
 They paused before a named that seemed
 

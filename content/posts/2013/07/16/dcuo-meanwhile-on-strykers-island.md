@@ -3,40 +3,17 @@ date: '2013-07-16T06:54:42-05:00'
 draft: false
 title: "DCUO: Meanwhile, on Stryker's Island..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/07/16/dcuo-meanwhile-on-strykers-island/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After our hard-won victory over the Supreme Justice last week at the South Gotham Courthouse, where the game kept presenting that alert as the \"daily..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/07/MADV114_DESIGNERDATA-PC-15-00.10.400-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/07/MADV114_DESIGNERDATA-PC-15-00.10.400-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/MADV114_DESIGNERDATA-PC-15-00.10.400-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/MADV114_DESIGNERDATA-PC-15-00.10.400-480x269.jpg"
 ---
+After our hard-won victory over the Supreme Justice last week at the South Gotham Courthouse, where the game kept presenting that alert as the "daily...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/MADV114_DESIGNERDATA-PC-15-00.10.400-480x269.jpg" title="Yellow constructs? No problem!" class="align-center" >}}
+
 
 After our hard-won victory over the Supreme Justice last week at the South Gotham Courthouse, where the game kept presenting that alert as the "daily double" every week, we wondered if we'd be forced to do it again this week for the best rewards.
 
@@ -46,7 +23,7 @@ Gotham sends its super-powered villains to Arkham Asylum, which does an astonish
 
 Team Spode was enjoying the electric night life of Center City when Oracle's call came over the Spode-o-Phone. Trouble at Stryker's Island. All the competent super groups busy. It was time for the Team of Last Resort to take to the skies once again, to do once more the jobs that other teams won't.
 
-[![Team SPODE!](https://chasingdings.com/wp-content/uploads/2013/07/spode.png)](https://chasingdings.com/wp-content/uploads/2013/07/spode.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/07/spode.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2013/07/spode.png)
 
 The Rogues had gotten loose at Stryker's. These four villains -- Weather Wizard, Captain Cold, Heat Wave and Mirror Master -- had discovered that Stryker's keeps all their supervillain gear in good condition, ready for use, at Stryker's itself. Because keeping crooks and their weapons together in incarceration is cutting edge rehabilitation science. The Rogues escaped, got their weapons, and Stryker's went into emergency lockdown.
 

@@ -3,43 +3,21 @@ date: '2014-08-25T07:31:21-05:00'
 draft: false
 title: "Designing \"Crushbone Arena\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/08/25/designing-crushbone-arena/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Tomorrow, the first batch of Cult of the Dragon foundry quests will go live. I don't know when mine will show, or if it will..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Arena"
   - "Crushbone"
   - "Foundry"
-featured_image: "https://lh3.googleusercontent.com/-nAHMWbGwsnc/U_j8wfwzDMI/AAAAAAAAzso/GiJ8Mq7epaI/w787-h630-no/GameClient%2B2014-08-23%2B16-42-37-69.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-nAHMWbGwsnc/U_j8wfwzDMI/AAAAAAAAzso/GiJ8Mq7epaI/w787-h630-no/GameClient%2B2014-08-23%2B16-42-37-69.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-nAHMWbGwsnc/U_j8wfwzDMI/AAAAAAAAzso/GiJ8Mq7epaI/w787-h630-no/GameClient%2B2014-08-23%2B16-42-37-69.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-nAHMWbGwsnc/U_j8wfwzDMI/AAAAAAAAzso/GiJ8Mq7epaI/w787-h630-no/GameClient%2B2014-08-23%2B16-42-37-69.jpg"
 ---
+Tomorrow, the first batch of Cult of the Dragon foundry quests will go live. I don't know when mine will show, or if it will...
+<!--more-->
 
-![Characters](https://lh3.googleusercontent.com/-nAHMWbGwsnc/U_j8wfwzDMI/AAAAAAAAzso/GiJ8Mq7epaI/w787-h630-no/GameClient%2B2014-08-23%2B16-42-37-69.jpg)
+
 
 Tomorrow, the first batch of Cult of the Dragon foundry quests will go live. I don't know when mine will show, or if it will show. I kinda think the first few batches will have the advantage of player interest. I've been over and over the quest since the supposed deadline back on the 6th, ripping out stuff but more often, adding in new stuff. One disadvantage of coming up with the plot last is that by the time I figure out what the plot _is_, I've put too much work into the quest to make that plot clear to the player.
 
@@ -53,7 +31,7 @@ Hardly anyone bothers with foundries once they level up enough such that you nee
 
 So, this is the perfect time to do one.
 
-![Greater Faydark](https://lh4.googleusercontent.com/-6s_Dp3Kllfg/U_p-HZCmrCI/AAAAAAAAzuM/JUeJHz3Z_wk/w787-h630-no/GameClient%2B2014-08-24%2B20-06-47-43.jpg)
+{{< image src="https://lh4.googleusercontent.com/-6s_Dp3Kllfg/U_p-HZCmrCI/AAAAAAAAzuM/JUeJHz3Z_wk/w787-h630-no/GameClient%2B2014-08-24%2B20-06-47-43.jpg" classes="center" >}}
 
 Image just above is Greater Faydark -- but I'm getting ahead of myself. The top image are some of the NPCs I'm working on; I have a lot more of them now. I'll just keep making them until I think I have enough for the stories I want to tell. I have the advantage in that I'm starting this quest with the characters from Tempest, so I have a lot of gnomes available. Plus, Prospero now kicks off the quest instead of my avatar that I used for the last couple.
 
@@ -61,7 +39,7 @@ Anyway, the picture above is, from left to right, "an orc slaver", "Ambassador D
 
 There's no lore reason for the Freeport Guard to be there, but I really liked the character model from Tempest, so he gets to be in the show, along with the enslaved gnomes who you are to free from Crushbone.
 
-![Teenage orcs](https://lh4.googleusercontent.com/-q2tD7rnlrL8/U_qNCVhejWI/AAAAAAAAzvo/THN3UYsVMBw/w787-h630-no/GameClient%2B2014-08-24%2B21-10-27-81.jpg)
+{{< image src="https://lh4.googleusercontent.com/-q2tD7rnlrL8/U_qNCVhejWI/AAAAAAAAzvo/THN3UYsVMBw/w787-h630-no/GameClient%2B2014-08-24%2B21-10-27-81.jpg" classes="center" >}}
 
 Even though "Crushbone Arena" won't actually be an arena-style quest (though it will end in an arena fight because, it's named Crushbone Arena), I want this one to have a little more combat than I generally have.
 

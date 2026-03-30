@@ -3,38 +3,13 @@ date: '2010-03-24T06:41:26-05:00'
 draft: false
 title: "7DRL -- World of Roguecraft: Slightly more fun than clipping your nails."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/24/7drl-world-of-roguecraft-slightly-more-fun-than-clipping-your-nails/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The ratings for the entries in this year's 7DRL -- 7 Day Rogue-Like -- game design challenge are in, and my entry, World of Roguecraft,..."
+categories:
   - "7DRL"
   - "Other Games"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+The ratings for the entries in this year's 7DRL -- 7 Day Rogue-Like -- game design challenge are in, and my entry, World of Roguecraft,...
+<!--more-->
 
 The [ratings for the entries](http://www.roguetemple.com/7drl/2010/) in [this year's 7DRL -- 7 Day Rogue-Like -- game design challenge](http://tinyurl.com/ybrdra2) are in, and my entry, [World of Roguecraft](http://groups.google.com/group/rec.games.roguelike.development/browse_thread/thread/8ae409f0e60c748d#), is in the top 95%! So grats me ;)
 

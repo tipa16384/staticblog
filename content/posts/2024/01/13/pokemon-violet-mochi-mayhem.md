@@ -3,38 +3,17 @@ date: '2024-01-13T14:21:39-05:00'
 draft: false
 title: "Pokemon Violet: Mochi Mayhem"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/01/13/pokemon-violet-mochi-mayhem/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Finished with Pokemon Scarlet/Violet... again... with a strange little episode about a Pokemon who forces people to do the chicken dance?"
-description: "Finished with Pokemon Scarlet/Violet... again... with a strange little episode about a Pokemon who forces people to do the chicken dance?"
-tags:
+categories:
   - "Pokemon"
+tags:
   - "Dlc"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/2024011219550300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/01/2024011219550300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Pokemon"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/2024011219550300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/2024011219550300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
 ---
+Finished with Pokemon Scarlet/Violet... again... with a strange little episode about a Pokemon who forces people to do the chicken dance?
+<!--more-->
 
 I love Pokemon games, and in fact, I could probably *just* play Pokemon games, every day, the entire year, and still not come close to exhausting all the possible content. And I'm not even talking about the card game, just the main line video games. 
 
@@ -44,13 +23,13 @@ But first, I had to join the elite Burberry Academy (which reminds me of that gi
 
 Not making this up. It's radioactive (broadcasts Terestal energy) and gets *more* radioactive as the story progresses.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/2024010923240200-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Elite Four's Crispin Defeated" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/2024010923240200-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Elite Four's Crispin Defeated" classes="center" >}}
 
 There was another reason I was reluctant to start "The Indigo Disk", the second part of the PS/V DLC. I'd read that all the trainer battles were double battles -- something I hadn't done since one of the previous main line Pokemon games had done that, a long time ago. I really had no idea how to set up a team, how Pokemon could support each other, etc. I felt I'd get smoked pretty quickly, *especially* since I like to approach a new DLC by catching Pokemon from that DLC and using only those Pokemon.
 
 That worked fine with me through the Sword and Shield DLC, and it worked fine for me in The Teal Mask, but having to get double, that could support each other... I just didn't know if I was up for the challenge. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/2024011021393500-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Elite Four's Amarys Defeated!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/2024011021393500-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Elite Four's Amarys Defeated!" classes="center" >}}
 
 I spent my first few hours in the expansion just catching Pokemon catching wild Pokemon and going into crystal caves to find higher level Pokemon. (I make an exception for Tera raids; I will use my best Pokemon for that even if they are not from that expansion. Or that game. /wave to Arceus)
 
@@ -58,17 +37,17 @@ It wasn't too long before I had *a* team, though I'd move it around a lot. First
 
 Excadrill and others took up the last two slots; Porygon-Z was particularly powerful during the leveling-up, though less so against actual trainers. Hydrapple was a disappointment all around, unfortunately.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/2024011022145700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Elite Four's Lacey Defeated!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/2024011022145700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Elite Four's Lacey Defeated!" classes="center" >}}
 
 Once I had a team of sorts put together, I started taking on trainers here and there. They weren't terrible to start. Sometimes they would give me a bit of an issue. Flygon had U-Turn which let me use it to scope out the opposition and then bring in something tuned to the fight -- was very helpful. I paired that with a Choice Scarf so that if I decided to keep it in the fight, it could focus on its most powerful move with a huge boost. The Flygon/Minior duo really took me through most of the game by themselves.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/2024011023090700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Elite Four's Drayton Defeated!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/2024011023090700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Elite Four's Drayton Defeated!" classes="center" >}}
 
 Fighting Drayton required me to fight three lesser trainers first, using only Pokemon I'd caught wild in the Terrarium. Turns out that the Pokemon I'd caught from the Tera crystals were not eligible, so I had to frantically switch out my team to stuff I'd caught in the Polar Biome on the way to meet the leader of the Elite Four, since a lot of that stuff was already level 70 or better.
 
 I didn't have that restriction against Drayton himself, and my Dragon-type Flygon once again took the lead. None of the Elite Four were ready for all the Max HP potions I had in my bags :-) You don't need a great team if you can just keep healing. But, Flygon is legitimately great, and *this* is why I like catching my team from scratch in a new area. I'd never have tried it otherwise.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/2024011221202700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Everyone gathered together to eat more mochi" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/2024011221202700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Everyone gathered together to eat more mochi" classes="center" >}}
 
 After that, there wasn't much to do besides ruin Kieran's fun by beating him again and ripping the Championship away from him.
 
@@ -78,13 +57,13 @@ We were soon sent back to Paldea's Area Zero, where we encountered Terapagos (th
 
 At this point, the game really begins -- with battles against former notable trainers now powered up, dozens of legendary creatures appearing and so on. I caught Moltres and Articuno but grew bored with that quickly.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/2024011221130500-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Meeting Pecharunt" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/2024011221130500-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Meeting Pecharunt" classes="center" >}}
 
 The epilogue story, "Mochi Madness", brings together friends from Paldea and Alola on a field trip to Kitakami where Kieran's sister, Carmine, has gone insane. She pops up suddenly doing the chicken dance and yelling "MOCHI! MOCHI!" without stop.
 
 Before long, it seems that *everyone* is dancing and yelling for mochi. Only we and Kieran seem to have escaped the grasp of the poisonous Pokemon that is controlling the people of the village and our friends. And the only possible way to meet the threat is to battle all the villagers and our friends and finally Nemora, our rival from Paldea. Kiki and I bond as we take on dozens of enemies, but finally he splits off to hold back the villagers as I take on Nemora alone -- and after her, Pecharunt. I was pretty unhappy to see that, once captured, it no longer tossed mind control mochi and people. It *says* it does, but it's just poison, not mind control.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/2024011221173700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Pecharunt summary" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/2024011221173700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Pecharunt summary" classes="center" >}}
 
 It's not a bad Pokemon. Poison and Ghost are powerful types, and Ghost helps with some of Poison's weaknesses. If and when I return to the game, I might try to fit it in the team.
 

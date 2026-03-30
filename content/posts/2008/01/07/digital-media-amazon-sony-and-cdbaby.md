@@ -3,37 +3,12 @@ date: '2008-01-07T12:25:50-05:00'
 draft: false
 title: "Digital Media: Amazon, Sony and CDBaby"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/07/digital-media-amazon-sony-and-cdbaby/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We all have our little initiatives for this new year. Brandon at Another Here wants to better himself in a new way every month of..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+We all have our little initiatives for this new year. Brandon at Another Here wants to better himself in a new way every month of...
+<!--more-->
 
 We all have our little initiatives for this new year. Brandon at Another Here wants to better himself in a new way every [month of the year](http://www.anotherhere.com/archives/85/Podcast-30-Let-the-enrichment-begin). Me, I just want less stuff to carry around.
 

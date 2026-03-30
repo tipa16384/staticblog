@@ -3,40 +3,17 @@ date: '2013-05-12T12:25:29-05:00'
 draft: false
 title: "EQ2: Scars of the Awakened: Part 4, The Completening"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/12/eq2-scars-of-the-awakened-part-4-the-completening/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I really have finished the Scars of the Awakened storyline, all the tradeskill quests, all the adventure quests, gotten the titles, loot and achievements and..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-11-16-20-26-34-480x429.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-11-16-20-26-34-480x429.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-11-16-20-26-34-480x429.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-11-16-20-26-34-480x429.jpg"
 ---
+I really have finished the Scars of the Awakened storyline, all the tradeskill quests, all the adventure quests, gotten the titles, loot and achievements and...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-11-16-20-26-34-480x429.jpg" title="The Field Marshal and I go a-hunting" class="align-center" >}}
+
 
 I really have finished the Scars of the Awakened storyline, all the tradeskill quests, all the adventure quests, gotten the titles, loot and achievements and picked up a couple upgrades from my innumerable trips through the Siren's Grotto solo adventures. I'm going to try and describe the zone's story, as I've come to understand it.
 
@@ -48,7 +25,7 @@ The Combine empire, forced back to Norrath from their home on Luclin after Keraf
 
 That's where we players come in.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-11-11-51-00-97-480x343.jpg" title="Kelorek'Dar" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-11-11-51-00-97-480x343.jpg" title="Kelorek'Dar" classes="center" >}}
 
 **The Awakened Forces**
 
@@ -78,7 +55,7 @@ The main Combine Empire camp, the focus of the defense against the drakes, and t
 
 These undead are the risen remains of sailors whose ships were called to smash themselves on the shoals and reefs by the Darkwater Sirens. They have been re-animated by an evil power emanating from Siren's Grove.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-11-18-28-15-45-480x342.jpg" title="Fighting mindflayers in the Tavalan Abyss" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-11-18-28-15-45-480x342.jpg" title="Fighting mindflayers in the Tavalan Abyss" classes="center" >}}
 
 **Siren's Grotto**
 
@@ -88,7 +65,7 @@ If you follow her through the portal to the depths of Darkhollow, you'll eventua
 
 The adventure timeline ends with you and Field Marshall Vishra entering a special version of the Tavalan Abyss, the Tear in the Grotto, to discover that the source of the queen's power was a fragment of the necrotic dragonbone that had killed and corrupted the Othmir and raised the undead in Howling Cove.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-12-08-43-55-65-480x343.jpg" title="Scatterfall the Not-a-Fae" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-12-08-43-55-65-480x343.jpg" title="Scatterfall the Not-a-Fae" classes="center" >}}
 
 That's my understanding of the plot behind the new Game Update. This would have been a really slick Adventure Pack back in the day, but now it's just a free update. The amount of new lore is amazing; it advances the Velious storyline and sets up more stories (a return to the Undershore, maybe?). There are all-new armor sets with new looks and equivalent to the Chains of Eternity sets, the solo zones are first rate, and I look forward to someday seeing the group versions of those zones.
 
@@ -96,13 +73,13 @@ Careful readers of this blog may remember Scatter as a Fae. Well, one day, call 
 
 I looked through my illusion collection and found a wood elf illusion. I dropped my Fae flight power, cast the illusion, and summoned the mount I got from spending the Dungeon Maker marks back when I was powerleveling myself in those, back when that was something you could do.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-11-18-13-42-82-480x342.jpg" title="The Once and Future Fae" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-11-18-13-42-82-480x342.jpg" title="The Once and Future Fae" classes="center" >}}
 
 I actually really like the look. Probably not quite enough to pay real money to make it permanent, but there's something to be said for looking normal once in awhile. I bought some raid boots, and when I ported in to collect them, I was happy to look like a proper tank, with glowing shield and a very cool sword I got from the Tavalan lord, a look sure to inspire any group that would take me as their defender.
 
 I haven't been sword-and-board with Scatterfall for ages, preferring the slow but astonishingly damaging swings of a greatsword. But, until I can pair my new sword... sec, lemme drop a better picture of it... it's so swordfishy, the folks in the auction channel wanted to buy it from me....
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-12-09-04-59-33-480x294.jpg" title="Swordfish: The Movie: The Game" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-12-09-04-59-33-480x294.jpg" title="Swordfish: The Movie: The Game" classes="center" >}}
 
 Anyway, until I can pair my new sword with a comparable sword, I'm using a weighted cazicite shield with the appearance of an aetherplate shield from the CoE timeline. This allows me to use a power from the shield AA line to improve hate and just make me more tank-y. In my Daily Dreadcutter runs, instead of being able to slice down the nameds before I kill the adds (and go dragging them with me), I kill more slowly and the adds are typically dead by the time the nameds are. On the other hand, I take so much less damage that my death prevention trigger spells don't even fire.
 

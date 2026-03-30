@@ -3,38 +3,13 @@ date: '2005-11-28T00:00:00-05:00'
 draft: false
 title: "Dealing with Farmers"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/11/28/dealing-with-farmers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Occasionally, on EQ, I'd run across a farmer. But not that often; the last time I really interacted with farmers were the ones farming Sleeper's..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Occasionally, on EQ, I'd run across a farmer. But not that often; the last time I really interacted with farmers were the ones farming Sleeper's...
+<!--more-->
 
 Occasionally, on EQ, I'd run across a farmer. But not that often; the last time I really interacted with farmers were the ones farming Sleeper's Tomb for cash items on Stromm. And they spoke English. And were pissed we woke the Sleeper.....
 

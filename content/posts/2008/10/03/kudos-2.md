@@ -3,43 +3,21 @@ date: '2008-10-03T07:47:56-05:00'
 draft: false
 title: "Kudos 2 review"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/03/kudos-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If you could relive your life, would you do it all over again the same way? What if you could live your life in a..."
+categories:
   - "Other Games"
+tags:
   - "Casual Game"
   - "Kudos"
   - "Kudos 2"
   - "Positech"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/kudos2-2008-10-02-20-08-25-79.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/kudos2-2008-10-02-20-08-25-79.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/kudos2-2008-10-02-20-08-25-79.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/kudos2-2008-10-02-20-08-25-79.jpg"
 ---
+If you could relive your life, would you do it all over again the same way? What if you could live your life in a...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/kudos2-2008-10-02-20-08-25-79.jpg "kudos2-2008-10-02-20-08-25-79")
+
 
 If you could relive your life, would you do it all over again the same way? What if you could live your life in a better, or at least different, way? [Positech's Kudos 2](http://www.positech.co.uk/kudos2/) lets you chart ten years in the life of someone just starting out in the world, working at some menial job that just barely pays the bills.
 
@@ -47,7 +25,7 @@ I started out life as a waitress, making a pittance, going out with my friends e
 
 Once each weeknight, and twice on weekends, you get a chance to change your life. Friends will lift up your spirits or depress you, make you overspend on bad food or simply ignore you. Or you can study for classes, look for another job, watch TV, go shopping, take a bath, go for a walk in the park, read a book... make a choice to read up on current events to qualify for a news job, and your friends may resent you not going out with them. Go to the theater with friends when you're in a bad mood, and they may wish you'd been more excited about being with them.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/kudos2-2008-10-02-20-08-00-12.jpg "kudos2-2008-10-02-20-08-00-12")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/kudos2-2008-10-02-20-08-00-12.jpg" title="kudos2-2008-10-02-20-08-00-12" classes="center" >}}
 
 *The graphs that rule my life.*
 
@@ -55,7 +33,7 @@ I decided I didn't want to be a waitress all my life, so I took classes, studied
 
 I joined a bowling league and would go out with the few friends I had when I could afford to, and after awhile, found a much better paying job as a reporter for a local radio station. I was making good money, it was a lot closer, I was learning how to drive, I had subcriptions to all the local papers to stay informed, and I could afford to go to the ballet and theater and stuff, but my friends were too lowbrow to keep up, and so they in turn eventually drifted away as I turned my attention to a local cable TV station that needed a new presenter.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/kudos2-2008-10-02-19-51-14-35.jpg "kudos2-2008-10-02-19-51-14-35")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/kudos2-2008-10-02-19-51-14-35.jpg" title="kudos2-2008-10-02-19-51-14-35" classes="center" >}}
 
 *Boring, grubby churchgoer with a radio show but few friends? I sound like a Stephen King villain.*
 

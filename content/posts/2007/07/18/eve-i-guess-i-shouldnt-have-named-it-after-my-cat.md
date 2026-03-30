@@ -3,40 +3,17 @@ date: '2007-07-18T01:47:13-05:00'
 draft: false
 title: "EVE: I guess I shouldn't have named it after my cat..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/18/eve-i-guess-i-shouldnt-have-named-it-after-my-cat/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was a difficult mission -- stop a military transport, take everyone on it prisoner and bring them back to base for some fun --..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/07/isissilentkiss2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/07/isissilentkiss2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/isissilentkiss2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/isissilentkiss2.jpg"
 ---
+It was a difficult mission -- stop a military transport, take everyone on it prisoner and bring them back to base for some fun --...
+<!--more-->
 
-![isissilentkiss2.jpg](https://chasingdings.com/wp-content/uploads/2007/07/isissilentkiss2.jpg)
+
 
 It was a difficult mission -- stop a military transport, take everyone on it prisoner and bring them back to base for some fun -- and I think I did fairly well. Defeated the two scouts guarding the acceleration array (ie, zone line) to the instance, no problem, I was cooking with antimatter. Inside the deadspace instance, were a couple of ships... okay, I can take them on... and then many more... so much that I had to rabbit it back to base for some quick repairs. When I returned... two minutes until the transport arrived... I couldn't defeat all its guards by then. I decided to lead them a chase and circle back around.
 

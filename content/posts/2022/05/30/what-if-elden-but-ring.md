@@ -3,42 +3,20 @@ date: '2022-05-30T23:44:51-05:00'
 draft: false
 title: "What if Elden, but Ring?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/05/30/what-if-elden-but-ring/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over..."
+categories:
   - "Elden Ring"
   - "Horizon Forbidden West"
   - "PS5"
+tags:
   - "Dark Souls"
   - "RPG"
   - "Souls-Like"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529120543-scaled.jpg"
 ---
+I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over...
+<!--more-->
 
 I am on the final boss fight for Elden Ring, learning how to get good enough against Radagon to still have enough resources left over for the Elden Beast. I think it's one of the best games I've played in quite awhile, but I do have some issues with it. Spoilers below.
 
@@ -48,7 +26,7 @@ While he was working through the game, I played through to the first boss in Blo
 
 Still, I read that Elden Ring was the more approachable "Souls"-like, that opened almost the entire world to you after the tutorial. It was an open-ended experience where you chart your course, with only the gentlest of hints to guide your journey.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/05/ELDEN-RING™_20220529130302-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2022/05/ELDEN-RING™_20220529130302-scaled.jpg)The Erdtree looks really nice. Hate for something to happen to it.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529130302-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529130302-scaled.jpg)The Erdtree looks really nice. Hate for something to happen to it.
 
 Elden Ring was, by far, the least enjoyable game opening for any RPG I have ever played, save one. I died to absolutely everything I came across. My timing was bad, my gear was bad, I had no idea what I was doing -- and at this point you might be expecting me to continue with, "...but it was the most fun I have ever had in an RPG".
 
@@ -66,7 +44,7 @@ The entirety of my run has been -- how do I get to and then complete the next bo
 
 I worked hard on my blood dragon knight build. Together with my mimic, I walked through the bosses in the icefields of the mountaintops and then to the ruins of the capital city. This build turns out to be useless against the final bosses in the game, but that's okay. I'm working on something and I do expect to be able to get some ending to the game sometime this week.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/05/ELDEN-RING™_20220529201709-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/05/ELDEN-RING™_20220529201709-1024x576.jpg" classes="center" >}}
 
 I can't actually say I've enjoyed my time in Elden Ring. It feels like a job. I've learned some stuff about myself, though. I've learned that I really *do* want direction in the game. If only so I know what the heck is going on. I don't particularly want to replay this, once done, and I don't feel any desire to go back and play another Souls-like game -- not even the ones I have started.
 

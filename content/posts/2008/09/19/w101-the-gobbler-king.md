@@ -3,45 +3,24 @@ date: '2008-09-19T11:00:27-05:00'
 draft: false
 title: "W101: The Gobbler King"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/19/w101-the-gobbler-king/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't really like visiting the Gobbler King. Aside from being really stinky AND making a habit of snacking on the architecture, he is always..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Bastilla"
   - "Firecat Alley"
   - "Gobbler King"
   - "Krokotopia"
   - "W101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-19-00-09-18-69.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-19-00-09-18-69.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-19-00-09-18-69.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-19-00-09-18-69.jpg"
 ---
+I don't really like visiting the Gobbler King. Aside from being really stinky AND making a habit of snacking on the architecture, he is always...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-19-00-09-18-69.jpg "wizardgraphicalclient-2008-09-19-00-09-18-69")
+
 
 I don't really like visiting the Gobbler King. Aside from being really stinky AND making a habit of snacking on the architecture, he is always shoving food into that maw of his and speaking with his mouth full and splattering food all over you. I know Gobblers see weight as a sign of rank and power, but isn't he fat enough?
 

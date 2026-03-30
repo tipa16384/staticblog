@@ -3,43 +3,22 @@ date: '2020-08-18T07:39:34-05:00'
 draft: false
 title: "Blaugust #18: The Island of Unfinished Games"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/18/blaugust-18-the-island-of-unfinished-games/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Sorry, I just spent the last half hour looking for exactly the best song I remembered from Martin Mull which was... perfect for this writing..."
+categories:
   - "3D Printing"
   - "Blaugust"
   - "EverQuest"
   - "Final Fantasy"
+tags:
+  - "Blaugust"
   - "Chrono Trigger"
   - "Martin Mull"
   - "Perler"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1828.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1828.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1828.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1828.jpg"
 ---
+Sorry, I just spent the last half hour looking for exactly the best song I remembered from Martin Mull which was... perfect for this writing...
+<!--more-->
 
 Sorry, I just spent the last half hour looking for exactly the best song I remembered from Martin Mull which was... perfect for this writing prompt. And that took me down a rabbit hole with Martin jamming with Glen Campbell (awesome!), and then I got to watching more YouTube and now it's forty minutes until work and I have a blog post to write.
 

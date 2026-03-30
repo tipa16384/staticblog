@@ -3,40 +3,17 @@ date: '2008-11-11T09:45:35-05:00'
 draft: false
 title: "WoW: The Azeroth Stimulus Package"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/11/wow-the-azeroth-stimulus-package/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If eBay closed tomorrow, thousands of small businesses that use the auction site for their virtual storefronts would be devastated. eBay has long since stopped..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/ustreas.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/ustreas.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/ustreas.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/ustreas.jpg"
 ---
+If eBay closed tomorrow, thousands of small businesses that use the auction site for their virtual storefronts would be devastated. eBay has long since stopped...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/ustreas.jpg "ustreas")
+
 
 If eBay closed tomorrow, thousands of small businesses that use the auction site for their virtual storefronts would be devastated. eBay has long since stopped being primarily the world's biggest yard sale, and now funnels an amazing number of gray market and handmade goods all over the world.
 

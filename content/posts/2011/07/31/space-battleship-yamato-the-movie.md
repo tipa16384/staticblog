@@ -3,40 +3,17 @@ date: '2011-07-31T09:02:23-05:00'
 draft: false
 title: "Space Battleship Yamato (the movie)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/07/31/space-battleship-yamato-the-movie/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The movie starts, like all good space operas, in the silence of space. Blaster fire reflects off the eye of a lone pilot; the camera..."
+categories:
   - "General"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg"
 ---
+The movie starts, like all good space operas, in the silence of space. Blaster fire reflects off the eye of a lone pilot; the camera...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/wmplayer-2011-07-31-08-54-13-39-480x320.jpg" title="Space Battleship Yamato" class="align-center" >}}
+
 
 The movie starts, like all good space operas, in the silence of space. Blaster fire reflects off the eye of a lone pilot; the camera pulls back and we see she is part of a squadron; the camera pulls back more and we see an invasion of alien battleships against an Earth backdrop. Earth ships fire against the invaders, but their weapons are useless. The admiral sends a cruiser to attract enemy fire as he takes his flagship to safety.
 
@@ -44,7 +21,7 @@ The enemy are the Gamilas. They bombard Earth with meteors for reasons unknown, 
 
 The scavenger is Susumu Kodai, brother to the battleship captain sent to die in the opening. The message is from far-off Iscandar, and contains a schematic for a weapon (the wave motion gun), a star drive (the wave motion engine) and a location in the Greater Magellanic Cloud. Humanity's last hope is to build a ship -- the Space Battleship Yamato -- that can break the Gamilas blockade and bring help from Iscandar before Earth is lost and humanity entirely destroyed.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/wmplayer-2011-07-31-08-20-56-44-480x320.jpg" title="WARP!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-20-56-44-480x320.jpg" title="WARP!" classes="center" >}}
 
 The original Space Battleship Yamato ran for several years on Japanese TV in the 70s and in the US as Star Blazers in the 80s. Leiji Matumoto's distinctive characters (tall, willowy women, boylike men with wild hair), themes (anachronistic future tech) and mature plots brought an intensity to animation viewers had rarely seen. Instead of the episodic cartoons until then, Yamato told a continuing story. Each episode counted down the number of days left to Earth. As the series progressed, the crew of the Yamato met the blue-skinned Gamilas and their leader, Desslar, personally or in battle many times, with each earning a grudging respect for the other.
 
@@ -56,7 +33,7 @@ Fans of the original Yamato will find a few changes. The blue-skinned Gamilas ar
 
 By turning the Gamilas into a mainly off-screen presence and shortening the trip to Iscandar (what took eleven months in the anime apparently takes about a month in the movie), the movie keeps the urgency up and the focus on the main characters. The significantly different ending to the movie makes sequels based on the further adventures of the Yamato in the original series unlikely.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/wmplayer-2011-07-31-08-23-06-991-480x320.jpg" title="Kodai and Mori on the Yamato bridge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-08-23-06-991-480x320.jpg" title="Kodai and Mori on the Yamato bridge" classes="center" >}}
 
 I've never seen anything quite like this. It's not easy to bring animation to live action without seeming a parody of the original, but Yamato lifts some scenes shot-for-shot from the original, including the costumes in many cases, without irony. Well, except for Captain Okita's beard. I never did buy that.
 
@@ -64,4 +41,4 @@ It's an epic adventure set in the post-Battlestar Galactica reboot age. There is
 
 It's space opera. But, I *like* space opera, and I liked Space Battleship Yamato: The Movie.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/wmplayer-2011-07-31-10-11-37-28-480x204.jpg" title="The Yamato says goodbye to Earth" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/07/wmplayer-2011-07-31-10-11-37-28-480x204.jpg" title="The Yamato says goodbye to Earth" classes="center" >}}

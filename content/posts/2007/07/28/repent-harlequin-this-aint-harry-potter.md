@@ -3,39 +3,16 @@ date: '2007-07-28T11:34:55-05:00'
 draft: false
 title: "Repent, Harlequin! This ain't Harry Potter..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/28/repent-harlequin-this-aint-harry-potter/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There are always those who ask, what is it all about? For those who need to ask, and for those who need points sharply made,..."
+categories:
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/07/repent.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/07/repent.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/repent.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/repent.jpg"
 ---
+There are always those who ask, what is it all about? For those who need to ask, and for those who need points sharply made,...
+<!--more-->
 
-![repent.jpg](https://chasingdings.com/wp-content/uploads/2007/07/repent.jpg)
+
 
 > There are always those who ask, what is it all about? For those who need to ask, and for those who need points sharply made, who need to know "where it's at," this: - *from "Repent, Harlequin!" Said the Ticktockman, Harlan Ellison*
 

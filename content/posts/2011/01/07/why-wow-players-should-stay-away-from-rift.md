@@ -3,39 +3,18 @@ date: '2011-01-07T00:23:05-05:00'
 draft: false
 title: "Why WoW players should stay away from Rift."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/07/why-wow-players-should-stay-away-from-rift/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/rift-2010-12-29-19-46-43-81-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/rift-2010-12-29-19-46-43-81-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2010-12-29-19-46-43-81-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2010-12-29-19-46-43-81-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/rift-2010-12-29-19-46-43-81-480x384.jpg "A Rift")](https://chasingdings.com/wp-content/uploads/2011/01/rift-2010-12-29-19-46-43-81.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2010-12-29-19-46-43-81.jpg)
 
 World of Warcraft players, Rift isn't made for you.
 

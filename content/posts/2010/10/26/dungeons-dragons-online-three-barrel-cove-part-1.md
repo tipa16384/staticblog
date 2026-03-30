@@ -3,44 +3,24 @@ date: '2010-10-26T07:08:15-05:00'
 draft: false
 title: "Dungeons & Dragons Online: Three Barrel Cove, Part 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/26/dungeons-dragons-online-three-barrel-cove-part-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Minotaurs"
   - "Pirates"
   - "Static Group"
   - "Three Barrel Cove"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-25-00-39-44-80-480x384.jpg "Pirate Minotaurs?")](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-25-00-39-44-80.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-25-00-39-44-80.jpg)
 
 Picture, if you would, a pirate. What are the job qualifications for a pirate? Well, what qualities would best fit a life about ship? Nimbleness of foot? Ability to climb rigging in the harshest of winds? Perhaps not needing a lot of living space, since quarters below for pirates or seamen of any sort are little more than a bunk hung wherever there's room. A ready wit, a keen mind, deadly with blade or blunderbuss?
 

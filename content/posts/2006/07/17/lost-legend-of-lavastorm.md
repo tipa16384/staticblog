@@ -3,39 +3,18 @@ date: '2006-07-17T00:00:00-05:00'
 draft: false
 title: "Lost Legend of Lavastorm"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/17/lost-legend-of-lavastorm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Finally finished getting my Xegonite Melodic armor. My guild leader, Xagain, gave me a present of most of the pieces when I turned 62, but..."
+categories:
   - "EverQuest"
-featured_image: "https://chasingdings.com/images/arms.jpg"
-cover:
-  image: "https://chasingdings.com/images/arms.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/arms.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/arms.jpg"
 ---
+Finally finished getting my Xegonite Melodic armor. My guild leader, Xagain, gave me a present of most of the pieces when I turned 62, but...
+<!--more-->
 
-![](https://chasingdings.com/images/arms.jpg) Finally finished getting my Xegonite Melodic armor. My guild leader, Xagain, gave me a present of most of the pieces when I turned 62, but due to my personal definition of what arm meant (armor worn on your arm) versus EQ2's definition (armor worn on your wrist), I got a bracer instead of what EQ2 calls shoulder armor. So, since due to all the restless level 70s foraging and sending the prices of those forages plummeting, xegonite was cheap enough that I bought a cluster and had the ~~arms~~ shoulders made.
+
+
+Finally finished getting my Xegonite Melodic armor. My guild leader, Xagain, gave me a present of most of the pieces when I turned 62, but due to my personal definition of what arm meant (armor worn on your arm) versus EQ2's definition (armor worn on your wrist), I got a bracer instead of what EQ2 calls shoulder armor. So, since due to all the restless level 70s foraging and sending the prices of those forages plummeting, xegonite was cheap enough that I bought a cluster and had the ~~arms~~ shoulders made.
 
 They put Dina well over the top of the "too cute" scale...
 
@@ -45,18 +24,18 @@ Level 62 turned the whole of Solusek's Eye gray to me. Now that I could move fre
 
 I thought my new, snazzy gear would let me solo some barely-gray heroic mobs. That was mostly true.
 
-![](https://chasingdings.com/images/lll1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/lll1.jpg" classes="center" >}}
 
 First stop was the Speaker of Fates, in the same room as the portal that brings you to the giant area in Sol's Eye. (Picture is actually of his placeholder.) The real guy just happened to be up when I got there, along with two of his friends. No problem! Two friends for a troubador is EASY! Charm one, mez the other, kill the named! Naturally both charm and mez wore off well before I took the named down, but he was hardly hitting me anyway.
 
-![](https://chasingdings.com/images/lll3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/lll3.jpg" classes="center" >}}
 
 Next stop was the Castigator. I alternated clearing his placeholders and running down and clearing Lord Crana's placeholder. Castigator came with two friends, went as quickly as Speaker and just as easy. Down the various ramps and lifts to Lord Crana.
 
-![](https://chasingdings.com/images/lll4.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/lll4.jpg" classes="center" >}}
 
 Lord Crana introduced me to SEVERE PAIN. He has a bunch of glass fragment adds who enjoy poking me with sharp things, which by the way is MY job, NOT theirs. I'm not sure what class Lord Crana is, but he drained my mana, hit me with huge mental damage spellsthat my resist songs did little to ameliorate, and hurt me a lot with crushing stuff. He might have been a bard! In which case, hats off to him, but he really hurt. I tried a couple of strats, but I finally asked for help -- and a 66 wizard came in (still astonished by the generosity of EQ2 players), helped me kill him, and that was that.
 
-![](https://chasingdings.com/images/lll2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/lll2.jpg" classes="center" >}}
 
 I assumed the fourth named would also be in the giant area, and wasted a lot of time looking for him, but I was wrong; he was very near the top of the zone, right past the gnome expedition, and much easier than even the easiest of the giants. Killed him, returned to the speaker room, opened the chest and hey presto - The Crown of King Tranix. Couldn't hold a candle to my snazzy xegonite hat, so it sits on a table in my room, along with Tobrin's Mystical Eyepatch and the Stein of Moggok. The Heritage Collection - collect the entire set at your local Tanglewood's Emporium.

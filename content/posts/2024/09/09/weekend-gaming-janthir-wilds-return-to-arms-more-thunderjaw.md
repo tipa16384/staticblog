@@ -3,51 +3,29 @@ date: '2024-09-09T08:13:16-05:00'
 draft: false
 title: "Weekend gaming: Janthir Wilds, Return to Arms, more Thunderjaw"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/09/09/weekend-gaming-janthir-wilds-return-to-arms-more-thunderjaw/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: "I finish Guild Wars 2’s Janthir Wilds prologue, revisit **Champions: Return to Arms** with a PS4 controller, and make progress on my LEGO Thunderjaw build."
-description: "I finish Guild Wars 2’s Janthir Wilds prologue, revisit **Champions: Return to Arms** with a PS4 controller, and make progress on my LEGO Thunderjaw build."
-tags:
+summary: "I finish Guild Wars 2’s Janthir Wilds prologue, revisit Champions: Return to Arms with a PS4 controller, and make progress on my LEGO Thunderjaw build."
+categories:
   - "Guild Wars"
   - "Horizon Forbidden West"
   - "MMORPG"
   - "PS2"
+tags:
   - "Champions Return to Arms"
   - "Lego"
   - "PCSX2"
   - "The Last Starfighter"
   - "Thunderjaw"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/gw2janthir.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/09/gw2janthir.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/gw2janthir.png"
 ---
+I finish Guild Wars 2’s Janthir Wilds prologue, revisit Champions: Return to Arms with a PS4 controller, and make progress on my LEGO Thunderjaw build.
+<!--more-->
 
 I talk so little about Guild Wars 2 here that I don't think anyone really knows I play it. It's the only MMO I play, actually, but I only find myself playing it an hour a week, when Team Spode comes together to play it.
 
 I finally finished the super extended long Janthir Wilds prologue. That's the newest expansion that brings you to yet another new region of Tyria, with yet another new race, the bear-like Koda. They call themselves the Kodan.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-5.png" title="Bears? I don't remember any bears in the Ko-Dan Armada..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-5.png" title="Bears? I don't remember any bears in the Ko-Dan Armada..." classes="center" >}}
 
 It's always funny to me when NPCs accord my character great honor when I've mostly just skipped through the content. "Call me Commander or Wayfinder? Why not simply... HEY YOU, YEAH YOU THERE. WHO ARE YOU AGAIN?"
 
@@ -57,7 +35,7 @@ It's actually only the second mount I earned; I found the Skyscale such a grind 
 
 Anyway. More to come on that.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/1-Champions-Return-to-Arms_SLUS-20973_20240908173034.jpg" title="Rallos Zek wasn't defeated by me! He just remembered a dentist appointment!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/1-Champions-Return-to-Arms_SLUS-20973_20240908173034.jpg" title="Rallos Zek wasn't defeated by me! He just remembered a dentist appointment!" classes="center" >}}
 
 After getting the PS4 controller working with the PSX emulator so that I could play Um Jammer Lammy (after trying an XBox controller and a PS3 controller and been disappointed by both), I wanted to see how well that controller would work with PS2 games.
 
@@ -65,13 +43,13 @@ I have like a hundred PS2 games, between my collection and Kasul's, and I bought
 
 Turns out I was. The minimap works just fine. I'd tried an evil playthrough first time and didn't make much progress, so decided to restart and work with a good playthrough -- much easier.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/Champions-Return-to-Arms_SLUS-20973_20240908200334.jpg" title="Character armor screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/Champions-Return-to-Arms_SLUS-20973_20240908200334.jpg" title="Character armor screen" classes="center" >}}
 
 This time, I am playing a wood-elf ranger. Having played both a melee and now a ranged class, I think melee probably has the edge in playability. Ranged is fine if things would just stay at range, but they rush you. Rangers start off at range but then have to switch to melee midway, requiring them to keep both their ranged and melee attributes up to snuff.
 
 Anyway, controller works fine, even the vibration functions work. I haven't tried it with a game with pressure sensitivity, like Mad Maestro, but I have read that it will not work -- hence experimenting with the PS3 controller. Which worked a little.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-6.png" title="More Thunderjaw" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-6.png" title="More Thunderjaw" classes="center" >}}
 
 I spent a couple hours yesterday making more progress on the MOC LEGO Thunderjaw. Part of the time was separating a lot of the bricks into similar shapes and doing some repacking so that every step wasn't interrupted by looking through half a dozen bags for the brick I needed.
 

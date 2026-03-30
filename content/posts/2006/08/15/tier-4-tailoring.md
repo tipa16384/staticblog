@@ -3,55 +3,30 @@ date: '2006-08-15T11:19:41-05:00'
 draft: false
 title: "Tier 4 Tailoring"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/15/tier-4-tailoring/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Tipa and her husband, Verd, took time out from their busy betrayal of Qeynos to model some of the fashions Dina has been crafting as..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/clothes34.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/clothes34.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/clothes34.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/clothes34.jpg"
 ---
+Tipa and her husband, Verd, took time out from their busy betrayal of Qeynos to model some of the fashions Dina has been crafting as...
+<!--more-->
 
 Tipa and her husband, Verd, took time out from their busy betrayal of Qeynos to model some of the fashions Dina has been crafting as she finishes up Tier 4 tailoring. Verd isn't sporting the nice level 37 druid armor as Dina's tailoring progress has been stalled by running out of tradeskill vitality. A few hex dolls a day (and of course the daily quota of a dozen backpacks to give out to any who can't run away in time) is all she can manage.
 
-![Ceremonial Vestment](https://chasingdings.com/wp-content/uploads/2006/08/clothes34.jpg)
-
 The Bride and Groom's Ceremonial Vestments. A little daring for the bride with the cutaway skirt and lace bodice, and a touch plain for the groom. Dina advises the groom to dress instead in armor -- if coordinated nicely, of course. Awakened Scaleguard from Sanctum of the Scaleborn is the perfect ceremonial armor for the higher level nuptials; otherwise, the city merchants have several sets that will provide the perfect touch of elegance to a couple's most special day.
 
-![Golden Treasure](https://chasingdings.com/wp-content/uploads/2006/08/clothes32.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/clothes32.jpg" classes="center" >}}
 
 The Hero and Heroine's Golden Treasure. A perfect ensemble for picnicking, lounging by the beach or window shopping in South Qeynos. Care must be taken with washing, lest the brilliant saffron dye begin to fade. Gold ribbons add a touch of shine to the woman's blouse. The man's outfit would not look out of place on the golf course or at the horse track -- a sunny blend of casual and contemporary.
 
-![Night Shadow/Raven](https://chasingdings.com/wp-content/uploads/2006/08/clothes36.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/clothes36.jpg" classes="center" >}}
 
 The Night Shadow group is the latest from Dina's Fashions. A gray bodice, skirt and ribbons sets off the woman's black blouse to make a functional, yet fashionable outfit that would not look out of place in the theater or in the dungeon. The man's outfit brings the shadows of the Misty Thicket to mind. Combine it with a black flowing cape to make a horseman's outfit that would not look out of place sauntering along Freeport's cobbled streets or thundering along the Road of Lamps in Nektulos Forest.
 
-![pristine tailored engraved](https://chasingdings.com/wp-content/uploads/2006/08/engraved.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/engraved.jpg" classes="center" >}}
 
 Tipa shows you don't need to leave fashion at home when you go adventuring. Purple and aquamarine leathers with brushed silver studs in a traditional pattern make this pristine imbued tailored engraved armor the hit of the Fall season in Norrath.
 

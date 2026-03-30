@@ -3,41 +3,19 @@ date: '2022-08-25T07:54:37-05:00'
 draft: false
 title: "Blaugust 2022: Introduce Yourself week"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/25/blaugust-2022-introduce-yourself-week/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Welcome to Blaugust week 1, where I introduce myself! Or some version of myself, anyway."
-description: "Welcome to Blaugust week 1, where I introduce myself! Or some version of myself, anyway."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "General"
   - "Real Life"
+tags:
   - "Dall-E 2"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-25-07.44.15-an-illustration-of-a-female-hand-puppet-on-a-stage-in-front-of-a-crowd-of-people.-The-hand-puppet-is-wearing-a-fools-costume-and-has-a-microphone-in-.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-25-07.44.15-an-illustration-of-a-female-hand-puppet-on-a-stage-in-front-of-a-crowd-of-people.-The-hand-puppet-is-wearing-a-fools-costume-and-has-a-microphone-in-.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-25-07.44.15-an-illustration-of-a-female-hand-puppet-on-a-stage-in-front-of-a-crowd-of-people.-The-hand-puppet-is-wearing-a-fools-costume-and-has-a-microphone-in-.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-25-07.44.15-an-illustration-of-a-female-hand-puppet-on-a-stage-in-front-of-a-crowd-of-people.-The-hand-puppet-is-wearing-a-fools-costume-and-has-a-microphone-in-.png"
 ---
+Welcome to Blaugust week 1, where I introduce myself! Or some version of myself, anyway.
+<!--more-->
 
 A few years back, I was asked, by my boss, to send him by a certain date two truths about myself, and one lie. I had no idea what was going on. Nobody at anyplace I had ever worked, had ever asked me to tell them anything about myself that wasn't directly related to whether or not I could do the work.
 
@@ -49,7 +27,7 @@ So I sent him a new list, and the first thing on it was "Sometimes I ride my bik
 
 I understand now that nobody at work still really wanted to know anything about *me*. They just wanted some information about a fictional *me* that they could fit into their exercise. *Fun facts* vs *real facts*.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/image-6.png" title="Zuck puppet" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/image-6.png" title="Zuck puppet" classes="fig-20" >}}
 
 Mark Zuckerberg released, last week, his metaverse avatar pasted in front of badly rendered images of Paris' Eiffel Tower and Barcelona's La Sagrada Familia, celebrating the expansion of Horizon Worlds to France and Spain.
 

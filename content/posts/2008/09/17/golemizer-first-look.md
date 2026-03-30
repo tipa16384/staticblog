@@ -3,40 +3,18 @@ date: '2008-09-17T00:49:20-05:00'
 draft: false
 title: "Golemizer -- first look"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/17/golemizer-first-look/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just an update to the previous post. I had a chance to walk through a little bit of Golemizer, the AJAX/JavaScript-based MMO where you craft..."
+categories:
   - "MMORPG"
+tags:
   - "Golemizer"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/gnomebot.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/gnomebot.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/gnomebot.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/gnomebot.jpg"
 ---
+Just an update to the previous post. I had a chance to walk through a little bit of Golemizer, the AJAX/JavaScript-based MMO where you craft...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/gnomebot.jpg "gnomebot")
+
 
 Just an update to the previous post. I had a chance to walk through a little bit of [Golemizer](http://www.golemizer.com), the AJAX/JavaScript-based MMO where you craft golems of ever-increasing deadliness to wreak your will upon the world -- if all the other mad scientists don't beat you to it.
 

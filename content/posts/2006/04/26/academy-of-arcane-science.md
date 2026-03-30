@@ -3,40 +3,17 @@ date: '2006-04-26T00:00:00-05:00'
 draft: false
 title: "Academy of Arcane Science"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/04/26/academy-of-arcane-science/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dear Mom and Dad;..."
+categories:
   - "Oblivion"
   - "Other Games"
-featured_image: "https://chasingdings.com/images/academy.jpg"
-cover:
-  image: "https://chasingdings.com/images/academy.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/academy.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/academy.jpg"
 ---
+Dear Mom and Dad;...
+<!--more-->
 
-![](https://chasingdings.com/images/academy.jpg)
+
 
 Dear Mom and Dad;
 
@@ -52,4 +29,4 @@ Anyway, what with all the studying and having to buy all these parchments and qu
 
 Thanks! LOVE YOU!!!!!
 
-![](https://chasingdings.com/images/boethia.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/boethia.jpg" classes="center" >}}

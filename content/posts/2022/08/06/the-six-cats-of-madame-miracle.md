@@ -3,24 +3,8 @@ date: '2022-08-06T07:00:00-05:00'
 draft: false
 title: "The Six Cats of Madame Miracle"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/06/the-six-cats-of-madame-miracle/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The Six Cats of Madame Miracle is a light-hearted and fun visual novel that is perfect for players of all ages. The puzzles are easy to learn and solve, and the game's cute art style and cheerful music make it a joy to play."
-description: "The Six Cats of Madame Miracle is a light-hearted and fun visual novel that is perfect for players of all ages. The puzzles are easy to learn and solve, and the game's cute art style and cheerful music make it a joy to play."
-tags:
+categories:
   - "Adventure"
   - "Blaugust"
   - "Blaugust 2022"
@@ -28,6 +12,8 @@ tags:
   - "Magic"
   - "OpenAI"
   - "Puzzles"
+tags:
+  - "Blaugust"
   - "Card Game"
   - "Dall-E 2"
   - "Environment Manipulation"
@@ -37,18 +23,11 @@ tags:
   - "Magical Powers"
   - "The Six Cats of Madame Miracle"
   - "Visual Novel"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/sixcats.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/sixcats.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/sixcats.png"
 ---
+The Six Cats of Madame Miracle is a light-hearted and fun visual novel that is perfect for players of all ages. The puzzles are easy to learn and solve, and the game's cute art style and cheerful music make it a joy to play.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 6th: “The Six Cats of Madame Miracle”.
 
@@ -56,7 +35,7 @@ In this visual novel, you play as a young woman who, upon moving into a new apar
 
 Madame Miracle functions as the narrator and offscreen guide to the action, and she will often appear in the background of scenes to offer cryptic hints or observations. The player must use the six cats' abilities to progress through the game's puzzles, which range from finding hidden objects to using their powers to manipulate the environment. Along the way, they will also uncover secrets about Madame Miracle and her true identity.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/catpixels.png" title="Miracle Cats" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/catpixels.png" title="Miracle Cats" classes="center" >}}
 
 The leader cat is an orange cat named Puffin, and she has the power of invisibility. The player will need to use this power to find hidden objects and solve puzzles.
 
@@ -70,7 +49,7 @@ The fifth cat is a Siamese cat named Lotus, and she has the power of mind contro
 
 Finally, the sixth cat is a calico cat named Lucky, and she has the power of good luck. The player will need to use this power to win games of chance and solve puzzles.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-15.07.21-A-hyper-real-digital-painting-of-an-orange-cat-holding-a-magnifying-glass-1024x1024.png" title="Puffin on the Case!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-15.07.21-A-hyper-real-digital-painting-of-an-orange-cat-holding-a-magnifying-glass-1024x1024.png" title="Puffin on the Case!" classes="center" >}}
 
 **The Gameplay**
 

@@ -3,43 +3,22 @@ date: '2023-02-23T08:19:14-05:00'
 draft: false
 title: "PokeReport: Giovanni defeated, and some raids..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/02/23/pokereport-giovanni-defeated-and-some-raids/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Okay, what is actually UP with that Latias raid?"
-description: "Okay, what is actually UP with that Latias raid?"
-tags:
+categories:
   - "Pokemon"
+tags:
   - "Giovanni"
   - "Latias"
   - "Poke Genie"
+  - "Pokemon"
   - "Rayquaza"
   - "Registeel"
   - "Team Go Rocket"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/02/giovanniregisteel.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/02/giovanniregisteel.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/giovanniregisteel.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/giovanniregisteel.png"
 ---
+Okay, what is actually UP with that Latias raid?
+<!--more-->
 
 In Pokemon Go, when you defeat enough Team Go Rocket grunts -- the minions of Team Go Rocket, your adversaries in Pokemon Go -- their leaders appear. Cliff, Arlo and Sienna. I hope I'm remembering their names correctly. Beat them down enough, and you'll be able to track down and take on their leader, Giovanni, the worst of the worst.
 
@@ -55,7 +34,7 @@ He's been pursuing me in a hot air balloon for days, so he was easy to find. Gyr
 
 I'd had Flareon waiting for this. Giovanni always opens with Persian, and always ends with the same Pokemon for the month, so I knew I'd be facing Registeel. Flareon tore right through it, and I finally won.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/02/rayquazafriends.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/02/rayquazafriends.png" classes="center" >}}
 
 **Rayquaza and Latias**
 

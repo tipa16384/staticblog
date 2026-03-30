@@ -3,25 +3,10 @@ date: '2010-09-14T07:03:37-05:00'
 draft: false
 title: "Facebook game roundup: Warstorm and City of Wonder"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/14/facebook-game-roundup-warstorm-and-city-of-wonder/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
+tags:
   - "City of Wonder"
   - "Facebook"
   - "Magic the Gathering"
@@ -32,20 +17,15 @@ tags:
   - "Warstorm"
   - "Yu-Gi-Oh"
   - "Zynga"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-64431-AM-480x436.jpg "Warstorm")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-64431-AM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-64431-AM.jpg)
 
 If you've ever played the Pokemon, Yu-Gi-Oh or Magic: the Gathering card games, you're already pretty familiar with the game behind Zynga's [Warstorm](http://www.facebook.com/Warstorm): collectible card battle games where you build a deck and then draw monsters from it with which to attack your opponent's health. First to lose all their health (called 'morale' in this game) or run out of cards, wins.
 
@@ -59,7 +39,7 @@ As you play through the single player campaign, you will conquer more of the lan
 
 Warstorm is pretty non-spammy for a Facebook game, doesn't require a boatload of friends, and is an interesting take on the collectible card battle game genre. Definitely recommended.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-65648-AM-480x407.jpg "City of Wonder")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-65648-AM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-65648-AM-480x407.jpg" title="City of Wonder" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-65648-AM.jpg)
 
 Playdom's [City of Wonder](http://www.facebook.com/CityOfWonderGame) is a workmanlike addition to the city building genre. In City of Wonder, you start as the ruler of a small collection of primitive huts, and through trade, culture and war, expand and improve your territory until you are master of a vast land of skyscrapers and high speed railways.
 

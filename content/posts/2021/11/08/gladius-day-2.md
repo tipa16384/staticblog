@@ -3,42 +3,20 @@ date: '2021-11-08T08:01:47-05:00'
 draft: false
 title: "Gladius, day 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/11/08/gladius-day-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's hard to get your main characters killed, but not impossible. I did it :-) Gladius trades plot for deep strategical game play, and I'm..."
+categories:
   - "Emulators"
   - "Gladius"
   - "PS2"
   - "Tactical RPG"
+tags:
   - "PCSX2"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211106224139.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211106224139.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211106224139.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211106224139.jpg"
 ---
+It's hard to get your main characters killed, but not impossible. I did it :-) Gladius trades plot for deep strategical game play, and I'm...
+<!--more-->
 
 It's hard to get your main characters killed, but not impossible. I did it :-) Gladius trades plot for deep strategical game play, and I'm there for it.
 
@@ -46,11 +24,11 @@ Given Gladius is from LucasArts, known for deeply cinematic games, I expected th
 
 Other tactics game introduce more fighters to your team as the story progresses. Not here. If you don't recruit a fighter, they are not available to you. If you lose certain fights, some characters may never be available to you, and you'll never know why.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211107194914-1024x714.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211107194914.jpg)Nordagh complete
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211107194914-1024x714.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211107194914.jpg)Nordagh complete
 
 The game is split into four chapters. New chapters open up after the regional championship is won in each area. My Viking twins started in Nordagh, and after winning the regional championship, were promoted from Amateur to Semi-Pro and are now in Imperia. Imperia is the starting zone for Valens, the lead for the other story in the game.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211107195415-1024x714.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211107195415.jpg)The twins enter Imperia, levitating as one does
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211107195415-1024x714.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211107195415.jpg)The twins enter Imperia, levitating as one does
 
 But all of this is just an excuse for tactical battles. There are a few standard fights -- kill all enemies, protect your capture point while attacking your opponent's, king of the hill, break barrels, do the most damage. Since these are gladiator games, Gladius takes pains to let you know that nobody is actually harmed in the games; healers bring everyone back to tip-top health after each battle.
 
@@ -58,7 +36,7 @@ This is true for battles that take place on the fighting grounds, anyway. Random
 
 Since I am playing this game with an emulator, I can save the game instantly whenever I like. This is cheating, I know, but this is a *hard* game, so I'm learning to live with it.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211106160649-1024x714.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211106160649.jpg)That's a big wolf
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211106160649-1024x714.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211106160649.jpg)That's a big wolf
 
 Most fights can be won in many ways, with many different builds. Initial positioning is incredibly vital; you don't want to ever get surrounded. That will mean instant death.
 

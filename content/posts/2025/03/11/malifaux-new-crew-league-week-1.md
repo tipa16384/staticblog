@@ -3,41 +3,19 @@ date: '2025-03-11T08:00:00-05:00'
 draft: false
 title: "Malifaux: \"New Crew\" League, Week 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/03/11/malifaux-new-crew-league-week-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The local gaming store is running a league this spring for new players or for players who want to play a crew they've never played before."
-description: "The local gaming store is running a league this spring for new players or for players who want to play a crew they've never played before."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "December"
   - "New Crew"
   - "The Battle Standard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/newcrew1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/03/newcrew1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newcrew1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newcrew1.png"
 ---
+The local gaming store is running a league this spring for new players or for players who want to play a crew they've never played before.
+<!--more-->
 
 Leagues are fun and a little stressful; every two weeks, you're randomly matched with someone, and between the two of you, you set a time and a place and play a game. The theme this time is "new crew", to encourage people to get out of their comfort zones.
 

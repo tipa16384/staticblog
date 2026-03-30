@@ -3,38 +3,15 @@ date: '2010-07-23T06:15:07-05:00'
 draft: false
 title: "Kingdoms of Amalur: Reckoning = God of War?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/23/kingdoms-of-amalur-reckoning-god-of-war/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "38 Studios and Big Huge Games released the first cinematic trailer for their Kingdoms of Amalur: Reckoning at the San Diego ComicCon yesterday...."
+categories:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/deathspank-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/deathspank-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/deathspank-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/deathspank-480x270.jpg"
 ---
+38 Studios and Big Huge Games released the first cinematic trailer for their Kingdoms of Amalur: Reckoning at the San Diego ComicCon yesterday....
+<!--more-->
 
 38 Studios and Big Huge Games released the first cinematic trailer for their Kingdoms of Amalur: Reckoning at the San Diego ComicCon yesterday.
 
@@ -46,7 +23,9 @@ We see him next defeating a mob of skeletons with a variety of physical and myst
 
 I dunno, but at this point it's seeming like a better-rendered version of Deathspank....
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/deathspank-480x270.jpg "Deathspank")](https://chasingdings.com/wp-content/uploads/2010/07/deathspank.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/07/deathspank.jpg)
 
 ... which isn't a bad thing. All games of this genre deal with a hero-type single-handedly defeating armies and legions of enemies while earning levels, new gear and awesome powers that will allow them to survive one more day.
 

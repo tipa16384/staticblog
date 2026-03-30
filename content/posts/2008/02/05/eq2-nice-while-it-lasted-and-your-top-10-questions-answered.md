@@ -3,40 +3,17 @@ date: '2008-02-05T01:45:49-05:00'
 draft: false
 title: "EQ2: Nice while it lasted -- Clan of Shadows declines the haffer"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/05/eq2-nice-while-it-lasted-and-your-top-10-questions-answered/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After a month, the large portion of which was spent waiting outside raid zones or off playing alts or other games rather than just wait..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-04-21-24-16-85.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-04-21-24-16-85.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-04-21-24-16-85.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-04-21-24-16-85.jpg"
 ---
+After a month, the large portion of which was spent waiting outside raid zones or off playing alts or other games rather than just wait...
+<!--more-->
 
-![everquest2-2008-02-04-21-24-16-85.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-04-21-24-16-85.jpg)
+
 
 After a month, the large portion of which was spent waiting outside raid zones or off playing alts or other games rather than just wait around, Clan of Shadows decided it didn't really need another troubador after all. Wasn't any real surprise. I'd been expecting it ever since ~~we~~ they hit Veeshan's Peak. It's a shame, I'm not happy about it. They were great people and I was really good friends with a lot of them. They gave me the option of sticking around for another two weeks for another vote, and maybe even two more weeks after that for a third, but that's kind of desperate. I don't know if I could really take another month waiting outside Veeshan's Peak, maybe occasionally coming in to help clear trash until the real raiders showed up, hoping to somehow convince people I was worth having around.
 

@@ -3,40 +3,17 @@ date: '2009-11-10T08:04:48-05:00'
 draft: false
 title: "EQ2: Nights of the OMG AAAAAGH Dead"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/11/10/eq2-nights-of-the-omg-aaaaagh-dead/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "EQ2's \"Nights of the Dead\" Halloween event ended last night. I've been meaning for weeks, ever since I fixed my second computer, to get back..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-09-21-02-43-72.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-09-21-02-43-72.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/EverQuest2-2009-11-09-21-02-43-72.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/EverQuest2-2009-11-09-21-02-43-72.jpg"
 ---
+EQ2's "Nights of the Dead" Halloween event ended last night. I've been meaning for weeks, ever since I fixed my second computer, to get back...
+<!--more-->
 
-![He doesn](https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-09-21-02-43-72.jpg "He doesn")
+
 
 EQ2's "Nights of the Dead" Halloween event ended last night. I've been meaning for weeks, ever since I fixed my second computer, to get back into the game now that I could two-box again. I really wanted to try the new hedge maze adventure!
 
@@ -48,7 +25,7 @@ It was tough to talk about etymology with all this guy's caterwauling and retchi
 
 The androgyne just gave us a bleak stare. "No," she hissed. "I DON'T mean death!"
 
-![He won](https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-09-21-34-53-60.jpg "He won")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/EverQuest2-2009-11-09-21-34-53-60.jpg" title="He won" classes="center" >}}
 
 Mister "too sick to work but not too sick to send people to their deaths" Malingerer sent us to investigate a mysterious hedge maze that had sprung up from nowhere some weeks past. In the center, he insisted, would we find his cure.
 
@@ -60,7 +37,7 @@ This made me so mad that I let rage take control and I became a WEREWOLF! Able t
 
 If only there was an Epicx2 monster around to try it with...
 
-![The world](https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-09-22-59-09-93.jpg "The world")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/EverQuest2-2009-11-09-22-59-09-93.jpg" title="The world" classes="center" >}}
 
 Oh, hai, mysteriously sick person! Turns out you weren't sick at all -- you were just a WEREWOLF. Have at you, etc! Eventually I killed the thing, and it gave me some lockpicks that go to a chest that EQ2 Wiki assures me I wouldn't be able to see until I did all the other Halloween events from other years all over again first.
 

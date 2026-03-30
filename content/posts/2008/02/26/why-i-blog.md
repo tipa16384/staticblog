@@ -3,24 +3,8 @@ date: '2008-02-26T13:34:42-05:00'
 draft: false
 title: "Why I Blog"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/26/why-i-blog/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "From a comment on Tobold's excellent post about the tank shortage in the World of Warcraft (or more accurately, the Protection-spec'd Warrior shortage):..."
+categories:
   - "EverQuest"
   - "Lord of the Rings"
   - "MMORPG"
@@ -28,18 +12,9 @@ tags:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+From a comment on Tobold's excellent post about the tank shortage in the World of Warcraft (or more accurately, the Protection-spec'd Warrior shortage):...
+<!--more-->
 
 From a comment on [Tobold's excellent post](http://tobolds.blogspot.com/2008/02/tank-shortage.html) about the tank shortage in the World of Warcraft (or more accurately, the Protection-spec'd Warrior shortage):
 

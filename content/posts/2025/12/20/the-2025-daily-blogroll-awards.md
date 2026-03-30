@@ -3,38 +3,16 @@ date: '2025-12-20T09:00:44-05:00'
 draft: false
 title: "The 2025 Daily Blogroll Awards"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/12/20/the-2025-daily-blogroll-awards/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The (short) history of the Daily Blogroll, and a recognition of the best bloggers from the past three months, as judged by the LLM summarizer itself."
-description: "The (short) history of the Daily Blogroll, and a recognition of the best bloggers from the past three months, as judged by the LLM summarizer itself."
-tags:
+categories:
   - "Daily Blogroll"
+tags:
   - "Blogging"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/dailyblogrollawards.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/12/dailyblogrollawards.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dailyblogrollawards.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dailyblogrollawards.png"
 ---
+The (short) history of the Daily Blogroll, and a recognition of the best bloggers from the past three months, as judged by the LLM summarizer itself.
+<!--more-->
 
 As I write this, Baldur's Gate 3 developers Larian are being [dragged through the mud](https://www.gamedeveloper.com/production/dev-backlash-to-larian-ceo-s-ai-comments-is-about-leadership-not-just-tech) for admitting that they use generative AI in their workflow. Concept artists are up in arms. Other game developers, the purists, are publicly stating that they are not now and will not ever use AI at all, in any part of any game they make. Stay strong, fighters!
 
@@ -50,7 +28,7 @@ So I turned to ChatGPT and asked it for help, and it came up with a skeleton tha
 
 Enter the [Daily Blogroll](https://westkarana.xyz/). (Hosted on GitHub Pages, resurrecting the West Karana domain).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/image-5-300x248.png" title="The first Daily Blogroll" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/image-5-300x248.png" title="The first Daily Blogroll" classes="center" >}}
 
 Even then, I knew that there were people who *hated* LLMs, and loudly and violently reacted to any use of LLMs to do anything, ever. I wasn't sure if I dared post it publicly. An automated daily AI blog summary? But I did, and the response has been amazing. I am reading more blogs than ever, I am always finding more new bloggers to read, and I’m really enjoying getting to know the blogging community better. LLMs helping to enable and celebrate human creativity -- that works for me.
 

@@ -3,37 +3,12 @@ date: '2007-07-19T12:24:54-05:00'
 draft: false
 title: "Bioware Austin uses Perpetual's MMO Middleware"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/19/bioware-austin-uses-perpetuals-mmo-middleware/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Bioware, makers of Baldur's Gate (and Fallout, I think) currently working on an unannounced MMO (could it be a Fallout MMO?) have licensed Perpetual's patcher/lobby/launcher..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Bioware, makers of Baldur's Gate (and Fallout, I think) currently working on an unannounced MMO (could it be a Fallout MMO?) have licensed Perpetual's patcher/lobby/launcher...
+<!--more-->
 
 Bioware, makers of Baldur's Gate (and Fallout, I think) currently working on an unannounced MMO (could it be a Fallout MMO?) [have licensed](http://www.developmag.com/news/28158/Another-tech-buy-for-BioWare) Perpetual's patcher/lobby/launcher etc code for use in their MMO.
 

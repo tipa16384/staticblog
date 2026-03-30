@@ -3,40 +3,18 @@ date: '2025-05-06T08:00:00-05:00'
 draft: false
 title: "GW2: I TAMED A SKYSCALE!*"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/05/06/gw2-i-tamed-a-skyscale/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "*Well, it was a team effort."
-description: "*Well, it was a team effort."
-tags:
+categories:
   - "Guild Wars"
   - "MMORPG"
+tags:
   - "Skyscale"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/2-gw007.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/05/2-gw007.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/2-gw007.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/2-gw007.jpg"
 ---
+*Well, it was a team effort.
+<!--more-->
 
 Well, it was due to Jovan, the Guild Wars 2 expert in Team Spode. It's due to him and Clever Clara that we're playing the game at all, and it's due to him that we haven't really looked at any other MMO since we moved back to GW2 from DCUO.
 
@@ -52,7 +30,7 @@ My job: Log in.
 
 Jovan's job: Tell me what to do, give me all the necessary resources, and group with me for all the xp grinding missions.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/1-gw006.jpg" title="We share an instinctive bond!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/1-gw006.jpg" title="We share an instinctive bond!" classes="center" >}}
 
 Some people might say "I couldn't have done it without you!" but still secretly thinking to themselves, "nah, I coulda done it myself, but I'm trying to be *nice*".
 

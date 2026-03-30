@@ -3,40 +3,17 @@ date: '2009-11-02T05:18:16-05:00'
 draft: false
 title: "EVE Online: It's all fun and games until someone loses a Megathron"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/11/02/eve-online-its-all-fun-and-games-until-someone-loses-a-megathron/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I created my alt EVE character, Etha Preve, as part of CCP's \"Power of 2\" promotion (have a second account for cheap for six..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-10-04-21-34-16-87.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-10-04-21-34-16-87.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/ExeFile-2009-10-04-21-34-16-87.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/ExeFile-2009-10-04-21-34-16-87.jpg"
 ---
+When I created my alt EVE character, Etha Preve, as part of CCP's "Power of 2" promotion (have a second account for cheap for six...
+<!--more-->
 
-![In happier times....](https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-10-04-21-34-16-87.jpg "In happier times....")
+
 
 When I created my alt EVE character, Etha Preve, as part of CCP's "Power of 2" promotion (have a second account for cheap for six months), I didn't have any specific plans for her. But I'd always wanted a good hauler to help with the mining and just moving stuff around. Last week, she finally finished the necessary training to fly a Iteron Mark V, a hauler so huge it can nearly carry the contents of an entire jetcan. The PERFECT companion for mining ops, running the trade route from Jita to Dodixie, or picking up buy orders from around the Sinq Laison region.
 
@@ -50,7 +27,7 @@ The second scam is to create a contract to move something valueless a long dista
 
 That's the kind *I* took.
 
-![The route of death](https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-02-05-42-12-07.jpg "The route of death")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/ExeFile-2009-11-02-05-42-12-07.jpg" title="The route of death" classes="center" >}}
 
 The systems colored red in the star map are in the lawless region known as nullsec. If you're part of a nullsec alliance, you might be able to feel safe in territory controlled by your alliance, but non-allied highsec traders like myself have no protection at all. We're just targets. If I ever wanted to see my 60 million ISK again, I'd have to fly through the most dangerous area of the galaxy, through an obvious choke point, with a valueless cargo, without being killed.
 
@@ -62,7 +39,7 @@ The second is by fitting warp stabilizers to your ship. Each stabilizer you add 
 
 Since the valueless cargo was too large for a frigate (I had visions of my superfast Comet thumbing its prow at gate camp after frustrated gate camp as she flew past at 3000m/s), I chose the second option.
 
-![Suicide Mega in EVE Fitting Tool (EFT)](https://chasingdings.com/wp-content/uploads/2009/11/Fullscreen-capture-1122009-61907-AM.jpg "Suicide Mega in EVE Fitting Tool (EFT)")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/Fullscreen-capture-1122009-61907-AM.jpg" title="Suicide Mega in EVE Fitting Tool (EFT)" classes="center" >}}
 
 When i first started playing EVE, I was looking over the ships I could one day fly... and that's when I first met Megathron. He's a sulky tyrant of the space lanes, a missile ship that stands out of range of the enemy and picks things off from vast distances. Anyone who doesn't see echoes of [Space Cruiser Yamato](http://en.wikipedia.org/wiki/Space_Battleship_Yamato) in its sleek lines has no imagination. When prices had fallen to ridiculously low levels, I bought one -- I just had to have it. But it didn't support my style of play -- getting in close and tanking while my drones pick off the enemy a ship at a time -- so mostly I just found excuses to fly it every now and then.
 

@@ -3,39 +3,18 @@ date: '2006-08-01T10:14:18-05:00'
 draft: false
 title: "Artifacts of a Misspent Youth"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/01/artifacts-of-a-misspent-youth/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Okay, so not really anything to do with a misspent youth, but if the Internet Wayback Machine had been around when I was a kid,..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/EntranceToolPict.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/EntranceToolPict.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/EntranceToolPict.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/EntranceToolPict.gif"
 ---
+Okay, so not really anything to do with a misspent youth, but if the Internet Wayback Machine had been around when I was a kid,...
+<!--more-->
 
-![Entrance Tool for Magic Cap](https://chasingdings.com/wp-content/uploads/2006/08/EntranceToolPict.gif) Okay, so not really anything to do with a misspent youth, but if the [Internet Wayback Machine](http://www.archive.org/index.php) had been around when I was a kid, I'd be dredging up bad poetry and long, long rants about how unfair the world was instead of bits and pieces of my [old web site](http://web.archive.org/web/20021129103855/http://www.darfstellar.com/).
+
+
+Okay, so not really anything to do with a misspent youth, but if the [Internet Wayback Machine](http://www.archive.org/index.php) had been around when I was a kid, I'd be dredging up bad poetry and long, long rants about how unfair the world was instead of bits and pieces of my [old web site](http://web.archive.org/web/20021129103855/http://www.darfstellar.com/).
 But even so, looking back at this collection of stuff from 10-15 years ago is kind of bittersweet. I was making more money then, was doing more interesting stuff, people actually called me up and wanted me to go to work for them, I was more or less happily married, my kids were still cute (oops, hope they aren't reading this...). A lot of bad stuff had yet to happen.
 But hey, let's talk about bad computer art.
 
@@ -54,10 +33,10 @@ Anyway, the central metaphor of Magic Cap was a long corridor along which were d
 Okay! EntranceTool was a little program for adding new rooms to your house, and even new houses on your street. You could fill them with furniture and doors and windows, which could even lead to more rooms with their own furnishings. And if you wanted to move, you could package the whole thing up, attach it to a postcard, and send it off to a friend, who could then unpack it and see all your stuff.
 For some reason, this program was a really big hit with my kids, and one of my most successful open source projects. And it was full of my pixel-art. One day I would win a contest for my pixel-art, but that post can wait until another time.
 
-[![Monterey Dawn](https://chasingdings.com/wp-content/uploads/2006/08/dawnfull.thumbnail.jpg)](https://chasingdings.com/wp-content/uploads/2006/08/dawnfull.jpg) Around this time I discovered the "[Persistence of Vision](http://povray.org)" free and open source 3D raytracing rendering software. Suddenly, pixel art seemed drab and boring, and everything absolutely positively had to be filled with plasticy 3D objects. The picture to the right was an early rendering (you can click on it to see the full thing if you like). It's supposed to be the view from my office at Sony on Ryan Ranch in Monterey. I added a couple of windows. I later turned this into a way more realistic rendering of my office, which I will add someday if I can find a copy.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/dawnfull.thumbnail.jpg" classes="fig-20" >}}](https://tipa16384.github.io/wkblog/uploads/2006/08/dawnfull.jpg) Around this time I discovered the "[Persistence of Vision](http://povray.org)" free and open source 3D raytracing rendering software. Suddenly, pixel art seemed drab and boring, and everything absolutely positively had to be filled with plasticy 3D objects. The picture to the right was an early rendering (you can click on it to see the full thing if you like). It's supposed to be the view from my office at Sony on Ryan Ranch in Monterey. I added a couple of windows. I later turned this into a way more realistic rendering of my office, which I will add someday if I can find a copy.
 Idle hands do the devil's work and all that.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2006/08/lbbyfull.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/lbbyfull.jpg" classes="center" >}}
 
 So instead of pixel-art rooms and decorations, my programs for Magic Cap, they instead had to be 3D extravaganzas. This is the "lobby" for Magic Broker, an online stock brokerage client for PCFN. They went to the web, which killed this whole plan (as well as the business plan for every other Magic Cap-based online service, see above). Anyway, you would use the desktop computer there to set up your connection, pick up the telephone to connect to the service, then you could enter the office (which you can see a bit of through the door) and play with your portfolio.
 
@@ -71,6 +50,6 @@ So they fired him.
 
 I had become that programmer! 3D interfaces were my Solar Cat!
 
-[![Ill-Earth Stone #2](https://chasingdings.com/wp-content/uploads/2006/08/trapston.thumbnail.jpg)](https://chasingdings.com/wp-content/uploads/2006/08/trapston.jpg)Anyway, I could ramble on all day with exciting, gutwrenching, bodice-ripping stories of my days as a programmer and UI engineer, but I'm leaving to visit my folks in New Hampshire for a week, so I'll leave you with a glowy thing in a cage. It's supposed to be the [Illearth](http://dspace.dial.pipex.com/town/estate/xbo61/srd/srd.htm) stone, but I just liked making glowy things, to be honest.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/trapston.thumbnail.jpg" classes="fig-20" >}}](https://tipa16384.github.io/wkblog/uploads/2006/08/trapston.jpg)Anyway, I could ramble on all day with exciting, gutwrenching, bodice-ripping stories of my days as a programmer and UI engineer, but I'm leaving to visit my folks in New Hampshire for a week, so I'll leave you with a glowy thing in a cage. It's supposed to be the [Illearth](http://dspace.dial.pipex.com/town/estate/xbo61/srd/srd.htm) stone, but I just liked making glowy things, to be honest.
 
 Wow... just did a google search for Illearth Stone so I would have something to link to for people not familiar with that story, and came across a page which has this rendering of mine as well as another. *I* don't even have that other one! Follow the link above to be as astonished as I was.

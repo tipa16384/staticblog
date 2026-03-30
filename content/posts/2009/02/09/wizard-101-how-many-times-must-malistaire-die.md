@@ -3,38 +3,13 @@ date: '2009-02-09T13:10:21-05:00'
 draft: false
 title: "Wizard 101: How many times must Malistaire die?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/09/wizard-101-how-many-times-must-malistaire-die/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The last instance in Dragonspyre is a grind that ends with Malistaire's defeat at your victorious, albeit blood-soaked, hands. He hands out a robe. One..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+The last instance in Dragonspyre is a grind that ends with Malistaire's defeat at your victorious, albeit blood-soaked, hands. He hands out a robe. One...
+<!--more-->
 
 The last instance in Dragonspyre is a grind that ends with Malistaire's defeat at your victorious, albeit blood-soaked, hands. He hands out a robe. One out every seven times, it will be the robe for your school of magic.
 

@@ -3,40 +3,18 @@ date: '2025-05-25T10:00:00-05:00'
 draft: false
 title: "Malifaux 4e: December vs Experimental"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/05/25/malifaux-4e-december-vs-experimental/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "For just my second 4th edition game, my brave Rasputina (Abominable) faced the evil Dr. McMourning (Insanitary). We were at a fight and a hockey game broke out."
-description: "For just my second 4th edition game, my brave Rasputina (Abominable) faced the evil Dr. McMourning (Insanitary). We were at a fight and a hockey game broke out."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "4th Edition"
   - "Pack Rat Gaming"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5155-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5155-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5155-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5155-scaled.jpg"
 ---
+For just my second 4th edition game, my brave Rasputina (Abominable) faced the evil Dr. McMourning (Insanitary). We were at a fight and a hockey game broke out.
+<!--more-->
 
 I was pretty upset with what Wyrd did with Mei Feng (Foundry). Mei was a reliable leader with a lot of synergy and mobility with her scrap markers, and she was backed up by excellent Foundry models such as uber-buffer Sparks and robot-pig-with-an-attitude Mechanical Porkchop. All this was stripped away from her, leaving her team as one that handed out status conditions that punished enemy mobility.
 
@@ -70,7 +48,7 @@ My crew:
 
 *Ceddra* -- previously, Ceddra was two models -- Ceddra, a giant white stag, and Sightless Snow, an ex-Silent One who was merged with Ceddra by the December spirit. Now, they are named Ceddra (White Stag) and Ceddra (Sightless Snow). Swapping between them is now easier and comes with a heal. It can still take mutation upgrades, although it doesn't get the free one at the start.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/image-11-1024x799.png" title="After deployment" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/image-11-1024x799.png" title="After deployment" classes="center" >}}
 
 We rolled up a Wedge Deployment -- deploying in a triangle. I was the attacker, so I set up along the edges of the triangle, as did my opponent.
 

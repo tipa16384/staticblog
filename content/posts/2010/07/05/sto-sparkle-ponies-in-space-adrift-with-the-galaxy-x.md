@@ -3,40 +3,17 @@ date: '2010-07-05T18:29:42-05:00'
 draft: false
 title: "STO: Sparkle Ponies in Space -- Adrift with the Galaxy X"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/05/sto-sparkle-ponies-in-space-adrift-with-the-galaxy-x/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I resisted the original sparkle pony in World of Warcraft, felt no urge to get the Cash Cat in EverQuest 2, nor the Stationbuck Steed..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-05-16-45-22-02.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-05-16-45-22-02.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-05-16-45-22-02.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-05-16-45-22-02.jpg"
 ---
+I resisted the original sparkle pony in World of Warcraft, felt no urge to get the Cash Cat in EverQuest 2, nor the Stationbuck Steed...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-05-16-45-22-02.jpg "Pavane for Borg and Dreadnought")
+
 
 I resisted the original sparkle pony in World of Warcraft, felt no urge to get the Cash Cat in EverQuest 2, nor the Stationbuck Steed in EverQuest. Everyone has their price -- mine was the Galaxy Dreadnought (AKA Galaxy X) cruiser. It can cloak! It can equip phaser cannons! It has a unique weapon -- the spinal phaser lance! It can crush your enemies. Riker flew one in an alternate future timeline in the "Star Trek: The Next Generation" series finale. It is a futuristic update to the standard TNG Enterprise-D, which in this alternate future, was not destroyed by the comical yet bumbling crew in "Star Trek Generations".
 

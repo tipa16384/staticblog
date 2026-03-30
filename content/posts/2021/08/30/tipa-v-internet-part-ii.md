@@ -3,40 +3,19 @@ date: '2021-08-30T23:51:06-05:00'
 draft: false
 title: "Tipa v Internet: Part II"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/30/tipa-v-internet-part-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I bought a new router and haven't crashed in DCUO all night. Is everything good now? Did I fix the issue?..."
+categories:
   - "Blaugust"
   - "DC Universe Online"
   - "Real Life"
+tags:
+  - "Blaugust"
   - "Internet"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/MADV114_DESIGNERDATA-PC-30-23.09.150.jpg"
 ---
+I bought a new router and haven't crashed in DCUO all night. Is everything good now? Did I fix the issue?...
+<!--more-->
 
 I bought a new router and haven't crashed in DCUO all night. Is everything good now? Did I fix the issue?
 
@@ -48,7 +27,7 @@ Monday morning, still nothing. But Monday afternoon after work -- everything wor
 
 Was whatever went wrong, fixed? I don't know. *I* sure hadn't done anything about it... which isn't entirely true. I'd gone to the DCUO tech section and found all the TCP and UDP ports that DCUO used for all the various platforms, and opened port forwarding for all of them, hoping that would jar something loose in the firmware.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/g3118.png)](https://chasingdings.com/wp-content/uploads/2021/08/g3118.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/g3118.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/g3118.png)
 
 It was all very frustrating. I made a little diagram to help illustrate how it probably was not my fault. DCUO talks to my ISP, which sends a signal to the ONT in the cellar, which sends Ethernet up to my office, and then to my computer. I only own the last little part of that chain.
 

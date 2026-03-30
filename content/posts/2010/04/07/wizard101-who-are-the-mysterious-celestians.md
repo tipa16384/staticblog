@@ -3,40 +3,19 @@ date: '2010-04-07T13:55:50-05:00'
 draft: false
 title: "Wizard101: Who are the mysterious Celestians?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/07/wizard101-who-are-the-mysterious-celestians/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/celestiatease.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/celestiatease.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/celestiatease.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/celestiatease.png"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/celestiatease.png "Who are those mysteriously cloaked figures?")](https://chasingdings.com/wp-content/uploads/2010/04/celestiatease.png)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/04/celestiatease.png)
 
 KingsIsle today released a mysterious screenshot of some of the folks we'll be meeting when we journey to the undersea realm of Celestia this summer. They promise to reveal some of the darkened characters little by little as the day approaches, but we here at West Karana have a pretty good idea what we'll find.
 

@@ -3,40 +3,18 @@ date: '2024-05-03T07:00:00-05:00'
 draft: false
 title: "PCSX2 has gone and done it this time..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/05/03/pcsx2-has-gone-and-done-it-this-time/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility."
-description: "The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility."
-tags:
+categories:
   - "PS2"
+tags:
   - "Imgburn"
   - "PCSX2"
   - "Retroarch"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/pcsx2logo.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/05/pcsx2logo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/pcsx2logo.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/pcsx2logo.png"
 ---
+The latest updates to the PCSX2 PlayStation 2 emulator have done amazing things for its convenience and compatibility.
+<!--more-->
 
 I'm a huge fan of the PlayStation 2 and its games. I liked the PlayStation fine, and it had a lot of games that remain classics, but the PS2's weirdly named Emotion Engine brought games to life in a way never before seen at the time. I was blown away.
 
@@ -44,7 +22,7 @@ I'd had a bunch of games left over from the old days, and I've been buying more 
 
 I do have my old PS/2 around... somewhere. My first one died, but I got a new, slim one to replace it. Everything was PS2 back then. I gamed on it. I played movies on it. I listened to CDs on it. Anyway I haven't had it hooked up in forever, but I *really* wanted to play those old games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image.png" title="PCSX2 is an open source PS2 Emulator" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image.png" title="PCSX2 is an open source PS2 Emulator" classes="center" >}}
 
 I've been using [PCSX2 ](https://pcsx2.net/)for years, but it was always a real chore to get it working with some games. Demon Stone, the D&D game, was barely playable, the graphics glitched so badly. But it worked well enough.
 
@@ -54,7 +32,7 @@ Configuration was easy; I didn't have to do anything at all. It booted right up.
 
 The old PCSX2, the one I was used to, was very minimal. It had an unintuitive way of loading up games from the DVD drive (my new computer doesn't even have one), or from a backup copy of the game on disk. A window with debugging information percolated away while the game was playing. There was a lot of fiddling involved with some games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-1.png" title="I'm going to have to put you on the game grid" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-1.png" title="I'm going to have to put you on the game grid" classes="center" >}}
 
 Playing a game with the new PCSX2, if you've ripped it with a utility such as ImgBurn, is as easy as clicking its portrait. (PCSX2 doesn't come with the game portraits, but it can use a service to download them).
 

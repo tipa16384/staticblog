@@ -3,46 +3,24 @@ date: '2024-05-24T16:44:31-05:00'
 draft: false
 title: "George Plimpton Has Risen from His Grave"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/05/24/george-plimpton-has-risen-from-his-grave/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world."
-description: "The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world."
-tags:
+categories:
   - "Atari"
   - "Atari 2600"
   - "NFT"
+tags:
   - "Intellivision"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/plimpton.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/05/plimpton.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/plimpton.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/plimpton.png"
 ---
+The dregs of Atari has bought out the remains of Intellivision, the seventh seal is broken, and chaos has descended upon a burning world.
+<!--more-->
 
 I'd never even heard of George Plimpton before he did those Intellivision commercials back in 1980, but afterward, I knew him as "Intellivision Guy". Apparently he wrote books and newspaper articles, but for me, he was the one always trying to convince me that playing baseball on the Intellivision was the closest you could get to the real thing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-15-300x169.png" title="It's like you were there, sitting right behind home plate" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-15-300x169.png" title="It's like you were there, sitting right behind home plate" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-16.png" title="On the Atari 2600" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-16.png" title="On the Atari 2600" classes="center" >}}
 
 If Intellivision had come out before the Atari, it might have been a contest, but like, I think, all or almost all of the "console wars", there was no doubt who was winning. The Intellivision had a number pad controller and somewhat higher resolution while the Atari had the wrist-numbing joystick and very blocky graphics, but the Atari was the one the kids wanted.
 
@@ -50,7 +28,7 @@ A company called Infogrames bought the Atari intellectual property a few years b
 
 Meanwhile, {{< youtube 0twDETh6QaI >}} announced plans to resurrect the Intellivision in the same way -- a console that vaguely resembles the original, games inspired by the originals, and with a twist that all the games would be "family friendly". The expectation would be that the entire family would gather around the Amico and play, I guess, video baseball.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-17-1024x771.png" title="Atari vs Intellivision" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-17-1024x771.png" title="Atari vs Intellivision" classes="center" >}}
 
 All that's come to nothing. The Amico may never come out. Tommy Tallarico isn't with Intellivision anymore. Vultures are circling.
 

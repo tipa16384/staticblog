@@ -3,44 +3,23 @@ date: '2010-05-05T23:50:17-05:00'
 draft: false
 title: "DDO: A night in Tangleroot Gorge"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/05/ddo-a-night-in-tanglefoot-gorge/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg "Deep in a dungeon")](https://chasingdings.com/wp-content/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/dndclient-2010-05-05-23-03-08-56.jpg)
 
 Massively.com's Rubi had been hinting all day at something special for the Wednesday DDO meetup (9PM EDT, all are invited)... The big secret? We were going to explore some of the paid content in Dungeons & Dragons Online, courtesy of a double armload of 90-minute guest passes.
 
-.bbpBox{background:url(http://s.twimg.com/a/1273086425/images/themes/theme1/bg.png) #9ae4e8;padding:20px;}p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px}p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6}p.bbpTweet span.metadata span.author{line-height:19px}p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px}p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block} Nights of Eberron was great tonight.  I bought a pile of guest passes and we did Tangleroot.  Much fun was had.[less than a minute ago](http://twitter.com/Rubi_/status/13464161058) via web[![](http://s.twimg.com/a/1273086425/images/default_profile_5_normal.png)](http://twitter.com/Rubi_)**[Rubi_](http://twitter.com/Rubi_)**
+.bbpBox{background:url(http://s.twimg.com/a/1273086425/images/themes/theme1/bg.png) #9ae4e8;padding:20px;}p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px}p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6}p.bbpTweet span.metadata span.author{line-height:19px}p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px}p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block} Nights of Eberron was great tonight.  I bought a pile of guest passes and we did Tangleroot.  Much fun was had.[less than a minute ago](http://twitter.com/Rubi_/status/13464161058) via web[{{< image src="http://s.twimg.com/a/1273086425/images/default_profile_5_normal.png" classes="center" >}}](http://twitter.com/Rubi_)**[Rubi_](http://twitter.com/Rubi_)**
 
 Though I usually am just content to get some of my solo quests out of the way to get ready for the Sunday group, tonight... tonight I wanted to be part of the special event. So I hung out in the Bleeding Stump Tavern, or the Sucking Leg Wound Saloon or whatever it's called, got a group, and debated what to do about the *destination de la nuit*, Tangleroot Gorge.
 

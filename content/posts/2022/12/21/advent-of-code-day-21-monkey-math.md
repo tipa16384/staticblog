@@ -3,41 +3,19 @@ date: '2022-12-21T22:08:13-05:00'
 draft: false
 title: "Advent of Code Day 21 -- Monkey Math"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/21/advent-of-code-day-21-monkey-math/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Hey, monkeys again! Shouting! Luckily, we have an elephant to interpret. I feel... morally uneasy about today's solution."
-description: "Hey, monkeys again! Shouting! Luckily, we have an elephant to interpret. I feel... morally uneasy about today's solution."
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "Elephant"
   - "Monkey"
   - "Python"
   - "Sympy"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-21-21.48.47-A-large-group-of-monkeys-shouting-at-a-woman-wearing-a-Christmas-stocking-cap-by-Bob-Eggleton-detailed-and-intricate.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-21-21.48.47-A-large-group-of-monkeys-shouting-at-a-woman-wearing-a-Christmas-stocking-cap-by-Bob-Eggleton-detailed-and-intricate.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-21-21.48.47-A-large-group-of-monkeys-shouting-at-a-woman-wearing-a-Christmas-stocking-cap-by-Bob-Eggleton-detailed-and-intricate.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-21-21.48.47-A-large-group-of-monkeys-shouting-at-a-woman-wearing-a-Christmas-stocking-cap-by-Bob-Eggleton-detailed-and-intricate.png"
 ---
+Hey, monkeys again! Shouting! Luckily, we have an elephant to interpret. I feel... morally uneasy about today's solution.
+<!--more-->
 
 The monkeys that stole all our stuff awhile ago are back -- and [they are just standing around shouting](https://adventofcode.com/2022/day/21). Well, at least they aren't stealing stuff. A nearby elephant let me know that they saw I was lost and thought I should solve a really complicated algebra problem to get their help.
 

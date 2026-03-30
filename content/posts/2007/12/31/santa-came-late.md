@@ -3,40 +3,17 @@ date: '2007-12-31T19:21:33-05:00'
 draft: false
 title: "Santa Came Late!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/31/santa-came-late/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Our local CompUSA is closing (well, they all are... but so is our local one!), so I went down there to scavenge today...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/stp60921.JPG"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/stp60921.JPG"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/stp60921.JPG"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/stp60921.JPG"
 ---
+Our local CompUSA is closing (well, they all are... but so is our local one!), so I went down there to scavenge today....
+<!--more-->
 
-![stp60921.JPG](https://chasingdings.com/wp-content/uploads/2007/12/stp60921.JPG)
+
 
 Our local CompUSA is closing (well, they all are... but so is our local one!), so I went down there to scavenge today.
 
@@ -46,7 +23,7 @@ There's something about that game.
 
 I'm SO OVER IT. I really am.
 
-![eqgame-2007-12-31-11-21-43-07.jpg](https://chasingdings.com/wp-content/uploads/2007/12/eqgame-2007-12-31-11-21-43-07.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/eqgame-2007-12-31-11-21-43-07.jpg" classes="center" >}}
 
 *C'mon... you can solo me...*
 

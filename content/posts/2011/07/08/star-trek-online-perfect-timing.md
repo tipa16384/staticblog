@@ -3,40 +3,17 @@ date: '2011-07-08T06:52:32-05:00'
 draft: false
 title: "Star Trek Online: Perfect Timing"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/07/08/star-trek-online-perfect-timing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Cryptic has a friend in Netflix. The Internet movie streaming giant recently obtained a two year license to offer every episode of every incarnation of..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/07/GameClient-2011-07-07-22-50-05-73-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/07/GameClient-2011-07-07-22-50-05-73-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/GameClient-2011-07-07-22-50-05-73-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/GameClient-2011-07-07-22-50-05-73-480x384.jpg"
 ---
+Cryptic has a friend in Netflix. The Internet movie streaming giant recently obtained a two year license to offer every episode of every incarnation of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/GameClient-2011-07-07-22-50-05-73-480x384.jpg" title="Entering Earth Spacedock" class="align-center" >}}
+
 
 Cryptic has a friend in Netflix. The Internet movie streaming giant [recently obtained a two year license](http://www.airlockalpha.com/node/8410) to offer every episode of every incarnation of Star Trek (aside from the animated series) for instant viewing by folks in the United States.
 
@@ -46,7 +23,7 @@ Cryptic dropped their [Season Four: Crossfire](http://www.startrekonline.com/sea
 
 Klinks (er, Klingons) get a redesigned homeworld, which was much needed. You know when your best option to sell off your trash loot is to head to Defera because you can't find anyone to buy it in the Great Hall, there's something wrong. Perhaps signalling recent victories in the long conflict with the Federation, Klingons have new sectors with new Patrol missions. Those Klingon-only Patrol missions are experience gold mines for horseshoe crab-heads.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/GameClient-2011-07-07-22-23-36-62-480x384.jpg" title="Loading screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/07/GameClient-2011-07-07-22-23-36-62-480x384.jpg" title="Loading screen" classes="center" >}}
 
 The game itself has gotten a huge graphical update; the animated loading screens as you move into and out of missions or across sectors are so awesome that I was wanting to see the entire UI look more like THAT. With meaningless numbers scrolling all over the place and flashy stuff, can't get enough of that.
 

@@ -3,41 +3,19 @@ date: '2023-10-17T07:00:00-05:00'
 draft: false
 title: "HeroQuest: The Trial"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/10/17/heroquest-the-trial/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We played the modern reprinting of the classic adventure game, HeroQuest. Even the first adventure may have been too much for our brave crew."
-description: "We played the modern reprinting of the classic adventure game, HeroQuest. Even the first adventure may have been too much for our brave crew."
-tags:
+categories:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
+tags:
   - "Les Edwards"
   - "The Trial"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/heroquest-board-game-artwork-les-edwards.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/10/heroquest-board-game-artwork-les-edwards.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/heroquest-board-game-artwork-les-edwards.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/heroquest-board-game-artwork-les-edwards.webp"
 ---
+We played the modern reprinting of the classic adventure game, HeroQuest. Even the first adventure may have been too much for our brave crew.
+<!--more-->
 
 HeroQuest. There's a bunch of games that I never got to play, or maybe only played once, back in the day. I thought I'd missed my chance, or maybe I'd just never know anyone else who wanted to play.
 
@@ -51,7 +29,7 @@ HeroQuest is the answer to the question, "What if Dungeons & Dragons were a boar
 
 The scenario book contains 14 different adventures that bring you from the relatively easy map of The Trial through to meeting the scheming wizard Zarkon in his lair in the last. It is Zarkon who is putting the adventurers through this gauntlet.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-16-1024x643.png" title="Midjourney's take on the preliminary sketch for the box cover art (by Les Edwards)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-16-1024x643.png" title="Midjourney's take on the preliminary sketch for the box cover art (by Les Edwards)" classes="center" >}}
 
 Barbarian, pretty sure that's not how you hold a sword.
 
@@ -63,7 +41,7 @@ In turn, clockwise from the Zarkon player, heroes can move and take an action; b
 
 Searching for treasure can reveal treasure, gear, potions, or wandering monsters.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-17-1024x768.png" title="Opening up the boss room" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-17-1024x768.png" title="Opening up the boss room" classes="center" >}}
 
 Since it is super important to be looking for treasure to get upgrades and especially healing potions, you'd think the best strategy would be for everyone to move from room to room together, looking for treasure together in order to quickly stomp on any wandering monsters that might appear.
 
@@ -75,7 +53,7 @@ Both heroes and monsters have the same stat blocks. Number of attack dice, numbe
 
 Battles run along the lines of Warhammer 40K and similar games. The attacker rolls their attack dice, and potentially hits when the dice show skulls. The defender rolls defense dice, and blocks skulls with shields -- white shields for heroes, black shields for monsters. The defender takes a point of body for each unblocked skull the attacker rolled.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-18.png" title="From another angle. My phone camera is 'special'." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-18.png" title="From another angle. My phone camera is 'special'." classes="center" >}}
 
 And that's it, that's the game. Super easy and quick to run. The Zarkon player and the hero players can RP as much as they like, and even in our not super RP heavy table, we were getting in some dialogue. Mostly talking about the wizard. The elf was blocking every swing, we started calling him Lucky... until a devastating abomination took him down.
 

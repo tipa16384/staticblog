@@ -3,42 +3,20 @@ date: '2009-03-16T07:35:02-05:00'
 draft: false
 title: "Chronicles of Spellborn -- the Skinshifter"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/16/chronicles-of-spellborn-the-skinshifter/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This isn't going to be a new player's preview to the Chronicles of Spellborn -- you can find links to that sort of information after..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Acclaim"
   - "Closed Beta"
   - "Rogue"
   - "Skinshifter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg"
 ---
+This isn't going to be a new player's preview to the Chronicles of Spellborn -- you can find links to that sort of information after...
+<!--more-->
 
 This isn't going to be a new player's preview to the Chronicles of Spellborn -- you can find links to that sort of information after this post that point to my experiences playing on the EU servers prior to the Acclaim closed beta, or take a look at Dragonchasers' excellent [initial impressions](http://dragonchasers.com/2009/03/15/the-chronicles-of-spellborn-initial-impressions/).
 
@@ -47,8 +25,6 @@ On the EU servers, I played a Rune Mage. My special power: Special tattoos that 
 I got lambasted in a comment on Youtube when I posted a movie of my mage just kinda standing around, tanking while casting spells (which worked FINE for me). They said I should move around more (but why!?) When the Acclaim beta came around, I decided I'd try a melee class that moved around more, so I could experience that kind of play.
 
 I decided to try the Skinshifter, one of the rogue disciplines.
-
-![sb_client-2009-03-14-13-56-36-85](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-14-13-56-36-85.jpg "sb_client-2009-03-14-13-56-36-85")
 
 While I was creating the character, I figured I might as well be really daring, and try out one of the non-human Daevi. They play identically to humans but are somewhat taller, and they have hooves. I expected most people to be playing humans, but I did see a fair number of other Daevi about.
 
@@ -66,13 +42,13 @@ At level 5, I was invited to visit the academy in Hawksmouth City and choose a D
 
 My first two Crystal Mazes -- the mystic devices which shift your skin -- were for a Wolf and one of the enemy Ousted.
 
-![sb_client-2009-03-14-14-06-44-27](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-14-14-06-44-27.jpg "sb_client-2009-03-14-14-06-44-27")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-14-14-06-44-27.jpg" title="sb_client-2009-03-14-14-06-44-27" classes="center" >}}
 
 As a wolf, no animal bothers me. I can dance with the wolves, doze with the dodos, hang with the hogs, whatever -- none of them mind having me around in the least. Run right through the forests instead of sticking to the roads? You bet!
 
 The Hawksmouth City guards don't like wolves that much, it turns out. Not too much. Luckily, after they hit me once, I automatically shifted back to my Daevi form, and they were okay with that. That didn't work so well when I stumbled upon a group of Ousted. They don't like wolves AND they don't like normal Hawksmouth citizens much, either. That particular misstep was my only death of morning, and dropped my PEP from 2 to 1 :(
 
-![sb_client-2009-03-14-14-09-15-97](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-14-14-09-15-97.jpg "sb_client-2009-03-14-14-09-15-97")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-14-14-09-15-97.jpg" title="sb_client-2009-03-14-14-09-15-97" classes="center" >}}
 
 If I'd remembered to hit the Ousted crystal maze instead of trying to run, I'd have been fine. I may not look too pleasant as an Ousted, but I can walk right into the center of any Ousted camp, give the secret sign and just be one of the guys.
 

@@ -3,42 +3,19 @@ date: '2011-05-24T07:09:13-05:00'
 draft: false
 title: "What if Rift was modeled after EverQuest?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/05/24/what-if-rift-was-modeled-after-everquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If you took all the bullet-point features of Rift and compared them against all the bullet-point features of World of Warcraft as it was before..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Rift"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg"
 ---
+If you took all the bullet-point features of Rift and compared them against all the bullet-point features of World of Warcraft as it was before...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/05/rift-2011-05-23-07-42-33-94-480x480.jpg" title="The awe-inspiring Harbinger of Regulos" class="align-center" >}}
+
 
 If you took all the bullet-point features of Rift and compared them against all the bullet-point features of World of Warcraft as it was before its first expansion -- Rift comes out fairly well. The appearance armor and dye systems which lets my rogue look like I want her to look STILL haven't made it to WoW. And the rift system itself is a real game-changer, and there still seems to be plenty of room to experiment when building a role from souls.
 
@@ -46,7 +23,7 @@ But, I have my vanity pets. There's the mount collecting. There's the warfronts 
 
 I have no problem with that. MMOs are really intended to be social games first, and since you can't ship an MMO these days that doesn't cater to solo players of all abilities, challenge had to be left out of the equation.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/05/eqgame-2011-05-22-14-47-19-68-480x276.jpg" title="Lord Soptyvr in the Beholder Maze" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/05/eqgame-2011-05-22-14-47-19-68-480x276.jpg" title="Lord Soptyvr in the Beholder Maze" classes="center" >}}
 
 This last weekend I took a nostalgia trip, in EverQuest, from Qeynos to Freeport, walking the entire way. I wasn't level five like the FIRST time I did the run, back in 1999. I brought my level 58 shadow knight along for the trip. It was a fun romp, took a couple of hours (stopping to see all the sights along the way), and I even died once, in Kithicor, because I just didn't expect anything to be able to harm me. I was wrong, so very, very wrong. In keeping with the theme, and being bound in the Nexus, I took the Nexus portal down to Antonica and retraced my steps for a corpse run. This time I kept to Kithicor's edges.
 

@@ -3,52 +3,27 @@ date: '2007-07-22T19:55:51-05:00'
 draft: false
 title: "EvE: Book cover edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/22/eve-book-cover-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Whilst playing EvE Online today, it occurred to me that SF book authors are missing a real savings, book-cover wise, by not just finding a..."
+categories:
   - "EVE Online"
   - "General"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/07/childcare.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/07/childcare.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/childcare.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/childcare.jpg"
 ---
+Whilst playing EvE Online today, it occurred to me that SF book authors are missing a real savings, book-cover wise, by not just finding a...
+<!--more-->
 
 Whilst playing EvE Online today, it occurred to me that SF book authors are missing a real savings, book-cover wise, by not just finding a good screenshot in EvE and using *that* for their cover... Why, if more people did that, we could have books like... hmm...
 
-![childcare.jpg](https://chasingdings.com/wp-content/uploads/2007/07/childcare.jpg)
-
 There's a big seller for ya. Who wouldn't buy a book by someone named Spock?
 
-![fearofflying.jpg](https://chasingdings.com/wp-content/uploads/2007/07/fearofflying.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/07/fearofflying.jpg" classes="center" >}}
 
 One woman's tale of reaching middle age and coming across a nest of Kilrathi in Beta Sector...!
 
 Hmmm... Wonder if this works for Fantasy pics?
 
-![alice2.jpg](https://chasingdings.com/wp-content/uploads/2007/07/alice2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/07/alice2.jpg" classes="center" >}}
 
 Yup!

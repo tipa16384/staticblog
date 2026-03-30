@@ -3,47 +3,24 @@ date: '2011-02-09T07:14:29-05:00'
 draft: false
 title: "Dragon Age goes social (codes included)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/09/dragon-age-goes-social-codes-included/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ahead of Dragon Age Origin's release in the fall of 2009, Electronic Arts' web games division, EA2D, came out with a teaser game, Dragon Age..."
+categories:
   - "Dragon Age Origins"
   - "Facebook Games"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg"
 ---
+Ahead of Dragon Age Origin's release in the fall of 2009, Electronic Arts' web games division, EA2D, came out with a teaser game, Dragon Age...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-292011-15012-AM-458x480.jpg" title="Dragon Age Legends character creator" class="align-center" >}}
+
 
 Ahead of Dragon Age Origin's release in the fall of 2009, Electronic Arts' web games division, [EA2D](http://www.ea2d.com/), came out with a teaser game, [Dragon Age Journeys](http://www.dragonagejourneys.com/). DA:J gave a taste of the Dragon Age milieu, introducing several of the locations you'd explore in game (such as Ozrammar and the Deep Roads), the creatures you'd kill, and the classes you'd be playing. Completing goals in Journeys led to rewards for your characters in the game.
 
 Now, leading to next month's Dragon Age II, EA2D has gone social with a Facebook-based entry to the series, [Dragon Age Legends](http://www.ea.com/dragon-age-legends). A year and a half ago, Facebook was just beginning to emerge as a force in online gaming. Now it's a phenomenon. DA Legends rides the wave with adventures that require friends to complete.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-292011-70454-AM-480x470.jpg" title="Castle Aaaaaaaaaaargh" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-292011-70454-AM-480x470.jpg" title="Castle Aaaaaaaaaaargh" classes="center" >}}
 
 As in DA Journeys and DA: Origins, in Legends you choose from one of three classes -- warrior, rogue and mage. Unlike the earlier games, you do not get to choose a story for your character. This reflects the lack of individual backgrounds for your Dragon Age II character, all of whom share the same background, a refugee from a town early overrun by the Darkspawn. I can't see how this won't hurt replayability, as playing through the different origins was such a large part of the first game.
 

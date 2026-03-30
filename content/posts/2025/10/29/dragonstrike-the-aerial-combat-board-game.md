@@ -3,38 +3,16 @@ date: '2025-10-29T07:00:00-05:00'
 draft: false
 title: "DragonStrike: The Aerial Combat Board Game"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/10/29/dragonstrike-the-aerial-combat-board-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "With Amazon's \"New World\" MMO shuttering, can a simple board game provide a new home for its players?"
-description: "With Amazon's \"New World\" MMO shuttering, can a simple board game provide a new home for its players?"
-tags:
+categories:
   - "Tabletop Games"
+tags:
   - "Dragonstrike"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5465-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5465-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5465-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5465-scaled.jpg"
 ---
+With Amazon's "New World" MMO shuttering, can a simple board game provide a new home for its players?
+<!--more-->
 
 "With Amazon's *New World* MMO shuttering, can a simple board game provide a new home for its players?"
 
@@ -42,7 +20,7 @@ What kind of question is that? They're nothing alike. I don't think anyone who d
 
 But, since *you *brought DragonStrike up, let's talk about it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/IMG_5462-EDIT-1024x829.jpg" title="This has traveled the world over" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5462-EDIT-1024x829.jpg" title="This has traveled the world over" classes="center" >}}
 
 Back in the olden days, DragonLance was the big thing in Dungeons & Dragons. The famous Weis & Hickman books set the stage; the rule books let you loose in it. There were DragonLance comics, a DragonLance cartoon, and DragonLance RPGs (the famous SSI "Gold Box" games), and... [DragonStrike, the dragon combat simulator](https://en.wikipedia.org/wiki/DragonStrike_(video_game)).
 
@@ -54,7 +32,7 @@ I loved this game so much that I bought it twice. It came on two floppies, a sta
 
 I backed the board game the moment I heard about it, and so now I've bought it a third time.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/IMG_5464-EDIT-1024x611.jpg" title="The box, opened and partially set up" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5464-EDIT-1024x611.jpg" title="The box, opened and partially set up" classes="center" >}}
 
 The core DragonStrike game comes with four pre-painted dragons and riders, a large neoprene battle map, four three-layer player boards, decks of maneuver cards, tiles to set up different scenarios, and a set of five "dragon dice", some number of which are rolled to pass various attack and defense checks, among other things. Your dragon and your knight can modify how many dice are rolled, and the condition of your dragon affects the number as well.
 

@@ -3,42 +3,20 @@ date: '2022-08-30T07:00:00-05:00'
 draft: false
 title: "The Golden Years: 30 Something"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/30/the-golden-years-30-something/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The Golden Years: 30 Something is a life simulation game that highlights the importance of balancing work, life, and everything in between. The game features multiple different endings depending on the choices you make throughout the game."
-description: "The Golden Years: 30 Something is a life simulation game that highlights the importance of balancing work, life, and everything in between. The game features multiple different endings depending on the choices you make throughout the game."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
+tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Simulation Game"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-20.51.10-A-magazine-illustration-of-a-30-something-person-surrounded-by-icons-representing-lifes-challenges-work-family-hobbies-money-food-travel-and-.png"
 ---
+The Golden Years: 30 Something is a life simulation game that highlights the importance of balancing work, life, and everything in between. The game features multiple different endings depending on the choices you make throughout the game.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 30th: “The Golden Years: 30 Something”.
 
@@ -50,7 +28,7 @@ The game also highlights the importance of balancing work, life, and everything 
 
 The different paths in the game will impact the player's journey by giving them different challenges to overcome and different rewards to gain. For example, one path might be more difficult but lead to a more successful career, while another path might be easier but lead to a more fulfilling personal life. It's up to the player to decide which path they want to take. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-23-21.05.12-a-screen-from-a-videogame-showing-a-decision-tree-used-to-navigate-lifes-choices-with-a-highlighted-path-showing-one-path-through-the-decision-tree-1024x1024.png" title="Game Screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-23-21.05.12-a-screen-from-a-videogame-showing-a-decision-tree-used-to-navigate-lifes-choices-with-a-highlighted-path-showing-one-path-through-the-decision-tree-1024x1024.png" title="Game Screen" classes="center" >}}
 
 Depending on the player's choices, they will find themselves following one of these ten paths:
 

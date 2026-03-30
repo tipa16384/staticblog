@@ -3,37 +3,16 @@ date: '2021-07-17T09:47:49-05:00'
 draft: false
 title: "Blauging again? Do tell."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/07/17/blauging-again-do-tell/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
+summary: "How long has it been?..."
+categories:
+  - "Blaugust"
 tags:
   - "Blaugust"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/Blaugust2021-Logo-800.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/07/Blaugust2021-Logo-800.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/Blaugust2021-Logo-800.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/Blaugust2021-Logo-800.png"
 ---
+How long has it been?...
+<!--more-->
 
 How long has it been?
 

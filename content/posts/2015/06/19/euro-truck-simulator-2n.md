@@ -3,40 +3,17 @@ date: '2015-06-19T11:42:22-05:00'
 draft: false
 title: "Euro Truck Simulator 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/19/euro-truck-simulator-2n/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Not really been a fan of all the recent simulator offerings -- Train Simulator, Farming Simulator... Goat Simulator... but something about Euro Truck Simulator 2..."
+categories:
   - "Euro Truck Simulator 2"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/eurotrucks2-2015-06-19-06-12-21-70.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/eurotrucks2-2015-06-19-06-12-21-70.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/eurotrucks2-2015-06-19-06-12-21-70.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/eurotrucks2-2015-06-19-06-12-21-70.jpg"
 ---
+Not really been a fan of all the recent simulator offerings -- Train Simulator, Farming Simulator... Goat Simulator... but something about Euro Truck Simulator 2...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/eurotrucks2-2015-06-19-06-12-21-70.jpg" title="On the road to Frankfurt." class="align-center" >}}
+
 
 Not really been a fan of all the recent simulator offerings -- Train Simulator, Farming Simulator... Goat Simulator... but something about Euro Truck Simulator 2 caught my eye when it popped up in Steam's summer sale. I guess I just wanted to see Europe's highways from two meters above the road, or something. Certainly, you don't get to experience very much of the cities, which is probably just as well, because traffic.
 

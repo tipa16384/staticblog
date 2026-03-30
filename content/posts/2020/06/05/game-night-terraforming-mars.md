@@ -3,45 +3,22 @@ date: '2020-06-05T11:39:12-05:00'
 draft: false
 title: "Game Night: Terraforming Mars"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/05/game-night-terraforming-mars/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It won't be any sort of surprise that a family that has weekly board game nights plays one of the most popular board games on..."
+categories:
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/pieces.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/pieces.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/pieces.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/pieces.jpg"
 ---
+It won't be any sort of surprise that a family that has weekly board game nights plays one of the most popular board games on...
+<!--more-->
 
 It won't be any sort of surprise that a family that has weekly board game nights plays one of the most popular board games on this planet or any other (as far as we know). [Terraforming Mars](https://www.fryxgames.se/games/terraforming-mars/) is a long time staple of ours. It's easy and fun to play, can take as many people as you can throw at it, and is pretty fast moving to boot.
 
 We hadn't played it for awhile, but at one time we would alternate between Terraforming Mars, [Vast](https://boardgamegeek.com/boardgame/170416/vast-crystal-caverns) and Magic: the Gathering. We've since gone much, *much* deeper into board gaming, but we still make time for the old favorites.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/board.jpg" title="The board. We had the 3D pieces printed; it doesn't come with them." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/board.jpg" title="The board. We had the 3D pieces printed; it doesn't come with them." classes="center" >}}
 
 In Terraforming Mars, humanity has landed on the Red Planet, but Mars is absolutely inhospitable to human life. The soil is poisonous, the gravity is a third of Earth's, the air is just this side of a hard vacuum and what there is, is not breathable, and the unfiltered solar radiation bakes anything not covered with the talcum powder-like dust.
 
@@ -49,7 +26,7 @@ Players each play a Corporation founded and dedicated to making Mars a second ho
 
 The board is one face of Mars. Expansions open up the other hemisphere, as well as Venus, Mercury, the Moon and eventually the moons of the outer planets. Players play cards or spend Mega Credits to build on Mars or to in other ways increase its habitability.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/table.jpg" title="Moved off the kitchen table, just don't have room with my work stuff." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/table.jpg" title="Moved off the kitchen table, just don't have room with my work stuff." classes="center" >}}
 
 Two (or more, depending on expansions) graphs determine the state of the game. When the temperature and oxygen level graphs are maxed out (and the Venus graph if playing with the Venus Next expansion), and all the ocean tiles are placed, the game is over.
 

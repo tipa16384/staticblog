@@ -3,39 +3,16 @@ date: '2008-11-18T14:00:55-05:00'
 draft: false
 title: "EQ2: Welcome to The Shadow Odyssey!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/18/eq2-welcome-to-the-shadow-odyssey/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If SOE sticks to the schedule, then The Shadow Odyssey should be live about now...."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-10-04-00-49-59-94.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-10-04-00-49-59-94.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-10-04-00-49-59-94.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-10-04-00-49-59-94.jpg"
 ---
+If SOE sticks to the schedule, then The Shadow Odyssey should be live about now....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-10-04-00-49-59-94.jpg "The Isle of Refuge, TSO style")
+
 
 If SOE sticks to the schedule, then The Shadow Odyssey should be live about now.
 

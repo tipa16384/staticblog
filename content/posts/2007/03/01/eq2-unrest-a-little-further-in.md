@@ -3,40 +3,19 @@ date: '2007-03-01T11:59:58-05:00'
 draft: false
 title: "EQ2: Unrest, a little further in"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/03/01/eq2-unrest-a-little-further-in/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After last night's Labs raid, I got to go a little deeper into Unrest. But first, a little bit of patting-my-own-back-ism from the raid :)..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/03/un2-hat.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/03/un2-hat.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/un2-hat.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/un2-hat.jpg"
 ---
+After last night's Labs raid, I got to go a little deeper into Unrest. But first, a little bit of patting-my-own-back-ism from the raid :)...
+<!--more-->
 
-![un2-hat.jpg](https://chasingdings.com/wp-content/uploads/2007/03/un2-hat.jpg)After last night's Labs raid, I got to go a little deeper into Unrest. But first, a little bit of patting-my-own-back-ism from the raid :) Not only did I get this dapper little hat I've been wanting ever since I saw it in the hatmaker's window in East Freeport, but I got the kill shot on Lord Vyemm. So (ahem):
+
+
+After last night's Labs raid, I got to go a little deeper into Unrest. But first, a little bit of patting-my-own-back-ism from the raid :) Not only did I get this dapper little hat I've been wanting ever since I saw it in the hatmaker's window in East Freeport, but I got the kill shot on Lord Vyemm. So (ahem):
 
 WOOOHOO! HAFFER KILL! BWAHAHAHAHAHAHAHAHAAAAA!
 
@@ -52,9 +31,9 @@ The monsters -- not as hard as I thought they would be. The zone is a series of 
 
 A fun zone and powerfully nostalgic. I'll be spending a lot of time there -- it's not such an unrewarding zone of horrid death as Mistmoore Castle (which, unsurprisingly I guess, was an unrewarding zone of horrid death in EQ1 as well, for the level range).
 
-![un2-outside.jpg](https://chasingdings.com/wp-content/uploads/2007/03/un2-outside.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/un2-outside.jpg" classes="center" >}}
 
-![un2-genesis.jpg](https://chasingdings.com/wp-content/uploads/2007/03/un2-genesis.jpg)Here's a view from the mansion looking back through the hedge maze. I loved its storybook feel... it kinda reminded me of a Genesis album cover (specifically the one for *Selling England by the Pound* mixed with a little *Nursery Chryme*).
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/un2-genesis.jpg" classes="fig-20" >}}Here's a view from the mansion looking back through the hedge maze. I loved its storybook feel... it kinda reminded me of a Genesis album cover (specifically the one for *Selling England by the Pound* mixed with a little *Nursery Chryme*).
 
 My first experience with Unrest, back in EQ1, was farming beetles for Pristine Scarab Carapaces with which to make Scarab armor. I had a little business making that gear "way back when".
 
@@ -64,4 +43,4 @@ New Unrest: Good stuff, and it makes me excited about seeing how the EQ2 devs wi
 
 More: I was playing around with Photoshop and the Unrest screenie, and I thought this inked version came out nicely and brings out the storybook quality of the zone better than a straight screenie.
 
-![inky.jpg](https://chasingdings.com/wp-content/uploads/2007/03/inky.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/inky.jpg" classes="center" >}}

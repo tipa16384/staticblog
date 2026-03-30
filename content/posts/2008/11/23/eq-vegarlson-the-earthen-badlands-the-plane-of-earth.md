@@ -3,45 +3,23 @@ date: '2008-11-23T00:05:03-05:00'
 draft: false
 title: "EQ: Vegarlson, the Earthen Badlands (the Plane of Earth)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/23/eq-vegarlson-the-earthen-badlands-the-plane-of-earth/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Of the four elemental planes, the plane of earth is the most unusual and certainly the scariest. Strange, silent, deadly creatures lurk everywhere; some burrow..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Plane of Earth"
   - "Prismatic Basilisk"
   - "The Living Earth"
   - "Vegarlson"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg"
 ---
+Of the four elemental planes, the plane of earth is the most unusual and certainly the scariest. Strange, silent, deadly creatures lurk everywhere; some burrow...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-21-18-57-24-07.jpg "eqgame-2008-11-21-18-57-24-07")
+
 
 Of the four elemental planes, the plane of earth is the most unusual and certainly the scariest. Strange, silent, deadly creatures lurk everywhere; some burrow underground, and pop up to attack you as you pass. The Rathe Council has abandoned the plane to meet and discuss things in their own sub-plane, leaving their larger plane alone to grow strange.
 
@@ -53,7 +31,7 @@ Naturally, non-raiders were angry that the very best parts of the expansion were
 
 It's just as creepy, though.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-21-20-36-47-82.jpg "eqgame-2008-11-21-20-36-47-82")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-21-20-36-47-82.jpg" title="eqgame-2008-11-21-20-36-47-82" classes="center" >}}
 
 Tarfu was having severe computer problems, so Elryndal, Kanad and I set out on our own, with our bots. I re-bought my bot to get a level 64 version, but I'm not sure I needed to. The one time I died, though, she put Virtue on me instead of the lesser Blessing of Aegolism she normally casts. I guess she felt guilty.
 
@@ -79,6 +57,6 @@ There was some talk about heading to TSS and the level 65 hot zone, Sunderrock S
 
 The last time we went, we had to kite. Now, we'll have Tarfu to tank and mercenaries to help heal, tank and dps, so we'll be headed in deep, where the experience is absolutely amazing. The spot I'm thinking of even has some lesser nameds, meant for a single group. If we can defeat the 2K-hitting Prismatic Basilisk in PoE, these should be no trouble. Assuming we don't lose anyone on the way through PoF. It can be a very, very deadly zone. Not Plane of Air deadly, but just less than that.
 
-![](http://chasingdings.com/sig/out.png)
+{{< image src="http://chasingdings.com/sig/out.png" classes="center" >}}
 
 I finally fixed my signature program which had been broken since SOE changed the EQPlayers character page a couple of months back. So, there it is.

@@ -3,44 +3,23 @@ date: '2008-10-25T08:48:27-05:00'
 draft: false
 title: "EQ: The Bastion of Thunder"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/25/eq-the-bastion-of-thunder/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Because FRAPS conked out on me, and I didn't notice until after. there's no screen shots of our night in the Bastion of Thunder...."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Bastion of Thunder"
+  - "EverQuest"
   - "Mercenary"
   - "Seeds of Destruction"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg"
 ---
+Because FRAPS conked out on me, and I didn't notice until after. there's no screen shots of our night in the Bastion of Thunder....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-25-07-09-32-24.jpg "eqgame-2008-10-25-07-09-32-24")
+
 
 Because FRAPS conked out on me, and I didn't notice until after. there's no screen shots of our night in the Bastion of Thunder.
 

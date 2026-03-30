@@ -3,42 +3,23 @@ date: '2008-08-21T01:00:48-05:00'
 draft: false
 title: "Stout Henry"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/21/stout-henry/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This is a story about Stout Henry, an average citizen of an average land, doing the average things one might do, in a land far..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Stout Henry"
+tags:
   - "Not Funny"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/stouthenry.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/stouthenry.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Stout Henry"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stouthenry.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/stouthenry.jpg"
 ---
+This is a story about Stout Henry, an average citizen of an average land, doing the average things one might do, in a land far...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/stouthenry.jpg "stouthenry")This is a story about Stout Henry, an average citizen of an average land, doing the average things one might do, in a land far away.
+
+
+This is a story about Stout Henry, an average citizen of an average land, doing the average things one might do, in a land far away.
 
 "Forsooth!" cried Stout Henry from his reading chair, as the morning sun's bright beams seeped around the edges of the dark oilcloth that covered the window. "I have wasted my last candle on this tale!" Stout Henry hurled the badly penned tome, with its thin parchment color, to the ground. "And now I must be about my morning tasks, with no benefit of the double experience a feather bed might grant. Well, I be off!"
 

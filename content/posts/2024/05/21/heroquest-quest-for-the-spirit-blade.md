@@ -3,41 +3,19 @@ date: '2024-05-21T06:45:00-05:00'
 draft: false
 title: "HeroQuest: Quest for the Spirit Blade"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/05/21/heroquest-quest-for-the-spirit-blade/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Last time, we accidentally woke the Witch Lord. Oops. Now we are in search of the one weapon that can put him down."
-description: "Last time, we accidentally woke the Witch Lord. Oops. Now we are in search of the one weapon that can put him down."
-tags:
+categories:
   - "HeroQuest"
   - "Tabletop Games"
+tags:
   - "Quest for the Spirit Blade"
   - "Spirit Blade"
   - "Witch Lord"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/quest-13.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/05/quest-13.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/quest-13.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/quest-13.png"
 ---
+Last time, we accidentally woke the Witch Lord. Oops. Now we are in search of the one weapon that can put him down.
+<!--more-->
 
 I'm not really sure what the point of last week's quest was. We got the Gem of the West or whatever, and the king used it for a crown or something, and there is an orc army involved, but it looks like we're free to go kill this Witch Lord.
 
@@ -47,7 +25,7 @@ It was forged aeons ago by elves in a volcano or something? And there was all so
 
 If I have forged the only weapon that can kill an undead monstrosity, I'm going to be keeping it close by. Just saying. Clearly these people feel differently.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-13-1024x771.png" title="Rogue finding the Spirit Blade" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-13-1024x771.png" title="Rogue finding the Spirit Blade" classes="center" >}}
 
 We started in the center of the ruins in a room with doors in all four walls. Beyond the doors were traps, and more traps. Traps that would continuously rain rocks on your head. The rogue tripped them all. He wore a helmet; he was protected. The monk tripped them. Helmet, protected. Our poor elf, though -- she didn't have a helmet and got beaned by each one. Only the dwarf seemed to be immune, or at least, more cautious.
 
@@ -57,7 +35,7 @@ When the dwarf opened a room full of monsters, though, the rogue did manage to m
 
 The monk didn't want it, because he can hit for four hit dice all the time, undead or not. The elf didn't want it, she doesn't ever want to be in melee range. It was passed around like a hot potato until it finally reached the dwarf. He also has a four combat die weapon -- a great axe -- but he guesses he can keep it in case a Witch Lord happens by.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-14-1024x771.png" title="But what are the odds of that?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-14-1024x771.png" title="But what are the odds of that?" classes="center" >}}
 
 Not sure what's going on with his left hand in that picture.
 

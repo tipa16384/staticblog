@@ -3,47 +3,24 @@ date: '2011-08-23T07:06:26-05:00'
 draft: false
 title: "Dragon Nest: A Warrior, a Sorceress and a Priest walk into a bar..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/08/23/dragon-nest-a-warrior-a-sorceress-and-a-priest-walk-into-a-bar/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wanna blow stuff up, defeat dozens of monsters at once, perform ridiculous combos and fall in love with an NPC? Wanna go to incredibly atmospheric..."
+categories:
   - "Dragon Nest"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg"
 ---
+Wanna blow stuff up, defeat dozens of monsters at once, perform ridiculous combos and fall in love with an NPC? Wanna go to incredibly atmospheric...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-20-08-16-28-480x384.jpg" title="Warrior in the Valley of Mourning" class="align-center" >}}
+
 
 Wanna blow stuff up, defeat dozens of monsters at once, perform ridiculous combos and fall in love with an NPC? Wanna go to incredibly atmospheric locations again and again? Wanna read some of the most hilarious game text in any MMO? Want to look just like everyone else? Wanna have a crowd of thousands cheering you on in the arena?
 
 Nexon's [Dragon Nest](http://dragonnest.nexon.net/) just might be your thing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-23-31-35-25-480x384.jpg" title="Archer, Warrior, Sorceress, Cleric" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-22-23-31-35-25-480x384.jpg" title="Archer, Warrior, Sorceress, Cleric" classes="center" >}}
 
-Action MMOs like La Tale, [Dragonica Online](https://chasingdings.com/index.php/2009/08/25/a-first-look-at-dragonica-online/), [Fists of Fu](https://chasingdings.com/index.php/2010/06/25/fists-of-fu-beat-em-up-mmos-go-platform/) and so on specialize in removing everything that doesn't have you out in the world, killing things. Dragon Nest is the next generation of action MMO. It adds a third dimension to the often flat action world.
+Action MMOs like La Tale, [Dragonica Online](https://tipa16384.github.io/wkblog/index.php/2009/08/25/a-first-look-at-dragonica-online/), [Fists of Fu](https://tipa16384.github.io/wkblog/index.php/2010/06/25/fists-of-fu-beat-em-up-mmos-go-platform/) and so on specialize in removing everything that doesn't have you out in the world, killing things. Dragon Nest is the next generation of action MMO. It adds a third dimension to the often flat action world.
 
 Typical of these games, you can choose from four different classes, each of whom can be customized in a very limited manner. Warriors chew things up in melee; Archers destroy things at range; Sorceresses make things go boom; and Clerics wallop stuff with maces, shields and spells. At level 15, Warriors can become Swordsmen or Mercenaries, Archers become Acrobats or Sharpshooters, Sorceresses become Elementalists or Mystics, and Clerics become Priests or Paladins.
 
@@ -51,7 +28,7 @@ All warriors are going to look like a boy with a huge weapon. All archers are go
 
 No matter the class, though, play is essentially the same. You choose from a ever-growing list of moves that knock your opponents off balance, stun them or otherwise incapacitate them, then follow it up with devastating following moves. Passive special attacks mapped to your right mouse button o various things depending on how you incapacitated the enemy. It all comes together to make a very fluid, almost cinematic contest of utter destruction. As you roll or leap away from opponent attacks to hit them from behind with a suitably meaty thud, then use a jumping side-kick to push them off a cliff... combat is sweet in Dragon Nest.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-23-07-36-12-15-480x384.jpg" title="Dungeon screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-23-07-36-12-15-480x384.jpg" title="Dungeon screen" classes="center" >}}
 
 There's two main plots in Dragon Nest. if you're a Warrior or an Archer, a chance encounter on the road to Ironwood Village leads you to investigate the kidnapping of a woman who may be the key to ancient power. If you're a Cleric or a Sorceress, a priceless artifact is stolen from a caravan of priests on their way to Mana Ridge, exposing a culture of corruption and misdealing in the highest levels of the church.
 
@@ -63,7 +40,7 @@ The dungeon screen shows you what quests and achievements are available for each
 
 Your run is graded on speed and style. The higher the grade, the better selection of random loot at the end. Naturally, you can spend real money at the cash shop to buy items that make the random loot a bit less random.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-21-13-12-64-480x384.jpg" title="The Arena" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-22-21-13-12-64-480x384.jpg" title="The Arena" classes="center" >}}
 
 At the cash shop you can buy appearance items which _do_ affect your stats. You can also buy the expected selection of potions, extra storage space, resurrection scrolls and courier birds. These little critters allow you to broadcast messages to your current location or to everyone in the world. In Dragon Nest, spammers have to pay money to Nexon to hawk their wares.
 
@@ -73,7 +50,7 @@ You'll be returning to town often in order to sell your loot, craft new items an
 
 You can also make crests, crafted items which fit into a screen and grant you chooseable stat increases. You can build friendship with NPCs which will lead to more side quests and rewards. You can extract magic components from loot you don't like. There's a full skill tree system for each class and subclass. There's a player marketplace.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-22-23-34-02-03-480x271.jpg" title="Cleric intro" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-22-23-34-02-03-480x271.jpg" title="Cleric intro" classes="center" >}}
 
 If you're looking for an MMO where your unique character forms the basis for years of deep role playing and adventure, Dragon Nest may not be what you're looking for.
 

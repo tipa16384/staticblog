@@ -3,41 +3,18 @@ date: '2006-08-18T09:16:51-05:00'
 draft: false
 title: "Ding! 70!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/18/ding-70/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Finally FINALLY done leveling Dina. I've caught up!..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/dina70.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/dina70.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/dina70.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/dina70.jpg"
 ---
+Finally FINALLY done leveling Dina. I've caught up!...
+<!--more-->
 
-![Dina Dings 70](https://chasingdings.com/wp-content/uploads/2006/08/dina70.jpg)
+
 
 Finally FINALLY done leveling Dina. I've caught up!
 
@@ -55,4 +32,4 @@ Oh well... but heck yeah, finally there.
 
 Shot of the last room in Halls of Fate below. I didn't get too many decent pictures while I was there; next time.
 
-![Halls of Fate](https://chasingdings.com/wp-content/uploads/2006/08/hof.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/hof.jpg" classes="center" >}}

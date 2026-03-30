@@ -3,40 +3,17 @@ date: '2013-01-11T08:20:03-05:00'
 draft: false
 title: "EQ2: SOE fixes \"DM Powerleveling\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/01/11/eq2-soe-fixes-dm-powerleveling/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Powerleveling has always existed in EverQuest 2, but never so much as when the \"perfect storm\" of player-made dungeons tuned for powerleveling and armor that..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-10-00-33-32-23-480x299.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-10-00-33-32-23-480x299.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-10-00-33-32-23-480x299.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-10-00-33-32-23-480x299.jpg"
 ---
+Powerleveling has always existed in EverQuest 2, but never so much as when the "perfect storm" of player-made dungeons tuned for powerleveling and armor that...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-10-00-33-32-23-480x299.jpg" title="Don't cry for me, powerleveler" class="align-center" >}}
+
 
 Powerleveling has always existed in EverQuest 2, but never so much as when the "perfect storm" of player-made dungeons tuned for powerleveling and armor that could simultaneously heal the player while killing anything that hit it came on the scene with the release of the Chains of Eternity expansion.
 

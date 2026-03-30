@@ -3,24 +3,8 @@ date: '2009-06-25T07:59:41-05:00'
 draft: false
 title: "Daily Blogroll 6/25 -- A Valiant Effort edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/25/daily-blogroll-625-a-valiant-effort-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Hey, didja hear the news? Mark Jacobs is leaving Mythic and Mythic is being merged into Bioware! Jacobs was the public face of Mythic for..."
+categories:
   - "Age of Conan"
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
@@ -30,20 +14,13 @@ tags:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/valianteffort.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/valianteffort.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/valianteffort.jpg"
 ---
+Hey, didja hear the news? Mark Jacobs is leaving Mythic and Mythic is being merged into Bioware! Jacobs was the public face of Mythic for...
+<!--more-->
 
-![Mark Jacobs leaves behind a tearful Mythic](https://chasingdings.com/wp-content/uploads/2009/06/valianteffort.jpg "Mark Jacobs leaves behind a tearful Mythic")
+
 
 Hey, didja hear the news? [Mark Jacobs is leaving Mythic](http://herald.warhammeronline.com/warherald/NewsArticle.war?id=841) and Mythic is being merged into Bioware! Jacobs was the public face of Mythic for so long, I can't think of one without the other, and I can't think of an upside to his leaving for the game I once loved, Dark Age of Camelot.
 

@@ -3,48 +3,24 @@ date: '2009-02-19T07:38:11-05:00'
 draft: false
 title: "The clandestine Norrath/Dragonspyre connection"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/19/the-clandestine-norrathdragonspyre-connection/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Norrath, the planet itself, wasn't discovered by humans or elves or iksar or the ancient snake people or even the gods. It was discovered by..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Dragonspyre"
   - "Temple of Veeshan"
   - "The Labyrinth"
   - "Veeshan"
   - "Veeshan's Peak"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/veeshansymbol.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/veeshansymbol.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/veeshansymbol.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/veeshansymbol.jpg"
 ---
+Norrath, the planet itself, wasn't discovered by humans or elves or iksar or the ancient snake people or even the gods. It was discovered by...
+<!--more-->
 
 Norrath, the planet itself, wasn't discovered by humans or elves or iksar or the ancient snake people or even the gods. It was discovered by the great she-dragon Veeshan, who chose this nondescript planet on which to raise her brood. She marked the planet with a swipe of her claws, claiming it as her own to all who could read her sign.
-
-![](https://chasingdings.com/wp-content/uploads/2009/02/veeshansymbol.jpg "veeshansymbol")
 
 Her brood, the First, and all their many descendants chose that event as their emblem, until the time when the awakened Sleeper, Kerafrym, tore the moon of Luclin apart, and in defiance of Veeshan, chose for his symbol, himself, curled in the same way, bursting the moon. Veeshan may have been content to leave her mark on some forgotten frozen continent, but Kerafrym's mark would be laid across the entire SKY.
 
@@ -52,12 +28,12 @@ Those are the first and second pictures above; Veeshan on the left, Kerafrym in 
 
 So, who is that in the THIRD picture, with nearly the exact same symbol? Veeshan? Some other dragon from Norrath's future?
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/veeshanw101.jpg "veeshanw101")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/veeshanw101.jpg" title="veeshanw101" classes="center" >}}
 
 Nope, the picture was taken in Wizard 101's Dragonspyre. I saw that last night while finishing my Crucible quests that grant me admittance to Dragonspyre Academy, and was so overjoyed to see a little bit of home in the game. Homage or coincidence? I don't know, but I loved to see it there.
 
 Made me happy.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-18-23-03-35-04.jpg "wizardgraphicalclient-2009-02-18-23-03-35-04")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-18-23-03-35-04.jpg" title="wizardgraphicalclient-2009-02-18-23-03-35-04" classes="center" >}}
 
 I dinged 50 (yay!) and started in on the Labyrinth last night -- a zone with eight boss fights in a row. The first two are Life bosses. After the first one, I gave up for the night, it was getting late. Those Life bosses are a real chore, not fun at all. Why can't all bosses be from the Death school?

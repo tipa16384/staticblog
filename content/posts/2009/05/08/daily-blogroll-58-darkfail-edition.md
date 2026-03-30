@@ -3,24 +3,8 @@ date: '2009-05-08T07:14:59-05:00'
 draft: false
 title: "Daily Blogroll 5/8 -- Darkfail edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/08/daily-blogroll-58-darkfail-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Apologies to Randall Munroe..."
+categories:
   - "Champions Online"
   - "City of Heroes"
   - "Daily Blogroll"
@@ -36,20 +20,13 @@ tags:
   - "Torchlight"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/darkfall.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/darkfall.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/darkfall.jpg"
 ---
+Apologies to Randall Munroe...
+<!--more-->
 
-![Actual Darkfall Screenshot](https://chasingdings.com/wp-content/uploads/2009/05/darkfall.jpg "Actual Darkfall Screenshot")
+
 
 *Apologies to Randall Munroe*
 
@@ -59,7 +36,7 @@ Enough of [THAT particular kerfuffle](http://forums.darkfallonline.com/showthrea
 
 Saylah from Mystic Worlds, one of my absolute favorite bloggers, is [taking a break from gaming to work on a screenplay](http://notadiary.typepad.com/onethought/). That's pretty cool, but I'll miss her thoughts on game design and her adventures in Runes of Magic!
 
-Beau loves his horsie. She comes when he calls, loves carrots, can stomp answers to simple math problems and most importantly, [doesn't vanish when he stops riding](http://epicdolls.com/beauturkey/?p=1416). In Mabinogi, your horse isn't just +40% travel speed -- [it's a friend and fighting companion](https://chasingdings.com/index.php/2008/12/02/comparing-eq2-and-mabinogi-horse-movies/).
+Beau loves his horsie. She comes when he calls, loves carrots, can stomp answers to simple math problems and most importantly, [doesn't vanish when he stops riding](http://epicdolls.com/beauturkey/?p=1416). In Mabinogi, your horse isn't just +40% travel speed -- [it's a friend and fighting companion](https://tipa16384.github.io/wkblog/index.php/2008/12/02/comparing-eq2-and-mabinogi-horse-movies/).
 
 What else does Beau like? [He likes playing MMOs a la carte](http://epicdolls.com/beauturkey/?p=1411). This game does this thing nicely, while this game is strong here. And with Free to Play games, he can choose among them for the kind of gaming he wants to do at the moment, and it costs nothing.
 
@@ -73,7 +50,7 @@ Wiqd of iMMOvation writes extensively about his [ten year love affair with Norra
 
 Wilhelm at The Ancient Gaming Noob [takes his own look through EverQuest's long history](http://tagn.wordpress.com/2009/05/06/everquest-and-the-intoxication-of-nostalgia/), talks about the nostalgia for "classic" EverQuest and wonders if World of Warcraft will be airmailing rose-colored glasses to all its original players when IT turns ten.
 
-Via our friends at Eurogamer comes news that [Hanbitsoft may be about to resurrect Mythos](http://www.eurogamer.net/articles/mythos-fans-dont-have-to-worry-now) and possibly release it in the West. [I loved Mythos](https://chasingdings.com/index.php/category/mmos/mythos/). If it gets released in the US, I will play it. But I'll secretly waiting for the game the [ex-Mythos devs have got coming](https://chasingdings.com/index.php/category/other-games/torchlight/).
+Via our friends at Eurogamer comes news that [Hanbitsoft may be about to resurrect Mythos](http://www.eurogamer.net/articles/mythos-fans-dont-have-to-worry-now) and possibly release it in the West. [I loved Mythos](https://tipa16384.github.io/wkblog/index.php/category/mmos/mythos/). If it gets released in the US, I will play it. But I'll secretly waiting for the game the [ex-Mythos devs have got coming](https://tipa16384.github.io/wkblog/index.php/category/other-games/torchlight/).
 
 Abalieno at Cesspit notes that according to EA and CCP's published subscription numbers, indie hardcore space sim EVE Online [now has more subscribers](http://www.cesspit.net/drupal/node/1894) than Triple A, super expensive, saturation-hyped PvP fantasy game Warhammer Online. It's easy to draw negative comparisons between an indie MMO with modest expectations and a game with all the resources of one of the largest game companies in the entire world behind it, but I think the situation is even easier to figure out. EVE Online isn't trying to lure WoW players, and Warhammer is. It's pointless to market to WoW players. They are never going to stay with your game. WoW players, by and large, play WoW.
 

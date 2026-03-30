@@ -3,24 +3,8 @@ date: '2009-07-16T07:40:18-05:00'
 draft: false
 title: "Daily Blogroll 7/16 -- Lost in Bree edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/16/daily-blogroll-716-lost-in-bree-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What makes The Prancing Pony such a \"must see\" when you're in Bree? Butterbur just stands in that same spot all day and all night,..."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "EverQuest"
@@ -28,20 +12,13 @@ tags:
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/hobbitbed.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/hobbitbed.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/hobbitbed.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/hobbitbed.jpg"
 ---
+What makes The Prancing Pony such a "must see" when you're in Bree? Butterbur just stands in that same spot all day and all night,...
+<!--more-->
 
-![I guess I just don](https://chasingdings.com/wp-content/uploads/2009/07/hobbitbed.jpg "I guess I just don")
+
 
 What makes The Prancing Pony such a "must see" when you're in Bree? Butterbur just stands in that same spot all day and all night, perpetually on the edge of remembering what it is he needed to do while buying sticks and pebbles from snickering children.
 

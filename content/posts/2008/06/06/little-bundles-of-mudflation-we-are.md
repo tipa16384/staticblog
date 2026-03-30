@@ -3,41 +3,18 @@ date: '2008-06-06T07:34:06-05:00'
 draft: false
 title: "Little bundles of mudflation, we are."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/06/little-bundles-of-mudflation-we-are/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I remember sitting on the North Wall of Karnor's Castle back in 2000 or 2001, doing my best to keep my group healed as a..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "http://chasingdings.com/sig/out.png"
-cover:
-  image: "http://chasingdings.com/sig/out.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://chasingdings.com/sig/out.png"
+thumbnailImage: "http://chasingdings.com/sig/out.png"
 ---
+I remember sitting on the North Wall of Karnor's Castle back in 2000 or 2001, doing my best to keep my group healed as a...
+<!--more-->
 
-![My sig!](http://chasingdings.com/sig/out.png)
+
 
 I remember sitting on the North Wall of Karnor's Castle back in 2000 or 2001, doing my best to keep my group healed as a mid-40s druid, and chatting with the other people in my group. Yeah, we did a lot of chatting. I don't know why people keep calling EQ1 a hardcore game... playing EQ1 was like sitting on a beach chair watching the surf crash, and occasionally rousing oneself off that beach chair to fall upon the surf and really mess it up, then relaxing again as the puller went out to find more surf.
 

@@ -3,41 +3,19 @@ date: '2008-12-15T21:12:28-05:00'
 draft: false
 title: "DOMO: Level 23 Thief/Musician, LFG"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/15/domo-level-23-thiefmusician-lfg/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The obviously misnamed Eversun City at sunset, outside the Planetarium...."
+categories:
   - "Dream of Mirror Online"
   - "MMORPG"
+tags:
   - "New Shiny"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg"
 ---
+The obviously misnamed Eversun City at sunset, outside the Planetarium....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-14-11-32-57-40.jpg "domo-2008-12-14-11-32-57-40")
+
 
 *The obviously misnamed Eversun City at sunset, outside the Planetarium.*
 
@@ -51,7 +29,7 @@ It's a sandboxy, social MMO that doesn't lead you by the hand, that rewards expl
 
 I just had to try it out.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-13-18-10-20-46.jpg "domo-2008-12-13-18-10-20-46")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-13-18-10-20-46.jpg" title="domo-2008-12-13-18-10-20-46" classes="center" >}}
 
 That's my char in "musician" clothes, with my chinese banjo by my side, doing one of the Drill Sergeant quests. He's a guy in Swan Lake Basin who hands out low level group instanced missions. I was in the area already practicing up my herding.
 
@@ -59,7 +37,7 @@ Let me back up. I'd unlocked the Musician job awhile ago, but had only played it
 
 Every weapon gets two upgrades, once it has leveled enough. Oh yeah, you level weapons up by using them, but upgrading too soon can make them too high a level for you. I did that with my beginner Thief dagger, and that caused problems. Upgrading my banjo took two Down and one Vine Rope, I think.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-13-14-17-09-75.jpg "domo-2008-12-13-14-17-09-75")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-13-14-17-09-75.jpg" title="domo-2008-12-13-14-17-09-75" classes="center" >}}
 
 *Fellow blogger Crookshankz and I relaxing outside the bank*
 
@@ -71,17 +49,17 @@ Bad idea. Four of the downs were flawed, and I failed two tries at upgrading my 
 
 Losing those four downs was a good half hour work wasted, and I could have been using those downs to level up my Alchemy (crafting). I need to get my Alchemy to 10 to make my next Thief weapon.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-13-02-00-16-46.jpg "domo-2008-12-13-02-00-16-46")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-13-02-00-16-46.jpg" title="domo-2008-12-13-02-00-16-46" classes="center" >}}
 
 I was exploring really, really deep in the Inn basement (level 15-25 dungeon) and came across this Weird Caskmaster, making really inconsiderate and hurtful remarks about me. I killed him. And guess what -- that earned me the flat-chested title. Sigh.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-13-11-38-35-02.jpg "domo-2008-12-13-11-38-35-02")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-13-11-38-35-02.jpg" title="domo-2008-12-13-11-38-35-02" classes="center" >}}
 
 When some critter starts saying things like that to you, what you really want to do is kill them. Lots of them. Hundreds of them. Thousands of them. So that's what I did -- I joined a Cask AE group.
 
 If you've ever beein in one of these in EverQuest, you'd be right at home here. The healers, bards (not me, I'd switched back to thief), wizards, dancers and whatnot gather in one spot, and the melees continually pull mobs to the group, where they are AE'd to death. I'd been puller in some groups, but I've been training my AE abilities, so this time I just stayed in and helped AE. I went from level 19 to 22 Thief there; that Mirror King in the back had popped in when I hit 20 to tell me to start working on the level 20 Life quest (all jobs get a Life quest every ten levels; the Thief 20 Life quest gives a recipe for a new dagger, as well as some other loot).
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-14-01-42-11-15.jpg "domo-2008-12-14-01-42-11-15")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-14-01-42-11-15.jpg" title="domo-2008-12-14-01-42-11-15" classes="center" >}}
 
 So, I'm sitting at -1% into level 23. You can't lose levels, but you DO ***LOSE*** xp when you die, and I've been dying a lot from exploring so much. I'm an explorer. You can click the revival stone to buy back some of your lost experience, and I bought back 20% of it to get me pretty close to even.
 

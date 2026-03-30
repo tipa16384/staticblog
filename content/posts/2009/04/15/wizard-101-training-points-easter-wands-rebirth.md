@@ -3,48 +3,26 @@ date: '2009-04-15T00:29:57-05:00'
 draft: false
 title: "Wizard 101: Training Points, Easter Wands, & Rebirth"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/15/wizard-101-training-points-easter-wands-rebirth/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After the thrilling adventure that gaining the Life power of Rebirth held for me on the Test realm, nothing could stop me from invading the..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Bartleby"
   - "Easter"
   - "Life School"
   - "Rebirth"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-18-00-34-82-245x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-18-00-34-82-245x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-14-18-00-34-82-245x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-14-18-00-34-82-245x480.jpg"
 ---
+After the thrilling adventure that gaining the Life power of Rebirth held for me on the Test realm, nothing could stop me from invading the...
+<!--more-->
 
 After the thrilling adventure that gaining the Life power of Rebirth held for me on the Test realm, nothing could stop me from invading the Labyrinth with thoughts of crushing Life bosses to dust once again, or maybe for the first time, at least with the crushing.
 
 Seriously! Because I'd taken the opportunity to lose my useless Fire spells, bought, and learned some useful ones. Well, I'd learned Feint, and a night of 2500 to 3500 point nukes awaited.
 
-![wizardgraphicalclient-2009-04-14-18-00-34-82](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-18-00-34-82-245x480.jpg "wizardgraphicalclient-2009-04-14-18-00-34-82")You'd think that with almost two million student wizards roaming through the Spiral, that Mr. Lincoln, Ravenwood's Registrar, would have enough in his wings without having to drop everything to go through the records of all the spells learned when a student wizard decides that maybe that really cool looking spell they bought wasn't worth the seven rounds necessary to play it, after all, and could they please have their training points back?
+You'd think that with almost two million student wizards roaming through the Spiral, that Mr. Lincoln, Ravenwood's Registrar, would have enough in his wings without having to drop everything to go through the records of all the spells learned when a student wizard decides that maybe that really cool looking spell they bought wasn't worth the seven rounds necessary to play it, after all, and could they please have their training points back?
 
 And yet, that's exactly the job given Mr. Lincoln, and I flocked to him (sorry) as soon as I logged in. "Mr. Lincoln?" I asked.
 
@@ -74,7 +52,7 @@ Then I headed to my school, the Life school, to talk to Moolinda Wu. And she tol
 
 I visited trees in Ravenwood, the Jade Palace and Krokosphinx. Fought the Hoarder in the Drake Hatchery and many, many bosses in the Labyrinth. Sang a Cuckoo song for everyone in Cyclops Lane (I suspected Mr. Lincoln was responsible!), talked to Bartleby and saw Ms. Wu for my spell, Rebirth, and my new pet.
 
-[![wizardgraphicalclient-2009-04-14-22-54-52-17](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-54-52-17-480x383.jpg "wizardgraphicalclient-2009-04-14-22-54-52-17")](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-54-52-17.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-54-52-17-480x383.jpg" title="wizardgraphicalclient-2009-04-14-22-54-52-17" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-54-52-17.jpg)
 
 Since Rebirth is best experienced in a full group -- it heals everyone and puts a damage absorbing shield on everyone -- I went to the one place in all the Spiral where I knew there would be full groups: The Kraken in Triton Avenue.
 
@@ -82,11 +60,11 @@ I desperately tried to slow things down while I saved up the 7 pips needed to ca
 
 It's a nice spell. I probably won't use it that much, but I'll probably have it in my deck the next time we fight Malistaire.
 
-![wizardgraphicalclient-2009-04-14-22-37-20-08](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-37-20-08.jpg "wizardgraphicalclient-2009-04-14-22-37-20-08")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-37-20-08.jpg" title="wizardgraphicalclient-2009-04-14-22-37-20-08" classes="center" >}}
 
-![wizardgraphicalclient-2009-04-14-22-37-12-90](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-37-12-90.jpg "wizardgraphicalclient-2009-04-14-22-37-12-90")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-37-12-90.jpg" title="wizardgraphicalclient-2009-04-14-22-37-12-90" classes="center" >}}
 
-![wizardgraphicalclient-2009-04-14-22-37-09-08](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-37-09-08.jpg "wizardgraphicalclient-2009-04-14-22-37-09-08")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-14-22-37-09-08.jpg" title="wizardgraphicalclient-2009-04-14-22-37-09-08" classes="center" >}}
 
 Eggbert sells Easter-themed wands in the Shopping District now. No outfits and no pets, just the wands, which this time cast Balance magic. The wands all look generally like those above, some of them are more staffs than wands, but you get the idea. None dropped for me during the Rebirth quest, but if you're interested in obtaining one of these wands without paying Crowns for them, Lord Nightshade in Haunted Cave usually drops a couple if you kill him enough.
 

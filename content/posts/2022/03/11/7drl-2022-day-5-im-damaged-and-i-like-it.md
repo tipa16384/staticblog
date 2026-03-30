@@ -3,38 +3,16 @@ date: '2022-03-11T07:37:23-05:00'
 draft: false
 title: "7DRL 2022 Day 5: I'm Damaged, and I Like It"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/11/7drl-2022-day-5-im-damaged-and-i-like-it/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It may seem like I'm not making a lot of progress, but I have a checklist for each night, and I really am doing what..."
+categories:
   - "7DRL"
+tags:
   - "Blue Oyster Cult"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-5.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-5.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-5.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-5.gif"
 ---
+It may seem like I'm not making a lot of progress, but I have a checklist for each night, and I really am doing what...
+<!--more-->
 
 It may seem like I'm not making a lot of progress, but I have a checklist for each night, and I really am doing what needs doing. Last night, I added a lot of new systems and fixed some crazy bugs, clearing the path for today's "jam".
 
@@ -44,7 +22,7 @@ Classic.
 
 Here were last night's goals:
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/image-8.png)](https://chasingdings.com/wp-content/uploads/2022/03/image-8.png)Goals
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/image-8.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/image-8.png)Goals
 
 - **Pick up corpses**
 I had a particular problem with corpses. The player can't move through them (although, due to a bug, the NPCs can), so corpses could potentially clog up the map, making completion impossible. I needed a good way to clear corpses. Eating them, as is done in Nethack, seemed yucky, but I thought it might be fun to pick them up and then toss them at NPCs for damage. Unfortunately, my current 'get' code only picks up what is where you are standing, and you can't stand on corpses. I opted to just write a service that checks every 30 seconds for corpses, and then removes any it finds.- **Item uses**

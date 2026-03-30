@@ -3,41 +3,19 @@ date: '2009-05-21T06:13:16-05:00'
 draft: false
 title: "Wizard101: New world Grizzleheim announced! And a contest!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/21/wizard101-new-world-grizzleheim-announced-and-a-contest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We've heard rumors of Grizzleheim, a Nordic world along the spiral filled with Bears, Wolves, and Ravens. They are rumors no more. Next month, we'll..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Grizzleheim"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/grizzleheim.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/grizzleheim.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/grizzleheim.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/grizzleheim.jpg"
 ---
+We've heard rumors of Grizzleheim, a Nordic world along the spiral filled with Bears, Wolves, and Ravens. They are rumors no more. Next month, we'll...
+<!--more-->
 
-![Critters from Wizard101](https://chasingdings.com/wp-content/uploads/2009/05/grizzleheim.jpg "Critters from Wizard101")
+
 
 We've heard rumors of Grizzleheim, a Nordic world along the spiral filled with Bears, Wolves, and Ravens. They are rumors no more. Next month, [we'll be able to journey to Wizard 101's newest world](http://www.whattheyplay.com/blog/2009/05/20/new-area-for-wizard101-launching-grizzleheim/) and befriend the various tribes we find there. New house items, new quests, new places to explore... new levels? I don't know. I'd expect new levels, at least five of them.
 

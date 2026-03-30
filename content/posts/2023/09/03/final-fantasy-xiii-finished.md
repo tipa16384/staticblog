@@ -3,42 +3,19 @@ date: '2023-09-03T15:19:23-05:00'
 draft: false
 title: "Final Fantasy XIII: Finished"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/09/03/final-fantasy-xiii-finished/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it... mostly."
-description: "While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it... mostly."
-tags:
+categories:
   - "Final Fantasy"
   - "Review"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/ffxiiifinished.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/09/ffxiiifinished.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/ffxiiifinished.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/ffxiiifinished.png"
 ---
+While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it... mostly.
+<!--more-->
 
 While I can see how some folks think this is the worst of the Final Fantasy games, I really liked it… mostly.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-1-1024x532.png" title="Lightning, Fang, Hope, Sazh, Vanille, Snow" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-1-1024x532.png" title="Lightning, Fang, Hope, Sazh, Vanille, Snow" classes="center" >}}
 
 **A Little Bit about the Plot**
 
@@ -56,7 +33,7 @@ Because the plot is so intricate (and this is only the *setup* you play through 
 
 This isn't hugely different from earlier games. Very few FF games let you roam the world freely during the initial few hours, and FFXIII follows them in eventually opening up the world and letting you make your own way and follow your own adventures.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-1024x547.png" title="Battle screen showing paradigms and roles" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-1024x547.png" title="Battle screen showing paradigms and roles" classes="center" >}}
 
 **It's a unique battle system**
 
@@ -94,7 +71,7 @@ With both two role and three role paradigms available, there are 252 possible na
 
 In battles, you only directly control the party leader, with the other two acting according to the role automatically. You can set up your attacks manually, but most of the time you will be just watching the battle progress and swapping paradigms in response to what's needed -- if the boss is readying a big attack, maybe two medics and a tank? Or when you need to burn something down, three commandos. Choosing and swapping paradigms is how you battle in FFXIII. And, if you chose wrong, losing a fight gives you the option to immediately return to just before the fight started, all consumables restored, giving you the chance to try different strategies as you like. And unlike many FF games, all health is restored and all status conditions are healed once the battle ends.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-2-1024x532.png" title="What could they be looking at...?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-2-1024x532.png" title="What could they be looking at...?" classes="center" >}}
 
 This is just the barest summary of the battle system. Preemptive Strikes, Paradigm Shifts, three-way battles, the whole chain bonus system, how and when to stagger... there is so much to go over that *even after the end of the main quest*, the game has still not gone over all the battle systems. (Stagger locking, for example).
 
@@ -104,7 +81,7 @@ The common RPG strategy of "make enemy HP go down to zero" just seems so quaint 
 
 Is what would be a simple fight in FFXIII.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-3-1024x533.png" title="The Datalog" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-3-1024x533.png" title="The Datalog" classes="center" >}}
 
 **The Datalog**
 
@@ -162,7 +139,7 @@ The strategy guide has a lot of information about selecting gear and upgrading w
 
 I don't have a problem with grinding as long as it isn't required.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-4-1024x532.png" title="Hope and Lightning talking about absent friends" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-4-1024x532.png" title="Hope and Lightning talking about absent friends" classes="center" >}}
 
 **TL;DR**
 

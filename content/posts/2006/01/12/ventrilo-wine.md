@@ -3,40 +3,17 @@ date: '2006-01-12T00:00:00-05:00'
 draft: false
 title: "Ventrilo Wine"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/12/ventrilo-wine/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Prosthetic Feet will require Ventrilo for major raids from now on. So, my challenge is to get this working with Linux...."
+categories:
   - "General"
   - "World of Warcraft"
-featured_image: "http://www.winehq.org/images/winehq_top_logo.png"
-cover:
-  image: "http://www.winehq.org/images/winehq_top_logo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://www.winehq.org/images/winehq_top_logo.png"
+thumbnailImage: "http://www.winehq.org/images/winehq_top_logo.png"
 ---
+Prosthetic Feet will require Ventrilo for major raids from now on. So, my challenge is to get this working with Linux....
+<!--more-->
 
-![](http://www.winehq.org/images/winehq_top_logo.png)
+
 
 [Prosthetic Feet](http://fate.westkarana.com) will require [Ventrilo](http://www.ventrilo.com/) for major raids from now on. So, my challenge is to get this working with Linux.
 

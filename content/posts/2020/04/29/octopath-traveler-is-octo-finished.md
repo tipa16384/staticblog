@@ -3,42 +3,20 @@ date: '2020-04-29T02:47:36-05:00'
 draft: false
 title: "Octopath Traveler is Octo-Finished."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/04/29/octopath-traveler-is-octo-finished/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My Switch profile says I have been playing Octopath Traveler for about 135 hours. This is only approaching the time I spent playing Skyrim, which..."
+categories:
   - "Nintendo Switch"
   - "Tactical RPG"
+tags:
   - "Jrpg"
   - "Octopath Traveler"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/2020042821590400-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/04/2020042821590400-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/2020042821590400-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/2020042821590400-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg"
 ---
+My Switch profile says I have been playing Octopath Traveler for about 135 hours. This is only approaching the time I spent playing Skyrim, which...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/2020042821590400-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="It takes a village to kill a monster" >}}
+
 
 My Switch profile says I have been playing Octopath Traveler for about 135 hours. This is only approaching the time I spent playing Skyrim, which is somewhere around 150 hours.
 
@@ -46,7 +24,7 @@ I was about sixty hours in when I started finishing the job quests. First was Al
 
 The credits rolled after H'aanit's story ended. I was thinking of stopping there, but then I decided to finish up Ophilia's (cleric) and Cyrus' (scholar) stories, just to round out the group. By this time, my main group was overleveled for the "path" content, so I swapped in the other characters and did their stories, too.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/2020042821552700-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="Cyrus is dead. Oh yeah and also Galdera." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/04/2020042821552700-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="Cyrus is dead. Oh yeah and also Galdera." classes="center" >}}
 
 Once all eight stories were done, I thought that would probably be a good place to stop. But I kept hearing the stories end with cryptic references to a "Gate of Finis". I looked it up and found that this was a reference to the true ending.
 
@@ -56,7 +34,7 @@ Instead, I leveled up all the other characters not on my main team so everyone w
 
 I tried the final gauntlet and failed, badly. I started working on all the side quests that give the best gear, learned which of my characters were nobles and which were commoners and why that mattered, explored all the nooks and crannies of the world and tossed myself at the final fight again and again.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/2020042821594700-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="The characters are arranged so that, left to right, their first initials spell out O-C-T-O-P-A-T-H." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/04/2020042821594700-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="The characters are arranged so that, left to right, their first initials spell out O-C-T-O-P-A-T-H." classes="center" >}}
 
 Over the past few nights, I've been leveling everyone up to 70 or better, and getting them sufficient job points to learn all the important skills in the game.
 
@@ -66,7 +44,7 @@ I'd gotten through phase 1 before, so I didn't have that much trouble tonight. T
 
 I'd died pretty quickly my first time on phase 2, but I knew what I'd done wrong (aside from being underleveled), and fixed it and won after some close calls.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/2020042822004000-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="A door shutting is a perfect metaphor for finishing the game" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/04/2020042822004000-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="A door shutting is a perfect metaphor for finishing the game" classes="center" >}}
 
 ## Was it worth it?
 
@@ -74,10 +52,10 @@ I don't know. I really enjoyed the characters and their stories and the advanced
 
 The final fight is way harder than anything else in the game, and practicing it is a chore. Gathering the gear is a grind. Gathering the items are a grind. Grinding for the Job Points needed to master all the divine skills for so many jobs (twelve in all) is... is a grind. Having to find end game gear for two complete parties is a real grind.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/2020042820545600-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="My heroes" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/04/2020042820545600-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="My heroes" classes="center" >}}
 
 But it was fun. I think it was as fun as any JRPG I've ever played, except Final Fantasy Tactics. I'm not good at these games. Forums claim someone finished this at level 35, but I find that hard to believe. Level 50 seems to be about the minimum, but I had to be at level 70 to do it. Maybe I missed some gear.
 
 It's done and I'm happy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/2020042822012100-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="So ends the tale." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/04/2020042822012100-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" title="So ends the tale." classes="center" >}}

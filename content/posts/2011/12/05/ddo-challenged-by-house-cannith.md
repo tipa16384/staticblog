@@ -3,41 +3,19 @@ date: '2011-12-05T08:13:11-05:00'
 draft: false
 title: "DDO: Challenged by House Cannith"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/12/05/ddo-challenged-by-house-cannith/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "With the dragons in Gianthold Tor apparently out of our reach and with Ulan gone for two weeks, the question of \"what's next?\" has been..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-04-23-14-19-46-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-04-23-14-19-46-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-04-23-14-19-46-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-04-23-14-19-46-480x384.jpg"
 ---
+With the dragons in Gianthold Tor apparently out of our reach and with Ulan gone for two weeks, the question of "what's next?" has been...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-04-23-14-19-46-480x384.jpg" title="Lava Caverns: Colossal Crystals" class="align-center" >}}
+
 
 With the dragons in Gianthold Tor apparently out of our reach and with Ulan gone for two weeks, the question of "what's next?" has been hanging in the air in Team Spode HQ.
 
@@ -53,7 +31,7 @@ We suspect there is a way to use the teleporters to get the kobolds closer to th
 
 We made progress. But ultimately failed. However, even our failures got us loot chests. So that was nice.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-04-23-59-10-49-480x384.jpg" title="Kobold Island: Short Cuts" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-04-23-59-10-49-480x384.jpg" title="Kobold Island: Short Cuts" classes="center" >}}
 
 On to *Kobold Island: Short Cuts*. Here, the group competes against time to extract 400 dragonshards using the small and large extractors scattered around the island. Each extractor has a portal near it, which randomly teleports each player to a different location on the island. Our first shot at this ended in failure as we all jumped into a teleporter and ended up in different places.
 

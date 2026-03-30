@@ -3,60 +3,36 @@ date: '2008-09-18T14:00:58-05:00'
 draft: false
 title: "Spore: a tiny planet circling an unassuming star"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/18/spore-a-tiny-planet-circling-an-unassuming-star/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was exploring further up the galactic arm that is home to my main system, when after a small gap in the arm (easily bridged..."
+categories:
   - "Other Games"
   - "Spore"
+tags:
   - "Earth"
   - "Grox"
   - "Puppeteers"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg"
 ---
+I was exploring further up the galactic arm that is home to my main system, when after a small gap in the arm (easily bridged...
+<!--more-->
 
 I was exploring further up the galactic arm that is home to my main system, when after a small gap in the arm (easily bridged by Interstellar Drive 5), I came across a small T1 planet circling a yellow star...
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-15-19-03-17-371.jpg "sporeapp-2008-09-15-19-03-17-371")
-
 There was no animal life on Earth, but Mercury and Titan both were harboring nests of pirates. All I can think is that pirates wiped out life on Earth.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-15-18-58-08-22.jpg "sporeapp-2008-09-15-18-58-08-22")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-15-18-58-08-22.jpg" title="sporeapp-2008-09-15-18-58-08-22" classes="center" >}}
 
 Would the vanished inhabitants of Earth -- the Earthians -- really want their planet colonized by two-headed, three-legged aliens with a tendency toward cowardice, bribery and pie?
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-11-21-20-18-24.jpg "sporeapp-2008-09-11-21-20-18-24")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-11-21-20-18-24.jpg" title="sporeapp-2008-09-11-21-20-18-24" classes="center" >}}
 
 It was hard to tell what the Earthians had been like. Had they been warlike? A race of peace? Traders? The races in the local star systems venerated the Sol system, and insisted it had always been a dead world, not worth the time to visit or exploit.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-11-23-25-49-86.jpg "sporeapp-2008-09-11-23-25-49-86")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-11-23-25-49-86.jpg" title="sporeapp-2008-09-11-23-25-49-86" classes="center" >}}
 
 We didn't accept that, and hung in orbit for days while we analyzed the trace elements in the atmosphere, and took jaunts to the other planets in the system, most of which were singularly uninhabitable, unusual for a system of this size. We finally found a signal disk buried deep in the crust of Earth's moon... it was just a recording of a faint signal playing back on the carrier wave of an almost extinguished warning beacon. We knew what had happened. The Earthians must have been a great civilization and explored the galaxy... but went one parsec too deep into the core.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-13-00-53-24-32.jpg "sporeapp-2008-09-13-00-53-24-32")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-13-00-53-24-32.jpg" title="sporeapp-2008-09-13-00-53-24-32" classes="center" >}}
 
 This wasn't a planet. It was a tomb.

@@ -3,41 +3,19 @@ date: '2025-03-05T07:52:27-05:00'
 draft: false
 title: "\"YES\", the first cheat code."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/03/05/yes-the-first-cheat-code/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Is this blog post worth $3.50 to you?"
-description: "Is this blog post worth $3.50 to you?"
-tags:
+categories:
   - "Adventure"
   - "RPG"
   - "Text Adventure Game"
+tags:
   - "Cheat Codes"
   - "Cheating"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/tipachu_Humorous_clip_art_of_a_dragon_looking_quizzically_at__7789a903-59ba-4366-b518-6ebc465ac59c_0.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/03/tipachu_Humorous_clip_art_of_a_dragon_looking_quizzically_at__7789a903-59ba-4366-b518-6ebc465ac59c_0.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/tipachu_Humorous_clip_art_of_a_dragon_looking_quizzically_at__7789a903-59ba-4366-b518-6ebc465ac59c_0.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/tipachu_Humorous_clip_art_of_a_dragon_looking_quizzically_at__7789a903-59ba-4366-b518-6ebc465ac59c_0.png"
 ---
+Is this blog post worth $3.50 to you?
+<!--more-->
 
 A few days ago, someone posted an advertisement for a blog post where they (presumably) explained that "XYZZY", from the original Crowther and Woods Colossal Cave Adventure, was the first cheat code in a computer game. I couldn't read the article, since I would have had to pay $3.50 to do so, but I did talk to the author who agreed that many people were refusing to pay that amount to support a gaming historian.
 

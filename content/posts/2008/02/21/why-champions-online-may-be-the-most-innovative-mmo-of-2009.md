@@ -3,41 +3,18 @@ date: '2008-02-21T12:41:29-05:00'
 draft: false
 title: "Why Champions Online may be the most innovative MMO of 2009."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/21/why-champions-online-may-be-the-most-innovative-mmo-of-2009/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dr. Destroyer in Champions Online..."
+categories:
   - "Champions Online"
   - "City of Heroes"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/drdestroyer.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/drdestroyer.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/drdestroyer.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/drdestroyer.jpg"
 ---
+Dr. Destroyer in Champions Online...
+<!--more-->
 
-![drdestroyer.jpg](https://chasingdings.com/wp-content/uploads/2008/02/drdestroyer.jpg)
+
 
 *Dr. Destroyer in Champions Online*
 
@@ -47,7 +24,7 @@ Champions laughed at Dungeon's and Dragons' character creation. Roll DICE? Take 
 
 In D&D, that was cheating. In Champions, that was the GAME.
 
-![Moonmist](https://chasingdings.com/wp-content/uploads/2008/02/cityofheroes-2008-02-21-08-16-56-74.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/cityofheroes-2008-02-21-08-16-56-74.jpg" classes="center" >}}
 
 *Moonmist in City of Heroes*
 
@@ -59,7 +36,7 @@ These are the things we had in Champions. We didn't have to level up to get thes
 
 When I recreated her in City of Heroes, I was able to get her costume close to how I remembered it, but her powers were limited to those any illusion controller might have -- illusory wounds and some light-based crowd control. Those are good, useful powers, but so common and don't particularly reflect any sort of creativity on my part.
 
-![stp60959.JPG](https://chasingdings.com/wp-content/uploads/2008/02/stp60959.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/stp60959.JPG" classes="center" >}}
 
 *Fantasy Hero, another Hero Systems ruleset*
 

@@ -3,24 +3,8 @@ date: '2020-09-09T07:54:27-05:00'
 draft: false
 title: "What makes an MMO an MMO?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/09/what-makes-an-mmo-an-mmo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yesterday, \"Kingdoms of Amalur: The Re-Reckoning\", an update of 2012's \"Kingdoms of Amalur: The Reckoning\" was released. It's a refresh of a game that seemed..."
+categories:
   - "EverQuest"
   - "EverQuest II"
   - "Final Fantasy XIV"
@@ -28,20 +12,14 @@ tags:
   - "MMORPG"
   - "Steam Games"
   - "World of Warcraft"
+tags:
   - "Kingdoms of Amalur: Reckoning"
   - "World of Tanks"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/Kingdoms-of-Amalur_-Reckoning-12_31_2015-4_16_05-PM-1.png"
 ---
+Yesterday, "Kingdoms of Amalur: The Re-Reckoning", an update of 2012's "Kingdoms of Amalur: The Reckoning" was released. It's a refresh of a game that seemed...
+<!--more-->
 
 Yesterday, "Kingdoms of Amalur: The Re-Reckoning", an update of 2012's "Kingdoms of Amalur: The Reckoning" was released. It's a refresh of a game that seemed groundbreaking at the time, being a single-player experience that would familiarize its players with the world of the MMO at that time known as Project Copernicus.
 

@@ -3,41 +3,19 @@ date: '2024-10-20T08:00:00-05:00'
 draft: false
 title: "Malifaux: \"Fall into Faux\" tournament"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/10/20/malifaux-fall-into-faux-tournament/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This tournament was the culmination of many games and a lot of paint."
-description: "This tournament was the culmination of many games and a lot of paint."
-tags:
+categories:
   - "Malifaux"
   - "Miniatures"
   - "Tabletop Games"
+tags:
   - "Mei Feng"
   - "Tournament"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/malifaux-10-19-24-banner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/10/malifaux-10-19-24-banner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/malifaux-10-19-24-banner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/malifaux-10-19-24-banner.png"
 ---
+This tournament was the culmination of many games and a lot of paint.
+<!--more-->
 
 I can't say that I ever really look forward to gaming on my feet for a tournament day -- that's eight hours with just a couple of breaks. Malifaux games take a *long time* and three in a day... well.
 
@@ -45,7 +23,7 @@ Each game was given two and a half hours, and that was not enough time for me an
 
 The issue comes down to the game rules. Each model -- and I run with eight -- has a double sided card of actions and passives unique to that model. And this time, I was running a couple of newer models that I'd played with only once before, at our first weekly Tuesday night session.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-5-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-5-150x150.png" classes="fig-20" >}}
 
 **Sparks LeBlanc** is nominally, like all of the gremlins, a member of the Bayou Engineering faction, but, being mechanically inclined, he started hanging around the **Foundry** until the foreman, **Mei Feng**, allowed him to stay. He can now be part of the **Arcanist** faction, with the Foundry keyword.
 
@@ -53,7 +31,7 @@ Rumor has it, that he was the one who first built the **Mechanical Porkchop**, a
 
 With Mei Feng as my leader, and Porkchop as one of my enforcers, it made perfect sense for me to bring Sparks in to replace my previous henchman, **Kang**. His gift with constructs makes him the perfect companion to **Fat Cap**, the Metal Golem. He follows six inches behind and heals it, grants it shielding and explosive armor, and lets it take an extra action.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-6-208x300.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-6-208x300.png" classes="fig-20" >}}
 
 **Soulstone Miners**... mine soulstones. Soulstones are the Malifaux currency. They are what powers the land, and they are super valuable; the fight for control over the soulstones powers the conflicts in Malifaux and it is, supposedly, what we're fighting over. By now, of course, the grudges between and even within the factions have taken on a life of their own, but ultimately, it's all about the soulstones.
 
@@ -65,7 +43,7 @@ So my crew for the tournament was: Mei Feng, Foreman, Bubblegum variant; Forgeli
 
 I posted briefly about the tournament on BlueSky as it was going -- BlueSky was the social network where I found another Malifaux player. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-7-1024x720.png" title="Game 1" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-7-1024x720.png" title="Game 1" classes="center" >}}
 
 After round 1 of the Fall into Faux #Malifaux tournament, my Mei Feng 2 vs her Soniia 1, Flank, Plant Explosives, Espionage, Hold Up Their Forces, I lost 3-2 at the second turn. Blue models in the pics are mine, the red, hers. Women do play miniatures games!
 
@@ -77,7 +55,7 @@ After round 1 of the Fall into Faux #Malifaux tournament, my Mei Feng 2 vs her S
 
 - Scheme: Hold Up Their Forces -- Score points when at least two of your models are engaging enemy models of higher point costs. I messed up by not realizing all but one of the enemy models were the same or lower cost than mine -- except for my Forgeling. I stupidly moved Spritz out of the battle for safekeeping and it was impossible to score this point.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-8-1024x768.png" title="Game 2" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-8-1024x768.png" title="Game 2" classes="center" >}}
 
 Second game in the Fall into Faux #Malifaux tournament, lost 4-2 again, standard deployment, cloak and dagger, information overload, power ritual. One more chance to pull off a win.
 

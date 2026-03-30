@@ -3,40 +3,17 @@ date: '2013-03-05T08:11:43-05:00'
 draft: false
 title: "EQ2: Enervating my Epic"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/03/05/eq2-enervating-my-epic/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Playing this game would be like steering a fifteen year old girl through the mall while she's shopping for crates...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-04-20-37-21-29-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-04-20-37-21-29-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-04-20-37-21-29-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-04-20-37-21-29-480x342.jpg"
 ---
+Playing this game would be like steering a fifteen year old girl through the mall while she's shopping for crates....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-04-20-37-21-29-480x342.jpg" title="Chatting with Delahnus the Dauntless" class="align-center" >}}
+
 
 > *Playing this game would be like steering a fifteen year old girl through the mall while she's shopping for crates.*
 
@@ -50,7 +27,7 @@ Waaaay back in Sentinel's Fate, when the enervation quest was first released, gr
 
 Through this two days of questing, I could have asked a guildie for some help. But knowing help was available if I truly needed it, I wanted to see if an under-geared new level 95 with a merc could "[molo](http://www.eq2flames.com/inquisitors/87667-favorite-merc-molo.html)" the whole thing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-03-18-32-25-51-480x343.jpg" title="Chasing Toxxulia" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-03-18-32-25-51-480x343.jpg" title="Chasing Toxxulia" classes="center" >}}
 
 Some of these instances were instances I'd first seen randomly joining up with groups via the Dungeon Finder, which would drop me into instances I'd never heard of before, usually with just one other person as clueless as myself. We would blunder about, dying to stuff we didn't understand, until, confused, we'd give up. So I'd never actually gotten past the first boss in any of these places.
 
@@ -58,7 +35,7 @@ Good thing is mostly I didn't have to. I killed the main boss as pretty much my 
 
 After that, I started looking up these dungeons before I blundered in.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-04-23-21-29-67-480x343.jpg" title="Arda with Trophy Enervated Epic" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-04-23-21-29-67-480x343.jpg" title="Arda with Trophy Enervated Epic" classes="center" >}}
 
 My long dungeon munging came to the Vestigial Cella, the final encounter of the whole epic quest, the one where I found five different strats, all of which pretty much said that without a fully committed group with decent gear, no chance.
 

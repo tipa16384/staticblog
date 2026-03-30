@@ -3,48 +3,23 @@ date: '2009-09-01T22:56:59-05:00'
 draft: false
 title: "Happy Birthday, Wizard101!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/01/happy-birthday-wizard101/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Back in July of 2008, I downloaded a new MMO, played for several hours, and barely managed to tear myself away long enough to write..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
 ---
+Back in July of 2008, I downloaded a new MMO, played for several hours, and barely managed to tear myself away long enough to write...
+<!--more-->
 
-Back in July of 2008, I downloaded a new MMO, played for several hours, and barely managed [to tear myself away long enough to write about this still-in-beta Wizard101](https://chasingdings.com/index.php/2008/07/10/1688/):
+Back in July of 2008, I downloaded a new MMO, played for several hours, and barely managed [to tear myself away long enough to write about this still-in-beta Wizard101](https://tipa16384.github.io/wkblog/index.php/2008/07/10/1688/):
 
 > It’s not the “perfect” MMO, but it’s definitely different enough to make it worth a look. Deck-building, strategic card-playing, turn-based combat? Check. Automatic grouping? Check. An absolutely INSANE amount of character customization? Check. A Toon Town-ish gameplay style that lets kids and adults play safely together? Check. Friggin’ baby dragon pets? Oh dear, yes, check!
 
 I could tell right away that this game not only was something special, but was also a validation of indie game studios. The big guys fear innovation; they want an established IP, they don't want to surprise anyone, and they have their eyes fixed firmly on getting some of those elusive WoW-bucks.
 
 Wizard101 had a funny and sometimes sad story to it; a man driven past his breaking point by the death of his wife, willing to destroy everything in order to bring her back. Young wizards sent to retrace his steps through world after world. And at the heart of it, a card game that appears at first to be rock-paper-scissors simple, but becomes incredibly strategic.
-
-![](https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg "End of Beta, in Moo Shu")
 
 In the past year, KingsIsle has released two major expansions -- Dragonspyre, which finished the main plot, and Grizzleheim, which introduced a parallel mystery for younger wizards and also -- player housing! KI changed the loot given for defeating bosses and completing quests so that any given wizard would have dozens of items to show off in their home! Want several homes? No problem.
 

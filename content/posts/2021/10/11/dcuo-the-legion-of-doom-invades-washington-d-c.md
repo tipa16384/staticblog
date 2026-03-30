@@ -3,52 +3,31 @@ date: '2021-10-11T21:08:02-05:00'
 draft: false
 title: "DCUO: The Legion of Doom invades Washington D.C."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/11/dcuo-the-legion-of-doom-invades-washington-d-c/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "And they call DCUO an apolitical, fictional game. Also, Dimensional Ink to rebalance clamped stats to make super heroes (and super villains) super again...."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
+  - "DC Universe Online"
   - "Episode 42"
   - "Legion of Doom"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/dcuodc.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/dcuodc.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dcuodc.png"
 ---
+And they call DCUO an apolitical, fictional game. Also, Dimensional Ink to rebalance clamped stats to make super heroes (and super villains) super again....
+<!--more-->
 
 And they call DCUO an apolitical, fictional game. Also, Dimensional Ink to rebalance clamped stats to make super heroes (and super villains) super again.
 
 In our reality, Washington D.C. is currently managed by the feds. The Hall of Justice is apparently in DC. Does that mean Superman and the Super Friends are *de facto* government employees? Batman is a [G-man](https://en.wikipedia.org/wiki/G-man)?
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/hallofdoom.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/hallofdoom.jpg)Meanwhile, back at the Hall of Doom...
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/hallofdoom.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/hallofdoom.jpg)Meanwhile, back at the Hall of Doom...
 
 We'll find out in Episode 42: The Legion of Doom, which adds a new open world area to the game. Washington DC joins Metropolis, Gotham, Central City, Atlantis, Thanagar, Themiscyra, the 31st Century and so on. It's unknown if DC will be reused as often as the first three, or if it's doomed to be a one off, like the others.
 
 Lex Luthor has recovered from being a) killed in Birds of Prey, b) Psych! He's back! c) ... and now he's lost control of the Source Energy and is gone again. He's back from the Source Wall with villain Perpetua in tow, whose coming was foretold in the Hall of Legends plotline.
 
-![lexluthor78](https://comicbooked.com/wp-content/uploads/2011/04/lexluthor78.jpg)I make alopecia look good.
+{{< image src="https://comicbooked.com/wp-content/uploads/2011/04/lexluthor78.jpg" classes="center" >}}I make alopecia look good.
 
 According [to the update](https://forums.daybreakgames.com/dcuo/index.php?threads/dcuo-development-update-october-2021.318620/), we're getting a duo, an alert, and a raid, so that's pretty small. The classic episodes usually included a lot more raid content. Our last duo was in World of Flashpoint, so fairly recent, and the last solos were in Patchwork Themyscira. I always appreciated new soloes, but solos and duos have been coming fairly quickly, so I think we're past that long drought where we had no new duos for a really long time.
 
@@ -56,7 +35,7 @@ According [to the update](https://forums.daybreakgames.com/dcuo/index.php?thread
 
 I've been bugged *for years* as to how it is that Batman, Superman, The Flash and all them even need *our help*. Most of the time, I feel about as useful as Booster Gold on crowd control.
 
-![](https://j.gifs.com/w0kq6X.gif)Move along, move along.
+{{< image src="https://j.gifs.com/w0kq6X.gif" classes="center" >}}Move along, move along.
 
 When Hall of Legends implemented the Omnibus missions that scaled you down to mere mortal levels of power when reliving old content, *I understood*. Supes & Friends were *being clamped*. They'd been nerfed so much that they couldn't do even a hundredth of the things they could do before.
 
@@ -70,6 +49,6 @@ Here's the roadmap to fixing the nerf (while still allowing upscaled supers to p
 
 Hall of Justice is coming in December, so we'll have something to do instead of visiting relatives. (But we will, because we love them). The Blue Beetle set is coming in January, for those of us who really want a bug stuck to our spines. (I'm assuming it's the modern Blue Beetle, anyway). A native PS5 client is coming, for those of you lucky enough to have one and who also aren't tied to the PC version, as I am. Sure, I could restart on the PlayStation. Not gonna. If they allowed transfers, though, I'd do it.
 
-![[IMG]](https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/231/261.jpg)2022 Calendar
+{{< image src="https://assets-cdn.daybreakgames.com/uploads/dcsclient/000/000/231/261.jpg" classes="center" >}}2022 Calendar
 
 So, there it is. Hall of Doom, fix for downscaling nerfs, and, I hope, the END TO SAVE THE UNIVERSE I WILL NEVER DO ONE AGAIN I HATES IT SO MUCH WHY WHY WHY. I might do one again. But dang it gets tedious.

@@ -3,47 +3,22 @@ date: '2006-06-23T00:00:00-05:00'
 draft: false
 title: "Compulsive Upgrade System Syndrome (CUSS)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/23/compulsive-upgrade-system-syndrome-cuss/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was out in the warehouse this morning, installing new software on the UPS machine... and during this long, dull process, was looking at the..."
+categories:
   - "General"
-featured_image: "http://www.old-computers.com/museum/photos/Compupro_816_System_1.jpg"
-cover:
-  image: "http://www.old-computers.com/museum/photos/Compupro_816_System_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://www.old-computers.com/museum/photos/Compupro_816_System_1.jpg"
+thumbnailImage: "http://www.old-computers.com/museum/photos/Compupro_816_System_1.jpg"
 ---
+I was out in the warehouse this morning, installing new software on the UPS machine... and during this long, dull process, was looking at the...
+<!--more-->
 
 I was out in the warehouse this morning, installing new software on the UPS machine... and during this long, dull process, was *looking* at the computer itself, an old Gateway, the flat kind you put on your desk and sat a monitor on top... Whatever happened to computers you put on your desk? I've used towers for years...
-
-![](http://www.old-computers.com/museum/photos/Compupro_816_System_1.jpg)
 
 I think the last time I used a desktop one was back at Digital Research... and even then, those stretched the definition of desktop. To the computer pictured above, add another box (two feet wide, foot and a half deep, half a foot high) for the 20 megabyte hard drive. I didn't actually set a monitor on that behemoth; it was on a side table. I used a DEC VT520 terminal to talk to it. Command line. CP/M 68K. Yeah.
 
 Anyway, I was looking at this thing, and wondering why I didn't just get a new case for Supernova, my gaming computer. Less stuff on the floor. I mean, I have to take it apart anyway to swap some drives between it and Baphomet (Linux non-gaming computer)... not sure I could stop myself from going overboard... I JUST bought that widescreen monitor (LOVING IT!). But a quieter case, smaller, that I could stash perhaps in the living room without seeming out of place...
 
-![](http://www.antec.com/images/400/overtureII.jpg)
+{{< image src="http://www.antec.com/images/400/overtureII.jpg" classes="center" >}}
 
 That Antec case is just so nice... Sigh... I'm really sick. I have CUSS - Compulsive Upgrade System Syndrome. I guess I spend so much time with computers, I want them to look special.
 

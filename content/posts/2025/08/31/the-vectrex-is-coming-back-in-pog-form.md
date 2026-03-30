@@ -3,45 +3,23 @@ date: '2025-08-31T21:02:05-05:00'
 draft: false
 title: "The Vectrex is coming back... in pog form!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/31/the-vectrex-is-coming-back-in-pog-form/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Well, in mini form! It's true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon."
-description: "Well, in mini form! It's true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
   - "Vectrex"
+tags:
   - "Light Pen"
   - "Mail Plane"
   - "Major Tom"
   - "Melody Master"
   - "Spike"
   - "Vectrex Mini"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexmini.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexmini.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexmini.png"
 ---
+Well, in mini form! It's true! Your chance to play Vectrex games as if you were twice as large as you are now is coming soon.
+<!--more-->
 
 It's impossible for me to really explain how special it was, a couple years ago, to finally receive a Vectrex all my own. I feel weirdly split between having it sitting right on my desk, ready for instant use at any time, and keeping it safely stored away in its custom slipcase downstairs on its special shelf with the games, careful as one can be with a 42-year old console.
 
@@ -53,7 +31,7 @@ So yeah, no more information about it than that. It will ship with some of the b
 
 Just as with IntelliVision and ColecoVision games, playing the ROMs directly on emulators is a little unsatisfying, as the game depended so much upon their custom controllers. The Vectrex is no different. So, though the mini Vectrex may not use the vector graphics, and though the screen is half as tall, you will be able to play with a controller that is meant to play those games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-50-1024x632.png" title="Major Tom" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-50-1024x632.png" title="Major Tom" classes="center" >}}
 
 Sean Kelly has been keeping the Vectrex flame alive for many years, making repro overlays, multi-carts, controllers, peripherals and spare parts to keep these old machines alive and gaming. Even with all that, I was surprised to get an e-mail advertising an entirely new Vectrex game, complete with cartridge, box, manual and overlay, looking just like I might have seen it in Toys 'R' Us back in the day.
 
@@ -61,7 +39,7 @@ Will I buy it? I dunno. I haven't even come close to collecting all the original
 
 You can find more info about this game and everything else Vectrex at Kelly's site -- [vectrexmulti.com](https://www.vectrexmulti.com/).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-51.png" title="Northeastern states in Mail Plane" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-51.png" title="Northeastern states in Mail Plane" classes="center" >}}
 
 **Mail Plane**
 
@@ -77,7 +55,7 @@ Clouds, small to large, randomly move around the screen like lazy asteroids in A
 
 It's a fun game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-52.png" title="Spike" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-52.png" title="Spike" classes="center" >}}
 
 **Spike**
 
@@ -109,7 +87,7 @@ Game 2 is the same, but without the staff to tell you what the notes are -- you'
 
 I doubt I'll ever play this again. It was loose, so not even collectible.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/20250831193512_1-824x1024.jpg" title="Spike -- emulated" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/20250831193512_1-824x1024.jpg" title="Spike -- emulated" classes="center" >}}
 
 I was a little frustrated trying to get screenshots of Vectrex games on the actual machine. I wondered if it would be easier to just use an emulator. I checked my go-to emulator, RetroArch, and it did indeed have a Vectrex emulator built-in. I downloaded the complete library of game ROMs from the Internet Archive, and managed to get some games to work, but I was really missing the actual Vectrex controller. The emulator lets you choose a few different controller layouts, and it did work, but the games really were meant for four arcade buttons in a row, and a joystick on the left.
 

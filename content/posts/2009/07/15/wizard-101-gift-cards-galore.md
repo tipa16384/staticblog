@@ -3,38 +3,13 @@ date: '2009-07-15T18:42:41-05:00'
 draft: false
 title: "Wizard 101 gift cards galore!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/15/wizard-101-gift-cards-galore/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I think this might be old news, but here it is: KingsIsle is sending out truckfulls of gift cards to department stores and electronics outlets..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I think this might be old news, but here it is: KingsIsle is sending out truckfulls of gift cards to department stores and electronics outlets...
+<!--more-->
 
 I think this might be old news, but here it is: KingsIsle is sending out truckfulls of gift cards to department stores and electronics outlets the world over. Using Crowns garnered by redeeming the gift cards in game is, by far, the cheapest way of enjoying W101. You pay as you go, don't pay when you don't play, and you never lose access to areas you have already bought, even if you never play again.
 

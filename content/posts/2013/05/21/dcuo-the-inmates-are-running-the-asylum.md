@@ -3,40 +3,17 @@ date: '2013-05-21T06:01:33-05:00'
 draft: false
 title: "DCUO: The inmates are running the asylum?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/21/dcuo-the-inmates-are-running-the-asylum/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Before we get started, I want to draw your attention to the right bit of the screenshot above. Where we see the entrance to the..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg"
 ---
+Before we get started, I want to draw your attention to the right bit of the screenshot above. Where we see the entrance to the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/INTCHARLIGHTRIG_NEUT-PC-19-22.25.540-480x313.jpg" title="Arkham Asylum" class="align-center" >}}
+
 
 Before we get started, I want to draw your attention to the right bit of the screenshot above. Where we see the entrance to the Arkham Lobotomy Theater. With marquee lights to attract passers-by. They sell snacks and Soder Cola at the door, and tradition has it that you're supposed to hurl popcorn at the doctors when they make poor incisions.
 

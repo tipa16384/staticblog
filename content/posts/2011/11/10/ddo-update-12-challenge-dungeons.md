@@ -3,41 +3,19 @@ date: '2011-11-10T00:04:09-05:00'
 draft: false
 title: "DDO Update 12: Challenge Dungeons"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/11/10/ddo-update-12-challenge-dungeons/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Turbine pushed its \"Vault of the Artificers\" update live today. As well as enabling the new Artificer class to be unlocked through gameplay, the update..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Google+"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-09-18-00-20-92.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-09-18-00-20-92.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-09-18-00-20-92.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-09-18-00-20-92.jpg"
 ---
+Turbine pushed its "Vault of the Artificers" update live today. As well as enabling the new Artificer class to be unlocked through gameplay, the update...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-09-18-00-20-92.jpg" title="Tirelessly defending kobolds. Huh?" class="align-center" >}}
+
 
 Turbine pushed its "Vault of the Artificers" update live today. As well as enabling the new Artificer class to be unlocked through gameplay, the update brings a new "Challenge" dungeon system.
 

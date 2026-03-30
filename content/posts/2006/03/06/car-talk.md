@@ -3,37 +3,12 @@ date: '2006-03-06T00:00:00-05:00'
 draft: false
 title: "Car Talk"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/03/06/car-talk/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Being a liberal geek, my car radio is pretty much perma-tuned to NPR (especially if the jazz station is out of range). So driving home..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Being a liberal geek, my car radio is pretty much perma-tuned to NPR (especially if the jazz station is out of range). So driving home...
+<!--more-->
 
 Being a liberal geek, my car radio is pretty much perma-tuned to NPR (especially if the jazz station is out of range). So driving home Sunday from Escondido after not getting my Miata started, I was listening to Car Talk - two brothers from Cambridge who weekly answer car (and other) questions. They have a weekly puzzler... This week's puzzle wasn't that hard (Given a thousand dollars in one dollar bills, what is the fewest number of envelopes you could stuff the money into in order to be able to hand someone envelopes containing exactly any amount requested).
 

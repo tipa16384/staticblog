@@ -3,40 +3,17 @@ date: '2009-06-02T06:52:14-05:00'
 draft: false
 title: "Neverwinter Nights 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/02/neverwinter-nights-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Out of nowhere, I was invited to take part in a weekly online gaming group as they explore the world of Neverwinter Nights 2 (which,..."
+categories:
   - "Neverwinter Nights"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/nwn2main-2009-06-02-07-26-02-15.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/nwn2main-2009-06-02-07-26-02-15.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/nwn2main-2009-06-02-07-26-02-15.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/nwn2main-2009-06-02-07-26-02-15.jpg"
 ---
+Out of nowhere, I was invited to take part in a weekly online gaming group as they explore the world of Neverwinter Nights 2 (which,...
+<!--more-->
 
-![Tipar the Half-Orc Barbarian in NWN2](https://chasingdings.com/wp-content/uploads/2009/06/nwn2main-2009-06-02-07-26-02-15.jpg "Tipar the Half-Orc Barbarian in NWN2")
+
 
 Out of nowhere, I was invited to take part in a weekly online gaming group as they explore the world of Neverwinter Nights 2 (which, it turns out, is an entirely separate game from Neverwinter Nights Platinum). I'd originally bought NWN2 to play with its level editor, but I never really learned it well enough to bring it all together. The levels seemed a lot smaller, for example, than I'd have liked. Smaller than in Neverwinter Nights, even.
 

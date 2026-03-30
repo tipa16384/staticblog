@@ -3,50 +3,29 @@ date: '2021-08-11T22:44:25-05:00'
 draft: false
 title: "The Most Interesting Game of All Time!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/11/the-most-interesting-game-of-all-time/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was playing around with Google Trends last week, trying to see how a few MMOs compared to each on the 'Trends. It was fun..."
+categories:
   - "Blaugust"
   - "MMORPG"
+tags:
+  - "Blaugust"
   - "Google Jail"
   - "Google Trends"
   - "Python"
   - "Pytrends"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/runescape-20-years.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/runescape-20-years.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/runescape-20-years.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/runescape-20-years.jpg"
 ---
+I was playing around with Google Trends last week, trying to see how a few MMOs compared to each on the 'Trends. It was fun...
+<!--more-->
 
-I was [playing around with Google Trends](https://chasingdings.com/2021/08/07/mmos-on-the-bubble/) last week, trying to see how a few MMOs compared to each on the 'Trends. It was fun and all, but I missed a lot of games and I just thought it would be so much better if I could just compare EVERY MMO, past and present, *automatically*!
+I was [playing around with Google Trends](https://tipa16384.github.io/wkblog/2021/08/07/mmos-on-the-bubble/) last week, trying to see how a few MMOs compared to each on the 'Trends. It was fun and all, but I missed a lot of games and I just thought it would be so much better if I could just compare EVERY MMO, past and present, *automatically*!
 
 Google Trends just catalogs the searches people would do for a game, but I figured that had to have at least a loose correlation to popularity, right?
 
 Well, it was an... interesting journey, to be sure.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/image-2-1024x986.png)](https://chasingdings.com/wp-content/uploads/2021/08/image-2.png)Code that doesn't work. But why?
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/image-2-1024x986.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/image-2.png)Code that doesn't work. But why?
 
 I program in Java, JavaScript and TypeScript at work, but my language of choice for my own projects is Python.
 
@@ -62,7 +41,7 @@ The problem here is that there isn't one specific value you can grab that says, 
 
 My bright idea was to write a function, in Python, that would take two game names and run them through Trends, average out the daily values for each game, and compare those two values. I could pipe this into Python's sort function, and, easy-peasy, all the games would sort nicely, and I could get a complete ranking of the 260+ games I'd culled from Steam. (I did a search for MMORPGs and Massively Multiplayer on Steam, then copy and pasted those results into a document, and [used regular expressions to strip away anything that wasn't a game name](http://regex.info/blog/2006-09-15/247).)
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/google-search.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/google-search.jpg)Google Jail
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/google-search.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/google-search.jpg)Google Jail
 
 **Welcome to Google Jail**
 
@@ -76,7 +55,7 @@ A full day later -- this afternoon -- I tried again and I was very sorry and I s
 
 It worked great! Well, it looked like it worked great.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/image-3-254x300.png)](https://chasingdings.com/wp-content/uploads/2021/08/image-3.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/image-3-254x300.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/image-3.png)
 
 Here's the top ten results, according to my wonderful program. RuneScape... at the top? And MapleStory above World of Warcraft?
 

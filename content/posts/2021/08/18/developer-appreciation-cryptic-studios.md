@@ -3,48 +3,26 @@ date: '2021-08-18T23:00:23-05:00'
 draft: false
 title: "Developer Appreciation: Cryptic Studios"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/18/developer-appreciation-cryptic-studios/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's Developer Appreciation week. Whenever these come up, I really don't know what to say. The games I've played have changed my life. When things..."
+categories:
   - "Blaugust"
   - "City of Heroes"
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Champions Online"
   - "City of Villains"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg"
 ---
+It's Developer Appreciation week. Whenever these come up, I really don't know what to say. The games I've played have changed my life. When things...
+<!--more-->
 
 It's Developer Appreciation week. Whenever these come up, I really don't know what to say. The games I've played have changed my life. When things were darkest, they maybe even saved my life. MMOs, in particular, have made it easy for me to "find my people". I've played with the same group of people now for more years than I care to count. My daughter married someone she met in EverQuest. I'm living with someone I met there.
 
 There has never been a game that has been as transformative for me or the industry, as EverQuest. That's why I am so happy to have this opportunity to shower my praises on the brave, creative and groundbreaking developers of ***City of Heroes***.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/coh1.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/coh1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/coh1.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/coh1.jpg)
 
 What? Talk about EverQuest? My previous blog was named **West Karana**! I've talked about EQ a lot over the years, but it's no longer a game I play. The developers that made the game special I see working for other game companies now. EverQuest's legacy lives on.
 
@@ -58,13 +36,13 @@ But in COH/COV, your costume was everything. It defined you and set you apart. A
 
 The character I'm showing here was **Madame Scurry**, a cockroach-themed villain. She's just received notification that she is being reported dead. That was... disturbing, right?
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/coh2.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/coh2.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/coh2.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/coh2.jpg)
 
 Missions like this typically had you running from contact to contact within the open world. I say open, but that was only open to an extent. The cities were partitioned off with energy barriers, and crossing through one of the portals between them usually meant higher level enemies, with better powers.
 
 The missions typically ended in one or more instanced missions. Beginning heroes and villains found themselves more often than not in generic office buildings, or banks that nonetheless looked like generic office buildings. Most of the instances were randomly generated. While the terrain might look similar, the specific twists, turns and enemies would differ.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/coh3.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/coh3.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/coh3.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/coh3.jpg)
 
 But you'd see the various enemy factions pop up again and again. The snakes. The cyborgs. You know, the usual.
 
@@ -72,7 +50,7 @@ Well, it turned out "reporter" Nellie Fine was a snake queen after all. Newspape
 
 I can't remember if instances scaled if you were in a group or not; I don't believe they did. There were raids that did require groups, and they were *very* hard. Since the sort of powers any particular player would bring to a team were more or less random. The one thing that wasn't a problem was finding a team with your level. Characters were able to become sidekicks to another player they were grouped with, temporarily elevating them to the same level as their mentor. That's fairly common, nowadays... but back then, it rocked the MMO world. Someone is seeing end game content without spending a thousand hours grinding levels? MADNESS!
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/coh4.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/coh4.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/coh4.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/coh4.jpg)
 
 So, here's to City of Heroes, City of Villains, and Cryptic Studios. You had a dream, you executed, you broke the mold and made something entirely new.
 

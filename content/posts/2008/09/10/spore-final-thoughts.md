@@ -3,43 +3,21 @@ date: '2008-09-10T15:43:52-05:00'
 draft: false
 title: "Spore: Final Thoughts"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/10/spore-final-thoughts/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Baby Diver looks for food, flagella and true love in the primordial goo of Spore's Cell Phase...."
+categories:
   - "General"
   - "Other Games"
   - "Spore"
+tags:
   - "Fatalism"
   - "Panspermia"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-07-16-02-16-05.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-07-16-02-16-05.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-07-16-02-16-05.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-07-16-02-16-05.jpg"
 ---
+Baby Diver looks for food, flagella and true love in the primordial goo of Spore's Cell Phase....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-07-16-02-16-05.jpg "sporeapp-2008-09-07-16-02-16-05")
+
 
 *Baby Diver looks for food, flagella and true love in the primordial goo of Spore's Cell Phase.*
 
@@ -49,7 +27,7 @@ MMOs and other single player games try to reassure us that we're important, at t
 
 Which is a pretty heady philosophy for a game, and not one I expected when I started playing. It took Spore's Space phase to teach me that.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-07-19-17-22-50.jpg "sporeapp-2008-09-07-19-17-22-50")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-07-19-17-22-50.jpg" title="sporeapp-2008-09-07-19-17-22-50" classes="center" >}}
 
 *Finally achieving both hands and sentience, the Driver tribe discovers fire and war.*
 
@@ -59,7 +37,7 @@ Once you evolve enough to grow legs (skipping straight from 2D single-celled cre
 
 Someday, that will be you up there.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-07-20-57-17-42.jpg "sporeapp-2008-09-07-20-57-17-42")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-07-20-57-17-42.jpg" title="sporeapp-2008-09-07-20-57-17-42" classes="center" >}}
 
 *The Driver Tribe celebrates after killing every other living creature on the continent.*
 
@@ -67,7 +45,7 @@ After you have found enough parts and impressed or killed enough other creatures
 
 You're no longer controlling one creature; it's a tribe of up to twelve now, and a death just means ten food and a click on the hut. Your evolution has halted forever; now your advancement depends upon taking stuff from other tribes. Whether by friendship or war, their stuff is going to become YOUR stuff. And if there are any of them left when you're through with them, they better be out there gathering your food.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-09-06-55-52-31.jpg "sporeapp-2008-09-09-06-55-52-31")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-09-06-55-52-31.jpg" title="sporeapp-2008-09-09-06-55-52-31" classes="center" >}}
 
 *"Flea Gun", the military land vehicle of my mech-obsessed Tabby civilization.*
 
@@ -75,11 +53,11 @@ Once you're conquered the continent, your tribes folk scampers to the four winds
 
 It's really just a game of rock-paper-scissors done up nicely, and soon enough you get to be both the rock and paper and you have the scissors in your sights. BAM! You unite the world, civilization celebrates in a frenzy of non-diversity, and a very fallopian-looking tube pops out a starship, your civilization's egg to spread your DNA throughout the galaxy.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-08-00-20-45-30.jpg "sporeapp-2008-09-08-00-20-45-30")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-08-00-20-45-30.jpg" title="sporeapp-2008-09-08-00-20-45-30" classes="center" >}}
 
 *The Driver civilization remembers its amphibious roots in the design of their first starship, "Bloviator One", based on the graceful model of a toad in mid-leap.*
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-10-08-17-08-58.jpg "sporeapp-2008-09-10-08-17-08-58")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-10-08-17-08-58.jpg" title="sporeapp-2008-09-10-08-17-08-58" classes="center" >}}
 
 *The Tabby civilization's starship, "The Long Haul", with its quantum-ball-of-yarn star drive. This ship is too complex for the Sporepedia to display, apparently...*
 
@@ -93,7 +71,7 @@ Space is vastly open. You can zoom out your view and see the whole galaxy, with 
 
 Kinda hard to believe we're at the center of everything, isn't it?
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/sporeapp-2008-09-10-01-59-07-16.jpg "sporeapp-2008-09-10-01-59-07-16")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/sporeapp-2008-09-10-01-59-07-16.jpg" title="sporeapp-2008-09-10-01-59-07-16" classes="center" >}}
 
 *Pursued into the dense core of the galaxy by the civilization that destroyed its homeworld, "The Long Haul LXVIII" delivers a final colony to a lonely, T-1 planet not far from the center of all things, and hides for awhile to gather strength and supplies for its last journey.*
 

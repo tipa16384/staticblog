@@ -3,54 +3,30 @@ date: '2009-02-13T08:16:22-05:00'
 draft: false
 title: "EQ2: Wings of the Void? WANT. Also, Flower."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/13/eq2-wings-of-the-void-want-also-flower/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The new Legends of Norrath set, Against the Void launched yesterday. I want to get into LoN, I like collectible card games, but I just..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Against the Void"
   - "Flower"
   - "Legends of Norrath"
   - "Wings of the Void"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/voidwingsf.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/voidwingsf.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/voidwingsf.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/voidwingsf.jpg"
 ---
+The new Legends of Norrath set, Against the Void launched yesterday. I want to get into LoN, I like collectible card games, but I just...
+<!--more-->
 
 The new [Legends of Norrath set](http://legendsofnorrath.station.sony.com/), *Against the Void* launched yesterday. I want to get into LoN, I like collectible card games, but I just worry that to do well, I'll have to sink serious money into cards. That's what finally got me off Magic: the Gathering -- but at least I got to keep my cards when I stopped playing. I have nostalgic fun every time I move somewhere and move them from one box to a new box.
 
 Against the Void brings at least two new loot cards. There's the one *I* got with my free subscriber's booster, "Title: Herald of the Ethernauts", and then there's the one that was linked over and over again last night and had people drooling from level 1-9 chat straight through to level 80 chat -- Wings of the Void.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/voidwingsf.jpg "voidwingsf")
-
-![](https://chasingdings.com/wp-content/uploads/2009/02/voidwingsb.jpg "voidwingsb")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/voidwingsb.jpg" title="voidwingsb" classes="center" >}}
 
 It's wings! And they are all lightning and crackle-y like the Void! And they give you super Fae glide powers, too! I wasn't able to get someone to link them to me this morning while I was on my Arasai assassin, Brightknife, so no word yet on what the wings look like if you already have wings.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/stp61841.jpg "stp61841")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/stp61841.jpg" title="stp61841" classes="center" >}}
 
 PS3 owners finally get an artsy game to call their own. Well, we already had Everyday Shooter, but didn't every platform get that? And Eckachrome, I guess. And of course, we had the proto-artsy game, flOw. But that was pretty much it, and when the Xbox crowd got Braid, well, color us envious. We wanted a new, shinier, artsy game, too.
 

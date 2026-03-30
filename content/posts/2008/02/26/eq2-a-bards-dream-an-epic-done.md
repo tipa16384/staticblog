@@ -3,40 +3,17 @@ date: '2008-02-26T08:41:51-05:00'
 draft: false
 title: "EQ2: A Bard's Dream, an Epic Done"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/26/eq2-a-bards-dream-an-epic-done/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I had only an hour left on my Maidens instance. If I couldn't get it done in that hour, I'd have to start Maidens from..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-26-00-51-37-42.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-26-00-51-37-42.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-26-00-51-37-42.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-26-00-51-37-42.jpg"
 ---
+I had only an hour left on my Maidens instance. If I couldn't get it done in that hour, I'd have to start Maidens from...
+<!--more-->
 
-![everquest2-2008-02-26-00-51-37-42.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-26-00-51-37-42.jpg)
+
 
 I had only an hour left on my Maidens instance. If I couldn't get it done in that hour, I'd have to start Maidens from scratch, and it would have to wait another day.
 
@@ -56,7 +33,7 @@ SO many people helped with the epic; it's not something you can do by yourself. 
 
 Now I've got to head to Barren Sky and talk to someone there about an even greater plot, that will lead to the door of Venril Sathir himself... who, coincidentally, is on the kill list for tonight :)
 
-![everquest2-2008-02-26-06-57-44-12.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-26-06-57-44-12.jpg) ![everquest2-2008-02-26-06-59-14-14.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-26-06-59-14-14.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-26-06-57-44-12.jpg" classes="center" >}} {{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-26-06-59-14-14.jpg" classes="center" >}}
 
 Funny thing about that black dress (which you might recognize from my RoK beta tailoring page). I'd been scouting out Teren's Grasp for epic crafters with Dina while Dorah was getting updates in the Nettleville crafting group, and happened to stop outside the tailoring station. When I logged in last night, I was still there, and there was someone there, and what do you think they did? They asked me if I needed the tailoring update. Right out of the blue! I thanked them, but said I didn't. They turned back to their crafting, and I remembered this black dress from beta -- Lady's Dark Heart -- and asked if they could make it.
 

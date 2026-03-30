@@ -3,40 +3,19 @@ date: '2011-04-08T21:41:08-05:00'
 draft: false
 title: "Wizard101 Mount Week Manta Ray winners! Bonus Contest!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/04/08/wizard101-mount-week-manta-ray-winners-bonus-contest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/WizardGraphicalClient-2011-04-08-21-49-07-32-480x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/04/WizardGraphicalClient-2011-04-08-21-49-07-32-480x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/WizardGraphicalClient-2011-04-08-21-49-07-32-480x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/WizardGraphicalClient-2011-04-08-21-49-07-32-480x480.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/04/WizardGraphicalClient-2011-04-08-21-49-07-32-480x480.jpg "Manta Ray!")](https://chasingdings.com/wp-content/uploads/2011/04/WizardGraphicalClient-2011-04-08-21-49-07-32.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/04/WizardGraphicalClient-2011-04-08-21-49-07-32.jpg)
 
 I received over 1,400 correct entries to my Manta Ray giveaway! That was a LOT! So, I guess the answer (A ARMY ANT) was pretty obvious, and maybe letting everyone see what everyone else answered made it REALLY easy but hey, I wasn't interested in giving the SAT here :)
 

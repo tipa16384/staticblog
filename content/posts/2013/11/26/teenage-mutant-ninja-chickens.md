@@ -3,40 +3,17 @@ date: '2013-11-26T08:29:10-05:00'
 draft: false
 title: "Teenage Mutant Ninja.... Chickens?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/11/26/teenage-mutant-ninja-chickens/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night's Monday Night Foundries were a mixed bag of awful and awesome, but more than that, I think we finally distilled the essence of..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-25-20-07-23-90-480x320.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-25-20-07-23-90-480x320.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/GameClient-2013-11-25-20-07-23-90-480x320.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/GameClient-2013-11-25-20-07-23-90-480x320.jpg"
 ---
+Last night's Monday Night Foundries were a mixed bag of awful and awesome, but more than that, I think we finally distilled the essence of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-25-20-07-23-90-480x320.jpg" title="The Goblin Feast" class="align-center" >}}
+
 
 Last night's Monday Night Foundries were a mixed bag of awful and awesome, but more than that, I think we finally distilled the essence of what makes a successful Foundry -- and what makes a good one. These aren't necessarily going to be found on the same Foundry.
 
@@ -68,7 +45,7 @@ A couple of the chickens were more feisty than others, but we were really expect
 
 The author has previously written a four-part Foundry campaign that I have not played.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-25-22-11-28-37-480x300.jpg" title="How is that not Poseidon?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/GameClient-2013-11-25-22-11-28-37-480x300.jpg" title="How is that not Poseidon?" classes="center" >}}
 
 **Party in the Arena of Poseidon by @XNURIAX**
 
@@ -84,7 +61,7 @@ Neither of us felt like we had a good time -- there are no real rewards from a F
 
 **That'll do, Pig.**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-26-08-14-09-78-480x384.jpg" title="Soooooo-EEEEEE" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/GameClient-2013-11-26-08-14-09-78-480x384.jpg" title="Soooooo-EEEEEE" classes="center" >}}
 
 I figure if I have a pig NEXT to me, I can always pretend people are insulting the pig and not me. But why would they insult the pig? She's so CUUUUTE!
 
@@ -92,7 +69,7 @@ In preparation for next week's expansion launch, and especially the new browser 
 
 Kasul's pig made it to level 12 through the evening, and his was so cute I had to buy one for myself, even though I already had a controller in the person of the cleric disciple whom I used as my healer until I did the Incredible Zen to Diamond Maneuver that bought me my current healer cheap.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-26-08-22-19-87-480x239.jpg" title="Hambone and Friends" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/GameClient-2013-11-26-08-22-19-87-480x239.jpg" title="Hambone and Friends" classes="center" >}}
 
 If I'd been blogging when I did that, you'd have found out how I got a lockbox companion -- which people spend upwards of $100 or more on keys to get -- for much, much, MUCH cheaper by playing games with the Zen/Astral Diamond exchange. But, you'll never know now. Except that it had something to do with the Zen/Diamond exchange. And in fact that's all there was to it. The market was swinging wildly because of a special event for just that weekend, and it was the perfect time for some arbitrage.
 

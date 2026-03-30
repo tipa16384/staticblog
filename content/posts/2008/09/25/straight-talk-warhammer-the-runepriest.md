@@ -3,48 +3,24 @@ date: '2008-09-25T08:00:33-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Runepriest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/25/straight-talk-warhammer-the-runepriest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "You love you some Warhammer Online: Age of Reckoning, but the game isn't addicting enough. There should be some way of making your time away..."
+categories:
   - "Humor"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
+tags:
   - "Geto Boys"
   - "Grand Theft Altdorf"
   - "Runepriest"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/grandtheftdorf.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/grandtheftdorf.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/grandtheftdorf.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/grandtheftdorf.jpg"
 ---
+You love you some Warhammer Online: Age of Reckoning, but the game isn't addicting enough. There should be some way of making your time away...
+<!--more-->
 
 You love you some Warhammer Online: Age of Reckoning, but the game isn't addicting enough. There should be some way of making your time away from the game an interminable hell. If only... if only there was a career that could give you such a high that when you came down, all you could think about would be your next fix -- and the next after that.
 
 Meet the best friend you will ever have in the game, the one whose number is #1 speed dial on your cell phone, the one who always has what you need -- the Runepriest.
-
-![](https://chasingdings.com/wp-content/uploads/2008/09/grandtheftdorf.jpg "grandtheftdorf")
 
 *Simulated Warhammer screenshot.*
 

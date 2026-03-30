@@ -3,40 +3,17 @@ date: '2012-06-28T06:48:57-05:00'
 draft: false
 title: "D&D4E: The Keep on the Shadowfell: the end."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/06/28/dd4e-the-keep-on-the-shadowfell-the-end/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We'd battled our way to nearly the deepest depths of the measureless halls and caverns beneath the demonic Keep on the Shadowfell. We'd met slimes..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/06/1-FantasyGrounds-2012-06-27-21-24-30-36-480x328.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/06/1-FantasyGrounds-2012-06-27-21-24-30-36-480x328.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/06/1-FantasyGrounds-2012-06-27-21-24-30-36-480x328.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/06/1-FantasyGrounds-2012-06-27-21-24-30-36-480x328.jpg"
 ---
+We'd battled our way to nearly the deepest depths of the measureless halls and caverns beneath the demonic Keep on the Shadowfell. We'd met slimes...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/06/1-FantasyGrounds-2012-06-27-21-24-30-36-480x328.jpg" title="Kalarel's chamber" class="align-center" >}}
+
 
 We'd battled our way to nearly the deepest depths of the measureless halls and caverns beneath the demonic Keep on the Shadowfell. We'd met slimes and jellies and bug-lizards and drakes and gnomes and goblins and goblins of the hob variety. We'd fed Splug to a carnivorous pool. We'd waded through hordes of skeletons and waves of zombies and spoken to a ghost. I got trapped in a room that was filling with water with no escape.
 
@@ -44,13 +21,13 @@ All we had to do was climb down some sturdy chains, map whatever we found below 
 
 That was the plan, anyway.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/06/killthemall.png" title="How I imagine this went." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/06/killthemall.png" title="How I imagine this went." classes="center" >}}
 
 Nobody wanted to be the first to go down the hole. Enough of this. I'm the tank. It's my job to take the lead. The chains looked sturdy enough, easily able to support us all as we climbed down. I carefully swung myself on to one and -- missed my Athletics check -- splashed into a pool of warm blood, far below. Wizard Bryn landed, head first, next to me, quite hurt by the fall. Wenner and Sheeoil came down as fast and as safely as they could.
 
 The clay golem who had fled from us down the hole turned creakily and might have smiled if it could  have. Bryn, stunned and bleeding, gasping for air and on the edge of annihilation, grabbed his charcoal and bloodied paper and made a quick sketch of the room. "Mapped," he said. "We're done."
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/06/map.jpg" title="Bryn's final map" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/06/map.jpg" title="Bryn's final map" classes="center" >}}
 
 Pool of blood in the middle, in which Bryn and I were floating prone; mysterious dark portal to the north, with glowing runes in front of it. To the east, a wight. To the west, Kalarel, guarded by two skeleton warriors and the clay golem. To the south, nothing. I guess we could have gone that way and done something, but getting Bryn alive was something we needed to work on immediately.
 

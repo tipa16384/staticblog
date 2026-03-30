@@ -3,40 +3,17 @@ date: '2007-12-31T22:58:38-05:00'
 draft: false
 title: "EQ2: The Fate of Norrath"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/31/eq2-the-fate-of-norrath/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Fate of Norrath is a level 80 quest that starts outside the City of Mist in the Kunzar Jungle. This little Halfling seems unusually..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-31-18-58-15-31.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-31-18-58-15-31.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-31-18-58-15-31.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-31-18-58-15-31.jpg"
 ---
+The Fate of Norrath is a level 80 quest that starts outside the City of Mist in the Kunzar Jungle. This little Halfling seems unusually...
+<!--more-->
 
-![everquest2-2007-12-31-18-58-15-31.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-31-18-58-15-31.jpg)
+
 
 The Fate of Norrath is a level 80 quest that starts outside the City of Mist in the Kunzar Jungle. This little Halfling seems unusually preoccupied with the vast power of the Greenmist Oubliette and appears to have mysterious information and powers. Some even wonder if he is an avatar of Bristlebane, but could the God of Pranks really ever take on something as serious as this?
 
@@ -82,7 +59,7 @@ There are ancient iksar records passed down from the legendary Kotiz that sugges
 
 the great green storm of death. It was not enough to swallow the entire storm, but even a sliver of such a power is enough to destroy empires and possibly the world.
 
-![everquest2-2007-12-31-19-00-56-43.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-31-19-00-56-43.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-31-19-00-56-43.jpg" classes="fig-20" >}}
 
 *Then tell me how we can get the Greenmist Oubliette.*
 

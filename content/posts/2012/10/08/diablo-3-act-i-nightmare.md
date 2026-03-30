@@ -3,39 +3,16 @@ date: '2012-10-08T06:27:24-05:00'
 draft: false
 title: "Diablo 3: Act I Nightmare"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/08/diablo-3-act-i-nightmare/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We were down a monk last night. Not sure why, yet, but I'm pretty sure it has something with his GAME launching today. Anyway, the..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-07-22-49-15-66-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-07-22-49-15-66-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-07-22-49-15-66-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-07-22-49-15-66-480x384.jpg"
 ---
+We were down a monk last night. Not sure why, yet, but I'm pretty sure it has something with his GAME launching today. Anyway, the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-07-22-49-15-66-480x384.jpg" title="Spider Queen" class="align-center" >}}
+
 
 We were down a monk last night. Not sure why, yet, but I'm pretty sure it has something with [his GAME launching today](https://www.pirate101.com/). Anyway, the rest of us were there, so we jumped in for another run in our softcore playground of destruction, where we steamrolled over most everything and brought the boom to the Butcher, finishing Act I for us.
 

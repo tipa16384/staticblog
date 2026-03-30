@@ -3,42 +3,20 @@ date: '2008-08-11T06:40:11-05:00'
 draft: false
 title: "STO: To go boldy..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/11/sto-to-go-boldy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Thanks to TheRemedy for the heads-up on the Cryptic Star Trek Online trailer. The trailer jumps from fight scene to fight scene, and the game..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Star Trek"
+tags:
   - "The Unfunny Kind of Humor"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/borg.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/borg.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/borg.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/borg.jpg"
 ---
+Thanks to TheRemedy for the heads-up on the Cryptic Star Trek Online trailer. The trailer jumps from fight scene to fight scene, and the game...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/borg.jpg "borg")
+
 
 Thanks to TheRemedy for the heads-up on the [Cryptic Star Trek Online trailer](http://www.gametrailers.com/player/38183.html). The trailer jumps from fight scene to fight scene, and the game seems to go boldly where all the single player games have gone before. Some of these fights look straight out of Star Trek Armada 2, and the hand-to-hand fights look just as pointless as fights in every other MMO. I did some poking around the Cryptic web site and found a list of quest descriptions. I'm interested to hear about more STO quests if you know of any :)
 

@@ -3,41 +3,19 @@ date: '2024-05-09T07:00:00-05:00'
 draft: false
 title: "ADVENT: Twisty Passages, All Alike"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/05/09/advent-twisty-passages-all-alike/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "A pirate stole our treasure! Time to steal it BACK. But first, we have to find our way through one of the most notorious mazes of all time..."
-description: "A pirate stole our treasure! Time to steal it BACK. But first, we have to find our way through one of the most notorious mazes of all time..."
-tags:
+categories:
   - "Adventure"
   - "Text Adventure Game"
+tags:
   - "Colossal Cave"
   - "Colossal Cave Adventure"
   - "Pygame"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-pirate.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-pirate.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-pirate.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-pirate.png"
 ---
+A pirate stole our treasure! Time to steal it BACK. But first, we have to find our way through one of the most notorious mazes of all time...
+<!--more-->
 
 I think someone who knew what they were doing could finish ADVENT in half an hour at most. It's taken me days. I lose points every time I save, but I'm always getting so excited about finally replaying a game that meant so much to me when I was a kid; I just want to make it special.
 
@@ -61,13 +39,13 @@ Python has a package -- several, really -- for doing graph projects. I chose **n
 
 I then added the "all alike" maze, and...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-6.png" title="During handling of the above exception, another exception occurred..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-6.png" title="During handling of the above exception, another exception occurred..." classes="center" >}}
 
 Rooms point to themselves. Rooms are mutually to the south or above each other. There was no way to connect the rooms of the maze in any physically possible way. Such is the teaching of ADVENT.
 
 So, I plugged the maze into last night's code, and laboriously marked it up with the correct directions.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/alikemaze-1024x460.png" title="\"ALL ALIKE\" Maze" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/alikemaze-1024x460.png" title="\"ALL ALIKE\" Maze" classes="center" >}}
 
 There's at least two entrances into the maze; there may be more. The program I wrote to rip the rooms from the ADVENT YAML file tends to forget things around the edges. But this was enough.
 
@@ -75,10 +53,10 @@ The stalactite (middle, second row) is easily found, but can drop you into one o
 
 I didn't think this through clearly, though, and I opted to go from the west end of the Hall of Mists. But, going west from the Hall of Mists brings you to the fissure puzzle. I had to do some crawling around in a parallel tunnel to get to the correct location, and I dropped into the maze pretty far from the pirate's hoard. Probably burned a lot of lamp to finally get there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/deadend-1024x699.png" title="The pirate's treasure chest is here!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/deadend-1024x699.png" title="The pirate's treasure chest is here!" classes="center" >}}
 
 We found all our treasures, and the treasure chest itself is a treasure! The emerald is particularly important, as I don't believe you can safely get one of the other treasures without it. If you are holding the emerald in the "Y2" room and say "plover", you get teleported to the Plover Room where you got the emerald. But unlike the first time, where you had to drop everything, including the lamp, in order to squeeze into the room, you now *have* the lamp and can go to the next room and grab the platinum pyramid. Then "plover" back to "Y2", and "plugh" back to the building to deposit the stash.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/treasures-so-far-1024x702.png" title="Treasures so far" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/treasures-so-far-1024x702.png" title="Treasures so far" classes="center" >}}
 
 And that's where I left off. MANY more treasures to get. I think tomorrow, I'll go have a talk with a troll and make a new friend along the way.

@@ -3,50 +3,28 @@ date: '2025-08-22T09:29:46-05:00'
 draft: false
 title: "The Kind of Malifaux You Play at Home"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/22/the-kind-of-malifaux-you-play-at-home/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "With 4th Edition leaving beta, players are waiting for the official release. Meanwhile, some of us still want to play a game..."
-description: "With 4th Edition leaving beta, players are waiting for the official release. Meanwhile, some of us still want to play a game..."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "4th Edition"
   - "December"
   - "Performer"
   - "Tormented"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5337-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5337-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-scaled.jpg"
 ---
+With 4th Edition leaving beta, players are waiting for the official release. Meanwhile, some of us still want to play a game...
+<!--more-->
 
 Malifaux isn't a game for everyone. Skirmish games are a tough sell in general. You have to buy minis -- lots of them -- and they are expensive. A decent Warhammer 40K army could cost you over a thousand bucks. Then they must be painted, the rules for each of them learned, then find people with whom to play, hope beyond hope that they're cool, and, finally, after all that, try to have a good time.
 
 Malifaux is no different. There's dozens of crew leaders, called masters, and each of them has (at least) two different versions.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-42-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-42-150x150.png" classes="fig-20" >}}
 
 > I'm Rasputina! You can play me as "Winter's Teeth", a young woman who has just formed an alliance with the tyrant of winter known as "December", or I can be "Abominable", a woman who has bent December to her will and is out for revenge!
 
@@ -54,7 +32,7 @@ Malifaux is a little cheaper to get into than other skirmish games; usually a de
 
 This all fell apart when Wyrd Games announced that they would be releasing a new fourth edition of the game, with every keyword undergoing massive changes. Part of that was to begin releasing crews in fewer boxes, making it easier (and cheaper) for new players to get started. They are even releasing a two player starter set, one box that contains pre-assembled models for two new crews, Ampersand and the Banished.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-42-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-42-150x150.png" classes="fig-20" >}}
 
 > "Ampersand" are constructs exiled from the machine city of Ampersand because they just weren't making the cut. If you think your bedroom furniture might be actively trying to kill you, you might want to check out this keyword.
 > "The Banished" are freed prisoners from the underwater realm of the tyrant Meridion; monsters too mean to even be part of the Gibbering Hordes.
@@ -63,7 +41,7 @@ The new crews were available for play at Gencon 2025, and got good reviews. Once
 
 All you need is a table.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-42-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-42-150x150.png" classes="fig-20" >}}
 
 > In Malifaux, a "table" isn't just something with four legs that you put food on. It's the battlefield upon which you play Malifaux. It usually includes a square mat that has lines demarcating the various deployment zones, terrain that provides cover or challenges to cross (or both), and buildings and other similar things that models can climb for tactical advantage. Terrain is key to Malifaux games, and making a pretty nice table will get you awards at Malifaux tournaments. They can get pretty wild.
 
@@ -71,7 +49,7 @@ For several months now, Kasul has been working on a table of his own, the lair o
 
 To that end, Kasul has been building a university library in which to play.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/IMG_5337-EDIT-1024x615.jpg" title="Detail of the Scholar's Table" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5337-EDIT-1024x615.jpg" title="Detail of the Scholar's Table" classes="center" >}}
 
 Kasul has 3D printed bookshelves, a telescope, an orrery and other random terrain. It's going to be nasty to paint all of it, and I'm glad I'm not the one having to do it. There's irony here; Von Schtook in 4th edition isn't nearly as cool as he was in 3rd edition, and Kasul is looking to change keywords. One potential: Tormented, with the undead spirit of Jack Daw as its master.
 
@@ -79,7 +57,7 @@ When visitors leave the Malifaux train station, the first thing they see is the 
 
 Kasul had a table and a new keyword to try out; I had a new crew as well -- Performer, led by the glamorous Colette du Bois.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-43-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-43-150x150.png" classes="fig-20" >}}
 
 > Hi! I'm Colette du Bois! I can be played as someone at the height of my star power as the Star of the Show, or a little later in my career as Smuggler. My keyword, Performer, razzles and dazzles! Are you seeing me, or a decoy? Did you just fall in love with me? When my show comes to your town, you better keep your eyes on my beautiful showgirls and your hand on your wallet. But your heart will be mine, and mine alone!
 
@@ -87,7 +65,7 @@ Neither of us have finished painting our models. Mine were just put together and
 
 The Gencon hype has died down, summer is rapidly dwindling, and the local community is taking a bit of a break. We haven't been able to find locals ready to game for a couple of weeks. Well, that doesn't matter. We had two new crews to try out and a table on which to do it. The best Malifaux is the Malifaux you get to play, no matter where.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-44-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-44-150x150.png" classes="fig-20" >}}
 
 > Tipa, you better not be thinking about playing a different keyword. Don't listen to Colette's lies! DECEMBER IS COMING!
 
@@ -117,7 +95,7 @@ We both chose "Scout the Rooftops" as our first scheme; we have to leave two sch
 
 I sent Shadowlark and Carlos out to score the Scout the Rooftops point, then sent Carlos out to attack the center strategy point. This made him a real target for the entirety of the Jack Daw crew and probably wasn't a great idea. I sent the doves to back him up, but without having enemy scheme markers nearby to provide a place to summon more doves, that was just more fodder for the Tormented. By the beginning of Turn 2, all four were dead and I was forced to focus solely on scoring points while using the Coryphee Duet and Dorian Crow to threaten the center.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-45-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-45-150x150.png" classes="fig-20" >}}
 
 > Oh my, it talks! Raspy, honey, time to go back to your mountain and play with your little snowmen. Can't you see that all anyone really wants is ME?
 
@@ -131,4 +109,4 @@ Kasul was surprised I didn't put the Showgirls into play, choosing the less popu
 
 Next time, I'll likely bring the showgirls and leave Dorian Crowe at home, replacing him with the mistress of blades, Cassandra Felton. Should be a very different game. Maybe one I'll win :-)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-46-300x200.png" title="Mata ne!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-46-300x200.png" title="Mata ne!" classes="center" >}}

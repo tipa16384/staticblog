@@ -3,56 +3,31 @@ date: '2007-12-23T09:11:13-05:00'
 draft: false
 title: "EQ2: Stuff dies, halflings get wet, film at 11."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/23/eq2-stuff-dies-halflings-get-wet-film-at-11/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's about time to look into the adventures, once again, of Dina and Dera, Adventurers at Large...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/karana1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/karana1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/karana1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/karana1.jpg"
 ---
+It's about time to look into the adventures, once again, of Dina and Dera, Adventurers at Large....
+<!--more-->
 
 It's about time to look into the adventures, once again, of Dina and Dera, Adventurers at Large.
 
-![karana1.jpg](https://chasingdings.com/wp-content/uploads/2007/12/karana1.jpg)
-
 It's kind of embarrassing all around that Dera, a priestess, didn't worship any god in particular. Sure, she'd started on the Brell quest, but she and old candle-head just didn't get along. EQ lore would have her worshiping Bristlebane, but once again, it just didn't work out. When Dina moved to Gorowyn and stumbled upon Karana priest Askr and his lonely little shrine to Karana, I immediately knew I'd found a god for Dera to worship.
 
-![everquest2-2007-12-22-12-57-40-66.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-22-12-57-40-66.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-22-12-57-40-66.jpg" classes="center" >}}
 
 The quest was easy enough to solo, and I didn't bring Dina along except toward the end, just in case; but even in the end, in the final battle between the avatars of Bertoxxulous (left) and Karana (right), there was no challenge.
 
 That final fight between the avatars... I dunno... does it remind you of [some other famous scene](http://www.georgehernandez.com/h/Media/Works/StarWars.jpg)? Except this time, the good guy wins. Well, the neutral guy.
 
-![kjraids.jpg](https://chasingdings.com/wp-content/uploads/2007/12/kjraids.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/kjraids.jpg" classes="center" >}}
 
 Pulled back from the brink of death by a new guild leader and officer crew that actually gives two shakes about the guild, Eternal Chaos is back to raiding and doing quite well. We did the two x2 epics in Kunzar Jungle Friday night, Severilous on the left and Trakanasaurus Rex on the right. Despite Dina being in one of the pictures, I played Dera for both kills. I really like Kunzar Jungle; the environment up near the City of Mist (left) is just so downright creepy...
 
-![everquest2-2007-12-20-07-19-11-96.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-20-07-19-11-96.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-20-07-19-11-96.jpg" classes="center" >}}
 
 We followed that up yesterday with our first ever Wuoshi kill. Got a pile of debt from it, but the old girl finally went down, and dropped the monk legs, a server discovery. EOF over a year old and a dozen guilds on Befallen farming Wuoshi and this was the very first time the monk legs dropped? Quoth the 70-79 channel -- "You let monks go on raids?"
 

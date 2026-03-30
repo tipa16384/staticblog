@@ -3,37 +3,12 @@ date: '2008-10-26T07:21:24-05:00'
 draft: false
 title: "Happy 3rd Birthday, West Karana"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/26/happy-3rd-birthday-west-karana/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't done any of those posts about all of my blogs stats yet, but it's my blog's third anniversary, so now seems like a..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I haven't done any of those posts about all of my blogs stats yet, but it's my blog's third anniversary, so now seems like a...
+<!--more-->
 
 I haven't done any of those posts about all of my blogs stats yet, but it's my blog's third anniversary, so now seems like a good time.
 
@@ -41,35 +16,35 @@ I used to blog on my EQ guild's website, but decided to jump to full 'blog-dom' 
 
 It was more an online diary than a blog.
 
-Another reason -- I'd just started World of Warcraft, and felt it wouldn't be a smooth move to talk about playing WoW on my EQ guild's message boards. My [first gaming post](https://chasingdings.com/index.php/2005/10/27/heroic-vs-epic-fantasy/) was about WoW.
+Another reason -- I'd just started World of Warcraft, and felt it wouldn't be a smooth move to talk about playing WoW on my EQ guild's message boards. My [first gaming post](https://tipa16384.github.io/wkblog/index.php/2005/10/27/heroic-vs-epic-fantasy/) was about WoW.
 
 I started my blog using the [SimplePHPBlog](http://www.simplephpblog.com/) software, which I found by typing "simple php blog" into Google. About a year and a half later, I switched to Wordpress. There were lots of errors in the conversion process, so older entries can be missing pictures, working links, or most of the text.
 
 On May 14, 2007, I signed up for Google Analytics, and finally was able to get some idea of what people were finding on the site.
 
-Since that date, I have had 180,286 visits comprising 270,105 page views. The most active day was 1,329 page views on February 19, 2008, when [an article about Warhammer](https://chasingdings.com/index.php/2008/02/18/why-warhammer-hype-works-so-well/) was linked by Tobold.
+Since that date, I have had 180,286 visits comprising 270,105 page views. The most active day was 1,329 page views on February 19, 2008, when [an article about Warhammer](https://tipa16384.github.io/wkblog/index.php/2008/02/18/why-warhammer-hype-works-so-well/) was linked by Tobold.
 
 West Karana currently gets between 600 and 700 visitors a day, and this has held pretty steady. I did an experiment with writing about Warhammer a lot when it came out (Straight Talk Warhammer) and having two to four articles every day, and I got my page views above 700, but it was a lot of work. The most popular day is Friday. The most popular time is between 8 and noon, Eastern time.
 
 Since I started tracking, the ten most popular destinations have been:
 
-- [EQ2's Next Expansion -- The Shadow of Odyssey.](https://chasingdings.com/index.php/2008/04/24/eq2s-next-expansion-the-shadow-of-odyssey/)
+- [EQ2's Next Expansion -- The Shadow of Odyssey.](https://tipa16384.github.io/wkblog/index.php/2008/04/24/eq2s-next-expansion-the-shadow-of-odyssey/)
 
-- [The Lord of the Rings Online](https://chasingdings.com/index.php/category/mmos/lord-of-the-rings-online/) category.
+- [The Lord of the Rings Online](https://tipa16384.github.io/wkblog/index.php/category/mmos/lord-of-the-rings-online/) category.
 
-- The [EverQuest 2](https://chasingdings.com/index.php/category/mmos/everquest-2/) category.
+- The [EverQuest 2](https://tipa16384.github.io/wkblog/index.php/category/mmos/everquest-2/) category.
 
-- [The Weighted Companion Cube is your only friend](https://chasingdings.com/index.php/2007/10/30/the-weighted-companion-cube-is-your-only-friend/), an article about a 3D model I did for Portal's WCC.
+- [The Weighted Companion Cube is your only friend](https://tipa16384.github.io/wkblog/index.php/2007/10/30/the-weighted-companion-cube-is-your-only-friend/), an article about a 3D model I did for Portal's WCC.
 
-- [The Next EQ2 Expansion is...?](https://chasingdings.com/index.php/2008/03/13/the-next-eq2-expansion-is/), an article speculating on what the next EQ2 expansion might be about. Clearly people are really excited about The Shadow Odyssey!
+- [The Next EQ2 Expansion is...?](https://tipa16384.github.io/wkblog/index.php/2008/03/13/the-next-eq2-expansion-is/), an article speculating on what the next EQ2 expansion might be about. Clearly people are really excited about The Shadow Odyssey!
 
-- [Mythos Beta](https://chasingdings.com/index.php/2007/10/25/mythos-beta/). Anything about the Mythos Beta, or anything especially dealing with beta keys, was a huge draw. Excitement for Mythos was incredible. If Flagship had been able to release it, it would have been HUGE.
+- [Mythos Beta](https://tipa16384.github.io/wkblog/index.php/2007/10/25/mythos-beta/). Anything about the Mythos Beta, or anything especially dealing with beta keys, was a huge draw. Excitement for Mythos was incredible. If Flagship had been able to release it, it would have been HUGE.
 
-- [EQ Comics](https://chasingdings.com/index.php/comics/), comics I did about raiding in EverQuest. They really only make sense if you were there, and were used as a recruitment tool for our guild. I definitely think there's room for a real, daily or weekly web comic set, in EverQuest. Yes, I know about [WTF Comics](http://www.wtfcomics.com/). WTF's twice-a-year update schedule is frustrating. [GU Comics](http://gucomics.com/) started out as a [one-panel comic about EQ](http://gucomics.com/comic/?cdate=20000920) and was one of the funniest EQ comics going (there were quite a few EQ comics back in the day).
+- [EQ Comics](https://tipa16384.github.io/wkblog/index.php/comics/), comics I did about raiding in EverQuest. They really only make sense if you were there, and were used as a recruitment tool for our guild. I definitely think there's room for a real, daily or weekly web comic set, in EverQuest. Yes, I know about [WTF Comics](http://www.wtfcomics.com/). WTF's twice-a-year update schedule is frustrating. [GU Comics](http://gucomics.com/) started out as a [one-panel comic about EQ](http://gucomics.com/comic/?cdate=20000920) and was one of the funniest EQ comics going (there were quite a few EQ comics back in the day).
 
-- [EQ2 Kunark -- a BRIEF first look](https://chasingdings.com/index.php/2007/11/10/eq2-kunark-a-brief-first-look/). I posted this just before RoK went live.
+- [EQ2 Kunark -- a BRIEF first look](https://tipa16384.github.io/wkblog/index.php/2007/11/10/eq2-kunark-a-brief-first-look/). I posted this just before RoK went live.
 
-- [EQ2 -- New summoner pets](https://chasingdings.com/index.php/2007/11/11/eq2-new-summoner-pets/). Screen shots of new pets ftw :)
+- [EQ2 -- New summoner pets](https://tipa16384.github.io/wkblog/index.php/2007/11/11/eq2-new-summoner-pets/). Screen shots of new pets ftw :)
 
 Excluding searches like "west karana" or searches that clearly showed people were specifically trying to get here via a search, the ten most popular search terms were:
 

@@ -3,51 +3,31 @@ date: '2010-09-11T19:14:46-05:00'
 draft: false
 title: "Treasure Abyss: I got eaten by a grue."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/11/treasure-abyss-i-got-eaten-by-a-grue/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
   - "Treasure Abyss"
+tags:
   - "Dragon's Nest"
   - "Monk"
   - "Thief"
   - "Warrior"
   - "Wizard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9112010-73352-PM-480x379.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9112010-73352-PM-480x379.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9112010-73352-PM-480x379.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9112010-73352-PM-480x379.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9112010-73352-PM-480x379.jpg "Uber party")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9112010-73352-PM.jpg)
+[
 
-Bandai Namco's co-operative dungeon crawling game [Treasure Abyss](http://apps.facebook.com/treasureabyss/) dropped a much-needed expansion on a treasure-starved world Wednesday; along with it came a lot of changes, major and minor. Treasure Abyss is, to rewind a little, is a (shudder) Facebook game. You form an adventuring party from you and your friends, and battle monsters in a variety of dungeons of increasing difficulty. I [wrote a little about it](https://chasingdings.com/index.php/2010/08/31/treasure-abyss-not-your-ordinary-social-game/) a couple of weeks ago. Since then, it's been subject to continual balancing and has become a fair bit harder.
+](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9112010-73352-PM.jpg)
+
+Bandai Namco's co-operative dungeon crawling game [Treasure Abyss](http://apps.facebook.com/treasureabyss/) dropped a much-needed expansion on a treasure-starved world Wednesday; along with it came a lot of changes, major and minor. Treasure Abyss is, to rewind a little, is a (shudder) Facebook game. You form an adventuring party from you and your friends, and battle monsters in a variety of dungeons of increasing difficulty. I [wrote a little about it](https://tipa16384.github.io/wkblog/index.php/2010/08/31/treasure-abyss-not-your-ordinary-social-game/) a couple of weeks ago. Since then, it's been subject to continual balancing and has become a fair bit harder.
 
 One side effect has made certain classes less desirable in a group. Wizards would take immediate aggro and die; thieves did overall poor dps and couldn't take a hit much better than the wizards. Monk agility somewhat made up for their lack of armor, but the tops in dps AND survivability was the warrior, and there was little reason to play another class.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9112010-73158-PM-480x376.jpg "Thieves get a role!")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9112010-73158-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9112010-73158-PM-480x376.jpg" title="Thieves get a role!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9112010-73158-PM.jpg)
 
 The latest update adds a fourth dungeon, The Dragon's Nest. This is a ten floor dungeon, for level 20+ characters. It's mistakenly shown to take 10 candle power per move; it actually only takes three, the same as all the other dungeons. (Candle power is the slowly-rechargeable resource that limits the number of actions you can take before resting). Where previously adventuring in the dark was not only possible but preferred, any movement in the dark now brings you face to face with shadow copies of your adventuring party, who hit overwhelmingly harder than you do. It's a nice nod to the old Zork games, where blundering in the darkness would lead you right into the mysterious but slavering jaws of a Grue.
 

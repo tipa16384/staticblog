@@ -3,40 +3,18 @@ date: '2024-09-07T08:00:00-05:00'
 draft: false
 title: "Fall into Faux: The One Where I Win"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/09/07/fall-into-faux-the-one-where-i-win/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?"
-description: "Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?"
-tags:
+categories:
   - "Malifaux"
   - "Miniatures"
+tags:
   - "Tactics"
   - "The Battle Standard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/1988-mei-feng.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/09/1988-mei-feng.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1988-mei-feng.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1988-mei-feng.jpg"
 ---
+Mei Feng’s Foundry crew faces off against Molly’s undead in a battle for ballot boxes, with unexpected twists and tactical plays. Can I turn my crew’s mobility into victory?
+<!--more-->
 
 Just finished game 2 of 3 in our fall Malifaux league. There were a lot of new things going on in this game that played well into my crew's strength and so... I won.
 
@@ -46,7 +24,7 @@ My master is Mei Feng, Foreman. She belongs to both the Arcanist (magic is fun! 
 
 My opponent played Molly Squidpiddge, a journalist who died and was then later resurrected. She is of the Resurrectionist faction, and her keyword is Forgotten. Her minions are mostly undead, though she has some mechanical minions to hurt or heal at her whim.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-3-1024x593.png" title="Turn 1" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-3-1024x593.png" title="Turn 1" classes="center" >}}
 
 In the picture above, my crew is at the bottom left, and my opponent is at the top right.
 
@@ -62,7 +40,7 @@ Points are not gained by killing enemy units (unless the strategy or scheme says
 
 Move Two we both gained points from ballot stuffing. With my tank units in control of enough boxes, I focused on dropping scheme markers for Information Overload. I was under a little too much battle stress to get too many Power Ritual points, though I did pick up a couple in moves Three and Four. We didn't finish move Five, as it was clear I could both deny my opponent a couple points from Hold Up Their Forces, while taking control of another ballot box for Stuff the Ballots. I was 5-4 at that time, and we probably would have both gotten two more points after discussion, so we ended it there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-4-1024x466.png" title="League standings" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-4-1024x466.png" title="League standings" classes="center" >}}
 
 So, I'm not a complete loser... any more.
 

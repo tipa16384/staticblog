@@ -3,43 +3,21 @@ date: '2022-09-13T22:07:16-05:00'
 draft: false
 title: "Retro World Expo 2022 -- Hartford, CT"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/13/retro-world-expo-2022-hartford-ct/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn't a fan and is warning me away from Drakkhen for the SNES."
-description: "Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn't a fan and is warning me away from Drakkhen for the SNES."
-tags:
+categories:
   - "Gaming Convention"
   - "Super Nintendo"
   - "Video Game Console"
+tags:
   - "Drakkhen"
   - "Gpt-3"
   - "Hartford"
   - "Terra"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/1-IMG_2687.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/1-IMG_2687.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/1-IMG_2687.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/1-IMG_2687.jpg"
 ---
+Retro World Expo in Hartford came up light on Sega Saturn games, but I got a couple new games to try. Terra isn't a fan and is warning me away from Drakkhen for the SNES.
+<!--more-->
 
 Just occurred to me that I hadn't written about the first ever con I've been to, in Hartford, in the fifteen years I've lived in the area. The one that got me downtown was [Retro World Expo](https://retroworldexpo.com/), a gathering of classic videogame lovers from all over New England and the northeast. 
 
@@ -49,7 +27,7 @@ They had a LOT of STUFF. I saw some old gaming systems I hadn't seen in decades 
 
 I did get two games; an SNES RPG I had never played back in the day, and Castlevania, a game I *thought* I had played on an old Mac a million years ago. My boyfriend proved to me that the game I had actually played was Dark Castle, and so I hadn't actually ever played Castlevania before. That was for the Nintendo 64, a system I have already packed away after playing Ogre Battle 64 on it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/2-IMG_2714.jpg" title="The original Final Fantasy 3 (6) cart, and the Drakkhen cart and manual" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/2-IMG_2714.jpg" title="The original Final Fantasy 3 (6) cart, and the Drakkhen cart and manual" classes="center" >}}
 
 Drakkhen was the RPG. Originally for the Atari ST and the Amiga 500, it was later ported to all sorts of systems, including the Super Nintendo. The game I got at the con had the original box and cart, but the cart was bouncing around loose in the box and there was no manual.
 
@@ -65,7 +43,7 @@ Me: Why? What's wrong with it?
 Terra: The combat system is really flawed and makes it really frustrating to play. The navigation is also really poor, which makes it really hard to get around. Additionally, the atmosphere is really not that immersive.
 Me: But I can create my own adventuring party!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-13-21.54.18-Manga-style-drawing-of-girl-with-green-hair-in-a-high-ponytail-and-wearing-a-red-outfit-playing-a-game-on-a-Super-Nintendo.png" title="Terra is an SNES game expert" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-13-21.54.18-Manga-style-drawing-of-girl-with-green-hair-in-a-high-ponytail-and-wearing-a-red-outfit-playing-a-game-on-a-Super-Nintendo.png" title="Terra is an SNES game expert" classes="fig-20" >}}
 
 Terra: Yeah, but what's the point if the gameplay is so frustrating?
 Me: Sometimes people intentionally play hard games to get that feeling of accomplishment.

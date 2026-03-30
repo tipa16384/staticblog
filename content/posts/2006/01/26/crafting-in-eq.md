@@ -3,40 +3,17 @@ date: '2006-01-26T00:00:00-05:00'
 draft: false
 title: "Crafting in EQ2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/26/crafting-in-eq/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Took me hours to make that Iron Chainmail armor for Nashuya after she became capable of wearing chain. With previous characters, I have just bought..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/nashlogin.jpg"
-cover:
-  image: "https://chasingdings.com/images/nashlogin.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/nashlogin.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/nashlogin.jpg"
 ---
+Took me hours to make that Iron Chainmail armor for Nashuya after she became capable of wearing chain. With previous characters, I have just bought...
+<!--more-->
 
-![](https://chasingdings.com/images/nashlogin.jpg)
+
 
 Took me hours to make that Iron Chainmail armor for Nashuya after she became capable of wearing chain. With previous characters, I have just bought vendor armor until I could fill in spots with quest or dropped armor - but since Dina could make it, and I had Etha to make the stacks and stacks of various alchemical supplies necessary, why not? Dina and Etha both gained tradeskill levels along the way, largely because of the first-time pristine bonuses.
 

@@ -3,46 +3,24 @@ date: '2024-02-07T08:18:03-05:00'
 draft: false
 title: "HeroQuest: A Race Against Time"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/02/07/heroquest-a-race-against-time/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Spoiler alert: There was no time limit for this quest."
-description: "Spoiler alert: There was no time limit for this quest."
-tags:
+categories:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
+tags:
   - "Dall-E 2"
   - "Elf"
   - "Rogue"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/02/DALL·E-2024-02-07-07.42.15-In-the-style-of-a-dynamic-and-colorful-comic-book-illustrate-a-scene-where-a-male-elf-rogue-with-androgynous-features-long-blonde-hair-and-pointed.webp"
 ---
+Spoiler alert: There was no time limit for this quest.
+<!--more-->
 
 I have such an appreciation for how actual real comic book colorists work. I don't know who Dall-E 3 ripped this style off from, but wow, I have seen comic books with this sort of detailed coloring and I think it is the most intricate job in comics.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/02/image-1024x643.png" title="Midjourney with the same scene, note lack of fingers" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/02/image-1024x643.png" title="Midjourney with the same scene, note lack of fingers" classes="center" >}}
 
 Kasul channeled Zargon from the very start of the game. He set up our minis -- dwarf, elf, rogue and monk -- in a room deep in the dungeon, with three locked doors and a wild tale of us following a mysterious character through an underground maze, leaving us with only the echoing sound of his laughter as he abandoned us in the dungeon and left through secret ways.
 
@@ -56,7 +34,7 @@ Theories of mine that proved to be false:
 
 Now that's just false advertising. After we finished, I went online to see what other players thought about this quest, and they had a bunch of suggestions on how to add a time limit to the game. 15 round limit, 20 round limit, have each room fill with poison gas after a time.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/02/IMG_4195.jpg" title="That was it, I guess." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/02/IMG_4195.jpg" title="That was it, I guess." classes="center" >}}
 
 Although we had fun, for a quest in the back half of the campaign, we were hoping for a little more. The monk was definitely overpowered for this quest. With the dwarf's new weapon and armor, nobody was ever in any real danger of dying (aside from a turn where the elf found herself tanking -- and needed to cast her Water of Healing spell to stave off death). We spent most turns searching for treasure.
 
@@ -66,7 +44,7 @@ And toward the end of the dungeon, we have the tale of the Undying Abomination. 
 
 That sucker was popping out of doors and wardrobes throughout the entire dungeon. We should have named him. I plan to paint him so that next time, he can have more of a recurring villain role. Which he has!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/02/image-1.png" title="Mage of the Mirror quest book" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/02/image-1.png" title="Mage of the Mirror quest book" classes="center" >}}
 
 Although I don't know if we're going to need the power boost, I haven't felt like the elf has had her moment in the sun. To offset this somewhat, I've today ordered the Mage of the Mirror expansion pack. This gives the elf three solo quests, followed up by a trip through the titular mirror with the rest of the group.
 

@@ -3,39 +3,16 @@ date: '2010-05-11T06:20:43-05:00'
 draft: false
 title: "IPs that should be MMOs, part 5: Tron"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/11/ips-that-should-be-mmos-part-5-tron/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This is a softball pitch. Nice and slow and over home plate. Disney's 1982 masterpiece Tron is up for a sequel in December, Tron Legacy,..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/screenshot9-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/screenshot9-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/screenshot9-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/screenshot9-480x360.jpg"
 ---
+This is a softball pitch. Nice and slow and over home plate. Disney's 1982 masterpiece Tron is up for a sequel in December, Tron Legacy,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/05/screenshot9-480x360.jpg" title="Click to enlarge" class="align-center" >}}
+
 
 This is a softball pitch. Nice and slow and over home plate. Disney's 1982 masterpiece Tron is up for a sequel in December, Tron Legacy, and if someone isn't working on an MMO to take advantage of that right now, I'd be shocked. Furthermore, the folks at Monolith already made a FPS game based on the movie (and not just, for instance, the light cycle game) that is just chock full of great ideas that could be brought right into a MMO. Even Massively thinks [Tron would make a great MMO](http://www.massively.com/2008/05/30/movies-that-could-be-mmos-tron/).
 

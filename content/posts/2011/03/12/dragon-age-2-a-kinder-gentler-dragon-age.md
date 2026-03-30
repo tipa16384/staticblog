@@ -3,40 +3,17 @@ date: '2011-03-12T07:59:03-05:00'
 draft: false
 title: "Dragon Age 2: A Kinder, Gentler Dragon Age"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/03/12/dragon-age-2-a-kinder-gentler-dragon-age/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's more than a little frustrating that the very first dragon we see in Dragon Age 2, we're not allowed to kill. Turns out to..."
+categories:
   - "Dragon Age Origins"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg"
 ---
+It's more than a little frustrating that the very first dragon we see in Dragon Age 2, we're not allowed to kill. Turns out to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/DragonAge2-2011-03-11-23-34-04-11-480x383.jpg" title="Finally, we get to kill the dragon." class="align-center" >}}
+
 
 It's more than a little frustrating that the very first dragon we see in Dragon Age 2, we're not allowed to kill. Turns out to be Flemeth (note: not a spoiler, happens in the intro and we see it in all the pre-release footage) whom we left alive in Dragon Age Origins. She's gotten a better 'do and filled out a bit. Life in the Wilds has been good to her.
 

@@ -3,43 +3,22 @@ date: '2022-04-08T20:06:46-05:00'
 draft: false
 title: "How Much is that Star Trek NFT in the Window?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/04/08/how-much-is-that-star-trek-nft-in-the-window/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "You aren't going to enjoy the RECUR/Paramount.xyz experience -- and you won't be able to afford it, either. I went through the process to make..."
+categories:
   - "Blockchain"
   - "Crypto Game"
   - "NFT"
+tags:
   - "Atari"
   - "Coinbase"
+  - "NFT"
   - "Opensea"
   - "Wax.io"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/04/Screenshot-2022-04-08-184902.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/04/Screenshot-2022-04-08-184902.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/Screenshot-2022-04-08-184902.png"
 ---
+You aren't going to enjoy the RECUR/Paramount.xyz experience -- and you won't be able to afford it, either. I went through the process to make...
+<!--more-->
 
 You aren't going to enjoy the RECUR/Paramount.xyz experience -- and you won't be able to afford it, either. I went through the process to make a Star Trek NFT profile picture, one recognized by Twitter, and I did it for a fraction of the price and I got exactly what I wanted. Here's how you can do the same.
 
@@ -53,7 +32,7 @@ If you really want a chance at getting a Constitution or Constitution (refit), y
 
 What can you do with it? [According to the terms and conditions](https://www.recurforever.com/terms-of-service), you can sell it (and the RECUR Pass NFT, if you have one), use it as your Profile Picture (PFP), and share links to it so that people can view it in your RECUR page. Unlike the Wax.io marketplace where Atari sells their NFTs, you can even transfer the NFT to a public blockchain, at which point what you do with it is up to you, subject to the agreement not to commercialize it or modify it in any way. (Few NFTs give you those rights; Bored Ape Yacht Club is one of the few that do).
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/1-screenshot_2022-04-08-07-51-049-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2022/04/1-screenshot_2022-04-08-07-51-049-scaled.jpg)I think she wants to be an NFT
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/1-screenshot_2022-04-08-07-51-049-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/1-screenshot_2022-04-08-07-51-049-scaled.jpg)I think she wants to be an NFT
 
 Season 0 of the Star Trek NFTs gets you a weird looking ship and makes you eligible for Season 1 -- paying hundreds of dollars for crew for that ship. Which gets you eligible for Season 2 -- going on missions with your ship and crew. And then you can try out Season 3 -- collecting planets and star systems. Expect to be out thousands of dollars by the time the final season rolls around. Sure, you can sell the stuff when you're done. Maybe.
 
@@ -61,7 +40,7 @@ But all this stuff EXISTS already. You can just play Star Trek Online. You can m
 
 So, let's make it an NFT. For free. There will be a slight fee if you want to do as I've done and get the special Twitter branding showing that your profile picture is an NFT (the hexagonal frame). But just getting an NFT is free.
 
-![MetaMask Logo png transparent](https://cdn.freebiesupply.com/logos/large/2x/metamask-logo-png-transparent.png)Metamask
+{{< image src="https://cdn.freebiesupply.com/logos/large/2x/metamask-logo-png-transparent.png" classes="center" >}}Metamask
 
 **Step 1 -- Getting an Ethereum Wallet**
 
@@ -69,13 +48,13 @@ If you don't already have an Ethereum wallet, you can use one of any number of w
 
 You do NOT have to have any Ethereum in the wallet. Not yet, at least.
 
-![Logos](https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png)OpenSea.io
+{{< image src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" classes="center" >}}OpenSea.io
 
 **Step 2 -- Create an OpenSea.io account**
 
 OpenSea is the foremost NFT marketplace, though there are others. OpenSea allows you to create NFTs for free. OpenSea will ask you for your wallet provider -- you'll need to allow it access to Metamask.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/image.png)](https://chasingdings.com/wp-content/uploads/2022/04/image.png)Create New Item
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/image.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/image.png)Create New Item
 
 **Step 3 -- Create the NFT**
 
@@ -87,7 +66,7 @@ If all you want is a Star Trek NFT that you can show people, you're *done* and i
 
 You want this as your Twitter avatar? Well, this will cost you. A little.
 
-![USD Coin (USDC) - Stablecoin by Coinbase](https://assets.coinbase.com/assets/coinbase.d491999a12d7c093ec6cd83ad64a1e23.png)
+{{< image src="https://assets.coinbase.com/assets/coinbase.d491999a12d7c093ec6cd83ad64a1e23.png" classes="center" >}}
 
 **Step 4 -- Buy some Ethereum**
 
@@ -111,7 +90,7 @@ Just select the NFT, select the transfer icon, and paste in the address of your 
 
 After a minute or two, the transfer will complete and your NFT will be on the chain.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/2021-Twitter-logo-blue-1024x843.png)](https://chasingdings.com/wp-content/uploads/2022/04/2021-Twitter-logo-blue.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/2021-Twitter-logo-blue-1024x843.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/2021-Twitter-logo-blue.png)
 
 **Step 7 -- Twitter Blue**
 
@@ -125,7 +104,7 @@ So, is there a reason to do this? No, not really. You can just take a picture, a
 
 Making an NFT from a Star Trek Online screen shot is no more disallowed than just setting your profile picture to a screenshot directly, for free. Which is to say, neither of those things are allowed. Buying a real Star Trek NFT DOES allow you to display and sell them, so if that's important to you -- well, I hope you haven't missed you chance to get in on the minting. If you have, you'll have to buy them in the open marketplace, and good luck with that. Wait a year and they will be worthless.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/bmapprofilepicture.png)](https://chasingdings.com/wp-content/uploads/2022/04/bmapprofilepicture.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/bmapprofilepicture.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/bmapprofilepicture.png)
 
 **NFTs are kind of a scam.**
 

@@ -3,41 +3,19 @@ date: '2011-10-10T06:58:40-05:00'
 draft: false
 title: "DDO: Baby I'm A-maze-d"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/10/10/ddo-baby-im-a-maze-d/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night we were down two people; Ulan had real life relatives over (who could have popped in and played healers because WHY THE HECK..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-10-00-53-19-17-480x313.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-10-00-53-19-17-480x313.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-10-00-53-19-17-480x313.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-10-00-53-19-17-480x313.jpg"
 ---
+Last night we were down two people; Ulan had real life relatives over (who could have popped in and played healers because WHY THE HECK...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-10-00-53-19-17-480x313.jpg" title="Grand Skellie Poo-bah" class="align-center" >}}
+
 
 Last night we were down two people; Ulan had real life relatives over (who could have popped in and played healers because WHY THE HECK NOT?), and Lessah continues to be mysteriously disappeared (we hope everything is okay with her). Since NOTHING can stop Team Spode, we headed straight into the ruins of Gianthold to see what kind of damage a team of three could do.
 
@@ -49,7 +27,7 @@ We ended at the feet of the mad wizard skellie that had been mind-controlling ev
 
 Got some loot, though!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-09-22-59-32-02-480x328.jpg" title="Maze of Madness" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-09-22-59-32-02-480x328.jpg" title="Maze of Madness" classes="center" >}}
 
 We started out the night, after some random killing death stuff in the open part of Gianthold, finishing a dungeon we started last week -- the Maze of Madness. There's groups of levers all through the place. One lever raises a gate to proceed. The other levers will unleash deadly traps -- unless you have a rogue. Finally, a place where I can shine! It didn't take us long to get through the place; we were stumped looking for the last Agent of Insanity until we (finally!) discovered a secret door, and things went easily after that. Didn't get much experience from it, but the Madstone Crater xp would more than make up for it.
 

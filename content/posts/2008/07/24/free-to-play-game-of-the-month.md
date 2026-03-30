@@ -3,41 +3,17 @@ date: '2008-07-24T09:07:04-05:00'
 draft: false
 title: "Free-to-play game of the month?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/24/free-to-play-game-of-the-month/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my..."
+categories:
   - "Florensia"
   - "MMORPG"
+tags:
   - "Dream of Mirror Online"
   - "Free to Play"
   - "Pi Story"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my...
+<!--more-->
 
 As I was working through DOMO-like* Florensia last night (expect a separate article about it tonight), I was thinking, and this goes back to my MMO DNA project, wouldn't it be nice to take one of those F2P imports and really play the heck out of it, and blog about it, every day for a month? I think it woulld take that long to really get a thorough sense for a game. EVERY MMO is pretty similar at the start -- pick up quests, go kill quick-spawning beasties, level up, etc. You can't review a game based purely on the new player experience, as important a part as that might be.
 

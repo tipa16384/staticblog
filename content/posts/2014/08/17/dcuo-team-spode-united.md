@@ -3,41 +3,19 @@ date: '2014-08-17T21:55:32-05:00'
 draft: false
 title: "DCUO: Team Spode United"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/08/17/dcuo-team-spode-united/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Was a huge night for Team Spode in #DCUO -- the first night we had enough people on to do a couple operations and a..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://lh5.googleusercontent.com/-jlDqPKjRMxE/U_HbhJ0zhUI/AAAAAAAAziI/fRY1n_RD9nQ/w786-h590-no/DCGame%2B2014-08-17%2B23-13-22-06.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-jlDqPKjRMxE/U_HbhJ0zhUI/AAAAAAAAziI/fRY1n_RD9nQ/w786-h590-no/DCGame%2B2014-08-17%2B23-13-22-06.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-jlDqPKjRMxE/U_HbhJ0zhUI/AAAAAAAAziI/fRY1n_RD9nQ/w786-h590-no/DCGame%2B2014-08-17%2B23-13-22-06.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-jlDqPKjRMxE/U_HbhJ0zhUI/AAAAAAAAziI/fRY1n_RD9nQ/w786-h590-no/DCGame%2B2014-08-17%2B23-13-22-06.jpg"
 ---
+Was a huge night for Team Spode in #DCUO -- the first night we had enough people on to do a couple operations and a...
+<!--more-->
 
-![Black Dawn](https://lh5.googleusercontent.com/-jlDqPKjRMxE/U_HbhJ0zhUI/AAAAAAAAziI/fRY1n_RD9nQ/w786-h590-no/DCGame%2B2014-08-17%2B23-13-22-06.jpg)
+
 
 Was a huge night for Team Spode in #DCUO  -- the first night we had enough people on to do a couple operations and a raid without any pickup group members. Seeker Oeru (?), the rage tank on the left, joined us after leveling so very fast to join us. The others in the shot below are, continuing from the left, Stingheal, Lord Spode, Kaptain KY, Blighted Redeemer, TealLantern, Stingharm and Clever Clara, who is sporting a teal and white based color scheme as well :)
 

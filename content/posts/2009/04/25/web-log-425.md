@@ -3,42 +3,17 @@ date: '2009-04-25T08:01:29-05:00'
 draft: false
 title: "Web Log 4/25"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/25/web-log-425/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Welcome to the weekend! It's fantastic weather, so gonna keep this short...."
+categories:
   - "Champions Online"
   - "Daily Blogroll"
   - "EVE Online"
   - "Free Realms"
   - "Shards of Dalaya"
   - "Torchlight"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Welcome to the weekend! It's fantastic weather, so gonna keep this short....
+<!--more-->
 
 Welcome to the weekend! It's fantastic weather, so gonna keep this short.
 

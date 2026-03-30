@@ -3,44 +3,22 @@ date: '2022-07-30T21:02:28-05:00'
 draft: false
 title: "Ship of Heroes: Housing Beta #2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/07/30/ship-of-heroes-housing-beta-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't played the Ship of Heroes beta in awhile, and I entirely missed the previous housing beta. I wasn't going to make that same..."
+categories:
   - "City of Heroes"
   - "DC Universe Online"
   - "EverQuest"
   - "Final Fantasy"
   - "MMORPG"
   - "Ship of Heroes"
+tags:
   - "Housing Beta"
   - "Supergroup Bases"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/1-20220730211912_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/1-20220730211912_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220730211912_1.jpg"
 ---
+I haven't played the Ship of Heroes beta in awhile, and I entirely missed the previous housing beta. I wasn't going to make that same...
+<!--more-->
 
 I haven't played the Ship of Heroes beta in awhile, and I entirely missed the previous housing beta. I wasn't going to make that same mistake twice; when I got the offer to join the superhero MMOs second housing beta, I signed right up and dove right in.
 
@@ -48,7 +26,7 @@ To recap a little, Ship of Heroes is a superhero MMO that invokes the classic su
 
 City of Heroes did have supergroup bases, but as I was never in a supergroup there, I never saw them. I have a lot of experience with DC Universe Online's base building, though, as well as doing quite a lot of base building on Final Fantasy XIV and EverQuest 2.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/20220730173359_1-1024x576.jpg" title="The Waterfall Base" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220730173359_1-1024x576.jpg" title="The Waterfall Base" classes="center" >}}
 
 After creating a new hero and logging into the game, a housing guide is standing right in front of you. I imagine she'll be located elsewhere once the game is live, and is just stood there to make it easy to find her for the beta.
 
@@ -58,11 +36,11 @@ I rented it, closed the popup and clicked again to bring it back up, and saw tha
 
 Welcome to city living -- a 500 sq ft studio efficiency apartment, all the space needed to fight evil.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/20220730195733_1-1024x576.jpg" title="Housing Vendors" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220730195733_1-1024x576.jpg" title="Housing Vendors" classes="center" >}}
 
 A popup art fair has set up shop just outside the base, and they are happy to sell you all you could ever need to cram into your hovel. I had a 100,000 dust, the SoH currency (not sure if that was left over from the first beta I played, or if the housing guide had set me up), so I bought the things I thought I'd need. There seemed to be an unhealthy obsession with pooping. Hey, I don't judge.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/20220730195912_1-1024x576.jpg" title="My Studio Efficiency Base" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220730195912_1-1024x576.jpg" title="My Studio Efficiency Base" classes="center" >}}
 
 There were a lot of options for customizing the walls, floors, ceilings and lights in the base. I set up the colors to more or less match my hero's color scheme. It was easy to do. Most items can be rotated and resized, within limits, to fit in the best with their surroundings. The default sizes were usually fine, but maybe a smaller or larger hero would appreciate furniture more scaled to their needs.
 
@@ -86,7 +64,7 @@ EQ2 allows resizing and rotating items. I don't believe if FFXIV allows for resi
 
 FFXIV in particular allows your imagination to run wild in what kind of base you can make. I've only spent a few minutes in Ship of Hero's base building, but I have the feeling SoH bases will be more utilitarian. I do expect most enemy lair decoration will find its way into player bases, though, allowing players to recreate other places in the game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/20220730195938_1-2-1024x576.jpg" title="From the other end of my endless apartment!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220730195938_1-2-1024x576.jpg" title="From the other end of my endless apartment!" classes="center" >}}
 
 **Conclusion**
 

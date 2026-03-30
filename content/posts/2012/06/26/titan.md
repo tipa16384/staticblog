@@ -3,39 +3,16 @@ date: '2012-06-26T21:31:17-05:00'
 draft: false
 title: "Titan"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/06/26/titan/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This has little to do with Blizzard's upcoming MMO, code name Titan, largely because I know nothing about it. I'd like to be enthusiastic about..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/06/1-PIA07786-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/06/1-PIA07786-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/06/1-PIA07786-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/06/1-PIA07786-480x269.jpg"
 ---
+This has little to do with Blizzard's upcoming MMO, code name Titan, largely because I know nothing about it. I'd like to be enthusiastic about...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/06/1-PIA07786-480x269.jpg" title="Epimetheus, Titan and Saturn's A and F rings" class="align-center" >}}
+
 
 This has little to do with Blizzard's upcoming MMO, code name Titan, largely because I know nothing about it. I'd like to be enthusiastic about it, but like the late, lamented Project Copernicus, no information means no enthusiasm. Teasing can work if it's followed fairly soon by something real. In Project Copernicus' case, I think they wanted to show more. In Blizzard's case, they don't want to take anything away from World of Warcraft -- and that's understandable. Even in its decline, it's the most popular MMO in the world.
 

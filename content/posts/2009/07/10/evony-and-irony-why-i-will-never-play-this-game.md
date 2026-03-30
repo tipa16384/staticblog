@@ -3,38 +3,13 @@ date: '2009-07-10T07:34:56-05:00'
 draft: false
 title: "Evony and Irony: Why I will never play this game."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/10/evony-and-irony-why-i-will-never-play-this-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "No blogroll for today, I'm the on-call developer this week AND I've been moved to a project at work with a daily morning meeting starting..."
+categories:
   - "Daily Blogroll"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+No blogroll for today, I'm the on-call developer this week AND I've been moved to a project at work with a daily morning meeting starting...
+<!--more-->
 
 No blogroll for today, I'm the on-call developer this week AND I've been moved to a project at work with a daily morning meeting starting this week, so it's a time of adjustment.
 

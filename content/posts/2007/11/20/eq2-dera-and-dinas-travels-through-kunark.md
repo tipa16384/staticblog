@@ -3,46 +3,23 @@ date: '2007-11-20T10:16:10-05:00'
 draft: false
 title: "EQ2: Dera and Dina's Travels Through Kunark"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/20/eq2-dera-and-dinas-travels-through-kunark/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "DERA: I am Dera Tanglewood, a 72nd level Inquisitor in service to the Overlord, Lucan D'Lere. My armor was made in the bowels of Fallen..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-18-20-30-45-54.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-18-20-30-45-54.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-18-20-30-45-54.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-18-20-30-45-54.jpg"
 ---
+DERA: I am Dera Tanglewood, a 72nd level Inquisitor in service to the Overlord, Lucan D'Lere. My armor was made in the bowels of Fallen...
+<!--more-->
 
-![everquest2-2007-11-18-20-30-45-54.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-18-20-30-45-54.jpg)
+
 
 DERA: I am Dera Tanglewood, a 72nd level Inquisitor in service to the Overlord, Lucan D'Lere. My armor was made in the bowels of Fallen Gate my Dwarf metalsmiths whose hands were crushed after to prevent them making another like it. My shoulder and arm armor were stained with the blood of High Elves. I raid occasionally, but usually am content to keep my groups... somewhat alive... in high-end KoS and EoF dungeons, and my gear reflects that.
 
 DINA: Hiiiii! I'm Dina Tanglewood, and Dera won't tell you this, but we're cousins. My mom, Etha, is sisters with her mom, Dora, and Grampa Budo and Grammy Nina used to play in Rivervale together when they were little. I am a 74th level troubador, and when Rivervale was lost, my grandparents took refuge in the Sprawl, where as a young girl, I taught crippled dwarfs how to whistle. I wear my mom's bathrobe. It's so warm and cozy! I do raid, and most of my gear is fabled gear from KoS and EoF raids. And I like doggies!
 
-![everquest2-2007-11-18-20-30-01-79.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-18-20-30-01-79.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-18-20-30-01-79.jpg" classes="center" >}}
 
 DERA: And I HATE dogs. WHY did you insist we come to Splitpaw to introduce this piece?
 
@@ -54,7 +31,7 @@ DINA: Anyway, back to Kunark. While in Beta, we saw that Kunark was going to be 
 
 DERA: And I DESPISED it. Too many flowers. I moved to Dorah's account. She's a necromancer. Dreary, the wet smell of rotted flesh and the sweet simplicity of the tomb... Yes. Now this was home. Three days after Dina began to explore Kunark, I arrived on its shores.
 
-![everquest2-2007-11-06-05-47-05-26.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-06-05-47-05-26.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-06-05-47-05-26.jpg" classes="center" >}}
 
 DINA: I'd been adventuring in the Fens with a group for a couple of days, and while I had fun, was hoping for a little more experience. I tried soloing, but it could take a minute or more to kill something, especially if it was higher level than I. Grouping with Dera meant that I would always have someone with me who was doing all the quests I was.
 
@@ -64,11 +41,11 @@ DINA: Then we returned to the Fens. I'd already done a lot of quests here in a g
 
 DERA: My first reaction, of course, was to kill them all. This turns out to be a bad plan. Kill the Sarnak, and while the Iksar may like you more, you become unable to accept quests from the Sarnak. Kill the Iksar, and travel becomes deadly and slow; as well, the largest portion of quests in the zone come from the Iksar. Naturally, both the Sarnak and the Iksar give quests to kill the other faction.
 
-![everquest2-2007-11-18-12-01-06-77.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-18-12-01-06-77.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-18-12-01-06-77.jpg" classes="center" >}}
 
 DINA: Don't you just hate it when you're invited to a party, and you find out someone brought the same gift? Quests in Kunark vary from the common kill-this bring-this-there quests, to fun ones like this Rhino Wrangling quest. I wish there were more quests like these and fewer of the former; Kunark quests are very much in the mold of those from World of Warcraft and Lord of the Rings Online; get quest, run a long distance to find whatever it is you're supposed to get, run back, find out you need to return to that place to get even more things, run there, run back, find out you have to return again...
 
-![everquest2-2007-11-19-00-45-42-04.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-19-00-45-42-04.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-19-00-45-42-04.jpg" classes="center" >}}
 
 DERA: We slaughtered everything in the Mines of Nurga several times over.
 
@@ -80,4 +57,4 @@ DINA: We still have about 35 quests to complete in this zone before we can move 
 
 DERA: That would be nice. To once again skirt death at every turn. That is the true purpose of an adventurer; not killing cats and bringing their pelts back to a hunter too lazy to do the job for himself.
 
-[![everquest2-2007-11-19-23-00-27-64.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-19-23-00-27-64.jpg)](https://chasingdings.com/index.php/2007/11/20/eq2-dera-and-dinas-travels-through-kunark/1088/)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-19-23-00-27-64.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/index.php/2007/11/20/eq2-dera-and-dinas-travels-through-kunark/1088/)

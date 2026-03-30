@@ -3,42 +3,19 @@ date: '2009-04-19T13:37:38-05:00'
 draft: false
 title: "What I'm Playing: Easily Distracted edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/19/what-im-playing-easily-distracted-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "These are the games I've played at least a little in the past week. I'm going to end up with Chronicles of Spellborn, because I..."
+categories:
   - "Chronicles of Spellborn"
   - "EverQuest"
   - "Free Realms"
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg"
 ---
+These are the games I've played at least a little in the past week. I'm going to end up with Chronicles of Spellborn, because I...
+<!--more-->
 
 These are the games I've played at least a little in the past week. I'm going to end up with Chronicles of Spellborn, because I haven't talked about it in awhile.
 
@@ -46,15 +23,13 @@ First up: I've been spending quite a lot of time in Free Realms and as much time
 
 **Super Casual games**
 
-![fullscreen-capture-4192009-121615-pm](https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4192009-121615-pm.jpg "fullscreen-capture-4192009-121615-pm")
-
-I wrote a little about [Legends of Zork](https://chasingdings.com/index.php/2009/04/17/achiever-games-legends-of-zork-and-progress-quest/), how it wasn't much like the Zork of old and how strongly aligned it was with Achiever gameplay, but that doesn't mean this game isn't a pleasant diversion. You spend ten minutes clicking links each day, and your character becomes marginally more powerful. It's not World of Warcraft, but it's not trying to be anything but what it is: A game you can play when you have a couple of minutes.
+I wrote a little about [Legends of Zork](https://tipa16384.github.io/wkblog/index.php/2009/04/17/achiever-games-legends-of-zork-and-progress-quest/), how it wasn't much like the Zork of old and how strongly aligned it was with Achiever gameplay, but that doesn't mean this game isn't a pleasant diversion. You spend ten minutes clicking links each day, and your character becomes marginally more powerful. It's not World of Warcraft, but it's not trying to be anything but what it is: A game you can play when you have a couple of minutes.
 
 Cards above is my current Double Fanucci Gambit hand. I don't know if it does anything. The rules are ... somewhat vague. It MIGHT boost some attack or defense by 2% sometimes. I don't know!
 
 Tomorrow, [Kasul](http://shatteredblog.wordpress.com) and I are going to try a group adventure... it's something you have to plan in advance.
 
-![fullscreen-capture-4192009-125442-pm](https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4192009-125442-pm.jpg "fullscreen-capture-4192009-125442-pm")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4192009-125442-pm.jpg" title="fullscreen-capture-4192009-125442-pm" classes="center" >}}
 
 I play My Brute each morning. I have four "brutes" making their way through the lower levels -- A Dire Bear, Wet Sprocket, Scottie Dog and Race Car (pictured). I think all of them are level 5 now. This game is even more non-interactive than Legends of Zork, but it's fun to watch the little pixel characters fight it out, and I like to cheer them on with cheers like "USE YOUR SWORD" and "WHY DID YOU JUST THROW YOUR WEAPON AWAY?" and "WHERE THE HECK DID YOU LEARN TO FIGHT?"
 
@@ -62,13 +37,13 @@ I used to carefully choose their opponents, now I just always choose the first o
 
 **MMORPGs**
 
-![lotroclient-2009-04-15-21-30-31-01](https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-15-21-30-31-01.jpg "lotroclient-2009-04-15-21-30-31-01")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-15-21-30-31-01.jpg" title="lotroclient-2009-04-15-21-30-31-01" classes="center" >}}
 
 I haven't touched my Windfola characters since I restarted with my hunter on Landovar in Lord of the Rings Online. After soloing the epic prologue and every step until the final one, I joined a group for an anticlimactic journey through the truncated version of the Great Barrows that is the final instance. Afterward, Strider takes off and Gandalf sends me to my death -- he advises me to go deep into the Lone Lands and take service with Radagast the Brown, whom we know from the books is allied with Saruman and has turned the birds into spies for the White Hand. It just doesn't seem like a Smart Idea.
 
 I'd have played more, but Free Realms, of which I can't write, has taken a lot of my free time.
 
-![wizardgraphicalclient-2009-04-17-19-56-36-34](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-17-19-56-36-34.jpg "wizardgraphicalclient-2009-04-17-19-56-36-34")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-17-19-56-36-34.jpg" title="wizardgraphicalclient-2009-04-17-19-56-36-34" classes="center" >}}
 
 Having finished (except the farming!) Wizard 101 with my Life wizard, I restarted as a Myth wizard. Myth is what I played in beta, I kinda missed it, I now know what to do with my training points, and the shared bank means I can pass high value loot to alts so they can sell it for their own needs. My main is at max money pending housing, she can't sell anything any more.
 
@@ -76,15 +51,15 @@ Marissa is level 6 at the moment, but I'm in no hurry. As long as she looks cool
 
 REALLY looking forward to the housing, and waiting with anticipation for it to go live on the Test server so I can get a peek before it goes live.
 
-![everquest2-2009-04-19-11-30-50-17](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-19-11-30-50-17.jpg "everquest2-2009-04-19-11-30-50-17")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-19-11-30-50-17.jpg" title="everquest2-2009-04-19-11-30-50-17" classes="center" >}}
 
-I, um, haven't adventured in EQ2 for weeks. One of the cool things about EQ2 is that you DON'T HAVE TO. There's plenty to do if you don't want to go out looking for a group or solo or whatever. Aside from going to the [tenth anniversary celebration](https://chasingdings.com/index.php/2009/04/17/happy-10th-birthday-everquest/), I've mostly been doing some [one panel comics](https://chasingdings.com/index.php/category/general/humor/one-panel-comix/) with Petrified Eye illusions and the Station Marketplace animated dolls.
+I, um, haven't adventured in EQ2 for weeks. One of the cool things about EQ2 is that you DON'T HAVE TO. There's plenty to do if you don't want to go out looking for a group or solo or whatever. Aside from going to the [tenth anniversary celebration](https://tipa16384.github.io/wkblog/index.php/2009/04/17/happy-10th-birthday-everquest/), I've mostly been doing some [one panel comics](https://tipa16384.github.io/wkblog/index.php/category/general/humor/one-panel-comix/) with Petrified Eye illusions and the Station Marketplace animated dolls.
 
 Why not? It's FUN. Also, I finally remembered to grab my Prismatic Longsword from my house vault so now I look REALLY glowy! I have Raincaller equipped too, but it's not shown here.
 
 **The Chronicles of Spellborn**
 
-![sb_client-2009-04-18-19-35-45-38](https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-18-19-35-45-38.jpg "sb_client-2009-04-18-19-35-45-38")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-18-19-35-45-38.jpg" title="sb_client-2009-04-18-19-35-45-38" classes="center" >}}
 
 Kasul and I both did the first Trial of the Vault, the Vault of Lessons Learned, last night. I died trying this solo instance at level 11 with my rune mage on the EU servers a few months ago; as I level 14 ancestral mage, I didn't have any troubles. Kasul did it at level 9, sailed right through it, made me totally envious.
 
@@ -92,15 +67,15 @@ You don't fight this critter, by the way. He pops up in a cinematic when you fin
 
 The whole idea of the Vaults is to bring you back to earlier times in the shattered realm's history, but the first trial is just telling you about how different critters attack.
 
-![sb_client-2009-04-18-21-17-09-92](https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-18-21-17-09-92.jpg "sb_client-2009-04-18-21-17-09-92")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-18-21-17-09-92.jpg" title="sb_client-2009-04-18-21-17-09-92" classes="center" >}}
 
 In front of the Arena District in Quarterstone. This is a quick idea of the look and feel of the entire game. Massive, stylized -- I want to say Teutonic. An NPC in front of the Arena, when asked why they aren't having competitions and stuff, says some players have been cheating with their PeP... so kinda breaking the fourth wall there.
 
-![sb_client-2009-04-18-23-09-45-60](https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-18-23-09-45-60.jpg "sb_client-2009-04-18-23-09-45-60")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-18-23-09-45-60.jpg" title="sb_client-2009-04-18-23-09-45-60" classes="center" >}}
 
 Kasul and I had a lot of quests that took us down to the Graveyard in the Pit District, a PvP-enabled area CRAWLING with deadly, swarming hyenas and other players, all of which might want to kill you. I've been attacked there before, but with Kasul and I grouped, those few who passed weren't interested. It's not uncommon to face four or five level 15-ish hyena at once, and without a good skill deck, you just aren't going to survive. And then you're going to lose PeP. And losing PeP is BAD.
 
-![sb_client-2009-04-19-06-34-09-43](https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-19-06-34-09-43.jpg "sb_client-2009-04-19-06-34-09-43")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-19-06-34-09-43.jpg" title="sb_client-2009-04-19-06-34-09-43" classes="center" >}}
 
 Level 15 let me wear this shiny shield I found a long time ago, and have been saving until I was skilled enough to wear it. No stats, like all Spellborn armor, but it still looks cool. At 15, I also got a new pet, a Calaspider, VERY creepy, but it slows enemies and does good dps as well. I still feel more comfortable with my healing pet, but I find myself starting fights with the healing pet and then following up (after the healing pet is inevitably killed through heal aggro) with this slow/dps pet.
 

@@ -3,42 +3,20 @@ date: '2008-07-26T07:07:03-05:00'
 draft: false
 title: "EQ: The Half-Baked Half Dozen"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/26/eq-the-half-baked-half-dozen/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's weird, but whenever we have the perfect dragon killing strategy, the people who make it possible don't show up the next week. Last week..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Lord Nagafen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg"
 ---
+It's weird, but whenever we have the perfect dragon killing strategy, the people who make it possible don't show up the next week. Last week...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-25-22-29-20-28.jpg "eqgame-2008-07-25-22-29-20-28")
+
 
 It's weird, but whenever we have the perfect dragon killing strategy, the people who make it possible don't show up the next week. Last week we used a gnome (we've determined gnomes are extremely important as bait) and translocate to pull Naggy's room and port the puller safely elsewhere. With no izards last night, we were a little befuddled until Callendra suggested using the druid's one translocate to Blightfire as a substitute, and this kinda worked when Soaridor put this into practice.
 

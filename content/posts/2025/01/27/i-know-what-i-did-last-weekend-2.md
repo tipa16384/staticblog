@@ -3,42 +3,20 @@ date: '2025-01-27T08:31:11-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/27/i-know-what-i-did-last-weekend-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Some updates on games and game-related dinguses from this past weekend..."
-description: "Some updates on games and game-related dinguses from this past weekend..."
-tags:
+categories:
   - "Erenshor"
   - "Malifaux"
   - "Palworld"
   - "Pokemon"
+tags:
   - "Fantasian Neo Dimension"
   - "Paper Apps Dungeon"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/drbrawn.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/drbrawn.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/drbrawn.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/drbrawn.png"
 ---
+Some updates on games and game-related dinguses from this past weekend...
+<!--more-->
 
 I feel Palworld really gets the short shrift when people casually dismiss it as just "Pokemon with guns". It's so much more than that. It's *also* "Pokemon with Nazis". Those gun-toting Pokemon have something worth using those guns on. That makes it better, right?
 
@@ -50,7 +28,7 @@ I did find him. And he ran. But he couldn't outrun my barrage of Elite Palsphere
 
 Sicko.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/FANTASIAN-Neo-Dimension_20250127075215-1024x576.jpg" title="Zinikir is confronted with a woman from his past" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250127075215-1024x576.jpg" title="Zinikir is confronted with a woman from his past" classes="center" >}}
 
 Progress continues in FANTASIAN Neo Dimension. This is a *hard game*. My usual strategy in RPGs is to outlevel things until the fights become trivial, but the game just doesn't give much experience for grinding. Most experience comes from defeating bosses.
 
@@ -60,11 +38,11 @@ Zinikir is a complicated guy. In his past life, he was a god. But also, in a pas
 
 This world's history is severely messed up, and it was done on purpose.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-37-1024x726.png" title="Work in Progress" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-37-1024x726.png" title="Work in Progress" classes="center" >}}
 
 I'm still getting ready for CaptainCon this weekend. Snow Storm is one of my last minis to print. Snow is the woman riding him. Storm is the name of the monster. I've put a brown wash on him but I haven't had a chance to go back over it and highlight the fur -- it will look a lot better once that is done. I don't know if I'm going to do the hair around his face. I also still have to do his horns, teeth and tusks and undo the wash on the bare skin. The empty bases beside it are prepared for the Kaltgeists and Ice Dancers that I've yet to start. I don't think those will be ready for CaptainCon. Snow Storm is not currently on the main team, but my mind could change depending on how the model looks when it's done. It's a very important tournament with people from across the country, and I want to bring my best.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-38-196x300.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-38-196x300.png" classes="fig-20" >}}
 
 I kickstarted [Paper Apps Galaxy](https://www.kickstarter.com/projects/brintown/paper-apps-galaxy) and got copies for Kasul and my son. The spiral-bound flip sheets each contain a level that you work through, carrying your progress into the next page.
 
@@ -72,7 +50,7 @@ This was their third game, after Paper Apps Golf and Paper Apps Dungeon. I got t
 
 It's basically a rogue-like in paper form. You can definitely die and be forced to restart, and I've already died once. The object is the same as in Rogue; travel down through the fifty levels of a dungeon, and grab the treasure on the bottom floor, the Gemstone of Wenalafid, which, disappointingly, doesn't spell anything backward.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-39.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-39.png" classes="center" >}}
 
 I support Erenshor, the single player MMO, on Patreon, and was just this weekend invited into the Beta!
 

@@ -3,46 +3,23 @@ date: '2010-04-29T09:00:26-05:00'
 draft: false
 title: "A New Contest from Wizard101!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/29/a-new-contest-from-wizard101/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Professor Drake stood silently behind his podium. Beside him sat a mysterious crate that would, sometimes, shift a little one way or another. Sometimes it..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/mythtery.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/mythtery.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/mythtery.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/mythtery.jpg"
 ---
+Professor Drake stood silently behind his podium. Beside him sat a mysterious crate that would, sometimes, shift a little one way or another. Sometimes it...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/04/mythtery.jpg "He")
+
 
 Professor Drake stood silently behind his podium. Beside him sat a mysterious crate that would, sometimes, shift a little one way or another. Sometimes it grunted. The three o'clock "Mythterious Creatures" class sat nervously at their desks -- Abigail, Bailey, Cedric and Daniel. They looked terrified. In Drake's classes, everyone looked terrified.
 
 "I have graded your 'assignments' from last night," said the professor, punctuating his words with strikes of his wand to his podium. "Pathetic. It was a simple enough question, and if any of you had been studying, you could easily have answered how the height of trolls varies with the amount of phlogiston used in their second stage of production. I have recommended to Headmaster Ambrose that, as teaching this class is clearly a waste of my time and yours, you all be returned to your homes on the Spiral."
 
-![](https://chasingdings.com/wp-content/uploads/2010/04/pet.gif "A Gobbler!")"Ambrose, however, has denied my request. Again. Instead, he has asked me to motivate you with a new, special pet. Based on your assignments, I of course refused. He insisted. So therefore, one of you will get the pet. The others will get nothing." Drake smiled. "I will ask you a simple question, and the first one who shouts out the answer will get the Gobbler in this box."
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/pet.gif" title="A Gobbler!" classes="center" >}}"Ambrose, however, has denied my request. Again. Instead, he has asked me to motivate you with a new, special pet. Based on your assignments, I of course refused. He insisted. So therefore, one of you will get the pet. The others will get nothing." Drake smiled. "I will ask you a simple question, and the first one who shouts out the answer will get the Gobbler in this box."
 
 "Class, come stand in front of me," ordered Drake. The four students did so. "Each of you take a hat," said Drake, passing out tall, peaked, midnight black hats to the students. "Now, put them on." The students did so.
 

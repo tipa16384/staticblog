@@ -3,41 +3,18 @@ date: '2013-02-28T08:20:32-05:00'
 draft: false
 title: "EQ2: Leveling done, time to level. Also, some DCUO."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/28/eq2-leveling-done-time-to-level-also-some-dcuo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was thinking that EverQuest II's double xp days last weekend would be enough to push Arda up to level 95, the current level cap...."
+categories:
   - "DC Universe Online"
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg"
 ---
+I was thinking that EverQuest II's double xp days last weekend would be enough to push Arda up to level 95, the current level cap....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-28-07-22-56-17-480x343.jpg" title="Haffer and Haffikin" class="align-center" >}}
+
 
 I was thinking that EverQuest II's double xp days last weekend would be enough to push Arda up to level 95, the current level cap. I had xp potions running. I was working through the last of the Chains of Eternity signature quest. You'd think that finishing up the content for the latest expansion would leave you at the level cap.
 
@@ -47,7 +24,7 @@ This means Kunark is the only place to grind experience, and it means that every
 
 Power leveling is going to happen; it's just a permanent fixture of the MMO landscape since before EverQuest I, probably. At least people in Dungeon Maker dungeons weren't bugging anyone else.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-27-21-42-58-56-480x214.jpg" title="Finally!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-27-21-42-58-56-480x214.jpg" title="Finally!" classes="center" >}}
 
 Sebilis is the place for power leveling; everyone goes there now. Whereas a kill in a CoE dungeon with all bonuses might net you 150 xp, a much faster kill in Sebilis will net you 1200 xp -- and that's with a mercenary up.
 
@@ -57,7 +34,7 @@ I was forced to leave Sebilis and head to the second best leveling dungeon, Chel
 
 I headed back to Sebilis. The place was still cleared out, but I had got there just in time to take on someone's repops before they came through again. And that was enough to level me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-27-20-21-37-020-480x342.jpg" title="Wagon trouble" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-27-20-21-37-020-480x342.jpg" title="Wagon trouble" classes="center" >}}
 
 I did the CoE loot dungeon du jour, Dreadcutter, netting a bracelet upgrade and a research time quickener. Then, with xp potion ticking away, I started crafting. Got up to level 88 armorer.
 
@@ -71,7 +48,7 @@ It CAN just sit there... or it can be attacked and explode, or run around in cir
 
 So she took her new wagon to Scatter's home. It's the large Qeynos home and it allows access to an emptied version of a lot of South Qeynos (you can't enter any buildings, and the world is missing pieces toward the edges, but it's South Qeynos and you can put stuff in it). It looks great on the walkway outside Scatter's home, outside the forest she's made of her lawn.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/CHARSELECT_CREATE-PC-27-18.47.260-480x343.jpg" title="Green Lantern hoodie!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/CHARSELECT_CREATE-PC-27-18.47.260-480x343.jpg" title="Green Lantern hoodie!" classes="center" >}}
 
 And in DCUO news, I finally got the Green Lantern hoodie from the Vault, so now Teal Lantern can look a little more authentic. Though I did have to change her colors from actual teal to green in order to match the hoodie.
 

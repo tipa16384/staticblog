@@ -3,39 +3,16 @@ date: '2006-09-01T19:02:09-05:00'
 draft: false
 title: "Who Wants to be a Superhero?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/09/01/who-wants-to-be-a-superhero/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What can I really say about WWtbaSH? It's a pleasure, a really guilty one, but I'm wallowing in it. I'm not a big reality show..."
+categories:
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/09/superheroes.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/09/superheroes.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/superheroes.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/superheroes.jpg"
 ---
+What can I really say about WWtbaSH? It's a pleasure, a really guilty one, but I'm wallowing in it. I'm not a big reality show...
+<!--more-->
 
-![The Superheroes](https://chasingdings.com/wp-content/uploads/2006/09/superheroes.jpg)
+
 
 What can I really say about WWtbaSH? It's a pleasure, a really guilty one, but I'm wallowing in it. I'm not a big reality show fan; this is the first one I have ever watched start to finish. And it was obvious from the start that the show was at least partly scripted.  The transformation of the Iron Enforcer into the supervillain Dark Enforcer. Come ON. Like THAT wasn't there from the start. The other superheroes dissed him all the time, even Stan Lee ripped on him every single time they came to the roof of the lair for the elimination.
 
@@ -47,7 +24,7 @@ Major Victory was forever hamming it up for the camera and talking straight to t
 
 The only one of the eleven (originally twelve, but one was a plant revealed in the first episode) who seemed to take it at all seriously was Feedback. Intense, deliberate, never a false step. He had the best costume, both his home-made one and the one the show made him were way above the others. Athletic, intense, intelligent and compassionate. His major personal fault? A messy desk. Was there ever a chance he wouldn't win? No... it was like he was meant to win from the beginning.
 
-![Feedback](https://chasingdings.com/wp-content/uploads/2006/09/feedback.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/09/feedback.jpg" classes="center" >}}
 
 I didn't believe any of the show was "real" until I saw the WWtbaSH panel at the San Diego Comic-Con. Major Victory, Cell Phone Girl, Fat Momma, TyVeculus, and Stan Lee were there. And by gosh, they said it was real. IGN interviewed all the superheroes and my God, it really was real. The arcs and spin were added by the producers.
 

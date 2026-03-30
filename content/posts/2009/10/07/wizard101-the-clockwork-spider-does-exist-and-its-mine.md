@@ -3,40 +3,17 @@ date: '2009-10-07T21:46:46-05:00'
 draft: false
 title: "Wizard101: The Clockwork Spider DOES exist! And it's MINE!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/07/wizard101-the-clockwork-spider-does-exist-and-its-mine/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Fourth time through the Master/Hard tower, the big baddy drops the Spider Golem, which would be the yellow character there...."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-07-22-36-48-84.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-07-22-36-48-84.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-07-22-36-48-84.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-07-22-36-48-84.jpg"
 ---
+Fourth time through the Master/Hard tower, the big baddy drops the Spider Golem, which would be the yellow character there....
+<!--more-->
 
-![Spiderpig, spiderpig, doing the things spiderpig can](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-07-22-36-48-84.jpg "Spiderpig, spiderpig, doing the things spiderpig can")
+
 
 Fourth time through the Master/Hard tower, the big baddy drops the Spider Golem, which would be the yellow character there.
 

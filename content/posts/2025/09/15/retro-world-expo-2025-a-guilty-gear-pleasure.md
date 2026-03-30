@@ -3,40 +3,18 @@ date: '2025-09-15T08:50:10-05:00'
 draft: false
 title: "Retro World Expo 2025: A Guilty (Gear) Pleasure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/09/15/retro-world-expo-2025-a-guilty-gear-pleasure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I brought my Atari messenger bag with one game in it, and turned that into a bag full of games."
-description: "I brought my Atari messenger bag with one game in it, and turned that into a bag full of games."
-tags:
+categories:
   - "Nintendo 64"
   - "PS2"
   - "Vectrex"
+tags:
   - "Retro World Expo"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/ebc958ca-095d-4a90-8173-3680e2352fb2.png"
 ---
+I brought my Atari messenger bag with one game in it, and turned that into a bag full of games.
+<!--more-->
 
 I don't know *when* I am getting my Analogue 3D Nintendo 64 player. I hope it's soon. Because of a curse, I cannot stop buying N64 games until I can finally play them, on that. I could play them on my actual N64, but it's really not the best on modern monitors.
 
@@ -44,7 +22,7 @@ It's apparently starting to ship. I haven't got any news about *mine*, and then 
 
 Horrors.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/IMG_5368-EDIT-1024x771.jpg" title="The Haul" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/IMG_5368-EDIT-1024x771.jpg" title="The Haul" classes="center" >}}
 
 Some of these are Kasul's -- all the Japanese ones, all the PS Vita ones. I once knew a little Japanese, but nowadays I'm happy if I can just slowly sound out kana. And ignore the prices on the games; we haggled down most of them. The vendors were there to deal. So we Phil Wang'd them.
 
@@ -52,7 +30,7 @@ Some of these are Kasul's -- all the Japanese ones, all the PS Vita ones. I once
 
 Okay, let's have a look at these games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-20-1024x698.png" title="Vectrex lives in the cellar... for now" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-20-1024x698.png" title="Vectrex lives in the cellar... for now" classes="center" >}}
 
 **Star Castle**
 
@@ -66,7 +44,7 @@ This is one of the rarer Vectrex games. I was really happy to find it in pretty 
 
 When I got home, I immediately ordered clear plastic sleeves for my Vectrex boxes. Water's not going to damage my games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-21.png" title="From IGN64.COM, the magazine" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-21.png" title="From IGN64.COM, the magazine" classes="center" >}}
 
 **Hybrid Heaven**
 
@@ -74,7 +52,7 @@ My goal is to play all the best RPGs made for the Nintendo 64. I've already play
 
 I hadn't heard of Hybrid Heaven before. An RPG meant to appeal to fans of Metal Gear Solid, it's a turn-based affair with your party sent to infiltrate a secret military base where a kidnapped president is stored. Secrets upon secrets and plans within plans make things a little complicated.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-22-300x177.png" title="Poke Poke action" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-22-300x177.png" title="Poke Poke action" classes="center" >}}
 
 **Pokémon Puzzle League**
 
@@ -84,7 +62,7 @@ If I did, I'd have three copies of essentially the same game. In all three games
 
 Of these, it's Puyo Puyo Sun I'll be playing the most. It's just happy and goofy. But I'll check in on the Pokémon, for sure. How else can I be the best that ever was?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-23-1024x512.png" title="Diddy Kong Racing" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-23-1024x512.png" title="Diddy Kong Racing" classes="center" >}}
 
 **Diddy Kong Racing**
 
@@ -96,7 +74,7 @@ Problem is, the N64 had Mario Kart 64. And it was *really good*. There was no ne
 
 I love underdogs. So I bought it. We'll compare all of them when I get the Analogue.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-24.png" title="Paper Mario" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-24.png" title="Paper Mario" classes="center" >}}
 
 **Paper Mario**
 
@@ -108,7 +86,7 @@ Gameplay-wise, the princess has been captured, and Mario must rescue her. Helpin
 
 I got this mint, but unboxed, copy along with Megaman 64 by trading an extra copy of Ogre Battle 64 I had.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-26.png" title="Mega Man 64" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-26.png" title="Mega Man 64" classes="center" >}}
 
 **Mega Man 64**
 
@@ -120,7 +98,7 @@ Maybe... everything? We'll see!
 
 Onto the PS/2 games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-27.png" title="Real time Rock'em, Sock'em action!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-27.png" title="Real time Rock'em, Sock'em action!" classes="center" >}}
 
 **The Legend of Alon D'ar**
 
@@ -128,7 +106,7 @@ Reviewers generally disliked this PS/2 RPG. But I have a metric: does it look be
 
 Better, it looks better.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-28.png" title="Just a girl and her dragon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-28.png" title="Just a girl and her dragon" classes="center" >}}
 
 **Drakan: The Ancients' Gates**
 

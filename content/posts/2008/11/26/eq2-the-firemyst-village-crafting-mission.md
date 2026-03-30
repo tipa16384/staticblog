@@ -3,46 +3,22 @@ date: '2008-11-26T09:15:49-05:00'
 draft: false
 title: "EQ2: The Firemyst Village crafting mission"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/26/eq2-the-firemyst-village-crafting-mission/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "While I love MMOs, the idea of playing a game where wanton killing is the only path of advancement just seems morally wrong. If anyone..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Crafting"
   - "Firemyst Gully"
   - "Isle of Mara"
   - "Village of Shin"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg"
 ---
+While I love MMOs, the idea of playing a game where wanton killing is the only path of advancement just seems morally wrong. If anyone...
+<!--more-->
 
 While I love MMOs, the idea of playing a game where wanton killing is the only path of advancement just seems morally wrong. If anyone acted like that in the real world, they'd be shut away. Yet in MMOs, it's meant to be heroic to kill as much as you can, until killing itself becomes so humdrum and ordinary that nobody ever talks about it. Even killing a god is just a means to an end. At least EverQuest had the decency to be shocked when players finished killing the pantheon of Norrathian gods, when Druzzil Ro reset time itself so that it never happened. The gods remembered, though, and left Norrath rather than serve as the Raid Target of the Day for a new generation of adventurers.
-
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-25-20-42-22-31.jpg "everquest2-2008-11-25-20-42-22-31")
 
 *The dwarfs went through all this trouble of building crafting workstations and laying in supplies before they remembered they didn't know how to craft.*
 
@@ -50,7 +26,7 @@ In my perfect MMO, every kill mission or raid would have a peaceful way to finis
 
 I was kind of hoping for something a little more dynamic from the crafting missions. Like, you have half an hour to equip a village to fend off a dragon attack. Will you focus on armor, weapons, or resist gear? Or will you make some special spells or abilities? Or a combination? The things you made would determine how the encounter went, and you could definitely lose if you made the wrong things or not enough of the RIGHT things.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-25-21-56-54-58.jpg "everquest2-2008-11-25-21-56-54-58")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-25-21-56-54-58.jpg" title="everquest2-2008-11-25-21-56-54-58" classes="center" >}}
 
 *I turn my back for ONE SECOND and Goudia swoops RIGHT IN and steals my crafting station!*
 
@@ -58,7 +34,7 @@ There's no urgency in current crafting missions. You can solo them. It will take
 
 Not to say that running the missions isn't worthwhile -- you can get crafting books as rewards that let you make and upgrade TSO gear for FAR fewer void shards than would normally be required. Plus the special crafter gear sold in the Village of Shin requires the tokens earned from running crafter missions. New, five-use recipes are sold there as well. I'm not entirely sure how recipes with uses work -- I guess that means I can make five things from those recipes before I have to buy them again. It'll be awhile before I reach level 79 so I can scribe them, though.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-25-22-04-56-96.jpg "everquest2-2008-11-25-22-04-56-96")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-25-22-04-56-96.jpg" title="everquest2-2008-11-25-22-04-56-96" classes="center" >}}
 
 *Too bad the dwarfs didn't ask us to make them some decent looking armor. What are these, the Terracotta Dwarfs of Firemyst Valley, or something?*
 
@@ -66,7 +42,7 @@ The night before last, we were all still locked out of all crafting missions, ev
 
 With me doing the outfitter items and Stargrace taking on the scholar items that Kasul would normally craft, there was a big giant gaping hole of the craftsman items in which neither of us had any but the minimal artisan skill. It must have taken me a good five minutes to make one item that just didn't want to be made, but I eventually muddled through, and if the Heavy Shields I made weren't quite dwarven quality (the foreman took a LONG TIME to approve my craftsmanship), they served to fend off the undead hordes that were attacking the encampment.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-25-23-22-00-17.jpg "everquest2-2008-11-25-23-22-00-17")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-25-23-22-00-17.jpg" title="everquest2-2008-11-25-23-22-00-17" classes="center" >}}
 
 *Don't look at my feet. Oh no, you looked >
 
@@ -74,11 +50,11 @@ Afterward, I had the faction and the tokens required to GO SHOPPING! The craftin
 
 I noticed that the new shoulder armor for the Tier 1 Sackcloth and Tranquil Sackcloth sets looked really fantastic, so I chose that for its looks. I'd love to have bare feet, but I'm not sure if you can buy the appearance-free armor from the Void Invasion merchants any more. I'll have to check up on that. I still have three banners to spend, and I'm pretty sure the "bare feet" shoes cost only one or two.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-26-07-02-27-35.jpg "everquest2-2008-11-26-07-02-27-35")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-26-07-02-27-35.jpg" title="everquest2-2008-11-26-07-02-27-35" classes="center" >}}
 
 *Sackcloth Armor*
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-26-07-01-09-99.jpg "everquest2-2008-11-26-07-01-09-99")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-26-07-01-09-99.jpg" title="everquest2-2008-11-26-07-01-09-99" classes="center" >}}
 
 *Tranquil Sackcloth Armor*
 

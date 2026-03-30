@@ -3,42 +3,20 @@ date: '2020-06-02T12:12:54-05:00'
 draft: false
 title: "Octomini Project Day 3: The $250 mini"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/02/octomini-project-day-3-the-250-mini/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I want to point out at the start that I did not buy a 3D printer to print miniatures...."
+categories:
   - "3D Printing"
   - "Gloomhaven"
   - "Nintendo Switch"
+tags:
   - "Creality Ender 3 Pro"
   - "Octomini Project"
   - "Octopath Traveler"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1622.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1622.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1622.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1622.jpg"
 ---
+I want to point out at the start that I did not buy a 3D printer to print miniatures....
+<!--more-->
 
 I want to point out at the start that I did not buy a 3D printer to print miniatures.
 
@@ -50,7 +28,7 @@ But, I couldn't buy a 3D printer and *not* print a mini, right?
 
 After a couple years of lurking in the [r/3dprinting](https://old.reddit.com/r/3Dprinting/) subreddit, I felt I finally had enough information to go shopping for a printer. I settled on the [Creality Ender 3 Pro](https://www.creality3dofficial.com/products/creality-ender-3-pro-3d-printer).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/1-creality.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/1-creality.jpg" classes="center" >}}
 
 This comes unassembled in a flat pack. The instructions are a set of pictures with only one line of English text, which was, "do not tighten too much", if I remember right.
 
@@ -58,7 +36,7 @@ Everyone on the subreddit says you're going to need to watch a video, and I foun
 
 Finally, last night, I downloaded and printed my first successful print, a 20mm calibration cube.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/calicube-1024x1024.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/calicube-1024x1024.jpg" classes="center" >}}
 
 I didn't do anything particularly special, except to slow the machine down in order to help the print keep its grip on the bed.
 

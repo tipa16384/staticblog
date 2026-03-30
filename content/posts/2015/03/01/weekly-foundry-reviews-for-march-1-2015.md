@@ -3,37 +3,12 @@ date: '2015-03-01T22:05:08-05:00'
 draft: false
 title: "Weekly Foundry Reviews for March 1, 2015"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/03/01/weekly-foundry-reviews-for-march-1-2015/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Weekly Foundry Reviews for March 1, 2015**..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Weekly Foundry Reviews for March 1, 2015**...
+<!--more-->
 
 **Weekly Foundry Reviews for March 1, 2015****
 

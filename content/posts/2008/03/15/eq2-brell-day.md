@@ -3,44 +3,21 @@ date: '2008-03-15T22:13:04-05:00'
 draft: false
 title: "EQ2: Brell day!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/15/eq2-brell-day/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Nothing screams \"fun!\" like a crowd of drunken dwarves heaving up their (presumably liquid) dinners in front of a Mysteriously Glowing Portal (a MGP, as..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-15-14-11-21-80.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-15-14-11-21-80.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-15-14-11-21-80.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-15-14-11-21-80.jpg"
 ---
+Nothing screams "fun!" like a crowd of drunken dwarves heaving up their (presumably liquid) dinners in front of a Mysteriously Glowing Portal (a MGP, as...
+<!--more-->
 
-![everquest2-2008-03-15-14-11-21-80.jpg](https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-15-14-11-21-80.jpg)
+
 
 Nothing screams "fun!" like a crowd of drunken dwarves heaving up their (presumably liquid) dinners in front of a Mysteriously Glowing Portal (a MGP, as pro MMOGites say). Hey, I mean that. I come from the family that kept [Milwaukee's Best](http://www.milbestlight.com/default_age.aspx) in business. So naturally, I headed right in -- to Brell's Bar, the drinking establishment of the God of Below himself.
 
-![everquest2-2008-03-15-14-12-51-49.jpg](https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-15-14-12-51-49.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-15-14-12-51-49.jpg" classes="center" >}}
 
 The place was HOPPING! Bardo and the Burglars were in town for Brell's Day; I put on my best dress, got up there, and danced a couple of tunes with Bardo himself. I wonder what he looks like under that mask... heck, I wonder if he wonders what I look like under MY mask...! Well, he had a show to do and I had some brew to make.
 
@@ -52,11 +29,11 @@ Unfortunately, when it came time to put it all together, it done came out wrong,
 
 The bartender warned me that Brell used to use the stein to bop people on the noggin with, so it wouldn't be very fancy.
 
-![everquest2-2008-03-15-16-08-25-21.jpg](https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-15-16-08-25-21.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-15-16-08-25-21.jpg" classes="center" >}}
 
 Which stein? Which stein would be fit for a god? Could it be... the Grail shaped one? But I thought back to Indiana Jones and the Last Crusade and throught to myself, WWID? And picked the right one. "You have chosen wisely," intoned the spectral paladin who guarded the steins, and I was returned swiftly to the bar where I was rewarded with this lovely cloak. I'd been two boxing my Fury, Verd, and so he picked the keg. We'd both also done the quest offered by a gnome in the bar for another keg, and I set them next to my altar to Bristlebane as sort of a matching altar to Brell.
 
-![everquest2-2008-03-15-19-36-02-10.jpg](https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-15-19-36-02-10.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-15-19-36-02-10.jpg" classes="center" >}}
 
 Then I took a swig from each keg and couldn't see straight for an hour.
 

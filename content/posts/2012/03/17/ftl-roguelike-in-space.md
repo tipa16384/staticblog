@@ -3,39 +3,16 @@ date: '2012-03-17T17:12:49-05:00'
 draft: false
 title: "FTL: Roguelike in Space?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/03/17/ftl-roguelike-in-space/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm a big fan of ABC's Shark Tank. I make no apologies, I like \"some\" reality TV. I don't talk about it much on the..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/03/OnLive-2012-03-17-12-57-21-64-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/03/OnLive-2012-03-17-12-57-21-64-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/03/OnLive-2012-03-17-12-57-21-64-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/03/OnLive-2012-03-17-12-57-21-64-480x384.jpg"
 ---
+I'm a big fan of ABC's Shark Tank. I make no apologies, I like "some" reality TV. I don't talk about it much on the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/OnLive-2012-03-17-12-57-21-64-480x384.jpg" title="FTL" class="align-center" >}}
+
 
 I'm a big fan of ABC's [Shark Tank](http://abc.go.com/shows/shark-tank/). I make no apologies, I like "some" reality TV. I don't talk about it much on the blog anymore because I don't think people are all that interested, but I still watch. If it's a decent show and it's shown on Netflix or Hulu Plus, it's something to watch while gaming.
 
@@ -55,7 +32,7 @@ Doesn't mean it isn't a good game, though. You're given a ship with some crew an
 
 You'll meet allies and enemies as you warp through the sector to the exit system on each level. Take too long exploring and the rebel fleet will catch up to you and kill you. Take too little time exploring and you will miss friendly encounters which can result in new crew, weapons or other helpful items -- or in unexpected calamity.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/OnLive-2012-03-17-13-11-50-78-480x384.jpg" title="Goodbye." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/03/OnLive-2012-03-17-13-11-50-78-480x384.jpg" title="Goodbye." classes="center" >}}
 
 The demo ends after finishing two sectors. To make you understand just what sort of worm you are, you're destroyed by the ultimate power of destruction in the universe, and there's nothing you can do to stop it.
 

@@ -3,47 +3,26 @@ date: '2022-08-02T07:00:00-05:00'
 draft: false
 title: "2Dark 2C: A Unique Spin on Traditional RTS Gameplay"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/02/2dark-2c-a-unique-spin-on-traditional-rts-gameplay/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
+categories:
   - "Blaugust"
   - "Blaugust 2022"
+tags:
   - "2dark 2c"
+  - "Blaugust"
   - "RTS"
   - "Vampires"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/craiyon_220904_a_vampire_spaceship_flying_towards_a_planet_that_is_being_consumed_by_a_giant_Medusa_.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/craiyon_220904_a_vampire_spaceship_flying_towards_a_planet_that_is_being_consumed_by_a_giant_Medusa_.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_220904_a_vampire_spaceship_flying_towards_a_planet_that_is_being_consumed_by_a_giant_Medusa_.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_220904_a_vampire_spaceship_flying_towards_a_planet_that_is_being_consumed_by_a_giant_Medusa_.png"
 ---
+I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...
+<!--more-->
 
 I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here's its idea for August 2nd: "2Dark 2C".
 
 In this complex real-time strategy computer game you play a spacefaring vampire attacking colonies on planets ranging from swamps to desert worlds with Medusas as mid-bosses and aliens comprised entirely of flower petals as final bosses... added bonus: instead of gathering resources conventionally, suck all available blood reserve dry (although keep essential personnel fed mightily so your ship doesn't grind to a halt) for much quicker growth plus veterancy effects / unit upgrades!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/craiyon_222017_Medusans_are_large__slender_aliens_with_rainbow_scales_and_multiple_heads__carrying_g.png" title="A Medusa" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_222017_Medusans_are_large__slender_aliens_with_rainbow_scales_and_multiple_heads__carrying_g.png" title="A Medusa" classes="center" >}}
 
 The game is fascinating because it's so different from most others in the genre. Other than having to manage your blood supply, you also have to contend with different alien species that may be helpful or hostile. The Medusas, one of the first enemies you will meet, are a hostile alien species that you must defeat in order to win the game. They are large, snake-like creatures with multiple heads. They can turn your units into stone if you're not careful, so you'll need to be strategic in your approach. Defeating the Medusas will require careful planning and a lot of strategic thinking. But if you can do it, you'll be one step closer to winning the game.
 

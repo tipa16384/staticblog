@@ -3,40 +3,17 @@ date: '2008-03-16T19:47:55-05:00'
 draft: false
 title: "VG: My first group -- Khegor's End"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/16/vg-my-first-group-khegors-end/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Armed with a map that was at least semi-useful, I set out in Telon to get some levels, some loot, and some amazing screenshots...."
+categories:
   - "MMORPG"
   - "Vanguard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-16-11-24-06-86.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-16-11-24-06-86.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/vgclient-2008-03-16-11-24-06-86.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/vgclient-2008-03-16-11-24-06-86.jpg"
 ---
+Armed with a map that was at least semi-useful, I set out in Telon to get some levels, some loot, and some amazing screenshots....
+<!--more-->
 
-![vgclient-2008-03-16-11-24-06-86.jpg](https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-16-11-24-06-86.jpg)
+
 
 Armed with a map that was at least semi-useful, I set out in Telon to get some levels, some loot, and some amazing screenshots.
 
@@ -44,7 +21,7 @@ Meh. I got two of the three.
 
 My quest log is stuffed to overflowing with quests for Veskal's Exchange... I *really* need to get back there and do some of them before all the quests go gray on me. Fate wanted me near Tursh, though. [Satia](http://mmoquests.com) guided me to a harvesting trainer, and so I was taught the mysteries of ... felling weakened ash trees and looting logs from its corpse.
 
-![vgharvest2jpg.jpg](https://chasingdings.com/wp-content/uploads/2008/03/vgharvest2jpg.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/vgharvest2jpg.jpg" classes="center" >}}
 
 I was engaging in a little mini game called "wru weak trees and metal nodes???" when I saw a call for more for Khegor's End. Now I'd been wanting to head there since I first heard about it last weekend; I sent the tell, got the group, and we met up by the dam where the cleric shared all the quests for which a lowly 13 bard was eligible.
 

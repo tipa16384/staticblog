@@ -3,38 +3,15 @@ date: '2015-04-19T15:35:34-05:00'
 draft: false
 title: "Ding 66, and I've left Fiery Pit."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/04/19/ding-66-and-ive-left-fiery-pit-for-awhile-to-return-to-reclamation-rock-leveling-up-is-going-fairly/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ding 66, and I've left Fiery Pit for awhile to return to Reclamation Rock. Leveling up is going fairly slowly. There's a lot of grinding..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://lh3.googleusercontent.com/-jWuWsWATz_o/VTPItV-34rI/AAAAAAABCEw/HWrm_ufa8-8/w506-h750/GameClient%2B2015-04-19%2B11-22-12-18.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-jWuWsWATz_o/VTPItV-34rI/AAAAAAABCEw/HWrm_ufa8-8/w506-h750/GameClient%2B2015-04-19%2B11-22-12-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-jWuWsWATz_o/VTPItV-34rI/AAAAAAABCEw/HWrm_ufa8-8/w506-h750/GameClient%2B2015-04-19%2B11-22-12-18.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-jWuWsWATz_o/VTPItV-34rI/AAAAAAABCEw/HWrm_ufa8-8/w506-h750/GameClient%2B2015-04-19%2B11-22-12-18.jpg"
 ---
+Ding 66, and I've left Fiery Pit for awhile to return to Reclamation Rock. Leveling up is going fairly slowly. There's a lot of grinding...
+<!--more-->
 
 Ding 66, and I've left Fiery Pit for awhile to return to Reclamation Rock. Leveling up is going fairly slowly. There's a lot of grinding going on. Almost all the old level 60 content has been bumped up to level 70. This means that we're all doing a lot of work just to get back to doing the content we've done before. I have reminders to go check out Sharandar and Dread Ring again.
 
@@ -48,6 +25,8 @@ If level 40 unlocked a new pet skin, well, I'd be down with that. But for now...
 
 Libre, here, might be my best option, after all.
 
-I'm not sure what's up with that little whirlygig that keeps flying around me. Does everyone get them during this Wonders of Gond event, or is this a new thing because I have a Doohickey equipped? I guess we'll see after tomorrow, once the event ends. I hope it does stick around.﻿[![](https://lh3.googleusercontent.com/-jWuWsWATz_o/VTPItV-34rI/AAAAAAABCEw/HWrm_ufa8-8/w506-h750/GameClient%2B2015-04-19%2B11-22-12-18.jpg)]()
+I'm not sure what's up with that little whirlygig that keeps flying around me. Does everyone get them during this Wonders of Gond event, or is this a new thing because I have a Doohickey equipped? I guess we'll see after tomorrow, once the event ends. I hope it does stick around.﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/+BrendaHolloway/posts/dzEUsnLPw1f)

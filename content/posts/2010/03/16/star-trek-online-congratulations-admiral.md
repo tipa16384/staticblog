@@ -3,40 +3,19 @@ date: '2010-03-16T07:05:05-05:00'
 draft: false
 title: "Star Trek Online: Congratulations, Admiral!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/16/star-trek-online-congratulations-admiral/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/crew.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/crew.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/crew.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/crew.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/03/crew.jpg "The crew of the USS Monterey")](https://chasingdings.com/wp-content/uploads/2010/03/crew.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/03/crew.jpg)
 
 *I had a different picture prepared for this post, but I noticed while making it that several of my crew members looked almost identical. So back to the tailor for some adjustments to hair styles and uniform....*
 
@@ -44,17 +23,17 @@ I made admiral a few days ago. I can't say I have seen all the game, since I hav
 
 Compare that to EverQuest, where it was very much to your advantage to find people with whom you liked to group, and stick with them, perhaps all join the same guild. So, looking back, I would have to mark that as a failure for Star Trek Online. It's a great game, but there is absolutely no -- zip, nada, null -- community. There is almost no difference between STO and some single player Star Trek game.
 
-![](https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-15-19-13-40-37.jpg "My photonic fleet")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-15-19-13-40-37.jpg" title="My photonic fleet" classes="center" >}}
 
 That said, the game has seriously fun space battles. Pretty much everything you'd ever have wanted in an arcade-style space shooter -- constant shifts in strategy, jockeying for position, saving up abilities for a devastating *coup de grâce* -- brilliant. Your bridge officers -- that you skill up and train to have the abilities you want them to have -- become individuals. And then there's the photonic fleet -- projected images of other ships that do real damage and can even the odds in a tough firefight. I'm not sure if that's a science officer ability, associated with my ship, or something everyone gets when they become admiral. It's a lot of fun. Almost all the ships in the picture above are holograms....
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-15-19-19-09-52-480x384.jpg" title="Click to Enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-15-19-19-09-52-480x384.jpg" title="Click to Enlarge" classes="center" >}}
 
 I do enjoy ground missions, but unlike space battles, ground battles tend to be generally rote. Enemies are in clumps. Order your away team to begin softening them up while you do your AE buffs and debuffs, set everyone in good flanking positions and then just let everything run until done. Almost automatic.
 
 In this particular mission, the boss kept disappearing and a wave of adds would rush in. Destroy them, she returns for awhile, etc. That said, I do enjoy ground missions. I get to see my crew in action! In space, they are nothing more than repositories for special abilities. They don't do anything themselves in space. On the ground, they are team mates.
 
-![](https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-15-21-35-29-73.jpg "Nalah, my Romulan")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-15-21-35-29-73.jpg" title="Nalah, my Romulan" classes="center" >}}
 
 Next stop for any admiral is the Klingon Empire. I rerolled as a Romulan refugee who had decided to throw her lot in with the Klingons, whereupon she was forced to wear this ridiculous outfit. Seriously? Really?
 

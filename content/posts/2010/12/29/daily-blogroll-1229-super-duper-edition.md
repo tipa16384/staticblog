@@ -3,24 +3,8 @@ date: '2010-12-29T06:00:33-05:00'
 draft: false
 title: "Daily Blogroll 12/29: Super Duper edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/29/daily-blogroll-1229-super-duper-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I long ago pre-ordered SOE's DC Universe Online, but this was my first opportunity to play it, in beta, on the PC. Though it's on..."
+categories:
   - "Battle of the Immortals"
   - "City of Heroes"
   - "Daily Blogroll"
@@ -33,20 +17,13 @@ tags:
   - "Rift"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/dcuo.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/dcuo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dcuo.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dcuo.png"
 ---
+I long ago pre-ordered SOE's DC Universe Online, but this was my first opportunity to play it, in beta, on the PC. Though it's on...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/12/dcuo.png "DC Universe Online")
+
 
 I long ago pre-ordered SOE's DC Universe Online, but this was my first opportunity to play it, in beta, on the PC. Though it's on the PC, the little picture hints and controls clearly expect you to be using a PS3 controller to play the game. I don't have a PS3 controller, but I do have a XBox controller, so I plugged it in and away I went.
 

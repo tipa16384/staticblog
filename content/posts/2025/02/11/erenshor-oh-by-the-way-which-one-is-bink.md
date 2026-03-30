@@ -3,40 +3,19 @@ date: '2025-02-11T08:01:35-05:00'
 draft: false
 title: "Erenshor: Oh, by the way, which one is Bink?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/02/11/erenshor-oh-by-the-way-which-one-is-bink/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Erenshor is the single player RPG you tell MMO stories about."
-description: "Erenshor is the single player RPG you tell MMO stories about."
-tags:
+categories:
   - "Erenshor"
   - "MMORPG"
   - "Steam Games"
+tags:
+  - "Erenshor"
   - "Pink Floyd"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/1-20250210223651_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/02/1-20250210223651_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-20250210223651_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/1-20250210223651_1.jpg"
 ---
+Erenshor is the single player RPG you tell MMO stories about.
+<!--more-->
 
 It's been a couple of weeks since I joined the Erenshor Beta Test. I haven't had a super huge amount of time to play -- there was CaptainCon, and then there's a bunch of new models to paint for an upcoming Malifaux tournament, and then there's just other games out there, etc.
 
@@ -50,7 +29,7 @@ There were some deaths, but I managed to get more than halfway through level 14.
 
 One of the spiders dropped a mold for a charm I need. I'll have to do some running around for the crafting components. I don't have anything for that slot at the moment.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/20250210234144_1-1024x432.jpg" title="Moon Unit at the character selection screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/20250210234144_1-1024x432.jpg" title="Moon Unit at the character selection screen" classes="center" >}}
 
 I had to go with a new tank tonight, as my usual one, Lumi, was off playing his main. Not sure of his main's name, but he says he was the first to level 35 on the server, so would be out of my grouping range anyway.
 

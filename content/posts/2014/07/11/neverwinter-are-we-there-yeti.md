@@ -3,40 +3,17 @@ date: '2014-07-11T21:13:53-05:00'
 draft: false
 title: "Neverwinter: Are We There Yeti?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/07/11/neverwinter-are-we-there-yeti/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "How many times have I done the Need for Mead daily quest in Neverwinter? I thought I'd figured out a surefire method to spawn the..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://lh5.googleusercontent.com/-rM8BfwhXmr0/U8CWOPvO8MI/AAAAAAAAxm0/9Vuj73ntx4k/w760-h761-no/1-GameClient+2014-07-11+21-33-13-15.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-rM8BfwhXmr0/U8CWOPvO8MI/AAAAAAAAxm0/9Vuj73ntx4k/w760-h761-no/1-GameClient+2014-07-11+21-33-13-15.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-rM8BfwhXmr0/U8CWOPvO8MI/AAAAAAAAxm0/9Vuj73ntx4k/w760-h761-no/1-GameClient+2014-07-11+21-33-13-15.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-rM8BfwhXmr0/U8CWOPvO8MI/AAAAAAAAxm0/9Vuj73ntx4k/w760-h761-no/1-GameClient+2014-07-11+21-33-13-15.jpg"
 ---
+How many times have I done the Need for Mead daily quest in Neverwinter? I thought I'd figured out a surefire method to spawn the...
+<!--more-->
 
-![Me and the Yeti](https://lh5.googleusercontent.com/-rM8BfwhXmr0/U8CWOPvO8MI/AAAAAAAAxm0/9Vuj73ntx4k/w760-h761-no/1-GameClient+2014-07-11+21-33-13-15.jpg)
+
 
 How many times have I done the Need for Mead daily quest in Neverwinter? I thought I'd figured out a surefire method to spawn the daddy Yeti so I could get another Yeti Treat to try and tame the baby yeti outside the instance. I hadn't. It has SOMETHING to do with the Beast Handler, but darned if I know what.
 

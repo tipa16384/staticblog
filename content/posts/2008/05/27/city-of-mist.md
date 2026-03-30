@@ -3,41 +3,18 @@ date: '2008-05-27T08:17:57-05:00'
 draft: false
 title: "City of Mist"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/27/city-of-mist/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We didn't come anywhere near our level cap Friday, as Mistmoore Castle turned out to be pretty tough. Saturday, a few of us were on,..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-25-23-08-06-17.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-25-23-08-06-17.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-25-23-08-06-17.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-25-23-08-06-17.jpg"
 ---
+We didn't come anywhere near our level cap Friday, as Mistmoore Castle turned out to be pretty tough. Saturday, a few of us were on,...
+<!--more-->
 
-![eqgame-2008-05-25-23-08-06-17.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-25-23-08-06-17.jpg)
+
 
 We didn't come anywhere near our level cap Friday, as Mistmoore Castle turned out to be pretty tough. Saturday, a few of us were on, not doing much, so we decided to just DO something. And so we did probably about the most boring thing you could think of -- we went to a zone, broke a camp, and stayed there and chatted and just had fun for the rest of the night. In the end, it was probably my most ... nostalgic ... moment since I returned to EverQuest.
 
@@ -61,7 +38,7 @@ Take a standard high level EQ2 group. About half a pickup group will have no ide
 
 That cool competence is another thing I would love to see in other MMOs. But to get people to learn how to act as a team, games would have to encourage group play, and that notion has become radioactive to MMO devs. Encourage people to group? What is this MADNESS? MMO games are for SOLO players, dontcha know. SOE obviously thinks that now; the Rise of Kunark expansion proved that. I hope they don't mess with EQ.
 
-![rangerdie.jpg](https://chasingdings.com/wp-content/uploads/2008/05/rangerdie.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/05/rangerdie.jpg" classes="center" >}}
 
 I spent some time brewing up a couple stacks of armor dye Sunday. I wanted my ranger to have ranger-y colors, so I finally settlled on an outfit with shades of green and burnt orange that complemented the weird halfling chain armor model colors and looked fairly unique. In EQ, you come to recognize people by their armor designs, so everyone comes up with colors that are uniquely theirs. It took awhile to come up with a pattern that would look ranger-y -- tending toward green and brown -- but not monochrome.
 

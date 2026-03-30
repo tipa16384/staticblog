@@ -3,38 +3,13 @@ date: '2007-01-25T12:30:27-05:00'
 draft: false
 title: "Lord of the Rings: Best Pre-Order Plan Ever?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/01/25/lord-of-the-rings-best-pre-order-plan-ever/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Lord of the Rings Online announced today that people who pre-ordered would get a locked-down $9.99/month subscription fee (DAoC did this as well), or $199..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Lord of the Rings Online announced today that people who pre-ordered would get a locked-down $9.99/month subscription fee (DAoC did this as well), or $199...
+<!--more-->
 
 [Lord of the Rings Online](http://www.lotro.com/) announced today that people who pre-ordered would get a locked-down $9.99/month subscription fee (DAoC did this as well), or $199 for a lifetime subscription! That's pretty impressive.
 

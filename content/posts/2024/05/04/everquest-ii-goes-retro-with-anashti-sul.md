@@ -3,47 +3,26 @@ date: '2024-05-04T16:48:35-05:00'
 draft: false
 title: "EverQuest II goes retro with Anashti Sul"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/05/04/everquest-ii-goes-retro-with-anashti-sul/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's probably intentional that the latest EverQuest 2 server, Anashti Sul, is named after a deity once known as the \"Lifegiver\", but now more known for bringing life to the dead."
-description: "It's probably intentional that the latest EverQuest 2 server, Anashti Sul, is named after a deity once known as the \"Lifegiver\", but now more known for bringing life to the dead."
-tags:
+categories:
   - "EverQuest II"
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Anashti Sul"
+  - "EverQuest II"
   - "TLP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/anashtisul.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/05/anashtisul.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/anashtisul.jpg"
 ---
+It's probably intentional that the latest EverQuest 2 server, Anashti Sul, is named after a deity once known as the "Lifegiver", but now more known for bringing life to the dead.
+<!--more-->
 
 While I have tried out some of the EverQuest time limited servers, I've never jumped on that bandwagon with EverQuest 2, The new stuff on the live servers was more compelling than replaying the old, and in any event, I haven't been playing EQ2 for years, and really hardly play MMOs at all, any more.
 
 But then, [Wilhelm](https://tagn.wordpress.com/2024/04/29/thoughts-on-the-coming-everquest-ii-anashti-sul-time-locked-expansion-server/) was talking about it, [Bhagpuss](https://bhagpuss.blogspot.com/) took a look around Freeport, some other people brought it up, so I figured -- what the heck. I'll patch it in. I'll see what's up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/EQ2_000000-1024x640.jpg" title="Entering Baubleshire" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/EQ2_000000-1024x640.jpg" title="Entering Baubleshire" classes="center" >}}
 
 It's always bothered me that you arrived on the tutorial island without any past. With the original home cities in the original EverQuest, it was pretty clear that you'd just grown up in the area; everyone knew you, and you were just coming of age and about to find your place in the world -- inevitably, adventuring, but one could become a crafter and never leave your home city, a common fate for crafting alts.
 
@@ -59,19 +38,19 @@ The next morning -- still dead, same place. My /report hadn't been answered. Whe
 
 People are nice!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/EQ2_000004-1024x640.jpg" title="Enjoying a drink in Baubleshire. It probably tasted like pie. Everything tastes like pie here." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/EQ2_000004-1024x640.jpg" title="Enjoying a drink in Baubleshire. It probably tasted like pie. Everything tastes like pie here." classes="center" >}}
 
 The haffers in Baubleshire are OBSESSED with pie. But, I didn't head right there. The Down Below exit brought me eventually to Qeynos Harbor. Good! I could finally get some crafting done. But, bad! Qeynos Harbor is a glitchy mess! So I returned to Baubleshire. *There is no crafting in Baubleshire! Not even pie!*
 
 I did eventually find a tradeskill instance in another neighborhood, but I still haven't crafted a damn thing. My spells need help!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/EQ2_000006-1024x640.jpg" title="Grouping in The Caves" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/EQ2_000006-1024x640.jpg" title="Grouping in The Caves" classes="center" >}}
 
 Life and quests eventually brought me to the Forest Ruins. I was surprised just how much I remembered of the place. It has been a long time since I played EQ2, and even longer since I started a new character in Qeynos, but it still felt very, very familiar. I soloed for awhile. A group of higher levels tapped me to help heal in their Ruins group, so I did that for a little. Later, someone on the same quest I was on invited me to group up. We eventually found a third, (we were coercer, assassin and fury at that point; three evil classes playing on the good team, something that was not allowed back in the day). We knocked out some tricky Forest Ruins quests and moved on to the cave.
 
 We were hunting oranges and reds -- much higher level than my 7 at the time. Experience was amazingly... terrible. It was awful. I had no rest experience, having spent my night dead in a dungeon rather than sleeping in a comfy halfling bed. I dinged once, and once only, to level 8. And that's where I left things, when the group broke up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/EQ2_000002-1024x640.jpg" title="Whacking harmless woodland creatures in the Forest Ruins" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/EQ2_000002-1024x640.jpg" title="Whacking harmless woodland creatures in the Forest Ruins" classes="center" >}}
 
 The server is going to be wiped at some point before it launches for real -- this is just in Beta, now. It's clear they need to do a lot more work on it. And the good, helpful, friendly people in this beta will be replaced with the normal double boxers, power levelers, min maxers and all the other people who have helpfully reminded me how wonderful single player RPGs can be.
 
@@ -79,7 +58,7 @@ But.
 
 The world of Anashti Sul is a dangerous place. You can't buy overpowered master-level gear from the broker for pennies. You're going to die a lot. You're not going to hit 50 in a week and spit on anyone who doesn't believe raiding is the one and only reason to play an MMO. You're going to have time to really explore Thundering Steppes and the Enchanted Lands and spend some time in these places. Might even meet some people who are still there the next day. Hard to tell.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/EQ2_000005-1024x640.jpg" title="Character selection" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/EQ2_000005-1024x640.jpg" title="Character selection" classes="center" >}}
 
 Am I going to be playing this server when it goes live? It depends. All of these time limited progression servers place a huge bounty on being there from day 1, becoming part of the community, and moving to the new content as it's unlocked. Wait too long, and you might just as well start on a live server, because if you stall too long, the window where you can find easy groups and experience the game as it was meant to be experienced will past, and you'll be left without the systems Daybreak has added over the years that make soloing regrettable but possible.
 

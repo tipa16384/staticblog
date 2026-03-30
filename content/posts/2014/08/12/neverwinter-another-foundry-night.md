@@ -3,41 +3,19 @@ date: '2014-08-12T21:02:10-05:00'
 draft: false
 title: "Neverwinter: Another Foundry Night"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/08/12/neverwinter-another-foundry-night/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Another Monday, another foundry night in Neverwinter...."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh4.googleusercontent.com/-OGS_qCEXrYA/U-mAKyZn-2I/AAAAAAAAzUQ/9CP6DYzeD9c/w684-h548-no/GameClient%2B2014-08-11%2B22-47-02-08.jpg"
-cover:
-  image: "https://lh4.googleusercontent.com/-OGS_qCEXrYA/U-mAKyZn-2I/AAAAAAAAzUQ/9CP6DYzeD9c/w684-h548-no/GameClient%2B2014-08-11%2B22-47-02-08.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh4.googleusercontent.com/-OGS_qCEXrYA/U-mAKyZn-2I/AAAAAAAAzUQ/9CP6DYzeD9c/w684-h548-no/GameClient%2B2014-08-11%2B22-47-02-08.jpg"
+thumbnailImage: "https://lh4.googleusercontent.com/-OGS_qCEXrYA/U-mAKyZn-2I/AAAAAAAAzUQ/9CP6DYzeD9c/w684-h548-no/GameClient%2B2014-08-11%2B22-47-02-08.jpg"
 ---
+Another Monday, another foundry night in Neverwinter....
+<!--more-->
 
-![Cheating Death](https://lh4.googleusercontent.com/-OGS_qCEXrYA/U-mAKyZn-2I/AAAAAAAAzUQ/9CP6DYzeD9c/w684-h548-no/GameClient%2B2014-08-11%2B22-47-02-08.jpg)
+
 
 Another Monday, another foundry night in Neverwinter.
 

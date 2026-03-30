@@ -3,39 +3,16 @@ date: '2006-07-14T00:00:00-05:00'
 draft: false
 title: "New WoW Server"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/14/new-wow-server/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I said I wouldn't play World of Warcraft again until they made a new Pacific Time Roleplay server... and a friend wrote me to tell..."
+categories:
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/images/yenna.jpg"
-cover:
-  image: "https://chasingdings.com/images/yenna.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/yenna.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/yenna.jpg"
 ---
+I said I wouldn't play World of Warcraft again until they made a new Pacific Time Roleplay server... and a friend wrote me to tell...
+<!--more-->
 
-![](https://chasingdings.com/images/yenna.jpg)
+
 
 I said I wouldn't play World of Warcraft again until they made a new Pacific Time Roleplay server... and a friend wrote me to tell me that they have done just that. Sentinels. Before work this morning I logged in, made a troll shaman named Yenna, ran around a little and ... it's just like when Kirin Tor was new. And so six months from now, it will become the non-RP, trashtalking mess that KT became.
 

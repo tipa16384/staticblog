@@ -3,44 +3,23 @@ date: '2021-08-24T23:34:48-05:00'
 draft: false
 title: "Stalking My Sister"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/24/stalking-my-sister/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My sister and her family recently moved from Texas back to Connecticut! Yay! So she's living now on the coast, just 45 minutes away! More..."
+categories:
   - "Blaugust"
   - "Tabletop Games"
+tags:
+  - "Blaugust"
   - "Challenge of the Superfriends"
   - "Microsoft Flight Simulator"
   - "Mini Rogue"
   - "Nyctophobia"
   - "The Red Dragon Inn"
   - "War with the Evil Power Master"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210824215934_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210824215934_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210824215934_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210824215934_1.jpg"
 ---
+My sister and her family recently moved from Texas back to Connecticut! Yay! So she's living now on the coast, just 45 minutes away! More...
+<!--more-->
 
 My sister and her family recently moved from Texas back to Connecticut! Yay! So she's living now on the coast, just 45 minutes away! More yay! We're going down for a visit in a couple of weeks to see how she's settling in! Maximum yay!
 
@@ -61,19 +40,19 @@ So the potential is for between two and seven people.
 
 *Any* potential game has to be pretty easy to set up, explain, and play. It should take about half an hour to play.
 
-![](https://www.nutspublishing.com/eshop/image/cache/jeux/mini-rogue/Bo%C3%AEte%20-%20Mini%20Rogue-500x500.jpg)
+{{< image src="https://www.nutspublishing.com/eshop/image/cache/jeux/mini-rogue/Bo%C3%AEte%20-%20Mini%20Rogue-500x500.jpg" classes="center" >}}
 
 I've been playing "**Mini Rogue**" since I got it. It's fun, and supports up to two players, in either co-op or competitive mode. The players deal nine cards forming a dungeon area each turn, then, starting on the top left, they solve the room (encounter, trap, shrine, merchant, etc), then reveal the two cards to the right and bottom, and choose one of them to travel to. Rinse and repeat. As they go through the dungeon, they will encounter bosses, until they reach the very bottom and defeat the ultimate monster, Og's Remains.
 
 It's a little nerdy and definitely targeting people who love D&D and rogue-likes. I don't know if my sister fits any of those. And it's likely there will be more than two of us.
 
-![](https://cf.geekdo-images.com/N3mzLSsJPWFCgpKYM08gww__original/img/VaQu0tp-itHnas0k6z4JKilOR3w=/0x0/filters:format(png)/pic4460310.png)
+{{< image src="https://cf.geekdo-images.com/N3mzLSsJPWFCgpKYM08gww__original/img/VaQu0tp-itHnas0k6z4JKilOR3w=/0x0/filters:format(png)/pic4460310.png" classes="center" >}}
 
 "**Challenge of the Super Friends**" is just a lot of fun. You take on the role of Superman, Aquaman, Wonder Woman or Batman & Robin, and try to capture villains before the rest of the Justice League can get to them, using your special abilities and avoiding disaster.
 
 It's super fast to explain, it's really kooky (like the cartoon), and we both watched it when we were kids. It only supports up to four players, but it's the kind of game I think would work really well. I mean, who doesn't like DC comic book heroes and cheesy Saturday morning cartoons?
 
-![Choose Your Own Adventure: War with the Evil Power Master Cover Artwork](https://cf.geekdo-images.com/_hqgKIwC85l1BPvAftEWvA__itemrep/img/OaXKp1GyUxryspWEzpdO41dJmm4=/fit-in/246x300/filters:strip_icc()/pic4698899.jpg)
+{{< image src="https://cf.geekdo-images.com/_hqgKIwC85l1BPvAftEWvA__itemrep/img/OaXKp1GyUxryspWEzpdO41dJmm4=/fit-in/246x300/filters:strip_icc()/pic4698899.jpg" classes="center" >}}
 
 I've been forcing people to play this game for awhile now. "**War with the Evil Power Master**" is a Choose-your-own Adventure card game with a surprising amount of strategy but it still easy to explain -- everyone has read a CYA book at some point, I bet.
 
@@ -85,7 +64,7 @@ We act out the various parts. It's hilarious... but a full game takes a certain 
 
 It's fun, but it's really only for four people. The fifth person can play the EPM and handle moving the pieces around the board and stuff, but it's not ideal.
 
-![The Red Dragon Inn Cover Artwork](https://cf.geekdo-images.com/RCXedcfgn5LSfH4-kOUvLA__itemrep/img/rjk4ebeNG00-ba4QNmB56XcXKeE=/fit-in/246x300/filters:strip_icc()/pic291048.jpg)
+{{< image src="https://cf.geekdo-images.com/RCXedcfgn5LSfH4-kOUvLA__itemrep/img/rjk4ebeNG00-ba4QNmB56XcXKeE=/fit-in/246x300/filters:strip_icc()/pic291048.jpg" classes="center" >}}
 
 "**The Red Dragon Inn**" is a long-running game series. The setup: You and your friends have just returned from an adventure. You all have too many gold pieces weighing you down, and you meet up with your friends and other scoundrels at the Red Dragon Inn, the place where when the adventure ends, the real adventure begins -- DRINKING.
 
@@ -93,7 +72,7 @@ Each adventurer gets their own character and deck that they use to respond to th
 
 It's a fun game -- we play it a lot. But, since each character plays entirely differently from any other one, it's hard to really explain to someone how to play it. It's important to get deep into *character*.
 
-![Nyctophobia Cover Artwork](https://cf.geekdo-images.com/Jx2Yo2sVYN3P2XrOFx0JrA__itemrep/img/59GfRkPOmGl_JcPcBVIh0WAcUb0=/fit-in/246x300/filters:strip_icc()/pic4059088.png)
+{{< image src="https://cf.geekdo-images.com/Jx2Yo2sVYN3P2XrOFx0JrA__itemrep/img/59GfRkPOmGl_JcPcBVIh0WAcUb0=/fit-in/246x300/filters:strip_icc()/pic4059088.png" classes="center" >}}
 
 We played "**Nyctophobia**" a few times when we first got it. It's more of a Halloween kind of game -- it's spooky. You play it in dim lighting. The story of the version of the game we have is that your car has stalled out in the middle of nowhere. A child in the car unexpectedly opens the door and dashes out into the absolute darkness. That's bad. But, there's also a vampire nearby who is also looking for the child. That's worse.
 

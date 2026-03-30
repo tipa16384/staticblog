@@ -3,40 +3,17 @@ date: '2007-05-16T00:58:46-05:00'
 draft: false
 title: "LotRO: Finished Book III"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/05/16/lotro-finished-book-iii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yes, I am rushing through Lord of the Rings Online. There's way too much exciting stuff happening in EverQuest 2 to stay away much longer;..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00143.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00143.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00143.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00143.jpg"
 ---
+Yes, I am rushing through Lord of the Rings Online. There's way too much exciting stuff happening in EverQuest 2 to stay away much longer;...
+<!--more-->
 
-![screenshot00143.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00143.jpg)
+
 
 Yes, I *am* rushing through Lord of the Rings Online. There's way too much exciting stuff happening in EverQuest 2 to stay away much longer; the release of Neriak and the dark Fae; Kunark coming in the fall; LotRO has to be done and finished by then.
 
@@ -50,7 +27,7 @@ The Men of Trestlebridge would LOVE to come, except orcs just HAD to pick this t
 
 The Elves are eager to attend but they, too, have an orc problem; pretty much the same orcs that need to die for the Black-fire quests. Black-fire. Oh, is that their name for gunpowder? Why does every fantasy work have someone who "discovers" gunpowder but feels the need to give it a silly name? "Boomdust!" "Talcum of Death!" "Black-fire!" "Fire dirt!"... whatever.
 
-![screenshot00139.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00139.jpg)Anyway, once all their problems have been taken care of -- for the moment -- and everyone has run back and forth over North Downs a few dozen times, the Rangers send you to Rivendell to chat with Gandalf.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00139.jpg" classes="fig-20" >}}Anyway, once all their problems have been taken care of -- for the moment -- and everyone has run back and forth over North Downs a few dozen times, the Rangers send you to Rivendell to chat with Gandalf.
 
 Forty seven hours later... loooong run.... Gandalf says, "Hi! Here's Book 4! You'll notice it's red to you! Bye! Stablemaster won't rent you a horse so run, fool, RUUUUUNNNN!"
 

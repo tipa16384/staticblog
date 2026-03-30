@@ -3,43 +3,21 @@ date: '2020-05-06T11:23:56-05:00'
 draft: false
 title: "Favorite Game Series #1: Final Fantasy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/06/favorite-game-series-1-final-fantasy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's one game series that stands above all the others, to me. It's the game series that continually redefines itself in each new game and..."
+categories:
   - "Emulators"
   - "Final Fantasy"
+tags:
   - "Favorite Game Series"
   - "Final Fantasy Tactics"
   - "Jrpg"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/FFFridge.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/FFFridge.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/FFFridge.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/FFFridge.png"
 ---
+There's one game series that stands above all the others, to me. It's the game series that continually redefines itself in each new game and...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/FFFridge.png" title="Epic battle in my kitchen" >}}
+
 
 There's one game series that stands above all the others, to me. It's the game series that continually redefines itself in each new game and is always willing to take risks and try new things.
 

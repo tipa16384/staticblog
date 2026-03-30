@@ -3,40 +3,17 @@ date: '2007-05-09T06:59:57-05:00'
 draft: false
 title: "LotRO: Book II"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/05/09/lotro-book-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Lysistra and the Good Humor man at level 27, in Trestlebridge..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00135.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00135.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00135.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00135.jpg"
 ---
+Lysistra and the Good Humor man at level 27, in Trestlebridge...
+<!--more-->
 
-![screenshot00135.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00135.jpg)
+
 
 Lysistra and the Good Humor man at level 27, in Trestlebridge
 
@@ -44,7 +21,7 @@ I joined a group last night and we were amazing, we were on fire, we went around
 
 Seriously. Not since the original Dark Ages of Camelot has a MMO reused the same couple of models in so many different ways. I have three or four different titles from killing spiders. This isn't an epic. It's a spider-killing simulator.
 
-![screenshot00128.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00128.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00128.jpg" classes="center" >}}
 
 Can't you read? DON'T. WALK. ON. THE. GRASS.
 
@@ -58,7 +35,7 @@ Gosh. You think?
 
 Chapter I is a short solo quest to get you used to the gigantic game of hide-and-seek between you and the various mobs that pop out of nowhere; just have to click on ten prowler nests and you're done. Chapter II gets a little more intense; now you have to kill the solo wights. Chapter III requires a group, as you hunt the big daddy level 29 and 30 elite wights, and their one to three friends.
 
-![screenshot00132.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00132.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00132.jpg" classes="center" >}}
 
 An evil shrine? Better worship at it, just to be on the safe side.
 
@@ -66,6 +43,6 @@ Chapter IV leaves the north behind and sends adventurers into the level 30-35-is
 
 This is as far as I've gone on it; I'm currently questing in the North Downs to level up a little to complete Book II; I'm thinking 30 would be a good level to see it through. Perhaps Chapter VIII will be an instance. The elf/dwarf prologue quests and Book 1 included many instances; the infamous Chapter 11 was a high point, for me, of open beta. So far in Book 2... no instances.
 
-![screenshot00124.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00124.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00124.jpg" classes="center" >}}
 
 Oh well. I have some more spiders to kill. I might go a little crazy and kill some pigs while I'm at it. I hope I don't meet up with these guys. Trolls, they are. The left one is going to post 1001 ways to cook Hobbits to the micheldelving.com.shire forums. The one on the right thinks granite is the finest of the rocks, and if you prefer limestone, well, maybe if you love limestone so much, you should marry it.

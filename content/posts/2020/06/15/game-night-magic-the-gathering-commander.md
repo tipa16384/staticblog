@@ -3,47 +3,25 @@ date: '2020-06-15T11:15:53-05:00'
 draft: false
 title: "Game Night: Magic: the Gathering (Commander)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/15/game-night-magic-the-gathering-commander/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "First meeting of the full game group since the pandemic started! The governor of our state recently allowed family groups of up to ten people,..."
+categories:
   - "Game Night"
   - "Tabletop Games"
+tags:
   - "Commander"
   - "Ikoria"
   - "Magic the Gathering"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/mtg06142020.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/mtg06142020.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/mtg06142020.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/mtg06142020.jpg"
 ---
+First meeting of the full game group since the pandemic started! The governor of our state recently allowed family groups of up to ten people,...
+<!--more-->
 
 First meeting of the full game group since the pandemic started! The governor of our state recently allowed family groups of up to ten people, but we only needed eight :-)
 
 In those lonely weeks and months stranded at home, Wizards of the Coast managed to release the new Ikoria set for Magic: the Gathering, a set focused on such diverse cards mutated beasts, itinerant elemental gods and  movie monsters (including the infamous Space Godzilla: Death Corona).
 
-![](https://chasingdings.com/wp-content/uploads/2020/06/deathcorona.png)They changed the name of this card for some reason.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/deathcorona.png" classes="center" >}}They changed the name of this card for some reason.
 
 My son had bought [five Commander sets from the new expansion](https://magic.wizards.com/en/articles/archive/card-preview/ikoria-commander-2020-04-03), one for each of us. Commander is a variant of Magic: the Gathering where players build 100 card decks with no duplicate cards, aside from basic Lands, the cards that provide the mana with which to cast spells. The decks are headed by a Commander, a card of exceptional power that sits in an area called the Command Zone and can be brought into play when needed.
 

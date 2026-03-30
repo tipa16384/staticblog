@@ -3,43 +3,23 @@ date: '2009-02-17T07:01:16-05:00'
 draft: false
 title: "*Anthro* MMO Earth Eternal launches new web site"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/17/anthro-mmo-earth-eternal-launches-new-web-site/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's a slim possibility I may have been dismissive of Sparkplay's Anthro (not Furry) MMO, Earth Eternal, in the past, but --..."
+categories:
   - "Earth Eternal"
   - "MMORPG"
+tags:
   - "Beta"
   - "Not Furries Dammit"
   - "Website"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/pigsinspace.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/pigsinspace.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/pigsinspace.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/pigsinspace.jpg"
 ---
+There's a slim possibility I may have been dismissive of Sparkplay's Anthro (not Furry) MMO, Earth Eternal, in the past, but --...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/pigsinspace.jpg "pigsinspace")There's a slim possibility [I may have been dismissive](http://www.massively.com/2008/07/25/furries-let-their-tails-down-in-earth-eternal/) of Sparkplay's Anthro (not Furry) MMO, [Earth Eternal](http://www.eartheternal.com/), in the past, but --
+
+
+There's a slim possibility [I may have been dismissive](http://www.massively.com/2008/07/25/furries-let-their-tails-down-in-earth-eternal/) of Sparkplay's Anthro (not Furry) MMO, [Earth Eternal](http://www.eartheternal.com/), in the past, but --
 
 Okay, I just have to get this off my downy-feathered chest, here. [Earth Eternal](http://www.eartheternal.com/) is a Furry MMO. I understand why they are trying to distance themselves from it. The Furry sub-culture has gotten a reputation for kinkiness, but, seriously, there's a certain percentage of any sub-culture that's kinky. Go to any sci-fi convention and it won't be only the Furries who are getting odd looks.
 

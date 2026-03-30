@@ -3,43 +3,18 @@ date: '2010-12-22T22:09:34-05:00'
 draft: false
 title: "Lord of Ultima Evony"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/22/lord-of-ultima-evony/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Shady browser strategy game Evony has been long criticized for its deceptive ads featuring scantily clad women advertising a game where you build houses and..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/lordultima-480x212.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/lordultima-480x212.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/lordultima-480x212.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/lordultima-480x212.jpg"
 ---
+Shady browser strategy game Evony has been long criticized for its deceptive ads featuring scantily clad women advertising a game where you build houses and...
+<!--more-->
 
 Shady browser strategy game Evony [has been long criticized for its deceptive ads](http://www.lazygamer.net/a-history-of-evony-ads-the-insanity-continues/) featuring scantily clad women advertising a game where you build houses and sawmills and really, have very little sex at all. And no women.
 
 Must have crushed them when gaming megagiant Electronic Arts ~~stole~~ was inspired by their clever marketing and came out with an example of their own:
-
-![](https://chasingdings.com/wp-content/uploads/2010/12/lordultima-480x212.jpg "Lord of Ultima")
 
 Lord of Ultima also features building stuff and sending out armies and no sex or women.
 

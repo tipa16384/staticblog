@@ -3,40 +3,17 @@ date: '2015-09-26T09:52:54-05:00'
 draft: false
 title: "Vindicated!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/26/vindicated/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been somewhat snarky in this blog and especially in the game about some of the folks we've encountered. The reluctance of the Crystal Braves..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-21-21-21-32-15.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-21-21-21-32-15.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-09-21-21-21-32-15.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-09-21-21-21-32-15.jpg"
 ---
+I've been somewhat snarky in this blog and especially in the game about some of the folks we've encountered. The reluctance of the Crystal Braves...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-21-21-21-32-15.jpg" title="Steps of Faith took a couple of tries" class="align-center" >}}
+
 
 I've been somewhat snarky in this blog and especially in the game about some of the folks we've encountered. The reluctance of the Crystal Braves to do pretty much anything. The motives of most of the NPCs.
 
@@ -50,13 +27,13 @@ Taledji Aledji was always presented as a straight-up villain. I had to admit tha
 
 But I want it written down... every NPC of whom I was suspicious, turned out to be well worth that suspicion.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-22-22-31-34-21.jpg" title="EVERY one." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-09-22-22-31-34-21.jpg" title="EVERY one." classes="center" >}}
 
 The Scions of the Seventh Dawn have been betrayed before. They're a long-time target for anyone looking for a quick score. Minfilia and Alphinaud kept everyone together, somehow, and found some new friends. Now most of them are gone, at least for now, and it was a much smaller Scion crew that trudged into Ishgard. Alphinaud, Tataru, and me.
 
 Yup, we're in Heavensward, now.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-ffxiv-2015-09-22-20-07-14-87.jpg" title="And Kasul, too!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/1-ffxiv-2015-09-22-20-07-14-87.jpg" title="And Kasul, too!" classes="center" >}}
 
 The night started with Iceheart using her Saint Shiva-drawn powers to remove many of the ancient barriers that had kept Ishgard safe from Dravanian (dragon) attack. This echoed the dragon Midgardsormr's stripping from us of Hydraelyn's Blessing of Light. Where Midgardsormr did this to inspire us to greatness, Iceheart was straight up looking to destroy Ishgard.
 
@@ -68,7 +45,7 @@ Our first time in, we failed twice and people bailed. We signed up for a second 
 
 After that, we were praised by the Ishgard ambassador, Aymeric, and returned to Rising Stones as heroes. Kasul had to log early, so we decided to meet again the next night to finish up A Realm Reborn.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-22-21-11-10-28.jpg" title="Hard to know who to root for, here." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-09-22-21-11-10-28.jpg" title="Hard to know who to root for, here." classes="center" >}}
 
 What awaited us back in Ul'dah, at the ill-fated "celebration" of the saving of Ishgard (TOTALLY CALLED HOW SUSPICIOUS THAT WAS), was a bunch of cut-scenes as Ul'dah was shaken to its very foundation by the betrayal by the Syndicate, Crystal Braves and Brass Blades, and the likely death of most of the Scions of the Seventh Dawn. So much attention was paid to the difficulty of escaping from Ul'dah. Both Kasul and I were confused by their reluctance to teleport; they were in some cases RIGHT NEXT to an aetheryte. We KNOW NPCs can teleport; it's not just a PC thing.
 
@@ -76,7 +53,7 @@ I don't know whether the writers were just being lazy, or if this was some sort 
 
 That was a fun hour and a half of clicking through cut-scenes. Even after, we sat through the closing credits, hoping for a post-credits scene. Our patience was rewarded; we got TWO cut-scenes. Raubahn, disarmed, in a cell.... and Urianger, the creepy elf, answering as the Archon the summons of the Emissary, Elidibus, the white-robed Ascian. Is Urianger an Ascian? Probably not... but he comes when they call.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-ffxiv-2015-09-21-19-53-00-51.jpg" title="Even the NPCs can't figure out what we're for." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/1-ffxiv-2015-09-21-19-53-00-51.jpg" title="Even the NPCs can't figure out what we're for." classes="center" >}}
 
 So, it's been a little over four months since Kasul and I started our adventures in FFXIV. Kasul has taken Summoner and Scholar to 50, as well as Miner and Botanist, and Leatherworker, Carpenter and Weaver to fill out the roster.
 

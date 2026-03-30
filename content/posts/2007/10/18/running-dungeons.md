@@ -3,41 +3,19 @@ date: '2007-10-18T07:17:00-05:00'
 draft: false
 title: "Running Dungeons"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/18/running-dungeons/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Since not playing since the Dungeon Runners beta, I figured it was time to give it another shot. It gives me that WoW experience --..."
+categories:
   - "MMORPG"
+tags:
   - "Dungeon Runners"
-  - "Ncsoft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/dr-char.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/dr-char.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "NCsoft"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/dr-char.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/dr-char.jpg"
 ---
+Since not playing since the Dungeon Runners beta, I figured it was time to give it another shot. It gives me that WoW experience --...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/dr-char.jpg)
+
 
 Since not playing since the Dungeon Runners beta, I figured it was time to give it another shot. It gives me that WoW experience -- cartoon characters with huge weapons and armor, humor, ability to solo, fast levels and quick upgrades and the occasional group -- far cheaper.
 
@@ -49,7 +27,7 @@ In fact, the main industry of those in the Townston area is making and filling d
 
 See, the dungeons were *supposed* to be filled with what they call "fodder" -- numberless minions, easy to kill and not that dangerous. Trust the more intelligent monsters to see what was going on in Townston and start invading the dungeons themselves in order to trap and kill unsuspecting adventurers who *thought* they were just coming down for a good time and that was *that*.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/dr-batle.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/dr-batle.jpg" classes="center" >}}
 
 It's all good fun, the game doesn't take itself seriously and even the boss monsters themselves, interlopers that they are, aren't that tough. The dungeons and loot scale to your level and the size of your group, so for the best loot imaginable, group up with a couple of people around your level and head into Algernon. Or just go solo. The game will adjust so that no matter how you like to play, it's okay.
 

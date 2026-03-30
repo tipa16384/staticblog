@@ -3,39 +3,17 @@ date: '2020-07-08T12:01:06-05:00'
 draft: false
 title: "Chocobo's Mystery Dungeon: Every Buddy FINISHED! Sorta."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/07/08/chocobos-mystery-dungeon-every-buddy-finished-sorta/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been buying a lot of casual games to pass the time when I don't have a lot of time to play. Bunches of puzzle..."
+categories:
   - "PS4"
+tags:
   - "Chocobo Mystery Dungeon"
   - "Rogue-Like"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707212923.jpg"
 ---
+I've been buying a lot of casual games to pass the time when I don't have a lot of time to play. Bunches of puzzle...
+<!--more-->
 
 I've been buying a lot of casual games to pass the time when I don't have a lot of time to play. Bunches of puzzle games. Some programming games. Some action games (and more on those later). But the one casual game that had that perfect blend of drop-in playability and finely tuned difficulty was one I didn't even see coming: [Chocobo's Mystery Dungeon: Every Buddy](https://square-enix-games.com/en_US/games/chocobos-mystery-dungeon-every-buddy).
 
@@ -43,19 +21,19 @@ CMDEB for the PS4 is a remake of an old Wii game called [Final Fantasy Fables: C
 
 I'd first played one of the Pokemon mystery dungeons back in the day on some Nintendo handheld or other (my memory is vague on this point), but didn't enjoy how the game had been made easier than the rogue-likes I was used to, most especially Nethack. I'm older now and more appreciative of a game without all that frustration.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707211850-1024x576.jpg" title="The Destroyer... destroyed" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707211850-1024x576.jpg" title="The Destroyer... destroyed" classes="center" >}}
 
 I'm not going to go into detail about the plot, save that you go through the game, unlocking dungeons, gathering companions, leveling up jobs and upgrading your gear, just as in any RPG.
 
 The job system has been very much upgraded from earlier entries. The PS4 version makes all jobs available, whereas previous releases usually had one or two exclusive jobs reserved for specific game consoles. You'll typically find a new job by clearing a memory -- CMDEB's dungeons -- belonging to someone of that job. You'll often gain that character as a companion you can bring along in future dungeon excursions.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707215952-1024x576.jpg" title="I defeated my winged friend here, and now he protects me." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200707215952-1024x576.jpg" title="I defeated my winged friend here, and now he protects me." classes="center" >}}
 
 If you encounter summons (like Ifrit or Ramuh) in your travels, prove your worth by defeating them several times and they will also join your team, and also provide you with special items you can use to summon them in battle even if they aren't your companions. These can be game-changing in tough boss battles, or when you've been dropped into the middle of a dozen angry enemies with no walls anywhere nearby.
 
 They don't enjoy Shiva's freezing touch, much.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200708072505-1024x576.jpg" title="My winning character sheet" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200708072505-1024x576.jpg" title="My winning character sheet" classes="center" >}}
 
 I'd dreaded the final fight so much that I've been grinding for days trying to get ready. I'd watched a Youtube video that I won't even link that had the player doing tens of thousands of damage to the boss between their own character and their companion, Bahamut, who I haven't even unlocked yet. (I brought the black chocobo, Volg).
 

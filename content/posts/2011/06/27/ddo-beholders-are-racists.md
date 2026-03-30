@@ -3,41 +3,19 @@ date: '2011-06-27T00:24:40-05:00'
 draft: false
 title: "DDO: Beholders are racists."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/06/27/ddo-beholders-are-racists/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So I knew this going in, there's nobody that hates us Drow more than your average beholder. There could be two paladins bashing away on..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/dndclient-2011-06-26-22-30-40-41.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/06/dndclient-2011-06-26-22-30-40-41.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/dndclient-2011-06-26-22-30-40-41.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/dndclient-2011-06-26-22-30-40-41.jpg"
 ---
+So I knew this going in, there's nobody that hates us Drow more than your average beholder. There could be two paladins bashing away on...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/dndclient-2011-06-26-22-30-40-41.jpg" title="Behold!" class="align-center" >}}
+
 
 So I knew this going in, there's nobody that hates us Drow more than your average beholder. There could be two paladins bashing away on it, a favored soul doing whatever it is they do, a sorcerer baking it in magical flames, and me plinking away at it from fifty meters away, trying to get a good holy arrow or two in its mad, unblinking eye, when it roars, "I SMELL BLUESKIN!" and zaps me with a death beam, TOTALLY IGNORING all the mayhem at its feet. If it had feet.
 
@@ -49,7 +27,7 @@ I'd dedicate this beholder's death to the Spider God, Lloth. If I'd lived. And i
 
 Thanks for the rez.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/dndclient-2011-06-26-23-23-17-21.jpg" title="Threnal" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/dndclient-2011-06-26-23-23-17-21.jpg" title="Threnal" classes="center" >}}
 
 For the past three weeks, Team Spode has been delving in the [Ruins of Threnal](http://ddowiki.com/page/Ruins_of_Threnal), trying to add a Cloak of the Worldshaper, a cloak that offers see invis and 5% experience, to the d20 trinket we got from the [Deletera's Tomb](http://ddowiki.com/page/Delera%27s_Tomb) arc.
 
@@ -67,7 +45,7 @@ Anyway, the story of Threnal is one about discovering the fate of several archae
 
 We loot their adventurer packs as we step over their cold corpses. But you know, next time the dungeon will be monster-free, for sure. Can't be 100% death traps every time, law of probability wouldn't allow it. Science!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/dndclient-2011-06-26-22-30-02-58.jpg" title="Wall o' Fire" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/dndclient-2011-06-26-22-30-02-58.jpg" title="Wall o' Fire" classes="center" >}}
 
 The Ruins of Threnal share that annoying mechanic where you have to clear to a certain point in the dungeon, rush out to tell some NPC some nugget of news, then fight back through a mysteriously repopulated dungeon, get a little farther, come back, etc. This proves just how soft on logic these NPCs *are*.
 

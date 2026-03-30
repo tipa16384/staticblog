@@ -3,37 +3,12 @@ date: '2008-03-10T16:39:34-05:00'
 draft: false
 title: "Meme of the Week: What D&D Character am I?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/10/meme-of-the-week-what-dd-character-am-i/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I Am A: True Neutral Human Wizard (6th Level)..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I Am A: True Neutral Human Wizard (6th Level)...
+<!--more-->
 
 **I Am A:** True Neutral Human Wizard (6th Level)
 

@@ -3,42 +3,19 @@ date: '2012-10-12T06:21:15-05:00'
 draft: false
 title: "Game Log: Pirate101, FTL"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/12/game-log-pirate101-ftl/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I met up with Friendly Thomas and Eccentric Austin Ornsley last night for a little soiree on the decks of Austin's galleon. On the POOP..."
+categories:
   - "FTL"
   - "MMORPG"
   - "Other Games"
   - "Pirate101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-11-21-04-39-43-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-11-21-04-39-43-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-11-21-04-39-43-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-11-21-04-39-43-480x269.jpg"
 ---
+I met up with Friendly Thomas and Eccentric Austin Ornsley last night for a little soiree on the decks of Austin's galleon. On the POOP...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-11-21-04-39-43-480x269.jpg" title="Armada" class="align-center" >}}
+
 
 I met up with [Friendly Thomas](http://thefriendlynecromancer.blogspot.com/) and [Eccentric Austin Ornsley](http://throughtheeyesofasorcerer.blogspot.com/) last night for a little soiree on the decks of Austin's galleon. On [the POOP deck](http://en.wikipedia.org/wiki/Poop_deck), mind you. Just needed for you all to know that. Poop deck.
 
@@ -50,7 +27,7 @@ Turns out my conceptions about ship-to-ship battles were wrong on a couple of vi
 
 Which asks the question, what keeps the ships flying in the first place, and how is it lost? Because I see shipwrecks in the skyways all the time. The island of Flotsam is MADE from shipwrecks.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-11-21-25-43-21-480x269.jpg" title="Dog pirates!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-11-21-25-43-21-480x269.jpg" title="Dog pirates!" classes="center" >}}
 
 Anyway, with three ships -- and then a fourth, someone I didn't know got into the act -- pounding away at the cutthroat ship, I soon dinged Nautical Level 4. The xp per ship kill vastly outstrips the very small amount awarded for killing an enemy on the ground.
 
@@ -58,7 +35,7 @@ I took the advantage of having two higher level friends available to move a bit 
 
 Many thanks to Austin and Thomas for all the timely help last night :) Ended the night at Pirate Level 9 and Nautical Level 4.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/FTLGame-2012-10-11-23-05-38-48-480x270.jpg" title="FTL" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/FTLGame-2012-10-11-23-05-38-48-480x270.jpg" title="FTL" classes="center" >}}
 
 I believe the last time I talked about FTL, it was a Kickstarter project with a simple hook: bring "roguelike" mechanics to a space battle game. I took an issue with their definition of "roguelike", which they took to only mean permadeath and a map that changes with every play. There's a bit more to it than that. But nonetheless, the game itself sounded exciting, so I installed OnLive to play the demo while it was on that service, backed it, and got a beta copy about a month ago -- it's since gone live.
 
@@ -66,12 +43,12 @@ In FTL, you are, or rather start out as, the crew of an old Kestrel-type Federat
 
 Your ship is nowhere near up to that task. You will have to nurse it through each fight, strike bargains with pirates, pursue slavers for crew, find and manage ship upgrades, know when to fight and when to run, hide in nebulae for safety while making desperate repairs before the rebel tide sweeps over you -- until, at the end, after surviving the worst the galaxy can throw at you, you meet this:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/FTLGame-2012-10-12-00-21-25-07-480x270.jpg" title="Rebel flagship" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/FTLGame-2012-10-12-00-21-25-07-480x270.jpg" title="Rebel flagship" classes="center" >}}
 
 The Rebel flagship. Bristling with guns. Shields strong as steel. A full crew to keep things running (and I'd lost one of mine to asphyxiation when the O2 generator got breached while I was making repairs). Drones. Teleporters. I'd been forced to put off needed upgrades to get the fuel and repairs to even make it this far, but even outgunned and outmaneuvered, I managed to give good account. I was able to take some of their systems offline for a time, but in the end, my shields -- even manned by my two best engineers -- weren't able to keep enemy fire from eroding my hull and sending us all into the airless black.
 
 How the Federation fared after that, I do not know. However, by making it to the fifth sector, I unlocked a second ship, the Engi ship.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/FTLGame-2012-10-12-00-21-58-95-480x270.jpg" title="Engi ship" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/FTLGame-2012-10-12-00-21-58-95-480x270.jpg" title="Engi ship" classes="center" >}}
 
 The Engi ship is a drone boat, mostly. Haven't taken it into space yet. We'll have to see how it does in battle. I think it's supposed to work by letting the drone erase the enemy shields, then the ion gun takes over for hull damage.

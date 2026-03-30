@@ -3,37 +3,12 @@ date: '2008-10-17T14:18:10-05:00'
 draft: false
 title: "WK \"Friend to the Connectively Challenged\" policy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/17/wk-friend-to-the-connectively-challenged-policy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's come to our attention that picture-loaded front pages may be unfriendly to those with slow connections. Who knew?..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+It's come to our attention that picture-loaded front pages may be unfriendly to those with slow connections. Who knew?...
+<!--more-->
 
 It's [come to our attention](http://syncaine.wordpress.com/2008/10/17/dear-eq2-bloggers/) that picture-loaded front pages may be unfriendly to those with slow connections. Who knew?
 

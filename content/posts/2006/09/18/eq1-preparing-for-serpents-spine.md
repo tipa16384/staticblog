@@ -3,40 +3,17 @@ date: '2006-09-18T10:50:40-05:00'
 draft: false
 title: "EQ1: Preparing for Serpent's Spine"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/09/18/eq1-preparing-for-serpents-spine/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "With the new expansion coming out tomorrow, Crimson Eternity has been busting its butt trying to get as much progression as possible done before the..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/09/kessdona.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/09/kessdona.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/kessdona.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/kessdona.jpg"
 ---
+With the new expansion coming out tomorrow, Crimson Eternity has been busting its butt trying to get as much progression as possible done before the...
+<!--more-->
 
-![Kessdona](https://chasingdings.com/wp-content/uploads/2006/09/kessdona.jpg)
+
 
 With the new expansion coming out tomorrow, Crimson Eternity has been busting its butt trying to get as much progression as possible done before the pause as everyone levels to 75. This has meant near daily Demiplane of Blood raids as well as quick excursions to older places like Anguish and our old friends in Dragons of Norrath, including Kessdona (above), and Vishimitar, the most fun raid in the DoR expansion.
 
@@ -60,7 +37,7 @@ SOE realized their mistake with Nektulos Forest and replaced their uglification 
 
 Don't trample on our memories. It isn't your world. It's our world.
 
-![The ZiT](https://chasingdings.com/wp-content/uploads/2006/09/zithuuli.jpg)Sorry about that rant. I love EverQuest. I've dallied with so many other games, but always return home. Bothers me to no end when it seems the devs forget why we stay, year after year.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/09/zithuuli.jpg" classes="fig-20" >}}Sorry about that rant. I love EverQuest. I've dallied with so many other games, but always return home. Bothers me to no end when it seems the devs forget why we stay, year after year.
 
 Anyway.
 

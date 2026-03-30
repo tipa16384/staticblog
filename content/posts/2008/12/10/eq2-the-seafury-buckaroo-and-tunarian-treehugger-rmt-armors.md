@@ -3,38 +3,15 @@ date: '2008-12-10T02:40:10-05:00'
 draft: false
 title: "EQ2: The Seafury Buckaroo and Tunarian Treehugger RMT Armors"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/10/eq2-the-seafury-buckaroo-and-tunarian-treehugger-rmt-armors/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There is no point in having RMT appearance armor if nobody knows you're wearing it. The entire purpose is to be seen, right? It's a..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-09-22-05-51-44.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-09-22-05-51-44.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-09-22-05-51-44.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-09-22-05-51-44.jpg"
 ---
+There is no point in having RMT appearance armor if nobody knows you're wearing it. The entire purpose is to be seen, right? It's a...
+<!--more-->
 
 There is no point in having RMT appearance armor if nobody knows you're wearing it. The entire purpose is to be seen, right? It's a fashion statement. So let's look at these armors from a fashion perspective.
 
@@ -44,11 +21,9 @@ Aside from the asymmetrical shoulder guards, the armors don't look too different
 
 Neither of these sets provide much in the way of hats -- the chain one has the standard skull cap model, the leather one is a little larger, but neither are any that you would care to wear. So we'll skip the hats.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-09-22-05-51-44.jpg "everquest2-2008-12-09-22-05-51-44")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-10-00-13-59-70.jpg" title="everquest2-2008-12-10-00-13-59-70" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-10-00-13-59-70.jpg "everquest2-2008-12-10-00-13-59-70")
-
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-10-00-15-02-86.jpg "everquest2-2008-12-10-00-15-02-86")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-10-00-15-02-86.jpg" title="everquest2-2008-12-10-00-15-02-86" classes="center" >}}
 
 Brightknife, level 24 Arasai assassin, normally wears the Shadowed armor from the Void Invasion quests. She wears the no-appearance Imperceptible armor on her shoulders to make her forearm armor stand out.
 
@@ -56,11 +31,11 @@ The Seafury armor immediately draws the eye to her long legs. The reflective met
 
 The Tunarian armor just screams "DRUID". Only the waist decoration and the overlarge shoulder guard distinguish this from other, similar armors.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-10-00-23-45-28.jpg "everquest2-2008-12-10-00-23-45-28")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-10-00-23-45-28.jpg" title="everquest2-2008-12-10-00-23-45-28" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-10-00-22-06-15.jpg "everquest2-2008-12-10-00-22-06-15")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-10-00-22-06-15.jpg" title="everquest2-2008-12-10-00-22-06-15" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-10-00-22-52-46.jpg "everquest2-2008-12-10-00-22-52-46")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-10-00-22-52-46.jpg" title="everquest2-2008-12-10-00-22-52-46" classes="center" >}}
 
 Nashuya normally wears a combination of level 20 quest armor, ebony plate, and blackened iron armor. It's a very appropriate look for a shadow knight -- it is instantly obvious to anyone meeting her what her class is, and yet it's a very stylish ensemble. Though it's not apparent when you look at a Dark Elf alone, compared to the Fairy races, the Tier'Dal are hulking and musclebound. This has a welcome effect with these armors.
 
@@ -68,11 +43,11 @@ On Nashuya, the heavy armor on her lower body completely overpowers the relative
 
 The Tunarian armor, on the other hand, looks like it was made specifically for an elf. I'm showing it here from the back. The studs make her back look broader, and what looked like a forgettable druid outfit on a Fae takes on a more menacing tone here. This is the sort of armor you might wear when you weren't expecting war, but perhaps a really good bar fight might break out. You'd be ready.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-10-00-30-49-29.jpg "everquest2-2008-12-10-00-30-49-29")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-10-00-30-49-29.jpg" title="everquest2-2008-12-10-00-30-49-29" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-10-00-28-18-35.jpg "everquest2-2008-12-10-00-28-18-35")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-10-00-28-18-35.jpg" title="everquest2-2008-12-10-00-28-18-35" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-10-00-30-35-63.jpg "everquest2-2008-12-10-00-30-35-63")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-10-00-30-35-63.jpg" title="everquest2-2008-12-10-00-30-35-63" classes="center" >}}
 
 Tsuki, a gnome wizard, normally dresses in the newbie robe originally given to all new casters upon being brought to the Isle of Refuge. She wears it fondly, as this robe has not been given in game since the classes were revamped several years ago.
 

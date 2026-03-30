@@ -3,39 +3,16 @@ date: '2007-12-26T01:19:21-05:00'
 draft: false
 title: "Buzzkillaz: Birth of a Legend"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/26/buzzkillaz-birth-of-a-legend/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Once a month, the Buzzkillaz come together from their solo gigs to rock the world. And the world is rocked and it is rolled. Today..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/stp60914.JPG"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/stp60914.JPG"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/stp60914.JPG"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/stp60914.JPG"
 ---
+Once a month, the Buzzkillaz come together from their solo gigs to rock the world. And the world is rocked and it is rolled. Today...
+<!--more-->
 
-![stp60914.JPG](https://chasingdings.com/wp-content/uploads/2007/12/stp60914.JPG)
+
 
 Once a month, the Buzzkillaz come together from their solo gigs to rock the world. And the world is rocked and it is rolled. Today they formed, for perhaps the last time, to do a benefit concert, one legendary evening, one endless setlist.
 

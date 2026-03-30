@@ -3,43 +3,18 @@ date: '2008-07-07T08:14:14-05:00'
 draft: false
 title: "EQ2: Flittering furtively"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/07/eq2-flittering-furtively/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't blogged about EQ2 in about a month from never. Not because I haven't been playing it -- I have -- but just because..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg"
 ---
+I haven't blogged about EQ2 in about a month from never. Not because I haven't been playing it -- I have -- but just because...
+<!--more-->
 
 I haven't blogged about EQ2 in about a month from never. Not because I haven't been playing it -- I have -- but just because I haven't really been doing anything of interest. Running around, exploring. Being without a guild on my main characters tends to limit the time I spend on them, since EQ2 is a group-based game at all levels but especially so at higher levels, and without friends to group with, there's little incentive to log in. Part of that is due to having two jobs and entirely unable to devote the time to a raiding guild that would be required, since raid guilds are themselves a second (unpaid) job. I suppose a casual guild is the best thing I could hope for, but -- I LOVE RAiDING. Logging in and NOT raiding would make me sad.
-
-![everquest2-2008-07-07-07-23-32-35.jpg](https://chasingdings.com/wp-content/uploads/2008/07/everquest2-2008-07-07-07-23-32-35.jpg)
 
 Luckily, I do have a guild for some of my characters -- the EQ2 branch of Nostalgia is going great. Thanks to the tireless efforts of crafters, writ-takers and heritage quest-doers, Nostalgia on the Najena server is leveling fast. I hadn't played there for months, but it was time I buckled down and did the void storm quests on at least one character, and so I woke up my Arasai assassin, Brightknife, from her slumber.
 
@@ -55,7 +30,7 @@ Sunday, I grouped with Said and Mayadhros and we hit up Splitpaw. Given we had n
 
 After that, I started work on my MMO DNA project and got quite far until a family emergency had us spending the rest of the day at the hospital (don't worry, nothing serious and everyone is fine, full details on my personal blog).
 
-![everquest2-2008-07-07-07-11-41-93.jpg](https://chasingdings.com/wp-content/uploads/2008/07/everquest2-2008-07-07-07-11-41-93.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/everquest2-2008-07-07-07-11-41-93.jpg" classes="center" >}}
 
 Oh, there's Verd. I originally got him the bp from the Imperceptible Beauty set -- which has no graphic (Brightknife is wearing that armor on her upper arms to look sleeveless), and he ran around most of the day bare-chested with that glowy cape hanging from his shoulders. But I decided he deserved some dignity, so he got that night black robe, and that cool staff which was a good upgrade to his hammer. Since he had points left over, he bought Brightknife the chair and end table seen in the first screenshot.
 

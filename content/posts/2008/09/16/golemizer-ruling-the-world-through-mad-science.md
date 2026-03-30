@@ -3,38 +3,14 @@ date: '2008-09-16T13:30:21-05:00'
 draft: false
 title: "Golemizer -- ruling the world through mad science"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/16/golemizer-ruling-the-world-through-mad-science/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "From the press release (at work, so just cut/paste, haven't played yet). Looks from the screenshots like an old Super Nintendo-like RPG. You create golems..."
+categories:
   - "MMORPG"
+tags:
   - "Golemizer"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+From the press release (at work, so just cut/paste, haven't played yet). Looks from the screenshots like an old Super Nintendo-like RPG. You create golems...
+<!--more-->
 
 From the press release (at work, so just cut/paste, haven't played yet). Looks from the screenshots like an old Super Nintendo-like RPG. You create golems and other stuff and rule the world. Their web page has the standard Albert Einstein-looking mad scientist. What did Einstein ever do to be demonized as the stereotypical mad scientist? He always looked like a kindly uncle or something. Peter Cushing has a kind of chiseled, mean look that would be easy to draw, and has the advantage of actually playing a mad scientist in movies, and plus he destroyed Alderaan... I dunno. Leave Einstein alone!!!! Anyway.
 

@@ -3,40 +3,17 @@ date: '2009-12-05T19:44:11-05:00'
 draft: false
 title: "World of Warcraft: I fail at WoW."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/05/word-of-warcraft-i-fail-at-wow/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Amazingly, I don't think Blizzard has ever offered me free time to check out WoW once again before. They DID send me a trial disk..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/wowfail.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/wowfail.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/wowfail.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/wowfail.png"
 ---
+Amazingly, I don't think Blizzard has ever offered me free time to check out WoW once again before. They DID send me a trial disk...
+<!--more-->
 
-![Kanda, Tipa and Etha failing at WoW](https://chasingdings.com/wp-content/uploads/2009/12/wowfail.png "Kanda, Tipa and Etha failing at WoW")
+
 
 Amazingly, I don't think Blizzard has ever offered me free time to check out WoW once again before. They DID send me a trial disk for Burning Crusade after it launched, but you had to have an active subscription to give it a shot. When I checked out my account page, there was the free week offer, there was an offer for 10 free days of Burning Crusade, there was the link to download all the game files in case I didn't have them.... It was a warm, fuzzy feeling. They really wanted me back!
 

@@ -3,40 +3,17 @@ date: '2013-05-15T06:42:20-05:00'
 draft: false
 title: "STO: Where's my TIMESHIP?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/15/sto-wheres-my-timeship/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Sooooooo I log into Star Trek Online after being away for several months. With the Romulans coming, I'd better get familiar with the game again,..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/rift.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/rift.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/rift.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/rift.png"
 ---
+Sooooooo I log into Star Trek Online after being away for several months. With the Romulans coming, I'd better get familiar with the game again,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/rift.png" title="Computer, freeze simulation Tipa alpha six" class="align-center" >}}
+
 
 Sooooooo I log into Star Trek Online after being away for several months. With the Romulans coming, I'd better get familiar with the game again, right? My monthly stipend of Zen (cash shop currency) for being a subscriber has built up enough that I could get the three-pack of Andorian escort ships I've been wanting since pretty much Day One for free. Free in a sense, given I've been subscribing to a game that I haven't been actively playing. But, I wouldn't be out any _additional_ cash.
 

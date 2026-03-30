@@ -3,54 +3,32 @@ date: '2010-08-09T21:38:51-05:00'
 draft: false
 title: "Star Trek Online: Fluid Dynamics (spoilers!)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/09/star-trek-online-fluid-dynamics-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Having saved the Undine from forced assimilation at the hands of the Borg in the previous episode, Assimilation, Starfleet believes the Undine might be convinced..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Episode"
   - "Fluid Dynamics"
   - "Fluidic Space"
   - "Hylasa"
   - "Starfleet"
   - "Undine"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg"
 ---
+Having saved the Undine from forced assimilation at the hands of the Borg in the previous episode, Assimilation, Starfleet believes the Undine might be convinced...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-08-17-53-56-96.jpg "Looking for a stable portal")
 
-Having saved the Undine from forced assimilation at the hands of the Borg in the previous episode, [Assimilation](https://chasingdings.com/index.php/2010/07/29/star-trek-online-assimilation/), Starfleet believes the Undine might be convinced to form an alliance with the Federation to remove the Borg from the galaxy AND from fluidic space, forever. Scout ships have reported a number of anomalies forming in the center of a nearby star ckuster, and the USS Monterey is to investigate them. If a safe portal to fluidic space is to be had, we are to enter it and make contact with the Undine.
+
+Having saved the Undine from forced assimilation at the hands of the Borg in the previous episode, [Assimilation](https://tipa16384.github.io/wkblog/index.php/2010/07/29/star-trek-online-assimilation/), Starfleet believes the Undine might be convinced to form an alliance with the Federation to remove the Borg from the galaxy AND from fluidic space, forever. Scout ships have reported a number of anomalies forming in the center of a nearby star ckuster, and the USS Monterey is to investigate them. If a safe portal to fluidic space is to be had, we are to enter it and make contact with the Undine.
 
 Upon arrival, sensors do detect a number of portals, all caught up in some sort of plasma that makes remote investigation impossible. We will have to approach each anomaly to judge its worthiness. We soon find that the space in the area is crawling with Undine "Nicor" ships.
 
 They attack; we fend them off and in the end flee into the plasma field -- which blinds both us AND the Undine. Free of direct attack while we are in the plasma field, we slowly feel our way from one anomaly to another. The last one is the only suitable one. We fired a buoy containing messages to loved ones in case we never returned, and then we entered the portal and found outselves in fluidic space.
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-08-18-00-42-27.jpg "Fluidic space")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-08-18-00-42-27.jpg" title="Fluidic space" classes="center" >}}
 
 We found the space to be not nearly as empty as we'd expected; aside from the eddies and currents in this infinite expanse of biomass, there were continent-sized masses of nearly solid matter. We found these to be very similar to the coral in Earth oceans; a resting and hiding place where life can flourish.
 
@@ -62,7 +40,7 @@ One of the alien ships hailed us, explained that they were the Hylasa, and could
 
 We did so, agreeing to meet them at some safer coordinates when we were ready.
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-08-18-26-38-79.jpg "A Hylasan ")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-08-18-26-38-79.jpg" title="A Hylasan " classes="center" >}}
 
 When we arrived at the coordinates, we were introduced to the Hylasa, a race that lives in symbiosis with great living ships called Gekla. The ship provides them warmth, food and protection, and the Hylasa keep it company on its long, ceaseless journey.
 

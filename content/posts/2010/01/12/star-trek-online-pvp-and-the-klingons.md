@@ -3,48 +3,23 @@ date: '2010-01-12T00:16:55-05:00'
 draft: false
 title: "Star Trek Online: PvP and the Klingons"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/12/star-trek-online-pvp-and-the-klingons/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In my first Star Trek Online open beta post, I gave a brief overview of the entire game. In the second, I covered the basics..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-10-14-14-23.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-10-14-14-23.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/screenshot_2010-01-10-14-14-23.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/screenshot_2010-01-10-14-14-23.jpg"
 ---
+In my first Star Trek Online open beta post, I gave a brief overview of the entire game. In the second, I covered the basics...
+<!--more-->
 
-In my first Star Trek Online open beta post, I gave [a brief overview](https://chasingdings.com/index.php/2010/01/11/star-trek-online-a-first-look/) of the entire game. In the second, I covered the basics of [character and ship customization](https://chasingdings.com/index.php/2010/01/11/star-trek-online-character-and-ship-creation/). After that, I went over some of the beginning tactics you'll be using in [space combat](https://chasingdings.com/index.php/2010/01/11/star-trek-online-basic-space-combat-video/). In this post, I'd like to talk about PvP.
-
-![](https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-10-14-14-23.jpg "D")
+In my first Star Trek Online open beta post, I gave [a brief overview](https://tipa16384.github.io/wkblog/index.php/2010/01/11/star-trek-online-a-first-look/) of the entire game. In the second, I covered the basics of [character and ship customization](https://tipa16384.github.io/wkblog/index.php/2010/01/11/star-trek-online-character-and-ship-creation/). After that, I went over some of the beginning tactics you'll be using in [space combat](https://tipa16384.github.io/wkblog/index.php/2010/01/11/star-trek-online-basic-space-combat-video/). In this post, I'd like to talk about PvP.
 
 Where the Federation might waste time on missions of peace, mercy and diplomacy, facing only NPC ships, Klingons have no patience for such things. The only thing that gets them to put down the *gagh* and blood wine and get into their Birds of Prey is the prospect of seeing the explosions of Federation starships dot the starry sky like the ceremonial disruptor cannon firing at the feast of *batlhjaj*.
 
 Klingons don't gain skill points in "episodes". They gain skill points by "killing Federation players wherever they find them."
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-10-14-25-40-67.jpg "The K")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-10-14-25-40-67.jpg" title="The K" classes="center" >}}
 
 While Klingon ships are no less customizable than their Federation counterparts, they have somewhat different abilities. They rely more often on disruptor cannons over phasers. Their narrow firing arc tends to reward an aggressive rush at the enemy. Every ship is equipped with a very functional cloaking device, that allows them to get quite close to their enemy before they tear them apart. It is unknown if the device helps cover a retreat, because Klingons NEVER retreat.
 
@@ -52,7 +27,7 @@ After the briefest of introductions to Klingon life (you must defeat your instru
 
 When I got used to a ship far nimbler than the Starfleet vessel I'd been flying with the Feds, I headed to the nearest system, where I was shown a list of ongoing PvP instances (and where I could create my own, if I wished).
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-10-18-40-48-09.jpg "PvP instances")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-10-18-40-48-09.jpg" title="PvP instances" classes="center" >}}
 
 I queued up for several. Despite the time estimate of "no wait", it took several minutes before I was brought into the map.
 

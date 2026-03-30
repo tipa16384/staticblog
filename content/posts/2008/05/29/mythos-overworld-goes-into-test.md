@@ -3,40 +3,17 @@ date: '2008-05-29T10:58:46-05:00'
 draft: false
 title: "Mythos' Overworld goes into test"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/29/mythos-overworld-goes-into-test/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Spent some time in IRC and on the forums waiting with a lot of other Mythos fans for the rumored arrival of Mythos' Overworld, which..."
+categories:
   - "MMORPG"
   - "Mythos"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-28-23-42-04-66.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-28-23-42-04-66.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/mythos-2008-05-28-23-42-04-66.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/mythos-2008-05-28-23-42-04-66.jpg"
 ---
+Spent some time in IRC and on the forums waiting with a lot of other Mythos fans for the rumored arrival of Mythos' Overworld, which...
+<!--more-->
 
-![mythos-2008-05-28-23-42-04-66.jpg](https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-28-23-42-04-66.jpg)
+
 
 Spent some time in IRC and on the forums waiting with a lot of other Mythos fans for the rumored arrival of Mythos' Overworld, which turns the heavily-instanced game into a game which rewards exploration and wandering about in the same way Oblivion does.
 

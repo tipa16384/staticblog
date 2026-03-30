@@ -3,41 +3,18 @@ date: '2013-02-03T12:15:25-05:00'
 draft: false
 title: "D&D4e: Valda Onyxheart"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/03/dd4e-valda-onyxheart/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The sky above the lost city of Thunderholme was gray and crumbling. Massive chunks of granite had been ripped from the sky and thrown to..."
+categories:
   - "D&D 4e"
   - "EverQuest"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/eqgame-2013-02-03-10-52-17-08-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/eqgame-2013-02-03-10-52-17-08-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/eqgame-2013-02-03-10-52-17-08-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/eqgame-2013-02-03-10-52-17-08-480x343.jpg"
 ---
+The sky above the lost city of Thunderholme was gray and crumbling. Massive chunks of granite had been ripped from the sky and thrown to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/eqgame-2013-02-03-10-52-17-08-480x343.jpg" title="Valda Onyxheart" class="align-center" >}}
+
 
 The sky above the lost city of Thunderholme was gray and crumbling. Massive chunks of granite had been ripped from the sky and thrown to smash the carved homes and markets below by illithid magics and the violence of the stone giants. Rotted carrion worm carapaces blocked the obsidian paths along which ore was brought to the now-silent foundries. The mithril-glow lamps that had once lit the city like a thousand bright stars were now dark, melted by the craven horde. Now the only light in Thunderholme came from fetid corpse-fires that cast flickering green light from between the bodies of the orcs and goblins that crowded close.
 

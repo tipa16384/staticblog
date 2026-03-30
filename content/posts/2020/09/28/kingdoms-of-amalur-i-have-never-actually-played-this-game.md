@@ -3,41 +3,19 @@ date: '2020-09-28T07:50:22-05:00'
 draft: false
 title: "Kingdoms of Amalur: I have never actually played this game"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/28/kingdoms-of-amalur-i-have-never-actually-played-this-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've uncovered some unsettling truths about this game, or rather, the original version of it that I played when it came out in 2012, and..."
+categories:
   - "Steam Games"
+tags:
   - "Kingdoms of Amalur: Reckoning"
   - "RPG"
   - "Twitch"
-  - "Youtube"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/deadkel.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/deadkel.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "YouTube"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/deadkel.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/deadkel.png"
 ---
+I've uncovered some unsettling truths about this game, or rather, the original version of it that I played when it came out in 2012, and...
+<!--more-->
 
 I've uncovered some unsettling truths about this game, or rather, the original version of it that I played when it came out in 2012, and then again a few years later in 2016.
 
@@ -57,7 +35,7 @@ The Idylla Kollosaie adventure takes place in a giant land with an imposing city
 
 This is a really incredible expansion. I'm either too stupid or the game is too bugged and I can't finish the plotline, so I've set that aside.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/idylla-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/idylla-1024x576.png" classes="center" >}}
 
 I just looked at the map just now and thought maybe I could find a way in from the back... I'll try that eventually.
 
@@ -69,7 +47,7 @@ We shipwrecked, of course, on Gallows End, the home of notorious dead pirate ~~D
 
 This expansion has some compensation for keeping you locked up. You get a castle! One of the first quests on the island has you clearing out an old, decrepit castle just past the protected starter village.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/idylla-1-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/idylla-1-1024x576.png" classes="center" >}}
 
 There may have been one or two previous tenants to evict.
 

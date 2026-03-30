@@ -3,42 +3,21 @@ date: '2009-09-13T21:29:49-05:00'
 draft: false
 title: "Daily Blogroll Looks Back: 2001"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/13/daily-blogroll-looks-back-2001/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was cleaning out my closet and found a few old floppy disks, REALLY old. Someone had scrawled \"Daily Blogroll: Sep '01\" on them. I..."
+categories:
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/blogdisks.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/blogdisks.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/blogdisks.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/blogdisks.jpg"
 ---
+I was cleaning out my closet and found a few old floppy disks, REALLY old. Someone had scrawled "Daily Blogroll: Sep '01" on them. I...
+<!--more-->
 
-![Some very VERY old floppies....](https://chasingdings.com/wp-content/uploads/2009/09/blogdisks.jpg "Some very VERY old floppies....")I was cleaning out my closet and found a few old floppy disks, REALLY old. Someone had scrawled "Daily Blogroll: Sep '01" on them. I honestly don't remember writing any blogs way back then. I had no idea what was on them. They were two 8" disks, so between the two of them, there could be as many as four or five pages of documents sitting there, unread, for eight years.
+
+
+I was cleaning out my closet and found a few old floppy disks, REALLY old. Someone had scrawled "Daily Blogroll: Sep '01" on them. I honestly don't remember writing any blogs way back then. I had no idea what was on them. They were two 8" disks, so between the two of them, there could be as many as four or five pages of documents sitting there, unread, for eight years.
 
 It was a wide, wonderful, weird world back then. The success of EverQuest, Asheron's Call, Ultima Online and Dark Age of Camelot had changed the landscape of online adventure gaming. By requiring players to have hardware 3D graphics acceleration in their machines, EverQuest raised the bar for all MMOs that followed.
 
@@ -46,7 +25,7 @@ It's not easy to track down an 8" floppy drive these days, but after some calls,
 
 ---
 
-![Graphic from Dawn, by Glitchless](https://chasingdings.com/wp-content/uploads/2009/09/dawn1.jpg "Graphic from Dawn, by Glitchless")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/dawn1.jpg" title="Graphic from Dawn, by Glitchless" classes="center" >}}
 
 If you're having trouble releasing ONE MMORPG, why not start another? And if that isn't working out for you, how but just one more? Glitchless, developers of groundbreaking, never-before-seen, you are not WORTHY of playing MMORPG Dawn, who earlier this year suspended development on Dawn to work on a new RTS set in the same world, Dusk: Dawn Tactics, has today announced that they are pushing all those aside and [coming out with an even BETTER game](http://web.archive.org/web/20010923092156/http://glitchless.com/), Racewar Kingdoms. Quoth GM Jeff:
 
@@ -62,7 +41,7 @@ Well, in reality, groups of PKs would just band up and completely ruin the game 
 
 Rumor has it, btw, that the EverQuest devs are considering upping the three hours before your corpse and all your possessions decay to something a little longer. About time.
 
-![Artifact Entertainment](https://chasingdings.com/wp-content/uploads/2009/09/horizons.jpg "Artifact Entertainment")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/horizons.jpg" title="Artifact Entertainment" classes="center" >}}
 
 You know what modern games really need? More lens flare. Seriously.
 
@@ -74,7 +53,7 @@ Artifact Entertainment, makers of Horizons: Empires of Istaria, recently signed 
 
 [Quoth Artifact CEO David Allen](http://web.archive.org/web/20010808161601/www.horizonsfansite.com/DA.shtml) when asked how Horizons and Garriott's new MMO would compete with each other: *"At this point, not at all - Jake and Richard are developing something completely new and innovative; I don't think they're even going the traditional RPG route.  We'll have to wait and see!"*
 
-![Ultima Online Worlds](https://chasingdings.com/wp-content/uploads/2009/09/uoworlds.jpg "Ultima Online Worlds")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/uoworlds.jpg" title="Ultima Online Worlds" classes="center" >}}
 
 Meanwhile, back at ~~the ranch~~ Origin Systems.... Ultima Online Worlds, 3D follow-up to the spectacularly successful (but non-3D) MMO Ultima Online, has been canceled. Asked why this title, which would have taken the Ultima MMO franchise for the first time into the 3D arena, was canceled, Origin's David Swofford said [the decision was made to focus on Ultima Online](http://pc.ign.com/articles/092/092636p1.html) and try to reclaim the #1 spot among persistent world games from such Johnny-come-latelies as EverQuest and Asheron's Call:
 
@@ -82,7 +61,7 @@ Meanwhile, back at ~~the ranch~~ Origin Systems.... Ultima Online Worlds, 3D fol
 
 Well, they definitely don't want to come out with a competitive product....
 
-![Dragon Empires by Codemasters](https://chasingdings.com/wp-content/uploads/2009/09/dragonempires.jpg "Dragon Empires by Codemasters")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/dragonempires.jpg" title="Dragon Empires by Codemasters" classes="center" >}}
 
 Information about sports game impresarios Codemasters' new MMO, [Dragon Empires](http://web.archive.org/web/20011116215637/http://www.codemasters.com/dragonempires/), due out near the middle of next year, continues to trickle out. This groundbreaking game has player guilds warring against one another for control of the cities and resources of the world. According to the press release:
 
@@ -90,7 +69,7 @@ Information about sports game impresarios Codemasters' new MMO, [Dragon Empires]
 
 [You won't be able to *play* a dragon](http://web.archive.org/web/20011116220809/http://www.codemasters.com/dragonempires/faqs_web.htm), though....
 
-![Atriarch](https://chasingdings.com/wp-content/uploads/2009/09/atriarch.jpg "Atriarch")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/atriarch.jpg" title="Atriarch" classes="center" >}}
 
 If your tastes run more toward building and crafting than all that messy war everywhere stuff, Atriarch might be more your style. Players will be able to build any structure they can imagine, LEGO-style. Tired of playing elves, dwarves, and elves? Atriarch does away with all that by setting their game on an entirely alien world. And unlike Dawn's strictly sexual reproduction, Atriarch is a little more "don't ask, don't tell" about it. [Atriarch lead designer Serafina Pechan says](http://web.archive.org/web/20010123211300/www.zdnet.com/gamespot/stories/features/0,12059,2657266-3,00.html):
 
@@ -102,7 +81,7 @@ News about the game has slowed down a bit recently, but alpha testing is expecte
 
 > Of course, if you truly want to ensure your spot as an early Atriarch tester, then bribes in the form of EQ platinum will be accepted on the Povar server.  Other suggestions for offerings, donations, or outright bribes can be emailed to: pleeeeeezepickme@atriarch.com ;-)
 
-![Adellion: Tents in a desert. No, really.](https://chasingdings.com/wp-content/uploads/2009/09/adellion.jpg "Adellion: Tents in a desert. No, really.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/adellion.jpg" title="Adellion: Tents in a desert. No, really." classes="center" >}}
 
 If war everywhere is what you're after, Adellion has the stuff. Massive battles. Permadeath. No magic. No elves, dwarves, or any race but human. A world so large that you couldn't cross it if you set your character dashing across it on horseback for an entire day. Adellion's [recently released FAQ](http://web.archive.org/web/20010502123813/www.adellionworld.co.uk/faq.htm) explains all this and a little more about what it means to play in a game where role-playing is *enforced*:
 
@@ -110,7 +89,7 @@ If war everywhere is what you're after, Adellion has the stuff. Massive battles.
 
 Gotta love a game that spells out why they don't want you as a player in their FAQ.
 
-![Yay! Elves!](https://chasingdings.com/wp-content/uploads/2009/09/felwithe.jpg "Yay! Elves!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/felwithe.jpg" title="Yay! Elves!" classes="center" >}}
 
 EverQuest's latest experiment, the "anything goes" PvP server Sullon Zek, is now continually posting PvP stats on the aptly named [Sullon Zek PvP stats page](http://web.archive.org/web/20010726112027/everquest.station.sony.com/stats/sz_summary.jsp). As if you needed ANOTHER reason to hate Halfling Druids...
 

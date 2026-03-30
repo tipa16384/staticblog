@@ -3,37 +3,12 @@ date: '2005-11-15T00:00:00-05:00'
 draft: false
 title: "Electric Ink"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/11/15/electric-ink/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Next big thing? I'm betting it's electronic paper. The time to start thinking about how this can be used innovatively is now - and no..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Next big thing? I'm betting it's electronic paper. The time to start thinking about how this can be used innovatively is now - and no...
+<!--more-->
 
 Next big thing? I'm betting it's [electronic paper](http://en.wikipedia.org/wiki/Electronic_paper). The time to start thinking about how this can be used innovatively is now - and no better time, since [E Ink](http://www.eink.com/index.html) is offering a developer's kit fo $3000.
 

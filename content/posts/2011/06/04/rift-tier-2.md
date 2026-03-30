@@ -3,40 +3,17 @@ date: '2011-06-04T00:48:54-05:00'
 draft: false
 title: "Rift: Tier 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/06/04/rift-tier-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "That's the amazing Stingite and I admiring each other's fashion sense. Because that's what these games really are, when you get right down to it..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-04-01-26-47-06-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-04-01-26-47-06-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-04-01-26-47-06-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-04-01-26-47-06-480x384.jpg"
 ---
+That's the amazing Stingite and I admiring each other's fashion sense. Because that's what these games really are, when you get right down to it...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-04-01-26-47-06-480x384.jpg" title="If you really want to keep it, put a ring on it" class="align-center" >}}
+
 
 That's [the amazing Stingite](http://rift.happydueling.com/) and I admiring each other's fashion sense. Because that's what these games really are, when you get right down to it -- Barbie dolls for adults, right?
 

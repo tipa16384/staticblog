@@ -3,44 +3,22 @@ date: '2024-08-06T07:00:00-05:00'
 draft: false
 title: "Game Night: The Penultimate Nemesis"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/06/game-night-the-penultimate-nemesis/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It was a typical mission until the walls of our starship started whispering words of madness to us..."
-description: "It was a typical mission until the walls of our starship started whispering words of madness to us..."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Game Night"
   - "Nemesis"
   - "Tabletop Games"
+tags:
   - "Alien"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4539.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4539.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4539.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4539.jpg"
 ---
+It was a typical mission until the walls of our starship started whispering words of madness to us...
+<!--more-->
 
-We've been playing Nemesis on game night [for awhile now](https://chasingdings.com/2024/07/03/nemesis-the-board-game/); we've dealt with chest-bursting aliens, aliens that force mutations on you until you die, and tonight, aliens that drive you insane.
+We've been playing Nemesis on game night [for awhile now](https://tipa16384.github.io/wkblog/2024/07/03/nemesis-the-board-game/); we've dealt with chest-bursting aliens, aliens that force mutations on you until you die, and tonight, aliens that drive you insane.
 
 *"Every spaceship has a voice; a melody of machinery and subsystems its crew learns intimately during long travels. The problem is, ever since the last mission our ship sounds WRONG. There’s something foul in the way it’s speaking to us. Barely audible murmurs. Strange whispers no machine could make. The dark corridors and vast halls almost seem to SING.*
 

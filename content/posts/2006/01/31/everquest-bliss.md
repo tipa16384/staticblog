@@ -3,38 +3,13 @@ date: '2006-01-31T00:00:00-05:00'
 draft: false
 title: "Everquest 2 BLISS!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/31/everquest-bliss/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night, I was just gathering tier 3 resources in Thundering Steppes to prepare for Etha and Dina blazing through their twenties in their respective..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Last night, I was just gathering tier 3 resources in Thundering Steppes to prepare for Etha and Dina blazing through their twenties in their respective...
+<!--more-->
 
 Last night, I was just gathering tier 3 resources in Thundering Steppes to prepare for Etha and Dina blazing through their twenties in their respective tradeskills. As mentioned before, when I'm not doing much, I participate in the Faydark community channel, "Heritage" (ostensibly for coordinating heritage quests).
 

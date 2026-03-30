@@ -3,38 +3,16 @@ date: '2022-02-17T00:20:41-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Refactoring"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/02/17/7drl-building-an-engine-refactoring/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I didn't make a lot of visible progress today, but I decided it was time to take a step back and do a vital step..."
+categories:
   - "7DRL"
+tags:
   - "Test Driven Development"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot-1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot-1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-1.png"
 ---
+I didn't make a lot of visible progress today, but I decided it was time to take a step back and do a vital step...
+<!--more-->
 
 I didn't make a lot of visible progress today, but I decided it was time to take a step back and do a vital step in any programming project -- refactoring.
 

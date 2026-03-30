@@ -3,40 +3,17 @@ date: '2013-02-25T07:01:47-05:00'
 draft: false
 title: "DCUO: A Taste of Oolong"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/25/dcuo-a-taste-of-oolong/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last week, our lack of Kaptain KY's greasing influence made it impossible for us to finish defeating the Queen Bee and interrupting her plans to..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/MADV102_COMPDYNAMICLIGHTRIG-PC-24-23.48.350-480x341.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/MADV102_COMPDYNAMICLIGHTRIG-PC-24-23.48.350-480x341.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MADV102_COMPDYNAMICLIGHTRIG-PC-24-23.48.350-480x341.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MADV102_COMPDYNAMICLIGHTRIG-PC-24-23.48.350-480x341.jpg"
 ---
+Last week, our lack of Kaptain KY's greasing influence made it impossible for us to finish defeating the Queen Bee and interrupting her plans to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MADV102_COMPDYNAMICLIGHTRIG-PC-24-23.48.350-480x341.jpg" title="Team Spode and the Tornado Tyrant" class="align-center" >}}
+
 
 Last week, our lack of Kaptain KY's greasing influence made it impossible for us to finish defeating the Queen Bee and interrupting her plans to ship Luthor's future exobytes back up to Brainiac, who claims them for the destruction of Earth.
 
@@ -44,7 +21,7 @@ True fact: there is no entity in the entire universe, outside of Earth, who does
 
 With KY along to provide both damage and power regen, Queen Bee was sent back to her heavenly hive. Somehow I ended up in a damage role instead of a controller role. I didn't realize it until the scorecard in the end, where it clearly showed I did very little regenning of power, but a fair amount of damage. Our strategy for taking care of the turrets in the last room by having one person (me, last night) take out the turrets (good thing I was in damage role, I guess) while everyone else focused on the Queen, was successful. Having a couple extra levels probably didn't hurt.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MADV102_COMPDYNAMICLIGHTRIG-PC-24-23.44.540-480x343.jpg" title="Team Spode and T. O. Morrow" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MADV102_COMPDYNAMICLIGHTRIG-PC-24-23.44.540-480x343.jpg" title="Team Spode and T. O. Morrow" classes="center" >}}
 
 Next instance was Oolong Island, a sovereign nation of mad scientists. That couldn't possibly turn out bad. Having been a haven for Intergang for many years, the native workforce had long been driven away or used for experiments. The mad scientists of Oolong Island were driven to make their own android labor force.
 
@@ -64,7 +41,7 @@ Boss was a bigger Metal Man. Don't remember much about the fight.
 
 Up to this point, we thought we were doing pretty well. We were all getting couches for our lairs, too. Yay more couches. If it weren't so inconvenient to visit someone else's lair, maybe we'd have a chance someday to see each others' bases, but that can never happen. Because, stuff.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MADV107_AUDIO-PC-24-22.56.230-480x300.jpg" title="Earth rising above Moonbaze Alphaz" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MADV107_AUDIO-PC-24-22.56.230-480x300.jpg" title="Earth rising above Moonbaze Alphaz" classes="center" >}}
 
 In the next encounter, Mad Scientist Extraordinaire T. O. Morrow was putting the finishing touches on his Tornado Tyrant, which will turn his greatest failure into his greatest victory, with our deaths! HAHAHAHAHAHAHA!
 

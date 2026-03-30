@@ -3,40 +3,17 @@ date: '2008-01-31T10:27:10-05:00'
 draft: false
 title: "EQ2: Leveling the necromancer in Kylong Plains"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/31/eq2-leveling-the-necromancer-in-kylong-plains/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If you really want to impress your level 66 alt, bring them to the Kylong Plains...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-31-07-39-50-28.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-31-07-39-50-28.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-31-07-39-50-28.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-31-07-39-50-28.jpg"
 ---
+If you really want to impress your level 66 alt, bring them to the Kylong Plains....
+<!--more-->
 
-![everquest2-2008-01-31-07-39-50-28.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-31-07-39-50-28.jpg)
+
 
 If you really want to impress your level 66 alt, bring them to the Kylong Plains.
 
@@ -50,6 +27,6 @@ Her spell damage has gone through the roof, along with her intelligence and stam
 
 I still don't like soloing. I've come to grips with the EQ2 New Game Experience, and I no longer bother looking for groups outside of the instances everyone runs after they turn 76 (though the levels for those are rising -- it is very hard for a 76 to get RoK instance groups now, where it was fairly common in the first month of the expansion).
 
-![everquest2-2008-01-30-22-03-59-85.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-30-22-03-59-85.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-30-22-03-59-85.jpg" classes="center" >}}
 
 Turns out I missed a questline when I was bringing Dina and Dera through Kylong Plains -- the one that ends up using a drachnid costume to go check on a missing person. People used to use those to harvest freely in the drachnid caves, but that was nerfed awhile back. If I'd known that this was the quest line that gave both the funny little red hat (that Dorah wears in the top picture) and the Regimental Chain Armguards, the only piece of the set Dina didn't have, I would have done it for sure. I sold off all Dina's Regimental Chain long ago, since everyone was wearing it, and who wants to look like someone else?

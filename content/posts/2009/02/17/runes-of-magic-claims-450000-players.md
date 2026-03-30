@@ -3,39 +3,15 @@ date: '2009-02-17T07:16:31-05:00'
 draft: false
 title: "Runes of Magic claims 450,000 players"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/17/runes-of-magic-claims-450000-players/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Runes of Magic has been getting a lot of attention from the blogosphere lately. Though obviously heavily inspired by World of Warcraft, this Taiwan import..."
+categories:
   - "MMORPG"
   - "Runes of Magic"
+tags:
   - "Beta"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Runes of Magic has been getting a lot of attention from the blogosphere lately. Though obviously heavily inspired by World of Warcraft, this Taiwan import...
+<!--more-->
 
 [Runes of Magic](http://www.runesofmagic.com/us/index.html) has been getting [a lot of attention](http://adingworld.wordpress.com/2009/02/15/aslan-valley-crafting-and-outfits/) from [the blogosphere](http://notadiary.typepad.com/mysticworlds/runes-of-magic/) lately. Though obviously heavily inspired by World of Warcraft, this Taiwan import adds multi-classing and many other little twists to the basic formula. It's been in beta for months, goes live in March, and today sent me an email saying they had over 450,000 players worldwide.
 

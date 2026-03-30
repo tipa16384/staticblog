@@ -3,44 +3,22 @@ date: '2022-08-30T23:51:54-05:00'
 draft: false
 title: "Blaugust theme week: Lessons learned"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/30/blaugust-theme-week-lessons-learned/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I spent the 31 days of Blaugust working to see if I could get AI to show some creativity in game design, and if I..."
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "Midjourney"
   - "OpenAI"
+tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
   - "Tiddlywinks"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-30-23.00.58-35mm-long-range-photograph-of-a-woman-warrior-reading-a-book-while-sitting-against-a-sleeping-green-dragon-near-a-mountain-lake-pastel-colors-peacef.png"
 ---
+I spent the 31 days of Blaugust working to see if I could get AI to show some creativity in game design, and if I...
+<!--more-->
 
 I spent the 31 days of Blaugust working to see if I could get AI to show some creativity in game design, and if I could get AI image generation programs to produce the art I want at a price I could afford. I learned some things.
 
@@ -102,7 +80,7 @@ But press a button, watch it spit out great articles with no interaction -- no, 
 
 How I'll use it in the future? It's not bad at writing summaries, and sometimes it will suggest a post title that works. Who knows, maybe I'll try to use it to generate ideas. I'd love it to interview me about something and then go write an article about it (and I did do that, in my review of Stray, and it was fun), but working with GPT-3 is just like working with any other tool. You get out of it what you put into it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/4dragons.png" title="Four similar pictures at increasing resolution" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/4dragons.png" title="Four similar pictures at increasing resolution" classes="center" >}}
 
 **The Art -- Midjourney, Craiyon, and Dall-E 2**
 
@@ -110,7 +88,7 @@ The prompt here was, "woman reading a book sitting against a sleeping green drag
 
 I'm pretty sure what AI does best is to make mashups of stuff it already knows. It clearly does that for text -- if you ask it about something fairly well known, I guarantee the consistent, well-written text it generates was copied from someone else's writing. If you ask for some art, I bet it steals from only the best, mashes it up, and applies a filter to it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/image-12.png" title="A newspaper photograph of the winner of the World Singles Tiddlywinks Championships using his squidger to flip the final wink into the cup." class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/image-12.png" title="A newspaper photograph of the winner of the World Singles Tiddlywinks Championships using his squidger to flip the final wink into the cup." classes="fig-20" >}}
 
 Or something. I honestly don't know the details of how it uses its training to come out with images that match your prompt. During my AI project, some of the images that came out were so appropriate and so perfect, I knew they had to have been stolen. The art for the Day 30 banner, for instance. The man in the middle was no creation of any AI.
 

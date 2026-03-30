@@ -3,40 +3,17 @@ date: '2012-01-23T00:24:46-05:00'
 draft: false
 title: "STO Special Task Force walkthrough: Infected (Space)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/23/sto-special-task-force-walkthrough-infected-space/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Infected (Space) is very simple. There's only one thing you have to do. And that is all focus and kill the nanite spheres and probes..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-20-20-48-26-73-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-20-20-48-26-73-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-20-20-48-26-73-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-20-20-48-26-73-480x384.jpg"
 ---
+Infected (Space) is very simple. There's only one thing you have to do. And that is all focus and kill the nanite spheres and probes...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-20-20-48-26-73-480x384.jpg" title="Infected Space (Elite)" class="align-center" >}}
+
 
 Infected (Space) is very simple. There's only one thing you have to do. And that is all focus and kill the nanite spheres and probes when they pop. That's all. Infected (Space) is a test of teamwork. If someone goes off on their own, the optional is all but lost.
 
@@ -46,7 +23,7 @@ The strategy is pretty simple. If you see a nanite sphere or nanite probe, kill 
 
 Kill the transformers in order. Trying to kill both at once will launch an unkillable wave of spheres and probes.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/infected-328x480.png" title="Infected playbook" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/infected-328x480.png" title="Infected playbook" classes="center" >}}
 
 There's a lot of different strategies to winning Infected, especially the elite version, where the transformer guard spheres are replaced by cubes. I'm going to write down the way it's normally done in normal mode.
 
@@ -62,7 +39,7 @@ So when you see a sphere or probe while you're killing a transformer, take a bre
 
 With that down, go to the transformer on the right side (3) and do the same thing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-20-19-33-09-97-480x421.jpg" title="The cube and gateway" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-20-19-33-09-97-480x421.jpg" title="The cube and gateway" classes="center" >}}
 
 With the transformers down, a tactical cube will arrive to guard the gateway. Both the cube and the gateway must die to get the optional. The cube takes longer to kill and does more damage, so I would kill the cube first, then kill the gateway. Some suggest killing the cube right at the gateway, so that the cube will damage the gateway, but that's pretty hard to arrange, and it puts ships in range of the gate's guns. Getting on the far side of the cube keeps everyone out of the range of the gate guns.
 

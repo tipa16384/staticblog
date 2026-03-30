@@ -3,46 +3,23 @@ date: '2012-03-30T21:19:45-05:00'
 draft: false
 title: "D&D4e: The Splug, The"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/03/30/dd4e-the-splug-the/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The screenshot tells the story. Me and Wenner unconscious, Sheeoil dead, only Bryn alive to finish the fight against the ravenous but somewhat stupid blue..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/03/FantasyGrounds-2012-03-30-00-30-06-36-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/03/FantasyGrounds-2012-03-30-00-30-06-36-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/03/FantasyGrounds-2012-03-30-00-30-06-36-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/03/FantasyGrounds-2012-03-30-00-30-06-36-480x360.jpg"
 ---
+The screenshot tells the story. Me and Wenner unconscious, Sheeoil dead, only Bryn alive to finish the fight against the ravenous but somewhat stupid blue...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/FantasyGrounds-2012-03-30-00-30-06-36-480x360.jpg" title="Wenn der blaue Schleim jemand angreifen, stirbt jemand" class="align-center" >}}
+
 
 The screenshot tells the story. Me and Wenner unconscious, Sheeoil dead, only Bryn alive to finish the fight against the ravenous but somewhat stupid blue slime. And what of Splug? What of the goblin who gained our trust and betrayed us, literally backstabbing us?
 
 What of Splug, indeed?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/Splug.jpg" title="Splug" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/03/Splug.jpg" title="Splug" classes="fig-20" >}}
 
 After we finished scraping off the lizard-bug juice from our boots (Bryn, Sheeoil) and feet (Wenner, myself), we decided to go have a look at the corroded bronze door near which Wenner had discovered some tasty and deadly pudding. The door had words scraped into it, "Do Not Enter!!!11!!! SRSLY!!!!", but we're not big on warnings and text speak just enrages Bryn, so we were hot to see just what was behind that green door.
 

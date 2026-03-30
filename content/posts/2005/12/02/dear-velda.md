@@ -3,38 +3,13 @@ date: '2005-12-02T00:00:00-05:00'
 draft: false
 title: "Dear Velda"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/12/02/dear-velda/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A dwarf with a Ukraine accent (go figure) started a love advice column on Kirin Tor. Well, it's not as good as \"Dear Creature...\" could..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+A dwarf with a Ukraine accent (go figure) started a love advice column on Kirin Tor. Well, it's not as good as "Dear Creature..." could...
+<!--more-->
 
 A dwarf with a Ukraine accent (go figure) started a love advice column on Kirin Tor. Well, it's not as good as "Dear Creature..." could have been, but what the heck :P so I asked her for advice, and she replied!
 

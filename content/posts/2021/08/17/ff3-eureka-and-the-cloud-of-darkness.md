@@ -3,49 +3,28 @@ date: '2021-08-17T07:31:09-05:00'
 draft: false
 title: "FF3 -- Eureka, and the Cloud of Darkness"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/17/ff3-eureka-and-the-cloud-of-darkness/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I only had time for a short session last night. Time to grasp Real Power in the dungeon of Eureka, and then, just for fun,..."
+categories:
   - "Blaugust"
   - "CRPG"
   - "Final Fantasy"
   - "Final Fantasy XIV"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Jrpg"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/20210816230414_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/20210816230414_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230414_1.jpg"
 ---
+I only had time for a short session last night. Time to grasp Real Power in the dungeon of Eureka, and then, just for fun,...
+<!--more-->
 
 I only had time for a short session last night. Time to grasp Real Power in the dungeon of Eureka, and then, just for fun, see what's at the top of the Crystal Tower... Time to step back and see what I'm going to need to do before I can finish the game.
 
 Like most Final Fantasy games -- most RPGs of all types, really -- there's a point where you can just forge on to the end of the game, or just dally around working on other goals so much so that the end game isn't really a challenge. I'm there with Final Fantasy III now.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210816225701_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210816225701_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210816225701_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210816225701_1.jpg)
 
 The game sets up a few tests to see if you're ready for the final push.
 
@@ -69,7 +48,7 @@ This was my worry -- that, in fact, I was good enough to beat the game and shoul
 
 There is a point of no return in the game. I went past it, and was shepherded into a fight with Xande, the last of Noah's disciples. The fight was long, but not terrible. The real boss of the game, the Cloud of Darkness, one shot killed us all, as they were meant to do.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210816230619_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210816230619_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230619_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210816230619_1.jpg)
 
 I quit out of the game at this point. The next dungeon is the World of Darkness, and I know from Final Fantasy XIV what a trial that will be.
 

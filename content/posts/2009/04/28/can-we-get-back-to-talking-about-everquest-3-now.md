@@ -3,41 +3,19 @@ date: '2009-04-28T08:08:50-05:00'
 draft: false
 title: "Can we get back to talking about EverQuest 3 now?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/28/can-we-get-back-to-talking-about-everquest-3-now/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Will EverQuest 3 be going cartoony?..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Eq3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/faebeforeandafter.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/faebeforeandafter.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/faebeforeandafter.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/faebeforeandafter.jpg"
 ---
+Will EverQuest 3 be going cartoony?...
+<!--more-->
 
-![faebeforeandafter](https://chasingdings.com/wp-content/uploads/2009/04/faebeforeandafter.jpg "faebeforeandafter")
+
 
 *Will EverQuest 3 be going cartoony?*
 

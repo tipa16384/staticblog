@@ -3,55 +3,31 @@ date: '2008-07-19T08:05:33-05:00'
 draft: false
 title: "EQ: A Night of Terror."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/19/eq-a-night-of-terror/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Terror -- if you're a dragon. Nostalgia the Guild set up a face-to-face for Naggy and Vox with old Veeshan, and I don't think Queen..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Lady Vox"
   - "Lord Nagafen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg"
 ---
+Terror -- if you're a dragon. Nostalgia the Guild set up a face-to-face for Naggy and Vox with old Veeshan, and I don't think Queen...
+<!--more-->
 
 Terror -- if you're a dragon. Nostalgia the Guild set up a face-to-face for Naggy and Vox with old Veeshan, and I don't think Queen Vee will be too happy with her progeny.
-
-![](https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-18-20-35-20-29.jpg "eqgame-2008-07-18-20-35-20-29")
 
 We've been tracking Lord Nagafen all week to see that he remained up. And shockingly, the elder guilds with their twink brigades didn't move on the dragon, so Friday night, it was Nostalgia's turn. We were short handed and had only one healer, the incredibly overworked Coldheat, but we weren't going to be stopped. Also, we didn't have a FD puller, but we weren't going to let that stop us either.
 
 We tried various ways to clear the room; the best way seemed to be to toss a gnome in first, and Gnewton performed amazingly as bait. I think that BBQ sauce-soaked robe he wears combines both fashion AND fine cuisine in an amazing way.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-18-20-37-36-68.jpg "eqgame-2008-07-18-20-37-36-68")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-20-37-36-68.jpg" title="eqgame-2008-07-18-20-37-36-68" classes="center" >}}
 
 Eventually we got the fire lizard alone and we rushed in. Being very short on healers, we had our steadfast servants out for extra healing. We lost Coldheat and then Ceiphied, our tank. Thankfully, Urtog had come by, and he stepped up like a true dwarf and took the aggro and tanked, without healing, while the rest of us desperately tried to take Naggy down. Finally, the dragon turned to run -- we had him. As long as we could keep him from heading into the lava and letting the molten rock from Norrath's core heal him. He died with his head inches away.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-18-20-42-09-92.jpg "eqgame-2008-07-18-20-42-09-92")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-20-42-09-92.jpg" title="eqgame-2008-07-18-20-42-09-92" classes="center" >}}
 
 Ceiphied got [Red Dragon Scales](http://lucy.allakhazam.com/item.html?id=11622) for his epic.
 
@@ -63,7 +39,7 @@ Being only 8:30, we headed over to Permafrost and Lady Vox had apparently recove
 
 We had a couple of dirty pulls with Vox + some trash mobs, but on the first real pull we got her alone and took her down with no more trouble than we had last week.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-18-22-25-27-65.jpg "eqgame-2008-07-18-22-25-27-65")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-18-22-25-27-65.jpg" title="eqgame-2008-07-18-22-25-27-65" classes="center" >}}
 
 Lady Vox was as kind with the epic drops tonight as Lord Nagafen had been. Are they trying to convince us to move on, or something?
 

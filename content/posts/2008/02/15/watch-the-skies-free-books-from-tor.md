@@ -3,39 +3,16 @@ date: '2008-02-15T08:54:56-05:00'
 draft: false
 title: "Watch the Skies: Free books from Tor"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/15/watch-the-skies-free-books-from-tor/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I signed up a couple of weeks ago for Tor's \"Watch the Skies\" promotion, where they send you a dozen of their books, once a..."
+categories:
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/tor.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/tor.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/tor.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/tor.gif"
 ---
+I signed up a couple of weeks ago for Tor's "Watch the Skies" promotion, where they send you a dozen of their books, once a...
+<!--more-->
 
-![tor.gif](https://chasingdings.com/wp-content/uploads/2008/02/tor.gif)
+
 
 I signed up a couple of weeks ago for Tor's "Watch the Skies" promotion, where they send you a dozen of their books, once a week, in PDF format. I'm always on the look for more books to put on my Sony Reader, but PDF files are usually formatted to a much larger page than on the Reader, and this was no exception -- the text, even zoomed, was unreadable to these old eyes. It displays well on my faithful Linux box, Baphomet, in fact very well.
 

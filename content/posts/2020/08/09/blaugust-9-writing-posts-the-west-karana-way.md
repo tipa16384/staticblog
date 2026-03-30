@@ -3,37 +3,16 @@ date: '2020-08-09T11:33:54-05:00'
 draft: false
 title: "Blaugust #9: Writing Posts the West Karana Way."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/09/blaugust-9-writing-posts-the-west-karana-way/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
+summary: "Sorry that I've been missing so many days of blogging. I really wanted to do a post every day, but last Tuesday, Tropical Storm Isaias..."
+categories:
+  - "Blaugust"
 tags:
   - "Blaugust"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/Schlock_-_Fragsuit_Schlock_using_Firesupport_mode.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/Schlock_-_Fragsuit_Schlock_using_Firesupport_mode.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/Schlock_-_Fragsuit_Schlock_using_Firesupport_mode.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/Schlock_-_Fragsuit_Schlock_using_Firesupport_mode.jpg"
 ---
+Sorry that I've been missing so many days of blogging. I really wanted to do a post every day, but last Tuesday, Tropical Storm Isaias...
+<!--more-->
 
 Sorry that I've been missing so many days of blogging. I really wanted to do a post every day, but last Tuesday, Tropical Storm Isaias rolled through and cut power to almost a million Connecticut residents, me included. We just got power back yesterday afternoon.
 

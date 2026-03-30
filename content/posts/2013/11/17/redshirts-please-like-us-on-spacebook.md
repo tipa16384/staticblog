@@ -3,40 +3,17 @@ date: '2013-11-17T12:38:01-05:00'
 draft: false
 title: "Redshirt: Please Like Us On Spacebook"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/11/17/redshirts-please-like-us-on-spacebook/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was Galaxy Quest that first codified for me the sad fate of supporting characters in the original Star Trek, the \"... guy in the..."
+categories:
   - "Other Games"
   - "Redshirt"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg"
 ---
+It was Galaxy Quest that first codified for me the sad fate of supporting characters in the original Star Trek, the "... guy in the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/Redshirt-2013-11-17-08-45-37-95.jpg" title="Redshirts title screen" class="align-center" >}}
+
 
 It was Galaxy Quest that first codified for me the sad fate of supporting characters in the original Star Trek, the "... guy in the episode who dies to prove how serious the situation is.", in the words of Guy Fleegman. Last year, SF author John Scalzi wrote the story of a starship crew that was terrified of the inevitable deaths that awaited them on away missions -- if you weren't part of the main crew, you were worse than expendable.
 
@@ -48,7 +25,7 @@ You have 160 days to figure out how to get off the station or share its fate. If
 
 You're gonna see your friends and lovers die all around you. And then you're gonna post about it on Spacebook.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/Redshirt-2013-11-17-00-36-04-92.jpg" title="Friend me!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/Redshirt-2013-11-17-00-36-04-92.jpg" title="Friend me!" classes="center" >}}
 
 You and a couple thousand other expendables are dropped on the station to do the menial chores of running the place while the senior staff fight for spots on the rare shuttles out. Your new job as a transporter accident cleanup technician doesn't give you much of a chance of getting one of those spots, and how much can you trust your fellow minions, anyway?
 
@@ -62,7 +39,7 @@ You're never going to get ahead by keeping your head down and pushing your mop a
 
 Friending them on Spacebook is a good idea. If they're compatible or at least interested, they might enjoy some alone time with you, and maybe when your resume lands on their desk, they'll overlook the fact that your main qualification for the newly vacated position of Emergency Warp Reactor Overflow Technician is an 8"x10" glossy photo of you cuddling a robo-cat.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/Redshirt-2013-11-17-00-28-33-01.jpg" title="You Escaped!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/Redshirt-2013-11-17-00-28-33-01.jpg" title="You Escaped!" classes="center" >}}
 
 There are, according to the possible achievements, five ways of escaping the station and winning the game. Romance -- get in a relationship with a certain someone who has a secret way out. Bribery -- paying a visitor enough money to take you out. Career -- gaining a spot with the senior staff by becoming a captain's assistant. Wealth -- buying a ticket. Schmooze -- becoming friends with the right people. (Schmoozing is a skill at which you can become better. Toadying up to your senior officers builds that quickly. As does hosting successful parties).
 

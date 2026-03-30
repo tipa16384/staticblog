@@ -3,41 +3,19 @@ date: '2024-01-14T20:05:18-05:00'
 draft: false
 title: "HeroQuest: The Monks and the Rogues step up"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/01/14/heroquest-the-monks-and-the-rogues-step-up/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Barbarian, Dwarf, Elf and Wizard are looking around nervously..."
-description: "Barbarian, Dwarf, Elf and Wizard are looking around nervously..."
-tags:
+categories:
   - "Game Night"
   - "HeroQuest"
+tags:
   - "Monk"
   - "Rogue"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/IMG_4162-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/01/IMG_4162-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4162-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4162-scaled.jpg"
 ---
+Barbarian, Dwarf, Elf and Wizard are looking around nervously...
+<!--more-->
 
 One of the very coolest things you can do on Mastodon is follow hashtags. I'm always thinking of new hashtags I can follow; I was kind of surprised at myself that I hadn't already followed the #HeroQuest hashtag, given how often I post about it and how much fun my family gaming group is having actually playing it.
 
@@ -49,7 +27,7 @@ I've seen rankings of the HeroQuest characters, and some of the starting classes
 
 I've written how the Dwarf has had a recent glow-up, likely able to start being thought of as the tank of the group, and so the Barbarian joins the list of the eminently replaceable.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/image-1-171x300.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/image-1-171x300.png" classes="fig-20" >}}
 
 The monks can hit with two dice with no weapons at all, but they can wield a decent selection of the other weapons, though they cannot wear any armor at all. 
 
@@ -69,7 +47,7 @@ All the styles have two moves, though only one can be used.
 
 Monks have great utility in and out of battle. Unfortunately, the cards can't be combined, so if you use Tidal Surge to get a free hit, you can't use Strength of Mountain to double the attack dice in that turn. There's the likelihood that the monk could get hit. (*Is this true, though? Nothing in the card says you can only use one card per turn. Neither side of the Water card seems to require an action. All the other cards do, but it looks like Water can be combined with Air or Earth, or even Fire if set up carefully -- Air and Earth already been used, use Water to get in position, do a Fire attack, and continue movement back out.)*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/image-2-1024x585.png" title="I should have painted the rogues to look like this..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/image-2-1024x585.png" title="I should have painted the rogues to look like this..." classes="center" >}}
 
 The rogues came with both a male and a female elf, but they also came with two sets of the rogue cards, so potentially, two players could each play a rogue. How many rogues do we need?
 

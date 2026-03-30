@@ -3,54 +3,32 @@ date: '2025-06-03T10:00:00-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/06/03/i-know-what-i-did-last-weekend-4/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Sometimes I just want to play games to relax. Sometimes."
-description: "Sometimes I just want to play games to relax. Sometimes."
-tags:
+categories:
   - "Frosthaven"
   - "HeroQuest"
   - "PS2"
   - "PS5"
   - "Tabletop Games"
+tags:
   - "Balatro"
   - "Dora the Explorer"
   - "The Pathless"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/The-Pathless_20250601093750-scaled.jpg"
 ---
+Sometimes I just want to play games to relax. Sometimes.
+<!--more-->
 
 Kasul and I hadn't been down to the retro game stores for awhile, so that was our Saturday -- lunch at Arby's, checking out the game stores in Newington (where I bought some Citadel paints for mini adventures), back up to Manchester for The Grid and Retro Junk... we found some stuff.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/image.png" title="Dora saves the Snow Princess (PS2)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/image.png" title="Dora saves the Snow Princess (PS2)" classes="center" >}}
 
 It's hard to believe, but back about twenty years ago, kids would enter kindergarten with absolutely no experience playing platform games or, in many cases, not even understanding one word of Spanish. I have an admission: even though I'm a little older, *neither did I*. My lack of video games growing up stunted my social *and* emotional growth. It's a hole that cannot be filled.
 
 Until I found Dora the Explorer: Dora saves the Snow Princess. The episode of the cartoon left so many questions unanswered; Nickelodeon was forced by the FCC to answer the questions with a video game. This "Metroidvania"-style game follows Dora and her friends as she explores a snowy wonderland and the dark caves beneath, in search of her friend, the Snow Princess. It's a treasured addition to my PS2 game collection.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/The-Pathless_20250601083516-1024x576.jpg" title="The Pathless" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/The-Pathless_20250601083516-1024x576.jpg" title="The Pathless" classes="center" >}}
 
 I'd never heard of the PS5 game "The Pathless". I was surprised to find two copies of it at one of the used game stores. The reviews called it a relaxing game in the vein of Journey, Shadow of the Colossus and other games that emphasize puzzle solving over combat.
 
@@ -64,7 +42,7 @@ Each god fight is different. The two I've done start with a chase, where you sho
 
 It's a short game, but it's a lot of fun. The boss fight is a very small part of the game (though pretty cool), and mostly it's gliding around the world at high speed, solving increasingly intricate environmental puzzles. If exploration and jumping puzzles and races were your favorite parts of Guild Wars 2, you will like this game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/Balatro_20250602230340-1024x576.jpg" title="Balatro" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/Balatro_20250602230340-1024x576.jpg" title="Balatro" classes="center" >}}
 
 I noticed my boyfriend was obsessed with a new mobile game, playing it constantly. It was Balatro, a poker-adjacent deck building game that won all the awards last year. "I've heard good things about it," I said. "It's a good game," he said.
 
@@ -78,7 +56,7 @@ The deck building part of the game comes between rounds, when you can spend you 
 
 It's not a bad game. I haven't won, but it's not important to win. Winning does open up endless play and challenge modes, and if you want to see scores in the quintillions, it's the way to go, but for quick play, the basic game is decently fun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/image-1-1024x681.png" title="These minis aren't finished. Don't judge me!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/image-1-1024x681.png" title="These minis aren't finished. Don't judge me!" classes="center" >}}
 
 We're playing Frosthaven now, finally, and we think it's important to put our 3D printers to good use and make minis for all the monsters and map decorations. Kasul printed an army of Algox, the initial villains of the campaign, but it was going to be up to me to paint them. I'm finally getting around to it.
 

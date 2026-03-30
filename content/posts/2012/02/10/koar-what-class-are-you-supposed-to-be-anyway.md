@@ -3,40 +3,17 @@ date: '2012-02-10T08:00:50-05:00'
 draft: false
 title: "KoA:R -- What class are you supposed to be, anyway?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/10/koar-what-class-are-you-supposed-to-be-anyway/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I really have come to appreciate Reckoning's adaptability...."
+categories:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-10-07-45-06-31-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-10-07-45-06-31-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-10-07-45-06-31-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-10-07-45-06-31-480x384.jpg"
 ---
+I really have come to appreciate Reckoning's adaptability....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-10-07-45-06-31-480x384.jpg" title="Your basic fighter/rogue" class="align-center" >}}
+
 
 I really have come to appreciate Reckoning's _adaptability_.
 
@@ -48,7 +25,7 @@ I put all my points into Finesse, chose a full-on rogue destiny and... realized 
 
 This is where I loaded up my latest saved game and tried again...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-10-07-38-05-11-480x384.jpg" title="Worth respeccing for!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-10-07-38-05-11-480x384.jpg" title="Worth respeccing for!" classes="center" >}}
 
 I needed seven points of Might to wear all my current armor, so I dutifully put seven points in Might, for shield blocking, because that's fun to do. The rest into daggers, faeblades and ranged prowess on the Finesse screen.
 

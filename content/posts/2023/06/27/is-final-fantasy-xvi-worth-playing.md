@@ -3,38 +3,16 @@ date: '2023-06-27T20:35:52-05:00'
 draft: false
 title: "Is Final Fantasy XVI worth playing?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/06/27/is-final-fantasy-xvi-worth-playing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "A gripping story, a deeply customizable combat system and a beautiful world being killed by its crystals. It's Final Fantasy. But is it for you?"
-description: "A gripping story, a deeply customizable combat system and a beautiful world being killed by its crystals. It's Final Fantasy. But is it for you?"
-tags:
+categories:
   - "Final Fantasy"
+tags:
   - "RPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/06/1-FINAL-FANTASY-XVI_20230626140359-001.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/06/1-FINAL-FANTASY-XVI_20230626140359-001.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/06/1-FINAL-FANTASY-XVI_20230626140359-001.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/06/1-FINAL-FANTASY-XVI_20230626140359-001.jpg"
 ---
+A gripping story, a deeply customizable combat system and a beautiful world being killed by its crystals. It's Final Fantasy. But is it for you?
+<!--more-->
 
 This isn't my first Final Fantasy game by a long shot. But, it's probably the first one I sat down and completed without getting distracted by any other game since... of the mainline games... Final Fantasy VIII. It's been a long time since I gave a Final Fantasy game complete control over my free time. Now I'm at the other end of it, I've had a couple days to think it over.
 
@@ -46,7 +24,7 @@ Time skips forward several years. Clive is now a member of a Bearer assassin tea
 
 This is where the prologue ends -- the part of the game in the demo, so I have spoiled nothing here.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/06/FINAL-FANTASY-XVI_20230627070214-1024x576.jpg" title="If you can see Nektar, it means you believe in fairy tales" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/06/FINAL-FANTASY-XVI_20230627070214-1024x576.jpg" title="If you can see Nektar, it means you believe in fairy tales" classes="center" >}}
 
 By the time I finished the demo, I really wasn't sure I wanted to play the game. The plot seemed standard, the cutscenes overly long, and the time between battles was so long that I'd already forgotten a lot of the combos before the next battle. Plus the fight as an Eikon (you play Phoenix instead of Ifrit for the only time in the game) was so very different, QuickTime Events instead of combos separated by absolutely cinematic but ultimately linear cutscenes just really made it seem like a game that would be as appreciated to a potential player by just watching all the cutscenes on YouTube.
 
@@ -60,7 +38,7 @@ Yet with all that said -- I was still drawn in. There's a lot to like. As Clive 
 
 The dying world of Venisthea drew me in, too. The absolutely gorgeous cities, crowned by the towering Mothercrystals that give humanity their magic while simultaneously killing the world. (Subtle metaphors are not really in the FF wheelhouse, and never have been), The struggle of the people, especially the enslaved Bearers. The deep history and lore. The side quests that fill in so much of the world's story.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/06/FINAL-FANTASY-XVI_20230626182934-1024x576.jpg" title="Notorious Monsters always strike a pose before a battle" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/06/FINAL-FANTASY-XVI_20230626182934-1024x576.jpg" title="Notorious Monsters always strike a pose before a battle" classes="center" >}}
 
 Although much of the game is passive, the battles where Clive controls the action are anything but. They are filled with combos and bringing a vast array of powers to bear at any given moment. This "Devil May Cry"-inspired combat is a huge departure from most of the Final Fantasy games, even more so than with FF15's active combat.
 
@@ -68,7 +46,7 @@ Square Enix won't let this get in the way of every player enjoying the Venisthea
 
 Additionally, every player starts with some accessories they can wear that can take some of the tedium out of the game's combat. Various rings execute combos by just pressing a single button, or give you extra time to dodge incoming attacks, or just automatically dodge for you, or drink healing potions as needed, or give commands to your wolf companion so that you don't have to, and so on. Equipping these does block you from equipping other useful items (extra gil, experience, powering up Eikon abilities, etc).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/06/FINAL-FANTASY-XVI_20230625181548-1024x576.jpg" title="Stuff happens." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/06/FINAL-FANTASY-XVI_20230625181548-1024x576.jpg" title="Stuff happens." classes="center" >}}
 
 This game really wants you to know that it's meant for adults. There's sex. There's slavery. There's swearing. There's deaths. Clive kills his brother in the prologue (slight spoiler: his brother is a *Phoenix*). 
 

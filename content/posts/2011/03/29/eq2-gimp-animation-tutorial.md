@@ -3,43 +3,23 @@ date: '2011-03-29T19:55:32-05:00'
 draft: false
 title: "EQ2 & GIMP: Animation tutorial"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/03/29/eq2-gimp-animation-tutorial/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Animation"
   - "GIMP"
   - "Tutorial"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/trophy.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/03/trophy.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/trophy.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/trophy.gif"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/03/trophy.gif "Trophy room")](https://chasingdings.com/wp-content/uploads/2011/03/trophy.gif)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/03/trophy.gif)
 
 I do log in to EverQuest 2 now and again. Mostly for two things -- to keep Scatter's spell research going and to redeem the AA scrolls I win by playing Fortune League on Facebook.
 
@@ -49,7 +29,7 @@ It's such a homey place, Scatter's inn room in Qeynos Harbor. She moved from Kel
 
 Anyway. Homey place. Front room is the bar, where all my critters are drinking and holding polite conversation. In back is my bedroom, made up to look like a forest glade. And to the right as you come in, the trophy room, with my three Fortune League trophies beaming beatifically, front and center. I wanted to bring my inn room to my blog. But how?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/settee.png" title="This is a blue/red anaglyph 3D image. Get your funky glasses on!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/settee.png" title="This is a blue/red anaglyph 3D image. Get your funky glasses on!" classes="center" >}}
 
 3D is all the rage, but not many people have the red/blue glasses to see it. WTF, right? But there ya go. Besides, with all the glowies and moving things in the apartment, it's really hard to find a scene still enough that two screenshots would look identical except for position. It had to be animation.
 

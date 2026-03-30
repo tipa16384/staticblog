@@ -3,40 +3,17 @@ date: '2011-04-29T06:58:18-05:00'
 draft: false
 title: "Mythos is back! Kinda!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/04/29/mythos-is-back-kinda/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A couple of years ago, you could have sold a Mythos beta key on eBay for a hundred bucks, easy. Now that it's finally out..."
+categories:
   - "MMORPG"
   - "Mythos"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/Myth-2011-04-29-07-02-57-32-480x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/04/Myth-2011-04-29-07-02-57-32-480x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/Myth-2011-04-29-07-02-57-32-480x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/Myth-2011-04-29-07-02-57-32-480x480.jpg"
 ---
+A couple of years ago, you could have sold a Mythos beta key on eBay for a hundred bucks, easy. Now that it's finally out...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/Myth-2011-04-29-07-02-57-32-480x480.jpg" title="Gremlin Gadgeteer" class="align-center" >}}
+
 
 A couple of years ago, you could have sold a Mythos beta key on eBay for a hundred bucks, easy. Now that it's finally out -- in Europe, anyway -- the reaction is a little more muted. What's happened to the Diablo 2-inspired action MMO in the intervening time?
 

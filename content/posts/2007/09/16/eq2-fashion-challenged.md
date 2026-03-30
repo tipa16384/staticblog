@@ -3,46 +3,23 @@ date: '2007-09-16T01:02:36-05:00'
 draft: false
 title: "EQ2: Fashion Challenged"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/09/16/eq2-fashion-challenged/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I didn't really want to wear a bathrobe everywhere. What I wanted were some clothes that said -- hey! I'm a bard! Let's have a..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/09/dinaclothes.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/09/dinaclothes.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/dinaclothes.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/dinaclothes.jpg"
 ---
+I didn't really want to wear a bathrobe everywhere. What I wanted were some clothes that said -- hey! I'm a bard! Let's have a...
+<!--more-->
 
-![dinaclothes.jpg](https://chasingdings.com/wp-content/uploads/2007/09/dinaclothes.jpg)
+
 
 I didn't *really* want to wear a bathrobe everywhere. What I wanted were some clothes that said -- hey! I'm a bard! Let's have a sing-a-long!
 
 I needed some clothes nobody else would wear... and they had to look distinctive. I found a couple pieces of various trash sets -- 'woven engraved' (all lower case) looked unique, but I could only find the tunic. Being a tailor, I thought I might have something cool in my book of patterns... and the tunic from the set you get by killing the Chamberlain in the Nest jumped out at me. I'd never seen ANYONE wear it. And look, matching pants... and gloves!
 
-![dinabust.jpg](https://chasingdings.com/wp-content/uploads/2007/09/dinabust.jpg)I grabbed the parts I needed from the broker (they were surprisingly cheap), got some mythic filaments from the supplier (surprisingly pricey!) and headed up to Barren Sky to weave them together.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/dinabust.jpg" classes="fig-20" >}}I grabbed the parts I needed from the broker (they were surprisingly cheap), got some mythic filaments from the supplier (surprisingly pricey!) and headed up to Barren Sky to weave them together.
 
 The recipes were levels 65 and 66. I am (was) a level 46 tailor.
 

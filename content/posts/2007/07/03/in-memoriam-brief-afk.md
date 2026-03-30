@@ -3,37 +3,12 @@ date: '2007-07-03T06:55:18-05:00'
 draft: false
 title: "In Memoriam: Brief AFK"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/03/in-memoriam-brief-afk/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My father passed away last Friday. He had been battling a brain tumor for two and a half years, and through most of it was..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+My father passed away last Friday. He had been battling a brain tumor for two and a half years, and through most of it was...
+<!--more-->
 
 My father passed away last Friday. He had been battling a brain tumor for two and a half years, and through most of it was active and healthy and able to continue on nearly as normal. The tumor, though, would take bits away -- a word here and there, until near the end he could hardly be understood. A terrible punishment for a man of great strength, intelligence, and humor.
 

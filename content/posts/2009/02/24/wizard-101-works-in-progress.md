@@ -3,40 +3,17 @@ date: '2009-02-24T08:30:15-05:00'
 draft: false
 title: "Wizard 101: Works in progress"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/24/wizard-101-works-in-progress/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So I thought I would have some dynamic pictures of PvPing but -- turns out I didn't actually TAKE any, so that's out. Instead, I..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/images/w101springsmall.jpg"
-cover:
-  image: "https://chasingdings.com/images/w101springsmall.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/w101springsmall.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/w101springsmall.jpg"
 ---
+So I thought I would have some dynamic pictures of PvPing but -- turns out I didn't actually TAKE any, so that's out. Instead, I...
+<!--more-->
 
-![](https://chasingdings.com/images/w101springsmall.jpg)
+
 
 So I thought I would have some dynamic pictures of PvPing but -- turns out I didn't actually TAKE any, so that's out. Instead, I guess I'll just have to show off my two wizard's spring outfits.
 

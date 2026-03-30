@@ -3,40 +3,17 @@ date: '2009-05-21T08:14:12-05:00'
 draft: false
 title: "EVE Online: Pirates of the Constellation"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/21/eve-online-pirates-of-the-constellation/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "For being a hardcore, impact, PvP, NOT easy to play, sandbox kinda MMO, EVE Online has such a great community that the occasional pirate can't..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-20-22-52-53-54.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-20-22-52-53-54.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-20-22-52-53-54.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-20-22-52-53-54.jpg"
 ---
+For being a hardcore, impact, PvP, NOT easy to play, sandbox kinda MMO, EVE Online has such a great community that the occasional pirate can't...
+<!--more-->
 
-![exefile-2009-05-20-22-52-53-54](https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-20-22-52-53-54.jpg "exefile-2009-05-20-22-52-53-54")
+
 
 For being a hardcore, impact, PvP, NOT easy to play, sandbox kinda MMO, EVE Online has such a great community that the occasional pirate can't break the mood.
 

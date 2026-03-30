@@ -3,42 +3,20 @@ date: '2011-06-20T20:51:09-05:00'
 draft: false
 title: "Go: Absolute Beginner"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/06/20/go-absolute-beginner/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My mom died when she was fairly young. Her carnival glass collection, her silver, her jewelry, I have nothing of those things. I think her..."
+categories:
   - "Go"
   - "Other Games"
+tags:
   - "Hikaru No Go"
   - "Othello"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/STP63350.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/06/STP63350.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/STP63350.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/STP63350.jpg"
 ---
+My mom died when she was fairly young. Her carnival glass collection, her silver, her jewelry, I have nothing of those things. I think her...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/STP63350.jpg" title="Not a GO Board" class="align-center" >}}
+
 
 My mom died when she was fairly young. Her carnival glass collection, her silver, her jewelry, I have nothing of those things. I think her new husband tossed all the childhood things of mine I was keeping at her place, all my childhood books I'd hoped to pass on to my kids. All I have of her are three gifts she got me; my Orange Teddy, a boxed collection of The Lord of the Rings (which will be my son's), and this old Othello board.
 

@@ -3,52 +3,30 @@ date: '2022-07-13T08:16:27-05:00'
 draft: false
 title: "Ogre Battle: Curse your sudden, but inevitable, betrayal"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/07/13/ogre-battle-curse-your-sudden-but-inevitable-betrayal/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Now that I've gotten the game so that it works and looks decent, it's time to ask the big question: How do I get Deneb..."
+categories:
   - "Nintendo 64"
   - "Tactical RPG"
+tags:
   - "Deneb"
   - "Ogre Battle"
   - "Person of Lordly Caliber"
   - "The March of the Black Queen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/CorwinDefects.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/CorwinDefects.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/CorwinDefects.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/CorwinDefects.png"
 ---
+Now that I've gotten the game so that it works and looks decent, it's time to ask the big question: How do I get Deneb...
+<!--more-->
 
 Now that I've gotten the game so that it works and looks decent, it's time to ask the big question: How do I get Deneb in my battalion?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/image-2.png" title="Deneb" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/image-2.png" title="Deneb" classes="fig-20" >}}
 
 Hey, that screenshot isn't from Ogre Battle 64! It's from Ogre Battle: March of the Black Queen for the Super Nintendo, and as far as I know, it's the only other real time strategy game in the Ogre Battle/Tactics Ogre family. 
 
 She's recruitable in that game (although doing so tanks your reputation with certain factions), and she's recruitable in Tactics Ogre: Let Us Cling Together, and I just assumed she'd be recruitable in Person of Lordly Caliber as well... but she's not. Apparently you can use the Game Shark to bring her as a playable character... I wonder if there's a box downstairs with one...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/image-3-1024x576.png" title="Meeting the rebel leader" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/image-3-1024x576.png" title="Meeting the rebel leader" classes="center" >}}
 
 All the Ogre Battle/Tactics Ogre games are just littered with secret characters who can have a huge influence on your game and the specific ending you get. 
 

@@ -3,42 +3,17 @@ date: '2007-11-13T10:40:23-05:00'
 draft: false
 title: "EQ2: Preparing for Kunark"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/13/eq2-preparing-for-kunark/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "How did you get ready for the expansion? Do anything special?..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg"
 ---
+How did you get ready for the expansion? Do anything special?...
+<!--more-->
 
 How did you get ready for the expansion? Do anything special?
-
-![everquest2-2007-11-13-00-16-28-15.jpg](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-13-00-16-28-15.jpg)
 
 First thing I did was to recreate one of my beta characters onto a live server. My son was all excited when I told him I was saving her from deletion by copying her to live. He was hoping you could copy level 80 characters from beta to live, but alas, I just copied her design. She's just an ordinary level 1 Arasai in Darklight Woods, but she'll escape the wipe.
 

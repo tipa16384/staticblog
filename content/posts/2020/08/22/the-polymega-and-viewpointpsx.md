@@ -3,47 +3,25 @@ date: '2020-08-22T14:49:33-05:00'
 draft: false
 title: "The Polymega and Viewpoint(PSX)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/22/the-polymega-and-viewpointpsx/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was so excited when I saw a video on the Polymega this morning. The Polymega is a sort of uber-emulator console that can take..."
+categories:
   - "Emulators"
+tags:
   - "Arcade"
   - "Banned in Denmark"
   - "Bullet Hell"
   - "Emulator"
   - "Girls Screaming in Techno"
   - "PSX"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/psxfin-2020-08-22-13-21-45-19.jpg"
 ---
+I was so excited when I saw a video on the Polymega this morning. The Polymega is a sort of uber-emulator console that can take...
+<!--more-->
 
 I was so excited when I saw a video on the Polymega this morning. The Polymega is [a sort of uber-emulator console](https://www.polymega.com/) that can take your PS1, Sega Saturn, Sega TurboGrafx 16, and Neo Geo CD games, rip them to internal storage to keep them safe forever, and from then you can play them on a cool looking console while your original games are stored safely away. I've got an original copy of Panzer Dragoon for the Sega Saturn, which (last time I looked) was worth over $600. I want that kept *safe*.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/polymega-300x277.jpg)Polymega
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/polymega-300x277.jpg" classes="center" >}}Polymega
 
 Polymega also offers plug-in modules that can play cartridge games, for the NES and SNES to begin. All very cool. I bought the original [Colecovision](https://en.wikipedia.org/wiki/ColecoVision) [Atari 2600 plug-in module](https://gamecrate.com/gaming-literacy-colecovision-expansion-module-1-played-competitors-games/16159) in order to keep playing my extensive library of Atari 2600 games (which I still have) while also playing the much nicer looking Colecovision games. (I wonder if they ever came out with an Intellivision module...?)
 
@@ -59,7 +37,7 @@ But I am not writing this post because I think I really need a Polymega right no
 
 It looked like a crazy combination of [Zaxxon](https://en.wikipedia.org/wiki/Zaxxon) and [Xevious](https://en.wikipedia.org/wiki/Xevious), two arcade games I really enjoyed playing at [Funspot](https://www.funspotnh.com/-Media-Kit/media-funspot-history.htm) (the one in Somersworth, not the one in Laconia) back in the olden days. I was never really good at either of those games, but I had fun playing them, which was the entire point.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/psxfin-2020-08-22-13-02-23-97.jpg)Yes, this is an actual difficulty setting in the game
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/psxfin-2020-08-22-13-02-23-97.jpg" classes="center" >}}Yes, this is an actual difficulty setting in the game
 
 Based only on that short video of the game, I performed some google-fu and *found it*. [Viewpoint](https://en.wikipedia.org/wiki/Viewpoint_(video_game)) for the Neo Geo and the PSX. It found its way into my PSX emulator... somehow... as I read the reviews. Looks like the PSX port changed up the music and made the game much harder. But that's okay, because losing at arcade games is my meta.
 

@@ -3,46 +3,23 @@ date: '2015-09-19T10:39:21-05:00'
 draft: false
 title: "Night night, Nabriales"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/19/night-night-nabriales/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last week left us with two plotlines vying for our time; the aftermath of Iceheart's transformation into the primal Saint Shiva, and the continued incursions..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/1-ffxiv-2015-09-14-23-10-42-23.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/1-ffxiv-2015-09-14-23-10-42-23.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-ffxiv-2015-09-14-23-10-42-23.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-ffxiv-2015-09-14-23-10-42-23.jpg"
 ---
+Last week left us with two plotlines vying for our time; the aftermath of Iceheart's transformation into the primal Saint Shiva, and the continued incursions...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-ffxiv-2015-09-14-23-10-42-23.jpg" title="Light take all Ascians!" class="align-center" >}}
+
 
 Last week left us with two plotlines vying for our time; the aftermath of Iceheart's transformation into the primal Saint Shiva, and the continued incursions of the mysterious Ascians into mortal affairs.
 
 Iceheart's transformation was sparked by the war cry of an elder dragon. She hoped to deflect the coming war by renewing the original Saint Shiva's pact with dragonkind -- a pact that the Ishagardians, prompted by the Ascians, has been shredding. We defeated Iceheart/Shiva and ruined her plans... but at a high cost. The cries of the Dravanian Horde had awoken a powerful entity thought dead since the Calamity had rained down upon the land. And no Saint Shiva could lull it back to slumber.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-14-21-19-12-70.jpg" title="Midgardsormr is back!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-09-14-21-19-12-70.jpg" title="Midgardsormr is back!" classes="center" >}}
 
 As explained in a cutscene of which I had absolutely no memory but Kasul found for me, Midgardsormr was a legendary, nigh-immortal dragon, tasked with guarding Silvertear, a lake-dotted land of much power near Mor Dhona. It was also a prime target of the previous Garlean invasion, fifteen years back. The Garlean flagship, the *Agrius*, was met by Midgardsormr and his draconic subjects. They destroyed each other at the height of a terrible battle, causing the devastation that turned Silvertear into the wasteland it is today.
 
@@ -60,7 +37,7 @@ So, Midgardsormr joined Ramuh as powerful entities who probably would eventually
 
 We won the battle but lost the war. Midgardsormr would soon be regenerated enough to answer the ancient dragon cry. Hydaelyn was beyond our reach, and we no longer had her blessing. But, there was more bad news waiting us at our base in Mos Eisley.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-ffxiv-2015-09-14-23-08-27-86.jpg" title="Wishing super hard!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/1-ffxiv-2015-09-14-23-08-27-86.jpg" title="Wishing super hard!" classes="center" >}}
 
 When we got back to Rising Stones, we found the Ascian Nabriales casually toying with Minfilia. He was after the staff that Louisoix Leveilleur used to defeat Bahamut in the opening cinematic. Turned out the only thing stopping him from just taking it was... Hydaelyn's blessing of light. The power that had defeated Lahabrea would stop him just as easily. The very power that Midgardsormr had robbed from us. Midgardsormr's dragonling avatar popped in for a moment to remind us that we were on our own from here on.
 
@@ -76,7 +53,7 @@ Well, Nabriales did. I expect Moenbryda will pop up again somewhere. Dying heroi
 
 The next couple of quests seem to deal with the aftermath.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-14-23-28-21-16.jpg" title="End of a chapter" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-09-14-23-28-21-16.jpg" title="End of a chapter" classes="center" >}}
 
 That brought us to the end of Patch 2.5. We have a couple more patches to go, and I expect them to wrap up Moenbryda's sacrifice and deal with the Ascian response to the death of one of their own. I think we have come to the end of new pre-Heavensward dungeons, as the Keeper of the Lake dungeon wrapped up the last missing dungeon on the list of hard mode dungeons we need to unlock. Similarly, the Chrysalis, Nabriales' trial, seems to be the last trial we'll see. Not 100% sure of that. But, I always enjoy seeing a new dungeon or trial when we do our story night. It will be a little disappointing if we have to wait until Heavensward to get the next one.
 

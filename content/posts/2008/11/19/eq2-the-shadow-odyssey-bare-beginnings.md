@@ -3,42 +3,20 @@ date: '2008-11-19T09:39:47-05:00'
 draft: false
 title: "EQ2: The Shadow Odyssey... bare beginnings"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/19/eq2-the-shadow-odyssey-bare-beginnings/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What looks sillier than a very tiny fairly, with an even tinier fairy stuck to her shoulder, riding a huge, massive bear into a huge,..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "The Shadow Odyssey"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-19-07-31-50-18.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-19-07-31-50-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-19-07-31-50-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-19-07-31-50-18.jpg"
 ---
+What looks sillier than a very tiny fairly, with an even tinier fairy stuck to her shoulder, riding a huge, massive bear into a huge,...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-19-07-31-50-18.jpg "everquest2-2008-11-19-07-31-50-18")
+
 
 What looks sillier than a very tiny fairly, with an even tinier fairy stuck to her shoulder, riding a huge, massive bear into a huge, massive bear convention with a group of gnomes in a steampunk city made out of mega-works and rusted iron?
 
@@ -50,7 +28,7 @@ All these places seemed a little confused -- they'd clearly never heard of EQ or
 
 Finally, at the second Gamestop I tried, the girl I asked about it had no clue, but the guy standing next to her said he had some in the back. They hadn't put them out yet, and only he knew about them. He popped into the back and brought out a copy just for me :)
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-18-23-57-45-40.jpg "everquest2-2008-11-18-23-57-45-40")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-18-23-57-45-40.jpg" title="everquest2-2008-11-18-23-57-45-40" classes="center" >}}
 
 I have a copy coming from Amazon sometime this month (with the pewter dire bear figurine, which I expect to be about the same size as the race car in Monopoly), but didn't want to wait until then to get into the action.
 

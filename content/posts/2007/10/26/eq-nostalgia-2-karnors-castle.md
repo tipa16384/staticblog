@@ -3,40 +3,19 @@ date: '2007-10-26T23:39:55-05:00'
 draft: false
 title: "EQ Nostalgia #2: Karnor's Castle"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/26/eq-nostalgia-2-karnors-castle/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One of the draws EQ2 has for all of us old EQ players is the nostalgia, especially for those of us who were there from..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/kc1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/kc1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/kc1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/kc1.png"
 ---
+One of the draws EQ2 has for all of us old EQ players is the nostalgia, especially for those of us who were there from...
+<!--more-->
 
-![Statue in Dreadlands outside Firiona Vie zone](https://chasingdings.com/wp-content/uploads/2007/10/kc1.png) One of the draws EQ2 has for all of us old EQ players is the nostalgia, especially for those of us who were there from the beginning.
+
+
+One of the draws EQ2 has for all of us old EQ players is the nostalgia, especially for those of us who were there from the beginning.
 
 It's hard to overstate just the kind of impact Kunark had on us all. Never before and very rarely since had a company so completely matched an expansion to exactly what people wanted. All the good parts of EQ, they added more of. All the bad parts (like medding with your face in a book), they took away. Well, not ALL the bad parts. They had to leave some for Velious, after all.
 
@@ -44,11 +23,11 @@ Though I wasn't high enough level to go to the Dreadlands when Kunark came out, 
 
 Eh, what the heck. I went anyway. At 30. My urge to explore overcame my common sense. People were huddled against every wall, making sure the way to the nearest zoneline was clear.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/kc2.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/kc2.png" classes="center" >}}
 
 And did Gorenaire see me? Yes, yes she did. Nobody could kill her yet, and I didn't see her. The first I knew she was in the area, I was being flung into the air and landed with just a sliver of life left. All the people in the area were running for the nearest zone. I followed the ones heading into the big building in the middle of the zone... the infamous Karnor's Castle.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/kc4.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/kc4.png" classes="center" >}}
 
 It was CROWDED. Along with the people who fled Gorenaire, there was the pile of corpses at zone in, clerics offering buffs and rezzes for plat, groups at each side and one at the middle carefully pulling, people showing off their Sarnak Battleshields and other very cool loot.
 
@@ -56,10 +35,10 @@ SOE had figured out the EQ magic. Make lots of little camps, give people plenty 
 
 Later games (and even EQ itself in time) did away with camps and downtime. I think they took away some of the time to share stories, victories and just idle chatter that made friends and memories.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/kc5.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/kc5.png" classes="center" >}}
 
 Hope you enjoyed this little romp around KC. We'll be there again in a couple of weeks, but old Venril has moved off to Old Sebilis (which will be my last little nostalgia post before the expansion) and the Drolvargs have finished taking over the place.
 
 Poop everywhere.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/kc6.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/kc6.png" classes="center" >}}

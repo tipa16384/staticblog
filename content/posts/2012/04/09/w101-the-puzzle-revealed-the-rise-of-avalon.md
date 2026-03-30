@@ -3,40 +3,17 @@ date: '2012-04-09T22:24:26-05:00'
 draft: false
 title: "W101: The Puzzle revealed -- the Rise of Avalon!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/04/09/w101-the-puzzle-revealed-the-rise-of-avalon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Sure, everyone had this figured out awhile ago, but finally it's announced -- the newest world on the Spiral is Avalon...."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/04/Avalon-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/04/Avalon-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/Avalon-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/Avalon-480x384.jpg"
 ---
+Sure, everyone had this figured out awhile ago, but finally it's announced -- the newest world on the Spiral is Avalon....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/04/Avalon-480x384.jpg" title="Avalon" class="align-center" >}}
+
 
 Sure, everyone had this figured out awhile ago, but finally it's announced -- the newest world on the Spiral is Avalon.
 
@@ -52,4 +29,4 @@ Time to get leveling!
 
 Here's the last puzzle piece, for completeness' sake:
 
-[![](https://chasingdings.com/wp-content/uploads/2012/04/Fansite-Puzzler_Karana05.jpg "Fansite-Puzzler_Karana05")](https://chasingdings.com/wp-content/uploads/2012/04/Fansite-Puzzler_Karana05.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/04/Fansite-Puzzler_Karana05.jpg" title="Fansite-Puzzler_Karana05" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/04/Fansite-Puzzler_Karana05.jpg)

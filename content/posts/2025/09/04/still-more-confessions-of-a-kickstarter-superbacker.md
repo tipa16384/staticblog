@@ -3,26 +3,11 @@ date: '2025-09-04T08:00:00-05:00'
 draft: false
 title: "Still More Confessions of a Kickstarter Superbacker"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/09/04/still-more-confessions-of-a-kickstarter-superbacker/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here's what I'm waiting for today."
-description: "Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here's what I'm waiting for today."
-tags:
+categories:
   - "Kickstarter"
   - "Mystery Dice"
+tags:
   - "Dragonstrike"
   - "Embers"
   - "Even Steven"
@@ -31,22 +16,15 @@ tags:
   - "Pocket RPG"
   - "The Red Dragon Inn"
   - "Zachtronics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/superbacker.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/04/superbacker.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 ---
+Oh dear. I keep backing Kickstarters. Why? WHY? I dunno. Anyway, here's what I'm waiting for today.
+<!--more-->
 
 Alright, how have I wasted my money recently... Quickly, because I have a lot to get through. Why do I do this?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-4-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-4-150x150.png" classes="fig-20" >}}
 
 **Embers**
 
@@ -54,7 +32,7 @@ A solo mini-game with just 18 cards.[ You play a group of adventurers](https://w
 
 It's another wallet game from Jason Tagmire's Button Shy Games, designed by Steve Aramini. If this sounds like Rock Manor Games' "Set a Watch", well, you couldn't be more... right. It's exactly that game, in solo, pocket form.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-5-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-5-150x150.png" classes="fig-20" >}}
 
 **The Many Odd Origins of Even Steven**
 
@@ -62,13 +40,13 @@ It's another wallet game from Jason Tagmire's Button Shy Games, designed by Stev
 
 I'd never heard of Even Steven, but some of the artists and writers were in BlueSky pushing it, and I read some chapters and liked it, and so here we are.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-6-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-6-150x150.png" classes="fig-20" >}}
 
 **Paper Apps: Labyrinth**
 
 Having wowed us with no-two-alike flip pads of golf games, 4X space exploration games and rogue-like dungeon runs, Tom Brinton dips into the flip-and-write genre once more with [Paper Apps: Labyrinth](https://www.kickstarter.com/projects/brintown/paper-apps-labyrinth/), which gives you a 3D maze to run around in, fight monsters, collect treasure. I have his dungeon one which is a lot of fun, and I'm looking forward to playing this one.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-7-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-7-150x150.png" classes="fig-20" >}}
 
 **The Zach Attack! Scratch 'n Solve Puzzle Pack**
 
@@ -76,7 +54,7 @@ It would be a lot more fun if it were the "Scratch 'n *Sniff*" puzzle pack. Just
 
 The latest from Zachtronics' Zach Barth leaves the video puzzle and programming games (not to forget the lovably weird solitaire games) behind and [moves to the physical realm](https://www.kickstarter.com/projects/zachbarth/the-zach-attack-scratch-n-solve-puzzle-pack) with this pack of puzzle games that you scratch off to solve. I loved the Zachtronics games, so this was an instant back for me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-8-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-8-150x150.png" classes="fig-20" >}}
 
 **Pocket RPG**
 
@@ -84,7 +62,7 @@ Wanna play a tabletop RPG but hate lugging a bunch of books, minis, terrain and 
 
 It doesn't actually come with the books. It is rules agnostic, and so you provide the rules, but it provides everything else. It was too cute not to back.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-9-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-9-150x150.png" classes="fig-20" >}}
 
 **The Red Dragon Inn Allies: Jin vs Greppa**
 
@@ -92,7 +70,7 @@ It doesn't actually come with the books. It is rules agnostic, and so you provid
 
 *Jin* is a karaoke bard. He's gonna get you to join him on the stage and get that spotlight on you... do your best or die trying. *Greppa* is a goblin bard who will play whatever she likes and you will like it too -- or else prepare to be viciously mocked.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-10-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-10-150x150.png" classes="fig-20" >}}
 
 **Mystery Dice**
 
@@ -100,7 +78,7 @@ You never know what you're going to get with [Mystery Dice](https://www.kickstar
 
 This will probably be the last time I back one of their Kickstarters; there's Weird Stuff from previous Kickstarters I'd have wanted, and there were some I wanted but didn't get because they're random. Next time, I'll just order the ones I want directly from them after they have fulfilled the Kickstarter. I will be unhappy if there is a set I would have wanted but I didn't get because I didn't pay for *all* the sets to guarantee I'd get that *one* set.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-12-300x169.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-12-300x169.png" classes="fig-20" >}}
 
 **DragonStrike**
 
@@ -108,7 +86,7 @@ This will probably be the last time I back one of their Kickstarters; there's We
 
 The cool thing about this Kickstarter is that everywhere but the USA has gotten theirs already! Trump's tariffs have made the whole thing uncertain for the States. Last I heard, they were in Canada and I guess they were going to ship them through Venezuela on a fast boat to a port in the USA. I hope nothing bad happens to them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-14-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-14-150x150.png" classes="fig-20" >}}
 
 **Mystery Under Magi-Mart**
 
@@ -120,6 +98,6 @@ The latest update shared their pre-production copy, and this thing is *tiny*. I 
 
 I mean, I'm sure I'll love it when I get it, and I'm sure my granddaughter will love it when I re-gift it. But still. A little larger would have been nice.
 
-There, another list of things I spent too much money on and may or may not ever get. We'll see if these turn into games in my hand or donations to people I will never, ever see again. I won't tell you how many of the campaigns I backed and [wrote about a *year ago*](https://chasingdings.com/2024/08/03/more-confessions-of-a-kickstarter-superbacker/) are still not here. More than a couple.
+There, another list of things I spent too much money on and may or may not ever get. We'll see if these turn into games in my hand or donations to people I will never, ever see again. I won't tell you how many of the campaigns I backed and [wrote about a *year ago*](https://tipa16384.github.io/wkblog/2024/08/03/more-confessions-of-a-kickstarter-superbacker/) are still not here. More than a couple.
 
 Click the links on each description to go to the Kickstarter page. Embers is live right now; the others may have options to get them outside of the campaign if you really want them.

@@ -3,41 +3,18 @@ date: '2013-02-20T00:11:52-05:00'
 draft: false
 title: "Ballpoint Universe"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/20/ballpoint-universe/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Back when this was called College-Ruled Universe, it was one of the first games I helped fund through Kickstarter. It was a pleasant little R-Type-style..."
+categories:
   - "Ballpoint Universe"
   - "College-Ruled Universe"
   - "Kickstarter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/ballpoint2-70-2013-02-19-23-15-03-00-480x271.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/ballpoint2-70-2013-02-19-23-15-03-00-480x271.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/ballpoint2-70-2013-02-19-23-15-03-00-480x271.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/ballpoint2-70-2013-02-19-23-15-03-00-480x271.jpg"
 ---
+Back when this was called College-Ruled Universe, it was one of the first games I helped fund through Kickstarter. It was a pleasant little R-Type-style...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/ballpoint2-70-2013-02-19-23-15-03-00-480x271.jpg" title="Ballpoint Boss" class="align-center" >}}
+
 
 Back when this was called [College-Ruled Universe](http://www.kickstarter.com/projects/1075607244/college-ruled-universe), it was one of the first games I helped fund through Kickstarter. It was a pleasant little [R-Type](http://en.wikipedia.org/wiki/R-Type)-style shooter, written in Flash by an art student, Leo "Zigzag" Dasso, who had built an entire world, in Flash, out of the casual doodles he drew during classes. He had a friend compose an atmospheric soundtrack and put it on Kickstarter.
 
@@ -47,13 +24,13 @@ Dasso was then looking for a programmer to help convert the game to Flash 3. He 
 
 Just a few days ago, I got a link to the actual game. I've been playing it since.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/ballpoint2-70-2013-02-19-23-01-43-42-480x271.jpg" title="The Doodle Village" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/ballpoint2-70-2013-02-19-23-01-43-42-480x271.jpg" title="The Doodle Village" classes="center" >}}
 
 The game is split roughly into three parts; a village portion, where your avatar, a doodle named Doodle, runs, jumps and explores in a 2D platformer. Though it's 2D, you can move your character, via bridges, to deeper or nearer planes. Exploration nets you new missions, ship parts, and "golden sketches" that are required to enter the more advanced levels of the game. In the Doodle Village, you'll meet fanciful doodles like a TV Cowboy, a Boot Soldier, and so on. These will be judging your progress in the shooter levels. Run through a turnstile to save the game.
 
 Once you've accepted a mission, your doodle jumps into the sky and is swept away into the ship construction portion of the game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/ballpoint2-70-2013-02-19-23-02-52-95-480x271.jpg" title="Building your ship" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/ballpoint2-70-2013-02-19-23-02-52-95-480x271.jpg" title="Building your ship" classes="center" >}}
 
 The doodle who gives the mission often has some clue as to what sort of weapons you'll need on your ship. Exploration and completing earlier missions gets you options to use in this stage. Choose a wing style (for speed and maneuverability), a nose style (for the "overload" weapon), and upper and lower weapons, which include not only guns, but shields and swords as well.
 

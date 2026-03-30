@@ -3,40 +3,18 @@ date: '2025-11-19T08:00:00-05:00'
 draft: false
 title: "Frosthaven #28: Summit Meeting"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/11/19/frosthaven-28-summit-meeting/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This scenario... had an errata...."
+categories:
   - "Frosthaven"
   - "Gloomhaven"
   - "Tabletop Games"
+tags:
   - "Summit Meeting"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5490-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5490-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5490-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5490-scaled.jpg"
 ---
+This scenario... had an errata....
+<!--more-->
 
 This scenario... had an *errata*. 
 
@@ -54,7 +32,7 @@ Here's where the errata comes in. The quest as first written had raiders of the 
 
 Unfortunately, for us, they'd fixed this in the scenario books we'd bought so that we wouldn't have to assemble each game's board from the provided tiles. We never have used them even once. But if we had, this would have been easy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5491-1024x768.jpg" title="Making our escape" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5491-1024x768.jpg" title="Making our escape" classes="center" >}}
 
 It wasn't to be for us, though.
 

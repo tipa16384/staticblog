@@ -3,52 +3,27 @@ date: '2009-09-04T15:23:50-05:00'
 draft: false
 title: "Gatheryn, Star Trek Online, Hello Kitty Online infomegadump"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/04/gatheryn-star-trek-online-hello-kitty-online-infomegadump/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've gotten a bunch of emails telling about updates et al to a lot of games. Rather than write an article about each one, or..."
+categories:
   - "Gatheryn"
   - "Hello Kitty Online"
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ws_concept2_1024x768-480x360.jpg"
 ---
+I've gotten a bunch of emails telling about updates et al to a lot of games. Rather than write an article about each one, or...
+<!--more-->
 
 I've gotten a bunch of emails telling about updates et al to a lot of games. Rather than write an article about each one, or ignoring them entirely, I thought I'd just combine them into a single post.
 
-![Concept art from Windstorm Studios](https://chasingdings.com/wp-content/uploads/2009/09/ws_concept2_1024x768-480x360.jpg "Concept art from Windstorm Studios")
-
 [Windstorm Studios](http://www.windstormstudios.com/), brainchild of ex-Age of Empires and Halo Wars dev Dusty Monk, has just released two bits of concept art from his unannounced evil giant super death robot massacre game, ~~Citizen Kabuto~~. Just kidding. The cries on everyone's lips, where is Ultraman? ... still just kidding. [Check out the awesome art](http://www.windstormstudios.com/downloads.html) and bug him for more info!
 
-![Star Trek Online](https://chasingdings.com/wp-content/uploads/2009/09/Wallpaper-010-1680x1050-480x300.jpg "Star Trek Online")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/Wallpaper-010-1680x1050-480x300.jpg" title="Star Trek Online" classes="center" >}}
 
 Cryptic has opened their beta registration page for Star Trek Online, so if you like spaceships and exploring and stuff, play EVE Online. BUT -- if you want actual walking around avatars in the game as well as the ability to rip off your shirt and roll around in alien mud going pewpew, well, [you probably want to apply](http://www.startrekonline.com/preview_application). Remember, the Prime Directive is really more of a guideline.
 
-![Gatheryn](https://chasingdings.com/wp-content/uploads/2009/09/main-480x299.jpg "Gatheryn")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/main-480x299.jpg" title="Gatheryn" classes="center" >}}
 
 [Steampunk-themed casual games portal Gatheryn](http://www.mindfusegames.com/) says, with a sigh, that if people Really Want Quests With Exclamation Points, then they shall have them as they introduce (or reintroduce) a new (or at least revised) questing system:
 
@@ -62,7 +37,7 @@ The Playstation Network is exploring new realms in Software Quality Assurance by
 
 ... and you wondered how Sony shipped such bug-free code.
 
-![Ooooh! Shiny crystals!](https://chasingdings.com/wp-content/uploads/2009/09/art_0013_colored2-480x328.jpg "Ooooh! Shiny crystals!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/art_0013_colored2-480x328.jpg" title="Ooooh! Shiny crystals!" classes="center" >}}
 
 Dying to check out Hello Kitty! Online? Don't! Nothing dies in Hello Kitty! land, things just get knocked out. If you want to clobber defenseless starfish and make rainbow colored hoodies, [you need to join the beta](http://www.hko.aeriagames.com/)!
 

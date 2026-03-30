@@ -3,42 +3,20 @@ date: '2020-05-23T11:07:36-05:00'
 draft: false
 title: "Five Reasons You're Playing EverQuest Wrong (and Five Ways You're Crushing EQ!)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/23/five-reasons-youre-playing-everquest-wrong-and-five-ways-youre-crushing-eq/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Is this a bad post title? I'm really working on making engaging content, and I'm told it all begins with a great thumbnail and a..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Aradune"
   - "T.King"
   - "TLP"
   - "UI"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/aradune.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/aradune.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/aradune.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/aradune.jpg"
 ---
+Is this a bad post title? I'm really working on making engaging content, and I'm told it all begins with a great thumbnail and a...
+<!--more-->
 
 Is this a bad post title? I'm really working on making engaging content, and I'm told it all begins with a great thumbnail and a killer title. I heard that the best way to get a response on the internet is to tell someone they're doing something wrong, so...
 
@@ -50,7 +28,7 @@ Next step was to upgrade my user interface. Kasul has like a 40 inch screen on h
 
 I browsed [EQ Interface](https://www.eqinterface.com/downloads/fileinfo.php?s=a35f15f1ef2132b56f2e2b766ab64acb&id=5518) and eventually settled on the AYA UI. I dimly remember this or something like it from the olden days when once I played. I might have used it, I might not have. I think, back then, I preferred the old [T.King-style user interfaces](https://www.eqinterface.com/downloads/fileinfo.php?id=3211). (Tom King [was hired by Sigil Games](https://www.gamezone.com/news/sigil_games_grows_again_hires_four_new_artists/) to work on the Vanguard UI based on his work on EverQuest user interfaces! Unfortunately, Sigil wasn't able to work with [Tom's need to work remotely](http://www.vginterface.com/forums/printthread_t_16.html), and they parted ways.)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-23-06-32-53-69-1024x589.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-23-06-32-53-69-1024x589.jpg" classes="center" >}}
 
 This is a picture you won't be seeing from me once we start on Aradune. No Plane of Knowledge, no newbie armor, no Field of Bone shield, I dunno where those claws come from but none of them neither.
 

@@ -3,40 +3,17 @@ date: '2008-02-22T13:46:38-05:00'
 draft: false
 title: "PotBS: Conversations and Free Trade agreements"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/22/potbs-conversations-and-free-trade-agreements/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Nothing like the warm trade winds blowing off the water to get you excited about spending a lot of time in a stuffy house with..."
+categories:
   - "MMORPG"
   - "Pirates of the Burning Sea"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-03-18-00-27-12.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-03-18-00-27-12.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-03-18-00-27-12.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-03-18-00-27-12.jpg"
 ---
+Nothing like the warm trade winds blowing off the water to get you excited about spending a lot of time in a stuffy house with...
+<!--more-->
 
-![potbs-2008-02-03-18-00-27-12.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-03-18-00-27-12.jpg)
+
 
 Nothing like the warm trade winds blowing off the water to get you excited about spending a lot of time in a stuffy house with people who hate you trying to find out who hates your employer the most.
 
@@ -50,7 +27,7 @@ I do like the free trader quests. The next one in the line had me salvaging a de
 
 If only more of the quests were like that. If only they all were!
 
-![potbs-2008-02-05-22-17-32-46.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-05-22-17-32-46.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-05-22-17-32-46.jpg" classes="center" >}}
 
 Not all quests go so well. These Mayans, for instance, were entirely unreasonable. I thought we could do some trading, maybe build a small resort there, lead some hunting parties into the jungle, and give these natives good jobs, like dishwashers or room cleaners -- they could even staff the shops!
 
@@ -58,15 +35,15 @@ They would not deal with me! Are not my doubloons as good as anyone else's? Beca
 
 Those masks they wear would fetch a good price in London. I really must see to obtaining some.
 
-![potbs-2008-02-03-23-40-28-61.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-03-23-40-28-61.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-03-23-40-28-61.jpg" classes="center" >}}
 
 Test? Failed. Sorry.
 
-![potbs-2008-02-05-22-49-47-33.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-05-22-49-47-33.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-05-22-49-47-33.jpg" classes="center" >}}
 
 What I want to know is, did you fire first?
 
-![potbs-2008-02-04-00-05-25-28.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-04-00-05-25-28.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-04-00-05-25-28.jpg" classes="center" >}}
 
 This is a quick fort defense a couple of society mates and I did. How do you color your sails? That's probably in a book somewhere.
 
@@ -74,7 +51,7 @@ To be honest, I haven't touched Pirates since I got accepted into Delusions of G
 
 Nothing alike, really nothing alike at all, they can't be compared, I just have so much to do in EQ2 and nothing in particular I need to do in Pirates.
 
-![potbs-2008-02-04-19-52-45-79.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-04-19-52-45-79.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-04-19-52-45-79.jpg" classes="center" >}}
 
 They all think you're a jerk, Mr. Burrows. But not me, I like you lots. About 350 doubloons worth of like, please, and mind, I don't take credit.
 

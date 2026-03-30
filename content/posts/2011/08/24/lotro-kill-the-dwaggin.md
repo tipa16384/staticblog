@@ -3,40 +3,17 @@ date: '2011-08-24T06:50:08-05:00'
 draft: false
 title: "LotRO: Kill the Dwaggin"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/08/24/lotro-kill-the-dwaggin/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I got this mysterious e-mail the other day, it was simply a list of tasks to perform......"
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg"
 ---
+I got this mysterious e-mail the other day, it was simply a list of tasks to perform......
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/lotroclient-2011-08-24-01-05-21-21-480x433.jpg" title="It's Dwaggin Season" class="align-center" >}}
+
 
 I got this mysterious e-mail the other day, it was simply a list of tasks to perform...
 
@@ -62,7 +39,7 @@ Her armor was still a little worn from her previous skirmishes, but a quick trip
 
 I explained how I was imprisoned by a Necromancer. Or something. He seemed dubious, but I don't pay him to question my comings and goings. I am a Captain of Men.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/lotroclient-2011-08-24-00-40-00-85-480x363.jpg" title="The Siege of Gondamon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/lotroclient-2011-08-24-00-40-00-85-480x363.jpg" title="The Siege of Gondamon" classes="center" >}}
 
 In the Siege of Gondamon skirmish, a solo adventure for characters 20+, it's your job to protect Mathil, Gondamon's ruler, against the forces of darkness. The NPC Guardian, Minstrel and Loremaster trainers will each guard an approach to the city and signal enemy approaches. It is your job, along with your skirmish companion (a warrior in my case) to make a stand and defeat the waves of enemies and the occasional lieutenant or general that joins the battle.
 

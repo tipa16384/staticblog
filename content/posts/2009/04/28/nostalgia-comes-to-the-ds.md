@@ -3,42 +3,20 @@ date: '2009-04-28T17:58:33-05:00'
 draft: false
 title: "Nostalgia comes to the DS!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/28/nostalgia-comes-to-the-ds/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My guild -- on the Nintendo DS?..."
+categories:
   - "Other Games"
+tags:
   - "Nintendo"
   - "Nostalgia"
   - "Steampunk"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/nostalgia-479x181.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/nostalgia-479x181.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/nostalgia-479x181.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/nostalgia-479x181.jpg"
 ---
+My guild -- on the Nintendo DS?...
+<!--more-->
 
-![nostalgia](https://chasingdings.com/wp-content/uploads/2009/04/nostalgia-479x181.jpg "nostalgia")
+
 
 My guild -- on the Nintendo DS?
 

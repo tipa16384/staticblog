@@ -3,42 +3,20 @@ date: '2008-06-29T01:04:14-05:00'
 draft: false
 title: "Guitar Hero: On Tour"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/29/guitar-hero-on-tour/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I took my own picture of the Guitar Hero: On Tour controller for the DS, but let me assure you -- it sucked...."
+categories:
   - "Other Games"
+tags:
   - "Guitar Hero"
   - "Guitar Hero on Tour"
   - "Nintendo DS"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/guitarheroontour.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/guitarheroontour.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/guitarheroontour.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/guitarheroontour.jpg"
 ---
+I took my own picture of the Guitar Hero: On Tour controller for the DS, but let me assure you -- it sucked....
+<!--more-->
 
-![guitarheroontour.jpg](https://chasingdings.com/wp-content/uploads/2008/06/guitarheroontour.jpg)
+
 
 I took my own picture of the Guitar Hero: On Tour controller for the DS, but let me assure you -- it sucked.
 

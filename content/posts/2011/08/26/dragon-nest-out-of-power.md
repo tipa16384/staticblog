@@ -3,40 +3,17 @@ date: '2011-08-26T06:33:30-05:00'
 draft: false
 title: "Dragon Nest: Out of Power"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/08/26/dragon-nest-out-of-power/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dragon Nest has it's own version of World of Warcraft's \"rest xp\" -- power. There's a power bar next to your experience bar that slowly..."
+categories:
   - "Dragon Nest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-26-00-21-49-35-480x320.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-26-00-21-49-35-480x320.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-26-00-21-49-35-480x320.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/DragonNest-2011-08-26-00-21-49-35-480x320.jpg"
 ---
+Dragon Nest has it's own version of World of Warcraft's "rest xp" -- power. There's a power bar next to your experience bar that slowly...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/DragonNest-2011-08-26-00-21-49-35-480x320.jpg" title="Der Ritter, cleric" class="align-center" >}}
+
 
 Dragon Nest has it's own version of World of Warcraft's "rest xp" -- power. There's a power bar next to your experience bar that slowly fills up over time. Each dungeon instance you do takes some of this power away; doing a low level dungeon on "easy" mode might cost 25 power. Doing a level 15 dungeon on "master" mode might take 300 power.
 

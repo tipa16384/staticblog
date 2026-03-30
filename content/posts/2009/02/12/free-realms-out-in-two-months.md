@@ -3,37 +3,12 @@ date: '2009-02-12T11:10:23-05:00'
 draft: false
 title: "Free Realms out in two months"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/12/free-realms-out-in-two-months/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "According to Massively, Free Realms, SOE's kid-friendly game, will be out in April for the PC and some time in the fall for the PS3...."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+According to Massively, Free Realms, SOE's kid-friendly game, will be out in April for the PC and some time in the fall for the PS3....
+<!--more-->
 
 [According to Massively](http://www.massively.com/2009/02/12/free-realms-confirmed-for-april-launch/), Free Realms, SOE's kid-friendly game, will be out in April for the PC and some time in the fall for the PS3.
 

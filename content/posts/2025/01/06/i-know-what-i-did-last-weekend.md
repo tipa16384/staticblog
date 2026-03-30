@@ -3,43 +3,21 @@ date: '2025-01-06T08:16:45-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/06/i-know-what-i-did-last-weekend/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This weekend was a little time in a lot of games. There's a game or two in here you might not have heard of."
-description: "This weekend was a little time in a lot of games. There's a game or two in here you might not have heard of."
-tags:
+categories:
   - "Baldur's Gate 3"
   - "Guild Wars"
   - "Malifaux"
   - "Palworld"
+tags:
   - "Bardwood Grove"
   - "Fantasian Neo Dimension"
   - "Starvaders"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/2025-1-6.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/2025-1-6.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/2025-1-6.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/2025-1-6.png"
 ---
+This weekend was a little time in a lot of games. There's a game or two in here you might not have heard of.
+<!--more-->
 
 I thought it might be fun to just *summarize* last weekend's gaming. I do a few things, but not one of them deserves its own blog post.
 
@@ -55,7 +33,7 @@ The banner picture up top is of my new "December" keyword crew, mostly put toget
 
 I bought him a chess timer for Christmas so that he could practice with it. Normal Malifaux games are long. Team tournament games are on a timer. You move quickly or run out of time.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-25.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-25.png" classes="center" >}}
 
 **Palworld**
 
@@ -63,19 +41,19 @@ On my first level 60 oil rig run, I got a blueprint for a purple Plasma Cannon. 
 
 With the plasma cannon, the final tower in both normal and hard modes, and the Xenolord raid on farm status, I am more or less done with Palworld for now. I might run the new oil rig a few more times to see if I can find a better armor blueprint.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-26-1024x576.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-26-1024x576.png" classes="center" >}}
 
 **Fantasian Neo Dimension**
 
 *Finally* started this game. It's been sitting on my desk for awhile. I'm not too far into it, but I'm loving it so far. It's like if FFVII and FFVII had a baby. It's more FFVII. I'm there for it. More later.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-27-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-27-1024x576.png" classes="center" >}}
 
 **StarVaders**
 
 A really fun cross between Slay the Spire and Space Invaders. You build a deck to ward off enemy invaders, after which is a boss fight. It is really quite a lot like Slay the Spire, tbh. Deck building is fun! More on this later, as well.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-28-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-28-1024x576.png" classes="center" >}}
 
 **Baldur's Gate 3**
 

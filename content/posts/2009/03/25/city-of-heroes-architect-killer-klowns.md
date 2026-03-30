@@ -3,41 +3,19 @@ date: '2009-03-25T07:23:34-05:00'
 draft: false
 title: "City of Heroes Architect: Killer Klowns"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/25/city-of-heroes-architect-killer-klowns/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night was one of those kinds of nights where you're trying to pass a kidney stone, drinking gallons and gallons of water, and you..."
+categories:
   - "City of Heroes"
   - "MMORPG"
+tags:
   - "Architect"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-24-22-57-35-03.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-24-22-57-35-03.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-24-22-57-35-03.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-24-22-57-35-03.jpg"
 ---
+Last night was one of those kinds of nights where you're trying to pass a kidney stone, drinking gallons and gallons of water, and you...
+<!--more-->
 
-![cityofheroes-2009-03-24-22-57-35-03](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-24-22-57-35-03.jpg "cityofheroes-2009-03-24-22-57-35-03")
+
 
 Last night was one of those kinds of nights where you're trying to pass a kidney stone, drinking gallons and gallons of water, and you know, it would be a really nice time to KILL. SOMETHING.
 

@@ -3,24 +3,8 @@ date: '2009-09-17T21:34:53-05:00'
 draft: false
 title: "Daily Blogroll 9/17 - Kanye edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/17/daily-blogroll-917-kanye-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "Darkfall"
@@ -36,20 +20,15 @@ tags:
   - "Runes of Magic"
   - "Star Trek"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/kanye.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/kanye.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg"
 ---
+[...
+<!--more-->
 
-[![Kanye pops up in Runes of Magic](https://chasingdings.com/wp-content/uploads/2009/09/kanye.jpg "Kanye pops up in Runes of Magic")](https://chasingdings.com/wp-content/uploads/2009/09/kanye.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/09/kanye.jpg)
 
 Guy just keeps popping up everywhere, don't he?
 
@@ -71,7 +50,7 @@ Ravious at Kill Ten Rats has a fantastic interview with some folks at ArenaNet, 
 
 Rer at (Insert Awesome Aion Name) was worried that the news that Aion's Fortresses would only be allowed to be taken on that server's prime time [would really hurt legions (guilds) with members across time zones](http://insert-awesome-aion-name.blogspot.com/2009/09/truely-unacceptable.html). Looks like NCsoft has taken that into account with a lot of tools to tell when a fortress is available for attack, which ones ARE being attacked and so forth to make it easier to get people together for those. Also, [looks like the West Coast servers are gonna be the hot ones](http://insert-awesome-aion-name.blogspot.com/2009/09/fort-times.html).
 
-![A random corner in Rivervale](https://chasingdings.com/wp-content/uploads/2009/09/eqgame-2009-09-17-20-59-29-19.jpg "A random corner in Rivervale")I used to twink my EQ alts by logging the alt in this little corner, dropping stuff there with my main, then logging in really quick and hope nobody had stolen it or it hadn't just decayed. Was that cheating? *I* don't think so. In EverQuest, that's pretty much why people kept going to the old zones. Twinking -- and farming stuff to sell -- was the root of EQ's social culture. It was the battery that kept the whole thing going. Gordon of We Fly Spitfires, alas, sees things differently. [Is twinking just another form of cheating](http://blog.weflyspitfires.com/2009/09/17/twinking-is-just-another-form-of-cheating/)? Or is it a way to keep older zones active enough so that newer players can more easily find groups?
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/eqgame-2009-09-17-20-59-29-19.jpg" title="A random corner in Rivervale" classes="center" >}}I used to twink my EQ alts by logging the alt in this little corner, dropping stuff there with my main, then logging in really quick and hope nobody had stolen it or it hadn't just decayed. Was that cheating? *I* don't think so. In EverQuest, that's pretty much why people kept going to the old zones. Twinking -- and farming stuff to sell -- was the root of EQ's social culture. It was the battery that kept the whole thing going. Gordon of We Fly Spitfires, alas, sees things differently. [Is twinking just another form of cheating](http://blog.weflyspitfires.com/2009/09/17/twinking-is-just-another-form-of-cheating/)? Or is it a way to keep older zones active enough so that newer players can more easily find groups?
 
 Syp thinks grinding has got a bad rap. In fact, it brings you to an almost zen-like state of relaxation. Seriously -- [grinding might be good for your health](http://biobreak.wordpress.com/2009/09/17/a-case-for-grinding-redux/)! So grind another rank of faction for your kids, because they love you.
 
@@ -91,10 +70,10 @@ Hudson [writes about the closure of a dozen Star Wars Galaxies servers](http://h
 
 The Teal Nine Ring Highway Hazard has gotten subscribing to several MMOs down to a finely honed science. [Get out your spreadsheet and follow along](http://playervsdeveloper.blogspot.com/2009/09/juggling-mmorpgs-and-budgets.html) and you, too, can play five MMOs and pay for only one sub at a time.
 
-Ardwulf, he of [the one word Aion review](http://ardwulfslair.wordpress.com/2009/09/10/worlds-shortest-aion-review/), bids [a fad sarewell to NCsoft Austin's Dungeon Runners](http://ardwulfslair.wordpress.com/2009/09/16/yet-another-title-meet-the-ncsoft-axe/). I liked the game fine, just got too repetitive, but I am sad to see it go. I remember when NCsoft Austin was started with bright hopes and magical moonbeams to work on a mysterious groundbreaking MMO by game royalty Lord "Richard Garriott" British. [I remember it just like it was Sunday](https://chasingdings.com/index.php/2009/09/13/daily-blogroll-looks-back-2001/). Now, what's left of it? Gone, along with all our dreams.
+Ardwulf, he of [the one word Aion review](http://ardwulfslair.wordpress.com/2009/09/10/worlds-shortest-aion-review/), bids [a fad sarewell to NCsoft Austin's Dungeon Runners](http://ardwulfslair.wordpress.com/2009/09/16/yet-another-title-meet-the-ncsoft-axe/). I liked the game fine, just got too repetitive, but I am sad to see it go. I remember when NCsoft Austin was started with bright hopes and magical moonbeams to work on a mysterious groundbreaking MMO by game royalty Lord "Richard Garriott" British. [I remember it just like it was Sunday](https://tipa16384.github.io/wkblog/index.php/2009/09/13/daily-blogroll-looks-back-2001/). Now, what's left of it? Gone, along with all our dreams.
 
 The Friendly Necromancer spills the beans about [the special PvP armor you can earn in Wizard101](http://thefriendlynecromancer.blogspot.com/2009/09/alex-jaderider-wears-cools-clothes-what.html). -100% mana? Sounds like winning stats to me. But it does look cool, though making plate armor and metal helms kinda stretches traditional wizard-wear, doesn't it?
 
-![A Titan under attack.](https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-13-11-20-41-51.jpg "A Titan under attack.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-13-11-20-41-51.jpg" title="A Titan under attack." classes="center" >}}
 
 Keep gaming! I've had a pretty rough past couple of days IRL but I'm back now :)

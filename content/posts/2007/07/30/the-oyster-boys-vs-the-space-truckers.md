@@ -3,37 +3,12 @@ date: '2007-07-30T10:29:13-05:00'
 draft: false
 title: "The Oyster Boys vs the Space Truckers"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/30/the-oyster-boys-vs-the-space-truckers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Blue Oyster Cult opening for Deep Purple here in Connecticut? Brilliant! This will be my fifth time seeing BOC, but the first for Deep Purple...."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Blue Oyster Cult opening for Deep Purple here in Connecticut? Brilliant! This will be my fifth time seeing BOC, but the first for Deep Purple....
+<!--more-->
 
 Blue Oyster Cult opening for Deep Purple here in Connecticut? Brilliant! This will be my fifth time seeing BOC, but the first for Deep Purple.
 

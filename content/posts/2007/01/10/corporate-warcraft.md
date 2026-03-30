@@ -3,41 +3,20 @@ date: '2007-01-10T16:30:03-05:00'
 draft: false
 title: "Corporate Warcraft"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/01/10/corporate-warcraft/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In my job search, there is a question I dread hearing from an interviewer. And that would be, \"Do you play World of Warcraft?\"..."
+categories:
   - "MMORPG"
   - "My Work"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/headshot.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/01/headshot.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/headshot.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/headshot.gif"
 ---
+In my job search, there is a question I dread hearing from an interviewer. And that would be, "Do you play World of Warcraft?"...
+<!--more-->
 
-![headshot.gif](https://chasingdings.com/wp-content/uploads/2007/01/headshot.gif)In my job search, there is a question I dread hearing from an interviewer. And that would be, "Do you play World of Warcraft?"
+
+
+In my job search, there is a question I dread hearing from an interviewer. And that would be, "Do you play World of Warcraft?"
 
 It's great so many people play. When I lived in Escondido, this guy came over to borrow a Windows XP install disk (does this really happen? apparently...). He'd seen me carry computer gear into the apartment... a LOT of computer gear... and I guess he had a hunch I might be a person who might have one. Which I was.
 
@@ -47,7 +26,7 @@ Around this time last year I started seeing stories like this one, "[Is World of
 
 And I have to admit, this makes me a... little uneasy.
 
-![warcraft.jpg](https://chasingdings.com/wp-content/uploads/2007/01/warcraft.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/01/warcraft.jpg" classes="center" >}}
 
 But it gets worse. Do you let your boss get all the purples? Pass on the Thorium nodes for brownie points? Change servers?
 

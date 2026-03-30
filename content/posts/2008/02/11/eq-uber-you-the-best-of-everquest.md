@@ -3,40 +3,19 @@ date: '2008-02-11T19:40:55-05:00'
 draft: false
 title: "EQ: UBER YOU! The Best of EverQuest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/11/eq-uber-you-the-best-of-everquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/uber.thumbnail.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/uber.thumbnail.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/uber.thumbnail.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/uber.thumbnail.gif"
 ---
+[...
+<!--more-->
 
-[![uber.gif](https://chasingdings.com/wp-content/uploads/2008/02/uber.thumbnail.gif)](https://chasingdings.com/wp-content/uploads/2008/02/uber.gif)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2008/02/uber.gif)
 
 Remember where you were in 2001? If you played EverQuest, maybe you were still running around in patchwork armor, struggling to kill fire beetles with splintered wooden staffs, when someone ran by you in gleaming armor, carrying amazing weapons, and sneered at you, if they even noticed you at all.
 

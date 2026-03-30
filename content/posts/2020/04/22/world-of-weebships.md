@@ -3,47 +3,25 @@ date: '2020-04-22T15:02:00-05:00'
 draft: false
 title: "World of Warships is the perfect MMO for someone who just can't be bothered to care any more."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/04/22/world-of-weebships/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Back in the before times, there was a blogger who was deep into World of Tanks. I don't remember who it was, but I remember..."
+categories:
   - "MMORPG"
   - "World of Warships"
+tags:
   - "Imperial Japanese Navy"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/WorldOfWarships64-2020-04-22-22-20-32-93.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/04/WorldOfWarships64-2020-04-22-22-20-32-93.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/WorldOfWarships64-2020-04-22-22-20-32-93.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/WorldOfWarships64-2020-04-22-22-20-32-93.jpg"
 ---
+Back in the before times, there was a blogger who was deep into World of Tanks. I don't remember who it was, but I remember...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/WorldOfWarships64-2020-04-22-22-41-18-23-1024x576.jpg" title="During this PvE mission, I was politely asked by a teammate to \"uninstall the game\"." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/04/WorldOfWarships64-2020-04-22-22-41-18-23-1024x576.jpg" title="During this PvE mission, I was politely asked by a teammate to \"uninstall the game\"." classes="center" >}}
 
 Back in the before times, there was a blogger who was deep into World of Tanks. I don't remember who it was, but I remember really liking the slower pace and the tactical gameplay. I didn't (and don't) much care for or about tanks. World of Planes, when I tried it, was way too fast paced and hard to keep track of the fight.
 
 World of Warships, when it came out, was perfect. It was slow, very tactical, visually exciting, and the developers sometimes had a playful attitude, like when they turned the battlefield into a giant tub, complete with floating duckies.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/worldofwarships-2016-04-05-18-37-25-01-1024x570.jpg" title="This is a thing that really happened." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/04/worldofwarships-2016-04-05-18-37-25-01-1024x570.jpg" title="This is a thing that really happened." classes="center" >}}
 
 When I start with an MMO, I usually try to get into a guild (or local equivalent) where I can meet people, learn about the game and really immerse myself in the experience. I didn't do that with World of Warships. I don't talk to anyone, I don't join anything, and because of that I feel free to play or not play as much as I like.
 
@@ -59,7 +37,7 @@ Even though I mess up sometime, it's a fun, relaxing game with quick matches and
 
 And someday soon, submarines!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/WorldOfWarships64-2020-04-22-22-22-42-87-1024x576.jpg" title="The SS Lollipop sets sail on a stormy sea" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/04/WorldOfWarships64-2020-04-22-22-22-42-87-1024x576.jpg" title="The SS Lollipop sets sail on a stormy sea" classes="center" >}}
 
 Someone's sure to point out that my casual attitude is everything that's wrong with the game. There's a co-op mode, where it's a team of humans and maybe some bots against a team entirely of bots; that's a great place to learn to play against a more forgiving foe. 
 

@@ -3,40 +3,17 @@ date: '2007-12-05T01:56:24-05:00'
 draft: false
 title: "EQ2: Tuning the Troub"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/05/eq2-tuning-the-troub/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Still haven't managed to get a Crypt of Agony group for my troubador (mad gnashing of teeth), but Dera, my cleric, got her second group..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-05-00-25-26-43.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-05-00-25-26-43.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-05-00-25-26-43.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-05-00-25-26-43.jpg"
 ---
+Still haven't managed to get a Crypt of Agony group for my troubador (mad gnashing of teeth), but Dera, my cleric, got her second group...
+<!--more-->
 
-![everquest2-2007-12-05-00-25-26-43.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-05-00-25-26-43.jpg)
+
 
 Still haven't managed to get a Crypt of Agony group for my troubador (mad gnashing of teeth), but Dera, my cleric, got her second group there. It's easier for healers, since you need two to do the instance well. Once again, I was headed there for a guild group and once again, it broke up before I got there.
 

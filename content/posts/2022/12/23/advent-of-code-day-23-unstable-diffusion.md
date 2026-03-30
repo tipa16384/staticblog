@@ -3,41 +3,19 @@ date: '2022-12-23T21:22:45-05:00'
 draft: false
 title: "Advent of Code Day 23 -- Unstable Diffusion"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/23/advent-of-code-day-23-unstable-diffusion/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "...because Stable Diffusion was already used, I guess. This is the annual cellular automata puzzle. Plus, why no puzzle 22?"
-description: "...because Stable Diffusion was already used, I guess. This is the annual cellular automata puzzle. Plus, why no puzzle 22?"
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "Advent"
   - "Crippling Failure"
   - "Elf"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-23-21.02.08-Several-Christmas-elves-standing-in-a-grid-in-a-jungle-clearing-a-volcano-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-23-21.02.08-Several-Christmas-elves-standing-in-a-grid-in-a-jungle-clearing-a-volcano-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-23-21.02.08-Several-Christmas-elves-standing-in-a-grid-in-a-jungle-clearing-a-volcano-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-23-21.02.08-Several-Christmas-elves-standing-in-a-grid-in-a-jungle-clearing-a-volcano-in-the-background-by-Bob-Eggleton-detailed-and-intricate.png"
 ---
+...because Stable Diffusion was already used, I guess. This is the annual cellular automata puzzle. Plus, why no puzzle 22?
+<!--more-->
 
 I got both stars on Day 22, "[Monkey Map](https://adventofcode.com/2022/day/22)", but I am not taking credit for it. I did Part 1 fine, no troubles. Part 2 required folding the whole thing into a cube, and that didn't work. I made a physical cube to help visualize. I wrote an interactive visualization to make sure things were working (in curses, in a terminal, so it doesn't look cool). I wrote *unit tests*! I only do that at *work*, but even though they all passed and everything look like it worked -- I was getting the wrong answer.
 

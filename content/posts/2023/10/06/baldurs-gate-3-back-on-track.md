@@ -3,40 +3,18 @@ date: '2023-10-06T07:59:21-05:00'
 draft: false
 title: "Baldur's Gate 3: Back on Track"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/10/06/baldurs-gate-3-back-on-track/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "There's always another way to do something in Baldur's Gate 3..."
-description: "There's always another way to do something in Baldur's Gate 3..."
-tags:
+categories:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
   - "PS5"
+tags:
   - "Speak with the Dead"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-073659.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/10/Screenshot-2023-10-06-073659.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-06-073659.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-06-073659.png"
 ---
+There's always another way to do something in Baldur's Gate 3...
+<!--more-->
 
 I don't think I have played another game where online guides have been quite so useless. Sure, there is an easy path through the game, probably a "correct" path, and by slavishly following it, there would be an objectively best outcome. I have definitely done that with these sorts of games before.
 
@@ -52,7 +30,7 @@ I tried the revivification spell, but that can't be cast on NPCs. Then... I trie
 
 That did the trick. He gave us the quest, Halsin told us our next step, and...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-5-1024x657.png" title="We saved him!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-5-1024x657.png" title="We saved him!" classes="center" >}}
 
 Halsin told us that the child that could lift the curse had been squirreled away in the plane of Shadowfell. He'd go get him, no problem, but we would have to defend the portal to Shadowfell while he was away. I failed at that.
 

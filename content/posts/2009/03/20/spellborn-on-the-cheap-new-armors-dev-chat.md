@@ -3,44 +3,22 @@ date: '2009-03-20T19:06:25-05:00'
 draft: false
 title: "Spellborn on the cheap, new armors, dev chat"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/20/spellborn-on-the-cheap-new-armors-dev-chat/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just finished listening in on the Spellborn dev chat/'webinar'. Lots of interesting discussion, some of which is after the break...."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Acclaim"
   - "Armor"
   - "Closed Beta"
   - "Coins"
   - "Developer Chat"
   - "High House"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/armor1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/armor1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg"
 ---
+Just finished listening in on the Spellborn dev chat/'webinar'. Lots of interesting discussion, some of which is after the break....
+<!--more-->
 
 Just finished listening in on the Spellborn dev chat/'webinar'. Lots of interesting discussion, some of which is after the break.
 
@@ -56,17 +34,19 @@ Or, you could just pay the $15/month when they offer that option.
 
 The Webinar software let us see El (Spellborn Lead Designer) Drijver's computer, and he casually dragged several sets of new armor onto it for us. I was pretty darn quick on the Print Screen button, and got pictures of them all to share. All of them are, I believe, High House specific armors. The black set is for House Shroud, and I don't know about the silver and the red sets. Click on the pictures for a slightly larger look.
 
-[![armor1](https://chasingdings.com/wp-content/uploads/2009/03/armor1.jpg "armor1")](https://chasingdings.com/wp-content/uploads/2009/03/armor1.jpg)
+[
 
-[![armor2](https://chasingdings.com/wp-content/uploads/2009/03/armor2.jpg "armor2")](https://chasingdings.com/wp-content/uploads/2009/03/armor2.jpg)
+](https://tipa16384.github.io/wkblog/uploads/2009/03/armor1.jpg)
 
-[![mysteryarmor](https://chasingdings.com/wp-content/uploads/2009/03/mysteryarmor.jpg "mysteryarmor")](https://chasingdings.com/wp-content/uploads/2009/03/mysteryarmor.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/armor2.jpg" title="armor2" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/armor2.jpg)
 
-[![shroudarmor](https://chasingdings.com/wp-content/uploads/2009/03/shroudarmor.jpg "shroudarmor")](https://chasingdings.com/wp-content/uploads/2009/03/shroudarmor.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/mysteryarmor.jpg" title="mysteryarmor" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/mysteryarmor.jpg)
 
-[![shroudarmorback](https://chasingdings.com/wp-content/uploads/2009/03/shroudarmorback.jpg "shroudarmorback")](https://chasingdings.com/wp-content/uploads/2009/03/shroudarmorback.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/shroudarmor.jpg" title="shroudarmor" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/shroudarmor.jpg)
 
-[![shroudarmorhelmet](https://chasingdings.com/wp-content/uploads/2009/03/shroudarmorhelmet.jpg "shroudarmorhelmet")](https://chasingdings.com/wp-content/uploads/2009/03/shroudarmorhelmet.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/shroudarmorback.jpg" title="shroudarmorback" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/shroudarmorback.jpg)
+
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/shroudarmorhelmet.jpg" title="shroudarmorhelmet" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/shroudarmorhelmet.jpg)
 
 Full dev chat transcript (the typed portion, anyway) after the break.
 

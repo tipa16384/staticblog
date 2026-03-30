@@ -3,55 +3,33 @@ date: '2021-10-02T10:08:04-05:00'
 draft: false
 title: "Game Night: Scythe (and My Little Scythe)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/02/game-night-scythe-and-my-little-scythe/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last week, we saved the forest with apple pies in My Little Scythe. Now we have to save the world -- or at least 1920s..."
+categories:
   - "Game Night"
   - "My Little Scythe"
   - "Scythe"
   - "Tabletop Games"
+tags:
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/Scythe-Board-Game-img06.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/Scythe-Board-Game-img06.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/Scythe-Board-Game-img06.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/Scythe-Board-Game-img06.jpg"
 ---
+Last week, we saved the forest with apple pies in My Little Scythe. Now we have to save the world -- or at least 1920s...
+<!--more-->
 
-Last week, we saved the forest with apple pies in [My Little Scythe](https://chasingdings.com/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/). Now we have to save the world -- or at least 1920s Eastern Europe -- in [Scythe](https://stonemaiergames.com/games/scythe/).
+Last week, we saved the forest with apple pies in [My Little Scythe](https://tipa16384.github.io/wkblog/2021/09/25/game-night-my-little-scythe-and-the-watson-game-topper/). Now we have to save the world -- or at least 1920s Eastern Europe -- in [Scythe](https://stonemaiergames.com/games/scythe/).
 
 Both "My Little Scythe" and "Scythe" have similar game play. In both, you choose from among a certain amount of actions, that are upgraded as the game progresses, in order to boost your faction and reach a set number of goals.
 
 Scythe takes that basic template and bolts on asymmetric gameplay, where each faction plays a little differently from the others, with different advantages. I played Crimea, which also grabs parts of both what would be Ukraine and Russia in today's world, and utterly controls access to the Black Sea. Crimea's special ability is built around farming combat cards and using them to make itself a more formidable opponent, as well as one that is deadly in a fight. 
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/2-IMG_2338.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/2-IMG_2338.jpg)My Little Scythe -- for the children, you know
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/2-IMG_2338.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/2-IMG_2338.jpg)My Little Scythe -- for the children, you know
 
 But, before we got into all that, since the grandchildren had been asking so much to be part of Game Night, we started a game of My Little Scythe for them to play with us. It wasn't long before they found other things to do, so the adults finished their game for them.
 
 I love my grandkids, but any game that takes more than five minutes to play isn't going to hold their attention.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2339.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2339.jpg)Actual Scythe, with board expansion
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2339.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2339.jpg)Actual Scythe, with board expansion
 
 One does not just walk into Scythe. While it is vaguely similar to My Little Scythe (or rather, MLS is vaguely similar to Scythe, as it is a remix of the larger game for kids) -- while the one game resembles the other, Scythe focuses more on "engine building" than rushing for trophies.
 

@@ -3,40 +3,17 @@ date: '2010-03-06T08:06:27-05:00'
 draft: false
 title: "EverQuest: Survey asks, what would you like to see in EQ?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/06/everquest-survey-asks-what-would-you-like-to-see-in-eq/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A new player survey pops up when you log into EverQuest these days, asking what sort of content players would like to see from the..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/imuttonchops.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/imuttonchops.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/imuttonchops.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/imuttonchops.jpg"
 ---
+A new player survey pops up when you log into EverQuest these days, asking what sort of content players would like to see from the...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/03/imuttonchops.jpg "Hands off the Muttonchops!")
+
 
 A new player survey pops up when you log into EverQuest these days, asking what sort of content players would like to see from the venerable MMORPG. Can an eleven year old game still innovate? These poll questions hint that SOE has not given up on the game that put them on the map:
 

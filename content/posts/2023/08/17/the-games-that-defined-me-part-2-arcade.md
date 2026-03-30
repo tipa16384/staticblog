@@ -3,27 +3,12 @@ date: '2023-08-17T07:00:00-05:00'
 draft: false
 title: "The Games that Defined Me, Part 2 -- Arcade"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/17/the-games-that-defined-me-part-2-arcade/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "In the 80s, I went to the arcade two or three times a week. I took my love of arcade games to home consoles."
-description: "In the 80s, I went to the arcade two or three times a week. I took my love of arcade games to home consoles."
-tags:
+categories:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2023"
+tags:
   - "Babylon 5"
   - "Gauntlet"
   - "Radiant Silvergun"
@@ -31,24 +16,17 @@ tags:
   - "Viewpoint"
   - "Wing Commander"
   - "Xevious"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/startrek.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/startrek.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/startrek.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/startrek.png"
 ---
+In the 80s, I went to the arcade two or three times a week. I took my love of arcade games to home consoles.
+<!--more-->
 
 I have M.A.M.E. installed on my gaming computer, and writing this post about classic arcade games and how they lead to the games I play today just sent me on a huge trip into the past... literally. I just played through the first three levels of Cadillacs & Dinosaurs....
 
 I am lucky enough to have grown up through the rise and the fall of the arcade. I lost quarters at the bowling alley, in the lobby of the local Ramada Inn, at the King's department store when my mom took me shopping, at the pizza place on the corner. If I had quarters, I was spending them. I played *a lot* of arcade games, but when I look back at them all, there's only a few that I think really inspired me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-36.png" title="Saving the world" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-36.png" title="Saving the world" classes="center" >}}
 
 **Xevious**
 
@@ -56,13 +34,13 @@ There was no question at all that Xevious would be at the top of the list. This 
 
 I can't get into that state anymore, and I don't do well when I try to play this game now. I could really use that ability to shut out the world, sometimes.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-37-300x191.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-37-300x191.png" classes="fig-20" >}}
 
 Xevious is a vertical scrolling shooter. Eventually this genre would morph into what we call bullet hell shooters today, but Xevious never had that many bullets. It was all about memorizing patterns.
 
 Years later, when I had a son and he'd grown to the right age, we played another vertical scrolling shooter, Radiant Silvergun, on the Sega Saturn. I think I got it from the local Japanese bookstore/grocery store, Kinokuniya. Anyway, it was entirely in Japanese, and we had to go online to figure out what the plot was. This one was a true bullet hell, and you couldn't just shoot what you wanted. Key to winning the game was to build up chains of shooting enemies of a given color to build up a chain bonus, which would power up your most powerful weapons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-38-300x225.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-38-300x225.png" classes="fig-20" >}}
 
 More recently, I discovered Viewpoint, and I don't remember how. I had it on the PSX emulator, had a lot of fun, but decided, as one does, that I needed the physical disk. Which I now have.
 
@@ -72,7 +50,7 @@ The second problem with playing arcade style games these days is my hands start 
 
 Still, I've always had a soft spot for these scrolling shooters. Always something new coming at you, but you're really just waiting to see what the next screen-filling boss is going to do to you ;-)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-39.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-39.png" classes="center" >}}
 
 **Gauntlet**
 
@@ -86,7 +64,7 @@ This might have been the first arcade game I played that let you select differen
 
 I've thought Rogue led most directly to Diablo, but it took a detour through Gauntlet to get there. Few games have done hacking and slashing better than Gauntlet. I've played the sequels, including the relatively recent reimagining, but nothing beats the original. The later levels are truly twisted, but you'll have to take a cup of quarters to the local Funspot to find out.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-40.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-40.png" classes="center" >}}
 
 **Star Wars**
 
@@ -96,7 +74,7 @@ There was never a chance I wasn't going to obsess over the arcade version. No ch
 
 Like a lot of early arcade games, it used a vector display, similar to Space War, Asteroids, Battle Zone, Omega Race and so many other classics. When the only home console with a vector display, the Vectrex came out, I wanted it soooo bad, but I just couldn't afford it. If I see a Vectrex at Retro World Expo in a couple of weeks, I might do it. Maybe not.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-41-300x169.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-41-300x169.png" classes="fig-20" >}}
 
 Drawing a line between the arcade game and the DOS games like X Wing and Tie Fighter is pretty easy, but I only had that feeling of being at the controls of a space fighter in the same way when I played Wing Commander.
 

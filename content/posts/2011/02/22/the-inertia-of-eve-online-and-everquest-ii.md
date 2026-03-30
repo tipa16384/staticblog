@@ -3,41 +3,18 @@ date: '2011-02-22T07:54:26-05:00'
 draft: false
 title: "The Inertia of EVE Online and EverQuest II"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/22/the-inertia-of-eve-online-and-everquest-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "CCP has been sending me \"come back to EVE\" e-mails for awhile now, touting variously their refund of learning skills, the new character creator, soon..."
+categories:
   - "EVE Online"
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg"
 ---
+CCP has been sending me "come back to EVE" e-mails for awhile now, touting variously their refund of learning skills, the new character creator, soon...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/ExeFile-2011-02-22-01-04-00-67-480x384.jpg" title="A portrait of a nerd" class="align-center" >}}
+
 
 CCP has been sending me "come back to EVE" e-mails for awhile now, touting variously their refund of learning skills, the new character creator, soon the "captain's quarters" where capsuleers can get out of the pod and stretch their legs.
 
@@ -51,7 +28,7 @@ But should you stop -- your skill queue empties out and you forget what you were
 
 It's inertia, and it would take a powerful shove to keep things moving again.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/EverQuest2-2011-02-22-00-20-12-31-480x384.jpg" title="Scatterfall of Antonia Bayle" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/EverQuest2-2011-02-22-00-20-12-31-480x384.jpg" title="Scatterfall of Antonia Bayle" classes="center" >}}
 
 I'm in a weird spot with MMOs at the moment. Since I didn't want to play in any of the recent Rift betas, I've been floating between games. Lucent Heart, DDO, even EverQuest II.
 

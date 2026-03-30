@@ -3,27 +3,12 @@ date: '2008-09-14T12:20:02-05:00'
 draft: false
 title: "EQ2: Tomb of Thuuga and the Shard of Hate"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/14/eq2-tomb-of-thuuga-and-the-shard-of-hate/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Tomb of Thuuga. The boss fight is hard to take screenshots of because of positioning...."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Adora"
   - "Dina"
   - "Dinah"
@@ -36,20 +21,13 @@ tags:
   - "Shard of Hate"
   - "Signet of Betrayal"
   - "Tailoring"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg"
 ---
+Tomb of Thuuga. The boss fight is hard to take screenshots of because of positioning....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/everquest2-2008-09-13-22-12-56-42.jpg "everquest2-2008-09-13-22-12-56-42")
+
 
 *Tomb of Thuuga. The boss fight is hard to take screenshots of because of positioning.*
 

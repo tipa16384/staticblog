@@ -3,26 +3,11 @@ date: '2024-06-09T07:00:00-05:00'
 draft: false
 title: "Retro Haul: Tactics and Sea Monkeys"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/06/09/retro-haul-tactics-and-sea-monkeys/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We found ourselves once again awash in a sea of retro games. We found some winners, maybe...?"
-description: "We found ourselves once again awash in a sea of retro games. We found some winners, maybe...?"
-tags:
+categories:
   - "Tactical RPG"
   - "Video Game"
+tags:
   - "Boba Tea"
   - "Dr. Stone"
   - "Future Tactics"
@@ -33,18 +18,11 @@ tags:
   - "Rebelstar"
   - "Retrogames"
   - "Sea Monkeys"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/06/IMG_4308.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/06/IMG_4308.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/IMG_4308.jpg"
 ---
+We found ourselves once again awash in a sea of retro games. We found some winners, maybe...?
+<!--more-->
 
 I always go to retro game stores intending to play every game I buy, but I honestly just don't always have the time. Something keeps coming up. This week, it's Valheim. Next week, who knows?
 
@@ -60,7 +38,7 @@ I did find a loose copy of Final Fantasy V Advance, but they wanted $50 for it. 
 
 Let's go over the games we *did* get.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/1-seamonkeys-1679171525231.jpg" title="Don't they look delicious?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/1-seamonkeys-1679171525231.jpg" title="Don't they look delicious?" classes="center" >}}
 
 **The Amazing Virtual Sea-Monkeys**
 
@@ -70,7 +48,7 @@ The initial levels will have you sucking up dangerous Sea-Monkey eating fish. Th
 
 Why Sea-Monkeys? My boyfriend has been watching a lot of Sea-Monkey videos lately. That's it, that's all I got.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/Future-Tactics-The-Uprising_SLUS-20859_20240608203409-1024x768.png" title="For certain values of \"future\", I guess." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/Future-Tactics-The-Uprising_SLUS-20859_20240608203409-1024x768.png" title="For certain values of \"future\", I guess." classes="center" >}}
 
 In Future Tactics: The Uprising, creatures have invaded Earth, and you're going to get rid of them. It's a turn-based, tactical game with very little plot. The game allows free movement, first or third person views, and a variety of weaponry. I'd almost call it an XCOM-like, but... well, there are elements.
 
@@ -82,13 +60,13 @@ Not the game's fault! I'm certain it played fine on a PS/2 with the original Dua
 
 The game seemed *fine* otherwise. A little cartoony, but we live in a post-WoW world, and cartoony is a valid style. Unplayable for me, though.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/20240608_204011.png" title="War of the Worlds meets Logan's Run" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/20240608_204011.png" title="War of the Worlds meets Logan's Run" classes="center" >}}
 
 **Rebel Star: Tactical Command**
 
 This game is what I thought Future Tactics was going to be: XCOM, basically. In this Gameboy Advance game, you play as a young boy ("Jorel", future father of Superman, I guess) who runs off to join the rebels who are the last bit of resistance against the invaders that have invaded the Earth after a very short war that humanity lost.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/20240608_203849.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/20240608_203849.png" classes="fig-20" >}}
 
 Actually, let me change it to *Battlefield Earth* meets Logan's Run. Implacable aliens. Rebel humans. The Logan's Run bit is that they take away any human when they turn 30, in order to presumably throw them a really nice birthday party and let them live out their lives in a beautiful farm out in the country where they can run free.
 
@@ -96,7 +74,7 @@ I haven't gotten that far, but I did play far enough to see that this is a far m
 
 Also, there are orcs. Zorn, I mean.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/Pinball-Hall-of-Fame-The-Gottlieb-Collection_SLUS-21038_20240608211320-1024x768.png" title="Big Shot is one of four classic tables" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/Pinball-Hall-of-Fame-The-Gottlieb-Collection_SLUS-21038_20240608211320-1024x768.png" title="Big Shot is one of four classic tables" classes="center" >}}
 
 **Pinball Hall of Fame: The Gottlieb Collection**
 
@@ -108,7 +86,7 @@ Some video game pinballs show the entire board; not this one. In order to show t
 
 That said, the collection is varied. Each table has its own special goal that, if you complete, unlocks extras such as a video tour of the pinball machine factory floor, special play modes, and so on.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/image.png" title="I'm 10 billion percent sure you'd like Dr. Stone" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/image.png" title="I'm 10 billion percent sure you'd like Dr. Stone" classes="center" >}}
 
 **Dr. Stone gacha**
 

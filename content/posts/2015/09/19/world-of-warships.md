@@ -3,40 +3,17 @@ date: '2015-09-19T22:56:52-05:00'
 draft: false
 title: "World of Warships?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/19/world-of-warships/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've always sucked at team based PvP. Whether in fantasy MMOs or whatever, team PvP requires an instinct toward knowing your abilities, the abilities of..."
+categories:
   - "MMORPG"
   - "World of Warships"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg"
 ---
+I've always sucked at team based PvP. Whether in fantasy MMOs or whatever, team PvP requires an instinct toward knowing your abilities, the abilities of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/worldofwarships-2015-09-19-21-07-54-13.jpg" title="Terror on the High Seas, me" class="align-center" >}}
+
 
 I've always sucked at team based PvP. Whether in fantasy MMOs or whatever, team PvP requires an instinct toward knowing your abilities, the abilities of your team, of your enemy, and the map, all at once. This is why I've not been able to get into MOBA games like League of Legends and such.
 
@@ -46,7 +23,7 @@ Past few years, though, I've started trying for leadership roles. Tanking isn't 
 
 I wasn't enough tank in EQ2 to really take on the role (didn't raid, didn't like the single group instances much). In Neverwinter, though -- you could get "good enough" gear fairly easily, and I started learning how to tank. FFXIV's superior dungeon grouping and, honestly, superior dungeons made learning the mechanics of each one fun. Built up my confidence. Maybe I could take risks and not fail, after all.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/worldofwarships-2015-09-19-19-43-36-29.jpg" title="My ride. I fight for the Imperial Navy!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/worldofwarships-2015-09-19-19-43-36-29.jpg" title="My ride. I fight for the Imperial Navy!" classes="center" >}}
 
 The "World of..." games have been on my radar for years. I know nothing about tanks, so I didn't really want to play it, but I was fascinated by the stories told by those who did. Same thing with World of Warplanes. I went as far as to download it and get through the tutorial, but I felt I was just button mashing ineffectively -- wasn't really that much fun. Then again, I played it just once...
 

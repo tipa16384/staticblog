@@ -3,40 +3,17 @@ date: '2015-07-07T11:37:28-05:00'
 draft: false
 title: "Garuda is (not) Dead."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/07/07/garuda-is-not-deadit/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It took a surprisingly low number of stupid fetch-this quests to get to the point where we could meet our new challenge: defeat Garuda, the..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-06-21-30-00-41.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-06-21-30-00-41.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/07/ffxiv-2015-07-06-21-30-00-41.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/07/ffxiv-2015-07-06-21-30-00-41.jpg"
 ---
+It took a surprisingly low number of stupid fetch-this quests to get to the point where we could meet our new challenge: defeat Garuda, the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-06-21-30-00-41.jpg" title="Confronting the MothBirdQueen" class="align-center" >}}
+
 
 It took a surprisingly low number of stupid fetch-this quests to get to the point where we could meet our new challenge: defeat Garuda, the primal of the Ixali bird people. Though Garuda herself looks like a bird-moth hybrid, so maybe a bug crystal got mixed in with all the wind crystals used to summon her.**
 
@@ -44,7 +21,7 @@ As with the lead-up to the Titan fight, the various NPCs are fully aware that th
 
 When the NPCs couldn't even convince themselves to send us after one more wrong type of crystal, we were finally off to see the wind goddess. Cid's ship is called the Enterprise. The elf did a Picard-like "Engage!". The Enterprise rose into the air with hints of Star Trek: The Next Generation's theme mixed in with the music.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-06-22-14-41-63.jpg" title="The Enterprise. Its five year mission: collect corrupted crystals." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/07/ffxiv-2015-07-06-22-14-41-63.jpg" title="The Enterprise. Its five year mission: collect corrupted crystals." classes="center" >}}
 
 When we arrived, the Ixali were there in full force, along with many Ifrit Amal'jaa and Titan goblin cultists. Cid and the elf ran off to take those on (ineffectively, as it turns out), while Kasul and I waited at Garuda's gates for people to join our group.
 
@@ -54,7 +31,7 @@ I don't think any of the two dps who joined had done it before. Maybe the summon
 
 Garuda has, inexplicably, built within her perch, four stone pillars that are impervious to her attacks. What an odd thing to do. Those pillars are key to the fight. Garuda, suddenly understanding her mistake, tries to destroy those pillars via direct attack (tank keeps her attention), shooting AEs at the other group members that can spread to break the pillars (other party members stop dancing on the pillars), and dropping flaming pillar-eating feathers on them (kill those feathers).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-06-21-26-12-23.jpg" title="Kasul and I wait for help." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/07/ffxiv-2015-07-06-21-26-12-23.jpg" title="Kasul and I wait for help." classes="center" >}}
 
 My one job was to drag her away from the pillars and soak up heals, so I** didn't screw things up. The two dps -- especially the ninja -- just loved the pillars so much that they couldn't stay away, and apparently had a long running battle animation such that they couldn't break away to deal with the feathers. As such, we had a few tries until everyone knew to (a) stay away from the pillars except when blocking Garuda's attack, and (b) kill the feathers when they spawn. Despite me, reading from the walkthrough, explaining this at the start of each attempt and at several times during it.
 

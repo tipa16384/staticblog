@@ -3,24 +3,8 @@ date: '2009-06-01T07:44:09-05:00'
 draft: false
 title: "Daily Blogroll 6/1 -- Almost Summer edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/01/daily-blogroll-61-almost-summer-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wow, June already. The year seems to be flying by so quickly. I saw \"Up\" over the weekend, kind of dark for a Disney/Pixar film,..."
+categories:
   - "Daily Blogroll"
   - "EverQuest"
   - "Free Realms"
@@ -28,20 +12,13 @@ tags:
   - "Shards of Dalaya"
   - "Vanguard"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/dungeonparty.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/dungeonparty.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/dungeonparty.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/dungeonparty.jpg"
 ---
+Wow, June already. The year seems to be flying by so quickly. I saw "Up" over the weekend, kind of dark for a Disney/Pixar film,...
+<!--more-->
 
-![Doesn](https://chasingdings.com/wp-content/uploads/2009/06/dungeonparty.jpg "Doesn")
+
 
 Wow, June already. The year seems to be flying by so quickly. I saw "Up" over the weekend, kind of dark for a Disney/Pixar film, but I liked it quite a lot. Gaming-wise, it was largely Free Realms along with some trips into EVE and Vanguard. I hope to make it to Antonia Bayle's Festival of Unity sometime this week.
 

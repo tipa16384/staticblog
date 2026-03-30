@@ -3,40 +3,17 @@ date: '2013-05-22T07:09:44-05:00'
 draft: false
 title: "Neverwinter: Playing to Neverwin"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/22/neverwinter-playing-to-neverwin/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We continued our Neverwinter grouping experiment Monday with another Foundry episode, \"Visitors from the Underdark\". The Foundry adventures are, we figured, our best chance of..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-20-19-43-25-38-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-20-19-43-25-38-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/GameClient-2013-05-20-19-43-25-38-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/GameClient-2013-05-20-19-43-25-38-480x342.jpg"
 ---
+We continued our Neverwinter grouping experiment Monday with another Foundry episode, "Visitors from the Underdark". The Foundry adventures are, we figured, our best chance of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-20-19-43-25-38-480x342.jpg" title="Lolth commands you to rate this highly" class="align-center" >}}
+
 
 We continued our Neverwinter grouping experiment Monday with another Foundry episode, "Visitors from the Underdark". The Foundry adventures are, we figured, our best chance of finding duo content. In "Visitors", Lord Ebonrend and his family have gone mysteriously missing; our job -- to find him and arrest him. If I remember right, he was thought to have gone dark in order to instigate a plot to rule Neverwinter. In Neverwinter, not checking in with the government often enough marks you as a traitor. We get to his mansion and find the place magically sealed up, but with an animated suit of armor to help us dispel (de-spell?) the shields.
 
@@ -44,7 +21,7 @@ Turns out the missing Lord Ebonrend had sealed the place to stop an invasion fro
 
 So, I guess Lord Ebonrend WAS guilty of treason? But no, it was his half-brother! That's okay, we'll kill him for you. And everyone else we come across. At the very portal to the Underdark, Lord Ebonrend catches up to us, and he's making jokes and having a lot of fun, while Kasul and I are staring at him, agog and aghast, wondering how he can be having a great time when his family has been slaughtered, his treasonous half-brother not only just betrayed him but was also just killed, and there's a PORTAL to the UNDERDARK in his BASEMENT. But no, he's decided it's open mike night at Lolth's Bar and Grill.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-20-19-15-37-24-480x343.jpg" title="Clerics are Lord Neverember's hatchet-men" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/GameClient-2013-05-20-19-15-37-24-480x343.jpg" title="Clerics are Lord Neverember's hatchet-men" classes="center" >}}
 
 The mission tried to get us to head straight into the sequel, but we were dubious. We returned to Neverwinter and continued on to the Tower District.
 

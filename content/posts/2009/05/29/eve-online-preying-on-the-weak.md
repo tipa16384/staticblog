@@ -3,41 +3,21 @@ date: '2009-05-29T06:27:17-05:00'
 draft: false
 title: "EVE Online: Preying on the Weak"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/29/eve-online-preying-on-the-weak/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EVE Online"
   - "MMORPG"
+tags:
   - "PvP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-28-21-38-08-42-479x405.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-28-21-38-08-42-479x405.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-28-21-38-08-42-479x405.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-28-21-38-08-42-479x405.jpg"
 ---
+[...
+<!--more-->
 
-[![Click to see this full size](https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-28-21-38-08-42-479x405.jpg "Click to see this full size")](https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-28-21-38-08-42.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-28-21-38-08-42.jpg)
 
 Click to make this larger
 

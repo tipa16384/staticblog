@@ -3,44 +3,22 @@ date: '2008-12-19T01:20:34-05:00'
 draft: false
 title: "EQ2: Raids always can use another troub..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/19/eq2-raids-always-can-use-another-troub/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dream of Mirror Online got rolled back to yesterday evening. Everything I wrote about in my last post -- gone, like it never happened. I..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Druushk"
   - "Edona"
   - "Protector's Realm"
   - "Veeshan's Peak"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-18-21-12-27-06.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-18-21-12-27-06.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-18-21-12-27-06.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-18-21-12-27-06.jpg"
 ---
+Dream of Mirror Online got rolled back to yesterday evening. Everything I wrote about in my last post -- gone, like it never happened. I...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-18-21-12-27-06.jpg "everquest2-2008-12-18-21-12-27-06")
+
 
 Dream of Mirror Online got rolled back to yesterday evening. Everything I wrote about in my last post -- gone, like it never happened. I suppose I shouldn't be upset, because I still had the fun and the memory hasn't faded, but now it means I have to level my alchemy again, do that trash quest again, make my level again, do all that gathering again...
 
@@ -54,7 +32,7 @@ I really didn't -- just having returned home from driving to Rhode Island and ba
 
 They were at... Edona? Don't remember the name. It was one of the dragons I killed with Clan of Shadows way back when. Went beautifully, until just at the end when some adds got loose, but we recovered and finished the fight.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-18-22-31-16-34.jpg "everquest2-2008-12-18-22-31-16-34")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-18-22-31-16-34.jpg" title="everquest2-2008-12-18-22-31-16-34" classes="center" >}}
 
 Next up was Druushk. I wasn't the only person there who was kinda hoping we'd pop over and kill Leviathan first; Druushk is the final mob for my mythical epic. The second to last mob, Leviathan, I killed last before epics were introduced.
 

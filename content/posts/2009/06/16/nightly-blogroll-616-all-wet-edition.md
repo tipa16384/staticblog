@@ -3,24 +3,8 @@ date: '2009-06-16T00:55:15-05:00'
 draft: false
 title: "Nightly Blogroll 6/16 -- All Wet edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/16/nightly-blogroll-616-all-wet-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yup, back in Florensia for a second try at it. Because, hey, be a pirate on the sea and an adventurer on the land, build..."
+categories:
   - "Daily Blogroll"
   - "EverQuest"
   - "Florensia"
@@ -28,20 +12,13 @@ tags:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/florensia.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/florensia.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/florensia.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/florensia.jpg"
 ---
+Yup, back in Florensia for a second try at it. Because, hey, be a pirate on the sea and an adventurer on the land, build...
+<!--more-->
 
-![O, Florensia!](https://chasingdings.com/wp-content/uploads/2009/06/florensia.jpg "O, Florensia!")
+
 
 Yup, back in Florensia for a second try at it. Because, hey, be a pirate on the sea and an adventurer on the land, build your own ship, hire a (NPC) crew, two separate career paths, and it costs nuttin'. The cash shop only has some potions... I dunno how they make money in this game. The general chat is about what you'd expect, though.
 

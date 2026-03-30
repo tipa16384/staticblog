@@ -3,39 +3,17 @@ date: '2025-03-21T08:00:00-05:00'
 draft: false
 title: "Game Night: Bardwood Grove"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/03/21/game-night-bardwood-grove/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Run around a forest, do bard stuff, become the most famous bard in Bardwood Grove."
-description: "Run around a forest, do bard stuff, become the most famous bard in Bardwood Grove."
-tags:
+categories:
   - "Game Night"
   - "Tabletop Games"
+tags:
   - "Bardwood Grove"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/bwgrove.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/03/bwgrove.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/bwgrove.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/bwgrove.jpg"
 ---
+Run around a forest, do bard stuff, become the most famous bard in Bardwood Grove.
+<!--more-->
 
 I have a bunch of instruments in my office: some whistles, a mandolin, a kalimba, and a couple of cats. I find that if I bang them into each other, it sounds like a car crash in slow motion—with cats. But in my head, it sounds like glorious, sweet music. I’ve been uploading the music I play into Suno, and it’s been turning it around and making me sound like a pro.
 
@@ -45,7 +23,7 @@ In *Bardwood Grove*, you and up to three friends (four with the expansion, *Spir
 
 The game is played out over a year, with various bards making their appearances as the seasons change and others moving on. It can be played as a campaign game, slowly unlocking the bards and special events, or you can just play with everything from the start. We played it the slow way, and each time we played, there would be a new bard to choose, new mechanics, and what started out as a simple game became a lot deeper and more strategic as we finished out the year in the game and moved into the bonus packs that came with the Kickstarter edition.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/IMG_5035-1024x768.jpg" title="Bardwood Grove in play" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/IMG_5035-1024x768.jpg" title="Bardwood Grove in play" classes="center" >}}
 
 At its heart, *Bardwood Grove* is a deckbuilding game. Your chosen bard starts off with a special power that only they can use; in the picture above, the bagpipe bard changes her melody to lyrics when she has no volume. More on all that in a moment. They also come with a superfan who knows all the words to all their songs, and a small deck of cards unique to the bard.
 

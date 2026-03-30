@@ -3,41 +3,18 @@ date: '2011-06-16T07:03:02-05:00'
 draft: false
 title: "From \"The Only MMO is WoW\" dept.:"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/06/16/from-the-only-mmo-is-wow-dept/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's probably worthwhile studies to be done on the MMORPG phenomenon. The games of the genre are designed to keep you interested and engaged for..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-04-22-44-12-39-225x225.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-04-22-44-12-39-225x225.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-04-22-44-12-39-225x225.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-04-22-44-12-39-225x225.jpg"
 ---
+There's probably worthwhile studies to be done on the MMORPG phenomenon. The games of the genre are designed to keep you interested and engaged for...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-04-22-44-12-39-225x225.jpg" title="Scene from a WoW raid" class="align-left" >}}
+
 
 There's probably worthwhile studies to be done on the MMORPG phenomenon. The games of the genre are designed to keep you interested and engaged for thousands of hours. The game itself is a potential setting for the formation of a long-lasting community that could extend far beyond the game realm. MMOs have provoked real life violence. Prisoners are rumored to have to play them to support repressive regimes by bilking money from Westerners.
 

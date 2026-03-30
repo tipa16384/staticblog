@@ -3,44 +3,22 @@ date: '2008-06-28T01:54:38-05:00'
 draft: false
 title: "Being Lord Nagafen"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/28/being-lord-nagafen/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We'll talk about this picture in a little bit :)..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Monster Missions"
   - "Nagafen"
   - "Vox"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-28-00-21-06-07.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-28-00-21-06-07.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-28-00-21-06-07.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-28-00-21-06-07.jpg"
 ---
+We'll talk about this picture in a little bit :)...
+<!--more-->
 
-![eqgame-2008-06-28-00-21-06-07.jpg](https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-28-00-21-06-07.jpg)
+
 
 We'll talk about this picture in a little bit :)
 
@@ -50,7 +28,7 @@ These dragons have some restrictions -- anyone higher than level 52 gets punted 
 
 We've known for awhile that the dragons were on our list, and so we stopped ourselves at 52, and there we will stay until we have killed both these dragons at least a couple of times each.
 
-![eqgame-2008-06-27-21-06-03-82.jpg](https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-27-21-06-03-82.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-27-21-06-03-82.jpg" classes="center" >}}
 
 I kinda knew we were going to be disappointed with Naggy when he didn't show on tracking even as we neared his lair. Ssrath (Egat from Erollisi Marr and Crimson Eternity) earned his scales by learning how to pull the giants as we went along. By the end, we were getting just the number of giants we wanted just when we needed them -- perfect! Though Naggy wasn't home, most of his friends were. We got a lot of uber loot -- uber for 1999. Unfortunately, none of it was any upgrade for anyone.
 
@@ -58,19 +36,19 @@ We'll be back when Naggy is home. We know -- KNOW -- we can kill him.
 
 How can we be sure? Because we nearly took down Vox in the worst possible circumstances. When we finished in Nagafen's Lair, we made our way to Permafrost, because there was dragon steak on the menu and a restaurant full of hungry raiders.
 
-![eqgame-2008-06-27-21-56-48-41.jpg](https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-27-21-56-48-41.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-27-21-56-48-41.jpg" classes="center" >}}
 
 While Naggy's lair is fairly empty, Vox has a LOT of friends. Friends she cares about, and wants to help when they are hurt. Because she's a cleric. and helping her friends is not just her job, it's the entire reason she gets up in the morning.
 
 We just could not separate her from her giants. Sometimes five or six would come along, sometimes she'd only show up later. One time, we got her alone, and were doing mean things to her, when her loyal friends arrived. We were so close, but we had no real way of stopping her from completely healing herself aside from just hoping she would run out of mana. The Infusion of the Faithful veteran reward AA worked fine, but nothing could stop her slowly stripping our buffs. It didn't matter, the giant adds ate our healers and then everyone else.
 
-![eqgame-2008-06-27-23-37-46-48.jpg](https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-27-23-37-46-48.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-27-23-37-46-48.jpg" classes="center" >}}
 
 Next time, we'll have new strats for clearing out her lair. The traditional way to kill her is to drain her of mana so she can neither CH nor gate home. We'll see how that goes.
 
 A couple of upgrades dropped from random named mobs, and that is always a nice thing. We'll get Vox. And we'll get Naggy. These dragons are not beyond us; we just need to get the adds dead before we take on the dragons. Without Vox's adds and complete heals, Naggy should be easy-peasy. If we can find him up.
 
-![eqgame-2008-06-28-00-43-44-13.jpg](https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-28-00-43-44-13.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-28-00-43-44-13.jpg" classes="center" >}}
 
 We'd done what we set out to do -- get some experience with the encounters. We didn't expect we'd kill any dragons tonight. We wanted to see if it was possible for us to kill dragons. The answer was a definite yes. Vox never hit me for over 200 points -- her friends and her CH is all she's got. Naggy won't even have those.
 

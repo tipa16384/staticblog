@@ -3,43 +3,21 @@ date: '2022-09-26T17:54:44-05:00'
 draft: false
 title: "Star Ocean: The Divine Force: The Demo: The Review, but what if it was written like Dear Abby?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/26/star-ocean-the-divine-force-the-demo-the-review-but-what-if-it-was-written-like-dear-abby/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel & Ebert?..."
+categories:
   - "Humor"
   - "OpenAI"
   - "Review"
+tags:
   - "Avengers"
   - "Dall-E 2"
   - "Gpt-3"
   - "Star Ocean"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-26-16.46.54-Old-time-newspaper-illustration-of-a-1950s-housewife-writing-a-letter-on-the-kitchen-table-with-pen-and-paper.-the-housewife-is-crying..png"
 ---
+It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel & Ebert?...
+<!--more-->
 
 It might go a little like this. But what if the Avengers were talking about it, or it was being reviewed by Siskel & Ebert? Keep reading!
 

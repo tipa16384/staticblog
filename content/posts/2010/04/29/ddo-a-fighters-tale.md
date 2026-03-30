@@ -3,44 +3,21 @@ date: '2010-04-29T06:32:18-05:00'
 draft: false
 title: "DDO: A Fighters' Tale"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/29/ddo-a-fighters-tale/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night, the OnedAwesome crew descended once again on the sleepy port town of Stormreach. There were five missions on the docket last night, but..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-25-22-18-24-57.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-25-22-18-24-57.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/dndclient-2010-04-25-22-18-24-57.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/dndclient-2010-04-25-22-18-24-57.jpg"
 ---
+Last night, the OnedAwesome crew descended once again on the sleepy port town of Stormreach. There were five missions on the docket last night, but...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-25-22-18-24-57.jpg" title="Kobold-eye view of Derra the Fighter/Cleric" class="align-center" >}}
+
 
 Last night, the OnedAwesome crew descended once again on the sleepy port town of Stormreach. There were five missions on the docket last night, but I didn't take part; I'm still on a mission of my own: to catch up in experience to the other two members of my static Sunday group. Every time I miss a night, I fall further behind. These Wednesday night get-togethers are fantastic for filling in the spaces.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-28-20-44-26-88-225x225.jpg "My hireling cleric")](https://chasingdings.com/wp-content/uploads/2010/04/dndclient-2010-04-28-20-44-26-88.jpg)I usually hire a tank mercenary when I solo. This lets me stand back and cast buffs and heals as needed, and it's better to have an NPC take the aggro so that I can play more tactically.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/dndclient-2010-04-28-20-44-26-88-225x225.jpg" title="My hireling cleric" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/dndclient-2010-04-28-20-44-26-88.jpg)I usually hire a tank mercenary when I solo. This lets me stand back and cast buffs and heals as needed, and it's better to have an NPC take the aggro so that I can play more tactically.
 
 As a newly-minted fighter/cleric, though, I felt it was time to 'dwarf up' and move to the front of the party. Time to hire a healer. I could still heal, but I would be better focusing on staying in front and keeping things from the cleric.
 

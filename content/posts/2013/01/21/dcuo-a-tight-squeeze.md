@@ -3,40 +3,17 @@ date: '2013-01-21T11:23:04-05:00'
 draft: false
 title: "DCUO: A Tight Squeeze"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/01/21/dcuo-a-tight-squeeze/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Four heroes came together to rid Metropolis and Gotham City of the worst of the worst, taking on the jobs that the more noteworthy heroes..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/MPYR0161_DESIGNERDATA-PC-20-23.43.560-480x299.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/01/MPYR0161_DESIGNERDATA-PC-20-23.43.560-480x299.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/MPYR0161_DESIGNERDATA-PC-20-23.43.560-480x299.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/MPYR0161_DESIGNERDATA-PC-20-23.43.560-480x299.jpg"
 ---
+Four heroes came together to rid Metropolis and Gotham City of the worst of the worst, taking on the jobs that the more noteworthy heroes...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/MPYR0161_DESIGNERDATA-PC-20-23.43.560-480x299.jpg" title="Batwoman, Scarecrow and TEAM SPODE!" class="align-center" >}}
+
 
 Four heroes came together to rid Metropolis and Gotham City of the worst of the worst, taking on the jobs that the more noteworthy heroes of the DC Universe could not, or would not, deal with. Because, and I guess I'm getting a little ahead of myself, but wasn't Batman kinda dealing with Scarecrow? And now he's decided to let the "B" team have a shot to cover his evident failure?
 

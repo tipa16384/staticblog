@@ -3,24 +3,8 @@ date: '2009-09-03T07:58:02-05:00'
 draft: false
 title: "Daily Blogroll 9/3 - Sushi day edition!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/03/daily-blogroll-93-sushi-day-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been thinking of swapping my sidekick in Legends of Zork from the Gent (who made me essentially immune to traps) to the Accountant (who..."
+categories:
   - "Aion"
   - "Champions Online"
   - "Daily Blogroll"
@@ -31,20 +15,13 @@ tags:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg"
 ---
+I've been thinking of swapping my sidekick in Legends of Zork from the Gent (who made me essentially immune to traps) to the Accountant (who...
+<!--more-->
 
-![The Accountant](https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-932009-75844-AM.jpg "The Accountant")
+
 
 I've been thinking of swapping my sidekick in [Legends of Zork](http://legendsofzork.com/) from the Gent (who made me essentially immune to traps) to the Accountant (who earns interest on your stash) for awhile. It kinda disappointed me that they nerfed her -- it used to be that having her in your base would soon make you rich as Croesus. Not so much anymore, but as each upgrade now costs well over a million zorkmids, [I need all the help I can get](http://legendsofzork.com/heroes/32470-tipa). And I can switch back to the Gent later on, once I've reached my goals and seeded the clan bank with some good upgrades for others.
 
@@ -62,7 +39,7 @@ Anjin of Bullet Points [takes a look at Champions Online's odd way of balancing 
 
 Green Armadillo sees a trend in modern MMOs -- [a sharp veering from the onerous grind of doing an instance a hundred times to get a chance at a rare drop](http://playervsdeveloper.blogspot.com/2009/09/dropping-rng-from-loot-table.html). WoW, EQ2, Warhammer and LotRO have all added ways to slowly earn items you can't get to drop. And THAT'S a good thing. When I think of all the stupid guild drama a token-oriented loot system could have saved back in EverQuest. Who needs DKP when you can earn upgrades just by showing up? We used to have people drop from raids left and right once they'd gotten all they wanted. Only to show up with their vast DKP when we entered a new dungeon.
 
-[![Abracadoodle](https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-932009-83740-AM.jpg "Abracadoodle")](https://www.wizard101.com/home2/game/page_8ad6a4041f26c78d011f381f9ada015a)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-932009-83740-AM.jpg" title="Abracadoodle" classes="center" >}}](https://www.wizard101.com/home2/game/page_8ad6a4041f26c78d011f381f9ada015a)
 
 Malistaire has been defeated, but the grandmasters of Wizard City keep honing their wizardly skills, certain of the arrival of some new threat that will stretch their skills. But who? KingsIsle hints that someone is on their way. [The Friendly Necromancer hears mention of a mysterious Roberto](http://thefriendlynecromancer.blogspot.com/2009/09/roberto-is-new-malistaire.html)... could this be the new Wizard101 villain?
 

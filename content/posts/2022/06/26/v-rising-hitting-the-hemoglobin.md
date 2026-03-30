@@ -3,52 +3,30 @@ date: '2022-06-26T11:12:47-05:00'
 draft: false
 title: "V Rising: Hitting the Hemoglobin"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/06/26/v-rising-hitting-the-hemoglobin/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ever want to play a vampire who hides from the sun in the castle they have built to protect their riches from other vampires? Then..."
+categories:
   - "Action RPG"
   - "Diablo 3"
   - "Steam Games"
   - "Survival"
   - "V Rising"
   - "Valheim"
+tags:
   - "Arpg"
   - "Steam"
   - "Team Spode"
   - "Vampires"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/06/20220626091446_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/06/20220626091446_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/20220626091446_1.jpg"
 ---
+Ever want to play a vampire who hides from the sun in the castle they have built to protect their riches from other vampires? Then...
+<!--more-->
 
 Ever want to play a vampire who hides from the sun in the castle they have built to protect their riches from other vampires? Then this is literally the game for you. If you're more in the mood for a PvE survival game, though... have you heard the good news about Valheim?
 
 Team Spode has been playing V Rising for a couple of months and I have not written about it until now. I'm not even sure if I've mentioned it on social media. I've been trying to answer the question for myself of why I am not enthusiastic about this game?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/1-20220626093606_1.jpg" title="My Vamp" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/1-20220626093606_1.jpg" title="My Vamp" classes="center" >}}
 
 V Rising is, at its core, a Diablo-esque action RPG. The perspective is fixed overhead. Combat is real time and reactive, with a few key abilities chosen from among all those you've unlocked at your call, each with their timeout.
 
@@ -60,7 +38,7 @@ Drinking mortal blood gives you some of the abilities of the being you drank -- 
 
 Dying and coming back to life will give you half blood back and at a 0% "Frail" power. Eating hearts will do the same, but is fine if you're just working on the castle and don't want to take the time to hunt.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/20220626093730_1-1024x576.jpg" title="My evil castle, from the air (I'm the bat)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/20220626093730_1-1024x576.jpg" title="My evil castle, from the air (I'm the bat)" classes="center" >}}
 
 Balancing these disadvantages are your servants, charmed humans who have been forced to do your bidding. They will protect your castle while you sleep, and gather resources while you're away. Although they have no vampire powers of their own, they do have the powers they possessed before you dominated their will, and they have the gear you provide them, gear which can be as powerful as the gear you wear.
 
@@ -68,7 +46,7 @@ This is V Rising's core gameplay loot. You, the vampire, hunt V Bloods in order 
 
 You build your castle, add defenses, and set your servants to protect the heart of your castle, the key to your demonic demesne. Other vampires can craft keys to invade your castle and destroy or take control of your castle heart, adding your possessions to theirs. You can join a clan and have fellow vampires ready to protect you as well. In the end game, the vampire clans battle over control of Soul Shards that grant powerful abilities to those that control them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/20220606204806_1-1024x576.jpg" title="V Blood tracker" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/20220606204806_1-1024x576.jpg" title="V Blood tracker" classes="center" >}}
 
 The problem with PvP games where you have to level up and grind for better gear (as opposed to match-style games where everyone starts each match from zero) is that new players are at a disadvantage. They can't defend themselves against higher level vampires with better gear -- they can't even touch them. And their weaker castles will be easy prey.
 
@@ -76,7 +54,7 @@ V Rising does the best job it can hiding your information from other players. It
 
 In theory. In practice?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/20220610145034_1-1024x576.jpg" title="Crafting interface" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/20220610145034_1-1024x576.jpg" title="Crafting interface" classes="center" >}}
 
 We run a PvE server, so most of the game is locked away -- we're not invading each other's castles or hunting down other players are they sleep. What's left to us is taking on the V Bloods and working through the plot that initially pits us against a bandit king, but then later sends us against the powers of church and nature itself.
 
@@ -86,7 +64,7 @@ The V Blood fights scale with the number of players and what looks to be the ave
 
 Valheim does the same, to an extent, but Valheim has just five bosses. Here, with players of all skill levels and gear levels, it just becomes impossible to progress as a group.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/20220601205003_1-1024x576.jpg" title="I met a friend." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/20220601205003_1-1024x576.jpg" title="I met a friend." classes="center" >}}
 
 More than a month in, most people are only playing minimally. I'm just in it once every day or two to order my servants around and put more resources in to cook. I actually have all the resources I need to equip my six servants with gear equal to my own, but there's no point to it really. If the servants could accompany me on V Blood hunts, then... then that would be cool. Might make things a little bit too easy, though.
 
@@ -98,7 +76,7 @@ The upshot here is to discourage you, the player, from hunting, and instead just
 
 Since we have a player who finished the game and has all the crafting machines unlocked to their highest levels, there's not really a need to do more than that. And that means there's not really a need to log in at all.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/20220523205049_1-1024x576.jpg" title="He's at my mercy now!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/20220523205049_1-1024x576.jpg" title="He's at my mercy now!" classes="center" >}}
 
 V Rising was a lot of fun at the beginning, back when we were building our castles for the first time and exploring the world. Now the world is explored, we have the best gear, the castles are build and... we finished? Without the PvP aspect, once you've gotten to a certain level, there's just no more to do. At least with Valheim, you can build towns and cities and explore. V Rising doesn't give the same building experience. Castle pieces come in square pieces, and having to have crafting machines in enclosed rooms with certain floors lends a certain sameness to every castle.
 

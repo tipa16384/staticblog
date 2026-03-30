@@ -3,40 +3,19 @@ date: '2021-08-16T08:01:53-05:00'
 draft: false
 title: "FF3, Day 3: Fangs for Everything"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/16/ff3-day-3-fangs-for-everything/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just one crystal to restore -- the Earth crystal. We've already restored three of them. How hard could the last one be?..."
+categories:
   - "Blaugust"
   - "Final Fantasy"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Jrpg"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210815094224_1-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210815094224_1-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815094224_1-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815094224_1-1.jpg"
 ---
+Just one crystal to restore -- the Earth crystal. We've already restored three of them. How hard could the last one be?...
+<!--more-->
 
 Just one crystal to restore -- the Earth crystal. We've already restored three of them. How hard could the last one be?
 
@@ -44,17 +23,17 @@ Harder than all the rest, combined. You see, it was shattered into a million pie
 
 With our trusty airship, the Enterprise, chained in the harbor "for our own protection", we were forced to stay in the village we found ourselves in against our will. Seems our crazy stories about the world being drowned beneath the sea and everyone being stone statues caused more than a little concern. BUT IT'S TRUE! we shouted, and then they tried to keep us away from sharp things.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815100021_1.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815100021_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815100021_1.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815100021_1.jpg)
 
 They didn't even believe us when we claimed to be the Warriors of Light because, you see, they already HAD some Warriors of Light in town -- it was the name of their barbershop quartet! "The Singing Warriors of Light"!
 
 When we learned that an old sewer-dwelling lady named Delilah had some magic boots that would let us cross a nearby bog, we went looking for her help. The Singing Warriors of Light had got their before us... and been captured by imps. We saved them -- easily -- and they sing in tight harmony that this was all part of their master plan.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815100406_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815100406_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815100406_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815100406_1.jpg)
 
 They had a change of heart when they saw Delilah was giving us a fake pair of shoes, and admitted that we were the real WoLs. She gave us the levitating shoes, and under the cover of night, we slipped out of town and headed for Goldor Castle, the home of the final crystal.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815103451_1-1024x946.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815103451_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815103451_1-1024x946.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815103451_1.jpg)
 
 Goldor Castle is made entirely of gold. Everything there is gold. Goldor himself wears golden armor. The weight of that armor, however, made him an easy target and he was soon defeated. When we reasonably asked for the Earth Crystal, though, he smashed it into a million pieces.
 
@@ -62,7 +41,7 @@ The world was doomed! Darkness would overtake everything!
 
 The End.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210815112059_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210815112059_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210815112059_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210815112059_1.jpg)
 
 With no way to hold back the darkness, the world descends into war. The Kingdom of Saronia, without any proper enemies to fight, fights with itself. The King of Saronia had told the western suburbs of the city and the eastern suburbs to fight each other to the death, for his amusement. I guess the kingdom's budget had enough room to helpfully color each army's armor as well.
 
@@ -74,7 +53,7 @@ We believed his tale about his father being ensorcelled by the King's new minist
 
 The night before we were to see him, though, his father, the King, came into the room and tried to assassinate him. The attempt broke Gigahertz's mind control, and he took his own life instead. An enraged Gigahertz burst in.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210815114637_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210815114637_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210815114637_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210815114637_1.jpg)
 
 Turns out he was actually the primal Garuda! Luckily, anticipating this, all of us had taken on the Dragoon job, as jumping is the only way to kill Garuda. Everyone knows that.
 
@@ -84,17 +63,17 @@ He had a moment there where he could have abdicated and let democracy spring up,
 
 Some wise masters told us the tale of the ancient sage Noah, who left his teachings in the hands of his three disciples -- Xande, Unei and Doge. Unei was sleeping an endless sleep. Doge was off making wild pronouncements about cryptocurrency, and Xande was taking over the world. So it's that last one we have to worry about.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815123001_1-1024x700.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815123001_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815123001_1-1024x700.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815123001_1.jpg)
 
 Doge was actually glad to see us. His kind moogles escorted us to him, and he told us a little more about why Noah's three disciples split once their master had died. Xande had gotten the gift of human mortality, and that enraged him. Unei had gotten powers over dreams, and Doge had been given the power of magic.
 
 The master had actually replaced the earth crystal with a replica enchanted to produce gold. The race to save the world was back on!
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210815135042_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210815135042_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210815135042_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210815135042_1.jpg)
 
 We found Noah's lute, and used it to wake Unei from her slumber. She handed us the Fire Fang (#3 of 4! Complete the entire set!), and told us that Xande was hidden in a fortress protected by impassable mountains. The only way we could cross those mountains would be in a legendary airship, the Invincible! And she knew just where it was buried.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210815153705_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210815153705_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210815153705_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210815153705_1.jpg)
 
 With the help of the Invincible, we were able to make our way to the Cave of Shadows, where the Fang of Earth was hidden. In the Cave of Shadows, hitting an enemy with anything besides a spell or a dark blade causes the enemy to clone itself, making fights endless. My two physical attackers had to become dark knights, while the other two were careful to keep out of melee -- the white mage and the geomancer.
 
@@ -102,17 +81,17 @@ We defeated Hecachair and obtained the Fang of Earth. Getting all four fangs all
 
 But just getting there wouldn't be enough -- we needed keys for the next two dungeons. The dungeon Eureka, where are stored weapons too dangerous for mortal hands, and the dungeon of (I forget), which is the one where Xande sits.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815164816_1-1024x871.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-20210815164816_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815164816_1-1024x871.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210815164816_1.jpg)
 
 We'd have to fight Titan to get the real Earth Crystal first. We did, and got the last of the normal jobs of Final Fantasy III.
 
 I tried working through the Ancient Maze, but I wasn't strong enough, so I thought I'd explore the world and find all the Summons for the Summoner job. They would come in useful for when the Sage job pops up.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210815172714_1-1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210815172714_1-1.jpg)Odin, in Saronia
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210815172714_1-1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210815172714_1-1.jpg)Odin, in Saronia
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210815174854_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210815174854_1.jpg)Leviathan, in the Floating Continent
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210815174854_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210815174854_1.jpg)Leviathan, in the Floating Continent
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210815182552_1-1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210815182552_1-1.jpg)Our old friend, Bahamut
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210815182552_1-1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210815182552_1-1.jpg)Our old friend, Bahamut
 
 The summons were no pushovers. Each of them needed different strats. Dealing with Bahamut's chain Mega Flares was fun. I hadn't really used the Scholar job since Hein, but their ability to supercharge item attacks, potions and phoenix downs' proved invaluable.
 

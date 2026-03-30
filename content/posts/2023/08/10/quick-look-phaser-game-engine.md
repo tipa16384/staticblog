@@ -3,43 +3,21 @@ date: '2023-08-10T07:00:00-05:00'
 draft: false
 title: "Quick Look: Phaser Game Engine"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/10/quick-look-phaser-game-engine/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been spending a few hours trying to get this Asteroids clone to some sort of playable state. Since I haven't really done anything else..."
+categories:
   - "Blaugust"
   - "Blaugust 2023"
+tags:
   - "Aws"
   - "Godot"
   - "Javascript"
   - "Othello"
   - "Phaser"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/gameover.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/gameover.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/gameover.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/gameover.png"
 ---
+I've been spending a few hours trying to get this Asteroids clone to some sort of playable state. Since I haven't really done anything else...
+<!--more-->
 
 I've been spending a few hours trying to get this Asteroids clone to some sort of playable state. Since I haven't really done anything else blog-worthy today, I guess we're talking about Phaser.
 
@@ -49,7 +27,7 @@ Asteroids isn't the toughest game to write. You spawn a ship, you spawn some roc
 
 My game engine of choice, for many years, has been PyGame. It runs in Python, and everything about it just seems to make sense to me. Problem is that it is very hard to distribute any game written in PyGame, and I have tried -- and failed -- many times.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-22.png" title="Reversi and/or Othello" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-22.png" title="Reversi and/or Othello" classes="center" >}}
 
 I tried a test, a couple months ago, to just write a game -- any game -- in straight JavaScript and HTML. That worked really well. My version of Othello leveraged the native HTML objects and attached JavaScript to them to make things happen.
 
@@ -65,7 +43,7 @@ The Asteroids game used the Phaser demo as a base -- its logo bouncing around a 
 
 This was my first and probably worst mistake, as the version of Phaser used by the demo was waaaaay out of date. A lot of the examples for stuff I needed, like keystroke and controller input, plain didn't work, and I spent too much time looking for workarounds. Once I noticed in a different demo that their version was well ahead of mine, I updated mine, and suddenly everything started working better.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-23.png" title="Aster-assets" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-23.png" title="Aster-assets" classes="center" >}}
 
 My original design goal was to construct the game board out of object groups, right down to the line segments used to draw the asteroids and the ship. This is how the original Asteroids game was written; it used a vector display, and what it displays is literally a list of line segments.
 

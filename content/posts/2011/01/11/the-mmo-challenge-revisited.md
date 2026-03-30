@@ -3,40 +3,20 @@ date: '2011-01-11T22:41:19-05:00'
 draft: false
 title: "The MMO Challenge, Revisited."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/11/the-mmo-challenge-revisited/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
+tags:
   - "MMORPG Challenge"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/01cf1aed618e714403893048aef63ded-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/01cf1aed618e714403893048aef63ded-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/01cf1aed618e714403893048aef63ded-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/01cf1aed618e714403893048aef63ded-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/01cf1aed618e714403893048aef63ded-480x383.jpg "DAoC beta")](https://chasingdings.com/wp-content/uploads/2011/01/01cf1aed618e714403893048aef63ded.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/01cf1aed618e714403893048aef63ded.jpg)
 
 *I still have lots of good memories from DAoC's beta!*
 
@@ -50,7 +30,7 @@ We're coming into the Golden Age of MMOs. Really, truly, unarguably innovative g
 
 This year alone sees the launch of Rift, TERA Online (we think), Star Wars: The Old Republic, Lucent Heart and probably Guild Wars 2, all major titles.
 
-And so I come to my MMO Challenge. Three years ago, I realized that to grab back that "my first MMO" feeling, the feeling that made us fans of the genre in the first place, I would have to [choose one single game and stick with it a full year](https://chasingdings.com/index.php/2008/04/07/the-mmo-nostalgia-challenge/).
+And so I come to my MMO Challenge. Three years ago, I realized that to grab back that "my first MMO" feeling, the feeling that made us fans of the genre in the first place, I would have to [choose one single game and stick with it a full year](https://tipa16384.github.io/wkblog/index.php/2008/04/07/the-mmo-nostalgia-challenge/).
 
 Since then, I have devoted myself to a bunch of games, some for shorter, some for longer. That very year, I accepted my own challenge and threw myself into Wizard101. I later did the same for EVE Online, Chronicles of Spellborn and Star Trek Online. I might not have gotten a year out of them, but I did get that focus and clarity you get from playing just one MMO.
 

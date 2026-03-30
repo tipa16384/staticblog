@@ -3,39 +3,16 @@ date: '2012-08-01T22:09:12-05:00'
 draft: false
 title: "Microsoft Flight in the crosshairs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/08/01/microsoft-flight-in-the-crosshairs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Is Microsoft Flight even a game? It's barely even a flight simulator. Whatever it is, it's dead now. Released to lackluster reception last spring as..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/08/flight-2012-08-01-21-10-46-45-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/08/flight-2012-08-01-21-10-46-45-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/flight-2012-08-01-21-10-46-45-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/flight-2012-08-01-21-10-46-45-480x360.jpg"
 ---
+Is Microsoft Flight even a game? It's barely even a flight simulator. Whatever it is, it's dead now. Released to lackluster reception last spring as...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/flight-2012-08-01-21-10-46-45-480x360.jpg" title="Microsoft Flight" class="align-center" >}}
+
 
 Is [Microsoft Flight](http://au.pc.gamespy.com/pc/microsoft-flight/1218068p1.html) even a game? It's barely even a flight simulator. Whatever it is, it's dead now. Released to lackluster reception last spring as a free download with day 1 DLC, it was [officially killed a couple days ago](http://seattletimes.nwsource.com/html/microsoftpri0/2018777858_microsoft_grounds_microsoft_flight_project_columbi.html).
 

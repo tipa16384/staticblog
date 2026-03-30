@@ -3,40 +3,18 @@ date: '2024-11-23T14:12:02-05:00'
 draft: false
 title: "LEGO Horizon Adventures"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/11/23/lego-horizon-adventures/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I hurried through Dragon Age: the Veilguard because I knew this was waiting for me to finish."
-description: "I hurried through Dragon Age: the Veilguard because I knew this was waiting for me to finish."
-tags:
+categories:
   - "Action RPG"
   - "Horizon Forbidden West"
   - "PS5"
+tags:
   - "Lego"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/LEGO®-Horizon-Adventures™_20241122153718-scaled.jpg"
 ---
+I hurried through Dragon Age: the Veilguard because I knew this was waiting for me to finish.
+<!--more-->
 
 Just to get the obvious out of the way -- I loved Veilguard and wanted to spend more time with the game. But... ROBOT DINOSAURS.
 
@@ -46,7 +24,7 @@ Veilguard was one of those games. LEGO Horizon Adventures is another. (I believe
 
 Anyway. Robot dinosaurs. After I was sure LEGO Horizons wasn't going to show up in the mailbox, I ordered it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/image-1-1024x683.png" title="LEGO Saw Adventures" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/image-1-1024x683.png" title="LEGO Saw Adventures" classes="center" >}}
 
 LEGO games have a pattern. They take a popular franchise -- Star Wars, Batman, Saw, whatever -- make it super bubbly and friendly, add in every possible character and rush through the high points of the stories.
 
@@ -56,7 +34,7 @@ Horizon Zero Dawn is a game set a thousand years in the future, in an Earth that
 
 That's a lot for a kid's game. And LEGO games *are* kid games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/1-LEGO®-Horizon-Adventures™_20241122203816-1024x431.jpg" title="We can build a Sawtooth from parts we have at home" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/1-LEGO®-Horizon-Adventures™_20241122203816-1024x431.jpg" title="We can build a Sawtooth from parts we have at home" classes="center" >}}
 
 LEGO Horizon Adventures turns Aloy into a bubbly, friendly kid who has just been invited back into the tribe after her mysterious birth and her upbringing with exiled hermit, Rost.
 

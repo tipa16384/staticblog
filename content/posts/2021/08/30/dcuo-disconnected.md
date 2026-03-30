@@ -3,42 +3,20 @@ date: '2021-08-30T07:33:01-05:00'
 draft: false
 title: "DCUO: Disconnected"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/30/dcuo-disconnected/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I mean that literally. Since House of Legends launched, I haven't been able to play reliably. Here's what I've been able to find out...."
+categories:
   - "Blaugust"
   - "Real Life"
+tags:
   - "Arris"
   - "DC Universe Online"
   - "Router"
   - "Tp-Link"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/dcuodisconnected.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/dcuodisconnected.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/dcuodisconnected.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/dcuodisconnected.png"
 ---
+I mean that literally. Since House of Legends launched, I haven't been able to play reliably. Here's what I've been able to find out....
+<!--more-->
 
 I mean that literally. Since House of Legends launched, I haven't been able to play reliably. Here's what I've been able to find out.
 

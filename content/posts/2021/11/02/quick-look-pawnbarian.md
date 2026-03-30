@@ -3,64 +3,42 @@ date: '2021-11-02T23:31:03-05:00'
 draft: false
 title: "Quick Look: Pawnbarian"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/11/02/quick-look-pawnbarian/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A lot of indie developers of turn-based, tactical RPGs were strutting their stuff on Twitter yesterday. So wait a second -- Pawnbarian is a card..."
+categories:
   - "Chess the MMORPG"
   - "Pawnbarian"
   - "Quick Takes"
   - "Rogue-Likes"
   - "Steam Games"
   - "Tactical RPG"
+tags:
   - "Chess"
   - "J4nw"
   - "Steam"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/20211102204800_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/11/20211102204800_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204800_1.jpg"
 ---
+A lot of indie developers of turn-based, tactical RPGs were strutting their stuff on Twitter yesterday. So wait a second -- Pawnbarian is a card...
+<!--more-->
 
 A lot of indie developers of turn-based, tactical RPGs were strutting their stuff on Twitter yesterday. So wait a second -- Pawnbarian is a card based tactical strategy puzzle RPG? And the hero moves like chess pieces? That you can upgrade? [And there's a *demo*?](https://store.steampowered.com/app/1142080/Pawnbarian/)
 
 Me? I'd already be downloading the demo. And did. But for those of you who need a little more convincing...
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/20211102204946_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/20211102204946_1.jpg)The Goblin Caves, Floor 1
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204946_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/20211102204946_1.jpg)The Goblin Caves, Floor 1
 
 In the demo, you are Pawnbarian, a warrior from the northern Chesslands come to die in glorious battle. The full game has four different character classes with different abilities. Pawnbarian's special ability revolves around pawn promotion -- pieces are promoted when their move starts in the top rank, a pawn moves into it, or there are three pawns in the hand.
 
 Though the playing board resembles a chess board, at its heart, it is a deck-building strategy game. Your initial deck contains mostly vanilla chess pieces. Every time you clear a level in the normal game, you get to visit a shop and spend the gold accumulated. Each level starts off with a certain amount of gold in the pot; this decreases each turn. You do get gold for killing critters, though.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/20211102205311_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/20211102205311_1.jpg)The shop
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/20211102205311_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/20211102205311_1.jpg)The shop
 
 Some would say the shop is where the real game lives. You live and die by your deck. The lightning bolts let you add another card to your hand when that card is played. The shield lets you shrug off a point of damage. A **+** or **x** attacks pieces orthogonally or diagonally after you move. Since you only start off with two moves each turn, its to your advantage to try and get more turns and mill the deck for better pieces, with shields. And you can increase your max health in the store, too.
 
 It's said that the goal of games is [to force the player to make interesting decisions](https://www.raphkoster.com/2013/04/24/on-choice-architectures/). The shop is where that happens, in Pawnbarian.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/20211102221313_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/20211102221313_1.jpg)Goblin Cave, Floor 6
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/20211102221313_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/20211102221313_1.jpg)Goblin Cave, Floor 6
 
 The battle levels are where your shop decisions play out. Each square has a threat marker; if you end the turn on a space with a marker, you'll take 1-4 points of damage. Hovering over your Pawnbarian shows which monsters are contributing the damage to the square you are on; hovering over a monster shows which squares they threaten.
 
@@ -68,7 +46,7 @@ Each monster moves by its own rules, and often can only be attacked when certain
 
 At least in the demo, every enemy only could take one point of damage -- I don't know if that holds true for the full game.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/20211102223107_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/20211102223107_1.jpg)Died in Glory!
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/20211102223107_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/20211102223107_1.jpg)Died in Glory!
 
 That's the game. I have played through the demo dungeon, the seven levels of the Goblin Cave, about a dozen times now. The devs, "[j4nw](https://j4nw.itch.io/pawnbarian)", are probably wondering why I haven't bought the game yet... and I plan to. But I have a huge backlog of games to get through, and two games coming soon that I've committed to doing a full playthrough.
 

@@ -3,37 +3,12 @@ date: '2008-02-19T09:57:52-05:00'
 draft: false
 title: "Scurvsnicker's Weekly Recap - 2/18/2008"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/19/scurvsnickers-weekly-recap-2182008/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It is that time of the week. I got your weekly recap right here: If Scurvsnicker plays 6 days every week, I guess I can..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+It is that time of the week. I got your weekly recap right here: If Scurvsnicker plays 6 days every week, I guess I can...
+<!--more-->
 
 It is that time of the week. I got your weekly recap right here: If Scurvsnicker plays 6 days every week, I guess I can call this a good deal. Many Xboxes have it a lot worse. Our gamerscore saw a 30 point boost which is good. Hey it's only 1 achievement... what do you want?
 

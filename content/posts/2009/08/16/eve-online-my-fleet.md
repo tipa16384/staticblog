@@ -3,40 +3,17 @@ date: '2009-08-16T20:08:15-05:00'
 draft: false
 title: "EVE Online: My fleet"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/16/eve-online-my-fleet/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In honor of finally being able to fly the Dominix, a collage of most of my ships (to scale). Some I don't have anymore, like..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/myfleet.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/myfleet.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/myfleet.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/myfleet.jpg"
 ---
+In honor of finally being able to fly the Dominix, a collage of most of my ships (to scale). Some I don't have anymore, like...
+<!--more-->
 
-![Some of my ships from EVE Online](https://chasingdings.com/wp-content/uploads/2009/08/myfleet.jpg "Some of my ships from EVE Online")
+
 
 In honor of finally being able to fly the Dominix, a collage of most of my ships (to scale). Some I don't have anymore, like the Myrmidon, which was pinned down by (no exaggeration) about twenty ships, two of which had warp scramblers, and taken apart. I was just a couple of hours from being able to fly the Dominix battleship, so I helped with a mining op for a little while, then got the ship, crafted a stable fitting from spare parts -- including two warp stabilizers -- and headed into the deadspace encounter.
 

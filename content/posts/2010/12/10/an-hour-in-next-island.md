@@ -3,41 +3,21 @@ date: '2010-12-10T23:14:31-05:00'
 draft: false
 title: "An hour in Next Island"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/10/an-hour-in-next-island/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
+tags:
   - "Entropia Universe"
   - "Next Island"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/Entropia-2010-12-10-21-41-46-19-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/Entropia-2010-12-10-21-41-46-19-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-41-46-19-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-41-46-19-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/Entropia-2010-12-10-21-41-46-19-480x384.jpg "Into the sunset")](https://chasingdings.com/wp-content/uploads/2010/12/Entropia-2010-12-10-21-41-46-19.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-41-46-19.jpg)
 
 "Next Island" just opened today in the Entropia Universe. The time travel-themed island asks players to "join the utopian scientists, great artists and successful entrepreneurs who populate [our tropical paradise of Next Island](http://www.nextisland.com/about-next-island/)."
 
@@ -53,7 +33,7 @@ So I looked around for some sweaty animals -- no life, anywhere. I followed a bl
 
 Chat was alive with people inventing things or killing stuff in Club NEVERDIE, which was clearly a more happening place than I had been led to believe.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/Entropia-2010-12-10-21-28-54-63-480x384.jpg "Monkey business")](https://chasingdings.com/wp-content/uploads/2010/12/Entropia-2010-12-10-21-28-54-63.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-28-54-63-480x384.jpg" title="Monkey business" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/Entropia-2010-12-10-21-28-54-63.jpg)
 
 I followed a winding road up the side of a steep hill that led eventually to a hut and another teleporter. Inside the hut were two monkeys who wanted to sell me things; I had no money. There were crafting machines there, but I had nothing to craft. I moved on.
 

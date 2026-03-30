@@ -3,52 +3,27 @@ date: '2008-12-03T09:40:12-05:00'
 draft: false
 title: "Megaten: Very briefly"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/03/megaten-very-briefly/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Aeria Games never had me sign a NDA for Shin Megami Tensei: Imagine (or in fact, ever, for any of the games I've beta'd), so,..."
+categories:
   - "MMORPG"
   - "Shin Megami Tensei"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-03-00-57-14-20.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-03-00-57-14-20.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-03-00-57-14-20.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-03-00-57-14-20.jpg"
 ---
+Aeria Games never had me sign a NDA for Shin Megami Tensei: Imagine (or in fact, ever, for any of the games I've beta'd), so,...
+<!--more-->
 
 Aeria Games never had me sign a NDA for Shin Megami Tensei: Imagine (or in fact, ever, for any of the games I've beta'd), so, given that I'm just barely out of the tutorial, here's some screen shots. Remember, this is from closed beta and what it looks like now may be 100% different by the time it ships. At least there will likely be less Japanese in the cut scenes... (Who or what is Nizero?)
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-03-00-57-14-20.jpg)
-
 Character creation -- what you see is what you get. Three body sizes, six clothing options, three weapon types. Around 5% of people polled on the Megaten site said they were going to go with blunt weapons, as opposed to slicy or stabby weapons. So I went with the big old two handed hammer.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-03-06-58-44-17.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-03-06-58-44-17.jpg" classes="center" >}}
 
 Like all SMT/Persona games, you start out in a Tokyo that has been destroyed by demons. The remaining residents of Tokyo keep falling back more fortified positions, and at the start of the game, have been forced to abandon Home II for Home III. Only DBs -- Demon Busters -- can possibly take back Tokyo from the demonic onslaught. And that's where we come in.
 
 Here, I'm preparing to cook a plucked turkey with an onion head with a fire spell, as kind of a late Thanksgiving. It looks all Tron-y because this is a Virtual Battle simulator used as a tutorial.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-03-07-10-14-69.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-03-07-10-14-69.jpg" classes="center" >}}
 
 Finally out in the grim, post-apocalyptic real world, just outside the gates of Home III. My task here is to find the lair of a bunch of pixies and convince their leader to accompany me back to the refuge.
 

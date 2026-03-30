@@ -3,24 +3,8 @@ date: '2011-01-07T06:00:14-05:00'
 draft: false
 title: "Daily Blogroll 1/7 - Better than Life edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/07/daily-blogroll-17-better-than-life-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If there could be a greater revolution in online gaming than Microsoft's upcoming Avatar Kinect, I'm not really sure what it could be. uses its..."
+categories:
   - "Daily Blogroll"
   - "Lucent Heart"
   - "MMORPG"
@@ -28,18 +12,11 @@ tags:
   - "Rift"
   - "Second Life"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/ZodiacOnline.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/ZodiacOnline.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/ZodiacOnline.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/ZodiacOnline.jpg"
 ---
+If there could be a greater revolution in online gaming than Microsoft's upcoming Avatar Kinect, I'm not really sure what it could be. uses its...
+<!--more-->
 
 If there could be a greater revolution in online gaming than Microsoft's upcoming Avatar Kinect, I'm not really sure what it could be. {{< youtube WxmyXxeczuE >}} uses its popular new peripheral to track your gestures, mouth movements and even your eyebrows and use this data to create a lifelike puppet of you in an online chat room. The traditional problems of the Kinect remain; your avatar won't be spending much time walking from place to place, but it is certainly worlds better than having to clean house to have friends over.
 
@@ -58,8 +35,6 @@ But in an achievement-driven game world, you eventually will come to the end of 
 Speaking of the sandbox vs theme park comparisons, Gordon of We Fly Spitfires believes that, [if you just removed WoW from the equation](http://blog.weflyspitfires.com/2011/01/06/are-sandbox-mmos-dying-out/), sandbox MMOs like EVE Online, Darkfall and Fallen Earth compare favorably, population-wise, with theme parks.
 
 **Lucent Heart**
-
-![](https://chasingdings.com/wp-content/uploads/2011/01/ZodiacOnline.jpg "Zodiac Online")
 
 Viiral of Epic-Hero has [bravely taken his first steps](http://epic-hero.com/adventure-logs/zodiac-online-lucent-heart-tw-a-log-1/) into the Taiwan version of Zodiac Online, known here and elsewhere as Lucent Heart.
 
@@ -87,7 +62,7 @@ If it fails, it could dampen enthusiasm for MMO development of all types. Win or
 
 **Mythos**
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-162011-104539-PM-480x300.jpg "Mythos")](https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-162011-104539-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-162011-104539-PM-480x300.jpg" title="Mythos" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-162011-104539-PM.jpg)
 
 I mentioned RedBana's [Mythos](http://www.mythos.com/) in passing yesterday. Once the tech test for Flagship Studio's "Hellgate: London", then a game in its own right, and lastly a lost opportunity when HanbitSoft took over all of Flagship's assets.
 

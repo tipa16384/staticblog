@@ -3,40 +3,18 @@ date: '2025-10-19T12:28:38-05:00'
 draft: false
 title: "Final Fantasy Tactics: The Ivalice Chronicles, a retrospective"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/10/19/final-fantasy-tactics-the-ivalice-chronicles-a-retrospective/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake."
-description: "Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake."
-tags:
+categories:
   - "Final Fantasy"
   - "PS5"
   - "Tactical RPG"
+tags:
   - "Final Fantasy Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018225944-scaled.jpg"
 ---
+Thoughts on beating the game for the fifth time across all its versions, from the original PlayStation, to the PSP, and now the modern remake.
+<!--more-->
 
 As near as I can tell, by doing some archaeology on my computer, is that I played Final Fantasy Tactics: The War of the Lion, a remake of the game for handheld game machines, a few years back. I replayed the original, on an emulator, about ten years ago. And I know I played it at least twice through on the original PSX hardware.
 
@@ -46,7 +24,7 @@ I'm not counting all the sequels. With the playthrough of the remake, I've compl
 
 I really wanted them to do the "I had a good feeling!" message from completing an errand well :-) But that one was gone.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018233439-1024x576.jpg" title="I got all the Zodiac Stones!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018233439-1024x576.jpg" title="I got all the Zodiac Stones!" classes="center" >}}
 
 I could go over what Final Fantasy Tactics is, and what makes it special, but I'm not going to. This post is going to go over my thoughts about my playthrough, based on the trophies I've received. FFT is a long and storied game, and there's a thousand people who have written about it better than I ever could.
 
@@ -74,13 +52,13 @@ There are certain battles where a friendly chocobo joins the battle; those are t
 
 The Chronicle lists all the lore of the game; who everyone is, what you know about them at that time, where everything is -- all the lore, and there's a LOT of it. There's secret scenes you aren't normally shown that show background for events for which you were not present. There's books which are actually mini-games in their own rights (which are super cool, by the way). **Amateur Historian**, **The Scriptures of Germonique**, **A Thickening of the Plot** and **Secrets Beneath Goug** are all for reading the Chronicles.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018233521-1024x576.jpg" title="Check the Chronicles to see where the plot is at the moment" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018233521-1024x576.jpg" title="Check the Chronicles to see where the plot is at the moment" classes="center" >}}
 
 **Ruler of the Abyss** lets the world know that you have completed all ten levels of Midlight's Deep, a dungeon that opens up toward the end of the game. Midlight's Deep contains some of the best items in the entire game. I don't usually do it because it's annoying (no light, wild changes in heights make it difficult to move in, lots of traps), but I paid for the whole game and dagnabbit I was going to play the whole game. There's a Zodiac stone at the bottom which a completionist would want. I wanted. I got. It wasn't easy. Almost every floor required changing classes and gear around. I'd go there, see what I was up against, then restart after I'd moved jobs and gear around.
 
 I think I would need to poach some of the critters in this dungeon to get the rare poaching trophy. But, I was struggling enough as it was.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018233406-1024x576.jpg" title="The Crew" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018233406-1024x576.jpg" title="The Crew" classes="center" >}}
 
 I spent the first few hours just autobattling in the first battlefield, trying to get the jobs and abilities I felt I should really not leave home without. I like getting Ramza to Monk as swiftly as I can, as the Monk job is strong close, at range, and can provide necessary support. The Martial Arts skill is probably the second most useful secondary job, after Items.
 
@@ -92,7 +70,7 @@ In the screenshot above, Allyson (named after my daughter) is a White Mage. She'
 
 I did have a very good healer, Katherine (named after my granddaughter), but Allyson had that super useful Monk job mastered, so...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018230040-1024x576.jpg" title="The struggle has, at last, reached its end!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251018230040-1024x576.jpg" title="The struggle has, at last, reached its end!" classes="center" >}}
 
 Even with the early grinding, I still had my fair share of problem fights. If you're following along in GameFaqs, they'll tell you the perfect jobs, abilities, gear and tactics for every fight. Since I was doing this without all that, with nothing more than memory, I mostly just brought along whatever I had at the time to each fight. Most of the time, that was sufficient. Some of the time, I ended the fight, but one or more of my characters were gone forever and had to restart. And sometimes I just got totally wiped. I didn't mind, though. If I wanted an easy playthrough, they had the story mode. I wanted to lose... some of the time. And so I did, some of the time.
 

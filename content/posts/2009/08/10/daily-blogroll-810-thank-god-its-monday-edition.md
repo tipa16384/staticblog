@@ -3,24 +3,8 @@ date: '2009-08-10T07:48:14-05:00'
 draft: false
 title: "Daily Blogroll 8/10 -- Thank God it's Monday edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/10/daily-blogroll-810-thank-god-its-monday-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I got a spam comment today which mentioned, while complimenting me on explaining some vague idea to them, that they were unsure of this blog's..."
+categories:
   - "Aion"
   - "Champions Online"
   - "Daily Blogroll"
@@ -32,20 +16,13 @@ tags:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/daddygirl.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/daddygirl.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/daddygirl.jpg"
 ---
+I got a spam comment today which mentioned, while complimenting me on explaining some vague idea to them, that they were unsure of this blog's...
+<!--more-->
 
-![Daddy](https://chasingdings.com/wp-content/uploads/2009/08/daddygirl.jpg "Daddy")
+
 
 I got a spam comment today which mentioned, while complimenting me on explaining some vague idea to them, that they were unsure of this blog's update schedule. Geez. When even SPAMMERS wonder why you don't update every day, it's getting out of hand ;) Fact is, most of the time I am doing boring stuff. CrazyKinux linked to a blog once that insisted nobody wants to read about someone running mission in EVE Online, so once I read that, I stopped posting about my adventures in EVE. I'm leveling up a character in Wizard 101 so I can do Grizzleheim with level-appropriate characters, but that takes time. I do fit in little bits about what I'm doing in EVE and Wizard101 now and then in these blogrolls... but they don't seem worthy of entire posts!
 

@@ -3,41 +3,19 @@ date: '2025-08-30T16:49:36-05:00'
 draft: false
 title: "Dune Awakening: We finally got ganked"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/30/dune-awakening-we-finally-got-ganked/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Dune: Awakening is a PvP game, and our base was in a PvP area, so it wasn't entirely unexpected..."
-description: "Dune: Awakening is a PvP game, and our base was in a PvP area, so it wasn't entirely unexpected..."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
   - "Dune Awakening"
   - "MMORPG"
+tags:
   - "PvP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/20250830103401_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/20250830103401_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103401_1.jpg"
 ---
+Dune: Awakening is a PvP game, and our base was in a PvP area, so it wasn't entirely unexpected...
+<!--more-->
 
 Years ago, back in the EverQuest days, I was a guide on the Tallon Zek server. All the "Zek" servers were PvP servers under different rule sets. Rallos Zek was full-on PvP, kill anyone. Tallon Zek grouped the player races into two teams, Team Good and Team Evil. You couldn't attack anyone on your own team, but the other team was fair game. I don't think your teams even shared a language.
 
@@ -51,7 +29,7 @@ My role, as a guide, was to watch invisibly to ensure the campers were following
 
 When there wasn't anything happening not allowed by the rules, I had to tell the complaining player that there was nothing I could do. What I wanted to say was, "don't you know what kind of server you're playing on?"
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-49.png" title="This is how my morning went" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-49.png" title="This is how my morning went" classes="center" >}}
 
 Calrain and I have been working in the Deep Desert for a few weeks now. The Deep Desert, in Dune: Awakening, is split between PvE content in the southern half and PvP content in the northern half. All the good spice blows happen in the PvP half, and it makes a certain kind of sense to place your base in that northern half each week to have quick access to all the good spice. It's easiest to find the high level ores and other materials there, too. 
 
@@ -59,7 +37,7 @@ We've typically been in the PvP half because, as far as we knew, almost nobody w
 
 Last week, we placed the base in the PvE section, as close to the PvP section as we could without going over. But with the priority this week being spice harvesting, we placed it on the other side of that invisible line.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/20250830103416_1-1024x429.jpg" title="Rescue in progress" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/20250830103416_1-1024x429.jpg" title="Rescue in progress" classes="center" >}}
 
 We spent hours yesterday harvesting spice and doing high level PvE content for the very rarest and most prized mats. We intended to do more of that today, and then start carting the stuff back to our bases in the Hagga Basin to turn into vehicles and gear.
 

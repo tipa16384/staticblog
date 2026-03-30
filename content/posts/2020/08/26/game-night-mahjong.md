@@ -3,42 +3,20 @@ date: '2020-08-26T23:01:58-05:00'
 draft: false
 title: "Game Night: Mahjong"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/26/game-night-mahjong/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We have been preparing for this night for a very long time. Tom has always had an intense interest in Mahjong, especially in the Japanese..."
+categories:
   - "Final Fantasy XIV"
   - "Game Night"
   - "Tabletop Games"
+tags:
   - "ASMR"
   - "Girls Screaming in Chinese"
   - "Mahjong"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1763-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1763-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1763-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1763-1.jpg"
 ---
+We have been preparing for this night for a very long time. Tom has always had an intense interest in Mahjong, especially in the Japanese...
+<!--more-->
 
 We have been preparing for this night for a *very* long time. Tom has always had an intense interest in Mahjong, especially in the Japanese variant, Riichi Mahjong. He's got books and books about it. Lots of apps. A vast collection of Vita and Super Famicom versions.
 
@@ -50,7 +28,7 @@ A ready hand typically consists of four melds and a pair. A meld is either three
 
 There is a whole long list of *yaku*. You want as many as you can get, to score points. I can't get into it here because I still don't know all of them.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1849-1024x1024.jpg)Tom with the last winning hand of the night
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1849-1024x1024.jpg" classes="center" >}}Tom with the last winning hand of the night
 
 Tom's Mahjong set is an American version, not a Riichi Mahjong set. We were looking on eBay for a nicer set, and saw that whoever runs World of Warcraft for Blizzard in Japan had come out with a WoW-themed Mahjong set that was sold briefly in the States at a Blizzcon. The prices were stratospheric.
 

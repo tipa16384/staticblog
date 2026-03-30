@@ -2,7 +2,7 @@ import xml.etree.ElementTree as ET
 import csv
 from hugo_post_creator import create_hugo_post
 
-wp_xml = 'chasingdings.WordPress.2026-01-26.xml'
+wp_xml = 'chasingdings.WordPress.2026-03-30.xml'
 tag_normalization_file = 'categories_simple_normalized.csv'
 
 def load_tag_normalization_dict():

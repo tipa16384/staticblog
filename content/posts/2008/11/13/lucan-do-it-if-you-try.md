@@ -3,41 +3,18 @@ date: '2008-11-13T09:13:02-05:00'
 draft: false
 title: "Lucan do it if you try..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/13/lucan-do-it-if-you-try/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Overlord Lucan D'Lere showed up at the EverQuest II Birthday Bash last night. Awestruck? You can say that. This is the man who saved..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-12-20-20-57-23.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-12-20-20-57-23.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-12-20-20-57-23.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-12-20-20-57-23.jpg"
 ---
+The Overlord Lucan D'Lere showed up at the EverQuest II Birthday Bash last night. Awestruck? You can say that. This is the man who saved...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-12-20-20-57-23.jpg "everquest2-2008-11-12-20-20-57-23")
+
 
 The Overlord Lucan D'Lere showed up at the EverQuest II Birthday Bash last night. Awestruck? You can say that. This is the man who saved us from the Rallosian Hordes and the Green Mist. This is the man who singlehandedly defeated the Avatar of War on Lucan's Mount in the Commonlands. This is the man who drove the orcs to their doom in Wailing Caves and sealed them there forever.
 
@@ -79,7 +56,7 @@ Here's a song to our beloved immortal dictator:
 
 That wasn't actually the song I sang at the birthday bash, but since I didn't write it down, there's this one instead. I'd actually written a birthday song while [Stargrace](http://mmoquests.com) and [Kasul](http://shatteredblog.wordpress.com/2008/11/12/happy-4th-birthday-eq2/) and I were relaxing in the stately Nostalgia guild hall before the party, but I hadn't written it down. Too bad I didn't write down the second one, though. That was a lot better.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-12-20-28-59-80.jpg "everquest2-2008-11-12-20-28-59-80")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-12-20-28-59-80.jpg" title="everquest2-2008-11-12-20-28-59-80" classes="center" >}}
 
 Dragons? Yeah, there were dragons. Here I am, making this one angry enough that it soon fled. You know, Halfling power. You don't want to get in the way of Halfling power. It's the power of PIE.
 

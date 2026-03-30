@@ -3,40 +3,17 @@ date: '2009-11-30T08:35:48-05:00'
 draft: false
 title: "Wizard101: A Tail of Four Oni -- The War Oni"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/11/30/wizard101-a-tail-of-four-oni-the-war-oni/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I bought just one thing for myself on \"Black Friday\", the advertiser-created consumer holiday that kicks off the Christmas shopping season the day following Thanksgiving...."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-29-13-15-20-97.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-29-13-15-20-97.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/WizardGraphicalClient-2009-11-29-13-15-20-97.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/WizardGraphicalClient-2009-11-29-13-15-20-97.jpg"
 ---
+I bought just one thing for myself on "Black Friday", the advertiser-created consumer holiday that kicks off the Christmas shopping season the day following Thanksgiving....
+<!--more-->
 
-![Allison and Marissa in Moo Shu](https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-29-13-15-20-97.jpg "Allison and Marissa in Moo Shu")
+
 
 I bought just one thing for myself on "Black Friday", the advertiser-created consumer holiday that kicks off the Christmas shopping season the day following Thanksgiving. That one thing was a $20 Wizard101 Crowns card from a Rite-Aid my sister and I stopped by. So if you're looking for W101 cards, the Rite-Aid in the White Plains part of the Bronx, just past the zoo, has them. The picture above shows Allison with the ninja pig pet that came with the card. The pig gives one Infection card that makes enemy heals half as effective, and the pig will occasionally bow to passers-by.
 
@@ -48,7 +25,7 @@ My REAL goal here is to explore all of Grizzleheim, but Grizzleheim has been org
 
 Moo Shu is just the thing. With good loot, great experience and a compelling story, it's a nice, relaxing (if sometimes tedious) ride before the challenge of Dragonspyre.
 
-![War Oni](https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-29-15-32-00-55.jpg "War Oni")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/WizardGraphicalClient-2009-11-29-15-32-00-55.jpg" title="War Oni" classes="center" >}}
 
 Moo Shu was a land in a delicate balance. Though it seemed peaceful, it was only the Emperor's strength that kept the warlords from each other's throats. When Malistaire swept through with the unstoppable power of the Krokonomicon at his call and struck down the Emperor for the Dragonspyre key, that fragile balance crashed to the ground. The three most brutal warlords sold their souls to the demons -- oni -- of War, Plague and Death. The Emperor's very life energy fueled the fourth, and deadliest, of the oni -- the Jade Oni.
 

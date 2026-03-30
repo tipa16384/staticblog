@@ -3,25 +3,10 @@ date: '2010-08-21T11:31:48-05:00'
 draft: false
 title: "More Social Games: Office Heroes, Kingdoms of Camelot, Virtual Villagers"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/21/society-at-large-more-social-games/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
+tags:
   - "App"
   - "Facebook"
   - "iPhone"
@@ -29,20 +14,15 @@ tags:
   - "Office Heroes"
   - "Social Game"
   - "Virtual Villagers"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/officehero-480x348.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/officehero-480x348.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/officehero-480x348.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/officehero-480x348.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/officehero-480x348.jpg "Office Hero")](https://chasingdings.com/wp-content/uploads/2010/08/officehero.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/08/officehero.jpg)
 
 If you're going to waste time playing social games, you might as well play a game that elevates wasting time to a paying activity. In Astroape Studios' [Office Heroes](http://www.officeheroesapp.com/), out now for the Apple iPhone and soon for Facebook, you'll spend your day tweeting, drinking coffee, updating Facebook, surfing the web and trying to look busy when your boss is around while moving up the corporate ladder. Heck, I think I LIVE this game.
 
@@ -52,7 +32,7 @@ Visiting friends and performing certain social tasks (like IMing a friend) earn 
 
 In Office Heroes, your office is your castle. The only real goal is to make your workspace look cool. Without any quests or requirements that friends help you with tasks (in fact, they couldn't if they wanted to), the game is more something fun you play a few minutes a day instead of a full-time job, like some.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8212010-114502-AM-480x362.jpg "Kingdoms of Camelot")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8212010-114502-AM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8212010-114502-AM-480x362.jpg" title="Kingdoms of Camelot" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8212010-114502-AM.jpg)
 
 If city building games are more to your liking, Kabam's [Kingdoms of Camelot](http://www.facebook.com/kingdomsofcamelot) might catch your interest. Gather and mine the resources of your kingdom and build castles, halls with which to attract knights to your realm, taverns, alchemist's labs and most of all, armies.
 
@@ -64,7 +44,7 @@ Friends and allies can also become generals and leaders of your own armies, lend
 
 My only issue with KoC are the graphics -- they all seem as if they were seen through smoked glass to me.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8212010-114802-AM-480x362.jpg "Virtual Villagers")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8212010-114802-AM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8212010-114802-AM-480x362.jpg" title="Virtual Villagers" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8212010-114802-AM.jpg)
 
 [Virtual Villagers](http://www.facebook.com/apps/application.php?id=110804388941086&v=wall) is the Facebook version of [Last Day of Work's Virtual Villagers](http://www.virtualvillagers.com/index.html) series of games for the PC and Macintosh. The gameplay is similar in both, though the games are not connected.
 

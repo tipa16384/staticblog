@@ -3,24 +3,8 @@ date: '2009-06-23T07:55:46-05:00'
 draft: false
 title: "Daily Blogroll 6/23 -- This and That edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/23/daily-blogroll-623-this-and-that-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Between allergies and traveling, hasn't been a lot of writing being done. When I got back home Sunday, there were nearly 200 messages in the..."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "Darkfall"
@@ -28,20 +12,13 @@ tags:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/Fullscreen-capture-6232009-61718-AM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/Fullscreen-capture-6232009-61718-AM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/Fullscreen-capture-6232009-61718-AM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/Fullscreen-capture-6232009-61718-AM.jpg"
 ---
+Between allergies and traveling, hasn't been a lot of writing being done. When I got back home Sunday, there were nearly 200 messages in the...
+<!--more-->
 
-![Nostalgia the Guild comes to Free Realms!](https://chasingdings.com/wp-content/uploads/2009/06/Fullscreen-capture-6232009-61718-AM.jpg "Nostalgia the Guild comes to Free Realms!")
+
 
 Between allergies and traveling, hasn't been a lot of writing being done. When I got back home Sunday, there were nearly 200 messages in the my feed readers. Ugh. Lots happened!
 

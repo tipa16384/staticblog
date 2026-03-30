@@ -3,46 +3,24 @@ date: '2023-12-10T14:16:27-05:00'
 draft: false
 title: "Advent of Code Day 10 -- Pipe Maze"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/10/advent-of-code-day-10-pipe-maze/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Anyone else notice that this is the second puzzle in a row without any elves?"
-description: "Anyone else notice that this is the second puzzle in a row without any elves?"
-tags:
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Flood Fill"
   - "Maze"
   - "Pipes"
   - "Point in Polygon"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_a_human_repairman_with_a_yellow_hardhat_and_orange_safe_681c78dd-6f4e-4a3a-97e2-2a80321e60c7.png"
 ---
+Anyone else notice that this is the second puzzle in a row without any elves?
+<!--more-->
 
 Midjourney was entirely unable to render a picture using the holiday card style I'd generated, so I removed that constraint and told it to use its best judgement today to render a repairman in a metal world of pipes and mazes. Dall-E 3 did a better job with what I asked for, but Midjourney's response was so creepy and cool that it had to be the header image.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-10.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-10.png" classes="fig-20" >}}
 
 So, here we are on the Metal Island, hang glider having successfully soared on thermals from the Desert Island, which is something I am not sure hang gliders can do, but who knows? The paraglider trike that Dall-E generated for yesterday could, I guess.
 
@@ -54,7 +32,7 @@ The maze in this puzzle is made out of ASCII art, which uses letters, digits, an
 
 The solution for Part 1 is to figure out the number of pipes the Robo-Elf would have to past through to get to the pipe that is furthest from the start position.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/68047b89-bd19-4751-8e89-878a182ee06b-1024x585.webp" title="Dall-E 3" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/68047b89-bd19-4751-8e89-878a182ee06b-1024x585.webp" title="Dall-E 3" classes="center" >}}
 
 First, we need to lay a little groundwork.
 
@@ -84,7 +62,7 @@ blocking_direction = { Direction.NORTH : Direction.EAST,
 
 Inspired by the Haskell solutions I've been seeing, I've decided to get a little more formal with my Python. **Direction** is a list of directions, obviously. **symbols** is a dictionary that takes one of the pipe symbols from the puzzle and matches it with the directions the pipe exits the square it's on. **offsets** defines how to transform a position by the direction. **opposite_offset** just shows which direction is opposite the given direction. And **blocking_direction** is for part 2, so I'll get to that in a bit. It is the next direction clockwise from the given direction.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-11-1024x643.png" title="My cute Midjourney style trying its best" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-11-1024x643.png" title="My cute Midjourney style trying its best" classes="center" >}}
 
 `lgrid = None
 lvisited = None
@@ -132,7 +110,7 @@ Okay, **find_adjacent** finds the two adjacent symbols that point back at this o
 
 In order to excuse my sloppy coding, I threw a cache on it, so that the *second* time it's asked to find the adjacent pipes for a position, it will just return immediately without calculating it again.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-10-13.52.31-35mm-photo-of-a-human-repairman-with-a-yellow-hardhat-and-orange-safety-vest-standing-on-a-maze-made-entirely-of-pipes-with-metal-trees-in-the-backgr-300x300.png" title="Dall-E 2" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-10-13.52.31-35mm-photo-of-a-human-repairman-with-a-yellow-hardhat-and-orange-safety-vest-standing-on-a-maze-made-entirely-of-pipes-with-metal-trees-in-the-backgr-300x300.png" title="Dall-E 2" classes="fig-20" >}}
 
 Okay, so that wasn't so bad, right?
 

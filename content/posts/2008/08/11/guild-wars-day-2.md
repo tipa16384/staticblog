@@ -3,44 +3,21 @@ date: '2008-08-11T08:14:08-05:00'
 draft: false
 title: "Guild Wars -- Day 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/11/guild-wars-day-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So before Guild Wars kindly implored me to log off after a mere four hours playing (and how kind of it to be so concerned..."
+categories:
   - "Guild Wars"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/corsairs.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/corsairs.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/corsairs.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/corsairs.jpg"
 ---
+So before Guild Wars kindly implored me to log off after a mere four hours playing (and how kind of it to be so concerned...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/corsairs.jpg "corsairs")
+
 
 So before Guild Wars kindly implored me to log off after a mere four hours playing (and how kind of it to be so concerned for my health!), I had cleared out every single quest, aside from the main storyline quest, in my quest journal. Monuments had been protected. Salads had been made. Sentient seeds had been traded. A guild invite had been rejected (after I did some research in how to reply to tells... was the first time I had ever spoken to someone in the game). Forlorn lovers, brought together. Wayward children, found and brought home.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/undead.jpg "undead")And the Sunspears were grateful. So grateful were they, that the Sunspear scouts would no longer give me bounty buffs. I guess once I became ***SUNSPEAR CHAMPION*** (woohoo), I was above such things as "promotion points" and "experience" and "loot". I did learn that my party takes a share of loot, and that in a full eight character party, I am getting 1/8 of the loot that drops. Which seems unfair. For some of the rarer drops, I had to boot everyone from the party and go out hunting alone.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/undead.jpg" title="undead" classes="center" >}}And the Sunspears were grateful. So grateful were they, that the Sunspear scouts would no longer give me bounty buffs. I guess once I became ***SUNSPEAR CHAMPION*** (woohoo), I was above such things as "promotion points" and "experience" and "loot". I did learn that my party takes a share of loot, and that in a full eight character party, I am getting 1/8 of the loot that drops. Which seems unfair. For some of the rarer drops, I had to boot everyone from the party and go out hunting alone.
 
 Just me and my giant, eight foot, pink flamingo. Of DEATH.
 
@@ -54,7 +31,7 @@ I went back and mastered the Apocrypha mission, then moved on. In this mission, 
 
 Anyway, once you meet up with the Kouran spear marshall, the mouthy monk you were forced to bring along starts spoiling the whole thing by flinging off her disguise and vowing to kill them all. So, yeah, we're kinda forced to fight with our lives from that point. That was NOT part of the plan, and the Sunspears back home are LIVIDLY ANGRY. They know nothing about any corsair/Kouran conspiracy, and so it's off to face the Tribunal.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/tribunal.jpg "tribunal")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/tribunal.jpg" title="tribunal" classes="center" >}}
 
 There's a couple of progress bars on the left which shows how well your case is going. Each person you summon to the stands makes your case worse. Every statement you make regarding the facts of the mission are twisted and distorted. All seems lost until Tennoli (the mouthy monk) brings Kosmir back from the hinterlands, and she puts a quick stop to the kangaroo court. Because she has PROOF the Kourans and the corsairs are in collusion, and she knows what Nightfall is.
 

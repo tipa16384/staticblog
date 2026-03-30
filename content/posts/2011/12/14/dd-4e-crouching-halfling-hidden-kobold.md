@@ -3,40 +3,17 @@ date: '2011-12-14T08:07:16-05:00'
 draft: false
 title: "D&D 4E: Crouching Halfling, Hidden Kobold"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/12/14/dd-4e-crouching-halfling-hidden-kobold/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Our time in Winterhaven passed all too quickly. Soon the innkeeper, the Lord Warden and most of the random townsfolk were all too ready to..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/FantasyGrounds-2011-12-13-22-04-03-63-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/12/FantasyGrounds-2011-12-13-22-04-03-63-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/FantasyGrounds-2011-12-13-22-04-03-63-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/FantasyGrounds-2011-12-13-22-04-03-63-480x360.jpg"
 ---
+Our time in Winterhaven passed all too quickly. Soon the innkeeper, the Lord Warden and most of the random townsfolk were all too ready to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/FantasyGrounds-2011-12-13-22-04-03-63-480x360.jpg" title="Wenner Takes a Short Cut" class="align-center" >}}
+
 
 Our time in Winterhaven passed all too quickly. Soon the innkeeper, the Lord Warden and most of the random townsfolk were all too ready to see us go. We'd come for a night and stayed for a fortnight. Even the street sweepers began wondering loudly and openly beneath our windows if there wasn't some adventuring to be done. Somewhere. Else.
 

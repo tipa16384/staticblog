@@ -3,49 +3,28 @@ date: '2022-07-31T14:28:30-05:00'
 draft: false
 title: "Welcome to Blaugust 2022: 31 game ideas from AI"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/07/31/welcome-to-blaugust-2022-31-game-ideas-from-ai/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This article is about the author's plan to use AI to help write their blog posts for Blaugust."
-description: "This article is about the author's plan to use AI to help write their blog posts for Blaugust."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "First Person Shooter"
   - "Isometric Tactical Strategy"
   - "Midjourney"
   - "Supernatural Horror"
+tags:
   - "AI"
   - "Author"
+  - "Blaugust"
   - "Blogging"
   - "Craiyon"
   - "Dall-E 2"
   - "Generate Ideas"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/blaugust2022.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/blaugust2022.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/blaugust2022.webp"
 ---
+This article is about the author's plan to use AI to help write their blog posts for Blaugust.
+<!--more-->
 
 So for *this* Blaugust, I'm going to do something different. I'm not going to write most of the posts. I'm not going to take screenshots. I'm not going to do much at all. I'm just going to sit back and watch what happens as Artificial Intelligence takes over Chasing Dings!
 
@@ -55,7 +34,7 @@ I don't want to write all that!
 
 I've brought together a bunch of AI tools. I have Open AI's "GPT-3". This text AI takes a prompt (for instance, a blog article) and tries to continue it in a natural way. If you leave a sentence unfinished, it will try to complete it and add whatever else it thinks would be appropriate. If you leave things all buttoned up, but ask a question at the top (such as, What Google Trends categories would be best for this article?"), it will return those things.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/image-8.png" title="The Number 31 by Craiyon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/image-8.png" title="The Number 31 by Craiyon" classes="center" >}}
 
 Also in my toolkit are three AI programs that generate art. "Craiyon", previously known as Dall-E Mini, takes a prompt and does a pretty decent job of returning art that matches that prompt. It's fast and free. "Midjourney" is a Discord bot that generates art, also via prompts -- and it's collaborative, as every other user can see and comment and even make variations of what you create. It marks art with striking drama and symmetry. Finally, "Dall-E 2" has gotten a lot of press for making creations that looks as if they were designed and painted by a human.
 
@@ -75,7 +54,7 @@ And then I'd write:
 
 And wait for it to fill in the rest.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/image-6.png" title="Midjourney's art for \"The One\"." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/image-6.png" title="Midjourney's art for \"The One\"." classes="center" >}}
 
 Number: 1. Genre: First-person shooter. Title: "Number One". Outline: In this first-person shooter, you play as a secret agent who must track down and stop a madman who is bent on world domination.
 
@@ -87,7 +66,7 @@ Number: 1. Genre: Supernatural Horror. Title: "The Number 1". Outline: On the ni
 
 I would do that several times until I found one that I liked and that wasn't also the title or plot to an existing game. A lot of times they were. Sometimes I'd go so far as to offer a genre, or a title idea, just to knock it off a kick for games that were *already* based off a number -- 11th Hour, 7th Guest, 24, etc. It would really get fixated on those.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/image-7.png" title="Midjourney's impression of the number 31." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/image-7.png" title="Midjourney's impression of the number 31." classes="center" >}}
 
 With an outline in hand, I'd just keep asking it to expand on that outline, occasionally adding some connecting words, sometimes section headings, until I had enough for a post. And then I'd put that post through the wringer, generating all the images and metadata with the other AI tools.
 

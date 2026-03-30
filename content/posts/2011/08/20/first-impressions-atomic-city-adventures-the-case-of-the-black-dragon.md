@@ -3,39 +3,18 @@ date: '2011-08-20T20:41:04-05:00'
 draft: false
 title: "First impressions: Atomic City Adventures: The Case of the Black Dragon"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/08/20/first-impressions-atomic-city-adventures-the-case-of-the-black-dragon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89-480x384.jpg "Kyoto Industries logo")](https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/08/ACA_1b-2011-08-19-21-13-58-89.jpg)
 
 Two things I ask whenever I start playing a game with the word "Dragon" in the title. First, will I get to see a dragon? Second, can I kill it? I was wandering through Windstorm Studios' Atomic City Adventures almost holding my breath until on the third mission, I found a golden dragon. Not a black dragon. Not a dragon I could kill. But there's hope.
 
@@ -43,7 +22,7 @@ Atomic City Adventures is a story set in a 1950's smitten 24rd century where car
 
 You play Pam Rodgers, newly promoted from the ranks of the ground police, whose job it is to patrol Atomic City on your hoverbike and take on trouble whenever and wherever you find it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-51-05-38-480x384.jpg" title="Atomic Coffee -- one of the many puns in the game" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/ACA_1b-2011-08-19-21-51-05-38-480x384.jpg" title="Atomic Coffee -- one of the many puns in the game" classes="center" >}}
 
 (Re: Puns, also spot the references to 2001, Blade Runner, I Robot et al. This game is full of genre nods!)
 
@@ -51,7 +30,7 @@ When you're not busy round-kicking your enemies back to 2233AD, you'll be on a h
 
 You'll be able to upgrade your hoverbike through missions, and its weapons by finding the weapons caches strewn around the missions (hint: listen for the ominous hummmmmm as you float near). You also get points for finding illegal contraband and flying through glowing circles called "AI Antenna". Note that even when all the AI Antennae are active, the default NPC AI isn't all that smart, often walking neatly into your sights if you just back up slowly.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-22-00-47-87-480x480.jpg" title="You meet the neatest people in the VSF!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/ACA_1b-2011-08-19-22-00-47-87-480x480.jpg" title="You meet the neatest people in the VSF!" classes="center" >}}
 
 You can also find weapons for when you're afoot, which you'll be using when you're having conversations with NPCs. A gun to the face really gets them to open up.
 
@@ -61,11 +40,11 @@ Waypoints show you the next step in your mission, which usually tends to be go t
 
 Now *you're* the one trying to keep them in your sights, which requires mastering the drift/skid hoverbike turns while using your alternate, power-sucking but highly damaging weapon mode to blast them out of the sky.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-08-54-36-480x384.jpg" title="Mission Complete" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/ACA_1b-2011-08-19-21-08-54-36-480x384.jpg" title="Mission Complete" classes="center" >}}
 
 Once all mission objectives are complete, you're scored on the primary, secondary and optional objectives you completed. You aren't scored for _time_, though, and that's important, because you'll definitely want to make sure you've found the weapon caches in each level before moving to the next. Enemy firepower increases rapidly from mission to mission. Even though it's easy to lure enemies into your sights (move slowly backward), that puts you right in _their_ sights, too. Luckily it's not hard to disengage and heal up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/ACA_1b-2011-08-19-21-33-19-34-480x384.jpg" title="Atomic City" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/ACA_1b-2011-08-19-21-33-19-34-480x384.jpg" title="Atomic City" classes="center" >}}
 
 ACA: TCotBD has flying vehicle combat! It has femme fatales! It has a story full of battle and betrayal! It has a jazzy soundtrack (which changes to a foreboding march when... well, you'll see). It has police with Irish accents! It has a retro-techno feel!
 

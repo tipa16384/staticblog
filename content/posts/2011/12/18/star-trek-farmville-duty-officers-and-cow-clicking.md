@@ -3,40 +3,17 @@ date: '2011-12-18T22:00:17-05:00'
 draft: false
 title: "Star Trek Farmville: Duty Officers and Cow Clicking!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/12/18/star-trek-farmville-duty-officers-and-cow-clicking/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I want to say right at the start that I am back playing Star Trek Online, and it was the new duty officer system that..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg"
 ---
+I want to say right at the start that I am back playing Star Trek Online, and it was the new duty officer system that...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-17-10-23-06-34-480x326.jpg" title="Execute for Incompetence" class="align-center" >}}
+
 
 I want to say right at the start that I am back playing Star Trek Online, and it was the new duty officer system that brought me back. Now I'm leveling my characters, running special task forces and in all senses am back in the game.
 
@@ -60,7 +37,7 @@ Remember, though -- I'm actually having _fun_. I know the D'Kyr Vulcan science s
 
 I thought I'd spend some time writing about what I have been doing in game -- when I'm not Doffing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/krontar-480x384.jpg" title="Krontar" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/krontar-480x384.jpg" title="Krontar" classes="center" >}}
 
 Klingons are -- and I have always said this -- just so much _fun_. They are just this ultimate masculine force. I just couldn't see having a female Klingon character. Naturally MY Klingon would have to be the old school Klingon. Klingon duty officer missions are likewise a blast -- even though they are all, after all, just clicking. Like the one I highlight at the top of the post; Execute the Incompetent. Duty officer always failing their missions? Toss them out the airlock! You get POINTS for it! And they are truly gone from your roster afterward.
 
@@ -76,7 +53,7 @@ The other people in the group were kind enough not to say anything, or perhaps d
 
 So that's Krontar: the Terror in Space. I could queue for ground missions, but why bother? Space is so much more fun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/tipa-480x384.jpg" title="Tipa in" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/tipa-480x384.jpg" title="Tipa in" classes="center" >}}
 
 Now, I've never really felt like I contribute as much as I can with Tipa in her Nebula. I love that ship to death, but it draws aggro it can't tank. But as a ground mission healer, she rocks. I've been doing ground task forces with her. Might even start the elite ones, which give a better chance for the base of rare faction stuff you almost never see.
 
@@ -84,13 +61,13 @@ She's been doffing, too. You get different kinds of duty officer missions depend
 
 Not a lot of stuff for Tipa, really, though I did design her a Christmas outfit. It's always winter on Andoria, after all.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/tpral-480x384.jpg" title="T'pral and her Sabre" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/tpral-480x384.jpg" title="T'pral and her Sabre" classes="center" >}}
 
 I've done a couple missions with T'pral, my Vulcan engineer, but mostly, she's my doffer. She's low enough level that the experience from each successfull doff mission is pretty significant; she made the last couple levels of Lieutenant without much trouble at all, and is now two levels into Lieutenant Commander. Almost all SHE does is hang around the Captain's quarters clicking on doff assignments and taking a trip into Q's Winter Wonderland once a day to try for a Jem'Hadar fighter... which would at least make for a more interesting setting for doff clicking.
 
 Vulcans live for a long time. No need to rush around "leveling".
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-17-17-58-29-66-480x384.jpg" title="On the bridge of the Kan'Fi" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/GameClient-2011-12-17-17-58-29-66-480x384.jpg" title="On the bridge of the Kan'Fi" classes="center" >}}
 
 Star Trek Online has always been a fairly quick game; you could always log in, race around zapping stuff in a ground mission or battle stuff in space in a way that puts other space battle MMOs to shame with how good it is, then log out in half an hour. STO has added queuing for special task forces, hourly events that give extra rewards for completion (including special event-only task forces and fleet actions as well as other races and mini-games). Doffing gives you something you can do even if you only have five minutes. You can even spend a few energy credits to warp right to quest starters from anywhere in the universe, in case you don't have time to fly there.
 

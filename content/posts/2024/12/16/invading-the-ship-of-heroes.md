@@ -3,39 +3,17 @@ date: '2024-12-16T08:00:00-05:00'
 draft: false
 title: "Invading the Ship of Heroes"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/12/16/invading-the-ship-of-heroes/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The superheroes-in-space MMO will release in the second quarter of 2025. Today, they let us play one of the first raids..."
-description: "The superheroes-in-space MMO will release in the second quarter of 2025. Today, they let us play one of the first raids..."
-tags:
+categories:
   - "MMORPG"
   - "Ship of Heroes"
+tags:
   - "Raiding"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/invasiontestbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/12/invasiontestbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/invasiontestbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/invasiontestbanner.png"
 ---
+The superheroes-in-space MMO will release in the second quarter of 2025. Today, they let us play one of the first raids...
+<!--more-->
 
 Every raid MMO has its own vibe to the raids. EverQuest's was huge raids with so many people that specific classes had squadron leaders that would coordinate their own parts to the raids. Back in the day, there was no limit to the size of raids in EQ. As many people as could fit in the zone...
 

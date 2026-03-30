@@ -3,38 +3,13 @@ date: '2008-05-19T11:41:47-05:00'
 draft: false
 title: "Talk Radio -- MMO style"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/19/talk-radio-mmo-style/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Sitting here listening to call in shows on NPR (\"On Point\") and thinking about podcasting. For all that it's a 21st century, Internet-age technology, podcasting..."
+categories:
   - "Age of Conan"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Sitting here listening to call in shows on NPR ("On Point") and thinking about podcasting. For all that it's a 21st century, Internet-age technology, podcasting...
+<!--more-->
 
 Sitting here listening to call in shows on NPR ("On Point") and thinking about podcasting. For all that it's a 21st century, Internet-age technology, podcasting is amazingly non-interactive. You and some friends gather in some virtual meeting place, talk about some stuff, and then send it out into the world... but it's a panel discussion -- or just a lone person sending their thoughts into the void -- but there isn't the wide range of discussion. Especially when people know each other well, they may already be anticipating the sorts of things their friends will say -- and so the give and take is edited before it's even spoken.
 

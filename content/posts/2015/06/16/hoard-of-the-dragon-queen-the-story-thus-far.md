@@ -3,40 +3,17 @@ date: '2015-06-16T20:34:33-05:00'
 draft: false
 title: "Hoard of the Dragon Queen: The Story Thus Far..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/16/hoard-of-the-dragon-queen-the-story-thus-far/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We're adding two new members to our weekly D&D campaign, so our DM wrote this \"what has happened until now\" to catch them up. Since..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/inndrawing.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/inndrawing.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/inndrawing.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/inndrawing.jpg"
 ---
+We're adding two new members to our weekly D&D campaign, so our DM wrote this "what has happened until now" to catch them up. Since...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/inndrawing.jpg" title="Inn of the Trolls" class="align-center" >}}
+
 
 We're adding two new members to our weekly D&D campaign, so our DM wrote this "[what has happened until now](https://app.roll20.net/forum/post/2081743/the-story-up-to-now)" to catch them up. Since I've been pretty inconsistent with chronicling our adventures, I got permission to repost it here :)
 

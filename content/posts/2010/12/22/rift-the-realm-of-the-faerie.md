@@ -3,40 +3,19 @@ date: '2010-12-22T13:36:11-05:00'
 draft: false
 title: "Rift: The Realm of the Faerie"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/22/rift-the-realm-of-the-faerie/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-11-23-19-41-480x385.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-11-23-19-41-480x385.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-20-11-23-19-41-480x385.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-20-11-23-19-41-480x385.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-11-23-19-41-480x385.jpg "Character")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-11-23-19-41.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-20-11-23-19-41.jpg)
 
 The Rift beta NDA has just been lifted, and there's so much I want to write about. I want to tell why this makes me feel like I felt when playing EverQuest, even though it really is nothing like EQ. And in fact, EQ did certain things better. So maybe I'll work something about that into this article, more in others. For now, this is just going to be a stream of consciousness ramble through the second Beta event, the fantasy-based Guardians.
 
@@ -52,7 +31,7 @@ Okay, header picture is my Guardian Dwarf cleric, Peridot. She carries a comical
 
 If I did it again, I'd start out with Justicar, a straight-up battle cleric, mix in Druid for my second soul, and go for Sentinel once again at 18 to get ready for instance runs. That's if I was leveling via quests, which is more or less solo, at least before the mid teens. If I decided to level via Rifts, well, I'd want to get a group together and be a healer and go around the world seeking out and closing Major Rifts.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-18-21-51-08-64-480x384.jpg "A Life Rift")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-18-21-51-08-64.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-18-21-51-08-64-480x384.jpg" title="A Life Rift" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-18-21-51-08-64.jpg)
 
 There's a bunch of different kinds of planar incursions. The smallest is a Minor Rift -- these can be opened and cleared by a single person. Next comes a Minor Invasion. When a Minor Rift is allowed to proceed, it shoots out invasion forces -- traveling rifts -- which tend to beeline to quest hubs. The rift then spawns a foothold, a static spawn of mobs. Major rifts have the same behavior, but are filled with epic mobs that will waste any soloer to slow to move out of the way.
 
@@ -62,7 +41,7 @@ Rifts are in no way rare things; you'll see them ALL THE TIME. Even the most ded
 
 Trion is constantly tuning things so that Rifts don't open that are too powerful for the people in the zone.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-19-20-20-49-19-480x384.jpg "Interface")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-19-20-20-49-19.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-19-20-20-49-19-480x384.jpg" title="Interface" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-19-20-20-49-19.jpg)
 
 Next slide, please.
 
@@ -70,11 +49,11 @@ Oh yes. Does this look like any game you know? Yeah, it doesn't stray far from W
 
 The picture is from the Autumn section of the Realm of the Faerie, which I'll get to in a bit.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-19-19-00-21-35-480x384.jpg "Vision Quest")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-19-19-00-21-35.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-19-19-00-21-35-480x384.jpg" title="Vision Quest" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-19-19-00-21-35.jpg)
 
 Stepping back a bit, I snapped this picture -- it's an in-game cut scene (they call it a "vision"). This one explains some past happenings. I believe the betrayal or betraying of the King of the Aelfwards. Not bad enough we have to contend with Rifts, dragons and the other faction, but the NPCs have their own little wars. The Guardians have the Aelfs, the Defiants have the Iron Tomb dwarfs. Both connect up at their respective level 18 instances, the Realm of the Faerie and the Iron Tomb, respectively.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-19-20-37-04-24-480x384.jpg "rift 2010-12-19 20-37-04-24")](Winter)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-19-20-37-04-24-480x384.jpg" title="rift 2010-12-19 20-37-04-24" classes="center" >}}](Winter)
 
 The Guardian zone of Silverwood has two fairly separate story questlines -- the first is an invasion by the minions of a fire dragon, and the second is an ongoing war between the good elfs of the Guardians, and the evil Fae led by Lord Forgot His Name. Nasty dude, though.
 
@@ -82,19 +61,19 @@ Your private battles vs the Fae end at the lip of a deep, magical well. At the b
 
 (Unlike WoW, you can "drink" and "eat" during combat).
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-19-20-49-15-40-480x384.jpg "Dead boss")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-19-20-49-15-40.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-19-20-49-15-40-480x384.jpg" title="Dead boss" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-19-20-49-15-40.jpg)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-19-20-49-57-20-480x384.jpg "Hanging around")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-19-20-49-57-20.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-19-20-49-57-20-480x384.jpg" title="Hanging around" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-19-20-49-57-20.jpg)
 
 In the end, we killed the bosses but missed the big prize, as Lord H. came by and easily defeated us (per the script), while letting us live to carry news of his victory to our Sanctum Lords.
 
 I was the only cleric in the group, with my Sentinel/Druid spec, and I mostly kept everyone healed by mixing fast heals, slow but more efficient heals and group heals, same as any cleric in any game, really. I believe one of the mages had a Chloromancer soul active, but I'm not sure how much healing he contributed. Similarly, I just had my pet stick to the nuking because her heals weren't really doing that much. We wiped only once, in Summer -- the tank pulled two groups, my heals drew aggro, and that was that. We all had Soul Walk up, though -- once an hour, you can choose to respawn where you are, given a 15 second head start to find a safe place to rez.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-10-56-47-98-480x383.jpg "Three mounts")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-20-10-56-47-98.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-20-10-56-47-98-480x383.jpg" title="Three mounts" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-20-10-56-47-98.jpg)
 
 Picture of me, Longasc and Kentravyon on the mounts we bought at level 20. They look almost exactly like the WoW Horde druid travel form, but bigger. The Defiant ones are steampunk... oh, I wasn't going to start mixing in the Defiant stuff, but here's Longasc's character on his mecha-steed with my Bladedancer/Riftstalker rogue, Tipa, standing in front.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-05-12-41-18-99-480x384.jpg "Technosteed")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-05-12-41-18-99.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-05-12-41-18-99-480x384.jpg" title="Technosteed" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-05-12-41-18-99.jpg)
 
 So, summary:
 

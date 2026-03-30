@@ -3,40 +3,17 @@ date: '2012-10-26T10:20:39-05:00'
 draft: false
 title: "Pirate101: O Valencia!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/26/pirate101-o-valencia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I dunno if Pirate101 has any Decemberist nods in the world of Valencia, but they'd be missing a bet if they didn't. I haven't even..."
+categories:
   - "MMORPG"
   - "Pirate101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-25-00-08-24-64-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-25-00-08-24-64-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-25-00-08-24-64-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-25-00-08-24-64-480x269.jpg"
 ---
+I dunno if Pirate101 has any Decemberist nods in the world of Valencia, but they'd be missing a bet if they didn't. I haven't even...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-25-00-08-24-64-480x269.jpg" title="The clockwork city of Valencia" class="align-center" >}}
+
 
 I dunno if Pirate101 has any Decemberist nods in the world of Valencia, but they'd be missing a bet if they didn't. I haven't even seen any orange trees. But then I just got here.
 
@@ -46,7 +23,7 @@ I spent a lot of time finishing up in the Tierra Primata skyway before heading t
 
 Oh yeah, about companion training -- John Lifeglen over at [Through the Eyes of a Sorcerer](http://throughtheeyesofasorcerer.blogspot.com/) clued me in on a neat trick. If you outlevel a companion too much, then each training point will count for more and level faster. So the trick is to only use a training point on a companion when that one point will pop it to the next level. Using several training points to bring a companion to its next level is a total waste unless you have, like, just one companion.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-26-10-40-16-17-480x326.jpg" title="Handsome Dan" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-26-10-40-16-17-480x326.jpg" title="Handsome Dan" classes="center" >}}
 
 Finally did get a privateer (healer) companion from the Admiral's Pack, so that was a good thing. He was eligible for immediate promotion when I unpacked him, and that cost 1700 gold, same as the ninja pig, so I guess that's going to be standard for companions from codes, I guess. Subodai went through his first promotion, which required a lot of farming on the Tierra Primata Skyway, but it was all good because I was watching Hulu. I've seen his second promotion around; he gets a really nice red silk shirt.
 
@@ -68,7 +45,7 @@ In fact, you won't find a buccaneer in my favorite four, the crew most likely to
 
 Doesn't mean I don't value them -- I do, and they are often decisive forces on the battlefield, especially after a promotion. It's just I don't feel any particular need to choose one over the other.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-25-00-29-17-91-480x342.jpg" title="Dress like a clockwork" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-25-00-29-17-91-480x342.jpg" title="Dress like a clockwork" classes="center" >}}
 
 Ya know, I just noticed that, dressed like a clockwork, I look so much like my pirate flag that it's amazing. Maybe that's why the clockworks let me traipse around the edges of Valencia so freely with such a flimsy disguise. I don't even goose-step when I walk. What's up with that?
 

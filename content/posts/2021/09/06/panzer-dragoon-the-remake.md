@@ -3,47 +3,25 @@ date: '2021-09-06T10:22:53-05:00'
 draft: false
 title: "Panzer Dragoon: The Remake"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/09/06/panzer-dragoon-the-remake/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Needle drop some , and you could pretend this post-apocalyptic arcade shooter is the iconic Taarna segment from the Heavy Metal movie. It's all the..."
+categories:
   - "Arcade Game"
   - "PS4"
   - "PS5"
   - "Video Game"
   - "Video Game Series"
+tags:
   - "Limited Run"
   - "Panzer Dragoon"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/1-Panzer-Dragoon_-Remake_20210831205643.jpg"
 ---
+Needle drop some , and you could pretend this post-apocalyptic arcade shooter is the iconic Taarna segment from the Heavy Metal movie. It's all the...
+<!--more-->
 
 Needle drop some {{< youtube m2wN9myIOGw >}}, and you could pretend this post-apocalyptic arcade shooter is the iconic Taarna segment from the Heavy Metal movie. It's all the otherworldly rails shooter action you could want in a game.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/1-IMG_2311.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/1-IMG_2311.jpg)Panzer Dragoon Remake cases, PS4 and Sega Saturn
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/1-IMG_2311.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/1-IMG_2311.jpg)Panzer Dragoon Remake cases, PS4 and Sega Saturn
 
 A long, long time ago, there was a little game called Starfox, for the Super Nintendo. It was a rails-based shooter that took Star Fox, [Fox McCloud](https://en.wikipedia.org/wiki/Fox_McCloud) and his three friends, [Slippy Toad](https://en.wikipedia.org/wiki/Slippy_Toad), [Peppy Hare](https://en.wikipedia.org/wiki/Peppy_Hare), and [Falco Lombardi](https://en.wikipedia.org/wiki/Falco_Lombardi), on an adventure that stretched from the land into space.
 
@@ -59,7 +37,7 @@ Limited Run makes a great case for returning to the pre-digital release days, wh
 
 The Limited Run release of Forever's Panzer Dragoon remake comes with both a replica of the Sega Saturn game box, as well as the more traditional PS4 box that contains the disk. Both cases contain a pamphlet discussing the origins of the original game and the work done to remake it -- rebuilding it from scratch with all new assets. Neither of these pamphlets have any information about the actual game, which makes playing it more of a mystery than the developers perhaps intended.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/2-Panzer-Dragoon_-Remake_20210905200403.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/2-Panzer-Dragoon_-Remake_20210905200403.jpg)I don't know what this is (Kasul says it is a temple)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/2-Panzer-Dragoon_-Remake_20210905200403.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/2-Panzer-Dragoon_-Remake_20210905200403.jpg)I don't know what this is (Kasul says it is a temple)
 
 The game opens with your nameless protagonist chasing a sand crab into an ancient ruin, where its big momma appears. A dragon appears and fires on the ceiling, crushing the giant crab. Soon after, the dragon's rider catches up to you and, dying, passes on their mission -- to get the dragon safely to its destination -- and control of the dragon and the weapon with which to defend it.
 
@@ -69,7 +47,7 @@ You have limited mobility on the dragon. You can dodge many threats, but your pa
 
 Panzer Dragoon reminds me a lot of Shadow of the Colossus or Journey, in a sense -- a huge world with an unknown history that you discover as you play, not by narration, but from the environment itself.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/3-Panzer-Dragoon_-Remake_20210905200739.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/3-Panzer-Dragoon_-Remake_20210905200739.jpg)Scorecard for my first run through
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/3-Panzer-Dragoon_-Remake_20210905200739.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/3-Panzer-Dragoon_-Remake_20210905200739.jpg)Scorecard for my first run through
 
 The game is fairly short. On easy mode, it takes about an hour for a full run. There are challenges to shoot more accurately (and earn more credits), higher difficulty modes, hidden levels and other secrets to find. You'll get one secret for free upon finishing the game for the first time, but others will only be revealed upon mastering other challenges (like finishing the game on hard mode).
 

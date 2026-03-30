@@ -3,24 +3,8 @@ date: '2025-01-04T16:46:09-05:00'
 draft: false
 title: "Best of 2024: My Favorite MMOs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/04/best-of-2024-my-favorite-mmos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I played a few MMOs this past year. Here's some of my favorites, including two from way back when."
-description: "I played a few MMOs this past year. Here's some of my favorites, including two from way back when."
-tags:
+categories:
   - "Adrullan Online Adventures"
   - "Guild Wars"
   - "Kesmai"
@@ -28,19 +12,13 @@ tags:
   - "Mythos"
   - "Pantheon: Rise of the Fallen"
   - "Ship of Heroes"
+tags:
   - "Nexus the Kingdom of the Winds"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/mmosbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/mmosbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/mmosbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/mmosbanner.png"
 ---
+I played a few MMOs this past year. Here's some of my favorites, including two from way back when.
+<!--more-->
 
 I don't really want to say "best of", because I don't think I played any MMOs that actually came out in 2024. I played several that aren't officially out yet.
 
@@ -48,7 +26,7 @@ As time has passed, I find I want to spend less and less time playing MMOs. They
 
 That said... I played some MMOs in 2024.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-9.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-9.png" classes="center" >}}
 
 **Honorable Mention: Nexus, the Kingdom of the Winds (1996)**
 
@@ -58,7 +36,7 @@ Character classes were the few that have become standard over the years -- warri
 
 The game is still live after all this time. I have no idea if my original characters are still around somewhere. I'd guess not. I dropped this game so hard when EQ went live, but I still remember the fun I had.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-10.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-10.png" classes="center" >}}
 
 **Honorable Mention: Legends of Kesmai (1985)**
 
@@ -68,7 +46,7 @@ For all that, it had everything you'd expect to find in an MMO. Many players, a 
 
 I was hoping to find the original text-based game around somewhere, but no luck. I did find Legends of Kesmai, a graphical version of the game by the original developers after they left CompuServe. That MMO also died a long time ago. But! It's been resurrected by fans and can be played today. I can't say I really enjoyed the MMO, as it exists today, that much.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-11.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-11.png" classes="center" >}}
 
 **Honorable Mention: Mythos (2011)**
 
@@ -78,7 +56,7 @@ Turbulent times killed most MMOs, including Mythos. It was resurrected as a sing
 
 Shorn of its multiplayer systems, the game as it stands now is a fairly standard hack and slasher, reminding me quite a lot of another dearly departed MMO from yesteryear, Dungeon Runners. I wouldn't really recommend it. Mythos could have been great, in its original form. I was sorry to see it die.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-12-1024x576.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-12-1024x576.png" classes="center" >}}
 
 **Pantheon: Rise of the Fallen (Early Access 2024)**
 
@@ -90,7 +68,7 @@ I wasn't underwhelmed. I wasn't overwhelmed. I was just... whelmed. They did wha
 
 I liked the graphics. I liked the teleporters that let you cross the map more quickly. The town looked nice. The huge castle area was closed off when I played, but looked cool from the outside. I just felt the game should have tried harder to set itself apart from EverQuest.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-13.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-13.png" classes="center" >}}
 
 **Ship of Heroes (Unreleased)**
 
@@ -100,7 +78,7 @@ Where Pantheon has decent graphics but unexciting gameplay, Ship of Heroes has u
 
 I last played in a special raid test with the devs participating. I came away believing they are passionate about making a superhero game where everyone is welcome to play what they like. I thought their raid was a little frenetic and hard to follow, but maybe that's just the way things have to be when you have so much variety in the players.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-14-1024x538.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-14-1024x538.png" classes="fig-20" >}}
 
 **Guild Wars 2 (2012)**
 
@@ -118,7 +96,7 @@ And this is why I don't play.
 
 Also, those Janthir Wilds bears talk way. Too. SLOOOOWWWWWLLLYYYYYY.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-15-1024x557.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-15-1024x557.png" classes="center" >}}
 
 **Monsters & Memories (Pre-Alpha)**
 
@@ -134,7 +112,7 @@ All new players are dumped in the hub city of Night Harbor; evils on one side, g
 
 One of last year's open plays required visiting a dozen or so different zones. They were pretty empty and huge, but each one had something in it that just begged adventurers to discover its secrets. I'm pretty excited by it, but I know I'd have to find some friends to come with me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-16-1024x508.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-16-1024x508.png" classes="center" >}}
 
 **EverCraft Online (Pre-Alpha)**
 

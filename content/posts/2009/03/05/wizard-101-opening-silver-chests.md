@@ -3,50 +3,28 @@ date: '2009-03-05T06:46:30-05:00'
 draft: false
 title: "Wizard 101: Opening Silver Chests"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/05/wizard-101-opening-silver-chests/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Has it ever happened to you? You're skipping merrily along some barren Dragonspyre (or Marleybone) street, and you see a sparkling silver chest sitting there..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Dragonspyre"
   - "Drake Hatchery"
   - "Malistaire"
   - "Silver Chest"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg"
 ---
+Has it ever happened to you? You're skipping merrily along some barren Dragonspyre (or Marleybone) street, and you see a sparkling silver chest sitting there...
+<!--more-->
 
-![wizardgraphicalclient-2009-03-04-19-57-11-59](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-11-59.jpg "wizardgraphicalclient-2009-03-04-19-57-11-59")
+
 
 Has it ever happened to you? You're skipping merrily along some barren Dragonspyre (or Marleybone) street, and you see a sparkling silver chest sitting there in the road or behind a tower. You open it and are transported to a new mini-game that is over before you've figured out what to do?
 
 What the heck do you do with them?
 
-![wizardgraphicalclient-2009-03-04-19-57-50-08](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-50-08.jpg "wizardgraphicalclient-2009-03-04-19-57-50-08")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-04-19-57-50-08.jpg" title="wizardgraphicalclient-2009-03-04-19-57-50-08" classes="center" >}}
 
 In many ways, this puzzle is like the train mini-game that everyone knows and loves as the easiest way to refill potion bottles, except here, instead of just rotating the tiles, you are sliding them around.
 
@@ -58,7 +36,7 @@ If you need more time, try to make a loop for the spark to stay in while you mak
 
 What's inside? Find a silver chest, practice your shocking skills and find out!
 
-![wizardgraphicalclient-2009-03-04-20-21-30-49](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-04-20-21-30-49.jpg "wizardgraphicalclient-2009-03-04-20-21-30-49")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-04-20-21-30-49.jpg" title="wizardgraphicalclient-2009-03-04-20-21-30-49" classes="center" >}}
 
 I have finally managed to kill enough spiders to have the crystal for my dragonrider staff forged, and I fashioned the staff itself at the forge in the Fire school in Dragonspyre Academy. After a perilous and solo climb through a tower to obtain the Last Dragon Egg, I am now off to find a crystal hammer with which to tap the egg just lightly enough so that my baby drake can claw its way out.
 

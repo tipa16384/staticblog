@@ -3,24 +3,8 @@ date: '2009-05-15T07:47:07-05:00'
 draft: false
 title: "Daily Blogroll 5/15 -- Endelig Fredag edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/15/daily-blogroll-515-endelig-fredag-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Age of Conan"
   - "Daily Blogroll"
   - "EverQuest"
@@ -32,20 +16,15 @@ tags:
   - "Tabula Rasa"
   - "Vanguard"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/clangreenscaledragon.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/clangreenscaledragon.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/clangreenscaledragon.jpg"
 ---
+[...
+<!--more-->
 
-[![Clan of the Dire Bear needs you! http://a-dire-bear.mybrute.com](https://chasingdings.com/wp-content/uploads/2009/05/clangreenscaledragon.jpg "Clan of the Dire Bear needs you! http://a-dire-bear.mybrute.com")](http://a-dire-bear.mybrute.com)
+[
+
+](http://a-dire-bear.mybrute.com)
 
 I was thinking this morning about Norman Spinrad's "Bug Jack Barron", where a treatment can make you immortal, but a child has to die (this btw is a massive spoiler if you have not read the book). In MMOs, we *are* immortal, but at some point we've done everything or it just gets boring and we move on to the next game. If we had immortality in our real lives, how long would we live before we were just desperate to have it end so we could move on?
 

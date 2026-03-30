@@ -3,45 +3,23 @@ date: '2008-09-11T08:32:16-05:00'
 draft: false
 title: "EQ: Plane of Storms"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/11/eq-plane-of-storms/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Oy vey, this post is late! From our weekly group almost a week ago. It's just been a bad week, what with another trip to..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Berserker Epic"
   - "Dagnor's Cauldron"
   - "Plane of Storms"
   - "Warsliks Woods"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg"
 ---
+Oy vey, this post is late! From our weekly group almost a week ago. It's just been a bad week, what with another trip to...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-05-20-38-19-75.jpg "eqgame-2008-09-05-20-38-19-75")
+
 
 Oy vey, this post is late! From our weekly group almost a week ago. It's just been a bad week, what with another trip to Rhode Island last week which took way more time than I'd expected, a full weekend and then... Spore...
 
@@ -61,10 +39,10 @@ Davic had found a nice, safe pull spot, and that's what we did for the next thre
 
 The burning question is really where we go from here. One group, no matter how uber, isn't going to be able to do much more than hit xp zones. So, here's hoping tomorrow brings more people, so we can either get them up to 60 as well, or if they already are, find something fun to do. I'll have to get on early and do some mob tracking.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-06-00-19-36-30.jpg "eqgame-2008-09-06-00-19-36-30")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-06-00-19-36-30.jpg" title="eqgame-2008-09-06-00-19-36-30" classes="center" >}}
 
 After the group broke up, we all went to Warslick Woods to help Rogbog finish his epic, but our dps just wasn't high enough and the fight reset for four hours before we finished the very first fight. I was playing my cleric, which turned out to be a mistake, because her uber 660 point damage shield is resisted by the mobs and in fact all magics are more or less useless against them. Only melee really counts, something we'll remember for next time.
 
 Where we'll go tomorrow depends on who shows up. If we get two groups, I am positive we can find something interesting to kill!
 
-![](http://chasingdings.com/sig/out.png)
+{{< image src="http://chasingdings.com/sig/out.png" classes="center" >}}

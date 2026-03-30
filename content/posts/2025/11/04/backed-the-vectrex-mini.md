@@ -3,39 +3,17 @@ date: '2025-11-04T08:00:00-05:00'
 draft: false
 title: "Backed the Vectrex Mini"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/11/04/backed-the-vectrex-mini/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Here's what I know about it. Which is a bit."
-description: "Here's what I know about it. Which is a bit."
-tags:
+categories:
   - "Kickstarter"
   - "Vectrex"
+tags:
   - "Vectrex Mini"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/vectrexdemo-scaled.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/11/vectrexdemo-scaled.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/vectrexdemo-scaled.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/vectrexdemo-scaled.webp"
 ---
+Here's what I know about it. Which is a bit.
+<!--more-->
 
 Yay! I backed it! You can, too! I'll tell you about it in a second, but first, I want you to take a good look at the header image.
 
@@ -73,7 +51,7 @@ The console comes in your basic black or brilliant white. The white edition is l
 
 Black or white? Definitely, the regular black version is more *authentic*, and the decision would be a no-brainer, except...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/image-1024x576.png" title="Geek clock" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/image-1024x576.png" title="Geek clock" classes="center" >}}
 
 **What happens when you're not playing it?**
 
@@ -91,4 +69,4 @@ It'd better. I paid for it. It uses off-the-shelf components with open source so
 
 By that time, I should have played all the Nintendo 64 games I have saved up to play when my Analogue 3D gets here.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/image-1.png" title="I wonder when that will be..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/image-1.png" title="I wonder when that will be..." classes="center" >}}

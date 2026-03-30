@@ -3,49 +3,27 @@ date: '2023-12-09T10:39:23-05:00'
 draft: false
 title: "Advent of Code Days 8 and 9 -- Ghost Story"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/09/advent-of-code-days-8-and-9-ghost-story/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It took me so long to figure out the Day 8 puzzle that I didn't write it up before bed, so twofer today to catch up."
-description: "It took me so long to figure out the Day 8 puzzle that I didn't write it up before bed, so twofer today to catch up."
-tags:
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Camel"
   - "Desert Walk"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_Ghosts_relaxing_next_to_a_watery_spring_in_a_desert_oas_8d6068ef-f97c-49b5-9979-e42e67546244.png"
 ---
+It took me so long to figure out the Day 8 puzzle that I didn't write it up before bed, so twofer today to catch up.
+<!--more-->
 
 Every year there is at least one problem where I know what the answer is, but I don't know *why* the answer is. Part of that, on day 8, was my own fault. I was just futzing with things for hours before I decided to submit the puzzle solution. Only when I started looking at *other* solution on the subreddit did I figure out that I was at least partially right all along and I should have gone with my instincts.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/af1af6d5-3feb-4814-98b9-6d17e62c064a-1024x585.webp" title="Day 8: Haunted Wasteland" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/af1af6d5-3feb-4814-98b9-6d17e62c064a-1024x585.webp" title="Day 8: Haunted Wasteland" classes="center" >}}
 
 Midjourney for the header image, Dall-E for the repair guy on a camel in a sandstorm. I've decided, for these AI renderings, to personify the person who is supposed to be solving all these puzzles as a repairman with a safety vest and helmet. Dall-E can do a repair woman without making it all sexy, but I dunno. I've just seen the elf helper as a guy in my head. I like looking at pictures of men. Sue me for liking guys.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-5.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-5.png" classes="fig-20" >}}
 
 Anyway. The haunted wasteland is what the desert turns out to be as a sandstorm swirls up and your elf guide vanishes. To be fair, she was just recently talking about ghosts. [Not really surprising that she'd be one](https://adventofcode.com/2023/day/8).
 
@@ -74,11 +52,11 @@ def part2():
 
 I early figured out that each starting point reached its own unique end point without crossing any of the others, which made things easier. I also quickly figured out that the cycle repeated at the very first location after the starting one, but *I did not trust that answer*. It seemed like a mistake. It wasn't -- it was the only thing, actually, that made the puzzle possible to solve. Well, I'd read that the answer was the lowest common multiple of all the cycle lengths, so I submitted that and it worked, but I had to keep looking at the code and the problem and trace a few things by hand before I realized *why* that was the solution.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/affa24b2-9776-40ee-a70b-b5d60e023b8f-1024x585.webp" title="Day 9: Mirage Maintenance" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/affa24b2-9776-40ee-a70b-b5d60e023b8f-1024x585.webp" title="Day 9: Mirage Maintenance" classes="center" >}}
 
 I guess I should start specifying the colors of the safety vest and hard hat.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-6.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-6.png" classes="fig-20" >}}
 
 So, on to Day 9: Mirage Maintenance. When the sandstorm clears, you find yourself at an oasis! Yay! You see a hang glider nearby and look forward to seeing if you can use it somehow to get to the next floating island, Metal Island. But that's for later. For now, you want to [take some readings at the oasis](https://adventofcode.com/2023/day/9) and see if everything looks good.
 

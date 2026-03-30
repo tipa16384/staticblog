@@ -3,37 +3,14 @@ date: '2022-03-02T07:54:11-05:00'
 draft: false
 title: "7DRL: Building an Engine -- and it ends."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/02/7drl-building-an-engine-and-it-ends/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Working through my checklist of \"must have\" features for the game...."
+categories:
   - "7DRL"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/deathscreenshot.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/deathscreenshot.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/deathscreenshot.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/deathscreenshot.png"
 ---
+Working through my checklist of "must have" features for the game....
+<!--more-->
 
 Working through my checklist of "must have" features for the game.
 
@@ -49,7 +26,7 @@ This is how those old, great LucasArts adventures worked. Maniac Mansion, Monkey
 
 From the start, though, I knew I wanted to write my own game engine, but I think it's important to look back on what others have done.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/deadmog.png)](https://chasingdings.com/wp-content/uploads/2022/03/deadmog.png)Dead Mog :-(
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/deadmog.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/deadmog.png)Dead Mog :-(
 
 With the intro written, and a way to kill the player written, I just needed a couple more things to get death finished.
 

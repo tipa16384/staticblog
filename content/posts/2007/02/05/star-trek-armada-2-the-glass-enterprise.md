@@ -3,40 +3,17 @@ date: '2007-02-05T13:06:49-05:00'
 draft: false
 title: "Star Trek Armada 2: The Glass Enterprise"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/05/star-trek-armada-2-the-glass-enterprise/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Getting the right background to play a Fantasy MMO is pretty easy. Read Lord of the Rings? Seen the movie? Okay, you're in. Rangers, pick..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/sta2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/02/sta2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/sta2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/sta2.jpg"
 ---
+Getting the right background to play a Fantasy MMO is pretty easy. Read Lord of the Rings? Seen the movie? Okay, you're in. Rangers, pick...
+<!--more-->
 
-![sta2.jpg](https://chasingdings.com/wp-content/uploads/2007/02/sta2.jpg)
+
 
 Getting the right background to play a Fantasy MMO is pretty easy. Read Lord of the Rings? Seen the movie? Okay, you're in. Rangers, pick up your bows on the left.
 

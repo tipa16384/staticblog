@@ -3,43 +3,21 @@ date: '2009-04-01T23:57:42-05:00'
 draft: false
 title: "EverQuest 2: The Sootfoot Experience."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/01/everquest-2-the-sootfoot-experience/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dina shows off the new Weapon Appearance slots and some Sootfoot Magma armor...."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Gu51"
   - "Lavastorm"
   - "Sootfoot"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg"
 ---
+Dina shows off the new Weapon Appearance slots and some Sootfoot Magma armor....
+<!--more-->
 
-![everquest2-2009-04-01-23-19-49-21](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-23-19-49-21.jpg "everquest2-2009-04-01-23-19-49-21")
+
 
 *Dina shows off the new Weapon Appearance slots and some Sootfoot Magma armor.*
 
@@ -49,11 +27,11 @@ So it's a bit of a commitment out the gate, but hey, cool looking armor is worth
 
 This armor set is unique in that it comes with three sorts of shoulder armor and two kinds of pants, so it gives you some options. Here to show you some of them is today's model, straight from Big Bend, goes by the single name instantly recognized by any true citizen of Freeport, Rokseksi.
 
-![everquest2-2009-04-01-22-56-24-85](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-22-56-24-85.jpg "everquest2-2009-04-01-22-56-24-85")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-01-22-56-24-85.jpg" title="everquest2-2009-04-01-22-56-24-85" classes="center" >}}
 
-![everquest2-2009-04-01-22-56-34-24](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-22-56-34-24.jpg "everquest2-2009-04-01-22-56-34-24")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-01-22-56-34-24.jpg" title="everquest2-2009-04-01-22-56-34-24" classes="center" >}}
 
-![everquest2-2009-04-01-22-56-51-57](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-22-56-51-57.jpg "everquest2-2009-04-01-22-56-51-57")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-01-22-56-51-57.jpg" title="everquest2-2009-04-01-22-56-51-57" classes="center" >}}
 
 Rokseksi says about these outfits, "Dese be good armors. Dey burn. Dey burn so much. So you have tree smooshers, dey go woosh burn rite up, just like your hair go woosh it burn too. Pain good, though. Can cook gnome on hand, press down on him wit other hand so browned on da outside but still tender on da inside."
 

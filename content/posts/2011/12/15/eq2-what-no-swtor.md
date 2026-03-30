@@ -3,41 +3,18 @@ date: '2011-12-15T00:43:27-05:00'
 draft: false
 title: "EQ2: What, no SWTOR?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/12/15/eq2-what-no-swtor/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I do WANT to play Bioware's Star Wars: The Old Republic. I WILL play it. Just... not right now. I'm not in a good place..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Skyrim"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/EverQuest2-2011-12-15-00-14-36-09-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/12/EverQuest2-2011-12-15-00-14-36-09-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-00-14-36-09-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-00-14-36-09-480x384.jpg"
 ---
+I do WANT to play Bioware's Star Wars: The Old Republic. I WILL play it. Just... not right now. I'm not in a good place...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/EverQuest2-2011-12-15-00-14-36-09-480x384.jpg" title="Rapture Raptor!" class="align-center" >}}
+
 
 I do WANT to play Bioware's Star Wars: The Old Republic. I WILL play it. Just... not right now. I'm not in a good place with MMOs at the moment. See, I've just spent a month playing Skyrim, and it's left quite an impression. I just don't know if I can play a tightly scripted MMO when I've just spent 130 hours exploring a world.
 
@@ -49,7 +26,7 @@ BUT... EQ2 F2P is not EQ2. It's some different beast. I was grandfathered in to 
 
 I couldn't get into my account details (for some reason) to check out my subscription plans. SOE customer service just tonight cleared that up. I got in game and blew the rest of my Station Cash on a one month gold subscription. 31 days to see what's happened to EQ2 since the last time I played. A long, long time ago.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/EverQuest2-2011-12-14-23-48-55-54-480x385.jpg" title="Why do I need to carry messages back and forth?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-14-23-48-55-54-480x385.jpg" title="Why do I need to carry messages back and forth?" classes="center" >}}
 
 All that time ago, I'd been working on the quest for the one "flying" mount available to a level 58 berserker, the leaper. This quest starts at a fossil dig in Butcherblock Mountains, and involves bringing a fossilized egg to life. There's so much back and forth couriering between two close NPCs that finally one of them lampshades the absurdity by wondering loudly why the OTHER NPC doesn't just COME OVER and talk to him!
 

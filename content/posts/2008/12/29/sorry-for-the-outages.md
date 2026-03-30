@@ -3,37 +3,12 @@ date: '2008-12-29T20:12:14-05:00'
 draft: false
 title: "Sorry for the outages..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/29/sorry-for-the-outages/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Seems I exhausted my 25 GB bandwidth allotment for the month. I bought some more, but I am going to move this blog over to..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Seems I exhausted my 25 GB bandwidth allotment for the month. I bought some more, but I am going to move this blog over to...
+<!--more-->
 
 Seems I exhausted my 25 GB bandwidth allotment for the month. I bought some more, but I am going to move this blog over to another host. This time for real!
 

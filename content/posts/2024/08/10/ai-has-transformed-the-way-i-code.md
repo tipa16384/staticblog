@@ -3,42 +3,20 @@ date: '2024-08-10T08:00:00-05:00'
 draft: false
 title: "AI has transformed the way I code"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/10/ai-has-transformed-the-way-i-code/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it's here to stay."
-description: "Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it's here to stay."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Generative AI"
+tags:
   - "Copilot"
   - "Github"
   - "Waffle"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/copilot.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/copilot.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/copilot.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/copilot.png"
 ---
+Github Copilot and other LLM-powered coding tools have become indispensable to many in the software development industry. AI is not a fad; it's here to stay.
+<!--more-->
 
 Large Language Models (LLMs) can generate art, but I am not an artist, it isn't coming for me. They can write, but I am not a writer, I'm not affected. They can code... and there's where I come in.
 
@@ -48,7 +26,7 @@ Last year, I was in a pilot program to bring this technology into my actual plac
 
 I'm more convinced than ever that this technology will not take any programmer jobs; not one. And I hate to generalize, but I can't think it's going to take all that many writing or art jobs, either. I could be wrong! But my own personal experience is that the coding portion of my job goes faster, and the code is of higher quality, and I have more time to do the creative parts of the job. Working on the design, collaborating with other teams, architecting the really complex bits. The boring parts of the job are getting automated.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-22.png" title="Capture of my Waffle solver" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-22.png" title="Capture of my Waffle solver" classes="center" >}}
 
 There's a word game, [Waffle](https://wafflegame.net/daily), which gives you a grid of letters that you have to swap until you find a solution within at least ten but no more than fifteen swaps.
 

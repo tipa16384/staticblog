@@ -3,39 +3,16 @@ date: '2012-06-25T21:15:26-05:00'
 draft: false
 title: "So, games... that's a thing, right?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/06/25/so-games-thats-a-thing-right/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's kinda sad when a blogger fades away. Sadder when it's me. I'm still blogging, though, more than ever -- just not about games. I..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/06/team-480x389.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/06/team-480x389.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/06/team-480x389.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/06/team-480x389.jpg"
 ---
+It's kinda sad when a blogger fades away. Sadder when it's me. I'm still blogging, though, more than ever -- just not about games. I...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/06/team-480x389.jpg" title="Marvel: Avenger's Alliance" class="align-center" >}}
+
 
 It's kinda sad when a blogger fades away. Sadder when it's me. I'm still blogging, though, more than ever -- just not about games. I got fascinated with going around New England with my car and/or my bike, taking pictures of bridges, and having a reason to _explore_. That's my "Bartle" type -- Explorer, Socializer, Achiever, Killer. Except in real life I am not very social, care almost nothing for achievements, and would never kill anyone, so it's an "E". The bridge blog is called [Life, On a Bridged](http://lifeonabridged.blogspot.com/), and I doubt many gamers would find it all that interesting.
 

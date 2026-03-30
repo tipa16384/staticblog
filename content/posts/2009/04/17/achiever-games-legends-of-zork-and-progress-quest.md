@@ -3,52 +3,30 @@ date: '2009-04-17T07:33:50-05:00'
 draft: false
 title: "Achiever games: Legends of Zork and Progress Quest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/17/achiever-games-legends-of-zork-and-progress-quest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "On February 17th, 1980, around 10PM, I was so frustrated with some puzzles in Dungeon (which would later become Infocom's flagship game, Zork), that I..."
+categories:
   - "Legends of Zork"
   - "MMORPG"
   - "Vanguard"
   - "World of Warcraft"
+tags:
   - "Achiever"
   - "Bartle Test"
   - "ProgressQuest"
   - "Zork"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/stp62024.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/stp62024.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/stp62024.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/stp62024.jpg"
 ---
+On February 17th, 1980, around 10PM, I was so frustrated with some puzzles in Dungeon (which would later become Infocom's flagship game, Zork), that I...
+<!--more-->
 
-![stp62024](https://chasingdings.com/wp-content/uploads/2009/04/stp62024.jpg "stp62024")
+
 
 On February 17th, 1980, around 10PM, I was so frustrated with some puzzles in Dungeon (which would later become Infocom's flagship game, Zork), that I found out where on the University of New Hampshire's engineering school's VAX-11/780 the game was installed, and printed out all the text in the game, hoping that would give me some CLUE to the devilish puzzles. I still have that printout, covered with my scrawled notations and maps. Why I've kept that printout over twenty-nine years -- longer than many of my friends have been alive -- I don't really know, but there it is. I look at those words and remember nights spent in the lab learning about programming sound, graphics, user interfaces and compilers, but late at night after all the homework was done, trying to solve yet another puzzle in Dungeon.
 
 So Activision/Jolt's "Legends of Zork" browser game stands in the shadow of a mountain of history with me.
 
-![fullscreen-capture-4172009-72908-am](https://chasingdings.com/wp-content/uploads/2009/04/fullscreen-capture-4172009-72908-am.jpg "fullscreen-capture-4172009-72908-am")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/fullscreen-capture-4172009-72908-am.jpg" title="fullscreen-capture-4172009-72908-am" classes="center" >}}
 
 Zork comes from an earlier time. The popular computers of the day -- the Apple II, the Radio Shack TRS-80 and the Commodore PET -- barely had graphics at all, and there was no way a poorly drawn picture could come close to the richness (or humor) of a well-written paragraph. Zork's wit and fiendish difficulty were legendary.
 
@@ -56,7 +34,7 @@ None of that is present in [Legends of Zork](http://legendsofzork.com). In LoZ, 
 
 Legends of Zork is just the latest example of what I call an "Achiever" game. The famous [Bartle Test](http://en.wikipedia.org/wiki/Bartle_Test) identifies four broad categories of gamers -- Explorers, Socializers, Achievers and Killers. Achievers care most about having the best score -- the best dps, the best gear, the most achievements (natch), the most pets, whatever. They're the type who put on their flashiest gear and go AFK in public places.
 
-![pq](https://chasingdings.com/wp-content/uploads/2009/04/pq.gif "pq")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/pq.gif" title="pq" classes="center" >}}
 
 Like that +10 Holy Studded Tower Shield? Yeah, I got that off a Battle-Leucrotta. FOUR of them. AT ONCE. Killed them all by myself. I already had a better shield, you know, a +50 Glowing Reflective Buckler of Boo-Yah, yeah, I got that. Someday you maybe can ... lol nah, not you. Noob. Check out my +13 Heavy Stabbity Spontoon!
 

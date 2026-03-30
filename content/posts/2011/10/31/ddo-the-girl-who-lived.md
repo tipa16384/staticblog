@@ -3,41 +3,19 @@ date: '2011-10-31T19:35:05-05:00'
 draft: false
 title: "DDO: The girl who lived"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/10/31/ddo-the-girl-who-lived/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We don't have to play on off days in our DDO static group, but most of us do. Since you have complete control over your..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-30-20-06-40-57-480x320.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-30-20-06-40-57-480x320.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-30-20-06-40-57-480x320.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-30-20-06-40-57-480x320.jpg"
 ---
+We don't have to play on off days in our DDO static group, but most of us do. Since you have complete control over your...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-30-20-06-40-57-480x320.jpg" title="My bot army" class="align-center" >}}
+
 
 We don't have to play on off days in our DDO static group, but most of us do. Since you have complete control over your leveling, you don't have to really worry about outleveling everyone... though DDO goes by the D&D rules here, and you can only gain one level at a time. High achievers like Our Gleek become perpetually stuck at the top end of our range, earning no xp until the rest of us laggards catch up.
 
@@ -57,7 +35,7 @@ Well, went to open the map and kill named and stuff. I did go back to town -- a 
 
 So that was a good feeling. It takes a full group to keep me alive.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-30-23-04-28-57-480x320.jpg" title="Mirror, Mirror" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-30-23-04-28-57-480x320.jpg" title="Mirror, Mirror" classes="center" >}}
 
 I got two giant relics, a dragon and an elven. I was able to turn in some giant relics for another dragon relic, and Gleek, Spode and Ulan donated their extras so I could get Gianthold Tor access. Very cool of them :)
 
@@ -67,7 +45,7 @@ Which is just... okay. I'm this rich dwarf banker, and my foolproof security sys
 
 Not particularly smart, these dwarfs.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-30-23-22-59-86-480x320.jpg" title="Gianthold Tor" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-30-23-22-59-86-480x320.jpg" title="Gianthold Tor" classes="center" >}}
 
 That took next to no time at all. Why not try the big bad final instance, Gianthold Tor? Does anyone know anything at all about it? No? Let's find out.
 

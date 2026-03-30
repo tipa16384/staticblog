@@ -3,42 +3,21 @@ date: '2022-09-20T21:59:39-05:00'
 draft: false
 title: "Review: Braking Day by Adam Oyebanji"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/20/review-braking-day-by-adam-oyebanji/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Oyebanji's Braking Day is a refreshing take on the generation starship story that avoids many of the tropes of the genre. The novel follows trainee engineer Ravi MacLeod as he discovers that the truth about the 132 year journey to Tau Ceti is not what he has been told. Although the book has a few flaws, Oyebanji's writing is enjoyable and makes for a quick read."
-description: "Oyebanji's Braking Day is a refreshing take on the generation starship story that avoids many of the tropes of the genre. The novel follows trainee engineer Ravi MacLeod as he discovers that the truth about the 132 year journey to Tau Ceti is not what he has been told. Although the book has a few flaws, Oyebanji's writing is enjoyable and makes for a quick read."
-tags:
+categories:
   - "Review"
   - "Sci Fi"
+tags:
   - "Adam Oyebanji"
   - "AI"
   - "Book"
+  - "Review"
   - "Tau Ceti"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/brakingday.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/brakingday.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/brakingday.png"
 ---
+Oyebanji's Braking Day is a refreshing take on the generation starship story that avoids many of the tropes of the genre. The novel follows trainee engineer Ravi MacLeod as he discovers that the truth about the 132 year journey to Tau Ceti is not what he has been told. Although the book has a few flaws, Oyebanji's writing is enjoyable and makes for a quick read.
+<!--more-->
 
 In his debut novel about a fleet of generation starships arriving at Tau Ceti after a 132 year journey, Adam Oyebanji deftly manages to avoid a lot of the tropes of the whole generation starship stories. The crew know that they are on the ship, they aren't worshiping their ancestors, they know they came from Earth, they have been maintaining the ships the whole time, they haven't devolved into a dark age society -- any of that. Earth wasn't destroyed by aliens or an apocalypse or any of that; Earth is probably doing just fine. The AIs that control Earth had built some starships, decided the danger wasn't worth the risk, a group who wasn't crazy about living in an AI-controlled society bought the ships and took off and Earth was glad to see them go.
 
@@ -50,7 +29,7 @@ In "[Braking Day](https://www.goodreads.com/book/show/58537666-braking-day)", th
 
 This life is shattered when, while on a job to a distant part of his ship, the ISV-1 *Archimedes*, away from the hustle and bustle of the pervasive dataweb these future humans call the "hive", Ravi looks out a window and sees a woman floating there, smiling and waving at him -- and she isn't wearing a spacesuit.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-20-21.56.58-Nine-dragons-flying-in-space.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-20-21.56.58-Nine-dragons-flying-in-space.png" classes="fig-20" >}}
 
 Visions of this mysterious woman increase and seems to be urging him to do something -- to help her. Ravi soon discovers that almost everything he has been told about the voyage isn't... exactly what he's been told.
 

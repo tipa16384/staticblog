@@ -3,40 +3,17 @@ date: '2008-03-10T11:45:14-05:00'
 draft: false
 title: "A very, very long look at Vanguard"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/10/a-very-very-long-look-at-vanguard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Stargrace had figured out how to talk between Vanguard and EQ2, so we were chatting. I was flitting between various characters looking for a group..."
+categories:
   - "MMORPG"
   - "Vanguard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-08-19-45-00-18.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-08-19-45-00-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/vgclient-2008-03-08-19-45-00-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/vgclient-2008-03-08-19-45-00-18.jpg"
 ---
+Stargrace had figured out how to talk between Vanguard and EQ2, so we were chatting. I was flitting between various characters looking for a group...
+<!--more-->
 
-![vgclient-2008-03-08-19-45-00-18.jpg](https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-08-19-45-00-18.jpg)
+
 
 Stargrace had figured out how to talk between Vanguard and EQ2, so we were chatting. I was flitting between various characters looking for a group and a little bored. I'd two boxed the last of my armor quests for my (level 31) brigand earlier, and having made a bunch of mastercraft poisons with my alchemist and gotten her Adept 3 combat arts made with my jeweler, so I was ready to go kill and slay but... no groups!
 
@@ -66,7 +43,7 @@ That would be a recurring theme for me, unfortunately.
 
 LOTS more after the jump.
 
-![vgclient-2008-03-09-12-07-27-65.jpg](https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-09-12-07-27-65.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/vgclient-2008-03-09-12-07-27-65.jpg" classes="center" >}}
 
 Bugs. I hate bugs.
 
@@ -80,13 +57,13 @@ Grumbling, I went to the vendors and bought all new gear and weapons, then heade
 
 Oh. I guess I would have liked the game telling me handy things like that.
 
-![vgclient-2008-03-08-21-05-28-28.jpg](https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-08-21-05-28-28.jpg) ![vgclient-2008-03-09-10-43-45-76.jpg](https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-09-10-43-45-76.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/vgclient-2008-03-08-21-05-28-28.jpg" classes="center" >}} {{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/vgclient-2008-03-09-10-43-45-76.jpg" classes="center" >}}
 
 Satia also sent me some nice crafted gear and some bags, and this crafted gear had the wonderful property of being soulbound once equipped, so never again would I lose all my stuff :) As I adventured on, I would always choose to use less-powerful quest rewards, but soulbound, over the non-soulbound stuff I'd find.
 
 This isn't an issue for most players; after a certain point, all your stuff will be soulbound. It's only really a problem for NEW players. On my own, I would not have been able to fill every slot with soulbound gear for several more levels. The auction house prices are far too high for new players. I have just over one gold now at level 13. Prices for good gear my level range from 5g to 1plat or more. The only solution is to find a friend (hi Satia!) or to learn to craft your own gear from the start.
 
-![vgclient-2008-03-09-12-19-14-04.jpg](https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-09-12-19-14-04.jpg) ![vgclient-2008-03-09-18-33-48-79.jpg](https://chasingdings.com/wp-content/uploads/2008/03/vgclient-2008-03-09-18-33-48-79.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/vgclient-2008-03-09-12-19-14-04.jpg" classes="center" >}} {{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/vgclient-2008-03-09-18-33-48-79.jpg" classes="center" >}}
 
 With good gear and the discovery of the bard trainer and some facts about song composing I didn't know (like, you don't have to get the power cost to zero, and you can reuse song bits in different songs and often in the same song), I eventually cleared all my quests in Rindol Storehouse, and had the run of the place enough that I could show another player who was running through where a hidden quest NPC was.
 

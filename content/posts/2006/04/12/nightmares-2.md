@@ -3,40 +3,15 @@ date: '2006-04-12T00:00:00-05:00'
 draft: false
 title: "Nightmares 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/04/12/nightmares-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was about fifty/fifty on whether or not to log into EQ1 or WoW and raid last night; the coin came down EQ1, and so..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I was about fifty/fifty on whether or not to log into EQ1 or WoW and raid last night; the coin came down EQ1, and so...
+<!--more-->
 
 I was about fifty/fifty on whether or not to log into EQ1 or WoW and raid last night; the coin came down EQ1, and so I logged in and made my extremely slow way to the Demiplane of Blood. This is the most cleric-unfriendly zone in the game; to get there safely, a good invis and a nice lev is vital. Sure, I have "cleric invis" - my 18 seconds of invulnerability - and I have used that when invis wore off at a bad time.
 

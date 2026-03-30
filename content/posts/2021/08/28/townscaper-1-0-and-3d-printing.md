@@ -3,48 +3,27 @@ date: '2021-08-28T17:16:55-05:00'
 draft: false
 title: "Townscaper 1.0 and 3D Printing"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/28/townscaper-1-0-and-3d-printing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Townscaper has left early access and hit app stores all around the world with the peaceful grooves of Swedish seaside villages...."
+categories:
   - "3D Printing"
   - "Blaugust"
   - "Steam Games"
   - "Townscaper"
+tags:
+  - "Blaugust"
   - "Fusion 360"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210828092303_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210828092303_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210828092303_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210828092303_1.jpg"
 ---
+Townscaper has left early access and hit app stores all around the world with the peaceful grooves of Swedish seaside villages....
+<!--more-->
 
 Townscaper has left early access and hit app stores all around the world with the peaceful grooves of Swedish seaside villages.
 
 It also is released for 3D printers. I have taken the 3D printing for a spin... and the results are pretty cool!
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210828092314_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210828092314_1.jpg)A really simple Townscape
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210828092314_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210828092314_1.jpg)A really simple Townscape
 
 For those who haven't had their lives touched by Townscaper, it's a simple little game, originally out for Steam but now also out for the Nintendo Switch, where you paint a town onto a placid sea. As you build further, landscaping, beaches, even little birds pop into existence. At some point, you have created something with adventure around every corner, or a comfy bench when you just want to appreciate all the choices in life that led you to this paradise.
 
@@ -52,7 +31,7 @@ It's very meditative.
 
 And that's all it is -- or all it was. The ability to export the actual 3D meshes of your town changes everything. Now you can take Townscaper into your own projects.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/Town-1024x719.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/Town.jpg)Fusion 360
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/Town-1024x719.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/Town.jpg)Fusion 360
 
 The mesh can be easily imported into a lot of different programs. It can even be imported into a 3D printer slicing program directly, but that might not be the best idea.
 
@@ -60,7 +39,7 @@ Importing it into Fusion 360 shows everything is there. The buildings, yes, but 
 
 A lot of this stuff won't usefully print, but Fusion 360 offers an easy solution, because of the way Townscraper exports its assets.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/TownExclusions.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/TownExclusions.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/TownExclusions.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/TownExclusions.jpg)
 
 In Fusion 360, you can hide the things you don't want printed. It's up to you. I turned off the fencing, water and birds. I should have turned off the windows, too.
 
@@ -68,11 +47,11 @@ The town gets imported on its side, which is weird. Fusion 360 lets you choose a
 
 With all the parts the way you like them, export them to STL and import them into a slicer. I use PrusaSlicer for my Prusa MK3S+, but any slicer would work.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/image-5-1024x808.png)](https://chasingdings.com/wp-content/uploads/2021/08/image-5.png)In the slicer
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/image-5-1024x808.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/image-5.png)In the slicer
 
 You'll notice that this is mirrored from how it appears in Townscaper. The slicer could mirror it; the previous test I did, I noticed and mirrored it before I printed. I forgot this time, as it was similar enough. The model still came in on its edge, but PrusaSlicer could fix that easily enough. Ready for printing!
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2303.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2303.jpg)Printed!
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2303.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2303.jpg)Printed!
 
 This is about 3cm on a side, I think. It took about an hour and a half to print. I printed it without supports, so there's random filament hanging down from the windows where there was nothing to support the filament as it came out. So I would either have to add supports, or remove the windows -- easily down in Fusion 360, but they add character. And to be honest, I didn't notice it until I took the picture. All the flaws are magnified. It's possible to just snip off the stray strands.
 

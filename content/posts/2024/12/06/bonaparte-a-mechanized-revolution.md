@@ -3,55 +3,33 @@ date: '2024-12-06T08:00:00-05:00'
 draft: false
 title: "Bonaparte: A Mechanized Revolution"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/12/06/bonaparte-a-mechanized-revolution/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs..."
-description: "Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs..."
-tags:
+categories:
   - "Isometric Tactical Strategy"
   - "Tactical RPG"
   - "Tactics"
+tags:
   - "Azure Flame"
   - "Banner of the Maid"
   - "Bonaparte"
   - "Girls Screaming in French"
   - "Spiders"
   - "Studio Imugi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/Bonaparte-keyart-1080p.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/12/Bonaparte-keyart-1080p.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/Bonaparte-keyart-1080p.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/Bonaparte-keyart-1080p.jpg"
 ---
+Take one French Revolution, subtract Napoleon, add a couple relatives you never heard about, and toss in a few giant mechs...
+<!--more-->
 
 There's something that makes game devs want to tinker with the French Revolution... Azure Flame filled it with Magical Girls in Banner of the Maid. Spiders filled it with robots in Steelrising. Studio Imugi seeks to do them one better by imaging a Paris filled with *giant* robots -- Colossi, fighting for the King, the People, and/or France itself.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/20241204212548_1-1024x576.jpg" title="Liberate the Bastille!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/20241204212548_1-1024x576.jpg" title="Liberate the Bastille!" classes="center" >}}
 
 While B:AMR has a tactical battle component reminiscent of old Avalon Hill wargames, the main game takes place in the overland map, where you battle for the hearts and minds of the people of France by spreading propaganda denouncing whichever factions you don't join. You have the choice of supporting King Louis XIV, fighting alongside the bourgeoise in the Moderates, or fighting with the common folk as a Jacobin. In the demo, however, you cannot support the king. Napoleon himself joined with the Jacobins; I chose the Moderates in the demo.
 
 Controlling the various provinces of France allows you to reap coin and phlogiston, the magical fluid that runs the Colossi. It also opens up recruitment -- recruiting more battalions and officers, and building more Colossi, are key to winning battles. Peasant armies armed with nothing more than sticks and pitchforks won't be anything but wine squeezed between the toes of your giant warbot, but when you come across another Colossi... you'll want some cannon and cavalry to take it down.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/20241204212405_1-1024x576.jpg" title="Comte D'Artois seems nice." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/20241204212405_1-1024x576.jpg" title="Comte D'Artois seems nice." classes="center" >}}
 
 The plot takes place over painted backdrops and an overall art style that reminds me of the old portraits of the Founding Fathers, as intended.
 

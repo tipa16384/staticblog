@@ -3,41 +3,18 @@ date: '2006-09-06T08:45:32-05:00'
 draft: false
 title: "Battlestar Galactica Webisodes"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/09/06/battlestar-galactica-webisodes/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been in and out of the SciFi Channel's website for the past couple of weeks working on my Who Wants to be a Superhero..."
+categories:
   - "Battlestar Galactica"
   - "Eureka"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/09/katie.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/09/katie.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/katie.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/katie.jpg"
 ---
+I've been in and out of the SciFi Channel's website for the past couple of weeks working on my Who Wants to be a Superhero...
+<!--more-->
 
-![Katie Sakhoff in Battlestar Galactica](https://chasingdings.com/wp-content/uploads/2006/09/katie.jpg)
+
 
 I've been in and out of the SciFi Channel's website for the past couple of weeks working on my Who Wants to be a Superhero article; I'm surprised I didn't see that Battlestar Galactica would be showing little "[webisodes](http://www.scifi.com/battlestar/)" leading up to the beginning of the third season on October 6th. The first one, posted yesterday, is Day 67 of the Occupation: Resistance.
 

@@ -3,42 +3,21 @@ date: '2010-08-12T18:32:59-05:00'
 draft: false
 title: "Item shop RPG \"Recettear\" gets publisher, price"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/12/item-shop-rpg-recettear-gets-publisher-price/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
   - "Recettear"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/stardock.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/stardock.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/stardock.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/stardock.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/stardock.jpg "Stardock to publish Recettear")](https://chasingdings.com/wp-content/uploads/2010/08/stardock.jpg)
+[
 
-Tremendously, actively fun Japanese import "Recettear: An Item Shop's Tale" has finally gained a publisher! Stardock will publish Recettear through its Impulse digital distribution network. Ten thousand people downloaded the demo after the gaming media gave it rave reviews ([including me](https://chasingdings.com/index.php/2010/07/22/recettear-an-item-shops-tale/)), which got translators Carpe Fulgur enough pull to get a major distributor interested.
+](https://tipa16384.github.io/wkblog/uploads/2010/08/stardock.jpg)
+
+Tremendously, actively fun Japanese import "Recettear: An Item Shop's Tale" has finally gained a publisher! Stardock will publish Recettear through its Impulse digital distribution network. Ten thousand people downloaded the demo after the gaming media gave it rave reviews ([including me](https://tipa16384.github.io/wkblog/index.php/2010/07/22/recettear-an-item-shops-tale/)), which got translators Carpe Fulgur enough pull to get a major distributor interested.
 
 Good job, guys -- I absolutely cannot wait to play the full game!
 

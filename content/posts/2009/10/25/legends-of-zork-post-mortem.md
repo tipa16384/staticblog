@@ -3,44 +3,21 @@ date: '2009-10-25T12:01:27-05:00'
 draft: false
 title: "Legends of Zork: Post-mortem"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/25/legends-of-zork-post-mortem/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I loved the IDEA of a modern, casual update to the classic Infocom adventure game, Zork. The devious puzzles, the humor, the sense that something..."
+categories:
   - "Legends of Zork"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/lozbanner1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/lozbanner1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/lozbanner1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/lozbanner1.png"
 ---
+I loved the IDEA of a modern, casual update to the classic Infocom adventure game, Zork. The devious puzzles, the humor, the sense that something...
+<!--more-->
 
-![Zork old timers just can](https://chasingdings.com/wp-content/uploads/2009/10/lozbanner1.png "Zork old timers just can")
+
 
 I loved the IDEA of a modern, casual update to the classic Infocom adventure game, Zork. The devious puzzles, the humor, the sense that something wondrous (or at least hilarious) was right around the corner, but mostly the puzzles. We'd get together in UNH's McConnell computer cluster and try to figure them out -- for HOURS. Then try out our guesses on that creeky old VAX up in the engineering lab.
 
-When I found that the much-anticipated browser sequel to the Zork series was [more akin to a Facebook app than an adventure game](https://chasingdings.com/index.php/2009/04/15/legends-of-zork-goes-live/), I was willing to take the game as it was and not how I wanted it to be.
+When I found that the much-anticipated browser sequel to the Zork series was [more akin to a Facebook app than an adventure game](https://tipa16384.github.io/wkblog/index.php/2009/04/15/legends-of-zork-goes-live/), I was willing to take the game as it was and not how I wanted it to be.
 
 It's been six months now. I've played [Jolt Online's Legends of Zork](http://legendsofzork.com/) almost every day and seen it change a lot. Now I'm done with it.
 
@@ -60,7 +37,7 @@ These two stats are combined with any bonuses or weaknesses you may have compare
 
 It's not all *mano a mano* battles. Sometimes you come across a pitched battle, where you may choose a side and settle in for a good thwomping. Other times, you may be ensnared in a {magical|mechanical} {trap|maze|puzzle} (referred to by Zorkians as TMPs), which may mean trauma or treasure, depending on the roll of a die.
 
-![Two Double Fanucci hands](https://chasingdings.com/wp-content/uploads/2009/10/Fullscreen-capture-10252009-121511-PM.jpg "Two Double Fanucci hands")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/Fullscreen-capture-10252009-121511-PM.jpg" title="Two Double Fanucci hands" classes="center" >}}
 
 Most treasure is simply automatically sold when you entire a town, but occasionally you'll find a playing card for the wildly popular Double Fanucci card game. These cards may be organized into hands that can boost your power substantially. At least until the point where you have found enough cards that you can max out every hand, Double Fanucci is one of LoZ's few strategic, and certainly the most fun, minigames. If Jolt took this one feature and turned it into an actual game, I'd play it.
 

@@ -3,42 +3,19 @@ date: '2009-04-24T06:21:07-05:00'
 draft: false
 title: "A little LotRO, a little Wizard 101 (Test)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/24/a-little-lotro-a-little-wizard-101-test/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The two characters I set for transfer from Windfola to Landroval a couple of weeks ago, my 36 Captain and my 21 Champion, finally arrived..."
+categories:
   - "Free Realms"
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/forsakenale.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/forsakenale.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/forsakenale.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/forsakenale.jpg"
 ---
+The two characters I set for transfer from Windfola to Landroval a couple of weeks ago, my 36 Captain and my 21 Champion, finally arrived...
+<!--more-->
 
-![I was actually aiming for that annoying fly](https://chasingdings.com/wp-content/uploads/2009/04/forsakenale.jpg "I was actually aiming for that annoying fly")
+
 
 The two characters I set for transfer from Windfola to Landroval a couple of weeks ago, my 36 Captain and my 21 Champion, finally arrived safely in their new server yesterday. I'm still not sure which of the three characters I have on Landroval I want to focus on. I have hope that I can join my Captain with those in Casualties of War who are about her level. Stargrace and Kasul largely adventure during days I work, so aside from boring soloing, there might not be much available for my two lower level characters.
 
@@ -46,9 +23,9 @@ Kasul and I did group up for a couple of hours last night in the Lone Lands. Bei
 
 We went looking for a little more fun by clearing out some goblin and orc camps. That got everyone smiling. We both got lots of those iron tokens you redeem for gifts. Not sure what kind of gifts they give, but I have my suspicions they are house items and many other things which are not horses.
 
-![wizardgraphicalclient-2009-04-23-23-15-26-90](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-23-23-15-26-90.jpg "wizardgraphicalclient-2009-04-23-23-15-26-90")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-23-23-15-26-90.jpg" title="wizardgraphicalclient-2009-04-23-23-15-26-90" classes="center" >}}
 
-Afterward, I headed into EQ2 with my decorator, Brightknife, to show why you really [shouldn't let kobolds into your restaurant](https://chasingdings.com/index.php/2009/04/23/eq2-but-they-said-it-was-all-you-can-eat/). Then it was off to Wizard 101 Test to check out the Dragonspyre homes.
+Afterward, I headed into EQ2 with my decorator, Brightknife, to show why you really [shouldn't let kobolds into your restaurant](https://tipa16384.github.io/wkblog/index.php/2009/04/23/eq2-but-they-said-it-was-all-you-can-eat/). Then it was off to Wizard 101 Test to check out the Dragonspyre homes.
 
 I went a little crazy the night before last when W101 previewed player housing on the test server. I bought the biggest Wizard City home, and every decoration they sold. Then I bought the largest Marleybone home, and every decoration they sold.
 

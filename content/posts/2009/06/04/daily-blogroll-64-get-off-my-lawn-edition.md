@@ -3,24 +3,8 @@ date: '2009-06-04T07:43:34-05:00'
 draft: false
 title: "Daily Blogroll 6/4 -- Get off my lawn edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/04/daily-blogroll-64-get-off-my-lawn-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just like pretty much everyone else, I bought Sims 3 and played it for awhile yesterday. I started off in a full family with two..."
+categories:
   - "Chronicles of Spellborn"
   - "Daily Blogroll"
   - "EverQuest"
@@ -31,20 +15,13 @@ tags:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/retirement.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/retirement.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/retirement.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/retirement.jpg"
 ---
+Just like pretty much everyone else, I bought Sims 3 and played it for awhile yesterday. I started off in a full family with two...
+<!--more-->
 
-![Retirement Party](https://chasingdings.com/wp-content/uploads/2009/06/retirement.jpg "Retirement Party")
+
 
 Just like pretty much everyone else, I bought Sims 3 and played it for awhile yesterday. I started off in a full family with two kids, a husband and me, and it didn't go so well. I restarted living single and had plenty of time to myself, lots of chances to learn and have fun and relax, and never once felt hurried, and in all ways my life was better without a family. But at least I didn't make my family [the cast of Joss Whedon's Firefly](http://biobreak.wordpress.com/2009/06/03/and-because-im-a-big-nerd/). Yet.
 
@@ -62,7 +39,7 @@ It's okay. I figured out how to tell when an E3 game company rep is, um, stretch
 
 Speaking of Wizard 101, the Evil Theurgist found some lesser evil in the cast picture of W101's new world, Grizzleheim. Blood? Could we actually be killing stuff in the new expansion? Maybe [those glowy swords could do more than fan up a healthy breeze](http://eviltheurgists.blogspot.com/2009/06/grizzleheim-debate.html)? Could happen. Thomas the Friendly Necromancer serves up some [top sekrit promo codes for Wizard 101](http://thefriendlynecromancer.blogspot.com/2009/06/promotional-codes.html) that nets you a pet, an end table, gold and an amulet for the cost of free. Cool stuff.
 
-[![](http://www.reallifecomics.com/comics/2009/20090604_2237.png)](http://www.reallifecomics.com/archive/090604.html)
+[{{< image src="http://www.reallifecomics.com/comics/2009/20090604_2237.png" classes="center" >}}](http://www.reallifecomics.com/archive/090604.html)
 
 E3 brought news that Square-Enix would be following up their breathtakingly kooky (and grindy) MMO Final Fantasy XI Online with the innovatively-named Final Fantasy XIV Online (rumored for the past four years under the code name "Rapture" and apparently featuring [some very new game mechanics if you've been following the leaks](http://en.wikipedia.org/wiki/Final_Fantasy_XI_II)). The game is promised to be on the PlayStation 3 only, and also the PC. And probably a year or two, the Xbox 360, if this follows the same arc as its predecessor.
 

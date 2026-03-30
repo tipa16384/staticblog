@@ -3,42 +3,20 @@ date: '2022-12-20T08:21:19-05:00'
 draft: false
 title: "Advent of Code Day 19 -- Not Enough Minerals"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/20/advent-of-code-day-19-not-enough-minerals/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Okay, this one took a long time. I knew what to do, but what to do was super slow."
-description: "Okay, this one took a long time. I knew what to do, but what to do was super slow."
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "Advent"
   - "Depth First Search"
   - "Memoization"
   - "Python"
   - "Robots"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-20-08.04.02-A-woman-wearing-a-Christmas-hat-directing-mining-robots-with-a-handheld-device-in-a-jungle-by-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-20-08.04.02-A-woman-wearing-a-Christmas-hat-directing-mining-robots-with-a-handheld-device-in-a-jungle-by-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-20-08.04.02-A-woman-wearing-a-Christmas-hat-directing-mining-robots-with-a-handheld-device-in-a-jungle-by-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-20-08.04.02-A-woman-wearing-a-Christmas-hat-directing-mining-robots-with-a-handheld-device-in-a-jungle-by-a-lake-by-Bob-Eggleton-detailed-and-intricate.png"
 ---
+Okay, this one took a long time. I knew what to do, but what to do was super slow.
+<!--more-->
 
 VERY late on this one, but then I was up very late finishing it. The code I'm going to show gives the wrong Part 2 answer, though what it prints out is sufficient to figure out what the correct answer is. It just takes some unknown amount of time to run, so I have only ever run it once, while I was sleeping.
 

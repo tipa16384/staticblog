@@ -3,40 +3,17 @@ date: '2007-07-19T07:18:42-05:00'
 draft: false
 title: "EvE: Transport through my system, play by MY rules"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/19/eve-transport-through-my-system-play-by-my-rules/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I hadn't finished training Gallenite Frigate III before I left for work, so there went the whole day... not training anything... Naturally, the very first..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/07/shadow2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/07/shadow2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/shadow2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/shadow2.jpg"
 ---
+I hadn't finished training Gallenite Frigate III before I left for work, so there went the whole day... not training anything... Naturally, the very first...
+<!--more-->
 
-![shadow2.jpg](https://chasingdings.com/wp-content/uploads/2007/07/shadow2.jpg)
+
 
 I hadn't finished training Gallenite Frigate III before I left for work, so there went the whole day... not training anything... Naturally, the very first order of the night when I got home was to start my training (I chose Electronics up to skill level II, now doing Science V which seems required for a lot of fabbing).
 

@@ -3,52 +3,29 @@ date: '2012-10-29T22:46:10-05:00'
 draft: false
 title: "EQ2: Nights of the Dead"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/29/eq2-nights-of-the-dead/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I enjoyed the Guild Wars 2 Halloween celebration, what I saw of it. I might as well have just stayed hidden at the side of..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/EverQuest2-2012-10-29-22-02-10-27-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/EverQuest2-2012-10-29-22-02-10-27-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/EverQuest2-2012-10-29-22-02-10-27-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/EverQuest2-2012-10-29-22-02-10-27-480x269.jpg"
 ---
+I enjoyed the Guild Wars 2 Halloween celebration, what I saw of it. I might as well have just stayed hidden at the side of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/EverQuest2-2012-10-29-22-02-10-27-480x269.jpg" title="Plants vs Zombies." class="align-center" >}}
+
 
 I enjoyed the Guild Wars 2 Halloween celebration, what I saw of it. I might as well have just stayed hidden at the side of the fight and just watched, because I was too low level to contribute (even though artificially leveled to 80 for the event). Folks were reminiscing about the Halloween celebrations in GW1 and EQ2 and I started thinking, hey, I really liked the Halloween celebrations in EQ2, too... why am I not over there _doing_ them?
 
 And that's what I did. Patched up EQ2 and headed to Loping Plains for that haunted house.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/EverQuest2-2012-10-29-20-09-25-39-480x270.jpg" title="A bone saw for every crib" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/EverQuest2-2012-10-29-20-09-25-39-480x270.jpg" title="A bone saw for every crib" classes="center" >}}
 
 I'd done this one before with various characters. It was a lot easier for the berserker. I'm thinking maybe focusing on the troubadour and the defiler weren't the best choices for success in soloing. Berserker SMASH.
 
 Hey, while I was getting lost in the new Qeynos, I found where you can hire mercenaries to follow you around and help you stay alive. Mercs were a (literal!) game changer for EverQuest, but EQ2 supported some level of soloing for all classes, so it would seem a little too much of a good thing, I'd think, but... I saw lots of people with them. I don't have any, I don't have the necessary expansion. But if I did return to EQ2, I would probably get a cleric because in non-Halloween events, stuff hits hard. Sinking Sands (is that right?) and the tougher bits of Lesser Faydark are the places for level 60 characters to level, and I could handle those, but at 65 comes Kunark and Loping Plains and those places HURT.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/EverQuest2-2012-10-29-19-27-28-14-480x270.jpg" title="Aaaaaaaagh!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/EverQuest2-2012-10-29-19-27-28-14-480x270.jpg" title="Aaaaaaaagh!" classes="center" >}}
 
 Yeah, I jumped when that screamed onto the screen. I ALWAYS jump. There was some random item that used to spawn that jumping zombie when you'd enter your home. I placed it unawares, and had to deal with that thing again and again until I figured out which item triggered it.
 
@@ -56,7 +33,7 @@ I was scared to go _home_. That's just not right.
 
 So that was the Loping Plains vampire house and the Antonica haunted house. Next up was the hedge maze.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/EverQuest2-2012-10-29-21-23-35-26-480x384.jpg" title="That's going to leave a mark" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/EverQuest2-2012-10-29-21-23-35-26-480x384.jpg" title="That's going to leave a mark" classes="center" >}}
 
 As usual, I used a map to get through the hedge maze. I wanted to get on with my life, especially since the next (and last) event, was new to me -- had never done it before. That was the Plants vs Zombies event above.
 
@@ -70,7 +47,7 @@ Running around the circle of houses, there's the weapons (appearance weapons: sp
 
 All I had to do was run out, taunt some zombies, pull them back, then help the plants kill them. It was so much like EQ. Eventually the girl's doll (that she had lost) came to terrifying life and tried to kill us all. Don't usually see that kind of behavior in dolls from QUALITY shops.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/EverQuest2-2012-10-29-22-35-51-16-480x269.jpg" title="Mummy!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/EverQuest2-2012-10-29-22-35-51-16-480x269.jpg" title="Mummy!" classes="center" >}}
 
 Total rewards: a "sexy mummy" outfit, a jack-o-lantern pet, several plushies, another section to my homegrown hedge maze, some random banners, tapestries and furniture, lots of appearance armor, and the starter for the Headless Horseman raid. Who was up, by the way.
 

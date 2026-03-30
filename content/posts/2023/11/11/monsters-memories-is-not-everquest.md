@@ -3,39 +3,17 @@ date: '2023-11-11T20:20:05-05:00'
 draft: false
 title: "Monsters & Memories is not EverQuest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/11/monsters-memories-is-not-everquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "...except in all the ways it IS EverQuest, of course."
-description: "...except in all the ways it IS EverQuest, of course."
-tags:
+categories:
   - "EverQuest"
   - "Monsters & Memories"
+tags:
   - "Stress Test"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/mnmisnoteq.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/mnmisnoteq.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/mnmisnoteq.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/mnmisnoteq.webp"
 ---
+...except in all the ways it IS EverQuest, of course.
+<!--more-->
 
 There's a few MMOs coming out in the next few years that try to evoke the feeling EverQuest gave new players the first time they played it. An MMO where going alone was almost always a prescription for death. Where dying meant losing everything you had on you, unless you could make it safely back to where you died -- and back home again. An MMO where every level was fought for, and could be lost (along with all your stuff) at your next death. An MMO where night was *dark*. An MMO without any quest hubs, without glowing arrows, without maps, without any in game tutorials, without *anything*, except for the friends you made, without whom the game would be unplayable.
 
@@ -43,7 +21,7 @@ It was such a punishing game that most everyone who ever tried EverQuest -- quit
 
 But a tiny, tiny fraction of those people thought that those early, brutal days of EverQuest was the best damn gaming they'd ever done. And it's for those masochistic few that Monsters & Memories is making the game of their dreams.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/image-1-1024x576.png" title="Character creation" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/image-1-1024x576.png" title="Character creation" classes="center" >}}
 
 Monsters & Masochists had an open stress test today. They crammed a few hundred people into the same zone (although some explorers did break through to other dungeons and zones, I saw while watching other streams).
 
@@ -57,7 +35,7 @@ M&M isn't going to tell you how an Archer differs from a Ranger, or how a Cleric
 
 Once your race and class are chosen, you can distribute a few stat points (these were incredibly important in early EQ; in modern EQ, your starting stats don't matter). You have some appearance options, not too many, but enough. You can choose from a selection of starting skills that affect, for example, your starting equipment, boosts to certain skills, or mandatory character passive effects such as being able to see in the dark. (To balance this, they have a corresponding skill that makes it hard for you to see in the daylight. I don't know how this is useful.) I suspect that these skills will be attached to specific races and classes at some point.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/image-2-1024x576.png" title="Grouping at night" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/image-2-1024x576.png" title="Grouping at night" classes="center" >}}
 
 I made three characters in the stress test. I died and lost all my possessions and couldn't find the corpse again, three times. I am *really* hoping that they let you keep your equipped gear when you die. I know they are looking to emulate that OTHER game, but, come on. It's the kind of thing that makes people quit the game.
 
@@ -71,7 +49,7 @@ Also in your inventory is a note for your guild master. EQ currently places you 
 
 Back in the old days, EQ didn't have maps, so every player made their own. Then EQ Atlas, Allakhazam and other sites took away that mystery. EQ today provides full maps for all starting zones.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/image-3-1024x576.png" title="This is the rogue guild master, btw" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/image-3-1024x576.png" title="This is the rogue guild master, btw" classes="center" >}}
 
 Migraines & Memories takes twenty five years of MMO advances and tosses them in the bin. You are a nobody in a world that wants you dead. If you survive, if you thrive, you will become something better, something new, something the world has never seen before... level two.
 

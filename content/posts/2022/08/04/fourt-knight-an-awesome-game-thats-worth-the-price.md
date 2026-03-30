@@ -3,30 +3,16 @@ date: '2022-08-04T07:00:00-05:00'
 draft: false
 title: "Fourt Knight: An Awesome Game That's Worth the Price"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/04/fourt-knight-an-awesome-game-thats-worth-the-price/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
+categories:
   - "Action Adventure Games"
   - "Blaugust"
   - "Blaugust 2022"
   - "Puzzles"
   - "Video Game"
-  - "Action Adventure Game"
+tags:
+  - "Action Adventure Games"
+  - "Blaugust"
   - "Craiyon"
   - "Easy to Learn"
   - "Gpt-3"
@@ -34,18 +20,11 @@ tags:
   - "Simple Controls"
   - "Third Person Perspective"
   - "Wasd to Move"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.41.41-a-painting-of-a-lone-knight-in-armor-standing-in-front-of-a-castle.-The-knight-is-holding-a-sword-and-shield-and-there-is-a-bow-slung-over-their-bac.png"
 ---
+I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...
+<!--more-->
 
 I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here's its idea for August 4th: "Fourt Knight".
 
@@ -57,7 +36,7 @@ Along the way, you will discover mysterious forts, that, once unlocked, will giv
 
 Most action adventure games feature mounts, but "Fourt Knight" offers something different: a horse that can transform into a dragon. This will come in handy when you need to fly over large gaps or breathe fire on your enemies. And the dragon the horse turns into is incredibly customizable -- you can even choose the color of its scales. That level of customization extends to your knight, which gives you the option to make him look however you want. You can even make him look exactly like Link from "The Legend of Zelda."
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.44.50-A-screenshot-from-a-game-in-the-style-of-Diablo.-A-knight-is-fighting-a-dragon-with-a-sword.-The-sword-is-glowing-green.-The-dragon-is-breathing-black-1024x1024.png" title="Action graphics" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.44.50-A-screenshot-from-a-game-in-the-style-of-Diablo.-A-knight-is-fighting-a-dragon-with-a-sword.-The-sword-is-glowing-green.-The-dragon-is-breathing-black-1024x1024.png" title="Action graphics" classes="center" >}}
 
 "Fourt Knight" is played from a third person perspective, similar to such famous action adventure games as "The Legend of Zelda: Breath of the Wild" and "Nioh." The controls are very simple and easy to learn. You use the left joystick to move, the right joystick to control your camera, the X button to attack, the A button to jump, and the B button to shoot arrows. If you are using a mouse and keyboard, the controls are even simpler: WASD to move, the mouse to control your camera, left mouse button to attack, right mouse button to shoot arrows, and spacebar to jump. The game even has support for blind players, with all the important information being conveyed through audio cues.
 

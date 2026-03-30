@@ -3,40 +3,19 @@ date: '2007-06-04T06:50:19-05:00'
 draft: false
 title: "EQ2: Ganking Q's on Nagafen"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/06/04/eq2-ganking-qs-on-nagafen/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Lord of the Rings Online being a bore (but a pretty one) -- I didn't even last through my free month -- I was desperate..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/naggy.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/06/naggy.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/naggy.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/naggy.jpg"
 ---
+Lord of the Rings Online being a bore (but a pretty one) -- I didn't even last through my free month -- I was desperate...
+<!--more-->
 
-![naggy.jpg](https://chasingdings.com/wp-content/uploads/2007/06/naggy.jpg)Lord of the Rings Online being a bore (but a pretty one) -- I didn't even last through my free month -- I was desperate to get some fun back into my online gaming. My 9-year old niece suggested [Neopets](http://www.neopets.com)*, and that was fun for awhile.
+
+
+Lord of the Rings Online being a bore (but a pretty one) -- I didn't even last through my free month -- I was desperate to get some fun back into my online gaming. My 9-year old niece suggested [Neopets](http://www.neopets.com)*, and that was fun for awhile.
 
 My son had made a character on the EQ2 PvP server, Vox... and having a little bit of fun... I thought I'd join him there, made a character, looked at the server list and...
 
@@ -50,13 +29,13 @@ So, Nagafen was our new home. A place where leveling is so undesired that many s
 
 Almost anything that would be a good idea on a normal server, like soloing, doing quests in a wide variety of zones and traveling the world without a care, are a BAD IDEA on Nagafen. Instead, you stay with the zones you know, stay off the heavily travelled routes. and always be aware of enemies in the area.
 
-![eq2_000019.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000019.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000019.jpg" classes="center" >}}
 
 (Above: Tipara (Fury/Tailor) and Chaotixa (Warlock) in Neriak).
 
 And of course, it's a lot of fun. Restrictions are challenges, and challenges are *fun*. Flying in the face of good sense but needing to pick up some more AAs, I traveled to Greater Faydark last night to do some of the quests. I knew I would be dogged by Qeynosians, and I wasn't wrong. But dangit, they always prowl around Freeport, making it impossible to spend time in Darklight or the Commonlands without being ganked. So it was only fair... I did get a couple of kills, and more than a couple of times, a Q would attack and then run off when they couldn't kill me right away.... but accidentally becoming carnage flagged by straying too close to Kelethin (standard PvP solution: die to a monster *right away*.)
 
-![eq2_000025.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000025.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000025.jpg" classes="center" >}}
 
 (Dyzara (Wizard/Sage) and Tipara)
 
@@ -66,7 +45,7 @@ Twinks? About half the people you come across and well more than half of the peo
 
 Sometimes though... like that annoying ranger who would pop out of nowhere with sneak attacks only to die die die from concentrated evil goodness last night... or that haffer conjurer I found lurking about outside the Freeport gates the other day who poured all his flames and pets on my little Arasai Chaotixa while my fury Tipara kept her healed and her dots took down the halfling (or that hilarious moment when he realized that the inky and the bug were *grouped* and switched targets to Tipara only to have Chaotixa administer the *coup de grace*...)
 
-![map.gif](https://chasingdings.com/wp-content/uploads/2007/06/map.gif)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/map.gif" classes="center" >}}
 
 Route from Freeport to Nektulos Forest on PvE (blue) vs PvP (red) server
 

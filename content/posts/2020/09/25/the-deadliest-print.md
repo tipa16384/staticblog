@@ -3,40 +3,17 @@ date: '2020-09-25T07:00:00-05:00'
 draft: false
 title: "The Deadliest Print"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/25/the-deadliest-print/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I more or less love my 3D printer. More or less. I can make physical stuff out of bits -- that's pretty cool...."
+categories:
   - "3D Printing"
   - "Gloomhaven"
   - "Miniatures"
   - "Tabletop Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1927.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1927.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1927.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1927.jpg"
 ---
+I more or less love my 3D printer. More or less. I can make physical stuff out of bits -- that's pretty cool....
+<!--more-->
 
 I more or less love my 3D printer. More or less. I can make physical stuff out of bits -- that's pretty cool.
 
@@ -44,7 +21,7 @@ But for every print I make, I have to go through the same long, tedious process 
 
 I think I've shared this photo before...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1853-1.jpg" title="I meant this to look like that" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1853-1.jpg" title="I meant this to look like that" classes="center" >}}
 
 This is from one of the dozens of times I tried to print wood-patterned terrain tiles for my Gloomhaven tile system. Every single time, it would either print them terribly, or just go crazy and do something like what you see above. It took me a long time to get that build plate clean again.
 
@@ -68,7 +45,7 @@ I've given up on printing terrain for Gloomhaven, at least for now. To be honest
 
 Turns out that while flat terrain tiles still kills the Ender, it can more or less do things a little more vertically oriented.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1927-1.jpg" title="Copying this picture down here" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1927-1.jpg" title="Copying this picture down here" classes="center" >}}
 
 Our next scenario requires four summoning stones and three stalagmites. The stalagmites are for the Demolitionist to break; the summoning stones are for the rest of us to destroy.
 

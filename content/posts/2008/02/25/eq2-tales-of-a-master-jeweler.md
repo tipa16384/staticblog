@@ -3,40 +3,17 @@ date: '2008-02-25T08:55:08-05:00'
 draft: false
 title: "EQ2: Tales of a Master Jeweler"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/25/eq2-tales-of-a-master-jeweler/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The best thing about Dorah's tradeskill epic, is that it was done, start to finish, in a day...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-24-22-18-11-51.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-24-22-18-11-51.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-24-22-18-11-51.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-24-22-18-11-51.jpg"
 ---
+The best thing about Dorah's tradeskill epic, is that it was done, start to finish, in a day....
+<!--more-->
 
-![everquest2-2008-02-24-22-18-11-51.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-24-22-18-11-51.jpg)
+
 
 The best thing about Dorah's tradeskill epic, is that it was done, start to finish, in a day.
 
@@ -68,7 +45,7 @@ Oh. Okay. One Call of Ro later....
 
 Hi, Scholar in the Tower of the Moon! Oh, you say the shredded bits of the recipe are in the library of light? And that the library is filled with halfling-hating, super high level, djinni librarians! Count me in!
 
-![everquest2-2008-02-24-19-01-09-16.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-24-19-01-09-16.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-24-19-01-09-16.jpg" classes="center" >}}
 
 Off to the library, where I was occasionally able to stun the librarians for a short time by tossing books at them. (Important note: Hitting a librarian with a book twice in a row makes it aggro again). A dozen or so deaths later, I'd gathered the pages, found the recipe to bind them all together again, and used one of the crafting tables in the library to assemble it into the long-lost recipe for the Earring of the Solstice -- the crafter epic.
 
@@ -76,7 +53,7 @@ It's no surprise people don't go to libraries so much anymore...
 
 Back to Neela, who vows to make that earring for me, if she can only get nine items of great power made. She gave me the recipe for the Ruby-Encrusted Stein, but warned that I would need the services of masters of each of the other eight professions to make all the things required.
 
-![everquest2-2008-02-24-20-25-35-30.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-24-20-25-35-30.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-24-20-25-35-30.jpg" classes="center" >}}
 
 Befallen has a pretty active crafter community, and there's been a number of crafter epic parties where crafters of various sorts gather together to make the epic items. One was forming in Nettleville just when I needed it, so I snuck into Qeynos and got three bits done nearly immediately, and offered my own services.
 

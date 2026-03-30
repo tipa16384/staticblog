@@ -3,47 +3,25 @@ date: '2009-03-19T23:40:57-05:00'
 draft: false
 title: "Chronicles of Spellborn: The Void Seer"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/19/chronicles-of-spellborn-the-void-seer/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The second round of closed beta has begun, all the old characters were wiped away (well, at least mine were), so I started up a..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Closed Beta"
   - "Combat"
   - "Void Seer"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-19-21-14-17-42-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-19-21-14-17-42-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-19-21-14-17-42-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-19-21-14-17-42-480x360.jpg"
 ---
+The second round of closed beta has begun, all the old characters were wiped away (well, at least mine were), so I started up a...
+<!--more-->
 
 The second round of closed beta has begun, all the old characters were wiped away (well, at least mine were), so I started up a new mage and brought her through level 5 so that she could become a Void Seer.
 
 Void Seers were, I thought, going to be pretty close to a basic healer. This isn't the case -- not at level 5, anyway. The only heals she has are the heals all mages get (and every class gets some kind of heal, even if it's self only). Mage heals are curses placed on a monster, and when that monster gets hit with melee, ranged, or magic (depending on the curse), the group gets healed. To heal in Spellborn, you don't spam the "more healing" button. You attack more.
 
-After I [posted about the Skinshifter](https://chasingdings.com/index.php/2009/03/16/chronicles-of-spellborn-the-skinshifter/), which included a video where my character circle strafed a lot to avoid a mob's special attacks while positioning myself to deliver powerful flanking and rear attacks, a lot of people decided that Chronicles of Spellborn required too many twitch skills to play.
+After I [posted about the Skinshifter](https://tipa16384.github.io/wkblog/index.php/2009/03/16/chronicles-of-spellborn-the-skinshifter/), which included a video where my character circle strafed a lot to avoid a mob's special attacks while positioning myself to deliver powerful flanking and rear attacks, a lot of people decided that Chronicles of Spellborn required too many twitch skills to play.
 
 That's going to be true -- if you play a rogue. Warriors and spellcasters play different ways.
 
@@ -53,7 +31,9 @@ Nonetheless, I went into the game tonight to show just how little you really nee
 
 I was killing for a quest in the boar fields behind the lumber yard -- and this is not a good place to fight. Adds everywhere. Stuff just kept adding to this one fight. By the end of it, I'd killed five boars and one bear -- and ended the fight at full health. I did move around a little to keep everything in front of me and bunched together for my AEs, but nothing really twitchy. Click on the picture for the full, unaltered, screen shot.
 
-[![sb_client-2009-03-19-21-14-17-42](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-19-21-14-17-42-480x360.jpg "sb_client-2009-03-19-21-14-17-42")](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-19-21-14-17-42.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-19-21-14-17-42.jpg)
 
 So those people who insist the only way to play is to move about madly? They're scaring you. You DO have to move out of the way of special attacks, especially out of the newbie fields when monsters begin to use all the special abilities YOU have. But you don't have to always be moving; just generally be aware of what the mobs are doing and don't let them get behind you, and you'll be fine. Moving all the time is going to interfere with your ability to build and manage your combos, and combos are key to survival, so ask yourself -- how much are you really getting from running around?
 
@@ -63,13 +43,13 @@ Every discipline gets special "body slot" abilities -- the class-defining abilit
 
 The Rune Mage is the AE mage. The Ancestral Mage is the pet mage. The Void Seer is the DPS mage (as near as I can tell). I haven't particularly seen anything at level 5 which suggests they are the best healers, but from what I understand, mages in general have decent heals, so while some later abilities may give them a healing edge, you'll be able to make do with another sort of mage in your group -- plus, the warrior classes have various ways to help keep their groups alive.
 
-![sb_client-2009-03-19-21-27-18-69](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-19-21-27-18-69.jpg "sb_client-2009-03-19-21-27-18-69")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-19-21-27-18-69.jpg" title="sb_client-2009-03-19-21-27-18-69" classes="center" >}}
 
 The first bodyslot ability Void Seers get is Cyclone. This makes their next eight melee attacks strike with far more force. Combine that with the ability that heals the group whenever you hit the cursed mob, and you can see why Void Seers won't be stepping out of the melee to heal from afar. They are going to be right in it.
 
 I bought two of them so I'd always have one ready. My only objection with Cyclone is that stuff dies too fast to get decent healing from killing it. That will change, I know.
 
-![sb_client-2009-03-19-22-05-35-78](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-19-22-05-35-78.jpg "sb_client-2009-03-19-22-05-35-78")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-19-22-05-35-78.jpg" title="sb_client-2009-03-19-22-05-35-78" classes="center" >}}
 
 Having played Skinshifter, Rune Mage and Void Seer thus far, I'm still no closer to deciding what class I'll play when TCoS goes live. I kind of want to go back to the Rune Mage, because I've figured out how to build my skill deck now, and think I'll do a lot better now. But I want to try out a warrior class, and I think I would like to see what the Ancestral Mage brings.
 

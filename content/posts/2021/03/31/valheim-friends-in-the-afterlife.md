@@ -3,42 +3,20 @@ date: '2021-03-31T21:13:45-05:00'
 draft: false
 title: "Valheim: Friends in the Afterlife"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/03/31/valheim-friends-in-the-afterlife/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't really play survival games. I liked Minecraft until an update broke my roller coaster. I spent a lot of time on that. I..."
+categories:
   - "Steam Games"
   - "Survival"
   - "Valheim"
+tags:
   - "DC Universe Online"
   - "Steam"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/03/10-20210329072158_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/03/10-20210329072158_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/03/10-20210329072158_1.jpg"
 ---
+I don't really play survival games. I liked Minecraft until an update broke my roller coaster. I spent a lot of time on that. I...
+<!--more-->
 
 I don't really play survival games. I liked Minecraft until an update broke my roller coaster. I spent a lot of time on that. I tried that Age of Conan one, but grew bored. I never thought I would play another tree puncher.
 
@@ -46,7 +24,7 @@ But Team Spode got to talking about Valheim on one of our DCUO nights. It was bl
 
 I'd been watching some videos, and so had my boyfriend -- we'd already been thinking about the game. Private servers are cheap, too, so we would have total control over who played in our world. It sounded amazing. It even had boss fights to give something to work toward.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/03/01-20210306143548_1.jpg" title="Eikthyr" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/03/01-20210306143548_1.jpg" title="Eikthyr" classes="center" >}}
 
 I rented a private server one morning before work, and created "Spodeheim!" on it. I walked around a little, found some abandoned houses, the ruins left behind by some other Viking called back from death by Odin to fight for him and earn a seat in Valhalla.
 
@@ -54,33 +32,33 @@ All around the world were runestones telling the stories of those who came befor
 
 I built my first home for Kasul and I to share on the top of the hill overlooking the settlement. It was soon utterly destroyed by trolls -- I'd built too close to the Black Forest. I rebuilt down with the others, with Cal's help.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/03/02-20210306152200_1.jpg" title="Kasul and I exploring the world" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/03/02-20210306152200_1.jpg" title="Kasul and I exploring the world" classes="center" >}}
 
 We killed deer and board to improve our rags; we killed trolls (when they didn't kill us) to put the deerhide armor aside. We gathered and killed Eikthyr, the Deer God, and earned the right to mine metals and forge bronze weapons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/03/05-20210314223807_1.jpg" title="Killing the Elder" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/03/05-20210314223807_1.jpg" title="Killing the Elder" classes="center" >}}
 
 Kasul is an explorer. He spent many nights sailing the world until he discovered the spawn point for the Elder, the god of the forest (and the trader, as well). We read every scrap of lore on him, and when we took him on, he was worse than we had expected. By this time, we could solo Eikthyr, tanking him. We did Elder twice to make sure everyone had a chance at him.
 
 Killing the Elder opened swamps, and iron, to us.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/03/06-20210315210750_1.jpg" title="Staring Bonemass down" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/03/06-20210315210750_1.jpg" title="Staring Bonemass down" classes="center" >}}
 
 It took us weeks to prepare for Bonemass, the third boss, the god of the swamps. We spent a lot of time in crypts, mining iron. Kasul and Calrain built a forward base from a ruined Draugr village (all this time Calrain was also improving our main base -- he's the builder of the team). 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/03/04-20210313105742_1.jpg" title="Bonemass Base -- \"Draugrville\"" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/03/04-20210313105742_1.jpg" title="Bonemass Base -- \"Draugrville\"" classes="center" >}}
 
 We'd already been peeking into the mountains by the time we got to Bonemass. We hadn't been able to make the ice hammer Frostner the first time we killed Bonemass, but we had them the other two times. The swamp became, almost, a friendly place.
 
 Well, not really, it never did. I really hated it. No matter how bright the day, it gets dark and close and gloomy inside the swamp. Stuff poisons, too. Killing Bonemass let us find silver veins in the mountains.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/03/07-20210326201727_1.jpg" title="Moder is not happy with me" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/03/07-20210326201727_1.jpg" title="Moder is not happy with me" classes="center" >}}
 
 With the silver we mined, we could take our gear up another level. And again, it took weeks before we felt we were ready for Moder, the dragon god of the mountain drakes.
 
 I was so impatient to take her on that I created a local "seed" world and killed her, solo, for practice. Confident we had her, Kasul and Calrain and I killed her in our "real" world and gained access to the last tier of crafted items. We just last Sunday killed her with the full team.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/03/08-20210326202115_1.jpg" title="Four heads on four hooks" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/03/08-20210326202115_1.jpg" title="Four heads on four hooks" classes="center" >}}
 
 Valheim makes me happy. I love logging on and seeing what people have been up to while I've been working, or whatever. I love the stories we can tell. Once, Kasul and I were sailing and a giant serpent came up and attacked us, destroyed our ship and killed us in the water. It took a long time to get our stuff back, and after that we had a healthy respect for the ocean.
 

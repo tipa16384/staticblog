@@ -3,40 +3,19 @@ date: '2008-06-26T07:19:36-05:00'
 draft: false
 title: "Project Powder: Shredding the Galaxy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/26/project-powder-shredding-the-galaxy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It looked like it might have been an MMO, and I wrote up a quick article thinking it might be, but Project Powder really isn't...."
+categories:
   - "Other Games"
   - "Project Powder"
+tags:
   - "Outspark"
+  - "Project Powder"
   - "Snowboarding"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg"
 ---
+It looked like it might have been an MMO, and I wrote up a quick article thinking it might be, but Project Powder really isn't....
+<!--more-->
 
 It looked like it might have been an MMO, and I wrote up [a quick article](http://www.massively.com/2008/06/20/shredding-the-galaxy-in-project-powder/) thinking it *might* be, but Project Powder really isn't. What it is, is a helluva fun online snowboarding sim with chat channels, guilds/clans/crews, levels, more tricks than you can handle, and an item shop.
 
@@ -46,13 +25,11 @@ Here's a really terrible video I took from one of my first runs through the game
 
 And just to prove that yes, I CAN win:
 
-![run-2008-06-25-21-16-05-20.jpg](https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-25-21-16-05-20.jpg)
-
 Before you get out on the slopes, you need to learn how to play and how to do tricks. The excellent tutorial will get you used to moving around on the course (though their battle mode left me confused), and the license system feeds you a couple of tricks a time to learn as you level, so you're not overwhelmed all at once, though when you see higher level people on the course busting moves and racking up points two or three times yours, well, you just want to get another level. You'll soon learn to do little quick tricks when you find yourself in the air, and big, long elaborate ones to do while you're plummeting off a cliff. In fact, you only really need those two moves, but you'll want to mix them up.
 
 Project Powder is at its core a racing game. Most of your time will be spent out on the slopes, racing. That's the only way to get experience, and that's the only way to earn ~~money~~ Sparkcash. You can *buy* ~~money~~ Sparkcash, of course, but that won't get you as much as you think.
 
-![run-2008-06-25-19-41-35-29.jpg](https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-25-19-41-35-29.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-25-19-41-35-29.jpg" classes="center" >}}
 
 Most of the things you would want to buy, are only rented. A couple dozen races will land you a new outfit and a hot board, but you're only renting them. After 7 days, or a month if you pay a bit more, your stuff goes back to the shop. No problem if you're racing every day and always changing out your outfit anyway. but take a few days off and you'll come back wearing nothing but your newbie clothes.
 
@@ -60,7 +37,7 @@ That's kinda why it's important to [reach level 5 in closed beta](http://project
 
 You can also (for 50,000 points) buy whichever of the three closed beta characters you didn't start with. These characters are yours permanently, and I fully imagine more will become available when the game goes live.
 
-![run-2008-06-25-19-17-52-65.jpg](https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-25-19-17-52-65.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-25-19-17-52-65.jpg" classes="center" >}}
 
 The lobby is a gentle snowfield on this snow-filled world you've discovered (in the game's backstory, global warming has made snow vanish across the Earth). You can chat, you can discuss your clan (the clan I'm in: BDSM. ALWAYS ask about the name of a clan before you join.), you can talk about the gold farmers who will join the game and just sit near the starting line for the cash, you can throw snowballs (click on the snow to make a snowball, click on another player to hurl it at them).
 
@@ -68,7 +45,7 @@ Once everyone clicks READY, the room host (and, I suspect, the person whose comp
 
 Your experience gain is based upon your distance from last place. Last place finishers, or non-finishers, get very little experience. So if you're shredding by yourself, you will take a long time to level. With two people, the second place finisher, no matter how good, will get nearly no experience points. Get four people in a game and just avoid being last, and you're all set.
 
-![run-2008-06-25-19-03-40-86.jpg](https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-25-19-03-40-86.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-25-19-03-40-86.jpg" classes="center" >}}
 
 The racing is exhilarating. The animations are great, the characters -- all three of them -- are cute and expressive. The outfits and accessories you can buy to customize your character are very nice and very affordable, though having to keep buying them is an epic fail with me. If I work hard for an outfit only to see it evaporate after a week, I doubt I will bother buying it again, much less spend real money on it. Though if buying it with real money gets a permanent copy, well, then I just might do it. Not having put money into this game, I don't know.
 

@@ -3,39 +3,16 @@ date: '2012-08-06T07:03:35-05:00'
 draft: false
 title: "Diablo 3 Hardcore: The Lord of Lies, Part 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/08/06/diablo-3-hardcore-the-lord-of-lies-part-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't know anyone who, upon first meeting the child emperor in Diablo 3 Act II, didn't think they'd be battling him at the end..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-05-23-06-44-83-480x320.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-05-23-06-44-83-480x320.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-05-23-06-44-83-480x320.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-05-23-06-44-83-480x320.jpg"
 ---
+I don't know anyone who, upon first meeting the child emperor in Diablo 3 Act II, didn't think they'd be battling him at the end...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-05-23-06-44-83-480x320.jpg" title="Dude, where's my Belial?" class="align-center" >}}
+
 
 I don't know _anyone_ who, upon first meeting the child emperor in Diablo 3 Act II, didn't think they'd be battling him at the end of the chapter.
 
@@ -43,13 +20,13 @@ We left off last week with Stingite, Spode and me (witch doctor, barbarian and m
 
 He would clearly be grateful for our help and not immediately try to kill us.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-05-22-40-47-39-480x313.jpg" title="This is the thanks we get." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-05-22-40-47-39-480x313.jpg" title="This is the thanks we get." classes="center" >}}
 
 Unfortunately for Zoltan, Leah's mom had sealed away the power of the captured lords of Hell in the Black Soulstone, hiding them from Zoltan's use, and making him rather trivial to kill. The only one who could possibly unseal them would be Leah herself, but I'm pretty sure she will never betray us and attempt to kill us.
 
 Soon we were saving busy bazaar shoppers from hordes of marauding snake-men and heading into the castle to take on Belial and save the child-emperor.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-05-23-14-57-31-480x384.jpg" title="No more lies." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-05-23-14-57-31-480x384.jpg" title="No more lies." classes="center" >}}
 
 Turns out the child-emperor had been possessed by Belial himself. Who knew?
 
@@ -61,7 +38,7 @@ For a couple of seconds, anyway. Calrain and Stingite were nearly insta-killed d
 
 With some close calls we made it. Belial was tuned to be fought by four of us, but Spode's defenses and my vitality (due to my ill-gotten auction house gear) held us through.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-06-07-16-53-35-480x165.jpg" title="Cheevs" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-06-07-16-53-35-480x165.jpg" title="Cheevs" classes="center" >}}
 
 Calrain was back in the game almost immediately with a level 9 demon hunter he'd had in his back pocket, but Stingite's witch doctor had been his backup. He quickly created a new witch doctor and we restarted Act II to try and get them both some quick levels.
 

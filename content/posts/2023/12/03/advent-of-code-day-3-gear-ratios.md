@@ -3,41 +3,19 @@ date: '2023-12-03T13:01:35-05:00'
 draft: false
 title: "Advent of Code Day 3 -- Gear Ratios"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/03/advent-of-code-day-3-gear-ratios/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "My Haskell experiments end. Even though I got the answer, have I failed?"
-description: "My Haskell experiments end. Even though I got the answer, have I failed?"
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "Advent"
   - "Elf"
   - "Haskell"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_working_on_a_giant_machine_with_many_ge_47e1029a-b055-4df9-99f0-1c55a64ca2e8.png"
 ---
+My Haskell experiments end. Even though I got the answer, have I failed?
+<!--more-->
 
 I am super disappointed in myself today. I spent the entire morning working, on Haskell, to parse the input for this problem, but I just couldn't do it. It's not that Haskell isn't suited for it; it's just that the way I think about solving these problems is incompatible with Haskell.
 
@@ -45,7 +23,7 @@ I've looked at the Haskell solutions for the first two days of Advent of Code an
 
 Anyway. So the deal here is that[ you are taking a gondola from the tundra island](https://adventofcode.com/2023/day/3) you were trebucheted to yesterday to the place where the snow machine lives. The gondola is, of course, broken. There is an elf fixing it, but they're not having much luck. Some parts are missing!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image.png" classes="fig-20" >}}
 
 To the left here is the sample input, which is the blueprint to the machine we're trying to fix. We're trying to find the sum of all the part numbers, where a part number is any string of digits that is adjacent to a symbol that is not a period. In this example, the only numbers that are not part numbers are 114 and 58.
 

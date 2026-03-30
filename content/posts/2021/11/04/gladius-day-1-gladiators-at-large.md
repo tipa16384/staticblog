@@ -3,44 +3,22 @@ date: '2021-11-04T08:06:56-05:00'
 draft: false
 title: "Gladius, Day 1: Gladiators at Large"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/11/04/gladius-day-1-gladiators-at-large/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Welcome to the start of my playthrough of LucasArts' \"Gladius\", a tactical arena fighting game for the PlayStation 2...."
+categories:
   - "Emulators"
   - "Gladius"
   - "PS2"
   - "Tactical RPG"
+tags:
   - "Final Fantasy Tactics"
   - "Lucasarts"
   - "PCSX2"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211103184301.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211103184301.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103184301.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103184301.png"
 ---
+Welcome to the start of my playthrough of LucasArts' "Gladius", a tactical arena fighting game for the PlayStation 2....
+<!--more-->
 
 Welcome to the start of my playthrough of LucasArts' "Gladius", a tactical arena fighting game for the PlayStation 2.
 
@@ -48,7 +26,7 @@ Wow. What to say about this game? I first heard about this game only a couple of
 
 There are two stories to choose from; that of Valen, a gladiator earning fame in Roman Imperia; or Ursula, a warrior seeking glory in Viking Nordagh. Ursula's story is marked as "beginner" level, so I started with her.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211104071512-1024x714.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211104071512.jpg)Urlan and Ursula playing "King of the Hill"
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211104071512-1024x714.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211104071512.jpg)Urlan and Ursula playing "King of the Hill"
 
 Witches gathered for the birth of King Orin's first child, a daughter of prophecy. When his wife gave birth instead to a son, he angrily sent the witches away. Moments later, his wife delivered another baby, a girl, Ursula. Fearing the witches retribution, he hid the children away, and only ever talked about Ursula as her brother Urlan's younger sister.
 
@@ -58,7 +36,7 @@ King Orin has tasked Prince Urlan with starting a gladiatorial school, and to ta
 
 It's unfortunate that a chance encounter on the road puts them on her trail...
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211103231222-1024x714.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211103231222.jpg)Ursula's stats
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103231222-1024x714.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103231222.jpg)Ursula's stats
 
 The gameplay is very familiar to anyone who has played a tactical RPG like Final Fantasy Tactics in the past. Characters move in order of their "INI" -- initiative -- stat. Players can opt to move, move and attack, attack, or use a special skill. These special skills can be purchased with points gained from leveling up.
 
@@ -68,11 +46,11 @@ There's also a rock-paper-scissors relationship between fighter types. Heavy fig
 
 Winning battles earns gold, certificates, and fame. Certificates allow the school to enter higher level tournaments. Fame is often required to even be allowed to apply. During battles, actions seen as honorable or dishonorable by the audience can raise or lower their favor, which grants power to the team that has it. It's good to spend the first few turns in battle seeing what the people want, and then giving them more of it. Fame doesn't come cheap, after all.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211104065947-1024x714.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211104065947.jpg)The Overworld
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211104065947-1024x714.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211104065947.jpg)The Overworld
 
 Once out of the tutorial fights, the twins can roam freely around the overworld, visiting the arenas of neighboring towns, gathering rumors from random travelers, buying from the occasional merchants and so on. I'm told that following up on rumors will allow me to find new recruits with special abilities. I did hire a couple, but so far, there's only been 2-on-2 fights and I haven't had a chance to use them.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211103230143-1024x714.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/gsdx_20211103230143.jpg)World Map
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103230143-1024x714.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/gsdx_20211103230143.jpg)World Map
 
 The fights so far seem to be a lot less complicated and a lot smaller than the ones in Final Fantasy Tactics or Ogre Battle, but then again, I have just barely started. I'm sure things will get a bit heavier once we reach the big leagues.
 

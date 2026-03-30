@@ -3,40 +3,17 @@ date: '2012-02-18T00:15:31-05:00'
 draft: false
 title: "D&D 4E Shadowfell Keep: Splug is the hobgoblin of little minds. Part I."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/18/dd-4e-shadowfell-keep-splug-is-the-hobgoblin-of-little-minds-part-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "\"You all so good people, give all you hug many time,\" whispered Splug to Wenner. The hobgoblin moved a little closer. The stench was overpowering..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-16-22-28-52-80-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-16-22-28-52-80-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-16-22-28-52-80-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-16-22-28-52-80-480x360.jpg"
 ---
+"You all so good people, give all you hug many time," whispered Splug to Wenner. The hobgoblin moved a little closer. The stench was overpowering...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-16-22-28-52-80-480x360.jpg" title="Does this ring a bell?" class="align-center" >}}
+
 
 "You all so good people, give all you hug many time," whispered Splug to Wenner. The hobgoblin moved a little closer. The stench was overpowering to the halfling, and he'd been close to some heroic stenches in his day. "But you my favorite," said Splug, "you hairy like me. Maybe hobgoblin and halfling cousin, yes?"
 

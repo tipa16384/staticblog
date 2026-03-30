@@ -3,40 +3,18 @@ date: '2025-08-08T19:10:50-05:00'
 draft: false
 title: "Lilliput's Workshop"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/08/lilliputs-workshop/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Do you like little wooden train sets and solving puzzles? Well, if you do, have I got a game for you..."
-description: "Do you like little wooden train sets and solving puzzles? Well, if you do, have I got a game for you..."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
   - "Steam Games"
+tags:
   - "Lilliput Workshop"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/lilliputbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/lilliputbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/lilliputbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/lilliputbanner.png"
 ---
+Do you like little wooden train sets and solving puzzles? Well, if you do, have I got a game for you...
+<!--more-->
 
 Anyone who has read this blog for long knows that I loves me some puzzle games, especially those really intricate creations where you have to put together some really complicated process from really small parts. SpaceChem, Factorio, Last Call BBS. Give me a bucket of parts and a goal and I'll figure it out eventually.
 
@@ -44,17 +22,17 @@ Those games tend to ramp up pretty fast, though. [Lilliput's Workshop](https://s
 
 It takes many puzzles before they introduce the first programmable element, the turntable and the switch that allows switching tracks. Then the fun can begin -- but that's just the start.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/20250808171825_1-1024x429.jpg" title="Turntables!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/20250808171825_1-1024x429.jpg" title="Turntables!" classes="center" >}}
 
 The islands are inhabited by tiny "Lilliputs" who apparently knew your granddad, who possessed the hexagonal box the Lilliputs and their town and their train came in. They're pretty sure that you and your granddad are the same person, and who are you to tell them differently?
 
 But they need help. Things have gone to pot since your grandfather last played with them, and they need you to help them get back on *track*.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-24.png" title="Sorry not sorry" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-24.png" title="Sorry not sorry" classes="center" >}}
 
 It's a cozy little game, to be sure. The game gives you a little hint before you start each level just to get you in the right... *train of thought*. Your progress is tracked in an old book; two chapters in and I've had to solve a couple of brain teasers, but for most of them, overthinking the solution is the biggest *obstacle*. And what obstacles those Lilliputians are. They won't let you work alone. They have to watch... by standing *right where* you wanted to lay some track.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-25.png" title="Your backstory" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-25.png" title="Your backstory" classes="center" >}}
 
 There are issues.
 
@@ -64,7 +42,7 @@ There's not really a good way of sharing your finished solutions -- this is some
 
 Yes, this *is* how I spend my time. It's my birthday. I do what I want.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/lilliput.gif" title="Chew Chew!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/lilliput.gif" title="Chew Chew!" classes="center" >}}
 
 So, verdict: approachable puzzle game with really cute theming at a pretty nice price, especially in its first week on Steam (so, like, right now). The Brio look is instantly evocative if you were a kid who played with them or *knew* a kid who did (or were, like me, compelled to *buy* Brio whenever we came anywhere near a toy store).
 

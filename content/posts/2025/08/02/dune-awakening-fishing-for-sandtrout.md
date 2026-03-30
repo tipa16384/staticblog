@@ -3,42 +3,20 @@ date: '2025-08-02T08:00:00-05:00'
 draft: false
 title: "Dune Awakening: Fishing for Sandtrout"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/02/dune-awakening-fishing-for-sandtrout/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Is Dune: Awakening even an MMO if it doesn't have fishing? My playgroup moves into the Deep Desert and finds..."
-description: "Is Dune: Awakening even an MMO if it doesn't have fishing? My playgroup moves into the Deep Desert and finds..."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
   - "Dune Awakening"
   - "MMORPG"
+tags:
   - "Team Spode"
   - "Tell Me of Your Homeworld Usul"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/fishingforsandtrout.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/fishingforsandtrout.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/fishingforsandtrout.png"
 ---
+Is Dune: Awakening even an MMO if it doesn't have fishing? My playgroup moves into the Deep Desert and finds...
+<!--more-->
 
 Steam says I've been playing Dune: Awakening now for 114 hours.
 
@@ -46,7 +24,7 @@ That's a lot of time -- more time than I spend playing a lot of games, and I'm s
 
 It's not really easy to define that -- "done" -- for open world survival games like Dune. There is a plot that runs through the game, and there's the run of progression through levels and skill trees, and high level zones to work toward. But, you can always build another base, run another dungeon (I mean, "research stations"), craft another ornithopter, explore the nooks and crannies.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-2-1024x668.png" title="Familiar names" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-2-1024x668.png" title="Familiar names" classes="center" >}}
 
 The plot. I don't know what the plot is; they reveal it only in bits and pieces.
 
@@ -56,7 +34,7 @@ Everyone wants it, even though withdrawal is fatal. The Imperium doesn't really 
 
 The ones sent before you have gone insane with their spice powers. They're yours to kill, and as you do, a glowing tattoo appears on their cheek -- the same tattoo you were given when you were sent on the mission. It gradually becomes clear that you were not chosen randomly, and neither were the others. You have knowledge you shouldn't have. What is easy for you is hard for others. You have secret skills nobody else can learn.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-3-1024x700.png" title="You see giant phantom deer walking across the shield wall..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-3-1024x700.png" title="You see giant phantom deer walking across the shield wall..." classes="center" >}}
 
 Parallel to this is the Valheim-style progression of biomes. You start in a crowded place of rocks and surprisingly easy access to water (via dew) and other resources. If there weren't the tutorial quests pushing you to move, there'd be little reason not to just set up a little fiefdom of your own in the place where you spawned.
 
@@ -64,7 +42,7 @@ But the quests do make you move to the stomping grounds of Shai Hulud, the deadl
 
 Next up for vehicles is a sand buggy and introduction to the next level of zones -- the multilevel Hagga Rift and the pillars of al-Jabib. These bring quicksand that will help the sandworm get to you as it holds you fast. Last comes the Eastern and Western shield walls that block access to the Deep Desert. The Deep Desert is where it all happens.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-4-1024x466.png" title="Might be the Deep Desert" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-4-1024x466.png" title="Might be the Deep Desert" classes="center" >}}
 
 We play on a privately hosted server. There's nobody on the server who is even slightly interested in killing anyone else. The Deep Desert is... different. It's a shared zone, shared with a few dozen other servers, and you can kill anyone you see. As they say, the Laws of Kanly do not apply in the Deep Desert. The loot is better there. There's resources there that can't be found anywhere else. And, of course, there's the spice. Spice explodes in a glorious indigo volcano and starts a race against time to harvest it before sandworms converge on the spice blow. They always come.
 
@@ -74,7 +52,7 @@ Not ten minutes later, someone asks, on broadcast, who it was that left their sa
 
 Oops. Cal and I finished up the research facility we were looting and headed back. I'd just take my thopter; we could split up and cover more territory. We found a few shipwrecks and another research station, got some nice loot.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-5-1024x513.png" title="Muad'dib!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-5-1024x513.png" title="Muad'dib!" classes="center" >}}
 
 144 hours in, and I'm more or less at edge of the endgame. But there really isn't much more. Finish the storyline, see where that goes, but there is no World vs World here; there's no territory to hold. There is the Lansraad, a non-governmental entity that takes votes from all the Great Houses on boons and penalties to be applied for the next week. An endgame possibility is influencing the lesser Great Houses to vote your way on things, but there's not really any huge benefit. Guilds are recognized for their Lansraad influence, but... who cares?
 
@@ -86,4 +64,4 @@ The reason I made it this far is the most important reason. I'm playing with *fr
 
 *Header image was generated by Midjourney by a prompt written by ChatGPT. LLMs, working together! Below is the starting point. The header is the endpoint. There were lots of attempts between them.*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-6-1024x683.png" title="Yeah, this one sucked. ChatGPT and I had words." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-6-1024x683.png" title="Yeah, this one sucked. ChatGPT and I had words." classes="center" >}}

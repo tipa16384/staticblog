@@ -3,40 +3,17 @@ date: '2007-12-19T09:49:06-05:00'
 draft: false
 title: "EQ2: It's a jungle in here."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/19/eq2-its-a-jungle-in-here/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "While traveling, I could only play for a little bit here and there, so I focused mainly on Frostfell crafting when I did play. I..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-19-07-01-05-82.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-19-07-01-05-82.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-19-07-01-05-82.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-19-07-01-05-82.jpg"
 ---
+While traveling, I could only play for a little bit here and there, so I focused mainly on Frostfell crafting when I did play. I...
+<!--more-->
 
-![everquest2-2007-12-19-07-01-05-82.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-19-07-01-05-82.jpg)
+
 
 While traveling, I could only play for a little bit here and there, so I focused mainly on Frostfell crafting when I did play. I did get a group finally to finish my Bone-Clasped Girdle, and thanks to the new non-aggroness of the Sanctum of the Scaleborn, advanced a step in my Wurmslayer quest. Yes, I am way behind on quests, and it has been impossible to find groups to help.
 

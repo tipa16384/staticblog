@@ -3,45 +3,23 @@ date: '2023-12-04T21:07:24-05:00'
 draft: false
 title: "Advent of Code Day 4 -- Scratchcards"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/04/advent-of-code-day-4-scratchcards/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "So, I'm back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out."
-description: "So, I'm back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out."
-tags:
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Haskell"
   - "Java"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_sitting_on_a_giant_heap_of_scratch_off__6f747a63-e079-4e61-aea3-4d9d81e4b203.png"
 ---
+So, I'm back to solving the puzzle in Haskell again. This puzzle was easy enough for me to figure out.
+<!--more-->
 
 In today's puzzle, we're helping an elf figure out[ if any of the few hundred scratchcards he's scratched off](https://adventofcode.com/2023/day/4) have won him anything.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-1-147x300.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-1-147x300.png" classes="fig-20" >}}
 
 Why? I have *no idea*. There was a meme in the subreddit today with the top picture of a guy looking like he was totally over it all with the caption, "When my boss asks me to solve a weird problem for money", and the guy on the bottom looking all excited with the caption, "When an elf asks me to solve a weird problem for free".
 
@@ -65,7 +43,7 @@ This seemed like a problem for sets -- collections that can't contain any duplic
 
 Java has a problem with requiring extra stuff. But briefly, we read the data, go through each line and map the input into two sets -- winning numbers and card numbers. We intersect them, discard losing cards, then figure out the point value and sum them up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-2-1024x585.png" title="I've been using Midjourney for the header images. This is Dall-E 3." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-2-1024x585.png" title="I've been using Midjourney for the header images. This is Dall-E 3." classes="center" >}}
 
 **Haskell**
 

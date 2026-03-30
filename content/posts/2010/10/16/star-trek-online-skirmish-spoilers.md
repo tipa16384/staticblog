@@ -3,26 +3,11 @@ date: '2010-10-16T17:27:54-05:00'
 draft: false
 title: "Star Trek Online: Skirmish (spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/16/star-trek-online-skirmish-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Cardassian"
   - "Devidian"
   - "Donatu"
@@ -34,20 +19,15 @@ tags:
   - "Federation News Service"
   - "Klingon"
   - "Weekly Episode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-14-50-16-71-480x303.jpg "Skirmish")](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-14-50-16-71.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-50-16-71.jpg)
 
 **skirmish**: *a minor or preliminary conflict or dispute.*
 
@@ -55,13 +35,13 @@ It is said that four thousand throats may be cut in one night by a running man. 
 
 K'men is no friend to the House of Krontor, but he has the ear of the High Council. My crew were relaxing on the Ferengi station in the Eta Eridani sector, Drozana. The campaign against the Breen had been fought and won valiantly. Many barrels of blood wine needed drinking; many duels needed fighting; many wrongs needed forgetting with good stories and brave companions.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-14-59-29-13-480x384.jpg "The Axon")](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-14-59-29-13.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-59-29-13-480x384.jpg" title="The Axon" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-14-59-29-13.jpg)
 
 When battle calls, though, every warrior answers. K'men told us that a True Way fleet had just entered the Neutral Zone between the Federation and the Empire; the Federation were fighting them in the Donatu system. The Empire had sent a small squadron of ships to watch the Federation and the Cardassians wipe each other out and remove the survivors. We were to join them. General Longash and Captain Kavana formed the rest of our strike team.
 
 It was a good battle, and a good day for many Federation, Cardassians and Jem'hadar to die. We boarded the Cardassian ship "Axon" when we detected unusual radiation in the ship.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-15-03-07-41-480x384.jpg "Killing with the Cardassians")](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-15-03-07-41.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-15-03-07-41-480x384.jpg" title="Killing with the Cardassians" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-15-03-07-41.jpg)
 
 There were still Cardassians left to battle. We killed all we saw. Their medical bay was filled with dead spoon-heads; some in stasis. The medical records told a story of an unusual sickness that raced through the crew, leaving them weak and dying without any hope of a cure.
 
@@ -71,7 +51,7 @@ We used the ship's sensors to scan for unusual radiation; we detected trilon rad
 
 We headed for the bridge; the trilon radiation was concentrated there. The Cardassians were too weak to survive exposure. Klingons laugh.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-15-13-40-67-480x384.jpg "Devidians")](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-16-15-13-40-67.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-15-13-40-67-480x384.jpg" title="Devidians" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-16-15-13-40-67.jpg)
 
 This was no stray radiation; this was an invasion! The Federation has unleashed these creatures from an out of phase universe on us all! They come to us begging for peace, only to make alliances with secret enemies. They undoubtedly were on their way to Qo'noS to infect the home world with these soul suckers.
 

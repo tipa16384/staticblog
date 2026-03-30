@@ -3,40 +3,19 @@ date: '2021-07-31T23:19:27-05:00'
 draft: false
 title: "The RPG Challenge: Final Fantasy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/07/31/the-rpg-challenge-final-fantasy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's the first of Blaugust! The week where a lot of game bloggers come together and... blog... to show the world just how much fun..."
+categories:
   - "Blaugust"
   - "Final Fantasy"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/Final_Fantasy_logo-1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/07/Final_Fantasy_logo-1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/Final_Fantasy_logo-1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/Final_Fantasy_logo-1.png"
 ---
+It's the first of Blaugust! The week where a lot of game bloggers come together and... blog... to show the world just how much fun...
+<!--more-->
 
 It's the first of Blaugust! The week where a lot of game bloggers come together and... blog... to show the world just how much fun typing can be :-)
 
@@ -46,7 +25,7 @@ The remastered versions of the first three games (none of which were originally 
 
 This will not be a walkthrough of Final Fantasy, I promise... well, not *only* that.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/img_0004.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/img_0004.jpg" classes="center" >}}
 
 Should there be more? I feel like there should be more.
 

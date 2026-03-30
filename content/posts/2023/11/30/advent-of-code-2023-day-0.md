@@ -3,41 +3,19 @@ date: '2023-11-30T07:00:00-05:00'
 draft: false
 title: "Advent of Code 2023 -- Day 0"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/30/advent-of-code-2023-day-0/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Oh heck... it's just about Advent of Code time! I am SO FAR from being ready."
-description: "Oh heck... it's just about Advent of Code time! I am SO FAR from being ready."
-tags:
+categories:
   - "Advent of Code"
   - "Midjourney"
+tags:
   - "Java"
   - "Pico-8"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/DALL·E-2023-11-29-23.20.51-A-festive-and-imaginative-illustration-for-a-blog-post-combining-the-themes-of-Advent-of-Code-Python-programming-and-Christmas-in-a-16_10-aspect-ra.png"
 ---
+Oh heck... it's just about Advent of Code time! I am SO FAR from being ready.
+<!--more-->
 
 My boyfriend loves Advent calendars. He's got them all wrapped up, ready to hand out Friday. I have one for him, too.
 
@@ -53,7 +31,7 @@ This year, the AoC organizer has asked us not to use AI solutions to get on the 
 
 So for most of the month of December... get ready to hear about my coding adventures in Santa land. And if you're participating, I'd love to read about your adventures as well.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/image-11-1024x574.png" title="Midjourney" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/image-11-1024x574.png" title="Midjourney" classes="center" >}}
 
 When I asked Midjourney for an illustration of Python programming, Christmas, and the Advent of Code competition, it really wanted to focus on pythons. As I asked for variants, the pythons became larger and more numerous and started to mutate.
 

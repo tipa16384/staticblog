@@ -3,44 +3,22 @@ date: '2007-12-02T09:45:15-05:00'
 draft: false
 title: "Jethro Tull, Wallingford, CT - 12/1/07"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/02/jethro-tull-wallingford-ct-12107/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I have this weird idea that if I've ever driven somewhere once, I'll always be able to find my way there again, no maps needed...."
+categories:
   - "General"
+tags:
   - "Aqualung"
   - "Calliandra String Quartet"
   - "Ian Anderson"
   - "Jethro Tull"
   - "Locomotive Breath"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/stp60784.JPG"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/stp60784.JPG"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/stp60784.JPG"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/stp60784.JPG"
 ---
+I have this weird idea that if I've ever driven somewhere once, I'll always be able to find my way there again, no maps needed....
+<!--more-->
 
-![stp60784.JPG](https://chasingdings.com/wp-content/uploads/2007/12/stp60784.JPG)
+
 
 I have this weird idea that if I've ever driven somewhere *once*, I'll always be able to find my way there *again*, no maps needed.
 

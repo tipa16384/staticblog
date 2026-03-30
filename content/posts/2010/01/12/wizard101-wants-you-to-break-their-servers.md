@@ -3,40 +3,19 @@ date: '2010-01-12T20:57:48-05:00'
 draft: false
 title: "Wizard101 wants you to break their servers!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/12/wizard101-wants-you-to-break-their-servers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/WizardGraphicalClient-2010-01-12-20-32-37-82.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/WizardGraphicalClient-2010-01-12-20-32-37-82.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/WizardGraphicalClient-2010-01-12-20-32-37-82.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/WizardGraphicalClient-2010-01-12-20-32-37-82.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/01/WizardGraphicalClient-2010-01-12-20-32-37-82.jpg "Party at Stormdrain Tower!")](https://chasingdings.com/wp-content/uploads/2010/01/WizardGraphicalClient-2010-01-12-20-32-37-82.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/01/WizardGraphicalClient-2010-01-12-20-32-37-82.jpg)
 
 KingsIsle is hoping W101 subscribers will log on to the Test Realm in the next couple of days, go to a certain area and just jump around, port there and back, and in general abuse the place.
 

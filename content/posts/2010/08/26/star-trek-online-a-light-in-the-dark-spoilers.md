@@ -3,26 +3,11 @@ date: '2010-08-26T23:01:21-05:00'
 draft: false
 title: "Star Trek Online: A Light in the Dark (spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/26/star-trek-online-a-light-in-the-dark-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Celestara Mex"
   - "Episode"
   - "Fluidic Space"
@@ -30,20 +15,15 @@ tags:
   - "Recap"
   - "Starfleet"
   - "Undine"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-23-10-17-94-480x384.jpg "A portal -- to where?")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-23-10-17-94.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-23-10-17-94.jpg)
 
 Where does this portal lead? It's a mystery -- but let's back up a bit.
 
@@ -57,7 +37,7 @@ Starfleet has summoned the Monterey to an obscure system in the Pelia sector. Th
 
 I call my first officer into my ready room and ask her, rhetorically, how the Undine could have made an exact duplicate of Starfleet HQ, worked itself into leadership positions in the Federation, Romulan and Klingon factions, and fought us again and again without coming to know us as well as we know ourselves? Commander Dylla said nothing. She will go far in this Starfleet. She knows when to shut up, a trait rare among we Andorians.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-22-24-15-36-480x384.jpg "An Undine base")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-22-24-15-36.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-22-24-15-36-480x384.jpg" title="An Undine base" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-22-24-15-36.jpg)
 
 We prepare the ship for transition to the fluidic realm, and follow Celestara's ship, the Seleya, through the portal. Navigation in fluidic space is a strange affair. We have never been able to analyze the liquid through which we glide. It is absolutely and utterly clear -- if there were even the slightest impurity, we could not see at all. The impurities tend to clump into massive, continent-sized globules that form the base for what life exists here. It is toward one of those that the Seleya swims. The Monterey follows as best she can.
 
@@ -65,7 +45,7 @@ Celestara Mex soon makes contact with the Undine. They return her greetings with
 
 We follow her message to a strange base growing from one of the immense globs of semi-solid fluid that dot this realm.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-22-25-35-63-480x384.jpg "In the Undine base")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-22-25-35-63.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-22-25-35-63-480x384.jpg" title="In the Undine base" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-22-25-35-63.jpg)
 
 With some trepidation, I form an away team. We meet at Transporter Room #2 and beam down at once.
 
@@ -73,7 +53,7 @@ Commander Longasc graciously consents to serve as tactical officer. Also on the 
 
 It is our first experience moving about in fluidic space without the Monterey around us. The experience seems exactly the same as moving against a stout wind blowing from all directions. The gravity is unexpectedly strong; the mass of this clump alone can not account for it. Clearly, there is much we don't know about this realm. Our 2mm dynamic force field modules keep us protected from whatever harmful effects the fluid might have, but we will have to keep an eye on our shield generators. We do not expect to go long without being attacked.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-22-37-07-85-480x384.jpg "An Undine prison")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-21-22-37-07-85.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-22-37-07-85-480x384.jpg" title="An Undine prison" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-21-22-37-07-85.jpg)
 
 Celestara Mex and three survivors of her crew are being held in semi-biotic cells; each are well-protected by an Undine squad, but they are dispatched without much trouble. The Undine have apparently not learned how to defend themselves against circle strafing and flanking damage. To their short-lived chagrin, no doubt.
 

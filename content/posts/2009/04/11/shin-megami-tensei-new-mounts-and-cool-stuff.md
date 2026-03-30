@@ -3,40 +3,17 @@ date: '2009-04-11T06:43:43-05:00'
 draft: false
 title: "Shin Megami Tensei: New mounts and cool stuff!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/11/shin-megami-tensei-new-mounts-and-cool-stuff/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was really looking forward to Shin Megami Tensei, I really loved the RPGs upon which the MMO is based, the MMO absolutely nailed the..."
+categories:
   - "MMORPG"
   - "Shin Megami Tensei"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/smt.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/smt.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/smt.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/smt.jpg"
 ---
+I was really looking forward to Shin Megami Tensei, I really loved the RPGs upon which the MMO is based, the MMO absolutely nailed the...
+<!--more-->
 
-![smt](https://chasingdings.com/wp-content/uploads/2009/04/smt.jpg "smt")
+
 
 I was really looking forward to Shin Megami Tensei, I really loved the RPGs upon which the MMO is based, the MMO absolutely nailed the look and feel of the RPGs, the action was smooth and the frame rates high, worked great on my computer. Well, except for the crashing, but it was early beta and they have doubtlessly fixed all that now.
 

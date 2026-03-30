@@ -3,24 +3,8 @@ date: '2009-05-06T08:36:55-05:00'
 draft: false
 title: "Daily Blogroll 5/6 -- Tempests and Teapots edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/06/daily-blogroll-56-tempests-and-teapots-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My new computer is due to be delivered today! I'll be at work, of course, but maybe I can finally find their delivery center and..."
+categories:
   - "City of Heroes"
   - "Daily Blogroll"
   - "Darkfall"
@@ -34,22 +18,15 @@ tags:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg"
 ---
+My new computer is due to be delivered today! I'll be at work, of course, but maybe I can finally find their delivery center and...
+<!--more-->
 
 My new computer is due to be delivered today! I'll be at work, of course, but maybe I can finally find their delivery center and pick it up afterward. My hope and fervent dream is that this will be the computer powerful enough to run Lord of the Rings Online....
 
-Anyway. A couple of weeks ago, Paragon Studios introduced the [Make Your Own Farm Mission](https://chasingdings.com/index.php/2009/03/19/city-of-heroes-architect-system-dont-you-know-that-youre-my-hero/) (aka Architect) system, where players could find a badge they wanted to gain, and find the perfect mission among the thousands created for this purpose to gain that badge, or that level, or whatever they liked. Experience with similar level creators in such obscure games as Diablo, Diablo II and LittleBig Planet wasn't clue enough that many players would use their new powers to create and play custom missions to benefit their characters.
+Anyway. A couple of weeks ago, Paragon Studios introduced the [Make Your Own Farm Mission](https://tipa16384.github.io/wkblog/index.php/2009/03/19/city-of-heroes-architect-system-dont-you-know-that-youre-my-hero/) (aka Architect) system, where players could find a badge they wanted to gain, and find the perfect mission among the thousands created for this purpose to gain that badge, or that level, or whatever they liked. Experience with similar level creators in such obscure games as Diablo, Diablo II and LittleBig Planet wasn't clue enough that many players would use their new powers to create and play custom missions to benefit their characters.
 
 In response, Paragon Studios is going on the offense. In its statement, Paragon Studios chides the players for using the Architect System for selfish purposes, and l[ays out a system of locking, rollbacks and banning to deal with the situation](http://boards.cityofheroes.com/showflat.php?Cat=0&Number=13427300&page=0&fpart=all&vc=1). 333 pages later (nice round number -- 333 is the number of the Beast's half brother. Get it? HALF-bro... nah n/m). 333 pages later, the players are still engaging the developers in polite conversation.
 
@@ -86,5 +63,3 @@ Syp of Bio Break writes that according to EA's quarterly reports, Warhammer Onli
 [Richard Garriott is suing NCsoft](http://www.gamesindustry.biz/articles/garriott-sues-ncsoft-for-USD24-million), publishers and developers of his ill-fated MMO Tabula Rasa, for $24,000,000, citing fraud. Hmm. [That should just about pay for his trip into space](http://www.time.com/time/health/article/0,8599,1844160,00.html?xid=feed-cnn-topics).... (via [Common Sense Gamer](http://commonsensegamer.com/) again)
 
 And that's it for another exciting edition of the Daily Blogroll! I leave you with a picture of my Free Realms level 12 Ninja, and her kitty Mr. Scruffy.
-
-![Tipa: 11 Ninja](https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-562009-125235-am.jpg "Tipa: 11 Ninja")

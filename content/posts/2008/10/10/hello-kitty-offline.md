@@ -3,40 +3,19 @@ date: '2008-10-10T07:11:11-05:00'
 draft: false
 title: "Hello Kitty Offline"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/10/hello-kitty-offline/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "As a Founding Member of Hello Kitty Online (you may now be seated), I was hoping to install it last night with the hopes that..."
+categories:
   - "Hello Kitty Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/gothhellokitty2.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/gothhellokitty2.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/gothhellokitty2.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/gothhellokitty2.gif"
 ---
+As a Founding Member of Hello Kitty Online (you may now be seated), I was hoping to install it last night with the hopes that...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/gothhellokitty2.gif "gothhellokitty2")As a Founding Member of Hello Kitty Online (you may now be seated), I was hoping to install it last night with the hopes that I would have better experiences with it now, than I did in closed beta.
+
+
+As a Founding Member of Hello Kitty Online (you may now be seated), I was hoping to install it last night with the hopes that I would have better experiences with it now, than I did in closed beta.
 
 In closed beta, I could not patch the game -- at all. Only when HKO would release each patch as a separate download that I could run locally could I get into the game.
 

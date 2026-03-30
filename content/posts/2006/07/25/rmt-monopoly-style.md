@@ -3,37 +3,12 @@ date: '2006-07-25T13:06:50-05:00'
 draft: false
 title: "RMT, Monopoly Style"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/25/rmt-monopoly-style/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Players Abel, Baker, Charlie and Dawn sit down for a friendly game of Monopoly. They each draw their starting money from the Bank. Baker gives..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Players Abel, Baker, Charlie and Dawn sit down for a friendly game of Monopoly. They each draw their starting money from the Bank. Baker gives...
+<!--more-->
 
 *Players Abel, Baker, Charlie and Dawn sit down for a friendly game of Monopoly. They each draw their starting money from the Bank. Baker gives a $20 bill to the banker and receives all the remaining $500 notes.*
 

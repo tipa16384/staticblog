@@ -3,38 +3,15 @@ date: '2015-05-31T16:33:45-05:00'
 draft: false
 title: "Act III: The Anger of the Gods"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/05/31/when-i-got-to-act-iii-in/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I got to Act III in Pillars of Eternity, I stopped. One of the first quests I got asked me to strengthen the future..."
+categories:
   - "Other Games"
   - "Pillars of Eternity"
-featured_image: "https://lh3.googleusercontent.com/-p_mPOkpAiuw/VWs36IBFf-I/AAAAAAABJY4/CdhIDs1Wuyc/w506-h750/PillarsOfEternity%2B2015-05-31%2B12-16-55-44.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-p_mPOkpAiuw/VWs36IBFf-I/AAAAAAABJY4/CdhIDs1Wuyc/w506-h750/PillarsOfEternity%2B2015-05-31%2B12-16-55-44.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-p_mPOkpAiuw/VWs36IBFf-I/AAAAAAABJY4/CdhIDs1Wuyc/w506-h750/PillarsOfEternity%2B2015-05-31%2B12-16-55-44.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-p_mPOkpAiuw/VWs36IBFf-I/AAAAAAABJY4/CdhIDs1Wuyc/w506-h750/PillarsOfEternity%2B2015-05-31%2B12-16-55-44.jpg"
 ---
+When I got to Act III in Pillars of Eternity, I stopped. One of the first quests I got asked me to strengthen the future...
+<!--more-->
 
 When I got to Act III in Pillars of Eternity, I stopped. One of the first quests I got asked me to strengthen the future bloodline of a long-established family by culling its weak souls so stronger ones could take their place. The weak soul the quest giver had in mind was currently in a child.
 
@@ -50,6 +27,8 @@ That brought everything into focus. If you're going to attack me... well...
 
 Thing is, if I'd had some stronger stats, there were other conversation options I might have tried instead.
 
-With Act III now opened to me, I've been doing the various god quests, which have, so far, ended poorly for the god's current supplicants. I only need one god's favor, but there's an achievement for getting the favor of all the remaining gods, so... with Belrath's favor gained, I'm working on Gawain's, next.﻿[![](https://lh3.googleusercontent.com/-p_mPOkpAiuw/VWs36IBFf-I/AAAAAAABJY4/CdhIDs1Wuyc/w506-h750/PillarsOfEternity%2B2015-05-31%2B12-16-55-44.jpg)]()
+With Act III now opened to me, I've been doing the various god quests, which have, so far, ended poorly for the god's current supplicants. I only need one god's favor, but there's an achievement for getting the favor of all the remaining gods, so... with Belrath's favor gained, I'm working on Gawain's, next.﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/+BrendaHolloway/posts/eeN9vqpdYCg)

@@ -3,44 +3,21 @@ date: '2013-09-10T23:28:48-05:00'
 draft: false
 title: "OMG, R U STILL AROUND?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/09/10/omg-r-u-still-around/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't actually talk, or type, like that texty speak. I don't know what came over me...."
+categories:
   - "DC Universe Online"
   - "EverQuest"
   - "Everquest"
   - "Facebook Games"
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg"
 ---
+I don't actually talk, or type, like that texty speak. I don't know what came over me....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-02-20-38-42-058-480x384.jpg" title="Trapped in a world without color" class="align-center" >}}
+
 
 I don't actually talk, or type, like that texty speak. I don't know what came over me.
 
@@ -64,7 +41,7 @@ Indie developer Dave Toulouse challenged people on Google+ to try his Match 3 ga
 
 I just can't enjoy life.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/09/DCGame-2013-09-08-23-11-57-62-480x384.jpg" title="Raiding in DCUO" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/09/DCGame-2013-09-08-23-11-57-62-480x384.jpg" title="Raiding in DCUO" classes="center" >}}
 
 I mentioned awhile back that we were going to give raiding a shot in DC Universe Online -- strictly random raid stuff. We -- meaning only me, at this point, I guess. I need so many Marks of Triumph for gear (several thousand per piece, about a hundred per Tier 3 group mission at a time) that it will take me months and months to get even one piece at our current rate. Everyone else has managed to earn enough marks and farm enough exobits that they are playing at a much higher level. Me, those solo missions take me hours to do with lots of dying and aren't any sort of fun at all. So I stopped doing them. I have this idea that I would stop playing a game where I wasn't having a good time.
 
@@ -72,7 +49,7 @@ I also have this weird hangup about joining random groups. I'm paranoid that peo
 
 Last Sunday, we raided again. I chose the "damage" role that every class can choose so that I wouldn't be tapped to be a controller. Though I intended to play that role anyway. Entering as "damage" would just ensure there being a real controller along as well. Instead of trying to use crowd control powers, though, I just fed mana continuously the entire raid. Nobody tried to kick me, and we eventually succeeded. 200 Marks. Only about three thousand more to go for my first piece of Tier 3 gear.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/09/Fullscreen-capture-9102013-115106-PM-480x429.jpg" title="Neverwinter Gateway" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/09/Fullscreen-capture-9102013-115106-PM-480x429.jpg" title="Neverwinter Gateway" classes="center" >}}
 
 I really enjoy my Neverwinter nights. Kasul and I alternate between doing Foundries one week and blasting through all the quests in a zone the next. Monday we explored The Chasm, a deep canyon full og toxic spell energy that warps the people and creatures within with the Spellplague. The zone's story ties neatly in to one of the first quest arcs you encounter in the game, a knight's desperate love for his spellplagued wife. There are twists and turns, and their story ends here.
 

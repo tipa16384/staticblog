@@ -3,40 +3,18 @@ date: '2025-10-06T08:12:32-05:00'
 draft: false
 title: "The Zen of Final Fantasy Tactics"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/10/06/the-zen-of-final-fantasy-tactics/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "There's the recommended way to play Final Fantasy Tactics. And then there's the way I play it."
-description: "There's the recommended way to play Final Fantasy Tactics. And then there's the way I play it."
-tags:
+categories:
   - "Final Fantasy"
   - "PS5"
+tags:
   - "Final Fantasy Tactics"
   - "The Ivalice Chronicles"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251005165514-scaled.jpg"
 ---
+There's the recommended way to play Final Fantasy Tactics. And then there's the way I play it.
+<!--more-->
 
 It's a story of love. It's a story of betrayal. It's a story of class warfare. It's a classic story that has stood the test of time for thirty years. Final Fantasy Tactics stands as not just one of the best Final Fantasy games, but one of the best tactical RPGs ever produced.
 
@@ -48,7 +26,7 @@ For the first several hours, I was leveling up Ramza's Squire job, until he got 
 
 Kasul was shocked when I finally started working on the main story.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251006070909-1024x576.jpg" title="Grinding" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/FINAL-FANTASY-TACTICS-The-Ivalice-Chronicles_20251006070909-1024x576.jpg" title="Grinding" classes="center" >}}
 
 But! There was a reason, and that reason has a name, and that name is Agrias.
 

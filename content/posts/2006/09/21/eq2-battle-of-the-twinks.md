@@ -3,41 +3,18 @@ date: '2006-09-21T02:01:58-05:00'
 draft: false
 title: "EQ2: Battle of the Twinks"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/09/21/eq2-battle-of-the-twinks/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I love twinks...."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/pics092006/battleofthetwinks.jpg"
-cover:
-  image: "https://chasingdings.com/images/pics092006/battleofthetwinks.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/pics092006/battleofthetwinks.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/pics092006/battleofthetwinks.jpg"
 ---
+I love twinks....
+<!--more-->
 
-![Dina vs Arioma](https://chasingdings.com/images/pics092006/battleofthetwinks.jpg "Dina vs Arioma")
+
 
 I love twinks.
 
@@ -53,7 +30,7 @@ I'm sure the broker in Qeynos would look at a ragged half elf with nothing but s
 
 Goods in hand, she can sneak out to the griffon tower in Antonica and hand the gems to Dina, who will run them at bard speed to Dorah, waiting in Freeport.
 
-![Propa Ganda, Coercer](https://chasingdings.com/images/pics092006/propa.jpg "Propa Ganda, Coercer") Dina was aided and abetted by Dera, who made the armor and the weapons, and Propa, who actually gathered all the rares on the Isle of Refuge. Rares are very common there.
+{{< image src="https://tipa16384.github.io/wkblog/images/pics092006/propa.jpg" title="Propa Ganda, Coercer" classes="fig-20" >}} Dina was aided and abetted by Dera, who made the armor and the weapons, and Propa, who actually gathered all the rares on the Isle of Refuge. Rares are very common there.
 
 Troubadors are more or less the scout versions of coercers. Troub powers in that respect were severely nerfed a couple months ago because, apparently, they infringed too much on the role of enchanters in groups.
 
@@ -63,7 +40,7 @@ She, of course, is the most twinked gnome on the island. Rare armor, rare staff,
 
 Coercers are fun. Find a likely pet and charm it. That lasts five minutes for her. Pull groups by mezzing, stunning and rooting adds. Let the pet tank one. Nuke the bejeezus out of the mob, and move to the next.
 
-![Dina](https://chasingdings.com/images/pics092006/dina.jpg "Dina")We raid Labs every night now on EQ2; we gear up a little, do a little better next time. We're doing the trash encounters in the Labs with two groups every night and doing quite well. Scored relic gloves and Nightchord bracers so far. With a little luck, I'll start getting coordinated again.
+{{< image src="https://tipa16384.github.io/wkblog/images/pics092006/dina.jpg" title="Dina" classes="fig-20" >}}We raid Labs every night now on EQ2; we gear up a little, do a little better next time. We're doing the trash encounters in the Labs with two groups every night and doing quite well. Scored relic gloves and Nightchord bracers so far. With a little luck, I'll start getting coordinated again.
 
 Swapped in my old hat for the new one a few weeks back. It's *better*but not *great*. That yellow just doesn't do it for me.
 

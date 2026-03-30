@@ -3,52 +3,27 @@ date: '2009-07-07T07:02:35-05:00'
 draft: false
 title: "EQ2 Fashion Show: Metal Gear and Tramp Wear"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/07/eq2-fashion-show-metal-gear-and-tramp-wear/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wow, it's been awhile since I did an EQ2 fashion post. But, ahead of my (soon to be) triumphant return to the game in a..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-06-22-03-44-23.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-06-22-03-44-23.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-06-22-03-44-23.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-06-22-03-44-23.jpg"
 ---
+Wow, it's been awhile since I did an EQ2 fashion post. But, ahead of my (soon to be) triumphant return to the game in a...
+<!--more-->
 
 Wow, it's been awhile since I did an EQ2 fashion post. But, ahead of my (soon to be) triumphant return to the game in a big way -- waiting on the new character transfer service to carry my characters to a new home on Antonia Bayle server -- it's time to start getting things ready for the trip.
 
 I really hope that Antonia Bayle server will be a more relaxed, casual experience than my current home, Najena. I was goofing off last night, listening to channels, and it sounds like T2 TSO armor PLUS mythical weapon is the baseline for TSO groups now. My main, Dina, has T1 TSO + Kunark raid armor (and her mythical), but my cleric? Her armor is just RoK group armor -- and no fabled, much less a mythical weapon. My goal is to get Dina her T2 armor, and to get Dera (cleric) T1 armor + Fabled epic.
 
-![EverQuest2 2009-07-06 22-03-44-23](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-06-22-03-44-23.jpg "EverQuest2 2009-07-06 22-03-44-23")
-
-![EverQuest2 2009-07-06 22-09-50-37](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-06-22-09-50-371.jpg "EverQuest2 2009-07-06 22-09-50-37")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-06-22-09-50-371.jpg" title="EverQuest2 2009-07-06 22-09-50-37" classes="center" >}}
 
 Dina won't need to look like the newb she is with the Station Marketplace's new BLACKENED VANGUARD ARMOR. Now, even the lowliest bard can look like a [BAMF](http://www.urbandictionary.com/define.php?term=B.A.M.F.) with this armor made from polished shards of the purest night. Look at how happy Bear is to bear (sorry) such a deadly haffer.
 
 Good stuff. First RMT armor I've bought, because it's just SO COOL.
 
-![Tramptacular!](https://chasingdings.com/wp-content/uploads/2009/07/fvarmors.jpg "Tramptacular!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/07/fvarmors.jpg" title="Tramptacular!" classes="center" >}}
 
 Brightknife went right for the more feminine section of the Marketplace store. First up: Firiona Vie's scepter and tiara. Apparently, Firiona Vie thinks she's the mascot for EverQuest II. Brzzzat! WRONG! Firiona is *EverQuest's* tame floozy! Antonia Bayle is EverQuest II's tramptacular booth babe.
 
@@ -58,8 +33,8 @@ The other two pictures are of the Circlet of Mums and the Circlet of Daisies -- 
 
 But back to the old Firiona vs Antonia fight. They are BOTH PALADINS, right? Why do they go around dressed in harem outfits? If memory serves, when Firiona went about in the world of Norrath, she was dressed in plate armor. But on the boxes -- you have Firiona Vie in [a bondage position being threatened by a lizard](http://www.mobygames.com/game/everquest-the-ruins-of-kunark/cover-art/gameCoverId,14301/) on the Rise of Kunark box; Firiona Vie knee deep in snow [dressed in nothing but veils and goosebumps](http://www.mobygames.com/game/windows/everquest-the-scars-of-velious/cover-art/gameCoverId,14299/) on the Velious box... seriously, wouldn't you have more respect for both Firiona Vie and her sister in slutitude, Antonia Bayle, if they dressed the part?
 
-![Firiona Vie in EverQuest. Note the plate armor and sword.](https://chasingdings.com/wp-content/uploads/2009/07/oldfv.jpg "Firiona Vie in EverQuest. Note the plate armor and sword.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/07/oldfv.jpg" title="Firiona Vie in EverQuest. Note the plate armor and sword." classes="center" >}}
 
-![Firiona Vie as she might look in EQ2](https://chasingdings.com/wp-content/uploads/2009/07/newfv1.jpg "Firiona Vie as she might look in EQ2")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/07/newfv1.jpg" title="Firiona Vie as she might look in EQ2" classes="center" >}}
 
 Fact is, teenage boys are just going to play WoW anyway, so there's no need to splatter softcore on the game boxes, and to SOE's credit, they've largely stopped doing so.

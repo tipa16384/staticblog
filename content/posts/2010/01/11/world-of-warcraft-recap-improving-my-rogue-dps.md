@@ -3,40 +3,17 @@ date: '2010-01-11T07:52:25-05:00'
 draft: false
 title: "World of Warcraft recap: Improving my rogue DPS"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/11/world-of-warcraft-recap-improving-my-rogue-dps/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Thanks to everyone who commented on my semi-frustrated post Saturday about my cruddy DPS as a rogue newly come to Dire Maul East. Angry Gamer..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-11-07-19-38-54.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-11-07-19-38-54.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/WoW-2010-01-11-07-19-38-54.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/WoW-2010-01-11-07-19-38-54.jpg"
 ---
+Thanks to everyone who commented on my semi-frustrated post Saturday about my cruddy DPS as a rogue newly come to Dire Maul East. Angry Gamer...
+<!--more-->
 
-Thanks to everyone who commented on my [semi-frustrated post Saturday](https://chasingdings.com/index.php/2010/01/09/world-of-warcraft-i-suck-at-this-whole-dps-thing/) about my cruddy DPS as a rogue newly come to Dire Maul East. Angry Gamer suggester changing my spec to Assassination, dumping my swords for daggers and relying on beefy crits to up my DPS. Myrix offered up a Combat-focused spec (as opposed to my Combat/Assassination spec), urged me to ditch my slow offhand for a fast one, and reminded me, with Rohan, to keep Slice-and-Dice up at all times. Gordon and Endelon worried that I was focusing too much on my DPS at such a low level (55). Many people thought the heavy emphasis on min-maxing in World of Warcraft hurt the pure enjoyment of the game.
+Thanks to everyone who commented on my [semi-frustrated post Saturday](https://tipa16384.github.io/wkblog/index.php/2010/01/09/world-of-warcraft-i-suck-at-this-whole-dps-thing/) about my cruddy DPS as a rogue newly come to Dire Maul East. Angry Gamer suggester changing my spec to Assassination, dumping my swords for daggers and relying on beefy crits to up my DPS. Myrix offered up a Combat-focused spec (as opposed to my Combat/Assassination spec), urged me to ditch my slow offhand for a fast one, and reminded me, with Rohan, to keep Slice-and-Dice up at all times. Gordon and Endelon worried that I was focusing too much on my DPS at such a low level (55). Many people thought the heavy emphasis on min-maxing in World of Warcraft hurt the pure enjoyment of the game.
 
 To that, well, World of Warcraft (and EverQuest and EverQuest 2) are achiever-oriented games. I'm sure lots of people play WoW for fun or social reasons, but I suspect most people play it to improve their character. Certainly this is why I'm playing WoW.
 
@@ -45,8 +22,6 @@ Since I don't have any decent daggers at the moment (always looking!), I went wi
 A few minutes later, the LFD tool sent me to Dire Maul East. Yay! I'd never grouped with Death Knights before, and now there were two in the group. The tank was in the "I don't need a group, I can heal myself" "blood" presence, causing the hunter to make a disparaging comment about DKs who don't know how to tank and leave the group. He was replaced by a third death knight.
 
 After three pulls in which I died because none of the death knights wanted to tank, I quit the group and logged out to do something else for awhile.
-
-![](https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-11-07-19-38-54.jpg "Improved Dire Maul East stats")
 
 When I came back later, I got a group, again for Dire Maul East, and was happy to see there were no Death Knights in the party. The druid bear tank kept aggro, I was happy. The other DPS were a fire-spec'd mage and a hunter.
 

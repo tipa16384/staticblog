@@ -3,62 +3,37 @@ date: '2006-01-25T00:00:00-05:00'
 draft: false
 title: "EverQuest II"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/25/everquest-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ventrilo is a nice thing to have around. Chatting is a lot easier when you don't have to type everything you're saying. And last night,..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/nashapt.jpg"
-cover:
-  image: "https://chasingdings.com/images/nashapt.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/nashapt.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/nashapt.jpg"
 ---
+Ventrilo is a nice thing to have around. Chatting is a lot easier when you don't have to type everything you're saying. And last night,...
+<!--more-->
 
 Ventrilo is a nice thing to have around. Chatting is a lot easier when you don't have to type everything you're saying. And last night, the subject of EQ2 came up... with more than a couple of people saying they wanted to try it again, to see how the new changes were working out.
 
 I hadn't really been on for more than to make screenshots now and again, and to visit my apartment, for quite some time. So last night, after we were done with our ZG raid, I logged on to EQ2 and played Nashuya, my level 8 fighter (on her way to shadow knight-dom), for awhile.
 
-![](https://chasingdings.com/images/nashapt.jpg)
-
 *Nashuya in Dina's West Freeport apartment*
 
 The quests are even *easier* to find than in WoW now. Icons on the map and over the heads of NPCs alert you to quests you have not gotten; different icons on the map and over their heads tells you of NPCs who can help with a quest you already have.
 
-![](https://chasingdings.com/images/nashpets.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/nashpets.jpg" classes="center" >}}
 
 *Nashuya with her dog, Foofoo, and Dina's cat, Lochinvar*
 
 Combat is still pretty much the same, though fighters get stances right off - which helps a lot. Death, when it comes (and it came pretty often in the group I joined last night), is not as harsh as it once was. You no longer drop a shard when you die; you just get some experience debt, which is no longer shared with your party.
 
-![](https://chasingdings.com/images/tipa.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/tipa.jpg" classes="center" >}}
 
 *Tipa is a monk in EQ2*
 
 EQ2 lets you have fun with classes in a way EQ1 never did. Any race can, potentially, be any class, though you may have to switch sides in the cold war between Qeynos and Freeport to do so. Tipa (above) is a halfling monk in her level 20-25 quest armor; and Dera (below) is an Inquisitor in the service of Lucan D'Lere, in the evil quest armor.
 
-![](https://chasingdings.com/images/dera.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/dera.jpg" classes="center" >}}
 
 *Dera, in her apartment in Big Bend*
 
@@ -66,19 +41,19 @@ In WoW, hardly anyone is *really* evil. The Horde is anything but - well, aside 
 
 I find it a refreshing change from the goody-goody quests on the Qeynos side; so much so that one of the first things I did with my second character, Dina, a troubadour (my highest character at 43), was follow Dera straight to the dark side.
 
-![](https://chasingdings.com/images/dinapet.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/dinapet.jpg" classes="center" >}}
 
 *Dina with her cat, Lochinvar, in her apartment*
 
 When EQ2 was released to the Japanese market, they did more than localize the text and speech. They also contracted with another company, SOGA, to make more anime-ish character models. When the Western players heard about this, they demanded SOE bring those models to everyone - and so they did, as an option. Personally, I think it makes halflings look too boyish, so I turned it off for them.
 
-![](https://chasingdings.com/images/dinanew.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/dinanew.jpg" classes="center" >}}
 
 *Dina with the SOGA model*
 
 Before the expansions, the overriding theme of EQ2 was one of rediscovery - exploring the shattered remains of Norrath (having pieces of a moon fall on you can really ruin your day). Initially, little was known about much of the world; but there were rumors that the home of halflings, Rivervale, had miraculously escaped from the widespread destruction following Luclin's demise. But with those rumors came news of demons and insanity stalking Rivervale, and strange magics running free in Misty Thicket, now known as the Enchanted Lands. Nothing prepared me for the mixed emotions I felt when I first laid eyes on Rivervale once more.
 
-![](https://chasingdings.com/images/dinarv.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/dinarv.jpg" classes="center" >}}
 
 *Dina, looking out from the Fool's Gold Inn*
 
@@ -86,7 +61,7 @@ After five years (at that time) playing halflings on EverQuest, it was exactly l
 
 EQ2 added solo instances for those who wanted a significant challenge and good loot without having others around. The first added was an "expansion pack" adding a few vampire dungeons. I wasn't that thrilled by it, to be honest.
 
-![](https://chasingdings.com/images/dinavamp.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/dinavamp.jpg" classes="center" >}}
 
 *Confronting a ghostly spider*
 
@@ -94,7 +69,7 @@ However, the followup expansion pack, Splitpaw, showed what they could really do
 
 They also added many solo instances with a fixed level all over the world; including this one in Everfrost that involves killing a bunch of trash mobs, four summoners and their guardians, a priest summoning a huge evil, and the demon summoned as well. I have beaten it just once... and I was walking on air after that.
 
-![](https://chasingdings.com/images/dinaef.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/dinaef.jpg" classes="center" >}}
 
 *An Everfrost solo instance*
 

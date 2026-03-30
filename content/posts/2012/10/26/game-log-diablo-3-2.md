@@ -3,40 +3,17 @@ date: '2012-10-26T09:04:52-05:00'
 draft: false
 title: "Game Log: Diablo 3"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/26/game-log-diablo-3-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I tell ya, Blizzard loves shoulder pads more than Joan Crawford. I knew it would be only a matter of time before my Diablo 3..."
+categories:
   - "Diablo 3"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-26-09-44-05-60-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-26-09-44-05-60-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-26-09-44-05-60-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-26-09-44-05-60-480x383.jpg"
 ---
+I tell ya, Blizzard loves shoulder pads more than Joan Crawford. I knew it would be only a matter of time before my Diablo 3...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-26-09-44-05-60-480x383.jpg" title="Shoulderpads!" class="align-center" >}}
+
 
 I tell ya, Blizzard loves shoulder pads [more than Joan Crawford](http://allaboardforskinkersswamp.files.wordpress.com/2012/07/joan-crawford-mildred-pierce.jpg). I knew it would be only a matter of time before my Diablo 3 wizard grew a pair. Of shoulder pads.
 

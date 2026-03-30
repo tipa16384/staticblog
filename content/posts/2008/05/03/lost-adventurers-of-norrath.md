@@ -3,41 +3,18 @@ date: '2008-05-03T09:37:39-05:00'
 draft: false
 title: "Lost Adventurers of Norrath"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/03/lost-adventurers-of-norrath/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Hard to believe tonight was just the third meeting of our Nostalgia-fueled progression group! We're trying to slow down our progression so that we have..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-02-18-55-25-76.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-02-18-55-25-76.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-02-18-55-25-76.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-02-18-55-25-76.jpg"
 ---
+Hard to believe tonight was just the third meeting of our Nostalgia-fueled progression group! We're trying to slow down our progression so that we have...
+<!--more-->
 
-![eqgame-2008-05-02-18-55-25-76.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-02-18-55-25-76.jpg)
+
 
 Hard to believe tonight was just the third meeting of our Nostalgia-fueled progression group! We're trying to slow down our progression so that we have the chance to see everything, and we're looking to the Lost Dungeons of Norrath to give us instant, instanced fun, challenges and decent loot.
 
@@ -45,7 +22,7 @@ Gozad was the big winner. He started off as a 17 monk, and quickly won a huge we
 
 We were again short a tank, and so I tanked for the second group. Props go to Coldheat for keeping me alive so well! Our only real tragedy was when I tested a locked chest and KILLED EVERYONE! It points out just how important having a good class balance is in EverQuest. We could have done so much more, so much faster, and gotten some more loot, if we'd had a rogue.
 
-![eqgame-2008-05-02-20-31-08-22.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-02-20-31-08-22.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-02-20-31-08-22.jpg" classes="center" >}}
 
 A couple of the people had never done LDoNs before! Astounding, as LDoN was the expansion that became SOE's love letter to casual pickup groups. You could bring a wide variety of group builds in, from just three players to a full group of six, and the dungeon would adjust itself to the number of people and their levels. The loot was excellent, the experience decent, the time commitment was low, and it was easy to find groups. LDoNs were what EQ meant to casual players until Dragons of Norrath updated it for higher levels and better loot.
 

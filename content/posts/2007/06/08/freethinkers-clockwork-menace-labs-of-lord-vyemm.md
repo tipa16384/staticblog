@@ -3,46 +3,23 @@ date: '2007-06-08T01:14:16-05:00'
 draft: false
 title: "Freethinkers, Clockwork Menace, Labs of Lord Vyemm"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/06/08/freethinkers-clockwork-menace-labs-of-lord-vyemm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Nice place for a pumpkin......"
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000034.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000034.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000034.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000034.jpg"
 ---
+Nice place for a pumpkin......
+<!--more-->
 
-![eq2_000034.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000034.jpg)
+
 
 *Nice place for a pumpkin...*
 
 I joined Eternal Chaos wanting to raid, and raid we do. Tonight we started off with Freethinker's Hideout. This is a fairly short instance in the Loping Plains with just four bosses. I don't have any decent pictures of the fights themselves, as 20 people gathered around one poor, frightened vampire... well, what's there to see? We're so MEAN to them. I swear. Vampires need love, too!
 
-![eq2_000026.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000026.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000026.jpg" classes="center" >}}
 
 *Eternal Chaos outside Freethinkers*
 
@@ -58,11 +35,11 @@ Blade Dance makes my group immune from AEs, as long as they don't take any damag
 
 I rescued a nice ring from being transmuted. That's two pieces of gear in three days; not too shabby!
 
-![eq2_000028.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000028.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000028.jpg" classes="center" >}}
 
 After the last Freethinker bit the dust, we headed to the Clockwork Menace Factory for eight minutes of doom. From first mob pull to last boss kill, eight minutes is all you have. We tried this in Revolution but just weren't fast enough. Tonight, EC was, but we were on the last minute. (I'm the vampire in the picture above. Showing solidarity with my bfs and gfs back in FTH, doncha know. Somborn REPRESENT!)
 
-![eq2_000033.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000033.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000033.jpg" classes="center" >}}
 
 We closed the night raiding the Laboratory of Lord Vyemm. Neither my shoulders nor boots dropped tonight (again...) but Labs is always a fun run. The picture above is of the Young Dragon strafing us as we cower on the wall above the Halls of Fate. A human named Bard brought down the dragon Smaug with one black arrow, but I'd be darned if I was going to let go of the wall to try and shoot a purple dragon before the droags snarling below got me.
 

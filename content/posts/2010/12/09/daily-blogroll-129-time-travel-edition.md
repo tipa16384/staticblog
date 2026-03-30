@@ -3,42 +3,19 @@ date: '2010-12-09T06:00:50-05:00'
 draft: false
 title: "Daily Blogroll 12/9 -- Time Travel edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/09/daily-blogroll-129-time-travel-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A little later, we'll be talking about a virtual world to a \"Time Travel\" theme, which will send customers through differently themed worlds. Like, \"Now..."
+categories:
   - "Daily Blogroll"
   - "MMORPG"
   - "Rift"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/apollo.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/apollo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/apollo.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/apollo.png"
 ---
+A little later, we'll be talking about a virtual world to a "Time Travel" theme, which will send customers through differently themed worlds. Like, "Now...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/12/apollo.png "from the Star Trek episode ")
+
 
 A little later, we'll be talking about a virtual world to a "Time Travel" theme, which will send customers through differently themed worlds. Like, "Now you're in Roman World! Through that door is Dinosaur World! Take the trolley to Wild West World!". I don't know about you, but this seems more like a theme park than time travel. I think I'd keep waiting for [the killer robots](http://www.imdb.com/title/tt0070909/) to spring out from behind the bushes.
 

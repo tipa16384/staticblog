@@ -3,48 +3,26 @@ date: '2020-09-01T20:11:04-05:00'
 draft: false
 title: "Banner of the Maid: Let's try this again"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/01/banner-of-the-maid-lets-try-this-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was a little frustrated the last time I played Banner of the Maid, the tactical RPG for the Switch (et al) about a fantasy..."
+categories:
   - "Nintendo Switch"
   - "Switch"
   - "Tactical RPG"
+tags:
   - "Girls Screaming in Chinese"
   - "RPG"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020083123144500-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 ---
+I was a little frustrated the last time I played Banner of the Maid, the tactical RPG for the Switch (et al) about a fantasy...
+<!--more-->
 
-I was a *[little frustrated](https://chasingdings.com/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/)* the last time I played Banner of the Maid, the tactical RPG for the Switch (et al) about a fantasy retelling of the French Revolution. I hadn't leveled my characters evenly and it became clear I was never going to be able to beat a certain fight as I had no opportunities to grind my poor performers to higher levels.
+I was a *[little frustrated](https://tipa16384.github.io/wkblog/2020/08/19/banner-of-the-maid-doesnt-want-me-to-sleep/)* the last time I played Banner of the Maid, the tactical RPG for the Switch (et al) about a fantasy retelling of the French Revolution. I hadn't leveled my characters evenly and it became clear I was never going to be able to beat a certain fight as I had no opportunities to grind my poor performers to higher levels.
 
 The *other* issue that really killed my interest in the game was not being able to take screen shots. Not in the prologue, not in the cut scenes, not ever. The capture button, when pressed, displayed a little box on the screen saying that screen captures were disabled.
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/2020083123182200-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020083123182200-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 I put the game aside and played other games for awhile. I didn't really want to restart the game. But, then I decided I would restart the game, but this time in "Story" mode, the easiest mode.
 
@@ -56,7 +34,7 @@ And when I entered the next chapter of the story, they gave me repeatable battle
 
 Now, I'd like to go back to "Officer" mode, the normal mode, but it's a one-way switch. I'm not planning to restart once more and hope the normal mode is less buggy this time.
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/2020082920134100-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020082920134100-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 So, I think I can say that even at "Story" mode, the challenge is enough to keep a tactical fan happy, and there's probably a good chance that "Officer" mode would be achievable -- before that final fight, I'd been able to clear all the previous fights in two or three attempts, which I don't think is bad for this type of game and playing without a walkthrough. If I'd been able to grind out the level imbalance, I guarantee I'd have been able to sail on through.
 
@@ -68,7 +46,7 @@ Each character that joins Pauline's army is a commander of their own armies. The
 
 Character gain abilities as they level. More abilities can be learned in the military academy, and certain items you can buy from your faction lords increase your power even more.
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/2020082922020000-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020082922020000-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 Off the battle field, Pauline has to negotiate the various factions of revolutionary Paris. I made the mistake the first time of focusing on one faction at the expense of the others; this locked me out of certain opportunities to buy upgrades. The correct strategy is to try and raise all factions at the same time. You may side with the rebels, but the royals still have quite a lot to offer.
 

@@ -3,48 +3,26 @@ date: '2020-08-13T11:52:36-05:00'
 draft: false
 title: "Blaugust #7: Be The Best that Ever Was"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/13/blaugust-7-be-the-best-that-ever-was/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm still catching up on the Blaugust \"Promptapalooza\" prompts that I missed during the clean up after Tropical Storm Isaias. Today's prompt comes from Stingite..."
+categories:
   - "Blaugust"
   - "MMORPG"
+tags:
   - "Foundry"
   - "Neverwinter Online"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/GameClient-2014-02-06-07-29-35-19.jpg"
 ---
+I'm still catching up on the Blaugust "Promptapalooza" prompts that I missed during the clean up after Tropical Storm Isaias. Today's prompt comes from Stingite...
+<!--more-->
 
 I'm still catching up on the Blaugust "Promptapalooza" prompts that I missed during the clean up after Tropical Storm Isaias. Today's prompt comes from [Stingite over at The Friendly Necromancer](https://thefriendlynecromancer.blogspot.com/2020/08/promptapalooza-what-skill-do-you-want.html), who asks:
 
 > What skill do you want to improve the most?
 
-This is kind of an aspirational question, I guess. Truth is, if you want to build a skill, there's no better time to start. Just recently on this blog, I was whining about how terrible I was at painting miniatures and dragging my feet on painting the Gloomhaven ones. Commenter Jeromai [gave me some good starting tips](https://chasingdings.com/?p=388#comment-343), and I just went out and painted some minis. They didn't turn out great, but every time, I learn a little more.
+This is kind of an aspirational question, I guess. Truth is, if you want to build a skill, there's no better time to start. Just recently on this blog, I was whining about how terrible I was at painting miniatures and dragging my feet on painting the Gloomhaven ones. Commenter Jeromai [gave me some good starting tips](https://tipa16384.github.io/wkblog/?p=388#comment-343), and I just went out and painted some minis. They didn't turn out great, but every time, I learn a little more.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1741.jpg)The snake on the left is painted like my son's California King Snake
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1741.jpg" classes="center" >}}The snake on the left is painted like my son's California King Snake
 
 I'm trying to become a better writer. This is an ongoing, never-ending process. I'd thought I was decent at getting my point across using written words when I started blogging way back in forever ago (maybe fifteen years now?). I look back at those early posts and just realize how wrong I was. I'm still not great, but I can see that I've become better.
 
@@ -54,9 +32,9 @@ For game related skills, the last time I really learned a new skill in gaming wa
 
 I'd never done level design before. As a programmer, I have the bias that you're only *really* working on a game if you're coding in it. The writers, designers, artists and all have their place, but without code, nothing happens. Game Dev = Coder, right?
 
-I never actually thought that was the case. I never did *not* know that without the full range of skills, there is no game. But like [Snowball in Animal Farm](https://en.wikiquote.org/wiki/Animal_Farm), I considered all development roles to be equal -- but some were more equal than others. (Damnit... I should have used that quote in [the quotes post](https://chasingdings.com/?p=631)...)
+I never actually thought that was the case. I never did *not* know that without the full range of skills, there is no game. But like [Snowball in Animal Farm](https://en.wikiquote.org/wiki/Animal_Farm), I considered all development roles to be equal -- but some were more equal than others. (Damnit... I should have used that quote in [the quotes post](https://tipa16384.github.io/wkblog/?p=631)...)
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/GameClient-2015-02-22-07-35-04-34-1024x640.jpg)The Foundry didn't have gnomes. I had to create them.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/GameClient-2015-02-22-07-35-04-34-1024x640.jpg" classes="center" >}}The Foundry didn't have gnomes. I had to create them.
 
 The Foundry showed me just how wrong I was. There, there was no coding. All I had to do was write a script, a story structure, decision points for the player, all the characters and their looks and personalities, balance the encounters, guide the player through the adventure, add hooks into the existing Neverwinter lore to place the quest within the milieu... And, also, build all the scenes, triggers and their events, move things around when the player wasn't looking, wrestle with the tool box to create my vision even when the tools just weren't there... 
 

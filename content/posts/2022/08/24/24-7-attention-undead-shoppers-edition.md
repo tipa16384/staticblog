@@ -3,45 +3,23 @@ date: '2022-08-24T07:00:00-05:00'
 draft: false
 title: "24/7: Attention, Undead Shoppers edition."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/24/24-7-attention-undead-shoppers-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Do you have what it takes to keep the undead under control? Find out in 24/7, a challenging and exciting first-person shooter with a horror twist. Patrol the mall at night and keep the creatures of the night in check. Use a variety of different weapons and tools to help you in your task. Can you survive until dawn?"
-description: "Do you have what it takes to keep the undead under control? Find out in 24/7, a challenging and exciting first-person shooter with a horror twist. Patrol the mall at night and keep the creatures of the night in check. Use a variety of different weapons and tools to help you in your task. Can you survive until dawn?"
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "First Person Shooter"
   - "OpenAI"
   - "Zombie Games"
+tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Mall"
   - "Security Guards"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-16-19.33.49-A-photograph-of-a-security-guard-in-a-blue-uniform-watching-zombie-shoppers-walking-through-a-dark-mall-lit-with-a-glowing-mist-1977-film-Alien..png"
 ---
+Do you have what it takes to keep the undead under control? Find out in 24/7, a challenging and exciting first-person shooter with a horror twist. Patrol the mall at night and keep the creatures of the night in check. Use a variety of different weapons and tools to help you in your task. Can you survive until dawn?
+<!--more-->
 
 Number: 24. Genre: First-person shooter. Title: "24/7"
 
@@ -61,7 +39,7 @@ The guard typically works alone, but they may coordinate with other guards if th
 
 The undead creatures generally do not attack the guard unless they are provoked. However, if the guard does something to anger them or if they feel threatened, the creatures may attack. Additionally, some creatures may be more aggressive than others and may attack even if they aren't provoked. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-16-19.42.28-a-shaded-pencil-sketch-of-a-wombat-dressed-like-a-security-guard-carrying-a-flashlight-1024x1024.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-16-19.42.28-a-shaded-pencil-sketch-of-a-wombat-dressed-like-a-security-guard-carrying-a-flashlight-1024x1024.png" classes="fig-20" >}}
 
 > *As the security guard, I typically spend my night patrolling the mall. I keep an eye on all of the undead creatures and make sure they are behaving themselves. If any of them get out of line, I put them back in their place. Sometimes this can be a difficult task, especially when there are multiple creatures causing problems at once. But as long as I remain calm and keep a level head, I can usually handle anything that comes my way.*
 > *I also have to be on the lookout for any potential trouble. This includes things like zombies trying to break into stores or vampires causing mischief. If I see anything suspicious, I report it to my superiors so they can deal with it. Occasionally, I will encounter a creature that is particularly troublesome. In these cases, I may need to call for backup or use one of my specialty weapons to take care of the problem. But most of the time, a little bit of persuasion is all it takes to get the creatures to behave themselves.*

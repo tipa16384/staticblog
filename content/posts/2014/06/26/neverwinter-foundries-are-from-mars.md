@@ -3,41 +3,19 @@ date: '2014-06-26T18:46:37-05:00'
 draft: false
 title: "Neverwinter: Foundries are from Mars"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/06/26/neverwinter-foundries-are-from-mars/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Neverwinter Foundry Night! Wind and weather conspired to give me and Kasul enough uninterrupted power to meet in Neverwinter and do some foundries. Due to..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Foundry"
-featured_image: "https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg"
 ---
+Neverwinter Foundry Night! Wind and weather conspired to give me and Kasul enough uninterrupted power to meet in Neverwinter and do some foundries. Due to...
+<!--more-->
 
-![Shocked by the Spear of Mars!](https://lh3.googleusercontent.com/-q_qL0MWx2Ik/U6wASF20kQI/AAAAAAAAwEY/rhOUQX6GIkA/w907-h726-no/GameClient+2014-06-25+23-30-17-66.jpg)
+
 
 Neverwinter Foundry Night! Wind and weather conspired to give me and Kasul enough uninterrupted power to meet in Neverwinter and do some foundries. Due to the lateness of the hour, we only got around to two of them.
 

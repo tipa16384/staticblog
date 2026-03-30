@@ -3,42 +3,21 @@ date: '2021-08-04T23:50:28-05:00'
 draft: false
 title: "FF1 Playthrough: Pheasant Dreams!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/04/ff1-playthrough-pheasant-dreams/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Having made our way to the town of Melmond, we were shocked to find a ruin. A vampire was draining all of their Earthpower? The..."
+categories:
   - "Blaugust"
   - "CRPG"
   - "Final Fantasy"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Jrpg"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-lich.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-lich.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-lich.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-lich.jpg"
 ---
+Having made our way to the town of Melmond, we were shocked to find a ruin. A vampire was draining all of their Earthpower? The...
+<!--more-->
 
 Having made our way to the town of Melmond, we were shocked to find a ruin. A vampire was draining all of their Earthpower? The High Lord's Council is nowhere to be seen? Even Thomas Covenant has gone missing? Well, I guess maybe a few Warriors of Light could get the job done...
 
@@ -46,23 +25,23 @@ As is often the case, even with the hints the townscritters give, I'm never quit
 
 Yeah, that did it. I found the Shrine of Earth. It smelt foul. Evil. Stuff like that.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210804212013_1-1024x576.jpg" title="Isn't that what Diaga is for, though?" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210804212013_1-1024x576.jpg" title="Isn't that what Diaga is for, though?" classes="center" >}}
 
 We worked our way eventually to the third floor, and met the Vampire. Yay! Let's have a conversation about how difficult it is for mortals to kill the undying! We've been Dia'ing to show you!
 
 Turns out that we were right and he was wrong. He dropped a Star Ruby, which was nice of him. As the tattered shreds of his being sank resentfully into the ground, we headed through the far door to what we thought was a treasure room.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210804212329_1-1024x576.jpg" title="A stone slab!?" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210804212329_1-1024x576.jpg" title="A stone slab!?" classes="center" >}}
 
 It was only a stone slab, too heavy to lift. We couldn't do much with it. Without much else of a plan or anywhere else to go, we went back to Melmond. They were grateful for the vampire kill, but... the land was still dying. There was something *else*. Well yeah, we *know*. It's that *slab*.
 
 One of the sages in town reminded us that we hadn't yet talked to their wise hermit dude, so we walked around a little more until we came to a cave with a stone elemental in it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210804214556_1-1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210804214556_1-1-1024x576.jpg" classes="center" >}}
 
 Turns out he just wanted a Star Ruby. How... convenient. With him fed, he moved aside and we could travel through the other exit, and the way was clear to visit the wise hermit sage to the south.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210804215000_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210804215000_1-1024x576.jpg" classes="center" >}}
 
 I thought I could make him happy, but he just got Sadda and Sadda.... when he told us that we'd given up too soon, there was *another* evil, *deeper*.
 
@@ -72,17 +51,17 @@ Sadda gave us an Earth Staff and asked us to return to the cave and, you know, *
 
 The Earth Staff split the slab to reveal a set of stairs, going down.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210804221851_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210804221851_1-1024x576.jpg" classes="center" >}}
 
 After being sure to use all our magic and consumables getting down to the final room, we confronted the Lich in his lair. He was pretty frickin' happy about being a pile of bones at the bottom of a hole in the ground, but we thought we should do something about that anyway. The people of Mythical Manmonth may not be the friendliest folk, but they don't deserve to have the life in their soil leached away.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210804222157_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210804222157_1-1024x576.jpg" classes="center" >}}
 
 The *smart* move would have been for the White Mage to become hasted and cast Diaga a lot, but all of those spells had been used on the way down. Second would be for the Black Mage to cast a lot of Firaga, but... he died. Even though Drew's punches didn't hurt the Lich much, they hurt it *enough*, and the Red Mage could work on keeping him up while tossing Phoenix Downs everywhere they'd stick.
 
 That was enough (eventually). The lich was dead!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210804222233_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210804222233_1-1024x576.jpg" classes="center" >}}
 
 The Earth Crystal is saved! The game is one fourth done!
 

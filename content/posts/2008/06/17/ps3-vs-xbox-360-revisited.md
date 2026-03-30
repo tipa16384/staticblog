@@ -3,38 +3,13 @@ date: '2008-06-17T03:20:04-05:00'
 draft: false
 title: "PS3 vs Xbox 360, revisited"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/17/ps3-vs-xbox-360-revisited/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Because my son's domination of the television and, indeed, the entire living room by his 24/7, non-stop playing of Call of Duty 4, and his..."
+categories:
   - "Other Games"
   - "Rock Band"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Because my son's domination of the television and, indeed, the entire living room by his 24/7, non-stop playing of Call of Duty 4, and his...
+<!--more-->
 
 Because my son's domination of the television and, indeed, the entire living room by his 24/7, non-stop playing of Call of Duty 4, and his loud, loud, continual swearing, homophobia and racially-tinged epithets which is, of course, your standard Xbox Live experience really made it impossible to get anything done that required thought, I consigned him, the 360 and the TV to his bedroom, where he could belittle strangers with some doors between him and I.
 

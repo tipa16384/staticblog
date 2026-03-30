@@ -3,41 +3,16 @@ date: '2008-07-28T09:50:03-05:00'
 draft: false
 title: "Weekend Gaming and a rant about Star Trek Online"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/28/weekend-gaming-and-a-rant-about-star-trek-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was a pretty slow weekend, considering. I meant to do a first look at Pi Story to complement the one I did for Florensia,..."
+categories:
   - "EverQuest"
   - "Florensia"
   - "MMORPG"
   - "Star Trek"
   - "Wizard101"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+It was a pretty slow weekend, considering. I meant to do a first look at Pi Story to complement the one I did for Florensia,...
+<!--more-->
 
 It was a pretty slow weekend, considering. I meant to do a first look at Pi Story to complement the one I did for Florensia, but I didn't get to it. Nor did I play Florensia any. I did play some EverQuest; Saturday I did all sorts of running around with my ranger, soloed Hate and Sky with my cleric, and Sunday morning met up with a guildie to do The Hole more or less legit, in that I actually played Tipa the entire time :) But I've talked about that in a previous post.
 

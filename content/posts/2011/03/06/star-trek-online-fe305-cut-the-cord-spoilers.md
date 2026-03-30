@@ -3,26 +3,11 @@ date: '2011-03-06T00:00:03-05:00'
 draft: false
 title: "Star Trek Online FE305: Cutting the Cord (spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/03/06/star-trek-online-fe305-cut-the-cord-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After last week's epic episode, \"Coliseum\", those of us at the Federation News Service were intrigued to see just how they could possibly top that..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Cloaked Intentions"
   - "Cutting the Cord"
   - "Feature Episode"
@@ -34,20 +19,13 @@ tags:
   - "Reman"
   - "Romulan"
   - "Scimitar"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg"
 ---
+After last week's epic episode, "Coliseum", those of us at the Federation News Service were intrigued to see just how they could possibly top that...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-13-52-30-97-480x324.jpg" title="Cutting the Cord" class="align-center" >}}
+
 
 After last week's epic episode, "Coliseum", those of us at the Federation News Service were intrigued to see just how they could possibly top that nod back to the high point of the Star Trek franchise -- the very beginning.
 
@@ -55,7 +33,7 @@ Maybe they could have stayed in a retro mood, and maybe it would have been bette
 
 Details, and spoilers, after the break.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-13-54-21-53-480x383.jpg" title="Tal Shiar Orbital Defense" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-13-54-21-53-480x383.jpg" title="Tal Shiar Orbital Defense" classes="center" >}}
 
 It was Admiral T'nae who had the job for us. Evil megalomaniacal  Hakeev had been tracked to a heavily fortified base in the Brea system. We now had proof of Tal Shiar involvement with the Iconians, which the Remans charmingly call demos of air and darkness. The word Iconian is so much SHORTER, though. That's the Remans, for you. Whining about how light it is. Scared of demons. Building those thalaron weapons.
 
@@ -67,7 +45,7 @@ Tactical officers can reprogram some of the satellites to fire on the other sate
 
 With the Tal Shiar base now undefended from space, we closed in and beamed down to Rommie central.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-14-05-20-89-480x383.jpg" title="A guided tour" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-14-05-20-89-480x383.jpg" title="A guided tour" classes="center" >}}
 
 There was some strange radiation in the air, interfering with the transporter  beam. Our bridge officers beamed down, all right -- but nowhere near us. What's worse, the radiation was such that we couldn't be beamed back up unless we managed to destroy some of the generators in the area that emitted that radiation.
 
@@ -75,13 +53,13 @@ We'd beamed down into a nest of Tal Shiar; to be expected of course. Neither sid
 
 Helpful advice from our missing bridge officers (now safely retrieved and in orbit) advised us to use the bridges and catwalks that connected the tall buildings to cross some barriers and evade the fighting on the ground. My chief engineer even rigged up a guided beam on our heads-up display to show us exactly where to go.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-17-41-34-81-480x383.jpg" title="Nuke 'em from orbit" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-17-41-34-81-480x383.jpg" title="Nuke 'em from orbit" classes="center" >}}
 
 Yes, we were led around the city by glowing arrows. We were all a little crushed by that. But there were some amenities. We were able to get high enough to get above the interference and spot some coordinates for orbital bombardment. Oh yes. Sweet torpedoes from heaven. On an adjoining rooftop, some Romulans took potshots at us, safe from reprisal. Except our phasers could reach their Scorpion fighter. We blew it up, and it blew them up.
 
 Engineering officers had a task to use the weather control system to destroy a gravitic lift. Everyone eventually would have a task.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-14-07-51-71-480x383.jpg" title="The Last of Hakeev" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-14-07-51-71-480x383.jpg" title="The Last of Hakeev" classes="center" >}}
 
 Our lighted guide brought us eventually to Hakeev, who was standing with an aide in a central plaza, waiting for us. He railed at us, screamed at us, told of the power of the Iconians and his anger at the blindness of his people.
 
@@ -93,7 +71,7 @@ We made short work of them and of him and so Hakeev died, on the surface of that
 
 We saw on his datalink that there was an Iconian gateway very near. It was active -- and about to let something through.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-14-12-49-66-480x383.jpg" title="The Iconian Gateway" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-14-12-49-66-480x383.jpg" title="The Iconian Gateway" classes="center" >}}
 
 We ran out of the plaza, detected some signals from a building on the left. It was the source of the Iconian viruses being beamed to our ships -- as a science officer, I was able to send up a counter virus that erased the Iconian one from all systems.
 
@@ -105,25 +83,25 @@ So we called down an orbital bombardment on it. No more gateway.
 
 Our adventure over, we returned to our ships.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-18-13-07-13-480x383.jpg" title="The Scimitar" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-18-13-07-13-480x383.jpg" title="The Scimitar" classes="center" >}}
 
 ... we returned into a heated space battle. The Romulans had arrived in force, commanded by Empress Sela herself. After we took out her escorts and battleships, we still had her to deal with. She flitted about the battlefield in the immense Romulan dreadnought, cloaking with a cloak so powerful that even our boosted sensors could not find it. She'd always decloak with one of our ships targeted, and then hit it with a concentrated blast of thalaron energy.
 
 If we hadn't had the Reman resistance fleet, commanded by Obisek himself, on our side, we'd have been lost. We had a dozen Scorpion fighters out, photonic fleets and Starfleet reinforcements and still it was a near thing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-18-17-36-69-480x383.jpg" title="Planet, gateway and Bird of Prey" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-18-17-36-69-480x383.jpg" title="Planet, gateway and Bird of Prey" classes="center" >}}
 
 Just as it seemed we would finally be victorious, all the ships stopped dead in space. A hole in a nearby asteroid flickered -- it, too, was an Iconian gate. An Iconian ship emerged, took Sela's ship in tow, and dragged her off to who knows where.
 
 We destroyed the gate, of course.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-14-32-53-62-480x384.jpg" title="The reward" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-14-32-53-62-480x384.jpg" title="The reward" classes="center" >}}
 
 Admiral T'nae said Starfleet was very much on the side of the Remans now, though it seemed to them that it was quite possible that Empress Sela was not a party to the Tal Shiar machinations. With her missing, the various Romulan factions have fallen to warring among themselves. There's chaos throughout the sector.
 
 Hakeev sent over a monument to remember the adventure by. The Reman scientist who brought it asked to join the crew of the USS Concord, and we were more than glad to have him on board.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/GameClient-2011-03-05-18-26-38-92-480x384.jpg" title="The Reman bridge officer" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/GameClient-2011-03-05-18-26-38-92-480x384.jpg" title="The Reman bridge officer" classes="center" >}}
 
 We met up with Obisek once again at the Vault. He plans to turn it into a full functioning home for the resistance and any other Reman -- or Romulan -- who was interested in building a new life. We wished him the best, but someday we'd meet the Iconians openly... and we'd probably need the help of the Reman resistance once more.
 

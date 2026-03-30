@@ -3,54 +3,29 @@ date: '2008-12-02T10:10:54-05:00'
 draft: false
 title: "Dream of Mirror Online: Starting Over"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/02/dream-of-mirror-online-starting-over/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "With Wizard 101's Dragonspyre world still in the unforeseeable future (WHEN, KingsIsle?), and Chronicles of Spellborn also months away (and the German one that should..."
+categories:
   - "Dream of Mirror Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-11-30-09-06-47-74.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-11-30-09-06-47-74.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-11-30-09-06-47-74.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-11-30-09-06-47-74.jpg"
 ---
+With Wizard 101's Dragonspyre world still in the unforeseeable future (WHEN, KingsIsle?), and Chronicles of Spellborn also months away (and the German one that should...
+<!--more-->
 
 With Wizard 101's Dragonspyre world still in the unforeseeable future (WHEN, KingsIsle?), and Chronicles of Spellborn also months away (and the German one that should be showing up in a few days almost certainly impossible to play from the US), I needed a casual game. EQ2 is still my main game (and hours spent yesterday in the Moors and Befallen prove that), but I just can't play one game... so I went back to an old favorite, Dream of Mirror Online.
-
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-11-30-09-06-47-74.jpg "domo-2008-11-30-09-06-47-74")
 
 *I hit level 10 as a Commoner, and a Mirror King popped in to tell me how to select my first Job.*
 
 Dream of Mirror Online -- DOMO -- scratches the same casual game itch that W101 satisfies. It's a casual game, very different from most MMOs that is simple to play but becomes incredibly deep. Also, it's free to play -- and unlike W101, entirely free to play. Aeria Games runs by selling appearance items, pets and other goods through their item mall, so you don't have to spend a dime if you don't want to.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-11-30-09-34-24-92.jpg "domo-2008-11-30-09-34-24-92")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-11-30-09-34-24-92.jpg" title="domo-2008-11-30-09-34-24-92" classes="center" >}}
 
 *You can spend hours fishing, herding, farming, mining, meditating etc. You'll **have** to if you plan on crafting.*
 
 Similar to other Asian MMOs like Final Fantasy XI Online and Runes of Magic, you can choose both a job and a subjob, after unlocking them through special quests. From then on, you can mix and match them freely -- though having to level up each one individually can be kind of onerous. Everyone starts out with the Commoner job. Commoners are the harvesters and crafters of DOMO; their levels bring greater abilities to find raw materials and make useful items from them.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-11-30-10-34-00-95.jpg "domo-2008-11-30-10-34-00-95")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-11-30-10-34-00-95.jpg" title="domo-2008-11-30-10-34-00-95" classes="center" >}}
 
 *The quest to unlock the Blademaster job is defeating the Blademaster trainer in combat. That a level 10 Commoner was able to do this doesn't speak well for the job...*
 
@@ -58,7 +33,7 @@ DOMO helpfully gives you coupons for full sets of gear appropriate to your first
 
 I wanted to unlock the Thief job, but that's pretty involved, so I took Blademaster job so I would have the battle skills to get the job. I didn't need them, really, but the money from killing stuff and finishing quests came in handy while I was running around the world working on the Thief quest.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-11-30-11-44-53-43.jpg "domo-2008-11-30-11-44-53-43")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-11-30-11-44-53-43.jpg" title="domo-2008-11-30-11-44-53-43" classes="center" >}}
 
 *Second to last step in the Thief quest -- unlocking the chest! Wait! THAT'S NO CHEST!*
 
@@ -68,13 +43,13 @@ Fur and Pu-meat EVERYWHERE.
 
 Thieves, btw, are an AE class in DOMO. So much fun :)
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-11-30-12-09-28-61.jpg "domo-2008-11-30-12-09-28-61")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-11-30-12-09-28-61.jpg" title="domo-2008-11-30-12-09-28-61" classes="center" >}}
 
 *Stabby Stabsworth takes on a hedgehog. Rawr. Love the Thief job.*
 
 The game runs on anything. At low settings, it looks like a Hanna Barbera-style cartoon. At high settings, it looks like a REALLY NICE cartoon, with cel shading, shadows, goofy expressions and cartoony action. Even at the highest settings, though, I have no trouble running it on my laptop. So that's a total win for me.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-11-30-19-04-27-28.jpg "domo-2008-11-30-19-04-27-28")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-11-30-19-04-27-28.jpg" title="domo-2008-11-30-19-04-27-28" classes="center" >}}
 
 *Me and my friendly robot bear pet in front of some mysterious temple I happened across.*
 

@@ -3,39 +3,14 @@ date: '2008-02-18T11:41:33-05:00'
 draft: false
 title: "Why Warhammer hype works so well."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/18/why-warhammer-hype-works-so-well/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Aside from World of Warcraft, the most popular MMO in the US today is... The Lord of the Rings Online, which from what I understand,..."
+categories:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Aside from World of Warcraft, the most popular MMO in the US today is... The Lord of the Rings Online, which from what I understand,...
+<!--more-->
 
 Aside from World of Warcraft, the most popular MMO in the US today is... The Lord of the Rings Online, which from what I understand, has about 500K subscribers -- about what the original EverQuest had at its peak.
 

@@ -3,40 +3,18 @@ date: '2026-01-11T21:08:53-05:00'
 draft: false
 title: "Quest 64: I played the worst RPG on the Nintendo 64 -- and I liked it"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2026/01/11/quest-64-i-played-the-worst-rpg-on-the-nintendo-64/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "My quest to play every RPG on the Nintendo 64 continues with Quest 64, often called the worst RPG on the system. But is it?"
-description: "My quest to play every RPG on the Nintendo 64 continues with Quest 64, often called the worst RPG on the system. But is it?"
-tags:
+categories:
   - "Nintendo 64"
   - "RPG"
+tags:
   - "Analogue"
   - "Quest 64"
-featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/Screenshot-2026-01-09-18-19-11.png"
 ---
+My quest to play every RPG on the Nintendo 64 continues with Quest 64, often called the worst RPG on the system. But is it?
+<!--more-->
 
 Before I got my Analogue 3D Nintendo 64-compatible console, I scoured the local retro video game stores and conventions looking for all the Nintendo 64 RPGs that I could find. And I got a bunch.
 

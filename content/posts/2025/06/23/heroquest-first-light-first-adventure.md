@@ -3,40 +3,18 @@ date: '2025-06-23T08:00:00-05:00'
 draft: false
 title: "HeroQuest: First Light: First Adventure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/06/23/heroquest-first-light-first-adventure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "After a couple of years, a Target HeroQuest exclusive edition brings the game back to the table."
-description: "After a couple of years, a Target HeroQuest exclusive edition brings the game back to the table."
-tags:
+categories:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
+tags:
   - "First Light"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/heroquestfirstlight.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/06/heroquestfirstlight.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/heroquestfirstlight.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/heroquestfirstlight.png"
 ---
+After a couple of years, a Target HeroQuest exclusive edition brings the game back to the table.
+<!--more-->
 
 HeroQuest has always been a great first introduction to roleplaying since its beginnings twenty or so years ago. Don't have to roll up characters, just a couple stats to worry about, everything is dice throws, and the adventure is written up for you. The only real fly in the ointment is that one player still has to act as the DM -- setting up the layout, moving the monsters around, narrating the adventure. You can't play one of the heroes and DM at the same time.
 
@@ -46,7 +24,7 @@ The original box was expensive -- over a hundred bucks and closer to two, I thin
 
 This new starter box, HeroQuest: First Light, replaces the plastic minis (aside from the player minis and a large dragon mini) with cardboard standees, and the set dressings with printed cardboard rectangles. It's *much* cheaper as a result. They even made the game board double sided to get a little more variation in the game layout. The layouts change with the scenario, but in the first edition, with a single sided game board, there were only so many variations you could make. Now that is doubled.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/image-5-1024x644.png" title="The game in play" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/image-5-1024x644.png" title="The game in play" classes="center" >}}
 
 The adventure starts similarly: The good wizard, Mentor, has gathered together four heroes -- Barbarian, Dwarf, Elf and Wizard -- to track down some of the good knight Sir Ragnar's lost scouts. Sir Ragnar was rescued at the start of the first campaign, so it's a nice callback to the original. Presumably these are new and different heroes than in the first box. Probably the children of the original.
 

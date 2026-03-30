@@ -3,46 +3,24 @@ date: '2021-10-20T08:26:25-05:00'
 draft: false
 title: "Dragonereum: If NeoPets Cost $7,000"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/20/dragonereum-if-neopets-cost-7000/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Am I just too stupid to play crypto browser games? Or just too poor?..."
+categories:
   - "Blockchain"
   - "Browser Game"
   - "Crypto Game"
   - "Cryptokitties"
   - "Dragonereum"
+tags:
   - "Bitcoin"
   - "Coinbase"
   - "Ethereum"
   - "Gas"
   - "Metamask"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/dragon-main-30501377.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/dragon-main-30501377.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dragon-main-30501377.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/dragon-main-30501377.png"
 ---
+Am I just too stupid to play crypto browser games? Or just too poor?...
+<!--more-->
 
 Am I just too stupid to play crypto browser games? Or just too poor?
 
@@ -50,7 +28,7 @@ I don't hate cryptocurrency and blockchains. They do use resources to mine that 
 
 I didn't buy the coins to get rich -- not really sure that's possible for someone who is not already rich. I bought the coins to learn more about crypto, and maybe have a little fun.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/image-1-1024x357.png)](https://chasingdings.com/wp-content/uploads/2021/10/image-1.png)Dragonereum marketplace. The prices are in Ethereum.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/image-1-1024x357.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/image-1.png)Dragonereum marketplace. The prices are in Ethereum.
 
 The first game I tried was [Dragonereum](https://dragonereum.io/). This is a browser-based dragon breeding and fighting game, similar to many others out there (for an instance: [Flight Rising](https://www1.flightrising.com/)). The difference here is that the dragons in Dragonereum are purchased for Ethereum. Once purchased, you can breed them with others you purchase to generate new dragons that you can then continue to breed or sell, or fight them with other dragons to increase their value, perhaps at the expense of your opponent, whose dragon could lose value.
 
@@ -66,11 +44,11 @@ The goal of Dragonereum, and from what I have seen, crypto games in general, is 
 
 I only bought $50 in Ethereum, so clearly I was never going to be able to afford to play this browser game, not even once. (I did, however, create a dragon in Flight Rising). 
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/image-2.png)](https://chasingdings.com/wp-content/uploads/2021/10/image-2.png)Flight Rising. Both these dragons together cost a total of ETH 0.0
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/image-2.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/image-2.png)Flight Rising. Both these dragons together cost a total of ETH 0.0
 
 Okay, turns out I suddenly have $773 in Ethereum ready to spend on that starter dragon with the unimpressive pedigree. You can't make money without spending money, after all. So, after linking my Dragonereum account to an empty Ethereum wallet (I need to not accidentally make a purchase), how much will it cost to bring my baby blue dragon home with me?
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/metamask.png)](https://chasingdings.com/wp-content/uploads/2021/10/metamask.png)MetaMask connects crypto wallets to vendors
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/metamask.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/metamask.png)MetaMask connects crypto wallets to vendors
 
 Wow. $7,138.90 for the price of the dragon, and the **maximum** price of the transaction on the Ethereum blockchain. All Ethereum blockchain transactions charge "gas", which is a tip to the Ethereum miner to encourage them to process your transaction. This tip is never going to be $7,000 -- as far as I can tell, usual gas fees are less than a buck if you're willing to wait or take the risk of the transaction never going through (in which case, your Ethereum is burned -- lost forever).
 

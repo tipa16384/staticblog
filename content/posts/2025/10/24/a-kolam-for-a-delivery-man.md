@@ -3,39 +3,17 @@ date: '2025-10-24T07:07:44-05:00'
 draft: false
 title: "A Kolam for a Delivery Man"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/10/24/a-kolam-for-a-delivery-man/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Waiting for a package that never arrives? Maybe all you need is a little practical magic..."
-description: "Waiting for a package that never arrives? Maybe all you need is a little practical magic..."
-tags:
+categories:
   - "Fiction"
+tags:
   - "Dragonstrike"
   - "UPS"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/kolam.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/kolam.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/kolam.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/kolam.png"
 ---
+Waiting for a package that never arrives? Maybe all you need is a little practical magic...
+<!--more-->
 
 I have been waiting for a package to arrive from UPS for weeks. They just sent me my third delivery notice with the third different delivery date. Will I finally get it? I idly thought of spells that might do the trick while at work Thursday, then wrote this story at Pack Rat Gaming while my boyfriend played Malifaux. Not one word was AI generated.
 

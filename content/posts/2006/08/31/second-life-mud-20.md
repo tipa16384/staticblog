@@ -3,41 +3,20 @@ date: '2006-08-31T11:11:45-05:00'
 draft: false
 title: "Second Life: MUD 2.0"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/31/second-life-mud-20/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "An EQ friend, Caldabuse, and I were talking a few years back about what was right and wrong with MMOs. An individual player has no..."
+categories:
   - "MMORPG"
   - "My Work"
   - "Second Life"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/tipah.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/tipah.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/tipah.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/tipah.jpg"
 ---
+An EQ friend, Caldabuse, and I were talking a few years back about what was right and wrong with MMOs. An individual player has no...
+<!--more-->
 
-![Tipa Hawthorne in Second Life](https://chasingdings.com/wp-content/uploads/2006/08/tipah.jpg)An EQ friend, Caldabuse, and I were talking a few years back about what was right and wrong with MMOs. An individual player has no impact on the world, and has the same abilities as everyone else. In fact, conformity is seen as the perfect ideal in the MMO world. We'd both just started playing City of Heroes, which prizes individuality to some extent. But CoH was still just like the other MMOs. The devs plotted out your path, and pretty much all you could do was follow. Success was defined as how closely what you did matched what the devs designed.
+
+
+An EQ friend, Caldabuse, and I were talking a few years back about what was right and wrong with MMOs. An individual player has no impact on the world, and has the same abilities as everyone else. In fact, conformity is seen as the perfect ideal in the MMO world. We'd both just started playing City of Heroes, which prizes individuality to some extent. But CoH was still just like the other MMOs. The devs plotted out your path, and pretty much all you could do was follow. Success was defined as how closely what you did matched what the devs designed.
 
 Calbabuse suggested I try [Second Life](http://en.wikipedia.org/wiki/Second_life). Not a game, but a world, where anything you could imagine could become real.
 
@@ -49,13 +28,13 @@ That, and the friends I made in-game. They were and are like some huge family to
 
 Second Life is all community and no game, or at least, only as much game as you make it. I didn't try it when it was new, but a few things prompted me to give it a shot.
 
-![Bobcat statue in the Help Island park in Second Life](https://chasingdings.com/wp-content/uploads/2006/08/park.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/park.jpg" classes="center" >}}
 
 Linden Labs does incredible PR for Second Life. They have a [roving reporter](http://nwn.blogs.com/) who looks in on what people have created in the game. An island which is a complete biosystem with precipitation cycles and birth, reproduction and death among the island's flora and fauna. A tower in the air which exists in four dimensional space. A government agency has created detailed climate models in game. Today, a politician is holding a [meet-and-greet](http://www.forwardtogetherpac.com/contents/show/272) within Second Life.
 
 It was time to see what all the buzz was about.
 
-![Governor Mark Warner](http://nwn.blogs.com/nwn/images/gov_mark_warner.jpg "Governor Mark Warner")Linden Labs provides the Second Life client in Windows, Mac OS/X and Linux. Yay, Linux! If it weren't for all the games I play, I'd never use Windows. My deluxe widescreen computer at home runs Gentoo Linux. My laptop and this mail server I'm using to write this post both run Ubuntu Linux. Linux is so much better than Windows for the sorts of things I do -- except for games.
+{{< image src="http://nwn.blogs.com/nwn/images/gov_mark_warner.jpg" title="Governor Mark Warner" classes="fig-20" >}}Linden Labs provides the Second Life client in Windows, Mac OS/X and Linux. Yay, Linux! If it weren't for all the games I play, I'd never use Windows. My deluxe widescreen computer at home runs Gentoo Linux. My laptop and this mail server I'm using to write this post both run Ubuntu Linux. Linux is so much better than Windows for the sorts of things I do -- except for games.
 
 Can Linux handle a huge MMO game? That was my second reason to give Second Life a shot.
 

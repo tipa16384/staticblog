@@ -3,41 +3,20 @@ date: '2021-08-09T17:32:32-05:00'
 draft: false
 title: "FF1: It is the End of Eternity"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/09/ff1-it-is-the-end-of-eternity/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What brought the four Warriors of Light together? From where did they get the crystals of the four primal forces? Who were their families? Where'd..."
+categories:
   - "Blaugust"
   - "CRPG"
   - "Final Fantasy"
+tags:
+  - "Blaugust"
   - "Jrpg"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/20210809143848_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/20210809143848_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210809143848_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210809143848_1.jpg"
 ---
+What brought the four Warriors of Light together? From where did they get the crystals of the four primal forces? Who were their families? Where'd...
+<!--more-->
 
 What brought the four Warriors of Light together? From where did they get the crystals of the four primal forces? Who were their families? Where'd they go to school? What foods did they like?
 
@@ -47,7 +26,7 @@ It's been so many days since I blogged about my Final Fantasy 1 playthrough that
 
 Fiend of Earth? I DIMLY remember fighting him -- the Lich, right?
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210805231755_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210805231755_1.jpg)#1 Veruca Salt fan
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210805231755_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210805231755_1.jpg)#1 Veruca Salt fan
 
 Next up was Marilith, the Fiend of Fire. She was holed up in a volcano, as maybe you'd expect. The only way to this volcano -- a canoe. If I have a secret volcano lair, I'm definitely going to invest heavily in anti-canoe defenses.
 
@@ -61,19 +40,19 @@ We'd gotten access to better spells by this time. We never did get a spell that 
 
 This wouldn't be much of a concern, going forward.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210807194455_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210807194455_1.jpg)Spoiling the Ending of Titanic
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210807194455_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210807194455_1.jpg)Spoiling the Ending of Titanic
 
 The Lich and Marilith were on the southern continent. The other two fiends must be on the northern continent -- but none of the cities in the North had ever thought that building docks for boats might be a useful idea. A crazy guy we met insisted that he'd been searching for a levistone that might do something special. With nothing better to do, we followed his directions to an ice cave which was *super frustrating*. It wasn't hard to *find* the levistone. It was just impossible to get to it. Cracks in the ice would send us down again and again to the floor below, and we'd have to climb again and again until a little voice sitting behind me suggested dropping into a safe spot from the floor above... which worked.
 
 With the levistone, we could go to the desert and raise the airship... and now the world was our oyster. As long as there was a nice grassy spot for an airfield, anyway.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210807212305_1-1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210807212305_1-1.jpg)Bahamut Promotion Ceremony
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210807212305_1-1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210807212305_1-1.jpg)Bahamut Promotion Ceremony
 
 We discovered a mysterious new castle that looked totally interested. Trials? They wanted us to do trials? Of courage and bravery? That sounds like something right up our alley.
 
 The trials actually were pretty much solving mazes, and it turns out the thing Warriors of Light do best of everything, is solve mazes. We found a perfectly preserved Rat's Tail. Who would want a rat's tail? We'd been told that the Dragon King, Bahamut, would be looking for proof of bravery and courage that might not look like we'd expect. Turns out, a rat's tail was just what he was looking for. He granted everyone new titles. Drew the Monk became Drew the Master. Tom and Ally doffed their hoods and became Black and White Wizards. I became a Red Wizard, but when I went to take off my hat, everyone insisted I keep wearing it. O-kay, then.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210807222439_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210807222439_1.jpg)Kraken Hearts Mermaids
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210807222439_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210807222439_1.jpg)Kraken Hearts Mermaids
 
 **Name:** The Kraken
 **Occupation:** Litigating elections
@@ -85,7 +64,7 @@ We were out exploring a desert and found a caravan camped in a forest at the edg
 
 Later on, our explorations brought us to a distant town, and the pixie up and jumped out of the jar. Running after her, we found her near a spring. She promised to get us some oxytale, whatever that was. Turns out, it's an ore that produces all the air we could ever need, if we ever found ourselves in a place with no air, but was otherwise amenable to our existence.
 
-We found a mermaid by the docks who promised us wealth and fame if we would just follow her into this here conveniently placed barrel, and of course we did. The barrel began sinking straight into the dark depths, and we could hear the mermaid ask us to save her sisters, as she herself began to turn into seafoam. Now I know where Dragon Quest XI got it from >[![](https://chasingdings.com/wp-content/uploads/2021/08/20210808151833_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210808151833_1.jpg)Tiamat seems upset
+We found a mermaid by the docks who promised us wealth and fame if we would just follow her into this here conveniently placed barrel, and of course we did. The barrel began sinking straight into the dark depths, and we could hear the mermaid ask us to save her sisters, as she herself began to turn into seafoam. Now I know where Dragon Quest XI got it from >[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210808151833_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210808151833_1.jpg)Tiamat seems upset
 
 The chime we were given in Lefneria made a tower rise from the desert. The warp cube let us teleport from that tower to the old Sky Castle. There we found Adamantite and... Tiamat! Mother of dragons!
 
@@ -98,7 +77,7 @@ We'd read that this sword that casts Scourge could be used to defeat Tiamat in o
 
 Tom the Black Wizard had learned Flare by then -- a nuke against which there is no resistance. Ally the White Wizard chain cast group heals while the rest of us just used nukes. Except Drew. MISS. MISS. MISS. MISS. Was he just trying to get my attention? Didn't he know my name? Oh well. We eventually took down Tiamat, the last of the four fiends. Yay! The world was saved!
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210808155715_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210808155715_1.jpg)Fighting Warmech in the Sky Castle
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210808155715_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210808155715_1.jpg)Fighting Warmech in the Sky Castle
 
 We'd heard legends of a Warmech that guarded the approach to Tiamat's Lair. I spent a solid forty-five minutes walking back and forth trying to spawn it. I eventually wanted to take on Tiamat before I entirely ran out of supplies, so I went and killed her, then came back to the patrol. 
 
@@ -108,7 +87,7 @@ The next time it spawned, I'd formed a new plan, that I used for every boss in t
 
 - Red Wizard: Cast Temper on the Master, Invisra on the party, then spot heals, melees, nukes, whatever seems appropriate- White Wizard: Protectra on the party and NulAll on the Master, in between group heals. For Warmech, group heals were more necessary than on other bosses.- Black Wizard: Haste the Master, Saber self (I think it improves spell accuracy), then chain Flare.- Master: Hit. It. In. The. Face. At max buffs, Master hit 24 times per attack.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210808205423_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210808205423_1.jpg)Traveling to the Past on Crystal Power
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210808205423_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210808205423_1.jpg)Traveling to the Past on Crystal Power
 
 The world was not free. The sages of Crescent Lake informed us, that though we'd defeated the Four Fiends in the present, they had just taken refuge in the past, at the behest of the Chaos King, no other than the traitorous knight Garland! Sent back in time when we killed him, he rose again as a dark lord and sent the Four Fiends from the past to the present in an endless circle of time.
 
@@ -118,15 +97,15 @@ We inferred they wanted us to use our crystals to empower the orb and return to 
 
 We first had to reach the top of the Shrine to find the correct stairs back down it again. Along the way, we faced younger, prettier, dare we say sexier versions of the four fiends. The Warmech strategy took them all down in a few rounds with no deaths. Now they would never be sent to the future.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210809141001_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210809141001_1.jpg)Confronting Garland in the Past
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210809141001_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210809141001_1.jpg)Confronting Garland in the Past
 
 Garland was still a little sore that we'd killed him, but he appreciated the time loop that would keep bringing him back to life.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210809141016_1-1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210809141016_1-1.jpg)Garland becomes Chaos (somehow)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210809141016_1-1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210809141016_1-1.jpg)Garland becomes Chaos (somehow)
 
 He even had a new set of clothes to show off!
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210809141034_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210809141034_1.jpg)Fighting Chaos
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210809141034_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210809141034_1.jpg)Fighting Chaos
 
 **Name:** Chaos (née Garland)
 **Occupation: **Every day, the same old, same old
@@ -139,7 +118,7 @@ The Warmech strategy worked fine, though it took a very long time to kill Chaos.
 
 With Chaos dead, the time loop was broken, and we found ourselves arriving at the end credits with no memories of our adventures... and that was it. That was Final Fantasy 1.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210809143919_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210809143919_1.jpg)Completed Game save screen
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210809143919_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210809143919_1.jpg)Completed Game save screen
 
 **Time to complete:** 20 1/2 hours
 

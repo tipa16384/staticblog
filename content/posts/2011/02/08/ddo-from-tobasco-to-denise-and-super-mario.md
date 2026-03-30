@@ -3,43 +3,21 @@ date: '2011-02-08T08:05:27-05:00'
 draft: false
 title: "DDO: From Tobasco to Denise and Super Mario"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/08/ddo-from-tobasco-to-denise-and-super-mario/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Still crunch time at work -- ugh! Was working at home until 10PM last night. Gaming has taken a severe hit, as has writing, and..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Sentinels of Stormreach"
   - "Stormreach"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/dndclient-2011-02-06-22-20-03-98-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/dndclient-2011-02-06-22-20-03-98-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/dndclient-2011-02-06-22-20-03-98-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/dndclient-2011-02-06-22-20-03-98-480x384.jpg"
 ---
+Still crunch time at work -- ugh! Was working at home until 10PM last night. Gaming has taken a severe hit, as has writing, and...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/dndclient-2011-02-06-22-20-03-98-480x384.jpg" title="Don't you love villains who monologue?" class="align-center" >}}
+
 
 Still crunch time at work -- ugh! Was working at home until 10PM last night. Gaming has taken a severe hit, as has writing, and most of the time when I DO game, it turns out to be something like a Facebook game. Right now I'm hooked on the EQ2-themed Fortune League. Fortune League fills my need for a game I can play with a spreadsheet, as I no longer have an EVE Online sub. There's probably another article about FL in our future, now that I know more about how the game is played (with a spreadsheet).
 
@@ -53,7 +31,7 @@ The twist in this arc has you collecting crafting components as you adventure. Y
 
 Too bad these sigils are not a guaranteed drop. At the end of the arc, I had just one -- the Sigil of the Lion. I'd redone part of the arc and even done the Super Mario dungeon a couple of times, but no luck. Completing the main arc and the Super Mario dungeon got me a choice of sigil rewards, so I picked the Goat, and now I'm just one shy. I haven't gotten the broken armor piece, though.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/super-mario-world-480x360.jpg" title="Jump! JUMP FOR YOUR LIFE!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/super-mario-world-480x360.jpg" title="Jump! JUMP FOR YOUR LIFE!" classes="center" >}}
 
 Super Mario dungeon?
 

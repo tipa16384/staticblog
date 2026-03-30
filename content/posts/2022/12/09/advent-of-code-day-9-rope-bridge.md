@@ -3,43 +3,21 @@ date: '2022-12-09T21:35:30-05:00'
 draft: false
 title: "Advent of Code Day 9 -- Rope Bridge"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/09/advent-of-code-day-9-rope-bridge/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The elves are crossing a bridge, but it is a really short bridge -- in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?"
-description: "The elves are crossing a bridge, but it is a really short bridge -- in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?"
-tags:
+categories:
   - "Advent of Code"
   - "Programming Language"
+tags:
   - "Advent"
   - "Bridges"
   - "Elf"
   - "Java"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-09-21.18.23-Christmas-Elves-walking-on-a-tattered-rope-bridge-crossing-a-river-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-09-21.18.23-Christmas-Elves-walking-on-a-tattered-rope-bridge-crossing-a-river-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-09-21.18.23-Christmas-Elves-walking-on-a-tattered-rope-bridge-crossing-a-river-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-09-21.18.23-Christmas-Elves-walking-on-a-tattered-rope-bridge-crossing-a-river-in-a-jungle-by-Bob-Eggleton-detailed-and-intricate.png"
 ---
+The elves are crossing a bridge, but it is a really short bridge -- in fact it is the shortest bridge possible. So what did the protagonist fall into when it snapped?
+<!--more-->
 
 The plot takes a turn today as the protagonist, who is, I believe, human, is separated from the jungle-delving elves when the rope bridge they are crossing snaps under their weight.
 

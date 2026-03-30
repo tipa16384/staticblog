@@ -3,40 +3,17 @@ date: '2012-12-17T07:45:40-05:00'
 draft: false
 title: "Kerbal Space Program: To the Mun and Back"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/12/17/kerbal-space-program-to-the-mun-and-back/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's not that there's not a lot to do in Kerbal Space Program; it's that it takes so long to do...."
+categories:
   - "Kerbal Space Program"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-15-20-20-53-10-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-15-20-20-53-10-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-15-20-20-53-10-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-15-20-20-53-10-480x343.jpg"
 ---
+It's not that there's not a lot to do in Kerbal Space Program; it's that it takes so long to do....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-15-20-20-53-10-480x343.jpg" title="Docked in Munar orbit" class="align-center" >}}
+
 
 It's not that there's not a lot to do in Kerbal Space Program; it's that it takes so long to do.
 
@@ -54,7 +31,7 @@ Docked first try. After about an hour and a half of orbit matching and slow, slo
 
 Once the craft were mated, I took the orbits down to 10,000 meters for some surface skimming fun, then used the remaining fuel in the orbiter to escape Mun orbit, used RCS from there to return to Kerbal, though it took a few orbits to do so.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-15-21-37-49-50-480x342.jpg" title="Landing" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-15-21-37-49-50-480x342.jpg" title="Landing" classes="center" >}}
 
 Both craft splashed down safely within meters of each other.
 

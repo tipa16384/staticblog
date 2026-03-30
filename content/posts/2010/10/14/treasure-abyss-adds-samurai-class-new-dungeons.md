@@ -3,40 +3,19 @@ date: '2010-10-14T07:06:11-05:00'
 draft: false
 title: "Treasure Abyss adds Samurai class, new dungeons"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/14/treasure-abyss-adds-samurai-class-new-dungeons/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
   - "Treasure Abyss"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/Fullscreen-capture-10142010-73508-AM-480x376.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/Fullscreen-capture-10142010-73508-AM-480x376.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10142010-73508-AM-480x376.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10142010-73508-AM-480x376.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/Fullscreen-capture-10142010-73508-AM-480x376.jpg "Samurai class")](https://chasingdings.com/wp-content/uploads/2010/10/Fullscreen-capture-10142010-73508-AM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10142010-73508-AM.jpg)
 
 [Namco Bandai](http://www.namcobandaigames.com/)'s social RPG [Treasure Abyss](http://apps.facebook.com/treasureabyss/) may have started off slowly, but the Japanese gaming giant has kept expanding the game, in some good and some not-so-good ways. Good stuff first.
 

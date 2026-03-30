@@ -3,39 +3,16 @@ date: '2007-11-01T07:23:22-05:00'
 draft: false
 title: "Portal: Cake and a song"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/01/portal-cake-and-a-song/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's times when everyone says you'll like something, and that it's great, but then you think it can't be that great, that in fact it..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/cake.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/cake.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/cake.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/cake.jpg"
 ---
+There's times when everyone says you'll like something, and that it's great, but then you think it can't be that great, that in fact it...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2007/11/cake.jpg)
+
 
 There's times when everyone says you'll like something, and that it's great, but then you think it can't be that great, that in fact it probably sucks, like a fast food joint you've never heard of. And then whenever anyone mentions it, you think, "meh, it sucks." And then you start hating it, and hating the mention of it, and everyone is saying random things like "the cake is a lie" and chuckle, and you think it's stupid, and the games you like are way better and not as common and stupid and also the people who play those kinds of games are jerks. And then years later you play it and say, hey, this game was actually good, why didn't I play it back when?
 

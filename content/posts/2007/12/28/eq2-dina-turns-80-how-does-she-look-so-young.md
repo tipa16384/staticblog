@@ -3,58 +3,35 @@ date: '2007-12-28T00:54:55-05:00'
 draft: false
 title: "EQ2: Dina turns 80 (how does she look so young?)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/28/eq2-dina-turns-80-how-does-she-look-so-young/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was sick and went to bed early last night; too early, and I woke up at 3:30 AM desperate to get just... one... more......"
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-27-19-16-02-64.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-27-19-16-02-64.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-27-19-16-02-64.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-27-19-16-02-64.jpg"
 ---
+I was sick and went to bed early last night; too early, and I woke up at 3:30 AM desperate to get just... one... more......
+<!--more-->
 
-![everquest2-2007-12-27-19-16-02-64.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-27-19-16-02-64.jpg)
+
 
 I was sick and went to bed early last night; too early, and I woke up at 3:30 AM desperate to get just... one... more... level. I finished the Worker's Sledgemallet quest but was still 10% from 80, but my body decided I needed more sleep after all, so it had to wait until tonight.
 
 All I had left were the repeatable Stormshield hunter quests outside Danak, so what the heck, I loaded up on those and went out to hunt. Two sets later, and ding!
 
-![everquest2-2007-12-27-19-21-27-92.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-27-19-21-27-92.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-27-19-21-27-92.jpg" classes="center" >}}
 
 (Appearance armor: Dina in the Karana Willow armor, Dera in the Timeless Plate, mostly.)
 
 Dang, this was a long trek. And I get to do it again, with Dera. She's about 20% from 78, but it will be easier to get groups with her. And Dorah, my 66 necro who needs to get her Jewelcrafting to 80 so I can make some of those Adept 3s I've been buying rares for.
 
-![49b2686fda221fb98a9d387345760545.jpg](https://chasingdings.com/wp-content/uploads/2007/12/49b2686fda221fb98a9d387345760545.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/49b2686fda221fb98a9d387345760545.jpg" classes="center" >}}
 
 This is one of the earliest screen shots I have of Dina. She's doing her troubador quest, so she has already betrayed to Freeport by this time and is probably level 18 or 19. I think you could do the quest at 18, but you wouldn't become a troubador until 20. She's (lessee if I remember this right) pretending to be a dervish cutthroat singing an Orcish battle song to rile up the troops, but secretly she's distracting the orcs so a renegade orc commander can sneak out unnoticed.
 
 Just one of the marvelous quests lost when they revamped the classes for Live Update 20.
 
-![3b1aa149b10e926a231ae76a5b340a0f.jpg](https://chasingdings.com/wp-content/uploads/2007/12/3b1aa149b10e926a231ae76a5b340a0f.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/3b1aa149b10e926a231ae76a5b340a0f.jpg" classes="center" >}}
 
 I never thought any game could ever replace EverQuest 1. I look through these old screenshots and feel just as nostalgic as I ever have looking at the old EQ1 people and places. I have never abandoned Dina for another character, like I did so often in EQ1, moving from wizard to druid to rogue to cleric. I had four epics! (druid, rogue, cleric and mage), and when I quit, I was leveling up a necro and a shadow knight. I have plenty of alts in EQ2, but that's all they have ever been -- alts.
 

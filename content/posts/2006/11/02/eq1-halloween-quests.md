@@ -3,40 +3,19 @@ date: '2006-11-02T03:09:18-05:00'
 draft: false
 title: "EQ1: Hallowe'en Quests"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/02/eq1-halloween-quests/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Eye on Norrath Presents......."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/eye.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/11/eye.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/eye.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/eye.jpg"
 ---
+Eye on Norrath Presents.......
+<!--more-->
 
-![Eyyyyyyyye](https://chasingdings.com/wp-content/uploads/2006/11/eye.jpg)***Eye on Norrath Presents....***
+
+
+***Eye on Norrath Presents....***
 
 Just wanted to say that...
 
@@ -50,10 +29,10 @@ Still I was for some reason nostalgic, so I logged over to Stromm, where my mage
 
 I buffed my faithful water pet with the best buffs I could manage, because we were going to hunt mushrooms. Mage pets, it turns out, won't kill mushrooms, but they WILL stand annoyingly right over them so *you* can't.
 
-![Shrooooom!!! Pet!!!!!](https://chasingdings.com/wp-content/uploads/2006/11/pet.jpg)Compared to Erollisi Marr, Toxxulia on Stromm was *empty*. I gathered all ten required mushrooms in just a couple of minutes and returned to the Plane of Knowledge to get my reward --  a pet that would just hang back and stay out of the way when I was harvesting mushrooms.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/pet.jpg" classes="fig-20" >}}Compared to Erollisi Marr, Toxxulia on Stromm was *empty*. I gathered all ten required mushrooms in just a couple of minutes and returned to the Plane of Knowledge to get my reward --  a pet that would just hang back and stay out of the way when I was harvesting mushrooms.
 
 There were lots of other quests; I didn't do them. High stats food from Rivervale, a scarecrow illusion mask from Kithicor, nothing I really wanted.
 
 There was, though, a Halloween vendor in PoK giving away the most amazing masks and other gear... All you could take as long as you didn't log out... Werewolves, pirates, floating eyes, and...
 
-![Shroooooom!!!!](https://chasingdings.com/wp-content/uploads/2006/11/mushroom.jpg) I got your Call of the Hero... *right here*.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/mushroom.jpg" classes="fig-20" >}} I got your Call of the Hero... *right here*.

@@ -3,51 +3,27 @@ date: '2008-08-08T08:13:29-05:00'
 draft: false
 title: "EQ: Veksar Rising"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/08/eq-veksar-rising/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The number one rule of Nostalgia the Guild is that we level together and nobody gets left behind (unless they stop showing up). Last night..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Fens of Nathsar"
   - "Gu47"
   - "Veksar"
   - "Void Storms"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg"
 ---
+The number one rule of Nostalgia the Guild is that we level together and nobody gets left behind (unless they stop showing up). Last night...
+<!--more-->
 
 The number one rule of Nostalgia the Guild is that we level together and nobody gets left behind (unless they stop showing up). Last night we had the twin goals of getting everyone up to our current cap of level 55, and to explore the sunken city of Veksar, deep beneath the waves of the Lake of Ill Omen. SOE introduced the original Veksar as a free content update in June of 2003, and are poised to do it once again in EverQuest II.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-08-06-09-15-08.jpg "everquest2-2008-08-08-06-09-15-08")
-
 If you travel to the Lake of Ill Omen in the Fans of NASCAR zone in EQ2's Kunark, you can see that the recent live update did more than enrage the void storms... that tremor was some power forcing the long-buried city back to the surface. Who knows what's entombed in those ancient ruins?
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eq-20080807-203103.jpg "eq-20080807-203103")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/eq-20080807-203103.jpg" title="eq-20080807-203103" classes="center" >}}
 
 Maybe we'll find "Bad touch" Rogbog still molesting Iksar Golems. I mean, it's possible, right?
 
@@ -55,7 +31,7 @@ The night started out slow, but people tend to trickle in and we have tricks lik
 
 Callendra, Sisca and Binxs showed up awhile later, so I split off to be their tank, and we moved back to the pool room.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-07-20-36-10-47.jpg "eqgame-2008-08-07-20-36-10-47")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-07-20-36-10-47.jpg" title="eqgame-2008-08-07-20-36-10-47" classes="center" >}}
 
 While we were in the other room, i was watching the first group on the web cast. It was pretty wild :)
 
@@ -65,6 +41,6 @@ But heck, we're not in a race, and a lot of people had never been to Veksar befo
 
 Next week is the Plane of Hate. That DOES have a decent experience mod, so we should be able to get most everyone to 55 and also a fair bunch of AAs along with it.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-08-06-19-26-42.jpg "everquest2-2008-08-08-06-19-26-42")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-08-06-19-26-42.jpg" title="everquest2-2008-08-08-06-19-26-42" classes="center" >}}
 
 Afterward, I went and did the GU48 void storm quest, and now have seven notes to my name. Just fourteen or so more, and I'll have the cool black armor :)

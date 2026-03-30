@@ -3,26 +3,11 @@ date: '2008-10-29T08:20:40-05:00'
 draft: false
 title: "Wizard 101: Crimson Fields and Sunken City (again)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/29/wizard-101-crimson-fields-and-sunken-city-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Meet the War Oni, boss of Crimson Fields. I've been told Crimson Fields is the longest instance in Moo Shu, and so far it seems..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Crimson Fields"
   - "Dragonspyre"
   - "Grubb"
@@ -33,26 +18,20 @@ tags:
   - "Tatakai Outpost"
   - "W101"
   - "War Oni"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg"
 ---
+Meet the War Oni, boss of Crimson Fields. I've been told Crimson Fields is the longest instance in Moo Shu, and so far it seems...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-28-01-24-41-16.jpg "wizardgraphicalclient-2008-10-28-01-24-41-16")
+
 
 Meet the War Oni, boss of Crimson Fields. I've been told Crimson Fields is the longest instance in Moo Shu, and so far it seems to be. Not like Sunken City or Kensington, though, it can be soloed... and for about two hours late one night, that's what I did.
 
 I had no idea what I was getting in to!
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-28-00-55-52-69.jpg "wizardgraphicalclient-2008-10-28-00-55-52-69")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-00-55-52-69.jpg" title="wizardgraphicalclient-2008-10-28-00-55-52-69" classes="center" >}}
 
 It's not called Crimson Fields because it's a field of lovely red flowers. The crimson is blood, and the fields are a battle field. The Warlord, once one of the Emperor's closest advisors, betrayed Moo Shu and left a trail of death and destruction through Hametsu Village, Tatakai Outpost and the once peaceful dojo now come to be known by its bloody moniker.
 
@@ -68,21 +47,21 @@ I went on and confronted the Warlord in his dojo, and wasn't all that surprised 
 
 Somewhere in the madness I dinged level 38, and I got a message from the Life school teacher, Moolinda Wu, that I should stop by when I had a chance, because she had a new quest for me. These usually result in class-defining spells that people who choose Life as a secondary school never see, so I thought I should get over there as soon as possible.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-28-07-39-51-44.jpg "wizardgraphicalclient-2008-10-28-07-39-51-44")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-07-39-51-44.jpg" title="wizardgraphicalclient-2008-10-28-07-39-51-44" classes="center" >}}
 
 She sent me first back to Krokotopia to get a key. This dryad showed up to help me find it. Could my new spell be this dryad? She wasn't saying, but I did find the key. Next up was to find the chest the key opened.
 
 Moolinda said Grubb, the boss of Sunken City, Wizard City's heroic instance, had that chest.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-28-23-04-45-64.jpg "wizardgraphicalclient-2008-10-28-23-04-45-64")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-23-04-45-64.jpg" title="wizardgraphicalclient-2008-10-28-23-04-45-64" classes="center" >}}
 
 This instance is somewhat easier solo at 38 than it was duoing at 14, but it's still a tedious slog by any measure. Eventually I finished it (this took me what time I had left over from playing LittleBigPlanet last night), opened the chest, got the book from inside, returned it to Moolinda and... she mentioned something about a Plague Oni.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-28-23-19-26-10.jpg "wizardgraphicalclient-2008-10-28-23-19-26-10")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-23-19-26-10.jpg" title="wizardgraphicalclient-2008-10-28-23-19-26-10" classes="center" >}}
 
 The Plague Oni is apparently in Shirataki Temple, an instance off Shoshuni Village, but it's not lit up, so I guess I have to finish the quests in Shoshuni before I can defeat the Plague Oni. Not the worst news in the world; it was my next quest hub after Tatakai, anyway, so I was already heading here.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-28-07-34-45-74.jpg "wizardgraphicalclient-2008-10-28-07-34-45-74")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-28-07-34-45-74.jpg" title="wizardgraphicalclient-2008-10-28-07-34-45-74" classes="center" >}}
 
 I did happen to finish my Halloween costume -- a ninja! (How original, I know :P )
 

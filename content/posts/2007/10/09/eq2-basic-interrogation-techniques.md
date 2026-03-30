@@ -3,40 +3,17 @@ date: '2007-10-09T07:44:25-05:00'
 draft: false
 title: "EQ2: Basic Interrogation Techniques"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/09/eq2-basic-interrogation-techniques/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dera's appearance armor -- Blackened Iron Vanguard, tier 2 mastercrafted, made by her...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/interregation.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/interregation.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/interregation.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/interregation.jpg"
 ---
+Dera's appearance armor -- Blackened Iron Vanguard, tier 2 mastercrafted, made by her....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/interregation.jpg)
+
 
 * Dera's appearance armor -- Blackened Iron Vanguard, tier 2 mastercrafted, made by her.*
 
@@ -52,7 +29,7 @@ In EQ2, I have five banks of twelve buttons, and I still don't fit everything on
 
 *Interrogation technique #2: Invoke feelings of futility in detainee*
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/deraspells.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/deraspells.jpg" classes="center" >}}
 
 Newcomers to EQ2 start out fine, but by level twenty or so, the sheer number of abilities becomes a little overwhelming. I hear lots of talk that after twenty or so, EQ2 is just a matter of hitting buttons -- any of them, all of them -- as fast as you can. The trick is to fit them into a theme -- the eighty-eight piano keys don't seem like so many when you divide the keyboard into octaves and the notes into chords.  Your achievements are the chords.
 
@@ -116,7 +93,7 @@ The final spell is another achievement, Divine Recovery, mentioned above, a 24 s
 
 *Interrogation technique #9: Stare at detainee to increase discomfort*
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/beegees.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/beegees.jpg" classes="fig-20" >}}
 
 I'm not the best cleric out there, and my inquisitor isn't my main. EQ2 classes are deep and richly complex, and when I hear someone say that playing a toon in EQ2 is nothing more than button mashing, well, I just have to respond.
 

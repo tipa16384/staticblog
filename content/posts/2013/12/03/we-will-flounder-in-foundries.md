@@ -3,40 +3,17 @@ date: '2013-12-03T08:12:14-05:00'
 draft: false
 title: "We Will Flounder in Foundries!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/12/03/we-will-flounder-in-foundries/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Another week, another quartet of questionable quests -- one of which is mine! MINE! Bwahahahaha!..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-12-02-22-12-51-04-480x319.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-12-02-22-12-51-04-480x319.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-12-02-22-12-51-04-480x319.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-12-02-22-12-51-04-480x319.jpg"
 ---
+Another week, another quartet of questionable quests -- one of which is mine! MINE! Bwahahahaha!...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-12-02-22-12-51-04-480x319.jpg" title="Kasul makes an astute observation" class="align-center" >}}
+
 
 Another week, another quartet of questionable quests -- one of which is mine! MINE! Bwahahahaha!
 
@@ -52,7 +29,7 @@ Turns out that the worried partygoer we met was on to something -- there was an 
 
 Still, a well-constructed mission, had a story, the author can spell, which is unusual. This is the sort of mission you hope you're getting when you sign up to play a Foundry.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-12-03-07-26-56-11-480x373.jpg" title="Pool of the Dead" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-12-03-07-26-56-11-480x373.jpg" title="Pool of the Dead" classes="center" >}}
 
 **Pool of the Dead -- NW-DLTS5X6TO by @ADruvez**
 
@@ -66,7 +43,7 @@ I dunno. It's been in this tomb so long. How holy can it be anymore?
 
 This mission looks like it took fifteen minutes to build. Needs work -- a lot more work.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-12-03-07-27-13-86-480x377.jpg" title="Restless Nights" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-12-03-07-27-13-86-480x377.jpg" title="Restless Nights" classes="center" >}}
 
 **Restless Nights -- NW-DB05XVVKV by @BrokenReality**
 
@@ -74,7 +51,7 @@ If you're going to do a hack-and-slash, it pays to put a little time into it and
 
 Some of the floor decorations bugged both us and the encounters; one boss was floating up in the air because of the bugged carpet. I'm surprised that wasn't caught by testing. It was the only real flaw in an otherwise fun mission.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-12-03-07-31-27-06-480x315.jpg" title="This doesn't look like Befallen..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-12-03-07-31-27-06-480x315.jpg" title="This doesn't look like Befallen..." classes="center" >}}
 
 **The Crypt of Befallen -- NW-DKCFTXNUZ by @Tipa**
 

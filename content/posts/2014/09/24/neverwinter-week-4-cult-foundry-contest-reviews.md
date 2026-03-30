@@ -3,45 +3,21 @@ date: '2014-09-24T19:12:56-05:00'
 draft: false
 title: "Neverwinter: Week 4 Cult Foundry Contest Reviews"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/09/24/neverwinter-week-4-cult-foundry-contest-reviews/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "By my estimates, we’re about halfway through the foundry contest. So far, interest seems to have been generally falling week to week. Three Week 1..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh3.googleusercontent.com/-eObxj77KbRs/VCTfqY4amaI/AAAAAAAA2zc/wJwvDnO9plE/w745-h596-no/GameClient%2B2014-09-23%2B23-09-17-66.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-eObxj77KbRs/VCTfqY4amaI/AAAAAAAA2zc/wJwvDnO9plE/w745-h596-no/GameClient%2B2014-09-23%2B23-09-17-66.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-eObxj77KbRs/VCTfqY4amaI/AAAAAAAA2zc/wJwvDnO9plE/w745-h596-no/GameClient%2B2014-09-23%2B23-09-17-66.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-eObxj77KbRs/VCTfqY4amaI/AAAAAAAA2zc/wJwvDnO9plE/w745-h596-no/GameClient%2B2014-09-23%2B23-09-17-66.jpg"
 ---
+By my estimates, we’re about halfway through the foundry contest. So far, interest seems to have been generally falling week to week. Three Week 1...
+<!--more-->
 
 By my estimates, we’re about halfway through the foundry contest. So far, interest seems to have been generally falling week to week. Three Week 1 entries hold their grip on the prize spots. Since I changed my scoring method to the one (I hope) the devs will use to judge the contest midway through Week 2, the Week 1 entries might have an unfair advantage in my charts… but, we’ll see. Were the best three quests all just randomly in Week 1?
 
 Anyway, we have a whole new batch THIS week to get through.
-
-![Missing](https://lh3.googleusercontent.com/-eObxj77KbRs/VCTfqY4amaI/AAAAAAAA2zc/wJwvDnO9plE/w745-h596-no/GameClient%2B2014-09-23%2B23-09-17-66.jpg)
 
 **Missing** by Durtee
 
@@ -61,7 +37,7 @@ We found mysterious items like “The sigil of blah”, an item for which we nev
 
 The maps were simplistic, the story minimal, and the polish low. The spelling was poor. There weren’t even really enough encounters to make this a decent combat map. Two stars from both of us. Average score is 3.73 stars, and is, as of this writing, the Week 4 leader.
 
-![Unearthed Draconica](https://lh6.googleusercontent.com/-35UiEyVxF94/VCTfqSCJGlI/AAAAAAAA2zg/1yIv-0Y1iDo/w745-h596-no/GameClient%2B2014-09-24%2B00-05-17-10.jpg)
+{{< image src="https://lh6.googleusercontent.com/-35UiEyVxF94/VCTfqSCJGlI/AAAAAAAA2zg/1yIv-0Y1iDo/w745-h596-no/GameClient%2B2014-09-24%2B00-05-17-10.jpg" classes="center" >}}
 
 **Unearthed Dragonica** by ducdilimoni
 
@@ -79,7 +55,7 @@ Toward the end, the map proved it wasn’t meant for more than one person as it 
 
 Kasul and I both really liked the quest, except for the getting stuck part. The final boss fight was appropriately cinematic. We both gave this quest four stars. Average score is 3.44 stars. Authors waiting for your quest to get featured -- get it off the review tab while you can.
 
-![The Icy Depths of the Past](https://lh5.googleusercontent.com/-ac_NznvoaO4/VCTfqQw0o0I/AAAAAAAA2zc/-piIMthcPYI/w745-h596-no/GameClient%2B2014-09-24%2B00-34-28-05.jpg)
+{{< image src="https://lh5.googleusercontent.com/-ac_NznvoaO4/VCTfqQw0o0I/AAAAAAAA2zc/-piIMthcPYI/w745-h596-no/GameClient%2B2014-09-24%2B00-34-28-05.jpg" classes="center" >}}
 
 **“The Icy Depths of the Past”** by “SloaneTower”
 
@@ -91,7 +67,7 @@ Kasul and I both really liked the quest, except for the getting stuck part. The 
 
 “Though the maps were kind of spare, there was a lot going on, multiple paths to victory, optional objectives and things hidden in the edges.” “I feel if I’d actually read the books that all these contest entries are referencing, I’d have enjoyed it just a little bit more, but both Kasul and I had a really fun time.” “The overuse of quotes really was getting to me, though.” “We both gave it four stars.” “The average score is 4.22 stars, and I don’t have any problem with that score.”
 
-![The Stolen Dragon Egg](https://lh3.googleusercontent.com/-P5gWVTVXFVA/VCTfqe2GJoI/AAAAAAAA2zg/vzLMmSwjDzc/w745-h596-no/GameClient%2B2014-09-24%2B22-56-53-03.jpg)
+{{< image src="https://lh3.googleusercontent.com/-P5gWVTVXFVA/VCTfqe2GJoI/AAAAAAAA2zg/vzLMmSwjDzc/w745-h596-no/GameClient%2B2014-09-24%2B22-56-53-03.jpg" classes="center" >}}
 
 **The Stolen Dragon Egg** by Zachariah92
 
@@ -111,7 +87,7 @@ This quest takes a chance by putting you in a very specific role, a choice some 
 
 So, good maps -- as promised, the sky above Svanem and the city itself were beautiful, and the dungeon itself showed some real talent. However, the encounters were stale and uninteresting, and the spelling needed work. When I played this before, while it was in review, I gave it four stars because I felt it showed promise. I dropped that to three stars on this second play through because I really hate static encounters. Kasul gave it three as well. Average score is 4.02 stars.
 
-![Culling the Cult of the Dragon](https://lh3.googleusercontent.com/-EkvwXlbYA94/VCTfqSy600I/AAAAAAAA2zg/CLulZ2OoNvs/w745-h596-no/GameClient%2B2014-09-24%2B23-59-17-95.jpg)
+{{< image src="https://lh3.googleusercontent.com/-EkvwXlbYA94/VCTfqSy600I/AAAAAAAA2zg/CLulZ2OoNvs/w745-h596-no/GameClient%2B2014-09-24%2B23-59-17-95.jpg" classes="center" >}}
 
 **Culling the Cult of the Dragon** by DemonMongerChild
 
@@ -121,7 +97,7 @@ We got through the first couple maps, and then decided we didn’t need this cra
 
 Zero stars from us. Foundries should be fun. Average stars so far: 3.40.
 
-![Fire Sale](https://lh6.googleusercontent.com/-qa-MJZDT0os/VCTfqTpvU6I/AAAAAAAA2zc/FT3xzWunT8k/w745-h596-no/GameClient%2B2014-09-25%2B01-03-08-92.jpg)
+{{< image src="https://lh6.googleusercontent.com/-qa-MJZDT0os/VCTfqTpvU6I/AAAAAAAA2zc/FT3xzWunT8k/w745-h596-no/GameClient%2B2014-09-25%2B01-03-08-92.jpg" classes="center" >}}
 
 **Fire Sale** by Tipa
 

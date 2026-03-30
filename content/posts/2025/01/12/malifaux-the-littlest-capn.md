@@ -3,41 +3,19 @@ date: '2025-01-12T08:00:00-05:00'
 draft: false
 title: "Malifaux: The Littlest Cap'n"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/12/malifaux-the-littlest-capn/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The local Malifaux club decided to hold a practice tournament ahead of Captain Con at the end of the month. I brought my new crew to give them a baptism by ice."
-description: "The local Malifaux club decided to hold a practice tournament ahead of Captain Con at the end of the month. I brought my new crew to give them a baptism by ice."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "CaptainCon"
   - "December"
   - "The Haven"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/littlecaptainbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/littlecaptainbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/littlecaptainbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/littlecaptainbanner.png"
 ---
+The local Malifaux club decided to hold a practice tournament ahead of Captain Con at the end of the month. I brought my new crew to give them a baptism by ice.
+<!--more-->
 
 I've been nervously looking forward to [CaptainCon](https://www.captaincon.com/), the annual tabletop gaming convention next door in Rhode Island. They have plenty of games that aren't Malifaux, but for Malifaux, this is the site of the most important tournament in New England. 
 
@@ -51,7 +29,7 @@ Rasputina was a Guild slave who escaped, wandered into the mountains, and found 
 
 On to the games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-30-1024x675.png" title="You can see December has already been at work here" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-30-1024x675.png" title="You can see December has already been at work here" classes="center" >}}
 
 First up: Rasputina against Von Schill's Freikorps. We've met before, but I was playing Mei Feng then.
 
@@ -63,7 +41,7 @@ This was my first time playing the crew, and I was roundly punished, losing 8-1.
 
 8 to 1, though. Ouch.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-31-1024x591.png" title="Ice vs Ice" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-31-1024x591.png" title="Ice vs Ice" classes="center" >}}
 
 Before the holidays, I'd played Austin's Euripides (Savage) with Mei Feng. His is another ice user, and when I saw he was playing today, I suggested we should try and play my new December crew with his Savages. This was set up.
 

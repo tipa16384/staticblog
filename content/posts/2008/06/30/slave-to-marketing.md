@@ -3,43 +3,19 @@ date: '2008-06-30T09:45:49-05:00'
 draft: false
 title: "Slave to marketing."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/30/slave-to-marketing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I almost -- ALMOST -- bought Guitar Hero: Aerosmith this weekend, for the PS3. And I probably would have, if I'd gone there Sunday instead..."
+categories:
   - "Doctor Who"
   - "Other Games"
+tags:
   - "Aerosmith"
   - "Guitar Hero"
   - "PS2"
   - "PS3"
   - "The Stolen Earth"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I almost -- ALMOST -- bought Guitar Hero: Aerosmith this weekend, for the PS3. And I probably would have, if I'd gone there Sunday instead...
+<!--more-->
 
 I almost -- ALMOST -- bought Guitar Hero: Aerosmith this weekend, for the PS3. And I probably would have, if I'd gone there Sunday instead of Saturday. Games for the PS3 are $60, the new price point, and I'd have had to buy a guitar controller for the PS3 as well.
 

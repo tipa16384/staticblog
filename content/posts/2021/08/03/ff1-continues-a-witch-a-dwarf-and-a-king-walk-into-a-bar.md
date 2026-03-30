@@ -3,50 +3,28 @@ date: '2021-08-03T23:17:26-05:00'
 draft: false
 title: "FF1 Continues: A Witch, A Dwarf, and a King walk into a bar..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/03/ff1-continues-a-witch-a-dwarf-and-a-king-walk-into-a-bar/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was just going to play Final Fantasy XIV long enough to get a picture with a dwarf to illustrate how Final Fantasy themes crop..."
+categories:
   - "Blaugust"
   - "CRPG"
   - "Final Fantasy"
   - "Final Fantasy XIV"
   - "Steam Games"
+tags:
   - "Jrpg"
   - "RPG"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/laliho.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/laliho.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/laliho.png"
 ---
+I was just going to play Final Fantasy XIV long enough to get a picture with a dwarf to illustrate how Final Fantasy themes crop...
+<!--more-->
 
 I was just going to play Final Fantasy XIV long enough to get a picture with a dwarf to illustrate how Final Fantasy themes crop up again and again... and I *did* that... but then I started working on the main story quest again... and... well, maybe later.
 
 Right now, we have to deal with a certain evil critter named Astos.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/image-300x294.png)](https://chasingdings.com/wp-content/uploads/2021/08/image.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/image-300x294.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/image.png)
 
 *A witch walks into a bar. One of her eyes is shut tight, and a trickle of blood leaks from it. The other is red with rage. A broomstick follows her closely, trying to help, but she snarls at it until it puts itself into a corner. "What happened???" asks the barmaid. "Astos happened," spits the witch. "He took my crystal eye, and now I cannot see!" The barmaid quickly mixes up a strong drink; fumes pour from the mug. The witch drinks it in one gulp and falls silent.*
 
@@ -56,17 +34,17 @@ Right now, we have to deal with a certain evil critter named Astos.
 
 *"You know me?" replies the king.*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210802212914_1-1-1024x576.jpg" title="Outside the Western Castle" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802212914_1-1-1024x576.jpg" title="Outside the Western Castle" classes="center" >}}
 
 The elf doctor needed a potion to wake the prince. Matroya, the witch, couldn't make a potion unless she had her crystal eye. The dwarfs couldn't get their treasure or clear out the channel without a mystic key to open the magically sealed doors. And the king needed a crown. All of them blamed Astos, the Dark Elf.
 
 Luckily, by the time we'd found the king, we'd already found the crown (see previous post).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210802213148_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802213148_1-1024x576.jpg" classes="center" >}}
 
 Once we gave it to him -- plot twist -- it turned out that HE was Astos! Under an illusion!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210802213218_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802213218_1-1024x576.jpg" classes="center" >}}
 
 We'd picked up all the latest spells in Elfheim. Tipa, Ally and Tom buffed Drew up, and then Drew punched him 12 times and Astos was dead in the first or maybe second turn.
 
@@ -74,16 +52,16 @@ There's a slim chance that we might be too leveled up for where we are in the st
 
 According to the in-game bestiary, Astos can drop a Mythril Sword, but he didn't this time. He did drop Matroya's crystal eye, though. Yay!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210802214236_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802214236_1-1024x576.jpg" classes="center" >}}
 
 Matoya was only too happy to brew up a special potion for the elf prince, once we'd returned her her eye.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210802215146_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802215146_1-1024x576.jpg" classes="center" >}}
 
 Once awakened, the prince was all too eager to give us a mystic key. We returned to Carolina in our mind and found the nitro. We also returned to the Marsh Swamp and got the treasures we couldn't get the first time, back to the West Castle for the one room we couldn't get into, and back to the dwarfs. For them, we opened up their treasure room (and then, stole all their treasure). In return, the dwarfs exploded the rock preventing them from building a channel that connects the inner sea to the outer ocean. We were free from the prison of the inner sea at last!
 
 We sailed for the horizon, and came to Melmoth, a ruined land where the life is being literally sucked from the soil by the first of the four elemental fiends, the Earth Fiend.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210802231034_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210802231034_1-1024x576.jpg" classes="center" >}}
 
 We have our next destination... until then, Pheasant Dreams!

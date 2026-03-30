@@ -3,40 +3,17 @@ date: '2007-12-07T08:49:57-05:00'
 draft: false
 title: "EQ2: More Kunzark Adventures"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/07/eq2-more-kunzark-adventures/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "DINA: Oh, it was a busy night. We're sitting here in Snake-Eye's camp, and I have old Lizard Breath sitting next to me...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-07-07-17-31-47.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-07-07-17-31-47.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-07-07-17-31-47.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-07-07-17-31-47.jpg"
 ---
+DINA: Oh, it was a busy night. We're sitting here in Snake-Eye's camp, and I have old Lizard Breath sitting next to me....
+<!--more-->
 
-![everquest2-2007-12-07-07-17-31-47.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-07-07-17-31-47.jpg)
+
 
 DINA: Oh, it was a busy night. We're sitting here in Snake-Eye's camp, and I have old Lizard Breath sitting next to me.
 
@@ -50,7 +27,7 @@ DINA: I think he said he dreamed of a black sabrekitty, and he never hunts rapto
 
 DERA: Looking at this camp, he must honor his Ma, pretty much every day...
 
-![everquest2-2007-12-07-07-14-31-93.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-07-07-14-31-93.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-07-07-14-31-93.jpg" classes="center" >}}
 
 DINA: Our adventures have brought us all through this somewhat small zone, the smallest outdoor zone we've seen so far in Kunark. The City of Mist in the north, the mistgoblins who protect them, the Sathirists roaming absolutely everywhere, dinosaurs, bugs... we made a lot of new friends...
 
@@ -60,7 +37,7 @@ DINA: Been everywhere from Sebilis to Jillin, become Rubble Rousers, and pretty 
 
 DERA: And Dina sprinting away safely, laughing.
 
-![everquest2-2007-12-07-07-05-53-44.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-07-07-05-53-44.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-07-07-05-53-44.jpg" classes="center" >}}
 
 DINA: Heh.. but seriously...
 

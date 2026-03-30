@@ -3,40 +3,17 @@ date: '2010-04-16T00:20:39-05:00'
 draft: false
 title: "IP-based MMOs Part 2 (of 5)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/16/ip-based-mmos-part-2-of-5/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "While developing a game to an established IP may bring the potential of thousands of players eager to live in the world they have come..."
+categories:
   - "Dungeons & Dragons Online"
   - "Final Fantasy"
   - "Hello Kitty Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/07305s-225x225.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/07305s-225x225.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/07305s-225x225.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/07305s-225x225.jpg"
 ---
+While developing a game to an established IP may bring the potential of thousands of players eager to live in the world they have come...
+<!--more-->
 
 While developing a game to an established IP may bring the potential of thousands of players eager to live in the world they have come to know, the property may also be a straight-jacket. Clever developers have found ways around these problems, though.
 
@@ -44,7 +21,9 @@ Game: [Dragon Oath](http://do.us.changyou.com/)
 
 IP: "Tian Long Ba Bu" by [Jin Yong](http://en.wikipedia.org/wiki/Jin_Yong)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/07305s-225x225.jpg "Dragon Oath")](https://chasingdings.com/wp-content/uploads/2010/04/07305s.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/04/07305s.jpg)
 
 In 1963, Jin Yong began serializing his epic novel Tian Long Ba Bu, or "The Heavenly Dragon and the Eight Sections", in newspapers in Hong Kong and Singapore. Four years later, he finished. Over 230 characters make their way through TLBB's grand plot of warring sects, intrigue, love, betrayal, blinding, death, demigods and dragons. He was the Robert Jordan of his day -- if Robert Jordan had written a chapter of his books every day for four years. TLBB has spawned four films and five movies. After reading about [TLBB on Wikipedia](http://en.wikipedia.org/wiki/Demi-Gods_and_Semi-Devils), I don't understand why we haven't seen a Western adaptation yet. A whole fake CITY was built in order to film one of the series (and is now a tourist destination).
 
@@ -54,7 +33,7 @@ Game: [Dungeons & Dragons Online](http://www.ddo.com/)
 
 IP: Wizard of the Coast's [Dungeons & Dragons](http://www.wizards.com/dnd/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/q1-09-ddo2-wp-1280x1024-225x225.jpg "Dungeons & Dragons Online")](https://chasingdings.com/wp-content/uploads/2010/04/q1-09-ddo2-wp-1280x1024.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/q1-09-ddo2-wp-1280x1024-225x225.jpg" title="Dungeons & Dragons Online" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/q1-09-ddo2-wp-1280x1024.jpg)
 
 First published in 1974 by long-time wargamers Dave Arneson and Gary Gygax, early editions of Dungeons & Dragons had a dead-easy character generation technique: roll three six-sided dice and add them up and assign those values in turn to STR, INT, WIS, DEX, CON and CHA -- the six characteristics that told the story of every character in the D&D world. If you had a high strength, you might opt to become a fighter. A goodly intelligence would mark you as a mage, and so on. The games were moderated by a (hopefully) impartial Dungeon Master (DM) who would lead the party on adventures appropriate to their classes and numbers. Later editions of the game introduced more rules and many ways of tuning a character just exactly right, but the game itself is still instantly familiar. The character sheet, the iconic 20-sided die, and the DM behind his or her screen cackling evilly as the players blunder into some insidious trap -- all would be instantly familiar to a D&D player of any age.
 
@@ -66,7 +45,7 @@ Game: [Final Fantasy XI Online](http://www.playonline.com/ff11us/index.shtml) an
 
 IP: Square-Enix's [Final Fantasy](http://en.wikipedia.org/wiki/Final_Fantasy) series
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4162010-122055-AM-225x225.jpg "Final Fantasy XIV")](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4162010-122055-AM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4162010-122055-AM-225x225.jpg" title="Final Fantasy XIV" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4162010-122055-AM.jpg)
 
 Aside from the occasional reuse of character names, general plots and Nobuo Uematsu's haunting scores, about all that unites the various titles in the Final Fantasy catalog is the name "Final Fantasy". You can't get much purer than that in an IP. The earlier games in the FF series tended toward more universal character classes and abilities before 1997's Final Fantasy VII moved the series toward more individualistic characters with iconic weapons and fighting moves. Since then, creators Square-Enix have outdone themselves in finding new, unique combat methods, weapons and power-ups, aside from a single return to their roots in 2000's Final Fantasy IX. The Final Fantasy series has been credited with bringing Japanese-style RPGs to the rest of the world, and has spawned two movies, at least one anime, manga and a host of tangentially-related spinoff games.
 
@@ -76,7 +55,7 @@ Game: [FusionFall](http://www.fusionfall.com/)
 
 IP: [Cartoon Network](http://www.cartoonnetwork.com/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4162010-123415-AM-225x225.jpg "FusionFall")](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4162010-123415-AM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4162010-123415-AM-225x225.jpg" title="FusionFall" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4162010-123415-AM.jpg)
 
 Since Cartoon Network started broadcasting in 1992, its blend of classic and original cartoons has made it the discerning teenager's outlet for original animation when the Disney Channel and Nickelodeon have lost their luster. Their late-night "Adult Swim" block shows experimental animation aimed at older teenagers and young adults. Cartoon Network broadcasts to kids from Ireland to Pakistan. The generally high quality of its cartoons make secret watchers of plenty of adults as well.
 
@@ -86,7 +65,7 @@ Game: [Hello Kitty Online](http://www.hellokittyonline.com/us/)
 
 IP: [Sanrio's Hello Kitty](http://www.sanrio.com/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/hko-2010-04-16-01-00-38-11-225x225.jpg "Hello Kitty Online")](https://chasingdings.com/wp-content/uploads/2010/04/hko-2010-04-16-01-00-38-11.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/hko-2010-04-16-01-00-38-11-225x225.jpg" title="Hello Kitty Online" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/hko-2010-04-16-01-00-38-11.jpg)
 
 Originally developed as a simple, semi-abstract decoration for a coin purse in Japan in 1974, within two years Hello Kitty had spread around the world. Now, Hello Kitty and her legion of friends can be found on [merchandise of all descriptions](http://www.glamguns.com/hk47.html) available wherever children may be found, including Sanrio-themed stores selling every kind of Hello Kitty branded merch you could think of... except maybe that Hello Kitty AK-47. From her humble beginnings as a coin purse, Hello Kitty has gone on to reign over a media empire that includes two animated series and a dozen video games.
 

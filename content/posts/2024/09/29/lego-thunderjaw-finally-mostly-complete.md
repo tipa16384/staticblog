@@ -3,39 +3,17 @@ date: '2024-09-29T15:06:14-05:00'
 draft: false
 title: "LEGO Thunderjaw: Finally mostly complete!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/09/29/lego-thunderjaw-finally-mostly-complete/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Don't look at it too hard, pieces will start falling off. In fact, don't even look at this PICTURE too long. Putting this together was a leeeeetle bit stressful."
-description: "Don't look at it too hard, pieces will start falling off. In fact, don't even look at this PICTURE too long. Putting this together was a leeeeetle bit stressful."
-tags:
+categories:
   - "Horizon Forbidden West"
+tags:
   - "Lego"
   - "Thunderjaw"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/thunderjaw-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/09/thunderjaw-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/thunderjaw-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/thunderjaw-scaled.jpg"
 ---
+Don't look at it too hard, pieces will start falling off. In fact, don't even look at this PICTURE too long. Putting this together was a leeeeetle bit stressful.
+<!--more-->
 
 For my birthday, Kasul got me a picture of a LEGO Thunderjaw and several pounds of LEGO bricks and Technic bits. Somewhere in there, I was told, lived a Thunderjaw to help protect my (official) LEGO Tallneck from the cats.
 
@@ -45,17 +23,17 @@ I definitely wanted it; I'd seen other MOC ("my own creation") fan Horizon build
 
 Based on my experience with the Tallneck, I expected this to come together fairly smoothly. Kasul had kindly separated out a lot of the parts so that the first couple of bags would cover the first fifty steps or so.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-10.png" title="The body" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-10.png" title="The body" classes="center" >}}
 
 To be fair, the body more or less came together smoothly. Sure, parts would keep dropping off, but it it was only a couple, I could put them right back on. This is before Mister T. Jaw became acquainted with Ms. S. Glue. They've since become closely attached to one another.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-11.png" title="Now, legs!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-11.png" title="Now, legs!" classes="center" >}}
 
 Legs came next, and that's when the problems really kicked up. Every single thing on those legs wanted to pop right back off again. Two steps forward and one step back. And it was clear even then that the legs would never support the model. They might, if you could get them to stay under the center of gravity. Unlike the Tallneck's legs, there is no ratchet keeping them in position; it's just a freely rotating ball joint (several, actually) that offers no resistance to gravity. Madame Glue will have words with those once I've built the base and decided upon a pose.
 
 I had a rule: pop off once, fine, that one's on me. Pop off twice, first warning. Three times -- glue time.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-12-1024x691.png" title="Tail time" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-12-1024x691.png" title="Tail time" classes="center" >}}
 
 When building the tail, I was pretty free with the glue. If it popped off and I didn't think I was doing anything that should have caused it to pop off -- glue. This model will really be pointless if I can't even touch it when it's done.
 

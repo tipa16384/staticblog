@@ -3,37 +3,14 @@ date: '2006-09-14T00:13:43-05:00'
 draft: false
 title: "R.I.P. Rio Karma"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/09/14/rip-rio-karma/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I promise, I'll get back to fun EQ2 (and EQ1!) stuff soon. Just... well, I usually prepare and write the blog entries on Baphomet, whom..."
+categories:
   - "General"
-featured_image: "http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg"
-cover:
-  image: "http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg"
+thumbnailImage: "http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg"
 ---
+I promise, I'll get back to fun EQ2 (and EQ1!) stuff soon. Just... well, I usually prepare and write the blog entries on Baphomet, whom...
+<!--more-->
 
 I promise, I'll get back to fun EQ2 (and EQ1!) stuff soon. Just... well, I usually prepare and write the blog entries on Baphomet, whom you may remember as my Linux computer. Ever since I accidentally updated a file I didn't mean to update, Baph has been getting sicker and sicker.
 
@@ -49,14 +26,14 @@ Anyway, I have full faith it will work fine. I've recently installed it on my la
 
 Much later: Works fine. I have to do the new Crimson Eternity news tonight, and I have to have a good sit and think for a couple of hours to get my thoughts and ideas together before I start.
 
-![Rio karma](http://images.google.com/images?q=tbn:4fC6Y_h_k7AzXM:http://images.21cn.com/2003/12/04/1432516.jpg "Rio karma")But a dear companion died today. My Rio Karma, my ugly little MP3 player, died. It had been sick before; its hard drive didn't work for awhile. A couple of sharp shocks brought it back to life (yes, this was what the engineers who designed it recommended). It limped on with some errors for a few months more, but today it would not revived.
+But a dear companion died today. My Rio Karma, my ugly little MP3 player, died. It had been sick before; its hard drive didn't work for awhile. A couple of sharp shocks brought it back to life (yes, this was what the engineers who designed it recommended). It limped on with some errors for a few months more, but today it would not revived.
 
 What's worse, it had my *entire CD collection* on it - nearly 3500 separate songs. They're all backed up on my Linux box, luckily - stored in an obscure format called Ogg Vorbis. It was going to be tough to find an MP3 player that could hold my entire collection, support Ogg, and be affordable.
 
-![iRiver Clix](http://images.google.com/images?q=tbn:3c9wDSszWhDf4M:http://gadgets.macworld.com/images/2006/05/iriver-clix.jpg "iRiver Clix")I wasn't searching long before I came across the iRiver Clix. This is simply the cutest MP3 player I've ever seen. Unfortunately, it didn't really meet my criteria - at 2 Gigs, it couldn't even come close to holding my collection, which means I could only have a portion of my library on it at any one time. And after all my Blue Oyster Cult, my Cambridge Singers, my Mike Oldfield, and all my other important vital albums... I'd be out of space. As cute as the Clix is, I can't use it.
+{{< image src="http://images.google.com/images?q=tbn:3c9wDSszWhDf4M:http://gadgets.macworld.com/images/2006/05/iriver-clix.jpg" title="iRiver Clix" classes="fig-20" >}}I wasn't searching long before I came across the iRiver Clix. This is simply the cutest MP3 player I've ever seen. Unfortunately, it didn't really meet my criteria - at 2 Gigs, it couldn't even come close to holding my collection, which means I could only have a portion of my library on it at any one time. And after all my Blue Oyster Cult, my Cambridge Singers, my Mike Oldfield, and all my other important vital albums... I'd be out of space. As cute as the Clix is, I can't use it.
 
 An iPod was out of the question. It doesn't support Ogg and I am NOT going to spend another few weekends re-ripping all my CDs. Plus, iTunes doesn't work under Linux. They're a little pricey. I decided to look at some of the "iPod Killers".
 
-![iAudio](http://images.google.com/images?q=tbn:flSiT4xGtwrkVM:http://www.uhu.ch/images/iaudio_x5.gif "iAudio")I eventually decided upon the Cowon iAudio, a 30 gig MP3 player that also played low-bitrate MP4 encoded videos, had a drag-and-drop interface which worked seamlessly with Linux, and could play songs downloaded from Windows Media Player "Plays For Sure" stores if I really wanted to catch up on my Coldplay and Britney Spears.
+{{< image src="http://images.google.com/images?q=tbn:flSiT4xGtwrkVM:http://www.uhu.ch/images/iaudio_x5.gif" title="iAudio" classes="fig-20" >}}I eventually decided upon the Cowon iAudio, a 30 gig MP3 player that also played low-bitrate MP4 encoded videos, had a drag-and-drop interface which worked seamlessly with Linux, and could play songs downloaded from Windows Media Player "Plays For Sure" stores if I really wanted to catch up on my Coldplay and Britney Spears.
 
 I can't wait for it to arrive. Sometimes I need to concentrate at work. I need music to shut out the distractions. My little Rio did that job for months and months; I hope this iAudio works as well. Or better.

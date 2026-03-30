@@ -3,78 +3,56 @@ date: '2024-01-06T11:38:00-05:00'
 draft: false
 title: "Tactics Ogre: The Knight of Lodis FINISHED!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/01/06/tactics-ogre-the-knight-of-lodis-finished/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight's journey to discover his place in the world."
-description: "It's a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight's journey to discover his place in the world."
-tags:
+categories:
   - "Final Fantasy"
+tags:
   - "Analogue"
   - "Gameboy Advance"
   - "Knight of Lodis"
   - "Ogre Battle"
   - "Tactics Ogre"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/20240104_221426.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/01/20240104_221426.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_221426.jpg"
 ---
+It's a tale of love, loss, betrayal, alliances, war, peace, redemption, and a young knight's journey to discover his place in the world.
+<!--more-->
 
 Every game in the Ogre Battle/Tactics Ogre series tells essentially a political story. There usually is a "big bad" -- as there is in this game -- but just as usually, the big bad *isn't* the real villain.
 
 So some background: Tactics Ogre: The Knight of Lodis is the last *new* entry in the Ogre Battle series, published for the Gameboy Advance in 2001 (Japan) and 2002 (rest of the world). Some games in the series have been ported to more modern consoles, some have been remade, but this was the last chapter of the story (though it takes place between the first two games, the SFC/SNES "Ogre Battle: The March of the Black Queen" and the SNES/PS1/etc "Tactics Ogre: Let Us Cling Together"). The Knight of Lodis, like Let Us Cling Together and their spiritual successor Final Fantasy Tactics, is a turn-based tactics RPG. The other games in the series are real time tactics games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240104_214414.jpg" title="Entering the Hall of Conviction" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240104_214414.jpg" title="Entering the Hall of Conviction" classes="center" >}}
 
 I played this game on an Analogue Pocket, a handheld console that emulates the Gameboy, Gameboy Color and Gameboy Advance in hardware, and is compatible with the cartridges for those systems. Adapters allow use of Neo Geo Pocket Color, Game Gear and Atari Lynx cartridges directly. Its re-programmable FPGA cores allow emulation of dozens of other handhelds, consoles, and computers. It's pretty neat.
 
 I have the optional dock that allows for charging and HDMI output, and I used that to capture the video below. The screenshots are so small because... that's the resolution of the actual game. It's not from an emulator.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111117.png" title="Alphonse (named after my son here), protagonist" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111117.png" title="Alphonse (named after my son here), protagonist" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111130.png" title="Ivanna, Knight -- heir to crown of Ovis" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111130.png" title="Ivanna, Knight -- heir to crown of Ovis" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111125.png" title="Eleanor, Siren" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111125.png" title="Eleanor, Siren" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111137.png" title="Canopus, Hawkman" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111137.png" title="Canopus, Hawkman" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111142.png" title="Deneb, Witch -- Hidden character" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111142.png" title="Deneb, Witch -- Hidden character" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111156.png" title="Euphaire, Shaman -- Elrik's daughter" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111156.png" title="Euphaire, Shaman -- Elrik's daughter" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111151.png" title="Cybil, Sorceress" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111151.png" title="Cybil, Sorceress" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111203.png" title="Glycinia, Fairy -- Optional character" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111203.png" title="Glycinia, Fairy -- Optional character" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111210.png" title="Shiven, Ninja -- Cybil's companion" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111210.png" title="Shiven, Ninja -- Cybil's companion" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111215.png" title="Elrik, Summoner -- optional character" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111215.png" title="Elrik, Summoner -- optional character" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111251.png" title="Lubina, Fairy -- hidden character" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111251.png" title="Lubina, Fairy -- hidden character" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111222.png" title="Aerial, Mermaid" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111222.png" title="Aerial, Mermaid" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240106_111301.png" title="Saia, Lesser Daemon. Hidden character." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240106_111301.png" title="Saia, Lesser Daemon. Hidden character." classes="center" >}}
 
 As with Ostorea Castle, when approaching the Netherworld, we have to split our forces into two to defeat the defenses before being able to face the boss. Fortunately, I've made a pretty strong army to this point. Eleanor, the protagonist's romantic partner, asks to stay with the protagonist and be part of the battles, and this is *very important to the plot*. Eleanor's story is key to many of the endings.
 
@@ -135,8 +113,8 @@ So how does it compare?
 
 **Recruiting enemies is *important*.** In FFT, certain jobs can recruit certain enemies, but it isn't necessary. In TKoL, it is. Every character has a chance at recruiting, but the protagonist and Ivanna have better base chances. This can be raised by being of a compatible class and of the opposite gender. The reason to do it is because enemies have spells, skills, rare gear *and common gear* that they *do not drop* when killed. You can also get powerful classes well before you could unlock them yourself. Money is *scarce* in TKoL; being able to recruit an enemy helps you in that fight, but afterward, you can strip them of their gear and sell the pieces you don't want. *No more money problems.*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/20240105_003755.jpg" title="I dismissed so many" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/20240105_003755.jpg" title="I dismissed so many" classes="center" >}}
 
 My end screen stats show just how many enemies I recruited, stripped, and disposed of. There were more that I kept on the team afterwards; the hidden stats and stuff means you'll want variety in your army.
 
-TKoL is an important game in the series. It's on the balance a little easier than FFT, the plot is a little more complicated, and as far as I know, has never been re-released on another platform. The team who developed TKoL joined Square when Square bought out Quest, and went on to develop *Final Fantasy Tactics Advance*, which I have [written about here](https://chasingdings.com/2022/01/23/once-i-had-a-life-now-i-have-final-fantasy-tactics-advance/).
+TKoL is an important game in the series. It's on the balance a little easier than FFT, the plot is a little more complicated, and as far as I know, has never been re-released on another platform. The team who developed TKoL joined Square when Square bought out Quest, and went on to develop *Final Fantasy Tactics Advance*, which I have [written about here](https://tipa16384.github.io/wkblog/2022/01/23/once-i-had-a-life-now-i-have-final-fantasy-tactics-advance/).

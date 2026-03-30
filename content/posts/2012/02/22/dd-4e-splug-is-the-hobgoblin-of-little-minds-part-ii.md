@@ -3,40 +3,17 @@ date: '2012-02-22T23:26:26-05:00'
 draft: false
 title: "D&D 4E: Splug is the Hobgoblin of Little Minds, Part II"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/22/dd-4e-splug-is-the-hobgoblin-of-little-minds-part-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "You smelly backbiter, Splug...."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-17-00-22-52-11-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-17-00-22-52-11-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-17-00-22-52-11-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-17-00-22-52-11-480x360.jpg"
 ---
+You smelly backbiter, Splug....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-17-00-22-52-11-480x360.jpg" title="The Dig" class="align-center" >}}
+
 
 You smelly backbiter, Splug.
 

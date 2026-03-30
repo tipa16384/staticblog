@@ -3,37 +3,12 @@ date: '2007-08-24T09:41:18-05:00'
 draft: false
 title: "Life with Shifter and Mister Kvho"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/08/24/life-with-shifter-and-mister-kvho/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Reposted from my Shapeshifter blog.Â I do plan to post more here -- in fact, I'm going to start posting daily, Just been really busy..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Reposted from my Shapeshifter blog.Â I do plan to post more here -- in fact, I'm going to start posting daily, Just been really busy...
+<!--more-->
 
 Reposted from my [Shapeshifter](http://shewhoshapes.wordpress.com/) blog.Â I do plan to post more here -- in fact, I'm going to start posting daily, Just been really busy lately.
 

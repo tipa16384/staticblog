@@ -3,40 +3,19 @@ date: '2012-11-19T20:27:37-05:00'
 draft: false
 title: "EQ2: Wurmslayered!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/11/19/eq2-wurmslayered/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77-480x268.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77-480x268.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77-480x268.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77-480x268.jpg"
 ---
+[...
+<!--more-->
 
-[![Slaying wurms!](https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77-480x268.jpg "EverQuest2 2012-11-19 13-36-36-77")](https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-19-13-36-36-77.jpg)
 
 Take that, dragons!
 
@@ -46,7 +25,7 @@ Instead, it was just me (and later, me and a mercenary) running around and doing
 
 Leveled tailoring and jewelcrafting the hard way back in the day...
 
-{{< figure src="https://lh3.googleusercontent.com/-ZTOCJff50UE/TSJ-ukHSX0I/AAAAAAAAac0/cRs-h2m8Hkg/s720/2ebb2c0e5d2b6e200780f8e231e04e79.jpg" title="Way WAY back in the day..." class="align-center" >}}
+{{< image src="https://lh3.googleusercontent.com/-ZTOCJff50UE/TSJ-ukHSX0I/AAAAAAAAac0/cRs-h2m8Hkg/s720/2ebb2c0e5d2b6e200780f8e231e04e79.jpg" title="Way WAY back in the day..." classes="center" >}}
 
 This wasn't the first time I'd done the Wurmslayer quest. I did it WAY back in the day for my halfling warrior on the original EverQuest, where the two knights who started the quest in the Kingdom of Sky also started it outside the Outpost of Firiona Vie in Kunark. It wasn't an epic quest back then. The final weapon was so darned heavy, though, that you'd grow exhausted using it for long (weapon weight and endurance are two of the many things that didn't make it to EQ2 in order to make the game ~~easier~~ more accessible).
 
@@ -54,7 +33,7 @@ Nina, who was a twink, I fully admit, looks wonderful in the crafted warrior arm
 
 Distracted!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-12-54-26-15-480x269.jpg" title="The Krewe" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-19-12-54-26-15-480x269.jpg" title="The Krewe" classes="center" >}}
 
 I'd done all the parts I could do alone -- got my crafting squared away, made all the preliminary less-uber Wurmslayers, got the blood of the Halls of Fate dragon, Sothis -- and that's where it would have stayed if not for the help of [Stargrace](http://mmoquests.com/) and her friend ~~Icantthinkofanameformycharacter~~ Ibeogur. I kid, he was wonderful, and as a fellow beserker, an inspiration! I couldn't help notice he was _not_ wielding a Wurmslayer. Sigh. Neither would I at his level. Neither would I at _my_ level. The Great Unattuning of 20-- had allowed me to take Tipa/Dina's KoS weapons, an instant upgrade that put me far ahead of the Wurmslayer. Notwithstanding that it was a weapon meant for level 70s, and I was 77. 78 by the end of the raids.
 
@@ -62,7 +41,7 @@ I dinged both level 14 and level 78 in the Laboratory of Lord Vyemm and man, how
 
 Anyway, the picture above gives credit where credit is due. Blesse is Stargrace's priest, Ibeogur is the friendly giant, my character, Scatterfall, is next to the sokokar I had out trying to figure out why I can't get any of the sokokar posts in Jarsath Wastes to work for me and forgot to dismiss. Krivix Honorclaw is the Chains of Eternity Collector's Edition paladin mercenary who I was told didn't need to come, but I summoned him anyway, and for the rest of the raid, tried to figure out follow/protect/assist settings that wouldn't leave him battling the boss that Ibeogur was trying to pull. Nobody said anything, but I felt pretty embarrassed by him. Not embarrassed enough to suspend him. Almost.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-12-55-51-79-480x269.jpg" title="Lord Vyemm" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-19-12-55-51-79-480x269.jpg" title="Lord Vyemm" classes="center" >}}
 
 First dragon was Lord Vyemm; he and his aide come as a pair. There was some trick to pulling these guys; I remember, back in Revolution, that even when the rest of the raid was a cakewalk, we could still wipe on the Vyemm pull. I helpfully sent Krivix out to solo Vyemm when Ibeogur was out pulling. Well, I didn't send him on purpose, but he went scampering away, anyway, so I told him to come home and soon, Ib. brought the mobs home.
 
@@ -72,7 +51,7 @@ Anyway, I pelted Vyemm with papercuts while Krivix did his more useful DPS and I
 
 Other loot was the Warrior class helmet and a non-set BP upgrade and a ring. So actually a pretty good haul. LOTS of Bard stuff dropped. Where were you when I was raiding? Though I actually got most of the Nightchord stuff before we stopped Labs runs. Got a couple Relic armor drops for the quest armors, but I didn't win any of the plate. Not sure there was any. Didn't paying huge attention to the loot until I got home and could look it over.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-14-05-84-480x269.jpg" title="Harla Dar" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-19-13-14-05-84-480x269.jpg" title="Harla Dar" classes="center" >}}
 
 We didn't kill Harla Dar much in Revolution. We'd farm her instance for stuff, like the Ring of Reykjavik (not its real name; ring of something-long-that-begins-with-"R"). Every fighter wanted that ring, so we'd go back again and again, I get it on my first (and only) try with this character. Two ring upgrades. Two ring slots. Win. Anyway, sometimes we'd kill her, sometimes no, more often after they made her guarantee to drop a master spell for a class that was actually on the raid. I don't remember if that still holds true today. I can attest that no berserker masters dropped, and 2/3rds of the PCs in the group were berserkers.
 
@@ -84,7 +63,7 @@ It's not that tough to understand, is it? People so shocked that their twinks co
 
 But that was the past. This is the future now, the future of me being such a soloer that I didn't even realize people were trying to talk to me in group chat. The box wasn't selected in my chat window. Tells and guild chat were. Group, nope, because, who groups? I hear people in level chat in a panic because they're in an instance that requires a character of every archetype (fighter, priest, scout, mage) and they CAN'T PROCEED!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-13-29-41-55-480x269.jpg" title="Wurmslayer crafted!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-19-13-29-41-55-480x269.jpg" title="Wurmslayer crafted!" classes="center" >}}
 
 So, with Harla Dar dead and the last vial of blood soaked from her scaly hide, it was only left to profusely thank Blesse and Ibeogur for their much-appreciated help, and hunt down the quest giver for the last recipe book, the one that would finish the transformation of the Wurmslayer from a forgotten, rusted weapon centuries old, to a new, shiny weapon of draconic devastation.
 
@@ -100,7 +79,7 @@ Oh right. Finished that quest. Learned Draconic. Next step is a timed wall-climb
 
 Time for another picture.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-19-14-20-40-19-480x269.jpg" title="Wurmslayer at home" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-19-14-20-40-19-480x269.jpg" title="Wurmslayer at home" classes="center" >}}
 
 It's really sad that, after all that work, I won't be using the Wurmslayer. Well, I'll find a use for it. EverQuest 2 lets you swap weapon appearances at will, so my Wurmslayer will be the visible appearance for whatever weapon I'm holding in my main hand. Not as cool running around as back in EQ1 where your weapons were in your hands at all times for everyone to see all the time.
 
@@ -120,7 +99,7 @@ So: Wurmslayer. Obtained. Level 78. I keep treating level 80 like it's some kind
 
 Anyway, EQ2i helpfully suggests Moors of Ykesha and Sundered Frontier prior to attempting Velious, which is good, because I went to Velious (included with the CoE expansion) and everything was really red there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-18-17-36-20-56-480x270.jpg" title="Invasion of the Order of the Rime" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-18-17-36-20-56-480x270.jpg" title="Invasion of the Order of the Rime" classes="center" >}}
 
 Reason I went to Velious at all was because I was exploring the edges of the Field of Bone and suddenly this cut-scene started, with a barge pulled by twin dragon turtles invading Kunark, something I didn't remember from EQ1. It was the Order of Rime, a group of troublemakers that feature in quite a few Fens quests, and I wondered if this meant I should head to Velious.
 

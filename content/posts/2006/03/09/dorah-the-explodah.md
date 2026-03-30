@@ -3,40 +3,17 @@ date: '2006-03-09T00:00:00-05:00'
 draft: false
 title: "Dorah the Explodah"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/03/09/dorah-the-explodah/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Got Dina to level 44 last night adventuring in Lavastorm; her first level since last May. Earlier had hooked up with Solamon, and he, along..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/dorah.jpg"
-cover:
-  image: "https://chasingdings.com/images/dorah.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/dorah.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/dorah.jpg"
 ---
+Got Dina to level 44 last night adventuring in Lavastorm; her first level since last May. Earlier had hooked up with Solamon, and he, along...
+<!--more-->
 
-![](https://chasingdings.com/images/dorah.jpg)
+
 
 Got Dina to level 44 last night adventuring in Lavastorm; her first level since last May. Earlier had hooked up with Solamon, and he, along with Nashuya and Dina, did the first three runs in the JBoots quest (I was pretty impressed that Solamon, at 19, finished the TS run...). Between that, some Guitar Hero, watching Mythbusters for the first time, and (gasp) some chores, the night was pretty full.
 

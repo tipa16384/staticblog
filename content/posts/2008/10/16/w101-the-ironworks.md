@@ -3,26 +3,11 @@ date: '2008-10-16T08:59:48-05:00'
 draft: false
 title: "W101: The Ironworks"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/16/w101-the-ironworks/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Marleybone's Regent's Square at the end of last night's adventure. New staff, the Staff of Rejuvenation; my school, of course, which is kind of a..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Chelsea Court"
   - "Chelsea Tower"
   - "Hyde Park"
@@ -31,32 +16,26 @@ tags:
   - "Regent's Square"
   - "The Ironworks"
   - "W101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-18-31-94.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-18-31-94.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-18-31-94.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-18-31-94.jpg"
 ---
+Marleybone's Regent's Square at the end of last night's adventure. New staff, the Staff of Rejuvenation; my school, of course, which is kind of a...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-18-31-94.jpg "wizardgraphicalclient-2008-10-16-00-18-31-94")
+
 
 Marleybone's Regent's Square at the end of last night's adventure. New staff, the Staff of Rejuvenation; my school, of course, which is kind of a bummer because using it triggers all my Life traps and blades, but with careful planning, it works. Its advantage over Britt's Flamelicked Staff? 75 Life damage vs 70 Fire damage means slightly more damage and somewhat more effective against Fire enemies. It also gives an extra pip at the beginning of every battle which means getting the good spells out becomes significantly faster. Since I begin most boss battles by trying to bring my four pip Sprite Guardian out to handle healing, being halfway there on the first round -- and with luck with power pips, 3/4 of the way there -- is extremely powerful.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-15-07-32-52-26.jpg "wizardgraphicalclient-2008-10-15-07-32-52-26")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-15-07-32-52-26.jpg" title="wizardgraphicalclient-2008-10-15-07-32-52-26" classes="center" >}}
 
 *Freddy Nine Lives demanded I kill him nine times in a row to get my level 27 Life spell, a powerful heal over time.*
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-15-21-57-43-42.jpg "wizardgraphicalclient-2008-10-15-21-57-43-42")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-15-21-57-43-42.jpg" title="wizardgraphicalclient-2008-10-15-21-57-43-42" classes="center" >}}
 
 *Shakes O'Leary was one of the many mice I had to rough up in the Ironworks.*
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-15-22-46-43-83.jpg "wizardgraphicalclient-2008-10-15-22-46-43-83")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-15-22-46-43-83.jpg" title="wizardgraphicalclient-2008-10-15-22-46-43-83" classes="center" >}}
 
 *The clockwork boss of Chelsea Tower.*
 
@@ -68,7 +47,7 @@ A young fire wizard joined that same fight, he was maybe level 24 but had the ti
 
 Rest of my time in Hyde Park, he'd be flickering into my fights (but staying to help kill), bugging me to give him my Mutate cards (which I did, why not?), and so on.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-16-12-59.jpg "wizardgraphicalclient-2008-10-16-00-16-12-59")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-16-00-16-12-59.jpg" title="wizardgraphicalclient-2008-10-16-00-16-12-59" classes="center" >}}
 
 *Newgate Prison, the next quest hub.*
 
@@ -78,13 +57,13 @@ The whole zone was so short. I did ding level 30 during it, but I was kind of di
 
 Sherlock Bones requested I meet him and Baxter at his home at 221B Barker Street and plan our next move against Pops.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-15-22-57-42-12.jpg "wizardgraphicalclient-2008-10-15-22-57-42-12")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-15-22-57-42-12.jpg" title="wizardgraphicalclient-2008-10-15-22-57-42-12" classes="center" >}}
 
 Baxter revealed that Pops ran things from his factory, known locally as The Ironworks. A depressing place filled with the worst of the criminal element. The law would be no help, as all the bobbies were at tea, and the heroic detectives like Sherlock himself, would go but, alas, he had a masterclass scheduled with a violin maestro who was visiting Barkingham Palace and just couldn't tear himself away.
 
 Not to anyone's surprise, least of all my own, I would once again be sent off to battle Marleybone's greatest criminals, entirely by myself.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-15-23-31-45-01.jpg "wizardgraphicalclient-2008-10-15-23-31-45-01")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-15-23-31-45-01.jpg" title="wizardgraphicalclient-2008-10-15-23-31-45-01" classes="center" >}}
 
 *Whoa. City of Heroes flashback.*
 
@@ -98,7 +77,7 @@ Anyway, the Ironworks was no challenge, which was fine by me, as I was distracte
 
 Full experience the first trip, but only half experience the second trip, and none thereafter, so unless someone asks me for help in the Ironworks, this next trip will be my last.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-15-23-11-07-09.jpg "wizardgraphicalclient-2008-10-15-23-11-07-09")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-15-23-11-07-09.jpg" title="wizardgraphicalclient-2008-10-15-23-11-07-09" classes="center" >}}
 
 *Chim Chimeree, Chim Chimeree, Chim chim, Cheroo...*
 

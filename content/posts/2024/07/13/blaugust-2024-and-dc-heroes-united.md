@@ -3,41 +3,19 @@ date: '2024-07-13T08:00:00-05:00'
 draft: false
 title: "Blaugust 2024 and DC Heroes United"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/07/13/blaugust-2024-and-dc-heroes-united/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Sure, I could use two posts to write about two things... OR I could do this, and write about them both. It's a Value Size Blog."
-description: "Sure, I could use two posts to write about two things... OR I could do this, and write about them both. It's a Value Size Blog."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "DC Comics"
+tags:
   - "DC Superheroes United"
   - "Gamefound"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/dcunited.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/07/dcunited.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dcunited.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dcunited.jpg"
 ---
+Sure, I could use two posts to write about two things... OR I could do this, and write about them both. It's a Value Size Blog.
+<!--more-->
 
 Okay, so, big news -- Blaugust is back!
 
@@ -47,7 +25,7 @@ The past couple of years, I've been inspired by the goal of writing a post every
 
 This year, I want to work through my backlog. Not just PlayStation 2 games -- I have board games you've never heard about, video games both new and old, *card* games, and other stuff I might come up with. [I'm *probably* going home to California](https://whatsupmonterey.com/article/holiday-happenings/your-ultimate-labor-day-weekend-guide-to-monterey-bay-curated-by-our-local-experts) for a visit over Labor Day, so maybe we can get an update from the Left Coast before the month is out. We'll see.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/07/image.png" title="I kinda expect Aquaman to look like Jason Momoa now." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/07/image.png" title="I kinda expect Aquaman to look like Jason Momoa now." classes="center" >}}
 
 **What about Superman, and Batman, and Wonder Woman?**
 

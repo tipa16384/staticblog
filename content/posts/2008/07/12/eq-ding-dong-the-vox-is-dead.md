@@ -3,42 +3,20 @@ date: '2008-07-12T00:20:05-05:00'
 draft: false
 title: "EQ: Ding dong, the Vox is dead."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/12/eq-ding-dong-the-vox-is-dead/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't written up a raid report for YEARS. But I absolutely have never been as happy to do so. Tonight, ten people, level 42..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Lady Vox"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/voxdead.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/voxdead.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/voxdead.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/voxdead.jpg"
 ---
+I haven't written up a raid report for YEARS. But I absolutely have never been as happy to do so. Tonight, ten people, level 42...
+<!--more-->
 
-![voxdead.jpg](https://chasingdings.com/wp-content/uploads/2008/07/voxdead.jpg)
+
 
 I haven't written up a raid report for YEARS. But I absolutely have never been as happy to do so. Tonight, ten people, level 42 to 52, waded through hundreds of goblins, dozens of giants, and a couple spiders and tentacle terrors, to take down the Queen of Permafrost, the ice dragon Lady Vox. The technique we'd figured out to get the giants out of her lair without having Vox come along worked wonderfully. We tried various pull spots in order to best bring Vox without the adds from her room, and Soaridor suggested the Flag Room, which turned out to be the perfect Vox-pulling spot.
 

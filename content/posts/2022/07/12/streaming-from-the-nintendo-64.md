@@ -3,26 +3,12 @@ date: '2022-07-12T07:42:43-05:00'
 draft: false
 title: "Streaming from the Nintendo 64"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/07/12/streaming-from-the-nintendo-64/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's not pretty and it could be better, but I'm able to stream from my unmodified Nintendo 64 at an acceptable resolution using about $50..."
+categories:
   - "Nintendo 64"
+tags:
   - "Hdmi"
+  - "Nintendo 64"
   - "Retrotink"
   - "S-Video"
   - "Stream"
@@ -30,22 +16,15 @@ tags:
   - "Video"
   - "Video Capture"
   - "Video Converter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/vlcsnap-2022-07-12-07h06m02s617.jpg"
 ---
+It's not pretty and it could be better, but I'm able to stream from my unmodified Nintendo 64 at an acceptable resolution using about $50...
+<!--more-->
 
 It's not pretty and it could be better, but I'm able to stream from my unmodified Nintendo 64 at an acceptable resolution using about $50 of hardware.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/IMG_2614-1024x768.jpg" title="The hardware" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2614-1024x768.jpg" title="The hardware" classes="center" >}}
 
 Curling around the picture is an S-Video cable. My N64 came originally with composite cables; S-Video provides a slightly better signal. With so much signal processing happening, it's important to start off with the best signal we can get. There is an N64 mod that breaks out the RGB signal before it is processed, but I don't have that.
 
@@ -59,9 +38,9 @@ It took a little fiddling for OBS to capture both video and sound from the devic
 
 If you've been wanting to play your vintage game systems on modern hardware and also stream but you thought it would take hundreds of dollars -- no, it doesn't have to.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/image-1.png" title="RetroTINK-5X" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/image-1.png" title="RetroTINK-5X" classes="center" >}}
 
-In yesterday's post, [everwake](https://chasingdings.com/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/#comment-15490) told me about a device called the [RetroTINK-5X Pro](https://www.retrotink.com/product-page/5x-pro). This would replace the TENSUN Video Converter. It uses an FPGA to do a better job with the signal conversion, and can provide an output resolution higher than the input resolution, and of higher quality as well. It can also take advantage of the N64 RGB output mod that would allow N64 games to be played on the original (but modded) hardware with an image as perfect as possible.
+In yesterday's post, [everwake](https://tipa16384.github.io/wkblog/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/#comment-15490) told me about a device called the [RetroTINK-5X Pro](https://www.retrotink.com/product-page/5x-pro). This would replace the TENSUN Video Converter. It uses an FPGA to do a better job with the signal conversion, and can provide an output resolution higher than the input resolution, and of higher quality as well. It can also take advantage of the N64 RGB output mod that would allow N64 games to be played on the original (but modded) hardware with an image as perfect as possible.
 
 Downside is, this costs $300, and each is made by hand, to order, by the inventor.
 

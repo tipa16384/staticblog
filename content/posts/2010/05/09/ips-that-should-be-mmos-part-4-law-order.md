@@ -3,38 +3,15 @@ date: '2010-05-09T09:39:18-05:00'
 draft: false
 title: "IPs that should be MMOs, part 4: Law & Order"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/09/ips-that-should-be-mmos-part-4-law-order/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "wgOggPlayer.msg = {\"ogg-play\": \"Play\", \"ogg-pause\": \"Pause\", \"ogg-stop\": \"Stop\", \"ogg-no-player\": \"Sorry, your system does not appear to have any supported player software.\\nPlease \\x3ca href=\\\"http://www.mediawiki.org/wiki/Extension:OggHandler/Clientdownload\\\"\\x3edownload a player\\x3c/a\\x3e.\",..."
+categories:
   - "Daily Blogroll"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/law-and-order.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/law-and-order.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/law-and-order.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/law-and-order.jpg"
 ---
+wgOggPlayer.msg = {"ogg-play": "Play", "ogg-pause": "Pause", "ogg-stop": "Stop", "ogg-no-player": "Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Clientdownload\"\x3edownload a player\x3c/a\x3e.",...
+<!--more-->
 
 wgOggPlayer.msg = {"ogg-play": "Play", "ogg-pause": "Pause", "ogg-stop": "Stop", "ogg-no-player": "Sorry, your system does not appear to have any supported player software.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload a player\x3c/a\x3e.", "ogg-player-videoElement": "Native browser support", "ogg-player-oggPlugin": "Browser plugin", "ogg-player-cortado": "Cortado (Java)", "ogg-player-vlc-mozilla": "VLC", "ogg-player-vlc-activex": "VLC (ActiveX)", "ogg-player-quicktime-mozilla": "QuickTime", "ogg-player-quicktime-activex": "QuickTime (ActiveX)", "ogg-player-totem": "Totem", "ogg-player-kaffeine": "Kaffeine", "ogg-player-kmplayer": "KMPlayer", "ogg-player-mplayerplug-in": "mplayerplug-in", "ogg-player-thumbnail": "Still image only", "ogg-player-selected": "(selected)", "ogg-use-player": "Use player:", "ogg-more": "More…", "ogg-download": "Download file", "ogg-desc-link": "About this file", "ogg-dismiss": "Close", "ogg-player-soundthumb": "No player", "ogg-no-xiphqt": "You do not appear to have the XiphQT component for QuickTime.\nQuickTime cannot play Ogg files without this component.\nPlease \x3ca href=\"http://www.mediawiki.org/wiki/Extension:OggHandler/Client_download\"\x3edownload XiphQT\x3c/a\x3e or choose another player."};
 
@@ -54,7 +31,9 @@ font-size: 10pt;
 
 }
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/law-and-order.jpg "Cast of Law & Order")](https://chasingdings.com/wp-content/uploads/2010/05/law-and-order.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/law-and-order.jpg)
 
 When [Law & Order](http://en.wikipedia.org/wiki/Law_And_Order) starts its 21st season this year, it will become the longest continually running drama on American television -- surpassing previous record holder, Gunsmoke.
 
@@ -62,7 +41,7 @@ Law & Order is both a police and a courtroom procedural. In the first half of th
 
 Good show, but how can it POSSIBLY be made into an MMO? Most every MMO involves players indiscriminately killing everything that crosses their path. Crime-focused games in real life settings, like Grand Theft Auto, make heroes of murderers and criminals. Past that, how can a show that follows a formula (opening theme, cops nab crooks, ka-CHUNG, prosecutors put them away, closing theme) be made fresh and interesting throughout a long MMO grind?
 
-![Play sound](http://en.wikipedia.org/w/extensions/OggHandler/play.png)
+{{< image src="http://en.wikipedia.org/w/extensions/OggHandler/play.png" classes="center" >}}
 
 The only possible way to do Law & Order right -- to make a game that the millions of Law & Order fans the world over could enjoy -- is to drastically depart from what we would normally think of as an MMO.
 

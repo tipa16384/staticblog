@@ -3,40 +3,17 @@ date: '2008-05-12T08:07:19-05:00'
 draft: false
 title: "Sucked in by Mythos again"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/12/sucked-in-by-mythos-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's a fine line between 'research' and 'ah, what the heck. game on!'. I crossed that line several times yesterday...."
+categories:
   - "MMORPG"
   - "Mythos"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-12-01-48-15-9.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-12-01-48-15-9.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/mythos-2008-05-12-01-48-15-9.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/mythos-2008-05-12-01-48-15-9.jpg"
 ---
+There's a fine line between 'research' and 'ah, what the heck. game on!'. I crossed that line several times yesterday....
+<!--more-->
 
-![mythos-2008-05-12-01-48-15-9.jpg](https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-12-01-48-15-9.jpg)
+
 
 There's a fine line between 'research' and 'ah, what the heck. game on!'. I crossed that line several times yesterday.
 
@@ -46,7 +23,7 @@ But I'd been playing all wrong ANYWAY. My pet spec had taught me to carefully we
 
 I got three levels in about as many hours. I'd mostly skipped Zone 2, but Zone 3 is annoying with those snare/silence mobs and Zone 2 was there to help :)
 
-![mythos-2008-05-12-07-25-11-79.jpg](https://chasingdings.com/wp-content/uploads/2008/05/mythos-2008-05-12-07-25-11-79.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/05/mythos-2008-05-12-07-25-11-79.jpg" classes="center" >}}
 
 The other thing Kanthalos taught me was how to game the Briss quests -- these are repeatable, randomly generated quests which offer one of three random rewards. Usually they are junk, but occasionally he has something nice. I used to grab one occasionally, do it, get the crappy reward and sell it immediately. Turns out you can accept and abandon his quest (and those of other similar quest givers), and keep on asking for a new one until something you like is offered. Since I have very little luck going -- most of my gear has either strength, dexterity or both on it to support my hybrid spec -- I don't get very much purpose+ quality loot in the normal course of a dungeon run. Briss and his friends made sure I was well-geared... except for the pants.
 

@@ -3,38 +3,13 @@ date: '2015-01-11T02:51:08-05:00'
 draft: false
 title: "Valkyria Chronicles: The Batomys is rust!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/11/valkyria-chronicles-the-batomys-is-rusti-did-enough-skirmishes-to-get-my-lancers-to-elite-status/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Valkyria Chronicles: The Batomys is rust!..."
+categories:
   - "Other Games"
   - "Valkyria Chronicles"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Valkyria Chronicles: The Batomys is rust!...
+<!--more-->
 
 Valkyria Chronicles: The Batomys is rust!
 

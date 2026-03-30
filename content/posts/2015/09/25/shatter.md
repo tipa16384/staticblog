@@ -3,40 +3,18 @@ date: '2015-09-25T07:44:31-05:00'
 draft: false
 title: "Shatter."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/25/shatter/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When last the Adventure Company met, we'd tracked some suspicious Cult of the Dragon cultists to a warehouse in which, returning later, we found absolutely..."
+categories:
   - "D&D 4e"
+tags:
   - "Adventure Company"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/FantasyGrounds-2015-09-24-22-42-24-84.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/FantasyGrounds-2015-09-24-22-42-24-84.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/FantasyGrounds-2015-09-24-22-42-24-84.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/FantasyGrounds-2015-09-24-22-42-24-84.jpg"
 ---
+When last the Adventure Company met, we'd tracked some suspicious Cult of the Dragon cultists to a warehouse in which, returning later, we found absolutely...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/FantasyGrounds-2015-09-24-22-42-24-84.jpg" title="Ambush! From those bushes!" class="align-center" >}}
+
 
 When last the Adventure Company met, we'd tracked some suspicious Cult of the Dragon cultists to a warehouse in which, returning later, we found absolutely nothing suspicious. While in the warehouse, though, we did manage to sign ourselves up as guards to accompany possibly suspicious cargoes right out of Waterdeep to their final destination.
 

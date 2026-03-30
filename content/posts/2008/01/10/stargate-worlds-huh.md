@@ -3,37 +3,12 @@ date: '2008-01-10T14:37:17-05:00'
 draft: false
 title: "Stargate Worlds. Huh?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/10/stargate-worlds-huh/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been hearing a LOT about Stargate Worlds lately. And speaking as a dedicated geeky SF fan who used to go to every area SF..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I've been hearing a LOT about Stargate Worlds lately. And speaking as a dedicated geeky SF fan who used to go to every area SF...
+<!--more-->
 
 I've been hearing [a LOT](http://www.keenandgraev.com/?p=684) about Stargate Worlds lately. And speaking as a dedicated geeky SF fan who used to go to every area SF convention when she lived in Northern California, all I can say is... Huh?
 

@@ -3,40 +3,17 @@ date: '2012-12-16T11:15:55-05:00'
 draft: false
 title: "EQ2: Player Foundry -- goldmine or lost opportunity?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/12/16/eq2-player-foundry/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been told that the item designers set their own target price for these items. So... that changes this article somewhat...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-15-22-17-08-72-480x324.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-15-22-17-08-72-480x324.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-15-22-17-08-72-480x324.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-15-22-17-08-72-480x324.jpg"
 ---
+I've been told that the item designers set their own target price for these items. So... that changes this article somewhat....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-15-22-17-08-72-480x324.jpg" title="Player made Heroic Ornate Chest" class="align-center" >}}
+
 
 ***I've been told that the item designers set their own target price for these items. So... that changes this article somewhat.***
 
@@ -50,13 +27,13 @@ For 350 Station Cash (we'll call it US$3.50), you get what you see -- a house it
 
 I have bought items this expensive, many times, but for me, it's usually been characters that I used when I was doing my One Panel Comix a couple years back. So it was worth it to me, and there will likely be people who find a use for this. I feel SOE could have made this a lot more desirable, and should have.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-15-22-17-15-55-480x308.jpg" title="A cloak of just one color" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-15-22-17-15-55-480x308.jpg" title="A cloak of just one color" classes="center" >}}
 
 This is the other item newly offered, a cloak with featherfall on it. Cloak of the North Star, going for 500 Station Cash or US$5.00.
 
 Featherfall isn't a rare ability for cloaks these days; I have a bunch of cloaks with that ability, or the similar ability of Glide. It definitely is a nice to have feature. It is not a $5.00 feature. While the pattern is nice, it's hardly remarkable, and I doubt anyone would look twice at someone wearing that, perhaps choosing to cover it up with one of the many cloaks with more interesting patterns or designs. My character is currently wearing, as a back appearance item, a red woolen scarf that wraps around to the front, looks warm and comfy. It's a craftable item from Frostfell. Costs no cash.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-16-11-08-48-15-480x343.jpg" title="A free scarf" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-16-11-08-48-15-480x343.jpg" title="A free scarf" classes="center" >}}
 
 Problem isn't with the items themselves. The chest looks incredible. The cloak looks ordinary but it's a cloak, what do you expect?
 

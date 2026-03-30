@@ -3,38 +3,15 @@ date: '2009-11-03T07:40:24-05:00'
 draft: false
 title: "EVE Online: Dealing with the Caldari problem"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/11/03/eve-online-dealing-with-the-caldari-problem/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "As much as I like picking up Caldari and Amarr dogtags from my kills and selling them for lots of ISK to pilots who pretend..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/ultralight.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/11/ultralight.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/ultralight.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/ultralight.png"
 ---
+As much as I like picking up Caldari and Amarr dogtags from my kills and selling them for lots of ISK to pilots who pretend...
+<!--more-->
 
 As much as I like picking up Caldari and Amarr dogtags from my kills and selling them for lots of ISK to pilots who pretend loyalty to those violent races, it's getting to the point where I can hardly warp into Amarr or Caldari space without warnings to move off or be shot down. Since I do like running trade routes into Caldari-owned Jita for spare change, this could become a problem. Only my training in Diplomacy lets me dock at 4-4.
 
@@ -49,7 +26,5 @@ The Minmatar's were only too happy to see me. They'd had a lot of dealings with 
 I'd flown my Gallente Navy Comet because, GALLENTE REPRESENT, right? The instructors smiled and gave me a Slasher instead.
 
 Now, I don't mean to dis my Minmatar brothers and sisters, but the last time I saw a craft of THIS design, it was leading a flock of Canadian geese to Maryland in the indie kid's movie, Fly Away Home.
-
-![Fly Away Minmatar](https://chasingdings.com/wp-content/uploads/2009/11/ultralight.png "Fly Away Minmatar")
 
 So while I wait for my business skills to finish training, I guess you'll find me honking at the head of a flock of ~~geese~~ drones or something as I go on a desperate quest to make everyone LIKE me, if I have to kill them all to do it.

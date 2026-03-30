@@ -3,44 +3,24 @@ date: '2010-11-03T23:08:34-05:00'
 draft: false
 title: "Is your teenager a Minecraft addict?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/03/is-your-teenager-a-minecraft-addict/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Minecraft"
   - "Other Games"
+tags:
   - "Halloween"
   - "Hell"
   - "Mines"
   - "The Nether"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-03-20-09-47-09-480x376.jpg "Tipaville from The Big ")](https://chasingdings.com/wp-content/uploads/2010/11/javaw-2010-11-03-20-09-47-09.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/javaw-2010-11-03-20-09-47-09.jpg)
 
 Hey, if your teenage is a Minecraft addict, we have something in common. I thought, for awhile, that I was free of Minecraft. I'd gotten bored with digging holes in the ground. Exploration was fun, but there wasn't anything to FIND -- the world would go on forever in every direction, and all the same. If everything is the same, well, might as well just stay at home.
 

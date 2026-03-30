@@ -3,44 +3,19 @@ date: '2009-02-02T08:17:55-05:00'
 draft: false
 title: "Weekend Gaming, such as it was"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/02/weekend-gaming-such-as-it-was/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This weekend was filled with \"real life\" stuff, leaving little time for gaming... but I did get some time in now and then...."
+categories:
   - "EverQuest"
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg"
 ---
+This weekend was filled with "real life" stuff, leaving little time for gaming... but I did get some time in now and then....
+<!--more-->
 
 This weekend was filled with "real life" stuff, leaving little time for gaming... but I did get some time in now and then.
-
-![](https://chasingdings.com/wp-content/uploads/2009/02/lotroclient-2009-02-01-22-2.jpg "lotroclient-2009-02-01-22-2")
 
 I went ahead and made a kinship (called, unsurprisingly, Nostalgia) on the Windfola server in Lord of the Rings Online -- just to make it easier to talk with everyone. I'd prefer to be in some larger guild but I imagine it would be tough to find one that everyone liked. Small guilds, like this one, have an arc. They rise and then linger on for awhile before fading away.
 
@@ -50,15 +25,15 @@ Fun fact: It takes 48 medium hides to make a set of Journeyman medium armor. A y
 
 So far, I haven't done anything in LotRO this time through that I haven't done many times on other characters. At level 18, though, lots of the world has opened up. I'm working through Barrows and Greenways quests, and should probably be thinking about moving on to the Lonelands pretty soon. I'll be needing lots of thick hides for expert tailoring REALLY soon, after all.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-01-29-20-58-17-31.jpg "everquest2-2009-01-29-20-58-17-31")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-01-29-20-58-17-31.jpg" title="everquest2-2009-01-29-20-58-17-31" classes="center" >}}
 
 The Ascarey raid group cleared Veeshan's Peak (sans Trakanon) for the first time. It's a raid group, not a guild -- the raid leader and much of the raiders are from a guild called The Unforgiven (after the movie or the Metallica song? Was the Metallica song referring to the movie?), and a lot more are from Rage, and then there are the rest of us. I suspect a lot of the other raiders are alts of people from uber guilds. That's how successful pickup raids seemed to work back in EQ1. Anyway, we cleared it. I got my first piece of Tier 3 armor, the leggings. It focuses my self buff. Get two or three pieces (can't remember offhand) and it makes my lower-aggro buff take zero concentration, so I can cast another buff as well -- perhaps Song of Magic, Spell Reflection or Defense (but probably not Defense).
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-01-31-21-27-53-54.jpg "everquest2-2009-01-31-21-27-53-54")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-01-31-21-27-53-54.jpg" title="everquest2-2009-01-31-21-27-53-54" classes="center" >}}
 
 We've also taken our first steps into TSO raiding. We've gotten a fair ways into one of the Befallen raids, and here we are taking down the twin nameds in the first encounter of some raid deep in the Void. The next encounter after this is very much a WoW encounter, where you follow a script really well to win, but I guess most of the modern EQ2 raids are based on the WoW model. Except without all the add-ons. EQ2 players are forced to fly blind in raids.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-01-08-00-36-33.jpg "wizardgraphicalclient-2009-02-01-08-00-36-33")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-01-08-00-36-33.jpg" title="wizardgraphicalclient-2009-02-01-08-00-36-33" classes="center" >}}
 
 Thomas, the Friendly Necromancer posted a wonderful interview with [the people behind the music of Wizard 101](http://thefriendlynecromancer.blogspot.com/2009/01/part-i-nelson-everhart-todd-coleman.html). I think I probably turned the music off back in Marleybone, after the Raiders of the Lost Ark-themed Krokotopia music wore out its welcome. I went back in to turn on the music and listen to it while doing one of those endless Dragonspyre tower quests, and I saw Thomas himself on.
 
@@ -66,7 +41,7 @@ We got to talking, and he said I just HAD to see the Crystal Grove. It was beaut
 
 Dragonspyre is very large -- but also nearly empty. Has everyone who was waiting for it, finished it already? Are all the Dragonspyre players spread out among too many servers? The first couple of days of Dragonspyre, maybe even the first week, it was no trick to find people working on the same quests. Now... well, I keep an eye on my friend list. Dragonspyre is altogether tougher than any other world, and another person really, really helps. I've even been considering re-subscribing on my second account.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/wohd_20081228_000332.jpg "wohd_20081228_000332")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wohd_20081228_000332.jpg" title="wohd_20081228_000332" classes="center" >}}
 
 Drove to Rhode Island to visit my son, and after lunch we stopped by Best Buy and I picked up a USB thumb drive. The one I already had doesn't seem to work with my Playstation 3, but this new one did, and I finally am able to get pictures OFF of the PS3. I haven't tried it with LittleBig Planet yet, but if it does work (no guarantees), I might be able to document my LBP levels. Which would be nice.
 

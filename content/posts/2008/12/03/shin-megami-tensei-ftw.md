@@ -3,40 +3,17 @@ date: '2008-12-03T01:48:17-05:00'
 draft: false
 title: "Shin Megami Tensei -- FTW!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/03/shin-megami-tensei-ftw/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ever since I first heard that Shin Megami Tensei was being made into an MMO -- and that it was coming HERE -- I changed..."
+categories:
   - "MMORPG"
   - "Shin Megami Tensei"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/tensei.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/tensei.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/tensei.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/tensei.png"
 ---
+Ever since I first heard that Shin Megami Tensei was being made into an MMO -- and that it was coming HERE -- I changed...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/tensei.png "tensei")
+
 
 Ever since I first heard that Shin Megami Tensei was being made into an MMO -- and that it was coming HERE -- I changed my desktop to the SMT: Imagine wallpaper and looked at it every day. Today, I got the golden ticket -- I was in!
 

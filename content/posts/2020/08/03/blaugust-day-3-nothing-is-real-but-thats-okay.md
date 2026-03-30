@@ -3,41 +3,20 @@ date: '2020-08-03T11:45:17-05:00'
 draft: false
 title: "Blaugust Day #3: Nothing is Real. But, That's Okay."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/03/blaugust-day-3-nothing-is-real-but-thats-okay/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
+summary: "Today's \"Blaugust\" writing prompt comes from Mailvatar at \"MMOs and Other Stuff\"...."
+categories:
+  - "Blaugust"
 tags:
   - "Blaugust"
   - "Jonathan Livingston Seagull"
   - "Philip K. Dick"
   - "Richard Bach"
   - "Ubik"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1812.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1812.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1812.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1812.jpg"
 ---
+Today's "Blaugust" writing prompt comes from Mailvatar at "MMOs and Other Stuff"....
+<!--more-->
 
 Today's "Blaugust" writing prompt comes from [Mailvatar at "MMOs and Other Stuff"](https://mailvaltar.wordpress.com/2020/08/02/media-thats-shaped-my-worldview/).
 
@@ -63,13 +42,13 @@ Dick was insane. He, like contemporary Kurt Vonnegut Jr, believed that what we c
 
 I've just read the synopsis of the novel over on Wikipedia, and I do remember the plot better now, but mostly I still remember reading this, outside on our porch, and looking up in a bright summer day and wondering if any of this world was real.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/Ubik1stEd-1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/Ubik1stEd-1.jpg" classes="center" >}}
 
 I didn't dare read more of his stuff for a long time, but eventually "Ubik" drew me in. Again, are we living in a real world, or is this some sort of purgatory, a transition between a life that we cling to even though we've lost it, and the next world, full of unknown?
 
 As I grew through a very troubled puberty, I read one last book that at the time seemed to make sense of everything.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/Johnathan_Livingston_Seagull.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/Johnathan_Livingston_Seagull.jpg" classes="center" >}}
 
 ## Jonathan Livingston Seagull
 

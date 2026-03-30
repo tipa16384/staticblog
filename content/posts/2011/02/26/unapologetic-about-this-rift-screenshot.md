@@ -3,40 +3,19 @@ date: '2011-02-26T02:16:47-05:00'
 draft: false
 title: "Unapologetic about this Rift screenshot"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/26/unapologetic-about-this-rift-screenshot/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/rift-2011-02-26-02-02-04-89-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/rift-2011-02-26-02-02-04-89-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/rift-2011-02-26-02-02-04-89-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/rift-2011-02-26-02-02-04-89-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/02/rift-2011-02-26-02-02-04-89-480x384.jpg "Stonefields")](https://chasingdings.com/wp-content/uploads/2011/02/rift-2011-02-26-02-02-04-89.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/02/rift-2011-02-26-02-02-04-89.jpg)
 
 I'm trying not to go on and on about Rift; in fact I have decided to hardly mention it at all. It's one thing if it's a game few people play, but that's not Rift's problem.
 

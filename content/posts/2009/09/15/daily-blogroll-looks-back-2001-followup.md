@@ -3,38 +3,15 @@ date: '2009-09-15T11:00:50-05:00'
 draft: false
 title: "Daily Blogroll Looks Back: 2001 -- Followup"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/15/daily-blogroll-looks-back-2001-followup/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yesterday I blogged about several games in development in 2001 that maybe aren't so well known these days. Back in 2001, nobody knew Blizzard's World..."
+categories:
   - "Daily Blogroll"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-9142009-100654-PM-480x394.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-9142009-100654-PM-480x394.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-9142009-100654-PM-480x394.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-9142009-100654-PM-480x394.jpg"
 ---
+Yesterday I blogged about several games in development in 2001 that maybe aren't so well known these days. Back in 2001, nobody knew Blizzard's World...
+<!--more-->
 
 Yesterday I blogged about several games in development in 2001 that maybe aren't so well known these days. Back in 2001, nobody knew Blizzard's World of Warcraft would change the scene, but everyone knew great things were ahead. Computers were doubling in power every year, graphics as well, and what looked good in 1999 looked downright primitive just two years later -- EverQuest's graphics overhaul that began with Shadows of Luclin and continues today was testament to that, as well as the new beginning of EverQuest II.
 
@@ -56,13 +33,15 @@ By early 2001, development on Dawn had already shifted to development what was o
 
 Amidst yells of potential players for the Dawn alpha (always imminent) or some news of Dusk, Jeff came out with a simple browser game which simply had you pick an opponent and press the fight button -- [Racewar Kingdoms](http://www.racewarkingdoms.com/index.html). This morphed into a more traditional land conquest browser game which seems to have been updated as recently as 2007, though the prize computer advertised on its login page is so, SO far out of date (Pentium 4?) that I suspect it hasn't seen much love in at least four years.
 
-[![Nodiatis by Glitchless](https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-9142009-100654-PM-480x394.jpg "Nodiatis by Glitchless")](https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-9142009-100654-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-9142009-100654-PM.jpg)
 
 Glitchless' latest project is a browser-based game called [Nodiatis](http://www.nodiatis.com/), a multiplayer RPG that takes most of its cues from RPGs of 25 years ago such as Bard's Tale and Ultima III. Nodiatis development started in 2002 and was released a year ago June, and while it might not ever live up to Dawn's promise (or even try), it's not bad for what it is and seems fairly popular.
 
 **Horizons: Empires of Istaria by Artifact Entertainment**
 
-[![Istaria: Chronicles of the Gifted](https://chasingdings.com/wp-content/uploads/2009/09/horizons1-480x360.jpg "Istaria: Chronicles of the Gifted")](https://chasingdings.com/wp-content/uploads/2009/09/horizons1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/horizons1-480x360.jpg" title="Istaria: Chronicles of the Gifted" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/horizons1.jpg)
 
 Now renamed "[Istaria: Chronicles of the Gifted](http://www.istaria.com/)" and run by Virtrium LLC, Horizons's ambitious FAQ was backed up by a 50 person development team. Where Glitchless' Dawn pronouncements were met with ever-increasing skepticism, Horizons looked like a game we might someday actually play.
 
@@ -76,7 +55,7 @@ Horizons six years later is a niche game with a small but devoted following, but
 
 **Adellion by HonourBound**
 
-[![Adellion character renders ca. 2008](https://chasingdings.com/wp-content/uploads/2009/09/adellion1-480x347.jpg "Adellion character renders ca. 2008")](https://chasingdings.com/wp-content/uploads/2009/09/adellion1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/adellion1-480x347.jpg" title="Adellion character renders ca. 2008" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/adellion1.jpg)
 
 Primitive though the world of [Adellion](http://adellion.com) may be, it's nice to know that they have discovered bikini wax.
 

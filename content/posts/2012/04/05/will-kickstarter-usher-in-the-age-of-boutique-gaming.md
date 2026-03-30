@@ -3,39 +3,18 @@ date: '2012-04-05T21:03:05-05:00'
 draft: false
 title: "Will Kickstarter usher in the age of boutique gaming?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/04/05/will-kickstarter-usher-in-the-age-of-boutique-gaming/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/04/dfa-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/04/dfa-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dfa-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dfa-480x360.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2012/04/dfa-480x360.jpg "Double Fine Adventure")](https://chasingdings.com/wp-content/uploads/2012/04/dfa.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2012/04/dfa.jpg)
 
 In Tim Schafer's first post-funding update for his Kickstarter-funded old school adventure game, he's stunned and overjoyed that the project attracted over $3 million in funding for a desired level of just $400,000. A recently cancelled game had left the future of Double Fine uncertain; there would have to have been layoffs, but now it's all saved. Double Fine's success led to equally successful Kickstarters for such nostalgic titles as [Wasteland](http://www.kickstarter.com/projects/inxile/wasteland-2), [Shadowrun](http://www.kickstarter.com/projects/1613260297/shadowrun-returns) and even [Leisure Suit Larry](http://www.kickstarter.com/projects/leisuresuitlarry/make-leisure-suit-larry-come-again).
 
@@ -47,7 +26,7 @@ The DF Kickstarter attracted 87,142 backers after a HUGE media push. Schafer men
 
 Double Fine will have to attract many multiples of new players once their game has been released in order for Kickstarter-funded projects to be more than a stopgap development effort in between bigger budget games for AAA developers. $3 million is record setting for a crowd funded project, but just pennies compared to big budget games.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/04/ftl-480x360.jpg "Faster Than Light")](https://chasingdings.com/wp-content/uploads/2012/04/ftl.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/04/ftl-480x360.jpg" title="Faster Than Light" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/04/ftl.jpg)
 
 Crowd funding, whether via Kickstarter or some other means, might keep the lights on for established game developers. The real puzzle is how to use this to fund amateur game developers and make available games that would never have been made.
 

@@ -3,40 +3,17 @@ date: '2008-02-01T13:02:10-05:00'
 draft: false
 title: "PotBS: The Legends of Guadaloupe"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/01/potbs-the-legends-of-guadaloupe/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The good guys (bottom) prepare to liberate a fort, sink a fleet and quell a rebellion in Red Tide..."
+categories:
   - "MMORPG"
   - "Pirates of the Burning Sea"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-01-00-20-36-47.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-01-00-20-36-47.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-01-00-20-36-47.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-01-00-20-36-47.jpg"
 ---
+The good guys (bottom) prepare to liberate a fort, sink a fleet and quell a rebellion in Red Tide...
+<!--more-->
 
-![potbs-2008-02-01-00-20-36-47.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-01-00-20-36-47.jpg)
+
 
 *The good guys (bottom) prepare to liberate a fort, sink a fleet and quell a rebellion in Red Tide*
 
@@ -44,7 +21,7 @@ Goodbye, Blanche DuBois. You always knew the asylum awaited you at the close of 
 
 Pirates of the Burning Sea has become a place to go for many of us in Clan of Shadows when the raid is full. While it would have been nice if people had randomly decided to join the French on Bonny so I wouldn't have to reroll, in the end most of the people gathered on the side of the British on the Guadaloupe server.
 
-![potbs-2008-02-01-06-33-54-19.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-01-06-33-54-19.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-01-06-33-54-19.jpg" classes="center" >}}
 
 *Liz Strickland at character select*
 
@@ -52,7 +29,7 @@ It's all somewhat funny, as this is exactly how I ended up restarting on the Fay
 
 And so was born Liz Strickland, Freetrader for the British Empire. I changed all her look from how Blanche had been dressed aside from the hat and boots that I loved. Perhaps... Liz sunk Blanche's ship and fished these from the wreckage?
 
-![potbs-2008-02-01-07-24-03-17.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-02-01-07-24-03-17.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-02-01-07-24-03-17.jpg" classes="center" >}}
 
 *The Lady of Guadaloupe and her crew*
 
@@ -66,7 +43,7 @@ This is the first group mission, and the quest giver even helpfully suggests doi
 
 There's a whole list of them.
 
-![potbs-2008-01-31-23-15-39-62.jpg](https://chasingdings.com/wp-content/uploads/2008/02/potbs-2008-01-31-23-15-39-62.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/potbs-2008-01-31-23-15-39-62.jpg" classes="center" >}}
 
 *Looking seaward from Port Jenny*
 

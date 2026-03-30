@@ -3,42 +3,20 @@ date: '2009-03-24T07:59:49-05:00'
 draft: false
 title: "Chronicles of Spellborn: Grouped!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/24/chronicles-of-spellborn-grouped/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Chronicles of Spellborn is a game you can solo, start to end, never having to group. But while it's possible, it's not a really..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Aldenvault"
   - "Hawksmouth"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg"
 ---
+The Chronicles of Spellborn is a game you can solo, start to end, never having to group. But while it's possible, it's not a really...
+<!--more-->
 
-![sb_client-2009-03-23-22-45-18-95](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-23-22-45-18-95.jpg "sb_client-2009-03-23-22-45-18-95")
+
 
 The Chronicles of Spellborn is a game you can solo, start to end, never having to group. But while it's possible, it's not a really good idea. Some things you can only do in groups -- like the Wanted posters. Those give quests to kill a named mob and give a HUGE amount of experience when you kill them. But if you go it alone at the level you get the quest, you won't last long.
 
@@ -60,6 +38,6 @@ We tried for another wanted poster. The target was a level 15 crime boss in the 
 
 I closed the night fairly close to level 9. I'll probably head back to Hawksmouth and finish up there before I level.
 
-![sb_client-2009-03-24-08-35-46-75](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-24-08-35-46-75.jpg "sb_client-2009-03-24-08-35-46-75")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-24-08-35-46-75.jpg" title="sb_client-2009-03-24-08-35-46-75" classes="center" >}}
 
 Fighting all those Ousted left me with LOTS of crafting components; I made a new dagger, new pants and a new tunic and have recipes for several more items. This morning I went to the dye shop and changed my colors to look more like my pet, though they don't have that kind of deep blue. Well, purple is close enough. I guess.

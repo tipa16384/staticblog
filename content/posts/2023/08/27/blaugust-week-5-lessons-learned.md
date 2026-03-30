@@ -3,40 +3,18 @@ date: '2023-08-27T13:12:41-05:00'
 draft: false
 title: "Blaugust Week 5: Lessons Learned"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/27/blaugust-week-5-lessons-learned/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's the last week of Blaugust, and I have learned some things."
-description: "It's the last week of Blaugust, and I have learned some things."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
+tags:
   - "How I Met Your Mother"
   - "Lessons Learned"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/lessonslearned.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/lessonslearned.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/lessonslearned.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/lessonslearned.png"
 ---
+It's the last week of Blaugust, and I have learned some things.
+<!--more-->
 
 There was a running joke about blogs in "How I Met Your Mother", a TV comedy from a few years back. Neil Patrick Harris' character, Barney Stinson, was always shocked that none of his friends ever, *ever*, read [his blog](https://www.barneystinsonblog.com/).
 

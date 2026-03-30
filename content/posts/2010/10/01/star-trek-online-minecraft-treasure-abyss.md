@@ -3,44 +3,23 @@ date: '2010-10-01T07:02:49-05:00'
 draft: false
 title: "Star Trek Online, Minecraft, Treasure Abyss"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/01/star-trek-online-minecraft-treasure-abyss/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
   - "Minecraft"
   - "MMORPG"
   - "Other Games"
   - "Star Trek"
   - "Treasure Abyss"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg "Minecraft")](https://chasingdings.com/wp-content/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/javaw-2010-09-28-21-56-46-97.jpg)
 
 I've been wanting to write more blog posts, but every time I sit down to write about [Minecraft](http://www.minecraft.net/), I end up playing Minecraft, and then it's suddenly midnight.
 
@@ -50,15 +29,15 @@ Your only tools are your imagination and the world around you. Lots of other blo
 
 It comes down to this. If you love exploring, Minecraft is your game. If you love leveling up and being rewarded by games for accomplishing pre-determined goals, you won't.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-09-29-21-13-23-54.jpg "Star Trek Online")](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-09-29-21-13-23-54.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-09-29-21-13-23-54.jpg" title="Star Trek Online" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-09-29-21-13-23-54.jpg)
 
 Wiith the Breen arc ended and the [Devidian](http://memory-alpha.org/wiki/Devidian) arc not expected for a few weeks, Cryptic has offered us a new ship (and a lot of smaller updates) to keep us interested. On offer soon is the Nebula-class science ship, a cousin to the famous Galaxy cruiser. I only spent a short time with it on the test realm, but I like the looks of it. Given that, though, I can't see it replacing my Intrepid refit with the ablative armor. I end up using that armor a lot -- especially after setting off a few area effect weapons.
 
 Still, I've been cruising the stars in my Galaxy X dreadnought lately, and I imagine I'll be able to find a spot for its cousin in my hangar. It really depends on the final number of bridge positions open -- if I can get a higher rank science officer in, that would make my mind up. Higher rank bridge officer positions are golden.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/chrome-2010-09-30-19-50-02-05.jpg "New thief weapon ")](https://chasingdings.com/wp-content/uploads/2010/10/chrome-2010-09-30-19-50-02-05.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/chrome-2010-09-30-19-50-02-05.jpg" title="New thief weapon " classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/chrome-2010-09-30-19-50-02-05.jpg)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/chrome-2010-09-30-19-43-32-89.jpg "New warrior weapon ")](https://chasingdings.com/wp-content/uploads/2010/10/chrome-2010-09-30-19-43-32-89.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/chrome-2010-09-30-19-43-32-89.jpg" title="New warrior weapon " classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/chrome-2010-09-30-19-43-32-89.jpg)
 
 Bandai Namco's social RPG Treasure Abyss got an update a couple of days ago. There's now a fifth dungeon, a dungeon filled with seven floors of undead meant for characters level 30 and up. The experience is good, but the loot is bad -- there's only one spot in the dungeon, on the bottom floor, where the rare component for the new wizard, thief and warrior weapons can be found. That would be the slot machine in the corner -- 7s gets you the Hex Stone (thief, wizard), cherries gets you Stainless Steel (warrior), and bells gets you a 50% health potion.
 

@@ -3,37 +3,12 @@ date: '2006-02-27T00:00:00-05:00'
 draft: false
 title: "&quot;The Golden Man&quot;"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/27/quotthe-golden-manquot/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The next movie based on a Philip K. Dick story is to be called... \"Next\". I haven't read this story (or don't remember it), about..."
+categories:
   - "Sci Fi"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+The next movie based on a Philip K. Dick story is to be called... "Next". I haven't read this story (or don't remember it), about...
+<!--more-->
 
 The next movie based on a Philip K. Dick story is to be called... "Next". I haven't read this story (or don't remember it), about a mutant product of a radioactive war who is gold-colored, sexually irresistable, impossible to kill and a Threat To Humanity.
 

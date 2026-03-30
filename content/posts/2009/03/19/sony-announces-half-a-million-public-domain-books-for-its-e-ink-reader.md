@@ -3,39 +3,15 @@ date: '2009-03-19T14:16:36-05:00'
 draft: false
 title: "Sony announces half a million public domain books for its E-Ink Reader"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/19/sony-announces-half-a-million-public-domain-books-for-its-e-ink-reader/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's plenty of free books on the internet. Current ones, too, and legally. Project Gutenberg has an extensive library of free, public domain (or merely..."
+categories:
   - "General"
+tags:
   - "Reader"
   - "Sony"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+There's plenty of free books on the internet. Current ones, too, and legally. Project Gutenberg has an extensive library of free, public domain (or merely...
+<!--more-->
 
 There's plenty of free books on the internet. Current ones, too, and legally. Project Gutenberg has an extensive library of free, public domain (or merely out of copyright) works that are easily transferred and read on the reader.
 

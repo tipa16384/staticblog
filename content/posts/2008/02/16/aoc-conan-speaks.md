@@ -3,40 +3,17 @@ date: '2008-02-16T14:11:24-05:00'
 draft: false
 title: "AoC: Conan Speaks"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/16/aoc-conan-speaks/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "He is more a creature of sun and plains than a man whose shadow would ever darken a marble palace floor, unless he carried also..."
+categories:
   - "Age of Conan"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/cityofheroes-2008-02-08-19-31-01-74.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/cityofheroes-2008-02-08-19-31-01-74.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/cityofheroes-2008-02-08-19-31-01-74.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/cityofheroes-2008-02-08-19-31-01-74.jpg"
 ---
+He is more a creature of sun and plains than a man whose shadow would ever darken a marble palace floor, unless he carried also...
+<!--more-->
 
-![cityofheroes-2008-02-08-19-31-01-74.jpg](https://chasingdings.com/wp-content/uploads/2008/02/cityofheroes-2008-02-08-19-31-01-74.jpg)
+
 
 *He is more a creature of sun and plains than a man whose shadow would ever darken a marble palace floor, unless he carried also a sack for the plunder. Bronzed skin and scars run the length of his body; badges they are, of skin and blood, of battles in places far and near. He is Conan, the Cimmerian, though the people of these more civilized lands think his people myth, and yet he stands, clad simply despite his great station, his dark hair held back with a thin band of silver cloth, his well-burnished, phoenix-etched great sword strapped to his back with leather made of some dark-skinned beast that once prowled the eldritch halls of Set's great obsidian temple.*
 
@@ -52,7 +29,7 @@ editPost:
 
 "In this age, Conan, you are often called a barbarian..."
 
-![cityofheroes-2008-02-08-19-28-29-57.jpg](https://chasingdings.com/wp-content/uploads/2008/02/cityofheroes-2008-02-08-19-28-29-57.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/cityofheroes-2008-02-08-19-28-29-57.jpg" classes="center" >}}
 
 "Pfft. Only southerners call me thus. They have never tasted the cold air that blows from the Asgardian mountains, never been to the temples of my gods, accursed though they may be, never known the deep knowledge shared by my people. I am Cimmerian, and only one who does not know me would bring me that low."
 

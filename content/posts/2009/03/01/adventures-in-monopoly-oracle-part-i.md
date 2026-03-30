@@ -3,43 +3,18 @@ date: '2009-03-01T17:00:59-05:00'
 draft: false
 title: "Adventures in Monopoly: Oracle, Part I"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/01/adventures-in-monopoly-oracle-part-i/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When we left our intrepid band, Scottie and Bear were about to rip each other to shreds. Scottie was still a little hurt because Bear,..."
+categories:
   - "Adventures in Monopoly"
   - "Comic"
   - "Humor"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/comic.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/comic.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/comic.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/comic.jpg"
 ---
+When we left our intrepid band, Scottie and Bear were about to rip each other to shreds. Scottie was still a little hurt because Bear,...
+<!--more-->
 
 When we left our intrepid band, Scottie and Bear were about to rip each other to shreds. Scottie was still a little hurt because Bear, having killed him, forced him to live a life of undeath. Bear was angry that Scottie and Car had stranded him on Boardwalk, which had suddenly sprung a Casino Hotel. From its throne in the mysterious Game Closet, the Scrabble board heard the tumult and descended to the Prime Playing Plane to mediate between the two and urge them to get back to buying and selling real estate, like proper Monopoly playing pieces.
-
-![comic](https://chasingdings.com/wp-content/uploads/2009/03/comic.jpg "comic")
 
 ---
 
@@ -51,4 +26,4 @@ I was talking to someone last night when I got the idea to use TRON to take Bear
 
 Here's the world map you can see part of in the third to last panel.
 
-[![hexmap](https://chasingdings.com/wp-content/uploads/2009/03/hexmap-347x480.jpg "hexmap")](https://chasingdings.com/wp-content/uploads/2009/03/hexmap.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/hexmap-347x480.jpg" title="hexmap" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/hexmap.jpg)

@@ -3,38 +3,13 @@ date: '2005-10-28T00:00:00-05:00'
 draft: false
 title: "Sulu is gay?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/10/28/sulu-is-gay/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "George Takei says, \"I'm gay\"..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+George Takei says, "I'm gay"...
+<!--more-->
 
 [George Takei says, "I'm gay"](http://www.cnn.com/2005/SHOWBIZ/TV/10/28/people.georgetakei.ap/index.html?section=cnn_topstories)
 

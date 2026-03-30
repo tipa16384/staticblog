@@ -3,40 +3,18 @@ date: '2023-05-17T07:37:37-05:00'
 draft: false
 title: "To G'raha, whom I shall never, ever, see again"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/05/17/to-graha-whom-i-shall-never-ever-see-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "My heart aches for the loss of G'raha Tia, as I wonder what could have been between us."
-description: "My heart aches for the loss of G'raha Tia, as I wonder what could have been between us."
-tags:
+categories:
   - "Final Fantasy"
   - "Final Fantasy XIV"
+tags:
   - "Crystal Tower"
   - "G'raha Tia"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/05/1-ffxiv_05162023_205146_829.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/05/1-ffxiv_05162023_205146_829.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-ffxiv_05162023_205146_829.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/1-ffxiv_05162023_205146_829.jpg"
 ---
+My heart aches for the loss of G'raha Tia, as I wonder what could have been between us.
+<!--more-->
 
 My Dearest G'raha Tia,
 
@@ -46,7 +24,7 @@ But now, my love, you have chosen to shut yourself away within those crystalline
 
 Oh, G'raha, how we could have been. If only fate had allowed our paths to intertwine in a different way, in a different time. I can't help but wonder what might have been, the adventures we could have shared, the laughter and tears we could have exchanged. The world of Eorzea would have witnessed our love, a bond as unbreakable as the very crystals that encase you now.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/05/1-ffxiv_05132023_195138_886.jpg" title="G'raha Tia, b. 6th Umbral Era, d. 7th Astral Era" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/05/1-ffxiv_05132023_195138_886.jpg" title="G'raha Tia, b. 6th Umbral Era, d. 7th Astral Era" classes="center" >}}
 
 Your mind, sharp and filled with the wisdom of the ages, drew me to you like a moth to a flame. In your presence, I found solace and inspiration. You taught me that there is more to life than battles fought and won, that knowledge and understanding are treasures that transcend the sword's edge. Our conversations, like music to my ears, fed my soul and kindled a flame of longing within my heart.
 

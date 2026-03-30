@@ -3,41 +3,19 @@ date: '2014-07-03T07:30:30-05:00'
 draft: false
 title: "Neverwinter: Foundry Contest Progress Report #1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/07/03/neverwinter-foundry-contest-progress-report-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Five days without Internet was tougher than I imagined. But it's back up now, just in time for the new Neverwinter foundry contest...."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh6.googleusercontent.com/-n88nN72SbkU/U7TY1hGOgeI/AAAAAAAAxLc/uzpKscWBoVU/w907-h686-no/GameClient+2014-07-03+00-15-06-46.jpg"
-cover:
-  image: "https://lh6.googleusercontent.com/-n88nN72SbkU/U7TY1hGOgeI/AAAAAAAAxLc/uzpKscWBoVU/w907-h686-no/GameClient+2014-07-03+00-15-06-46.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh6.googleusercontent.com/-n88nN72SbkU/U7TY1hGOgeI/AAAAAAAAxLc/uzpKscWBoVU/w907-h686-no/GameClient+2014-07-03+00-15-06-46.jpg"
+thumbnailImage: "https://lh6.googleusercontent.com/-n88nN72SbkU/U7TY1hGOgeI/AAAAAAAAxLc/uzpKscWBoVU/w907-h686-no/GameClient+2014-07-03+00-15-06-46.jpg"
 ---
+Five days without Internet was tougher than I imagined. But it's back up now, just in time for the new Neverwinter foundry contest....
+<!--more-->
 
-![Auction House](https://lh6.googleusercontent.com/-n88nN72SbkU/U7TY1hGOgeI/AAAAAAAAxLc/uzpKscWBoVU/w907-h686-no/GameClient+2014-07-03+00-15-06-46.jpg)
+
 
 Five days without Internet was tougher than I imagined. But it's back up now, just in time for the new [Neverwinter foundry contest](http://community.arcgames.com/en/news/neverwinter/detail/6002703).
 

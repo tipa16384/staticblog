@@ -3,41 +3,19 @@ date: '2012-04-06T23:20:58-05:00'
 draft: false
 title: "DDO: Web of Chaos"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/04/06/ddo-web-of-chaos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What I want to know is, if the Spinner of Shadows could \"hold person\" everyone in the party instantly, with no saving throw, for as..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg"
 ---
+What I want to know is, if the Spinner of Shadows could "hold person" everyone in the party instantly, with no saving throw, for as...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/04/dndclient-2012-04-01-23-54-24-56-480x384.jpg" title="Helpless!" class="align-center" >}}
+
 
 What I want to know is, if the Spinner of Shadows could "hold person" everyone in the party instantly, with no saving throw, for as long as she wanted, anytime she wanted -- how did we win the fight?
 
@@ -49,7 +27,7 @@ Spoiler alert, we fail, and Lolth is summoned from the Underdark into the plane 
 
 With Lolth freed, we were treated to the trailer for the next expansion, and were then ejected back into Stormreach Harbor to report our failure to the Silver Flame guardians who did not welcome our news.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/04/dndclient-2012-04-06-22-11-29-60-480x384.jpg" title="Ophiga" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/04/dndclient-2012-04-06-22-11-29-60-480x384.jpg" title="Ophiga" classes="center" >}}
 
 Fact is, I play a drow, and I'm not sure why I would not welcome Lolth into this plane of existence. We spent the entire night killing Drow, and I felt a little uncomfortable about that. Why couldn't we have killed something that really deserved it, like gnomes?
 

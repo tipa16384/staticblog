@@ -3,43 +3,21 @@ date: '2008-12-20T19:39:10-05:00'
 draft: false
 title: "Wizard 101: Killing me softly with your spells"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/20/wizard-101-killing-me-softly-with-your-spells/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "High level players gathered at the duel masters..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Arena"
   - "Duel"
   - "PvP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/crowdscene.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/crowdscene.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/crowdscene.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/crowdscene.jpg"
 ---
+High level players gathered at the duel masters...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/crowdscene.jpg "crowdscene")
+
 
 *High level players gathered at the duel masters*
 
@@ -47,7 +25,7 @@ Wizard 101's surprise announcement of a full PvP Arena system to accompany the P
 
 Can Wizard 101 deliver both a kid friendly game and also satisfying PvP?
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/casting.jpg "casting")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/casting.jpg" title="casting" classes="center" >}}
 
 *About to lose a 1v1 duel*
 
@@ -55,13 +33,13 @@ Dueling has always been in the game; one of the first quests you get in Wizard 1
 
 Tweedle Dum (on the right) sets you up for practice duels. Unlike the ranked missions, battling here won't change your ranking. Here, though, you can just play for fun or wager on the outcome of duels. When you tell someone to put their money where their mouth is, Tweedle Dum is the man to see to let you work it out on the hot sands of the dueling ground.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/matchwindow.jpg "matchwindow")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/matchwindow.jpg" title="matchwindow" classes="center" >}}
 
 *Filling up the team for a 4v4 battle*
 
 Unfortunately for PvP anyway, there is no smack talking on the dueling fields. And since there is no team-specific chat, casually suggesting to your group that everyone focus on the Life wizard on the other team is going to be clearly heard by the other side, who likely have different ideas of what to do with their main healer. This makes it hard to coordinate attacks among team mates. All you can do is hope your team mates figure out what you're doing and follow along.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/duel.jpg "duel")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/duel.jpg" title="duel" classes="center" >}}
 
 *Us vs Them on the killing fields of the Arena*
 
@@ -71,13 +49,13 @@ In duels, shields are your best friends.
 
 The larger 3v3 and 4v4 fights are all about the group damage spells. You'll never kill the other team by focusing on just one; the others will just heal them, as everyone has heal spells either in their deck or their sideboards. Massive group damage is the only way to keep people worrying about themselves and not about helping out their team mates.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sisters.jpg "sisters")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/sisters.jpg" title="sisters" classes="center" >}}
 
 *My evil twin. I so totally killed her in battle*
 
 There is something truly satisfying about surviving an arena match full of people who likely are better geared and higher level than yourself. I've never seen so many level 50 people as I have seen today. It's been virtually impossible for Johnny-come-latelies such as myself, who took my own sweet time leveling, to level past the mid-40s since KingsIsle removed the experience for repeating instances.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/pvpjadeonicompare.jpg "pvpjadeonicompare")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/pvpjadeonicompare.jpg" title="pvpjadeonicompare" classes="center" >}}
 
 *Comparing PvP (left) and PvE (right) gear*
 

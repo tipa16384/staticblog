@@ -3,42 +3,20 @@ date: '2024-10-04T08:00:00-05:00'
 draft: false
 title: "Justice League Heroes: Worth eBaying for?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/10/04/justice-league-heroes-worth-ebaying-for/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Loved Champions of Norrath and Return to Arms. Snowblind's next game was Justice League Heroes. Can it be just as good? Better?"
-description: "Loved Champions of Norrath and Return to Arms. Snowblind's next game was Justice League Heroes. Can it be just as good? Better?"
-tags:
+categories:
   - "Action RPG"
   - "DC Comics"
   - "Lord of the Rings"
   - "PS2"
+tags:
   - "Justice League Heroes"
   - "Snowblind Studios"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/1-Justice-League-Heroes_SLUS-21304_20241003205806.jpg"
 ---
+Loved Champions of Norrath and Return to Arms. Snowblind's next game was Justice League Heroes. Can it be just as good? Better?
+<!--more-->
 
 I've played a few of Snowblind Studios' RPGs for the PlayStation 2; each of them has been a really great RPG. Each time the engine improved, the number of things you could do improved, different story paths... Some of the best action RPGs for the system came out of the studio.
 
@@ -46,7 +24,7 @@ So, I went to the wiki, found out their very next game was Justice League Heroes
 
 The local retro store had the game -- but it was a loose disk. NO. NO LOOSE DISKS. At this stage in my retro console collector journey, I want boxes. I want manuals. I want *resale value*. (These things largely don't have resale value btw).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/Justice-League-Heroes_SLUS-21304_20241003200047-1024x768.jpg" title="Superman punching stuff" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/Justice-League-Heroes_SLUS-21304_20241003200047-1024x768.jpg" title="Superman punching stuff" classes="center" >}}
 
 Punching stuff that comes off a conveyor belt is in fact something you *do* in the game -- the very first level ends with walking through a lab where machines are making robots for you to punch.
 
@@ -54,7 +32,7 @@ Now the only previous Superman game I played was Superman: Shadow of Apokolips, 
 
 See, there's a reason I want the manual for the games. It's for *resale value*. Sometimes I read them. I read it tonight to see if it could solve my Batman dying problem and found out about combos and defensive postures and stuff.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/Justice-League-Heroes_SLUS-21304_20241003205741-1024x768.jpg" title="Martian Manhunter" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/Justice-League-Heroes_SLUS-21304_20241003205741-1024x768.jpg" title="Martian Manhunter" classes="center" >}}
 
 I've completed the first level; it's Brainiac, like it always is. There were minibosses and Brainiac himself, or a copy of him. I died a lot, but if I'd read the manual, maybe I wouldn't have.
 
@@ -62,7 +40,7 @@ With Brainiac on the run and Supes and Bats on the case, it's up to Zatanna and 
 
 Unlike a lot of games with lots of characters, Justice League Heroes doesn't level up characters you haven't played to match the characters you are playing, so having to rotate the characters through all the ones you can possibly have means you can't just find the one or two you really connect with and focus on them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/Justice-League-Heroes_SLUS-21304_20241003203415-1024x768.jpg" title="What's up with Brainiac?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/Justice-League-Heroes_SLUS-21304_20241003203415-1024x768.jpg" title="What's up with Brainiac?" classes="center" >}}
 
 JLH is the *second* to last game Snowblind made as an independent studio before they were swallowed up by a conglomerate and killed, as happens. The last game they made was Lord of the Rings: War in the North, the last hurrah for their famous Dark Alliance game engine. The PS3 had already come out and there wasn't much of a market for PS2 games, no matter how good, and so the Snowblind Studios story was already coming to an end.
 

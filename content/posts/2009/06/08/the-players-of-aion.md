@@ -3,40 +3,17 @@ date: '2009-06-08T06:58:41-05:00'
 draft: false
 title: "The Players of Aion"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/08/the-players-of-aion/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The NDA for Aion prevents me from saying anything specific about the game; press doesn't face these same limitations, so you can read some impressions..."
+categories:
   - "Aion"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/7_7small.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/7_7small.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/7_7small.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/7_7small.jpg"
 ---
+The NDA for Aion prevents me from saying anything specific about the game; press doesn't face these same limitations, so you can read some impressions...
+<!--more-->
 
-![7_7small](https://chasingdings.com/wp-content/uploads/2009/06/7_7small.jpg "7_7small")
+
 
 The NDA for Aion prevents me from saying anything specific about the game; press doesn't face these same limitations, so you can read some impressions [at Massively and other places](http://www.massively.com/2009/06/07/hands-on-with-the-aion-beta-becoming-a-daeva/), and I'll give my own impressions when I can. Having an NDA when there's a million people playing is kinda weird, but I'll stand by the agreement I clicked upon.
 

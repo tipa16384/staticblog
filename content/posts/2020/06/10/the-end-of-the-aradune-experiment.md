@@ -3,41 +3,19 @@ date: '2020-06-10T12:25:38-05:00'
 draft: false
 title: "The End of the Aradune Experiment"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/10/the-end-of-the-aradune-experiment/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We absolutely, 100%, gave it our all...."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Aradune"
   - "Mangler"
   - "TLP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-10-06-33-47-96.jpg"
 ---
+We absolutely, 100%, gave it our all....
+<!--more-->
 
 We absolutely, 100%, gave it our all.
 
@@ -55,7 +33,7 @@ I was not able to get my character from North Ro, through the Freeport Sewers, t
 
 Kasul was thinking the exact same thing I was thinking -- if we lived in Asia, or didn't have jobs, we could easily get the premium play experience by playing off-peak. But this isn't the case. We live on the US east coast, and we have regular day shift jobs. We are pretty much forced to play in prime time if we want to play at all.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/eqgame-2020-06-06-06-43-42-84-1024x583.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/eqgame-2020-06-06-06-43-42-84-1024x583.jpg" classes="center" >}}
 
 This morning I rescued my SK and my tag-along boxed mage, Dunkela, from the Freeport Sewers without any issues. I'd been playing Dunkela when Kasul wasn't available on my second account, with the eventual goal of allowing us to go anywhere and do anything, with tank, healer and DPS covered.
 
@@ -65,7 +43,7 @@ Last night, after we'd given up on Aradune, we logged in to our trial run charac
 
 But the Field of Bone is a thing, so we went there. A high level shaman was PLing a DE mage in the Pit, and clearly mistook me for his mage friend, as he dropped a lot of high level mobs on us -- by accident. He realized his mistake and buffed up Kasul and my water pet and we were able to get a lot of levels in the hour or so before the buffs wore out. Kasul ended the night at eight, and me at six.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/eqgame-2020-06-10-08-10-48-71-1024x583.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/eqgame-2020-06-10-08-10-48-71-1024x583.jpg" classes="center" >}}
 
 Darkpaw Studio head Jenn Chan wrote a [mea culpa](https://forums.daybreakgames.com/eq/index.php?threads/a-note-to-the-eq-community-from-jenn-chan.267730/) about all of EverQuest's recent difficulties, which came along with a week or 25% experience bonus.
 

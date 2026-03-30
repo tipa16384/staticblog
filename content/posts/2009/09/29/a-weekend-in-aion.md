@@ -3,40 +3,19 @@ date: '2009-09-29T04:07:58-05:00'
 draft: false
 title: "A Weekend in Aion"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/29/a-weekend-in-aion/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Aion"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/1-432x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/1-432x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/1-432x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/1-432x480.jpg"
 ---
+[...
+<!--more-->
 
-[![A Weekend in Aion](https://chasingdings.com/wp-content/uploads/2009/09/1-432x480.jpg "A Weekend in Aion")](https://chasingdings.com/wp-content/uploads/2009/09/1.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/09/1.jpg)
 
 Aion was my entertainment of choice this weekend.  I spent the better part of Friday evening and Saturday playing it.  I’ve rejoined MMO comrades from the [Casualties of War](http://www.casualtiesguild.com/) (COW) guild, first formed as a group of bloggers going into Warhammer Online.  The guild has since branched out into a number of other MMOs, including Aion.
 
@@ -50,7 +29,7 @@ I play MMOs largely to exist in fantastical settings ripe with natural phenomeno
 
 **Progression**
 
-[![Moneter-in-a-Box](https://chasingdings.com/wp-content/uploads/2009/09/2-424x480.jpg "Moneter-in-a-Box")](https://chasingdings.com/wp-content/uploads/2009/09/2.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/2-424x480.jpg" title="Moneter-in-a-Box" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/2.jpg)
 
 **Leveling**
 
@@ -64,7 +43,7 @@ I did my first group quests with COW this weekend.  It was an experience not to 
 
 The first time I tried to reach the area I almost died.  I was totally unprepared for how densely packed the mobs were and came running in with a train on my butt.  It’s amazing how many mobs you can aggro trying to run just a few yards from the safety of the Altgard Fortress.  It’s not a zone you can do at the appropriate level and solo.
 
-[![Stick ](https://chasingdings.com/wp-content/uploads/2009/09/3-389x480.jpg "Stick ")](https://chasingdings.com/wp-content/uploads/2009/09/3.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/3-389x480.jpg" title="Stick " classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/3.jpg)
 
 I have to admit that I liked the heightened sense of danger you don’t typically experience outside of a PVP setting.  Black Claw has named mobs roaming around that can and WILL wipe a whole group if you don’t burn them down before a patrol comes along, mobs re-spawn nearby or someone moves around too much and pulls another pack.  People don’t like dying in Aion. I certainly don’t like dying.  I was proud of my 14 levels with no deaths status.  I didn’t want the XP debt.  I didn’t want to pay to have the death de-buff removed which get more expensive as you level.  Besides, I usually have a nice stash of DP points accumulated for my special skills which you lose when you die.  Doing the quests with the COW group was a piece of cake.  There was only once occasion when things got out of hand and a few of us died – oh wait, we wiped.  *Smile*
 
@@ -80,4 +59,4 @@ Another player noticed we were in trouble and joined the fray.  I buffed the new
 
 Our little escapade capped my Saturday evening in the game.  I’d had all the excitement I could take for one session.  I flew back to the capital city and began crafting myself into poverty, but that’s a tale for another day.
 
-[![Fly away home](https://chasingdings.com/wp-content/uploads/2009/09/4-480x378.jpg "Fly away home")](https://chasingdings.com/wp-content/uploads/2009/09/4.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/4-480x378.jpg" title="Fly away home" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/4.jpg)

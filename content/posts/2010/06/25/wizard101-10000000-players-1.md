@@ -3,42 +3,21 @@ date: '2010-06-25T19:00:34-05:00'
 draft: false
 title: "Wizard101: 10,000,000 Players, +1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/06/25/wizard101-10000000-players-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wizard101 recently announced their ten millionth player, a not-inconsiderable achievement for a non-free to play game. Even given second or third accounts, millions of people..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/wizard101emmafinal.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/06/wizard101emmafinal.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/wizard101emmafinal.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/wizard101emmafinal.jpg"
 ---
+Wizard101 recently announced their ten millionth player, a not-inconsiderable achievement for a non-free to play game. Even given second or third accounts, millions of people...
+<!--more-->
 
 Wizard101 recently announced their ten millionth player, a not-inconsiderable achievement for a non-free to play game. Even given second or third accounts, millions of people have spent some bit of their lives enjoying the mystic worlds of the Spiral. Tara Windwalker wrote me today to share the sad but somehow joyful story of Emma Elizabeth Bradford, one of those ten million.
 
-> [![](https://chasingdings.com/wp-content/uploads/2010/06/wizard101emmafinal.jpg "wizard101emmafinal")](https://chasingdings.com/wp-content/uploads/2010/06/wizard101emmafinal.jpg)
+> [
+
+](https://tipa16384.github.io/wkblog/uploads/2010/06/wizard101emmafinal.jpg)
 
 > Yesterday, I  was doing a search of online posts featuring current news about Wizard101 and found an obituary for Emma Elizabeth Bradford, a 7 year old girl, who was a Wizard101 fan. Emma's obituary is one of the most beautiful that I have ever read. I don't know if I ever saw or met Emma in the Wizard101 game but we probably share(d) the joy that Wizard101 adds to our lives through its humor and wonderful graphics.
 

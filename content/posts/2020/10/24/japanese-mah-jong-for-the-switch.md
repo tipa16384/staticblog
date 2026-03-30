@@ -3,39 +3,17 @@ date: '2020-10-24T14:56:37-05:00'
 draft: false
 title: "Japanese Mah-jong for the Switch"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/24/japanese-mah-jong-for-the-switch/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm not as big a collector of Mahjong games as my boyfriend is; he has a really impressive collection of both import and domestic games..."
+categories:
   - "Nintendo Switch"
   - "Switch"
+tags:
   - "Mahjong"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/japanese-mah-jongg-switch-screenshot01.jpg"
 ---
+I'm not as big a collector of Mahjong games as my boyfriend is; he has a really impressive collection of both import and domestic games...
+<!--more-->
 
 I'm not as big a collector of Mahjong games as my boyfriend is; he has a really impressive collection of both import and domestic games for the SNES (even leaving the solitaire mahjong games aside, there's an impressive number). But, even though I am nothing more than a beginner, I do like playing the game and am always looking out for something new.
 
@@ -43,7 +21,7 @@ While standing in line for Stellazzio Virtual Theater's production of "[Phantom 
 
 I wondered how good the mahjong games were on the Switch. I'd never actually seen one. There were a dozen solitaire Mahjong games, but then this one, Japanese Mah-jong, and it was just what I was looking for.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/2020102320271700-99DC27D1AAAF8F9BE3875A2FC358B7BE-1024x576.jpg" title="I'ma go over this hand below if you're interested" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/2020102320271700-99DC27D1AAAF8F9BE3875A2FC358B7BE-1024x576.jpg" title="I'ma go over this hand below if you're interested" classes="center" >}}
 
 I've blogged about Mah-jong a few times before, so I won't go too deeply into the game. Basically, it's like rummy as played with playing cards, but with three suits instead of four. There's some extra tiles, the honor tiles, that represent the four winds and the three dragons (green, red and white). In Japanese, or Riichi, Mah-jong, you also have a separate pool of tiles, the "dead wall", that display the "dora", or an indicator of another tile (the next in the sequence) that will give extra points at the end. And, some regular tiles and entirely in red, which are worth more points.
 
@@ -51,7 +29,7 @@ Anyway, the important thing to remember about Mah-jong is that there's a couple 
 
 I read through this a few times. We'd been watching a Mah-jong anime called "[Saki](https://en.wikipedia.org/wiki/Saki_(manga)#Anime)". The anime isn't all that realistic, but there's stuff I picked up from it. The importance of holding a ready hand until you can make it worth as many points as possible. It's tempting to just call win as soon as you can, but if you're behind on points, that may not be the best move. There's no point in winning a hand and still losing the game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/2020102413553600-99DC27D1AAAF8F9BE3875A2FC358B7BE-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/2020102413553600-99DC27D1AAAF8F9BE3875A2FC358B7BE-1024x576.jpg" classes="center" >}}
 
 The number one thing that anime showed me was how important it is to know what tiles you're waiting for -- your "waits" -- and to know when to change those waits to better ones. (One of the players in the anime always chooses risky, but high-scoring waits).
 

@@ -3,24 +3,8 @@ date: '2009-04-29T07:40:20-05:00'
 draft: false
 title: "Daily Blogroll 4/29 -- Free as in Beer Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/29/daily-blogroll-429-free-as-in-beer-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After hours of agonizing labor pains, SOE popped Free Realms out last night, just before midnight in California. They were just half an hour from..."
+categories:
   - "Daily Blogroll"
   - "Darkfall"
   - "EverQuest"
@@ -29,18 +13,9 @@ tags:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+After hours of agonizing labor pains, SOE popped Free Realms out last night, just before midnight in California. They were just half an hour from...
+<!--more-->
 
 After hours of agonizing labor pains, SOE popped Free Realms out last night, just before midnight in California. They were just half an hour from having to have their launch party in Fairbanks, but they technically shipped it Tuesday, despite it being Wednesday in four-fifths of the world. Despite the late hour, the server was bustling with new chefs and brawlers. It doesn't look like Station Access members are considered members in Free Realms yet, or maybe it's just me. Look for me in the game, my character is Tipa Tanglewood. Speedy custom name approval FTW!
 
@@ -56,4 +31,4 @@ Copra notes [that World of Warcraft has so trivialized MMO gaming](http://bullco
 
 Lars of MMOment of Zen has some ideas on how tanks could be changed t[o work better together in groups and raids](http://mmomentofzen.blogspot.com/2009/04/healers-are-always-in-demand.html) to make them a little more desirable. Right now, the perfect number of tanks in a group is one, and for a raid, maybe two. Crusaders (shadow knights and paladins) have buffs which grant the main tank in a group additional bonuses, but Lars says these minor buffs don't go far enough.
 
-Well, I'm shambling like a zombie with one leg and both arms missing today after waiting on Free Realms to launch last night, so I have to rush off to work. Have fun wherever gaming takes you and see you all tomorrow for another edition of the [Daily Blogroll](https://chasingdings.com/index.php/category/mmos/weblog/)!
+Well, I'm shambling like a zombie with one leg and both arms missing today after waiting on Free Realms to launch last night, so I have to rush off to work. Have fun wherever gaming takes you and see you all tomorrow for another edition of the [Daily Blogroll](https://tipa16384.github.io/wkblog/index.php/category/mmos/weblog/)!

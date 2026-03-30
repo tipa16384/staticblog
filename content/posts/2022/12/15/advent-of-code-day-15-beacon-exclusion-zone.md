@@ -3,39 +3,17 @@ date: '2022-12-15T15:01:04-05:00'
 draft: false
 title: "Advent of Code Day 15 -- Beacon Exclusion Zone"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/15/advent-of-code-day-15-beacon-exclusion-zone/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This is the kind of puzzle I hate. Puzzles where even the best approach seems to take forever and it's hard to wrap my head around the solution."
-description: "This is the kind of puzzle I hate. Puzzles where even the best approach seems to take forever and it's hard to wrap my head around the solution."
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "Advent"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-15-14.20.23-A-woman-in-a-Christmas-hat-looking-at-a-handheld-device.-Around-her-beeping-sensors-are-scanning-for-a-distress-beacon-by-Bob-Eggleton-detailed-and.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-15-14.20.23-A-woman-in-a-Christmas-hat-looking-at-a-handheld-device.-Around-her-beeping-sensors-are-scanning-for-a-distress-beacon-by-Bob-Eggleton-detailed-and.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-15-14.20.23-A-woman-in-a-Christmas-hat-looking-at-a-handheld-device.-Around-her-beeping-sensors-are-scanning-for-a-distress-beacon-by-Bob-Eggleton-detailed-and.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-15-14.20.23-A-woman-in-a-Christmas-hat-looking-at-a-handheld-device.-Around-her-beeping-sensors-are-scanning-for-a-distress-beacon-by-Bob-Eggleton-detailed-and.png"
 ---
+This is the kind of puzzle I hate. Puzzles where even the best approach seems to take forever and it's hard to wrap my head around the solution.
+<!--more-->
 
 Wow, okay, this same sort of puzzle came up last year, [Day 19](https://adventofcode.com/2021/day/19), and I really, really hated it. I took all day without making much progress and I finally went to the r/adventofcode subreddit for help. One of only twice I had to do so.
 

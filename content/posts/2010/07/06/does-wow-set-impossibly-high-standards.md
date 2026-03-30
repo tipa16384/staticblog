@@ -3,40 +3,17 @@ date: '2010-07-06T22:37:51-05:00'
 draft: false
 title: "Does WoW set impossibly high standards?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/06/does-wow-set-impossibly-high-standards/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It wasn't the \"Warhammer 40K MMO needs just one million of WoW's players\" line from Danny Bilson's ebulliently gleeful speech about the game THQ plans..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/WoW-2010-06-13-07-36-11-67.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/WoW-2010-06-13-07-36-11-67.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/WoW-2010-06-13-07-36-11-67.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/WoW-2010-06-13-07-36-11-67.jpg"
 ---
+It wasn't the "Warhammer 40K MMO needs just one million of WoW's players" line from Danny Bilson's ebulliently gleeful speech about the game THQ plans...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/07/WoW-2010-06-13-07-36-11-67.jpg "All MMOs must have remote-control battlebots.")
+
 
 It wasn't the "[Warhammer 40K MMO needs just one million of WoW's players](http://www.massively.com/2010/07/01/war40k-courts-1-million-users-wow-players/)" line from Danny Bilson's [ebulliently gleeful speech](http://www.computerandvideogames.com/article.php?id=254087) about the game THQ plans to publish that caught my eye. Every game that comes out admits they'd be happy to get just ten or twenty percent of World of Warcraft's player base.
 

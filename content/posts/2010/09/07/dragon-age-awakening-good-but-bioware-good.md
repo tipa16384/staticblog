@@ -3,44 +3,24 @@ date: '2010-09-07T23:31:18-05:00'
 draft: false
 title: "Dragon Age: Awakening. Good, but Bioware-good?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/07/dragon-age-awakening-good-but-bioware-good/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Dragon Age Origins"
   - "Other Games"
+tags:
   - "Awakenings"
   - "Bioware"
   - "Dlc"
   - "Dragon Age"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23-480x385.jpg "Mother? Is that you, Mother?")](https://chasingdings.com/wp-content/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-05-14-28-18-23.jpg)
 
 There's this thing I will always remember about Dragon Age: Awakening. Without explicitly putting the pieces together, there were plenty of hints that the new classes in Dragon Age: Origins' expansion could connect with the old classes in exciting ways. Turning on the mage ability that drains mana from the corpses of the dead, plus the arcane warrior ability that turns you nearly invulnerable, combined with the battle mage ability that surrounds you with a swirling wind that does every kind of AE elemental damage, and you have someone that can just walk into a room and watch things die, being in fact powered by dying monsters, while the monsters just wish they could hurt you.
 
@@ -64,9 +44,9 @@ Your companions this time around include a good selection of tanks -- Oghren (ch
 
 In my play through, I was the extreme damage mage, so Velanna was left at the keep and Anders went with the group. I mostly used Nathanial for the rogue slot because I just like having an archer in the party. Oghren was tank throughout, though I used Justice at what seemed to be plot-appropriate moments. He definitely looked best in the Sentinel armor, which I was sad to find was too fatiguing to wear, even as a battle mage with severely high intelligence (which counts toward strength for arcane warriors). Luckily, I had Cailan's armor from the Return to Ostagar DLC to keep me warm -- the Warden Commander's armor I favored in Origins didn't get imported to Awakening.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/DAOrigins-2010-09-06-11-33-18-82.jpg "Dera Aeducan, dwarf noble warrior")](https://chasingdings.com/wp-content/uploads/2010/09/DAOrigins-2010-09-06-11-33-18-82.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-06-11-33-18-82.jpg" title="Dera Aeducan, dwarf noble warrior" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-06-11-33-18-82.jpg)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/DAOrigins-2010-09-07-07-08-13-84.jpg "Dual wield for extra glowy!")](https://chasingdings.com/wp-content/uploads/2010/09/DAOrigins-2010-09-07-07-08-13-84.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-07-07-08-13-84.jpg" title="Dual wield for extra glowy!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/DAOrigins-2010-09-07-07-08-13-84.jpg)
 
 The banter between Oghren and Sigrun was so cute, that as soon as I finished Awakening, I went and started my third playthrough of Origins, this time as a dwarf noble warrior.
 

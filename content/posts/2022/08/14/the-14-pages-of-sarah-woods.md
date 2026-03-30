@@ -3,46 +3,24 @@ date: '2022-08-14T07:00:00-05:00'
 draft: false
 title: "The 14 Pages of Sarah Woods"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/14/the-14-pages-of-sarah-woods/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The Number 14: A Touching Game with Excellent Writing and Interesting Characters"
-description: "The Number 14: A Touching Game with Excellent Writing and Interesting Characters"
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "Exploration Games"
   - "Mystery Games"
   - "OpenAI"
   - "Puzzle Games"
+tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Laura Shigihara"
   - "Telltale Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-06-21.41.42-35mm-soft-focus-photograph-looking-over-the-shoulder-of-brown-haired-girl-wearing-a-red-scarf-as-she-sits-on-a-stone-in-a-forest-and-writes-the-number.png"
 ---
+The Number 14: A Touching Game with Excellent Writing and Interesting Characters
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 14th: “The 14 Pages of Sarah Woods”.
 
@@ -52,7 +30,7 @@ You’ll have to use your deductive skills to figure out where she went and why.
 
 As you work through the game, the pages in the notebook will slowly reveal the girl’s story. You’ll learn about her friends, her family, and what she was going through in the weeks leading up to her disappearance. The number 14 takes on a different meaning with every page. In one page, it might be the number of days she was missing. In another, it might be the number of people she talked to that day. Slowly but surely, you’ll start to piece together her story. By the time you discover what happened to her, you’ll have formed a strong connection with the girl.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-06-21.52.42-a-woman-private-investigator-talking-to-someone-on-the-main-street-of-a-small-town-at-night-in-front-of-a-bar-with-neon-signs-with-a-streetlight-nearb-1024x1024.png" title="Scene from the game" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-06-21.52.42-a-woman-private-investigator-talking-to-someone-on-the-main-street-of-a-small-town-at-night-in-front-of-a-bar-with-neon-signs-with-a-streetlight-nearb-1024x1024.png" title="Scene from the game" classes="center" >}}
 
 The 14 Pages of Sarah Woods is a touching game that’s worth playing for its emotional impact alone. But it’s also worth playing because it’s a well-made mystery game with excellent writing and interesting characters. The development house, The Secret Number 14, is a new studio formed by former members of [Telltale Games](https://telltale.com/). The team has a strong pedigree, and it shows in "The 14 Pages of Sarah Woods". They earned their chops on such games as The Walking Dead and The Wolf Among Us, so they know a thing or two about telling a good story.
 

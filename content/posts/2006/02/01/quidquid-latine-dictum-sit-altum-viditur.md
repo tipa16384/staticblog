@@ -3,38 +3,15 @@ date: '2006-02-01T00:00:00-05:00'
 draft: false
 title: "Quidquid latine dictum sit, altum viditur"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/01/quidquid-latine-dictum-sit-altum-viditur/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "\"Whatever is said in Latin, sounds profound\"..."
+categories:
   - "General"
   - "My Work"
-featured_image: "https://chasingdings.com/images/hgbrochure-small.jpg"
-cover:
-  image: "https://chasingdings.com/images/hgbrochure-small.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/hgbrochure-small.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/hgbrochure-small.jpg"
 ---
+"Whatever is said in Latin, sounds profound"...
+<!--more-->
 
 *"Whatever is said in Latin, sounds profound"*
 
@@ -45,8 +22,6 @@ But that's not the exciting news. Today I found out that my new apartment applic
 I was just handed the proof photos for the new [Haven Girl](http://www.surya.com) brochure. I get to turn them into a form ready for the printers. This is the most fun part of my job; and like nearly all the fun parts, wasn't part of the job description BUT! I claimed it as my own (just like the web site).
 
 I'll post the completed bit when I am done. (Here it is)
-
-![](https://chasingdings.com/images/hgbrochure-small.jpg)
 
 *Vah! Denuone latine loquebar? Me ineptum. Interdum modo elabitur*
 

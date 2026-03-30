@@ -3,42 +3,20 @@ date: '2008-12-12T09:51:03-05:00'
 draft: false
 title: "Playstation 3 Home beta"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/12/playstation-3-home-beta/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation..."
+categories:
   - "General"
+tags:
   - "Home"
   - "PS3"
   - "Valkyrie Chronicles"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/stp61605-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/stp61605-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/stp61605-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/stp61605-1.jpg"
 ---
+Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/stp61605-1.jpg "stp61605-1")
+
 
 Though it was up and down more than an acrophobic yo-yo last night, I had a few good chances to log into the new Playstation 3 Home, SCEA's new virtual world for Playstation 3 owners. It would be natural to see this as an answer to Microsoft's New Xbox Experience, but it really isn't. NXE is just a reskinning of the old UI, with avatars and groups. Home is a world.
 
@@ -46,7 +24,7 @@ It's an absolutely gorgeous world, too. My harbor apartment reminded me so much 
 
 Which, now that I think of it, would be a better description for Home. It's a theme park.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/stp61604-1.jpg "stp61604-1")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/stp61604-1.jpg" title="stp61604-1" classes="center" >}}
 
 I ran around and started all the shops downloading -- you download the areas you visit the first time you try to enter, and you can download in the background. The Bowling Alley loaded first, so I accepted Home's offer to teleport me there when it had finished loading, and there it was.
 

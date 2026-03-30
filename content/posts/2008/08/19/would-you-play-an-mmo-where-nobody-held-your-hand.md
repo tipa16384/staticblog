@@ -3,40 +3,16 @@ date: '2008-08-19T14:10:29-05:00'
 draft: false
 title: "Would you play an MMO where nobody held your hand?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/19/would-you-play-an-mmo-where-nobody-held-your-hand/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's already started on some of the larger MMO sites, but with the dropping of the WAR NDA, every WAR fan blog will fall all..."
+categories:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+tags:
   - "Thottbot"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+It's already started on some of the larger MMO sites, but with the dropping of the WAR NDA, every WAR fan blog will fall all...
+<!--more-->
 
 It's already started on some of the larger MMO sites, but with the dropping of the WAR NDA, every WAR fan blog will fall all over themselves to provide, in great and explicit detail, everything you need to do, and in what order, locations provided, animated overlays to show you in what direction you should face, a comfy chair with wheels on it pushed by a kind old man with an English accent, lit signs floating in front of you saying "OKAY PRESS THAT BUTTON RIGHT NOW!", and all so you won't have to ever have to think you are experiencing Warhammer's world with anything less than complete knowledge.
 

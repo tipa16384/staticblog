@@ -3,24 +3,8 @@ date: '2009-07-13T07:47:19-05:00'
 draft: false
 title: "Daily Blogroll 7/13 -- Monday is Funday edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/13/daily-blogroll-713-monday-is-funday-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Like an ebbing tide, the weekend slowly recedes, leaving behind the flotsam and jetsam of yet another Monday. Only a few years too late to..."
+categories:
   - "Age of Conan"
   - "Chronicles of Spellborn"
   - "Daily Blogroll"
@@ -29,20 +13,13 @@ tags:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/blacksmithdarwin.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/blacksmithdarwin.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/blacksmithdarwin.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/blacksmithdarwin.jpg"
 ---
+Like an ebbing tide, the weekend slowly recedes, leaving behind the flotsam and jetsam of yet another Monday. Only a few years too late to...
+<!--more-->
 
-![No matter what gender or profession, everyone in Draconica Online wears pretty much the same outfit...](https://chasingdings.com/wp-content/uploads/2009/07/blacksmithdarwin.jpg "No matter what gender or profession, everyone in Draconica Online wears pretty much the same outfit...")
+
 
 Like an ebbing tide, the weekend slowly recedes, leaving behind the flotsam and jetsam of yet another Monday. Only a few years too late to knock 'em dead in Mrs. Moran's 3rd grade English class on similes.
 

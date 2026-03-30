@@ -3,44 +3,22 @@ date: '2022-07-02T19:17:29-05:00'
 draft: false
 title: "Symphony of War -- Done!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/07/02/symphony-of-war-done/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Steam says I spent a little over 36 hours in Symphony of War: The Nephilim Saga. The game had a lot to recommend it, and..."
+categories:
   - "Steam Games"
   - "Tactical RPG"
+tags:
   - "Symphony of War"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/20220702161823_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/20220702161823_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220702161823_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220702161823_1.jpg"
 ---
+Steam says I spent a little over 36 hours in Symphony of War: The Nephilim Saga. The game had a lot to recommend it, and...
+<!--more-->
 
 Steam says I spent a little over 36 hours in Symphony of War: The Nephilim Saga. The game had a lot to recommend it, and I enjoyed my time with it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/20220702160855_1-1024x576.jpg" title="A touching moment between two bonded" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220702160855_1-1024x576.jpg" title="A touching moment between two bonded" classes="center" >}}
 
 A tactical strategy lives or dies on its tactical combat. A great story or memorable characters are definitely important, but if the battles aren't fun, there's really no point to playing.
 
@@ -50,13 +28,13 @@ With that running, glass cannons like Beatrix's mage squad or Abigayle's dragon 
 
 I had to switch that one out in times when the main squad wasn't doing a lot of killing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/20220702152233_1-1024x576.jpg" title="A couple steps up for a dance in the clouds! How sweet!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220702152233_1-1024x576.jpg" title="A couple steps up for a dance in the clouds! How sweet!" classes="center" >}}
 
 Challenge objectives entice the user to try different strategies to get better rewards. Toward the end, one battle suggested forcing every enemy squad to surrender instead of destroying it entirely. This requires attacking morale. Squads are usually demoralized by their comrades dying around them, but there's also artifacts that help, and confronting low morale units with high morale units can force a surrender.
 
 There's a few other situations which, avoiding spoilers, I don't want to get into.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/1-20220702161221_1.jpg" title="Steven Universe would love to see this." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/1-20220702161221_1.jpg" title="Steven Universe would love to see this." classes="center" >}}
 
 The characters were written mostly consistently, but sometimes they'd break the fourth wall a little bit as they would acknowledge the things we as the player would know from playing games of this sort, but the characters might not. And there were a few typos -- I imagine a patch will fix those soon.
 
@@ -64,7 +42,7 @@ The plot itself mostly stayed true to expectations. The heroes gathered, the ult
 
 The game is fairly linear. I only saw one branching point for the plot, and it came at the very end. I might go back, load up the save, and try the other decision. Maybe it would have a more satisfying ending.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/20220702164256_1-1024x576.jpg" title="Abigayle's dragon rider squad" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220702164256_1-1024x576.jpg" title="Abigayle's dragon rider squad" classes="center" >}}
 
 Other games of this sort might have several bosses -- Symphony of War just had the one. Its new mechanics showed the possibilities the game might have displayed all the way through, but most battles, and most enemies, were cookie cutter. The game's AI isn't that great either, and it is fairly easy to intercept and prevent the enemy from taking back any of its gains.
 
@@ -72,7 +50,7 @@ The vast majority of the game's chapters promise instant loss if the enemy shoul
 
 The five Nephelim powers that granted teleportation, taunting, extra moves, AE damage and AE morale damage, were a little overpowered. They powered up quickly and multiplied the damage I could bring to bear.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/20220702164401_1-1024x576.jpg" title="My protagonist squad" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220702164401_1-1024x576.jpg" title="My protagonist squad" classes="center" >}}
 
 I played on the Captain difficulty -- the normal difficulty. I didn't have any real problems in the game; I only had to restart a battle once to change artifacts. The easier Story difficulty would probably remove all challenge from the game (as it is intended to, I guess). The Warlord difficulty might punch things up a bit, but aside from grabbing the trophy, I don't see any real reason to replay the game.
 

@@ -3,41 +3,19 @@ date: '2025-07-14T08:38:30-05:00'
 draft: false
 title: "Blaugust kommt."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/07/14/blaugust-kommt/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I didn't think Blaugust 2025 would happen, but then the community stepped up. Also, reflections on using (and NOT using) AI art in blogs."
-description: "I didn't think Blaugust 2025 would happen, but then the community stepped up. Also, reflections on using (and NOT using) AI art in blogs."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
+tags:
   - "Blogging"
   - "Deviantart"
   - "Shutterstock"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/07/blaugustbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/07/blaugustbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/blaugustbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/blaugustbanner.png"
 ---
+I didn't think Blaugust 2025 would happen, but then the community stepped up. Also, reflections on using (and NOT using) AI art in blogs.
+<!--more-->
 
 I am very much not ready for Blaugust this year.
 
@@ -59,19 +37,19 @@ If you're looking for a reason *not* to let ChatGPT write your blogs, I couldn't
 
 Okay, back to the header image. This wasn't the first one, actually. Here's how it progressed:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-14-2025-07_55_49-AM-1024x683.png" title="Plain" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/ChatGPT-Image-Jul-14-2025-07_55_49-AM-1024x683.png" title="Plain" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-14-2025-07_56_04-AM-1024x683.png" title="With dodo logo" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/ChatGPT-Image-Jul-14-2025-07_56_04-AM-1024x683.png" title="With dodo logo" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-14-2025-07_56_08-AM-1024x683.png" title="Better dodo" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/ChatGPT-Image-Jul-14-2025-07_56_08-AM-1024x683.png" title="Better dodo" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-14-2025-07_56_13-AM-1024x683.png" title="Let's use a planet" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/ChatGPT-Image-Jul-14-2025-07_56_13-AM-1024x683.png" title="Let's use a planet" classes="center" >}}
 
 I got into EverQuest 2 and took a bunch of screenshots of my halfling bard, Tipa, there. She's the most pure expression of Tipa-ness I've found in an MMO. I uploaded those and the Blaugust 2025 banner to ChatGPT and told it generally what I wanted.
 
 Then I wanted to add the dodo logo. It came out bad, so I gave it more instructions and it came out better. I'm writing a SF story, so I wanted to reference that, but the planet was bad, so I referenced Jupiter and specified how it should look through the atmosphere and that became the banner.
 
-Through it all, I wondered how I could possibly involve a human artist in this. I'm willing. I'd have paid for the eventual banner. We did go through this when we were doing [cover art for our Magic Cap Game Pack](https://chasingdings.com/2022/10/25/coloring-between-the-lines-with-ai/) about a million years ago. (Yes, I actually developed games that were sold to actual humans whom I didn't personally know. I are a true game developer!) Anyway, the artist, who was a student at Monterey Peninsula College, developed a few sketches over the course of a couple of weeks. We signed off on a sketch and he produced a full color proof for the box.
+Through it all, I wondered how I could possibly involve a human artist in this. I'm willing. I'd have paid for the eventual banner. We did go through this when we were doing [cover art for our Magic Cap Game Pack](https://tipa16384.github.io/wkblog/2022/10/25/coloring-between-the-lines-with-ai/) about a million years ago. (Yes, I actually developed games that were sold to actual humans whom I didn't personally know. I are a true game developer!) Anyway, the artist, who was a student at Monterey Peninsula College, developed a few sketches over the course of a couple of weeks. We signed off on a sketch and he produced a full color proof for the box.
 
 I have no idea how much he was paid. I hope he was paid well. Everyone loved the art. But it took a lot of time.
 
@@ -93,11 +71,11 @@ But the alternative here would be to work closely with an artist over a period o
 
 Another solution: use paid clip art services. Here's what I got when I entered the search: *clipart of a fantasy RPG character looking at a billboard in a field with an alien planet and spaceships in the twilit sky.*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/image-4.png" title="From Shutterstock" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/image-4.png" title="From Shutterstock" classes="center" >}}
 
 I forgot to add the dodo. *clipart of a fantasy RPG character and her dodo companion looking at a billboard in a field with an alien planet and spaceships in the twilit sky.*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/image-5-300x236.png" title="Copyright: Dominick Critelli | Dreamstime.com" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/image-5-300x236.png" title="Copyright: Dominick Critelli | Dreamstime.com" classes="center" >}}
 
 I have no idea if the credited artists used AI in their work. I'd hope they didn't, but how can you know? Using a commercial clipart service would presumably put some money in the pocket of the original artist, but neither of these images are at all close to what I asked for. So, now I would be paying real money for art I didn't want.
 

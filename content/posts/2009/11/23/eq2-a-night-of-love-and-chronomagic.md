@@ -3,40 +3,17 @@ date: '2009-11-23T08:35:56-05:00'
 draft: false
 title: "EQ2: A Night of Love and Chronomagic"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/11/23/eq2-a-night-of-love-and-chronomagic/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was fooling around on Antonia Bayle server last night when I saw a raid looking for people to fill up its two group Kurns..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-22-22-42-15-62.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-22-22-42-15-62.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/EverQuest2-2009-11-22-22-42-15-62.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/EverQuest2-2009-11-22-22-42-15-62.jpg"
 ---
+I was fooling around on Antonia Bayle server last night when I saw a raid looking for people to fill up its two group Kurns...
+<!--more-->
 
-![Hobbits vs a God](https://chasingdings.com/wp-content/uploads/2009/11/EverQuest2-2009-11-22-22-42-15-62.jpg "Hobbits vs a God")
+
 
 I was fooling around on Antonia Bayle server last night when I saw a raid looking for people to fill up its two group Kurns Tower run. They wanted a mythical weapon and preferably T4 armor -- the very best and most uber raid gear.
 
@@ -62,4 +39,4 @@ The final fight against D'Vinn and his cronies is a fight in waves which I only 
 
 Etha gained two levels, to 56. Tipa gained an AA point. I'm not sure if Dera got anything out of it aside from blood on her shiny black Halloween appearance armor.... but it was a fun night nonetheless.
 
-![Tipa (in Robe of Kunark Achievements), Dera and Etha with the Shard of Love hammer](https://chasingdings.com/wp-content/uploads/2009/11/chrono.png "Tipa (in Robe of Kunark Achievements), Dera and Etha with the Shard of Love hammer")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/chrono.png" title="Tipa (in Robe of Kunark Achievements), Dera and Etha with the Shard of Love hammer" classes="center" >}}

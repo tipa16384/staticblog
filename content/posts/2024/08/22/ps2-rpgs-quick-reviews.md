@@ -3,44 +3,22 @@ date: '2024-08-22T07:00:00-05:00'
 draft: false
 title: "PS2 RPGs: Quick Reviews"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/22/ps2-rpgs-quick-reviews/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "You're down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?"
-description: "You're down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?"
-tags:
+categories:
   - "Battlestar Galactica"
   - "Blaugust"
   - "Blaugust 2024"
   - "Final Fantasy"
   - "PS2"
+tags:
   - "Avatar"
   - "Avatar the Last Airbender"
   - "Dirge of Cerberus"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/Final-Fantasy-7-Dirge-Of-Cerberus.jpg"
 ---
+You're down at K-Mart or Sears, looking at all those shiny new PlayStation 2 games in the sharp glass case; which one is the lady behind the counter going to bring out for you?
+<!--more-->
 
 I honestly thought I'd talked about a few of these games in the blog, but APPARENTLY NOT, so, here we go.
 
@@ -52,7 +30,7 @@ It's a third person shooter. There are combos, but they are not as intricate as 
 
 Being a shooter instead of a JRPG, Dirge of Cerberus never seemed to fit into the Final Fantasy canon, but it's fun enough.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/Battlestar-Galactica_SLUS-20421_20240821230413-1-1024x768.png" title="If you like this image, press the START button so we can show you more like it" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/Battlestar-Galactica_SLUS-20421_20240821230413-1-1024x768.png" title="If you like this image, press the START button so we can show you more like it" classes="center" >}}
 
 **Battlestar Galactica**
 
@@ -66,7 +44,7 @@ In this game, the Cylons have taken out a Viper Patrol and have jumped to the Ga
 
 Those who can master the aiming and stuff will find a game stuffed with extras, like clips from the show and so on. Presumably.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/Avatar-The-Last-Airbender_SLUS-21395_20240821231528-1024x768.png" title="Can be replaced with a decent electric fan" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/Avatar-The-Last-Airbender_SLUS-21395_20240821231528-1024x768.png" title="Can be replaced with a decent electric fan" classes="center" >}}
 
 **Avatar: the Last Airbender**
 

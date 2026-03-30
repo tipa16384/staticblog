@@ -3,43 +3,21 @@ date: '2009-05-29T05:41:42-05:00'
 draft: false
 title: "The Matrix Online: Unplugged"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/29/the-matrix-online-unplugged/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "SOE has long said about its games that no matter how many or few players a MMO had, as long as it made money, they'd..."
+categories:
   - "MMORPG"
+tags:
   - "Matrix"
   - "Matrix Online"
   - "Mxo"
   - "The Matrix Online"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/mxo.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/mxo.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/mxo.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/mxo.jpg"
 ---
+SOE has long said about its games that no matter how many or few players a MMO had, as long as it made money, they'd...
+<!--more-->
 
-![I only need these glasses to drive.](https://chasingdings.com/wp-content/uploads/2009/05/mxo.jpg "I only need these glasses to drive.")
+
 
 SOE has long said about its games that no matter how many or few players a MMO had, as long as it made money, they'd keep the lights on.
 

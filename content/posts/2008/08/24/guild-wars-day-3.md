@@ -3,42 +3,20 @@ date: '2008-08-24T23:42:03-05:00'
 draft: false
 title: "Guild Wars -- Day 3"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/24/guild-wars-day-3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Okay, this is skipping ahead a bit, but I'm so mad. I basically manage to single-handedly hold the Sunspears together after Spearmarshall Kosmir became demon-chow...."
+categories:
   - "Guild Wars"
   - "MMORPG"
+tags:
   - "Day 3"
   - "Nightfall"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg"
 ---
+Okay, this is skipping ahead a bit, but I'm so mad. I basically manage to single-handedly hold the Sunspears together after Spearmarshall Kosmir became demon-chow....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-21-15-40-74.jpg "gw-2008-08-24-21-15-40-74")
+
 
 Okay, this is skipping ahead a bit, but I'm so mad. I basically manage to single-handedly hold the Sunspears together after Spearmarshall Kosmir became demon-chow. Veshta totally killed us. We fled to some caves -- caves filled with vermin! Huge bugs! Koss was kidnapped! So I pretty much had to do it all myself. Afterward, I was totally the hero. It was MY place. MINE.
 
@@ -46,7 +24,7 @@ So WHERE THE HECK did all these OTHER players come from? *I* didn't invite them!
 
 Sigh.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/wayback.jpg "wayback")Okay, wayback machine time.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/wayback.jpg" title="wayback" classes="center" >}}Okay, wayback machine time.
 
 When we left back at Day 2 (and sorry for no Day 3 last week, I was at the SOE Fan Faire), I was level 19 and finishing up all the quests I could find before I moved on.
 
@@ -54,7 +32,7 @@ Today, I lept right into the fray. The Castellan in the Sunspear castle gave me 
 
 The first task was to bolster the army by going to the Sunspear Tombs and enlist the help of the dead. Which is kinda weird because, hey, they're DEAD. They probably got dead by LOSING, and I doubt death has given them many opportunities for training, except for training in decomposing or providing homes for worm colonies.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-14-28-58-87.jpg "gw-2008-08-24-14-28-58-87")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-14-28-58-87.jpg" title="gw-2008-08-24-14-28-58-87" classes="center" >}}
 
 But hey, I'm not in charge (yet), if that's what i gotta do... so I went to the tombs and knelt in front of the gate, and a Sunspear warrior appeared -- and attacked us. Just as a test. And guess what -- we WON. EASILY. I DON'T see how much help a bunch of dead warriors will be when their leader can't even put up a decent showing against a bunch of newbie adventurers.
 
@@ -70,13 +48,13 @@ Well, I think we have to really wonder about the quality of help we will be rece
 
 Anyway, tasks done, we formed up on the docks, marched into the ships, and the wind spirits sped us to Koura.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-15-34-54-17.jpg "gw-2008-08-24-15-34-54-17")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-15-34-54-17.jpg" title="gw-2008-08-24-15-34-54-17" classes="center" >}}
 
 Ah, the sounds and smells of battle. The crash of high-flung stones plowing through the troops. The screams, the blood, the horrid monsters, barely controlled by their summoners. The thrill of victory.
 
 Not, of course, OUR victory. Not even MY victory.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-15-53-55-98.jpg "gw-2008-08-24-15-53-55-98")Oh, we were well-routed by forces beyond our control. The wind spirits brought us here because they knew what we would find here. Our own deaths. The Sunspear dead must have been nearby as well, to carry their dead back with them to their eternal rest in the Sunspear Tomb. They carried Spearmarshall Kormir with them.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-15-53-55-98.jpg" title="gw-2008-08-24-15-53-55-98" classes="center" >}}Oh, we were well-routed by forces beyond our control. The wind spirits brought us here because they knew what we would find here. Our own deaths. The Sunspear dead must have been nearby as well, to carry their dead back with them to their eternal rest in the Sunspear Tomb. They carried Spearmarshall Kormir with them.
 
 We started off well, going from place to place, easily defeating the enemy. One of the new recruites even figured out a way to turn the bombards against the city, opening its heart to us. And so we rushed in, certain of victory. Spearwarden Veshta of the Koura, though, summoned the power of the disgraced Sixth God, Abaddon, and four demons appeared. One bit through Kormir, and busied itself swallowing her from the inside out. Those of us that lived ran and ran and ran. Most of my squad survived, but Koss was gone. Dead, captured or scattered, we didn't know. But as the days and weeks passed, as we Sunspears stuck on Koura looked for a place where we could stop running and regroup and no word came, we had to come to terms with his loss.
 
@@ -88,13 +66,13 @@ Oh, yes we could. I eat bugs like that for breakfast.
 
 Um. Not really.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-15-57-58-03.jpg "gw-2008-08-24-15-57-58-03")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-15-57-58-03.jpg" title="gw-2008-08-24-15-57-58-03" classes="center" >}}
 
 With the caves cleared, the Sunspears that survived the rout trickled in (and opened a new hub). We took on odd jobs. While interrogating a Kouran scout, we heard tell of some prisoners that had just been captured. Koss? No, these prisoners were all dead, and the villagers who had been healing them were themselves arrested.
 
 We freed them, but they hadn't seen anyone like Koss. Although.... there were rumors of some very important prisoners at a castle on the coast. We soon found out that Koss was alive, and among them. KOSS!
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-24-18-15-24-58.jpg "gw-2008-08-24-18-15-24-58")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-24-18-15-24-58.jpg" title="gw-2008-08-24-18-15-24-58" classes="center" >}}
 
 What do you think? Of course we rescued him!
 

@@ -3,53 +3,31 @@ date: '2023-08-23T07:00:00-05:00'
 draft: false
 title: "The Resurrection of the Atari 2600"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/23/the-resurrection-of-the-atari-2600/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "No, this isn't about the previous resurrection of the Atari 2600. Nor the previous one. Not that other one either. This is new."
-description: "No, this isn't about the previous resurrection of the Atari 2600. Nor the previous one. Not that other one either. This is new."
-tags:
+categories:
   - "Atari 2600"
   - "Blaugust"
   - "Blaugust 2023"
+tags:
   - "Atari"
   - "River Raid"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/atari2600.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/atari2600.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/atari2600.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/atari2600.png"
 ---
+No, this isn't about the previous resurrection of the Atari 2600. Nor the previous one. Not that other one either. This is new.
+<!--more-->
 
 With all the hundreds of millions of dollars Atari must have been making with their NFTs, it's weird that the company now bearing that name even feels the need to dabble in electronics, but here they go -- again.
 
 A few years back, the company now known as Atari surprised me (and, I suspect, many others) by actually shipping [their long-promised retro VCS console](https://atari.com/pages/atari-vcs). The final product looked super nice, updating the plastic and wood look of the original console from back in the 1970s with some modern styling. Inside was a Linux-based computer with a custom user interface, and it came packed with emulator software that could play original Atari 2600 games. It also could run any other game that could be run under Linux, and Atari contracted with developers for some new games based on the old classics to add value to the system.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-49-300x158.png" title="The Atari VCS (not what this article is mostly about)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-49-300x158.png" title="The Atari VCS (not what this article is mostly about)" classes="center" >}}
 
 I was tempted, but I have enough computers in my life at the moment and very little desk space. Just looking around, I have two desktops, my work laptop and a PlayStation 3. On a rack next to me is a PlayStation 5. On a small table next to my desk is a Sega Saturn. Behind my monitor is an Analogue NT+ and a Switch and two KVM switches to manage the mess.
 
 I have enough stuff on my desk, is what I'm saying here. For a system that won't play any of the actual Atari 2600 cartridges I have hauled through time from the 80s, it doesn't bring joy to my life.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-50.png" title="This is the Atari 2600+, the one I am writing about today" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-50.png" title="This is the Atari 2600+, the one I am writing about today" classes="center" >}}
 
 Today, since I had long ago gotten on their mailing list by expressing interest in the VCS, they sent me this e-mail about their new (old) console, [the Atari 2600+](https://atari.com/products/atari-2600-plus).
 
@@ -63,7 +41,7 @@ Okay, now *that* was intriguing. I could plug in all my cartridges (including my
 
 Hold on. Is this just an *emulator*?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-51.png" title="Just an emulator" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-51.png" title="Just an emulator" classes="center" >}}
 
 Well... it makes sense, when you think about it. The original Atari 2600 was intimately tied to the technology of CRT-based televisions, a tech almost nobody has in their homes anymore. Emulation lets them connect to HDMI and then on to modern monitors and TVs.
 

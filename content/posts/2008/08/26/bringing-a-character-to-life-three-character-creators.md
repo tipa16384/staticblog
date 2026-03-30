@@ -3,41 +3,19 @@ date: '2008-08-26T07:57:23-05:00'
 draft: false
 title: "Bringing a character to life -- three character creators"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/26/bringing-a-character-to-life-three-character-creators/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was writing a new Stout Henry story last night, when I got the idea to try and model him with the character creators from..."
+categories:
   - "City of Heroes"
   - "EverQuest"
   - "MMORPG"
   - "Vanguard"
+tags:
   - "Stout Henry"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg"
 ---
+I was writing a new Stout Henry story last night, when I got the idea to try and model him with the character creators from...
+<!--more-->
 
 I was writing a new Stout Henry story last night, when I got the idea to try and model him with the character creators from all the MMOs I had which could actually make unique characters. That left out EverQuest and World of Warcraft right off the bat; neither one has many character choices and people generally look a lot like other people of their race and gender.
 
@@ -47,15 +25,13 @@ Next up was EverQuest 2. Unlike EverQuest, EQ2's character creator is pretty cus
 
 Given the discussion we were having yesterday about the Vanguard character models, I figured I'd have a go with theirs. When I saw the Qalian human disciple, I'd found Stout Henry. Nothing to be done but level him up to 3 and buy a staff, and there he was. My hero.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-26-06-57-59-63.jpg "cityofheroes-2008-08-26-06-57-59-63")
-
 *City of Villains*
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-26-07-01-41-85.jpg "everquest2-2008-08-26-07-01-41-85")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-26-07-01-41-85.jpg" title="everquest2-2008-08-26-07-01-41-85" classes="center" >}}
 
 *EverQuest II*
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/vgclient-2008-08-26-06-24-32-34.jpg "vgclient-2008-08-26-06-24-32-34")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/vgclient-2008-08-26-06-24-32-34.jpg" title="vgclient-2008-08-26-06-24-32-34" classes="center" >}}
 
 *Vanguard*
 
@@ -67,7 +43,7 @@ There weren't enough people there to make it interesting, so I accepted a team i
 
 After the team broke up, I got a new mayhem mission from my contact, returned to Paragon City and played the mission how it was meant to be played. I blew up EVERYTHING. Cars, trucks, mailboxes, bus stops, phone booths, cardboard boxes... here's me and my crew villainously attacking a dumpster.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/cityofheroes-2008-08-26-01-41-04-611.jpg "cityofheroes-2008-08-26-01-41-04-611")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/cityofheroes-2008-08-26-01-41-04-611.jpg" title="cityofheroes-2008-08-26-01-41-04-611" classes="center" >}}
 
 We robbed the bank, too, and defeated the heroes they sent at us. Afterward I kept blowing up cars and cardboard boxes, working on badges, until the timer ran out.
 

@@ -3,42 +3,21 @@ date: '2021-08-10T22:02:08-05:00'
 draft: false
 title: "My Board Game is on a Slow Boat from China"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/10/my-board-game-is-on-a-slow-boat-from-china/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's just gotten worse with time. The Kickstarter you were so excited for funded! YAY! The creators are as excited as you are, and they..."
+categories:
   - "Blaugust"
   - "Kickstarter"
   - "Set a Watch"
   - "Tabletop Games"
+tags:
+  - "Blaugust"
   - "China"
   - "Swords of the Coin"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/slowboat.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/slowboat.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/slowboat.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/slowboat.jpg"
 ---
+It's just gotten worse with time. The Kickstarter you were so excited for funded! YAY! The creators are as excited as you are, and they...
+<!--more-->
 
 It's just gotten worse with time. The Kickstarter you were so excited for funded! YAY! The creators are as excited as you are, and they are showing every bit of the process and you just can't *wait* to get your hands on what you funded and start playing the incredible game or whatever. Perfect Christmas present! Gonna be a hit at Game Night!
 
@@ -46,7 +25,7 @@ And then... and then your game is put on a slow boat from China. You don't know 
 
 Turns out that, most of the time, they *can't*. Read on...
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/800px-Container_ship_CMA_CGM_Bougainville_off_the_port_of_Hamburg_in_October_2015.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/800px-Container_ship_CMA_CGM_Bougainville_off_the_port_of_Hamburg_in_October_2015.jpg)Where in the World is my Game?
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/800px-Container_ship_CMA_CGM_Bougainville_off_the_port_of_Hamburg_in_October_2015.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/800px-Container_ship_CMA_CGM_Bougainville_off_the_port_of_Hamburg_in_October_2015.jpg)Where in the World is my Game?
 
 Rock Manor Games' "Set a Watch" was a fun addition to our gaming table when we got it a couple years back. It's a little game with the board built into the box it comes in, and you and your friends play a group of adventurers who, each night, set up camp, and then have to deal with the terrors that assail them after dark.
 
@@ -72,13 +51,13 @@ The real question is, why did we let this happen?
 
 **New England used to be the center of textile production in the country**
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/IMG_1489-1024x768.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/IMG_1489.jpg)Frog Bridge
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/IMG_1489-1024x768.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/IMG_1489.jpg)Frog Bridge
 
 My ancestors on my mom's side came down from Quebec to work in the textile mills of New Hampshire. The graveyards of Concord and Penacook are filled with close and distant relatives who came here for a better life. The town I live in, here in Connecticut, is nicknamed the Silk City. Nearby Willimantic's Frog Bridge has four frogs sitting on spools of threads ([long story...](https://en.wikipedia.org/wiki/Battle_of_the_Frogs)).
 
 All those textile mills are gone now, torn down or used for something else. The giving away of our textile industry to overseas workers devastated the entire region. 
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/panoramio-56268146-1024x822.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/panoramio-56268146.jpg)Crown & River Mill Apartments
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/panoramio-56268146-1024x822.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/panoramio-56268146.jpg)Crown & River Mill Apartments
 
 That mill was ruins when I was a kid. Yankee Magazine even ran an article on Uxbridge, Massachusetts, saying "Town For Sale" because it was such a blighted place after the industry left.
 

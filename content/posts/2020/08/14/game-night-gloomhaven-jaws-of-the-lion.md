@@ -3,58 +3,36 @@ date: '2020-08-14T07:23:35-05:00'
 draft: false
 title: "Game Night: Gloomhaven, Jaws of the Lion"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/14/game-night-gloomhaven-jaws-of-the-lion/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Finally, finally, FINALLY! All the work Tom and I have been doing in printing and painting miniatures and dungeon parts paid off last night as..."
+categories:
   - "3D Printing"
   - "Game Night"
   - "Gloomhaven"
   - "Miniatures"
   - "Tabletop Games"
+tags:
   - "Jaws of the Lion"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1822.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1822.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1822.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1822.jpg"
 ---
+Finally, finally, FINALLY! All the work Tom and I have been doing in printing and painting miniatures and dungeon parts paid off last night as...
+<!--more-->
 
 Finally, finally, FINALLY! All the work Tom and I have been doing in printing and painting miniatures and dungeon parts paid off last night as we finally sat down to play the first two scenarios in Gloomhaven: Jaws of the Lion.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1817.jpg)Now available at your local Target.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1817.jpg" classes="center" >}}Now available at your local Target.
 
 Jaws of the Lion is an introductory campaign to the Gloomhaven universe, where you and up to three friends take on the roles of a renowned mercenary company, the "Jaws of the Lion", who have taken a job to look for a missing blacksmith and stumble onto a body snatching plot leading to some evil end.
 
 Although the new characters are compatible with the wider Gloomhaven universe and can be brought to other games with no issues, the Jaws of the Lion plot is centered around the titular mercenary company, and the scenarios are designed to make good use of the four characters' abilities.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1818.jpg)Starting the first adventure
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1818.jpg" classes="center" >}}Starting the first adventure
 
 I was playing the Voidwarden. She can buff her party members and grant them extra attacks, but her best ability is forcing the enemies to fight each other. She coerced an elite vermling raider to turn around and absolutely crush one of its allies. Feels good.
 
 The Demolitionist used the terrain and obstacles to fuel her greatest attacks. The Hatchet was a fast mover who could control several enemies at once with his throwing axes. And the Red Guard placed the enemies where he wanted them -- typically, in a trap.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-IMG_1819.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-IMG_1819.jpg" classes="center" >}}
 
 All Gloomhaven games come with miniatures to represent the characters, but the monsters are just standees. In Jaws of the Lion, the dungeon layouts are printed in scenario books, but we'd decided even before we bought the game that we were going to use 3D printing to transform the printed scenarios into something more tactile.
 

@@ -3,37 +3,14 @@ date: '2023-12-16T15:36:21-05:00'
 draft: false
 title: "D&D Session 3: Butterskull Ranch"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/16/dd-session-3-butterskull-ranch/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The party heads to Butterskull Ranch in search of skulls. Seems reasonable."
-description: "The party heads to Butterskull Ranch in search of skulls. Seems reasonable."
-tags:
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_fantasy_battle_of_Lord_of_the_Rings-style_orcs_rushing__c48fca2e-428d-467e-8bd7-5fe149bd6264.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_fantasy_battle_of_Lord_of_the_Rings-style_orcs_rushing__c48fca2e-428d-467e-8bd7-5fe149bd6264.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_fantasy_battle_of_Lord_of_the_Rings-style_orcs_rushing__c48fca2e-428d-467e-8bd7-5fe149bd6264.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_fantasy_battle_of_Lord_of_the_Rings-style_orcs_rushing__c48fca2e-428d-467e-8bd7-5fe149bd6264.png"
 ---
+The party heads to Butterskull Ranch in search of skulls. Seems reasonable.
+<!--more-->
 
 **Chapter 1: Shadows and Whispers in Phandalin**
 

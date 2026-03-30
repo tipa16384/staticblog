@@ -3,42 +3,20 @@ date: '2011-11-09T06:33:12-05:00'
 draft: false
 title: "DDO: Rakshasa, Dragons and Many Many Minos."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/11/09/ddo-rakshasa-dragons-and-many-many-minos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Modern MMOs have trained me to believe that no matter what class I play, I'll be able to solo anything without trouble. That's the compact..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Google+"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-07-00-08-02-82.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-07-00-08-02-82.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-07-00-08-02-82.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-07-00-08-02-82.jpg"
 ---
+Modern MMOs have trained me to believe that no matter what class I play, I'll be able to solo anything without trouble. That's the compact...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-07-00-08-02-82.jpg" title="Dragon in the Tor" class="align-center" >}}
+
 
 Modern MMOs have trained me to believe that no matter what class I play, I'll be able to solo anything without trouble. That's the compact MMO devs make with their players. So my natural tendency is to just pick a target and wade on in.
 
@@ -54,7 +32,7 @@ We did manage to defeat the Gatekeeper and open the endless killing ramps up to 
 
 The dragons can drop scales for some pretty significant armor, but you need 25 scales for the armor, and Spode remarked that you need relics to repair it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-08-14-27-04-80.jpg" title="DDO: Battlefield 3 mod" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-08-14-27-04-80.jpg" title="DDO: Battlefield 3 mod" classes="center" >}}
 
 I haven't been playing a lot of games on my vacation, but I went back and played a bit today. I went through my quest log and found a line out of Lordsmarch Plaza, the home of the Coin Lords. The three quests here involve a conspiracy among the monsters of the area. A local medusa boss is making common cause with some monster invaders and a minotaur city and eventually turning things back on the invaders and their medusa ally.
 
@@ -64,7 +42,7 @@ The first quest, [Diplomatic Impunity](http://ddowiki.com/page/Diplomatic_Impuni
 
 I went in after and disarmed the traps, but it was too late to get the ingenuity bonus. I don't remember spotting them before everything went aggro... or I would have disarmed them. First I heard of them was when the commander admitted he was going to cheat with the traps.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-08-15-12-56-28.jpg" title="Oops" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-08-15-12-56-28.jpg" title="Oops" classes="center" >}}
 
 Next up was [Frame Work](http://ddowiki.com/page/Frame_Work). This one took HOURS. The medusa is IN THE CITY and she is rousing up the minos against the good guys. We were going to convince the minos to doubt her overtures by petrifying some random minos in the town. Then we assassinate the mino chief. And done! That's it! Only need to stone one mino and kill another!That's technically possible, perhaps. You can optionally repair some broken ballistas into "spy insertion devices" that will fling you into the city, saving having to fight in.So I was doing the stealth thing, with my hireling parked far away, and was doing pretty well until I was seen. After that, it was just the killing. And the killing. And the more killing. And the still more killing. You keep getting achievements for killing more and more stuff. Toward the end the hirelings got split up and died, and it was back to stealth mode as I gathered up the soulstones and rezzed them at a shrine outside the city.When I got back to the NPC at the start of the instance and told her what I'd done, she was stunned. I was supposed to frame the medusa and take out the chief, not kill every living creature in the city. You get an extra chest for being a cold-blooded killer.
 

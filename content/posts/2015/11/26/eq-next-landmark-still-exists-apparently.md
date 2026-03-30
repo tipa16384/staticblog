@@ -3,40 +3,17 @@ date: '2015-11-26T00:19:23-05:00'
 draft: false
 title: "EQ Next Landmark still exists apparently"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/11/26/eq-next-landmark-still-exists-apparently/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Every few years, I wonder whatever became of EQ Next. It was going to change the face of MMO gaming. Mobs that reacted to over-hunting..."
+categories:
   - "Everquest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg"
 ---
+Every few years, I wonder whatever became of EQ Next. It was going to change the face of MMO gaming. Mobs that reacted to over-hunting...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/Landmark-v0.525.4.117572-_x64_-__RELEASE__-11_25_2015-12_28_41-PM.jpg" title="Tell me can I be your honey be, be strong..." class="align-center" >}}
+
 
 Every few years, I wonder whatever became of EQ Next. It was going to change the face of MMO gaming. Mobs that reacted to over-hunting or being left alone to become a bigger problem. Emergent events. A fully destructible world. All the old lore tossed away for bright shiny new lore. Simple control scheme for console play, but depth for PC players.
 

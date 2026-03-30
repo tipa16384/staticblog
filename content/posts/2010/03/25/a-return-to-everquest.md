@@ -3,38 +3,15 @@ date: '2010-03-25T07:10:41-05:00'
 draft: false
 title: "A return to EverQuest?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/25/a-return-to-everquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Based on helpful comments and e-mails from yesterday's post about choosing a game in which to immerse myself for awhile. I've decided to go with..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-24-20-36-44-95-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-24-20-36-44-95-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-24-20-36-44-95-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-24-20-36-44-95-480x384.jpg"
 ---
+Based on helpful comments and e-mails from yesterday's post about choosing a game in which to immerse myself for awhile. I've decided to go with...
+<!--more-->
 
 Based on helpful comments and e-mails from yesterday's post about choosing a game in which to immerse myself for awhile. I've decided to go with EverQuest, but to also keep checking out EVE opportunities while I complete some long-term training goals, AND to try out Fallen Earth at some point! Because it's clear that my brief experience with FE in its early beta wasn't enough to get a good feel for the game.
 
@@ -43,8 +20,6 @@ The day before yesterday, on the bus home, I'd just had this feeling that I need
 Sometimes the universe can be hard to figure out, and sometimes it grabs you by the shoulders and pushes you where you need to be.
 
 Last night, I returned to EverQuest.
-
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-24-20-36-44-95-480x384.jpg" title="Exploring Lower Guk as a level 50 \"classic\" necromancer" class="align-center" >}}
 
 Dalanan was already online when I logged in, doing one of the three "classic" monster missions. The missions give you a level 50 character equipped with the absolute best gear a pre-expansion character could have, then send you off to one of the original EQ dungeons to hunt and kill and slay all the nameds. The team was about halfway through Sol B. I was added to the task and was required to hunt down Old Man McKenzie in the Plane of Knowledge and listen to him ramble on about how EQ was better when he was a kid, and they were GLAD to get a rusty sword as long as it wasn't TOO bent, etc. Walking uphill both ways through kobolds piled hip deep. You know how those old EQers get. Why, kids these days have it so easy, I oughtta.....
 
@@ -64,7 +39,7 @@ I used to know Lower Guk like the back of my hand, but it's been awhile; it took
 
 We returned to PoK. I was advised to turn on Lesson of the Devoted, the once-daily double experience buff, before turning the two dungeon tasks in. You can choose between money rewards, item rewards, or experience. I chose experience, and DING 72!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-24-22-01-00-10-480x384.jpg" title="Unspringing Clockworks in BEZA." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-24-22-01-00-10-480x384.jpg" title="Unspringing Clockworks in BEZA." classes="center" >}}
 
 A little about my character. When we started the Nostalgia experiment on Luclin, I transferred a couple of my characters to help out. My previous main, Brita the 75 cleric, went over, as did my FIRST main, Etha the 66 druid. Left behind was my favorite "main" of them all, Tipa -- the original Tipa, the first of my characters to bear that name -- a halflng rogue. I switched to cleric because rogues were too common and clerics too rare, and I wanted groups. But my heart was still with the rogue.
 

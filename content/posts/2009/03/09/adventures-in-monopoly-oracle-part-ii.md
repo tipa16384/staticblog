@@ -3,44 +3,20 @@ date: '2009-03-09T00:28:18-05:00'
 draft: false
 title: "Adventures in Monopoly: Oracle, Part II"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/09/adventures-in-monopoly-oracle-part-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last week, a magical Scrabble board intervened in a fight between Bear and Scottie before the wielding of the mystic forces each command could tear..."
+categories:
   - "Adventures in Monopoly"
   - "Comic"
   - "Humor"
+tags:
   - "Oracle"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/comic2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/comic2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/comic2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/comic2.jpg"
 ---
+Last week, a magical Scrabble board intervened in a fight between Bear and Scottie before the wielding of the mystic forces each command could tear...
+<!--more-->
 
 Last week, a magical Scrabble board intervened in a fight between Bear and Scottie before the wielding of the mystic forces each command could tear the Monopoly board entirely apart. Seeing they would not listen to reason, as a last resort, the Scrabble oracle sent the two pieces through a dimensional rift, where they would learn to work together -- or perish.
-
-![comic2](https://chasingdings.com/wp-content/uploads/2009/03/comic2.jpg "comic2")
 
 ---
 

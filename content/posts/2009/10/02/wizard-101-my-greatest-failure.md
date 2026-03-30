@@ -3,50 +3,27 @@ date: '2009-10-02T06:23:53-05:00'
 draft: false
 title: "Wizard 101: My greatest failure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/02/wizard-101-my-greatest-failure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's the Ides of Octember in Wizard City, Spooky Bob is on the prowl, and a mysterious dark tower has appeared where the previous dark..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-17-42-18.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-17-42-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-17-42-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-17-42-18.jpg"
 ---
+It's the Ides of Octember in Wizard City, Spooky Bob is on the prowl, and a mysterious dark tower has appeared where the previous dark...
+<!--more-->
 
-![The Mystical Tower of Fail](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-17-42-18.jpg "The Mystical Tower of Fail")
+
 
 It's the [Ides of Octember](http://books.google.com/books?id=zersWaUGvkUC&pg=PA53&lpg=PA53&dq=ides+of+octember&source=bl&ots=RF8cGUzppa&sig=cz6c-L9Wa8gvhhgHgln5c_kYJeQ&hl=en&ei=BtvFSpODOseV8AbWzJ1I&sa=X&oi=book_result&ct=result&resnum=2#v=onepage&q=ides%20of%20octember&f=false) in Wizard City, Spooky Bob is on the prowl, and a mysterious dark tower has appeared where the *previous* dark tower was, before it fell through Wizard City's basement to Nightside.
 
-[It was all harmless fun last year](https://chasingdings.com/index.php/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/)... until I found out the Pumpkin Head would (rarely) drop the mechanical spider that otherwise is only found (also rarely) at the end of the most tedious, lengthiest instance in the entire game, Kensington Park. So, half an hour vs four hours, right?
+[It was all harmless fun last year](https://tipa16384.github.io/wkblog/index.php/2008/10/13/w101-halloween-in-wizard-city-and-october-patch-notes/)... until I found out the Pumpkin Head would (rarely) drop the mechanical spider that otherwise is only found (also rarely) at the end of the most tedious, lengthiest instance in the entire game, Kensington Park. So, half an hour vs four hours, right?
 
 What could go wrong?
 
 Well, last year I completed this instance about forty times -- no mechanical spider. I even started an alt, Allison Goldtalon, to help because those fights weren't that easy and at the time, I was only in my thirties. Allison leveled up to her twenties helping me with this dark tower to get that rare spider pet. That was her PURPOSE.
 
-![Pumpkin Head](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-44-42-95.jpg "Pumpkin Head")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-01-23-44-42-95.jpg" title="Pumpkin Head" classes="center" >}}
 
 When Octember rolled through this year, I hoped that the tower would have gotten lost somewhere else as it wandered through the Spiral. But no, it found its way back. The site of my greatest failure.
 

@@ -3,38 +3,15 @@ date: '2020-09-29T07:49:04-05:00'
 draft: false
 title: "A Mystery Blogger asks: Which game would you kill? I laugh, and reply..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/29/a-mystery-blogger-asks-which-game-would-you-kill-i-laugh-and-reply/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Magi over at Indicator was tagged by a \"Mystery Blogger\", and like any good virus, he went on to infect at a \"R\" value of..."
+categories:
   - "Blaugust"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/photogrid_1476365612975.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/photogrid_1476365612975.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/photogrid_1476365612975.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/photogrid_1476365612975.jpg"
 ---
+Magi over at Indicator was tagged by a "Mystery Blogger", and like any good virus, he went on to infect at a "R" value of...
+<!--more-->
 
 [Magi over at Indicator](https://indiecator.home.blog/2020/09/27/mystery-blogger-award-nomination/) was tagged by a "Mystery Blogger", and like any good virus, he went on to infect at a "R" value of 10 other bloggers, including me. I know all this cool science virus fact stuff because we are in a pandemic. Yay for the learning.
 
@@ -42,7 +19,7 @@ The award was created by a blogger named "[Okoto Enigma](https://www.okotoenigma
 
 Magi chose five questions for his nominees, and this is the fun part...
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/taleoftwo-1-300x245.jpeg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/taleoftwo-1-300x245.jpeg" classes="center" >}}
 
 *You have to ban one game for eternity. This game shall never be played or watched again and nobody is allowed to talk about it. Which game do you pick?*
 
@@ -56,7 +33,7 @@ Prior to WoW, there was huge diversity in MMOs, largely because there wasn't a g
 
 From these first generation and second generation MMOs sprouted hundreds of new MMOs -- among them, EverQuest's bastard child, World of Warcraft.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/burning.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/burning.jpg" classes="center" >}}
 
 As any good baby god does, it ate its father. Most of the players and many of the developers went to WoW. As WoW's insatiable hunger grew, most other MMOs withered. It drew all the oxygen from the room.
 

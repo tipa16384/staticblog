@@ -3,39 +3,15 @@ date: '2015-02-12T04:04:30-05:00'
 draft: false
 title: "Weekly Foundry Quests -- February 11, 2015"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/02/12/weekly-foundry-quests-february-11-2015after-running-into-ian-darksword-entirely-by-accident-guard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After running into Ian Darksword entirely by accident (Guard Frinko will back me up on this!), he agreed to help us run through a few..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+After running into Ian Darksword entirely by accident (Guard Frinko will back me up on this!), he agreed to help us run through a few...
+<!--more-->
 
 After running into Ian Darksword entirely by accident (Guard Frinko will back me up on this!), he agreed to help us run through a few foundries this week. Bringing some much-needed insight into Forgotten Realms lore to our lore-less duo :)**
 

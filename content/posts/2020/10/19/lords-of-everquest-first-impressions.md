@@ -3,40 +3,18 @@ date: '2020-10-19T08:32:09-05:00'
 draft: false
 title: "Lords of EverQuest: First Impressions"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/19/lords-of-everquest-first-impressions/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I am not a Real Time Strategy gamer. I haven't played Warcraft, or Starcraft, or Dune or even Total Annihilation. So, I really have nothing..."
+categories:
   - "EverQuest"
   - "Real Time Strategy"
+tags:
   - "Lords of Everquest"
   - "RTS"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/1-Lords-2020-10-19-07-01-59-39.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/1-Lords-2020-10-19-07-01-59-39.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-Lords-2020-10-19-07-01-59-39.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-Lords-2020-10-19-07-01-59-39.jpg"
 ---
+I am not a Real Time Strategy gamer. I haven't played Warcraft, or Starcraft, or Dune or even Total Annihilation. So, I really have nothing...
+<!--more-->
 
 I am not a Real Time Strategy gamer. I haven't played Warcraft, or Starcraft, or Dune or even Total Annihilation. So, I really have nothing to which to compare Lords of EverQuest, a game developed by Rapid Eye Entertainment for SOE to tie into the MMO way back in the day.
 
@@ -48,13 +26,13 @@ GameFaqs has no strategy guide, and there are only three messages in their forum
 
 ...but not by me. I'd played the demo for the game when it came out, and though I am not an RTS gamer now, back in the day I also was not an RTS gamer and I understood this was not a game targeted to me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/eqrpg.jpg" title="My EQRPG campaign's unwilling subjects" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/eqrpg.jpg" title="My EQRPG campaign's unwilling subjects" classes="center" >}}
 
 A couple of years back, I ran an EverQuest RPG pencil-and-paper campaign based around Freeport and the Commonlands. For some reason, that reminded me of Lords of EverQuest, and I found a pretty reasonbly-priced and complete copy on eBay, bought it, played it for a minute, and put it aside.
 
 But, since I've been going back through games I bought but never played, I thought I'd give Lords of EverQuest another try. 
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/1-Lords-2020-10-19-07-04-55-44-1024x682.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/1-Lords-2020-10-19-07-04-55-44-1024x682.jpg" classes="center" >}}
 
 Lords of EverQuest is set in a time before the PC games, before Solusek Ro burnt the empire of the Takish-Hiz into the Desert of Ro, when Halflings had not yet built the walls around Riverdale, and when the Teir'Dal and the Koada'Dal -- the dark and the high elves -- could still find common cause and sometimes work together.
 
@@ -64,13 +42,13 @@ There are three different campaigns available -- the Shadowrealm, featuring dark
 
 Once you have chosen your campaign, you choose a named hero to lead your forces. These heroes have unique abilities and can power up friendly units near them. The campaign sets its difficulty based on your hero (or perhaps your hero is just more powerful). For my first playthrough, I chose Lady Tlak, a Teir'Dal rogue, who is a "medium"-strength hero of the Shadowrealm.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/1-Lords-2020-10-19-07-05-26-55-1024x682.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/1-Lords-2020-10-19-07-05-26-55-1024x682.jpg" classes="center" >}}
 
  After the first, introductory mission, subsequent missions start with you choosing what units to carry over from the previous mission. NPCs who joined you along the way will not be available, unfortunately. You're given points to spend on the units, and those points won't allow you to bring many units over.
 
 It is important to bring over what units you can, as they level up with experience (as does your lord), and once they reach level 6, they can become "knighted" and become more powerful units. Your units are thus not entirely expendable and you may find yourself needing to retreat at times rather than risk a high level unit.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/Lords-2020-10-19-07-53-07-12-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Lords-2020-10-19-07-53-07-12-1024x576.jpg" classes="center" >}}
 
 Once you've transferred what troops you can, you're brought to your base in the new map, where you're given the mission description and then left with a scattering of units and buildings.
 

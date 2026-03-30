@@ -3,40 +3,18 @@ date: '2025-07-07T08:00:00-05:00'
 draft: false
 title: "HeroQuest First Light: Second Adventure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/07/07/heroquest-first-light-second-adventure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The one where an elf dies and a wizard retires and we meet someone surprising."
-description: "The one where an elf dies and a wizard retires and we meet someone surprising."
-tags:
+categories:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
+tags:
   - "First Light"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5211-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5211-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5211-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5211-scaled.jpg"
 ---
+The one where an elf dies and a wizard retires and we meet someone surprising.
+<!--more-->
 
 I'm really like the new spin on things with the First Light starter box. All the same elements are there as in the original campaign box, but... better. The dungeon layouts are more innovative and there's a lot more strategizing going on.
 
@@ -48,7 +26,7 @@ Searching for Treasure (or as we call it, "Searching for Wandering Monsters") ha
 
 In this adventure, our stalwart crew is looking for evidence of the dark sorcerer Qwindrak. He's lurking about; our job is to unlurk him. His dungeon uses the game board's reverse side, made up of nicely paneled rooms so richly detailed, you'd think you were playing Clue.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/image-1-1024x807.png" title="Fighting... who?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/image-1-1024x807.png" title="Fighting... who?" classes="center" >}}
 
 The concept of the second quest is that this is a magical mansion with rooms linked by magical portals. We tramped down the stairs to find the first such portal in the first room. The portal had the demonic sigil for "7" scratched on it, and there were no other exits. We'd been told that to travel to another portal, we would have to say the number of our destination and then step through. Stepping through without saying a number has no effect. Stepping through and forgetting the number of the room you *really* wanted to go to is, well, part of the fun.
 

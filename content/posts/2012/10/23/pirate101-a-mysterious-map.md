@@ -3,40 +3,17 @@ date: '2012-10-23T06:58:46-05:00'
 draft: false
 title: "Pirate101: A Mysterious Map"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/23/pirate101-a-mysterious-map/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So I picked up my mail -- paper mail that comes in a box you open with a key in real life -- yesterday, and..."
+categories:
   - "MMORPG"
   - "Pirate101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/IMG_7463-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/IMG_7463-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/IMG_7463-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/IMG_7463-480x360.jpg"
 ---
+So I picked up my mail -- paper mail that comes in a box you open with a key in real life -- yesterday, and...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/IMG_7463-480x360.jpg" title="The Map to El Dorado" class="align-center" >}}
+
 
 So I picked up my mail -- paper mail that comes in a box you open with a key in real life -- yesterday, and was surprised to find a folded up bit of cardboard from KingsIsle that popped up into a map torn into seven parts and painstakingly re-assembled.
 
@@ -44,7 +21,7 @@ Given that I'm looking for pieces of the map, this same map, in game right now w
 
 Following the clues, I figured out the code, typed it in to the Pirate101 website, and got my reward:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-22-21-04-06-38.jpg" title="Ninja Pig companion!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-22-21-04-06-38.jpg" title="Ninja Pig companion!" classes="center" >}}
 
 A ninja pig? I had a "thing" for ninja pigs back in the day. I once built a wizard that used ninja pigs as main attacks, had a ninja pig pet and wore a ninja pig costume.
 
@@ -64,19 +41,19 @@ I don't know if they are all Swashbucklers, though. I really have enough swashbu
 
 Anyway, was planning on playing GW2 last night but had to take the pig out for some battles. I learned that the next world isn't El Dorado, and in fact that fabled city of gold may never be on the agenda. My next destination is the world of Valencia, in keeping with the Spanish theme of the game, I guess, and almost certainly full of puns about oranges.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-23-07-43-58-49-480x342.jpg" title="The Dona Sofia" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-23-07-43-58-49-480x342.jpg" title="The Dona Sofia" classes="center" >}}
 
 Since my current ship, bought on the docks of Puerto Mico, wouldn't be seaworthy enough to navigate the haunted realm of the Avernus Skyway and make it whole through the storms that shroud the Valencia stormgate, I was given the Dona Sophia, a light Monquistador skiff.
 
 I'd saved all my pieces of eight to buy the Scrimshaw galleon, but had been holding off on it because I'd heard there would be an equivalent ship given to me. I was able to transfer some gear from my old ship, and buy new gear at the Monquistador Ship Parts vendor in Puerto Mico... except for a new set of anchors. Couldn't buy one that fit in Puerto Mico. Couldn't find any that fit in Scrimshaw. Maybe they'll have a set in Monquista; I have to finish up the Tierra Primata sidequests before I head to the orchard, anyway.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-22-20-09-52-74-480x376.jpg" title="The origins of the Clockwork Armada" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-22-20-09-52-74-480x376.jpg" title="The origins of the Clockwork Armada" classes="center" >}}
 
 Captain Avery treated me to another puppet show cinematic describing the creation and rise of the clockwork soldiers and the terrifying Clockwork Armada, from which all Pirate101 players escape at the beginning of the game.
 
 I won't meet the Armada quite yet -- the route I'll be taking into Valencia is not guarded by the Armada -- but for the first time, the plot of the game is being told. I and all the other pirates must come together and form a fleet as powerful as the Clockwork Armada. And I will be shocked if I don't meet the Clockwork commander, Commander Kane, at some point.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-22-20-10-18-76-480x376.jpg" title="The Elite Court of Commander Kane" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-22-20-10-18-76-480x376.jpg" title="The Elite Court of Commander Kane" classes="center" >}}
 
 While on the forums last night, for the first time, I found the complete list (so far) of Pirate101 worlds. They are: Skull Island, Monquista, Valencia, Cool Ranch, and ... MooShu.
 

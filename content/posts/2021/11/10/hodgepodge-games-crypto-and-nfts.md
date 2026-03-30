@@ -3,44 +3,22 @@ date: '2021-11-10T23:52:22-05:00'
 draft: false
 title: "Hodgepodge: Games, Crypto and NFTs."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/11/10/hodgepodge-games-crypto-and-nfts/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't have anything long-form to talk about, but there's been a bunch of smaller things. So let's talk about those...."
+categories:
   - "Atari 2600"
   - "Blockchain"
   - "Crypto Game"
   - "Dragonereum"
+tags:
   - "Atari"
   - "Bitcoin"
   - "Coinbase"
   - "Ethereum"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/senile.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/11/senile.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/senile.png"
 ---
+I don't have anything long-form to talk about, but there's been a bunch of smaller things. So let's talk about those....
+<!--more-->
 
 I don't have anything long-form to talk about, but there's been a bunch of smaller things. So let's talk about those.
 
@@ -54,7 +32,7 @@ And in that time, I have seen *several* new coin issues come and go. They all do
 
 People don't understand. There is this weird belief a lot of people have that if a million people put a dollar into a particular coin, then they can each withdraw a million dollars, but that's not the case. The truth is that ten people will withdraw a hundred thousand dollars, and the other 999,990 people will be left holding nothing. Crypto is only worth as much as people believe they could convert into dollars (or your currency of choice), but the simple truth is that crypto only works if most of the people *never* withdraw their money, so that the rich people can take it from them instead. HODL indeed.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/image-1.png)](https://chasingdings.com/wp-content/uploads/2021/11/image-1.png)He looks so sad and lonely. I would buy him if I could afford him, but, with fees, he costs $1,000.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/image-1.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/image-1.png)He looks so sad and lonely. I would buy him if I could afford him, but, with fees, he costs $1,000.
 
 **Why crypto is stupid for games**
 
@@ -84,7 +62,7 @@ The effort here is to convince game developers to license the Atari Token for th
 
 Let's check in on the Atari token.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/image.png)](https://chasingdings.com/wp-content/uploads/2021/11/image.png)Atari token price
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/image.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/image.png)Atari token price
 
 It's not really doing too badly. It's going between 12-14 cents in US dollars. Atari is using a smart contract to record the transactions on the Ethereum block chain, but it's keeping the details of those transactions to itself. I couldn't see [any record of any actual amounts](https://etherscan.io/address/0xdacd69347de42babfaecd09dc88958378780fb62) in the smart contract, so I guess Atari is keeping the information about who owns what and how many to itself.
 

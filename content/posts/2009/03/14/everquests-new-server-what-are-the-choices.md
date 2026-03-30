@@ -3,44 +3,19 @@ date: '2009-03-14T08:27:45-05:00'
 draft: false
 title: "EverQuest's new server -- what are the choices?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/14/everquests-new-server-what-are-the-choices/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Way back in December, SOE mentioned offhandedly that they would be adding a NEW server to EverQuest -- the first since the two progression servers..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/eqgame-2009-03-14-08-52-56-71.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/eqgame-2009-03-14-08-52-56-71.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/eqgame-2009-03-14-08-52-56-71.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/eqgame-2009-03-14-08-52-56-71.jpg"
 ---
+Way back in December, SOE mentioned offhandedly that they would be adding a NEW server to EverQuest -- the first since the two progression servers...
+<!--more-->
 
-Way back in December, SOE mentioned offhandedly that they would be [adding a NEW server](https://chasingdings.com/index.php/2008/12/19/everquest-merging-servers-adding-new-server-in-2009/) to EverQuest -- the first since the [two progression servers](https://chasingdings.com/index.php/2006/06/21/progression-server-update/) from a couple of years ago.
+Way back in December, SOE mentioned offhandedly that they would be [adding a NEW server](https://tipa16384.github.io/wkblog/index.php/2008/12/19/everquest-merging-servers-adding-new-server-in-2009/) to EverQuest -- the first since the [two progression servers](https://tipa16384.github.io/wkblog/index.php/2006/06/21/progression-server-update/) from a couple of years ago.
 
-A couple of days ago, while writing about the "[Classic EQ Petition](https://chasingdings.com/index.php/2009/03/12/classic-eq-petition/)" that was going around, Egat mentioned in the comments that there was now a poll when you logged into EverQuest, putting it to the players what kind of server they wanted to see.
-
-![eqgame-2009-03-14-08-52-56-71](https://chasingdings.com/wp-content/uploads/2009/03/eqgame-2009-03-14-08-52-56-71.jpg "eqgame-2009-03-14-08-52-56-71")
+A couple of days ago, while writing about the "[Classic EQ Petition](https://tipa16384.github.io/wkblog/index.php/2009/03/12/classic-eq-petition/)" that was going around, Egat mentioned in the comments that there was now a poll when you logged into EverQuest, putting it to the players what kind of server they wanted to see.
 
 **New Progression Server -- Combine rules** -- The EQ devs acknowledged there were some issues with making only the appropriate content available at the correct times on the progression servers last time, and if they had a chance to do it again, they'd do it better, for a more classic experience. The Progression servers start with just the zones from the original game available. Then, as the players conquer the content -- killing Nagafen, Vox and Phinegal -- they open new expansions, in the order in which they are released, until they reach the current state of the game, after which they are treated like any normal "blue" server.
 

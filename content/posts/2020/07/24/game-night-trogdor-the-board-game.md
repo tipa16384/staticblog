@@ -3,41 +3,19 @@ date: '2020-07-24T11:42:24-05:00'
 draft: false
 title: "Game Night: Trogdor!! the Board Game"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/07/24/game-night-trogdor-the-board-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Trogdor! Trogdor! Trogdor was a man I mean, he was a dragon man Or maybe he was actually a board game But he was still..."
+categories:
   - "Game Night"
   - "Gloomhaven"
+tags:
   - "Jaws of the Lion"
   - "Thatched-Roof Cottages"
   - "Trogdor the Burninator"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1757-e1595591095851.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1757-e1595591095851.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1757-e1595591095851.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1757-e1595591095851.jpg"
 ---
+Trogdor! Trogdor! Trogdor was a man I mean, he was a dragon man Or maybe he was actually a board game But he was still...
+<!--more-->
 
 Trogdor!
 Trogdor!
@@ -46,7 +24,7 @@ I mean, he was a dragon man
 *Or maybe he was actually a board game*
 But he was still TROGDOR!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1749.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1749.jpg" classes="center" >}}
 
 Burninating the countryside,
 Burninating the peasants,
@@ -54,7 +32,7 @@ Burninating all the peoples
 And their thatched-roof cottages!
 THATCHED-ROOF COTTAGES!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1750.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1750.jpg" classes="center" >}}
 
 (Insert guitar solo)
 

@@ -3,40 +3,19 @@ date: '2009-10-03T13:53:19-05:00'
 draft: false
 title: "Wizard101: Questions about the new stuff? We have answers!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/03/wizard101-questions-about-the-new-stuff-we-have-answers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![You CAN destroy high level armor!](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93-480x383.jpg "You CAN destroy high level armor!")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-24-45-93.jpg)
 
 **Is it possible to sew the appearances of clothing that you can't wear because of school or level restrictions on to clothing you CAN wear?**
 
@@ -44,7 +23,7 @@ You bet! In the picture above, Alison has taken her Malistaire robe, her level 5
 
 Caution, folks: don't destroy your high level armor like this. Almost every high level clothing model is available on cheap, throwaway junk you can find for pennies in the Bazaar. So you can LOOK uber before you ARE uber without dipping into your bank to tear apart the good stuff you've been saving.
 
-[![Teleporters](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-31-04-40-480x384.jpg "Teleporters")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-31-04-40.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-31-04-40-480x384.jpg" title="Teleporters" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-31-04-40.jpg)
 
 **Hi! I don't believe that they put teleporters in Marleybone! Also, I LOVE Thundercats -- does this expansion have anything for me?**
 
@@ -52,13 +31,13 @@ I hate to be the one to tell you, but they do indeed have teleporters in Marleyb
 
 Thundercats fans should have a lot of fun with the lions and tigers available as mounts. Alison is riding a 7-day Proud Lion.
 
-[![Three imaginary friends!](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-34-37-72-480x360.jpg "Three imaginary friends!")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-34-37-72.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-34-37-72-480x360.jpg" title="Three imaginary friends!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-34-37-72.jpg)
 
 **Henchmen act like minions, and you can have only one minion at a time. Can you only then have one henchman at a time?**
 
 Nope, as the picture above shows, you can summon up to three other wizards to help you in your time of need. Summoning a storm wizard is much fun -- you can almost hear the little cries of frustration as they fizzle and fizzle.
 
-[![Two powerful imaginary friends!](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-42-10-52-480x360.jpg "Two powerful imaginary friends!")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-42-10-52.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-42-10-52-480x360.jpg" title="Two powerful imaginary friends!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-10-42-10-52.jpg)
 
 **But, can you only summon henchmen around your own level?**
 

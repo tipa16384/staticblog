@@ -3,40 +3,19 @@ date: '2014-12-24T03:07:48-05:00'
 draft: false
 title: "Valkyria Chronicles: How to Lie with the Truth"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/12/24/valkyria-chronicles-is-first-and-foremost-a-dishonest-game-it-tells-you-what-you-need-to-know-then/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
   - "Valkyria Chronicles"
-featured_image: "https://chasingdings.com/wp-content/uploads/2014/12/Valkyria-2014-12-23-19-44-09-69-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2014/12/Valkyria-2014-12-23-19-44-09-69-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/Valkyria-2014-12-23-19-44-09-69-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/Valkyria-2014-12-23-19-44-09-69-480x270.jpg"
 ---
+[...
+<!--more-->
 
-[![Valkyria Chronicles](https://chasingdings.com/wp-content/uploads/2014/12/Valkyria-2014-12-23-19-44-09-69-480x270.jpg)](https://chasingdings.com/wp-content/uploads/2014/12/Valkyria-2014-12-23-19-44-09-69.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2014/12/Valkyria-2014-12-23-19-44-09-69.jpg)
 
 Valkyria Chronicles is, first and foremost, a *dishonest* game. It tells you what you need to know, then piles on all sorts of extraneous information in each mission that you're mentally adding all sorts of secondary objectives that are not part of the mission.
 

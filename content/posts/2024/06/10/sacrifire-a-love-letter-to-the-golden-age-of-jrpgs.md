@@ -3,43 +3,21 @@ date: '2024-06-10T07:00:00-05:00'
 draft: false
 title: "SacriFire: A love letter to the golden age of JRPGS"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/06/10/sacrifire-a-love-letter-to-the-golden-age-of-jrpgs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Pixelated Milk's new game in development, SacriFire, dropped their open playtest this weekend. This is the first time that even the game's Kickstarter backers have..."
+categories:
   - "Action RPG"
   - "Kickstarter"
   - "Steam Games"
+tags:
   - "Jrpg"
   - "Sacrifire"
   - "Vagrant Story"
   - "Xenogears"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/1-Sacrifire-Screenshot-2024.06.09-13.15.40.32-scaled.jpg"
 ---
+Pixelated Milk's new game in development, SacriFire, dropped their open playtest this weekend. This is the first time that even the game's Kickstarter backers have...
+<!--more-->
 
 Pixelated Milk's new game in development, SacriFire, dropped their open playtest this weekend. This is the first time that even the game's Kickstarter backers have been able to play the game, and... this game isn't what I expected.
 
@@ -47,7 +25,7 @@ That's not a bad thing, at all. It's because in this golden age of JRPGs, I was 
 
 I didn't end up playing too many of the Xenogears, Vagrant Story, Ao no Kiseke style game; games that were more 3D than sprite and more combo than menu. I've been trying over the past few years to make up for my deficiency here, or... I could just play SacriFire.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/Sacrifire-Screenshot-2024.06.09-10.47.25.69-1024x429.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/Sacrifire-Screenshot-2024.06.09-10.47.25.69-1024x429.jpg" classes="center" >}}
 
 **The Story**
 
@@ -71,7 +49,7 @@ Some mobs, and all the bosses and minibosses I met in the play test, have the oc
 
 In the play test chapter, I only had to restart one battle, and that was the last one, but I was close to game over a few times. Thankfully, you can save at any time, and there is usually a checkpoint near a boss fight that refills your health.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/Sacrifire-Screenshot-2024.06.09-13.14.54.69-1024x429.jpg" title="Thank you for playing the SacriFire demo!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/Sacrifire-Screenshot-2024.06.09-13.14.54.69-1024x429.jpg" title="Thank you for playing the SacriFire demo!" classes="center" >}}
 
 **Character**
 
@@ -89,7 +67,7 @@ SacriFire comes with its own minigame that you can play with certain NPCs you co
 
 The score is by famed Dark Souls composer, Motoi Sakuraba, who turns in tunes epic and atmospheric, as needed. It is really incredible stuff, and having Sakuraba on the team shows just how serious Pixelated Milk is about developing a game for the ages.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/Sacrifire-Screenshot-2024.06.09-10.32.30.72-1024x429.jpg" title="Public Playtest" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/Sacrifire-Screenshot-2024.06.09-10.32.30.72-1024x429.jpg" title="Public Playtest" classes="center" >}}
 
 I did encounter some issues. One tutorial popup never seemed to want to go away. The graphical settings don't seem functional. I guess that's all I really noticed in my short time with the game. It took some time to figure out what was going on in some segments, but that's probably by intention. I will say that the final battle in the sample chapter seemed heavily informed by battles I have seen in Final Fantasy XIV, and I think someone who hasn't had that sort of experience might feel like they were missing something.
 

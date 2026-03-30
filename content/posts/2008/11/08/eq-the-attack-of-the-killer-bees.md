@@ -3,42 +3,20 @@ date: '2008-11-08T08:41:02-05:00'
 draft: false
 title: "EQ: The Attack of the Killer Bees"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/08/eq-the-attack-of-the-killer-bees/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The plan was to go to some experience hot zone last night for Nostalgia's weekly meet-up. But Mantis decided to just farm some of the..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Bastion of Thunder"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg"
 ---
+The plan was to go to some experience hot zone last night for Nostalgia's weekly meet-up. But Mantis decided to just farm some of the...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-07-22-07-08-71.jpg "eqgame-2008-11-07-22-07-08-71")
+
 
 The plan was to go to some experience hot zone last night for Nostalgia's weekly meet-up. But Mantis decided to just farm some of the giants in the Bastion of Thunder while waiting, and then I drifted over there -- again, just while waiting for everyone else to log in. Coldheat came over after a few and, while waiting, each of us with our bots to make a full group (ranger, enchanter, two clerics, two warriors), we cleared out the water wing, killed the wing boss (grats Coldheat on some nice Defiant shoulders), stepped on the teleport pad and found that the bees -- the Stormriders -- were uncamped!
 

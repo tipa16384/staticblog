@@ -3,56 +3,35 @@ date: '2023-08-28T07:00:00-05:00'
 draft: false
 title: "Retro World Expo Scorecard"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/28/retro-world-expo-scorecard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Retro World Expo has been defeated by us. Here's the games we ripped from its steaming corpse."
-description: "Retro World Expo has been defeated by us. Here's the games we ripped from its steaming corpse."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
   - "Pokemon"
+tags:
   - "Ogre Battle"
   - "Othello"
+  - "Pokemon"
   - "Powermonger"
   - "Retro World Expo"
   - "Sailor Moon"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/sailormoonpikachu.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/sailormoonpikachu.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/sailormoonpikachu.png"
 ---
+Retro World Expo has been defeated by us. Here's the games we ripped from its steaming corpse.
+<!--more-->
 
 I ran out of credits for Dall-E 2, so today's mutant images are courtesy of #Midjourney. If you're on the Team Spode Discord, you might see a new channel ;-)
 
-You doubtlessly remember [my post from a couple days ago](https://chasingdings.com/2023/08/24/staying-motivated-for-retro-world-expo-2023/) that had my shopping list for today's Retro World Expo. To recap, I was looking for PaRappa the Rapper, Um Jammer Lammy, FFXIII: Lightning Returns, and a stretch goal of a working Vectrex console system, circa 1982.
+You doubtlessly remember [my post from a couple days ago](https://tipa16384.github.io/wkblog/2023/08/24/staying-motivated-for-retro-world-expo-2023/) that had my shopping list for today's Retro World Expo. To recap, I was looking for PaRappa the Rapper, Um Jammer Lammy, FFXIII: Lightning Returns, and a stretch goal of a working Vectrex console system, circa 1982.
 
 Let's see how we did.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/rwe-booty-1024x768.jpg" title="The games we actually left with" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/rwe-booty-1024x768.jpg" title="The games we actually left with" classes="center" >}}
 
 Keen-eyed readers can't help but notice that I didn't buy -- at the expo -- *any* of the games on my list.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/rwe-parappa-150x150.jpg" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/rwe-parappa-150x150.jpg" classes="fig-20" >}}
 
 I did see two copies of PaRappa the Rapper, one (this one) at $230 and another at the eBay-approved price of $100. We also found the sequel, PaRappa the Rapper 2, for $60.
 
@@ -60,7 +39,7 @@ I was already kind of disinclined to buy this game at either of those prices bef
 
 I was really hoping to find Um Jammer Lammy, the rock-focused companion game to PtR, but no luck, and it is not available on the PlayStation Store. **Verdict:** Probably buying Um Jammer Lammy online, and PaRappa the Rapper digitally.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-56-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-56-150x150.png" classes="fig-20" >}}
 
 We saw many, many copies of Final Fantasy XIII and its first sequel, Final Fantasy XIII-2, but we found no copies at all of the second sequel, Lightning Returns. This game was almost universally panned, as the combat system was completely changed.
 
@@ -68,7 +47,7 @@ In FFXIII:LR, instead of using Paradigms to set how your group of three battles,
 
 Since we didn't find any copies of this game at the Expo, we went to used video game shops elsewhere afterward, and found *two* copies of the game for half the eBay price at Gamer XChange in Enfield. **Verdict: **crossed off the list.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/rwe-vectrex-2-150x150.jpg" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/rwe-vectrex-2-150x150.jpg" classes="fig-20" >}}
 
 The only Vectrex we found was not for sale. It was part of a retro video game console exhibit that had consoles from ancient to less ancient. They had an Odyssey and a bunch of others, including the Vectrex.
 
@@ -76,7 +55,7 @@ I was a little bit disappointed. When we got home, we watched a video that showe
 
 Okay, now for the games we *did* come away with.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/rwe-sailormoon-1024x759.jpg" title="美少女 戦士 セーラー ムーン" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/rwe-sailormoon-1024x759.jpg" title="美少女 戦士 セーラー ムーン" classes="center" >}}
 
 **Pretty Soldier Sailor Moon**
 
@@ -86,7 +65,7 @@ You alone or with another player take on the personas of one of Sailor Moon, Mar
 
 I only booted it up to this screen and haven't yet played it, but when that familiar music starts... I kinda wanted to play.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/rwe-othello-1024x770.jpg" title="Othello World" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/rwe-othello-1024x770.jpg" title="Othello World" classes="center" >}}
 
 **Othello World**
 
@@ -94,7 +73,7 @@ Although this game is in Japanese, it's easy enough to figure out how to play if
 
 It played black. As white, I used the perpendicular opening for safety. It flubbed a response to my attack on the top row and wasn't able to keep me from getting the first corner. With the upper right corner and the top row, I was able to march around the board using safe squares to demolish him. I was hoping for a better challenge. I need to translate it to see if I can use a higher setting.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/rwe-ogrebattle-1024x757.jpg" title="伝説のオウガバトル" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/rwe-ogrebattle-1024x757.jpg" title="伝説のオウガバトル" classes="center" >}}
 
 **Legend of Ogre Battle (Ogre Battle: March of the Black Queen in USA)**
 
@@ -102,7 +81,7 @@ I have this game, complete in box, in English, for the SNES already. I paid ~$17
 
 Ogre Battle: March of the Black Queen and Ogre Battle 64: Person of Lordly Virtue are real time tactics games. The other two entries in the series, Tactics Ogre: Let Us Cling Together and Tactics Ogre: The Knight of Lodis (where you play the story from the side of the villains of the previous entries) are tactical strategy games in the spirit of its cousin game, Final Fantasy Tactics, developed by the same team.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/rwe-powermonger-1.jpg" title="Powermonger" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/rwe-powermonger-1.jpg" title="Powermonger" classes="center" >}}
 
 **Power Monger ~The Demon General's Plot~**
 
@@ -114,7 +93,7 @@ Although the screen only shows a portion of the map, you can freely scroll throu
 
 Powermonger and the Sailor Moon game are Kasul's purchases; he also bought a GameBoy Advance collection of board games that I didn't boot up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-57-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-57-1024x576.png" classes="center" >}}
 
 **Pokemon Brilliant Diamond**
 

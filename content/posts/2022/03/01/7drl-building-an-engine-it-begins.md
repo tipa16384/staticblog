@@ -3,37 +3,14 @@ date: '2022-03-01T07:38:11-05:00'
 draft: false
 title: "7DRL: Building an Engine -- It Begins"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/01/7drl-building-an-engine-it-begins/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yesterday I mentioned a few things that were required to be part of any roguelike game engine. Today, I add two of them -- an..."
+categories:
   - "7DRL"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/mar01roguelikeintro.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/mar01roguelikeintro.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/mar01roguelikeintro.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/mar01roguelikeintro.jpg"
 ---
+Yesterday I mentioned a few things that were required to be part of any roguelike game engine. Today, I add two of them -- an...
+<!--more-->
 
 Yesterday I mentioned a few things that were *required* to be part of any roguelike game engine. Today, I add two of them -- an introduction, and a way for the player to be defeated.
 
@@ -45,7 +22,7 @@ When I start programming the game, I am going to start with these five things. T
 
 Maybe not *fun*, maybe not *complete*, but playable.
 
-![The Hartford - Wikipedia](https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/The_Hartford_Financial_Services_Group_logo.svg/1200px-The_Hartford_Financial_Services_Group_logo.svg.png)
+{{< image src="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/The_Hartford_Financial_Services_Group_logo.svg/1200px-The_Hartford_Financial_Services_Group_logo.svg.png" classes="center" >}}
 
 Every year, my company has a code-a-thon for all of its developers. We form into teams and then are given an application to write in about three hours. I've learned that those teams that score the best tend to have come into the challenge prepared, usually with a generic application already written upon which they can do the challenge. The organizers sometimes give hints about what the challenge might be -- the challenge might be to do data analysis using a cloud application built on AWS, for instance -- that provides a starting point.
 

@@ -3,39 +3,16 @@ date: '2008-03-16T07:32:17-05:00'
 draft: false
 title: "Now Reading... Born Standing Up, by Steve Martin"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/16/now-reading-born-standing-up-by-steve-martin/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "You might have noticed the new \"Now Reading\" section at the top of the sidebar. These are simply the books I'm reading right now. Some..."
+categories:
   - "General"
-featured_image: "http://ecx.images-amazon.com/images/I/41U9%2Bvy3OTL._AA240_.jpg"
-cover:
-  image: "http://ecx.images-amazon.com/images/I/41U9%2Bvy3OTL._AA240_.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://ecx.images-amazon.com/images/I/41U9%2Bvy3OTL._AA240_.jpg"
+thumbnailImage: "http://ecx.images-amazon.com/images/I/41U9%2Bvy3OTL._AA240_.jpg"
 ---
+You might have noticed the new "Now Reading" section at the top of the sidebar. These are simply the books I'm reading right now. Some...
+<!--more-->
 
-![Born Standing Up by Steve Martin](http://ecx.images-amazon.com/images/I/41U9%2Bvy3OTL._AA240_.jpg)
+
 
 You might have noticed the new "Now Reading" section at the top of the sidebar. These are simply the books I'm reading right now. Some of them are new, some old, some are free, some are eBooks. As i finish them, I'll take a moment to talk about them here.
 

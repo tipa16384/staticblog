@@ -3,41 +3,19 @@ date: '2020-12-05T10:59:48-05:00'
 draft: false
 title: "Assassin's Creed Valhalla: My First Creed (no spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/12/05/assassins-creed-valhalla-my-first-creed-no-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I came into this series cold: I haven't played more than a couple hours of any Assassin's Creed game. One, I played a portion of..."
+categories:
   - "Open World RPG"
   - "PS5"
+tags:
   - "PSX"
   - "RPG"
   - "Valhalla"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/Assassins-Creed®-Valhalla_20201117070244-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/12/Assassins-Creed®-Valhalla_20201117070244-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201117070244-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201117070244-scaled.jpg"
 ---
+I came into this series cold: I haven't played more than a couple hours of any Assassin's Creed game. One, I played a portion of...
+<!--more-->
 
 I came into this series cold: I haven't played more than a couple hours of any Assassin's Creed game. One, I played a portion of the tutorial of when I was seeing if PlayStation Now, Sony's game streaming service, would work with my connection (no). The other, Black Flag, I played until they went back to the "real world" for the first time -- also another game I got free somehow. So, I can't compare this to other Assassin's Creed games.
 
@@ -45,7 +23,7 @@ I can definitely compare it to other open world RPGs I've played recently. At ti
 
 All screenshots taken from the game played on the PlayStation 5.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Assassins-Creed®-Valhalla_20201201224716-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201201224716-1024x576.jpg" classes="center" >}}
 
 ## Setting
 
@@ -61,7 +39,7 @@ The reality is different. The Saxon natives are by no means primitive, and were 
 
 In this game, the Saxons have been infiltrated by "The Order of Ancients", a secret cabal that has unearthed Isu technology and is using it to gain control of all England (and all the world) from the shadows. Against them are "The Hidden Ones", whose mission statement is less clear, but nonetheless entangle an always skeptical Eivor in their machinations. While Eivor is mostly concerned with securing their clan a permanent home in Mercia, they will at times find themselves fighting against one or another of these secret societies.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Assassins-Creed®-Valhalla_20201125112651-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201125112651-1024x576.jpg" classes="center" >}}
 
 ## Eivor
 
@@ -73,7 +51,7 @@ You can choose to play as male or female Eivor. If you let the game choose, you 
 
 To Eivor and all the Scandinavian invaders, the religion of the Norse is every bit as real and vital as the Christianity of the natives. Dying in battle, with axe in hand, is a mark of a life well fought. Your word, once given, is sacrosanct (unless given to a Christian, where things can be more fluid). Your clan is everything.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Assassins-Creed®-Valhalla_20201128145238-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201128145238-1024x576.jpg" classes="center" >}}
 
 ## The Gameplay
 
@@ -87,7 +65,7 @@ Aside from completing quests, the following options are available:
 
 The actual experience of playing the game is nearly identical to that of Ghost of Tsushima or Red Dead Redemption. You find a high point in an area, go to it to add icons to your map, travel to those start a little story or fight someone or solve a puzzle for treasure. It was SO much like other similar games that I was saying to myself as I played, "hey, I remember this from Tomb Raider", or, "If Sakai were here, he'd just have gotten an achievement", or, "Arthur Morgan would have liked it here". So if you liked those other games, you'll probably like this one, too.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Assassins-Creed®-Valhalla_20201204175152-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201204175152-1024x576.jpg" classes="center" >}}
 
 ## Game Length
 
@@ -101,7 +79,7 @@ Valhalla is by far the longest open world RPG I have played. I spent longer on O
 
 Since each questline is its own mini-game, the time went by fairly quickly. I'd do a region a night, two on weekends, and enjoyed the self-contained, bite-sized bits of content. If I only had an hour or two, I could spend that tomb raiding. If the game had had your avatar become Lara Croft during the Treasures of Britain runs, I wouldn't have noticed and it would have been entirely appropriate. There was one in particular that seemed to have been taken entirely, with only minor changes, from Rise of the Tomb Raider.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Assassins-Creed®-Valhalla_20201120202024-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201120202024-1024x576.jpg" classes="center" >}}
 
 ## Final Thoughts
 

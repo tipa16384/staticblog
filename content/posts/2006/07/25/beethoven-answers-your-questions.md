@@ -3,39 +3,18 @@ date: '2006-07-25T16:04:13-05:00'
 draft: false
 title: "Beethoven Answers Your Questions"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/25/beethoven-answers-your-questions/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Today, regular correspondent and composer Ludwig von Beethoven answers your questions about his famous Ninth Symphony...."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/07/story.beethoven.ap.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/07/story.beethoven.ap.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/07/story.beethoven.ap.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/07/story.beethoven.ap.jpg"
 ---
+Today, regular correspondent and composer Ludwig von Beethoven answers your questions about his famous Ninth Symphony....
+<!--more-->
 
-![Beethoven](https://chasingdings.com/wp-content/uploads/2006/07/story.beethoven.ap.jpg)*Today, regular correspondent and composer Ludwig von Beethoven answers your questions about his famous Ninth Symphony.*
+
+
+*Today, regular correspondent and composer Ludwig von Beethoven answers your questions about his famous Ninth Symphony.*
 
 **When and where did you premiere your ninth symphony?**
 

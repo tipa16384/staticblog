@@ -3,61 +3,39 @@ date: '2020-09-14T07:21:32-05:00'
 draft: false
 title: "Banner of the Maid: The Fall of the Monarchy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/14/banner-of-the-maid-the-fall-of-the-monarchy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Queen Antoinette, one of the famed Maids of France, was no longer able to hold back the tides of populism in Revolutionary France. While Pauline..."
+categories:
   - "Nintendo Switch"
   - "Switch"
+tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217123000-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 ---
+Queen Antoinette, one of the famed Maids of France, was no longer able to hold back the tides of populism in Revolutionary France. While Pauline...
+<!--more-->
 
 Queen Antoinette, one of the famed Maids of France, was no longer able to hold back the tides of populism in Revolutionary France. While Pauline Bonaparte, with the help of her brother Napoleon, struggled to free Italy from the horrors of an Austrian invasion, things were falling apart back home.
 
 Welcome to the post-Revolutionary world. The Monarchist faction, led by the remaining nobles in exile and General Rose, have taken to the hills and have formed an "enemy of my enemy is my friend" relationship with the Austrian invaders. Pauline's war has expanded now to two fronts.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020091216305300-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091216305300-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 The populists, led by Maximilien Robespierre, continually seek new heads for their shiny new guillotine, recently redesigned by King Louis XVI himself, in a dramatic stroke of irony.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020091217120600-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091217120600-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 Like populists everywhere, they are all about the purity tests to root out the monarchists in their midst. Pauline is forced to return to Paris and defend the Malmaison Society by stirring the crowds with a rousing speech. Instructed by the news of the present day, I had Pauline lean hard into conspiracy theory and xenophobia, and the crowd howled for blood -- but not *Pauline's *blood.
 
 Cleared of suspicion once more, Pauline returned to the field, where she was sent against forces lead by the monarchist General Rose. One of Pauline's commanders, Ernestine, was able to convince her brother Phillip to leave the monarchist army and join Pauline's. He was only in it for the lulz anyway. Pauline pleaded with Rose to do the same, but though she was willing to talk, she decided the time was not right and slipped away with the tattered remnants of her army.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020091313221700-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091313221700-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 We found out that England has been financing the Austrian invasion of Italy to keep France's eyes out of the English Channel. From the first mission, England has always been France's true enemy. And now with a war on two fronts and revolution at home, England is poised to strike.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020091314010800-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091314010800-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 In more unwelcome news, we learned from his sister confirmation that General Desaix did pass away from his wounds. He sent his sister along, a Maid with the power to see into people's memories, to help continue the fight.
 

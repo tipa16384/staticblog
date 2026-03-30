@@ -3,38 +3,16 @@ date: '2020-05-21T11:48:21-05:00'
 draft: false
 title: "My Witcher"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/21/my-witcher/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "EverQuest was down all yesterday, so I didn't have a chance to continue my doomed quest to finish my SK's bone mail armor. But that..."
+categories:
   - "Steam Games"
+tags:
   - "The Witcher"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-witcher3-2020-05-21-07-30-46-83.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-witcher3-2020-05-21-07-30-46-83.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-witcher3-2020-05-21-07-30-46-83.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-witcher3-2020-05-21-07-30-46-83.jpg"
 ---
+EverQuest was down all yesterday, so I didn't have a chance to continue my doomed quest to finish my SK's bone mail armor. But that...
+<!--more-->
 
 EverQuest was down all yesterday, so I didn't have a chance to continue my doomed quest to finish my SK's bone mail armor. But that was fine -- I had the Witcher waiting for me.
 

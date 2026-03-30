@@ -3,44 +3,22 @@ date: '2008-11-03T08:59:26-05:00'
 draft: false
 title: "LittleBigPlanet: Dippy Birds and Rocket Sleds"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/03/littlebigplanet-dippy-birds-and-rocket-sleds/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I got frustrated trying to make my fire beetles for my Befallen Level 0 -- Commonlands level. They are supposed to be hard to kill..."
+categories:
   - "Littlebigplanet"
   - "Other Games"
+tags:
   - "Dippy Birds"
   - "Jurassic Park"
   - "Rocket Sled"
   - "Tanglewood Labs"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/stp61427.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/stp61427.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61427.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61427.jpg"
 ---
+I got frustrated trying to make my fire beetles for my Befallen Level 0 -- Commonlands level. They are supposed to be hard to kill...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/stp61427.jpg "stp61427")
+
 
 I got frustrated trying to make my fire beetles for my Befallen Level 0 -- Commonlands level. They are supposed to be hard to kill unless they open their wings, exposing the insta-kill button beneath. Coordinating the wings, having the switch be protected until they are open, moving the beetle around, etc. These are hard problems.
 
@@ -50,7 +28,7 @@ I could just imagine a level built around them. Sometimes you're above the trees
 
 It didn't take long to bring one to life, and climbing around on them was everything I thought it would be. Now I have to make dippy birds of different sizes -- mine doesn't scale down well -- that do different things. Like breathe fire at you.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/stp61428.jpg "stp61428")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/stp61428.jpg" title="stp61428" classes="center" >}}
 
 Tanglewood Labs, my private level where I develop stuff, is getting a little spread out, so I made a rocket car to get through it faster. Grab the red cushion to jet to the right, the green to jet to the left. Best thing? Get up to speed, and then jump off. You'll go running through the level like the Flash. Which is something ELSE I can put into a level. A place you can only get to by running real fast, by jumping off a rocket sled :)
 

@@ -3,42 +3,20 @@ date: '2023-08-26T07:00:00-05:00'
 draft: false
 title: "Quick Take: Death's Door"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/26/quick-take-deaths-door/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "You're a Reaper, a crow searching for souls to power the whole soul-taking operation in his souls-like with a sense of humor."
-description: "You're a Reaper, a crow searching for souls to power the whole soul-taking operation in his souls-like with a sense of humor."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
   - "Quick Takes"
+tags:
   - "Crow"
   - "Reaper"
   - "Souls-Like"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/snapedit_1693017882163.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/snapedit_1693017882163.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/snapedit_1693017882163.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/snapedit_1693017882163.png"
 ---
+You're a Reaper, a crow searching for souls to power the whole soul-taking operation in his souls-like with a sense of humor.
+<!--more-->
 
 Death's Door was a free offering for PlayStation Plus, and I went in knowing almost nothing about it. I knew it involved crows. I *didn't* know it was a souls-like.
 
@@ -46,7 +24,7 @@ The setup: You're a Reaper, a crow who works in a shadowy, monochrome office set
 
 It's an eternal circle. Luckily, the Reapers are immortal... as long as they do not have an open door. Once opened, the crows are mortal, can die (a lot), can age... all those bad things. Good Reapers open the door, get their soul, and come right back.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/1-Deaths-Door_20230825212228.jpg" title="A well-armed Reaper has no fear of rain" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/1-Deaths-Door_20230825212228.jpg" title="A well-armed Reaper has no fear of rain" classes="center" >}}
 
 Things go south when our hero crow kills a monster that contains a giant soul, only to be conked on the head and have their treasure stolen.
 
@@ -56,7 +34,7 @@ All souls-like share certain similarities. First, souls -- which can be called b
 
 Health doesn't regenerate on its own; it regenerates when you rest at a campsite of some sort. Death's Door has flower pots in which you grow seeds that you find. There's a limit to how many seeds you can grow, so players who are decent at dodging and rolling might want to save them. You can also restore your health by taking a door back to the office.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/Deaths-Door_20230825212356-1024x576.jpg" title="You will meet strange allies." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/Deaths-Door_20230825212356-1024x576.jpg" title="You will meet strange allies." classes="center" >}}
 
 Magic regenerates when you hit something. That something can be a critter; it can be a box; it can be a flower. It's the hitting that does it.
 

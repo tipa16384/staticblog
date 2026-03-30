@@ -3,37 +3,12 @@ date: '2006-04-28T00:00:00-05:00'
 draft: false
 title: "So, I guess that was news..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/04/28/so-i-guess-that-was-news/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I have been thinking all day about that theory that states that humanity faces a crisis within the next two hundred years, based on the..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I have been thinking all day about that theory that states that humanity faces a crisis within the next two hundred years, based on the...
+<!--more-->
 
 I have been thinking all day about that theory that states that humanity faces a crisis within the next two hundred years, based on the sheer improbability of us being born in such a time of change, with all the millions of relatively stable years behind us and, if there is no catastrophe awaiting us, the millions of stable years ahead. I'd love to remember where I read that; it sounds Greg Egan-ish. I remember thinking it was silly when I first read it. That every year in every age was a time of great change, but the perspective of history makes it look stabler than it was.
 

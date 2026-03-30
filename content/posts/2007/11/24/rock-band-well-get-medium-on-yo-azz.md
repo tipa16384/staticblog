@@ -3,39 +3,16 @@ date: '2007-11-24T23:33:06-05:00'
 draft: false
 title: "Rock Band: We'll get medium on yo azz."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/24/rock-band-well-get-medium-on-yo-azz/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yeah, we're turning it up to ten and a half...."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/buzzkillaz.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/buzzkillaz.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/buzzkillaz.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/buzzkillaz.jpg"
 ---
+Yeah, we're turning it up to ten and a half....
+<!--more-->
 
-![buzzkillaz](https://chasingdings.com/wp-content/uploads/2007/11/buzzkillaz.jpg)
+
 
 Yeah, we're turning it up to ten and a half.
 

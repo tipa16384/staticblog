@@ -3,50 +3,27 @@ date: '2006-11-13T14:51:15-05:00'
 draft: false
 title: "EQ2: Is your Fae a SPACE ALIEN?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/13/eq2-is-your-fae-a-space-alien/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Recent reports from the newly discovered Tower of Zet in the Lesser Faydark tell of strange writings which uncover an ALIEN PLOT to PUT ALIENS..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/batboy.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/11/batboy.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/batboy.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/batboy.jpg"
 ---
+Recent reports from the newly discovered Tower of Zet in the Lesser Faydark tell of strange writings which uncover an ALIEN PLOT to PUT ALIENS...
+<!--more-->
 
-![batboy.jpg](https://chasingdings.com/wp-content/uploads/2006/11/batboy.jpg)
+
 
 Recent reports from the newly discovered Tower of Zet in the Lesser Faydark tell of strange writings which uncover an ALIEN PLOT to PUT ALIENS IN FAE BODIES!
 
-![mothership.jpg](https://chasingdings.com/wp-content/uploads/2006/11/mothership.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/mothership.jpg" classes="center" >}}
 
 These SPACE ALIENS would then level up like ANY OTHER FAE, with the goal of TAKING CONTROL of a DRAGON and then RAINING DESTRUCTION ACROSS NORRATH!
 
-![ladymilika.jpg](https://chasingdings.com/wp-content/uploads/2006/11/ladymilika.jpg)Surely the Fae leaders are already aware of this threat and are dealing with it? Fae Royal Defense Minister, speaking on behalf of Gnomeland Security, today claimed that there couldn't possibly be a threat because the Queen would already have dealt with it.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/ladymilika.jpg" classes="fig-20" >}}Surely the Fae leaders are already aware of this threat and are dealing with it? Fae Royal Defense Minister, speaking on behalf of Gnomeland Security, today claimed that there couldn't possibly be a threat because the Queen would already have dealt with it.
 
-![queenamree.jpg](https://chasingdings.com/wp-content/uploads/2006/11/queenamree.jpg)But where is the queen? Queen Amree has not been seen in public for more than six years. This file photo of her in happier times -- what many are calling Pre-Outsider times -- are all we have of her, aside from the regular notices bearing her name from the Ministry of Public Information.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/queenamree.jpg" classes="fig-20" >}}But where is the queen? Queen Amree has not been seen in public for more than six years. This file photo of her in happier times -- what many are calling Pre-Outsider times -- are all we have of her, aside from the regular notices bearing her name from the Ministry of Public Information.
 
 **How do you know if your neighbor is a SPACE ALIEN?**
 

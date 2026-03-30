@@ -3,45 +3,23 @@ date: '2010-08-27T20:21:55-05:00'
 draft: false
 title: "Star Trek Online: Featured episodes start TOMORROW"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/27/star-trek-online-featured-episodes-start-tomorrow/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Cryptic starts their new weekly episode tomorrow, with \"Cold Call\". I'm pretty excited to see what they've come up with! I'm not sure any subscription..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Cold Call"
   - "Defera"
   - "Deferi"
   - "Featured Episodes"
   - "Surah"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-27-21-14-32-18.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-27-21-14-32-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-27-21-14-32-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-27-21-14-32-18.jpg"
 ---
+Cryptic starts their new weekly episode tomorrow, with "Cold Call". I'm pretty excited to see what they've come up with! I'm not sure any subscription...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-27-21-14-32-18.jpg "GameClient 2010-08-27 21-14-32-18")
+
 
 Cryptic starts their new weekly episode tomorrow, with "Cold Call". I'm pretty excited to see what they've come up with! I'm not sure any subscription MMO has ever done weekly content updates before.
 

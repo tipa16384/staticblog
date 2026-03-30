@@ -3,40 +3,18 @@ date: '2022-11-07T07:42:30-05:00'
 draft: false
 title: "Black Adam: No Spoiler Review"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/11/07/black-adam-no-spoiler-review/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Black Adam has to do a lot of heavy lifting for one movie, so it brings along some friends, in the form of the Justice..."
+categories:
   - "Review"
+tags:
   - "Black Adam"
   - "Dwayne Johnson"
   - "The Justice Society"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/11/img.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/11/img.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/img.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/img.png"
 ---
+Black Adam has to do a lot of heavy lifting for one movie, so it brings along some friends, in the form of the Justice...
+<!--more-->
 
 Black Adam has to do a lot of heavy lifting for one movie, so it brings along some friends, in the form of the Justice Society, to help out. At the end, I think I'd have rather seen a Justice Society movie.
 

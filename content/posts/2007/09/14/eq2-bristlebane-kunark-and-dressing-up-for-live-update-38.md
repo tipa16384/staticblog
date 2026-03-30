@@ -3,40 +3,17 @@ date: '2007-09-14T11:16:01-05:00'
 draft: false
 title: "EQ2: Bristlebane, Kunark, and Dressing up for Live Update 38"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/09/14/eq2-bristlebane-kunark-and-dressing-up-for-live-update-38/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Everquest 2 still astounds me sometimes with amazing scenes. This shot is a boarding party from Kunark trying to take on my ship with me..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/09/dinaboat2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/09/dinaboat2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/dinaboat2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/dinaboat2.jpg"
 ---
+Everquest 2 still astounds me sometimes with amazing scenes. This shot is a boarding party from Kunark trying to take on my ship with me...
+<!--more-->
 
-![dinaboat2.jpg](https://chasingdings.com/wp-content/uploads/2007/09/dinaboat2.jpg)
+
 
 Everquest 2 still astounds me sometimes with amazing scenes. This shot is a boarding party from Kunark trying to take on my ship with me as its lone defender (after the ship's usual defenders fall in the first seconds of the battle).
 
@@ -48,7 +25,7 @@ In line with the projected level range for Kunark, you should be 65 or over to t
 
 Â
 
-![dinashrine.jpg](https://chasingdings.com/wp-content/uploads/2007/09/dinashrine.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/dinashrine.jpg" classes="center" >}}
 
 Â
 
@@ -60,13 +37,13 @@ Now that we can change our appearance, I hope to see a lot more 'role-playing' c
 
 Bristlebane's altar is against the wall behind Dina. Our loveable bard has given up Rallos Zek for the god of mischief, jokes and halflings. I've only finished the first two quests, but the entire chain seems soloable, though it would be a good idea to do it with a druid because it involves a fair amount of travel.
 
-![verdel.jpg](https://chasingdings.com/wp-content/uploads/2007/09/verdel.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/verdel.jpg" classes="center" >}}
 
 Luckily, I happen to have a druid right here in my pocket :) Dear old Verd is now also a follower of Bristlebane. He is wearing one of the custom outfits I made while leveling tailoring; so instead of looking like a half-pint with a leather fetish, he looks like someone who sleeps in the only clothes he owns.
 
 But he's so cute :)
 
-![dorahforge.jpg](https://chasingdings.com/wp-content/uploads/2007/09/dorahforge.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/dorahforge.jpg" classes="center" >}}
 
 Dorah won the right to buy and wear the Ceremonial Coalition Forge outfit by virtue of building high faction with the Coalition of Tradesfolk by doing approximately one zillion and three jewelcraft writs. She couldn't WEAR the clothes because they were statless.
 

@@ -3,37 +3,14 @@ date: '2022-02-13T19:58:14-05:00'
 draft: false
 title: "7DRL: Building an Engine -- A Room"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/02/13/7drl-building-an-engine-a-room/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The annual 7DRL -- 7 Day Rogue-Like -- game hackathon is next month. I did this a really long time ago, but I didn't know..."
+categories:
   - "7DRL"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/7drlengine1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/02/7drlengine1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/7drlengine1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/7drlengine1.jpg"
 ---
+The annual 7DRL -- 7 Day Rogue-Like -- game hackathon is next month. I did this a really long time ago, but I didn't know...
+<!--more-->
 
 The annual 7DRL -- 7 Day Rogue-Like -- game hackathon is next month. I did this a really long time ago, but I didn't know at that time that I could start the competition with a game engine already programmed. By the time I finished the engine, I only had a day left to build some sort of game on it. This time, I'm building the engine ahead of time.
 
@@ -43,7 +20,7 @@ I looked at them. They were really, really good. Some of them would work right i
 
 But I am not going to use any of them. For Advent of Code, I wrote a basic isometric tile system and animation system to support the visualization of one of the puzzles, and I intend to build that out to an actual, if probably very basic, game engine.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/02/puzzle23_0-1024x867.png)](https://chasingdings.com/wp-content/uploads/2022/02/puzzle23_0.png)Rotating a room
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/02/puzzle23_0-1024x867.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/02/puzzle23_0.png)Rotating a room
 
 I intend, in the game, to only display one room at a time, with the isometric view. Final Fantasy Tactics Advance characters are standing in for whatever characters I will use in the actual game -- my AoC visualization used them, so I have already formatted and animated their sprites.
 

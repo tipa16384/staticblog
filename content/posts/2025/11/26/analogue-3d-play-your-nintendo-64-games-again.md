@@ -3,42 +3,20 @@ date: '2025-11-26T14:22:58-05:00'
 draft: false
 title: "Analogue 3D: Play your Nintendo 64 games again"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/11/26/analogue-3d-play-your-nintendo-64-games-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Analogue's latest retro console hardware emulator is a godsend for N64 afficionados, and almost nothing for anyone else."
-description: "Analogue's latest retro console hardware emulator is a godsend for N64 afficionados, and almost nothing for anyone else."
-tags:
+categories:
   - "Nintendo 64"
+tags:
   - "Analogue"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5508-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5508-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5508-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5508-scaled.jpg"
 ---
+Analogue's latest retro console hardware emulator is a godsend for N64 afficionados, and almost nothing for anyone else.
+<!--more-->
 
 You have to really love your Nintendo 64 games to spend $250 to play them on modern monitors. Or just have too much money and need to get rid of some of it on something that will only give you a little bit of joy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5524-1-200x300.jpg" title="My collection" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5524-1-200x300.jpg" title="My collection" classes="fig-20" >}}
 
 Ya know, I really liked Beetle Adventure Racing and Ogre Battle: Person of Lordly Caliber. I played *both* those games just recently on my *actual* Nintendo 64 that I still have from the 90s, with the S-Video connectors feeding into an S-Video to HDMI converter to a HDMI to USB converter so that I could stream it through OBS and take screenshots and stuff.
 
@@ -72,29 +50,29 @@ Paper Mario is arguably a 2D game :-)
 
 Here's how the games look when captured by my iPhone. More on each of them when I can take screenshots. Past this gallery are the system specs, gleaned from their website.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5510-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5510-1024x576.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5511-1024x682.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5511-1024x682.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5512-1024x682.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5512-1024x682.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5514-1024x683.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5514-1024x683.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5516-1024x682.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5516-1024x682.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5517-1024x682.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5517-1024x682.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5518-1024x682.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5518-1024x682.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5519-1024x682.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5519-1024x682.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5520-1024x708.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5520-1024x708.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5521-1024x682.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5521-1024x682.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5522-1024x682.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5522-1024x682.jpg" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5509-1024x768.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5509-1024x768.jpg" classes="center" >}}
 
 **System Type:**
 • FPGA-based hardware recreation of the Nintendo 64 (no emulation)

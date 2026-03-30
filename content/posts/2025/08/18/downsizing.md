@@ -3,41 +3,19 @@ date: '2025-08-18T08:37:34-05:00'
 draft: false
 title: "Downsizing!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/18/downsizing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Can I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards?"
-description: "Can I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards?"
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
+tags:
   - "Pi 5"
   - "Raspberry Pi"
   - "Raspbian"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/1-Photos-1-001-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/1-Photos-1-001-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/1-Photos-1-001-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/1-Photos-1-001-scaled.jpg"
 ---
+Can I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards?
+<!--more-->
 
 Could I replace an aging desktop computer with a Raspberry Pi the size of a deck of cards? *Should* I?
 
@@ -61,7 +39,7 @@ Plus, I already had a Raspberry Pi. I think it was a 'B'? I bought it years ago 
 
 I considered reformatting the old Pi to the Debian Linux-based Raspbian OS, which comes with the PIXEL desktop environment, but... Raspberry Pis are fairly inexpensive, so I opted to go instead for the latest one, version 5. I got the clip-on fan with it in case it got too hot with all that extreme browsing I was planning to do.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-40.png" title="Raspberry Pi 5" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-40.png" title="Raspberry Pi 5" classes="center" >}}
 
 I didn't get the one with the 16GB of memory, because why would you need that much memory? This was a mistake. If you're looking into doing what I've done, *go for the extra memory*. You'll thank me.
 
@@ -77,7 +55,7 @@ Yeah, it wasn't that easy. There being so many Pi revisions, it was hard to find
 
 Installing Raspbian on the SD card requires another computer, but it's pretty easy and they walk you through the utility that sets it all up for you. Once done, attach all the connectors, *et voila*!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-41.png" title="Raspbian" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-41.png" title="Raspbian" classes="center" >}}
 
 Desktop operating systems have standardized over the years. This isn't Windows or Mac O/S, but anyone who's used those others would instantly feel at home here. Almost none of your Windows or Mac programs are available, but there are usually reasonable alternatives, easily installed via the Pi-Apps utility.
 

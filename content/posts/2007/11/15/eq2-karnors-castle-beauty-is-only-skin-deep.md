@@ -3,40 +3,17 @@ date: '2007-11-15T08:06:57-05:00'
 draft: false
 title: "EQ2: Karnor's Castle -- Beauty IS only skin deep."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/15/eq2-karnors-castle-beauty-is-only-skin-deep/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I have great and fond memories of Karnor's Castle from EQ1. The experience was decent for its level. Loot was plentiful. And the place was..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-02-23-05-36-69.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-02-23-05-36-69.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-02-23-05-36-69.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-02-23-05-36-69.jpg"
 ---
+I have great and fond memories of Karnor's Castle from EQ1. The experience was decent for its level. Loot was plentiful. And the place was...
+<!--more-->
 
-![EQ2 Karnor’s Castle entrance](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-02-23-05-36-69.jpg)
+
 
 I have great and fond memories of Karnor's Castle from EQ1. The experience was decent for its level. Loot was plentiful. And the place was absolutely, friggin' HUGE. There was really no better place to be for levels 49-54, and if you weren't hunting there at those levels, you were waiting for a spot in a group there.
 
@@ -46,7 +23,7 @@ It's this sort of place for good xp, good loot and moderate risk that really dri
 
 Unfortunately, this is not the Karnor's Castle of EQ2.
 
-![eq2 inside karnor’s castle](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-22-41-04-72.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-22-41-04-72.jpg" classes="center" >}}
 
 I've been all through the new Karnor's Castle twice now, last night and the night before. EQ2 groups do not sit in one place and pull; they keep moving through dungeons, because a good EQ2 group is a roving death machine. We were a good group. A tank, two healers, an assassin, a conjurer and me for all the cool troub buffs (and mezzes!) -- there wasn't any part of it we couldn't do. We roamed around a bit, then, because we were all on the same catalog quest given outside KC, evaced back to the zone and went through again to finish that up.
 
@@ -54,7 +31,7 @@ The quest continues, but we didn't. Why? Because our trips through the zone nett
 
 We split up to do quests outside; I returned to the quests I was soloing in the ~~Friends of Nascar~~ Fens of Nathsar.
 
-![eq2 discovering the lake of ill omen](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-23-49-55-99.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-23-49-55-99.jpg" classes="center" >}}
 
 And there I soloed about 20% experience, got several adepts, and a Legends of Norrath Booster Pack (broker price, about 3p). If I'd been in a group, we could have finished all the quests given on the Span and I'm sure I would have dinged.
 

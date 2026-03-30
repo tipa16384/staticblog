@@ -3,48 +3,26 @@ date: '2024-12-28T11:08:43-05:00'
 draft: false
 title: "The Best of 2024: Adventure Games"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/12/28/the-best-of-2024-adventure-games/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "They were a mainstay of 80s gaming and then all but disappeared until Portal revolutionized the genre. They are still some of the most fun you can have on a computer."
-description: "They were a mainstay of 80s gaming and then all but disappeared until Portal revolutionized the genre. They are still some of the most fun you can have on a computer."
-tags:
+categories:
   - "Adventure"
   - "Beyond Shadowgate"
   - "Text Adventure Game"
+tags:
   - "Advent"
   - "Colossal Cave Adventure"
   - "Moss"
   - "Poop"
   - "Sable"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/adventurebanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/12/adventurebanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/adventurebanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/adventurebanner.png"
 ---
+They were a mainstay of 80s gaming and then all but disappeared until Portal revolutionized the genre. They are still some of the most fun you can have on a computer.
+<!--more-->
 
 I maybe shouldn't have mentioned Portal in the capsule for this post. Games like Portal don't come around often. There's also a fuzzy line between adventure games and puzzle games. Where would Superliminal fall? Human Fall Flat? Maniac Mansion? I've chosen to define an adventure game as one with a focus on a single character and tells a story.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-17.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-17.png" classes="center" >}}
 
 **Please Leave Me Alone, I Need To Poop (2024)**
 
@@ -54,7 +32,7 @@ The game is simple. Each playthrough -- and those playthroughs are pretty short 
 
 Most of the scenarios have you completing funny minigames to clear them. It's a quick game that you can play... on the toilet.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-18-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-18-1024x576.png" classes="center" >}}
 
 **Sable (2021)**
 
@@ -64,7 +42,7 @@ The game's Moebius-inspired drawings drew me in, but the relaxing gameplay, medi
 
 This game was controversial when released as the main character and most of the other characters are women, and they live in a matriarchal society. That is a stupid reason to not like a game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-19.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-19.png" classes="center" >}}
 
 **Moss: Book II (VR; 2022)**
 
@@ -74,19 +52,19 @@ Moss 2 is a game within a game; you are playing the Reader, a person who has com
 
 I can't use VR that has a lot of movement in it. But a VR game where I am canonically sitting at a table, moving things around in front of me, and watching the story unfold -- that I can play for quite awhile.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-20-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-20-1024x576.png" classes="center" >}}
 
 **Colossal Cave (1975, 2023)**
 
 The very first computer adventure game I ever played was ADVENT on the university's DEC-10 timesharing mainframe. ADVENT was short for Adventure, naming the entire genre and sparking an industry. It later came to be known as Colossal Cave Adventure to distinguish itself from its thousands of descendants, but this was the first.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-21.png" title="The iconic opening to ADVENT" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-21.png" title="The iconic opening to ADVENT" classes="center" >}}
 
 Roberta Williams, the developer behind the King's Quest and Quest for Glory adventure game series, acknowledged her debt to ADVENT; she grew rich off of adventure games, while as far as I know, the original developers never made money from their game. Williams collaborated with her husband, Ken Williams, to bring this mid-20th century game into the 21st, with 3D and VR. (VR is not necessary to play the game, and I played it without).
 
 The game is a faithful recreation of the text adventure, and seeing it in 3D finally makes the confusing map make sense, but also makes it harder in ways. Worth playing if you're a fan of the original, or want to play the game that started it all without having to type much.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-22-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-22-1024x576.png" classes="center" >}}
 
 **Beyond Shadowgate (2024)**
 

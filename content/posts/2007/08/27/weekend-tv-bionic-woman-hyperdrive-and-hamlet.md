@@ -3,39 +3,16 @@ date: '2007-08-27T07:41:14-05:00'
 draft: false
 title: "Weekend TV: Bionic Woman, Hyperdrive and Hamlet"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/08/27/weekend-tv-bionic-woman-hyperdrive-and-hamlet/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My dad was a big fan of cheesy 70s shows... Wonder Woman, Emergency, CHiPs, The Six Million Dollar Man... Maybe that's where I got my..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/08/nup_106414_0301.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/08/nup_106414_0301.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/08/nup_106414_0301.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/08/nup_106414_0301.jpg"
 ---
+My dad was a big fan of cheesy 70s shows... Wonder Woman, Emergency, CHiPs, The Six Million Dollar Man... Maybe that's where I got my...
+<!--more-->
 
-![nup_106414_0301.jpg](https://chasingdings.com/wp-content/uploads/2007/08/nup_106414_0301.jpg)
+
 
 My dad was a big fan of cheesy 70s shows... Wonder Woman, Emergency, CHiPs, The Six Million Dollar Man... Maybe that's where I got my geekiness.Â There was no way we could miss Lindsay Wagner's "Bionic Woman", whereÂ a woman *also* got both her legs, an arm, an eye and an ear replaced with bionic implants.
 
@@ -51,7 +28,7 @@ It's an action show, no better or worse than others. Katee Sackhoff is gleefully
 
 Â
 
-![screenshot0.png](https://chasingdings.com/wp-content/uploads/2007/08/screenshot0.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/08/screenshot0.png" classes="center" >}}
 
 Â
 
@@ -61,7 +38,7 @@ Nick Frost's Commander Henderson tries take the Lock's change of missionÂ from
 
 Absolutely hilarious. If you liked Red Dwarf (or British comedy in general)Â at all, you'll love this.
 
-![ham1.jpg](https://chasingdings.com/wp-content/uploads/2007/08/ham1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/08/ham1.jpg" classes="center" >}}
 
 From Amazon came finally the DVD version of 1996's "Hamlet" with Kenneth Branagh playing the title role. I'm a huge Hamlet fan, but this is the first time I have ever seen it complete. Every word in the play is on the screen... and yet it doesn't feel long. The pacing is good, the visuals fantastic, and the language as beautiful and rich as ever. Branagh's performance tosses away the subtlety of Olivier's famous rendition, but on the other hand, it's more approachable for those new to the story of the Danish prince who feigns madness in order to prove his uncle killed his father, the previous King Hamlet, married his mother and claimed the throne the same day his father was buried.
 

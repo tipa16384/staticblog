@@ -3,41 +3,18 @@ date: '2006-11-21T16:15:59-05:00'
 draft: false
 title: "EQ2: The Court of Innovation"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/21/eq2-the-court-of-innovation/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I might as well delete my post on character goals, because I didn't go through with hardly any of them. But I did it in..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/coi2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/11/coi2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/coi2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/coi2.jpg"
 ---
+I might as well delete my post on character goals, because I didn't go through with hardly any of them. But I did it in...
+<!--more-->
 
-![coi2.jpg](https://chasingdings.com/wp-content/uploads/2006/11/coi2.jpg)
+
 
 I might as well delete my post on character goals, because I didn't go through with hardly any of them. But I did it in the name of more fun!
 
@@ -53,7 +30,7 @@ We won.
 
 Tiny Clockwork King. Not hard to defeat. But. He has a friend -- the Clockwork Master reveals himself, attached to the ceiling behind. Huge, big, massive. He won't let the King die. In fact he'll bolt on some new weapons, give him a brand new battery and WHAM!
 
-![coi3.jpg](https://chasingdings.com/wp-content/uploads/2006/11/coi3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/coi3.jpg" classes="center" >}}
 
 And he died. We weren't sure we could do it, but he died.
 
@@ -61,7 +38,7 @@ This infuriated the Clockwork Master. He vowed to kill us all for what we had do
 
 So pumped after this adventure, I later joined some pickup raids; Vox, some other named in Permafrost, and Dorah's carpet quest.
 
-![dorah.jpg](https://chasingdings.com/wp-content/uploads/2006/11/dorah.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/dorah.jpg" classes="center" >}}
 
 After doing this quest for three characters of my own and who knows how many times helping other people, I've seen only one strategy *actually* work. Sure, braggarts on the heritage channel claim they can do it solo or with a couple of people, but let's be honest. You turn 47, you want your carpet. By the time you're level 50, you either have a carpet, a faster horse, or no friends.
 
@@ -75,7 +52,7 @@ While Lord Efreeti is laughing at you, rez, rebuff, make sure autolocking is not
 
 This is the only strategy I have ever seen work.
 
-![scatter.jpg](https://chasingdings.com/wp-content/uploads/2006/11/scatter.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/scatter.jpg" classes="center" >}}
 
 I wanted my Weekend of the Fae to have at least a little Fae in it. Sunday I sat down to play my Fae mystic Cloey but... I couldn't think of any reason not to play the defiler I already had, Etha, aside from just wanting to play a Fae.
 
@@ -93,12 +70,12 @@ Scatter came to me and said she could kill more and faster with a healer. Well, 
 
 They got along great. Scatter soon leveled to thirteen and Etha re-awakened rusty skills.
 
-![etha.jpg](https://chasingdings.com/wp-content/uploads/2006/11/etha.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/etha.jpg" classes="center" >}}
 
 When a guild group looked for people in their 20s to explore Crushbone Keep, it was Etha's turn to leave her friend behind and go on her own. She was the only healer in a four person group but we worked *hard*. Etha got three levels, went from 22 to 25, finished the cloak quest and felt like her life had meaning once more.
 
 Short weekend but it felt longer. Dina had time for a couple instances and she even got a new pair of shoes.
 
-![newshoes.jpg](https://chasingdings.com/wp-content/uploads/2006/11/newshoes.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/newshoes.jpg" classes="center" >}}
 
 With shoes THAT fruity, I can't wait to see the entire set!

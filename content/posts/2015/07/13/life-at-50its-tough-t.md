@@ -3,38 +3,13 @@ date: '2015-07-13T11:06:27-05:00'
 draft: false
 title: "Life Begins at 50!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/07/13/life-at-50its-tough-t/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[gallery ids=\"11638,11636,11637,11639,11640,11641\"]..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+[gallery ids="11638,11636,11637,11639,11640,11641"]...
+<!--more-->
 
 [gallery ids="11638,11636,11637,11639,11640,11641"]
 

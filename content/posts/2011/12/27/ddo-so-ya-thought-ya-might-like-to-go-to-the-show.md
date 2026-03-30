@@ -3,47 +3,25 @@ date: '2011-12-27T22:33:57-05:00'
 draft: false
 title: "DDO: So ya thought ya might like to go to the show..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/12/27/ddo-so-ya-thought-ya-might-like-to-go-to-the-show/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In the flesh, indeed. After crawling through the luxurious Harborview Lofts -- entirely transformed into upscale accommodations for twisted monsters -- we finally met Yaulthoon......"
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-26-23-44-15-26-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-26-23-44-15-26-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-26-23-44-15-26-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-26-23-44-15-26-480x384.jpg"
 ---
+In the flesh, indeed. After crawling through the luxurious Harborview Lofts -- entirely transformed into upscale accommodations for twisted monsters -- we finally met Yaulthoon......
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-26-23-44-15-26-480x384.jpg" title="Yaulthoon, in the flesh?" class="align-center" >}}
+
 
 In the flesh, indeed. After crawling through the luxurious Harborview Lofts -- entirely transformed into upscale accommodations for twisted monsters -- we finally met Yaulthoon... in his mind. Nothing seemed quite real.
 
 We didn't get to him right away, though. First, we had front row tickets to a fashion show.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-26-23-41-06-32-480x383.jpg" title="Fashion Forward" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-26-23-41-06-32-480x383.jpg" title="Fashion Forward" classes="center" >}}
 
 Yaulthoon isn't your garden variety boss. No. As the architect of the Harbinger of Madness, the creator of the Taken, the gardener of horrors, he's proud of his works. Proud. "How wonderful it must feel," he shouted at us. "Knowing that one of your old Stormreach friends might be a small piece of flesh within one of my artworks. I am envious!"
 
@@ -51,13 +29,13 @@ For it was he that had been responsible for kidnapping the lost souls of Stormre
 
 New for this year -- hats!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-26-22-40-55-28-480x384.jpg" title="A display case" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-26-22-40-55-28-480x384.jpg" title="A display case" classes="center" >}}
 
 Discerning shoppers could stay for the fashion show or just browse the display cases, many showing the Taken performing the same sort of mundane, everyday routines they might have done before they were transformed. Sitting down to eat. Reading a paper -- perhaps the Stormreach Chronicle! In their madness, they would sometimes escape and then we would have to kill them a little bit.
 
 I don't know many people in Stormreach. I didn't have to wonder if I was killing anyone I knew.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-26-22-47-13-09-480x384.jpg" title="Pykzyl (the living)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-26-22-47-13-09-480x384.jpg" title="Pykzyl (the living)" classes="center" >}}
 
 Pykzyl the Beholder stepped in to slow us down. Have you ever seen a beholder dance? They stick all their tentacles out and wave them in turn. It's kind of beautiful in a way. Gleek's become a big believer in the power of dance, and this has made so many of our fights so much easier.
 
@@ -93,6 +71,6 @@ And once I am thus equipped, there are dragons that need killing.
 
 This post cost me $15, by the way. Pink Floyd's "The Wall" is now digitally mine. I had it on LP and on CD, but I tossed the LP when I moved to Connecticut (along with all the rest of them), and my daughter borrowed the CD a decade ago and borrowing is a one way street with her :P
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-27-11-45-15-73-382x480.jpg" title="Ophiga with dagger" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-27-11-45-15-73-382x480.jpg" title="Ophiga with dagger" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-27-11-48-28-21-284x480.jpg" title="Polycurse Dagger" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-27-11-48-28-21-284x480.jpg" title="Polycurse Dagger" classes="center" >}}

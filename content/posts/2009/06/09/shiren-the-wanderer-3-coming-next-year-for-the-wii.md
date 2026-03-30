@@ -3,47 +3,27 @@ date: '2009-06-09T19:12:26-05:00'
 draft: false
 title: "Shiren the Wanderer 3 coming next year for the Wii"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/09/shiren-the-wanderer-3-coming-next-year-for-the-wii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
+tags:
   - "Rogue"
   - "Rogue-Like"
   - "Shiren the Wanderer"
   - "Wii"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg"
 ---
+[...
+<!--more-->
 
-[![Shiren is about to die....](https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-692009-74630-pm.jpg "Shiren is about to die....")](http://www.atlus.com/shiren/)
+[
+
+](http://www.atlus.com/shiren/)
 
 The thing about "rogue-likes" is, they aren't for everyone. Let's face it -- you will probably never, ever win a real rogue-like, no matter how long you play. The only question is, how far will you get before you die, lose everything, and have to start over from the very beginning? It's about the heroic struggle, not the happy ending.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/rogue.jpg "Starting out in Rogue")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/rogue.jpg" title="Starting out in Rogue" classes="center" >}}
 
 *This was once the most popular video game among all college campuses. Yes, really.*
 

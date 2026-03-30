@@ -3,48 +3,27 @@ date: '2007-10-12T12:24:28-05:00'
 draft: false
 title: "The Deep Ones"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/12/the-deep-ones/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Deep Ones"
+  - "EverQuest"
   - "Lovecraft"
   - "Murlocs"
   - "Plane of Water"
   - "Veksar"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/goblin.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/goblin.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/goblin.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/goblin.jpg"
 ---
+And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant...
+<!--more-->
 
 > And yet I saw them in a limitless stream - flopping, hopping, croaking, bleating - urging inhumanly through the spectral moonlight in a grotesque, malignant saraband of fantastic nightmare.  And some of them had tall tiaras of that nameless whitish-gold metal ...  and some were strangely robed ...  and one, who led the way, was clad in a ghoulishly humped black coat and striped trousers, and had a man's felt hat perched on the shapeless thing that answered for a head.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/goblin.jpg)Murlocs... vile creatures of the deep who walk on land in a twisted parody of humanity... H.P. Lovecraft wrote, years ago in his story "Shadow over Innsmouth" of the Deep Ones, fish-like creatures who promised the townsfolk of that coastal Massachusetts town immortality and good fishing in exchange for sacrifices on the 30th of May and the 31st of October.
+Murlocs... vile creatures of the deep who walk on land in a twisted parody of humanity... H.P. Lovecraft wrote, years ago in his story "Shadow over Innsmouth" of the Deep Ones, fish-like creatures who promised the townsfolk of that coastal Massachusetts town immortality and good fishing in exchange for sacrifices on the 30th of May and the 31st of October.
 
 Oh yes, and their very souls. As the residents of Innsmouth aged, they would look more and more fish like, eventually joining their un-aging, un-breathing brethren beneath the gray waters.
 
@@ -66,7 +45,7 @@ Oh yes, he was waiting for me to *die*. Hmmph. This is so typical of Stromm serv
 
 > I think their predominant colour was a greyish-green, though they had white bellies. They were mostly shiny and slippery, but the ridges of their backs were scaly. Their forms vaguely suggested the anthropoid, while their heads were the heads of fish, with prodigious bulging eyes that never closed. At the sides of their necks were palpitating gills, and their long paws were webbed. They hopped irregularly, sometimes on two legs and sometimes on four. I was somehow glad that they had no more than four limbs. Their croaking, baying voices, clearly wed tar articulate speech, held all the dark shades of expression which their staring faces lacked.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/fishlord.jpg)I next tried the Plane of Water. Surely, somewhere in those depths, if anywhere, we'd find them. And, quite deep, I did. Two Fishlords. And it wouldn't take hardly any effort at all to kill them. Would they gurble as they died... or run away to get friends... I don't know, I left them alone. The Plane of Water has never been a fantastic spot to solo (and I remember that killing these guys start a one-group ring event).
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/fishlord.jpg" classes="fig-20" >}}I next tried the Plane of Water. Surely, somewhere in those depths, if anywhere, we'd find them. And, quite deep, I did. Two Fishlords. And it wouldn't take hardly any effort at all to kill them. Would they gurble as they died... or run away to get friends... I don't know, I left them alone. The Plane of Water has never been a fantastic spot to solo (and I remember that killing these guys start a one-group ring event).
 
 My memory wasn't bad, after all. Murlocs -- Deep Ones -- were indeed in EQ1. They came with the Planes of Power. These particular ones were also found in the Plane of Nightmare, and I'm not sure, but I wouldn't be surprised to find them in the Plane of Disease either.
 
@@ -74,7 +53,7 @@ But they *weren't* in Kunark... not at that time, anyway. Why are planar denizen
 
 I imagine we'll find out next month.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/outofdrink.gif)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/outofdrink.gif" classes="center" >}}
 
 *Water, water, every where,
 

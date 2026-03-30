@@ -3,40 +3,17 @@ date: '2012-01-21T19:29:25-05:00'
 draft: false
 title: "Kingdoms of Amalur: Reckoning: the Demo"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/21/kingdoms-of-amalur-reckoning-the-demo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The \"Reckoning\" is a special mode you can get into where you become extremely deadly and suck the Fate right out of your fallen enemies...."
+categories:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg"
 ---
+The "Reckoning" is a special mode you can get into where you become extremely deadly and suck the Fate right out of your fallen enemies....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-16-42-57-53-480x291.jpg" title="Cinematic dialog" class="align-center" >}}
+
 
 The "Reckoning" is a special mode you can get into where you become extremely deadly and suck the Fate right out of your fallen enemies. Just in case you were wondering what that was. It's one of the more distinctive bits of a fantasy RPG that Electronic Arts hopes will be compelling glimpse into the world of Amalur for eager fans awaiting its unveiling as a fully-fledged MMO.
 
@@ -48,7 +25,7 @@ But you aren't actually dead. Well, not any more. The Well of Souls, an experime
 
 I recall an interview with R.A. Salvatore where he mentioned that there was finally a game that bothered to give an explanation as to why your character could bounce back so easily from death again and again. But single player RPGs don't generally do that. You die, it's game over, load your last save. It's clear from this that Reckoning truly is meant to be a prelude to the larger game yet to come.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-17-07-25-81-480x384.jpg" title="Note the thin paths between zones. Open world this is not." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/ReckoningDemo-2012-01-21-17-07-25-81-480x384.jpg" title="Note the thin paths between zones. Open world this is not." classes="center" >}}
 
 The tutorial equips you and instructs you in the arts of the three main archetypes (Fates), Warrior (Might), Rogue (Finesse) and Mage (Sorcery), though these are by no means set in stone, and you can change them at any time by changing your gear or by choosing a new Fate, once you have unlocked the ability. Fates are unlocked by purchasing or upgrading abilities on the talent tree when you level. You can choose to stick with one line, or mix two or even all three fates in any way you like. Each combination has its own unique powers.
 
@@ -58,7 +35,7 @@ BHG only gives you a couple of hours to play the demo before it kicks you out. I
 
 I went through the demo wondering where I'd seen this game before. Then it hit me: this game looks so much like Sony Online Entertainment's Free Realms. The PC models are more realistic (if that word has any meaning in a fantasy title), but the world itself -- I'd spent time there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-17-23-29-76-480x384.jpg" title="Not the character creation screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/ReckoningDemo-2012-01-21-17-23-29-76-480x384.jpg" title="Not the character creation screen" classes="center" >}}
 
 **Character Creation**
 
@@ -76,7 +53,7 @@ All characters can block with a shield, cast spells or enter stealth. Spending p
 
 Reckoning's version of a stealth archer is pretty far up the Fate list. I like playing stealthy roguely types, the hallmark of the Rogue fate. Sneak up behind someone fast enough and wait for the UI to signal the special Backstab move. Nigh instant death. That works if you can get behind them before they see you, anyway. Mobs typically are positioned so that they are staring right at you as you enter the room, so stealth wasn't that useful for me. The higher level Fates seem to address the problem, eventually, but you'll want to be relying on other talents until stealth becomes useful.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/ReckoningDemo-2012-01-21-15-38-39-44-480x384.jpg" title="The Well of Souls" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/ReckoningDemo-2012-01-21-15-38-39-44-480x384.jpg" title="The Well of Souls" classes="center" >}}
 
 **Questing**
 

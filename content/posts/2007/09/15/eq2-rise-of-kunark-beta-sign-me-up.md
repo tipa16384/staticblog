@@ -3,38 +3,13 @@ date: '2007-09-15T08:53:22-05:00'
 draft: false
 title: "EQ2: Rise of Kunark Beta? Sign me up!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/09/15/eq2-rise-of-kunark-beta-sign-me-up/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Via Cuppy, the Rise of Kunark Beta application is now up...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Via Cuppy, the Rise of Kunark Beta application is now up....
+<!--more-->
 
 Via [Cuppy](http://www.cuppycake.org/?p=244), the Rise of Kunark Beta application is now up.
 

@@ -3,44 +3,22 @@ date: '2020-05-25T20:46:58-05:00'
 draft: false
 title: "Octomini Project Day 1: Minis Arrive"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/25/octomini-project-day-1-minis-arrive/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I'd..."
+categories:
   - "Miniatures"
   - "Nintendo Switch"
+tags:
   - "Hero Forge"
   - "Octomini Project"
   - "Octopath Traveler"
   - "Olberic"
   - "Primrose"
   - "Shapeways"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-both.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-both.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-both.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-both.jpg"
 ---
+A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I'd...
+<!--more-->
 
 A week or two ago, I went to Hero Forge and downloaded 3D models of two of my Octopath Traveler minis, Olberic and Primrose. I'd fixed Olberic's sword to resemble the one he used in game a little better. Primrose is a mini we haven't seen before.
 
@@ -54,7 +32,7 @@ The STL files delivered by [Hero Forge](https://www.heroforge.com/) are not soli
 
 So they are fundamentally different ways of describing a 3D object.
 
-![](https://chasingdings.com/wp-content/uploads/2020/05/shapeways.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/shapeways.jpg" classes="center" >}}
 
 It was such a daunting prospect that I decided to just focus on painting the models I downloaded. Since I don't have a 3D printer, I'd have to send them off to be printed. I sent them to [Shapeways](https://www.shapeways.com/), the same printer Hero Forge uses.
 
@@ -62,7 +40,7 @@ I chose a high quality plastic rendering method. This method was a good balance 
 
 The prints came today. And they weren't exactly what I expected.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-primrose.jpg" title="Tressa, Primrose and Ophilia" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-primrose.jpg" title="Tressa, Primrose and Ophilia" classes="center" >}}
 
 I haven't shown (I don't think) the models for the other four Travelers. Primrose is the Dancer (and eventually Starseer) of the crew. She's on a mission of vengeance against the people that killed her father and destroyed her family.
 
@@ -70,7 +48,7 @@ She came printed in a translucent plastic with very fine layer lines. According 
 
 You can easily see that the detail on the filament-printed Primrose versus the sintered Tressa and Ophilia is much sharper. Part of that is due to the scoring on the plastic where the scaffolding was removed. When held in hand, though, it all feels fairly smooth, and should look better when primed.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-olberic-2.jpg" title="Olberic, Olberic and Olberic" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-olberic-2.jpg" title="Olberic, Olberic and Olberic" classes="center" >}}
 
 Similar deal with Olberic. Aside from the sword, the model is identical to those used for his color prints. It's easy to see just how *good* the coloring on the color prints is. It easily makes up for the minor loss of detail.
 

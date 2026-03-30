@@ -3,42 +3,20 @@ date: '2014-07-05T10:47:43-05:00'
 draft: false
 title: "Brothers: A Tale of Two Sons"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/07/05/brothers-a-tale-of-two-sons/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I picked Brothers: A Tale of Two Sons up during the Steam summer sale, after remembering hearing good things about it when it came out..."
+categories:
   - "Other Games"
+tags:
   - "Brothers"
   - "Co-Op"
   - "Single Player"
-featured_image: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg"
 ---
+I picked Brothers: A Tale of Two Sons up during the Steam summer sale, after remembering hearing good things about it when it came out...
+<!--more-->
 
-![Troll bridge](https://lh3.googleusercontent.com/-sFSBvhefBos/U7QaqHQhw5I/AAAAAAAAxUo/Ek31cE8qPkM/w907-h549-no/Brothers+2014-06-27+21-04-17-70.jpg)
+
 
 I picked **Brothers: A Tale of Two Sons** up during the Steam summer sale, after remembering hearing good things about it when it came out last year. The very day after I bought it, I lost internet for almost a week. This was my opportunity to play through some offline games, and this was top of the list.
 
@@ -46,7 +24,7 @@ The game opens with the younger brother remembering witnessing the drowning deat
 
 Developers Starbreeze Studios calls **Brothers** a "[single player co-op game](http://www.rockpapershotgun.com/2013/09/09/wot-i-think-brothers-a-tale-of-two-sons/)" -- you control both brothers independently at the same time. They must often work together to solve puzzles, using the older brother's strength and compassion together with the younger brother's speed, agility and small stature.
 
-![On a wing and a prayer](https://lh5.googleusercontent.com/-YPTLfgy9po0/U7QalHxEWqI/AAAAAAAAxIE/6x_l5Y_VonU/w907-h726-no/Brothers+2014-06-28+07-51-58-70.jpg)
+{{< image src="https://lh5.googleusercontent.com/-YPTLfgy9po0/U7QalHxEWqI/AAAAAAAAxIE/6x_l5Y_VonU/w907-h726-no/Brothers+2014-06-28+07-51-58-70.jpg" classes="center" >}}
 
 The world through which the brothers travel is one torn apart by war and ruin. Trolls and giants battle, normal people devolve to savagery, monsters stalk the frozen lands. Love and compassion are the only weapons the boys have.
 

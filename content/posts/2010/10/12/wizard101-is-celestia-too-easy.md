@@ -3,41 +3,21 @@ date: '2010-10-12T22:10:19-05:00'
 draft: false
 title: "Wizard101: Is Celestia too easy?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/12/wizard101-is-celestia-too-easy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Celestia"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-12-22-30-55-84-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-12-22-30-55-84-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-12-22-30-55-84-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-12-22-30-55-84-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-12-22-30-55-84-480x384.jpg "Swag")](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-12-22-30-55-84.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-12-22-30-55-84.jpg)
 
 Before I get started, wow, thanks KingsIsle for the stuff! I was shocked to find a code in my in-box this morning for a new house (a Fairy Palace!) and some other random items. Shocked, and overjoyed :) W101 truly does have the best community team -- and the best community.
 

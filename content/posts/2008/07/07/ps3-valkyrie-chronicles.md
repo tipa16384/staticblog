@@ -3,42 +3,18 @@ date: '2008-07-07T18:46:35-05:00'
 draft: false
 title: "PS3: Valkyrie Chronicles"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/07/ps3-valkyrie-chronicles/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm not being snide or dismissive when I say I am still waiting for a reason to buy a PS3 as a game machine, as..."
+categories:
   - "General"
   - "Other Games"
   - "Tactical RPG"
+tags:
   - "PS3"
   - "Valkrie"
   - "Valkyrie Chronicles"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I'm not being snide or dismissive when I say I am still waiting for a reason to buy a PS3 as a game machine, as...
+<!--more-->
 
 I'm not being snide or dismissive when I say I am still waiting for a reason to buy a PS3 as a *game* machine, as opposed to a media hub, a job it does admirably but no better so than others you could make. I'm just saying that the Xbox 360, so far, does the business of games, better.
 

@@ -3,43 +3,21 @@ date: '2008-06-28T07:04:40-05:00'
 draft: false
 title: "Blizzard announces Diablo III!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/28/blizzard-announces-diablo-iii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ooooo.... Diablo III looks so cool......."
+categories:
   - "Other Games"
+tags:
   - "Blizzard"
   - "Diablo"
   - "Diablo 3"
   - "Diablo Iii"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/diablo3.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/diablo3.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/diablo3.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/diablo3.jpg"
 ---
+Ooooo.... Diablo III looks so cool.......
+<!--more-->
 
-![diablo3.jpg](https://chasingdings.com/wp-content/uploads/2008/06/diablo3.jpg)
+
 
 Ooooo.... [Diablo III](http://blizzard.com/diablo3/) looks so cool....
 

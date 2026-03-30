@@ -3,43 +3,21 @@ date: '2020-05-17T12:09:33-05:00'
 draft: false
 title: "EverQuest Mangler trial run: Levels 7-14"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/17/everquest-mangler-trial-run-levels-7-14/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Aradune"
   - "Butcherblock"
   - "Field of Bone"
   - "Mangler"
   - "The Estate of Unrest"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-16-58-02-22.jpg"
 ---
+Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a...
+<!--more-->
 
 Kasul and I spent a good few hours yesterday on our Mangler characters, getting ourselves and our computers ready for restarting on Aradune in a couple of weeks.
 
@@ -47,7 +25,7 @@ It was classic EverQuest. In FFXIV, you could be kicked out of a group for not p
 
 EverQuest is not like that. At least, not classic EverQuest. I haven't played EQ seriously for twelve years, and bleeding edge EQ might be all about clicks per second now for all I know.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-16-10-10-41-28-1024x603.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-16-10-10-41-28-1024x603.jpg" classes="center" >}}
 
 Kasul and I were playing around, checking out places we could go to level up which would be perhaps not choked with people. Starting from the Feerrott, we ran through the Rathe Mountains, Lake Rathe, South Karana, North Karana, through East Karana to Highpass Hold. All the zones were largely empty, with maybe a couple of people we never encountered. The old plat farms were open, but of course those will be camped on Aradune until Kunark comes out. South Karana was powerfully nostalgic -- I hit level 20 there, and a GM came by and gave me the last name I'd been wanting for a long time -- Tanglewood. I thought it would be perfect for a druid, and a reminder of my New England roots.
 
@@ -57,7 +35,7 @@ Kasul joined a little while later, and the duo picked up a monk. The three of th
 
 The classic experience is relatively slow action with very little button pushing and a lot of time for chatting and getting to know people.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-eqgame-2020-05-16-19-17-34-06.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-16-19-17-34-06.jpg" classes="center" >}}
 
 We moved through the Field of Bone for awhile and ended up in Kurn's Tower. There were a few soloers and a duo there, mostly working on the lower floors. We fought our way to the dining hall on the top floor and pulled from there for an hour before we broke for dinner.
 

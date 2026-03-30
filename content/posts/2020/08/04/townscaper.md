@@ -3,38 +3,15 @@ date: '2020-08-04T01:34:51-05:00'
 draft: false
 title: "Townscaper"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/04/townscaper/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I like Townscaper...."
+categories:
   - "Steam Games"
   - "Townscaper"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-Townscaper-2020-08-01-17-24-58-18.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-Townscaper-2020-08-01-17-24-58-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Townscaper-2020-08-01-17-24-58-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Townscaper-2020-08-01-17-24-58-18.jpg"
 ---
+I like Townscaper....
+<!--more-->
 
 I like Townscaper.
 
@@ -42,7 +19,7 @@ I feel like I'm in a Richard Scarry book.
 
 I want to walk around in my little town.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/08/Townscaper-2020-08-01-16-34-44-63-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/Townscaper-2020-08-01-16-34-44-63-1024x576.jpg" classes="center" >}}
 
 This is the closest I can get, though.
 

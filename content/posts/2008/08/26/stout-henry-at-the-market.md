@@ -3,42 +3,23 @@ date: '2008-08-26T20:36:20-05:00'
 draft: false
 title: "Stout Henry at the Market"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/26/stout-henry-at-the-market/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Stout Henry walked with a quick step toward Cotsberry Market, leading a beautiful brown mare. He looked up at the morning sun, adjusted his broad..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Stout Henry"
+tags:
   - "Not Funny"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/market2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/market2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Stout Henry"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/market2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/market2.jpg"
 ---
+Stout Henry walked with a quick step toward Cotsberry Market, leading a beautiful brown mare. He looked up at the morning sun, adjusted his broad...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/market2.jpg "market2")Stout Henry walked with a quick step toward Cotsberry Market, leading a beautiful brown mare. He looked up at the morning sun, adjusted his broad brimmed hat, flipped back the corners of his tattered cloak with the hand-stitched emblem of a wolf howling at the moon adorning the back, and took a sip from the water skin slung at his hip.
+
+
+Stout Henry walked with a quick step toward Cotsberry Market, leading a beautiful brown mare. He looked up at the morning sun, adjusted his broad brimmed hat, flipped back the corners of his tattered cloak with the hand-stitched emblem of a wolf howling at the moon adorning the back, and took a sip from the water skin slung at his hip.
 
 Before long, he caught up with an old woman pushing a cart full of apples. "Hail, apple merchant!" called Stout Henry cheerily, "Tis a beautiful day, is it not?". The old woman looked back over her shoulder. "Hmmph. Be a darn sight better day if'n your horse could pull this cart to market."
 

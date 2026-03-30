@@ -3,50 +3,28 @@ date: '2022-09-17T15:53:34-05:00'
 draft: false
 title: "Drakkhen for the Super Nintendo: An Unexpected Gem"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/17/drakkhen-for-the-snes/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "As I promised Terra in my last post, I would be playing Drakkhen for the Super Nintendo. It's 3D! It has dragons! You get to..."
+categories:
   - "Console Game"
   - "RPG"
   - "Super Nintendo"
+tags:
   - "Analogue"
   - "Drakkhen"
   - "Drakkhen Ii"
   - "Kemco"
   - "Snes"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/drakkhentitle.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/drakkhentitle.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/drakkhentitle.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/drakkhentitle.png"
 ---
+As I promised Terra in my last post, I would be playing Drakkhen for the Super Nintendo. It's 3D! It has dragons! You get to...
+<!--more-->
 
 As I promised Terra in my last post, I would be playing Drakkhen for the Super Nintendo. It's 3D! It has dragons! You get to create your own party! And dragons! Well, there may be a couple bad eggs in the bushel.
 
 I really knew nothing about this game. Although I was a huge Atari ST fan at the time and played a lot of RPGs on it, I missed it on its original platform (and I hear it was better there, too, though graphically it looks pretty similar). Still, it's better late than never. I started hearing bits and pieces about it on retro RPG YouTube channels, and when I saw it at the Hartford RetroWorld Expo, at a reasonable price, I took the plunge and bought it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/Screenshot-2022-09-17-102049.jpg" title="Victory screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/Screenshot-2022-09-17-102049.jpg" title="Victory screen" classes="center" >}}
 
 It didn't come with a manual or a cardboard insert to keep the cartridge from bouncing around in the box, so I got the manual off Fleabay and inserts from Amazon and then put it aside while I finished with Final Fantasy VI.
 
@@ -62,7 +40,7 @@ Dead characters are dead until you cast a revive spell that none of my character
 
 Buying gear was more or less pointless, anyway. Since every re-entrance into a dungeon respawns all monsters and treasure, it's easy enough to farm XP and gear. There are very few items which are "must haves", and chief among those is the "Ghost Staff", which confers permanent invisibility and is a godsend in every encounter. I was only able to find one, but the character who carried it was always the last one to die in any overpowered encounter.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/Screenshot-2022-09-15-120337.jpg" title="Prince Hordkhen goes into a rage." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/Screenshot-2022-09-15-120337.jpg" title="Prince Hordkhen goes into a rage." classes="center" >}}
 
 **The Plot**
 
@@ -78,7 +56,7 @@ I played with the original cartridge and my original SNES controller from way ba
 
 The original controller is spongier than modern controllers, but it didn't take long to get a hang for the controls and how they're used in the game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/Screenshot-2022-09-15-121346.jpg" title="Inside an Anak temple" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/Screenshot-2022-09-15-121346.jpg" title="Inside an Anak temple" classes="center" >}}
 
 **Graphics**
 
@@ -90,7 +68,7 @@ While traveling at night, the starry sky will sometimes come to life and send a 
 
 The Anak temples and other scripted encounters are done with static screens of better resolution, but again, it's the SNES, so 320x200 pixels is all you get.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/Screenshot-2022-09-17-102500.jpg" title="Coming soon!! Drakkhen II!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/Screenshot-2022-09-17-102500.jpg" title="Coming soon!! Drakkhen II!" classes="center" >}}
 
 **Drakkhen II**
 

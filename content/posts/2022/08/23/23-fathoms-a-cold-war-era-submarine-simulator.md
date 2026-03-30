@@ -3,44 +3,22 @@ date: '2022-08-23T07:00:00-05:00'
 draft: false
 title: "23 Fathoms: A Cold War Era Submarine Simulator"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/23/23-fathoms-a-cold-war-era-submarine-simulator/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Number: 23. Genre: Submarine Simulator. Title: \"23 Fathoms\". Outline: In this submarine simulator, you are the captain of a nuclear submarine on a secret mission...."
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
+tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Simulation Game"
   - "Submarines"
   - "Wombats"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/smallsub.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/smallsub.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/smallsub.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/smallsub.png"
 ---
+Number: 23. Genre: Submarine Simulator. Title: "23 Fathoms". Outline: In this submarine simulator, you are the captain of a nuclear submarine on a secret mission....
+<!--more-->
 
 Number: 23. Genre: Submarine Simulator. Title: "23 Fathoms". Outline: In this submarine simulator, you are the captain of a nuclear submarine on a secret mission. You must navigate the treacherous waters, avoid detection, and complete your mission without being detected. 
 
@@ -64,7 +42,7 @@ The average mission takes about 30 minutes to complete.
 
 **Captain and Crew**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-15-19.42.36-a-black-and-white-photograph-of-a-college-student-wearing-a-submarine-commanders-hat.-he-is-in-a-wood-paneled-room-with-a-Russian-flag-on-the-wall-an.png" title="\"Alexei Petrovich\"" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-15-19.42.36-a-black-and-white-photograph-of-a-college-student-wearing-a-submarine-commanders-hat.-he-is-in-a-wood-paneled-room-with-a-Russian-flag-on-the-wall-an.png" title="\"Alexei Petrovich\"" classes="fig-20" >}}
 
 Crews are made up of four characters: the captain, the first officer, the navigator, and the engineer. Each character has their own unique set of skills and personality traits. As you play through the campaign, you will get to know each character better and learn how to use their skills to your advantage.
 
@@ -76,7 +54,7 @@ The game also features a morale system, which affects how your crew behaves duri
 
 The morale system in 23 Fathoms is a way to track how your crew is feeling during the course of the campaign. Your choices will affect your crew’s morale, and if their morale gets too low, they may start to fight among themselves or even mutiny.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-15-18.33.57-a-shaded-pencil-sketch-of-a-wombat-dressed-in-a-naval-captains-uniform-looking-through-a-submarine-periscope-1024x1024.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-15-18.33.57-a-shaded-pencil-sketch-of-a-wombat-dressed-in-a-naval-captains-uniform-looking-through-a-submarine-periscope-1024x1024.png" classes="fig-20" >}}
 
 There are a few ways to increase morale in 23 Fathoms. You can give your crew members positive reinforcement by complimenting them on a job well done. You can also give them rewards for completing missions. Finally, you can make sure that they have adequate food, water, and rest.
 

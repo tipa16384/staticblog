@@ -3,39 +3,15 @@ date: '2008-11-19T10:56:04-05:00'
 draft: false
 title: "Live in North America? Want to play Spellborn? No problem!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/19/live-in-north-america-want-to-play-spellborn-no-problem/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Here's the link for Chronicles of Spellborn, Premium Edition from Amazon Europe for 39,95 Euros. Here's the link for Chronicles of Spellborn, just the game,..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Hack the World"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Here's the link for Chronicles of Spellborn, Premium Edition from Amazon Europe for 39,95 Euros. Here's the link for Chronicles of Spellborn, just the game,...
+<!--more-->
 
 [Here's the link](http://www.amazon.de/Frogster-Interactive-Pictures-Chronicles-Spellborn/dp/B001KEMGI4/ref=sr_1_1/276-5856627-6539238?ie=UTF8&s=videogames&qid=1227105818&sr=8-1) for Chronicles of Spellborn, Premium Edition from Amazon Europe for 39,95 Euros. Here's the link for [Chronicles of Spellborn](http://www.amazon.de/Frogster-Interactive-Pictures-Chronicles-Spellborn/dp/B001KEMGHU/ref=sr_1_2/276-5856627-6539238?ie=UTF8&s=videogames&qid=1227105818&sr=8-2), just the game, for 14,95 Euros.
 

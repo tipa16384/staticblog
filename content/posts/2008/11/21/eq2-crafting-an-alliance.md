@@ -3,48 +3,24 @@ date: '2008-11-21T09:39:36-05:00'
 draft: false
 title: "EQ2: Crafting an alliance"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/21/eq2-crafting-an-alliance/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "No, really, I'm sure there are millions of puns out there about \"crafting\" and \"tradeskills\". No laws against them. They aren't WEA-PUNS of LAUGHS INSTRUCTION,..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Crafting"
   - "Moors of Ykesha"
   - "The Shadow Odyssey"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg"
 ---
+No, really, I'm sure there are millions of puns out there about "crafting" and "tradeskills". No laws against them. They aren't WEA-PUNS of LAUGHS INSTRUCTION,...
+<!--more-->
 
 No, really, I'm sure there are millions of puns out there about "crafting" and "tradeskills". No laws against them. They aren't WEA-PUNS of LAUGHS INSTRUCTION, after all.
 
 So, yeah.
-
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-21-01-44-20-28.jpg "everquest2-2008-11-21-01-44-20-28")
 
 Still shocked and awed by the coolness of the Shadow Odyssey crafting quests. No killing. NO FRIGGIN KILLING. I had a quest to rebuild a cannon for some quick ballistic travel between a couple of areas, and after gathering ore, it asked me for a wire from a sweeper bot. "Okay," thought I, "finally some killing!"
 
@@ -54,7 +30,7 @@ This is the first expansion where you really, truly, honest-to-God don't have to
 
 Lessee.... let's count up the number of other popular MMOs that decouple adventuring and crafting levels. Um. Vanguard? LotRO? (I think they aren't coupled in LotRO but don't remember for sure). One of the things that really bugged me about WoW crafting was having to level my alt in adventuring in order to train up some other tradeskills.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/everquest2-2008-11-20-22-55-08-82.jpg "everquest2-2008-11-20-22-55-08-82")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/everquest2-2008-11-20-22-55-08-82.jpg" title="everquest2-2008-11-20-22-55-08-82" classes="center" >}}
 
 Anyway, even though I had to drive all over New England to bring my son back from college for Thanksgiving (well, I didn't mind), nothing was going to stop me from finishing the Moors of Ykesha crafting quest line in order to get enough faction to do crafting missions with my guild, who were totally wonderful about holding off on trying one until I'd finished the quests. They are so totally awesome.
 

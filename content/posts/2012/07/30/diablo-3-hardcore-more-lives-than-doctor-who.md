@@ -3,39 +3,16 @@ date: '2012-07-30T21:53:02-05:00'
 draft: false
 title: "Diablo 3 Hardcore: More lives than Doctor Who"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/07/30/diablo-3-hardcore-more-lives-than-doctor-who/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The ironic part was when I was saying something stupid about avoiding dying, and Calrain said, \"Like I just did?\"..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-30-21-43-24-94-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-30-21-43-24-94-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-30-21-43-24-94-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-30-21-43-24-94-480x360.jpg"
 ---
+The ironic part was when I was saying something stupid about avoiding dying, and Calrain said, "Like I just did?"...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-30-21-43-24-94-480x360.jpg" title="Level 23" class="align-center" >}}
+
 
 The ironic part was when I was saying something stupid about avoiding dying, and Calrain said, "Like I just did?"
 

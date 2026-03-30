@@ -3,38 +3,13 @@ date: '2006-11-27T14:17:25-05:00'
 draft: false
 title: "I need you to go find the little gopher"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/27/i-need-you-to-go-find-the-little-gopher/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Surya does its business via phone and email, and our email has been overwhelmed by spam. Last week, I trained SpamAssassin on one of our..."
+categories:
   - "General"
   - "My Work"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Surya does its business via phone and email, and our email has been overwhelmed by spam. Last week, I trained SpamAssassin on one of our...
+<!--more-->
 
 Surya does its business via phone and email, and our email has been overwhelmed by spam. Last week, I trained SpamAssassin on one of our sales manager's spam folder and set it loose over the Thanksgiving weekend. It blocked well over a thousand spam mails from reaching people's inboxes.
 

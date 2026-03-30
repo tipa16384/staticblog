@@ -3,38 +3,15 @@ date: '2009-12-26T21:30:28-05:00'
 draft: false
 title: "EVE Online: Acts & Revelations"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/26/eve-online-acts-revelations/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One of the big hurdles I've been struggling to, um, hurdle (I guess) in EVE Online is the whole process of a Level 4 mission...."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12-480x319.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12-480x319.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12-480x319.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12-480x319.jpg"
 ---
+One of the big hurdles I've been struggling to, um, hurdle (I guess) in EVE Online is the whole process of a Level 4 mission....
+<!--more-->
 
 One of the big hurdles I've been struggling to, um, hurdle (I guess) in EVE Online is the whole process of a Level 4 mission. They are the big money makers and they give loads of standing and loyalty points, so if you're going to do missions at all, you want to do Level 4s if you can.
 
@@ -48,9 +25,9 @@ The second solution was to Get Some Help. Since CCP's "Two of a Perfect Pair" pr
 
 Red (our corp director) once asked me if I chose my ships purely on their looks. Well, not always -- I fly a Dominix, don't I? It looks like a green and bronze turd. But the Prophecy; I had this vision of it flying on a mission with my Myrmidon battlecruiser....
 
-[![](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12-480x319.jpg "Prophecy and Myrmidon at a Sleeper base")
+[
 
-Click to enlarge](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12.jpg)
+Click to enlarge](https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-26-11-16-44-12.jpg)
 
 I found a contract for a single run of a Prophecy. The material efficiency was low, but there wasn't much separating the material needs between a low and high ME blueprint. But the 'print was Really Cheap, so I bought it. I tend to sell my spare megacyte and zydrine -- expensive ores -- in moments of weakness, so I wasn't going to be able to make one of my signature 3 million ISK battlecruisers. Nonetheless, I'd been buying a lot of goods on the market that reprocess into minerals worth far more than their purchase cost, so I had a lot of the goods already.
 
@@ -58,9 +35,9 @@ I sent out buy orders on most of the other materials. The only good price with e
 
 I'd found a good starting point for a fit on Battleclinic. I took it into EVE Fitting Tool to adjust it for my alt's skills. She has had a very eclectic, shifting set of goals and is still missing some core skills.
 
-[![](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-11-22-59-52-480x319.jpg "Salvaging dead Sleeper wrecks in wormhole space")
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-26-11-22-59-52-480x319.jpg" title="Salvaging dead Sleeper wrecks in wormhole space" classes="center" >}}
 
-Click to enlarge](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-11-22-59-52.jpg)
+Click to enlarge](https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-26-11-22-59-52.jpg)
 
 I needed something easy to try the ship on. Something where if things turned bad, I could get out of trouble easily. Starting with a Level 4 mission would just be wrong. So I sent my probe ship, *The Excursionator*, to find some low level 'plexes to explore. All I could find in Aunia's system was a wormhole. I warped *The Excursionator* in, saw it was a Class 1 wormhole -- the least dangerous -- scanned down a gas cloud site and several Sleeper cell, and decided to have my shakeout mission here, in wormhole space.
 
@@ -72,9 +49,9 @@ I was fairly concerned, though, at how close the Prophecy had to come to a targe
 
 Still, it was enough to get started. Radio crystals extend its effective firing range to 15km; not as good yet as the Myrmidon, but good enough to help cut down the opposing force. Like a really big drone, actually.
 
-[![](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-13-24-16-79-480x320.jpg "The Prophecy firing upon a Serpentis Nightmare battleship")
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-26-13-24-16-79-480x320.jpg" title="The Prophecy firing upon a Serpentis Nightmare battleship" classes="center" >}}
 
-Worth clicking on this one to see the whole thing](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-26-13-24-16-79.jpg)
+Worth clicking on this one to see the whole thing](https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-26-13-24-16-79.jpg)
 
 I'd been [talking with a friend](http://shatteredblog.wordpress.com/) the other night about about the Bible, of all things. He'd mentioned that historians had conceded the Apostle Paul had in fact written the Letters to the Corinthians in which the nature of the early Christian church, its methods, rules, goals and so forth are set out. But Acts was written long after by people with fairly extravagant writing styles who had their own ideas on what Paul was saying. Anyway, with that in mind, I named the Prophecy *Acts & Revelations*.
 

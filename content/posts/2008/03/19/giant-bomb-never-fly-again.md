@@ -3,37 +3,12 @@ date: '2008-03-19T11:42:26-05:00'
 draft: false
 title: "Giant Bomb: Never fly again."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/19/giant-bomb-never-fly-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A throwaway comment in a Wired.com article led me to Giant Bomb, a new game review blog started by Jeff Gerstmann, the Gamespot editor who..."
+categories:
   - "Other Games"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+A throwaway comment in a Wired.com article led me to Giant Bomb, a new game review blog started by Jeff Gerstmann, the Gamespot editor who...
+<!--more-->
 
 A throwaway comment in a Wired.com article led me to [Giant Bomb](http://giantbomb.com), a new game review blog started by [Jeff Gerstmann](http://blog.jeffgerstmann.net/), the [Gamespot](http://gamespot.com) editor who was rumored to have been canned when he gave a poor review to a [game that advertised heavily on Gamespot](http://kaneandlynch.com).
 

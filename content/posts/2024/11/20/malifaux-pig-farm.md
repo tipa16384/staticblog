@@ -3,42 +3,20 @@ date: '2024-11-20T09:45:29-05:00'
 draft: false
 title: "Malifaux: Pig Farm"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/11/20/malifaux-pig-farm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Pig Love was the name of the game in last night’s exciting match against the infamous Captain Zipp."
-description: "Pig Love was the name of the game in last night’s exciting match against the infamous Captain Zipp."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
   - "Tactics"
+tags:
   - "That'll Do"
   - "That's Some Pig"
   - "The Haven"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/IMG_4871-scaled.jpeg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/11/IMG_4871-scaled.jpeg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4871-scaled.jpeg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4871-scaled.jpeg"
 ---
+Pig Love was the name of the game in last night’s exciting match against the infamous Captain Zipp.
+<!--more-->
 
 Let me tell you about Captain Zipp.
 

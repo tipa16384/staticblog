@@ -3,43 +3,21 @@ date: '2022-08-12T23:05:57-05:00'
 draft: false
 title: "Trial by Wombat? Not in my Mastodon!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/12/trial-by-wombat-not-in-my-mastodon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just griping...."
+categories:
   - "General"
   - "OpenAI"
+tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Mastodon"
   - "Twitter"
   - "Wombats"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-12-07.55.44-a-sketch-of-a-wombat-in-a-barristers-wig-sitting-at-a-judges-bench.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-12-07.55.44-a-sketch-of-a-wombat-in-a-barristers-wig-sitting-at-a-judges-bench.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-12-07.55.44-a-sketch-of-a-wombat-in-a-barristers-wig-sitting-at-a-judges-bench.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-12-07.55.44-a-sketch-of-a-wombat-in-a-barristers-wig-sitting-at-a-judges-bench.png"
 ---
+Just griping....
+<!--more-->
 
 Just griping.
 
@@ -53,7 +31,7 @@ Next, I was reminded to always use ALT text on images I post so that those with 
 
 Now I've been told that posting AI-generated art triggers people with disassociative conditions, as they look a little bit "off". So I went through my timeline and deleted any AI-generated art -- including the Wombat -- that I'd posted, and promised to hide any future posts behind a content warning that blocks the post from view unless someone clicks the warning and chooses to see it. Of course, nobody is going to bother, because it could be okay, could be horrible, no way of knowing. So I simply won't post that sort of thing there anymore.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/wombatcoffee.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/wombatcoffee.png" classes="center" >}}
 
 Question is -- am I the baddie? I've been posting AI stuff all over the place for a couple months now. I still plan to post to Twitter -- if people don't want this, they can just block me or simply not follow me in the first place. I dunno.
 

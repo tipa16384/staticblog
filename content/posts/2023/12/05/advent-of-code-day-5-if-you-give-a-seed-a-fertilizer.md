@@ -3,40 +3,18 @@ date: '2023-12-05T22:37:57-05:00'
 draft: false
 title: "Advent of Code Day 5 -- If You Give A Seed A Fertilizer"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/05/advent-of-code-day-5-if-you-give-a-seed-a-fertilizer/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This can take no time at all or an eternity."
-description: "This can take no time at all or an eternity."
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "Advent"
-  - "AoC2023"
+  - "AoC 2023"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_tending_a_wide_variety_of_bizarre_looki_61e5db45-06f1-482c-9242-78720532164f.png"
 ---
+This can take no time at all or an eternity.
+<!--more-->
 
 Every year, there is a problem where the first part is easy and trivial, but if you tried the same solution on the second part, stars would burn out before it finished. That's today's puzzle.
 
@@ -63,7 +41,7 @@ Part 2 on the other hand... well, it turns out that those seed numbers weren't s
 
 Each pair of numbers is a seed number and a *length*. The second range has over 200 million "seeds" in it, and it's far from the largest range.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/1-IMG_4084.jpg" title="How ranges intersect and overlap" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/1-IMG_4084.jpg" title="How ranges intersect and overlap" classes="center" >}}
 
 The trick was to pass down ranges instead of individual values. One range doesn't usually do the entire job. I had to write a diagram of how ranges intersect. They might not -- that's one case. It might overlap from the left, or the right, or one range may encompass the entirety of the other range. It turned into five different use cases.
 

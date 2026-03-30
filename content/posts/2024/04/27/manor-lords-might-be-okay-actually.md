@@ -3,48 +3,26 @@ date: '2024-04-27T19:53:27-05:00'
 draft: false
 title: "Manor Lords might be okay, actually"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/04/27/manor-lords-might-be-okay-actually/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "City builder sims usually are so addictive that often avoid them, but I couldn't resist this one; it has the one feature I always wanted from this type of game."
-description: "City builder sims usually are so addictive that often avoid them, but I couldn't resist this one; it has the one feature I always wanted from this type of game."
-tags:
+categories:
   - "Manor Lords"
   - "Other Games"
+tags:
   - "Anno 1404"
   - "Banished"
   - "City Builder"
   - "Life is Feudal"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.05.27.38-1.jpg"
 ---
+City builder sims usually are so addictive that often avoid them, but I couldn't resist this one; it has the one feature I always wanted from this type of game.
+<!--more-->
 
 Manor Lords was released to early access on Steam yesterday to much fanfare; I heard about it from so many places, it's hard to believe it is a single developer, indie game. Someone's marketing budget was on point.
 
 At its heart, "Manor Lords" is the latest entry in the medieval village building genre that includes "Banished", "Life is Feudal: Forest Village", "Anno 1404" and so on. To this city building heart is grafted a conquest component where you, as the titular Manor Lord, strike up your levies, pay some mercenaries, protect your home from bandit raids and make common cause or conquest with your neighbors.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.00.04.34.jpg" title="Victory screen for pacifist run" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.00.04.34.jpg" title="Victory screen for pacifist run" classes="center" >}}
 
 But the nicest addition, to me, is a Victory Condition! I really dislike sandboxes that go on forever because it's hard for me to find an off ramp. I was overjoyed when, about ten hours in on the pacifist mode, I leveled my kingdom into a Large Town and the game played a short cutscene, and then ended.
 
@@ -52,7 +30,7 @@ The pacifist run is just one way to play the game; you can also play the game wi
 
 The game has an ending, but you can play it again differently.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.24.54.69-1024x768.jpg" title="Friendly faces everywhere, humble folks without temptation!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.24.54.69-1024x768.jpg" title="Friendly faces everywhere, humble folks without temptation!" classes="center" >}}
 
 Manor Lords doesn't know anything about "workers". This is probably its greatest innovation over the games that have come before in this genre. The unit of effort here is "families". Families open up businesses, go work on farms, decide to become brewers and whatnot. Each family can contain  three or four members, depending on how happy they are and how much food is available. New families move in; sometimes they come across your territory organically, sometimes they come because one of the families that already live in your town tell them how much fun they're having.
 
@@ -60,7 +38,7 @@ However they arrive, they won't come at all unless they have someplace to live. 
 
 Unlike those games that have you zone areas for residential, commercial and so on, in this one, you're able to  decide upon the plots upon which families will build their homes. They can be small and tightly packed with their neighbors, or they can have plenty of room for chicken coops and vegetable gardens or home businesses like brewing or tailoring, making goods for the use of your villagers or trading to others.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.28.25.65-1024x768.jpg" title="My little town of Eichenhau. Zweiau is a neighbor." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.28.25.65-1024x768.jpg" title="My little town of Eichenhau. Zweiau is a neighbor." classes="center" >}}
 
 Towns can manage by themselves, but to thrive -- and to prepare for war -- you'll need to set up trading routes with your neighbors.
 
@@ -68,11 +46,11 @@ Like every other activity in the game, you will need some unassigned families to
 
 If you try to sell too many of an item at once, the price will crash. If you try to buy too many of an item at once, the price will rise. Trade with the surrounding regions is something that requires some care, but once you have it set up, it only really requires the occasional peek unless you have been too greedy or needy, in which case you might find yourself draining the communal wealth pool.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.26.05.51-1024x768.jpg" title="Trading Post screen, showing some exports" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.26.05.51-1024x768.jpg" title="Trading Post screen, showing some exports" classes="center" >}}
 
 Money isn't used among villagers, who live communally. But trading requires using communal wealth. Wealth is earned through trading, or by upgrading the villager homes. Base level homes don't generate wealth, but higher level homes generate wealth appropriate to their level. So by just running the village, you will earn some money. Generate something the surrounding communities need, and you will earn a *lot* of money.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.17.12.46-1024x768.jpg" title="A market stall at the edge of a farm" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.17.12.46-1024x768.jpg" title="A market stall at the edge of a farm" classes="center" >}}
 
 When your buildings are producing items, some family members will be dispatched to construct a stall in a local market and trade their surplus to other villagers. The market is central to the life of the village; upgrading homes requires a certain availability of items at the market, and upgrading homes is central to upgrading the town.
 
@@ -82,19 +60,19 @@ Building homes requires timber, so you need a logging camp in the vicinity of tr
 
 When you finally have everyone doing the job and living their best life, you'll probably have leveled up your village a bit. Now comes the tech tree.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.23.56.58-1024x768.jpg" title="Not a picture of the tech tree." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.23.56.58-1024x768.jpg" title="Not a picture of the tech tree." classes="center" >}}
 
 The tech tree changes the entire character of your village; in most games, you can dabble around in various things in the tech tree. You *can* do that in Manor Lords, nothing is going to stop you. But if you want to be a farming village, the upgrades will double your yield and your farming speed. If you want to prepare for war, you'll be able to go down that tree. Upping production for your village, or focusing on becoming a trading hub.
 
 In the game, you can conquer and settle other territories. That feature wasn't available in my pacifist run, but (I imagine) different villages can focus on different capabilities via the tech tree, and there is a mechanism in the game that allows you to use mules to shift large numbers of resources from one of your towns to another. I'm pretty excited to see what that looks like.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.08.02.29-1024x768.jpg" title="First person view is kinda cool, like this winter scene" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.08.02.29-1024x768.jpg" title="First person view is kinda cool, like this winter scene" classes="center" >}}
 
 The world proceeds through through the seasons as you play, and as the seasons turn, you have to concern yourself with sending people to farms to plant or reap in the spring or fall. Foraging doesn't happen in the winter. The hunter can overhunt forests, making the local wildlife extinct (you can prevent this). Clear cutting forests will also drive away game, and as your village expands, just the people walking around on paths of desire will tend to prevent forest from growing. Foresters can help with this.
 
 Manor Lords is all about balance; bringing in and exporting trade goods. Having your villagers produce items for barter in the marketplace. In the game modes with combat, levying an army and hiring mercenaries to protect the town and conquering new territory. It's a game with a lot of moving parts, but in the game I played, issues can generally be dealt with before they cause any real damage. By the end of the game, I had hundreds of villagers and I didn't need to do anything at all to keep things going.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.16.24.31-1024x768.jpg" title="Standing in a field left fallow" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Manor-Lords-Screenshot-2024.04.27-11.16.24.31-1024x768.jpg" title="Standing in a field left fallow" classes="center" >}}
 
 Oh yeah, crop rotation is a thing. A map overlay lets you know where certain crops will grow best, but even the best performing fields will lose their performance over time. You can rotate crops, leave them fallow for a time, or have your sheep and goats use them as pasture in off years.
 

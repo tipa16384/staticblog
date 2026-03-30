@@ -3,46 +3,24 @@ date: '2022-04-07T08:54:12-05:00'
 draft: false
 title: "You probably should be playing Wildermyth right now."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/04/07/you-probably-should-be-playing-wildermyth-right-now/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's a story, or maybe a comic. Some friends gather together to save their town. Well, a couple of them don't really get along. A..."
+categories:
   - "Steam Games"
   - "Tactical RPG"
   - "Wildermyth"
+tags:
   - "Fire Emblem"
   - "RPG"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/04/screenshot_30.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/04/screenshot_30.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_30.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_30.png"
 ---
+It's a story, or maybe a comic. Some friends gather together to save their town. Well, a couple of them don't really get along. A...
+<!--more-->
 
 It's a story, or maybe a comic. Some friends gather together to save their town. Well, a couple of them don't really get along. A couple get along really well -- REALLY well. And then bad stuff happens, but some good stuff, too. Time passes and people get old, but there's always a new danger and new people to step up to face it. It's... everything I ever wanted in an RPG.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_1.jpg)](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_1.jpg)Clan Tanglewood
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_1.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_1.jpg)Clan Tanglewood
 
 Take a picture of everyone at a family reunion that meets every ten years. Some faces stay the same, new people are born and grow up, some get old and pass away. Probably there are some who don't much like each other, some who are married. Always someone who knows everything about the family history, and someone who would just rather be somewhere else -- *anywhere* else.
 
@@ -50,7 +28,7 @@ No matter who is in that picture, they are family, and that endures no matter wh
 
 This is Wildermyth -- the story of a family you bring together to fight evil and protect the land and the people you love. They might not always get along, and they might not always survive, but the family remains.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_11.jpg)](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_11.jpg)A battle
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_11.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_11.jpg)A battle
 
 Eef and Zynsum had been friends for awhile, but when Eef went missing, Zynsum enlisted the help of his friend, Brady, to track her down. Eef has a bad tendency to poke things that don't much like poking, and it had gotten her trapped in a ruined tower, a place that she knew well in the day, but at night, was a very different place.
 
@@ -62,7 +40,7 @@ A young farmer who yearned for adventure joined up, and was blinded in one eye i
 
 Close to retiring, Brady left the fighting crew and found a new recruit with whom she travelled the land, teaching the locals how to better defend their towns and farms while the younger fighters -- including her daughter -- rooted out the greater evils.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_23.jpg)](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_23.jpg)Eef and Zynsum get married
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_23.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_23.jpg)Eef and Zynsum get married
 
 Each of the people in your crew are such individuals. I am continually surprised by what they get up to. I am not in control of what they do outside of battle and it is *fascinating.* I am fascinated. Brady just goes off and settles down and has a daughter! I still don't know who the father is :-) People get transformed by old magic, or curses, or have permanent injuries and these things are not forgotten and progress, giving characters new abilities, or taking some away.
 
@@ -70,11 +48,11 @@ Wyndham continually struggles with just saying "aw, fug it" and just going total
 
 Eef still goes off to explore old ruins by herself. She's old herself now. She doesn't give a crap. Zynsum still worries about her and is always there to get her out of whatever jam she gets herself into.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_3.jpg)](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_3.jpg)World map
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_3.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_3.jpg)World map
 
 Protecting the land brings benefits. You can't be everywhere at once (at least, not until you recruit enough people to form multiple crews), but you can help people out and leave them some defenses. In return, they will reward you with crafting components at the end of each act (usually three to five per campaign) with which you can gear up. The more lands you free, the more gear you'll be able to make.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_10.jpg)](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_10.jpg)Foe cards show what monsters you will face
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_10.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_10.jpg)Foe cards show what monsters you will face
 
 Take too much time doing that, though, and the monsters may become too powerful to defeat. As time passes, monsters get more powerful and more numerous, and if they are left alone too long, they will go rampaging through the lands, eating and destroying. Worse, each time you battle a monster, it will become more powerful in the next battle.
 
@@ -84,7 +62,7 @@ Fight too much, monsters get too powerful. Don't fight enough, monsters go crazy
 
 Follow that rumor to a moonlit hill, and maybe you'll receive a great power. Or maybe you will just be crippled.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_27.jpg)](https://chasingdings.com/wp-content/uploads/2022/04/screenshot_27.jpg)Brady considers whether or not to sacrifice herself to save her daughter
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_27.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/04/screenshot_27.jpg)Brady considers whether or not to sacrifice herself to save her daughter
 
 Mortal choices are decision points, when someone falls in battle, to try and save themselves or to try and save everyone else, but they will permanently die. So far, I haven't let anyone die, even in the case where if someone had taken the option, they could have permanently and instantly killed the boss. Instead, I let them take the injuries. At some point, I imagine I will have to let someone die because I just wasn't ready for the fight, or I brought the wrong team.
 

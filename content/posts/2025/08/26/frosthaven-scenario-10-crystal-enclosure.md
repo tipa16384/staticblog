@@ -3,43 +3,21 @@ date: '2025-08-26T07:41:01-05:00'
 draft: false
 title: "Frosthaven Scenario #10: Crystal Enclosure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/26/frosthaven-scenario-10-crystal-enclosure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Where we run afoul of a Drinking Donkey and evil Ice Pillars."
-description: "Where we run afoul of a Drinking Donkey and evil Ice Pillars."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
+tags:
   - "Crystal Enclosure"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5344-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5344-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5344-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5344-scaled.jpg"
 ---
+Where we run afoul of a Drinking Donkey and evil Ice Pillars.
+<!--more-->
 
 Too long passes between our Frosthaven games, what with various sickesses, people being elsewhere at the time, and just - you know - stuff comes up. But we finally able to meet last night.
 
@@ -53,7 +31,7 @@ We would have had to just reach the scenario, turn around and go home, as the sc
 
 Three cards down? That wasn't ever going to work.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/IMG_5343-EDIT-1024x544.jpg" title="The full scenario" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5343-EDIT-1024x544.jpg" title="The full scenario" classes="center" >}}
 
 We read the scenario effect carefully. *Discard* a card? Okay, it didn't say *lose* a card, just *discard* a card. So we would get the card back when we rested. Fine.
 

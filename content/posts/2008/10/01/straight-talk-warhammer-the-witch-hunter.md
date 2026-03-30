@@ -3,28 +3,13 @@ date: '2008-10-01T08:05:23-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Witch Hunter"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/01/straight-talk-warhammer-the-witch-hunter/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Was your life as devastated as ours when one, two, and then three days went by without a Straight Talk Warhammer? Did you feel feverish,..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
+tags:
   - "More War"
   - "Public Quests"
   - "Solomon Kain"
@@ -32,24 +17,15 @@ tags:
   - "Val Helsing"
   - "War Everywhere"
   - "Witch Hunter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/witchhunter.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/witchhunter.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/witchhunter.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/witchhunter.jpg"
 ---
+Was your life as devastated as ours when one, two, and then three days went by without a Straight Talk Warhammer? Did you feel feverish,...
+<!--more-->
 
 Was your life as devastated as ours when one, two, and then three days went by without a Straight Talk Warhammer? Did you feel feverish, slipping in and out of consciousness, and have long and repetitive arguments with yourself about whether or not Sokka from *The Last Airbender* was inspired by Xander Harris from *Buffy the Vampire Slayer*?
 
 Friends, we know exactly how you feel. But from those pits of despair and dreams we have wrangled news of one of the most excitingly original careers ever conceived of by a game which has already proven time and time again that a war between orcs and humans was too good an idea not to copy, the Witch Hunter.
-
-![](https://chasingdings.com/wp-content/uploads/2008/10/witchhunter.jpg "witchhunter")
 
 *Simulated Warhammer screenshot.*
 

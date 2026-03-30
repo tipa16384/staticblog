@@ -3,46 +3,25 @@ date: '2021-08-19T22:43:57-05:00'
 draft: false
 title: "Game Night: JotL \"The Gauntlet\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/19/game-night-jotl-the-gauntlet/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm kind of worried about the next time when we play \"Jaws of the Lion\", as we'll be confronting cultists again. I don't really know..."
+categories:
   - "3D Printing"
   - "Blaugust"
   - "Game Night"
   - "Gloomhaven"
   - "Real Life"
   - "Tabletop Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2293-001.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2293-001.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+tags:
+  - "Blaugust"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2293-001.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2293-001.jpg"
 ---
+I'm kind of worried about the next time when we play "Jaws of the Lion", as we'll be confronting cultists again. I don't really know...
+<!--more-->
 
 I'm kind of worried about the next time when we play "Jaws of the Lion", as we'll be confronting cultists again. I don't really know if I'll be able to fight against the Blue Oyster Cult...
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/cultists-1024x558.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/cultists.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/cultists-1024x558.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/cultists.jpg)
 
 I do try to print as much of the game as I can. I really have been slacking off, lately. I started out wanting to print all the hex tiles for all the dungeons, but the scenario book is so much more detailed...
 
@@ -50,7 +29,7 @@ I still plan to, once I get Frosthaven, start printing *everything*. Really make
 
 We've spent many sessions working through some blood cultists and their dark blood god. It was nice to take a break from that and take a chance to compete on Gloomhaven Ninja Warrior -- The Gauntlet.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2290.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2290.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2290.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2290.jpg)
 
 The Gauntlet isn't a dungeon. It's two rickety platforms connected by a shaky bridge. The starting platform has explosive traps that take out not only those that trigger it, but everyone in the area. The bridge has puffs of poison gas moving slowly across the path. The second platform has demons and traps that home in on the players.
 

@@ -3,44 +3,19 @@ date: '2013-02-19T07:39:18-05:00'
 draft: false
 title: "EQ2: Twoo Luv and the Nerfbat"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/19/eq2-twoo-luv-and-the-nerfbat/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, mostly, this post is to test how my usual article heading picture can replace the header image, which is cool. Secondly, yes, I am..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-16-14-48-03-41-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-16-14-48-03-41-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-16-14-48-03-41-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-16-14-48-03-41-480x342.jpg"
 ---
+Well, mostly, this post is to test how my usual article heading picture can replace the header image, which is cool. Secondly, yes, I am...
+<!--more-->
 
 Well, mostly, this post is to test how my usual article heading picture can replace the header image, which is cool. Secondly, yes, I am NOT ONLY playing DC Universe Online, though from looking at the past few posts, it certainly looks as though I am.
 
 It's just that Arda is basically retracing Scatter's steps from a couple months back. It's the grind to 95, and all the fun content the first time is just stuff you gotta do the second time.
-
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-16-14-48-03-41-480x342.jpg" title="Cleric vs Monster" class="align-center" >}}
 
 While the solo instances are fun, they are kinda ridiculous in that there's your character, and you're easily whomping really huge mega bosses. Then when you finally see them in the group dungeons and they are a thousand times more powerful, you just have to step back and wonder just how much the game is coddling you.
 

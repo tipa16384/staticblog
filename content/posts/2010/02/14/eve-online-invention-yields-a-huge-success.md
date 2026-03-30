@@ -3,40 +3,17 @@ date: '2010-02-14T22:32:32-05:00'
 draft: false
 title: "EVE Online: Invention yields a huge success"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/14/eve-online-invention-yields-a-huge-success/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Although invention in EVE Online can be lucrative, my main motivation is to make stuff I can use. My first foray into the invention world..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/ishtarbp.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/ishtarbp.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/ishtarbp.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/ishtarbp.jpg"
 ---
+Although invention in EVE Online can be lucrative, my main motivation is to make stuff I can use. My first foray into the invention world...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/ishtarbp.jpg "Ishtar Two Run BP")
+
 
 Although invention in EVE Online can be lucrative, my main motivation is to make stuff I can use. My first foray into the invention world was Hammerhead II medium drone blueprints. I'd make the drones from them and sell them for a >500% profit.
 

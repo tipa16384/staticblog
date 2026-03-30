@@ -3,39 +3,16 @@ date: '2008-03-26T15:34:39-05:00'
 draft: false
 title: "searchme -- sign up *right now*"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/26/searchme-sign-up-right-now/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Click this and sign up for the beta --..."
+categories:
   - "General"
-featured_image: "http://media.arstechnica.com/news.media/SearchmeColoradoHiking.jpg"
-cover:
-  image: "http://media.arstechnica.com/news.media/SearchmeColoradoHiking.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://media.arstechnica.com/news.media/SearchmeColoradoHiking.jpg"
+thumbnailImage: "http://media.arstechnica.com/news.media/SearchmeColoradoHiking.jpg"
 ---
+Click this and sign up for the beta --...
+<!--more-->
 
-![searchme coverflow](http://media.arstechnica.com/news.media/SearchmeColoradoHiking.jpg)
+
 
 Click this and [sign up for the beta](http://www.searchme.com/beta/ars) --
 

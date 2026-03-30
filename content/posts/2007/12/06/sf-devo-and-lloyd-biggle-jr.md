@@ -3,38 +3,13 @@ date: '2007-12-06T14:45:45-05:00'
 draft: false
 title: "SF: Devo and Lloyd Biggle Jr."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/06/sf-devo-and-lloyd-biggle-jr/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Via boingboing, I found a great LA Weekly profile of Devo co-founder Mark Motherbaugh's turn from New Wave post-punk icon to noted, \"quirky\", soundtrack and..."
+categories:
   - "General"
   - "Sci Fi"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Via boingboing, I found a great LA Weekly profile of Devo co-founder Mark Motherbaugh's turn from New Wave post-punk icon to noted, "quirky", soundtrack and...
+<!--more-->
 
 Via [boingboing](http://www.boingboing.net/2007/12/06/mark-mothersbaugh-pr.html), I found a great [LA Weekly profile](http://www.laweekly.com/music/music/are-you-not-devo-you-are-mutato/17826/) of Devo co-founder Mark Motherbaugh's turn from New Wave post-punk icon to noted, "quirky", soundtrack and jingle writer for his omni-art creative emporium, 'Mutato'.
 

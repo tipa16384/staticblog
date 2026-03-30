@@ -3,24 +3,8 @@ date: '2022-08-10T07:00:00-05:00'
 draft: false
 title: "10 Million B.C.: An open-world action RPG set in the time of the dinosaurs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/10/10000-b-c-an-open-world-action-rpg-set-in-the-time-of-the-dinosaurs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
+categories:
   - "Action RPG"
   - "Blaugust"
   - "Blaugust 2022"
@@ -29,21 +13,15 @@ tags:
   - "OpenAI"
   - "Prehistoric Games"
   - "Survival"
+tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-02-21.08.16-A-35mm-high-resolution-photograph-of-a-caveman-sitting-on-the-back-of-a-dinosaur-with-a-vast-landscape-behind-them-with-realistic-animals-and-lush-ve.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-02-21.08.16-A-35mm-high-resolution-photograph-of-a-caveman-sitting-on-the-back-of-a-dinosaur-with-a-vast-landscape-behind-them-with-realistic-animals-and-lush-ve.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-02-21.08.16-A-35mm-high-resolution-photograph-of-a-caveman-sitting-on-the-back-of-a-dinosaur-with-a-vast-landscape-behind-them-with-realistic-animals-and-lush-ve.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-02-21.08.16-A-35mm-high-resolution-photograph-of-a-caveman-sitting-on-the-back-of-a-dinosaur-with-a-vast-landscape-behind-them-with-realistic-animals-and-lush-ve.png"
 ---
+I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 10th: “10 Million B.C.”.
 
@@ -57,7 +35,7 @@ The world is a dangerous place, filled with giant beasts that can kill you. You 
 
 > The art style will be inspired by the paintings of the time period.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/craiyon_205749_An_ancient_warrior_riding_a_dinosaur_in_the_style_of_a_cave_painting_.png" title="Not actual game graphics" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_205749_An_ancient_warrior_riding_a_dinosaur_in_the_style_of_a_cave_painting_.png" title="Not actual game graphics" classes="center" >}}
 
 Your journey starts in the Valley of the Nasute, where your tribe has just set up camp. It is here that you will be given your first taste of the hunt. Go out into the valley and track down some food for your tribe. Be careful though, as there are many dangers lurking in the valley.
 

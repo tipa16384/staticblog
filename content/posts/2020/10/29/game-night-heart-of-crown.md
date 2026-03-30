@@ -3,48 +3,26 @@ date: '2020-10-29T07:34:04-05:00'
 draft: false
 title: "Game Night: Heart of Crown"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/29/game-night-heart-of-crown/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'd forgotten we'd discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game...."
+categories:
   - "Card Games"
   - "Game Night"
+tags:
   - "Anime"
   - "Card Game"
   - "Dominion"
   - "Heart of Crown"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1972.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1972.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1972.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1972.jpg"
 ---
+I'd forgotten we'd discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game....
+<!--more-->
 
 I'd forgotten we'd discussed changing game night from Thursday to Wednesday and only remembered when my daughter showed up on the doorstep, ready to game.
 
 I didn't have the next Jaws of the Lion scenario ready, and we'd *just played* Terraforming Mars. Me, I wanted to play Mahjong, but I wasn't hearing a lot of enthusiasm about it. Tom suggested Heart of Crown, so that's what we played. I hauled out the card table and we got to setting up the game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1971.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1971.jpg" classes="center" >}}
 
 Heart of Crown is a "Dominion"-like game. In these sorts of card games, every player starts out with the same hand, and works to improve that hand via buying new cards and getting rid of bad cards until they have a perfect engine of economic brilliance going, whereon they win the game.
 

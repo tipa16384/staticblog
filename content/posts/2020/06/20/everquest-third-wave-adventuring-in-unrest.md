@@ -3,40 +3,18 @@ date: '2020-06-20T11:20:03-05:00'
 draft: false
 title: "EverQuest: Third Wave Adventuring in Unrest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/20/everquest-third-wave-adventuring-in-unrest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It struck me last night, as I was pulling Unrest for our fireplace room group, that it was the experience of taking a camp and..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Aradune"
   - "TLP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/eqgame-2020-06-19-22-46-27-98.jpg"
 ---
+It struck me last night, as I was pulling Unrest for our fireplace room group, that it was the experience of taking a camp and...
+<!--more-->
 
 It struck me last night, as I was pulling Unrest for our fireplace room group, that it was the experience of taking a camp and pulling mobs to it for the group to kill -- probably EverQuest's core gameplay -- is precisely the gameplay feature that no other MMO has valued enough to include in their game.
 
@@ -46,7 +24,7 @@ My point is not really that there are "theme park" MMOs out there, which has bee
 
 I spent a lot of time Thursday night farming Squire Wimbley in East Karana for his Raw Fine Hides, the one farmed component I needed for my spell research. Before Kasul got home from work yesterday, I'd logged in my magician and taken those hides and made the crafted-only spells I was missing. First I gained as much skill as I could by preparing the hides and doing some of the sub-combines, but was still well short of the skill necessary to make the spell crafting trivial. It took two-three tries per spell. At the end of the day, I went from having a nest egg of about 140 plat to just three plat (though part of that was spent in buying some vendor spells I also needed).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-20-06-55-35-36.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-20-06-55-35-36.jpg" classes="center" >}}
 
 During that long, long camp, all I had to keep myself occupied between Squire pops and watching my reputation plummet (now max KOS to pretty much everyone in western Antonica) was watching the chat channels and thanking the enchanter/druid who came by every so often to buff me. (Seriously, dude. You were *awesome*.)
 

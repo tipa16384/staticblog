@@ -3,48 +3,26 @@ date: '2010-10-11T06:44:58-05:00'
 draft: false
 title: "DDO Weekly Recap: Tangleroot Gorge"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/11/ddo-weekly-recap-tangleroot-gorge/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Whatever else you say about the game, one thing you have to admit -- Dungeons & Dragons Online has some really cool armor looks. My..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Gleek"
   - "Hobbesian Cleric"
   - "Ophiga"
   - "Spode"
   - "Tangleroot Gorge"
   - "Ulan"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg"
 ---
+Whatever else you say about the game, one thing you have to admit -- Dungeons & Dragons Online has some really cool armor looks. My...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-11-00-07-07-80.jpg "Dancing in the Marketplace")
 
-Whatever else you say about the game, one thing you have to admit -- Dungeons & Dragons Online has some really cool armor looks. My old [Hobbesian Cleric](https://chasingdings.com/index.php/2010/01/08/dungeons-dragons-online-a-hobbesian-cleric/) eventually wore armor that really let out her inner [half-orc](http://www.massively.com/2010/09/03/ddo-update-7-bringing-half-elves-half-orcs-and-more/). My drow rogue, Ophiga, got a nice set of +3 chain that is really amazing. EQ2 really missed the boat on armor -- they started out with some really unique designs, but ended up with variations on textures.
+
+Whatever else you say about the game, one thing you have to admit -- Dungeons & Dragons Online has some really cool armor looks. My old [Hobbesian Cleric](https://tipa16384.github.io/wkblog/index.php/2010/01/08/dungeons-dragons-online-a-hobbesian-cleric/) eventually wore armor that really let out her inner [half-orc](http://www.massively.com/2010/09/03/ddo-update-7-bringing-half-elves-half-orcs-and-more/). My drow rogue, Ophiga, got a nice set of +3 chain that is really amazing. EQ2 really missed the boat on armor -- they started out with some really unique designs, but ended up with variations on textures.
 
 I'd owned the Tangleroot Gorge module from my time with Massively's OneDAwesome guild. so when [Gleek](http://thefriendlynecromancer.blogspot.com/) suggested that as a possible destination, I was excited to return to that really long quest chain with the Sunday crew. Unfortunately, being paid content, I ended up the only one who could actually go. I remembered that Rubi had had the ability to give out guest passes, good for 90 minutes or three hours, to folks. I offered to buy guest passes for everyone, and we set off.
 
@@ -54,7 +32,7 @@ That unkillable spider? Really unkillable. We gave it our best shot.
 
 Due to all the delays and unintended exploration and just being lost a lot of the time, we ended the night with just twenty minutes left on the guest passes, and a promise to waste no time getting started the next Sunday, last night.
 
-![](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-10-22-43-46-73.jpg "Ophiga, Goddamn Spode, Gleek and hirelings")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-10-22-43-46-73.jpg" title="Ophiga, Goddamn Spode, Gleek and hirelings" classes="center" >}}
 
 Fast forward a week, everyone but Ulan (favored soul) was on. With the clock ticking, we decided to try and see if we could finish Tangleroot Gorge's main questline in twenty minutes. First up was a combination lock puzzle that required dialing in four runes on four dials scattered through some corridors, all guarded, of course. Good thing the combination was displayed in gnome-high glowing runes right at the magical barrier we needed to drop. Way to show you care about security, Orc dudes. They'd locked themselves in. Nice.
 

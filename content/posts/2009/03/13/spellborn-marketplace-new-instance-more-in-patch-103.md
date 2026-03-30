@@ -3,44 +3,24 @@ date: '2009-03-13T19:24:33-05:00'
 draft: false
 title: "Spellborn: Marketplace, new instance, more in patch 1.03"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/13/spellborn-marketplace-new-instance-more-in-patch-103/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "1.03"
   - "Exarchyon"
   - "Marketplace"
   - "Patch"
-featured_image: "http://tcos.com/uploads/news/buy_window3.jpg"
-cover:
-  image: "http://tcos.com/uploads/news/buy_window3.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://tcos.com/uploads/news/buy_window3.jpg"
+thumbnailImage: "http://tcos.com/uploads/news/buy_window3.jpg"
 ---
+[...
+<!--more-->
 
-[![](http://tcos.com/uploads/news/buy_window3.jpg "Marketplace Window")](http://tcos.com/uploads/news/buy_window3.jpg)
+[
+
+](http://tcos.com/uploads/news/buy_window3.jpg)
 
 The Chronicles of Spellborn will gain a (metric) tonne of features in its upcoming patch, 1.03. A lot of dreams players have are coming true.
 

@@ -3,37 +3,12 @@ date: '2009-02-18T18:47:02-05:00'
 draft: false
 title: "Feeding less, Twittering more (or less)."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/18/feeding-less-twittering-more-or-less/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I love the whole concept of using Google Reader to custom tailor my news, but it has just gotten to be too much. I found..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I love the whole concept of using Google Reader to custom tailor my news, but it has just gotten to be too much. I found...
+<!--more-->
 
 I love the whole concept of using Google Reader to custom tailor my news, but it has just gotten to be too much. I found what I really looked forward to was new blog postings from my friends, and I would scroll through the blogs on the side looking for their updates first. I have no time to read all the entries; it was over 500 this morning. So I have clipped most of the pro blogs, like BoingBoing, Wired, Slashdot, Tor and so on, not because I don't like them, but just because I can't keep up.
 

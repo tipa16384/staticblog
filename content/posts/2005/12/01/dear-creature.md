@@ -3,38 +3,13 @@ date: '2005-12-01T00:00:00-05:00'
 draft: false
 title: "Dear Creature"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/12/01/dear-creature/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Someone started a whine thread about getting ganked in the Gurabashi Arena with that title, but with a title like \"Dear Creature\", I was kind..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Someone started a whine thread about getting ganked in the Gurabashi Arena with that title, but with a title like "Dear Creature", I was kind...
+<!--more-->
 
 Someone started a whine thread about getting ganked in the Gurabashi Arena with that title, but with a title like "Dear Creature", I was kind of expecting a "Dear Abby"-like thread... a la:
 

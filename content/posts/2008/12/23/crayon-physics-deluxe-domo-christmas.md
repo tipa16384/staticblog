@@ -3,42 +3,19 @@ date: '2008-12-23T07:50:19-05:00'
 draft: false
 title: "Crayon Physics Deluxe & DOMO Christmas"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/23/crayon-physics-deluxe-domo-christmas/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ripped right from the refrigerator door, Crayon Physics Deluxe answers the age-old question, \"What if those drawings I made in kindergarten were REAL? And I..."
+categories:
   - "Crayon Physics Deluxe"
   - "Dream of Mirror Online"
   - "MMORPG"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/crayon-2008-12-22-22-40-17-88.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/crayon-2008-12-22-22-40-17-88.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/crayon-2008-12-22-22-40-17-88.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/crayon-2008-12-22-22-40-17-88.jpg"
 ---
+Ripped right from the refrigerator door, Crayon Physics Deluxe answers the age-old question, "What if those drawings I made in kindergarten were REAL? And I...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/crayon-2008-12-22-22-40-17-88.jpg "crayon-2008-12-22-22-40-17-88")
+
 
 Ripped right from the refrigerator door, [Crayon Physics Deluxe](http://www.crayonphysics.com/) answers the age-old question, "What if those drawings I made in kindergarten were REAL? And I had to guide a ball around them to collide with stars for points?"
 
@@ -46,13 +23,13 @@ The developer has just released the beta/demo, so it's only the first two worlds
 
 Level editor? Sure, I couldn't resist making one of my own.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/crayon-2008-12-22-22-34-10-54.jpg "crayon-2008-12-22-22-34-10-54")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/crayon-2008-12-22-22-34-10-54.jpg" title="crayon-2008-12-22-22-34-10-54" classes="center" >}}
 
 What music student has never been felt trapped on a staff! Will you trickle down the triplet? Sneak past the hemi-demi-semiquaver? Out-ferment the fermata? (Okay, I forgot to put the fermata in...). One glissando too many, and you could find yourself dropping straight into the bass line... and nobody wants that.
 
 Crayon-based physics puzzle fun. Love it. The full game should be coming out fairly soon... I hope.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-22-23-42-03-07.jpg "domo-2008-12-22-23-42-03-07")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-22-23-42-03-07.jpg" title="domo-2008-12-22-23-42-03-07" classes="center" >}}
 
 After all the meditation I did yesterday, I was only able to get my alchemy in Dream of Mirror Online up one more point, to 9. Just one more to go. I thought that by buying a slightly better kind of incense that I would be conjuring up some blue fragments, but nope, all red. I seriously can't imagine the sort of effort it's going to take to get alchemy from 10 to 15 or 20.
 

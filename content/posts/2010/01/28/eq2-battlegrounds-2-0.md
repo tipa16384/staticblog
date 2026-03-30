@@ -3,40 +3,17 @@ date: '2010-01-28T07:50:34-05:00'
 draft: false
 title: "EQ2: Battlegrounds 2.0"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/28/eq2-battlegrounds-2-0/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yahoo! had this to say about EverQuest II's new battleground system:..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/EverQuest2-2010-01-28-07-08-12-76.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/EverQuest2-2010-01-28-07-08-12-76.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/EverQuest2-2010-01-28-07-08-12-76.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/EverQuest2-2010-01-28-07-08-12-76.jpg"
 ---
+Yahoo! had this to say about EverQuest II's new battleground system:...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/EverQuest2-2010-01-28-07-08-12-76.jpg "Avatar Arena")
+
 
 Yahoo! [had this to say](http://uk.videogames.games.yahoo.com/pc/previews/everquest-ii--desert-of-flames-9e57c6.html) about EverQuest II's new battleground system:
 

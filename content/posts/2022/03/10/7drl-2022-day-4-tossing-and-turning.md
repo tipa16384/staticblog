@@ -3,38 +3,16 @@ date: '2022-03-10T07:35:45-05:00'
 draft: false
 title: "7DRL 2022 Day 4: Tossing and Turning"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/10/7drl-2022-day-4-tossing-and-turning/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Halfway through the 7DRL and I have finally finished the major building blocks for the game by introducing the main game mechanic (finally)! But it..."
+categories:
   - "7DRL"
+tags:
   - "Messiah"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/yata-screenshot-2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/yata-screenshot-2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/yata-screenshot-2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/yata-screenshot-2.png"
 ---
+Halfway through the 7DRL and I have finally finished the major building blocks for the game by introducing the main game mechanic (finally)! But it...
+<!--more-->
 
 Halfway through the 7DRL and I have finally finished the major building blocks for the game by introducing the main game mechanic (finally)! But it *is *the halfway point, and a good time to wonder if this was the correct game to write for 7DRL?
 
@@ -44,7 +22,7 @@ The ones I don't much connect with are the ones, oddly, that just look like vari
 
 The central idea for *You Are the Amulet* is that you take control of NPCs and use their items, positioning -- what have you -- to work through the dungeon. There's no healing (yet, anyway), and the true win condition means defeating the wizard at the end with the character you started with, who only has ten health to last through however many dungeon levels I can come up with.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-4.gif)](https://chasingdings.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-4.gif)Battle log showing the main game mechanic
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-4.gif" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-4.gif)Battle log showing the main game mechanic
 
 This game doesn't show that central possessing-NPCs mechanic very well. There's been a bunch of games with that same mechanic; *[Messiah](https://en.wikipedia.org/wiki/Messiah_(video_game))* is the first one that comes to mind. You played there a baby angel who possesses people to solve puzzles, so pretty much the same deal.
 

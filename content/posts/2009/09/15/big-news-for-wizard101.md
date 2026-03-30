@@ -3,42 +3,21 @@ date: '2009-09-15T07:44:29-05:00'
 draft: false
 title: "Big news for Wizard101?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/15/big-news-for-wizard101/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Daily Blogroll will continue tomorrow. I'll be up in New Hampshire driving my stepmom around as she gets surgery for her cataracts, so I'll have..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/WizardGraphicalClient-2009-09-15-07-40-53-56.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/WizardGraphicalClient-2009-09-15-07-40-53-56.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/WizardGraphicalClient-2009-09-15-07-40-53-56.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/WizardGraphicalClient-2009-09-15-07-40-53-56.jpg"
 ---
+Daily Blogroll will continue tomorrow. I'll be up in New Hampshire driving my stepmom around as she gets surgery for her cataracts, so I'll have...
+<!--more-->
 
 *Daily Blogroll will continue tomorrow. I'll be up in New Hampshire driving my stepmom around as she gets surgery for her cataracts, so I'll have Plenty Of Time :)*
 
-[![Marleybone ROCKS!](https://chasingdings.com/wp-content/uploads/2009/09/WizardGraphicalClient-2009-09-15-07-40-53-56.jpg "Marleybone ROCKS!")](https://chasingdings.com/wp-content/uploads/2009/09/WizardGraphicalClient-2009-09-15-07-40-53-56.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/09/WizardGraphicalClient-2009-09-15-07-40-53-56.jpg)
 
 Fernando_Blanco tweeted: *I'll be at Austin Game Developers Conference; looking to meet with press regarding some BIG Wizard101 announcements!*
 

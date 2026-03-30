@@ -3,46 +3,24 @@ date: '2021-09-03T07:53:50-05:00'
 draft: false
 title: "DCUO: How House of Legends is broken"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/09/03/dcuo-how-house-of-legends-is-broken/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "DC Universe Online's \"House of Legends\" expansion was meant to create a new game experience for both old heroes and new. It got halfway there...."
+categories:
   - "Blaugust"
   - "DC Universe Online"
   - "MMORPG"
   - "Steam Games"
+tags:
   - "House of Legends"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/MHQS104_AUDIO-PC-03-07.21.130.jpg"
 ---
+DC Universe Online's "House of Legends" expansion was meant to create a new game experience for both old heroes and new. It got halfway there....
+<!--more-->
 
 DC Universe Online's "House of Legends" expansion was meant to create a new game experience for both old heroes and new. It got halfway there.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/MADV125_DESIGNERDATA-PC-25-11.19.010-1024x640.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/MADV125_DESIGNERDATA-PC-25-11.19.010.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/MADV125_DESIGNERDATA-PC-25-11.19.010-1024x640.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/MADV125_DESIGNERDATA-PC-25-11.19.010.jpg)
 
 DCUO splits its players into two groups, and it's not heroes vs villains. Heroes and Villains can group together now and complete the content together, and have been able to for some time. Most of the threats in DCUO now affect both hero and villain alike, and it's probably not long before they can join together (if reluctantly) in the same super-league. It happens all the time in the comics and the cartoons.
 

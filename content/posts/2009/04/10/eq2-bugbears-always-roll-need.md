@@ -3,43 +3,21 @@ date: '2009-04-10T07:40:41-05:00'
 draft: false
 title: "EQ2: Bugbears always roll need"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/10/eq2-bugbears-always-roll-need/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "No matter how many times you tell the Bugbear that the guild isn't raiding for his alt, he still rolls need on absolutely everything...."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "One Panel Comix"
+tags:
   - "RMT"
   - "Station Marketplace"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/bugbearsneed.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/bugbearsneed.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/bugbearsneed.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/bugbearsneed.jpg"
 ---
+No matter how many times you tell the Bugbear that the guild isn't raiding for his alt, he still rolls need on absolutely everything....
+<!--more-->
 
-![Kobold and Bugbear discuss asshattery](https://chasingdings.com/wp-content/uploads/2009/04/bugbearsneed.jpg "bugbearsneed")
+
 
 No matter how many times you tell the Bugbear that the guild isn't raiding for his *alt*, he still rolls need on absolutely everything.
 
@@ -49,7 +27,7 @@ Personality-wise, Bugbear isn't the best team player. If you're not in his tribe
 
 If you do bring the Bugbear into your home, don't be surprised if he starts terrorizing your pets when you're not around.
 
-![everquest2-2009-04-10-07-53-35-30](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-10-07-53-35-30.jpg "everquest2-2009-04-10-07-53-35-30")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-10-07-53-35-30.jpg" title="everquest2-2009-04-10-07-53-35-30" classes="center" >}}
 
 Barbarian shaman Barbara "Bearnose" McWolfenstein has this to say about the new helm available from the Station Marketplace:
 

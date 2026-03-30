@@ -3,40 +3,17 @@ date: '2011-10-24T07:03:16-05:00'
 draft: false
 title: "DDO: Arthur Miller's \"The Crucible\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/10/24/ddo-arthur-millers-the-crucible/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Once I understood the story behind \"The Crucible\", I knew what to do. Immediately upon entering the dungeon, I accused all my group mates of..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-23-23-33-41-65-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-23-23-33-41-65-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-23-23-33-41-65-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-23-23-33-41-65-480x384.jpg"
 ---
+Once I understood the story behind "The Crucible", I knew what to do. Immediately upon entering the dungeon, I accused all my group mates of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-23-23-33-41-65-480x384.jpg" title="Horn of Agility" class="align-center" >}}
+
 
 Once I understood the story behind "The Crucible", I knew what to do. Immediately upon entering the dungeon, I accused all my group mates of being witches and consorting with the devil. They were taken away, forced to confess, and executed. I alone lived. Nobody will say anything, either, because I might accuse them of being witches at well! I am very good at sniffing out witches... as proven by my success in exposing my group mates.
 
@@ -52,6 +29,6 @@ It wasn't all rogue heaven, though. I was content to let Gleek solve the maze in
 
 With the completion of The Crucible, we have been flagged for all three giant factions. Now we have to finish collecting the ancient relics -- nine each of the giant, dragon and elven relics. I turned in my giant set last night. I am nowhere near on the others.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-21-22-44-12-07-480x269.jpg "dndclient 2011-10-21 22-44-12-07")](https://chasingdings.com/wp-content/uploads/2011/10/dndclient-2011-10-21-22-44-12-07.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-21-22-44-12-07-480x269.jpg" title="dndclient 2011-10-21 22-44-12-07" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/10/dndclient-2011-10-21-22-44-12-07.jpg)
 
 This would be a great opportunity to do some solo relic collecting... if I thought I would live. Things are looking up, though -- I checked in during the week and started finding upgrades in the auction house. Turns out I don't need dexterity on all my gear. It ain't WoW.

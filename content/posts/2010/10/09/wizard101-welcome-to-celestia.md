@@ -3,44 +3,22 @@ date: '2010-10-09T18:49:46-05:00'
 draft: false
 title: "Wizard101: Welcome to Celestia!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/09/wizard101-welcome-to-celestia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Updated! Links to information about the new spells at the end of the post...."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Astral Magic"
   - "Celestia"
   - "Polymorph"
   - "Selena Gomez"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-09-17-50-20-17.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-09-17-50-20-17.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-09-17-50-20-17.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-09-17-50-20-17.jpg"
 ---
+Updated! Links to information about the new spells at the end of the post....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-09-17-50-20-17.jpg "Welcome to Celestia")
+
 
 **Updated! Links to information about the new spells at the end of the post.**
 
@@ -58,7 +36,7 @@ Star spells cast Auras -- short term buffs to damage, fizzle rate, resistance an
 
 Of course, adding too many Astral spells to your deck will likely run the danger of crowding out your regular spells. Only time will tell how they will fit into the short decks used by most grandmaster wizards.
 
-There's a good chance you won't be able to hang with Selena Gomez once Celestia goes live, so if you haven't gotten your Gomez statue -- [which has over a hundred and one uses](https://chasingdings.com/index.php/2010/09/23/wizard101-fun-with-the-selena-gomez-statue/) -- best hold your breath, dive deep, and help her get back to recording her new hit CD! And video!
+There's a good chance you won't be able to hang with Selena Gomez once Celestia goes live, so if you haven't gotten your Gomez statue -- [which has over a hundred and one uses](https://tipa16384.github.io/wkblog/index.php/2010/09/23/wizard101-fun-with-the-selena-gomez-statue/) -- best hold your breath, dive deep, and help her get back to recording her new hit CD! And video!
 
 The full Celestia patch notes are ---> [over here](https://www.wizard101.com/game/community/updatenotes)!
 

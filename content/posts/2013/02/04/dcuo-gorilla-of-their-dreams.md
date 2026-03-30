@@ -3,40 +3,17 @@ date: '2013-02-04T22:18:22-05:00'
 draft: false
 title: "DCUO: Gorilla of their Dreams"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/04/dcuo-gorilla-of-their-dreams/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I think we're getting the hang of the game. We know how the controls work, mostly. We know our roles and how to use them,..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/MPYR0128_AUDIO-PC-04-20.29.570-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/MPYR0128_AUDIO-PC-04-20.29.570-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MPYR0128_AUDIO-PC-04-20.29.570-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MPYR0128_AUDIO-PC-04-20.29.570-480x343.jpg"
 ---
+I think we're getting the hang of the game. We know how the controls work, mostly. We know our roles and how to use them,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MPYR0128_AUDIO-PC-04-20.29.570-480x343.jpg" title="Bye bye Bane!" class="align-center" >}}
+
 
 I think we're getting the hang of the game. We know how the controls work, mostly. We know our roles and how to use them, as shown by the score cards that pop up after each "On Duty" mission -- DCUO's instanced dungeons and battlefields. Kaptain KY and I, the controllers, had the high scores in power return. Stingheal, Stingite's new healer (since we discovered we didn't have one) was a healing gnome of some sort. Not sure what he is. Lord Spode just brought the hurt.
 
@@ -48,7 +25,7 @@ Still not quite enough XP, so we re-did Area 51. It went like clockwork. Being a
 
 We did the final boss without one death -- maybe one close call, but we were all still standing -- flying? -- when Brainiac came to collect the broken circuitry of his robot army.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MADV103_DESIGNERDATA-PC-04-00.24.450-480x300.jpg" title="The Ultra-Humanite" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MADV103_DESIGNERDATA-PC-04-00.24.450-480x300.jpg" title="The Ultra-Humanite" classes="center" >}}
 
 After that, Kaptain KY had slid into level 13 and we were eligible for Gorilla Island. Now, I'd heard nothing good about this instance, but if we don't fight the apes, the apes WIN. It's a WAR ON APES. It's a war on SMUGNESS. It's not so much that these apes, who are the transformed civilians and security forces of the base Gorilla Grodd invaded, seem whole-heartedly in favor of becoming apes and not having to wear clothes anymore. It's how self-satisfied they are about it, even as we're slaughtering them and fending off angry phone calls and sternly-worded tweets from the Wildlife Conservation Society about it.
 
@@ -60,7 +37,7 @@ It got worse, though, with Bean, who grinned and leaped; got some deaths while f
 
 Not sure if there was another boss before Mr. Humanite.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MPYR0209_CHARLIGHT-PC-03-23.43.480-480x300.jpg" title="Spode vs Bee" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MPYR0209_CHARLIGHT-PC-03-23.43.480-480x300.jpg" title="Spode vs Bee" classes="center" >}}
 
 The Ultra-Humanite was another smug neo-ape who, in between shouting his superiority, walked from console to console pushing buttons. This is his superiority. To be a cubicle warrior. Who can't type very well.
 
@@ -70,7 +47,7 @@ Gorilla Grodd was pissed at the Ultra-Humanite for dying to such an inferior for
 
 If we do this instance next week, I'll pay better attention, because I was under the impression that we had WON and his side had LOST.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MHDT0101_DESIGNERDATA-PC-04-19.00.460-480x342.jpg" title="Couch!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MHDT0101_DESIGNERDATA-PC-04-19.00.460-480x342.jpg" title="Couch!" classes="center" >}}
 
 Last weekend, DCUO raised the drop rate of furniture for the Home Turf bases. They'd really talked up the amount of furniture that would be dropping. We were all excited to get a little more stuff in our empty, cavernous bases. Well, we did Queen Bee twice, Area 51 and Gorilla Island once each, and we got precisely one piece of furniture, the couch here that Stingheal found in some musty office on Gorilla Island.
 

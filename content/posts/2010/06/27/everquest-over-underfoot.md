@@ -3,40 +3,19 @@ date: '2010-06-27T23:25:17-05:00'
 draft: false
 title: "EverQuest: Over & Underfoot"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/06/27/everquest-over-underfoot/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-20-28-38-891-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-20-28-38-891-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-26-20-28-38-891-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-26-20-28-38-891-480x269.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-20-28-38-891-480x269.jpg "The Vault Guardian")](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-20-28-38-891.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-26-20-28-38-891.jpg)
 
 Modern, traditional MMOs are full of "yes you CAN". Yes, you CAN get great gear with little effort. Yes, you CAN get useful things done in just a few minutes. Yes, you CAN choose to never group at all and yet see and do most everything. Yes, you CAN play through the entire game and never connect with even one other person, if that's what YOU want.
 
@@ -46,7 +25,7 @@ That's fallen out of fashion. You shouldn't HAVE to play with others if you don'
 
 EQ remains its old curmudgeonly self, still emphasizing the social part of MMO gaming, still requiring grouping and friends to progress. Now that EQ's had another round of server merges, there's no better time to start hooking up with the people. It's taken this much time for the EQ server communities to recover from the LAST server merges; they should be used to new people by now.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-12-08-44-411-480x367.jpg "Fungus Grove")](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-12-08-44-411.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-26-12-08-44-411-480x367.jpg" title="Fungus Grove" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-26-12-08-44-411.jpg)
 
 I returned to EverQuest as my rogue, Tipa. I'd changed mains to Dera/Brita during the Gates of Discord expansion when the level cap was 65 and Crimson Eternity was largely in Plane of Time gear, but I'd leveled her on an alt basis to the Omens of War level cap, 70, in the years before I quit EQ entirely. I'd casually played now and then since, so she was level 71 and at about 420 AAs when I started playing again a couple of months ago.
 
@@ -58,7 +37,7 @@ Then came the flagging through Seeds of Destruction (previous expansion) and up 
 
 It would have been impossible to do this at all without friends, and without Krijhok, it would have been impossible at all. He decided to get me flagged, and whenever I'd log in, if he was around, he'd take me along on another mission.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-13-57-42-84-480x367.jpg "Bress Serillis in Brell")](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-13-57-42-84.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-26-13-57-42-84-480x367.jpg" title="Bress Serillis in Brell" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-26-13-57-42-84.jpg)
 
 Through Krijhok and other friends, I've been on a whirlwind tour of the newest bits of EverQuest, and am now at level 85 (yay!), 503 AAs (/shrug, but better than 420), and flagged for Volska's Husk, the first Tier 9 zone.
 
@@ -72,12 +51,12 @@ So here's the rankings of the new content I have seen.
 
 **Underfoot** -- Dungeons built on the WoW model, with scripts and minibosses, but without the AEs, even though you would really like to just AE the stuff. But, in the inimitable EQ style, any one mob could wipe the group and every mob has some ungodly number of hit points, so that's out of the question. Still, it's the most dungeon crawl-focused expansion since Dragons of Norrath. However, the tiered flagging required means a lot of people are left banging on the doors, hoping for flagging missions to get them in. It does ensure, however, that everyone sees all the new content -- they have no choice. **B-**
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-23-15-26-331-480x269.jpg "The Cooling Chambers")](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-26-23-15-26-331.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-26-23-15-26-331-480x269.jpg" title="The Cooling Chambers" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-26-23-15-26-331.jpg)
 
 EQ is still going strong and it's still EQ. All the good things about EQ are still there; some of the bad things, like death penalties (mostly gone) and the inability to solo or form balanced groups (mercs can help a lot) aren't really a problem now. The recent mergers mean, for the moment, the places are crowded. But the game really isn't made for people who want to solo the game. It might be possible, but I can't imagine it would be any fun. And after all, there are games for that.
 
 I guess all I have left to say is this:
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-27-13-08-27-20.jpg "Ding!")](https://chasingdings.com/wp-content/uploads/2010/06/eqgame-2010-06-27-13-08-27-20.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-27-13-08-27-20.jpg" title="Ding!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/06/eqgame-2010-06-27-13-08-27-20.jpg)
 
 # DING!

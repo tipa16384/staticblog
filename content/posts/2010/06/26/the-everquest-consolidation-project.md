@@ -3,40 +3,19 @@ date: '2010-06-26T09:05:47-05:00'
 draft: false
 title: "The EverQuest Consolidation Project"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/06/26/the-everquest-consolidation-project/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/eqchars.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/06/eqchars.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/eqchars.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/eqchars.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/eqchars.jpg "EverQuest characters")](https://chasingdings.com/wp-content/uploads/2010/06/eqchars.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/06/eqchars.jpg)
 
 With the EverQuest server merge in full swing, SOE has offered free server merges for everyone for a limited time. My twisty EverQuest career has taken me from Erollisi Marr to Fennin Ro, back to Erollisi Marr, then Stromm, then back to Erollisi Marr, then Luclin, then back to Erollisi Marr.... EMarr always brings me back.
 

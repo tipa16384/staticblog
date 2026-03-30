@@ -3,43 +3,23 @@ date: '2010-10-12T20:59:50-05:00'
 draft: false
 title: "Social Game Review: Lucky Train"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/12/social-game-review-lucky-train/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
+tags:
   - "A Bit Lucky"
   - "Facebook"
   - "Lucky Train"
   - "Simulation Game"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/Fullscreen-capture-10102010-21334-PM-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/Fullscreen-capture-10102010-21334-PM-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10102010-21334-PM-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10102010-21334-PM-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/Fullscreen-capture-10102010-21334-PM-480x384.jpg "Lucky Train")](https://chasingdings.com/wp-content/uploads/2010/10/Fullscreen-capture-10102010-21334-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/Fullscreen-capture-10102010-21334-PM.jpg)
 
 When a Japanese friend I'd met in Treasure Abyss invited me to try [A Bit Lucky](http://www.abitlucky.com/)'s "[Lucky Train](http://apps.facebook.com/luckytrain/)", I thought immediately of the legendary train sim "[Densha de GO!](http://en.wikipedia.org/wiki/Densha_de_Go!)". The description sure sounded like it. Build trains and send them from your town to those of your friends, past country scenes you design. I was absolutely there.
 

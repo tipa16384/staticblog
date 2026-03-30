@@ -3,45 +3,25 @@ date: '2010-12-15T01:33:24-05:00'
 draft: false
 title: "Wizard101: Level 58, and I Feel Fine."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/15/wizard101-level-58-and-i-feel-fine/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Celestia"
   - "Forest Lord"
   - "Gardening"
   - "Giving Tree"
   - "Ra"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31-480x383.jpg "Allison and Tara")](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-15-00-52-54-31.jpg)
 
 It seemed level 58 would never come to my dynamic wizarding duo in Wizard101. Slogging through grindy grind after grindy grind. Last night, The Friendly Necro kindly help me kill a bunch of Megamind-style Minions in the Science Center for one sort of thing. THAT took forever. Then the quest continued -- I had to go back and kill the OTHER kind! Ugh! So I logged off.
 
@@ -51,7 +31,7 @@ Both characters dinged 58, and it was time for new clothes and a new, class-defi
 
 First -- to the bazaar! Now that the legendary outfits can be put up for auction, there's no point at all in farming for gear. Leveling leaves you with lots of cash, so I just bought up the clothes for both my characters, and that was the end of it. I sure would have appreciated this during my Dragonspyre farming days...
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-14-22-38-49-60-480x384.jpg "Forest Lord")](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-14-22-38-49-60.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-14-22-38-49-60-480x384.jpg" title="Forest Lord" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-14-22-38-49-60.jpg)
 
 Next, off to Grizzleheim for Tara's Forest Lord. One hitch: Tara, not having done Grizzleheim, did not have access to the zone. I'd duo'd Grizzleheim with Allison and my Myth wizard, Marissa. Tara had already been at max level when Grizzleheim was discovered, so I didn't see a lot of point in doing it for her. The experience in Grizzleheim, even at level, isn't that hot, but the treasure is very nice.
 
@@ -63,7 +43,7 @@ Every time either character cast a trap or a charm, the boss would interrupt and
 
 Tara went to Mooshu and got her Forest Lord. And then she went to the Bazaar and found some decent looking clothes to stitch onto her legendary items. She liked the stats, but the outfits are UGLY. And more than that -- every wizard in Celestia seems to be wearing them. A girl likes to stand out from the crowd.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-14-23-57-04-64-480x384.jpg "Allison and Ra")](https://chasingdings.com/wp-content/uploads/2010/12/WizardGraphicalClient-2010-12-14-23-57-04-64.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-14-23-57-04-64-480x384.jpg" title="Allison and Ra" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/WizardGraphicalClient-2010-12-14-23-57-04-64.jpg)
 
 Now, Allison isn't wearing that red outfit because the legendary clothes are ugly. She's wearing that outfit for her very survival.
 

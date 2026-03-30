@@ -3,49 +3,29 @@ date: '2010-08-07T16:41:01-05:00'
 draft: false
 title: "Star Trek Online, Undine Front: The Return (spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/07/star-trek-online-undine-front-the-return-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Borg"
   - "Episode"
   - "Obex"
   - "Romulan"
   - "Undine"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-22-16-69-480x383.jpg "Inside a Romulan research lab")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-22-16-69.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-06-20-22-16-69.jpg)
 
 Yes, desperately catching up on all the posts I should have made this week, but did not.
 
-**Undine Front: The Return** is the second of the two episodes given you by Starfleet as you embark upon Season Two. It opens similarly to the other mission, [Undine Front: Assimilation](https://chasingdings.com/index.php/2010/07/29/star-trek-online-assimilation/), with a sudden congregation of Borg ships causing some concern in the quadrant. Not only that, but there have been reports of non-Borg ships in the area as well. It would be terrible to lose such a fine crew, Starfleet assures us, but we need to head in and do what we can.
+**Undine Front: The Return** is the second of the two episodes given you by Starfleet as you embark upon Season Two. It opens similarly to the other mission, [Undine Front: Assimilation](https://tipa16384.github.io/wkblog/index.php/2010/07/29/star-trek-online-assimilation/), with a sudden congregation of Borg ships causing some concern in the quadrant. Not only that, but there have been reports of non-Borg ships in the area as well. It would be terrible to lose such a fine crew, Starfleet assures us, but we need to head in and do what we can.
 
 The USS Monterey warped in to find a Romulan science ship, the IRW Areinnye, on the losing side of a battle against some Borg spheres. The Romulan captain, Commander Taelus, does something that must have hurt her more than the Borg ever could... she calls for assistance from any nearby ships, and when we make contact, absolutely begs for Federation assistance.
 
@@ -59,7 +39,7 @@ How about a case of Romulan ale for that amazing rescue! But, Commaner Taelus, t
 
 But, naturally, we just HAVE to meddle. Our suspicions are soon confirmed; the Romulans have stolen tech from the Borg. This is why they were attacked, and this is why they couldn't allow themselves to be killed or taken.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-26-11-35-480x382.jpg "An Obex ship watches, but does not attack")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-06-20-26-11-35.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-06-20-26-11-35-480x382.jpg" title="An Obex ship watches, but does not attack" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-06-20-26-11-35.jpg)
 
 The away team is contacted by the USS Monterey; Borg cubes are warping in, and we are needed back on the ship. Promising Commander Taelus that she will hear from us soon, we beam out and into a firefight.
 

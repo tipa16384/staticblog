@@ -3,41 +3,19 @@ date: '2011-11-18T12:43:50-05:00'
 draft: false
 title: "D&D4E: Ding!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/11/18/dd4e-ding/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After last week's epic battle against an Indiana Jones-style boulder trap and various drakes and kobold lords, what could possibly await us in the cavern..."
+categories:
   - "D&D 4e"
   - "Other Games"
+tags:
   - "Google+"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/11/FantasyGrounds-2011-11-17-23-49-35-55-480x382.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/11/FantasyGrounds-2011-11-17-23-49-35-55-480x382.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/FantasyGrounds-2011-11-17-23-49-35-55-480x382.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/FantasyGrounds-2011-11-17-23-49-35-55-480x382.jpg"
 ---
+After last week's epic battle against an Indiana Jones-style boulder trap and various drakes and kobold lords, what could possibly await us in the cavern...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/FantasyGrounds-2011-11-17-23-49-35-55-480x382.jpg" title="Of scales and slime pits..." class="align-center" >}}
+
 
 After last week's epic battle against an Indiana Jones-style boulder trap and various drakes and kobold lords, what could possibly await us in the cavern below the tower ruins, from whence came the acrid stink of dragonbreath and fear?
 
@@ -75,7 +53,7 @@ Finally satisfied that there would be no more fighting here, I joined the others
 
 Oddly, Ralph had stored absolutely nothing in that chest. How unusual.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/FantasyGrounds-2011-11-17-23-43-45-71-480x360.jpg" title="Ding!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/11/FantasyGrounds-2011-11-17-23-43-45-71-480x360.jpg" title="Ding!" classes="center" >}}
 
 Well, except for this bit of dragonhide. And a strangely light sword. And some gold pieces. And 250 experience points.
 

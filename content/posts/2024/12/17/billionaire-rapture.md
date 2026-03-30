@@ -3,39 +3,16 @@ date: '2024-12-17T08:00:00-05:00'
 draft: false
 title: "Billionaire Rapture"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/12/17/billionaire-rapture/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Sometimes I just want to write a story. Art AI, words are all mine, for better or worse. I hope you enjoy it."
-description: "Sometimes I just want to write a story. Art AI, words are all mine, for better or worse. I hope you enjoy it."
-tags:
+categories:
   - "Fiction"
   - "General"
   - "Humor"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-17-00.14.48-A-surreal-science-fiction-book-cover-for-a-short-story-titled-Billionaire-Rapture.-The-scene-depicts-a-futuristic-dramatic-setting-in-space-and-on-.webp"
 ---
+Sometimes I just want to write a story. Art AI, words are all mine, for better or worse. I hope you enjoy it.
+<!--more-->
 
 The Caribbean sun shone brightly overhead as Mark Zuckerberg’s toes left the deck of his 387’ yacht, “The Launchpad”. As he floated skyward, “Zuck” felt a sense of quiet satisfaction. He was vindicated. He was special. And he had totally nailed the name of the boat.
 

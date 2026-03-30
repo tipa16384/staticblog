@@ -3,40 +3,17 @@ date: '2006-01-11T00:00:00-05:00'
 draft: false
 title: "WoW update"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/11/wow-update/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Kanda turned 60 a few weeks ago, but I didn't post about it until now. There's the Truefaith Vestments that took ages to make...."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/images/kanda60.jpg"
-cover:
-  image: "https://chasingdings.com/images/kanda60.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/kanda60.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/kanda60.jpg"
 ---
+Kanda turned 60 a few weeks ago, but I didn't post about it until now. There's the Truefaith Vestments that took ages to make....
+<!--more-->
 
-![](https://chasingdings.com/images/kanda60.jpg)
+
 
 Kanda turned 60 a few weeks ago, but I didn't post about it until now. There's the [Truefaith Vestments](http://www.thottbot.com/?i=24750) that took ages to make.
 
@@ -50,13 +27,13 @@ Well, he won the pattern for the Truefaith Vestments last night. Will he, or won
 
 That wand I'm holding is the coolest wand I have ever seen. It's the skull and spine of a small demon mounted on a metal rod. It glows. OoooOOOooo spooky. Got that off some Scholomance boss, I think the Headmaster.
 
-![](https://chasingdings.com/images/kandaposse.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/kandaposse.jpg" classes="center" >}}
 
 Yo, this is a shot of me and my homies mixin' it up wit da undead in da Plaguelands.
 
 That trinket, [Barov Peasant Caller](http://www.thottbot.com/?n=240312), requires doing a ten person instance with just five people. Sure, it takes twice as long, but at least you die more. But it was worth it.
 
-![](https://chasingdings.com/images/tipa31.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/tipa31.jpg" classes="center" >}}
 
 Just wouldn't be a post without a pic of Tipa, crawling slowly through the levels. Note the Emerald City goggles. What ELSE would a Munchkin wear?
 

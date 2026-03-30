@@ -3,46 +3,21 @@ date: '2009-12-29T07:55:06-05:00'
 draft: false
 title: "WoW: Behind the Green Door"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/29/wow-behind-the-green-door/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "While leveling Tipa the Gnome Rogue through WoW's classic dungeons, it was brought home to me again and again how my poor level of twinkitude..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/faction-480x357.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/faction-480x357.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/faction-480x357.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/faction-480x357.png"
 ---
+While leveling Tipa the Gnome Rogue through WoW's classic dungeons, it was brought home to me again and again how my poor level of twinkitude...
+<!--more-->
 
 While leveling Tipa the Gnome Rogue through WoW's classic dungeons, it was brought home to me again and again how my poor level of twinkitude was hurting my standings in random groups. Even though I read lots of WoW Rogue guides on setting my talent spec and what sort of ability rotation to use, and even though my average dps has risen from 65 to 175 in the past few days, in groups I am not often a top performer. Sometimes half the group is doubling my dps. They have amazing looking weapons and armor with shoulders up to HERE.
 
 If only I had a level 80 character able to buy twink gear in Dalaran, just like all my ~~friends~~ ~~random groupmates~~ weird armory-page-reading jerks who make characters on your server to taunt you about how they, as a tank, ran into a group of mobs and left the party, teleporting them out of the dungeon, leaving the rogue who had been following behind to assist to die. Yes, he made a character on my server to tell me how "pwnt" I was and to wish me good luck on my corpse run. I complimented him on his mastery of WoW speak; half the things he said I couldn't understand, but I got the whole "pwnt" part.
 
 I lost my train of thought for a moment; sorry.
-
-![](https://chasingdings.com/wp-content/uploads/2009/12/faction-480x357.png "Take a walk on the Alliance side")
 
 A few months back, Blizzard began offering faction changes; Horde to Alliance, Alliance to Horde, a perfect transfer. Worked out a lot better than those back-alley faction changes goblins would do to hapless Hordies in Gadgetzan. I'm sorry, but there's no way a shaved Tauren with their horns lopped will ever pass as a gnome. Stormwind guards are still going to know them by the stink.
 
@@ -56,7 +31,7 @@ I was hoping I'd keep the epic raptor mount, but it morphed into a giant ram. I 
 
 Pro tip: there's actually portals to the Blasted Lands in all major cities; don't have to keep taking that long bird ride. The mage guilds in Stormwind and Ironforge have them.
 
-![](https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-25-12-25-41-28-480x320.jpg "What is Behind the Green Door?")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-25-12-25-41-28-480x320.jpg" title="What is Behind the Green Door?" classes="center" >}}
 
 Here's another pro-tip: If you hang around the battle scene just on the other side of the portal too long taking screenshots, epic-level mobs WILL kill you, and your corpse WILL NOT be easy to recover.
 
@@ -64,7 +39,7 @@ I spent a lot of those early hours in BC learning to play a shadow priest and al
 
 They weren't lying -- I got a lot of upgrades (which looked HIDEOUS), but my dps was barely double that of my rogue. It should be a Lot More. I joined a BRD run as a dps just to get a feel for the competition. I was the lowest on the dps chart. The random dungeons for my level were all orange and red dungeons in Burning Crusade. Without having all the upgrades and probably level 70, trying to heal in those dungeons would be murder, and as dps, ineffective. Until I come up with 1000 gold, I won't be able to dual spec, so stuck soloing quests as a shadow priest for now, my least favorite thing to do in a MMO.
 
-![](https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-26-23-05-20-92-480x321.jpg "A Griffon of Her Own")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-26-23-05-20-92-480x321.jpg" title="A Griffon of Her Own" classes="center" >}}
 
 There are compensations. Selling some of those essences netted enough gold to buy the beginner flying mount, and it is FUN. Flying quests in Burning Crusade is pretty darn fun, actually. Love those bombing runs. Sure, its like an 80s arcade game, but that doesn't bother me. I abandoned the quest grind for awhile and just went soaring all around the expansion, looking at the sites. Nobody does huge, stunning vistas like Blizzard.
 

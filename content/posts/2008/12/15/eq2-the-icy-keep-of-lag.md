@@ -3,43 +3,21 @@ date: '2008-12-15T10:16:44-05:00'
 draft: false
 title: "EQ2: The Icy Keep ... of LAG."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/15/eq2-the-icy-keep-of-lag/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Icy Keep is EQ2's new addition to their winter wonderland of Frostfell fun, a nicely laid-out retooling of Permafrost that not only provides an..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Frostfell"
   - "The Icy Keep"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg"
 ---
+The Icy Keep is EQ2's new addition to their winter wonderland of Frostfell fun, a nicely laid-out retooling of Permafrost that not only provides an...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-14-16-56-40-60.jpg "everquest2-2008-12-14-16-56-40-60")
+
 
 The Icy Keep is EQ2's new addition to their winter wonderland of Frostfell fun, a nicely laid-out retooling of Permafrost that not only provides an hour's group fun, but also moves the ongoing EQ2 plot ahead slightly.
 
@@ -55,7 +33,7 @@ After looking for a group for the instance for all of about, oh, 30 seconds, I t
 
 First named went fine, I was pretty pleased, but the second named had two helpers, and keeping the adds charmed and/or mezzed while the boss guy himself proced what looked to be a reactive stun or maybe just spell reflection, I dunno... it was pretty tough. Besides, killing Protectors of Di'na was making me, Dina, feel like I was working against my best interests.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-14-19-24-39-73.jpg "everquest2-2008-12-14-19-24-39-73")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-14-19-24-39-73.jpg" title="everquest2-2008-12-14-19-24-39-73" classes="center" >}}
 
 Besides, what would I get out of this even if I managed to kill everything? Wasn't much on the vendor. The appearance armor was just a tinted version of that RMT Seafury armor and... hey, that stuff looked GREAT on my Arasai assassin in the dressing room...
 
@@ -65,7 +43,7 @@ Anyway, I had this idea that if I ever hit a rough patch, Etha (the defiler) cou
 
 Killing Ice Maiden Di'na was an adventure. Every so often, she shatters the ice imprisoning an ice elemental, who then joins the fight. If you don't kill it right away, she runs around and brings more. So, not knowing this, I tried to burn her down, but then about thirty ice elementals had spawned and we died. We died so hard.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/everquest2-2008-12-15-00-59-19-80.jpg "everquest2-2008-12-15-00-59-19-80")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/everquest2-2008-12-15-00-59-19-80.jpg" title="everquest2-2008-12-15-00-59-19-80" classes="center" >}}
 
 New plan: Kill the adds as soon as they spawn. That worked pretty well.
 

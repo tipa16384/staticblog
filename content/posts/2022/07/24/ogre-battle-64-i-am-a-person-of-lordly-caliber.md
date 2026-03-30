@@ -3,43 +3,22 @@ date: '2022-07-24T14:58:23-05:00'
 draft: false
 title: "Ogre Battle 64: I am a Person of Lordly Caliber"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/07/24/ogre-battle-64-i-am-a-person-of-lordly-caliber/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?..."
+categories:
   - "Nintendo 64"
   - "Tactical RPG"
+tags:
+  - "Nintendo 64"
   - "Ogre Battle"
   - "Person of Lordly Caliber"
   - "RPG"
   - "Symphony of War"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/danika.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/danika.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/danika.png"
 ---
+Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?...
+<!--more-->
 
 Jusssst about 51 hours, though I went back in later and finished some side quests. Is this worth picking up for your Nintendo 64?
 
@@ -47,7 +26,7 @@ Almost every review, *maybe* EVERY review, of recent tactical battler Symphony o
 
 The Ogre Battle series -- March of the Black Queen for the Super Nintendo, and Person of Lordly Caliber for the Nintendo 64 -- are both real time, squad-based tactics battlers, both with deep and involving storylines. The stories are loosely connected both through this Ogre Battle series, and the Tactics Ogre series, and some characters appear in both. (The player character in March of the Black Queen is even recruitable in Person of Lordly Caliber).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/Screenshot-2022-07-24-133214-1024x664.png" title="Angels bearing gifts" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot-2022-07-24-133214-1024x664.png" title="Angels bearing gifts" classes="center" >}}
 
 Both games track a hidden value called a Chaos Frame to select one of the possible endings. In this game, doing things to free the subjugated populations and liberating strongholds with a morale matching that of the liberating unit raise it; allying yourself with the occupying powers and capturing strongholds with units with alignment different from the stronghold lower it. Both have advantages, and many players play through twice.
 
@@ -55,7 +34,7 @@ The chaos frame is separate from the alignment of each character, which rises an
 
 In play playthrough, the protagonist's unit was a Chaos unit, and his buddy Dio's unit was a Law unit, while a third unit tried staying more neutral.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/corwinking.png" title="Good ending epilogue" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/corwinking.png" title="Good ending epilogue" classes="center" >}}
 
 The plot was very political. The hero's father is an advisor to Prince Yumil, the crown prince. He was once accused of a cowardly murder in order to protect the young prince, and still bears that shame. The hero tries to hide his ties to his father while doing his best to be assigned to a distant military post where nobody knows him.
 
@@ -63,7 +42,7 @@ He helps to quell a rebellious uprising that threatens to upend and erase the cl
 
 As the rebellion gains strength, the empire is forced to up its power level to fight them, eventually allying themselves with evil. The hero eventually realizes that he, by so efficiently defeating the empire and making them turn to increasingly desperate measures to preserve their own culture, is in some way responsible for unleashing evil on the land. And so goes the plot from there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/Screenshot-2022-07-24-112650-1024x712.png" title="Winner winner chicken dinner" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot-2022-07-24-112650-1024x712.png" title="Winner winner chicken dinner" classes="center" >}}
 
 I became obsessed with getting the best ending. I made *so many* mistakes, but the guides and walkthroughs promised that, by being very careful, it might be possible to save a decent ending from the all the bad decisions I've made. The maddening thing is that, through all this, I would have no idea if I was actually making progress. Until I saw the final score screen, I thought I was headed for the second worst ending, rather than the best.
 
@@ -73,7 +52,7 @@ With the Chaos Frame, Ogre Battle 64 requires you to carefully consider the cost
 
 There's still never been a tactics battler quite as intricate as the Ogre Battle series. Symphony of War took the mechanics without taking much of what made the games special. Still, it got me to go through the trouble of obtaining it and getting it working on my ancient N64, so I have to thank it for that.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/Screenshot-2022-07-23-150929-1024x645.png" title="Ogre Battle is unavoidable." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot-2022-07-23-150929-1024x645.png" title="Ogre Battle is unavoidable." classes="center" >}}
 
 The game lets you customize your units in many, many ways. None of the ten units in my battalion resembled each other in the slightest. The protagonist's group focused on a melee front line with a sorceress and an archmage combining their powers in back -- there wasn't even a healer. I had to use healing items.
 

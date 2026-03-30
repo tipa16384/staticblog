@@ -3,40 +3,17 @@ date: '2016-03-01T07:19:55-05:00'
 draft: false
 title: "Little Ladies"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2016/03/01/little-ladies/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "FFXIV Weekend report:..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2016/03/ffxiv_dx11-2016-02-27-21-16-28-70.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2016/03/ffxiv_dx11-2016-02-27-21-16-28-70.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2016/03/ffxiv_dx11-2016-02-27-21-16-28-70.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2016/03/ffxiv_dx11-2016-02-27-21-16-28-70.jpg"
 ---
+FFXIV Weekend report:...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2016/03/ffxiv_dx11-2016-02-27-21-16-28-70.jpg" title="Lovely ladies going for a song" class="align-center" >}}
+
 
 FFXIV Weekend report:
 
@@ -56,7 +33,7 @@ I've been doing on the level 60 roulette as tank, because I don't want to wait t
 
 It's been a sort of personal quest to get the dragoon job as high in DPS as possible. I've been really working hard on Stone, Sea, Sky, and can easily pass the A1S -- Alexander Fist of the Father (Savage) -- test. The irony that once I have gear good enough to pass the tests I would no longer need anything from the dungeon itself isn't lost on me. I did an A3 (Alexander Arm of the Father) and got SEVEN commendations afterward. EVERY SINGLE member of the raid commended me. I have screenshot proof.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2016/03/ffxiv_dx11-2016-02-27-23-14-25-34.jpg" title="You like me! You really like me!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2016/03/ffxiv_dx11-2016-02-27-23-14-25-34.jpg" title="You like me! You really like me!" classes="center" >}}
 
 BIG change from when I first started those raids as a dragoon and lagged behind HEALERS on DPS.
 
@@ -74,4 +51,4 @@ Kind of. He should have seen he had a HOT on him and waited a couple seconds bef
 
 Tonight: MORE MAIN STORY QUEST!!! I can't wait!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2016/03/ffxiv_dx11-2016-02-27-23-24-55-33.jpg" title="I could already be a winner!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2016/03/ffxiv_dx11-2016-02-27-23-24-55-33.jpg" title="I could already be a winner!" classes="center" >}}

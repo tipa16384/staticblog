@@ -3,39 +3,17 @@ date: '2020-08-30T18:02:22-05:00'
 draft: false
 title: "Microsoft Flight Simulator: Taxiing up my driveway"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/30/microsoft-flight-simulator-taxiing-up-my-driveway/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've looked and looked and can't find out where Microsoft ever officially said that you would be able to find your house in its world-spanning..."
+categories:
   - "Steam Games"
+tags:
   - "Girls Screaming in Fear"
   - "Microsoft Flight Simulator"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/20200830170238_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/20200830170238_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/20200830170238_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/20200830170238_1.jpg"
 ---
+I've looked and looked and can't find out where Microsoft ever officially said that you would be able to find your house in its world-spanning...
+<!--more-->
 
 I've looked and looked and can't find out where Microsoft ever *officially* said that you would be able to find your house in its world-spanning flight simulator, but it sure as heck looks like every other review of the game mentions that.
 
@@ -62,21 +40,21 @@ When I complained about this on Twitter, Lum the Mad pointed out that only some 
 
 I looked through the list in the link, and saw that Concord, New Hampshire was one of those cities, the only one in New Hampshire to get the treatment. I went in game to take another look -- and I STILL didn't see the state capitol. But I persevered, followed Pleasant Street out of the downtown area, found the high school, found the hospital, turned right past the hospital on Fisk -- and there was a bare hill with a line of houses on it.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/20200830170611_1-1024x576.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/20200830170611_1-1024x576.jpg" classes="center" >}}
 
 Down the hill was Long Pond...
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/20200830170545_1-1024x576.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/20200830170545_1-1024x576.jpg" classes="center" >}}
 
 I was pretty excited; I botched the approach a couple of times but did manage to land on the street, though the street didn't match the house positions, which was weird.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/20200830170325_1-1024x576.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/20200830170325_1-1024x576.jpg" classes="center" >}}
 
 This is Little Pond, where we used to go ice skating. There's actually some sort of airplane beacon on the hill to the left there, but it isn't represented in the game, which is weird. Seems like the kind of thing you'd put in a flight simulator.
 
 And finally...
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/20200830170238_1-1-1024x576.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/20200830170238_1-1-1024x576.jpg" classes="center" >}}
 
 I can now say I taxied to my house in Microsoft Flight Simulator 2020. 9 Via Tranquilla, Concord, NH, 03301. Come by and say hello!
 

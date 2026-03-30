@@ -3,40 +3,17 @@ date: '2023-11-16T07:00:00-05:00'
 draft: false
 title: "Avalon: the new everything MMO that you can make at home!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/16/avalon-the-new-everything-mmo-that-you-can-make-at-home/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Content warning: Blockchain, AI, Metaverse. Please do not read if you have or feel you may have a susceptibility toward \"Web3\". See your doctor at the first sign of symptoms."
-description: "Content warning: Blockchain, AI, Metaverse. Please do not read if you have or feel you may have a susceptibility toward \"Web3\". See your doctor at the first sign of symptoms."
-tags:
+categories:
   - "Avalon"
   - "Blockchain"
   - "EverQuest"
   - "NFT"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/next_static_media_Splash_Gradient.dd97fb8f.jpg"
 ---
+Content warning: Blockchain, AI, Metaverse. Please do not read if you have or feel you may have a susceptibility toward "Web3". See your doctor at the first sign of symptoms.
+<!--more-->
 
 Just to get everyone up to speed: Avalon is a coming MMO that is built on user generated content. They see themselves more as a metaverse toolbox, than a metaverse themselves. It's fronted by MMO industry vets including Jeff Butler, who was a producer on EverQuest, co-founder with Brad McQuaid of Sigil (of Vanguard fame), and a lead designer of EverQuest Next.
 
@@ -44,7 +21,7 @@ So, he has earned a listen.
 
 Avalon, like Roblox, Second Life, A Tale in the Desert, Neverwinter (to some extent and in the past, we'll come back to that later), VR Chat, Wurm Online, and planned for EQ Next, will be a game that, by itself, won't be much of a game. They will provide a setting; you'll provide the game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/image-6-300x300.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/image-6-300x300.png" classes="fig-20" >}}
 
 This can work. This can make creators money. Roblox is a perfect example. Ultima Online vet Raph Koster created Metaplace more than a decade ago and is doing it again now at Playable Worlds.  It's a hopping field these days. Everyone wants to make "Ready Player One" and "Snow Crash" real. For the kids. Probably. They say. Those two books were set in dystopias, by the way.
 
@@ -70,7 +47,7 @@ Avalon will allow users to use Avalon-owned tools to put Avalon-owned assets tog
 
 Cool, right?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/image-5-300x300.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/image-5-300x300.png" classes="fig-20" >}}
 
 Well, first, "blockchain" is just another kind of database. Second Life, Roblox, all of them, store owner data in a database. The only thing different with a blockchain is that anyone can read it. Not sure how that really benefits anyone, but okay. They also tend to be slow and expensive to update, so usually projects like this don't actually store everything on the blockchain, they just store information on a private database and just put pointers into that in big block updates into the actual blockchain. These are called sidechains, and aren't peer to peer like most blockchains, but are run entirely in-house. So, databases. Just like the other games.
 
@@ -88,7 +65,7 @@ But you can't, and neither can I, because one day Cryptic said "no more Foundry"
 
 So yeah. When someone tells me they would like me to put in an immense amount of work to benefit a large corporation, I am a little skeptical. "Blockchain" is a magic word that is supposed to make you feel like you own something, but... you do not.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/image-4-300x300.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/image-4-300x300.png" classes="fig-20" >}}
 
 Billions of people have spent billions of hours and billions of dollars to make Mark Zuckerberg rich. The vast majority never saw a penny for all their hard work.
 

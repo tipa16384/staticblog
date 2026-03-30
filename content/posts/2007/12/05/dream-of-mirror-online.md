@@ -3,40 +3,17 @@ date: '2007-12-05T08:49:07-05:00'
 draft: false
 title: "Dream of Mirror Online"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/05/dream-of-mirror-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I downloaded Dream of Mirror Online (DOMO) last night, and tried to get it to work under WINE in Linux, but no dice, so I..."
+categories:
   - "Dream of Mirror Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/domo-2007-12-05-07-41-12-99.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/domo-2007-12-05-07-41-12-99.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/domo-2007-12-05-07-41-12-99.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/domo-2007-12-05-07-41-12-99.jpg"
 ---
+I downloaded Dream of Mirror Online (DOMO) last night, and tried to get it to work under WINE in Linux, but no dice, so I...
+<!--more-->
 
-![domo-2007-12-05-07-41-12-99.jpg](https://chasingdings.com/wp-content/uploads/2007/12/domo-2007-12-05-07-41-12-99.jpg)
+
 
 I downloaded Dream of Mirror Online (DOMO) last night, and tried to get it to work under WINE in Linux, but no dice, so I installed it on my Windows machine. 3D anime style Korean (not Japanese)  port, which means that looking for their Advanced Recon Intelligence Gathering Automatic Targeting Ordnance (ARIGATO) will probably end up disappointingly.
 

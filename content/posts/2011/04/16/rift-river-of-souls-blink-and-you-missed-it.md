@@ -3,40 +3,17 @@ date: '2011-04-16T19:10:10-05:00'
 draft: false
 title: "Rift: River of Souls? Blink and you missed it."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/04/16/rift-river-of-souls-blink-and-you-missed-it/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Though Phase 1 of Rift's River of Souls event took its time and lasted long enough -- two weeks -- for everyone to get a..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-16-57-37-06-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-16-57-37-06-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-16-16-57-37-06-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-16-16-57-37-06-480x384.jpg"
 ---
+Though Phase 1 of Rift's River of Souls event took its time and lasted long enough -- two weeks -- for everyone to get a...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-16-57-37-06-480x384.jpg" title="Fighting a Shimmersand boss" class="align-center" >}}
+
 
 Though Phase 1 of Rift's River of Souls event took its time and lasted long enough -- two weeks -- for everyone to get a chance at it, the second and third phases took only about half an hour together. If you weren't there -- or worse, if you were stuck in an hours-long queue -- you missed it. It's gone, it's over, there's a new raid now ("The River of Souls"), but the one-time rewards are done and gone.
 
@@ -44,13 +21,13 @@ Trion brought down all servers before the start of the event to ensure the event
 
 The server didn't even bother trying to draw all the players in the area. You'd see the people in a small circle centered on your character, a couple further away. The game did its best, but just couldn't handle the load.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-17-33-12-23-480x383.jpg" title="A Stillmoor Love-In" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-16-17-33-12-23-480x383.jpg" title="A Stillmoor Love-In" classes="center" >}}
 
 Our guild formed a raid in Shimmersand at the appointed time and after the servers returned. Trion posted that the start time for Phase 2 would be different for each server, so we spent the time closing rifts on "XP Beach", knocking shoulders with a Guardian raid, fighting over rights to the Rift boss. There may have been a little PvP here and there. I may have accidentally plinked a Guardian. I may have then been farmed by the Guardian raid until someone told me how to turn off auto-pvp flagging.
 
 Upshot was, we were far from Wyrmbane Spire when Phase 2 finally started. By the time we made it back there, the first Shimmersand boss had been killed. We could see the progress of Phase 2 in the quest log; in every zone in the game, players would have to kill the special "colossi" bosses. Clearing every zone would trigger Phase 3.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-18-09-47-87-480x384.jpg" title="The River of Souls instance" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-16-18-09-47-87-480x384.jpg" title="The River of Souls instance" classes="center" >}}
 
 The other three bosses were in Fortune's Shore, Shimmersand's main city. We took the porticulum from the Spire to the city and I had time to help on two bosses; a giant grim shade and an enormous centaur, who one-shotted me. Nonetheless, I got a "weapon cache" from one of the bosses. Examining it starts a quest to kill a colossi, close a certain number of death rifts and defeat a certain number of death invasions. The reward, for a rogue, is either a cool looking dagger or a cool looking bow, both blue quality -- not very special stat-wise, but definitely cool looking and really emphasizing the need for some sort of appearance slots so these weapons won't get discarded immediately. They're okay, but they aren't T1, and at this stage in my roguely career, I need to be focusing on better gear.
 

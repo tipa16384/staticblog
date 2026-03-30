@@ -3,40 +3,17 @@ date: '2015-07-28T21:01:29-05:00'
 draft: false
 title: "The Odd Kupo!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/07/28/the-odd-kupo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We're used to being challenged on our FFXIV story nights, but it sure didn't look like any sort of challenge was in the cards last..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-27-22-14-09-91.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-27-22-14-09-91.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/07/ffxiv-2015-07-27-22-14-09-91.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/07/ffxiv-2015-07-27-22-14-09-91.jpg"
 ---
+We're used to being challenged on our FFXIV story nights, but it sure didn't look like any sort of challenge was in the cards last...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/07/ffxiv-2015-07-27-22-14-09-91.jpg" title="King for a Day" class="align-center" >}}
+
 
 We're used to being challenged on our FFXIV story nights, but it sure didn't look like any sort of challenge was in the cards last night. We did start out with Ifrit (Hard), but essentially the same encounter as the normal Ifrit with double the players just wasn't memorable. Maybe before FFXIV started shoveling great gear at new players, and people had to gear up... but with ilevel 115 gear cheap in the auction house and ilevel 120 gear easily obtainable via poetic tomestones, most of the fights that included gear checks are pretty trivial -- Ifrit included.
 

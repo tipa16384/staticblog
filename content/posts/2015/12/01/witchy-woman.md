@@ -3,40 +3,17 @@ date: '2015-12-01T23:39:16-05:00'
 draft: false
 title: "Witchy Woman"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/12/01/witchy-woman/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I logged in Monday, Kasul was just finishing up his level 56 in order to start on the new Ishgard plot. The one that..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/12/ffxiv-2015-11-30-20-06-44-67.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/12/ffxiv-2015-11-30-20-06-44-67.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/ffxiv-2015-11-30-20-06-44-67.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/ffxiv-2015-11-30-20-06-44-67.jpg"
 ---
+When I logged in Monday, Kasul was just finishing up his level 56 in order to start on the new Ishgard plot. The one that...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/ffxiv-2015-11-30-20-06-44-67.jpg" title="The General is the Pope's bastard son. Niiiice." class="align-center" >}}
+
 
 When I logged in Monday, Kasul was just finishing up his level 56 in order to start on the new Ishgard plot. The one that will finally explain just what the Ascians and the Holy See were up to. We just know it's something evil.
 
@@ -54,11 +31,11 @@ Heck no, she's a witchy woman. Some translator was having a bit of fun.
 
 ... and then the quest required level 57, and Kasul and I had to pause and do other things to get some levels.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/ffxiv-2015-11-30-21-10-13-69.jpg" title="Keeper of the Lake" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/ffxiv-2015-11-30-21-10-13-69.jpg" title="Keeper of the Lake" classes="center" >}}
 
 ... so we did some random hard modes. We did Keeper of the Lake, Brayflox (Hard), Haukke Manor (Hard), Brayflox (Normal) for xp, then we duo'd Haukke Manor (Normal) a couple times to farm some Fine Wax for crafting.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/ffxiv-2015-12-01-22-02-34-65.jpg" title="Crafter 4 Life" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/ffxiv-2015-12-01-22-02-34-65.jpg" title="Crafter 4 Life" classes="center" >}}
 
 So that's where we stand at the moment. On the lookout for a witchy woman known only as "The Mongrel".
 

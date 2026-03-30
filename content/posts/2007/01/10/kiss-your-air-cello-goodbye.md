@@ -3,39 +3,18 @@ date: '2007-01-10T01:15:19-05:00'
 draft: false
 title: "Kiss Your Air Cello Goodbye!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/01/10/kiss-your-air-cello-goodbye/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yoyo Ma? YO MAMA!..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/celloherosmall.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/01/celloherosmall.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/celloherosmall.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/celloherosmall.jpg"
 ---
+Yoyo Ma? YO MAMA!...
+<!--more-->
 
-![celloherosmall.jpg](https://chasingdings.com/wp-content/uploads/2007/01/celloherosmall.jpg)Yoyo Ma? YO MAMA!
+
+
+Yoyo Ma? YO MAMA!
 
 Yeah you, the guy who loses it to largo. Schizo for scherzo. Tantrums for tarantellas. Sawing away at the air cello through the entire winter concert season.
 
@@ -47,7 +26,7 @@ Greatest hits from four centuries of cello's finest! Bach! Bann! Bantock! Bax!
 
 Solo play or gather a dozen friends for multiplayer ensemble action! Or tab a friend for cello duels a la Dutilleux!
 
-![celloheroscore.jpg](https://chasingdings.com/wp-content/uploads/2007/01/celloheroscore.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/01/celloheroscore.jpg" classes="center" >}}
 
 John Cage - One^8
 

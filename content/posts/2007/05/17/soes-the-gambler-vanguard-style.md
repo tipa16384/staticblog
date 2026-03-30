@@ -3,38 +3,13 @@ date: '2007-05-17T08:49:25-05:00'
 draft: false
 title: "SOE's \"The Gambler\", Vanguard-style"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/05/17/soes-the-gambler-vanguard-style/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "You gotta know when to hold 'em..."
+categories:
   - "MMORPG"
   - "Vanguard"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+You gotta know when to hold 'em...
+<!--more-->
 
 You gotta know when to hold 'em
 

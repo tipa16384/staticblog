@@ -3,40 +3,16 @@ date: '2009-06-19T20:43:40-05:00'
 draft: false
 title: "Wizard 101: Grizzleheim LIVE on TEST"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/19/wizard-101-grizzleheim-live-on-test/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Grizzleheim is now live on Wizard 101's test server! If you're a subscriber and want a peak at the next world, download it and check..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Grizzleheim"
   - "Test Server"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Grizzleheim is now live on Wizard 101's test server! If you're a subscriber and want a peak at the next world, download it and check...
+<!--more-->
 
 Grizzleheim is now live on Wizard 101's test server! If you're a subscriber and want a peak at the next world, download it and check it out! Unfortunately, right at this moment the servers are down -- but they should be up soon!
 

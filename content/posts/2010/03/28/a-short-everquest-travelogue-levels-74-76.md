@@ -3,50 +3,25 @@ date: '2010-03-28T00:51:54-05:00'
 draft: false
 title: "A short EverQuest travelogue: Levels 74-76"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/28/a-short-everquest-travelogue-levels-74-76/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What have I done today in EverQuest?..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-26-19-59-03-18.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-26-19-59-03-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-26-19-59-03-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-26-19-59-03-18.jpg"
 ---
+What have I done today in EverQuest?...
+<!--more-->
 
 What have I done today in EverQuest?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-26-19-59-03-18.jpg" title="Hunting in Old Commonlands with Sispis" class="align-center" >}}
-
 Sispis showed me how to navigate the Void and come to an ancient version of the Commonlands, where all the animals were level 75. I look like a kitty here because I'd just been to Shar'vahl, the kitty city on the not-yet-exploded moon of Luclin, and I always try my best to fit in. I have a huge bag full of illusion masks just for that, though you can purchase innate illusions with AA now. Though not the gnome illusion!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-27-16-13-36-22.jpg" title="Bolvi and I making dead things even deader in the Hole" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-27-16-13-36-22.jpg" title="Bolvi and I making dead things even deader in the Hole" classes="center" >}}
 
 Bolvi, a guild mage who just started playing again last month after seven years away, invited me down to the bottom of The Hole in order to get some AA. I happily agreed, and we spent a couple of hours clearing the Dead Tower and chatting about what life has handed us since last we grouped, a long, long time ago. I also got four AA, and a friend added me to his monster mission tasks while we were farming, so I came out of the Hole with three monster mission rewards waiting for me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-28-00-03-37-68.jpg" title="Adventuring in the Freeport Sewers" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-28-00-03-37-68.jpg" title="Adventuring in the Freeport Sewers" classes="center" >}}
 
 The EverQuest 11th Anniversary event brings you to an alternate version of the Freeport sewers, which have been taken over by clockworks. Our job: kill them. There's no way a low level like myself would have been able to get into an Anniversary quest group, but this was with a group of former guildies and current friends who mostly had coalesced into the guild Synergy.
 

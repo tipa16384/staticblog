@@ -3,49 +3,27 @@ date: '2009-05-02T10:05:08-05:00'
 draft: false
 title: "It's official, the new EverQuest server is chosen, plus EQ3 rumors?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/02/its-official-the-new-everquest-server-is-chosen-plus-eq3-rumors/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "WK's own Neriak correspondent, Nashuya N'Hamsha, interviews local residents about the new 51/50 server...."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "51/50"
   - "Eq3"
   - "Server"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/neriak5150.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/neriak5150.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neriak5150.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/neriak5150.jpg"
 ---
+WK's own Neriak correspondent, Nashuya N'Hamsha, interviews local residents about the new 51/50 server....
+<!--more-->
 
-![neriak5150](https://chasingdings.com/wp-content/uploads/2009/05/neriak5150.jpg "neriak5150")
+
 
 *WK's own Neriak correspondent, Nashuya N'Hamsha, interviews local residents about the new 51/50 server.*
 
 EverQuest dev (and write for the EQ Dev Blog) Clint Worely announced yesterday that all the votes were in -- [the new EverQuest server type has been chosen](http://eqdev.wordpress.com/2009/05/01/what-a-wild-ride/).
 
-[The original poll had several suggestions](https://chasingdings.com/index.php/2009/03/14/everquests-new-server-what-are-the-choices/), including a new regular server, a PvP server, a special rules server and even another progression server similar to but improved over the previous progression servers, The Sleeper and The Combine. The most unexpected option was one for a new "51/50" server, where all new characters would start off at level 51 with 50 AA and presumably some decent starting gear, probably the common Defiant armor that has been dropping since last summer's "Living Legacy" event.
+[The original poll had several suggestions](https://tipa16384.github.io/wkblog/index.php/2009/03/14/everquests-new-server-what-are-the-choices/), including a new regular server, a PvP server, a special rules server and even another progression server similar to but improved over the previous progression servers, The Sleeper and The Combine. The most unexpected option was one for a new "51/50" server, where all new characters would start off at level 51 with 50 AA and presumably some decent starting gear, probably the common Defiant armor that has been dropping since last summer's "Living Legacy" event.
 
 While the support on the forums and other discussion places seemed to favor a new progression server, the devs have been hinting at for quite awhile what they confirmed last week, that the in-game polls had been trending strongly toward the 51/50 server.
 

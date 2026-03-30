@@ -3,43 +3,20 @@ date: '2006-02-22T00:00:00-05:00'
 draft: false
 title: "Prophecy of Ro"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/22/prophecy-of-ro/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I have only recently been playing EQ1 again, and the new expansion kinda snuck up on me. I knew Prophecy of Ro was coming out,..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/arcstone.jpg"
-cover:
-  image: "https://chasingdings.com/images/arcstone.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/arcstone.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/arcstone.jpg"
 ---
+I have only recently been playing EQ1 again, and the new expansion kinda snuck up on me. I knew Prophecy of Ro was coming out,...
+<!--more-->
 
-![](https://chasingdings.com/images/arcstone.jpg)
 
-![](https://chasingdings.com/images/barding.jpg)
+
+{{< image src="https://tipa16384.github.io/wkblog/images/barding.jpg" classes="center" >}}
 
 I have only recently been playing EQ1 again, and the new expansion kinda snuck up on me. I knew Prophecy of Ro was coming out, but I really did not know when. EQ2's Kingdom of Sky, I knew about.
 

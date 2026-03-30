@@ -3,41 +3,19 @@ date: '2020-09-22T07:21:20-05:00'
 draft: false
 title: "Kingdom of Amalur: Re-Reckoning: I reckon I remember this."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/22/kingdom-of-amalur-re-reckoning-i-reckon-i-remember-this/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I started Kingdom of Amalur: Re-Reckoning yesterday, though I haven't played for six years, it all came rushing back. I immediately remembered why I've..."
+categories:
   - "Steam Games"
+tags:
   - "38 Studios"
   - "Kingdoms of Amalur: Reckoning"
   - "Project Copernicus"
   - "RPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/streaming_client-2020-09-21-21-14-18-59.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/streaming_client-2020-09-21-21-14-18-59.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-21-21-14-18-59.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-21-21-14-18-59.jpg"
 ---
+When I started Kingdom of Amalur: Re-Reckoning yesterday, though I haven't played for six years, it all came rushing back. I immediately remembered why I've...
+<!--more-->
 
 When I started Kingdom of Amalur: Re-Reckoning yesterday, though I haven't played for six years, it all came rushing back. I immediately remembered why I've never actually finished the game -- the aching loneliness of running an MMO by myself.
 
@@ -45,7 +23,7 @@ I remember really wanting, back in the day, a version of EverQuest without other
 
 I've never finished KoA in the three or so times I've played it over the years, but this time -- it's happening.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/streaming_client-2020-09-21-18-58-56-20-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-21-18-58-56-20-1024x576.jpg" classes="center" >}}
 
 The last time I played, I started off as a dark elf with a knack for stealth and daggers. Eventually, in that last playthrough, I respec'd to a combination of stealth and magic that mostly killed everything before mobs knew I was even there. I resolved that in this play through, I was going to try something new and entirely different. Maybe a warrior of light? Maybe a priest bringing the divine justice?
 
@@ -53,7 +31,7 @@ Or maybe -- hear me out -- a stealthy dark elf focusing on daggers? I was disapp
 
 I might just be too familiar with this game for my own good.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/streaming_client-2020-09-21-21-17-11-55-1024x576.jpg" title="All the available classes at the start of the game" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-21-21-17-11-55-1024x576.jpg" title="All the available classes at the start of the game" classes="center" >}}
 
 While the graphics have been notably upgraded from KoA: The Unrereckoninged, I didn't see too many other changes. It took me an hour to escape the tutorial as I checked every nook and cranny for loot, all the while my little gnome docent grew increasingly panicked by my lack of urgency.
 
@@ -63,7 +41,7 @@ I'd forgotten that in this game, you're actually a newly created soul inhabiting
 
 Anarchy rules.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/streaming_client-2020-09-21-22-48-06-18-1024x576.jpg" title="Entering the Avatar state" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-21-22-48-06-18-1024x576.jpg" title="Entering the Avatar state" classes="center" >}}
 
 I'd forgotten that health doesn't regenerate naturally in this game. You can find or craft weapons with lifesteal on them, or rest at an inn, for a price, or drink potions.
 

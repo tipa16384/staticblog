@@ -3,46 +3,23 @@ date: '2007-11-05T00:53:19-05:00'
 draft: false
 title: "EQ2: Rambling on..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/05/eq2-rambling-on/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Those who write on Freeport walls, roll their......"
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/graffiti.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/graffiti.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/graffiti.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/graffiti.jpg"
 ---
+Those who write on Freeport walls, roll their......
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2007/11/graffiti.jpg)
+
 
 *Those who write on Freeport walls, roll their...*
 
 I'm in a little bit of a funk regarding EQ2 at the moment. Not the game -- no, the game is great. It's me. And it's other people. These sorts of games are social games, and if the social isn't working, the game isn't working.
 
-![](https://chasingdings.com/wp-content/uploads/2007/11/newdagger.jpg) The guild I'm in is having problems. It has been having problems for awhile. There is room for only so many raiding guilds on any particular server, and we were number one, once; now we're number ten, maybe lower.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/newdagger.jpg" classes="fig-20" >}} The guild I'm in is having problems. It has been having problems for awhile. There is room for only so many raiding guilds on any particular server, and we were number one, once; now we're number ten, maybe lower.
 
 It's hard to get people to join who will stay. I know how this story ends; Crimson Eternity on EQ1 ended the same way. Recruit all you like, but once a guild has lost its momentum, it's impossible to get it back. Sure, we have people coming back for Kunark -- they are joining other guilds.
 

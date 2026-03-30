@@ -3,40 +3,17 @@ date: '2007-12-21T08:52:12-05:00'
 draft: false
 title: "EQ2: The long march to level 80."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/21/eq2-the-long-march-to-level-80/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It took me half an hour to find the portal from Gorowyn to Kylong Plains. Those helpful geniuses at EQ2 Interface must have thought that..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-20-19-25-23-14.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-20-19-25-23-14.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-20-19-25-23-14.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-20-19-25-23-14.jpg"
 ---
+It took me half an hour to find the portal from Gorowyn to Kylong Plains. Those helpful geniuses at EQ2 Interface must have thought that...
+<!--more-->
 
-![everquest2-2007-12-20-19-25-23-14.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-20-19-25-23-14.jpg)
+
 
 It took me half an hour to find the portal from Gorowyn to Kylong Plains. Those helpful geniuses at EQ2 Interface must have thought that big glowing purple portal was too obvious to mention, or I just haven't updated my maps recently...
 
@@ -48,4 +25,4 @@ This weekend, TO DO in game: Get 80, and get moved in to Gorowyn. This is Christ
 
 Oh, what the heck. Here's a blurry Hartford, Connecticut, at night. Mmm snow. That tall building there is the tallest building in all of Connecticut. It's true! Wikipedia says so!
 
-![stp60907.JPG](https://chasingdings.com/wp-content/uploads/2007/12/stp60907.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/stp60907.JPG" classes="center" >}}

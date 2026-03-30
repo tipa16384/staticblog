@@ -3,49 +3,27 @@ date: '2021-08-06T08:22:57-05:00'
 draft: false
 title: "Terraforming Mars: Ares Expedition Review"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/06/terraforming-mars-ares-expedition-review/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Terraforming Mars, the big box game by FryxGames, is a long-time favorite board game at our kitchen table. As the name implies, it's a game..."
+categories:
   - "Blaugust"
   - "Card Games"
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
+tags:
   - "Ares Expedition"
   - "Card Game"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png"
 ---
+Terraforming Mars, the big box game by FryxGames, is a long-time favorite board game at our kitchen table. As the name implies, it's a game...
+<!--more-->
 
 [Terraforming Mars](https://boardgamegeek.com/boardgame/167791/terraforming-mars), the big box game by [FryxGames](https://www.fryxgames.se/), is a long-time favorite board game at our kitchen table. As the name implies, it's a game about making Mars habitable by humans. But, what if Terraforming Mars, but a fast-paced card game? That's Ares Expedition.
 
 Terraforming Mars: Ares Expedition shares a lot of elements with the board game. There's a board representing Mars, divided into hexes. Players represent corporations building generation-long projects, which are cards in both games. Players have their own player boards, on which they track wealth and resources. What's changed?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2286.jpg" title="Playing Terraforming Mars: Ares Expedition" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2286.jpg" title="Playing Terraforming Mars: Ares Expedition" classes="center" >}}
 
 Ares Expedition is Terraforming Mars stripped to the bone. There are no cities or forests on the Mars map -- only ocean tiles, which are flipped from desert to water as players complete projects that affect them. Instead of playing in turn, players play simultaneously. And in likely the largest change, not all possible phases are done every turn.
 

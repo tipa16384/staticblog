@@ -3,40 +3,17 @@ date: '2012-03-03T01:53:20-05:00'
 draft: false
 title: "D&D 4E Shadowfell Keep: Six leg in the corner pocket"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/03/03/dd-4e-shadowfell-keep-six-leg-in-the-corner-pocket/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I knew it was going to be a weird night when everyone broke out the hoodies. That's something you get when you play face to..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/03/FantasyGrounds-2012-03-01-22-27-40-77-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/03/FantasyGrounds-2012-03-01-22-27-40-77-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/03/FantasyGrounds-2012-03-01-22-27-40-77-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/03/FantasyGrounds-2012-03-01-22-27-40-77-480x360.jpg"
 ---
+I knew it was going to be a weird night when everyone broke out the hoodies. That's something you get when you play face to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/FantasyGrounds-2012-03-01-22-27-40-77-480x360.jpg" title="Into the Kruthik Lair" class="align-center" >}}
+
 
 I knew it was going to be a weird night when everyone broke out the hoodies. That's something you get when you play face to face (via webcam, but still)... Weird stuff can happen.
 
@@ -68,7 +45,7 @@ Wenner smiled, then faded into the darkness. "Bad bait," said Sheeoil.
 
 The Kruthik Young tore from the hole, turned and saw Sheeoil. It swiped but missed. It was followed by a smaller Kruthik that also turned to attack the elf. It, too, missed.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/kruthiks-480x203.jpg" title="Clearly, our kruthiks were a mutant six-legged variety." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/03/kruthiks-480x203.jpg" title="Clearly, our kruthiks were a mutant six-legged variety." classes="center" >}}
 
 Sheeoil kills the kruthik hatchling with the light of a sacred flame. I hit the young kruthik with a bolstering strike, leaving it wounded and marked. Wenner took a moment deciding not to continue exploring while the rest of the company took on the monsters. He ran up and stabbed the youngling with a sly flourish; the kruthik staggered, bloodied.
 

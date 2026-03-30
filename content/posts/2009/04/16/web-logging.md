@@ -3,24 +3,8 @@ date: '2009-04-16T07:21:45-05:00'
 draft: false
 title: "Web Logging!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/16/web-logging/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The original definition of \"blog\" was as an abbreviation of \"web log\", where you'd point out interesting places you found while surfing. I don't really..."
+categories:
   - "Age of Conan"
   - "Champions Online"
   - "Chronicles of Spellborn"
@@ -29,18 +13,9 @@ tags:
   - "MMORPG"
   - "Shards of Dalaya"
   - "Web Logging"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+The original definition of "blog" was as an abbreviation of "web log", where you'd point out interesting places you found while surfing. I don't really...
+<!--more-->
 
 The original definition of "blog" was as an abbreviation of "web log", where you'd point out interesting places you found while surfing. I don't really have anything to write about today -- I did 1.1.11 in LotRO last night on my hunter and started in on the Forsaken Inn quests, and played Free Realms for a couple of hours but I can't write about that, so... welcome to my web log!
 

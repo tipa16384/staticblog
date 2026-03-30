@@ -3,37 +3,14 @@ date: '2015-05-16T02:28:53-05:00'
 draft: false
 title: "Second Hyperlapse test."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/05/16/second-hyperlapse-test-ive-been-waiting-for-this-to-come-out-for-months-it-really-does-make-sped/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Second Hyperlapse test. I've been waiting for this to come out for months. It really does make sped-up bike video look almost watchable, though, ironically,..."
+categories:
   - "General"
-featured_image: "https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n"
-cover:
-  image: "https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n"
+thumbnailImage: "https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n"
 ---
+Second Hyperlapse test. I've been waiting for this to come out for months. It really does make sped-up bike video look almost watchable, though, ironically,...
+<!--more-->
 
 Second Hyperlapse test. I've been waiting for this to come out for months. It really does make sped-up bike video look almost watchable, though, ironically, YouTube said it looked a little shaky and offered to clean it up ;-)
 
@@ -43,7 +20,9 @@ All that said, I'm looking forward to applying this to some drone shots. If I ha
 
 [#MSHyperlapse](https://plus.google.com/s/%23MSHyperlapse)  ﻿[Hartford and East Hartford Hyperlapse](https://plus.google.com/+BrendaHolloway/posts/7V8WojfvAPK)
 
-[![](https://lh4.googleusercontent.com/proxy/AYM6iZW-1RO6_KVq24Uu7dO_cQ87KgIE7KOwfT6umakDWG7a3NqI-hgCgOtjnjBwLcvOi791m_59Ay_DzWfqP0Ktdvk=w506-h284-n)](https://plus.google.com/+BrendaHolloway/posts/7V8WojfvAPK)
+[
+
+](https://plus.google.com/+BrendaHolloway/posts/7V8WojfvAPK)
 
 Slightly longer test of Microsoft Hyperlapse on the way home tonight. Hyperlapse is supposed to smoo
 

@@ -3,44 +3,22 @@ date: '2022-08-21T07:00:00-05:00'
 draft: false
 title: "21 Reactions: Chemical Chaos"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/21/21-reactions-chemical-chaos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
   - "Rhythm Games"
+tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
   - "Wombats"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.11.32-a-beaker-containing-multicolored-chemicals.-musical-notes-are-coming-out-of-the-mouth-of-the-beaker.-in-the-style-of-a-textbook-illustration..png"
 ---
+I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 21st: “21 Reactions: Chemical Chaos”.
 
@@ -48,7 +26,7 @@ Number: 21. Genre: Rhythm game. Title: "21 Grams". Outline: In this rhythm game,
 
 Your lab is being rocked by an alien attack. Your only chance of survival is to create 21 reactions using alien chemicals and use it to destroy their ship. You'll only be able to safely mix chemicals when the music is playing, so keep the beat and save the world! If you miss a beat, the chemicals will explode and you'll be destroyed along with the lab. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-13-21.16.31-a-pencil-shaded-sketch-of-a-wombat-in-a-lab-coat-holding-a-beaker-filled-with-musical-notes.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-13-21.16.31-a-pencil-shaded-sketch-of-a-wombat-in-a-lab-coat-holding-a-beaker-filled-with-musical-notes.png" classes="fig-20" >}}
 
 Each chemical must be mixed in the order shown on the screen. You'll have to time your button presses to the music to ensure that each one is added at the right moment. The game will get harder as more chemicals are added. Perfecting a certain reaction may take a few tries, but don't give up. 
 
@@ -56,7 +34,7 @@ During the mixing, you'll be given the chance to decide how much of each chemica
 
 The music will change as you get closer to the end. Be sure to keep the beat going until the very end, or it'll all be for nothing! 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/craiyon_212014_a_beaker_containing_multicolored_chemicals__musical_notes_are_coming_out_of_the_mouth.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_212014_a_beaker_containing_multicolored_chemicals__musical_notes_are_coming_out_of_the_mouth.png" classes="fig-20" >}}
 
 The game screen is a laboratory set-up with a beaker in the center. On the left and right sides of the screen are containers of various chemicals. At the bottom of the screen is a row of buttons, each corresponding to a different chemical. Above the beaker is a gauge that shows how close the mixture is to exploding. 
 

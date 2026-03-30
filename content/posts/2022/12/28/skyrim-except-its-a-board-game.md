@@ -3,40 +3,18 @@ date: '2022-12-28T20:38:48-05:00'
 draft: false
 title: "Skyrim, except it's a board game"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/28/skyrim-except-its-a-board-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We've been really enjoying this board game version of Skyrim the last couple of family game nights... but maybe it is a little TOO faithful to the videogame?"
-description: "We've been really enjoying this board game version of Skyrim the last couple of family game nights... but maybe it is a little TOO faithful to the videogame?"
-tags:
+categories:
   - "Game Night"
   - "Tabletop Game"
+tags:
   - "Bethesda"
   - "Skyrim"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/pic7203331.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/pic7203331.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/pic7203331.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/pic7203331.webp"
 ---
+We've been really enjoying this board game version of Skyrim the last couple of family game nights... but maybe it is a little TOO faithful to the videogame?
+<!--more-->
 
 Bethesda has a plan for you. And that plan is to have you buy Skyrim multiple times. Dozens of times. From the various releases on the various consoles and PCs, and the DLCs, and the soundtrack albums, and the Dragonborn cosplay helmet and... and now, the board game.
 
@@ -44,7 +22,7 @@ Bethesda has a plan for you. And that plan is to have you buy Skyrim multiple ti
 
 And, there is a plot. Two campaigns of three chapters each in the base game, and of course, there are expansions. The game does have a tutorial, but it appears that is meant for one person to play. We opted to skip the tutorial and dive right into the game. That may not have been the wisest choice... but be warned, if you're opening this game for the first time at a game night, maybe crack the case the night before and run through the tutorial first.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/12/IMG_2919-1024x768.jpg" title="Skyrim the Adventure Game in action" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/12/IMG_2919-1024x768.jpg" title="Skyrim the Adventure Game in action" classes="center" >}}
 
 We have a gaming table that doubles as our dining table. Before we put the dining covers back over it, we ask if we should leave the game set up, or pack it up and play something different the next time we get together. This will be the third time we've said, you know, let's keep this going. THAT SAID...
 

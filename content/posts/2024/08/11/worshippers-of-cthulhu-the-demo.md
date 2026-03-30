@@ -3,44 +3,22 @@ date: '2024-08-11T08:00:00-05:00'
 draft: false
 title: "Worshippers of Cthulhu: the Demo"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/11/worshippers-of-cthulhu-the-demo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Loosing an ultimate evil upon the world starts with clean clothing, good food, well-built homes and safe streets."
-description: "Loosing an ultimate evil upon the world starts with clean clothing, good food, well-built homes and safe streets."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Manor Lords"
   - "Other Games"
   - "Steam Games"
   - "Survival"
+tags:
   - "Cthulhu"
   - "Demo"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/cthulhu.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/cthulhu.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/cthulhu.png"
 ---
+Loosing an ultimate evil upon the world starts with clean clothing, good food, well-built homes and safe streets.
+<!--more-->
 
 It was hard for me to wrap my head around Worshippers of Cthulhu. On the face of it, it's a standard city builder. Villagers cut down trees, build homes, harvest crops, raise sheep, and other thoroughly mundane activities like that.
 
@@ -48,7 +26,7 @@ The fact that Steve and Sue, the neighbors next door, were begging the high prie
 
 This island is the portal to Rl'yeh, the underwater city where Cthulhu's troubled sleep causes storms that smash ships against the sharp-edged rocks. One such ship carries you and some dedicated cultists; unlike most who get shipwrecked here, this is the place you wanted to find. A place that echoes with past civilizations and ancient evils. Just like home.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240810171730_1-1024x640.jpg" title="Dreamshroud, the starting island" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240810171730_1-1024x640.jpg" title="Dreamshroud, the starting island" classes="center" >}}
 
 Your long term goal is to conquer the world, summon Cthulhu, and have him cleanse the lands so that a new civilization could evolve. Your short term plan is to build a home for your cultists, train them and sacrifice them in order to unlock new buildings, attract more ships to your shore to be wrecked and the survivors inducted into your dark army, and summon barely-controllable demons to spread your influence to other lands.
 
@@ -56,13 +34,13 @@ The questline balances horrific with the mundane. One quest might have you diggi
 
 Happy worshippers are devoted worshippers, so you will be carefully monitoring the happiness level of your various cultist families to make sure they have all the tools they need to build happy, albeit short, lives in your care.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240810170036_1-1024x640.jpg" title="The Sacrifice Altar above Cthulhu's resting place" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240810170036_1-1024x640.jpg" title="The Sacrifice Altar above Cthulhu's resting place" classes="center" >}}
 
 The mundanity of the city building portion of the game is so at odds with the sacrifices, demon summoning and the occasional bizarre random event that it's impossible to take the game seriously. Alice is great at making corn chowder, but Betty is just a natural at draining sheep blood into sacred flasks. Every worshipper has their special talent, and if assigned to the work for which they have an interest, they will gain levels in that and produce more and faster.
 
 When you're not sacrificing worshippers, you can be training them into the ever darker hierarchy that will inspire even greater devotion to your dark cause.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240810165931_1-1024x640.jpg" title="Demo end screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240810165931_1-1024x640.jpg" title="Demo end screen" classes="center" >}}
 
 The demo ends when you first summon a demon to start laying waste to a neighboring island, though nothing seems to be stopping a player from just continuing to build out the starting island. I don't know how far it's possible to get, as it requires certain levels of devotion to unlock the next tier of buildings.
 

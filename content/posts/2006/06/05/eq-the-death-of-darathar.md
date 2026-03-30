@@ -3,40 +3,17 @@ date: '2006-06-05T00:00:00-05:00'
 draft: false
 title: "EQ2: The Death of Darathar"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/05/eq-the-death-of-darathar/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In Lavastorm, working on some bits for the Lost Legend of Lavastorm, when I came out of Maiden's Gulch and saw this... what a money..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/eq2raid1.jpg"
-cover:
-  image: "https://chasingdings.com/images/eq2raid1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/eq2raid1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/eq2raid1.jpg"
 ---
+In Lavastorm, working on some bits for the Lost Legend of Lavastorm, when I came out of Maiden's Gulch and saw this... what a money...
+<!--more-->
 
-![](https://chasingdings.com/images/eq2raid1.jpg)
+
 
 In Lavastorm, working on some bits for the Lost Legend *of* Lavastorm, when I came out of Maiden's Gulch and saw this... what a money shot... Dina... bard... conqueror of the world...
 
@@ -44,19 +21,19 @@ There was to be a pickup Deception raid to finish off some folks' prismatic weap
 
 His "little problem" being the Drakota that have plagued the Shattered Lands since Kerafrym burst Luclin apart. I'd never been on an EQ2 raid before; so even though I wasn't on this quest, I just had to offer my help and my songs.
 
-![](https://chasingdings.com/images/eq2raid2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/eq2raid2.jpg" classes="center" >}}
 
 We hit the Drakota hard where they hid; in the Sanctum of Bone deep within Fallen Gate; prowling about Firemyst Gully in Antonica; and above, the one in the Sanctum of Fear at the heart of the Temple of Cazic Thule. A bad pull on this guy wiped the raid, but we returned and sent him back to Hell.
 
 Those dead Drakotas laughed as they died, as they told us who had been behind the attacks from the start - Darathar, a true dragon, corrupt, who had been using the Drakota to cause mayhem and misery. And he might be found right now, if we were quick enough, terrorizing newbies on the Isle of Refuge.
 
-![](https://chasingdings.com/images/eq2raid3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/eq2raid3.jpg" classes="center" >}}
 
 A sage in the Oracle Tower in Antonica had the means to return us to a place none of us had seen since we were very young. The defenders of the outpost were all dead. Bands of orc roamed the place, looking for survivors. We killed them and did what we could to honor the memory of the fallen.
 
 Climbing an overlook, we saw the creature himself, looking plump and well-fed. He either didn't know we were there, or did not care.
 
-![](https://chasingdings.com/images/eq2raid4.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/eq2raid4.jpg" classes="center" >}}
 
 He stood, stretched his wings; the backwash nearly swept us from our feet. He hadn't seen us, but something had put him on his guard; perhaps an orc patrol had been expected to report in; or maybe he had news of the dead Drakota we had left rotting in their lairs. The raid leader yelled a war cry, and down we ran. His breath stunk of sulphur, but my songs robbed it of its power. He screamed, enraged, and bore down upon us with claw, wing, tail and tooth, and it was more than I'd ever encountered. I fell; revived, ran back, and saw it die.
 

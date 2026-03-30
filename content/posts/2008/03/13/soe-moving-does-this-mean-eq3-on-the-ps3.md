@@ -3,39 +3,15 @@ date: '2008-03-13T14:26:44-05:00'
 draft: false
 title: "EQ3 on the PS3 in 2009?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/13/soe-moving-does-this-mean-eq3-on-the-ps3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just saw this on F13.net:..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Eqoa"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Just saw this on F13.net:...
+<!--more-->
 
 Just saw this on [F13.net](http://f13.net/?itemid=721):
 

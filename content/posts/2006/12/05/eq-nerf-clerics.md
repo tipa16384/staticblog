@@ -3,37 +3,12 @@ date: '2006-12-05T15:20:47-05:00'
 draft: false
 title: "EQ: Nerf Clerics"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/12/05/eq-nerf-clerics/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Nerf clerics. In fact, let's go a step further and get rid of the class entirely. Let's go even further and remove the very concept..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Nerf clerics. In fact, let's go a step further and get rid of the class entirely. Let's go even further and remove the very concept...
+<!--more-->
 
 Nerf clerics. In fact, let's go a step further and get rid of the class entirely. Let's go even further and remove the very concept of "healers" or "priests" or "medics" or any class whose *modus operandi* is to sit in the corner and stay very still so they can enable other players to have fun.
 

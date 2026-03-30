@@ -3,40 +3,17 @@ date: '2015-08-23T15:44:07-05:00'
 draft: false
 title: "Leviathan!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/08/23/leviathan/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What with vacations and connection issues and what-not, Kasul and I haven't been able to get together for a decent story night for quite awhile...."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/08/vlcsnap-2015-08-23-08h54m18s52.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/08/vlcsnap-2015-08-23-08h54m18s52.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/08/vlcsnap-2015-08-23-08h54m18s52.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/08/vlcsnap-2015-08-23-08h54m18s52.png"
 ---
+What with vacations and connection issues and what-not, Kasul and I haven't been able to get together for a decent story night for quite awhile....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/08/vlcsnap-2015-08-23-08h54m18s52.png" title="Looking for a snack..." class="align-center" >}}
+
 
 What with vacations and connection issues and what-not, Kasul and I haven't been able to get together for a decent story night for quite awhile. But we moved Heaven and Earth and got Skype going and hey, there we were, ready to save the world... again...
 
@@ -46,7 +23,7 @@ Kasul are in a free company, Valiant Exiles. They're an okay bunch. I was random
 
 Anyway. Occasionally the guild leaders gather everyone up for a quick extreme-level trial or a raid or something. I did Garuda (Extreme) with them once, which was a whole bunch of fun. I went as a Dragoon because a) dragoons look cool, and b) DPS jobs usually don't require much finesse. Do as much damage as possible and stay out of the fire. The traditional job of the MMO damage class. They often get together for Leviathan (Extreme), but to go with the guild on this, Kasul and I would first have to unlock Leviathan (Hard). Just a few more quests into the story, where the Sahagin fish people, having seen the wild success the goblins, Ixali and Amal'jin had summoning their primals, decide to enforce their own claims to the sea by summoning the serpent Leviathan.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-18-22-43-22-20.jpg" title="Admiral Merlwyb is having a bad day." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/08/ffxiv-2015-08-18-22-43-22-20.jpg" title="Admiral Merlwyb is having a bad day." classes="center" >}}
 
 Some words about Admiral Merlwyb (pronounced Merl-wyeb, FYI). She's always been pretty intense, but... I reached level 50 armorsmith a few days ago. The final test was to create some mythral armor to decide if the best armorer in the guild was me, or this other guy who was carrying along some really serious hate toward adventurer-crafters. So for this final test, she dressed some guards in the armor we made and shot them both. My entry won, which was a blow struck for whichever adventurer had actually crafted the armor, since I'd just bought it off the market board. I could have made it myself, but I was flunking the sub-combines left and right. I eventually decided to just skip to the thrilling conclusion. Go, Adventurers!
 
@@ -54,7 +31,7 @@ Adventurers in FFXIV, you see, are seen as a totally separate form of life as co
 
 Fighting a godlike primal is well past their capabilities. Previous times, they had to rely upon the fabled Company of Heroes (last seen running a restaurant in Costa del Sol. They were the ones who had to clean up the mess that resulted when FFXIV didn't have enough subscribers the first time around. (Yes, FFXIV's lack of subs resulted in an in-game Calamity.) But they are only able to make buffets for tourists now, and are more or less useless.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-22-22-17-54-61.jpg" title="Oops." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/08/ffxiv-2015-08-22-22-17-54-61.jpg" title="Oops." classes="center" >}}
 
 After we'd smuggled the refugee Domans (Garlean humans lead by a masked Au Ra rogue, for some reason) to Mos Eisley, we were summoned to meet the Admiral, who suggested we might want to check out suspicious Sahagin activity. Kasul and I took along useless Miquo'te conjurer Y'shtola (pronounced Yashutola, not Eeshtola, as I'd thought) to investigate. The useless (seeing a pattern, here?) scouts sent ahead of us were mostly dead to Sahagin patrols in league with officially unsanctioned pirates, both living and otherwise. We (Kasul and I, not Y'shtola, who largely hid behind rocks and stuff, doing nothing) fought our way to the docks, where the Sahagin leader was summoning Leviathan. Well, Admiral Merl came right up and shot him. Turned out that death was no longer the end for the Sahagin, as he just possessed one of his minions.
 
@@ -64,7 +41,7 @@ Turns out that some Ascian (bad guys) had gifted the Sahagin with immortality vi
 
 You can see why rank-and-file NPCs are nervous about associating with adventurers.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-22-22-12-33-69.jpg" title="Y'shtola is not about to heal me." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/08/ffxiv-2015-08-22-22-12-33-69.jpg" title="Y'shtola is not about to heal me." classes="center" >}}
 
 The Admiral was advised that the only possible way to defeat Leviathan at this point was to lash together two ships, cover them with a single deck, and tow that out to where Leviathan sat, working up a tidal wave with which to wipe Limsa Lominsa off the map. The captains of the two ships chosen objected, until the Admiral offered to let them come along for the ride. Minds were quickly changed.
 

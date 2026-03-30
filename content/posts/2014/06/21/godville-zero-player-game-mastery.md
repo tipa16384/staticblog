@@ -3,40 +3,17 @@ date: '2014-06-21T08:21:09-05:00'
 draft: false
 title: "Godville: Z(ero) P(layer) G(ame) mastery!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/06/21/godville-zero-player-game-mastery/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "On the occasion of my hero, \"Muddill\", reaching level 60, an update of progress with my favorite Zero Player Game, Godville. (http://godvillegame.com/)..."
+categories:
   - "Godville"
   - "Other Games"
-featured_image: "https://lh6.googleusercontent.com/-uL7DdYgolbk/U6V_RDvS-rI/AAAAAAAAvys/ZSjGj9qklMA/w710-h476-no/Fullscreen+capture+6212014+83047+AM.jpg"
-cover:
-  image: "https://lh6.googleusercontent.com/-uL7DdYgolbk/U6V_RDvS-rI/AAAAAAAAvys/ZSjGj9qklMA/w710-h476-no/Fullscreen+capture+6212014+83047+AM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh6.googleusercontent.com/-uL7DdYgolbk/U6V_RDvS-rI/AAAAAAAAvys/ZSjGj9qklMA/w710-h476-no/Fullscreen+capture+6212014+83047+AM.jpg"
+thumbnailImage: "https://lh6.googleusercontent.com/-uL7DdYgolbk/U6V_RDvS-rI/AAAAAAAAvys/ZSjGj9qklMA/w710-h476-no/Fullscreen+capture+6212014+83047+AM.jpg"
 ---
+On the occasion of my hero, "Muddill", reaching level 60, an update of progress with my favorite Zero Player Game, Godville. (http://godvillegame.com/)...
+<!--more-->
 
-![Godville](https://lh6.googleusercontent.com/-uL7DdYgolbk/U6V_RDvS-rI/AAAAAAAAvys/ZSjGj9qklMA/w710-h476-no/Fullscreen+capture+6212014+83047+AM.jpg)
+
 
 On the occasion of my hero, "Muddill", reaching level 60, an update of progress with my favorite Zero Player Game, Godville. (http://godvillegame.com/)
 

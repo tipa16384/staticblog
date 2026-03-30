@@ -3,40 +3,17 @@ date: '2009-12-11T22:15:06-05:00'
 draft: false
 title: "World of Warcraft: Random Dungeons FTW"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/11/world-of-warcraft-random-dungeons-ftw/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I signed up for World of Warcraft just for the free week they offered. I played a couple of times, said hello to my old..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-11-19-01-32-52.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-11-19-01-32-52.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-11-19-01-32-52.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-11-19-01-32-52.jpg"
 ---
+I signed up for World of Warcraft just for the free week they offered. I played a couple of times, said hello to my old...
+<!--more-->
 
-![In the Scarlet Monastery](https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-11-19-01-32-52.jpg "In the Scarlet Monastery")
+
 
 I signed up for World of Warcraft just for the free week they offered. I played a couple of times, said hello to my old characters, started a new one, realized I had both no idea how to play and no particular reason to do so, and was about to bid WoW adieu until Cataclysm. I'd always planned on playing a little when the next expansion was released.
 

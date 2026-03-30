@@ -3,47 +3,24 @@ date: '2006-08-21T13:58:49-05:00'
 draft: false
 title: "Of Hats and Hoo'lohs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/21/of-hats-and-hoolohs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "You don't really appreciate Kingdom of Sky from the top. Weird creatures, lush landscapes, people zipping about on personal clouds, quick with their business...."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/chains.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/chains.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/chains.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/chains.jpg"
 ---
+You don't really appreciate Kingdom of Sky from the top. Weird creatures, lush landscapes, people zipping about on personal clouds, quick with their business....
+<!--more-->
 
-![Chains beneath the Kingdom of Sky](https://chasingdings.com/wp-content/uploads/2006/08/chains.jpg)
+
 
 You don't really appreciate Kingdom of Sky from the top. Weird creatures, lush landscapes, people zipping about on personal clouds, quick with their business.
 
 No, to really appreciate Kingdom of Sky, you need to see it from *underneath*. Someone pushed me -- a real good *shove* -- right off the edge of the chain. I fell onto the side of a cliff, with flat ground a hundred feet above me and nothing but a distant chain below me. There was a chance I could let go and maybe reach the chain, if safe fall and blind luck would save me. And it did. Stranded on the chains until Escape was ready to whisk me to safety, I had a lot of chance to really get a good look.
 
-![The shy Hoo](https://chasingdings.com/wp-content/uploads/2006/08/hooloh.jpg) I was somewhat angry at the woman who pushed me. She said she didn't see me. It's true I am half her height and was invisible at the time but that's *no excuse*! But I'm more angry at the bird that had me swinging from chains to start.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/hooloh.jpg" classes="fig-20" >}} I was somewhat angry at the woman who pushed me. She said she didn't see me. It's true I am half her height and was invisible at the time but that's *no excuse*! But I'm more angry at the bird that had me swinging from chains to start.
 
 Hoo'loh. Able was I 'ere I saw Hoo'loh. He wants to make me a hat, which is pretty decent of him, but every time I need to talk to him, I need to be running up and falling down chains.
 
@@ -57,11 +34,11 @@ I found the bird, cleared his area from those nasty vulture critters, found a gr
 
 And every time I finished something, back to the chains. Now I have some ingredients to scavenge from the Palace of the Awakened and the Halls of Fate, and then a fun solo crawl through the Nest once more which I will be sure to tell of here.
 
-![High Shaman from the first Guild raid](https://chasingdings.com/wp-content/uploads/2006/08/highshaman.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/highshaman.jpg" classes="center" >}}
 
 We were going to do the first of the new guild raids Sunday, but not enough people showed. We went on in anyway. Looks very like the old guild raids, so not sure what is new and different about them. Everything was epicx2; I'm sure with another group, we would have been able to do it.
 
-![woven engraved armor](https://chasingdings.com/wp-content/uploads/2006/08/woven.jpg)Sunday was a good day for tradeskills. Both Dina and Dorah had full vitality bars, and so I got tailoring to 38 and jewelcraft to 47 respectively.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/woven.jpg" classes="fig-20" >}}Sunday was a good day for tradeskills. Both Dina and Dorah had full vitality bars, and so I got tailoring to 38 and jewelcraft to 47 respectively.
 
 Verd finally got his Woven Engraved druid armor; he looks fine in it, doesn't he? A lot better than that Zek quest armor he'd been sporting. Well, aside from the bracers. The set didn't come with a bracer recipe.
 
@@ -71,7 +48,7 @@ Etha's appeared in this blog before, long ago. She's Dina's mother and Tipa's au
 
 Anyway; Tipa and Verd merrily made their way to Splitpaw to get Verd his glowing stone. But it was getting late, and I still had a computer to fix, and so that adventure will have to wait for another day.
 
-![Luck clothes](https://chasingdings.com/wp-content/uploads/2006/08/luck.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/luck.jpg" classes="center" >}}
 
 Perfect for an early St. Patrick's day, the Luck of the Lad and the Maiden, the level 38 tailored clothes.
 

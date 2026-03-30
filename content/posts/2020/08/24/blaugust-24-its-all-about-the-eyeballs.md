@@ -3,42 +3,20 @@ date: '2020-08-24T20:34:45-05:00'
 draft: false
 title: "Blaugust #24: It's All About the Eyeballs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/24/blaugust-24-its-all-about-the-eyeballs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "\"Content creation\" -- it's one of those words like \"influencer\" or \"social media\" that seem vague but have come to have very specific definitions in..."
+categories:
   - "Blaugust"
+tags:
   - "Content Creation"
   - "Girls Screaming in Vector Graphics"
   - "Pong"
   - "Spacewar"
   - "Tennis for Two"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-phrenology.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-phrenology.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-phrenology.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-phrenology.jpg"
 ---
+"Content creation" -- it's one of those words like "influencer" or "social media" that seem vague but have come to have very specific definitions in...
+<!--more-->
 
 "Content creation" -- it's one of those words like "influencer" or "social media" that seem vague but have come to have very specific definitions in modern times. Content creation, as I understand it, is stuff generated to be ranked highly in search engines in order to entice people to follow it to your website, at which point they will be monetized and you will eventually get paid.
 
@@ -50,7 +28,7 @@ I don't create content any more. I blog occasionally, and it's more for myself t
 
 Once, I did, though.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/08/mandigo_header_cat_175.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/mandigo_header_cat_175.jpg" classes="center" >}}
 
 Way, way back in the previous incarnation of this blog, I had been blogging for a few years, mostly about my EQ guild, but occasionally about other things I was doing. Part of my real life job was designing brochures for women's clothing, and so I was learning Photoshop and photography and all sorts of cool stuff like that, and I'd write about that.
 
@@ -76,7 +54,7 @@ I'm just going to have some random opinions right now.
 
 This is an easy one. Pong is not only the first video game, but arguably the first video game *franchise*. The game that would become Pong, [Tennis for Two](https://en.wikipedia.org/wiki/Tennis_for_Two), was created in 1958 by [William Higinbotham](https://www.theverge.com/2012/3/10/2860081/a-profile-of-william-higinbotham-the-inventor-of-the-first-video-game). The game had two paddles, for two players, and players knocked a ball back and forth. He was also supposedly really, really good at it.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/hqdefault-300x225.jpg)Tennis for Two
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/hqdefault-300x225.jpg" classes="center" >}}Tennis for Two
 
 Before Higinbotham, no video games. After Higinbotham, video games. Nolan Bushnell eventually cleaned up the physics and added scoring, but he didn't invent it.
 
@@ -90,7 +68,7 @@ Forget creativity, forget personality. What Higinbotham created was nothing more
 
 But Pong was first. Pong was the game that convinced marketers that people could be enticed to come stare at a screen and lose all sense of self as they sluiced off everything that made them special and unique until they became a silent machine, twisting a knob. And when the game finally released them, they would *pay* for the privilege of sinking into a trance again.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1280px-Spacewar-PDP-1-20070512-300x202.jpg)Spacewar!
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1280px-Spacewar-PDP-1-20070512-300x202.jpg" classes="center" >}}Spacewar!
 
 Turning people into automatons -- that began with Pong. Being able to slaughter faceless people by the millions in shooters and eventually real life -- you have Pong to thank for that.
 

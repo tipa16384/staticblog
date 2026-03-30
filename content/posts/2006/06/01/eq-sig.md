@@ -3,39 +3,18 @@ date: '2006-06-01T00:00:00-05:00'
 draft: false
 title: "EQ2 sig"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/01/eq-sig/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
-featured_image: "http://www.eqsig.com/sig/5220.png"
-cover:
-  image: "http://www.eqsig.com/sig/5220.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://www.eqsig.com/sig/5220.png"
+thumbnailImage: "http://www.eqsig.com/sig/5220.png"
 ---
+[...
+<!--more-->
 
-[![](http://www.eqsig.com/sig/5220.png)](http://www.eqsig.com/?ref=5220)
+[
+
+](http://www.eqsig.com/?ref=5220)
 
 There's [this web page](http://www.eqsig.com/) that generates EQ2 signatures... wonder what it looks like! They don't give a preview, so adding it here.
 
@@ -43,4 +22,4 @@ Wow, that's spartan. I'd add a picture of Dina on there, but for some reason I c
 
 Here's Brita's, from EQ1... probably look just as crappy...
 
-[![](http://www.eqsig.com/sig/5221.png)](http://www.eqsig.com/?ref=5221)
+[{{< image src="http://www.eqsig.com/sig/5221.png" classes="center" >}}](http://www.eqsig.com/?ref=5221)

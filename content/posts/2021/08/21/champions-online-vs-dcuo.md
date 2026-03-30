@@ -3,41 +3,21 @@ date: '2021-08-21T10:26:28-05:00'
 draft: false
 title: "Champions Online vs DCUO"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/21/champions-online-vs-dcuo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "City of Heroes cast a long shadow over the superhero MMO landscape. There's easily a half dozen efforts to resurrect the game in some form,..."
+categories:
   - "Blaugust"
   - "DC Universe Online"
   - "MMORPG"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Champions Online"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/riddlers.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/riddlers.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "DC Universe Online"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/riddlers.jpg"
 ---
+City of Heroes cast a long shadow over the superhero MMO landscape. There's easily a half dozen efforts to resurrect the game in some form,...
+<!--more-->
 
 City of Heroes cast a long shadow over the superhero MMO landscape. There's easily a half dozen efforts to resurrect the game in some form, either by recreating the original game, or building a clear sequel. As of now, though, there's only two MMOs that can carry COH's torch -- superhero MMOs where you can build your own hero your own way. And those are Cryptic's Champions Online, and Daybreak's DC Universe Online.
 
@@ -65,7 +45,7 @@ Both games grant additional powers as you level up. DCUO does not let you choose
 
 For a new player who isn't planning to spend a lot of money, DCUO is the better selection. Having all the possible powers to choose from, for both class and DPS roles, is immensely freeing.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210820233653_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210820233653_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210820233653_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210820233653_1.jpg)
 
 **Travel abilities**
 
@@ -75,7 +55,7 @@ Champions has all the DCUO travel powers, variants on all of them, and one uniqu
 
 Champions Online clearly wins here.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210820230804_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210820230804_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210820230804_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210820230804_1.jpg)
 
 **Controller/gamepad support**
 

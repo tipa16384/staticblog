@@ -3,24 +3,8 @@ date: '2021-07-22T21:16:15-05:00'
 draft: false
 title: "New World: FOMO or FOTM?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/07/22/new-world-fomo-or-fotm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Amazon's new MMO, \"New World\", comes out soon. Everyone is excited -- but I don't know if I'm ready for a new MMO commitment."
-description: "Amazon's new MMO, \"New World\", comes out soon. Everyone is excited -- but I don't know if I'm ready for a new MMO commitment."
-tags:
+categories:
   - "DC Universe Online"
   - "EVE Online"
   - "EverQuest"
@@ -30,29 +14,24 @@ tags:
   - "New World"
   - "Open World RPG"
   - "Rift"
+tags:
   - "Dark Age of Camelot"
+  - "DC Universe Online"
   - "Fomo"
   - "Fotm"
   - "Neverwinter Online"
   - "The Chronicles of Spellborn"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/GameClient-2014-12-06-11-09-05-59.jpg"
 ---
+Amazon's new MMO, "New World", comes out soon. Everyone is excited -- but I don't know if I'm ready for a new MMO commitment.
+<!--more-->
 
 A long, long time ago, in a different blog, I was frustrated with myself for trying and abandoning so many MMOs. Every new MMO that came along -- I'd try.
 
 So I started the MMO Challenge. The challenge was simply this: to play a MMO as my main game for at least a year. I'd join a guild, I'd level up, grind gear, go on raids, see all that I could see and make some memories along the way. Really dive deep. If I made that challenge, I'd *know* what to do when I sat down to game. I'd log into that MMO.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/rift-2011-02-26-02-02-04-89-1024x819.jpg" title="Rift" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/rift-2011-02-26-02-02-04-89-1024x819.jpg" title="Rift" classes="center" >}}
 
 As it turned out, the first major MMO that was released after I made this pledge was [Trion Worlds' "Rift"](https://www.trionworlds.com/rift/en/). I dove right in. I played the beta and loved it. I played it when it went live. I joined a guild and became a raider. I think I left just before it went free to play, but I really enjoyed having Rift be part of my gamer identity.
 
@@ -66,7 +45,7 @@ I was there at the beginning of EverQuest and EverQuest 2. I wasn't there quite 
 
 I was there at the beginning of Dark Age of Camelot, too. (Go Black Oaks! Go Hibernia!) I was there at the beginning and the end of [Spellborn](https://en.wikipedia.org/wiki/The_Chronicles_of_Spellborn). I was at the beginning of Final Fantasy XI, and I was there at the beginning of Final Fantasy XIV, though I left before they did the big reset. I came back a few years ago just after the Heavensward expansion came out and played through until the first few months of Shadowbringers. I played EVE Online until my high sec fleet dissolved. I tried null sec, but it wasn't for me and I quit. Now my training would be so far behind that it doesn't make sense to ever return. I played Lord of the Rings Online for awhile, but I didn't really know anyone there and left once I needed a guild (I didn't commit hard enough).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/sb_client-2009-01-02-22-42-04-38-1024x628.jpg" title="A rare sunny day in Hawksmouth, the starting zone of the Chronicles of Spellborn." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/sb_client-2009-01-02-22-42-04-38-1024x628.jpg" title="A rare sunny day in Hawksmouth, the starting zone of the Chronicles of Spellborn." classes="center" >}}
 
 Beyond that, my static Sunday group has been doing its own MMOs for years. We've played Dungeons & Dragons Online and Guild Wars 2 for about a year each. For about seven years now, we've been playing DC Universe Online.
 
@@ -76,7 +55,7 @@ As such, I've been avoiding new MMOs for awhile now. I backed Star Citizen, but 
 
 Now, there's Amazon's [New World](https://www.newworld.com/en-us/). From what I understand, it's an "[Age of Exploration](https://en.wikipedia.org/wiki/Age_of_Discovery)"-set MMO, where three factions (like DAoC) compete to exploit a new land and its inhabitants. It reminds me a little of [Greedfall](https://en.wikipedia.org/wiki/GreedFall), a really fantastic little RPG that came out a couple years ago.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/ffxiv_dx11-2019-12-07-21-33-40-1024x576.png" title="Stellazzio Virtual Theater's production of \"A Starlight Carole\" in Final Fantasy XIV. I'm the Blue Mage in the front." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/ffxiv_dx11-2019-12-07-21-33-40-1024x576.png" title="Stellazzio Virtual Theater's production of \"A Starlight Carole\" in Final Fantasy XIV. I'm the Blue Mage in the front." classes="center" >}}
 
 I watch my Twitter stream explode with every new MMO that comes out. Each time, I ask myself if *this* MMO is the one that I want to commit to for at least a year. Find a guild, explore everywhere and do everything. Take up the challenge once again.
 

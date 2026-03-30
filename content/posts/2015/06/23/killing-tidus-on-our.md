@@ -3,40 +3,17 @@ date: '2015-06-23T11:18:24-05:00'
 draft: false
 title: "Killing Tidus..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/23/killing-tidus-on-our/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "On our last story day, Kasul and I had thought we were just minutes away from meeting Titan, the Lord of the Crags, based on..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-23-00-14-51-25.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-23-00-14-51-25.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-23-00-14-51-25.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-23-00-14-51-25.jpg"
 ---
+On our last story day, Kasul and I had thought we were just minutes away from meeting Titan, the Lord of the Crags, based on...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-23-00-14-51-25.jpg" title="Just you and me, kid. You and me and no three other people not in this picture." class="align-center" >}}
+
 
 On our last story day, Kasul and I had thought we were just minutes away from meeting Titan, the Lord of the Crags, based on the urgency of the NPCs. We finished the night thinking that next time, we would be meeting the primal of the kobolds in our second Trial.
 

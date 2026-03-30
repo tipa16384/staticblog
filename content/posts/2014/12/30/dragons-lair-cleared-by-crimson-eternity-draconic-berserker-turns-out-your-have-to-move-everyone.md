@@ -3,38 +3,13 @@ date: '2014-12-30T15:24:00-05:00'
 draft: false
 title: "It's a Wipe: Dragon's Lair cleared by Crimson Eternity."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/12/30/dragons-lair-cleared-by-crimson-eternity-draconic-berserker-turns-out-your-have-to-move-everyone/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dragon's Lair cleared by Crimson Eternity...."
+categories:
   - "It's a Wipe!"
   - "Other Games"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Dragon's Lair cleared by Crimson Eternity....
+<!--more-->
 
 Dragon's Lair cleared by Crimson Eternity.
 

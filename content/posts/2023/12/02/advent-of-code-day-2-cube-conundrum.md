@@ -3,41 +3,19 @@ date: '2023-12-02T15:44:35-05:00'
 draft: false
 title: "Advent of Code Day 2 -- Cube Conundrum"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/02/advent-of-code-day-2-cube-conundrum/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The hands of the Christmas elf are far, far larger than they appear."
-description: "The hands of the Christmas elf are far, far larger than they appear."
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "ChatGPT"
   - "Copilot"
   - "Haskell"
   - "Memoization"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_on_the_tundra_surrounded_by_red_green_a_ad0ef918-2e5e-4cad-bb3a-4f76bd9b3c04.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/tipachu_A_Christmas_elf_on_the_tundra_surrounded_by_red_green_a_ad0ef918-2e5e-4cad-bb3a-4f76bd9b3c04.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_on_the_tundra_surrounded_by_red_green_a_ad0ef918-2e5e-4cad-bb3a-4f76bd9b3c04.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/tipachu_A_Christmas_elf_on_the_tundra_surrounded_by_red_green_a_ad0ef918-2e5e-4cad-bb3a-4f76bd9b3c04.png"
 ---
+The hands of the Christmas elf are far, far larger than they appear.
+<!--more-->
 
 After having been launched via trebuchet to Snow Island, an island in the clouds that doesn't actually have any snow on it. Ignore the image on the top -- Midjourney refuses to believe that a Christmas elf could be somewhere without snow. Something to do with biology, over adaption to the arctic environment, who can tell? The science surrounding Christmas elves has more questions marks than periods.
 

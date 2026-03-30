@@ -3,38 +3,15 @@ date: '2006-10-26T12:57:56-05:00'
 draft: false
 title: "Python Love"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/10/26/python-love/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I am spending all my EQ2 time on the Echoes of Faydwer beta at the moment, so there's not a lot to post about EQ2..."
+categories:
   - "General"
   - "My Work"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/10/fragment.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/10/fragment.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/fragment.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/fragment.gif"
 ---
+I am spending all my EQ2 time on the Echoes of Faydwer beta at the moment, so there's not a lot to post about EQ2...
+<!--more-->
 
 I am spending all my EQ2 time on the Echoes of Faydwer beta at the moment, so there's not a lot to post about EQ2 until they lift the NDA. Enjoy the next couple weeks of ramblings about life, television and IT :)
 
@@ -44,7 +21,7 @@ These are the sorts of questions I got asked on interviews. I know now that the 
 
 And so I felt stupid, and discouraged, and stopped looking at programming jobs. This is how I come to be fixing computers and installing software. I even stopped programming for fun.
 
-That was the bad thing. When I was having fun programming, I'd do all these amazing side projects. Stuff I could sell to other people, write articles about, get invited to conferences to talk about, stuff that gave me some measure of fame at the time (like this bit of [Award Winning C Code](https://chasingdings.com/wp-content/uploads/2006/10/holloway.c), my contributions to nethack, and my multiplayer Battleship program that still turns up now and then).
+That was the bad thing. When I was having fun programming, I'd do all these amazing side projects. Stuff I could sell to other people, write articles about, get invited to conferences to talk about, stuff that gave me some measure of fame at the time (like this bit of [Award Winning C Code](https://tipa16384.github.io/wkblog/uploads/2006/10/holloway.c), my contributions to nethack, and my multiplayer Battleship program that still turns up now and then).
 
 When I stopped having fun programming because I felt stupid and out of date, I stopped creating things, no longer got the sense that I mattered. My life fell apart because I could no longer usefully do the one thing I loved doing.
 
@@ -85,8 +62,6 @@ My first Python program grew from a simple program that used netpbm to convert p
 At work a program that started just setting up users in our MySQL database based on their email account data from our misbehaving email provider turned into a complete user management suite that automatically syncs up Linux user account data, virtual mailboxes and automatic mail forwarding based upon a spreadsheet.
 
 I just today wrote a little program that combs our customer database and makes a mailing list, correcting the postal codes for foreign countries. I solved this once with an intricate SQL statement that took hours to do (since our two varieties of SQL, Oracle and Access, have wildly different syntaxes and I had to work with both). Today I just exported a general query to a CSV spreadsheet and did the whole thing with a couple of lines of Python code:
-
-![a bit of python](https://chasingdings.com/wp-content/uploads/2006/10/fragment.gif)
 
 This took me about two minutes to write, and that was mostly because I found after testing the code in the interactive shell that the zip code fields sometimes had extra spaces that needed to be stripped and were making the string length come out wrong. I also spent some time looking for a "switch... case" statement, but one doesn't exist. Turns out Python has a bunch of other things you can do... I could have put an associative array in there, or dynamically defined functions ('lambdas') to do the entire thing magically.
 

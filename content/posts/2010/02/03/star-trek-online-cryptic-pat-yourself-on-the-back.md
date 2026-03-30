@@ -3,40 +3,17 @@ date: '2010-02-03T00:56:01-05:00'
 draft: false
 title: "Star Trek Online: Cryptic, pat yourself on the back"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/03/star-trek-online-cryptic-pat-yourself-on-the-back/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Everyone expected problems with Star Trek Online's official launch. Color me shocked. I found no login queues, no crashes while zoning, no problems of any..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-02-21-35-07-10.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-02-21-35-07-10.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-02-21-35-07-10.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-02-21-35-07-10.jpg"
 ---
+Everyone expected problems with Star Trek Online's official launch. Color me shocked. I found no login queues, no crashes while zoning, no problems of any...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-02-21-35-07-10.jpg "Launch day party")
+
 
 Everyone expected problems with Star Trek Online's official launch. Color me shocked. I found no login queues, no crashes while zoning, no problems of any sort tonight. Things were going so well, I did a Gorn fleet action for my level and returned to Starbase 01 for my promotion and new ship.
 
@@ -54,7 +31,7 @@ We had a lot of fun. Longasc infested everyone's inventory with Tribbles, and we
 
 We followed the Klingon back to his ship and disintegrated him there, too, just to say we had.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-02-23-46-34-18.jpg "The U.S.S. Monterey, NCC-93940")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-02-23-46-34-18.jpg" title="The U.S.S. Monterey, NCC-93940" classes="center" >}}
 
 After the party, I returned to Starbase 01 and got some fittings for my ship. I had an extra aft weapon slot, space for a new science console, and the ability to promote a science officer to Lieutenant, which gained me the ability to confuse enemy ships in a 3km radius from the target into firing upon each other for 12 seconds. I requisitioned an Andorian science officer to fill one of my extra crew slots, but it turned out I already had her twin, so I threw her back and got a Klingon science officer instead.
 

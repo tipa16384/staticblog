@@ -3,41 +3,19 @@ date: '2012-01-03T23:43:11-05:00'
 draft: false
 title: "DDO: How to gimp your character"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/03/ddo-how-to-gimp-your-character/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My first Dungeons and Dragons character, I had no idea about. She was a dwarf cleric, a Hobbesian cleric -- solitary, poor, brutish, nasty and..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/ophiga.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/ophiga.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/ophiga.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/ophiga.jpg"
 ---
+My first Dungeons and Dragons character, I had no idea about. She was a dwarf cleric, a Hobbesian cleric -- solitary, poor, brutish, nasty and...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/ophiga.jpg" title="Drow in Spaaaaace" class="align-center" >}}
+
 
 My first Dungeons and Dragons character, I had no idea about. She was a dwarf cleric, a Hobbesian cleric -- solitary, poor, brutish, nasty and _short_. Healing was more fun when hirelings would do it, so I picked up a fighter level and made her into a melee cleric. I put points into whatever stats seemed good at the time. I had fun, but she was a horrid healer. No idea what I was doing.
 

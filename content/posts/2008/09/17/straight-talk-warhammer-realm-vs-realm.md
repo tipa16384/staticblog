@@ -3,24 +3,8 @@ date: '2008-09-17T08:00:54-05:00'
 draft: false
 title: "Straight Talk Warhammer: Realm vs Realm"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/17/straight-talk-warhammer-realm-vs-realm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Hey, welcome back to the second in our exclusive series about the exciting innovative gameplay of Mythic's Warhammer Online: Age of Reckoning...."
+categories:
   - "Dark Ages of Camelot"
   - "EverQuest"
   - "Humor"
@@ -28,19 +12,13 @@ tags:
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+tags:
   - "Not Funny"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/warcraftbattle.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/warcraftbattle.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warcraftbattle.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warcraftbattle.jpg"
 ---
+Hey, welcome back to the second in our exclusive series about the exciting innovative gameplay of Mythic's Warhammer Online: Age of Reckoning....
+<!--more-->
 
 Hey, welcome back to the second in our exclusive series about the exciting innovative gameplay of Mythic's Warhammer Online: Age of Reckoning.
 
@@ -49,8 +27,6 @@ Public quests, [open groups](http://www.tentonhamster.com/node/1988), the excite
 It's a well-known fact that the color red in the game packaging is made from blood.
 
 It's true. [Look it up](http://www.snopes.com/music/artists/kissblood.asp). Because that's just how hardcore they are. They do it for YOU.
-
-![](https://chasingdings.com/wp-content/uploads/2008/09/warcraftbattle.jpg "warcraftbattle")
 
 *Simulated Warhammer screenshot*
 

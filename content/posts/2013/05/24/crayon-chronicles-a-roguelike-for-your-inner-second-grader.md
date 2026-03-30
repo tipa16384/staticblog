@@ -3,40 +3,17 @@ date: '2013-05-24T07:10:04-05:00'
 draft: false
 title: "Crayon Chronicles: A Roguelike for your Inner Second Grader"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/24/crayon-chronicles-a-roguelike-for-your-inner-second-grader/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I should have called this \"A Child's First Roguelike\". Or, \"How to get through school with only an Owl on a Stick\". Whatever. Outer Grid..."
+categories:
   - "Crayon Chronicles"
   - "Kickstarter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg"
 ---
+I should have called this "A Child's First Roguelike". Or, "How to get through school with only an Owl on a Stick". Whatever. Outer Grid...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/CrayonChronicles-2013-05-23-20-19-58-06-480x270.jpg" title="Crayon Chronicles" class="align-center" >}}
+
 
 I should have called this "A Child's First Roguelike". Or, "How to get through school with only an Owl on a Stick". Whatever. Outer Grid Games' "[Crayon Chronicles](http://www.outergridgames.com/)" is a short, sweet RPG that combines a whimsical art style with easy gameplay and a few chuckles to make the best roguelike I've played all year.
 
@@ -44,7 +21,7 @@ I should have called this "A Child's First Roguelike". Or, "How to get through s
 
 Outer Grid Games successfully funded [Crayon Chronicles on Kickstarter](http://www.kickstarter.com/projects/900438563/crayon-chronicles) last month. I loved the art style, and I loved even more that the game was essentially done already and would be released soon. So many Kickstarter games are so far in the future that it's easy to forget they exist.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/CrayonChronicles-2013-05-23-20-37-03-25-480x270.jpg" title="Bad report card :(" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/CrayonChronicles-2013-05-23-20-37-03-25-480x270.jpg" title="Bad report card :(" classes="center" >}}
 
 In Crayon Chronicles, you play a middle school students whose friends have been kidnapped by some unknown villain. Even though nobody else seems that upset by this turn of events, you decide it's your mission to go find your friends, rescue them, and then see what's on TV or something.
 

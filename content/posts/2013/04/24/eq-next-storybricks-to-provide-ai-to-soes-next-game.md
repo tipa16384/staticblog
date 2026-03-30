@@ -3,41 +3,18 @@ date: '2013-04-24T06:54:28-05:00'
 draft: false
 title: "EQ Next: Storybricks to provide AI to SOE's next game"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/04/24/eq-next-storybricks-to-provide-ai-to-soes-next-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Soooooo.... after a lot of hinting that something great was on the Storybricks horizon by Namaste's Brian \"Psychochild\" Green, the news broke last night that..."
+categories:
   - "EverQuest"
   - "Everquest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/04/shrubbery-480x343.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/04/shrubbery-480x343.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/shrubbery-480x343.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/shrubbery-480x343.png"
 ---
+Soooooo.... after a lot of hinting that something great was on the Storybricks horizon by Namaste's Brian "Psychochild" Green, the news broke last night that...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/shrubbery-480x343.png" title="This is NOT EQ Next. Obviously." class="align-center" >}}
+
 
 Soooooo.... after [a lot of hinting that something great](https://plus.google.com/104424702290149874363/posts/feBCsWcWF7K) was on the [Storybricks](http://www.storybricks.com/) horizon by Namaste's Brian "Psychochild" Green, the news broke last night that Namaste is partnering with Sony Online Entertainment to bring their AI technology to EverQuest Next.
 

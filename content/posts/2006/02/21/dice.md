@@ -3,40 +3,17 @@ date: '2006-02-21T00:00:00-05:00'
 draft: false
 title: "Dice"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/21/dice/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I refuse to believe that any day that begins with finding your dice, can be a bad day. Those blurry bits of plastic saw me..."
+categories:
   - "General"
   - "Other Games"
-featured_image: "https://chasingdings.com/images/dice.jpg"
-cover:
-  image: "https://chasingdings.com/images/dice.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/dice.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/dice.jpg"
 ---
+I refuse to believe that any day that begins with finding your dice, can be a bad day. Those blurry bits of plastic saw me...
+<!--more-->
 
-![](https://chasingdings.com/images/dice.jpg)
+
 
 I refuse to believe that any day that begins with finding your dice, can be a bad day. Those blurry bits of plastic saw me through a lot of hard times. Not long ago, I'd have sat right down, pulled out a clean character sheet and rolled up an adventurer. When I found these while packing this morning, my first thought was: I gotta put these in my blog!
 

@@ -3,40 +3,17 @@ date: '2010-02-24T08:04:39-05:00'
 draft: false
 title: "Star Trek Online: What would you say to Cryptic?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/24/star-trek-online-what-would-you-say-to-cryptic/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This morning I, and likely every other Star Trek Online subscriber, received a survey from Cryptic asking how we liked the game so far, if..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-24-06-55-51-65.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-24-06-55-51-65.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-24-06-55-51-65.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-24-06-55-51-65.jpg"
 ---
+This morning I, and likely every other Star Trek Online subscriber, received a survey from Cryptic asking how we liked the game so far, if...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-24-06-55-51-65.jpg "Surveys sent right to the ship!")
+
 
 This morning I, and likely every other Star Trek Online subscriber, received a survey from Cryptic asking how we liked the game so far, if we were likely to subscribe past the first month, what other games we played, what our favorite parts of the game were (Character/Ship customization), what parts we thought were really ill-thought and crappy (Memory Alpha) and so on.
 

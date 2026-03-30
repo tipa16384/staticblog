@@ -3,45 +3,23 @@ date: '2020-04-26T17:52:23-05:00'
 draft: false
 title: "While True(): Learn to teach your cat to drive."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/04/26/while-true-learn-to-teach-your-cat-to-drive/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've got a soft spot for \"programming\" games. Since that's my day job, I can usually convince myself that this is the one sort of..."
+categories:
   - "Nintendo Switch"
   - "TIS-100"
+tags:
   - "7 Billion Humans"
   - "AI"
-  - "Snap"
+  - "SNAP"
   - "Spacechem"
   - "While True: Learn()"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/04/catai-1024x576.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/04/catai-1024x576.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/catai-1024x576.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/04/catai-1024x576.jpg"
 ---
+I've got a soft spot for "programming" games. Since that's my day job, I can usually convince myself that this is the one sort of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/04/catai-1024x576.jpg" title="Can you feel the feline neurons growing?" >}}
+
 
 I've got a soft spot for "programming" games. Since that's my day job, I can usually convince myself that this is the one sort of game I might actually be good at.
 

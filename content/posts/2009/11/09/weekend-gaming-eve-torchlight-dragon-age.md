@@ -3,43 +3,20 @@ date: '2009-11-09T08:34:28-05:00'
 draft: false
 title: "Weekend Gaming: EVE, Torchlight, Dragon Age"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/11/09/weekend-gaming-eve-torchlight-dragon-age/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'd promised myself I wasn't going to play Dragon Age: Origins until I'd finished Torchlight all the way through. Not that this was a huge..."
+categories:
   - "Dragon Age Origins"
   - "EVE Online"
   - "MMORPG"
   - "Other Games"
   - "Torchlight"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg"
 ---
+I'd promised myself I wasn't going to play Dragon Age: Origins until I'd finished Torchlight all the way through. Not that this was a huge...
+<!--more-->
 
-![Uber-looking Vanquisher](https://chasingdings.com/wp-content/uploads/2009/11/Torchlight-2009-11-08-12-49-04-88.jpg "Uber-looking Vanquisher")
+
 
 I'd promised myself I wasn't going to play Dragon Age: Origins until I'd finished Torchlight all the way through. Not that this was a huge burden, but I do hate leaving good games unplayed just because another game found its way into my computer.
 
@@ -53,7 +30,7 @@ It's clear that when Torchlight becomes an MMO, it will be very close to Mythos 
 
 I'll likely download Torchlight's level editor tools, but as it stands, I feel it would be difficult to tell a real story in Torchlight. As a quick hack n' slash diversion for an hour or three, it can't be beat.
 
-![Meeting Barkspawn on the road!](https://chasingdings.com/wp-content/uploads/2009/11/Tipa1_630.jpg "Meeting Barkspawn on the road!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/Tipa1_630.jpg" title="Meeting Barkspawn on the road!" classes="center" >}}
 
 I biked down to Best Buy Saturday to pick up my pre-order copy of Dragon Age: Origins. I needn't have bothered pre-ordering; there were no special bonuses for doing so, and I had to spend half an hour in the customer service line because I'd brought the empty box they give you, but not the receipt. The box did come with the Stone Prisoner quest code, as well as a trial code for Warhammer Online, which I consider a cruel trick.
 
@@ -75,7 +52,7 @@ I was overjoyed to meet the dog I'd saved back at the ruins along the way. [I na
 
 I'll definitely be picking up Bioware's level editing tools. I am already mentally taking notes for a Stout Henry adventure in this war-torn world.
 
-![EVE Online: Faction Quest](https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-03-22-50-35-46.jpg "EVE Online: Faction Quest")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/ExeFile-2009-11-03-22-50-35-46.jpg" title="EVE Online: Faction Quest" classes="center" >}}
 
 Based on suggestions on how to raise my standings with Amarr and Caldari, I stopped taking missions to kill them. So, that was step 1. Step 2 was finding people who liked them, and helping them out, hoping they would pass the word. Life in Khanid space doing courier missions into lowsec for Khanid Transport was ... boring, at best. My first storyline mission with them netted me only +0.04 in standings with Amarr and Caldari. I calculated it would take me nearly a hundred missions to raise my standings enough so that I could begin taking Level 1 missions from those factions.
 

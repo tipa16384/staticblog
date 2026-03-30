@@ -3,40 +3,19 @@ date: '2010-01-08T02:11:51-05:00'
 draft: false
 title: "Dungeons & Dragons Online: A Hobbesian Cleric"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/08/dungeons-dragons-online-a-hobbesian-cleric/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What's a Hobbesian cleric? One who is nasty, brutish and SHORT...."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/dndclient-2010-01-07-22-38-06-21.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/dndclient-2010-01-07-22-38-06-21.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/dndclient-2010-01-07-22-38-06-21.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/dndclient-2010-01-07-22-38-06-21.jpg"
 ---
+What's a Hobbesian cleric? One who is nasty, brutish and SHORT....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/dndclient-2010-01-07-22-38-06-21.jpg "Derra Tanglewood, Cleric. Dammit.") What's a Hobbesian cleric? One who is [nasty, brutish and SHORT](http://www.phrases.org.uk/meanings/254050.html).
+
+
+What's a Hobbesian cleric? One who is [nasty, brutish and SHORT](http://www.phrases.org.uk/meanings/254050.html).
 
 That's Derra. Seriously, she looked better in the character creator. But when she got washed up on that shore just to be taunted by some halfling rogue (and not even a cute one), well, I guess that's when she lost it. When she met up minutes later with a cleric, an ELF, I think, who was so stuck up and SUPERIOR that she had a buff that could stop you from dying. I mean, where's the skill in that? "Oh, hi, here's a buff where you can't die. I'm the best cleric in the world! Lalalala! You go do whatever it is you DO do, dear!"
 
@@ -52,7 +31,7 @@ We decided to get going on DDO this week. To prepare, we'd need to make a charac
 
 I decided to do a couple of instances to ensure I knew how to play the game by the time group meets this weekend. I volunteered to be the healer, so I figured I should know how to play. I eventually did ALL the instances, but leveling in DDO is sedate enough that I'm only level 2.
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/dndclient-2010-01-07-23-21-11-49.jpg "I totally soloed this dragon.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/dndclient-2010-01-07-23-21-11-49.jpg" title="I totally soloed this dragon." classes="center" >}}
 
 Abilities in Dungeons & Dragons Online are split between spells, skills and "feats". You can cast as many spells as you have spell points for. Buffs, however, last only seconds and heals don't really heal that much, so they must be used strategically, especially since spell points don't regenerate in an instance -- you have to rest at a shrine. Skills can be used as often as you like with no penalty. Feats have a certain number of uses after which you need to rest at a shrine to use them again. Such game-breaking abilities as Turn Undead fall under feats.
 

@@ -3,45 +3,23 @@ date: '2022-08-31T22:26:55-05:00'
 draft: false
 title: "Dall-E introduces \"Outpainting\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/31/dall-e-introduces-outpainting/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dall-E 2 renders have been trapped in squares, requiring people to either crop the image or play tricks with paint programs to trick the AI..."
+categories:
   - "OpenAI"
+tags:
   - "Dall-E 2"
   - "Gin-Soaked Nightclubs"
   - "Robots"
   - "Wombats"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/guitarrobot.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/guitarrobot.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/guitarrobot.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/guitarrobot.png"
 ---
+Dall-E 2 renders have been trapped in squares, requiring people to either crop the image or play tricks with paint programs to trick the AI...
+<!--more-->
 
 Dall-E 2 renders have been trapped in squares, requiring people to either crop the image or play tricks with paint programs to trick the AI into extending the image. Today, OpenAI built that capability right into the program. Edit to your heart's content to make the perfect image for your needs.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-31-21.00.36-A-golden-robot-playing-an-acoustic-guitar-on-a-small-stage-in-a-spotlight-old-band-posters-on-the-wall-behind-the-robot-viewpoint-is-from-stage-righ-1024x1024.png" title="A golden robot playing an acoustic guitar on a small stage in a spotlight, old band posters on the wall behind the robot, viewpoint is from stage right" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-31-21.00.36-A-golden-robot-playing-an-acoustic-guitar-on-a-small-stage-in-a-spotlight-old-band-posters-on-the-wall-behind-the-robot-viewpoint-is-from-stage-righ-1024x1024.png" title="A golden robot playing an acoustic guitar on a small stage in a spotlight, old band posters on the wall behind the robot, viewpoint is from stage right" classes="center" >}}
 
 My partner and I were watching Dice Tower's "{{< youtube PQ4IecqrVOE >}}" tonight, and one of their non-game projects was for a [Guitar Robot](https://www.kickstarter.com/projects/megcell/a-portable-arduino-guitar-robot) -- plans to build an Arduino-powered guitar playing robot.
 
@@ -51,13 +29,13 @@ Just up above was my first prompt. It came out more toylike than I expected, but
 
 You trigger Outpainting by choosing the new Edit Image option after you have generated your base image. You'll come to a new page with some editing tools --
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/image-13.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/image-13.png" classes="center" >}}
 
 The arrow tool selects a 1000x1000 pixel area. The hand tool moves the picture around so you can add more bits to it. The eraser tool erases some of the image so that it can be regenerated as something else. The square with a + is the outpainting tool. The picture icon with a + is the file upload tool, to set a seed for further generation.
 
 I'm going to erase the robot and ask for a cool wombat playing guitar instead.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-31-21.38.46-A-golden-robot-playing-an-acoustic-guitar-on-a-small-stage-in-a-spotlight-old-band-posters-on-the-wall-behind-the-robot-viewpoint-is-from-stage-righ-1024x443.png" title="A cool wombat playing guitar instead of that nasty robot" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-31-21.38.46-A-golden-robot-playing-an-acoustic-guitar-on-a-small-stage-in-a-spotlight-old-band-posters-on-the-wall-behind-the-robot-viewpoint-is-from-stage-righ-1024x443.png" title="A cool wombat playing guitar instead of that nasty robot" classes="center" >}}
 
 These new tools let you play with images easily, remixing them endlessly to make exactly what you're looking for -- within the constraints of the program, of course.
 

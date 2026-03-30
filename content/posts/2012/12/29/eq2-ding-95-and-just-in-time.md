@@ -3,40 +3,17 @@ date: '2012-12-29T20:33:16-05:00'
 draft: false
 title: "EQ2: Ding 95! And just in time!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/12/29/eq2-ding-95-and-just-in-time/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dinged 95 Berserker on Scatterfall today. That's the max level with the Chains of Eternity expansion. She's also a 95 Carpenter, and has 318 Alternate..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-29-18-36-35-95-480x299.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-29-18-36-35-95-480x299.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-29-18-36-35-95-480x299.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-29-18-36-35-95-480x299.jpg"
 ---
+Dinged 95 Berserker on Scatterfall today. That's the max level with the Chains of Eternity expansion. She's also a 95 Carpenter, and has 318 Alternate...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-29-18-36-35-95-480x299.jpg" title="Scatterfall at 95/95/318" class="align-center" >}}
+
 
 Dinged 95 Berserker on Scatterfall today. That's the max level with the Chains of Eternity expansion. She's also a 95 Carpenter, and has 318 Alternate Advancement (AA) points -- two short of the max. Though she was boosted from 190-something to 280 when she hit level 90 and used one of the special potions that came with the expansion, so I DID cut some corners, there.
 
@@ -48,7 +25,7 @@ Two months of mostly casual play, maxing out both adventure and crafting levels 
 
 I use the word "grinding" here on purpose.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-29-08-59-43-34-480x300.jpg" title="Facing Drinal, final boss of Chains of Eternity" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-29-08-59-43-34-480x300.jpg" title="Facing Drinal, final boss of Chains of Eternity" classes="center" >}}
 
 Saving the Ethernere -- the place where souls rest before being brought to the planes of their Gods, back when the Gods still cared -- wasn't enough to level me to 95. Dealing with the surprise death of Rallos Zek and the absorption of his soul into the Ethernere wasn't enough. Pushing a Cazic Thule from a parallel universe back to his home reality to make Norrath safe for OUR Cazic Thule wasn't enough. It was ALMOST enough, but not quite.
 
@@ -60,7 +37,7 @@ So I went in there the first time with a healer mercenary, pulling carefully. By
 
 I quickly had enough Dungeon Marks for a new helmet and a new mount, and some armor for my defiler, but the experience still wasn't that great at that level. I went to bed last night just a couple bubbles from 95, and with no CoE quests in my log.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-29-10-45-24-34-480x299.jpg" title="CSI: Norrath. Wuoshi's dead, who's the killer?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-29-10-45-24-34-480x299.jpg" title="CSI: Norrath. Wuoshi's dead, who's the killer?" classes="center" >}}
 
 I spent some time saving Thurgadin from an invasion of the Order of the Rime for no XP AND no rewards. Grrr. Wasted forty minutes on that. I finished the Blessed Scimitar of the Emerald Dawn heritage quest, solo, which required doing parts of three Velious heroic instances -- Iceshard Keep, Forgotten Pools and Crystal Caverns: Collapse, where Belghast and I had died so many times a few weeks ago. My record wasn't any better today. I finished the quest with a lot of experience debt (but luckily could erase it with a Wand of Forgiveness).
 
@@ -70,7 +47,7 @@ Since I gained the Tradeskill Prestige ability to track harvest nodes, INCLUDING
 
 So, DING and also KA-CHING. It all works out.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-25-23-23-07-51-480x299.jpg" title="Sleeper's Tomb, solo version" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-25-23-23-07-51-480x299.jpg" title="Sleeper's Tomb, solo version" classes="center" >}}
 
 I'm not sure why they still call this Sleeper's Tomb. In game lore, Kerafym the Sleeper has been awake for centuries, hell-bent on his prolonged revenge against the Claws of Veeshan who kept him penned in there for no worse crime than existing. I think there is a raid that does go back into the past, but I dunno.
 
@@ -80,7 +57,7 @@ I haven't done a lot of group things. Some things with the guild; a couple rando
 
 So that's still to come.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/EverQuest2-2012-12-25-23-06-59-87-480x299.jpg" title="A dragon I did not kill." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/EverQuest2-2012-12-25-23-06-59-87-480x299.jpg" title="A dragon I did not kill." classes="center" >}}
 
 So what's next? I looked back through my screen shots, looking for the earliest shot of Scatterfall that survived my last purge, and it was from 2010. After EQ2 closed Fortune League, and I stopped playing, I moved back to Wizard101, Final Fantasy XIV, more W101, Star Trek Online, Rift, GW1 and GW2, The Secret World, Pirate101... and what was common to the ones I stuck with, was I was playing alongside other people whose names I knew, whose playstyles I knew. Games in which I mostly soloed were games I eventually stopped logging in to play -- because if nobody cared if I was there or not, it's easy to also stop caring.
 

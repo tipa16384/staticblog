@@ -3,44 +3,22 @@ date: '2009-03-29T14:30:54-05:00'
 draft: false
 title: "Lord of the Rings Online: O Capitaine, mon Capitaine"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/29/lord-of-the-rings-online-o-capitaine-mon-capitaine/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been deliberately avoiding my Captain since I returned to the Lord of the Rings -- she's so much higher level than anyone else I..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
+tags:
   - "Captain"
   - "Estendil"
   - "Evendrim"
   - "North Downs"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/lotroclient-2009-03-29-14-08-27-53.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/lotroclient-2009-03-29-14-08-27-53.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/lotroclient-2009-03-29-14-08-27-53.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/lotroclient-2009-03-29-14-08-27-53.jpg"
 ---
+I've been deliberately avoiding my Captain since I returned to the Lord of the Rings -- she's so much higher level than anyone else I...
+<!--more-->
 
-![lotroclient-2009-03-29-14-08-27-53](https://chasingdings.com/wp-content/uploads/2009/03/lotroclient-2009-03-29-14-08-27-53.jpg "lotroclient-2009-03-29-14-08-27-53")
+
 
 I've been deliberately avoiding my Captain since I returned to the Lord of the Rings -- she's so much higher level than anyone else I know who plays -- 35 to everyone else's 13-23 -- that it just seemed wrong to not play a lower level character while everyone catches up.
 
@@ -48,7 +26,7 @@ But heck, everyone in my circle of gaming companions is staggering under as larg
 
 Nope, I have one who I logged off after a dreary few days soloing in North Downs, and didn't play again for two years. My Captain!
 
-![lotroclient-2009-03-29-09-36-10-08](https://chasingdings.com/wp-content/uploads/2009/03/lotroclient-2009-03-29-09-36-10-08.jpg "lotroclient-2009-03-29-09-36-10-08")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/lotroclient-2009-03-29-09-36-10-08.jpg" title="lotroclient-2009-03-29-09-36-10-08" classes="center" >}}
 
 North Downs has changed a little since the last time I was there. For one thing, Esteldin has moved from the top of the map to somewhere near its center (it is BARELY possible I might have misremembered where it was, but no -- my perfect memory cannot be mistaken). So, all those people I confidently guided to Esteldin  by saying top-middle of the map -- sorry, and I hope the Dourhands and spiders weren't too much trouble for you. Since I, of course, knew where the secret Ranger stronghold was (so secret that there was no little banner flag for it on my map), I must have been leading you to certain doom -- on purpose.
 

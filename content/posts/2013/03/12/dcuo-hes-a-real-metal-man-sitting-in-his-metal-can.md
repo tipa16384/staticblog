@@ -3,46 +3,23 @@ date: '2013-03-12T07:04:46-05:00'
 draft: false
 title: "DCUO: He's a real metal man, sitting in his metal can"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/03/12/dcuo-hes-a-real-metal-man-sitting-in-his-metal-can/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What does it take to defeat the Tornado Tyrant in Oolong Island? Three weeks and nine levels. But that's done. After an impromptu mid-week play..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/MADV102_COMPDYNAMICLIGHTRIG-PC-10-22.40.400-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/03/MADV102_COMPDYNAMICLIGHTRIG-PC-10-22.40.400-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/MADV102_COMPDYNAMICLIGHTRIG-PC-10-22.40.400-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/MADV102_COMPDYNAMICLIGHTRIG-PC-10-22.40.400-480x343.jpg"
 ---
+What does it take to defeat the Tornado Tyrant in Oolong Island? Three weeks and nine levels. But that's done. After an impromptu mid-week play...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/MADV102_COMPDYNAMICLIGHTRIG-PC-10-22.40.400-480x343.jpg" title="I am the egg man" class="align-center" >}}
+
 
 What does it take to defeat the Tornado Tyrant in Oolong Island? Three weeks and nine levels. But that's done. After an impromptu mid-week play through some mission arcs, we all started our assault on Oolong Island Sunday at level 28 or 29. We flew through the early fights, which have become so familiar that we could just joke around and fly casual and have pterosaur barbecue, as much as we liked. Prehistoric drumsticks for _everyone_.
 
 Soon, we were up against T. O. Morrow and his greatest failure/victory, the Tornado Tyrant. We blocked, we scattered, we killed the adds, we moved in for the kill and T.O.Morrow was a broken, broken man, though of course in the ending cinematic, he would claim this was all actually a victory, and the defeat of all the world's heroes was at hand.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/MADV102_COMPDYNAMICLIGHTRIG-PC-10-22.33.390-480x343.jpg" title="Why are we not arresting this psycho?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/MADV102_COMPDYNAMICLIGHTRIG-PC-10-22.33.390-480x343.jpg" title="Why are we not arresting this psycho?" classes="center" >}}
 
 Time to see the end of the island and finish the green and blue collections! We flew up to the building of the final fight, battled bots like [Magnus, Robot Fighter](http://en.wikipedia.org/wiki/Magnus,_Robot_Fighter), and soon came face to shell with the Egg Man, ~~MODOK~~ Chang Tzu. He tried to fling us onto electrified floors, forgetting we could all fly. This guy is apparently the CEO of Oolong Island, the chief mad scientist, and yet he lets T. O. Morrow pretty much do what he likes.
 
@@ -56,7 +33,7 @@ Now, the living elemental of toxic waste, [Chemo](http://en.wikipedia.org/wiki/C
 
 Where was Nightwing? Who knows? If we managed to defeat Chemo and free Blüdhaven, would he pop in at the end and take credit? Of course he would! In all these missions, Team Spode gets sent in, some other hero pops in at the end and takes the credit. We're like the subcontractors of the hero world.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/MADV109_DESIGNERDATA-PC-10-23.03.290-480x343.jpg" title="More HGH than Lance Armstrong, apparently" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/MADV109_DESIGNERDATA-PC-10-23.03.290-480x343.jpg" title="More HGH than Lance Armstrong, apparently" classes="center" >}}
 
 The mini-bosses were easy, tank and spank. We died more on the trash, to be honest, especially in the toxic pools where it was very easy to get overwhelmed. I'm pretty sure I (as controller) should be dealing with that somehow -- I'll have to check out my power loadout.
 

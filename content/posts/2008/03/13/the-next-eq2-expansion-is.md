@@ -3,40 +3,17 @@ date: '2008-03-13T15:33:31-05:00'
 draft: false
 title: "The next EQ2 expansion is...?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/13/the-next-eq2-expansion-is/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Image of Luclin in New Tunaria..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-01-01-23-36-16-60.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-01-01-23-36-16-60.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-01-01-23-36-16-60.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-01-01-23-36-16-60.jpg"
 ---
+Image of Luclin in New Tunaria...
+<!--more-->
 
-![everquest2-2008-01-01-23-36-16-60.jpg](https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-01-01-23-36-16-60.jpg)
+
 
 *Image of Luclin in New Tunaria*
 

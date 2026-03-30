@@ -3,47 +3,25 @@ date: '2024-01-09T07:50:53-05:00'
 draft: false
 title: "HeroQuest: The Stone Hunter"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/01/09/heroquest-the-stone-hunter/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Taking the dwarf from solving crossword puzzles to kicking skellie butt."
-description: "Taking the dwarf from solving crossword puzzles to kicking skellie butt."
-tags:
+categories:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Game"
+tags:
   - "Board Game"
   - "Dwarf"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/tipachu_a_dwarf_warrior_in_shining_plate_armor_wielding_a_golde_41db7272-d75f-48c1-acc0-be33fa2fa3e5.png"
 ---
+Taking the dwarf from solving crossword puzzles to kicking skellie butt.
+<!--more-->
 
 While the rest of the crew has been enjoying their *crossbows* and their *spells*, the dwarf has just been making do with a short sword (that looks, somehow, like an axe). The barbarian can shoot at anything he sees for three combat dice. The dwarf has to get up close and personal to every single monster and poke it for only two combat dice. Its only the helmet he picked up a few quests back that let him have three defense dice -- which is *not nearly enough* given all the danger he's in.
 
 Now that Kasul has more or less permanently taken the Zargon role, I'm left playing the elf and the dwarf, the characters he played. The elf... has spells and a crossbow. She's only in danger when she wants to be in danger.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4157-1024x768.jpg" title="Finishing up" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4157-1024x768.jpg" title="Finishing up" classes="center" >}}
 
 > The Emperor's personal wizard, Karlen, has disappeared. The Emperor fears he has been either murdered, or succumbed to the lures of Chaos magic. You are to find out what happened to Karlen and, if he is alive, bring him to safety. You will be paid 100 gold coins each upon returning.
 

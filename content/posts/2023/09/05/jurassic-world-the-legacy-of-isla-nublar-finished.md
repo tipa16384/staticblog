@@ -3,44 +3,22 @@ date: '2023-09-05T07:00:00-05:00'
 draft: false
 title: "Jurassic World: The Legacy of Isla Nublar: Finished!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/09/05/jurassic-world-the-legacy-of-isla-nublar-finished/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Racing a band of mercenaries and an exploding volcano in a desperate bid to save the dinos of Isla Nublar."
-description: "Racing a band of mercenaries and an exploding volcano in a desperate bid to save the dinos of Isla Nublar."
-tags:
+categories:
   - "Game Night"
+tags:
   - "Board Game"
   - "Jurassic Park"
   - "Jurassic World the Legacy of Isla Nublar"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/jwfinished.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/09/jwfinished.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jwfinished.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jwfinished.png"
 ---
+Racing a band of mercenaries and an exploding volcano in a desperate bid to save the dinos of Isla Nublar.
+<!--more-->
 
 We're just closing up shop on games these days.
 
-A few weeks ago, [I wrote about](https://chasingdings.com/2023/08/15/jurassic-world-the-legacy-of-isla-nublar/) the penultimate main adventure on Isla Nublar, where we were trying to get the last of the civilians off of the dino-infested island before we closed up the island forever.
+A few weeks ago, [I wrote about](https://tipa16384.github.io/wkblog/2023/08/15/jurassic-world-the-legacy-of-isla-nublar/) the penultimate main adventure on Isla Nublar, where we were trying to get the last of the civilians off of the dino-infested island before we closed up the island forever.
 
 Well, we went back. Dinosaurs have escaped the island, and we need to get back and get the lab records for any information we can find about the beasts, and maybe try to rescue what dinos we can. To help with that, we brought a mercenary crew.
 
@@ -50,7 +28,7 @@ It's because bad actors like ourselves keep making heroic efforts to keep them a
 
 We're... not very smart.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/1-IMG_3981.jpg" title="They look so peaceful from up here..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/1-IMG_3981.jpg" title="They look so peaceful from up here..." classes="center" >}}
 
 Last time we evacuated the island, meaning that this time, we had to bring everyone *back*. We never know ahead of time what we'll have to do when we get to the island, but it *usually* involves kids getting free and trying their very best to get eaten.
 
@@ -60,7 +38,7 @@ All we had to do was herd them to the merc base, where a cargo helicopter would 
 
 Well, we managed to get a good few of the dinos into the merc's care, *along* with Blue, and we were pretty satisfied with ourselves... until we found out that the mercs intended to sell off the dinosaurs as weapons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/1-IMG_3988.jpg" title="The game all packed away" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/1-IMG_3988.jpg" title="The game all packed away" classes="center" >}}
 
 **The Finale**
 

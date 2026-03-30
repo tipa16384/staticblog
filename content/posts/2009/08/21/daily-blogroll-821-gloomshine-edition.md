@@ -3,24 +3,8 @@ date: '2009-08-21T07:47:11-05:00'
 draft: false
 title: "Daily Blogroll 8/21 - Gloomshine Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/21/daily-blogroll-821-gloomshine-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Is Gatheryn in open beta or not? Massively says not yet, but following Merry and Pippin's example, I showed up where I wasn't invited because..."
+categories:
   - "Aion"
   - "Champions Online"
   - "Daily Blogroll"
@@ -28,20 +12,13 @@ tags:
   - "Gatheryn"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg"
 ---
+Is Gatheryn in open beta or not? Massively says not yet, but following Merry and Pippin's example, I showed up where I wasn't invited because...
+<!--more-->
 
-![The Docks in Gatheryn](https://chasingdings.com/wp-content/uploads/2009/08/Gatheryn-2009-08-20-18-51-17-34.jpg "The Docks in Gatheryn")
+
 
 Is Gatheryn in open beta or not? Massively says [not yet](http://www.massively.com/2009/08/20/gatheryn-approaches-open-beta-offers-registration-page-and-clie/), but following Merry and Pippin's example, I showed up where I wasn't invited because they couldn't keep me away. Picture above is from the docks, where it's clear they haven't invented automated rust scrapers and hull painters in Elymia as of yet.
 

@@ -3,40 +3,17 @@ date: '2008-01-24T15:11:37-05:00'
 draft: false
 title: "Rock Band: Real PvP vs Carebear PvP"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/24/rock-band-real-pvp-vs-carebear-pvp/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's a lot of discussion about PvP in upcoming MMOs. How hardcore will it be, will it interest non-PvPers... It can. If the penalty for..."
+categories:
   - "MMORPG"
   - "Rock Band"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/test.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/test.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/test.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/test.jpg"
 ---
+There's a lot of discussion about PvP in upcoming MMOs. How hardcore will it be, will it interest non-PvPers... It can. If the penalty for...
+<!--more-->
 
-![test.jpg](https://chasingdings.com/wp-content/uploads/2008/01/test.jpg)
+
 
 There's a lot of discussion about PvP in upcoming MMOs. How hardcore will it be, will it interest non-PvPers... It can. If the penalty for losing is not that great, I feel people will embrace it. By slowly removing the PvE experience as you level, as Warhammer is said to be contemplating, you end up in PvP quite naturally. That's certainly how I went from a PvE EQ1 player to a RvR DAoC player.
 

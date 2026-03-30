@@ -3,40 +3,17 @@ date: '2012-12-07T13:57:22-05:00'
 draft: false
 title: "Kerbal Space Program: Lost in Space"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/12/07/kerbal-space-program-lost-in-space/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's a tense day for the Kerbal Space Program. Three intrepid explorers have been strapped into the Super Booster 3, charitably described in the Kerb..."
+categories:
   - "Kerbal Space Program"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg"
 ---
+It's a tense day for the Kerbal Space Program. Three intrepid explorers have been strapped into the Super Booster 3, charitably described in the Kerb...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-06-23-46-17-22-480x300.jpg" title="Moon shot" class="align-center" >}}
+
 
 It's a tense day for the [Kerbal Space Program](http://kerbalspaceprogram.com/). Three intrepid explorers have been strapped into the Super Booster 3, charitably described in the Kerb press as a "flying bomb".
 
@@ -46,11 +23,11 @@ That's all in the past, though. The mess has been cleared away. Again. The space
 
 Right away, anyway.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-07-12-19-01-06-480x300.jpg" title="Second stage!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-07-12-19-01-06-480x300.jpg" title="Second stage!" classes="center" >}}
 
 Launch went surprisingly well. Eight solid rocket boosters paired with four mighty liquid fuel engines pushed the ~~bomb~~ spacecraft off the pad and into the clear skies. Twenty five seconds later, the SRBs dropped away while the liquid fuel engines continued. Above the atmosphere, the liquid fuel engines gasped the last of their fuel and were dropped.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-07-12-36-10-87-480x300.jpg" title="Approaching Mun" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-07-12-36-10-87-480x300.jpg" title="Approaching Mun" classes="center" >}}
 
 The last stage took over. Previous models of the spacecraft had this last stage boosting from the start along with all the other engines, but this one saves the last engine for breaking out of orbit and landing on the moon.
 
@@ -58,11 +35,11 @@ You don't just _fly_ places in Kerbal Space Program. You adjust the orbit so tha
 
 I fired the rockets and used the (M)ap display to help select an orbit that would intersect Mun at about the right altitude to grab the spacecraft and give me a base to circularize the orbit and make a controlled descent onto the moon.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-07-12-36-17-17-480x300.jpg" title="Goodnight, Moon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-07-12-36-17-17-480x300.jpg" title="Goodnight, Moon" classes="center" >}}
 
 Unfortunately, the space craft was moving too fast to be captured. Instead of going into orbit around Mun, the moon's gravity swung the craft into orbit around the sun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-07-12-53-45-81-480x300.jpg" title="Kepler's Dilemma" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-07-12-53-45-81-480x300.jpg" title="Kepler's Dilemma" classes="center" >}}
 
 It's been a very long time since we learned about Kepler's Laws in high school, but I do remember that inner orbits are faster than outer orbits. This also means that if I can make the orbits match up, then at that particular point, if the tangents at that point are the same, the spacecraft and Kerbin will be moving at the _same orbital velocity_ -- and the Kerbals will be saved.
 

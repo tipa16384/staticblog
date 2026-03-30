@@ -3,38 +3,15 @@ date: '2010-03-26T06:51:24-05:00'
 draft: false
 title: "STO wants to sell you a bridge"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/26/sto-wants-to-sell-you-a-bridge/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Actually, STO wants to sell you bridge PACKS. 120 Cryptic Points will now buy you three new bridges for your newbie ship, and 200 will..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/tellarite-480x421.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/tellarite-480x421.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/tellarite-480x421.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/tellarite-480x421.jpg"
 ---
+Actually, STO wants to sell you bridge PACKS. 120 Cryptic Points will now buy you three new bridges for your newbie ship, and 200 will...
+<!--more-->
 
 Actually, STO wants to sell you bridge PACKS. 120 Cryptic Points will now buy you three new bridges for your newbie ship, and 200 will get you four new bridges for your top-of-the-line Federation or Klingon cruisers. These are still (for the Feds, anyway), the cavernous flight deck hangar-sized bridges.
 
@@ -42,13 +19,11 @@ So now you can invite your friends to your ship, and everyone can pretend that t
 
 Ever notice how Kirk was always signing stuff on the bridge, but I don't remember any of the followup captains ever seeming that concerned with administrative details.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/tellarite-480x421.jpg" title="Big man, pig man -- ha ha, charade you are...." class="align-center" >}}
-
 The expansion also brings a new race, ~~dwarfs~~ Tellaraites, as playable characters. Tellarites are one of the four pillars of the Federation, along with Vulcans, Andorians and the strangely featureless, unformed, smooth-skinned "humans". You have to wonder how the other races see humans. Doughy, neotenous, unfinished... no character at all to their bodies. Humans must look like demons or ghosts to them, right? Faceless creatures out of their nightmares.
 
 Also new with the expansion are cash shop abilities to wipe clean all your training options, and to change your character's name. Given that your character will still be attached to your HANDLE everywhere, going from Aaaaaa@Whoever to Bbbbb@Whoever won't do much to make people forget who you are, but it should be a golden opportunity to change your name from Kirk, Spock or Khan. Because we have enough of those already.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-25-21-40-02-97.jpg" title="I love my assimilated tribble!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-25-21-40-02-97.jpg" title="I love my assimilated tribble!" classes="center" >}}
 
 Logging in the test server last weekend got you a Borg Tribble and the title Crash Test Tribble. The expansion also implemented a couple of new fleet missions that had been promised earlier. I did the Assault on DS9 one last night, where approximately one million RA6(!) Cardassians invade Deep Space 9. Note to people attempting this mission: Destroy the holo generators first, for your own sakes. I died so, so many times. I'd dread this with a death penalty.
 

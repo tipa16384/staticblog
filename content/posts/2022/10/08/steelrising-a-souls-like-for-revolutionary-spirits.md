@@ -3,56 +3,34 @@ date: '2022-10-08T12:19:41-05:00'
 draft: false
 title: "Steelrising: A Souls-Like for Revolutionary Spirits"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/10/08/steelrising-a-souls-like-for-revolutionary-spirits/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Aegis, a living automaton, is on a quest to free France from Mad King Louis XVI's tyranny in this dark souls-like game set during the French Revolution."
-description: "Aegis, a living automaton, is on a quest to free France from Mad King Louis XVI's tyranny in this dark souls-like game set during the French Revolution."
-tags:
+categories:
   - "Action RPG"
   - "Elden Ring"
   - "Greedfall"
   - "RPG"
   - "Souls-Like"
+tags:
   - "French Revolution"
   - "Girls Screaming in Clockwork"
   - "Spiders"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/10/steelrising.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/10/steelrising.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/steelrising.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/steelrising.png"
 ---
+Aegis, a living automaton, is on a quest to free France from Mad King Louis XVI's tyranny in this dark souls-like game set during the French Revolution.
+<!--more-->
 
 It is the late 18th century. The Marquis de la Fayette has returned to France after helping the Americans win their country, and now it is time to free his own country from Louis XVI, the Clockwork King, who has constructed a mechanical army to terrorize Paris.
 
 You play as Aegis, an automaton sworn to do the bidding of the Mad King's queen, Marie Antoinette, who is trying to escape with her children back to her native Austria. Unlike all other automatons, you can talk and think and, through the course of the game, will come to know all the other players of the French Revolution, and the secrets of your own dark origin.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/10/Steelrising_20221005071434-1024x576.jpg" title="Aegis introduces herself to Marie Antoinette" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/10/Steelrising_20221005071434-1024x576.jpg" title="Aegis introduces herself to Marie Antoinette" classes="center" >}}
 
 Given the fantastical plot, the game manages to pack in quite a lot of information about the people and motivations behind the French Revolution. Robespierre, Marat, la Fayette, Julien Raimond, Mirabeau and others appear, often after you have saved them from unspeakable fates, and talk about what drove them to rebellion. Raimond, a Black plantation from [Saint-Domingue](https://en.wikipedia.org/wiki/Saint-Domingue), who would later go on to lead the Haitian Revolution, has a particularly intricate story.
 
 As a game that instructs about the French Revolution and tours some of the most famous Paris locations of the day -- St. Cloud, Versailles, the Louvre, the Bastille and others -- the game is a clear success. But how is it as a game?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/10/Steelrising_20220924163918-1024x576.jpg" title="Julien Raimond does not trust this strange automaton" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/10/Steelrising_20220924163918-1024x576.jpg" title="Julien Raimond does not trust this strange automaton" classes="center" >}}
 
 **The Souls are called Anima**
 
@@ -64,7 +42,7 @@ Killing enemies earns you anima, the currency that is spent to upgrade weapons a
 
 Enemies also drop various useful items like various elemental grenades, potions to protect against elemental effects, heal-over-time phials and most importantly, alchemical charges.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/10/Steelrising_20221003213208-1024x576.jpg" title="Alllllccchhheeeeemmmmyyyyy" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/10/Steelrising_20221003213208-1024x576.jpg" title="Alllllccchhheeeeemmmmyyyyy" classes="center" >}}
 
 **The Power of Alchemy**
 
@@ -76,7 +54,7 @@ I had over 600 alchemical charges saved up before I went into the endgame. By th
 
 You will be able to swap between two weapons at will. I used a different weapon -- a fire chain -- to set the burning condition before moving in with the fans. Other weapons can apply frost conditions or fulmination (lightning) conditions. There is no bleed condition as all your opponents are automatons -- no blood.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/10/Steelrising_20220925212338-1024x576.jpg" title="One of Louis' clockwork automatons" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/10/Steelrising_20220925212338-1024x576.jpg" title="One of Louis' clockwork automatons" classes="center" >}}
 
 **The Enemies**
 
@@ -90,7 +68,7 @@ Enemies also are not immune to friendly fire, so a valid strategy in fights vers
 
 Moves are usually pretty well telegraphed and are not that hard to dodge. Dodging and attacking uses up endurance, though, and if you run out of endurance, you will find yourself helpless and open to critical attacks. Some enemy attacks also drain endurance. Luckily, it refreshes fairly quickly when you stop attacking. It can also be quickly refreshed, at the cost of some health, and a phial can give it a boost.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/10/Steelrising_20221005072911-1024x576.jpg" title="Aegis in front of a Vestal" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/10/Steelrising_20221005072911-1024x576.jpg" title="Aegis in front of a Vestal" classes="center" >}}
 
 **Assist Mode**
 

@@ -3,40 +3,17 @@ date: '2012-01-20T00:51:52-05:00'
 draft: false
 title: "STO Special Task Force walkthrough: The Cure (Space)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/20/sto-special-task-force-walkthrough-the-cure-space/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Before Star Trek Online implemented the PvE queuer, getting into special task forces was a matter of sitting in Gamma Orionis, spamming for groups. And..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-19-19-47-07-93-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-19-19-47-07-93-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-19-19-47-07-93-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-19-19-47-07-93-480x384.jpg"
 ---
+Before Star Trek Online implemented the PvE queuer, getting into special task forces was a matter of sitting in Gamma Orionis, spamming for groups. And...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-19-19-47-07-93-480x384.jpg" title="Killing the Cube" class="align-center" >}}
+
 
 Before Star Trek Online implemented the PvE queuer, getting into special task forces was a matter of sitting in Gamma Orionis, spamming for groups. And the people wanting to fill groups would have insane pre-qualifications, like specific classes and builds, and they would kick you out if you didn't fit their narrow requirements. You also were obliged to stay for all parts of the special task force, all space parts and all ground parts.
 
@@ -46,7 +23,7 @@ The secret is: they're easy once you know what's happening.
 
 The easiest space mission is The Cure. If you can master this one, you pretty much have all the skills to do Infected and Khitomer Accord.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/thecure-386x480.png" title="Map for" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/thecure-386x480.png" title="Map for" classes="center" >}}
 
 In "The Cure" space STF, the captain and crew of the IKS Kang were sent to the Vorn system to check up on Borg movements but no word has come from them since. Our job is to head in, save the Kang and destroy the Borg.
 
@@ -62,7 +39,7 @@ Kill the bottom nanite probes, then the upper nanite probes, then the cube. Head
 
 After cube 2, the strike team helps clear the newly launched Negh'Var warships and then kills the third cube, ignoring the weak raptors that are launched. The protector still deals with those. Once the third cube is dead, kill all the remaining Borg ships, fly to the Kang and hail it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-19-19-59-08-61-480x320.jpg" title="The Assimilated Carrier" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-19-19-59-08-61-480x320.jpg" title="The Assimilated Carrier" classes="center" >}}
 
 Optional objectives should be done at this point if the cube killing went fast enough and the Kang didn't take significant damage. It is very hard to get the optional objective if there's more than one ship on intercept duty, or that ship can't take the damage. If you are a cruiser or science ship captain, it is your responsibility to ensure you have a lot of shield and hull heals because dying is bad. Interceptor ships should also be able to kill the two Borg birds of prey easily (they have almost no hull).
 

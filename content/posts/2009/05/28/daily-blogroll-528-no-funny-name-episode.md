@@ -3,24 +3,8 @@ date: '2009-05-28T08:15:58-05:00'
 draft: false
 title: "Daily Blogroll 5/28 -- No funny name episode"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/28/daily-blogroll-528-no-funny-name-episode/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been staying away from talking about Darkfall and Free Realms lately because, what's more to say about it?..."
+categories:
   - "Age of Conan"
   - "Chronicles of Spellborn"
   - "Daily Blogroll"
@@ -31,20 +15,13 @@ tags:
   - "MMORPG"
   - "Neo Steam"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/makinghay.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/makinghay.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/makinghay.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/makinghay.jpg"
 ---
+I've been staying away from talking about Darkfall and Free Realms lately because, what's more to say about it?...
+<!--more-->
 
-![Making Hay](https://chasingdings.com/wp-content/uploads/2009/05/makinghay.jpg "Making Hay")
+
 
 I've been staying away from talking about Darkfall and Free Realms lately because, what's more to say about it?
 

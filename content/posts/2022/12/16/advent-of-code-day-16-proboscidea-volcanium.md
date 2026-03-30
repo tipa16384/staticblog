@@ -3,42 +3,20 @@ date: '2022-12-16T23:17:07-05:00'
 draft: false
 title: "Advent of Code Day 16 -- Proboscidea Volcanium"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/16/advent-of-code-day-16-proboscidea-volcanium/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people's, so let's try something a little different."
-description: "Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people's, so let's try something a little different."
-tags:
+categories:
   - "Advent of Code"
   - "TV Recaps"
+tags:
   - "24"
   - "Elephant"
   - "Gpt-3"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-16-23.05.05-A-publicity-photo-of-Jack-Bauer-from-_24_-leading-an-elephant-through-a-lava-tube-lit-up-with-the-red-glow-of-molten-magma.-Tubes-and-pipes-line-the-l.png"
 ---
+Trying to save elephants trapped in an erupting volcano? Sure. My solution worked for my input but not that of other people's, so let's try something a little different.
+<!--more-->
 
 Jack Bauer: (sitting at his computer) "Ok, I've got the data from the sensors. It looks like there's a network of pipes and pressure-release valves here. If we open these valves and follow the tunnels, we might be able to stop the terrorist threat."
 

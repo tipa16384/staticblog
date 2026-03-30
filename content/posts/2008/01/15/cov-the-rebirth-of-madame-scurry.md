@@ -3,40 +3,17 @@ date: '2008-01-15T09:14:44-05:00'
 draft: false
 title: "CoV: The Rebirth of Madame Scurry"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/15/cov-the-rebirth-of-madame-scurry/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A couple of friends from EQ1 play casually on City of Heroes. They still play on EQ1; I moved to EQ2, but I miss playing..."
+categories:
   - "City of Heroes"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/scurry.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/scurry.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/scurry.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/scurry.jpg"
 ---
+A couple of friends from EQ1 play casually on City of Heroes. They still play on EQ1; I moved to EQ2, but I miss playing...
+<!--more-->
 
-![scurry.jpg](https://chasingdings.com/wp-content/uploads/2008/01/scurry.jpg)
+
 
 A couple of friends from EQ1 play casually on City of Heroes. They still play on EQ1; I moved to EQ2, but I miss playing with them. Turns out they occasionally play on City of Heroes, although, unfortunately, not on my server (Virtue). So I remade my "main" on Virtue, Madame Scurry, to play with them on Liberty.
 

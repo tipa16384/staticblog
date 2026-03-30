@@ -3,41 +3,18 @@ date: '2008-05-07T08:13:27-05:00'
 draft: false
 title: "EQ: The Nights of Befallen"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/07/eq-the-nights-of-befallen/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Friday progression group is pretty hot stuff, but leveling in EverQuest is so fast now that we quickly leveled past a lot of low..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-06-21-41-37-69.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-06-21-41-37-69.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-06-21-41-37-69.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-06-21-41-37-69.jpg"
 ---
+The Friday progression group is pretty hot stuff, but leveling in EverQuest is so fast now that we quickly leveled past a lot of low...
+<!--more-->
 
-![eqgame-2008-05-06-21-41-37-69.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-06-21-41-37-69.jpg)
+
 
 The Friday progression group is pretty hot stuff, but leveling in EverQuest is so fast now that we quickly leveled past a lot of low level content that we really wanted to see. The only cure? ~~More cowbell.~~ Another progression group! Hakiko couldn't make the Friday progression group, so he went ahead and made another for Tuesdays. I simply couldn't resist. I rolled a pally, and with the help of a guildy and some others, finished the tutorial missions for the last of my armor, and then headed off to the dungeon, Befallen.
 
@@ -47,6 +24,6 @@ I wish we'd had a rogue. though. Losing our keys each time we died plus not bein
 
 Even with all the deaths, I went from level ten to level 15. Next week: Paludal Caverns!
 
-![eqgame-2008-05-07-01-44-41-85.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-07-01-44-41-85.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-07-01-44-41-85.jpg" classes="center" >}}
 
 Afterward, I logged on to my cleric to help Kuron and a couple of his friends clear Fear and kill Cazic-Thule. No golems popped, though, so no ball of golem clay for everyone's favorite beard-adorned trashcan. :(

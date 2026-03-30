@@ -3,41 +3,19 @@ date: '2012-01-09T08:11:18-05:00'
 draft: false
 title: "DDO: It's a Hard Night..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/09/ddo-its-a-hard-night/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "All we wanted to do last night was finish The Harbingers of Madness quest for the second time, this time on Hard mode. The quest..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-08-23-22-52-51-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-08-23-22-52-51-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-08-23-22-52-51-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-08-23-22-52-51-480x343.jpg"
 ---
+All we wanted to do last night was finish The Harbingers of Madness quest for the second time, this time on Hard mode. The quest...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-08-23-22-52-51-480x343.jpg" title="In the Flesh?" class="align-center" >}}
+
 
 All we wanted to do last night was finish The Harbingers of Madness quest for the second time, this time on Hard mode. The quest on Normal mode the week before last had kicked our butts; the Ghost of Pyzjyn slaughtered us, and Yaulthoon the Mind Flayer walloped us several times until we found out his trick.
 

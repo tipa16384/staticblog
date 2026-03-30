@@ -3,41 +3,19 @@ date: '2009-05-22T07:11:16-05:00'
 draft: false
 title: "Puyo Puyo 7 coming this year to a console near you!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/22/puyo-puyo-7-coming-this-year-to-a-console-near-you/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Back in the 90s, I was VERY much into anime and Japanese pop culture in general. And I had a GameBoy Color Pikachu (where IS..."
+categories:
   - "Other Games"
   - "Puyo Puyo"
+tags:
   - "Puyo Puyo 7"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/puyo7.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/puyo7.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/puyo7.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/puyo7.jpg"
 ---
+Back in the 90s, I was VERY much into anime and Japanese pop culture in general. And I had a GameBoy Color Pikachu (where IS...
+<!--more-->
 
-![Puyo Puyo 7](https://chasingdings.com/wp-content/uploads/2009/05/puyo7.jpg "Puyo Puyo 7")
+
 
 Back in the 90s, I was VERY much into anime and Japanese pop culture in general. And I had a GameBoy Color Pikachu (where IS that?), and hung out at the anime store in Fremont, California, eagerly looking for new games.
 

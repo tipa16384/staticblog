@@ -3,44 +3,22 @@ date: '2021-07-23T19:16:16-05:00'
 draft: false
 title: "DCUO Reboots itself with House of Legends"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/07/23/dcuo-reboots-itself-with-house-of-legends/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "DC Universe Online has had a problem. It's the most popular of Daybreak's MMOs, but its spandex tights flies under the radar of most MMO..."
+categories:
   - "MMORPG"
   - "PS4"
   - "PS5"
   - "Steam Games"
   - "Switch"
+tags:
   - "DC Universe Online"
   - "Steam"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/batman-joker-collaborations_auto_x2.jpg"
 ---
+DC Universe Online has had a problem. It's the most popular of Daybreak's MMOs, but its spandex tights flies under the radar of most MMO...
+<!--more-->
 
 DC Universe Online has had a problem. It's [the most popular of Daybreak's MMOs](https://massivelyop.com/2020/12/02/everything-we-just-learned-about-daybreak-thanks-to-eg7/), but its spandex tights flies under the radar of most MMO players. Recent content dumps (called "episodes") are still very crowded. Recent changes to show exactly how many players are in each zone (and across how many instances) shows that the most recent hub areas support hundreds of players at any time of the day -- and this isn't counting the Nintendo Switch players, who have their own sets of servers.
 
@@ -50,7 +28,7 @@ DCUO has recently started allowing Heroes and Villains to group together. (Villa
 
 But now, Daybreak is going to burn the whole game down and build something new from the ashes. Metaphorically.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/1-1-MPYR0298_AUDIO-PC-26-22.08.460_auto_x2_light_ai.jpg" title="Just heroes doing hero stuff." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/1-1-MPYR0298_AUDIO-PC-26-22.08.460_auto_x2_light_ai.jpg" title="Just heroes doing hero stuff." classes="center" >}}
 
 Episode 41, "[The House of Legends](https://forums.daybreakgames.com/dcuo/index.php?threads/dcuo-development-update-july-2021.316447/)", doesn't contain any new raids. What it does contain is a new hub open to both heroes and villains. Until now, the heroes have had the Watchtower to protect the Earth from orbit, and the villains have had the Hall of Doom to raid the world from beneath. Good news for both sides; the Monitor isn't planning to nuke the two existing hubs when they open up the eponymous House of Legends, a shared hub that both factions can use.
 
@@ -68,9 +46,9 @@ DCUO already has a dungeon finder. You queue up for the alert or raid you want t
 
 With Quick Play, everyone waiting in the queue will be assigned as needed to raids people are waiting for.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/quickplay-1024x714.jpg" title="Quick Play" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/quickplay-1024x714.jpg" title="Quick Play" classes="center" >}}
 
-[![Amanda Waller holding a futuristic gun.](https://chasingdings.com/wp-content/uploads/2021/07/6061590-suicide_squad_008-213x300.jpg)](https://chasingdings.com/wp-content/uploads/2021/07/6061590-suicide_squad_008.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/6061590-suicide_squad_008-213x300.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/07/6061590-suicide_squad_008.jpg)
 
 Why run older content? Aside from getting Feat points and old styles (both very important), player gear will be scaled down to match the content. While it was fun to utterly dominate old content, old raids will now, once again, be a challenge. Well-geared players should still be able to dominate them, though.
 
@@ -94,7 +72,7 @@ With all this new content, some content is going away. The daily Vault will be g
 
 All episodes will be free to everyone. They used to be free for subscribers, but required purchasing for free players. Not now -- everyone gets everything. Money is capped at a much higher level for free players, so gear repairs should become possible once more. Gear is no longer shown as clamped in new content; the actual values will always be available in order to better judge if gear is an upgrade.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/301-1024x640.jpg" title="Log in or miss out..." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/301-1024x640.jpg" title="Log in or miss out..." classes="center" >}}
 
 All of these will be replaced with "Dr. Fate's Daily Rewards". Free players will get free stuff every day; subscribers will get that stuff and more. This system is used in many MMOs (especially F2P ones) in order to promote daily play.
 
@@ -123,7 +101,7 @@ For clarity, these additional benefits will be on top of what membership include
 
 - 500 Daybreak Cash (PC) or Loyalty Points (consoles) monthly ($5 value)- 150 Replay Badges monthly ($5 value)- 10% discount on all Marketplace purchases- +10 Character slots (16 total)- +15 Broker slots (20 total)- Full access to all Powers, Shield (Weapon), and Skimming (Movement Mode)- Full access to mail, trade, and leagues- 1 free Item Restore monthly
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/1-MPYR0296_AUDIO-PC-22-07.03.480.jpg" title="Me killing the old membership system" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/1-MPYR0296_AUDIO-PC-22-07.03.480.jpg" title="Me killing the old membership system" classes="center" >}}
 
 **It's called Quality of Life**
 

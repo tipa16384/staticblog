@@ -3,40 +3,19 @@ date: '2010-07-28T00:38:38-05:00'
 draft: false
 title: "EQII Extended: Will it save or ruin EverQuest II?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/28/eqii-extended-will-it-save-or-ruin-everquest-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/eq2extended-480x219.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/eq2extended-480x219.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/eq2extended-480x219.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/eq2extended-480x219.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/eq2extended-480x219.jpg "EQ2 Extended")](https://chasingdings.com/wp-content/uploads/2010/07/eq2extended.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/07/eq2extended.jpg)
 
 Carefully avoiding the words "jumping" and "on the" and "bandwagon" here, is it true that the "freemium" business model can save the ENTIRE MMO INDUSTRY? Aside from WoW, the only MMO that doesn't need saving?
 

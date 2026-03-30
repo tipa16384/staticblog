@@ -3,43 +3,20 @@ date: '2009-06-11T00:14:37-05:00'
 draft: false
 title: "Nightly Blogroll 6/10 -- Icy Red edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/11/nightly-blogroll-610-icy-red-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yeah, I know it's not a HUGE stretch to announce that Velious will be EverQuest II's next expansion when pictures of dragon-turtles pulling ice barges..."
+categories:
   - "Daily Blogroll"
   - "EverQuest"
   - "Lord of the Rings"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/coldain.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/coldain.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/coldain.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/coldain.jpg"
 ---
+Yeah, I know it's not a HUGE stretch to announce that Velious will be EverQuest II's next expansion when pictures of dragon-turtles pulling ice barges...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/06/coldain.jpg)
+
 
 Yeah, I know it's not a HUGE stretch to announce that Velious will be EverQuest II's next expansion when [pictures of dragon-turtles pulling ice barges are easy to find](http://mmoquests.com/2009/06/10/just-a-glimpse/), but yeah. Velious.
 

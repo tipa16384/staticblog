@@ -3,40 +3,17 @@ date: '2008-03-15T08:58:12-05:00'
 draft: false
 title: "Yes, I'd love to hear more about Second Life"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/15/yes-id-love-to-hear-more-about-second-life/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Tipa Hawthorne at the NPR Science Friday Pavilion..."
+categories:
   - "MMORPG"
   - "Second Life"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/slnpr.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/03/slnpr.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/slnpr.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/slnpr.jpg"
 ---
+Tipa Hawthorne at the NPR Science Friday Pavilion...
+<!--more-->
 
-![slnpr.jpg](https://chasingdings.com/wp-content/uploads/2008/03/slnpr.jpg)
+
 
 *Tipa Hawthorne at the NPR Science Friday Pavilion*
 
@@ -48,7 +25,7 @@ Anyway, whereas getting SL running on Gentoo was frustrating (though eventually 
 
 Sheesh.
 
-![clutter.jpg](https://chasingdings.com/wp-content/uploads/2008/03/clutter.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/clutter.jpg" classes="center" >}}
 
 Since it runs on Linux, my main game machine is free for, you know, gaming, while on my faithful, extremely low tech Linux box (1 gig of memory, nVidia 6600 GT video card, some old crappy AMD processor I rescued from another computer), I can wait for someone -- ANYONE -- to show up at Hillary Clinton's headquarters (why they don't have a Hillary Clinton pants suit available to copy... and that hairstyle... I can't understand. Missed opportunity). Since nothing is happening there, I can IM people, check my feeds and dive into some juicy Python code... while on the OTHER screen, have GIMP running to fix up any screenshots I might want to make.
 
@@ -60,7 +37,7 @@ Since last I played, SL has gotten big into the multimedia. Movies play, you can
 
 Clinton's HQ is boring. Let's check out Barack's.
 
-![obama.jpg](https://chasingdings.com/wp-content/uploads/2008/03/obama.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/obama.jpg" classes="center" >}}
 
 Barack's is even MORE boring! Not even the most basic Geraldine Ferraro effigy to slap. MORE missed opportunities! It does, however, have kiosks explaining his positions on various issues, something not found in Clinton's HQ. His views on the use of megaprims were, alas, not represented here.
 
@@ -70,13 +47,13 @@ Oh dear. McCain doesn't have a Second Life site. Um, welcome to the 21st century
 
 I did find a cool caricature island which has a picture of him wearing an army helmet and trying to install Vista on his laptop or something. This same island has caricatures of all the other candidates, plus James Brown, Jesus, and other celebrities.
 
-![caricatures.jpg](https://chasingdings.com/wp-content/uploads/2008/03/caricatures.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/caricatures.jpg" classes="center" >}}
 
 Why all this sudden interest in Second Life?
 
 No reason! No reason at all.
 
-![trek.jpg](https://chasingdings.com/wp-content/uploads/2008/03/trek.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/trek.jpg" classes="center" >}}
 
 *Computer, locate Mr. Spock!*
 

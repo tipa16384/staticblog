@@ -3,42 +3,20 @@ date: '2024-11-21T16:56:32-05:00'
 draft: false
 title: "Dragon Age: the Veilguard finished"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/11/21/dragon-age-the-veilguard-finished/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "82 hours from start to end, all quests completed, all companions at max bond, all factions but one maxed out, 47/52 achievements. Was it worth it?"
-description: "82 hours from start to end, all quests completed, all companions at max bond, all factions but one maxed out, 47/52 achievements. Was it worth it?"
-tags:
+categories:
   - "Action RPG"
   - "Dragon Age Origins"
   - "Other Games"
   - "RPG"
+tags:
   - "Dragon Age"
   - "The Veilguard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/banner2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/11/banner2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/banner2.png"
 ---
+82 hours from start to end, all quests completed, all companions at max bond, all factions but one maxed out, 47/52 achievements. Was it worth it?
+<!--more-->
 
 While Dragon Age: Origins is one of my favorite games of all time, Dragon Age II seemed like a big step back in world building and companion customization. Dragon Age: Inquisition caught the Far Cry disease and became an open world RPG with a bunch of quests that did little to advance the story but were necessary to grind experience.
 
@@ -46,7 +24,7 @@ Dragon Age 4 has thrown most of that away. The world is BIG, and once the game o
 
 I've already written a bit about the game, so I'm not going to go over a lot of the details. I want to talk about how I feel about it *as a game*, now that I have completed the first playthrough.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/20241121105556_1-1024x429.jpg" title="Wall art of the saviors of Thedas. Missing: ME! WHERE AM I?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/20241121105556_1-1024x429.jpg" title="Wall art of the saviors of Thedas. Missing: ME! WHERE AM I?" classes="center" >}}
 
 **Companions:**
 
@@ -66,7 +44,7 @@ I've already written a bit about the game, so I'm not going to go over a lot of 
 
 You can use companion powers, once unlocked, even if the companion is not on your current team; in that case, you can channel their gift through the lyrium dagger you carry. The companion powers are largely for puzzle solving.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/20241117201625_1-1024x429.jpg" title="Rook and Harding look at a dead Titan" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/20241117201625_1-1024x429.jpg" title="Rook and Harding look at a dead Titan" classes="center" >}}
 
 **Puzzles**
 
@@ -84,7 +62,7 @@ You're able to slot four abilities from those unlocked in your skill tree, along
 
 Time stops when you're in the abilities overlay. You have all the time you need to pick out the most devastating combos. I destroyed the final boss this way. They would jump away from my arrows, but they'd always walk into those abilities.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/20241101221928_1-1024x429.jpg" title="Hi, Neve" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/20241101221928_1-1024x429.jpg" title="Hi, Neve" classes="center" >}}
 
 **System Requirements and Gameplay**
 
@@ -100,7 +78,7 @@ The Bioware team has gone out of their way to make the game as inclusive as poss
 
 Taash's coming to terms with their gender identity is a big part of their story. It felt genuine to me, and they could change their mind one way or the other in the future. They just didn't want to be trapped into someone else's expectations of who they should be.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/20241121110814_1-1024x429.jpg" title="The Veilguard remains vigilant." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/20241121110814_1-1024x429.jpg" title="The Veilguard remains vigilant." classes="center" >}}
 
 **Conclusions**
 

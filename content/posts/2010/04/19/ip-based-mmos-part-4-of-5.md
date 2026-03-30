@@ -3,38 +3,15 @@ date: '2010-04-19T21:18:36-05:00'
 draft: false
 title: "IP-based MMOs: Part 4 (of 5)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/19/ip-based-mmos-part-4-of-5/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "IP-based games have a significant downside. If someone doesn't like, say, the Twilight books and movies, news of your new Twilight MMO isn't going to..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4192010-72359-AM-225x225.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4192010-72359-AM-225x225.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4192010-72359-AM-225x225.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4192010-72359-AM-225x225.jpg"
 ---
+IP-based games have a significant downside. If someone doesn't like, say, the Twilight books and movies, news of your new Twilight MMO isn't going to...
+<!--more-->
 
 IP-based games have a significant downside. If someone doesn't like, say, the *Twilight* books and movies, news of your new [*Twilight* MMO](http://www.massively.com/2009/07/28/theres-a-er-twilight-mmo-coming/) isn't going to get them excited. Or even worse -- the game could be so focused on shoehorning every bit of the IP into the game that it forgets to build any fun in; ALL it is, is the IP. This has long been a weakness for IP-based videogames from the Empire Strikes Back Atari 2600 cartridge way back in the 80s. You just kept shooting AT-AT walkers on Hoth, again and again and again.
 
@@ -42,7 +19,9 @@ Game: [Star Trek Online](http://www.startrekonline.com/)
 
 IP: [Star Trek](http://www.startrek.com/startrek/view/index.html)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4192010-72359-AM-225x225.jpg "Star Trek Online")](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4192010-72359-AM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4192010-72359-AM.jpg)
 
 Veteran TV writer Gene Roddenberry initially pitched Star Trek as "*Wagon Train* to the stars"*. In *Star Trek*, the crew of the USS Enterprise would be far from home in the frontier of deep space, having to operate more or less on their own and take on challenges that could threaten the galaxy using nothing but their own determination and a worn out old deflector dish. As a show set in the future, Roddenberry felt Star Trek had the ability and the responsibility to show humanity as having progressed from its warlike past. Star Trek was the first show to televise an interracial kiss and throughout its three season run, focused as much on social issues of the day as it did on starship battles.
 
@@ -58,7 +37,7 @@ Game: [Star Wars Galaxies](http://starwarsgalaxies.station.sony.com/)
 
 IP: [Star Wars](http://www.starwars.com/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/bounty_hunter_1280-225x225.jpg "Bounty Hunter")](https://chasingdings.com/wp-content/uploads/2010/04/bounty_hunter_1280.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/bounty_hunter_1280-225x225.jpg" title="Bounty Hunter" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/bounty_hunter_1280.jpg)
 
 When George Lucas conceived of his future world of water farmers and space wizards, there's no way he could have foreseen what a media empire it would become. The tale, closely modeled after "[The Hero with a Thousand Faces](http://en.wikipedia.org/wiki/The_Hero_with_a_Thousand_Faces)", Joseph Campbell's look back at the enduring myths and archetypes of humanity, and [the films of Akira Kurosawa](http://www.criterion.com/films/655-the-hidden-fortress), follows a young boy as he discovers his power and destiny: to defeat the evil emperor in his dark castle and bring peace to the kingdom.
 
@@ -74,7 +53,7 @@ Game: [Star Wars: The Old Republic](http://www.swtor.com/)
 
 IP: [Star Wars](http://www.starwars.com/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4192010-84119-PM-225x225.jpg "Sith Warriors")](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4192010-84119-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4192010-84119-PM-225x225.jpg" title="Sith Warriors" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4192010-84119-PM.jpg)
 
 Interested in exploring the Star Wars universe well before the time depicted in the seven movies, Bioware published [Knights of the Old Republic](http://en.wikipedia.org/wiki/Star_Map_(Star_Wars)) in 2003 for the PC and the XBox. KotOR started with the standard trope of an amnesiac character who must struggle to remember their own past. Action started on a starship under attack, and ended with your character in full command of their magical powers and facing a dark figure from their own past. KotOR featured a strong story and semi-real time combat. Depending on choices made during gameplay, your character would become a good Jedi or an evil Sith. The game was a hit on both the XBox and the PC and is considered "... one of the most influential works of the Star Wars Expanded Universe".
 
@@ -88,7 +67,7 @@ Game: [Stargate Worlds](http://www.stargateworlds.com/)
 
 IP: [Stargate SG-1](http://www.syfy.com/stargate/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/1170179786-225x225.jpg "Stargate Worlds")](https://chasingdings.com/wp-content/uploads/2010/04/1170179786.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/1170179786-225x225.jpg" title="Stargate Worlds" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/1170179786.jpg)
 
 Based on the 1994 movie *Stargate*, *Stargate SG-1* took place starting a year after the events of the movie and followed the adventures of a team of military and scientists tasked with exploring the interstellar stargate network and protecting Earth from the dangers of a hostile galaxy. Aired for ten years, *Stargate SG-1* is the West's longest continuously produced SF television series. SG-1 spawned two spinoff television series and a number of direct-to-DVD movies.
 
@@ -98,7 +77,7 @@ Game: [Ultima Online](http://www.uoherald.com/)
 
 IP: [Ultima](http://www.notableultima.com/collectibles/OriginHistory.html)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/UOSA_render_200907-02-225x225.jpg "Ultima Online")](https://chasingdings.com/wp-content/uploads/2010/04/UOSA_render_200907-02.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/UOSA_render_200907-02-225x225.jpg" title="Ultima Online" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/UOSA_render_200907-02.jpg)
 
 Starting in 1980 with Ultima I and continuing through 1999's Ultima IX: Ascension, Richard Garriott's groundbreaking RPG series went beyond the standard hack-and-slash paradigm of the day to games with a deep plot and difficult moral quandaries. The release of a new Ultima was as much an event as the release of a new Halo or Grand Theft Auto is today. Innovations such as isometric 2.5D rendering and party-based groups influenced all the RPGs to come.
 

@@ -3,45 +3,22 @@ date: '2006-10-30T15:10:26-05:00'
 draft: false
 title: "EQ2: Hallowe'en Quest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/10/30/eq2-halloween-quest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Nashuya sent in a little song she wrote after doing the Haunted House quest in West Freeport. She's not usually this happy, but she made..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/10/hh5boo.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/10/hh5boo.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/hh5boo.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/hh5boo.jpg"
 ---
+Nashuya sent in a little song she wrote after doing the Haunted House quest in West Freeport. She's not usually this happy, but she made...
+<!--more-->
 
-![Happy Halloween!](https://chasingdings.com/wp-content/uploads/2006/10/hh5boo.jpg)
+
 
 Nashuya sent in a little song she wrote after doing the Haunted House quest in West Freeport. She's not usually this happy, but she made level 45 while doing it.
 
-![The Butler Did It](https://chasingdings.com/wp-content/uploads/2006/10/hh1butler.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/hh1butler.jpg" classes="center" >}}
 
 *Everyone is happy on this happy Halloween
 
@@ -51,7 +28,7 @@ Dusting sweeping rearranging keep me fit and lean
 
 All is done! The Butler's ghost quickly leaves the scene*
 
-![Oh, Rats!](https://chasingdings.com/wp-content/uploads/2006/10/hh2rat.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/hh2rat.jpg" classes="center" >}}
 
 *Little rat sat next to me and didn't say a word
 
@@ -95,10 +72,10 @@ You must be he, the dread Sidney, I stammered with a chill
 
 SOON COMES SIDNEY! bellowed he, and I lost my will*
 
-![Put Your Left Foot In](https://chasingdings.com/wp-content/uploads/2006/10/hh3dancedance.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/hh3dancedance.jpg" classes="center" >}}
 
 This woman starved her children to death by walling them into a hidden room. What can calm her restless spirit? What better than a quick dance!
 
-![No more scooter rides!](https://chasingdings.com/wp-content/uploads/2006/10/hh4cemetary.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/hh4cemetary.jpg" classes="center" >}}
 
 Spooky cemetery,Â  and my Ghoulbane has been hungry lately. All the zombies needed, though, was to be zapped with a wardstone and POOF they was gone. I tossed my Ghoulbane out the window! Lord, bring me a Wardstone for Christmas!

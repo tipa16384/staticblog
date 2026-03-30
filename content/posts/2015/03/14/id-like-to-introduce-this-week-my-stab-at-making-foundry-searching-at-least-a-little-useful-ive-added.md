@@ -3,37 +3,12 @@ date: '2015-03-14T19:03:20-05:00'
 draft: false
 title: "I’d like to introduce this week my stab at making foundry searching at least a little useful. I’ve added..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/03/14/id-like-to-introduce-this-week-my-stab-at-making-foundry-searching-at-least-a-little-useful-ive-added/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I’d like to introduce this week my stab at making foundry searching at least a little useful. I’ve added a sorting filter to my master..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I’d like to introduce this week my stab at making foundry searching at least a little useful. I’ve added a sorting filter to my master...
+<!--more-->
 
 I’d like to introduce this week my stab at making foundry searching at least a little useful. I’ve added a sorting filter to my master list of reviewed quests (permanent link at [http://goo.gl/XbV9hj](http://goo.gl/XbV9hj)). Click through to the spreadsheet. From the “Data” menu, choose “Filter views…”, and from there, “Sort Filter”.**
 

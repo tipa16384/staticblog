@@ -3,40 +3,17 @@ date: '2011-08-21T20:45:33-05:00'
 draft: false
 title: "DDO: Justifiable Homicide."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/08/21/ddo-justifiable-homicide/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If the Chamber of Raiyun were a module for the tabletop version of Dungeons & Dragons, Wizards of the Coast would be sending lawyers all..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-21-19-25-20-77-480x409.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-21-19-25-20-77-480x409.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/dndclient-2011-08-21-19-25-20-77-480x409.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/dndclient-2011-08-21-19-25-20-77-480x409.jpg"
 ---
+If the Chamber of Raiyun were a module for the tabletop version of Dungeons & Dragons, Wizards of the Coast would be sending lawyers all...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-21-19-25-20-77-480x409.jpg" title="Partial map of the Chamber of Raiyun" class="align-center" >}}
+
 
 If the Chamber of Raiyun were a module for the tabletop version of Dungeons & Dragons, Wizards of the Coast would be sending lawyers all over the country, the world even, explaining to judges and juries why the dead dungeon master found floating in the river, perhaps slowly colliding with even more dead dungeon masters, wasn't a justifiable homicide. Or why it was, depending on which side brought in WotC.
 
@@ -44,7 +21,7 @@ Because after about the fifth false floor or the tenth mummy ambush or the fifte
 
 But since this is online, and the DM is just a computer program rolling virtual dice, even a good old-fashioned lynching is off the table, and players must just suffer.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-21-18-14-58-51-480x361.jpg" title="Nowhere to go but down" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/dndclient-2011-08-21-18-14-58-51-480x361.jpg" title="Nowhere to go but down" classes="center" >}}
 
 We've done the Chamber of Raiyun in the Sands of Meneschaum module a couple of times. Usually, after a few failed jumps, I just end up hanging around the central treasure room while Gleek, Ulan and Lessah leap about like the gazelles they are and finish the dungeon without my help.
 

@@ -3,40 +3,17 @@ date: '2015-12-26T09:32:32-05:00'
 draft: false
 title: "TIS-100 Sequence Indexer"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/12/26/tis-100-sequence-indexer/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's been long enough that I should go over what TIS-100 IS. TIS-100 is a programming puzzle game by the makers of SpaceChem (a previous..."
+categories:
   - "Other Games"
   - "TIS-100"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png"
 ---
+It's been long enough that I should go over what TIS-100 IS. TIS-100 is a programming puzzle game by the makers of SpaceChem (a previous...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/TIS-100-12_26_2015-9_05_01-AM.png" title="Sequence Indexer program" class="align-center" >}}
+
 
 It's been long enough that I should go over what TIS-100 _IS_. TIS-100 is a programming puzzle game by the makers of SpaceChem (a previous obsession). Where SpaceChem kind of hid the programming knowledge necessary to solve the puzzles beneath a fun graphical abstraction, TIS-100 just strips away the candy coating. TIS-100 simulates a fictional multicore reduced instruction set computer (RISC). There is no RAM. Sometimes there is a stack or two. Each processor has just one directly-accessible register.
 

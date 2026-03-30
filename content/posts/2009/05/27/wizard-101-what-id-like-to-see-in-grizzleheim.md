@@ -3,41 +3,19 @@ date: '2009-05-27T07:39:03-05:00'
 draft: false
 title: "Wizard 101: What I'd like to see in Grizzleheim"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/27/wizard-101-what-id-like-to-see-in-grizzleheim/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wizard 101's sixth world, Grizzleheim, has been announced, and it already looks like it will be a real departure from the other worlds of the..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Grizzleheim"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-27-07-51-54-11.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-27-07-51-54-11.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-27-07-51-54-11.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-27-07-51-54-11.jpg"
 ---
+Wizard 101's sixth world, Grizzleheim, has been announced, and it already looks like it will be a real departure from the other worlds of the...
+<!--more-->
 
-![Playing hopscotch in Thomas](https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-27-07-51-54-11.jpg "Playing hopscotch in Thomas")
+
 
 Wizard 101's sixth world, [Grizzleheim](https://www.wizard101.com/site/home2/wizard101/page_8ad6a40421580c0b0121690146290349), has been announced, and it already looks like it will be a real departure from the other worlds of the Spiral.
 

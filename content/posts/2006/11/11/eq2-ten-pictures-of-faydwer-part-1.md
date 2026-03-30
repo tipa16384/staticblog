@@ -3,75 +3,52 @@ date: '2006-11-11T01:47:20-05:00'
 draft: false
 title: "EQ2: Ten Pictures of Faydwer, Part 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/11/eq2-ten-pictures-of-faydwer-part-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Skipping around the continent! Dina on the Butcherblock docks...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/01bbdocks.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/11/01bbdocks.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/01bbdocks.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/01bbdocks.jpg"
 ---
+Skipping around the continent! Dina on the Butcherblock docks....
+<!--more-->
 
-![01bbdocks.jpg](https://chasingdings.com/wp-content/uploads/2006/11/01bbdocks.jpg)
+
 
 Skipping around the continent! Dina on the Butcherblock docks.
 
-![02chessboard.jpg](https://chasingdings.com/wp-content/uploads/2006/11/02chessboard.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/02chessboard.jpg" classes="center" >}}
 
 The chessboard in Butcherblock.
 
-![03mmoutside.jpg](https://chasingdings.com/wp-content/uploads/2006/11/03mmoutside.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/03mmoutside.jpg" classes="center" >}}
 
 The steps to Mistmoore Castle.
 
-![04crushbone.jpg](https://chasingdings.com/wp-content/uploads/2006/11/04crushbone.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/04crushbone.jpg" classes="center" >}}
 
 Furnace in Crushbone.
 
-![05kelethin.jpg](https://chasingdings.com/wp-content/uploads/2006/11/05kelethin.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/05kelethin.jpg" classes="center" >}}
 
 The lifts of Kelethin
 
-![06solro.jpg](https://chasingdings.com/wp-content/uploads/2006/11/06solro.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/06solro.jpg" classes="center" >}}
 
 When you finish the Solusek Ro deity quest, he comes right down to thank you.
 
-![07spires.jpg](https://chasingdings.com/wp-content/uploads/2006/11/07spires.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/07spires.jpg" classes="center" >}}
 
 The combine spires in Greater Faydark.
 
-![08scion.jpg](https://chasingdings.com/wp-content/uploads/2006/11/08scion.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/08scion.jpg" classes="center" >}}
 
 I would like to [journey to Luclin]...
 
-![09mmfoyer.jpg](https://chasingdings.com/wp-content/uploads/2006/11/09mmfoyer.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/09mmfoyer.jpg" classes="center" >}}
 
 Looking for a group in Mistmoore Castle.
 
-![10kaladim.jpg](https://chasingdings.com/wp-content/uploads/2006/11/10kaladim.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/10kaladim.jpg" classes="center" >}}
 
 Outside Kaladim. Derissa is a Fury I made to test druid ports.

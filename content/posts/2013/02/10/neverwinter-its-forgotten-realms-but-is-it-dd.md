@@ -3,41 +3,18 @@ date: '2013-02-10T10:42:48-05:00'
 draft: false
 title: "Neverwinter: It's Forgotten Realms, but is it D&D?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/10/neverwinter-its-forgotten-realms-but-is-it-dd/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This is the first beta weekend for Cryptic's \"Neverwinter\", an action-oriented MMO set in one of the more famous of the Forgotten Realm's cities. We've..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-10-08-38-10-48-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-10-08-38-10-48-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-10-08-38-10-48-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-10-08-38-10-48-480x342.jpg"
 ---
+This is the first beta weekend for Cryptic's "Neverwinter", an action-oriented MMO set in one of the more famous of the Forgotten Realm's cities. We've...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-10-08-38-10-48-480x342.jpg" title="I'll heal you, but it might hurt a little bit." class="align-center" >}}
+
 
 This is the first beta weekend for Cryptic's "Neverwinter", an action-oriented MMO set in one of the more famous of the Forgotten Realm's cities. We've seen Neverwinter brought to life before in "Neverwinter Nights" and its sequel, titles that kept their relevance by offering every player the chance and opportunity to create and run their own dungeons for themselves and their friends.
 
@@ -45,7 +22,7 @@ It's absolutely the reason that Cryptic chose Neverwinter as the base for their 
 
 Foundry wasn't live, though, so I'll just focus on the gameplay.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-09-17-47-38-46-480x343.jpg" title="Say hello to my Lance of Faith, Ogre!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-09-17-47-38-46-480x343.jpg" title="Say hello to my Lance of Faith, Ogre!" classes="center" >}}
 
 Neverwinter is loosely based on the fourth edition rules for Dungeons & Dragons. You can choose your race from halfling, dwarf, human, elf, half-elf, drow and the demonic tiefling. The drow race was not available to choose during this beta. Character appearance was as good as I've seen anywhere else; you'll be able to make your character look exactly how you like. Stats were rolled in a simplified manner; there are maybe a half dozen potential rolls that focus on your class' prime statistic and the two secondary ones. It is not explained in the game how the secondary stats affect gameplay, so I felt it was just best to roll the highest possible number for the prime stat... which is how I play the real D&D, too, so there's that.
 
@@ -57,7 +34,7 @@ The abilities have all the familiar names from D&D, with their own twists to fit
 
 There are no mana bars, even for spellcasters. Your abilities are based on timers and action points and nothing more.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-09-21-37-09-18-480x328.jpg" title="Magic Phr3d, a Companion" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-09-21-37-09-18-480x328.jpg" title="Magic Phr3d, a Companion" classes="center" >}}
 
 You won't adventure alone, in Neverwinter. There are queues for certain events (like the Orc Assault on Neverwinter) and dungeons (like the Cloak Tower) that automatically fill in a party and put you where you need to be.
 
@@ -67,7 +44,7 @@ My companion didn't come with the name "Magic Phr3d". I kinda imagined him as a 
 
 Companions don't take up group slots -- they are more like pets -- so dungeons crawls in a full five person party can get pretty crowded.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-09-21-10-13-58-480x343.jpg" title="Finishing up Cloak Tower" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-09-21-10-13-58-480x343.jpg" title="Finishing up Cloak Tower" classes="center" >}}
 
 The elephant in the room here is Turbine's Dungeons & Dragons Online (DDO). Cryptic shoots across its bow by using the same font for Neverwinter as Turbine does for Lord of the Rings Online. But the games are very different.
 
@@ -81,7 +58,7 @@ DDO is much better at presenting preferred builds, or allowing you to customize 
 
 Even with the compromises DDO had to make in order to turn a pen-and-paper game into an MMO (such as mana bars and wildly inflated health), it gives a better Dungeons & Dragons experience than Neverwinter.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-09-21-28-54-12-480x241.jpg" title="Toover the Were-Rat" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-09-21-28-54-12-480x241.jpg" title="Toover the Were-Rat" classes="center" >}}
 
 As a MMO, Neverwinter is fairly standard. You get quests, you go out and kill things. You get frequent solo instances, but also a good mix of open-world adventuring where your character can help out (and be helped by) other characters with loot and experience for all. Because Cryptic limits the builds and classes available, classes remain fairly distinct and each has a role in a group, while having plenty of tools to make soloing a valid play choice.
 
@@ -89,7 +66,7 @@ What sets Neverwinter apart is its missions created with the Foundry. While not 
 
 I played a couple of them, and the ones promoted by Cryptic were of fairly decent quality, with good writing and plot that tied in well with the lore of the game, though the actual adventures were of the standard smash-and-kill variety. I don't know if the Foundry supports roleplay missions. Won't know that until the Foundry opens up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-09-17-06-47-24-480x306.jpg" title="A Well-Informed Bard offers player-created quests" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-09-17-06-47-24-480x306.jpg" title="A Well-Informed Bard offers player-created quests" classes="center" >}}
 
 Cryptic's Neverwinter is a good-looking, polished game offering modern MMO conveniences mixed with a healthy serving of D&D. The pace is fast, the powers iconic, the loot abundant and the grouping easy. While it's not as faithful an implementation of D&D as Dungeons and Dragons Online supports, it is definitely D&D. The first implementation of the fourth edition rules I've seen so far.
 

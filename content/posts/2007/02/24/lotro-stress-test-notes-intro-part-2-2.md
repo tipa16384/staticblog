@@ -3,38 +3,15 @@ date: '2007-02-24T14:36:06-05:00'
 draft: false
 title: "LotRO Stress Test Notes: Intro Part 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/24/lotro-stress-test-notes-intro-part-2-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ah, Captain Brackenbrook wants me to kill stuff. FINALLY...."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-wolfbaiting.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-wolfbaiting.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-wolfbaiting.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-wolfbaiting.jpg"
 ---
+Ah, Captain Brackenbrook wants me to kill stuff. FINALLY....
+<!--more-->
 
 Ah, Captain Brackenbrook wants me to kill stuff. FINALLY.
 
@@ -50,15 +27,13 @@ Minstrel trainer says hello and lets me buy a new skill, which I then must drag 
 
 Sigh. Didn't work. But it *should* have. Dangerous looking guy with a wicked pike needs ME to kill the wolves attacking his flock. Okay! Kung fu wolf killing action! Oops, sorry, I thought your sheep was a wolf in sheep's clothing! HAHAHAHA! Huh, no exp....
 
-![lotr-wolfbaiting.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-wolfbaiting.jpg)
-
 I kill the wolves, wander about and find a bandit hideout and kill them for armor, weapons and experience until I hit level 4. Very WoW-ish again. Using the special abilities as they cooldown is vital as autoattack doesn't do much. Being able to heal is a real advantage. I can take on a couple of villains at once. I still haven't found and kingsfoil. I keep looking for a small plant with a HUGE title of KINGSFOIL.
 
-![lotr-kingsfoil.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-kingsfoil.jpg)Oh, found it. It not only has a big label, it's glowing. Hard to believe everyone thought this was just a weed! It'd be cool if a lot of plants had a WEED label, and once you found a weed that was Kingsfoil, then you'd be able to find it easier after.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-kingsfoil.jpg" classes="fig-20" >}}Oh, found it. It not only has a big label, it's glowing. Hard to believe everyone thought this was just a weed! It'd be cool if a lot of plants had a WEED label, and once you found a weed that was Kingsfoil, then you'd be able to find it easier after.
 
 Wolves killed, kingsfoil gathered, heading back to get my rewards and also get my level 4 skills.
 
-![lotr-fatpants.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-fatpants.jpg)Ouch. These pants DO make me look fat. Plus I run really weird in them.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-fatpants.jpg" classes="fig-20" >}}Ouch. These pants DO make me look fat. Plus I run really weird in them.
 
 Got a title for reaching fifth level without dying. Good thing I made it out of the Blackwold hideout alive! After reaching town and selling, I have almost 22 silver. I buy Ballad of Steel and Ballad of Swiftness and still have 18.63 silver left. Time to go armor shopping!
 
@@ -66,11 +41,11 @@ Ballad of swiftness, a tier 2 ballad, requires a tier 1 ballad to be playing to 
 
 Finally got quests to go kill those Blackwolds! Oh well, they die easy :)
 
-![lotr-blackwold-roost.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-blackwold-roost.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-blackwold-roost.jpg" classes="center" >}}
 
 Found some nice shoulders I can't use. Has been the only non-trash loot to drop for me! I also just got the final quest in the introduction, and the game warned me to finish all my newbie quests before I go. That was thoughtful.
 
-![lotr-string-error.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-string-error.jpg)While fighting the Blackwolds, sometimes the combat chat would fill with error messages. I think I got a picture of one.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-string-error.jpg" classes="fig-20" >}}While fighting the Blackwolds, sometimes the combat chat would fill with error messages. I think I got a picture of one.
 
 A lot of the newbie quests give armor and weapon rewards so, like in most games of this type, you don't HAVE to buy newbie armor. However, I think the reason I could go back to Blackwolds Roost and kill six enemies at once was because I did buy it in advance.
 
@@ -78,7 +53,7 @@ Got a tier 3 ballad. I have to sing a tier 1 and a tier 2 ballad to play that on
 
 And that's it for the intro. Now to leave Archet behind!
 
-![lotr-archet-in-flames.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-archet-in-flames.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-archet-in-flames.jpg" classes="center" >}}
 
 Defending Archet from invaders. Archet should thank the spiders, they will kill the Blackwolds if I don't. I wonder what happens if I died? Oh, Archet is burning. I TOLD them to build homes in hills like hobbits ought, but nooooo and now look at them.
 
@@ -86,7 +61,7 @@ And here I am in Little Delving, intro done.
 
 Gut reactions from the intro: Very WoW-ish. Quests were standard, loot was very typical. Character animations were severely off - running and walking look weird. Meeting a black rider right at the start seemed forced, especially since nothing in the rest of the intro made any reference to it -- the intro is about a bandit invasion that has nothing to do with black riders, though one of the bad guys at the end claims instructions from Angmar.
 
-![lotr-aragorn.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-aragorn.jpg)I kinda expected the name filter to stop hordes of Aragorns and Frodos from running around, but apparently not.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-aragorn.jpg" classes="fig-20" >}}I kinda expected the name filter to stop hordes of Aragorns and Frodos from running around, but apparently not.
 
 On the good side, aside from a couple of bugs, the game is very playable. The environments look awesome, and it ran very well on my computer, which is a couple years old. The character I chose, Minstrel, was very soloable, and people in game were raving about their Hunters and Captains.
 

@@ -3,42 +3,20 @@ date: '2025-08-15T16:00:59-05:00'
 draft: false
 title: "Base44: Games from a Prompt"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/15/base44-games-from-a-prompt/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Yes, I'm going to talk about AI-created games here. Feel free to go off on me IN THE COMMENTS :-)"
-description: "Yes, I'm going to talk about AI-created games here. Feel free to go off on me IN THE COMMENTS :-)"
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
   - "Midjourney"
+tags:
   - "Base44"
   - "Blue Oyster Cult"
   - "ChatGPT"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/pendeenpoint.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/pendeenpoint.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pendeenpoint.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/pendeenpoint.png"
 ---
+Yes, I'm going to talk about AI-created games here. Feel free to go off on me IN THE COMMENTS :-)
+<!--more-->
 
 The pitch was simple: write a prompt, and AI will write an entire and complete game from it, with no interaction from you!
 
@@ -52,7 +30,7 @@ Base44 has been making a stir lately with the commercialization of "vibe coding"
 
 It's not great code, it's not even usually possible to use that code in any sort of professional environment, but if you want Cat Sudoku, this is how you get Cat Sudoku.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-32-300x200.png" title="I'd play it" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-32-300x200.png" title="I'd play it" classes="center" >}}
 
 Base44 was founded by Maor Shlomo, a former Israeli Intelligence Corps officer and co-founder of [Explorium](https://www.google.com/search?cs=0&sca_esv=026ca5c1e8389fd9&sxsrf=AE3TifNgb4WDhRW_yBNYyBz1v8oh6gxLlQ%3A1755287328068&q=Explorium&sa=X&ved=2ahUKEwjAhtbsyo2PAxXwFmIAHc90JWIQxccNegQIHhAB&mstk=AUtExfDtvD2e7lZt2yKDDciPbG6ghv_dYI08ZwbYspISkfGdFoA1i0gwfqpE-EMHPS53HbF_lmNWLaUxwT5QJklwFfhUxYRGjrvVcVLqemwlsByeWWNnrdUDD3xC3_J5bI5Ir57kBQAC71fgseEr6Ss2uSsgI3TLVBSjnJKpfaECBXYypBw&csui=3), who started it as a side project after his reserve military duty. Based on the Claude Sonnet LLM (although Google Gemini is selectable if you prefer), Base44 automates the write-run-test-modify loop automatically by running each iteration internally and comparing the output to the initial prompt. Base44 only went public a couple of months ago, but was already snapped up by website creators Wix for $80 million. So there's money in this.
 
@@ -81,7 +59,7 @@ This was the prompt:
 
 And this was the image that resulted:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-30-1024x574.png" title="The Lighthouse at Lost Christabel, probably" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-30-1024x574.png" title="The Lighthouse at Lost Christabel, probably" classes="center" >}}
 
 I loved it. I wanted to play this game. It was just so still and fraught with menace. Like something out of [The Return of the Obra Dinn](https://en.wikipedia.org/wiki/Return_of_the_Obra_Dinn). I could *hear* the creaking of the ship at the dock. The air so quiet that everything seemed frozen between one moment and the next. I wanted that Genie 3 thing to let me drop this picture in a box and give me this world I could explore.
 
@@ -97,7 +75,7 @@ I use ChatGPT, by the way. I use it a lot. Not for writing. It writes better tha
 
 I asked it to write me a game with that same sense of impending disaster as in the Clarke story, but set in the scene. It wrote me a mystery and gave me ten minutes to solve it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-31.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-31.png" classes="center" >}}
 
 It had written an adventure about the ship carrying a strange creature, perhaps a vampire, perhaps the crew only thought it was a vampire -- to this port town, which then went on a killing spree. The villagers that survived fled in another ship, while fire was set to cleanse the town. I eventually won the game by escaping in the moored ship just as the fire arrived and engulfed the town.
 

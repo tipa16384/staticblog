@@ -3,42 +3,19 @@ date: '2010-07-06T06:34:48-05:00'
 draft: false
 title: "Fantasy Earth Zero Blogfail: Under the Radar"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/06/fantasy-earth-zero-blogfail-under-the-radar/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After writing my own review of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck..."
+categories:
   - "Fantasy Earth Zero"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg"
 ---
+After writing my own review of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-06-06-39-14-35.jpg "My Fantasy Earth Zero character")
 
-After writing [my own review](https://chasingdings.com/index.php/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/) of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck I'd never heard about this game. Or if I had heard about it, dismissed it as just another Asian F2P MMO.
+
+After writing [my own review](https://tipa16384.github.io/wkblog/index.php/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/) of Fantasy Earth Zero a couple days back, I went looking for other reviews to find out why the heck I'd never heard about this game. Or if I had heard about it, dismissed it as just another Asian F2P MMO.
 
 By the looks of it -- graphics incredibly dated (it is, after all, a four year old game) -- huge anime influence -- it looks entirely humdrum. None of the reviews I could find hinted at the all levels invited, grind-free RTS gameplay hidden inside.
 

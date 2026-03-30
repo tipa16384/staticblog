@@ -3,41 +3,19 @@ date: '2014-08-03T21:15:52-05:00'
 draft: false
 title: "Neverwinter: Down on the Farm"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/08/03/neverwinter-down-on-the-farm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My most popular foundry is the one that took the least time to make. When new farm-type events roll around, some people head for custom..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh6.googleusercontent.com/-0y_wk-gc_HI/U94-SYH341I/AAAAAAAAy1I/kNYikp2ajAc/w684-h547-no/GameClient%2B2014-08-03%2B09-29-15-34.jpg"
-cover:
-  image: "https://lh6.googleusercontent.com/-0y_wk-gc_HI/U94-SYH341I/AAAAAAAAy1I/kNYikp2ajAc/w684-h547-no/GameClient%2B2014-08-03%2B09-29-15-34.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh6.googleusercontent.com/-0y_wk-gc_HI/U94-SYH341I/AAAAAAAAy1I/kNYikp2ajAc/w684-h547-no/GameClient%2B2014-08-03%2B09-29-15-34.jpg"
+thumbnailImage: "https://lh6.googleusercontent.com/-0y_wk-gc_HI/U94-SYH341I/AAAAAAAAy1I/kNYikp2ajAc/w684-h547-no/GameClient%2B2014-08-03%2B09-29-15-34.jpg"
 ---
+My most popular foundry is the one that took the least time to make. When new farm-type events roll around, some people head for custom...
+<!--more-->
 
-![Down on the farm](https://lh6.googleusercontent.com/-0y_wk-gc_HI/U94-SYH341I/AAAAAAAAy1I/kNYikp2ajAc/w684-h547-no/GameClient%2B2014-08-03%2B09-29-15-34.jpg)
+
 
 My most popular foundry is the one that took the least time to make. When new farm-type events roll around, some people head for custom made foundries tuned specifically for farming event drops.
 

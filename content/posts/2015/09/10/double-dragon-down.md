@@ -3,40 +3,17 @@ date: '2015-09-10T07:32:16-05:00'
 draft: false
 title: "Double Dragon Down"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/10/double-dragon-down/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was a grim setting I logged into a couple nights ago. My Godville heroine, Talesia, was dead... and lying next to her was her..."
+categories:
   - "Godville"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/1-Fullscreen-capture-992015-113559-PM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/1-Fullscreen-capture-992015-113559-PM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Fullscreen-capture-992015-113559-PM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-Fullscreen-capture-992015-113559-PM.jpg"
 ---
+It was a grim setting I logged into a couple nights ago. My Godville heroine, Talesia, was dead... and lying next to her was her...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-Fullscreen-capture-992015-113559-PM.jpg" title="A gripping tale...." class="align-center" >}}
+
 
 It was a grim setting I logged into a couple nights ago. My Godville heroine, Talesia, was dead... and lying next to her was her loyal mount, the double dragon Pinky. Double dragons get smaller the older they get, and Pinky has become quite small. So this wasn't entirely unexpected.
 

@@ -3,52 +3,30 @@ date: '2022-01-23T11:43:28-05:00'
 draft: false
 title: "Once, I had a life. Now, I have Final Fantasy Tactics Advance."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/01/23/once-i-had-a-life-now-i-have-final-fantasy-tactics-advance/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't played the sequel to my favorite Final Fantasy game, Final Fantasy Tactics, in ages. And even when I played it before, back in..."
+categories:
   - "Final Fantasy"
   - "Tactical RPG"
+tags:
   - "Gameboy Advance"
   - "Ogre Battle"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-36.jpg"
 ---
+I haven't played the sequel to my favorite Final Fantasy game, Final Fantasy Tactics, in ages. And even when I played it before, back in...
+<!--more-->
 
 I haven't played the sequel to my favorite Final Fantasy game, Final Fantasy Tactics, in *ages*. And even when I played it before, back in the Gameboy Advance days, I never got that far into it -- the tiny screen just didn't work for JRPGs for me. So I spent a lot of money getting a Nintendo DS -- the one with the GBA slot -- and a complete copy of the game, and decided to give it another shot.
 
 I didn't know what I was getting into.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-45.jpg)](https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-45.jpg)The terms of my imprisonment
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-45.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-45.jpg)The terms of my imprisonment
 
 Final Fantasy Tactics Advance, the game, can be broadly split into three parts. The first is the main plot of the game -- you play the "new kid" who just moved to St. Ivalice, a small town in what we would recognize as the real world. Your friend, Mewt, is planning to buy an old fantasy book at the used book store, one with pictures of knights and dragons in it, and you invite Mewt and Ritz, another friend, over to your house to take a look at it and let everyone meet your crippled brother, Doned.
 
 Later that night, the world changes, and you and your friends are now in a strange land called Ivalice, and all the familiar landmarks are now fantasy. Mewt has become the prince of the land, his widowed father, Cid, has become the Lord High Judge of the land, and his mother has come back to life and is now the queen. Mewt's teddy bear is now his advisor, Babus, and more than anything else, he does not want to go back to the real world.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-42.jpg)](https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-42.jpg)That's not Ritz's real hair color in the real world
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-42.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-42.jpg)That's not Ritz's real hair color in the real world
 
 Doned is here, and can walk. You and Ritz have become the leaders of rival clans. But you know this is just a dream, and all of you must wake up and face the real world together...
 
@@ -71,7 +49,7 @@ The exception are the lawless regions called "Jagds". There are no Judges, and w
 
 A better way to take a step into the lawless side are with "anti-laws", laws that let you break other laws. After a certain point in the story, these become available, and a little after that, you begin to encounter anti-anti-law laws, that forbid the use of anti-laws, because the Judges are learning and adapting.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-10.png)](https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-10.png)Battling Laws vs Anti-Laws
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-10.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-10.png)Battling Laws vs Anti-Laws
 
 The "Dmg2: Animal" law would make this particular battle nearly impossible, as it forbids damaging monsters, and there are monsters on the field. I *believe* they can only be killed by removal at this point, but I always anti-law myself out of these things. The "Allmighty" anti-law removes ALL laws, though I don't believe it works vs anti-anti-law laws. As well as removing laws, you can also add *new* laws. For instance, if you want to make sure your Viera sniper can work her magic without interruption, you can suggest a new law that forbids damage to Viera. If the enemy doesn't have any Viera on the field, you're pretty much home free.
 
@@ -83,13 +61,13 @@ FFTA really leans into the law mechanic, adding another layer of strategy to an 
 
 ...plus a few more I bring in when too many of those are on missions, or whose jobs are blocked by laws. Using anti-laws is expensive, and most of the time, it's better to just go along with the flow and save anti-laws for when you really need them.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-33.jpg)](https://chasingdings.com/wp-content/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-33.jpg)Mother...?
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-33.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/01/Final-Fantasy-Tactics-Advanced-GBA-33.jpg)Mother...?
 
 So I'm still playing Final Fantasy Tactics Advance, though I soon moved from the Nintendo DS to an emulator with it because, apparently, my eyes haven't improved in the decades since it came out. I do want to see the Judge story.
 
 Where would this fall, compared to other Final Fantasy Tactics-adjacent games?
 
-- Final Fantasy Tactics (PS)- [Ogre Battle March of the Black Queen](https://chasingdings.com/tag/the-march-of-the-black-queen/) (SNES)- Ogre Battle Let Us Cling Together (PS)- Final Fantasy Tactics Advance (GBA)- Final Fantasy XII (PS2)- Vandal Hearts (PS2)
+- Final Fantasy Tactics (PS)- [Ogre Battle March of the Black Queen](https://tipa16384.github.io/wkblog/tag/the-march-of-the-black-queen/) (SNES)- Ogre Battle Let Us Cling Together (PS)- Final Fantasy Tactics Advance (GBA)- Final Fantasy XII (PS2)- Vandal Hearts (PS2)
 
 In no particular order, these are the tactics games by or under the direction of the original Final Fantasy Tactics designer. There are others, but these are the ones I own. And yes, the Ogre Battle games are named after Queen songs.
 

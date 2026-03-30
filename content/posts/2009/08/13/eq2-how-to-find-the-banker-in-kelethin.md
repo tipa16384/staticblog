@@ -3,53 +3,28 @@ date: '2009-08-13T06:25:08-05:00'
 draft: false
 title: "EQ2: How to find the banker in Kelethin"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/13/eq2-how-to-find-the-banker-in-kelethin/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Here's how to find the banker -- or any other NPC -- in Kelethin. This works for NPCs in any city. Wolfshead was pretty positive..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/1-findguard.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/1-findguard.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/1-findguard.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/1-findguard.jpg"
 ---
+Here's how to find the banker -- or any other NPC -- in Kelethin. This works for NPCs in any city. Wolfshead was pretty positive...
+<!--more-->
 
 Here's how to find the banker -- or any other NPC -- in Kelethin. This works for NPCs in any city. [Wolfshead was pretty positive about the Greater Faydark area in general](http://www.wolfsheadonline.com/?p=2828), and I appreciate that -- I think it's a great starting zone -- but to flatly say it's impossible to get a guard to show you to the banker unless you know the banker's name, or that it's all that hard to get around the city with the map, well....
 
-![Step 1. Find any guard](https://chasingdings.com/wp-content/uploads/2009/08/1-findguard.jpg "Step 1. Find any guard")
-
 Step 1: Find a city guard. Guards outside the city don't know where stuff is inside a city, but they can direct you around the larger zone.
 
-![Click on the guard and ask for the banker](https://chasingdings.com/wp-content/uploads/2009/08/2-enterbanker.jpg "Click on the guard and ask for the banker")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/2-enterbanker.jpg" title="Click on the guard and ask for the banker" classes="center" >}}
 
 Step 2: Click on them, and enter "bank" or "banker". If you know the first and/or last name of the NPC, you could enter that, too.
 
-![3-guardhelps](https://chasingdings.com/wp-content/uploads/2009/08/3-guardhelps.jpg "3-guardhelps")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/3-guardhelps.jpg" title="3-guardhelps" classes="center" >}}
 
 Step 3: Guard tells you where the NPC is generally, and gives you a glowing trail to follow to it.
 
-![It](https://chasingdings.com/wp-content/uploads/2009/08/4-locationonmap.jpg "It")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/4-locationonmap.jpg" title="It" classes="center" >}}
 
 Step 4: Or just look at the map.

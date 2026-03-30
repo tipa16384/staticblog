@@ -3,46 +3,21 @@ date: '2008-10-07T08:01:24-05:00'
 draft: false
 title: "How to tell if you're a coder, part 1."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/07/how-to-tell-if-youre-a-coder-part-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Step 1: Start browsing the games Xfire claims are installed on your system and come across a children's version of that old game, Mastermind:..."
+categories:
   - "General"
   - "My Work"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg"
 ---
+Step 1: Start browsing the games Xfire claims are installed on your system and come across a children's version of that old game, Mastermind:...
+<!--more-->
 
 Step 1: Start browsing the games Xfire claims are installed on your system and come across a children's version of that old game, Mastermind:
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/purbleplace-2008-10-07-07-24-01-91.jpg "purbleplace-2008-10-07-07-24-01-91")
-
 Step 2: Spend 15 minutes writing a program in Python to solve it for you.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/mm.gif "mm")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/mm.gif" title="mm" classes="center" >}}
 
 Step 3: Suddenly realize you missed the point of the puzzle in the first place :P
 

@@ -3,49 +3,27 @@ date: '2022-09-11T11:47:24-05:00'
 draft: false
 title: "Game Night: Flamecraft"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/11/game-night-flamecraft/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Flamecraft is a light-hearted game in which players take on the role of Flamekeepers, tasked with helping Artisan dragons create a variety of goods using their specialized flames. The game is easy to pick up and play, with players taking turns visiting shops, placing dragons, and casting enchantments to earn rewards.."
-description: "Flamecraft is a light-hearted game in which players take on the role of Flamekeepers, tasked with helping Artisan dragons create a variety of goods using their specialized flames. The game is easy to pick up and play, with players taking turns visiting shops, placing dragons, and casting enchantments to earn rewards.."
-tags:
+categories:
   - "Flamecraft"
   - "Game Night"
   - "Tabletop Game"
+tags:
   - "1-4 Players"
   - "45 Minutes"
   - "Dragons"
   - "Worker Placement"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-11-08.51.00-Ink-and-watercolor-drawing-of-the-interior-of-a-19th-century-flower-shop-wooden-counter-wooden-floor-watering-can-on-the-counter-gardening-tools-o.png"
 ---
+Flamecraft is a light-hearted game in which players take on the role of Flamekeepers, tasked with helping Artisan dragons create a variety of goods using their specialized flames. The game is easy to pick up and play, with players taking turns visiting shops, placing dragons, and casting enchantments to earn rewards..
+<!--more-->
 
 Flamecraft? It's like Lords of Waterdeep, except instead of being one of the secret masters of city, you knew a lot of cute little dragons, some of whom were fancy. And instead of building shops for dark deeds and hidden quests, they were shops where you could bake bread, or cut some meat, or grind up nice smelling herbs into potions, and instead of fighting against corruption, you just wanted yourself and your dragons to have the best reputation in town.
 
 That would be [Cardboard Alchemy's Flamecraft](https://cardboardalchemy.com/flamecraft/), [kickstarted](https://www.kickstarter.com/projects/cardboardalchemy/flamecraft) last year, and arrived here last week. Pretty darn quick!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/image-1-1024x672.png" title="Flamecraft box" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/image-1-1024x672.png" title="Flamecraft box" classes="center" >}}
 
 We weren't able to have the full family game night due to sickness, but we really wanted to play the game, even though we just received it a few days ago (and our plushie is still on its way).
 
@@ -57,7 +35,7 @@ To gather resources, they take the resources listed on the shop, its enchantment
 
 At the end of their turn, they check to see if they need to expand the town (because they have fully staffed a shop with three dragons), then they discard down to their limit of six cards and seven of each resource and refresh the face-up Enchantments and Artisan dragons. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/1-IMG_2710.jpg" title="Flamecraft in play" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/1-IMG_2710.jpg" title="Flamecraft in play" classes="center" >}}
 
 The game ends when the Artisan deck or Enchantment deck runs out. The player with the most Reputation points at the end of the game wins. Our first game took a little over half an hour to play, so it's a game that doesn't outstay its welcome... unlike Lords of Waterdeep, which can take a fair amount of time to play through a game. (Unlike Lords of Waterdeep, you only get one "worker", which does tend to speed things up a bit).
 

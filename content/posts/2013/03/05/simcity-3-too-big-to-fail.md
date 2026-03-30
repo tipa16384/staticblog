@@ -3,40 +3,17 @@ date: '2013-03-05T21:48:08-05:00'
 draft: false
 title: "SimCity 2013: Too Big To Fail?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/03/05/simcity-3-too-big-to-fail/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm pretty sure that, sitting on my old Mac SE/30 in the living room, is an old copy of the first SimCity. Or if not..."
+categories:
   - "MMORPG"
   - "Simcity 3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-05-20-09-50-44-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-05-20-09-50-44-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/SimCity-2013-03-05-20-09-50-44-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/SimCity-2013-03-05-20-09-50-44-480x300.jpg"
 ---
+I'm pretty sure that, sitting on my old Mac SE/30 in the living room, is an old copy of the first SimCity. Or if not...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/SimCity-2013-03-05-20-09-50-44-480x300.jpg" title="The SimCity \"Ha Ha!\" screen" class="align-center" >}}
+
 
 I'm pretty sure that, sitting on my old Mac SE/30 in the living room, is an old copy of the first SimCity. Or if not on the hard drive, on a floppy drive somewhere. Assuming I could find it, and the computer could still read it, that I could play that original SimCity and have as much fun as I wanted. I could type in "FUNDS" if I got in a bind and get some extra money. I could save my game and then have Godzilla stomp it to rubble, then restore it and all these little SimCity people would be going "Whaaaa? I just had a feeling that we were all stomped to rubble... Oh well!"
 

@@ -3,44 +3,21 @@ date: '2011-10-12T05:00:25-05:00'
 draft: false
 title: "Daily Blogroll Oct 12: No time for heroes edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/10/12/daily-blogroll-oct-12-no-time-for-heroes-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A few days ago I was trying to define what I thought of as an MMO. I started off thinking it was just a realtime,..."
+categories:
   - "Adventureville"
   - "Daily Blogroll"
   - "Facebook Games"
   - "MMORPG"
   - "Star Wars the Old Republic"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/castleville.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/10/castleville.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/castleville.png"
 ---
+A few days ago I was trying to define what I thought of as an MMO. I started off thinking it was just a realtime,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/castleville.png" title="Magic Castle for Sale: Sold!" class="align-center" >}}
+
 
 A few days ago I was trying to define what I thought of as an MMO. I started off thinking it was just a realtime, online game with other players, but as the day went on, thinking about it more, I felt it had to include a persistent avatar representing the player that could be named and customized. I was pretty confident that nailed the essential nature of an MMORPG.
 
@@ -62,7 +39,7 @@ Like, **let's talk about Kitty Kash**! The blogs lit up yesterday on the news th
 
 Tobold thinks [this could possibly kill the gold black market](http://tobolds.blogspot.com/2011/10/world-of-warcraft-introduces-real-money.html), but color me dubious. I buy the Guardian Cub for $10, put it on the auction house for 10,000gp, hoping to get a 1000:1 gold to dollar conversion going. But there's hundreds of Guardian Cubs being sold on the AH! So I keep dropping the price to get a sale. 5000gp. 2500gp. 1000gp, and it sells for that. I could have gotten a lot more gold from a gold seller for my $10. Not only that, since a Guardian Cub has no in-game function, it's a commodity that can only fall in price, since more enter the system than leave through owners binding them, which instantly drops their value to zero.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/10/perry.png "Perry traps Jacobs")](https://chasingdings.com/wp-content/uploads/2011/10/perry.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/perry.png" title="Perry traps Jacobs" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/10/perry.png)
 
 On this tenth anniversary of the launch of Dark Age of Camelot, one of the first of the "second wave" MMOs, former Mythic head Mark Jacobs allows that [he was never opposed to the free to play business model](http://www.mmorpg.com/showFeature.cfm/loadFeature/5684/page/1), it was gold sellers he couldn't take.
 

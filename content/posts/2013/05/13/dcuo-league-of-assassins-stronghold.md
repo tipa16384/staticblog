@@ -3,40 +3,17 @@ date: '2013-05-13T05:56:28-05:00'
 draft: false
 title: "DCUO: League of Assassins Stronghold"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/13/dcuo-league-of-assassins-stronghold/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "That pun wasn't mine......."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/MPYR0225_ART_001-PC-12-22.58.510-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/MPYR0225_ART_001-PC-12-22.58.510-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/MPYR0225_ART_001-PC-12-22.58.510-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/MPYR0225_ART_001-PC-12-22.58.510-480x342.jpg"
 ---
+That pun wasn't mine.......
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/MPYR0225_ART_001-PC-12-22.58.510-480x342.jpg" title="Kaptain KY shows off his jerkin" class="align-center" >}}
+
 
 That pun wasn't mine....
 
@@ -46,13 +23,13 @@ Once everyone had their connection problems dealt with, it was off to our first 
 
 The League of Assassins is led by the evil Ra's al Ghul, a near-immortal super villain who uses the power of the rejuvenating Lazarus Pits to... just be evil, I guess. Our job: go to the source of al Ghul's power, the Lazarus Pits themselves, fight our way through his assassins, and kill the unkillable.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/DCGame-2013-05-12-22-29-01-03-480x343.jpg" title="Do not get between Team Spode and a greenie..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/DCGame-2013-05-12-22-29-01-03-480x343.jpg" title="Do not get between Team Spode and a greenie..." classes="center" >}}
 
 Aaaaaand that's what we did. A couple of the encounters initially took us by surprise, but we'd figure them out and win the next time. Tier 3? Tier 3 ain't nothing. We killed R'as al Ghul, he regenerated and lost his shirt in the Lazarus Pits, we killed him again. Got some ungodly number of marks from it, too, enough for me to get two pieces of Tier 2.5 gear from the street vendor in Center City, bringing my Combat Rating to 56, I think.
 
 Even given the half hour we spent doing quests in Center City, we ended the Stronghold with forty five minutes left. We decided to have a go at another Tier 3, South Gotham Courthouse.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/DCGame-2013-05-12-23-29-28-53-480x300.jpg" title="The Bailiff" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/DCGame-2013-05-12-23-29-28-53-480x300.jpg" title="The Bailiff" classes="center" >}}
 
 South Gotham Courthouse has been bottled by Brainiac and is in the process of being digitized. Our job is to take Gotham back, one building at a time, and so we've managed, somehow, to attach a staging platform to the side of the bottle and get heroes inside it somehow. Graviton generators inside the bottle prevent the use of super travel powers, so we were stuck walking everywhere.
 
@@ -60,7 +37,7 @@ After disabling the digitizers who were subsuming the humans caught in the bubbl
 
 Oracle managed to get a comm line in and directed us to the graviton generators. We had to use jump fields, conveniently positioned right beneath them, to get up to the generators, defeat the guardians, and shut them down. Hey, I remember this fight from EQ2.... anyway. Once that was done, we could fly again. YAY FLYING.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/MADV119_AUDIO-PC-12-23.53.140-480x343.jpg" title="The Prosecutor and Defending Attorney" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/MADV119_AUDIO-PC-12-23.53.140-480x343.jpg" title="The Prosecutor and Defending Attorney" classes="center" >}}
 
 We then faced the Prosecutor and the Defending Attorney. You'd think ONE of those two would be HELPING us, but it seemed the court was stacked against us, and the court was about as impartial as Gordon Ramsey on Pasta Night. The trick is to keep the jurors disabled (where are the human jurors? No idea) while destroying evidence and killing witnesses to keep the lawyers from making their case and enabling them to be attacked.
 

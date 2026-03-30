@@ -3,41 +3,19 @@ date: '2014-07-21T21:29:43-05:00'
 draft: false
 title: "Neverwinter: FINISHED! Almost. Maybe."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/07/21/neverwinter-finished-almost-maybe/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Foundry contest update #5. FINISHED! I finished... the first pass. It can be played and finished with all three quest paths. This screen shows how..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh3.googleusercontent.com/-53leYeaWFRE/U810N_fDcJI/AAAAAAAAyH0/1MBtmBMLFhQ/w684-h547-no/GameClient%2B2014-07-21%2B15-05-49-35.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-53leYeaWFRE/U810N_fDcJI/AAAAAAAAyH0/1MBtmBMLFhQ/w684-h547-no/GameClient%2B2014-07-21%2B15-05-49-35.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-53leYeaWFRE/U810N_fDcJI/AAAAAAAAyH0/1MBtmBMLFhQ/w684-h547-no/GameClient%2B2014-07-21%2B15-05-49-35.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-53leYeaWFRE/U810N_fDcJI/AAAAAAAAyH0/1MBtmBMLFhQ/w684-h547-no/GameClient%2B2014-07-21%2B15-05-49-35.jpg"
 ---
+Foundry contest update #5. FINISHED! I finished... the first pass. It can be played and finished with all three quest paths. This screen shows how...
+<!--more-->
 
-![](https://lh3.googleusercontent.com/-53leYeaWFRE/U810N_fDcJI/AAAAAAAAyH0/1MBtmBMLFhQ/w684-h547-no/GameClient%2B2014-07-21%2B15-05-49-35.jpg)
+
 
 Foundry contest update #5. FINISHED! I finished... the first pass. It can be played and finished with all three quest paths. This screen shows how complicated the final room can get when you have three storylines colliding.
 

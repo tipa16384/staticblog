@@ -3,55 +3,33 @@ date: '2024-10-01T23:49:27-05:00'
 draft: false
 title: "Those Who Rule: new demo!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/10/01/those-who-rule-new-demo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Those crazy kids and their ruling! Story driven tactical RPG that punches well above its weight, you wouldn't know this was the work of a single developer."
-description: "Those crazy kids and their ruling! Story driven tactical RPG that punches well above its weight, you wouldn't know this was the work of a single developer."
-tags:
+categories:
   - "Steam Games"
   - "Strategy"
   - "Tactical RPG"
   - "Tactics"
+tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Those Who Rule"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/thosewhorulebanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/10/thosewhorulebanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/thosewhorulebanner.png"
 ---
+Those crazy kids and their ruling! Story driven tactical RPG that punches well above its weight, you wouldn't know this was the work of a single developer.
+<!--more-->
 
 One of the really nice things about Xitter, in the before times, was that it was a great place to catch up with the indie game dev world. I found so many great titles that way and had a lot of fun playing them. One of those was "Those Who Rule".
 
 This is a game very much in my wheelhouse. It's a strategy tactical game with visual novel trappings that very much reminds me of the Fire Emblem series, or especially Banner of the Maid, a little-known tactics game set during the French Revolution that came out a few years ago. All the maidens spoke Chinese. It was glorious.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/20241001230852_1-1024x577.jpg" title="You are immediately dropped into the deep end of the plot" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/20241001230852_1-1024x577.jpg" title="You are immediately dropped into the deep end of the plot" classes="center" >}}
 
 I generally prefer when the plot is acted in game, *a la* Final Fantasy Tactics, but there's nothing wrong with having the portraits do the talking. The comic book art style really sells the gritty plot better than the anime style common to these sorts of games, and that is another big mark in its favor.
 
 The story jumps around the game world, but only intersects the main characters -- a group of new Ranger recruits to the army of the nation of Fern -- when they are pressed into service to take on a gang of pirates because the experienced soldiers are away trying to find their kidnapped general.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/20241001214142_1-1024x577.jpg" title="Thar be pirates here, me mateys" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/20241001214142_1-1024x577.jpg" title="Thar be pirates here, me mateys" classes="center" >}}
 
 There's a wide variety of classes but, significantly, no magic damage or mounted classes. The one caster is the healer, and they work in melee range so not sure that counts. They also are wicked with a sword.
 

@@ -3,40 +3,19 @@ date: '2010-08-07T10:27:04-05:00'
 draft: false
 title: "Dragon Age Origins spoiler: Everyone dies."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/07/dragon-age-origins-spoiler-everyone-dies/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Dragon Age Origins"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15-1024x574.jpg "Warden Tipa and Wynne sit through a cut-scene")](https://chasingdings.com/wp-content/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/08/DAOrigins-2010-08-05-21-53-59-15.jpg)
 
 Starting a Bioware game is deadly to your free time. To mine, anyway.
 
@@ -48,7 +27,7 @@ Each different race/class combination has its own, semi-unique, origin story. Hu
 
 Through the choices you make along the way, your adventure will bring you along roughly three different paths, once through the origin. Being helpful, kind, upholding the law and never making deals with the evil spirits of the Fade, you will follow the good path. Be self-serving and make deals to your benefit, and you follow the path of evil. Chart a middle course and nobody will really be that happy with you, but on the other hand, their expectations will be low. No matter what path you choose, your overall goal remains the same -- defeat the archdemon and prevent the Blight -- but your reasons may change.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/daoks5.png "Death to Dragons!")](https://chasingdings.com/wp-content/uploads/2010/08/daoks5.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/daoks5.png" title="Death to Dragons!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/daoks5.png)
 
 My first time through, I played as a neutral. I wasn't good enough for the goods or bad enough for the evils, so I charted a middle course. My tank was Sten, a massive Qunari from a distant land. Morrigan, an enchantress from the Wilds, was my crowd control and damage. Wynne, a spirit healer from the Circle of Magi was the healer, and I was the rogue. A really poor one. Zevran, an Antivan assassin from the Crows, was my romantic interest. We were both elves and both rogues, so why not?
 
@@ -56,7 +35,7 @@ At the end of the game, Alistair was king and everyone at least tolerated me.
 
 This second time, I stayed in the good side of the graph. I had Alistair as tank (and love interest), Wynne (again as healer) fully approving of me, Leliana (archer/ranger) so happy with me she sang me a love song, and my character as an arcane warrior -- a battle mage who can cast spells, wear armor and use weapons -- as damage and crowd control.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/alignment2.png "Alignment Chart")](https://chasingdings.com/wp-content/uploads/2010/08/alignment2.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/alignment2.png" title="Alignment Chart" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/alignment2.png)
 
 That caused some problems. By the end of the game, the evil characters in my party had either tried to assassinate me (Zevran) or left in a huff because I didn't want them to perform blood magic on my fiancé so that they could become a demigod (Morrigan). I had so few members left in the party that when I had to form two groups at the end, the second group was short one person and consisted entirely of fighters (Sten, Oghren and Dog). Because I refused to let Morrigan perform her ritual on Alistair, Alistair died killing the archdemon, taking King Cailan's sword and armor with him.
 

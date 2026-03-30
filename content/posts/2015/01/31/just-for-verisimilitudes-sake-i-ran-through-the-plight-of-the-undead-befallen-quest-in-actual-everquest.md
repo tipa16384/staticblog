@@ -3,38 +3,15 @@ date: '2015-01-31T18:30:06-05:00'
 draft: false
 title: "EverQuest: Plight of the Undead"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/31/just-for-verisimilitudes-sake-i-ran-through-the-plight-of-the-undead-befallen-quest-in-actual-everquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just for verisimilitude's sake, I ran through the \"Plight of the Undead\" Befallen quest in actual EverQuest to get tips and pointers and you know..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://lh5.googleusercontent.com/-Vf1EcQeQtvY/VM0daZSyEqI/AAAAAAAA_h0/-v1ThGDJ-U0/w506-h750/eqgame%2B2015-01-31%2B13-07-03-84.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-Vf1EcQeQtvY/VM0daZSyEqI/AAAAAAAA_h0/-v1ThGDJ-U0/w506-h750/eqgame%2B2015-01-31%2B13-07-03-84.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-Vf1EcQeQtvY/VM0daZSyEqI/AAAAAAAA_h0/-v1ThGDJ-U0/w506-h750/eqgame%2B2015-01-31%2B13-07-03-84.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-Vf1EcQeQtvY/VM0daZSyEqI/AAAAAAAA_h0/-v1ThGDJ-U0/w506-h750/eqgame%2B2015-01-31%2B13-07-03-84.jpg"
 ---
+Just for verisimilitude's sake, I ran through the "Plight of the Undead" Befallen quest in actual EverQuest to get tips and pointers and you know...
+<!--more-->
 
 Just for verisimilitude's sake, I ran through the "Plight of the Undead" Befallen quest in actual EverQuest to get tips and pointers and you know what, I think my version of the quest is going to be better.
 
@@ -44,6 +21,8 @@ In fact, I hid away a potion of invisibility to undead so that people could perh
 
 Oh, well. The average time on the quest is long enough that people can speed through for quite some time before the average timer brings it down below daily quest level. Not like it's super popular :P
 
-[#Neverwinter](https://plus.google.com/s/%23Neverwinter)   [#Foundry](https://plus.google.com/s/%23Foundry)   [#Newfallen](https://plus.google.com/s/%23Newfallen)   [#EverQuest](https://plus.google.com/s/%23EverQuest)   ﻿[![](https://lh5.googleusercontent.com/-Vf1EcQeQtvY/VM0daZSyEqI/AAAAAAAA_h0/-v1ThGDJ-U0/w506-h750/eqgame%2B2015-01-31%2B13-07-03-84.jpg)]()
+[#Neverwinter](https://plus.google.com/s/%23Neverwinter)   [#Foundry](https://plus.google.com/s/%23Foundry)   [#Newfallen](https://plus.google.com/s/%23Newfallen)   [#EverQuest](https://plus.google.com/s/%23EverQuest)   ﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/Mw5rLYNgE2x)

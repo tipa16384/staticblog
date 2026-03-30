@@ -3,24 +3,8 @@ date: '2009-04-24T07:24:29-05:00'
 draft: false
 title: "Web Log 4/24 -- Friday is Free Day edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/24/web-log-424-friday-is-free-day-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Chronicles of Spellborn"
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
@@ -35,20 +19,15 @@ tags:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "http://www.penny-arcade.com/images/2009/20090424.jpg"
-cover:
-  image: "http://www.penny-arcade.com/images/2009/20090424.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
+thumbnailImage: "http://www.penny-arcade.com/images/2009/20090424.jpg"
 ---
+[...
+<!--more-->
 
-[![](http://www.penny-arcade.com/images/2009/20090424.jpg "Its Reall Quite Simple")](http://www.penny-arcade.com/comic/2009/4/24/)
+[
+
+](http://www.penny-arcade.com/comic/2009/4/24/)
 
 Penny Arcade starts off Freeday Friday with a little bit of snark about the Chronicles of Spellborn payment plan. While it's true that you can now use a credit card like for every other game... I think trying to figure out their Coins-based plan is a fun game all on its own, don't you?
 
@@ -72,7 +51,7 @@ OMG, is that an Elric Melnibone/Michael Moorcock/Blue Oyster Cult reference? Yes
 
 I just wanna be a lover, not a red-eyed screaming ghoul*? Hey, Beau, this song is ABOUT YOUR POST!
 
-Lars from MMOment of Zen thinks that writable books in EQ2 are a good *start*, but [they could do so much more](http://mmomentofzen.blogspot.com/2009/04/user-generated-other-writable-things.html). Commenter [Tholal](http://www.blogger.com/profile/13602552885840666836) points out that Ultima Online has had these features for years, going on centuries now. Hey, [where are the friggin ULTIMA ONLINE BLOGS](https://chasingdings.com/index.php/2008/06/06/bloggers-of-ye-elder-games-wru/)? How are we supposed to KNOW these things?
+Lars from MMOment of Zen thinks that writable books in EQ2 are a good *start*, but [they could do so much more](http://mmomentofzen.blogspot.com/2009/04/user-generated-other-writable-things.html). Commenter [Tholal](http://www.blogger.com/profile/13602552885840666836) points out that Ultima Online has had these features for years, going on centuries now. Hey, [where are the friggin ULTIMA ONLINE BLOGS](https://tipa16384.github.io/wkblog/index.php/2008/06/06/bloggers-of-ye-elder-games-wru/)? How are we supposed to KNOW these things?
 
 And lastly, it's Bio Break's Syp again with [six ways to leave a bad pickup group](http://biobreak.wordpress.com/2009/04/23/eject-eject-eject/). I've tried them all, but #6 is by far my favorite.
 

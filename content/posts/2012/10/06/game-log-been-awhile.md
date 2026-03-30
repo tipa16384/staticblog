@@ -3,39 +3,16 @@ date: '2012-10-06T19:48:57-05:00'
 draft: false
 title: "Game Log: Been awhile"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/06/game-log-been-awhile/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I have to reluctantly admit that Diablo 3 became somewhat less fun when we stopped with Hardcore Mode. It was totally necessary that we go..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg"
 ---
+I have to reluctantly admit that Diablo 3 became somewhat less fun when we stopped with Hardcore Mode. It was totally necessary that we go...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-06-17-06-34-88-480x288.jpg" title="Whimsyshire" class="align-center" >}}
+
 
 I have to reluctantly admit that Diablo 3 became somewhat less fun when we stopped with Hardcore Mode. It was totally necessary that we go normal mode, because we just weren't progressing, having to restart over and over again. There are other games, of course. Getting a million gold in the auction house, dropping 300K on a marginal tunic upgrade because why not? People rerolling after farming Inferno for a few weeks have more than enough gold to waste on my junk, so I let 'em.
 
@@ -43,7 +20,7 @@ Doing the quest for Diablo 3's "cow level", Whimsyshire, an extra level of sunsh
 
 The secret to the auction house? Know when you have something worth having, figure out the maximum you'd ever pay for that yourself, multiply that by 10, and list it. Free money.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Fullscreen-capture-1062012-64927-PM-480x331.jpg" title="Duolingo" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Fullscreen-capture-1062012-64927-PM-480x331.jpg" title="Duolingo" classes="center" >}}
 
 The folks at Duolingo have a unique way of teaching a foreign language: turn it into a game. Game-ification isn't a particularly new idea, and applying that to languages is a concept as old as flash cards. Duolingo combines drills, rote translations, transcription and pronunciation (with a microphone) with a fairly new technique to improve retention, and an interesting ideal: to get learners to translate the Internet, one sentence at a time.
 

@@ -3,40 +3,18 @@ date: '2020-05-13T11:41:00-05:00'
 draft: false
 title: "EverQuest: Bones Everywhere."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/13/everquest-bones-everywhere/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I saw my bf running around in Nektulos Forest yesterday on his baby cleric, and just had to join in...."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Mangler"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-13-06-57-41-85.jpg"
 ---
+I saw my bf running around in Nektulos Forest yesterday on his baby cleric, and just had to join in....
+<!--more-->
 
 I saw my bf running around in Nektulos Forest yesterday on his baby cleric, and just had to join in.
 
@@ -60,7 +38,7 @@ I remembered then how absolutely godlike even newbie armor was, back in the day,
 
 I remember saving up all my platinum and finding a crafter to make me leather armor when I started my halfling druid, Etha.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-eqgame-2020-05-13-07-24-37-23.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-eqgame-2020-05-13-07-24-37-23.jpg" classes="center" >}}
 
 As part of [EverQuest's 21st birthday celebration](https://massivelyop.com/2020/03/17/everquests-birthday-includes-free-level-85-boosts-and-word-of-new-progression-servers/), people were sharing their character's birthdays. Etha, born June 14, 1999, still a young 424 years old in Norrathian time, was actually my second character. I'd started an Erudite Wizard on day 1. I hadn't gotten very far when I was urged to make the run to Commandlands for better grouping.
 

@@ -3,39 +3,15 @@ date: '2007-11-30T14:37:42-05:00'
 draft: false
 title: "Tomorrow: I must remember to bring the aqualung."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/30/tomorrow-i-must-remember-to-bring-the-aqualung/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's been months since I bought the tickets, and I have to remember that tomorrow is December 1st, and the Jethro Tull concert down in..."
+categories:
   - "General"
+tags:
   - "Albany"
   - "Jethro Tull"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+It's been months since I bought the tickets, and I have to remember that tomorrow is December 1st, and the Jethro Tull concert down in...
+<!--more-->
 
 It's been months since I bought the tickets, and I have to remember that tomorrow is December 1st, and the Jethro Tull concert down in Wallingford.
 

@@ -3,40 +3,17 @@ date: '2013-11-10T19:20:29-05:00'
 draft: false
 title: "Merc Science! Is your mercenary RIPPING YOU OFF?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/11/10/merc-science/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's an exposé! It's the kind of information SOE doesn't want you to know! It's probably been banned by the government! It's Merc Science!..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-10-16-35-27-26.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-10-16-35-27-26.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-10-16-35-27-26.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-10-16-35-27-26.jpg"
 ---
+It's an exposé! It's the kind of information SOE doesn't want you to know! It's probably been banned by the government! It's Merc Science!...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-10-16-35-27-26.jpg" title="Ethra and Lord Valkiss take on Captain Goldjaw" class="align-center" >}}
+
 
 It's an exposé! It's the kind of information SOE doesn't want you to know! It's probably been banned by the government! It's Merc Science!
 
@@ -46,7 +23,7 @@ But through most of the weekend, I had a second, more serious purpose than just 
 
 I called this ----- Merc Science. Guildies would ask what I what I was up to? SCIENCE!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-09-08-04-54-09.jpg" title="Scatter and Kilphin scout the lay of the ship" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-09-08-04-54-09.jpg" title="Scatter and Kilphin scout the lay of the ship" classes="center" >}}
 
 The new 10 year EQ2 veteran reward are two mercenaries, Lady Liae Croae, a paladin of Qeynos, and Lord Valkiss Ssi'sh, a shadow knight of Freeport. How did they compare, as tanks, to the paladin from the Chains of Eternity collector's edition rewards? Or to the ever popular Neriak shadowknight often urged upon new characters?
 
@@ -56,7 +33,7 @@ On call was my main, the Fae berzerker Scatterfall, who would be testing out DPS
 
 On Scatter's last trip through the Tavalan Abyss, she brought along the Kerran monk from the Lion's Mane Inn. The monk died so often that she was forced to do most of the instance without any help at all. Finding a reliable DPS merc was a priority.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-09-09-19-51-20.jpg" title="Tipa and Lady Liae head in" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-09-09-19-51-20.jpg" title="Tipa and Lady Liae head in" classes="center" >}}
 
 Joining Scatter in the Merc Science Labs was my previous main, Tipa the Dirge. She needs a tank that will let her get in position for her devastating dagger deliveries, dolorous dirges and debilitating debuffs. Some healing wouldn't go amiss, either.
 
@@ -64,7 +41,7 @@ Third in line was traditional alt Arda the Inquisitor. As a healer who can take 
 
 Lastly is Ethra the Defiler, my newest max level (no, she was not boosted up by the instant 85 service. She got there legit. In Skyshrine.) As more of a pure healer than Arda, just needs the most tank she can get for her two platinum pieces. She has the healing -- and the pet to help out with both damage and healing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-06-23-55-26-71.jpg" title="Ethra and Lord Vilkiss relax after the battle" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-06-23-55-26-71.jpg" title="Ethra and Lord Vilkiss relax after the battle" classes="center" >}}
 
 **The Lab**
 

@@ -3,40 +3,17 @@ date: '2015-11-12T23:44:56-05:00'
 draft: false
 title: "Vana'diel Nights"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/11/12/vanadiel-nights/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I figured out that I should do harvesting and/or crafting for awhile in FFXI, gain some levels. My armor craft is 52 or so, and..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/1-ffxiv-2015-11-12-21-16-48-43.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/11/1-ffxiv-2015-11-12-21-16-48-43.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/1-ffxiv-2015-11-12-21-16-48-43.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/1-ffxiv-2015-11-12-21-16-48-43.jpg"
 ---
+I figured out that I should do harvesting and/or crafting for awhile in FFXI, gain some levels. My armor craft is 52 or so, and...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/1-ffxiv-2015-11-12-21-16-48-43.jpg" title="Not harvesting." class="align-center" >}}
+
 
 I figured out that I should do harvesting and/or crafting for awhile in FFXI, gain some levels. My armor craft is 52 or so, and my mining 51, but none of my other Disciple of Land/Hand jobs is anywhere near high enough to do me any good in Heavensward. Gathering is the exact sort of brainless, mechanical sort of thing I could do while watching Hulu.
 
@@ -46,7 +23,7 @@ The world being Vana'diel, the game world of Final Fantasy XI. I played that for
 
 Wow. The scars still seem fresh.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/1-ffxiv-2015-11-12-21-35-14-30.jpg" title="Ninja'd!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/1-ffxiv-2015-11-12-21-35-14-30.jpg" title="Ninja'd!" classes="center" >}}
 
 Final Fantasy XI and Final Fantasy XIV have different game settings, but nonetheless have a lot of similarities. The races all have analogues in both games -- storyline NPC Tataru seems to have given her name to the Vana'diel variety of Lalafell, the Tarutaru. The FFXIV Miqo'te lose most of their males and become the Mithra and... Yeah, the quest more or less revealed that Eorzea is a past version of Vana'diel, separated by several centuries and a few cataclysms.
 

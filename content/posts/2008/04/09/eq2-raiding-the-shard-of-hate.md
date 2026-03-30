@@ -3,44 +3,21 @@ date: '2008-04-09T08:19:28-05:00'
 draft: false
 title: "EQ2: Raiding the Shard of Hate"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/09/eq2-raiding-the-shard-of-hate/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I took the night off from writing last night because, well, some things are more important. Sometimes, a gamer has just got to GAME. And..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/everquest2-2008-04-08-20-54-35-59.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/04/everquest2-2008-04-08-20-54-35-59.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/everquest2-2008-04-08-20-54-35-59.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/everquest2-2008-04-08-20-54-35-59.jpg"
 ---
+I took the night off from writing last night because, well, some things are more important. Sometimes, a gamer has just got to GAME. And...
+<!--more-->
 
-![everquest2-2008-04-08-20-54-35-59.jpg](https://chasingdings.com/wp-content/uploads/2008/04/everquest2-2008-04-08-20-54-35-59.jpg)
+
 
 I took the night off from writing last night because, well, some things are more important. Sometimes, a gamer has just got to GAME. And if not the night when the Shard of Hate returns to Norrath, well, when? Before I get started, though, I want a shout out to a person who has always been there for me, held me up when I was falling; gave me strength to carry on; he is the wind beneath my wings; and -- well, he wants to know why I never mention him on my blog.
 
-![iroced.jpg](https://chasingdings.com/wp-content/uploads/2008/04/iroced.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/iroced.jpg" classes="center" >}}
 
 He's our MT, and I loves the dorf.
 
@@ -50,17 +27,17 @@ After a bunch of discussion, off we went to the Shard of Hate in Nektulos Forest
 
 Almost every raiding guild on Befallen was there along with us. I saw Clan of Shadows (hey peeps!), Defiant, #1 guild Virulence (including my former Revolution guild leader, Xagain! HEYA X!)
 
-![everquest2-2008-04-08-20-55-11-25.jpg](https://chasingdings.com/wp-content/uploads/2008/04/everquest2-2008-04-08-20-55-11-25.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/everquest2-2008-04-08-20-55-11-25.jpg" classes="center" >}}
 
 The zone is a huge loop with two Tier 1 bosses, a Tier 2 boss and two Tier 4 bosses -- five bosses total. We went up to the right first, and killed the SK one who had this amazing knockback and stun. We learned an important lesson -- clear ALL the trash. We did this and got him down second time. We also got the quest to use the mender, which requires killing the three easier nameds.
 
 He dropped a Beacon of Loathing, I believe? A nice mage item.
 
-![everquest2-2008-04-08-22-49-35-89.jpg](https://chasingdings.com/wp-content/uploads/2008/04/everquest2-2008-04-08-22-49-35-89.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/everquest2-2008-04-08-22-49-35-89.jpg" classes="center" >}}
 
 Off to the left now, and past Master P'Tasa, whom everyone was ragging on for being named after [Master P](http://en.wikipedia.org/wiki/Master_P).
 
-![88c9c757cdceeda1998a948c7d36645f.jpg](https://chasingdings.com/wp-content/uploads/2008/04/88c9c757cdceeda1998a948c7d36645f.jpg) I remember camping him for several days on my mage for my epic back in EQ1. This was after the Plane of Hate was changed to a group zone, and people would be roaming through the place at all hours farming stuff, not least of which was Magi P'Tasa's staff for the mage epic, which could easily fetch 100K plat or more. Mages are decent at soloing, but a level 60 mage is doing about all she can to keep the place even barely clear, especially when the hated Clerics would spawn. Or those magic resistant spite golems. At this time, my cleric was still on the Stromm server so I couldn't two box her (which would have made it easy), so I used my daughter's cleric from back when she played, and over the course of those days, got her four or five levels. Lots of people from CE would stop by now and then so I could get some sleep, because if I ever stopped camping the place, it would be taken.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/88c9c757cdceeda1998a948c7d36645f.jpg" classes="center" >}} I remember camping him for several days on my mage for my epic back in EQ1. This was after the Plane of Hate was changed to a group zone, and people would be roaming through the place at all hours farming stuff, not least of which was Magi P'Tasa's staff for the mage epic, which could easily fetch 100K plat or more. Mages are decent at soloing, but a level 60 mage is doing about all she can to keep the place even barely clear, especially when the hated Clerics would spawn. Or those magic resistant spite golems. At this time, my cleric was still on the Stromm server so I couldn't two box her (which would have made it easy), so I used my daughter's cleric from back when she played, and over the course of those days, got her four or five levels. Lots of people from CE would stop by now and then so I could get some sleep, because if I ever stopped camping the place, it would be taken.
 
 After taking care of the other easy named (dropped a server-discovery mage dagger), we turned to no longer Magi, but Master P'Tasa. If you attack him, he has a chance to go invulnerable for four seconds. He also has a rather awful curse, and though we tried a lot of things, we didn't kill him last night. At least one guild killed him with a scout tanking him, and there were rumors that fighters could not attack him at all without triggering Bad Stuff, though I think we showed that wasn't the case.
 
@@ -68,7 +45,7 @@ That will wait for another night, though. It was a heck of a lot of fun being so
 
 ---
 
-![everquest2-2008-04-08-19-15-41-46.jpg](https://chasingdings.com/wp-content/uploads/2008/04/everquest2-2008-04-08-19-15-41-46.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/everquest2-2008-04-08-19-15-41-46.jpg" classes="center" >}}
 
 What would new content be without a quest? This one starts with a happy or delighted mob of some sort in everyone's home city. Well, unless you're good-aligned, in which case I guess they would be alarmed or frightened, but really, who cares about them? I'm just happy that my quest led me to the most awesome city in all of EQ2, Neriak.
 
@@ -78,6 +55,6 @@ Okay, so here I am, in the most evil city in the game doing a quest for the most
 
 Yup. That's it. That's my evil task. Not even a puppy to kick.
 
-![everquest2-2008-04-08-23-42-27-15.jpg](https://chasingdings.com/wp-content/uploads/2008/04/everquest2-2008-04-08-23-42-27-15.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/everquest2-2008-04-08-23-42-27-15.jpg" classes="center" >}}
 
 Got a nice barbecue grill out of it, though. Anyone want a stake? Er, STEAK! Ignore that vampire standing there!!!!

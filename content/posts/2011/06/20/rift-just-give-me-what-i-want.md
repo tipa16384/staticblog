@@ -3,40 +3,17 @@ date: '2011-06-20T07:01:21-05:00'
 draft: false
 title: "Rift: Just give me what I want..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/06/20/rift-just-give-me-what-i-want/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "All I want out of a fantasy game is dragons and the tools to kill them. DDO (more on that in another post) is a..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg"
 ---
+All I want out of a fantasy game is dragons and the tools to kill them. DDO (more on that in another post) is a...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-17-21-26-16-90-480x480.jpg" title="Raid rift in Shimmersands" class="align-center" >}}
+
 
 All I want out of a fantasy game is dragons and the tools to kill them. DDO (more on that in another post) is a disappointment there. They should just rename that game "Dungeons and ????? Online". But Rift... Rift is just lousy with the big lizards. The whole rift concept seems tailor made for them as well. A dragon pushes a bit of its own reality into Telara; it comes with buildings, henchmen, swirling, floaty rocks and storm winds, and we push it back.
 
@@ -44,19 +21,19 @@ Right in the open world, too, among other adventurers going their own ways. They
 
 More dragons and lots of other stuff, after the break.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-19-02-42-43-79-480x480.jpg" title="Dragon in Expert Darkening Deeps" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-19-02-42-43-79-480x480.jpg" title="Dragon in Expert Darkening Deeps" classes="center" >}}
 
 I'm really liking the whole "expert dungeon" thing as well. As you level, you end up going through most of the ten dungeons at least a couple of times, but Rift is holding out on you. You're just seeing the preview for the REAL dungeon, the "expert" dungeon, that's waiting for you once you hit the level cap.
 
 Expert Deepstrike Mines opens a section filled with lasers and robots -- for real! It's behind the last "normal" boss! In regular Iron Tombs, Eliam's Ghost (it is his tomb, btw) leads you to safety after killing the last fire demon boss. But in Expert Iron Tombs, just as Eliam is getting ready to bring you out of the dungeon, the villainous Alsbeth turns him to evil and forces him to unleash a further horror! Then you get to face Eliam himself in Expert Runic Descent -- along with the resurrected shade of the only boss in Realm of the Fae who seemed at all glad to see you... at least until he found out you were standing between him and his BEER.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-18-23-48-26-40-480x480.jpg" title="Infiltrator Johlen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-18-23-48-26-40-480x480.jpg" title="Infiltrator Johlen" classes="center" >}}
 
 Guild is currently stuck on Infiltrator Johlen, second boss in Greenscale Blight, Rift's starter raid. It's a fight in several progressively more scripted phases, and we're working on the last. It's basically a DPS test that heats up as you get toward the end. The first boss, the Baron, tests the guild's ability to follow a script. The second is if the raid can bring a lot of damage to bear at need (and we rogues have a spec we have to adopt before Thursday to this end). Soon, I imagine, we'll have to pass a gear test, which stresses our resistances. That's the WoW model, anyway, and I can't see Rift straying far from that.
 
 Tuesday, River of Souls, the second raid, is on the schedule. I actually prefer the raid rifts. They are quick bits of adventure that give you vast leeway in what kind of build you bring, allowing experimentation and tuning without the high stakes of a formal raid.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-19-08-44-37-11-480x480.jpg" title="Alternate Meridian" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-19-08-44-37-11-480x480.jpg" title="Alternate Meridian" classes="center" >}}
 
 I finally saved the 25,000 planarite required to purchase the "Quantum Sight" planar ability, which allows you to see into alternate Telaras. Now I don't have enough planarite to buy the elemental squirrel pets... I guess those will wait.
 
@@ -64,24 +41,24 @@ Anyway, the very first alternate Telara I got to see was one where the Guardians
 
 My first reaction was, "Grats! Cool! The ENTIRE POPULATION OF MY TELARA **INC**!"
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-19-08-50-19-09-480x480.jpg" title="Quantum Tear in Shimmersands" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-19-08-50-19-09-480x480.jpg" title="Quantum Tear in Shimmersands" classes="center" >}}
 
 Quantum Sight is currently only useful for finding the entrances to new raids, like this one in Shimmersands which opens to a raid vs the bosses of a Telara where the Plane of Earth holds sway.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-19-08-55-48-31-480x480.jpg" title="Plane of Earth boss" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-19-08-55-48-31-480x480.jpg" title="Plane of Earth boss" classes="center" >}}
 
 Thankfully, the whole weird "I'm dying from lack of oxygen" vision thing doesn't last long once you get a little further into the alternate reality. This is the first boss of the instance, which, according to the Wiki, is very heavily scripted.
 
 Just as we'd expect.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-11-20-44-13-88-480x384.jpg" title="Mechahorse" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-11-20-44-13-88-480x384.jpg" title="Mechahorse" classes="center" >}}
 
 [Stingite](http://rift.happydueling.com/) was wondering why he'd never seen any of those faction mount vendors anywhere. They do tend to be squirreled away in hard-to-reach places, but you can find some of those mounts just by looking around Meridian.
 
 Here's my character on the level 50 mecha-steed, bought at the vendor right at the Meridian gates. I didn't have to go far for that. But it was so expensive, that after buying it, I couldn't afford to use the teleportation gates or do soul repair. True story.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-11-20-52-29-48-480x384.jpg "Some critter")](https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-11-20-52-29-48.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-11-20-52-29-48-480x384.jpg" title="Some critter" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-11-20-52-29-48.jpg)
 
-[![](https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-11-20-52-10-81-480x383.jpg "Another critter")](https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-11-20-52-10-81.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-11-20-52-10-81-480x383.jpg" title="Another critter" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-11-20-52-10-81.jpg)
 
 These two mounts are sold at the border between Iron Pine Peaks and Stillmoor, one on one side of the border and the other on the other. Not sure which one is which. Pretty damn fancy, though.

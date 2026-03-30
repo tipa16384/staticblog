@@ -3,50 +3,28 @@ date: '2024-11-27T14:04:28-05:00'
 draft: false
 title: "Odin Sphere: Two dimensions is more than enough"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/11/27/odin-sphere-two-dimensions-is-more-than-enough/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin."
-description: "It's a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin."
-tags:
+categories:
   - "Action Adventure Games"
   - "Action RPG"
   - "PS2"
   - "PS4"
   - "RPG"
+tags:
   - "Atlus"
   - "Odin Sphere"
   - "PS3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/odinsphere.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/11/odinsphere.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/odinsphere.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/odinsphere.png"
 ---
+It's a 2D side-scrolling action RPG about a brave Valkyrie and her overbearing father, Odin.
+<!--more-->
 
 Around the middle part of the 2000s, there was an explosion of 2D side-scrolling MMOs. LaTale, Dragon Saga, MapleStory -- it was a *thing*. And a fun thing! These MMOs tended to be packed with action, NPCs and quests, and they typically had very quick grouping that just begged for your team to take on levels again and again, looking for loot and high scores.
 
 Odin Sphere is if you took one of those MMOs, and just took it offline. Same action, loot, and score at the end, with no other players.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/Odin-Sphere_SLUS-21577_20241126182610-1024x768.png" title="The Forest Witch and Gwendolyn" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/Odin-Sphere_SLUS-21577_20241126182610-1024x768.png" title="The Forest Witch and Gwendolyn" classes="center" >}}
 
 War isn't going well for Odin. Enemies are at the gate; his forces are decimated, and his favorite daughter, Griselda, has just died and begged her sister, Gwendolyn, to return her magic sphere to their father and inform him that she died bravely and well.
 
@@ -58,7 +36,7 @@ The play cycle is to use the map to find the next battle; go there, finish the b
 
 This is a crafting game. You can only wear one item of gear, and none of it is armor. You get a little more attack, a little more defense, a little more experience from eating food or charging your spear, etc. So, though you are no slouch with the spear and have a variety of fun combos, most of the time, you'll be crafting deadly potions (Toxin, Napalm, etc) and using those and the charges from your spear to do your killing. There can be thirty enemies on the screen. You don't want to be taking them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/image-2-1024x765.png" title="First boss fight" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/image-2-1024x765.png" title="First boss fight" classes="center" >}}
 
 Bosses start out big and get bigger, often larger than the screen (and sometimes much larger). On smaller maps, it's possible to run away until you come back around behind them; on larger maps, they'll turn around to meet you coming. Killing minibosses gets you some decent materials (after all, preparation is the key to victory in Odin Sphere, and crafting is the key to preparation). Killing the final boss of a map gets you a little more plot to work with.
 

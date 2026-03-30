@@ -3,38 +3,15 @@ date: '2014-12-22T21:12:36-05:00'
 draft: false
 title: "Grim Dawn: I am a Witch Hunter!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/12/22/at-level-10-i-chose-occultist-as-my-second-class-and-thus-became-a-nightbladeoccultist-aka-witch/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "At level 10, I chose Occultist as my second class, and thus became a Nightblade/Occultist AKA Witch Hunter, which sounded pretty nice. I put enough..."
+categories:
   - "Grim Dawn"
   - "Other Games"
-featured_image: "https://lh6.googleusercontent.com/-Qf8eK-pi61w/VJiHv339cXI/AAAAAAAA88Y/9ND9CJT8JSg/w506-h750/grim%2Bdawn%2B2014-12-22%2B16-03-05-91.jpg"
-cover:
-  image: "https://lh6.googleusercontent.com/-Qf8eK-pi61w/VJiHv339cXI/AAAAAAAA88Y/9ND9CJT8JSg/w506-h750/grim%2Bdawn%2B2014-12-22%2B16-03-05-91.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh6.googleusercontent.com/-Qf8eK-pi61w/VJiHv339cXI/AAAAAAAA88Y/9ND9CJT8JSg/w506-h750/grim%2Bdawn%2B2014-12-22%2B16-03-05-91.jpg"
+thumbnailImage: "https://lh6.googleusercontent.com/-Qf8eK-pi61w/VJiHv339cXI/AAAAAAAA88Y/9ND9CJT8JSg/w506-h750/grim%2Bdawn%2B2014-12-22%2B16-03-05-91.jpg"
 ---
+At level 10, I chose Occultist as my second class, and thus became a Nightblade/Occultist AKA Witch Hunter, which sounded pretty nice. I put enough...
+<!--more-->
 
 At level 10, I chose Occultist as my second class, and thus became a Nightblade/Occultist AKA Witch Hunter, which sounded pretty nice. I put enough points into that to get a raven familiar, then went back to leveling up the Nightblade stuff.
 
@@ -44,6 +21,8 @@ It might be nice to make an Action RPG skin of EverQuest (always EQ) in some gam
 
 (Just checked, players can indeed make their own mods).
 
-Taking a break from  [#GrimDawn](https://plus.google.com/s/%23GrimDawn)  to play some  [#Gauntlet](https://plus.google.com/s/%23Gauntlet)  .﻿[![](https://lh6.googleusercontent.com/-Qf8eK-pi61w/VJiHv339cXI/AAAAAAAA88Y/9ND9CJT8JSg/w506-h750/grim%2Bdawn%2B2014-12-22%2B16-03-05-91.jpg)]()
+Taking a break from  [#GrimDawn](https://plus.google.com/s/%23GrimDawn)  to play some  [#Gauntlet](https://plus.google.com/s/%23Gauntlet)  .﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/TPYsnQict3F)

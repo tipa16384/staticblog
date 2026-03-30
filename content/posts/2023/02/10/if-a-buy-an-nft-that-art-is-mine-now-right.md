@@ -3,43 +3,21 @@ date: '2023-02-10T23:15:20-05:00'
 draft: false
 title: "If I buy an NFT, that art is mine now. Right?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/02/10/if-a-buy-an-nft-that-art-is-mine-now-right/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Of course not. Why do people even think that?"
-description: "Of course not. Why do people even think that?"
-tags:
+categories:
   - "DC Comics"
   - "NFT"
+tags:
   - "Green Lantern"
   - "Harley Quinn"
   - "Palm"
   - "Poison Ivy"
   - "The Last of Us"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/02/mylantern.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/02/mylantern.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/mylantern.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/mylantern.png"
 ---
+Of course not. Why do people even think that?
+<!--more-->
 
 I've been buying and selling DC comics as NFTs on their marketplace. I can read the comic books and make almost all my money back selling them to the next reader. It's totally legal and legit, and I'm enjoying it. There's no particular reason why these have to be NFTs; they could just mark you as the owner in some database somewhere, same way Kindle and Comixology do.
 
@@ -47,7 +25,7 @@ The difference here is that those two marketplaces give you a license to read th
 
 Someone sold an NFT pointing to a digital collage for $69 million a couple years back. It's come out since that the seller and the buyer knew each other, and the sale might have involved some fancy shenanigans with  the money, but that's not important. The question I have -- and have not found the answer to -- is what the buyer actually bought. The collage is free to download by anyone. And, if the artist didn't sign over the copyright of the work to the buyer, then the person who coughed up the $69 million has exactly the same rights to it as anyone else that downloaded it for free -- none. No rights at all.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/02/image-1024x344.png" title="From \"Poison Ivy\" #1, 2022." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/02/image-1024x344.png" title="From \"Poison Ivy\" #1, 2022." classes="center" >}}
 
 As of this writing, I own an NFT for the issue of Green Lantern that introduces Green Lantern #3, John Stewart. I also own an NFT for the first issue of the new Poison Ivy series, which apparently intends to recap the plot of "The Last of Us", for some reason. Bad timing on their part. BTW, the show is great.
 
@@ -63,7 +41,7 @@ But they could come after me if they wanted to, because buying this NFT gets me 
 
 *These NFTs are hosted on [Palm NFT](https://palm.io/faq/), a database service that mimics the Ethereum programming interface, but is not itself running on the Ethereum blockchain. It's just a database with extra steps, but at least I'm not burning down a rainforest each time I turn a page. Because it isn't really on a blockchain, I can't sell these comics (well, the right to read these comics) on some other exchange, either.*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/02/image-1-1024x533.png" title="Harley Quinn #1, 2000. I own this one, too." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/02/image-1-1024x533.png" title="Harley Quinn #1, 2000. I own this one, too." classes="center" >}}
 
 I don't know why I get so worked up about NFTs. I guess because there's nothing they can do that you couldn't do some easier way. People say they bought some art when they haven't. I doubt any of the money I spent on these comics goes to the original writers and artists.
 

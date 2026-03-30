@@ -5,6 +5,23 @@ from urllib.parse import urlparse
 import re
 from html import unescape
 
+WP_UPLOADS_OLD = 'https://chasingdings.com/wp-content/uploads/'
+WP_UPLOADS_NEW = 'https://tipa16384.github.io/wkblog/uploads/'
+WP_BASE_OLD = 'https://chasingdings.com/'
+WP_BASE_NEW = 'https://tipa16384.github.io/wkblog/'
+
+def rewrite_upload_url(text):
+    """Replace all chasingdings.com URLs with GitHub Pages equivalents.
+    Uploads (/wp-content/uploads/) get the 'uploads/' path; all other URLs
+    are rewritten to the new blog base.
+    """
+    if not text:
+        return text
+    # Rewrite uploads first (more specific), then the base domain.
+    text = text.replace(WP_UPLOADS_OLD, WP_UPLOADS_NEW)
+    text = text.replace(WP_BASE_OLD, WP_BASE_NEW)
+    return text
+
 def process_wordpress_content(content_encoded):
     """Convert WordPress HTML content to Markdown"""
     if not content_encoded:
@@ -63,6 +80,17 @@ def process_legacy_content(content):
     
     return '\n\n'.join(paragraphs)
 
+def get_image_class(align):
+    """Determine image class based on alignment.
+    Returns 'fig-20' for left/right aligned images, 'center' otherwise."""
+    if not align:
+        return 'center'
+    # Check if alignment is left or right (various formats)
+    align_lower = align.lower()
+    if 'left' in align_lower or 'right' in align_lower:
+        return 'fig-20'
+    return 'center'
+
 def convert_wordpress_captions(content):
     """Convert WordPress caption shortcodes to Hugo figure shortcodes"""
     # Pattern to match [caption ...]content[/caption]
@@ -113,19 +141,13 @@ def convert_wordpress_captions(content):
         caption_text = re.sub(r' +', ' ', caption_text).strip()
         
         if img_url:
-            # Build the shortcode
-            shortcode_parts = [f'src="{img_url}"']
-            
+            image_class = get_image_class(align)
             if caption_text:
                 # Escape quotes for Hugo shortcode
                 escaped_caption = caption_text.replace('"', '\\"')
-                shortcode_parts.append(f'title="{escaped_caption}"')
-            
-            if align:
-                shortcode_parts.append(f'class="{align}"')
-            
-            shortcode = ' '.join(shortcode_parts)
-            result = f'{{{{< figure {shortcode} >}}}}'
+                result = f'{{{{< image src="{img_url}" title="{escaped_caption}" classes="{image_class}" >}}}}'
+            else:
+                result = f'{{{{< image src="{img_url}" classes="{image_class}" >}}}}'
             return result
         else:
             # Fallback if we can't extract image URL
@@ -174,14 +196,12 @@ def convert_legasy_wp_captions(content):
         if not img_url:
             return caption_content
 
-        shortcode_parts = [f'src="{img_url}"']
+        image_class = get_image_class(align)
         if caption_text:
             escaped_caption = caption_text.replace('"', '\\"')
-            shortcode_parts.append(f'title="{escaped_caption}"')
-        if align:
-            shortcode_parts.append(f'class="{align}"')
+            return f'{{{{< image src="{img_url}" title="{escaped_caption}" classes="{image_class}" >}}}}'
 
-        return f'{{{{< figure {' '.join(shortcode_parts)} >}}}}'
+        return f'{{{{< image src="{img_url}" classes="{image_class}" >}}}}'
 
     return re.sub(caption_pattern, replace_caption, content, flags=re.DOTALL)
 
@@ -219,19 +239,14 @@ def convert_block_editor_figures(content):
             # Clean up WordPress escape sequences
             caption_text = caption_text.replace("\\'", "'").replace('\\"', '"').replace('\\&', '&')
         
-        # Build Hugo shortcode
-        shortcode_parts = [f'src="{img_url}"']
-        
         if caption_text:
             # Escape quotes in caption text for Hugo shortcode
             escaped_caption = caption_text.replace('"', '\\"')
-            shortcode_parts.append(f'title="{escaped_caption}"')
-        
-        if align:
-            shortcode_parts.append(f'class="{align}"')
-        
-        shortcode = ' '.join(shortcode_parts)
-        result = f'{{{{< figure {shortcode} >}}}}'
+            image_class = get_image_class(align)
+            result = f'{{{{< image src="{img_url}" title="{escaped_caption}" classes="{image_class}" >}}}}'
+        else:
+            image_class = get_image_class(align)
+            result = f'{{{{< image src="{img_url}" classes="{image_class}" >}}}}'
         return result
     
     return re.sub(figure_pattern, replace_figure, content, flags=re.DOTALL)
@@ -249,18 +264,34 @@ def convert_html_to_markdown(html_content):
         src_match = re.search(r'src=["\']([^"\']*)["\']', img_tag)
         src = src_match.group(1) if src_match else ""
         
-        # Extract alt text
-        alt_match = re.search(r'alt=["\']([^"\']*)["\']', img_tag)
-        alt = alt_match.group(1) if alt_match else ""
+        # Extract alignment info (could be in align attribute, class, or style)
+        align = ""
+        # Check for align attribute
+        align_match = re.search(r'align=["\']?([^"\'\\s]+)["\']?', img_tag)
+        if align_match:
+            align = align_match.group(1)
+        # Check for alignment classes (alignLeft, alignRight, align-left, align-right)
+        elif re.search(r'(?:align-?(?:left|right)|alignLeft|alignRight)', img_tag, re.IGNORECASE):
+            align = 'aligned'
+        # Check for style attribute with text-align
+        style_match = re.search(r'style=["\']([^"\']*)["\']', img_tag)
+        if style_match and not align:
+            style = style_match.group(1)
+            if 'left' in style.lower():
+                align = 'left'
+            elif 'right' in style.lower():
+                align = 'right'
         
         # Look for title or caption - could be in title attribute or nearby
         title_match = re.search(r'title=["\']([^"\']*)["\']', img_tag)
         title = title_match.group(1) if title_match else ""
-        
+
+        image_class = get_image_class(align)
         if title:
-            return f'![{alt}]({src} "{title}")'
-        else:
-            return f'![{alt}]({src})'
+            escaped_title = title.replace('"', '\\"')
+            return f'{{{{< image src="{src}" title="{escaped_title}" classes="{image_class}" >}}}}'
+
+        return f'{{{{< image src="{src}" classes="{image_class}" >}}}}'
     
     # Convert images
     content = re.sub(r'<img[^>]*/?>', convert_image, content)
@@ -429,7 +460,11 @@ def parse_wordpress_date(wp_date_str):
         return None
 
 def find_featured_image(item, child_items):
-    """Find the featured image URL from postmeta and child items, or first image in content"""
+    """Find featured image URL and whether it came from content fallback.
+
+    Returns:
+        tuple[str | None, bool]: (image_url, used_content_fallback)
+    """
     # First check for _thumbnail_id in postmeta
     thumbnail_id = None
     postmeta_elements = item.findall('.//{http://wordpress.org/export/1.2/}postmeta')
@@ -451,7 +486,7 @@ def find_featured_image(item, child_items):
                 # Found the attachment, get the URL
                 attachment_url_elem = child_item.find('.//{http://wordpress.org/export/1.2/}attachment_url')
                 if attachment_url_elem is not None and attachment_url_elem.text:
-                    return attachment_url_elem.text
+                    return attachment_url_elem.text, False
     
     # No featured image found via postmeta, check content for first image
     content_elem = item.find('.//{http://purl.org/rss/1.0/modules/content/}encoded')
@@ -465,9 +500,122 @@ def find_featured_image(item, child_items):
         
         if img_matches:
             # Return the first image URL found
-            return img_matches[0]
+            return img_matches[0], True
     
-    return None
+    return None, False
+
+def remove_promoted_featured_image(post_content, featured_image_url):
+    """Remove the first in-body image when it has been promoted to featured image."""
+    def normalize_after_removal(content):
+        # Keep intentional leading spacing (e.g., when first body image is removed)
+        # while preventing runaway blank-line expansion.
+        content = re.sub(r'\n{3,}', '\n\n', content)
+        return content.rstrip()
+
+    if not post_content:
+        return post_content
+
+    # Try the most precise removals first: match image blocks that reference the promoted URL.
+    if featured_image_url:
+        escaped_url = re.escape(featured_image_url)
+
+        # Hugo figure shortcode generated from captions/block figures.
+        content, count = re.subn(
+            rf'\n?[ \t]*\{{\{{<\s*image\s+[^>]*src="{escaped_url}"[^>]*>\}}\}}[ \t]*\n?',
+            '\n\n',
+            post_content,
+            count=1,
+            flags=re.IGNORECASE,
+        )
+        if count:
+            return normalize_after_removal(content)
+
+        # Markdown image with optional title.
+        content, count = re.subn(
+            rf'\n?[ \t]*!\[[^\]]*\]\({escaped_url}(?:\s+"[^"]*")?\)[ \t]*\n?',
+            '\n\n',
+            post_content,
+            count=1,
+        )
+        if count:
+            return normalize_after_removal(content)
+
+    # Fallback: remove the first image-like element if URL-specific matching failed.
+    content, count = re.subn(
+        r'\n?[ \t]*\{{\{{<\s*image\s+[^>]*>\}}\}}[ \t]*\n?',
+        '\n\n',
+        post_content,
+        count=1,
+        flags=re.IGNORECASE,
+    )
+    if count:
+        return normalize_after_removal(content)
+
+    content, count = re.subn(
+        r'\n?[ \t]*!\[[^\]]*\]\([^\)]*\)[ \t]*\n?',
+        '\n\n',
+        post_content,
+        count=1,
+    )
+    if count:
+        return normalize_after_removal(content)
+
+    return post_content
+
+def markdown_to_plain_text(text):
+    """Convert markdown-ish text to plain text for metadata fields."""
+    if not text:
+        return ""
+
+    plain = unescape(text)
+
+    # Remove Hugo shortcodes from metadata text.
+    plain = re.sub(r'\{\{<[^>]+>\}\}', ' ', plain)
+
+    # Keep visible text, drop markdown URL wrappers.
+    plain = re.sub(r'!\[([^\]]*)\]\([^\)]*\)', r'\1', plain)
+    plain = re.sub(r'\[([^\]]+)\]\([^\)]*\)', r'\1', plain)
+
+    # Remove common markdown decorations.
+    plain = re.sub(r'`([^`]*)`', r'\1', plain)
+    plain = re.sub(r'\*\*([^*]+)\*\*', r'\1', plain)
+    plain = re.sub(r'__([^_]+)__', r'\1', plain)
+    plain = re.sub(r'\*([^*]+)\*', r'\1', plain)
+    plain = re.sub(r'_([^_]+)_', r'\1', plain)
+    plain = re.sub(r'~~([^~]+)~~', r'\1', plain)
+
+    # Remove HTML tags and line-level markdown tokens.
+    plain = re.sub(r'<[^>]+>', ' ', plain)
+    plain = re.sub(r'(?m)^\s{0,3}(?:[-*+]\s+|\d+\.\s+|>\s*)', '', plain)
+    plain = re.sub(r'(?m)^\s{0,3}#{1,6}\s*', '', plain)
+
+    plain = re.sub(r'\s+', ' ', plain).strip()
+    return plain
+
+def extract_first_25_words(post_content):
+    """Extract the first 25 words from the first non-image content block."""
+    if not post_content:
+        return ""
+
+    blocks = re.split(r'\n\s*\n', post_content)
+    for block in blocks:
+        text = block.strip()
+        if not text:
+            continue
+
+        # Skip image-only blocks and image shortcodes.
+        if re.fullmatch(r'\{\{<\s*image\s+[^>]*>\}\}', text, flags=re.IGNORECASE):
+            continue
+
+        # Keep paragraph text compact for YAML front matter.
+        text = markdown_to_plain_text(text)
+        if text:
+            words = text.split()
+            if not words:
+                return ""
+            return " ".join(words[:25]) + "..."
+
+    return ""
 
 def extract_and_normalize_taxonomies(item, tag_normalization_dict):
     """Extract categories and tags from WordPress item and normalize them"""
@@ -495,11 +643,14 @@ def extract_and_normalize_taxonomies(item, tag_normalization_dict):
         if term_text in tag_normalization_dict:
             # Get the normalized tuple (type, normalized_name)
             normalized_type, normalized_name = tag_normalization_dict[term_text]
-            
-            if normalized_type not in taxonomy_dict:
-                taxonomy_dict[normalized_type] = []
-            if normalized_name not in taxonomy_dict[normalized_type]:
-                taxonomy_dict[normalized_type].append(normalized_name)
+        else:
+            # Pass through unchanged under its original type
+            normalized_type, normalized_name = term_type, term_text
+
+        if normalized_type not in taxonomy_dict:
+            taxonomy_dict[normalized_type] = []
+        if normalized_name not in taxonomy_dict[normalized_type]:
+            taxonomy_dict[normalized_type].append(normalized_name)
     
     return taxonomy_dict
 
@@ -565,17 +716,27 @@ def create_hugo_post(item, child_items=None, tag_normalization_dict=None, tags_o
     else:
         normalized_title = "Untitled"
 
-    # Add summary when excerpt:encoded has content.
-    summary_text = ""
+    # Rewrite chasingdings.com URLs to new host
+    link_url = rewrite_upload_url(link_url)
+
+    # Process the WordPress content to Markdown
+    post_content = rewrite_upload_url(process_wordpress_content(content_encoded))
+    
+    # Find featured image from postmeta and child items
+    featured_image_url, used_content_fallback = find_featured_image(item, child_items)
+    featured_image_url = rewrite_upload_url(featured_image_url)
+
+    # If the featured image is promoted from the first in-body image, remove it from content.
+    if used_content_fallback and featured_image_url:
+        post_content = remove_promoted_featured_image(post_content, featured_image_url)
+
+    # Use explicit excerpt when available; otherwise use the first 25 words.
     if excerpt_encoded.strip():
         summary_text = re.sub(r'[\r\n]+', ' ', excerpt_encoded)
         summary_text = re.sub(r'\s+', ' ', summary_text).strip()
-    
-    # Process the WordPress content to Markdown
-    post_content = process_wordpress_content(content_encoded)
-    
-    # Find featured image from postmeta and child items
-    featured_image_url = find_featured_image(item, child_items)
+        summary_text = markdown_to_plain_text(summary_text)
+    else:
+        summary_text = extract_first_25_words(post_content)
     
     # Extract and normalize categories and tags
     taxonomies = extract_and_normalize_taxonomies(item, tag_normalization_dict)
@@ -608,61 +769,26 @@ def create_hugo_post(item, child_items=None, tag_normalization_dict=None, tags_o
         "draft: false",
         f"title: \"{escape_yaml_string(normalized_title)}\"",
         "author: \"Tipa\"",
-        "showToc: true",
-        "TocOpen: false",
-        "hidemeta: false",
-        "comments: false",
-        f"canonicalURL: \"{escape_yaml_string(link_url)}\"",
-        "disableHLJS: false",
-        "disableShare: false",
-        "hideSummary: false",
-        "searchHidden: true",
-        "ShowReadingTime: true",
-        "ShowBreadCrumbs: true",
-        "ShowPostNavLinks: true",
-        "ShowWordCount: true",
-        "ShowRssButtonInSectionTermList: true",
-        "UseHugoToc: true",
     ]
 
     frontmatter_lines.append(f"summary: \"{escape_yaml_string(summary_text)}\"")
-    if summary_text:
-        frontmatter_lines.append(f"description: \"{escape_yaml_string(summary_text)}\"")
-    else:
-        frontmatter_lines.append("description: \"Desc Text.\"")
-    
-    # Combine categories and tags into a single tags array.
-    all_tags = []
-    if 'category' in taxonomies and taxonomies['category']:
-        all_tags.extend(taxonomies['category'])
-    if 'tag' in taxonomies and taxonomies['tag']:
-        all_tags.extend(taxonomies['tag'])
-    all_tags = dedupe_preserve_order(all_tags)
 
-    if all_tags:
-        frontmatter_lines.append(yaml_list_block("tags", all_tags))
-    else:
-        frontmatter_lines.append("tags:")
-        frontmatter_lines.append("  - \"first\"")
-    
+    categories = dedupe_preserve_order(taxonomies.get('category', []))
+    tags = dedupe_preserve_order(taxonomies.get('tag', []))
+
+    if categories:
+        frontmatter_lines.append(yaml_list_block("categories", categories))
+
+    if tags:
+        frontmatter_lines.append(yaml_list_block("tags", tags))
+
     escaped_featured = escape_yaml_string(featured_image_url) if featured_image_url else ""
-    frontmatter_lines.append(f"featured_image: \"{escaped_featured}\"")
-    frontmatter_lines.append("cover:")
     if escaped_featured:
-        frontmatter_lines.append(f"  image: \"{escaped_featured}\"")
-    else:
-        frontmatter_lines.append("  image: \"<image path/url>\"")
-    frontmatter_lines.append("  alt: \"<alt text>\"")
-    frontmatter_lines.append("  caption: \"<text>\"")
-    frontmatter_lines.append("  relative: false")
-    frontmatter_lines.append("  hidden: false")
+        frontmatter_lines.append(f"coverImage: \"{escaped_featured}\"")
+        frontmatter_lines.append(f"thumbnailImage: \"{escaped_featured}\"")
 
-    frontmatter_lines.append("editPost:")
-    frontmatter_lines.append("  URL: \"https://github.com/tipa16384/staticblog/tree/main/content\"")
-    frontmatter_lines.append("  Text: \"Suggest Changes\"")
-    frontmatter_lines.append("  appendFilePath: true")
-
-    frontmatter = "\n".join(frontmatter_lines) + f"\n---\n\n{post_content}\n"
+    body_prefix = f"{summary_text}\n<!--more-->\n\n" if summary_text else "<!--more-->\n\n"
+    frontmatter = "\n".join(frontmatter_lines) + f"\n---\n{body_prefix}{post_content}\n"
     
     # Write the file
     try:

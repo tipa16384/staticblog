@@ -3,47 +3,25 @@ date: '2008-12-08T09:41:02-05:00'
 draft: false
 title: "Shin Megami Tensei: Uberer than thou"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/08/shin-megami-tensei-uberer-than-thou/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Constant disconnects making it impossible to finish any instanced dungeons are getting a little bit aggravating. Talking to other SMT testers while playing DOMO confirms..."
+categories:
   - "MMORPG"
   - "Shin Megami Tensei"
+tags:
   - "Closed Beta"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-08-08-19-53-66.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-08-08-19-53-66.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-08-08-19-53-66.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-08-08-19-53-66.jpg"
 ---
+Constant disconnects making it impossible to finish any instanced dungeons are getting a little bit aggravating. Talking to other SMT testers while playing DOMO confirms...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-08-08-19-53-66.jpg "imagineclient-2008-12-08-08-19-53-66")
+
 
 Constant disconnects making it impossible to finish any instanced dungeons are getting a little bit aggravating. Talking to other SMT testers while playing DOMO confirms it: It is hard to get a really good sense for the Megaten closed beta when it's so hard to stay connected in dungeons.
 
 And dungeons (and groups to do them with) are vitally important to advancing in Megaten. The loot dropped there sells for a lot, the experience is 5-10x better than in the outside world, you can gain access to more powerful demons ages before you could get them via fusion... Dungeons are central to SMT, and when they aren't working, it's just frustrating.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-06-19-33-40-73.jpg "imagineclient-2008-12-06-19-33-40-73")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-06-19-33-40-73.jpg" title="imagineclient-2008-12-06-19-33-40-73" classes="center" >}}
 
 Especially when it's clear people are having some success in them. I'm always hearing people calling for groups for the higher level dungeons, and the people in my guild seem to be exclusively running the higher instances.
 
@@ -51,7 +29,7 @@ It's so easy to tell the uber people apart in this game. They have the best demo
 
 That's the way I feel sometimes :P
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/imagineclient-2008-12-07-01-07-04-65.jpg "imagineclient-2008-12-07-01-07-04-65")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/imagineclient-2008-12-07-01-07-04-65.jpg" title="imagineclient-2008-12-07-01-07-04-65" classes="center" >}}
 
 This is a particularly disturbing demon, basically a woman with a bushy tail walking on all fours. This one isn't mine -- the greenish dog looking one is mine.
 

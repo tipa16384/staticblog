@@ -3,37 +3,12 @@ date: '2006-06-23T00:00:00-05:00'
 draft: false
 title: "Blue Oyster Cult and EQ2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/23/blue-oyster-cult-and-eq/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Anyone who knows me knows my favorite rock band... Blue Oyster Cult. My kids love them, too, because growing up, what choice did they have?..."
+categories:
   - "EverQuest"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Anyone who knows me knows my favorite rock band... Blue Oyster Cult. My kids love them, too, because growing up, what choice did they have?...
+<!--more-->
 
 Anyone who knows me knows my favorite rock band... Blue Oyster Cult. My kids love them, too, because growing up, what choice did they have? My daughter claimed "Hot Rails to Hell" was her favorite song when she was little; my son still sings along to "Godzilla" (and guess what song ALWAYS has to appear on my Guitar Hero set list?)
 

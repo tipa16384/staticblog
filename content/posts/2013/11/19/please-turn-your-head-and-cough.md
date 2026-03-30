@@ -3,40 +3,17 @@ date: '2013-11-19T08:11:48-05:00'
 draft: false
 title: "Please Turn Your Head and Cough"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/11/19/please-turn-your-head-and-cough/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Since Kasul and I hit max level and got geared up, our weekly group nights are no longer about quests and dungeons and stuff. It's..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-18-21-35-03-58.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-18-21-35-03-58.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/GameClient-2013-11-18-21-35-03-58.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/GameClient-2013-11-18-21-35-03-58.jpg"
 ---
+Since Kasul and I hit max level and got geared up, our weekly group nights are no longer about quests and dungeons and stuff. It's...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-18-21-35-03-58.jpg" title="Kasul gets ready for his exam as Nina looks on" class="align-center" >}}
+
 
 Since Kasul and I hit max level and got geared up, our weekly group nights are no longer about quests and dungeons and stuff. It's all about the Foundry, running the boundless stories players create. Sometimes they have well-designed locales and the writing is spot-on funny and clever. Usually... not.
 
@@ -44,7 +21,7 @@ Last night's adventures included one of the _strangest_ stories we've ever playe
 
 I wasn't a fan, at first, of the rampant fourth-wall breaking, but the rampant silliness of the whole adventure just had me smiling all the way through, and I ended up giving it four stars (out of five).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/GameClient-2013-11-11-23-13-07-60.jpg" title="Rallos Zek?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/GameClient-2013-11-11-23-13-07-60.jpg" title="Rallos Zek?" classes="center" >}}
 
 I've a real weakness for foundry adventures that copy well-known locations from other MMOs. We very much enjoyed the two missions set in World of Warcraft's Scarlet Monastery; we were excited to try the two EverQuest adventures put into the game.
 

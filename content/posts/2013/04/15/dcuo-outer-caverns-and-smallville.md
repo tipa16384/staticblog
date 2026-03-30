@@ -3,40 +3,17 @@ date: '2013-04-15T06:50:53-05:00'
 draft: false
 title: "DCUO: Outer Caverns and Smallville"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/04/15/dcuo-outer-caverns-and-smallville/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After last week's very narrow defeat by the Scion of Fear in the STAR Labs Research Facility, we were all kinda hoping that STAR Labs..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/04/INTCHARLIGHTRIG_NEUT-PC-14-23.22.290-480x299.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/04/INTCHARLIGHTRIG_NEUT-PC-14-23.22.290-480x299.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/INTCHARLIGHTRIG_NEUT-PC-14-23.22.290-480x299.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/INTCHARLIGHTRIG_NEUT-PC-14-23.22.290-480x299.jpg"
 ---
+After last week's very narrow defeat by the Scion of Fear in the STAR Labs Research Facility, we were all kinda hoping that STAR Labs...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/INTCHARLIGHTRIG_NEUT-PC-14-23.22.290-480x299.jpg" title="Beating up the Bats" class="align-center" >}}
+
 
 After last week's very narrow defeat by the Scion of Fear in the STAR Labs Research Facility, we were all kinda hoping that STAR Labs would be, again, the daily double. Spode and Sting have in the last week both ascended to Tier Threedom and are sporting new armors and higher combat ratings, while Kaptain KY and I still suffer in Tier 2.
 
@@ -54,7 +31,7 @@ Brother Eye transforms the heroes into OMACs BW-01, NW-01, R-01 and HT-01, so no
 
 This, we did. First try, even, but it took awhile to figure out what was happening.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/MADV110_AUDIO-PC-15-00.04.320-480x300.jpg" title="Here's your lab coat and your PhD, now go do science." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/04/MADV110_AUDIO-PC-15-00.04.320-480x300.jpg" title="Here's your lab coat and your PhD, now go do science." classes="center" >}}
 
 Must be nice to be an engineer or a scientist in the DC Universe. Your mechanism or virus or whatever may go horribly wrong, but it's never going to be caught in a null pointer error and just stop working entirely five minutes after start-up. No, it's gonna take Superman to install a breakpoint in THAT code.
 

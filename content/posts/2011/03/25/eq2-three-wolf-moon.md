@@ -3,47 +3,24 @@ date: '2011-03-25T06:37:35-05:00'
 draft: false
 title: "EQ2: Three Wolf Moon"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/03/25/eq2-three-wolf-moon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Lore text: This cloak will make you more desirable! Also has the property of featherfall...."
+categories:
   - "EverQuest"
   - "Humor"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg"
 ---
+Lore text: This cloak will make you more desirable! Also has the property of featherfall....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-25-07-16-23-57.jpg" title="Three Wolf Moon cloak" class="align-center" >}}
+
 
 Lore text: This cloak will make you more desirable! Also has the property of featherfall.
 
 And why it's particularly funny...
 
-[![2017 called, but I couldn](http://imgs.xkcd.com/comics/2009_called.png "2017 called, but I couldn")](http://xkcd.com/875/)
+[{{< image src="http://imgs.xkcd.com/comics/2009_called.png" title="2017 called, but I couldn" classes="center" >}}](http://xkcd.com/875/)
 
 The whole "Three Wolf Moon" phenomenon started with [this comment on Amazon.com](http://www.amazon.com/review/R2XKMDXZHQ26YX/ref=cm_cr_dp_perm?ie=UTF8&ASIN=B002HJ377A&nodeID=1036592&tag=&linkCode=), and from there took on a life of its own (and spawned [hundreds of imitators](http://www.threadless.com/submission/222011/Three_Keyboard_Cat_Moon)):
 

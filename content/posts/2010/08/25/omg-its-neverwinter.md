@@ -3,43 +3,21 @@ date: '2010-08-25T07:10:07-05:00'
 draft: false
 title: "OMG! It's Neverwinter!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/25/omg-its-neverwinter/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I find, these days, that I don't make that much of a distinction between online RPGs -- even Massive ones -- and offline, single player..."
+categories:
   - "MMORPG"
   - "Neverwinter"
   - "Star Trek"
+tags:
   - "Champions Online"
   - "Cryptic"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-74125-AM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-74125-AM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-74125-AM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-74125-AM.jpg"
 ---
+I find, these days, that I don't make that much of a distinction between online RPGs -- even Massive ones -- and offline, single player...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-74125-AM.jpg "It never snows in Neverwinter!")
+
 
 I find, these days, that I don't make that much of a distinction between online RPGs -- even Massive ones -- and offline, single player RPGs. The only real difference is who I am playing with. Offline ones, I tend to chat with people about the game as I play on Twitter or somewhat slowly via this blog. Online, I chat with people about the game in game.
 

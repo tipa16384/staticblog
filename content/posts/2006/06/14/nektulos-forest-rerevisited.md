@@ -3,39 +3,16 @@ date: '2006-06-14T00:00:00-05:00'
 draft: false
 title: "Nektulos Forest (Re-)Revisited"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/14/nektulos-forest-rerevisited/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm not a fan of what they did to some of the old classic EQ1 zones with the Depths of Darkhollow and Prophecy of Ro...."
+categories:
   - "EverQuest"
-featured_image: "https://chasingdings.com/images/newnek1.jpg"
-cover:
-  image: "https://chasingdings.com/images/newnek1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/newnek1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/newnek1.jpg"
 ---
+I'm not a fan of what they did to some of the old classic EQ1 zones with the Depths of Darkhollow and Prophecy of Ro....
+<!--more-->
 
-![](https://chasingdings.com/images/newnek1.jpg)
+
 
 I'm not a fan of what they did to some of the old classic EQ1 zones with the Depths of Darkhollow and Prophecy of Ro. What possibly reason is there to take the old cities and forests we loved for all their faults and simplicity and make them crushingly dark, ugly and depressing?
 
@@ -47,4 +24,4 @@ The EQ1 devs have just got to face the facts here. EQ1 is an old game, and a pow
 
 Anyway, kudos to the devs. Now, I'll let you make my old Misty Thicket nicer. But if you're going to destroy Rivervale like you destroyed Freeport, please pass on by.
 
-![](https://chasingdings.com/images/newnek2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/newnek2.jpg" classes="center" >}}

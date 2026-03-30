@@ -3,48 +3,26 @@ date: '2023-08-22T07:00:00-05:00'
 draft: false
 title: "Scraping BattleTech"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/22/scraping-battletech/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "What was that old saying? \"Information wants to be free\"?"
-description: "What was that old saying? \"Information wants to be free\"?"
-tags:
+categories:
   - "3D Printing"
   - "Blaugust"
   - "Blaugust 2023"
+tags:
   - "Battletech"
   - "Frostgrave"
   - "Warhammer"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/scapingbattletech.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/scapingbattletech.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/scapingbattletech.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/scapingbattletech.png"
 ---
+What was that old saying? "Information wants to be free"?
+<!--more-->
 
 We're mostly board gamers in this house. Sure, we play and enjoy a lot of video games. But board games are a passion. I occasionally blog about what we're up to, and I should do more of that.
 
 But what none of you know, probably, is that we would very much like to be into the tabletop miniatures games. These are games like Warhammer 40K, Star Fleet Battles and other games of similar ilk where you bring your armies of miniatures and set them across the table from someone else's army.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/IMG_2177-1024x768.jpg" title="Part of my Frostgrave army, AKA \"the good guys\"" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_2177-1024x768.jpg" title="Part of my Frostgrave army, AKA \"the good guys\"" classes="center" >}}
 
 The first game of this sort we played was Frostgrave, for which I printed -- and painted -- a metric crap tonne of terrain. I used mostly the minis I'd printed after playing Octopath Traveler for my army, with a special custom character for my main wizard. Not sure what units my boyfriend played with. I may have had too much terrain printed for our small kitchen table, actually.
 

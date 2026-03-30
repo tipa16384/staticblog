@@ -3,46 +3,25 @@ date: '2007-04-11T22:55:55-05:00'
 draft: false
 title: "LotRO: The Run to Rivendell"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/04/11/lotro-the-run-to-rivendell/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "And then I ran into Marcy down at the Inn and she was wearing this little padded number that I just knew she made to..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/04/lotro-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/04/lotro-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-1.jpg"
 ---
+And then I ran into Marcy down at the Inn and she was wearing this little padded number that I just knew she made to...
+<!--more-->
 
-![lotro-1.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-1.jpg)*And then I ran into Marcy down at the Inn and she was wearing this little padded number that I just knew she made to catch the eye of old Bounder Dono. And anyway we were talking about 'you-know-who' and who do you think walked in right then? Hey, are you even **listening** to me anymore? **HELLO?***
+
+
+*And then I ran into Marcy down at the Inn and she was wearing this little padded number that I just knew she made to catch the eye of old Bounder Dono. And anyway we were talking about 'you-know-who' and who do you think walked in right then? Hey, are you even **listening** to me anymore? **HELLO?***
 
 When I was a lot younger and driving was still fun, I set off from Concord, NH to go downtown and get some lunch. That may have been the day I ended up fifty miles away in Keene. Or maybe that was the time I just pointed north and kept driving until I hit Quebec, where I bought dinner, turned around, and drove home.
 
 I still do that. Tonight, running around Ered Luin and the Breelands collecting quests for the Day Turbine Lifts The Level Cap, I decided to point myself west toward the Last Homely House and keep going until I got there.
 
-![lotro-2.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-2.jpg" classes="center" >}}
 
 *The border between the Shire and the Bree-lands*
 
@@ -50,13 +29,13 @@ If wishes were horses, beggars would ride, but the prices for rides are outrageo
 
 I stopped to try some quests in the Old Forest. I'd heard some tricksy hobbitses had been through there, but they were evidently made of sterner stuff than I and the creatures there soon defeated me. I returned to the encampment along the Old East Road to shake off my doom.
 
-![lotro-3.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-3.jpg" classes="center" >}}
 
 *Outside Bree, just north of the Old Forest*
 
 There was a lot of guild (err, kinship) recruiting going on. The Flaming Fugbusters were looking for more, the Dastardly Drones needed people, all sorts of guilds with all sorts of names. I wondered aloud if there were any guilds called "Snooty, Stuck-Up Elves Who Think They're Better Than Everyone Else", because heck, I'd join a guild like that.
 
-![lotro-4.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-4.jpg)Some snarky wag suggested I go make one myself.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-4.jpg" classes="fig-20" >}}Some snarky wag suggested I go make one myself.
 
 One quick trip to Bree *later*, and the "Snooty Elves" were born. In a day the "Snoots", as they are lovingly called, will disappear as I am the only member and need five more to keep it alive, but I don't care. I was ready to continue my trip to Rivendell certain now that Elrond would welcome me with open arms.
 
@@ -64,13 +43,13 @@ Because apparently he'd FORGOTTEN how I'd helped out all those centuries before.
 
 Oops... don't think I was supposed to mention that. So just forget I said anything about it. Hey, nice day today, wasn't it?
 
-![lotro-5.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-5.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-5.jpg" classes="center" >}}
 
 *Low Lands, Somewhat near Weathertop*
 
 Continuing on, I crossed into the low lands, which couldn't have looked more like Tolkein's paintings of the region if J.R.R. had been a Turbine art director. The low lands start off at an easy level 17-18, and many people were questing on the fringes. At the other end of the map, the critters are in the mid to high 20s and getting pretty scary. After THAT was the Trollsharm, and all the monsters THERE were in their 30s!
 
-![lotro-6.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-6.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-6.jpg" classes="center" >}}
 
 *Nazguul washing - 10s for the cloak, 5s for the mount, limit nine.*
 
@@ -78,19 +57,19 @@ Finally and at last, I stood in the waters that protect Imladris from evil influ
 
 I thought, being an elf (and a quite snooty one at that), that Elrond would place no barriers in my path. Well, I guess he didn't, except for the level 34-38 bears, bugs and badgers! Luckily, few critters in LotRO can keep up with someone running away (like PCs, NPCs can't attack use special moves while themselves moving, so every time a critter tries to do something savage, they fall behind).
 
-![lotro-7.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-7.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-7.jpg" classes="center" >}}
 
 *Rivindell postcards are 50 cents in the motel lobby*
 
 Finally, looking down into the valley from the heights of the Gates of Imladris... Rivendell, the Last Homely House. It was an easy trip down, but my hopes that I would be the first player to reach this legendary place were crushed. There were lots of people running around.
 
-![lotro-8.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-8.jpg) Gandalf and Elrond wanted to see me *immediately*. "We have come to a decision," they said, together as if rehearsed. "We can't allow a simple Hobbit to go to Mordor. That is a job for an Elf. Get the Ring and get thee gone. It is important. You must not fail us."
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-8.jpg" classes="fig-20" >}} Gandalf and Elrond wanted to see me *immediately*. "We have come to a decision," they said, together as if rehearsed. "We can't allow a simple Hobbit to go to Mordor. That is a job for an Elf. Get the Ring and get thee gone. It is important. You must not fail us."
 
 "I will not, Gandalf. Oh, and Elrond," I said with a wink, "you left your underwear at my place last night. So I decided to wear it. I'm wearing it right now. Does that make you hot?"
 
 Anyway, so they kicked me out and said something about finding someone else.
 
-![lotro-9.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-9.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-9.jpg" classes="center" >}}
 
 I ran into Frodo downstairs. I don't mean I just happened to see him while wandering about... I started from the spiral stair and had a pretty good head of steam going when I ran into him. He was still wondering what happened, when I found his Ring on the floor. "Bingo," I whispered to myself.
 
@@ -100,9 +79,9 @@ I ran into Frodo downstairs. I don't mean I just happened to see him while wande
 
 Frodo's face turned purple. "My...! OMG!" He turned out all his pockets and tore off his vest. "BIIILLLLBOOOOO!" Then he ran off.
 
-![lotro-10.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-10.jpg) "He's gone", I told Aragorn, using an ancient tongue so he could see I told only the simple truth. "He has set out for Mordor alone. You must follow him and keep him safe! The future of Middle Earth is in your hands!"
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-10.jpg" classes="fig-20" >}} "He's gone", I told Aragorn, using an ancient tongue so he could see I told only the simple truth. "He has set out for Mordor alone. You must follow him and keep him safe! The future of Middle Earth is in your hands!"
 
-![lotro-11.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-11.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-11.jpg" classes="center" >}}
 
 "Sam," I said. "Your master has gone alone to Mordor. I will take you to him so you can keep him safe. We must leave immediately!"
 

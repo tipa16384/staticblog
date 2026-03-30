@@ -3,40 +3,19 @@ date: '2011-04-08T06:48:35-05:00'
 draft: false
 title: "EQ2: The Outpost of the Overlord"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/04/08/eq2-the-outpost-of-the-overlord/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24-480x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24-480x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24-480x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24-480x480.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24-480x480.jpg "Alone in the Outpost")](https://chasingdings.com/wp-content/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/04/EverQuest2-2011-04-08-07-32-27-24.jpg)
 
 Being the only player in the Outpost of the Overlord is like being the only kid at Disneyland. Rides aren't as fun without someone else there! But at level 10, there's absolutely nothing that gives my little coercer any experience.
 

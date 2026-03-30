@@ -3,37 +3,12 @@ date: '2006-03-31T00:00:00-05:00'
 draft: false
 title: "MythTV: Death of Glyph"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/03/31/mythtv-death-of-glyph/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My struggle to remember to watch TV continues. Last night, I installed MythTV on my Linux box, Baphomet. MythTV is an open source, free software..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+My struggle to remember to watch TV continues. Last night, I installed MythTV on my Linux box, Baphomet. MythTV is an open source, free software...
+<!--more-->
 
 My struggle to remember to watch TV continues. Last night, I installed [MythTV](http://mythtv.org) on my [Linux](http://www.gentoo.org/) box, [Baphomet](http://en.wikipedia.org/wiki/Baphomet). MythTV is an open source, free software solution to give [Tivo](http://www.tivo.com/)-like capability to computers of all sorts. I don't have a [video capture card](http://www.hauppauge.com/) yet, but I went ahead and installed it anyway. Brought up the [program guide](http://www.zap2it.com/) and wow, there are LOTS of shows I would like to watch! [Anime](http://www.cartoonnetwork.com/), [Simpsons](http://www.thesimpsons.com/), [Family Guy](http://www.familyguy.com/), SF shows I never saw before, just bunches and bunches of things.
 

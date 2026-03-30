@@ -3,42 +3,17 @@ date: '2007-11-12T01:39:28-05:00'
 draft: false
 title: "EQ2: Tier 8 Tailoring"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/12/eq2-tier-8-tailoring/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I promise, this is the last screenshot of clothing :) I logged on tonight, scoured the broker for the rare hides and other stuff I'd..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/tailoring.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/tailoring.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/tailoring.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/tailoring.jpg"
 ---
+I promise, this is the last screenshot of clothing :) I logged on tonight, scoured the broker for the rare hides and other stuff I'd...
+<!--more-->
 
 I promise, this is the last screenshot of clothing :) I logged on tonight, scoured the broker for the rare hides and other stuff I'd need, and made some Tier 8 clothes.
-
-![tailoring.jpg](https://chasingdings.com/wp-content/uploads/2007/11/tailoring.jpg)
 
 The first is the level 80 dress -- BLACK! Finally! It looks great... well, considering it looks like every other dress (except all black), maybe it's not the most amazing thing in the world, but it matches my mask so I'm fine with it.
 

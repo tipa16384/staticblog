@@ -3,40 +3,17 @@ date: '2010-02-22T01:35:54-05:00'
 draft: false
 title: "Star Trek Online: Taking Command"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/22/star-trek-online-taking-command/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I made Captain in Star Trek Online tonight; that's level 31 if you're all crass and number-using. We leave those sorts of things to our..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-21-16-00-30-10.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-21-16-00-30-10.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-21-16-00-30-10.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-21-16-00-30-10.jpg"
 ---
+I made Captain in Star Trek Online tonight; that's level 31 if you're all crass and number-using. We leave those sorts of things to our...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-21-16-00-30-10.jpg "Captain Tipa")
+
 
 I made Captain in Star Trek Online tonight; that's level 31 if you're all crass and number-using. We leave those sorts of things to our holographic life forms. They really seem to enjoy it.
 
@@ -46,7 +23,7 @@ I have moved away from science vessels. I find having the ability to tank and fi
 
 Before I leveled into a new PvP tier, I spent a few hours having burny fun with the Klingon Empire. Space PvP was frustrating; Klingons would swarm and take out every Federation ship in seconds, so that was more or less pointless. After I tired of hoping my ship's explosion would miraculously take out the Klingon fleet, I focused on ground PvP, where the matches went about 50/50, Klingon vs Federation. That's really where my Science abilities shine.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-21-15-25-19-34.jpg "The USS Manchester dwarfs nearby ships.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-21-15-25-19-34.jpg" title="The USS Manchester dwarfs nearby ships." classes="center" >}}
 
 Eventually, I got to the point where I just wanted to level, dammit, and see my new ship -- the USS Manchester, seen above dwarfing the lesser ships near it. That thing is HUGE. As in EVE, you don't really get an idea for the size of your ship without something to show its scale.
 
@@ -54,7 +31,7 @@ It isn't a simple ship to fly. In fact, 'out of the box', the long range cruiser
 
 I boosted my weapon power up nearly to the max, with shields about normal, and speed and auxiliary systems slightly below normal. Engineering consoles (the l.r. cruiser fits three) boosts the speed back up to normal and manage the power flow to the various subsystems, while tactical consoles improve key weapon performance. The result: an express locomotive right down the throat of an enemy battleship. Ramming speed just adds a little *je ne sais quois* -- a little spice, perhaps -- to the mix.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-21-11-27-59-08.jpg "The wall-sized plasma screen department at Hirogen")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-21-11-27-59-08.jpg" title="The wall-sized plasma screen department at Hirogen" classes="center" >}}
 
 Oh yeah, I've been telling the crew I'm going to get a new wall-sized plasma TV for the rec area. I wonder what the warranty is like on these...
 

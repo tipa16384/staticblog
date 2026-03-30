@@ -3,40 +3,17 @@ date: '2009-05-31T08:33:15-05:00'
 draft: false
 title: "Adventures in Computer Science: Monopoly board computer"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/31/adventures-in-computer-science-monopoly-board-computer/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yesterday, Bear was caught in a bind because he didn't have a computer to run the Champions Online beta. He didn't know that he was..."
+categories:
   - "Adventures in Monopoly"
   - "Asides"
   - "General"
   - "My Work"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/turingopoly.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/11/turingopoly.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/turingopoly.jpg"
 ---
+Yesterday, Bear was caught in a bind because he didn't have a computer to run the Champions Online beta. He didn't know that he was...
+<!--more-->
 
 Yesterday, Bear was caught in a bind because he didn't have a computer to run the Champions Online beta. He didn't know that he was standing on a computer -- the Monopoly board itself.
 
@@ -73,6 +50,6 @@ while True:
     for i in range((2*maxchromos)/3):
         if random() 
 
-The complete set of instructions for running your own Monopoly board computer [are found here](https://chasingdings.com/wp-content/uploads/2009/05/fit09.txt) -- it's a comma-separated value (CSV) file, and is best opened in a spreadsheet program. The Python program for writing Monopoly board programs [can be found here](https://chasingdings.com/wp-content/uploads/2009/05/turing.zip). It's undocumented, but based on how you write the "score" function that determines fitness, should be able to write any number of simple programs for the Monopoly board.
+The complete set of instructions for running your own Monopoly board computer [are found here](https://tipa16384.github.io/wkblog/uploads/2009/05/fit09.txt) -- it's a comma-separated value (CSV) file, and is best opened in a spreadsheet program. The Python program for writing Monopoly board programs [can be found here](https://tipa16384.github.io/wkblog/uploads/2009/05/turing.zip). It's undocumented, but based on how you write the "score" function that determines fitness, should be able to write any number of simple programs for the Monopoly board.
 
 Enjoy!

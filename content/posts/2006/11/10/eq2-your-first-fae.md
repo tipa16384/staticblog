@@ -3,40 +3,17 @@ date: '2006-11-10T16:34:25-05:00'
 draft: false
 title: "EQ2: Your First Fae"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/10/eq2-your-first-fae/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A Guide to Living and Loving as a Fae..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/1110yummy.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/11/1110yummy.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/1110yummy.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/1110yummy.jpg"
 ---
+A Guide to Living and Loving as a Fae...
+<!--more-->
 
-![Snack Time!](https://chasingdings.com/wp-content/uploads/2006/11/1110yummy.jpg)
+
 
 A Guide to Living and Loving as a Fae
 
@@ -44,11 +21,11 @@ Welcome to the Nursery! You are in the Greater Faydark and are surrounded by fri
 
 Until recently you were nothing but a Spirit Bud, floating around, hoping to find some nourishing place to alight, grow, and hatch. Each season, hundreds of spirit buds are eaten by the nasty shrumblers -- but not you! One of your first jobs will be clearing those shrumblers so more Fae can be born.
 
-![Bad Wings!](https://chasingdings.com/wp-content/uploads/2006/11/1110bigfae.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/1110bigfae.jpg" classes="center" >}}
 
 What lovely wings you have! Huge, glorious wings are like a celebration of our joy of being living prayers to the Mother of All! However, you may find thinner wings more useful for seeing things BESIDES your wings.
 
-![Good Wings!](https://chasingdings.com/wp-content/uploads/2006/11/1110goodwings.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/1110goodwings.jpg" classes="center" >}}
 
 As you do your part to keep the Nursery safe before you move on to our treetop home of Kelethin, you may find you remember being here before. This is quite likely! Your Spirit Bud is all that remains when you are, alas, killed by some of the less-nice creatures of our happy woods.
 

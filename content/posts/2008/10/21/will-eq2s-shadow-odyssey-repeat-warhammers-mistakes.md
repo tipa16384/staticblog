@@ -3,40 +3,17 @@ date: '2008-10-21T08:05:07-05:00'
 draft: false
 title: "Will EQ2's Shadow Odyssey repeat Warhammer's mistakes?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/21/will-eq2s-shadow-odyssey-repeat-warhammers-mistakes/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The WAR bloggers are pretty united; they love scenarios, but people only appear to queue up for a couple of them out of all available...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wrubefallen.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/wrubefallen.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wrubefallen.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wrubefallen.jpg"
 ---
+The WAR bloggers are pretty united; they love scenarios, but people only appear to queue up for a couple of them out of all available....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wrubefallen.jpg "wrubefallen")
+
 
 The WAR bloggers are pretty united; they love scenarios, but people only appear to queue up for a couple of them out of all available. They love public quests, but if you want to do one, you pretty much have to get it started yourself. They love world RvR, but people would rather attack than defend. Mythic is hard at work balancing these things out, but, inevitably, this will lead to all new balance problems.
 

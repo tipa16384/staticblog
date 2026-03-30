@@ -3,41 +3,16 @@ date: '2007-11-08T13:41:17-05:00'
 draft: false
 title: "The kind of game that leaves you bruised, battered, bleeding and begging for more."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/08/the-kind-of-game-that-leaves-you-bruised-battered-bleeding-and-begging-for-more/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Keen made a post decrying the \"dumbing down\" of MMOs -- people head for easy mode at every opportunity, and seeing that, more, even easier,..."
+categories:
   - "EverQuest"
   - "Final Fantasy"
   - "Lord of the Rings"
   - "MMORPG"
   - "Vanguard"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Keen made a post decrying the "dumbing down" of MMOs -- people head for easy mode at every opportunity, and seeing that, more, even easier,...
+<!--more-->
 
 [Keen made a post](http://www.keenandgraev.com/?p=453) decrying the "dumbing down" of MMOs -- people head for easy mode at every opportunity, and seeing that, more, even easier, games are made. A vicious spiral that ends in "[Hello Kitty Adventure Island](http://ambernight.org/2006/10/06/your-friday-hello-kitty-island-adventures-post/)".
 

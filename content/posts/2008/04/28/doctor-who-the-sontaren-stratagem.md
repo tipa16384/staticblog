@@ -3,39 +3,16 @@ date: '2008-04-28T21:04:47-05:00'
 draft: false
 title: "Doctor Who: The Sontaren Stratagem"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/28/doctor-who-the-sontaren-stratagem/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ah, I think I found the problem......"
+categories:
   - "Doctor Who"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/atmos.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/04/atmos.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/atmos.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/atmos.gif"
 ---
+Ah, I think I found the problem......
+<!--more-->
 
-![atmos.gif](https://chasingdings.com/wp-content/uploads/2008/04/atmos.gif)
+
 
 *Ah, I think I found the problem...*
 
@@ -47,7 +24,7 @@ Spoilers follow!
 
 Remember back when all the cars were automatics? You know, not just the transmission but that every car in the world was made so it could be driven automatically? No? Weird. Could just be Wales, then? And anyway, I don't recommend it. Lady reporters secretly investigating the goings-on at mysterious facilities have to be getting at least a little old. I can just imagine the sort of school that churns them out. Dark hair, sensibly dressed, brought up on a steady diet of Nancy Drew and Agatha Christy, going down to the local zoning board and asking after their Mysterious Alien Facility department for leads.
 
-![batmanvision.jpg](https://chasingdings.com/wp-content/uploads/2008/04/batmanvision.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/batmanvision.jpg" classes="center" >}}
 
 *Surveillance, BATMAN STYLE!* I mean, there's GOT to be one. Between Doctor Who, Torchwood and Sarah Jane Adventures, the greater Cardiff area must be sick with alien labs; groundbreaking ceremonies weekly. The problem isn't so much that these alien factories are springing up all over; it's that their massive size and efficiencies of scale are driving out the home-grown, mom-and-pop Welsh mad science research labs. Making a monster in a shed in your garden? How quaint. Have you seen our VATS? Bwahahaha.
 
@@ -57,13 +34,13 @@ Wesley is, of course, American. All the best villains in British shows are Ameri
 
 We pop off to the TARDIS, where the Doctor is giving Donna driving lessons. Phone call from Martha! Apparently Donna just clipped her in the hyperdimensional bypass tunnel. Well, it turns out that she was just inviting the Doctor to a friendly alien invasion warehouse search.
 
-![sontaraneyes.jpg](https://chasingdings.com/wp-content/uploads/2008/04/sontaraneyes.jpg) I mean, why even BOTHER calling the Doctor for that? The UK is ALWAYS being invaded by aliens. It's pretty near continuous. They have a huge waiting list for the permits. Downing Street only lets in a couple of dozen per year. Yesterday it was the Daleks, today the Sontarans, tomorrow, the Cybermen... there's just not enough Britain to go around. And yet, unsteady perhaps, feeling that perhaps she didn't really get as much out of the Weevil invasion as she would have liked, she calls upon the Doctor and down he flies. New vs Old companions handily discuss the Doctor's shortcomings as he teases his forelock an extra six inches away from his forehead... but the energy is slacking, and so it's time to call upon the Hobbits.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/sontaraneyes.jpg" classes="center" >}} I mean, why even BOTHER calling the Doctor for that? The UK is ALWAYS being invaded by aliens. It's pretty near continuous. They have a huge waiting list for the permits. Downing Street only lets in a couple of dozen per year. Yesterday it was the Daleks, today the Sontarans, tomorrow, the Cybermen... there's just not enough Britain to go around. And yet, unsteady perhaps, feeling that perhaps she didn't really get as much out of the Weevil invasion as she would have liked, she calls upon the Doctor and down he flies. New vs Old companions handily discuss the Doctor's shortcomings as he teases his forelock an extra six inches away from his forehead... but the energy is slacking, and so it's time to call upon the Hobbits.
 
 I don't remember Sontarans being so short, but it's been awhile. Anyway, there's not quite enough evil going around, so the Sontarans grow a quick Evil Martha clone, who stalks about menacingly as the Doctor, who turns out to have had a deep personal relationship not only with Donna, but her mum and her grandfather as well. Oh dear. Grandad has gotten stuck in the car, and the Doctor's tampering with the (evil) Atmos system has caused it to start spouting harmful greenhouse gases.
 
 And... next week, a ticking timer, a state of emergency, and (evil) teen geniuses looking on with glee.
 
-![happy.jpg](https://chasingdings.com/wp-content/uploads/2008/04/happy.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/happy.jpg" classes="center" >}}
 
 *If you're evil and you know it, clap your hands...*
 

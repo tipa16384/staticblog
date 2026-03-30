@@ -3,37 +3,12 @@ date: '2008-01-11T14:14:13-05:00'
 draft: false
 title: "Finally DRM-free: John Cage's most famous opus, 4'33\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/11/finally-drm-free-john-cages-most-famous-opus-433/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "With the news that Sony BMG is dropping DRM from its music and as that final, disgraceful era comes to an end, it's time to..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+With the news that Sony BMG is dropping DRM from its music and as that final, disgraceful era comes to an end, it's time to...
+<!--more-->
 
 With the news that Sony BMG is dropping DRM from its music and as that final, disgraceful era comes to an end, it's time to fill out my collection.
 

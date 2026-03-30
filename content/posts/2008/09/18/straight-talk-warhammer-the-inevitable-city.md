@@ -3,47 +3,23 @@ date: '2008-09-18T08:00:24-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Inevitable City"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/18/straight-talk-warhammer-the-inevitable-city/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "40 long years ago, an intrepid Swiss scientist first discovered that aliens had come to Earth many times in our past, always guiding mankind toward..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
+tags:
   - "Not Funny"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/cronouscity.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/cronouscity.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/cronouscity.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/cronouscity.jpg"
 ---
+40 long years ago, an intrepid Swiss scientist first discovered that aliens had come to Earth many times in our past, always guiding mankind toward...
+<!--more-->
 
 40 long years ago, an [intrepid Swiss scientist](http://en.wikipedia.org/wiki/Erich_von_D%C3%A4niken) first discovered that aliens had come to Earth many times in our past, always guiding mankind toward sapience, civilization, and the stars. They made us who we are today, and they brought us Warhammer Online: Age of Reckoning.
 
 Only the alien intelligences that have already brought us public quests, open groups, the Tome of Knowledge and Realm vs Realm could bring us the dark wonders of the Inevitable City.
-
-![](https://chasingdings.com/wp-content/uploads/2008/09/cronouscity.jpg "cronouscity")
 
 *Simulated Warhammer screenshot*
 

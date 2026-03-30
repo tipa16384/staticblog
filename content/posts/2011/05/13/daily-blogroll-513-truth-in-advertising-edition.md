@@ -3,24 +3,8 @@ date: '2011-05-13T06:13:34-05:00'
 draft: false
 title: "Daily Blogroll 5/13: Truth in Advertising Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/05/13/daily-blogroll-513-truth-in-advertising-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One thing you gotta say about Dragon Age Legends: like the single player games upon which its based, in Dragon Age Legends you Get. To...."
+categories:
   - "Daily Blogroll"
   - "Darkfall"
   - "Dragon Age Legends"
@@ -32,20 +16,13 @@ tags:
   - "Rift"
   - "Treasure Abyss"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg"
 ---
+One thing you gotta say about Dragon Age Legends: like the single player games upon which its based, in Dragon Age Legends you Get. To....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/05/Fullscreen-capture-5112011-61851-AM-480x308.jpg" title="Dragon Age Legends" class="align-center" >}}
+
 
 One thing you gotta say about [Dragon Age Legends](http://apps.facebook.com/dragonagelegends/): like the single player games upon which its based, in Dragon Age Legends you Get. To. Kill. DRAGONS. (Warning: link goes to Facebook). Unlike, say, Dungeons and Dragons Online, where I have yet to kill a dragon. The one you see in the tutorial is little more than a tease. It's fighting a mind flayer, though, and we HAVE started killing those in our static group, but the name of the game isn't Mazes and Mind Flayers Online now, is it?
 
@@ -63,7 +40,7 @@ Can we expect the eventual MMO set in this universe to have the same sort of str
 
 Now THAT would be a fun thing to put into a game...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/05/rift-2011-05-12-21-16-04-04.jpg" title="Looking for Group Tool" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/05/rift-2011-05-12-21-16-04-04.jpg" title="Looking for Group Tool" classes="center" >}}
 
 **Rift**
 

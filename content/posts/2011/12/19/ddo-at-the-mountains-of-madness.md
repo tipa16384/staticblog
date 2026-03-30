@@ -3,41 +3,19 @@ date: '2011-12-19T08:05:26-05:00'
 draft: false
 title: "DDO: At the Mountains of Madness"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/12/19/ddo-at-the-mountains-of-madness/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ulan was back from Mexico last night. How we missed your blade barriers so very, very much. Those little mechanized sawblades of suffering just tear..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-18-23-06-20-13-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-18-23-06-20-13-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-18-23-06-20-13-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-18-23-06-20-13-480x384.jpg"
 ---
+Ulan was back from Mexico last night. How we missed your blade barriers so very, very much. Those little mechanized sawblades of suffering just tear...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-18-23-06-20-13-480x384.jpg" title="Evil is in the eye of the..." class="align-center" >}}
+
 
 Ulan was back from Mexico last night. How we missed your blade barriers so very, very much. Those little mechanized sawblades of suffering just tear through groups of mobs. We fed many mobs to the magico-metallic maw last night.
 
@@ -59,7 +37,7 @@ We ran around for a bit and eventually came to the boss, who was being berated b
 
 I guess we'll encounter him on the final quest next week.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/dndclient-2011-12-19-07-06-54-23-480x383.jpg" title="Staff of the Flesh Shaper" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/dndclient-2011-12-19-07-06-54-23-480x383.jpg" title="Staff of the Flesh Shaper" classes="center" >}}
 
 The end of the quest brings with it the best rogue armor I have ever seen, but there's a bunch of significant loot that drops along the way. I got this Staff of the Flesh Shaper, a pretty gnarly weapon... if you happen to be a caster. The game warned me before I collected it that it would be bound permanently to me. Seriously, what are my options? Just ignore it? Nobody else can take it out of the chest.
 

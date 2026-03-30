@@ -3,47 +3,24 @@ date: '2008-04-26T08:47:21-05:00'
 draft: false
 title: "The fall of Kurn's Tower"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/26/the-fall-of-kurns-tower/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I think we quite possibly may have been the first full, normal, untwinked, level appropriate group in Kurn's Tower in quite some time. We can't..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-25-19-57-46-29.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-25-19-57-46-29.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-25-19-57-46-29.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-25-19-57-46-29.jpg"
 ---
+I think we quite possibly may have been the first full, normal, untwinked, level appropriate group in Kurn's Tower in quite some time. We can't...
+<!--more-->
 
-![eqgame-2008-04-25-19-57-46-29.jpg](https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-25-19-57-46-29.jpg)
+
 
 I think we quite possibly may have been the first full, normal, untwinked, level appropriate group in Kurn's Tower in quite some time. We can't know for sure, but none others showed up while we were there.
 
 By the time everyone showed, we had seven people at Kurn's, two people still leveling through the tutorial, and three who couldn't make it that night.  Ishbel volunteered to solo the upper skeletons. We bid her adieu and headed downstairs, to the land of the Burynai.
 
-![eqgame-2008-04-26-08-11-55-50.jpg](https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-26-08-11-55-50.jpg) The Burynai are compulsive diggers. They'd dug right through the basement of the tower into some caves and waterways and were causing a heck of a ruckus. A big chieftain by the name of Bargynn (possible last names: Hunter, Finder, Basement) had been taunting us on tracking for the entire evening, and we'd made it our job to put that red-con badger to sleep.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-26-08-11-55-50.jpg" classes="center" >}} The Burynai are compulsive diggers. They'd dug right through the basement of the tower into some caves and waterways and were causing a heck of a ruckus. A big chieftain by the name of Bargynn (possible last names: Hunter, Finder, Basement) had been taunting us on tracking for the entire evening, and we'd made it our job to put that red-con badger to sleep.
 
 I don't remember who started with the badger song on Vent... but when he shouted out MUSHROOM MUSHROOM I nearly lost it. So dead-on :) We had a minor tragedy; Said, our wizard, took the wrong branch of the underwater tunnel we'd been following and died. It was all very confusing, since at the same time, Bargynn (Boutique) rushed us with his three sapper (cleric) friends, and a couple of skeletons who'd been in the area. Now, Said is dps enough for three groups, Mister Killshot, and with him, this would have been easy. We managed to defeat them somehow, and we were done. We got Said's corpse, rezzed him up good, and left.
 

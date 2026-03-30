@@ -3,46 +3,24 @@ date: '2008-10-24T08:31:11-05:00'
 draft: false
 title: "EQ2: The Loping Plains Haunted House. Scared yet?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/24/eq2-the-loping-plains-haunted-house-scared-yet/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Loping Plains hasn't seen THIS much action since the Freethinkers threw that Christmas party and the Pumpkin-Headed Horseman barfed seeds and pulp all over Mayong..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Dinah"
   - "Ettie"
   - "Guild Hall"
   - "Halloween"
   - "Loping Plains"
   - "Tailoring"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/ghosts.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/ghosts.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/ghosts.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/ghosts.jpg"
 ---
+Loping Plains hasn't seen THIS much action since the Freethinkers threw that Christmas party and the Pumpkin-Headed Horseman barfed seeds and pulp all over Mayong...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/ghosts.jpg "ghosts")
+
 
 Loping Plains hasn't seen THIS much action since the Freethinkers threw that Christmas party and the Pumpkin-Headed Horseman barfed seeds and pulp all over Mayong Mistmoore. Everyone was talking about that for months.
 
@@ -66,7 +44,7 @@ He tried to sell us some knick-knacks, but we weren't buying it. We hoofed back 
 
 Norrath, dear readers, is a world of people who call in sick when the cat looks at them funny. So anyway, we were still hot to find out what tried to kill us, so in we went.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-23-20-30-58-37.jpg "everquest2-2008-10-23-20-30-58-37")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-23-20-30-58-37.jpg" title="everquest2-2008-10-23-20-30-58-37" classes="center" >}}
 
 The house was like one of those old time adventure games, where you have to click on everything you see because it might contain a clue. We stepped in and got attacked. The attackers dropped a key that opened a door. Enter room, get attacked, pick up a sheet of music and key that opens the door to the next room. Open the door, torch some coffins, notice the dumbwaiter on the wall that won't open (yet), fight some vamps, find a key, etc.
 
@@ -74,7 +52,7 @@ We eventually had enough bits of stuff left behind by the family that once lived
 
 We read the ritual, and this vampire appeared and tried to kill us. NO PROBLEM. We kill vampires for lunch. Not that we eat them. Just to work up an appetite. Anyway. We had to pursue him all through the house, until we met him and killed him forever in front of a giant, cloudy mirror.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-23-20-35-46-63.jpg "everquest2-2008-10-23-20-35-46-63")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-23-20-35-46-63.jpg" title="everquest2-2008-10-23-20-35-46-63" classes="center" >}}
 
 So I looked into the mirror, and it started saying something about seeing the source of the evil in the mirror and it was ME, it was ME, but I dunno. Looked more like Ettie to me, actually. "Ettie," I called. "Were you the ultimate evil in this house, by any chance?"
 
@@ -82,13 +60,13 @@ She looked kinda embarrassed. "Yeah," she said. "It was a long time ago. I was y
 
 So we fought and killed Ettie's giant doppleganger, and headed back outside.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-23-20-49-11-40.jpg "everquest2-2008-10-23-20-49-11-40")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-23-20-49-11-40.jpg" title="everquest2-2008-10-23-20-49-11-40" classes="center" >}}
 
 The Proctor demanded to know if we had cleared out the ultimate evil. We said we had, and she gave us these cool looking cloaks. She asked what the source of it all was, and we kinda said not to worry about it, it was gone, that's all, leave us alone, why are you looking at us like that, we weren't to blame, stop LOOKING at us, stop staring, why are you all staring at us, what did we do, we didn't do anything, OKAY GODDAMMIT IT WAS ETTIE! ETTIE KILLED THEM ALL! HAPPY? HAPPY NOW?
 
 I also got a mirror, which I placed above my tailoring station in the guild hall, and Ettie chose some glowing red skulls that circle around her head.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-23-22-59-45-75.jpg "everquest2-2008-10-23-22-59-45-75")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-23-22-59-45-75.jpg" title="everquest2-2008-10-23-22-59-45-75" classes="center" >}}
 
 I headed out to the Commonlands to gather some Tier 2 harvests and some candy (candy!) from scary critters with which to make some special Halloween treats. Making a full set of gear was actually pretty easy. Weird thing about this gear is that it is NOT attunable. You can make it, wear it, take it off and give it to someone else! Second thing is, the recipes make two of everything. I ended up with two complete sets of gear. It's cloth type, so anybody can wear it.
 
@@ -96,7 +74,7 @@ Good stuff.
 
 I also made some pillows and wall hangings; there's LOTS of stuff you can make.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/everquest2-2008-10-23-23-02-12-77.jpg "everquest2-2008-10-23-23-02-12-77")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/everquest2-2008-10-23-23-02-12-77.jpg" title="everquest2-2008-10-23-23-02-12-77" classes="center" >}}
 
 Now you see it coming AND going :)
 

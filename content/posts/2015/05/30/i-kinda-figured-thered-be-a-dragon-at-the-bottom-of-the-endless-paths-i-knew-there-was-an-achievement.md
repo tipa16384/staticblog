@@ -3,38 +3,15 @@ date: '2015-05-30T20:32:08-05:00'
 draft: false
 title: "Suddenly, a dragon..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/05/30/i-kinda-figured-thered-be-a-dragon-at-the-bottom-of-the-endless-paths-i-knew-there-was-an-achievement/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I kinda figured there'd be a dragon at the bottom of the Endless Paths. I knew there was an achievement for killing all the dragons..."
+categories:
   - "Other Games"
   - "Pillars of Eternity"
-featured_image: "https://lh3.googleusercontent.com/-1WaWEZQXNMA/VWoeR0pYr4I/AAAAAAABJXk/U1czCFD5CJ8/w506-h750/PillarsOfEternity%2B2015-05-30%2B16-28-18-64.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-1WaWEZQXNMA/VWoeR0pYr4I/AAAAAAABJXk/U1czCFD5CJ8/w506-h750/PillarsOfEternity%2B2015-05-30%2B16-28-18-64.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-1WaWEZQXNMA/VWoeR0pYr4I/AAAAAAABJXk/U1czCFD5CJ8/w506-h750/PillarsOfEternity%2B2015-05-30%2B16-28-18-64.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-1WaWEZQXNMA/VWoeR0pYr4I/AAAAAAABJXk/U1czCFD5CJ8/w506-h750/PillarsOfEternity%2B2015-05-30%2B16-28-18-64.jpg"
 ---
+I kinda figured there'd be a dragon at the bottom of the Endless Paths. I knew there was an achievement for killing all the dragons...
+<!--more-->
 
 I kinda figured there'd be a dragon at the bottom of the Endless Paths. I knew there was an achievement for killing all the dragons in Pillars of Eternity, and I hadn't seen any, yet. Some mean old drakes, but no actual dragons. This is the first.
 
@@ -44,6 +21,8 @@ Luckily, there may be an... alternative...
 
 Is it wise to make a bargain with an ancient dragon in order to save my own life? Is any price too much to pay, if I'm not the one that will have to pay it?
 
-One way or the other, this dragon has to go.﻿[![](https://lh3.googleusercontent.com/-1WaWEZQXNMA/VWoeR0pYr4I/AAAAAAABJXk/U1czCFD5CJ8/w506-h750/PillarsOfEternity%2B2015-05-30%2B16-28-18-64.jpg)]()
+One way or the other, this dragon has to go.﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/+BrendaHolloway/posts/aoa4iNxAUFB)

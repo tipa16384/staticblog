@@ -3,38 +3,13 @@ date: '2008-12-19T07:43:10-05:00'
 draft: false
 title: "Spellborn Community News, such as it is"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/19/spellborn-community-news-such-as-it-is/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "First, it looks like Acclaim has responsibility for a much larger swath of Europe than we'd thought before, which can't be making many people back..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+First, it looks like Acclaim has responsibility for a much larger swath of Europe than we'd thought before, which can't be making many people back...
+<!--more-->
 
 First, it looks like Acclaim has responsibility for [a much larger swath of Europe](http://phpbb.acclaim.com/spellborn/viewtopic.php?t=286) than we'd thought before, which can't be making many people back in the Old World happy:
 

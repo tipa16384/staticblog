@@ -3,41 +3,20 @@ date: '2010-10-21T06:49:18-05:00'
 draft: false
 title: "How I Killed MMOs (can FFXIV get them a rez?)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/21/how-i-killed-mmos-can-ffxiv-get-them-a-rez/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Final Fantasy"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/secretworld1-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/secretworld1-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/secretworld1-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/secretworld1-480x270.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/secretworld1-480x270.jpg "Secret World screenshot")](https://chasingdings.com/wp-content/uploads/2010/10/secretworld1.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/secretworld1.jpg)
 
 Have you ever wondered how the expansive, immersive virtual worlds in which we used to play and live turned into the slick, plastic pieces of disposable entertainment we have today? I was right there, yelling and screaming about it. Kids today. Get off my lawn. Why, back in my day, we...
 

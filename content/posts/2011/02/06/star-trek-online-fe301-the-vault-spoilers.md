@@ -3,26 +3,11 @@ date: '2011-02-06T11:52:29-05:00'
 draft: false
 title: "Star Trek Online FE301: The Vault (spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/06/star-trek-online-fe301-the-vault-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Anniversary"
   - "Feature Episode"
   - "Federation News Service"
@@ -31,20 +16,15 @@ tags:
   - "Q"
   - "Reman"
   - "Romulan"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-16-08-15-480x270.jpg "The Vault")](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-16-08-15.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-16-08-15.jpg)
 
 One lowly shuttle stands between the broken Romulan Star Empire and the rebellion of their ex-slaves, the goblinoid Remans, as their private war threatens to draw the Alpha Quadrant into a conflict that could destroy worlds.
 
@@ -62,13 +42,13 @@ Now, we could go in there in our powerful ships and our highly trained crews and
 
 We in the Federation News Service are VERY good mice.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-10-52-63-480x384.jpg "Shuttle fleet")](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-10-52-63.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-10-52-63-480x384.jpg" title="Shuttle fleet" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-10-52-63.jpg)
 
 Those of us without shuttles were issued same by Admiral T'Nae and sent to an intelligence operative, Lt. Cmdr. Kyle "No I'm not Section 31 HAHAHAHA" DeSoto. We handpicked two bridge officers from our crews to accompany us into danger. I made sure to take my first officer and my chief of engineering, to make absolutely sure the crew of the Nebula-class USS Concord would miss us if we failed to return. Isn't that why the highest ranking officers always go on the most dangerous missions?
 
 I chose the Delta Flyer for my ride; Kae was in a runabout, and Longasc and Thumupp formed up with Type 8 shuttles. You wouldn't know it to look at us, but we were probably the deadliest mice in the quadrant -- these small ships come with beam weapons with a 360' arc that scale infinitely; it's not uncommon to find these unassuming shuttle weapons mounted aft of Starfleet's most powerful megaships.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-50-33-32-480x384.jpg "A million shuttles heading for the Vault")](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-50-33-32.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-50-33-32-480x384.jpg" title="A million shuttles heading for the Vault" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-50-33-32.jpg)
 
 We set course for the Haakona system, which was in danger of following poor doomed Hobus to a singular(ity) fate from the sheer press of shuttles, runabouts, Delta Flyers and KDF door stops that were {{< youtube TDW28qWBhzc >}}. (Go watch the vid at that link! It's only half a minute!)
 
@@ -80,7 +60,7 @@ In retrospect, that might not have been the absolute BEST strategy. We were soun
 
 There's hints scattered through the system on how to disable the security field protecting the Vault; Tactical officers can search for clues in a derelict ship. Engineering officers can analyze the effluvia from a suspicious rock. Science officers can perhaps decode the binary language of a stray satellite. If all that fails, the entrance to the station is conveniently abut a sensor-jamming cloud of radiation. In our own ways, we dropped the sensor grid around the Vault and snuck in on maneuvering thrusters.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-31-22-62-480x384.jpg "Forbidden Planetarium")](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-14-31-22-62.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-31-22-62-480x384.jpg" title="Forbidden Planetarium" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-14-31-22-62.jpg)
 
 We gasped at the sheer SIZE of the thing. You could fit worlds inside without scraping the edges. I thought immediately of the planet-sized machine at the core of the Krell homeworld in Forbidden Planet; others were reminded of the interior of V'ger from the first Star Trek movie.
 
@@ -116,7 +96,7 @@ My plan: Use them nineteen times, and then hand the Scorpion fleet the summoning
 
 ---
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-05-22-47-25-72-480x384.jpg" title="Horta Hears a Q" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-05-22-47-25-72-480x384.jpg" title="Horta Hears a Q" classes="center" >}}
 
 It's been too long since Cryptic gave us a feature episode, but it was well worth the wait. As the single feature that really draws people to the game, though, the mission-ending crash that kept thousands of hopefuls from completing the mission due to the sheer numbers of people trying to play it SHOULD have been anticipated.
 

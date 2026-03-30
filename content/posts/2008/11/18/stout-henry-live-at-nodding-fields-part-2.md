@@ -3,40 +3,21 @@ date: '2008-11-18T00:00:54-05:00'
 draft: false
 title: "Stout Henry: LIVE! At Nodding Fields! Part 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/18/stout-henry-live-at-nodding-fields-part-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Stout Henry pulled the blade of the staff from Farmer Jonas' chest. The crowd of Cotsberry competitors, families and fans from the small farming town..."
+categories:
   - "Humor"
   - "Stout Henry"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/stouthenrylive2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/stouthenrylive2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+tags:
+  - "Stout Henry"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrylive2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrylive2.jpg"
 ---
+Stout Henry pulled the blade of the staff from Farmer Jonas' chest. The crowd of Cotsberry competitors, families and fans from the small farming town...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/stouthenrylive2.jpg "What ARE they doing?")Stout Henry pulled the blade of the staff from Farmer Jonas' chest. The crowd of Cotsberry competitors, families and fans from the small farming town were silent, but for some weeping.
+
+
+Stout Henry pulled the blade of the staff from Farmer Jonas' chest. The crowd of Cotsberry competitors, families and fans from the small farming town were silent, but for some weeping.
 
 "Did ya SEE THAT?" yelled Stout Henry. "Circle Strafe Left, Disarming Block, Crushing Blow and Swift Impale, 1 2 3 4 and it was OVAH!" He looked around at the crowd of silent people.
 

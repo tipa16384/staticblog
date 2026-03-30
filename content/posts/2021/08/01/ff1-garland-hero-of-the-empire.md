@@ -3,44 +3,23 @@ date: '2021-08-01T20:38:16-05:00'
 draft: false
 title: "FF1: Garland, Hero of the Empire!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/01/ff1-garland-hero-of-the-empire/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Welcome to Blaugust 2nd and the first day of our Final Fantasy 1 playthrough!..."
+categories:
   - "Blaugust"
   - "CRPG"
   - "Emulators"
   - "Final Fantasy"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Jrpg"
   - "NES"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_0131.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_0131.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_0131.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_0131.jpg"
 ---
+Welcome to Blaugust 2nd and the first day of our Final Fantasy 1 playthrough!...
+<!--more-->
 
 Welcome to Blaugust 2nd and the first day of our Final Fantasy 1 playthrough!
 
@@ -50,11 +29,11 @@ Garland is the first boss the Warriors of Light meet in Final Fantasy 1. Once a 
 
 Before the Warriors of Light can do anything, we have to bring them together.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-20210801080629_1.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-20210801080629_1.jpg)Character creation in the Final Fantasy Pixel Remaster
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210801080629_1.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210801080629_1.jpg)Character creation in the Final Fantasy Pixel Remaster
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/Final-Fantasy-USA_001.png)](https://chasingdings.com/wp-content/uploads/2021/08/Final-Fantasy-USA_001.png)Character creation in the original NES Final Fantasy.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/Final-Fantasy-USA_001.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/Final-Fantasy-USA_001.png)Character creation in the original NES Final Fantasy.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-20210801190451_1-239x300.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-20210801190451_1.jpg)Garland art
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210801190451_1-239x300.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210801190451_1.jpg)Garland art
 
 Character creation in both the new Final Fantasy Pixel Remaster and the original NES version are the same -- you pick four heroes from among the available jobs: Fighter, Black Belt (AKA Monk), White Mage, Red Mage, Black Mage, and Thief. Multiple characters can be the same job, but why?
 
@@ -64,7 +43,7 @@ We're plopped in the town beneath the Castle of Cornelia. We're quickly shuffled
 
 Final Fantasy XIV turned that concept on its head with Shadowbringers, where Warriors of Light are cursed by all, and beg the Warriors of Darkness to bring back the night...
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/1-20210801081205_1-300x300.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/1-20210801081205_1.jpg)You mean, *these* sacred crystals? We bought them in town.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210801081205_1-300x300.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210801081205_1.jpg)You mean, *these* sacred crystals? We bought them in town.
 
 The proof of the pudding is in the tasting, thinks the king, and immediately sends us to rescue his daughter, Princess Sarah, who has been abducted by the traitor Garland who is, as I mentioned above, barricaded in the Chaos Shrine.
 
@@ -74,15 +53,15 @@ After we stop into town to buy equipment and spells, we're off.
 
 The chaos shrine isn't that far away, and turns out to be an excellent place for experience. I grind up to level five or six or so in the remaster, and take him out, easily.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210801091543_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210801091543_1.jpg)Garland in the remaster
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210801091543_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210801091543_1.jpg)Garland in the remaster
 
 I didn't even need to do that. In the NES version, I took him on with all the characters at level 1, with only the experience from the monsters I killed along the way.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/Final-Fantasy-USA_008.png)](https://chasingdings.com/wp-content/uploads/2021/08/Final-Fantasy-USA_008.png)Garland on the NES
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/Final-Fantasy-USA_008.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/Final-Fantasy-USA_008.png)Garland on the NES
 
 The Red Mage died, but it was still a win. Garland is dead, and we rescued the princess.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210801091704_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210801091704_1.jpg)"That's the first time anyone's ever defeated Garland"
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210801091704_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210801091704_1.jpg)"That's the first time anyone's ever defeated Garland"
 
 (In the NES version, you also have to fight some spiders.)
 
@@ -92,7 +71,7 @@ Maybe he thought Princess Sarah would sense in him a kindred spirit. For her day
 
 Garland's last thread of sanity snapped at that moment. If a lifetime of service wouldn't be allowed to end in peace, then he would end it in chaos. He grabbed the princess and ran with her to the north, where the shrine to Chaos itself stood. For some reason.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/Final-Fantasy-USA_007.png)](https://chasingdings.com/wp-content/uploads/2021/08/Final-Fantasy-USA_007.png)Garland's ultimatum
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/Final-Fantasy-USA_007.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/Final-Fantasy-USA_007.png)Garland's ultimatum
 
 Chaos demands a sacrifice. Garland intended that to be Sarah, but when the Warriors of Light burst in just behind him, he knew that he, Garland, would be that sacrifice.
 

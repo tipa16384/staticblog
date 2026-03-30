@@ -3,38 +3,13 @@ date: '2008-04-09T14:49:35-05:00'
 draft: false
 title: "Neopia World, and why I'm not excited about Free Realms"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/09/neopia-world-and-why-im-not-excited-about-free-realms/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's no secret I'm a big fan of Neopets, but it's just come so close to being a fully fledged virtual world, it was just..."
+categories:
   - "MMORPG"
   - "Neopets"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+It's no secret I'm a big fan of Neopets, but it's just come so close to being a fully fledged virtual world, it was just...
+<!--more-->
 
 It's no secret I'm a big fan of [*Neopets*](http://www.neopets.com/), but it's just come so close to being a fully fledged virtual world, it was just a matter of time before they took the step and made it one. I just happened to be browsing the post-mortem of Virtual Worlds 08 (about which I made some posts on Massively), that [Raph pointed to](http://www.raphkoster.com/2008/04/09/virtual-worlds-2008-wrap-up/) and saw this crumb about [Nickelodeon making World of Neopia](http://www.virtualworldsnews.com/2008/04/nickelodeon-lau.html) -- finally! Pet-raising, minigame-playing action in 3D!
 

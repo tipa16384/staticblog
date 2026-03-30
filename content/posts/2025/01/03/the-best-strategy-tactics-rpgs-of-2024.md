@@ -3,49 +3,27 @@ date: '2025-01-03T19:37:01-05:00'
 draft: false
 title: "The Best Strategy/Tactics RPGs of 2024"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/03/the-best-strategy-tactics-rpgs-of-2024/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Tactics RPGs have been a favorite of mine since Final Fantasy Tactics. These are the best strategy/tactics RPGs I played in 2024."
-description: "Tactics RPGs have been a favorite of mine since Final Fantasy Tactics. These are the best strategy/tactics RPGs I played in 2024."
-tags:
+categories:
   - "Strategy"
   - "Tactical RPG"
   - "Unicorn Overlord"
+tags:
   - "Endless RPG"
   - "Popup Dungeon"
   - "The White Raven"
   - "Those Who Rule"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/tacticsbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/tacticsbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/tacticsbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/tacticsbanner.png"
 ---
+Tactics RPGs have been a favorite of mine since Final Fantasy Tactics. These are the best strategy/tactics RPGs I played in 2024.
+<!--more-->
 
 There's something immensely satisfying about strategy/tactics RPGs. You have your units, the enemy has theirs, and you move them around the board like an asymmetrical game of chess. This differs from pure board game simulators such as Battle Chess and Archon in that the units are characters, and through these battles, a story is being told.
 
 Fire Emblem for the Super Famicom ignited the current conception of tactical RPGs; Final Fantasy Tactics made it mainstream. Here's the best ones I played last year.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-4.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-4.png" classes="center" >}}
 
 **Endless RPG Untold Tales (Demo)**
 
@@ -61,7 +39,7 @@ The tactical battles are straightforward, but it's easy to get in over your head
 
 The game has a demo on Steam. Worth checking out.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-5.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-5.png" classes="center" >}}
 
 **Those Who Rule (Demo)**
 
@@ -73,7 +51,7 @@ Combat plays out on a hex grid, where positioning and terrain play a key role. L
 
 The plot uses visual novel-style conversations to move things along between battles. If you like Fire Emblem, you're almost certain to like Those Who Rule. Demo is on Steam.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-6.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-6.png" classes="center" >}}
 
 **Popup Dungeon (2020)**
 
@@ -85,7 +63,7 @@ The game comes with a wide variety of characters, but you can create your own, w
 
 It's a steal for what you get.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-7.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-7.png" classes="center" >}}
 
 **The White Raven (Demo)**
 
@@ -95,13 +73,13 @@ You play as someone who is cursed with demonic power (I hope I am remembering th
 
 The game plays out in an open world where you are free to move, as in any other RPG. It all changes to a tactical grid system overlaid on the map when a battle happens. The battle system is a little more confusing than it has to be, but that's likely due to it being so early in development. The maps are intricate with a degree of verticality, even though they are two-dimensional. The puzzles aren't innovative in the demo, but they do raise expectations of better battles in the full game. I had a ton of fun with the demo and think it could be a unique offering when complete.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-8-1024x512.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-8-1024x512.png" classes="center" >}}
 
 **Unicorn Overlord (2024)**
 
-The winner of the best strategy tactics RPG that I played in 2024 was *always* going to be [Unicorn Overlord](https://chasingdings.com/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/). Those indie titles are going to be great games, but Unicorn just bowled me over.
+The winner of the best strategy tactics RPG that I played in 2024 was *always* going to be [Unicorn Overlord](https://tipa16384.github.io/wkblog/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/). Those indie titles are going to be great games, but Unicorn just bowled me over.
 
-For one, it's a rare real-time tactical game that has various squads being sent to do things around the map. It's not entirely unknown; the Ogre Battle series dives deep into this; 2022's "[Symphony of War: The Nephilim Saga](https://chasingdings.com/2022/06/23/symphony-of-war-the-nephilim-saga/)" mined this more recently.
+For one, it's a rare real-time tactical game that has various squads being sent to do things around the map. It's not entirely unknown; the Ogre Battle series dives deep into this; 2022's "[Symphony of War: The Nephilim Saga](https://tipa16384.github.io/wkblog/2022/06/23/symphony-of-war-the-nephilim-saga/)" mined this more recently.
 
 You play as the heir to the throne on the run from a usurper; you must recruit characters (usually by winning a battle with them) and free the conquered nations around yours from the boot of the usurpers so that you can gain their aid for the final battle.
 

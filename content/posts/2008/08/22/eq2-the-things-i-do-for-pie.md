@@ -3,44 +3,21 @@ date: '2008-08-22T01:55:55-05:00'
 draft: false
 title: "EQ2: The things I do for pie..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/22/eq2-the-things-i-do-for-pie/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's just my duty to Norrath to fight back against the Void Tempests, but when I heard a reporter with the Befallen Banner shouting about..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg"
 ---
+It's just my duty to Norrath to fight back against the Void Tempests, but when I heard a reporter with the Befallen Banner shouting about...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-21-23-12-07-85.jpg "everquest2-2008-08-21-23-12-07-85")
+
 
 It's just my duty to Norrath to fight back against the Void Tempests, but when I heard a reporter with the Befallen Banner shouting about some marvelous device in Neriak, well, I just had to turn in my shards and check it out. There was a gnome with shoulderpads that would have fit someone twice as wide. when i asked him about them, he said he didn't have a choice, that was the uniform, and the human who had worn it last had forgotten to re-adjust the shoulderpads and there just wasn't time and ... but you know, gnomes have those high, squeaky voices, so I excused myself and went inside.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-21-23-56-33-59.jpg "everquest2-2008-08-21-23-56-33-59")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-21-23-56-33-59.jpg" title="everquest2-2008-08-21-23-56-33-59" classes="center" >}}
 
 Well, turns out some bug -- um, some Arasai -- had just invented a new lamp, but needed some bits of glowing fairy dust to activate it. I tried to separate the Arasai from his fairy dust, but he waved of my attack.
 
@@ -48,7 +25,7 @@ I sullenly looked for some fairy dust in Neriak, but apparently they clean up af
 
 Twenty dead fairies later, the lamp shone with a deep yellow glow. I returned to Neriak, and the bug graciously allowed me to keep the lamp, and even gave me some Steaming Jumjum Pie! I was so happy! The gnome from the Banner interviewed me, and when the paper comes out, I'm going to buy a dozen and give them to everyone in the Fool's Gold Inn so they can see how I finally made good after all these years.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-22-01-13-27-34.jpg "everquest2-2008-08-22-01-13-27-34")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-22-01-13-27-34.jpg" title="everquest2-2008-08-22-01-13-27-34" classes="center" >}}
 
 The lantern and the pie are the pefect start to a Pie Shrine! People will come by to look in shock and awe at its mystical crust... its steamy filling... it's unmistakable aroma...
 

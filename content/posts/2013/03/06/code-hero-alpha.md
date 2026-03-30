@@ -3,41 +3,18 @@ date: '2013-03-06T07:50:23-05:00'
 draft: false
 title: "Code Hero (alpha)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/03/06/code-hero-alpha/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last year, or maybe the year before by now, I helped fund an innovative game on Kickstarter, Primer's Code Hero. This game would teach you..."
+categories:
   - "Code Hero"
   - "Kickstarter"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg"
 ---
+Last year, or maybe the year before by now, I helped fund an innovative game on Kickstarter, Primer's Code Hero. This game would teach you...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-17-39-02-480x300.jpg" title="Code Hero Alpha" class="align-center" >}}
+
 
 Last year, or maybe the year before by now, I helped fund an innovative game on Kickstarter, [Primer's Code Hero](http://primerlabs.com/codehero0). This game would teach you to create your own games using the cross-platform Unity game platform, UnityScript and JavaScript. UnityScript, JavaScript and Flash's ActionScript are all closely related scripting languages, so knowing these things would be a Really Good Idea.
 
@@ -45,7 +22,7 @@ Instead of a more traditional approach, Code Hero is the world's first FPC (Firs
 
 This might be the first shooter with a gun that doesn't destroy. Unless, of course, you set it to GameObject.Destroy(). Then, I guess it's like any other game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-38-50-00-480x300.jpg" title="Code Hero's humor: Doctor Evil by way of GladOS." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-38-50-00-480x300.jpg" title="Code Hero's humor: Doctor Evil by way of GladOS." classes="center" >}}
 
 Code Hero is set in a [Lawnmower Man](http://en.wikipedia.org/wiki/The_Lawnmower_Man_(film))-like virtual reality, guided by the ghost of Ada Lovelace, the world's first computer programmer. (Computing would remain a woman's occupation until the advent of electronic computers, but luminaries such as Grace Hopper would help it climb new heights even after).
 
@@ -53,7 +30,7 @@ You're soon given your Code Gun, a portal to a simple text editor and console th
 
 Once in the gun, the code can be extended with additional UnityScript to do what you like. Scripts and physics can be attached to objects in a scene editor mode. You can build a world around you -- just you and your code gun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-06-00-08-25-83-480x300.jpg" title="Code Gun editing screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/Code-Hero-Alpha-0-2013-03-06-00-08-25-83-480x300.jpg" title="Code Gun editing screen" classes="center" >}}
 
 Code Hero is still in alpha, so I'm not going to get into any bugs. You expect those. The developers have recently completed a "FizzBoss" challenge, an implementation of the famous "[FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)" basic programming test.
 
@@ -65,7 +42,7 @@ I was trapped, in the stairs. The stairs code was made of stretched, untagged, c
 
 That's the danger of getting inside your code. Infinite loops can ruin your day, and bad code can fall right on top of you.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-37-10-64-480x300.jpg" title="Code can cause explosions!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/Code-Hero-Alpha-0-2013-03-05-23-37-10-64-480x300.jpg" title="Code can cause explosions!" classes="center" >}}
 
 I left feeling that I would have had a much better learning experience given a regular IDE and a test scene in which to experiment. I don't know what sort of IDE Unity developers normally use, but we use MyEclipse (for web development) at work and that gives a lot of help. For instance, there's an "Undo" key right there :-) And you can stop your programs, any time you like!
 

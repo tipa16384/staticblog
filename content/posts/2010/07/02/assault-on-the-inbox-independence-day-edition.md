@@ -3,44 +3,21 @@ date: '2010-07-02T06:52:02-05:00'
 draft: false
 title: "Assault on the Inbox: Independence Day Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/02/assault-on-the-inbox-independence-day-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Exciting MMO news lands in my inbox; I pass it along...."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "EVE Online"
   - "MMORPG"
   - "Runes of Magic"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-06-29-20-37-53-38.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-06-29-20-37-53-38.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-06-29-20-37-53-38.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-06-29-20-37-53-38.jpg"
 ---
+Exciting MMO news lands in my inbox; I pass it along....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-06-29-20-37-53-38.jpg "Deep space exploration in Star Trek Online")
+
 
 Exciting MMO news lands in my inbox; I pass it along.
 
@@ -54,7 +31,7 @@ STO Executive Producer [Craig Zinkievich](http://startrekonline.com/node/1875) i
 
 **City of Heroes** unleashes its [Super Booster Pack V: Mutant](http://www.cityofheroes.com/newsletters/07-01-10/usonline.html). This mini expansion adds Tron-like glowing armor sets to your repertoire, new costume change emotes and Secondary Mutations for your heroes with mutation-based powers. Looks very cool -- like EverQuest, City of Heroes never lets its age stand in the way of innovation.
 
-![](https://chasingdings.com/wp-content/uploads/2010/07/ExeFile-2010-06-29-19-22-23-07.jpg "Primaes in formation")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/ExeFile-2010-06-29-19-22-23-07.jpg" title="Primaes in formation" classes="center" >}}
 
 CCP is [giving away a Primae](http://www.eveonline.com/devblog.asp?a=blog&bid=772), a planetary resources hauler, to every current **EVE Online** player. These one-of-a-kind ships have special cargo holds for the resources you get from your planetary command centers, and is the fashionable ship of choice for experienced atmo-skimmers.
 

@@ -3,42 +3,20 @@ date: '2023-12-17T16:50:55-05:00'
 draft: false
 title: "Advent of Code Day 17 -- Clumsy Crucible"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/17/advent-of-code-day-17-clumsy-crucible/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Edsger Dijkstra is laughing at me from his grave."
-description: "Edsger Dijkstra is laughing at me from his grave."
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "A*"
-  - "AoC2023"
+  - "AoC 2023"
   - "Dijkstra"
   - "Elf"
   - "Lava"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-17-16.23.47-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-is-a-birds-eye-view-of-Gear-Island-half-empty-and-half-a-bustling-fac.png"
 ---
+Edsger Dijkstra is laughing at me from his grave.
+<!--more-->
 
 The *reason* Dijkstra is spinning in his grave is because, *apparently*, the elves have never read his Wikipedia page about his find-the-shortest-path algorithm.
 

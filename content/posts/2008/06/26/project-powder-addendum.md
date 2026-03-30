@@ -3,40 +3,21 @@ date: '2008-06-26T22:30:28-05:00'
 draft: false
 title: "Project Powder addendum"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/26/project-powder-addendum/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ground out level 5 doing team coin missions. Instead of racing, you see who can gather the most good coins while avoiding bad coins. When..."
+categories:
   - "Other Games"
   - "Project Powder"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-26-21-48-17-42.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-26-21-48-17-42.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+tags:
+  - "Project Powder"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-26-21-48-17-42.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-26-21-48-17-42.jpg"
 ---
+Ground out level 5 doing team coin missions. Instead of racing, you see who can gather the most good coins while avoiding bad coins. When...
+<!--more-->
 
-![run-2008-06-26-21-48-17-42.jpg](https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-26-21-48-17-42.jpg) Ground out level 5 doing team coin missions. Instead of racing, you see who can gather the most good coins while avoiding bad coins. When I got 5 and went to get my new licenses, the whole license board just hung the game. A GM was trying to get an event of some sort going, but the room kept being disconnected. So I went shopping, got some new pants, gloves, and some earmuffs, then tried out the one new license I was able to get in a few quick races.
+
+
+Ground out level 5 doing team coin missions. Instead of racing, you see who can gather the most good coins while avoiding bad coins. When I got 5 and went to get my new licenses, the whole license board just hung the game. A GM was trying to get an event of some sort going, but the room kept being disconnected. So I went shopping, got some new pants, gloves, and some earmuffs, then tried out the one new license I was able to get in a few quick races.
 
 It's still quite buggy, but you'd expect that in a closed bera. We had to repatch twice tonight. Quick, arcade-y, multiplayer fun.
 

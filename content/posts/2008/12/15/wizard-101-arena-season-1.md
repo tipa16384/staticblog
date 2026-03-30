@@ -3,42 +3,20 @@ date: '2008-12-15T23:53:44-05:00'
 draft: false
 title: "Wizard 101 Arena Season 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/15/wizard-101-arena-season-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Given a games company founded by the developers of the PvP-centric MMO Shadowbane, and the fragfest shooters DOOM and Wolfenstein 3D, making a game centered..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Arena"
   - "PvP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg"
 ---
+Given a games company founded by the developers of the PvP-centric MMO Shadowbane, and the fragfest shooters DOOM and Wolfenstein 3D, making a game centered...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/wizardgraphicalclient-2008-12-15-20-25-48-13.jpg "wizardgraphicalclient-2008-12-15-20-25-48-13")
+
 
 Given a games company founded by the developers of the PvP-centric MMO Shadowbane, and the fragfest shooters DOOM and Wolfenstein 3D, making a game centered around a bloodless card game where kids could battle monsters with funny monsters of their own must have been a little tough.
 

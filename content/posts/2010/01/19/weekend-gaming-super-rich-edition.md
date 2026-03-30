@@ -3,44 +3,23 @@ date: '2010-01-19T08:34:08-05:00'
 draft: false
 title: "Weekend gaming: Super-rich edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/19/weekend-gaming-super-rich-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Daily Blogroll"
   - "Dungeons & Dragons Online"
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/aimbomb.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/aimbomb.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/aimbomb.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/aimbomb.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/01/aimbomb.jpg "Adventures in Monopoly is back!")](https://chasingdings.com/wp-content/uploads/2010/01/aimbomb.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/01/aimbomb.jpg)
 
 Before I get started, I just want you all to know that I don't have to do this. No, really. I'm about to be rich. VERY rich. I just got a VERY intriguing email....
 
@@ -52,7 +31,7 @@ I'm happy to announce that the boys of Adventures in Monopoly are back, tanned a
 
 This long holiday weekend was filled with lots of gaming goodness!
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-15-19-33-33-57.jpg "Taking down an Undine ship")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-15-19-33-33-57.jpg" title="Taking down an Undine ship" classes="center" >}}
 
 I don't really want to burn out on Star Trek Online during its open beta. I want it to be fresh so I can enjoy my two characters when the game goes live. Here, @Longasc helps me take out an Undine who has been manipulating the Klingon Empire and the Federation into armed conflict all throughout the galaxy. after, we helped in the defense of Starbase 24. He had to go after that, but I continued on in an open group for Stop the Signal that ends up being yet ANOTHER Undine plot. I wonder if the Undine are going to be the big baddies of whatever raid content STO has?
 
@@ -70,7 +49,7 @@ I'm still rather undecided about the Star Trek Online business plan. Only two ch
 
 Why not just bite the bullet and GO free to play? I don't know many people who wouldn't find a spot for STO on their hard drive if it were F2P. Mark my words, in a year STO will be doing well, and it will be F2P.
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-18-08-34-38-19.jpg "Level 60 = flying mount")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/WoW-2010-01-18-08-34-38-19.jpg" title="Level 60 = flying mount" classes="center" >}}
 
 Here's another prediction: When WoW's next expansion launches, Horde and Alliance will be able to speak to each other, group and so on. The Cataclysm will erase all the old feuds as they come together to save Azeroth itself. Crazy? Maybe. But I have been using the LFD tool to find dungeons both for my (relatively) high level characters (level 60 and 61), and for my lower level characters. And I just can't tell the difference between them. I took my 25 Horde Tauren druid through Stormwind Stockade and Gnomeregan, and it was exactly like any Alliance group. All blood elves except one undead and a cow (me). Pally tank. Way back when, Horde groups would have orcs and trolls in them. Now, Horde is just a pale reflection of the Alliance. GJ, Alliance. You won by being more photogenic.
 
@@ -84,7 +63,7 @@ Afterward I returned to the Plaguelands to continue work on my Scholomance key. 
 
 Thanks for all the advice on uberfying my rogue :) She is VERY fun now!
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/EverQuest2-2010-01-17-17-00-50-77.jpg "Scatterfall in Timorous Deep")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/EverQuest2-2010-01-17-17-00-50-77.jpg" title="Scatterfall in Timorous Deep" classes="center" >}}
 
 Sirhyl was getting a hankering to try EverQuest 2 again and asked if I wanted to Recruit a Friend him and come along for the fun. Sounded fantastic to me! I had a level 14 Fae berserker that I hadn't done much with since I sneaked her into the Labs once a few years back. Sirhyl made an Inquisitor, and we headed to Timorous Deep to see how things were going.
 
@@ -92,7 +71,7 @@ With the mentoring bonus, the 200% recruit a friend bonus and the 40% holiday we
 
 The Arena and even the Trials of Harclave were kinda tough at 30 when you're dressed in level 12 armor and weapons, by the way. It was a lot of fun when we were able to do the final instance together.
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/dndclient-2010-01-18-00-36-15-53.jpg "Meeting the dragon")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/dndclient-2010-01-18-00-36-15-53.jpg" title="Meeting the dragon" classes="center" >}}
 
 My Hobbesian cleric and the rest of the Sunday night crew met in Dungeons & Dragons Online again to do all the instances over once more in Hard and Elite. We all wanted to go to Stormreach, but none of us wanted to head over before we'd wrung all the ~~loot~~ ~~favor points~~ *adventure* we could from Korsha Island.
 

@@ -3,45 +3,23 @@ date: '2022-11-08T21:43:10-05:00'
 draft: false
 title: "The Best Object Removal Apps for Perfect Screenshots"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/11/08/the-best-object-removal-apps-for-perfect-screenshots/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "If you've ever taken a screenshot only to find that it's ruined by UI elements or other elements, you know how frustrating it can be. But there are several ways to remove those elements and create the perfect image. Read on for free apps that will get the results you want with none of the stuff you don't."
-description: "If you've ever taken a screenshot only to find that it's ruined by UI elements or other elements, you know how frustrating it can be. But there are several ways to remove those elements and create the perfect image. Read on for free apps that will get the results you want with none of the stuff you don't."
-tags:
+categories:
   - "General"
   - "Photo Editing"
   - "Screenshots"
+tags:
   - "Cleanup.pictures"
   - "Fotor"
   - "Image Editing"
   - "Picsart"
   - "SnapEdit"
   - "Theinpaint"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/11/picsart-out.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/11/picsart-out.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/picsart-out.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/picsart-out.png"
 ---
+If you've ever taken a screenshot only to find that it's ruined by UI elements or other elements, you know how frustrating it can be. But there are several ways to remove those elements and create the perfect image. Read on for free apps that will get the results you want with none of the stuff you don't.
+<!--more-->
 
 You've taken a beautiful screenshot, but the UI or other elements are ruining the effect. Luckily, there are several ways to remove them and create the perfect image. Read on for free apps that will get the results you do want with none of the stuff you don't.
 
@@ -51,7 +29,7 @@ In yesterday's post, I had the opening screen from Gotham Knights that I wanted 
 
 The best object removal apps will remove only the objects you don't want, and patch in elements that look like they were there all along, with all the detail and color of the rest of the image. It's a bonus if they do it for free, and allow you to download the result at the same resolution as the original.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/snapeditink-1-792x1024.png" title="SnapEdit edit screen and output" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/snapeditink-1-792x1024.png" title="SnapEdit edit screen and output" classes="center" >}}
 
 **SnapEdit**
 
@@ -59,7 +37,7 @@ Best of these is probably [SnapEdit](https://snapedit.app/). Background removal 
 
 It's free to use. There is a delay to download a high resolution version, but the end result had no watermarks that I could see.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/cleanupink-646x1024.png" title="Cleanup.pictures" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/cleanupink-646x1024.png" title="Cleanup.pictures" classes="center" >}}
 
 **Cleanup.pictures**
 
@@ -67,7 +45,7 @@ It's free to use. There is a delay to download a high resolution version, but th
 
 Text removal is fairly good. There were a couple of artifacts left behind in the larger areas, but nothing too noticeable. The patches were appropriate -- given that in this particular image, the background is mostly low detail with very few colors.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/fotorink.png" title="Fotor.com" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/fotorink.png" title="Fotor.com" classes="center" >}}
 
  **Fotor.com**
 
@@ -75,11 +53,11 @@ Text removal is fairly good. There were a couple of artifacts left behind in the
 
 It's hard to see in the image above, so I'll focus in on one bit, the part behind where the menu was.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/image.png" title="Detail of Fotor text removal" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/image.png" title="Detail of Fotor text removal" classes="center" >}}
 
 It looks like it was scribbled over randomly with a brush. Sure, the text is gone, but it *looks like* it was removed. The removal of the status updates and help messages on the bottom left look even worse. Even the removal of my gamer tag is messed up. Would not recommend.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/theinpaintink-983x1024.png" title="TheInPaint.com" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/theinpaintink-983x1024.png" title="TheInPaint.com" classes="center" >}}
 
 **TheInPaint**
 

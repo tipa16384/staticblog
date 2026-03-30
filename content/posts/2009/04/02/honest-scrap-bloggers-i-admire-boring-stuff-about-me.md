@@ -3,41 +3,16 @@ date: '2009-04-02T12:29:17-05:00'
 draft: false
 title: "Honest Scrap. Bloggers I admire, boring stuff about me."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/02/honest-scrap-bloggers-i-admire-boring-stuff-about-me/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So, thanks to Stargrace at MMOQuests.com and Peter at Dragonchasers.com for their kind words :)..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/honest_scrap1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/honest_scrap1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/honest_scrap1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/honest_scrap1.jpg"
 ---
+So, thanks to Stargrace at MMOQuests.com and Peter at Dragonchasers.com for their kind words :)...
+<!--more-->
 
 So, thanks to Stargrace at [MMOQuests.com](http://mmoquests.com/2009/03/31/another-meme/) and Peter at [Dragonchasers.com](http://dragonchasers.com/2009/03/30/memed/) for their kind words :)
-
-![honest_scrap1](https://chasingdings.com/wp-content/uploads/2009/04/honest_scrap1.jpg "honest_scrap1")
 
 **“This award is bestowed upon a fellow blogger whose blog content or design is, in the giver’s opinion, brilliant.”**
 

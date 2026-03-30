@@ -3,40 +3,17 @@ date: '2013-05-25T11:19:48-05:00'
 draft: false
 title: "EQ2: The Sad Fate of Tserrina Syl'Tor"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/25/eq2-the-sad-fate-of-tserrina-syltor/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We had a bunch of people hanging out in the Lunar Wolves guild hall last night. We've been threatening to, someday, form a group and..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/eqgame-2013-05-25-09-30-02-82-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/eqgame-2013-05-25-09-30-02-82-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/eqgame-2013-05-25-09-30-02-82-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/eqgame-2013-05-25-09-30-02-82-480x343.jpg"
 ---
+We had a bunch of people hanging out in the Lunar Wolves guild hall last night. We've been threatening to, someday, form a group and...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/eqgame-2013-05-25-09-30-02-82-480x343.jpg" title="This isn't how it went...." class="align-center" >}}
+
 
 We had a bunch of people hanging out in the Lunar Wolves guild hall last night. We've been threatening to, someday, form a group and go DO something for months now, but with everyone on their own real life schedules and our vastly differing levels of gear and skill, we just never seem to be on the same page at the same time.
 
@@ -46,7 +23,7 @@ And it's more a flash-forward than a flashback, since I logged in to EverQuest t
 
 She didn't drop the robe. But, we were talking about EverQuest II.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-25-01-35-06-14-480x343.jpg" title="An Accursed Wedding" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-25-01-35-06-14-480x343.jpg" title="An Accursed Wedding" classes="center" >}}
 
 With most everyone possessing several capable alts, it took awhile before we found a combo that worked for everyone. I volunteered to heal the instance with my inquisitor. Ejay was barding, Treadmill tanked with his pally, Weej was on his swashbuckler, Malforia on his necro, and Hamal being stabby with his assassin.
 
@@ -60,7 +37,7 @@ Nonetheless, this isn't the hardest zone in the world, and we worked up to the w
 
 The story is a little different in the EverQuest 2 version. In this one, the undead wedding is interrupted by the vampire queen Tserrina Syl'Tor who is continually angered by this wedding while her love goes unrequited. Her love, Mayong Mistmoore, soon shows up to banish Tserrina once more to the top of the tower.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-25-02-18-08-46-480x343.jpg" title="Saved by the Dain" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-25-02-18-08-46-480x343.jpg" title="Saved by the Dain" classes="center" >}}
 
 After the wedding were a couple floors of topsy-turvy where we fought vampire nobility and collected mirror shards. We placed them in a particular way at the very top of the tower, where they opened the portal to Tserrina's lair. She is a two group fight, and this is usually where tower runs end.
 

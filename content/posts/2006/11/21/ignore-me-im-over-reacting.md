@@ -3,38 +3,15 @@ date: '2006-11-21T11:48:13-05:00'
 draft: false
 title: "Ignore me, I'm over-reacting."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/21/ignore-me-im-over-reacting/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Business is incredibly slow here at Surya at the end of a year. This year, we're asked to work only four-day work weeks in December...."
+categories:
   - "General"
   - "My Work"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/dec25.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/11/dec25.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/dec25.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/dec25.png"
 ---
+Business is incredibly slow here at Surya at the end of a year. This year, we're asked to work only four-day work weeks in December....
+<!--more-->
 
 Business is incredibly slow here at Surya at the end of a year. This year, we're asked to work only four-day work weeks in December. Now since I'm salaried, I shouldn't care, as I supposedly get a fixed annual pay regardless of how much or how little I work.
 
@@ -43,8 +20,6 @@ That was the meaning of 'salaried' every other place I ever worked. Here, howeve
 My boss informed me of this this morning. I'd heard the hourly people were going to a four day work week in December, but figured I'd be asked to work all five days since I was salaried. And I am perfectly willing to do just that. Anyway she came down, told me that yes indeed I was to be taking a day off too, and Monday would be bad but perhaps... Friday would be best?
 
 Well, let's have a stare at December's calendar.
-
-![dec25.png](https://chasingdings.com/wp-content/uploads/2006/11/dec25.png)
 
 We get Christmas, the 25th, off. Friday would be *five full days* of no pay, while Monday would only be *three*. My boss explicitly asked me to come in on Mondays because that's when things are busiest.
 

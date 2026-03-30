@@ -3,42 +3,20 @@ date: '2022-08-18T09:30:10-05:00'
 draft: false
 title: "Brown Dust? Did you mean Brave Nine?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/18/brown-dust-did-you-mean-brave-nine/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A few days, Friendly Necro was going over all the mobile games on which he's worked. I was wondering why mobile games just didn't stick..."
+categories:
   - "Mobile Games"
   - "Tactical RPG"
+tags:
   - "Bluestacks"
   - "Gacha"
   - "Girls Screaming in Chinese"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.42.35.827.png"
 ---
+A few days, Friendly Necro was going over all the mobile games on which he's worked. I was wondering why mobile games just didn't stick...
+<!--more-->
 
 A few days, Friendly Necro was going over all the mobile games on which he's worked. I was wondering why mobile games just didn't stick with me, and I remembered this strategy tactical one I played a long time ago and I just couldn't remember when, or why I stopped. I hardly ever remember why I stop playing mobile games. I just stop.
 
@@ -50,7 +28,7 @@ Great game, but the text was way too small on my phone to do all the things, so 
 
 Hey, but now I have Bluestacks, I know the game's new name (I guess they relaunched it somewhere down the line), and ... I can finally play it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/Screenshot_2022.08.18_08.03.11.172-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.03.11.172-1024x576.png" classes="center" >}}
 
 So I did, pretty much all day yesterday.
 
@@ -62,7 +40,7 @@ Most units have unique attacks, so there's not just one formation that is going 
 
 There was a summer event battle against some pelicans that *required* a full mage back end. Nothing else could get the birds dead before they deaded my entire team.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/Screenshot_2022.08.18_08.33.15.526-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.33.15.526-1024x576.png" classes="center" >}}
 
 The arena isn't that much different from what you'd find in a game like, say, RAID: Shadow Legends, the best game around that is addicting and that everyone plays and everyone loves everything about it. This post sponsored by RAID: Shadow Legends.
 
@@ -70,7 +48,7 @@ In arena fights, you have to set up your assault before you get a look at your o
 
 The Novice Arena only allows 4-star and lower units, and there is a ban list.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/Screenshot_2022.08.18_08.05.18.321-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/Screenshot_2022.08.18_08.05.18.321-1024x576.png" classes="center" >}}
 
 You can also use friend units -- up to three of their units can help out in battles. I just have one friend. The game gave me a quest to befriend some rando and I did and now I use their stuff. I'm a good friend.
 

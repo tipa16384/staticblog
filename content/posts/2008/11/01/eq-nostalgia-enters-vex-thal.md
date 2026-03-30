@@ -3,58 +3,37 @@ date: '2008-11-01T13:29:35-05:00'
 draft: false
 title: "EQ: Nostalgia enters Vex Thal!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/01/eq-nostalgia-enters-vex-thal/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don't have..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
+  - "EverQuest"
   - "Mercenaries"
   - "Nostalgia"
   - "Rumblecrush"
   - "Umbral Plains"
   - "Vex Thal"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg"
 ---
+Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don't have...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-01-12-03-19-13.jpg "eqgame-2008-11-01-12-03-19-13")
+
 
 Yup, last night we entered Vex Thal for the first time as a guild. Aten Ha Ra, your days are numbered, etc. (I don't have to mention that we were trying to zone off a train, right? Good!)
 
 I've always had a deep and abiding affection for Vex Thal. What's not to love? A city devoted to the worship of a four-armed goddess who dresses like a Rocky Horror refugee and uses her moon as a footrest for her spike-heeled, black leather boots?
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-01-11-51-57-61.jpg "eqgame-2008-11-01-11-51-57-61")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-11-51-57-61.jpg" title="eqgame-2008-11-01-11-51-57-61" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-01-11-53-42-86.jpg "eqgame-2008-11-01-11-53-42-86")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-11-53-42-86.jpg" title="eqgame-2008-11-01-11-53-42-86" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-01-12-00-08-37.jpg "eqgame-2008-11-01-12-00-08-37")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-00-08-37.jpg" title="eqgame-2008-11-01-12-00-08-37" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-01-12-11-25-56.jpg "eqgame-2008-11-01-12-11-25-56")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-01-12-11-25-56.jpg" title="eqgame-2008-11-01-12-11-25-56" classes="center" >}}
 
 Since we'd been doing a lot of xp nights recently, we thought it was time to just have a fun night. Not about loot or xp so much, but just about going to some of the fun, old places we remembered. So last night, we traveled to Luclin's high level xp zone, Umbral Plains.
 
@@ -64,7 +43,7 @@ But even given all the nameds we killed, the night really belonged to the mercen
 
 As in, "What's up with the stupid MERCENARY?"
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-10-31-19-36-38-29.jpg "eqgame-2008-10-31-19-36-38-29")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-10-31-19-36-38-29.jpg" title="eqgame-2008-10-31-19-36-38-29" classes="center" >}}
 
 We were very impressed when, on the first named of the night, Gantru Moltar, the mercenary warrior (one of the many who share our Main Tank position) turned off her attacks when the mob enraged and even turned her back to it. When enrage ended, she turned around and began tanking again.
 
@@ -72,7 +51,7 @@ It takes PC warriors MONTHS to learn that! You could always tell the new raid wa
 
 Not the merc, though. She handled it great. I was curious how two mercs would handle rampage...
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-10-31-21-11-22-58.jpg "eqgame-2008-10-31-21-11-22-58")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-10-31-21-11-22-58.jpg" title="eqgame-2008-10-31-21-11-22-58" classes="center" >}}
 
 After that great start, though, things went less well with them. We had maybe six adds at one point; with two enchanters, that wasn't a problem; but it totally confused the mercenary, who eventually just gave up and refused to fight any more. (I imagine plat was still being charged, though). We eventually coaxed her back to the front, and she reluctantly, I thought, started to do her job again.
 
@@ -80,7 +59,7 @@ On our way to the fire caves, someone got aggro from the elementals outside Vex 
 
 That left us without our main healer, and a corpse. Once Qutey left the group, though, we had an opening for the mercenary I had hired before heading to Umbral Plains -- a dark elf cleric. She joined the group, buffed me, rezzed Sejal and buffed him, and for the rest of the evening, did her job superbly.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-10-31-21-22-57-31.jpg "eqgame-2008-10-31-21-22-57-31")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-10-31-21-22-57-31.jpg" title="eqgame-2008-10-31-21-22-57-31" classes="center" >}}
 
 The warrior, though... really wasn't in the mood to fight. Looked to me like he'd gone AFK, and I (and Sejal) ended up tanking more often than I liked. He did eventually cheer up for the boss and do his job/ I guess that's the "Confidence" score -- if they feel they can't do well, they do nothing? The first time a merc cleric decides she isn't interested in healing any more is the last time I hire a merc cleric.
 

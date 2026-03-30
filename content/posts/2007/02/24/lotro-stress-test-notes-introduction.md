@@ -3,44 +3,19 @@ date: '2007-02-24T14:23:13-05:00'
 draft: false
 title: "LotRO Stress Test Notes: Introduction"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/24/lotro-stress-test-notes-introduction/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm writing these notes as I am playing the game. They may be a little scattered :P..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-create.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-create.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-create.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-create.jpg"
 ---
+I'm writing these notes as I am playing the game. They may be a little scattered :P...
+<!--more-->
 
 I'm writing these notes as I am playing the game. They may be a little scattered :P
 
 Character creation: No female dwarves? I suppose they could be male *or* female and you just don't know. Hobbits look decent. The Hobbit movie makes hobbits look too long in the torso and short in the leg, but the character models in the selection screen look good. All the races look good in character selection.
-
-![lotr-create.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-create.jpg)
 
 Hobbit class choices are Minstrel, Guardian, Hunter and Burglar. At this screen, I don't know any details about the classes. Those would probably have been described in the manual. Years of MMOs have taught me that I like support characters best, and since Dina on EQ2 is a hobbit bard, I'm going to make a hobbit minstrel here.
 
@@ -50,13 +25,13 @@ Guardian - tank. No surprises there. Hunter - role: Nuker. I'm not sure "nuker" 
 
 Minstrel - role: healer. Well, there ya go. I play healers all the time. So this is a good class for me. I'm able to zoom in and out of the paperdoll on the screen, but why? I don't see anything I can change about her appearance here. The "exit" button is grayed out for some reason.
 
-![lotr-create2.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-create2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-create2.jpg" classes="center" >}}
 
 Continuing zooms me in and lets me choose name and appearance. Looks roughly analagous to EQ2's character creation, way beyond EQ1 and WoW, fewer sliders than Vanguard. One of the sample hobbit girl names is Dora :) Choosing Tipa which, according to the guidelines, is a very valid hobbit name. It should be! I took it from one.
 
 Eye color - most selections are way too bold a color and look unreal. The very left edge of the color chart has some paler shades. I choose pale blue like that woman from that 80s cop show with those disturbingly pale eyes. What was her name...
 
-![lotr-weirdhair.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-weirdhair.jpg)Hair styles - all suck. Apparently hobbit women have a thing for sideburns as it seems half the styles have them. I swear this Cleopatra bob has hair glued to her face.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-weirdhair.jpg" classes="fig-20" >}}Hair styles - all suck. Apparently hobbit women have a thing for sideburns as it seems half the styles have them. I swear this Cleopatra bob has hair glued to her face.
 
 Body type - slider goes from big butt, skinny shoulders to skinny butt, fat shoulders. Weird.
 
@@ -64,7 +39,7 @@ Origin - three selections, and each changes the default color selections for eye
 
 Entering Middle Earth. Transition screen with game hints like old EQ1. Oh good, screenshots now save to disk instead of having to tab out to Paint and paste them in.
 
-![lotr-ingame.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-ingame.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-ingame.jpg" classes="center" >}}
 
 UI: Hey, where have I seen this before? Oh yeah, WoW. I wonder if I need to be told that NPCs with no special role are TOWNSPERSONS. Shouting information at me that I don't need to know. Just like WoW and EQ2, I can tear off the tabs of the chat windows. Tab for IMs. Instant messaging? Another anachronistic term. That could be cool, though, if it allowed for talking with out-of-game IM clients.
 
@@ -86,7 +61,7 @@ Jumping and falling animation is nice. Alone of all the Hobbits, I wear shoes. I
 
 Using the generic Townspeople gives me little FFXI-like blurbs about how dangerous writing letters is these days.  Tipa of the Harfoots is leaving the post office! Bam! Loading screen! A voiceover tells me that my road is "fraught with danger" in an upper class British accent.
 
-![lotr-sky.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-sky.jpg)First look at the outdoors. Very EQ2-ish. The stars Rigel, Betelgeuse and the other stars of the constellation Orion are bright in the sky, albeit the wrong color. Or maybe hobbits are somewhat colorblind. Ursa Major, Ursa Minor and there, the North Star. Nice touch. These are the skies of Earth.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-sky.jpg" classes="fig-20" >}}First look at the outdoors. Very EQ2-ish. The stars Rigel, Betelgeuse and the other stars of the constellation Orion are bright in the sky, albeit the wrong color. Or maybe hobbits are somewhat colorblind. Ursa Major, Ursa Minor and there, the North Star. Nice touch. These are the skies of Earth.
 
 Pressing some buttons. Here's the "Social" window. Three hobbits here in Green Hill Country and we're all level 1. Now five of us -- hunter, two minstrels, a guardian and a burglar. Sounds like a nice group! But we're all in our own instance. Raid window shows that yes, there are raids, and they can have four groups. Deed Log. Can I own property, I wonder? But it looks like a list of quests of some sort. Tabs for quest type and location. Why not just call them Quests? They sure haven't been shy about using other MMO slang. Inventory, skills, traits... now we know what all those characteristics we acquired do. Fellowship skills, I wonder, do you gain skills in acting as a group? I wonder if those are like formations.
 
@@ -100,7 +75,7 @@ Ugh, how do I equip this knife? It's in my bags but I don't know how to equip it
 
 Aha! I had dragged the combat window over that bag window. Silly me.
 
-![lotr-door.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-door.jpg)Okay, kung-fu spider-killing action. Pretty standard. Spammed my two special attacks and did a heal for good measure. I didn't have to target myself for the heal, which is nice. Spiders are non-aggro, I wonder why we must kill them? Why not just run past them? Combat is just like WoW, cooldown timers and all. Oh look, a tiny spider carapace, I will treasure it forever. I can't remember if Bilbo looted spider parts while fighting them in Mirkwood, but maybe we can start a new tradition. I wonder if doors need huge labels above them telling us this is a door?
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-door.jpg" classes="fig-20" >}}Okay, kung-fu spider-killing action. Pretty standard. Spammed my two special attacks and did a heal for good measure. I didn't have to target myself for the heal, which is nice. Spiders are non-aggro, I wonder why we must kill them? Why not just run past them? Combat is just like WoW, cooldown timers and all. Oh look, a tiny spider carapace, I will treasure it forever. I can't remember if Bilbo looted spider parts while fighting them in Mirkwood, but maybe we can start a new tradition. I wonder if doors need huge labels above them telling us this is a door?
 
 More kung-fu spider killing action, I now have enough spider parts to make my own spider. Oops, door locked. Hope Black Rider doesn't come for me. At least I know I run faster than Boffin. Bwahahahaa. I wonder if I can betray to Mordor.
 
@@ -126,7 +101,7 @@ Refugee! Chicken! Chicken! Refugee! Refugee! Snake!
 
 Snake? But... that's a person. Oh wait, it's another player. So. Snake Pliskin. I thought you were dead. Mundo Sackville-Baggins haughtily informs me that the only person who wants to talk to me in this whole town, is Amdir. I feel so loved. Well, when I lead the dread legions of Mordor here, you just remember how friendly you were.
 
-![lotr-amdir.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-amdir.jpg)Hey Amdir. Why are you leaning pathetically against this tree? Ranger up! Whoa. He wants me to take his place in the defense of the town. I guess he *does* want me dead. Grrr. Just give me that 40 copper... and your gloves... thanks.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-amdir.jpg" classes="fig-20" >}}Hey Amdir. Why are you leaning pathetically against this tree? Ranger up! Whoa. He wants me to take his place in the defense of the town. I guess he *does* want me dead. Grrr. Just give me that 40 copper... and your gloves... thanks.
 
 I have to talk to a Captain Brackenbrook, who doesn't trust Rangers, but will trust me, who was just seen talking to one. Okay. And I get 50 more bright shiny coppers just for saying hello! OKAY! Hmm my friend Celandine, whom I have come all this way to see, won't speak with me.
 

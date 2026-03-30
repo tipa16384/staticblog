@@ -3,44 +3,21 @@ date: '2022-02-28T08:33:52-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Setting the Scope"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/02/28/7drl-building-an-engine-setting-the-scope/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This weekend, I added weapons, monsters only move when you move, and I added flags to tell if items were identified, cursed, wielded or worn...."
+categories:
   - "7DRL"
   - "Rogue-Likes"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot-5.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot-5.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-5.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-5.png"
 ---
+This weekend, I added weapons, monsters only move when you move, and I added flags to tell if items were identified, cursed, wielded or worn....
+<!--more-->
 
 This weekend, I added weapons, monsters only move when you move, and I added flags to tell if items were identified, cursed, wielded or worn. Each flag multiplies the complexity of the code by at least three times, but it is flags like these that are central to the Roguelike experience. How many flags I choose to implement has a direct correlation to how the game plays... and whether I can finish it at all.
 
 But first, regarding the music to the game. That kalimba song I have now is pretty bad. I could make the excuse that for the past few months I have been working on mandolin, if that hadn't sounded even worse when I recorded it. But this past weekend, I saw a tweet that pointed to [an online synthesizer called the Viktor NV-1](https://nicroto.github.io/viktor/). Some of the patches it has are pretty cool. So maybe abandon me performing music and just use *that*.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/02/image-1024x515.png)](https://chasingdings.com/wp-content/uploads/2022/02/image.png)The Viktor NV-1 synthesizer
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/02/image-1024x515.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/02/image.png)The Viktor NV-1 synthesizer
 
 Back to the fun stuff.
 

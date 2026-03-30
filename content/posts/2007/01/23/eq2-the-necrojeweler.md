@@ -3,47 +3,26 @@ date: '2007-01-23T09:14:06-05:00'
 draft: false
 title: "EQ2: The Necrojeweler"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/01/23/eq2-the-necrojeweler/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Commissioner Dorah Tanglewood, Vindicator of the Coin. Her full name now is twice as long as she is tall, she dinged 60, completed her third..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/teaser.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/01/teaser.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/teaser.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/teaser.jpg"
 ---
+Commissioner Dorah Tanglewood, Vindicator of the Coin. Her full name now is twice as long as she is tall, she dinged 60, completed her third...
+<!--more-->
 
-![teaser.jpg](https://chasingdings.com/wp-content/uploads/2007/01/teaser.jpg)Commissioner Dorah Tanglewood, Vindicator of the Coin. Her full name now is twice as long as she is tall, she dinged 60, completed her third tradeskill title and the final quest for the Court of the Coin. But there's a lot yet left to do.
+
+
+Commissioner Dorah Tanglewood, Vindicator of the Coin. Her full name now is twice as long as she is tall, she dinged 60, completed her third tradeskill title and the final quest for the Court of the Coin. But there's a lot yet left to do.
 
 It takes 67 tradeskill writs -- over four hundred combines using between 1200 and 1600 of each of four common harvests (adamantine, azurite, topaz and hanging roots for jewelers) -- to gain a faction level with the Coalition of Tradesfolk. Sunday, Dorah gained the third faction with them, "warmly" -- over twelve hundred combines using over ten thousand harvests -- to gain the title of "Commissioner".
 
 It was making me crazy. I kept putting it off, only doing a half-dozen writs or so whenever the guild was about to level. But Sunday, I just started doing them... and kept on doing them... until I was done. I wrote a program to let me know how things were going. Is that pathetic? I dunno.
 
-![morewrits1.gif](https://chasingdings.com/wp-content/uploads/2007/01/morewrits1.gif)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/01/morewrits1.gif" classes="center" >}}
 
 I had to borrow the money to buy the title (yeah, the Coalition isn't the kind of place that gives things for free). The reason I didn't have the money on Dorah was... well... okay, here's how it went.
 
@@ -77,13 +56,13 @@ I had to borrow the money to buy the title (yeah, the Coalition isn't the kind o
 
 > *Sighing, Dorah kicked Starsparkle into a trot and rode through the cobbled streets of West Freeport.*
 
-![devilpony.jpg](https://chasingdings.com/wp-content/uploads/2007/01/devilpony.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/01/devilpony.jpg" classes="center" >}}
 
 After that, dinging 60 was almost anticlimactic. A couple of good groups in the Courts of Innovation and the Sanctum of the Scaleborn brought her halfway through 59. The replacement tank couldn't take that kind of damage, so we adjourned to the Breeding Grounds to hurt some drakes. You always lose people moving from one place to another, and by the time we were all there, the healers had left to join raids on their mains. We were raiding soon as well, but... 60 so close... I logged Dera in to heal until Dorah dinged.
 
 And finally... DING! 60! New sexy Nightshade pet!
 
-![dorah60.jpg](https://chasingdings.com/wp-content/uploads/2007/01/dorah60.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/01/dorah60.jpg" classes="center" >}}
 
 Once 60, she could (and did) pick up the final quest for the Court of the Coin, "Loyalty Pays". Kill 15 Blades guards and 15 Truth guards, take a test and gain a title, "The Vindicator of the Coin".
 

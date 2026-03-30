@@ -3,40 +3,17 @@ date: '2011-12-22T07:51:44-05:00'
 draft: false
 title: "STO: Assimilated"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/12/22/sto-assimilated/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Star Trek Online is giving away light sabers! Well, light lipra and light bak'leths. You don't even have to sell your soul to the Jedi..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/glowy.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/12/glowy.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/glowy.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/glowy.png"
 ---
+Star Trek Online is giving away light sabers! Well, light lipra and light bak'leths. You don't even have to sell your soul to the Jedi...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/glowy.png" title="May the force be with you" class="align-center" >}}
+
 
 Star Trek Online is giving away light sabers! Well, light lipra and light bak'leths. You don't even have to sell your soul to the Jedi Council or the Sith Lords. Just talk to a Ferengi in Q's Winter Wonderland. Unlike other melee weapons, though, these have an energy edge and don't ignore shields (despite what the description reads). That's one of the huge advantage of melee weapons in Star Trek Online; they go right through the shields and do damage to the now-unprotected flesh. Or flesh-like substance.
 
@@ -48,7 +25,7 @@ We made it fine to the Borg queen room, but the party leader disconnected. I ass
 
 I play a medic. I am trying to keep people alive. So that was a waste of time.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/assim-426x480.png" title="My assimilated ships" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/assim-426x480.png" title="My assimilated ships" classes="center" >}}
 
 I repeated Borg Special Task Force space missions on my Klingon commander until I got the complete Borg ship set. I'm now doing the same for my Federation commander with HER ship. I do love that Nebula. It took me a few minutes to get back into the swing of things with the Nebula, but I found it has far more survivability than my Klingon's Kar'Fi carrier. Though the Nebula's DPS isn't that great, its huge variety of buffs and debuffs combine to bring it out on top.
 
@@ -64,4 +41,4 @@ Anyway.
 
 Aside from the daily STO cow clicking, I think I need to spend some time in some other MMO for a little while. Maybe Guild Wars.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-22-06-42-01-91-480x384.jpg" title="Captain's Table" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/GameClient-2011-12-22-06-42-01-91-480x384.jpg" title="Captain's Table" classes="center" >}}

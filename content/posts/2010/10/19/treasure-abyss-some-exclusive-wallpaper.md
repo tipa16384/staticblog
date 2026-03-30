@@ -3,43 +3,23 @@ date: '2010-10-19T06:33:19-05:00'
 draft: false
 title: "Treasure Abyss: Some exclusive wallpaper!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/19/treasure-abyss-some-exclusive-wallpaper/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
   - "Treasure Abyss"
+tags:
   - "Bandai"
   - "Namco"
   - "Wallpaper"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/TAWallpaper-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/TAWallpaper-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/TAWallpaper-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/TAWallpaper-480x360.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/TAWallpaper-480x360.jpg "Treasure Abyss wallpaper")](https://chasingdings.com/wp-content/uploads/2010/10/TAWallpaper.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/TAWallpaper.jpg)
 
 A big "thank you" goes out to the kind folks at Namco Bandai, who sent me this very cool [Treasure Abyss](http://apps.facebook.com/treasureabyss/) wallpaper this morning. It features the characters who pop up now and then on their [Facebook Wall](http://www.facebook.com/apps/application.php?id=110417579004579) to introduce new features or dungeons. Namco Bandai has kindly offered to let me post this up on the blog.
 

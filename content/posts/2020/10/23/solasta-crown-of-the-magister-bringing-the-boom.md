@@ -3,42 +3,20 @@ date: '2020-10-23T07:28:17-05:00'
 draft: false
 title: "Solasta: Crown of the Magister -- Bringing the Boom"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/23/solasta-crown-of-the-magister-bringing-the-boom/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "While writing up yesterday's post about my first experiences with Solasta, the D&D 5e-compatible RPG released to Steam early access a couple days ago, I..."
+categories:
   - "Steam Games"
+tags:
   - "Crown of the Magister"
   - "D&d"
   - "RPG"
   - "Solasta"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/20201022225458_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/20201022225458_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022225458_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022225458_1.jpg"
 ---
+While writing up yesterday's post about my first experiences with Solasta, the D&D 5e-compatible RPG released to Steam early access a couple days ago, I...
+<!--more-->
 
 While writing up yesterday's post about my first experiences with Solasta, the D&D 5e-compatible RPG released to Steam early access a couple days ago, I found that I'd actually made the most boring adventuring party possible.
 
@@ -46,7 +24,7 @@ Tank, healer, nuker, melee dps -- those rules are enshrined in D&D legend as the
 
 I had this vision... this vision of three wizards and a cleric... some crazy, wild strategy that would just break the game in so many ways... and so I restarted.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201022232249_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201022232249_1-1024x576.jpg" classes="center" >}}
 
 Belial, the loremaster wizard from my original group, dumped the lesser beings and tapped his sisters, Melial the nature wizard and Delial the sneaky arcane wizard, to join him in adventure. He kicked the healing-focused cleric to the curb and recruited his battle cleric cousin instead.
 
@@ -58,7 +36,7 @@ Due to the various backgrounds available, wizards can easily pick up some of the
 
 His philosophy: There's no need to heal damage you didn't take because the enemies were already dead.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201023002707_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201023002707_1-1024x576.jpg" classes="center" >}}
 
 Restarting answered some questions I'd had about the tutorial experience. I thought, with three wizards, that some of them would have the same story, but no. All four tutorial stories were played, with the cleric taking on the wolf battle, and one of the wizards taking on the stealth mission (both the new wizards are equally stealthy).
 

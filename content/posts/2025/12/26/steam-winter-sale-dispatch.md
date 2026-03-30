@@ -3,41 +3,19 @@ date: '2025-12-26T09:00:00-05:00'
 draft: false
 title: "Steam Winter Sale: Dispatch"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/12/26/steam-winter-sale-dispatch/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Part superhero cartoon, part workplace comedy, part 911 Operator, this collaboration between ex-Telltale devs and Critical Role hits more than it misses."
-description: "Part superhero cartoon, part workplace comedy, part 911 Operator, this collaboration between ex-Telltale devs and Critical Role hits more than it misses."
-tags:
+categories:
   - "Adventure"
   - "Visual Novel"
+tags:
   - "Critical Role"
   - "Dispatch"
   - "Telltale Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/dispatch.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/12/dispatch.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dispatch.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/dispatch.jpg"
 ---
+Part superhero cartoon, part workplace comedy, part 911 Operator, this collaboration between ex-Telltale devs and Critical Role hits more than it misses.
+<!--more-->
 
 I bought a bunch of games at this latest Steam winter sale; Dispatch was the first I finished.
 
@@ -53,7 +31,7 @@ The main character, Robert Robertson III, AKA Mecha Man, through his long experi
 
 At the end of each chapter, you're told how your choices and performance matched with other players worldwide; in my worst chapter, I only did better at my shift than 1% of the world's other players. My best shift was 80% better. That said, your shift performance doesn't appear to have a large effect on the game plot, with some clear exceptions.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/20251220153323_1-1024x429.jpg" title="Blonde Blazer and Mecha Man have a moment" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/20251220153323_1-1024x429.jpg" title="Blonde Blazer and Mecha Man have a moment" classes="center" >}}
 
 It wouldn't be a visual novel without romance options; Robert has two: Renowned Super Hero Blonde Blazer, or punk ex-villain (well, *perhaps* ex) Invisigal. Or, he can chart the narrow course between them and just be friends. These are the sorts of choices that lead to *Dispatch*'s estimated ten endings (I have seen estimates of up to 28, and as few as 6, but there's considerable overlap).
 

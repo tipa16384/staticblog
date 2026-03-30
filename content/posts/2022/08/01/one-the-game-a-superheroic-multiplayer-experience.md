@@ -3,43 +3,22 @@ date: '2022-08-01T07:00:00-05:00'
 draft: false
 title: "One: The Game - A Superheroic Multiplayer Experience"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/01/one-the-game-a-superheroic-multiplayer-experience/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
+tags:
   - "AI"
+  - "Blaugust"
   - "Craiyon"
   - "Gpt-3"
   - "One the Game"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-12.00.18-A-group-of-diverse-superheroes-photographed-in-a-realistic-style-with-bright-cartoony-colors.-They-are-posed-heroically-with-a-cityscape-in-the-backg.png"
 ---
+I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...
+<!--more-->
 
 I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here's its idea for August 1st.
 
@@ -57,7 +36,7 @@ Unlike other games in the superhero genre, "One: The Game" does not feature comb
 
 The game is a sequel of sorts to the Super Nintendo's single player action game, "One: Kagayake! Kuruneko", which is remembered in the present day by its groundbreaking use of cel-shaded graphics.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/craiyon_204224_Blaugust_s_costume_is_mainly_green_and_brown__to_represent_her_connection_to_nature__.png" title="Blaugust, the Super Hero in \"One\"." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_204224_Blaugust_s_costume_is_mainly_green_and_brown__to_represent_her_connection_to_nature__.png" title="Blaugust, the Super Hero in \"One\"." classes="center" >}}
 
 I named the first character I created in "One", "Blaugust".  Blaugust is a superhero who has the ability to control plants. She can make them grow, wilt, and bloom with just a thought. She often uses her powers to help people in need, whether it's by growing food for them or creating a beautiful garden to lift their spirits. Blaugust is a kind and compassionate hero who always tries to see the best in people.
 

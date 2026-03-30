@@ -3,40 +3,18 @@ date: '2023-12-14T07:08:33-05:00'
 draft: false
 title: "Advent of Code Day 13 -- Point of Incidence"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/14/advent-of-code-day-13-point-of-incidence/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world."
-description: "I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world."
-tags:
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Mirrors"
   - "Volcano"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-13-22.52.31-An-ash-field-dotted-with-boulders-and-large-frameless-standless-mirrors-over-six-feet-tall-reflecting-each-other-the-ash-and-the-rocks.-In-the-f.png"
 ---
+I think if I went to Iceland and stood on one of those lava fields, I would be convinced I was in another world.
+<!--more-->
 
 My boyfriend walked up to me as I was solving this puzzle and thought I was still working on *yesterday's* puzzle, because they looked the same.
 
@@ -44,9 +22,9 @@ They do, kinda.
 
 I read this puzzle before I left to go to work today. Actually back in the actual real office. I didn't have any time to work on it, but I was thinking of it through the day. When I finally sat down to it after dinner, I quickly got part 1 working. Part 2, I had to think about -- but I think my approach to Part 1 made Part 2 pretty easy. Both parts run almost instantly, so I must have done something right.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-16-1024x643.png" title="Midjourney" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-16-1024x643.png" title="Midjourney" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-17.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-17.png" classes="fig-20" >}}
 
 You were safely launched onto Lava Island by one of the hot springs you found. Unfortunately, there is no lava to be found! Without lava, the elves at Hot Springs can't forge the parts to get Metal Island working to get sand flowing to get purification happening and water flowing and snow falling and everything else you have encountered so far. You resolutely head toward the volcano ahead of you that is suspiciously *not* spewing lava, when you trip over a mirror embedded in the ash. Turns out, there are hundreds of mirrors, and it's your job to map the reflections you see to determine where, exactly, the mirrors are. (Unlike in the renderings, the mirrors on Lava Island only reflect the rocks, the ash, and the other mirrors. They themselves are nearly invisible.)
 

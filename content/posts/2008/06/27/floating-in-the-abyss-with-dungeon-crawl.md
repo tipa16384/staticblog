@@ -3,40 +3,18 @@ date: '2008-06-27T08:11:38-05:00'
 draft: false
 title: "Floating in the abyss with Dungeon Crawl"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/27/floating-in-the-abyss-with-dungeon-crawl/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been traveling a lot lately, and have had a lot less time to sit in front of a computer and game for any length..."
+categories:
   - "Other Games"
+tags:
   - "Dungeon Crawl"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/abyss.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/abyss.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/abyss.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/abyss.png"
 ---
+I've been traveling a lot lately, and have had a lot less time to sit in front of a computer and game for any length...
+<!--more-->
 
-![abyss.png](https://chasingdings.com/wp-content/uploads/2008/06/abyss.png)
+
 
 I've been traveling a lot lately, and have had a lot less time to sit in front of a computer and game for any length of time. Luckily, I have my Asus Eee -- the latest electronic device to beg its way into my heart -- and [Dungeon Crawl](http://www.dungeoncrawl.org/).
 
@@ -58,7 +36,7 @@ Since none of the stealth classes can really take a hit, the best opening attack
 
 That uber character made it to level 8. Stealth doesn't matter much when you have half a dozen monsters running after you, many casting spells.
 
-![stp61232.JPG](https://chasingdings.com/wp-content/uploads/2008/06/stp61232.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/06/stp61232.JPG" classes="center" >}}
 
 Once back at home, I installed Crawl on my Linux desktop and got serious about it. The FIRST thing I did was to cheat. I wrote a script that would back up save files so Crawl wouldn't be able to delete them when I died. That wouldn't make me a god in game (demi-god, btw, is a possible character race), nor make me magically able to kill things I couldn't kill (like hydras...), but at least I might be able to see the game.
 

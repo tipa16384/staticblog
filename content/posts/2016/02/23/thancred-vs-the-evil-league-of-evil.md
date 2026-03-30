@@ -3,40 +3,17 @@ date: '2016-02-23T22:59:25-05:00'
 draft: false
 title: "Thancred vs The Evil League of Evil"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2016/02/23/thancred-vs-the-evil-league-of-evil/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's been FOREVER, and I know it! So long that I just remember the highlights of what we did on our last \"story night\" before..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2016/02/vlcsnap-2016-02-23-21h55m49s92.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2016/02/vlcsnap-2016-02-23-21h55m49s92.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2016/02/vlcsnap-2016-02-23-21h55m49s92.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2016/02/vlcsnap-2016-02-23-21h55m49s92.jpg"
 ---
+It's been FOREVER, and I know it! So long that I just remember the highlights of what we did on our last "story night" before...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2016/02/vlcsnap-2016-02-23-21h55m49s92.jpg" title="Soooo Eeeeeevil" class="align-center" >}}
+
 
 It's been FOREVER, and I know it! So long that I just remember the highlights of what we did on our last "story night" before we ran out of main story quest and moved into the side stories of the level 60 content.
 
@@ -56,7 +33,7 @@ Pushing back with a knife, as Aymeric was stabbed by an agent of the Church. Sta
 
 The bishop escaped at the last moment, and took a final hostage, a young girl, with him to the parapet and dangled her off the side of the wall, daring us to try and take him.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2016/02/vlcsnap-2016-02-23-22h50m32s66.jpg" title="Saved by the Lizard!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2016/02/vlcsnap-2016-02-23-22h50m32s66.jpg" title="Saved by the Lizard!" classes="center" >}}
 
 The bishop was so busy monologuing that he forgot what he held, and dropped the girl into the air, where she fell, and fell, and fell, and fell onto Vidofnir's back. The dragon had been flying to Ishgard to tell us of Hraesvelgr's decision to consider an alliance, when she saw an opportunity to show the true nature of the good dragons.
 

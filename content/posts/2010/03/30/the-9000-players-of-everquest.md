@@ -3,50 +3,25 @@ date: '2010-03-30T07:00:17-05:00'
 draft: false
 title: "The 9000 players of EverQuest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/30/the-9000-players-of-everquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "OpenEdge1 has for awhile been estimating the number of subscribers to a game based on the number of its players who report their usage with..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-29-21-43-48-34.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-29-21-43-48-34.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-29-21-43-48-34.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-29-21-43-48-34.jpg"
 ---
+OpenEdge1 has for awhile been estimating the number of subscribers to a game based on the number of its players who report their usage with...
+<!--more-->
 
 OpenEdge1 has for awhile been estimating the number of subscribers to a game based on the number of its players who report their usage with XFire. [His latest calculations](http://simple-n-complex.blogspot.com/2010/03/xfire-game.html) put Star Trek Online at 117K players, which more or less jibes with Cryptic's reports. I'm dubious about the other standings. His formula would give WoW 6.3 million players in the West, which I believe would be a real high water mark for them. Of oft-repeated 11.5 million players, the majority were in Asia, and unlikely to be XFire users.
 
 EverQuest I and II didn't come out so well. OpenEdge1's formula gives EQ2 a bare 35K subscriptions, and EQ1 only 9K players spread out over all their servers. I can say from personal experience that EverQuest is far busier than that. It's more likely that the sorts of people who play the EverQuests use XFire less than the sorts of people who play WoW and EVE Online. I'm an aberration -- I play all of them!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-29-21-43-48-34.jpg" title="Bristlebane's Quest" class="align-center" >}}
-
 April 1st comes Thursday. April Fools day in the USA is Bristlebane's Day in Norrath. The Image of Bristlebane already prowls the Plane of Knowledge in EverQuest, handing out quests to run around the world finding rare things and bringing them back. Modern EQ quests offer a wide variety of rewards. You can often ignore rewards for which you have no use and choose to get money or just raw experience instead. Bristlebane's quest has a vast variety of possible rewards, including special fireworks and experience potions. I've been swigging experience potions like water flasks since my return to the game.
 
 You won't find me on EverQuest on Bristlebane's Day, though. I'll be in EQ2, doing their ONE DAY ONLY events. It'll be a nice break from working on my epic quest in EQ.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-29-23-17-35-40.jpg" title="I assassinate harmless woodland creatures!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-29-23-17-35-40.jpg" title="I assassinate harmless woodland creatures!" classes="center" >}}
 
 Last night was spent relaxing in EQ; aside from a single monster mission (that dinged me to 79), I spent it working on my epic baking skills.
 

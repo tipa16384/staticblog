@@ -3,39 +3,17 @@ date: '2015-01-05T12:53:10-05:00'
 draft: false
 title: "DCUO: Lantern No More"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/05/dcuo-lantern-no-moreflush-with-the-legendary-infusion-of-station-cash-that-came-with-the-new-month/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "DCUO: Lantern No More..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://lh4.googleusercontent.com/-wg_XdA0AXPs/VKqHwhs-46I/AAAAAAAA-N4/PuAq2EDX2Gs/w506-h750/DCGame%2B2015-01-04%2B22-12-37-84.jpg"
-cover:
-  image: "https://lh4.googleusercontent.com/-wg_XdA0AXPs/VKqHwhs-46I/AAAAAAAA-N4/PuAq2EDX2Gs/w506-h750/DCGame%2B2015-01-04%2B22-12-37-84.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh4.googleusercontent.com/-wg_XdA0AXPs/VKqHwhs-46I/AAAAAAAA-N4/PuAq2EDX2Gs/w506-h750/DCGame%2B2015-01-04%2B22-12-37-84.jpg"
+thumbnailImage: "https://lh4.googleusercontent.com/-wg_XdA0AXPs/VKqHwhs-46I/AAAAAAAA-N4/PuAq2EDX2Gs/w506-h750/DCGame%2B2015-01-04%2B22-12-37-84.jpg"
 ---
+DCUO: Lantern No More...
+<!--more-->
 
 DCUO: Lantern No More
 
@@ -49,6 +27,8 @@ This new power set is going to take some getting used to. I'll have to dive into
 
 I'll figure out this game someday.
 
-[#DCUO](https://plus.google.com/s/%23DCUO)  ﻿[![](https://lh4.googleusercontent.com/-wg_XdA0AXPs/VKqHwhs-46I/AAAAAAAA-N4/PuAq2EDX2Gs/w506-h750/DCGame%2B2015-01-04%2B22-12-37-84.jpg)]()
+[#DCUO](https://plus.google.com/s/%23DCUO)  ﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/9mfFP9ueNYG)

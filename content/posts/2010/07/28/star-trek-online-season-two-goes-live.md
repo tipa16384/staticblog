@@ -3,40 +3,19 @@ date: '2010-07-28T06:38:28-05:00'
 draft: false
 title: "Star Trek Online: Season Two goes live"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/28/star-trek-online-season-two-goes-live/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-27-23-44-31-47-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-27-23-44-31-47-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-27-23-44-31-47-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-27-23-44-31-47-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-27-23-44-31-47-480x384.jpg "Rear Admiral, Upper Half Tipa D")](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-27-23-44-31-47.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-27-23-44-31-47.jpg)
 
 Want to see what a Rear Admiral, Upper Half looks like? Just like that. My character is sporting the new Veteran's uniform top and the fleet insignia for the Federation News Service on her left shoulder.
 
@@ -44,7 +23,7 @@ Season Two, which arrived yesterday after considerable anticipation, brings with
 
 **Ship Interiors**
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-27-23-30-52-78-480x270.jpg "Sick Bay")](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-27-23-30-52-78.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-27-23-30-52-78-480x270.jpg" title="Sick Bay" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-27-23-30-52-78.jpg)
 
 I kind of remember being promised that ship interiors would arrive only when they were functional. Maybe function will show up in a later patch, but we can now walk around bits of our ship. My science vessel had the typically cavernous rooms you find all around STO; was the population of the entire galaxy shrunk to half their size recently?
 
@@ -54,7 +33,7 @@ Hoping for a "Ensign, hand me your agonizer!" emote.
 
 **Diplomacy Missions**
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-26-00-00-59-98-480x384.jpg "Romulan diplomacy")](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-26-00-00-59-98.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-26-00-00-59-98-480x384.jpg" title="Romulan diplomacy" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-26-00-00-59-98.jpg)
 
 For those who prefer words to warp cores and meetings to mayhem, STO introduces diplomacy missions. At 10-20 diplomacy points per, becoming a full Federation ambassador at 640 points may seem a ways away, especially considering there's only about ten diplomacy missions currently available.
 
@@ -62,9 +41,9 @@ Once you've rooted out Romulan conspiracies, Changeling infiltrations and dishon
 
 Other mission types, like Aid the Planet and scanning old ship hulks, also gain diplomacy rewards. Diplomacy is folded then into normal play; after awhile, every captain will be an attache or an envoy, but full ambassadors are going to have some grinding to do. In return, they will gain free transwarps to most of the best starbases in the Alpha quadrant and a variety of other perqs.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-10-15-23-50-86-480x269.jpg "The USS Monterey and an illusory Ferengi ship at DS9")](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-10-15-23-50-86.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-10-15-23-50-86-480x269.jpg" title="The USS Monterey and an illusory Ferengi ship at DS9" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-10-15-23-50-86.jpg)
 
-I've already [written a bit about Season Two](https://chasingdings.com/index.php/2010/07/10/sto-how-to-choose-your-dabo-girl/) from its lengthy run on the player test realm.
+I've already [written a bit about Season Two](https://tipa16384.github.io/wkblog/index.php/2010/07/10/sto-how-to-choose-your-dabo-girl/) from its lengthy run on the player test realm.
 
 Player reaction to the mega-patch was still somewhat mixed. Most seemed to enjoy the diplomatic missions, while some griped publicly about the bugs they encountered; fleet member Longasc was perturbed that only the first "Aid the Planet" mission could be completed. Many people were upset that it no longer seemed possible to team up for random "nebula" missions -- issues that are (we hope) being addressed during today's down time.
 

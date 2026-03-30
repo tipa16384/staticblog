@@ -3,38 +3,13 @@ date: '2009-02-21T09:51:56-05:00'
 draft: false
 title: "The lowdown on Wizard 101: What you need to know"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/21/the-lowdown-on-wizard-101-what-you-need-to-know/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's a lot of hidden numbers in Wizard 101. How do you know if a new hat you just got is really better than your..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+There's a lot of hidden numbers in Wizard 101. How do you know if a new hat you just got is really better than your...
+<!--more-->
 
 There's a lot of hidden numbers in Wizard 101. How do you know if a new hat you just got is really better than your old hat? Is accuracy more important for Storm wizards than it is for Life wizards? Is Crowns gear really the best gear?
 

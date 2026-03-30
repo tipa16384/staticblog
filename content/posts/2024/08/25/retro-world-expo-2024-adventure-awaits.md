@@ -3,49 +3,27 @@ date: '2024-08-25T08:00:00-05:00'
 draft: false
 title: "Retro World Expo 2024: Adventure Awaits"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/25/retro-world-expo-2024-adventure-awaits/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "That's another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more..."
-description: "That's another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more..."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "PS2"
   - "Vectrex"
+tags:
   - "Analogue"
   - "Crocs"
   - "Retro World Expo"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_Adventurers_including_a_sorceress_battle_a_giant_kaij_c266c206-cff4-4688-bc8f-5a805d60df73_2.png"
 ---
+That's another Retro World Expo under our belts, and we got Some Stuff. But I could have spent thousands more...
+<!--more-->
 
 I know we're not supposed to use AI images anymore, and especially not for the featured image, but I wanted to and so I did.
 
 I could have gone with this picture, instead, I guess:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/IMG_4590.jpg" title="Kasul knew the assignment" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4590.jpg" title="Kasul knew the assignment" classes="center" >}}
 
 ... but I felt it would be more fun to have folks fighting a giant Pikachu. I had the same sort of picture last year. It's a theme now.
 
@@ -53,27 +31,27 @@ Alright. I went to the expo today hoping to find either or both of "Un Jammer La
 
 I also wanted to work on my Vectrex game collection. And boy oh boy, there were a lot of Vectrex games there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/1-converted-1024x640.jpg" title="Collage of Vectrex games" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/1-converted-1024x640.jpg" title="Collage of Vectrex games" classes="center" >}}
 
 They had games for the light pen, games for the 3D imager, games complete in box, loose games... I'm constantly surprised at how much love there is for this old forgotten console. A guy in the Retro Console booth was happily playing Defender on it when I walked by.
 
 The ones that look new and complete in box were auction lots. I figured, conservatively, each lot would go for a minimum of $300 in auction. Minimum. That's money I don't have. With a vacation coming up, too... it just wasn't going to happen. I don't think I'll ever see such a pristine collection of Vectrex games in one place again. Even when it was *new*, I never saw so many games for it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/IMG_4585.jpg" title="I snuck a picture of Kasul while he wasn't looking." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4585.jpg" title="I snuck a picture of Kasul while he wasn't looking." classes="center" >}}
 
 Okay, so what games *did* we get? Well, we got a few. Most of them even worked when we got them home. There was even a Vectrex game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/Baldurs-Gate-Dark-Alliance_SLUS-20035_20240824193014-1024x768.png" title="Baldur's Gate: Dark Alliance" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/Baldurs-Gate-Dark-Alliance_SLUS-20035_20240824193014-1024x768.png" title="Baldur's Gate: Dark Alliance" classes="center" >}}
 
 **Baldur's Gate: Dark Alliance** for the PlayStation 2 is an action RPG by the same folks who did Champions: Return to Arms that I talked about the other day. The graphics and control are somewhat better. You play an adventurer who comes to Baldur's Gate, is robbed, and is thrown into levels and layers of deception and intrigue as you struggle to get back what was stolen from you.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_163423.png" title="dum de dum" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_163423.png" title="dum de dum" classes="center" >}}
 
 **Final Fantasy Legend II -- Gameboy**
 
 Presumably a sequel to Final Fantasy Legend, that weird take on mobile RPGs that I played a bit back. I think it probably was released as part of some other series in Japan and just renamed to be Final Fantasy because *every* JRPG has to be Final Fantasy here or something. The first one had nothing to do with Final Fantasy's normal themes of heroes of lights, crystals, Magitek, chocobos and stuff.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_163457.png" title="do be do be do" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_163457.png" title="do be do be do" classes="center" >}}
 
 **Mahjong Quest -- GB Color**
 
@@ -81,13 +59,13 @@ Kasul continues on his endless quest to obtain every Mahjong game. This is the l
 
 I looked it up. It's solo Mahjong, the tile matching puzzle game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_163533.png" title="do wop do wop" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_163533.png" title="do wop do wop" classes="center" >}}
 
 **Mazes of Fate -- GBA**
 
 First person RPG in the vein of Eye of the Beholder and similar titles.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_163713.png" title="Why why not?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_163713.png" title="Why why not?" classes="center" >}}
 
 **Wai Wai Mahjong -- PC Engine**
 
@@ -95,7 +73,7 @@ It's a Mahjong game that Kasul didn't have, and now he does. We didn't see any O
 
 Yes, the Analogue Pocket can play PC Engine games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_164402.png" title="dum diddly dum" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_164402.png" title="dum diddly dum" classes="center" >}}
 
 **DragonQuest Monsters -- GBA**
 
@@ -103,27 +81,27 @@ All these games were run on, and screenshotted from, my Analogue Pocket, btw. Su
 
 I think DQ Monsters is a monster breeding game, like Digimon, but I'm not sure. We also bought DragonQuest Monsters 2, but I couldn't get it working.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_164458.png" title="boing boing" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_164458.png" title="boing boing" classes="center" >}}
 
 **Dino Breeder -- Gameboy**
 
 We saw a lot of pet raising games. A few hamster ones, a bunny one, and bins and bins of Tamagotchi and clones. This is one such. It has cute dinos.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_164542.png" title="You gotta know when to hold'em" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_164542.png" title="You gotta know when to hold'em" classes="center" >}}
 
 **Card Game -- Gameboy**
 
 That's the name of the game. It has four different card games you can play, including one called "USA game". I'd have thought that was Texas Hold'em, but it seemed to be a draw poker variant.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_164800-2.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_164800-2.png" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_164751-2.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_164751-2.png" classes="center" >}}
 
 **Tamagotchi: Osutchi and Mesutchi -- Gameboy**
 
 You can argue with my romanization of the title if you like. This version of Tamagotchi has its own sound system so you can carry the cartridge around with you. When your little tama needs attention, it will let you know, and you can pop it into your Gameboy and see what it needs.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/20240824_195917.png" title="Bum Bummmmm" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/20240824_195917.png" title="Bum Bummmmm" classes="center" >}}
 
 **Ogre Battle Gaiden: Prince of Zenobia -- Neo Geo Pocket Color**
 

@@ -3,37 +3,12 @@ date: '2008-02-21T14:27:18-05:00'
 draft: false
 title: "Sympathy for the Daniel"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/21/sympathy-for-the-daniel/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's a boy out there, crying in shame because he cannot understand blogs...."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+There's a boy out there, crying in shame because he cannot understand blogs....
+<!--more-->
 
 There's a boy out there, crying in shame because he cannot understand blogs.
 

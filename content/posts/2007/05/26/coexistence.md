@@ -3,39 +3,16 @@ date: '2007-05-26T09:13:56-05:00'
 draft: false
 title: "Coexistence"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/05/26/coexistence/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Hartford is sponsoring a traveling exhibit of billboard-sized artworks on the theme of Coexistence created by the Museum on the Seam in Jerusalem. From..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/05/stp60417.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/05/stp60417.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/stp60417.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/stp60417.jpg"
 ---
+The Hartford is sponsoring a traveling exhibit of billboard-sized artworks on the theme of Coexistence created by the Museum on the Seam in Jerusalem. From...
+<!--more-->
 
-![stp60417.jpg](https://chasingdings.com/wp-content/uploads/2007/05/stp60417.jpg)
+
 
 The Hartford is sponsoring a traveling exhibit of billboard-sized artworks on the theme of Coexistence created by the [Museum on the Seam](http://www.coexistence.art.museum/) in Jerusalem. [From the Hartford's website](http://www.thehartford.com/coexistence/):
 

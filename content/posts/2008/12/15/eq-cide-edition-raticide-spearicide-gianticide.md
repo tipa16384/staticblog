@@ -3,27 +3,12 @@ date: '2008-12-15T09:42:18-05:00'
 draft: false
 title: "EQ 'Cide edition: Raticide, Spearicide, Gianticide."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/15/eq-cide-edition-raticide-spearicide-gianticide/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Rejected post titles: \"The Spear-it of Christmas\", \"The Mob that Dis-speared\", \"Spear-ritually yours\"...."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Doomfire"
   - "Frostfell"
   - "Great Divide"
@@ -31,20 +16,13 @@ tags:
   - "Plane of Disease"
   - "Spear of Fire"
   - "The Burning Lands"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg"
 ---
+Rejected post titles: "The Spear-it of Christmas", "The Mob that Dis-speared", "Spear-ritually yours"....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-12-20-34-02-6.jpg "eqgame-2008-12-12-20-34-02-6")
+
 
 Rejected post titles: "The Spear-it of Christmas", "The Mob that Dis-speared", "Spear-ritually yours".
 
@@ -58,7 +36,7 @@ So, thanks :)
 
 We stuck around for another couple of hours, working on xp and watching that spear proc. Ding 67; Tarfu and Elryandel both made around 6 AAs, and Elry also dinged 70, so grats there :)
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-12-22-42-47-23.jpg "eqgame-2008-12-12-22-42-47-23")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-22-42-47-23.jpg" title="eqgame-2008-12-12-22-42-47-23" classes="center" >}}
 
 There wasn't any real reason to hang around the Plane of Fire any more. I kinda thought it would be cool to try and kill Pyronis, the giant frog that is the easiest of PoF's raid bosses, but I wasn't sure we would have the dps or healing for it.
 
@@ -68,7 +46,7 @@ I last did this fight for my rogue about five years ago. I don't remember it bei
 
 Aside from trying to put any of the vague threads of half-decade old memories together into some sort of real thought, it wasn't that exciting. But it SHOULD have been! It was back when I, Cass and Szel trio'd it so long ago. Cass and Szel had just joined Crimson Eternity, too :)
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-12-23-07-33-30.jpg "eqgame-2008-12-12-23-07-33-30")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-23-07-33-30.jpg" title="eqgame-2008-12-12-23-07-33-30" classes="center" >}}
 
 With that done, we figured we'd finish up the group Frostfell mission in the Great Divide. According to the mission text, we would kill five of Old Frostbeard's summoned storms, then Frostbeard himself. He's a level 72 group kill with a couple of nasty AEs -- one that dots you a little and halves your attack speed, and the other that dots you A LOT. It would have been nice if we'd looked this guy up before we started the fight, because we went in... um... we went in COLD.
 

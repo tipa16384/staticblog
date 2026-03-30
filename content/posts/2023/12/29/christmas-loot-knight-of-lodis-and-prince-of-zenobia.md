@@ -3,42 +3,20 @@ date: '2023-12-29T09:10:47-05:00'
 draft: false
 title: "Christmas Loot: Knight of Lodis and Prince of Zenobia"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/29/christmas-loot-knight-of-lodis-and-prince-of-zenobia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "For Christmas, I got two more entries in the Tactics Ogre/Ogre Battle series... one I have played before, and the other is going to need some work to be able to play... and understand."
-description: "For Christmas, I got two more entries in the Tactics Ogre/Ogre Battle series... one I have played before, and the other is going to need some work to be able to play... and understand."
-tags:
+categories:
   - "Pokemon"
   - "Tactical RPG"
+tags:
   - "Analogue"
   - "Gameboy Advance"
   - "Ogre Battle"
   - "Tactics Ogre"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/IMG_4125-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/IMG_4125-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_4125-scaled.jpg"
 ---
+For Christmas, I got two more entries in the Tactics Ogre/Ogre Battle series... one I have played before, and the other is going to need some work to be able to play... and understand.
+<!--more-->
 
 I have this theory about Pokemon. It's a scam built on a web of lies. See the Pokemon in the picture? Sure, they are toys, but let me blow your mind a little. They are the *actual size* of the real Pokemon. They are **Pocket Monsters**. How does a two meter tall, 300 kilogram monster hide in grass, or *fit in a pocket*? How do they fit in Pokeballs? How come even the homemade pokeballs you made from scraps of cloth and metal in Pokemon Arceus worked? No shrinking tech there. Nope. The truth is that Pokemon are only about 10cm tall, max, and when your character is riding a Pokemon around in a game, that is a vehicle simply named after a Pokemon. You never see a Pokemon next to a normal animal. And that is because you would see how small they truly are. The manga, anime and video games are using artistic license to hide reality.
 
@@ -58,7 +36,7 @@ Anyone familiar with the Ogre Battle series (and I include its cousin, Final Fan
 
 I'm a few hours into the game, but I won't spoil too much of the plot so I can write about it as it comes up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/legendofzenobiaprince-20.png" title="You, my dear, and one more thing -- the pig that has two units in its mouth..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/legendofzenobiaprince-20.png" title="You, my dear, and one more thing -- the pig that has two units in its mouth..." classes="center" >}}
 
 Ogre Battle Gaiden: Prince of Zenobia is a real time strategy game in the vein of March of the Black Queen and Person of Lordly Caliber: You manage your armies on the field in real time, and then switch to a separate battle arena when your army meets an enemy army.
 

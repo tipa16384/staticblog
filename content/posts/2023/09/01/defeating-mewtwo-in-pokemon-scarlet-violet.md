@@ -3,39 +3,18 @@ date: '2023-09-01T20:16:35-05:00'
 draft: false
 title: "Defeating Mewtwo in Pokémon Scarlet/Violet"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/09/01/defeating-mewtwo-in-pokemon-scarlet-violet/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's not really hard to defeat Mewtwo if everyone is on the same page. I did it both times with Mew; once built for support, once built for damage."
-description: "It's not really hard to defeat Mewtwo if everyone is on the same page. I did it both times with Mew; once built for support, once built for damage."
-tags:
+categories:
   - "Pokemon"
+tags:
   - "Mew"
   - "Mewtwo"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Pokemon"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023090118334300-B6CE40797459B0890BF7CEF68A4CE587.jpg"
 ---
+It's not really hard to defeat Mewtwo if everyone is on the same page. I did it both times with Mew; once built for support, once built for damage.
+<!--more-->
 
 It's not really hard to defeat Mewtwo if everyone is on the same page. I did it both times with Mew; once built for support, once built for damage.
 
@@ -43,7 +22,7 @@ Catching folks up: Mewtwo shows up in 7 star Tera raids in Pokémon Scarlet and 
 
 Every save file can get a free Mew using the "*GETY0URMEW*" Mystery Gift code when you have connected to the Internet. This is super important, as Mew gets a huge boost in its stats when it goes against Mewtwo.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/2023090115041400-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Support Mew build" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/2023090115041400-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Support Mew build" classes="center" >}}
 
 A Mew isn't much without training. When it arrives from its gift box, it's just level 5 and has a whole lot of training ahead of it. Or, if like me, you've been playing for awhile, you immediately level it to level 100 with items.
 
@@ -67,7 +46,7 @@ Mew should be holding a Covert Cloak as support. Holding that prevents Mew from 
 
 [This thread on Reddit](https://old.reddit.com/r/PokePortal/comments/166onmg/special_live_event_mewtwo_7_star_black_crystal/) has a *lot* more information about all this.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/2023090118410100-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Damage Mew build" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/2023090118410100-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Damage Mew build" classes="center" >}}
 
 I didn't want to undo all the work I'd put into Support Mew, so I made a new save file, played from the start until I got to the point where I could get into the Pokemon Portal, redeemed the code for a new Mew, and transferred it to my main account with Pokemon Home.
 
@@ -87,7 +66,7 @@ Once we're in the Leech Life phase, health stops really being an issue. MewTwo r
 
 It took two tries for Damage Mew to prevail, so not too bad. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/2023090115071200-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Arceus, Cinderace, Miraidon, MewTwo, Iron Hands, Mew and Growlithe" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/2023090115071200-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Arceus, Cinderace, Miraidon, MewTwo, Iron Hands, Mew and Growlithe" classes="center" >}}
 
 I wasn't able to beat the previous 6 and 7 star raids because, at the time, I didn't know how important attitudes, effort values, held items and all that sort of stuff was. Now that I do know... these things aren't so hard.
 

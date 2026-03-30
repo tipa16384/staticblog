@@ -3,26 +3,11 @@ date: '2007-10-18T07:34:00-05:00'
 draft: false
 title: "EQ2: I just gotta have more cowbell"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/18/eq2-i-just-gotta-have-more-cowbell/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Very quick note on Live Update 39, will do more tonight......"
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Blue Oyster Cult"
   - "Cazic-Thule"
   - "Cowbell"
@@ -30,18 +15,9 @@ tags:
   - "EverQuest II"
   - "Fear"
   - "Kunark"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Very quick note on Live Update 39, will do more tonight......
+<!--more-->
 
 Very quick note on Live Update 39, will do more tonight...
 

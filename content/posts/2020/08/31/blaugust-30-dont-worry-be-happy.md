@@ -3,44 +3,23 @@ date: '2020-08-31T07:35:16-05:00'
 draft: false
 title: "Blaugust #30: Don't Worry, Be Happy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/31/blaugust-30-dont-worry-be-happy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
+summary: "This is the last Blaugust Promptapalooza post for this year! It's my first one, and I really feel badly that I missed all the previous..."
+categories:
+  - "Blaugust"
 tags:
   - "Blaugust"
   - "Nobody Scream and Nobody Gets Hurt"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/PSP-Final-Fantasy-4-The-Complete-Collection-The-After-Years-White-Mage.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/PSP-Final-Fantasy-4-The-Complete-Collection-The-After-Years-White-Mage.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/PSP-Final-Fantasy-4-The-Complete-Collection-The-After-Years-White-Mage.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/PSP-Final-Fantasy-4-The-Complete-Collection-The-After-Years-White-Mage.png"
 ---
+This is the last Blaugust Promptapalooza post for this year! It's my first one, and I really feel badly that I missed all the previous...
+<!--more-->
 
 This is the last Blaugust Promptapalooza post for this year! It's my first one, and I really feel badly that I missed all the previous ones.
 
 I loved some of the prompts, didn't like some of the others, and there were some I just couldn't think of anything to say. I learned a lot from reading others' posts and met some new friends -- yeah, I know that's cliche, but even cliches can be true.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/adam-jk-you-tried-trophy-TWITTER-5eda93d8b2abb-1024x512.jpg)image stolen from [https://buyolympia.com/Item/adam-jk-you-tried-trophy](https://buyolympia.com/Item/adam-jk-you-tried-trophy)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/adam-jk-you-tried-trophy-TWITTER-5eda93d8b2abb-1024x512.jpg" classes="center" >}}image stolen from [https://buyolympia.com/Item/adam-jk-you-tried-trophy](https://buyolympia.com/Item/adam-jk-you-tried-trophy)
 
 The final writing prompt of Promptapalooza 2020 is from [the prompt master himself](https://aggronaut.com/), who surprisingly didn't (yet) write a post asking the question:
 
@@ -52,7 +31,7 @@ I don't talk about work much because I doubt anyone would be interested, and I'm
 
 My most recent project was trying to figure out how to evict a cache of objects that have been dirtied by a separate application, meaning that the information in our cache is now obsolete. Surprise! Also, we don't have the keys for those objects because for some reason the [Spring Cache interface](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/cache/Cache.html) doesn't expose a method for querying the contents of a cache. My boss suggested making a *new* cache that would just contain indices of objects in the *other* caches. Then consider that we might have multiple [OpenShift containers](https://www.openshift.com/products/container-platform) each with their *own* caches. I held out for the "nuke all the caches from orbit, it's the only way to be sure" approach.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/0ac725a63d6d14aa2f2351a1e912127f.jpg)I just remembered that Bill Paxton is dead. Rest in peace.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/0ac725a63d6d14aa2f2351a1e912127f.jpg" classes="center" >}}I just remembered that Bill Paxton is dead. Rest in peace.
 
 So you see, even if I *were* to talk about my work, it would be *dull*. Also, for those people who think that web development isn't real programming, well, it is.
 

@@ -3,41 +3,19 @@ date: '2009-05-05T08:12:45-05:00'
 draft: false
 title: "EQ: Why the new 51/50 server might be great"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/05/eq-why-the-new-5150-server-might-be-great/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Every time I get an urge to play an explorer MMO, I fire up EverQuest, log in to my rogue, the original Tipa Tanglewood, put..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "51/50"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/eqgame-2009-05-01-22-46-48-02.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/eqgame-2009-05-01-22-46-48-02.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/eqgame-2009-05-01-22-46-48-02.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/eqgame-2009-05-01-22-46-48-02.jpg"
 ---
+Every time I get an urge to play an explorer MMO, I fire up EverQuest, log in to my rogue, the original Tipa Tanglewood, put...
+<!--more-->
 
-![Valdeholme group](https://chasingdings.com/wp-content/uploads/2009/05/eqgame-2009-05-01-22-46-48-02.jpg "Valdeholme group")
+
 
 Every time I get an urge to play an explorer MMO, I fire up EverQuest, log in to my rogue, the original Tipa Tanglewood, put on hide and sneak and shroud myself in stealth, and head in a random direction, certain to see something I've never seen before, even having played the game for ten years. I was exploring the lands of the Seeds of Destruction and got to chatting with some of my old friends (hi, Carlysle and Netura!) and somehow found myself heading to a group in Valdeholme in the Serpent's Spine, yet another Entirely New Zone for me.
 

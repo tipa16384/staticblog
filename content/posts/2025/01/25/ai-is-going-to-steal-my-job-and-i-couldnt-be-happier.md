@@ -3,40 +3,18 @@ date: '2025-01-25T09:00:00-05:00'
 draft: false
 title: "AI is going to steal my job -- and I couldn't be happier"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/25/ai-is-going-to-steal-my-job-and-i-couldnt-be-happier/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Taking an idea to reality takes just minutes, even if you don't know one thing about programming. It's a new world."
-description: "Taking an idea to reality takes just minutes, even if you don't know one thing about programming. It's a new world."
-tags:
+categories:
   - "Malifaux"
+tags:
   - "AI"
   - "ChatGPT"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/minitray.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/minitray.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/minitray.png"
 ---
+Taking an idea to reality takes just minutes, even if you don't know one thing about programming. It's a new world.
+<!--more-->
 
 I'm a programmer. Aside from a few odd jobs, programming is all I've ever done. I think I'm pretty good at it; people keep wanting to pay me to do it, anyway.
 
@@ -50,21 +28,21 @@ So I thought it would be fun to 3D print a tray designed to securely hold my tea
 
 I've done similar stuff; back at Archipelago, I wrote a Coulomb's Law applet (remember applets?) that arranged charged particles in minimum energy configurations. I thought that I could make that work. And then I did a springs simulation when I was working on a mapping program for Colossal Cave Adventure. Both had solutions that were more dynamic than I'd like.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-33.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-33.png" classes="center" >}}
 
 So, I asked ChatGPT (above) to do a little simulation for me. After some discussion and back and forth with different approaches and correcting its errors (it doesn't know when it makes errors), it popped out this chart:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-34.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-34.png" classes="center" >}}
 
 I was at work for all this, but I thought I could take this further.
 
 When I got home, I asked ChatGPT to take it a step further. I wanted a program that would let me select a circle size and a position and handle overlaps.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-35.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-35.png" classes="center" >}}
 
 And it did, it did just that.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-36.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-36.png" classes="center" >}}
 
 And it fixed it. Tied it up in a bow, too. I asked it to add SVG export, and it did. In the header image, you can see the program running, with the shapes. And then I could import it into a 3D printer slicer as a negative space to a cube primitive and then print it. The picture of those minis -- my December crew -- show them in a tray designed by the program.
 

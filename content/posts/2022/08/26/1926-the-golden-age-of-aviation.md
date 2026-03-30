@@ -3,43 +3,21 @@ date: '2022-08-26T07:00:00-05:00'
 draft: false
 title: "1926: The Golden Age of Aviation"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/26/1926-the-golden-age-of-aviation/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Experience the golden age of aviation in this flight simulator set in the 1920s."
-description: "Experience the golden age of aviation in this flight simulator set in the 1920s."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
+tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
   - "Simulation Game"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/goldenage26.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/goldenage26.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/goldenage26.png"
 ---
+Experience the golden age of aviation in this flight simulator set in the 1920s.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 26th: “1926: The Golden Age of Aviation”.
 
@@ -51,7 +29,7 @@ You start the game only able to fly the most basic of aircraft, but as you progr
 
 Every player starts off at the same location -- a small airport in the middle of the United States. From there, it's up to you to discover the world and find your own path. For example, you could focus on becoming the best pilot in the world, or you could become an ace at racing, or you could become a master of photography.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/craiyon_192241_An_old_black__amp__white_photograph_of_a_man_and_a_woman_standing_in_front_of_a_Curti.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_192241_An_old_black__amp__white_photograph_of_a_man_and_a_woman_standing_in_front_of_a_Curti.png" classes="fig-20" >}}
 
 You'll start off with a Curtiss JN-4 "Jenny". It's a classic plane from the 1920s, and it's a great plane for beginners. You'll soon want to upgrade it, of course.
 
@@ -61,7 +39,7 @@ You can upgrade your plane in a variety of ways. You can buy new planes, or you 
 
 There are a variety of competitions that take place in the game. For example, there are races, where you can compete against other pilots to see who can fly the fastest. There are also challenges, where you can test your skills at flying through narrow passages or landing on small airstrips. The game also includes a multiplayer mode, where you can fly with other players from around the world.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/craiyon_193351_Digital_Art_of_Lindbergh_s_plane_parked_next_to_the_Eiffel_Tower_with_Paris_in_the_ba.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_193351_Digital_Art_of_Lindbergh_s_plane_parked_next_to_the_Eiffel_Tower_with_Paris_in_the_ba.png" classes="fig-20" >}}
 
 The goal of the game is to allow players to experience the golden age of aviation. We want players to feel like they're living in the 1920s, and to feel like they're part of a community of passionate aviation enthusiasts. 
 

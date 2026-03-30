@@ -3,40 +3,19 @@ date: '2016-03-03T06:36:34-05:00'
 draft: false
 title: "The Aftermath"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2016/03/03/the-aftermath/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2016/03/FINAL-FANTASY-XIV-3_2_2016-7_46_54-AM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2016/03/FINAL-FANTASY-XIV-3_2_2016-7_46_54-AM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2016/03/FINAL-FANTASY-XIV-3_2_2016-7_46_54-AM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2016/03/FINAL-FANTASY-XIV-3_2_2016-7_46_54-AM.jpg"
 ---
+[...
+<!--more-->
 
-[![FINAL FANTASY XIV 3_2_2016 7_46_54 AM](https://chasingdings.com/wp-content/uploads/2016/03/FINAL-FANTASY-XIV-3_2_2016-7_46_54-AM.jpg)](https://chasingdings.com/wp-content/uploads/2016/03/FINAL-FANTASY-XIV-3_2_2016-7_46_54-AM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2016/03/FINAL-FANTASY-XIV-3_2_2016-7_46_54-AM.jpg)
 
 FFXIV daily report
 

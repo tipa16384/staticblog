@@ -3,41 +3,18 @@ date: '2025-06-24T08:22:41-05:00'
 draft: false
 title: "Frosthaven #7: The Edge of the World"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/06/24/frosthaven-7-the-edge-of-the-world/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Taking a break from the Algox situation to have a seafood snack."
-description: "Taking a break from the Algox situation to have a seafood snack."
-tags:
+categories:
   - "3D Printing"
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/IMG_5196-1-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/06/IMG_5196-1-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5196-1-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5196-1-scaled.jpg"
 ---
+Taking a break from the Algox situation to have a seafood snack.
+<!--more-->
 
 I don't think we've really found a direction in Frosthaven yet, several scenarios in. Frosthaven, the wintry outpost, has forged a temporary peace with the Algox. We're supposed to be helping it shore up its defenses, but instead we're taking the momentary ceasefire as an opportunity to do some exploring.
 
@@ -45,7 +22,7 @@ Most of our exploring is based on our own character goals. The goal for my chara
 
 It's important to plan out the retirement, as many Frosthaven improvements are locked behind character retirements, making it important to keep hammering away at them. Mine is still some ways away.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/IMG_5192-300x300.jpg" title="Starting the scenario" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5192-300x300.jpg" title="Starting the scenario" classes="center" >}}
 
 In this scenario, we travel to a series of watery caves where three varieties of Lurkers await us. Normally peaceful folk, something has stirred them up, and we're here to see exactly what. After negotiations break down, we're forced to kill them all. Working against us is the scenario effect: everyone got a -1 card to add to their encounter deck, to simulate the cold wetness of the caves.
 
@@ -55,7 +32,7 @@ I opted not to use any banners in this first fight, as it's a huge pain to keep 
 
 My scenario goal was to never take a short rest. Nice, in theory, but when there's as much fighting as in this map, not really an option to just take a turn off.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/IMG_5195-1024x576.jpg" title="Second room opened" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5195-1024x576.jpg" title="Second room opened" classes="center" >}}
 
 By the time we reached the door to the second cave, we were suffering from poison and wounds; I dropped my healing banner to pep everyone up and dragged it later with us to keep the passive healing flowing. Next room was more warriors and some ranged types. The Blinkblade did his best, but the pressure to stay out of the group for his scenario goal meant he lost cards. He spent his final move triggering the trap in front of the door.
 

@@ -3,48 +3,29 @@ date: '2010-09-04T19:42:07-05:00'
 draft: false
 title: "Star Trek Online: Out in the Cold (spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/04/star-trek-online-out-in-the-cold-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Breen"
   - "Defera"
   - "Federation News Service"
   - "Fns"
   - "Out in the Cold"
+  - "Star Trek"
   - "Weekly Episode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-10-31-72-480x269.jpg "S2e2 Out in the Cold")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-10-31-72.jpg)
+[
 
-In last week's episode, "[Cold Call](https://chasingdings.com/index.php/2010/08/29/star-trek-online-cold-call-spoilers/)", we were introduced to the Deferans, a race that believes in balance in all things. They, for instance, see no reason to side with either the Klingon Empire or the Federation, and consider both allies against the Breen.
+](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-10-31-72.jpg)
+
+In last week's episode, "[Cold Call](https://tipa16384.github.io/wkblog/index.php/2010/08/29/star-trek-online-cold-call-spoilers/)", we were introduced to the Deferans, a race that believes in balance in all things. They, for instance, see no reason to side with either the Klingon Empire or the Federation, and consider both allies against the Breen.
 
 Searching for ancient Preserver technology, the Breen found evidence on the Deferan homeworld; and found as well, a non-violent, pliable civilization that they could exploit for their own, cold-hearted purposes.
 
@@ -54,7 +35,7 @@ We were first on the scene with the story. Ambassador Longasc's flagship Amgarra
 
 We dropped out of warp at the last known source of the distress call.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-20-14-51-480x269.jpg "I")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-20-14-51.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-20-14-51-480x269.jpg" title="I" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-20-14-51.jpg)
 
 > To all ships in range, this is the Deferi freighter Sabok! We are under attack and require immediate assistance! We have no weaponry aboard and our shields are failing! Anyone who can hear this, please help!
 
@@ -72,7 +53,7 @@ A second Deferi ship needed our aid.
 
 They need Warp Coils? How about some Seismic Stabilizers? Provisions? Entertainment Units? The industrial "Aid the Planet"-strength replicators that now are standard equipment on all Federation ships could make whatever was needed. We were in the area, and not even a handful of Breen capital ships could stop the FNS. If we could not defeat the Breen, perhaps we could at least tie up their industrial capacity for ship replacement.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-23-13-98-480x270.jpg "A broken promise, a broken world")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-23-13-98.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-23-13-98-480x270.jpg" title="A broken promise, a broken world" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-23-13-98.jpg)
 
 One last ship, the Sobok, fled at the first sign of the Breen, and had perhaps taken refuge in the neighboring Zaria system. If we defeated the Breen there, we might well stop their slave trade forever. It was a chance we could not lose.
 
@@ -80,7 +61,7 @@ Turns out the Breen love their slave trade as much as they love their children -
 
 Was it all for nothing? When the Breen were destroyed, we found the Sobok empty -- the crew taken to the Breen slave pens on the planet below. A transporter interdiction field prevented us from beaming the Deferans to safety but not, oddly, from beaming down ourselves.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-35-55-88-480x269.jpg "Bryn, Longasc, Tipa, Thomas, Xerxes")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-35-55-88.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-35-55-88-480x269.jpg" title="Bryn, Longasc, Tipa, Thomas, Xerxes" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-35-55-88.jpg)
 
 The five captains, after a quick trip to the weapons lockers, met at the underground coordinates closest to the Deferi life signs.
 
@@ -90,7 +71,7 @@ We resignedly charged our weapons and went a'hunting, Breen-style.
 
 The Breen cannot survive hot plasma. When we returned to the main cavern, though, the Deferi prisoners were gone -- the skeleton crew on the Sobok had beamed them up as soon as we'd dropped the shields.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-44-27-00-480x311.jpg "A final threat")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-04-14-44-27-00.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-44-27-00-480x311.jpg" title="A final threat" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-04-14-44-27-00.jpg)
 
 The Breen, however, were still in the area; after a mocking call from a Breen commander in orbit, the now-disgraced Breen slaver and a squad of his best ice warriors came after us. If he killed us, his reputation could perhaps be restored. If he fell, as he did, well, his reputation would suddenly become somewhat less important.
 

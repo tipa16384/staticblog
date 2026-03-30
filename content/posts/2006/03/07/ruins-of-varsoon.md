@@ -3,40 +3,17 @@ date: '2006-03-07T00:00:00-05:00'
 draft: false
 title: "Ruins of Varsoon"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/03/07/ruins-of-varsoon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I got a group for Nashuya in the usual way... someone needed help killing a named in Thundering Steppes; I was running Dera through there..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/rov.jpg"
-cover:
-  image: "https://chasingdings.com/images/rov.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/rov.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/rov.jpg"
 ---
+I got a group for Nashuya in the usual way... someone needed help killing a named in Thundering Steppes; I was running Dera through there...
+<!--more-->
 
-![](https://chasingdings.com/images/rov.jpg)
+
 
 I got a group for Nashuya in the usual way... someone needed help killing a named in Thundering Steppes; I was running Dera through there on the way to Enchanted Lands to meet up with Nashuya and knock off some writs, so I offer to help (with Dera), then get them to invite "my SK". See, though I consider Nashuya my (current) main, everyone else considers Dera my main. Including my guild. "Of COURSE Dera is your main! Who the heck needs another tank - but we ALWAYS need clerics!"
 

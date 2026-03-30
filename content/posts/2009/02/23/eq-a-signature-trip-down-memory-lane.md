@@ -3,38 +3,15 @@ date: '2009-02-23T12:00:02-05:00'
 draft: false
 title: "EQ: A signature trip down memory lane."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/23/eq-a-signature-trip-down-memory-lane/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Stargrace's high speed romp through EverQuest has made me nostalgic. REALLY nostalgic. I remember when each new victory, the culmination of much effort, many tries,..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/terris.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/terris.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/terris.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/terris.gif"
 ---
+Stargrace's high speed romp through EverQuest has made me nostalgic. REALLY nostalgic. I remember when each new victory, the culmination of much effort, many tries,...
+<!--more-->
 
 Stargrace's [high speed romp](http://mmoquests.com/2009/02/23/now-thats-a-canon/) through EverQuest has made me nostalgic. REALLY nostalgic. I remember when each new victory, the culmination of much effort, many tries, and no little creativity, would bring us just a little closer toward -- I dunno. Guild status? That was part of it. The feeling that we were all a tightly knit group of friends that we could utterly rely upon? That was part of it. There was so much to it.
 
@@ -42,28 +19,26 @@ Back then, I used to make new signatures for most of the bosses we'd defeat... w
 
 Most of these were hand drawn over EQ Pix pixel art dolls.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/terris.gif "terris")
-
 This one commemorated our first Terris Thule kill. I showed up to the raid really early to get screen shots of her dress. It's really complicated dress, with an underskirt and a see-through over skirt. Naturally, I wasn't a good enough artist to show that...
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/saryrn.gif "saryrn")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/saryrn.gif" title="saryrn" classes="center" >}}
 
 Terris' boss, Saryrn, was an incredibly fun fight, but the setup was murder. Our guild leader had this brilliant idea that we would save time by not fighting trash. Instead, we rogues would kill everyone via dueling, drag them to Saryrn's tower, and rez them.
 
 BAD IDEA. Took FOREVER. And we rogues refused to do that again.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/ldon.gif "ldon")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/ldon.gif" title="ldon" classes="center" >}}
 
 I loved the sand elf outfits in Lost Dungeons of Norrath so much, I decided that I should wear one of them, too. Again, lagging behind the group as I took screen shot after screen shot.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/family.jpg "family")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/family.jpg" title="family" classes="center" >}}
 
 This signature predates the rest. This is back in old, old EQ, me and all my alts from the Erollisi Marr server and also Fennin Ro. Front and center is my druid, Etha, my main at the time. Tipa, my future main, is front right. She was probably all of level 13 at that time.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/hlfbst.jpg "hlfbst")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/hlfbst.jpg" title="hlfbst" classes="center" >}}
 
 Concept screen shot for a halfling beast lord with a bixie pet. I was hoping SOE would see this, slap their palm to their forehead, and wonder why they hadn't thought of this themselves, and immediately release the Halfling Beastlord! Sadly, they passed this golden idea by.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/bixiehunt.jpg "bixiehunt")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/bixiehunt.jpg" title="bixiehunt" classes="center" >}}
 
 Oh yeah, I remember this! This is when I won the annual Misty Thicket Bixie Hunt! Yeah, I remember it like it was yesterday :)

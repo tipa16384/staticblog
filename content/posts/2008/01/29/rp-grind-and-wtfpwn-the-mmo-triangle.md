@@ -3,39 +3,16 @@ date: '2008-01-29T08:30:03-05:00'
 draft: false
 title: "RP, Grind and WTFPWN -- the MMO triangle"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/29/rp-grind-and-wtfpwn-the-mmo-triangle/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Openedge1 over at Simple and Complex was listing off a bunch of upcoming MMOs and he noticed that there's been a sea-change in the MMO..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/path2164a.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/path2164a.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/path2164a.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/path2164a.png"
 ---
+Openedge1 over at Simple and Complex was listing off a bunch of upcoming MMOs and he noticed that there's been a sea-change in the MMO...
+<!--more-->
 
-![path2164a.png](https://chasingdings.com/wp-content/uploads/2008/01/path2164a.png)
+
 
 Openedge1 over at [Simple and Complex](http://simple-n-complex.blogspot.com/) was listing off a bunch of upcoming MMOs and he noticed that there's been a sea-change in the MMO world; games are shifting toward a PvP focus, for better or worse.
 

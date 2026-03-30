@@ -3,49 +3,27 @@ date: '2024-12-23T08:00:00-05:00'
 draft: false
 title: "Best of 2024: Arcade Games"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/12/23/best-of-2024-arcade-games/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I played dozens of games in 2024. Trying to distill them down to \"the best\" is hard. First up: arcade games."
-description: "I played dozens of games in 2024. Trying to distill them down to \"the best\" is hard. First up: arcade games."
-tags:
+categories:
   - "Arcade Game"
+tags:
   - "Best Of 2024"
   - "Buck up and Drive"
   - "Drums Rock"
   - "John Wick"
   - "Parappa the Rapper"
   - "Sly Cooper"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/tipachu_banner_image_for_an_article_about_video_gaming_with_t_c476c7e5-25b3-4de2-a318-2a5b0f6e20cf_0.png"
 ---
+I played dozens of games in 2024. Trying to distill them down to "the best" is hard. First up: arcade games.
+<!--more-->
 
 I haven't actually played any arcade games in an actual arcade this year. I've been to some, but modern arcade games are so thirsty for your money now. They always were, but it's somehow worse when you have to put money on a card and try to spend exactly amount of that money.
 
 But there are plenty of games with that arcade "pick up and play, try to do better than before" mentality. Some, maybe all, of the games below came out before 2024, but I played them in 2024 so here we are.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-4.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-4.png" classes="center" >}}
 
 **PaRappa the Rapper 2 (2001)**
 
@@ -55,7 +33,7 @@ But PaRappa the Rapper was remade for the PS4, and that's where I played it.
 
 All three games are hard to find today on their original release, but they're fun, you can play a level in a few minutes, the characters are endearing, the music is catchy, and they deserve to be remembered.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-5-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-5-1024x576.png" classes="center" >}}
 
 **Drums Rock VR (2022)**
 
@@ -63,7 +41,7 @@ I'd bought the PlayStation VR2 but the only VR game I had was Beat Sabre. Nimgim
 
 It's fun, but the later levels really depend upon that VR tracking being pinpoint. Or maybe it's just me being clumsy. Whichever -- all the fun of Rock Band without the plastic instruments. If you love covers of heavy metal music, PlayStation 5, and have a VR2, give it a shot. Probably available for other VR systems, too.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-6-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-6-1024x576.png" classes="center" >}}
 
 **Sly Cooper and the Thievius Raccoonus (2002)**
 
@@ -71,7 +49,7 @@ The studio that eventually made its mark with Ghost of Tsushima started out chro
 
 Sly Cooper is a 3D platformer that values flow and speed over careful planning. The levels are full of light and motion, the story is goofy, the characters are fun, and hey, Sly Cooper.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-7-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-7-1024x576.png" classes="center" >}}
 
 **Buck Up and Drive (2022)**
 
@@ -79,7 +57,7 @@ I'm really bad at playing games the year they come out. Apparently.
 
 Buck Up and Drive is an endless driving game that thinks it's a skateboarding game. You drive. You grind rails. You do gnarly jumps and climb up the sides of buildings. This reminds me a *lot* of the old PlayStation game "2Xtreme", Pick up and playability is amazing. The crazier you drive -- the more points you get.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/hero.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/hero.jpg" classes="center" >}}
 
 **John Wick Hex (2019)**
 

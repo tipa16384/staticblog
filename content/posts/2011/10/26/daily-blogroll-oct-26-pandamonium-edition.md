@@ -3,42 +3,21 @@ date: '2011-10-26T06:53:20-05:00'
 draft: false
 title: "Daily Blogroll Oct 26: Pandamonium edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/10/26/daily-blogroll-oct-26-pandamonium-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Daily Blogroll"
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/pandamonium.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/10/pandamonium.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/pandamonium.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/pandamonium.png"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/10/pandamonium.png "Does anyone even LFG any more?")](https://chasingdings.com/wp-content/uploads/2011/10/pandamonium.png)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/10/pandamonium.png)
 
 All anyone is talking about these days is Winds of Pandaria. I desperately want to join in, but how? I don't play WoW any more. I'm feeling a little left out.
 

@@ -3,44 +3,22 @@ date: '2011-03-30T00:28:56-05:00'
 draft: false
 title: "Wizard101: It's MOUNT WEEK!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/03/30/wizard101-its-mount-week/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Discovery Channel may have their Shark Week, but that's kinda lame, if you ask me. They'd be better off having a Manta Ray week...."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Contest"
   - "Manta Ray"
   - "Mount Week"
   - "Mounts"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/mantaray.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/03/mantaray.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/mantaray.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/mantaray.gif"
 ---
+Discovery Channel may have their Shark Week, but that's kinda lame, if you ask me. They'd be better off having a Manta Ray week....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/mantaray.gif" class="align-left" >}}
+
 
 Discovery Channel may have their Shark Week, but that's kinda lame, if you ask me. They'd be better off having a Manta Ray week.
 

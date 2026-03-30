@@ -3,42 +3,22 @@ date: '2011-01-10T23:50:12-05:00'
 draft: false
 title: "Fortune League, or, Wall Street Raiders"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/10/fortune-league-or-wall-street-raiders/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "Facebook Games"
   - "MMORPG"
+tags:
   - "Fortune League"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1102011-100610-PM-456x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1102011-100610-PM-456x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1102011-100610-PM-456x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1102011-100610-PM-456x480.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1102011-100610-PM-456x480.jpg "Fortune League")](https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1102011-100610-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1102011-100610-PM.jpg)
 
 I was pretty darn excited when I read that SOE was starting up [Fortune League](http://apps.facebook.com/fortuneleague/), a Facebook game based on EverQuest 2, with rewards that would transfer back to your EQ2 characters. You could make just exactly the party you wanted, participate in raids and generally the best parts of your EQ2 experience would seamlessly translate to the social media.
 

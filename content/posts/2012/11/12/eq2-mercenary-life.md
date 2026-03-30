@@ -3,40 +3,17 @@ date: '2012-11-12T08:07:09-05:00'
 draft: false
 title: "EQ2: Mercenary Life"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/11/12/eq2-mercenary-life/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been dancing around the whole EverQuest 2 mercenary thing for awhile. I was killing things solo fine -- MORE than fine -- and the..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-11-14-42-49-72-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-11-14-42-49-72-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/1-EverQuest2-2012-11-11-14-42-49-72-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/1-EverQuest2-2012-11-11-14-42-49-72-480x270.jpg"
 ---
+I've been dancing around the whole EverQuest 2 mercenary thing for awhile. I was killing things solo fine -- MORE than fine -- and the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-11-14-42-49-72-480x270.jpg" title="Me + Merc = Dead Dragon" class="align-center" >}}
+
 
 I've been dancing around the whole EverQuest 2 mercenary thing for awhile. I was killing things solo fine -- MORE than fine -- and the thought of hiring an NPC to take half the dropped coin and half the experience for something I could do myself... wasn't a fan. Not at all.
 
@@ -44,7 +21,7 @@ I was working on completing the deity quest line for Mithanial Marr, though, and
 
 The opinions on the general chat (level 1-9 chat on Antonia Bayle server) was to go with a shadowknight mercenary, that being the best according to scuttlebutt. They didn't have any of those in Qeynos. I snuck into Freeport, but they had none there, either. EQ2i said Neriak would have one, but the bright red aggro mobs just inside zone in prevented me from getting there. I returned to Freeport and got an Inquisitor mercenary, a ratonga.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-11-07-34-29-66-480x360.jpg" title="My ratonga inquisitor mercenary" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-11-07-34-29-66-480x360.jpg" title="My ratonga inquisitor mercenary" classes="center" >}}
 
 We went to Unrest and it was easy. I headed to Barren Skies and finished my Hooloh hat. Easy. Did Vaults, Sanctum of the Scaleborn and Hall of Fate to advance my two weapon quests, Fabled Wurmslayer and Qeynos Claymore.
 
@@ -52,7 +29,7 @@ Working on my crafting now so I can do the next couple steps on the Wurmslayer. 
 
 Both these weapons end in raids -- Deathtoll for the Claymore and the Labs for the Wurmslayer. I can't do those alone, obviously, but I've been offered help and will gratefully accept it, but I have to do all the preceding steps first. There's a couple more Halls of Fate runs in my future.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-09-17-30-17-13-480x269.jpg" title="Dead Emperor Crush" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-09-17-30-17-13-480x269.jpg" title="Dead Emperor Crush" classes="center" >}}
 
 Best thing about having a healer/DPS mercenary who has all the best spells at the best levels is trying to keep him alive. He's actually really resilient and hasn't died yet, but if I accidentally overpull, sometimes he'll lose his nerve and start cringing and stop healing/curing/killing. I finally get to use my taunts and rescues, giving me valuable experience in being a main tank should I ever group. I'd LIKE to group, but I'd also like to be more valuable than a mercenary if I do.
 

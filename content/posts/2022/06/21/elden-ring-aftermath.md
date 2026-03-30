@@ -3,45 +3,24 @@ date: '2022-06-21T07:53:29-05:00'
 draft: false
 title: "Elden Ring: Aftermath"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/06/21/elden-ring-aftermath/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've finished the main plot to Elden Ring, and gotten one of the six endings. Now it's time to go back and get my revenge..."
+categories:
   - "Elden Ring"
   - "Open World RPG"
   - "PS5"
+tags:
+  - "Elden Ring"
   - "Loretta"
   - "Malenia"
   - "Millicent"
   - "RPG"
   - "Souls-Like"
   - "Tree Sentinel"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/1-ELDEN-RING™_20220620153851.jpg"
 ---
+I've finished the main plot to Elden Ring, and gotten one of the six endings. Now it's time to go back and get my revenge...
+<!--more-->
 
 I've finished the main plot to Elden Ring, and gotten one of the six endings. Now it's time to go back and get my revenge on all the things I didn't get to along the way. Oh yeah, Millicent is back!
 
@@ -51,13 +30,13 @@ That's the theory, anyway. I helped Millicent get a reprieve from her illness an
 
 Then yesterday, she suddenly appeared again. Was she fixed with a patch?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220620153334-1024x576.jpg" title="By the Erdtree Gazing Hill site of grace in Atlus Plateau" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220620153334-1024x576.jpg" title="By the Erdtree Gazing Hill site of grace in Atlus Plateau" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220620153533-1024x576.jpg" title="At Windmill Village at the site of the Godskin Apostle fight" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220620153533-1024x576.jpg" title="At Windmill Village at the site of the Godskin Apostle fight" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220620153757-1024x576.jpg" title="At the Mountaintops of the Giants" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220620153757-1024x576.jpg" title="At the Mountaintops of the Giants" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220620153851-1024x576.jpg" title="At the Prayer Room in Ephael, Brace of the Haligtree" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220620153851-1024x576.jpg" title="At the Prayer Room in Ephael, Brace of the Haligtree" classes="center" >}}
 
 I could continue her quest now, and if I were going to play New Game+, I would, as her quest gives one of two key talismans for melee builds -- the Rotten Winged Talisman or Millicent's Prosthesis, both of which stack multiplicatively for attack power. Depending on if you help her defeat her sisters, or choose to side with them against her. It's all tied in with Malenia's fight -- a demigoddess who looks almost exactly like Millicent, even down to the missing arm. SUSPICIOUS.
 

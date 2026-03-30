@@ -3,40 +3,17 @@ date: '2010-07-10T21:23:24-05:00'
 draft: false
 title: "STO: How to Choose Your Dabo Girl"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/10/sto-how-to-choose-your-dabo-girl/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Season 2.0 is out on Star Trek Online's test server, Tribble, now, and they've just stuffed the game with new goodness. Five new levels, which..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/stomeeting.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/stomeeting.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/stomeeting.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/stomeeting.png"
 ---
+Season 2.0 is out on Star Trek Online's test server, Tribble, now, and they've just stuffed the game with new goodness. Five new levels, which...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/07/stomeeting.png "Diplomacy in Star Trek Online")
+
 
 Season 2.0 is out on Star Trek Online's test server, Tribble, now, and they've just stuffed the game with new goodness. Five new levels, which bring you from Rear Admiral, LOWER HALF to Rear Admiral, UPPER HALF. As @Longasc noted, get them together, you end up with one WHOLE Admiral, or maybe a FRONT Admiral.
 
@@ -52,7 +29,7 @@ Anyway. Diplomacy is a definite win, but there are only a limited number (so far
 
 Harvesting has gotten a new mini-game. Instead of just getting close and hitting 'F', you now have a few seconds to match the amplitude and frequency of one sine wave to another for a chance to improve your harvesting haul. It's not as hard as it sounds (or looks).
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-10-15-53-54-78-480x300.jpg "Dabo!")](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-10-15-53-54-78.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-10-15-53-54-78-480x300.jpg" title="Dabo!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-10-15-53-54-78.jpg)
 
 Quark's Bar in Deep Space 9, and a couple of other places, have received permission from Starfleet to open up their Dabo tables to Federation officers. You can try explaining to a Ferengi about how the Federation has evolved beyond the need for material wealth and 'money' all you like, but he'll just quote the 75th Rule of Acquisition at you, and lend you a slip of latinum at a very reasonable rate of interest just to help you get started.
 

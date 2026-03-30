@@ -3,26 +3,11 @@ date: '2010-08-29T08:45:09-05:00'
 draft: false
 title: "Star Trek Online: Cold Call (spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/29/star-trek-online-cold-call-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Breen"
   - "Cold Call"
   - "Defera"
@@ -32,27 +17,23 @@ tags:
   - "Klingon"
   - "Longasc"
   - "Monterey"
+  - "Star Trek"
   - "Thumupp"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-15-48-16-480x327.jpg "Cold Call")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-15-48-16.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-15-48-16.jpg)
 
 "Cold Call" is the first of Star Trek Online's "[Feature Episodes](http://startrekonline.com/feature_episodes)". The first series deal with those cryo-suited Alpha Quadrant villains, the [Breen](http://memory-alpha.org/wiki/Breen). Staying more or less out of galactic affairs after their defeat along with the rest of their allies at the close of the Dominion War, they have returned.
 
 Those Federation diplomats who negotiated a treaty between the Ferengi, the Rigelians and the Deferans in the Starbase 39/Sierra diplomacy mission may remember Ambassador Surah as the Deferen Ambassador. Klingons will be reminded of an ancient pact between the Klingons and the Deferens where the Klingons promised aid when asked -- that time has come. Though simply knowing that they would face the Breen would be reason enough for the Klingons to show.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-00-21-37-480x384.jpg "A galaxy of Galaxies")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-00-21-37.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-00-21-37-480x384.jpg" title="A galaxy of Galaxies" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-00-21-37.jpg)
 
 A few years back, the orbital Hubble telescope pointed itself at a very small portion of the sky where there were no visible stars. In just that narrow slice of space's darkest sky, it found [clear pictures of 1500 galaxies](http://hubblesite.org/newscenter/archive/releases/1996/01/image/a/).
 
@@ -68,7 +49,7 @@ Five Federation ships of the line accompanied him from the fringes of the system
 
 Surah beamed down to the surface, and invited us to enjoy the hospitality of the capital city, at our convenience.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-19-38-45-480x384.jpg "On Defera")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-19-38-45.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-19-38-45-480x384.jpg" title="On Defera" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-19-38-45.jpg)
 
 Defera is a beautiful world, full of life and activity. The Deferan people welcomed the unexpected transport of five of the Federation's finest. We even found a Ferengi selling odds and ends. For a peoples that had only recently started venturing beyond their home planet, Defera was remarkably high tech. They seem to have found a perfect balance between technology and nature.
 
@@ -78,19 +59,19 @@ His story was interrupted by a surprise Breen attack on the city. (Since this wa
 
 The pyramid is also the site of an ancient Preserver puzzle, which was puzzled out by FNS Senior Editor Longasc, and described in [his separate pull-out photo section](http://picasaweb.google.com/Longascimages/StarTrekOnlineS2E01ColdCall#5510637274654893794). The puzzle appears to be part of a longer holographic message; perhaps the other pieces will be found on other episodes in this series.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-41-57-66-480x384.jpg "A meeting about ship")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-14-41-57-66.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-41-57-66-480x384.jpg" title="A meeting about ship" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-14-41-57-66.jpg)
 
 Ambassador Surah realizes it is not safe for him to remain on the planet, and returns to the Jeska to make his way to a better location. Before he leaves, he calls the fleet captains together and explains to us that he knows he should have told us about the Preserver artifacts ahead of time, so we could have become better prepared. He gives us the freedom of the planet and offers daily missions in the area if we have the time or inclination.
 
 (The Klingons don't get this last scene).
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-15-15-13-76-480x383.jpg "Doing dailies")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-15-15-13-76.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-15-15-13-76-480x383.jpg" title="Doing dailies" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-15-15-13-76.jpg)
 
 We took our leave and went to do the new Deferan dailies. Unsurprisingly, they all dealt with protecting the sector against Breen attacks. Their cryo-based attacks were particularly devastating, leading many Federation captains wondering when they'd get cryo weapons for their own ships.
 
 My ship, the USS Monterey, is furthest in the screenshot. Longasc's Excelsior-class ship, the USS Amgarrak, is next; Thumupp's escort, the USS Columbia, is closest.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-15-54-57-87-480x384.jpg "Klingons aid Defera")](https://chasingdings.com/wp-content/uploads/2010/08/GameClient-2010-08-28-15-54-57-87.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-15-54-57-87-480x384.jpg" title="Klingons aid Defera" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/GameClient-2010-08-28-15-54-57-87.jpg)
 
 The mission was so much fun, Longasc and I logged to our Klingon characters and did the whole thing over again!
 

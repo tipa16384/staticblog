@@ -3,41 +3,18 @@ date: '2008-05-25T15:03:35-05:00'
 draft: false
 title: "Return to Mistmoore Castle"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/25/return-to-mistmoore-castle/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Something I've seen time and again as we revisit the happy memories of long ago: The more things change, the more they remain the same...."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-25-09-14-46-10.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-25-09-14-46-10.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-25-09-14-46-10.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-25-09-14-46-10.jpg"
 ---
+Something I've seen time and again as we revisit the happy memories of long ago: The more things change, the more they remain the same....
+<!--more-->
 
-![eqgame-2008-05-25-09-14-46-10.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-25-09-14-46-10.jpg)
+
 
 Something I've seen time and again as we revisit the happy memories of long ago: The more things change, the more they remain the same. Sure, we're older, wiser, more expert players; but put a couple groups of characters in regular gear in an old zone and all the old problems are going to crop right up.
 
@@ -57,7 +34,7 @@ See, what gets me is that I remember just running through these places and just 
 
 Nonetheless, level 38 isn't anything to sneeze at.  We are approaching the halfway point of our journey.
 
-![eqgame-2008-05-24-01-34-51-60.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-24-01-34-51-60.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-24-01-34-51-60.jpg" classes="center" >}}
 
 Afterward, I logged in my cleric. Brita, and joined Stargrace on her enchanter and Kuron the warrior, and we did unmentionable things to the Queen in Stonehive. Death, death, death to the Queen. She died lots (she respawns in 15-20 minutes). We took on her Advisor, the Wing Commander (IV?), and Alchemist for Kameeko's Drakkin illusion... anything we could find. And this morning I logged in and proved to myself I could kill her alone. It was slow, but I did it.
 

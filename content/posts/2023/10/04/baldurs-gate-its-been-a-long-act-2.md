@@ -3,40 +3,18 @@ date: '2023-10-04T19:19:26-05:00'
 draft: false
 title: "Baldur's Gate: It's been a long Act 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/10/04/baldurs-gate-its-been-a-long-act-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I always do this. I get so wrapped up in a game that I forget to write about it, and when I try to write about it, there's too much!"
-description: "I always do this. I get so wrapped up in a game that I forget to write about it, and when I try to write about it, there's too much!"
-tags:
+categories:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
   - "PS5"
+tags:
   - "Crippling Failure"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/daveinvestmentbanker.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/10/daveinvestmentbanker.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/daveinvestmentbanker.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/daveinvestmentbanker.png"
 ---
+I always do this. I get so wrapped up in a game that I forget to write about it, and when I try to write about it, there's too much!
+<!--more-->
 
 So what's happening now is, I'm in the Gauntlet of Shar, having done the trials, met one of the three Wise Men from Orient Are, and now I am on the hunt to kill a devil that some other devil wants dead, because Astarion thinks he's not working for Devil #2, even though he totally is.
 
@@ -46,7 +24,7 @@ We also befriended three ogres who will come when my PC, Harka, blows a horn. Da
 
 Mostly I feel like I am lurching from mistake to mistake in this game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-2-1024x706.png" title="Isobel of Selune: Not Saved." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-2-1024x706.png" title="Isobel of Selune: Not Saved." classes="center" >}}
 
 It wasn't long after entering The Shadowed Lands that we encountered the Inn of the Last Light, guarded by the moon magic of Selune by the cleric Isobel. It was one bright, safe spot in the lands, home to the Harpers, and all I had to do was to keep her safe. I tried, twice, failed twice, guessed that maybe her abduction was scripted and I couldn't do anything about it, then talked it over with a Team Spode friend and found out that lol no, of course you could save her, and things are gonna go pretty bad if you don't.
 
@@ -56,7 +34,7 @@ Instead, I just stood and happily waved as Marcus flapped off with Isobel and hi
 
 Yay, go me!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-3-1024x847.png" title="I don't think she thinks I am actually a genius, though" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-3-1024x847.png" title="I don't think she thinks I am actually a genius, though" classes="center" >}}
 
 That wasn't the first time I screwed up. Even though I rescued all the tiefling refugees and killed the goblin leaders in the goblin camp, when I encountered Karlach finally, she accused me of killing them all. Also, I never met other origin character Wyll; never even saw him. Never found Gale until I looked up his location online and realized I hadn't actually explored hardly any of the first wilderness map. And when I failed to save Isobel but eventually showed up to the Moonrise Tower anyway, they hailed me as a hero for capturing her and bringing her to them! I did no such thing!
 
@@ -66,7 +44,7 @@ Anyway, among other dumb ideas I had was the whole half-orc war cleric thing to 
 
 So I respecced my character as a half-orc barbarian berserker, with a dip into thievery once I got some gloves that raised my dex to 18. Now I don't really need to have Astarion in the group. I made him into a bard just to make him suffer.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-4-1024x682.png" title="You think it would be happy people are using the forge again" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-4-1024x682.png" title="You think it would be happy people are using the forge again" classes="center" >}}
 
 So I have basically screwed up every possible way there is to screw up. Usually I read up on everything that is going to happen so that I don't miss anything. I played FFXIII with the strategy guide on my lap at all times! I used to print out Gamefaqs back in the day!
 

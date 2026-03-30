@@ -3,43 +3,20 @@ date: '2009-01-09T07:35:20-05:00'
 draft: false
 title: "Wizard 101: Plague Oni, why can't I quit you?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/01/09/wizard-101-plague-oni-why-cant-i-quit-you/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Check out that xp bar! Less than one bubble to 46......"
+categories:
   - "Chronicles of Spellborn"
   - "Dream of Mirror Online"
   - "Lord of the Rings"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-08-21-18-59-29.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-08-21-18-59-29.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-08-21-18-59-29.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-08-21-18-59-29.jpg"
 ---
+Check out that xp bar! Less than one bubble to 46......
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-08-21-18-59-29.jpg)
+
 
 *Check out that xp bar! Less than one bubble to 46...*
 
@@ -61,6 +38,6 @@ Definitely going to get back into DOMO. I WANT TO PLAY SPELLBORN SO MUCH! I am t
 
 I hate having taken a taste and forced to wait for the meal.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/isishead-render.jpg "isishead-render")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/isishead-render.jpg" title="isishead-render" classes="center" >}}
 
 *Isis says Hi. Rendered with the Candyshop filter.*

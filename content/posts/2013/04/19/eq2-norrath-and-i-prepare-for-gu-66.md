@@ -3,40 +3,17 @@ date: '2013-04-19T07:50:49-05:00'
 draft: false
 title: "EQ2: Norrath (and I) prepare for GU 66."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/04/19/eq2-norrath-and-i-prepare-for-gu-66/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The mood in EverQuest 2 is one of quiet anticipation as the world waits for Game Update 66 on April 30, which brings with it..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-18-20-20-31-00-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-18-20-20-31-00-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/EverQuest2-2013-04-18-20-20-31-00-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/EverQuest2-2013-04-18-20-20-31-00-480x270.jpg"
 ---
+The mood in EverQuest 2 is one of quiet anticipation as the world waits for Game Update 66 on April 30, which brings with it...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-18-20-20-31-00-480x270.jpg" title="WoW Invaders in Darklight Woods" class="align-center" >}}
+
 
 The mood in EverQuest 2 is one of quiet anticipation as the world waits for Game Update 66 on April 30, which brings with it the modern rethinkings of the original EverQuest zones of Cobalt Scar and Siren's Grotto. Cobalt Scar will be an open-world adventure zone with a strong story line, while Siren's Grotto appears to be a series of instanced dungeons, likely in the quest/solo/heroic/raid variations we've come to expect.
 
@@ -48,7 +25,7 @@ Also causing tension: the new game update has people worried all the raid gear t
 
 Top picture: One or two EQ2 guides attempt to control four NPCs in a stunning display of multi-processing. These busy guides were running events all night. I offered to collect the pandaren monk's pelt, but he refused to give it over. Coming to an evil zone like Darklight Woods and trying to get an assassin to bring you some cake? Not gonna happen. But a pandaren rug would look good in her Neriak inn room.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-19-07-02-22-59-480x270.jpg" title="Tipa the Transmuter" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/04/EverQuest2-2013-04-19-07-02-22-59-480x270.jpg" title="Tipa the Transmuter" classes="center" >}}
 
 I take so much extra gear out of the Daily Dreadcutter, more than I'll ever use for my characters, that my lack of any transmuting ability has become a real problem. My main characters, Scatter and Dera, need high level adornments, and the only way to get those is to transmute high level equipment for the necessary ingredients.
 
@@ -56,7 +33,7 @@ Now, Scatter had finished the "A Gathering Obsession" quests and gotten the Cloa
 
 How to get a large supply of level 29 and below items without going broke on the broker....
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-19-07-04-56-33-480x270.jpg" title="Tipani the Swashie" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/04/EverQuest2-2013-04-19-07-04-56-33-480x270.jpg" title="Tipani the Swashie" classes="center" >}}
 
 Tipa struggles every day with the burden of not being a dirge. One possible solution: betray her beloved Freeport and change classes to dirge at the same time. This would delete all her masters -- she's almost completely mastered all her level 80 abilities. I've been reluctant to do so, even though having level 80 masters is pretty pointless when the level cap is 95 and none of those masters will be of the slightest use.
 
@@ -70,7 +47,7 @@ Here are some good questions: Why isn't your main, Scatter, your transmuter? She
 
 Gosh, those are all excellent questions.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/brutal_skullcrusher_screenshot-480x384.png" title="Brutal Skullcrusher" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/04/brutal_skullcrusher_screenshot-480x384.png" title="Brutal Skullcrusher" classes="center" >}}
 
 Old Crimson Eternity guildmate Caldabuse AKA Neiabuse AKA Cambrian Man recently put his gnomish spring-loaded cart on the EQ2 Player Studio. That cart is now featured in Scatter's South Qeynos mansion. He was designing a kind of soul sucker mechano-magical hammer for his EQ2 character when I mused in his hearing that EQ2 really didn't have a good, spiked skull mace, suitable for halfling inquisitors like, say, Dera.
 

@@ -3,42 +3,20 @@ date: '2009-06-26T22:15:58-05:00'
 draft: false
 title: "SOE Fan Faire news -- some shocking surprises!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/26/eq2-next-expansion-is-odus-not-velious/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "EverQuest II's next expansion is not Velious, as widely assumed based on the (now known to be) red herrings seen in Kunark. EQ2's next expansion,..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Odus"
   - "Velious"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/eqgame-2009-06-27-00-20-08-67.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/eqgame-2009-06-27-00-20-08-67.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/eqgame-2009-06-27-00-20-08-67.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/eqgame-2009-06-27-00-20-08-67.jpg"
 ---
+EverQuest II's next expansion is not Velious, as widely assumed based on the (now known to be) red herrings seen in Kunark. EQ2's next expansion,...
+<!--more-->
 
-![This ain](https://chasingdings.com/wp-content/uploads/2009/06/eqgame-2009-06-27-00-20-08-67.jpg "This ain")
+
 
 EverQuest II's next expansion is not Velious, as widely assumed based on the (now known to be) red herrings seen in Kunark. EQ2's next expansion, Sentinel's Fate, will bring the island of Odus back to Norrath.
 
@@ -58,7 +36,7 @@ The next game update introduces the Shard of Love -- Erollisi Marr's plane! This
 
 Legends of Norrath will be introducing some cool loot cards. One's a dragon illusion -- you float along above the ground. Another, a cloak that repairs all your gear, once per day. That'll save plat for raiders.
 
-![eqgame 2009-06-26 23-31-52-51](https://chasingdings.com/wp-content/uploads/2009/06/eqgame-2009-06-26-23-31-52-51.jpg "eqgame 2009-06-26 23-31-52-51")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/eqgame-2009-06-26-23-31-52-51.jpg" title="eqgame 2009-06-26 23-31-52-51" classes="center" >}}
 
 Back in old EverQuest, their sixteenth expansion will be Underfoot, as in the Plane of, and Brell makes an appearance. Looks great for such an old game.
 

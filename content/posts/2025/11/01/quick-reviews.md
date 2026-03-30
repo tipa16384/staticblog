@@ -3,37 +3,14 @@ date: '2025-11-01T08:00:00-05:00'
 draft: false
 title: "Quick Reviews"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/11/01/quick-reviews/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "A little bit about games I've played recently, including Winter Burrow, Death by Scrolling, Alabaster Dawn, Solasta II, Mario Kart World and Pokemon Legends Z-A."
-description: "A little bit about games I've played recently, including Winter Burrow, Death by Scrolling, Alabaster Dawn, Solasta II, Mario Kart World and Pokemon Legends Z-A."
-tags:
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/winterburrow.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/winterburrow.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/winterburrow.png"
 ---
+A little bit about games I've played recently, including Winter Burrow, Death by Scrolling, Alabaster Dawn, Solasta II, Mario Kart World and Pokemon Legends Z-A.
+<!--more-->
 
 I've been playing a lot of games lately and I really haven't been sitting down and writing reviews of them! Well, that changes tonight.
 
@@ -47,7 +24,7 @@ You arrive in the dead of winter, and the farm is in ruins. Building a fire is y
 
 It's a very comfortably paced game. You can cook a variety of mushroom dishes, sit in front of the fire knitting new clothes, have tea with your doting aunt. I played the demo; I expect that the full game eventually moves on to the other seasons, but given the name, perhaps it never does.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/20251028074923_1-1024x576.jpg" title="Death by Scrolling" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/20251028074923_1-1024x576.jpg" title="Death by Scrolling" classes="center" >}}
 
 **Death by Scrolling**
 
@@ -57,7 +34,7 @@ You're dead, so *that's* out of the way -- what a relief! Unfortunately for you,
 
 The game is fun* and* funny. It's a quick play, and you can buy permanent upgrades during the run to slowly give you ever more tools in future runs. And, NPCs will leave comments about your run at the end :-)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/20251031200122_1-1024x429.jpg" title="Alabaster Dawn" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/20251031200122_1-1024x429.jpg" title="Alabaster Dawn" classes="center" >}}
 
 **Alabaster Dawn**
 
@@ -67,7 +44,7 @@ Alabaster Dawn is an action RPG that has you swapping between melee and ranged o
 
 The story is pretty good, so far, and I very much enjoy how the world comes alive after you kill a level boss. I'm a little over grimdark games; a game that brings light to a dead world is a very nice change.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/20251031202902_1-1024x429.jpg" title="Solasta II" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/20251031202902_1-1024x429.jpg" title="Solasta II" classes="center" >}}
 
 **Solasta II**
 
@@ -77,7 +54,7 @@ They're back with Solasta II. In the demo, with a premade party, the characters 
 
 The combat is tactical, there are many ways to face each issue, I think it'll be fun. I played through the first game a couple of times and spent a good amount of time with their dungeon creator, I can't wait to see how they've extended it here.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/2025103120502900-F7C842DDF96D6F312ACF26CAB70CC718L-1024x576.jpg" title="Mario Kart World" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/2025103120502900-F7C842DDF96D6F312ACF26CAB70CC718L-1024x576.jpg" title="Mario Kart World" classes="center" >}}
 
 **Mario Kart World (Switch 2)**
 
@@ -87,7 +64,7 @@ The tracks are callouts to the classics, plus new tracks inspired by famous Nint
 
 Game lives up to its hype.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/2025102521122800-D30A1E83A76029FCCC1E3AC4EF5B7C89L-1024x576.jpg" title="Pokémon Legends: Z-A" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/2025102521122800-D30A1E83A76029FCCC1E3AC4EF5B7C89L-1024x576.jpg" title="Pokémon Legends: Z-A" classes="center" >}}
 
 **Pokémon Legends: Z-A**
 

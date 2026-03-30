@@ -3,50 +3,29 @@ date: '2010-07-29T05:55:12-05:00'
 draft: false
 title: "Star Trek Online: Assimilation"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/29/star-trek-online-assimilation/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-20-43-56-09-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-20-43-56-09-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-28-20-43-56-09-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-28-20-43-56-09-480x270.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-20-43-56-09-480x270.jpg "The crew of the Monterey invade a Borg cube")](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-20-43-56-09.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-28-20-43-56-09.jpg)
 
 I started last night on the main plot missions for Star Trek Online's Season Two. Season Two is all about trying to find a way to form an alliance with the Undine. The Undine don't have much respect for the beings of normal space, but the Federation hopes we can find common cause with them against the Borg.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-20-32-02-18-480x383.jpg "Borg fleet on the move.")](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-20-32-02-18.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-28-20-32-02-18-480x383.jpg" title="Borg fleet on the move." classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-28-20-32-02-18.jpg)
 
 Alarmed by the Borg's sudden interest in an obscure section of space, Starfleet sent the reconnaissance science vessel USS Monterey to investigate. After some small tussles with some outlying Borg spheres, the Borg broke off and joined a larger fleet heading toward a field of glowing anomalies.
 
 Since we were clearly the lesser threat, we were ignored by the Borg as we tagged along.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-20-42-19-97-480x383.jpg "Portal into fluidic space.")](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-20-42-19-97.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-28-20-42-19-97-480x383.jpg" title="Portal into fluidic space." classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-28-20-42-19-97.jpg)
 
 We found the Undine and the Borg engaged in fierce combat outside portals into fluidic space. Starfleet ordered us into the fray; if possible, we were to see that no ships of either side survived. Though the Monterey is not a warship, we do have some tricks of our own. By making the Undine and Borg fights more even, we managed to get them to kill each other while taking almost no damage ourselves.
 
@@ -54,7 +33,7 @@ The fight was easier than it could have been because part of the Borg fleet was 
 
 We killed the cube's guards and disabled its shields and propulsion. The Undine ship managed to return to fluidic space. We were ordered to board the Borg cube and ensure that the Borg had not figured out how to assimilate the Undine.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-21-29-54-88-480x383.jpg "Fighting the assimilated Undine")](https://chasingdings.com/wp-content/uploads/2010/07/GameClient-2010-07-28-21-29-54-88.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-28-21-29-54-88-480x383.jpg" title="Fighting the assimilated Undine" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/07/GameClient-2010-07-28-21-29-54-88.jpg)
 
 We were ignored by the Borg on the cube itself, for awhile, anyway. Eventually our efforts to find a way deeper into the cube were noticed and we were forced to fight our way through an army of drones.
 

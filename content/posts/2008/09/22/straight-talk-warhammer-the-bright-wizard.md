@@ -3,42 +3,20 @@ date: '2008-09-22T07:16:47-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Bright Wizard"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/22/straight-talk-warhammer-the-bright-wizard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We're baaaaaaaack.....!..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
+tags:
   - "Bright Wizard"
   - "Not Funny"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/daffy.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/daffy.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/daffy.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/daffy.jpg"
 ---
+We're baaaaaaaack.....!...
+<!--more-->
 
 We're baaaaaaaack.....!
 
@@ -47,8 +25,6 @@ Warhammer Online: The Age of Reckoning, brought public quests to a public quest-
 Warhammer Online has twenty unique classes or 'careers', and each one plays like no other class in any other MMO, proving once again that WAR's innovative and unique game play will have every other MMO dev yelling to their computer, "Why didn't WE have something like that!"
 
 It's because it took until now before someone got the idea for a robe-clad magic user who summons fire from the skies, something called, "Bright Wizard". Now that WAR has blazed the trail (sorry), [every](http://everquest.allakhazam.com/db/classes.html?class=11) [other](http://wow.stratics.com/content/features/guides/mage/) [MMO](http://camelot.allakhazam.com/db/class.html?realm=Albion;cclass=12) [is](http://eq2.tentonhammer.com/modules.php?op=modload&name=News&file=article&sid=1249) [sure](http://wizard101.com) [to](http://www.wizard-wars.com/game/) [implement](http://uo.stratics.com/content/contests/autobiographies/afirewizard.shtml) [something](http://boards.dungeonrunners.com/showthread.php?s=a7898bbf89d9fa6034615212093cdc21&p=137545) [similar](http://www.ehow.com/how_4457538_become-wizard-shadowbane.html).
-
-![](https://chasingdings.com/wp-content/uploads/2008/09/daffy.jpg "daffy")
 
 *Simulated Warhammer screenshot*
 

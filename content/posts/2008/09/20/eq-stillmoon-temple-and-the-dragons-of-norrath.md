@@ -3,43 +3,21 @@ date: '2008-09-20T03:03:15-05:00'
 draft: false
 title: "EQ: Stillmoon Temple and the Dragons of Norrath"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/20/eq-stillmoon-temple-and-the-dragons-of-norrath/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was another light night, but we had a cleric, warrior, ranger and enchanter and that was enough to make a group. But where?..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Dragons of Norrath"
   - "Stillmoon Temple"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-19-20-32-11-82.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-19-20-32-11-82.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-19-20-32-11-82.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-19-20-32-11-82.jpg"
 ---
+It was another light night, but we had a cleric, warrior, ranger and enchanter and that was enough to make a group. But where?...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-19-20-32-11-82.jpg "eqgame-2008-09-19-20-32-11-82")
+
 
 It was another light night, but we had a cleric, warrior, ranger and enchanter and that was enough to make a group. But where?
 

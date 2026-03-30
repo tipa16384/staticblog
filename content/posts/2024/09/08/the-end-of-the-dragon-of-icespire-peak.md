@@ -3,41 +3,19 @@ date: '2024-09-08T08:00:00-05:00'
 draft: false
 title: "The End of the Dragon of Icespire Peak"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/09/08/the-end-of-the-dragon-of-icespire-peak/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable."
-description: "Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable."
-tags:
+categories:
   - "Dungeon Crawl Classics"
   - "Dungeons & Dragons"
   - "Miniatures"
   - "Tabletop Games"
+tags:
   - "Icespire Peak"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/1-IMG_4688.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/09/1-IMG_4688.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-IMG_4688.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-IMG_4688.jpg"
 ---
+Our party takes on the white dragon, Cryovein, in a tense fortress battle, but the victory feels surprisingly unremarkable.
+<!--more-->
 
 In our previous session, we fully explored the ruined fortress at the top of Icespire Peak while the dragon, Cryovein, was off harassing the bandit crew we'd just run off. 
 
@@ -67,7 +45,7 @@ They have skulls.
 
 My character is named Harka Skulltaker. She sacrifices the skulls of her enemies to the god Gruumsh. A dragon skull would be a valuable offering to her god.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/IMG_4690.jpg" title="Ganging up on the dragon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/IMG_4690.jpg" title="Ganging up on the dragon" classes="center" >}}
 
 The warlock used a staff of bird calls to wake the sleeping dragon with eagle screeches by its head. This woke it up in a bad mood. Our plan was to lure it into the fortress (it being a young dragon, it could fit through the doors), block its retreat with our Immovable Rod, and then go to town.
 

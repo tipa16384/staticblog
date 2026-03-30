@@ -3,37 +3,16 @@ date: '2020-08-04T11:28:48-05:00'
 draft: false
 title: "Blaugust #4: I Don't Care What You're Drinking."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/04/blaugust-4-i-dont-care-what-youre-drinking/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
+summary: "Today's Blaugust writing prompt comes from Roger at Contains Moderate Peril, who asks:..."
+categories:
+  - "Blaugust"
 tags:
   - "Blaugust"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/free-coffee-wallpaper.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/free-coffee-wallpaper.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/free-coffee-wallpaper.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/free-coffee-wallpaper.jpg"
 ---
+Today's Blaugust writing prompt comes from Roger at Contains Moderate Peril, who asks:...
+<!--more-->
 
 Today's Blaugust writing prompt comes from Roger at [Contains Moderate Peril](https://www.containsmoderateperil.com/blog/2020/8/3/3-types-of-underrated-content), who asks:
 

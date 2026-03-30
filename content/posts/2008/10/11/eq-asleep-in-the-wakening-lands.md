@@ -3,45 +3,23 @@ date: '2008-10-11T07:46:06-05:00'
 draft: false
 title: "EQ: Asleep in the Wakening Lands"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/11/eq-asleep-in-the-wakening-lands/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We didn't have enough people show last night to continue on the Lavaspinner's Lair quests, but Nostalgia's newest member, Stolig, a 44 Magician, was there..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Nashuya"
   - "Sentient Armor"
   - "Stolig"
   - "Wakening Lands"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-11-07-05-42-90.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-11-07-05-42-90.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-11-07-05-42-90.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-11-07-05-42-90.jpg"
 ---
+We didn't have enough people show last night to continue on the Lavaspinner's Lair quests, but Nostalgia's newest member, Stolig, a 44 Magician, was there...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-11-07-05-42-90.jpg "eqgame-2008-10-11-07-05-42-90")
+
 
 We didn't have enough people show last night to continue on the Lavaspinner's Lair quests, but Nostalgia's newest member, Stolig, a 44 Magician, was there and eager to kill something. So I logged back in to my necro, Tsukina, who I haven't played since we were all hanging around Dulak, and we headed off to the level 40 hot zone, Wakening Lands, to do some armor bashing in the name of Nostalgia.
 
@@ -51,7 +29,7 @@ But, nobody there. Headed into Skyshrine, nobody there. Into Wakening Lands and 
 
 Maybe because it's just an annoying place to hunt. Trees everywhere mean it's hard to see stuff coming for you. The flying mage monkeys are officially the most annoying mobs in the game. Invisible panthers sneak around. But there are PLENTY of good, save camps.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-11-07-29-56-08.jpg "eqgame-2008-10-11-07-29-56-08")There's the giants just outside Kael, the geode caves, the raptor camp, and the sentient armors.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-11-07-29-56-08.jpg" title="eqgame-2008-10-11-07-29-56-08" classes="center" >}}There's the giants just outside Kael, the geode caves, the raptor camp, and the sentient armors.
 
 Way back in the day, I used to team up with a monk -- can't remember his name now. But we figured that on those days when neither could get a group, we could still duo. So we'd travel someplace fun, like Burning Woods or Skyfire, and I'd kite something while he attacked it. It worked really well. We spent a lot of time in Wakening Lands doing just that with these same sentient armors.
 

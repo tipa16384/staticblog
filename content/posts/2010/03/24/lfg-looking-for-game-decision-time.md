@@ -3,42 +3,19 @@ date: '2010-03-24T00:19:46-05:00'
 draft: false
 title: "LFG (Looking For Game); decision time."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/24/lfg-looking-for-game-decision-time/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I sat in front of my computer the other night, not really feeling a pull toward any MMO. I was watching Zombieland, and I couldn't..."
+categories:
   - "Dungeons & Dragons Online"
   - "EVE Online"
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-23-22-23-09-47.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-23-22-23-09-47.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/dndclient-2010-03-23-22-23-09-47.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/dndclient-2010-03-23-22-23-09-47.jpg"
 ---
+I sat in front of my computer the other night, not really feeling a pull toward any MMO. I was watching Zombieland, and I couldn't...
+<!--more-->
 
 I sat in front of my computer the other night, not really feeling a pull toward any MMO. I was watching Zombieland, and I couldn't think of any MMO that would be more fun than watching the best comedy zombie movie since Shaun of the Dead. Blahblahblah. This isn't a post about quitting MMOs.
 
@@ -52,15 +29,13 @@ So today I'm going to be a little indulgent, go over the choices, and see if I c
 
 **Dungeons & Dragons Online**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-23-22-23-09-47.jpg" title="Eluding a sonic trap in Dungeons & Dragons Online" class="align-center" >}}
-
 Turbine's Dungeons & Dragons Online brings the pencil-and-paper game to life with a (now) free to play MMO. Though not perfect by any means, no other game in this post lets you customize your character's growth in more ways. I have a static group that plays for a couple of hours each Sunday, but the game is paced slowly enough that I'd be unlikely to outstrip them in levels, and there are benefits to grouping with people who have already unlocked the harder modes of a dungeon. The game is free to play, but some content must be bought. It seems unlikely, however, that the cost of purchasing content as needed in DDO would approach the $15/month of a standard MMORPG. DDO can also be played almost entirely with a PC gamepad and has optional hirelings to fill out a group or help out when soloing.
 
 Down sides: My graphics card has serious problems with the game. Sometimes it looks great, and then the game is irreparably plunged into near total darkness. Even when well-lit, the game looks atrocious. I would prefer simpler graphics that look better over complex graphics that look crude. This is the same mistake made by EverQuest 2 in its early years, though with less plastic and more grind.
 
 **World of Warcraft**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/WoW-2010-03-23-19-13-43-10.jpg" title="Chilling in World of Warcraft's Ironforge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/WoW-2010-03-23-19-13-43-10.jpg" title="Chilling in World of Warcraft's Ironforge" classes="center" >}}
 
 Blizzard's World of Warcraft is the most popular subscription-based game of any sort in the entire world. More has been written about this one game than all other MMOs, ever. There is more help available for WoW than any other, and the only other MMO that can even sometimes compete in the non-MMO news outlets is EVE Online. Playing WoW would mean I would be playing the game most people think of when they think of MMOs at all. The game runs and looks great on my computer. WoW's quest design set the standard for all other games of its generation. WoW sets the style and the very, very highly placed bar for the entire genre.
 
@@ -68,7 +43,7 @@ To really play this, I'd have to leave my vanity guild, "Snacks for the Horde", 
 
 **Star Trek Online**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-23-20-36-58-63.jpg" title="Setting a course for the unknown in Star Trek Online" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-23-20-36-58-63.jpg" title="Setting a course for the unknown in Star Trek Online" classes="center" >}}
 
 I added Star Trek Online to this list because it had grabbed me for a month, but since I reached max level, I haven't felt a real need to log back in. Sure, I'd love to see the raidisodes, but the chatter reminds me too much of WoW. Must use vent, must use teamspeak, must have done this before, must have this piece of gear, blah blah blah. Before I can do any of that, I would need to farm marks of exploration for the purple gear required, but.... to me, Star Trek Online is finished until they add more content to the Klingon faction or add the Romulans. I no longer feel the need to raid, but the leveling up was a lot of fun. I'll still play on a casual basis and maybe even try to get a pickup group for the raidisodes, but it could never be my main game.
 
@@ -76,7 +51,7 @@ If it were easier to meet people in the game, it might be a different story, but
 
 **EVE Online**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-23-21-25-08-76.jpg" title="A Purifier and a Megathron bring missile-y death to a highsec plex" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/ExeFile-2010-03-23-21-25-08-76.jpg" title="A Purifier and a Megathron bring missile-y death to a highsec plex" classes="center" >}}
 
 EVE Online is the deepest, most strategic MMO going. It is the one game where one player's actions truly could change the game world and even end up on the evening news. No other game comes close to EVE Online in depth and complexity. But with all that, even the newest player can fill important roles. You don't need to grind levels for four months to get to the end game; all you have to do is set your autopilot to take you to null security space.
 
@@ -90,7 +65,7 @@ Most of what I don't like about EVE PvP, aside from the inevitability of my deat
 
 **EverQuest 2**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/EverQuest2-2010-03-23-19-32-20-80.jpg" title="My level 10 newbie island Coercer on the soon-to-be-sunk Outpost of the Overlord" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/EverQuest2-2010-03-23-19-32-20-80.jpg" title="My level 10 newbie island Coercer on the soon-to-be-sunk Outpost of the Overlord" classes="center" >}}
 
 For a couple of months, I was in the best EQ2 guild EVER, Clan of Shadows. I loved that guild. Unfortunately, they didn't love me back and my application was eventually overwhelmingly denied. After trying out a couple of other guilds and servers, I eventually pretty much gave up on ever finding a guild that good and moved on to other games.
 
@@ -100,7 +75,7 @@ To return to EQ2, I'd have to find that perfect guild. For the right guild, I wo
 
 **EverQuest**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/eqgame-2010-03-23-19-43-11-54.jpg" title="Making a batch of brownies in EverQuest, one brownie at a time." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/eqgame-2010-03-23-19-43-11-54.jpg" title="Making a batch of brownies in EverQuest, one brownie at a time." classes="center" >}}
 
 Though it wasn't my first MMO -- Nexus, Kingdom of the Wind holds that dubious honor -- EverQuest was the first game that demanded my total gaming attention. For seven years I played EQ, with occasional breaks for Dark Age of Camelot and other temporary flings. I was in some of the best guilds on two servers; United Norrath Coalition, Divine Grace, A Twist of Fate and Crimson Eternity on Erollisi Marr; Lost Sock Patrol and Viking Alliance on Stromm. Finding a nice spot in a dungeon, pulling mobs, hoping for rare drops and chatting and making friends; that was heaven. Helping coordinate massive raids to take down unimaginably dangerous opponents requiring unheard of teamwork; that was also heaven. EQ was the only MMO I ever felt I was good at.
 

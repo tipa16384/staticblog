@@ -3,42 +3,19 @@ date: '2006-08-14T13:18:57-05:00'
 draft: false
 title: "WoW and EQ2: Newbie Quests"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/14/wow-and-eq2-newbie-quests/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Finished fighting the Scholar to finish the Strange Black Stone quest, turned to go, and was taken aback for a moment by the beauty of..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/antonica.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/antonica.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/antonica.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/antonica.jpg"
 ---
+Finished fighting the Scholar to finish the Strange Black Stone quest, turned to go, and was taken aback for a moment by the beauty of...
+<!--more-->
 
-![Antonica from the Oracle Tower](https://chasingdings.com/wp-content/uploads/2006/08/antonica.jpg)
+
 
 Finished fighting the Scholar to finish the Strange Black Stone quest, turned to go, and was taken aback for a moment by the beauty of the sunset. My God, video games have come a long way. And this looked absolutely fabulous on my widescreen monitor...
 

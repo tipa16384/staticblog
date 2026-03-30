@@ -3,40 +3,18 @@ date: '2025-09-17T08:31:56-05:00'
 draft: false
 title: "Dune Awakening: Life in the Deep Desert"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/09/17/dune-awakening-life-in-the-deep-desert/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's not just worms and spice and dust and sandstorms and heat and... well, actually, that's pretty much what it is."
-description: "It's not just worms and spice and dust and sandstorms and heat and... well, actually, that's pretty much what it is."
-tags:
+categories:
   - "Dune Awakening"
   - "MMORPG"
+tags:
   - "Landsraad"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250915204452_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250915204452_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250915204452_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250915204452_1.jpg"
 ---
+It's not just worms and spice and dust and sandstorms and heat and... well, actually, that's pretty much what it is.
+<!--more-->
 
 It's said that you don't really know an MMO until you get to its endgame. Once you've done all the fun leveling up, what keeps you logging in, night after night, when there's no real game goal to strive toward?
 
@@ -44,31 +22,31 @@ That's the question, right? Each week, when the Coriolis Storm resets the deep d
 
 These questions would have easier answers if we were on a server with more active people. So preface all the questions above with, "In a deep desert where we'll rarely meet any players..."
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-29.png" title="Guarding the deep desert exit" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-29.png" title="Guarding the deep desert exit" classes="center" >}}
 
 We do know other people exist; someone is leaving these Harkonnen bases in threatening places.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-30.png" title="This compact design has room for a carrier and a crawler" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-30.png" title="This compact design has room for a carrier and a crawler" classes="center" >}}
 
 This sets up the possibility that we could be harvesting the same large spice blow; Darkonnens on one side, Atreides on the other, wondering who will shoot first.
 
 That's the reality Funcom would like you to live in. In the reality we actually live in, a worm would come by within seconds and ruin all that prep and potential PvP. No, the real PvP happens deep in desert labs, or in northern bases when the players who own them are logged out.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-31.png" title="Ooooh! Spice!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-31.png" title="Ooooh! Spice!" classes="center" >}}
 
 Though last week was crazy busy for me, Calrain and I did make time to take the carrier and crawler north of the line on the hunt for spice. Cal flew the carrier, I rode slung beneath it in the crawler. We knew there were large blows further away, but the carrier flies so slowly when hauling that we contented ourselves with medium spice blows. Cal would lower me down; I'd use those skills I honed in Farming Simulator to harvest the spice; he'd pick me up. If either of us heard any worm sound or ominous music, I'd stop, he'd pick me up, and we'd check for wormsign. Sometimes, it turned out we were just being paranoid. Sometimes, it turned out we'd just escaped disaster.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-32-1024x499.png" title="If eaten by the \"sell by\" date, anyway!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-32-1024x499.png" title="If eaten by the \"sell by\" date, anyway!" classes="center" >}}
 
 Cal and I finished up the DLC. It was kooky and creepy and fun, and at the end, we got permission to build a treadwheel. A treadwheel is basically what a monowheel would be, if it had two wheels.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-34-1024x683.png" title="Why use one wheel when two wheel do trick?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-34-1024x683.png" title="Why use one wheel when two wheel do trick?" classes="center" >}}
 
 No, not a bicycle. A treadwheel.
 
 Treadwheels turn out to be super useful in the deep desert, especially once you've attached extra storage and a scanner, as I have done. They are really zippy and can bring you all around several clusters of rock islands in seconds. As I built this week's deep desert forward base, I took time out to harvest fuel cells and titanium from the area. Zip zip zip.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-33-1024x527.png" title="Last week's Landsraad" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-33-1024x527.png" title="Last week's Landsraad" classes="center" >}}
 
 Thanks to Stingite blazing the trail, we were able to make our first appearance in the Landsraad -- that's Order of the Wombat at number three. Turns out a lot of the awards are pretty cool; custom weapons and armor and color, loads of cash, rare crafting components...
 

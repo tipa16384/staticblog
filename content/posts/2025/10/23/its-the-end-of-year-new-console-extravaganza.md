@@ -3,38 +3,17 @@ date: '2025-10-23T06:00:00-05:00'
 draft: false
 title: "It's the end of year, new console extravaganza"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/10/23/its-the-end-of-year-new-console-extravaganza/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "First comes the Switch 2, maybe someday the Analogue 3D and the Vectrex Mini?"
-description: "First comes the Switch 2, maybe someday the Analogue 3D and the Vectrex Mini?"
-tags:
+categories:
   - "Nintendo Switch"
   - "Pokemon"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5433-EDIT-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5433-EDIT-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+tags:
+  - "Pokemon"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5433-EDIT-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5433-EDIT-scaled.jpg"
 ---
+First comes the Switch 2, maybe someday the Analogue 3D and the Vectrex Mini?
+<!--more-->
 
 Did I really need a Switch 2?
 
@@ -48,7 +27,7 @@ So when Pokemon Legends: Z-A was announced, I *knew* I'd be playing it. But I he
 
 But, I couldn't really *take* that chance, could I? And anyway, the new Mario Kart World was like Forza Horizon in portable form but without the cool cars.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/IMG_5434-1024x576.jpg" title="So, I bought it" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5434-1024x576.jpg" title="So, I bought it" classes="center" >}}
 
 I bought the special Pokemon Z-A bundle -- the Switch 2 and a download code for the game. This is quite a racket they have going, actually. Instead of producing disks, they just print a box with different art on it and preload the console with a code for the actual game.
 

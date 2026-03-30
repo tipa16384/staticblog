@@ -3,40 +3,15 @@ date: '2008-10-27T11:47:33-05:00'
 draft: false
 title: "Stout Henry and Vanguard"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/27/stout-henry-and-vanguard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Due to the new character joining Stout Henry in his further adventures, AND due to me using Vanguard to generate illustrations for the story, Stout..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
   - "Stout Henry"
   - "Vanguard"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Due to the new character joining Stout Henry in his further adventures, AND due to me using Vanguard to generate illustrations for the story, Stout...
+<!--more-->
 
 Due to the new character joining Stout Henry in his further adventures, AND due to me using Vanguard to generate illustrations for the story, Stout Henry was delayed until I'd leveled up a gnome enough in VG so that he could pose for screen shots.
 

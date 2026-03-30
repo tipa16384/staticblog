@@ -3,30 +3,15 @@ date: '2024-03-30T14:54:28-05:00'
 draft: false
 title: "Retro Game Haul: March 30, 2024"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/03/30/retro-game-haul-march-30-2024/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I have way too many games to ever play, but still I can't help it. Today's haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details..."
-description: "I have way too many games to ever play, but still I can't help it. Today's haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details..."
-tags:
+categories:
   - "Adventure"
   - "PS5"
   - "Text Adventure Game"
   - "Vectrex"
   - "Video Game"
   - "Video Game Console"
+tags:
   - "Atari"
   - "Basic"
   - "Broken Sword"
@@ -36,22 +21,15 @@ tags:
   - "Othello"
   - "Pinball"
   - "Spinball"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/IMG_4228.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/03/IMG_4228.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4228.jpg"
 ---
+I have way too many games to ever play, but still I can't help it. Today's haul: Othello (NES), Spinball (Vectrex), Colossal Cave Adventure (PS5), Broken Sword: The Shadow of the Templars (GBA). Read on for more details...
+<!--more-->
 
 I'm a retro game collector. It's 2024, you can play pretty much any video game from the last fifty years on your PC with emulation, and most of the good ones have been remade (one of those in today's haul is such a remake, actually). Not all of these games are going straight into the backlog, though -- some have already been a lot of fun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/IMG_4229.jpg" title="BASIC Computing Language for the Atari 400/800" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4229.jpg" title="BASIC Computing Language for the Atari 400/800" classes="center" >}}
 
 When I was being rung up at the Retro Games Plus store down in Newington, the guy said that I could return it within two weeks if it didn't work. I said, there's no way at all I'm going to be seeing if this works in two weeks. He shrugged and said he had to say the words.
 
@@ -59,13 +37,13 @@ Yesterday, I unboxed the THE400 Mini. The real version of the machine from the 8
 
 Now, the THE400 Mini can't take carts. And, it has the BASIC language built in -- it comes right up if you plug in a keyboard. So there's no way I need it. But... I got that console, this was the only Atari 400/800 cart they had, and I did love it to death back in the day. It was worth the five bucks.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/IMG_4230.jpg" title="Broken Sword: The Shadow of the Templars (GBA)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4230.jpg" title="Broken Sword: The Shadow of the Templars (GBA)" classes="center" >}}
 
 Whatever you think this game is going to be from the title alone, it's not. I've only played about a minute of it, but the opening narration goes on about Paris in the Fall, in the last months of the year... and the millennium. A place of love, life... and death.
 
 Broken Sword is a noir point and click adventure, although the GBA port lets you take direct control of the character due to the lack of a mouse and keyboard, which makes it far more approachable. Your protagonist is witness to a café bombing and teams up with a journalist to investigate the plot behind the bombing and the murders. Even the very little I played just to confirm the game worked was super atmospheric, and I'm looking forward to playing it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/IMG_4231.jpg" title="Colossal Cave (PS5)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/IMG_4231.jpg" title="Colossal Cave (PS5)" classes="center" >}}
 
 I *think* that Colossal Cave Adventure was the first adventure game I ever played, if you don't count things like "Hunt the Wumpus" and other 70s mainstays. And I don't. It blew me away, back in the day. The McConnell Computer Cluster on the University of New Hampshire campus was my dorm away from dorm. When I went, it was filled with "dumb" video terminals that connected to the university mainframes, Scylla and Charybdis. Nowadays, the clusters just have PCs and Macs. It is not the same.
 
@@ -75,7 +53,7 @@ So when I saw that the Sierra Entertainment folks, Ken and Roberta Williams, had
 
 I'll definitely be playing -- and streaming -- this one.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/1-IMG_4232.jpg" title="Othello (NES)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/1-IMG_4232.jpg" title="Othello (NES)" classes="center" >}}
 
 My boyfriend collects Super Famicom Mahjong games. For me, it's Othello. I first played this game back in high school; we had to write a computer Othello game as a computer class project, but the board game itself was pretty popular and we'd play it a lot during study hall. My mom bought me a travel Othello game with a package that looks pretty much identical to the Nintendo version.
 
@@ -83,7 +61,7 @@ I've written Othello games now and again, most recently last year, but I am not 
 
 The chances of me actually playing this are pretty slim. Kasul has a NES clone, and if he hooks it up, I'll probably give it a shot. I might try and get it on emulation. My view on emulating is, if you have the physical game, you're 100% in the clear to download the ROM and play it on the emulator.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/2-IMG_4233.jpg" title="Spinball (Vectrex)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/2-IMG_4233.jpg" title="Spinball (Vectrex)" classes="center" >}}
 
 When I bought my Vectrex, I also bought an aftermarket cart that contains *every Vectrex game ever made, including those made years after the console left the market*. It's been an amazing way of trying out games before I head to FleaBay to purchase them physically. Vectrex games came with a colored acetate overlay that fits over the screen to give a little bit of flash to the game, so there's a reason why emulators and loose carts are always going to be missing a vital element of the game that you only get with the physical copy.
 

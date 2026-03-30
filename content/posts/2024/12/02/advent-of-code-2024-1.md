@@ -3,42 +3,20 @@ date: '2024-12-02T07:00:00-05:00'
 draft: false
 title: "Advent of Code 2024.1:"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/12/02/advent-of-code-2024-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Where is that darned elvish historian?"
-description: "Where is that darned elvish historian?"
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "AI"
   - "Counter"
   - "Elves"
   - "Python"
   - "Sort"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-01-15.45.53-A-serene-scene-of-Tolkien-style-elves-sorting-numbers-written-on-thin-ivory-slabs-and-placing-them-into-a-wall-hanging-reminiscent-of-hymn-boards-in-a.webp"
 ---
+Where is that darned elvish historian?
+<!--more-->
 
 A word about AI images:
 
@@ -46,7 +24,7 @@ Yes, I use them, because I think "what if Tolkien elves instead of Christmas elv
 
 Hey, AI is coming for my job, too. Nobody escapes this. But to prove just what kind of person I am, when I post this on BlueSky, I will use a real piece of art I found on the web, maybe this one:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image.png" title="A monk presumably named Alamy writing stuff in a book" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image.png" title="A monk presumably named Alamy writing stuff in a book" classes="center" >}}
 
 When I was looking for stock images of monks writing stuff in books, up came licensable AI images. Even stock image brokers are using AI.
 

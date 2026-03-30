@@ -3,44 +3,19 @@ date: '2007-05-11T07:21:40-05:00'
 draft: false
 title: "LotRO: Book II Finished (yay!?)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/05/11/lotro-book-ii-finished-yay/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Hobbits, we find at the end of Retake Weathertop, have made it safely to Rivendell.Â With them out of harm's way, for a time,..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00136.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00136.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00136.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00136.jpg"
 ---
+The Hobbits, we find at the end of Retake Weathertop, have made it safely to Rivendell.Â With them out of harm's way, for a time,...
+<!--more-->
 
 The Hobbits, we find at the end of Retake Weathertop, have made it safely to Rivendell.Â  With them out of harm's way, for a time, it's up to the numberless heroes of the world to do their part. In Book II, we find the source of the Red Marsh's evil, the immortal Red Maid, and redeem some long-dead shades who broke an oath and must now be summoned for one final mission to save them all.
 
 Making Aragorn look like a bit of a copycat when *he* does it in "Return of the King".
-
-![screenshot00136.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00136.jpg)
 
 I was exploring the border of Angmar and working on some quests for another group of peaceful Earth-Kin when I knew by some mystic means that a friend, Growll, needed help in the Lone Lands to drive some goblins and a pretty nasty troll from Weathertop; they'd been lured there by the evil scent of the Ring Wraiths when they'd gathered to attack Frodo and company.
 
@@ -54,7 +29,7 @@ We did the deed and Weathertop was retaken, and I was left in the Lone Lands. No
 
 Chapter 4 was just talking with a human stuck in some ruins far to the south. Chapter 5 was talking to a nearby shade and defeating the two shades he summoned, they were about level 30. and it was a close fight for me. Chapter 6 was killing the lord of the bog wights.
 
-![screenshot00137.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00137.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00137.jpg" classes="center" >}}
 
 Not him. After I died to his adds (or whatever the term is; felt really really sad? I dunno.)Â  I found a couple of more people and we killed him (and died to his adds) and hooray! It wasn't the right guy. The correct guy was past some ruins up on a hill, and by that time we had a nearly full group and did it with ease.
 
@@ -68,4 +43,4 @@ Nope.
 
 So a little worse for wear, but not as worse as we'd have liked, Book II slammed shut and nothing would keep me from my beloved North Downs where, not coincidentally, Book III takes place.
 
-![screenshot00134.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00134.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00134.jpg" classes="center" >}}

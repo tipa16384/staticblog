@@ -3,42 +3,21 @@ date: '2024-03-25T08:02:36-05:00'
 draft: false
 title: "Dragon's Dogma II: Now Playing"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/03/25/dragons-dogma-ii-now-playing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I really, genuinely need to blog more promptly about the games I'm playing. Unicorn Overlord is done; I'm drowning in the world of Dragon's Dogma II now."
-description: "I really, genuinely need to blog more promptly about the games I'm playing. Unicorn Overlord is done; I'm drowning in the world of Dragon's Dogma II now."
-tags:
+categories:
   - "Dragon's Dogma"
   - "Open World RPG"
   - "RPG"
+tags:
   - "Capcom"
   - "Dragon's Dogma Ii"
   - "Dragons"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/dd2banner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/03/dd2banner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "RPG"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/dd2banner.png"
 ---
+I really, genuinely need to blog more promptly about the games I'm playing. Unicorn Overlord is done; I'm drowning in the world of Dragon's Dogma II now.
+<!--more-->
 
 A couple years ago, I was looking for an RPG where I could be part of an MMO group -- but without actually having to be playing an MMO. See, what I wanted was *EverQuest* -- but without the other players. I could just go to the tavern or a guild and strike up a conversation and recruit my party members that way. If I found someone along the way I thought would be a good fit, then they might join, too. And if I decided to get alt-itis and change my class, everyone would be okay with it and someone else could tank or heal while I had all the fun.
 
@@ -46,7 +25,7 @@ Turned out this game existed, it was called Dragon's Dogma, and I could do all t
 
 Dragon's Dogma II is more of the same.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Dragons-Dogma-2_20240325070856.jpg" title="This little town has seen some things." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Dragons-Dogma-2_20240325070856.jpg" title="This little town has seen some things." classes="center" >}}
 
 In both Dragon's Dogma I and II, you play an *Arisen* -- someone who has had their heart torn out and eaten by a dragon, meaning your life is now bound to the dragon's life, and you have gained certain powers. Chief among those powers is the power to summon *pawns*. Pawns are helpful beings who come from another world and are sent here to, well, help people. Pawns are used as slaves by cruel people, but are willing to join you on your adventures.
 

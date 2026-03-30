@@ -3,41 +3,18 @@ date: '2008-03-17T07:09:21-05:00'
 draft: false
 title: "EQ2: Leviathan 2.0"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/17/eq2-leviathan-20/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One of the dubious advantages of moving from one guild to another is learning new ways of defeating old encounters. Delusions of Grandeur kills Venril..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Second Life"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-16-20-54-35-47.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-16-20-54-35-47.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-16-20-54-35-47.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-16-20-54-35-47.jpg"
 ---
+One of the dubious advantages of moving from one guild to another is learning new ways of defeating old encounters. Delusions of Grandeur kills Venril...
+<!--more-->
 
-![everquest2-2008-03-16-20-54-35-47.jpg](https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-16-20-54-35-47.jpg)
+
 
 One of the dubious advantages of moving from one guild to another is learning new ways of defeating old encounters. Delusions of Grandeur kills Venril Sathir and the Overking in entirely different ways than did Clan of Shadows, and I had to suppress my urge to shout "you're DOING it wrong!" because, hey, DoG gets results.
 
@@ -47,6 +24,6 @@ Our way will take some preparation. We're going to farm fifty explosive vials, a
 
 With any luck, we'll be seeing dead Leviathan in chunks all over the place... and we troubadours will get the second update for our mythical epics.
 
-![dragon.jpg](https://chasingdings.com/wp-content/uploads/2008/03/dragon.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/dragon.jpg" classes="center" >}}
 
 Speaking of CoS, I met (of all people) their most awesome dirge, Allegro, in Second Life! She invited me to tour an absolutely incredible space station -- I wish I could show pictures of it, but apparently the owners don't want anyone to know about it or to take pictures... it was really fantastic, though. Here we are a little later at a beach resort with a dragon theme, me in my Angel of Death outfit, she in her Easter outfit, chatting about the dragons of Veeshan's Peak :)

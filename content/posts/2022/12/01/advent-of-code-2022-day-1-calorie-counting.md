@@ -3,44 +3,22 @@ date: '2022-12-01T23:39:10-05:00'
 draft: false
 title: "Advent of Code 2022: Day 1 -- Calorie Counting"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/01/advent-of-code-2022-day-1-calorie-counting/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I am committing myself this year to solving every puzzle in the Advent of Code, an annual coding competition taking place over the Advent season..."
+categories:
   - "Advent of Code"
   - "Game Development"
+tags:
   - "2022"
   - "AoC"
   - "Elf"
   - "Java"
   - "Lua"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/1-A_thousand_Tolkien_elves_with_pointy_ears_wearing_backpacks_full_of_snacks_trudging_through_a_tropic_Seed-4368197_Steps-100_Guidance-7.5.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/1-A_thousand_Tolkien_elves_with_pointy_ears_wearing_backpacks_full_of_snacks_trudging_through_a_tropic_Seed-4368197_Steps-100_Guidance-7.5.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/1-A_thousand_Tolkien_elves_with_pointy_ears_wearing_backpacks_full_of_snacks_trudging_through_a_tropic_Seed-4368197_Steps-100_Guidance-7.5.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/1-A_thousand_Tolkien_elves_with_pointy_ears_wearing_backpacks_full_of_snacks_trudging_through_a_tropic_Seed-4368197_Steps-100_Guidance-7.5.jpg"
 ---
+I am committing myself this year to solving every puzzle in the Advent of Code, an annual coding competition taking place over the Advent season...
+<!--more-->
 
 I am committing myself this year to solving every puzzle in the Advent of Code, an annual coding competition taking place over the Advent season each year.
 

@@ -3,44 +3,21 @@ date: '2011-10-11T05:00:54-05:00'
 draft: false
 title: "Daily Blogroll Oct 11: Can't break the NDA edition."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/10/11/daily-blogroll-oct-11-cant-break-the-nda-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So yeah. I'd have a better screenshot, but somehow I'm the only person who did NOT get into the Star Wars: The Old Republic beta..."
+categories:
   - "Daily Blogroll"
   - "Dragon Nest"
   - "EVE Online"
   - "MMORPG"
   - "Star Wars the Old Republic"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/starwarsguys.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/10/starwarsguys.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/starwarsguys.jpg"
 ---
+So yeah. I'd have a better screenshot, but somehow I'm the only person who did NOT get into the Star Wars: The Old Republic beta...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/starwarsguys.jpg" title="Star Wars: The Crayon Republic" class="align-center" >}}
+
 
 So yeah. I'd have a better screenshot, but somehow I'm the only person who did NOT get into the Star Wars: The Old Republic beta weekend. But I have MS Paint, and I'm not afraid to use it. Doesn't matter. Game is going to be a hit -- that's not even in doubt. You can kill stuff with light sabers. Kiss a wookie. Visit Alderaan before it went to hell. And even though the game is set three thousand years before the events of the movies, everyone still wears the same frickin' clothes.
 
@@ -64,7 +41,7 @@ Is that all games are? Genocide by the numbers?
 
 I don't know! [Read the rules for yourself!](http://tagn.wordpress.com/2011/10/10/azeroth-travel-poster-contest-win-a-sparkle-pony/)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/dust514-480x270.jpg" title="Dust514" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/dust514-480x270.jpg" title="Dust514" classes="center" >}}
 
 If nothing else, **Dust514 is going to be the world's number one MMOFPS screen shot generator**... Playstation.Blog's James Gallagher [talked to CCP Executive producer Brandon Laurino](http://blog.eu.playstation.com/2011/10/10/dust-514-interview-changing-console-shooters-forever/) about the persistent-world shooter that's going to dovetail seamlessly with the space game of EVE Online.
 

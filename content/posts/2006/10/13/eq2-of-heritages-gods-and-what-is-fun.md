@@ -3,41 +3,18 @@ date: '2006-10-13T14:23:02-05:00'
 draft: false
 title: "EQ2: Of Heritages, Gods, and What Is Fun"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/10/13/eq2-of-heritages-gods-and-what-is-fun/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dorah learns there'll be no more scooter rides in the cemetary..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/10/dorah-pumpkins.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/10/dorah-pumpkins.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/dorah-pumpkins.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/dorah-pumpkins.jpg"
 ---
+Dorah learns there'll be no more scooter rides in the cemetary...
+<!--more-->
 
-![Pumpkins!](https://chasingdings.com/wp-content/uploads/2006/10/dorah-pumpkins.jpg)
+
 
 *Dorah learns there'll be no more scooter rides in the cemetary*
 
@@ -57,17 +34,17 @@ Having nothing to do without a group bugs me as well. I used to AE Howling Stone
 
 Maybe this is just dissatisfaction with playing an utterly dependent class like a cleric. Whatever the reason, for the past couple of weeks while dealing with work issues, when I went home, it was EverQuest 2 I played.
 
-![Bridge of Fire](https://chasingdings.com/wp-content/uploads/2006/10/dina-fire.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/dina-fire.jpg" classes="center" >}}
 
 In EQ2, if I feel like grouping there's plenty of places to go, and some decent loot is a near guarantee -- maybe not an upgrade for me, but it's easy to sell for something I do need. All of my characters can do useful stuff alone. Loads of options for long and short quests -- above is Dina completing the new Solusek Ro god quest (which was amazing fun; it was a puzzle to solve, and then you get a nice house item!). As well as shorter quests like these, there's the long quests that you can work on a little at a time -- my prismatic weapon, or my Hoo'loh hat, or the Mark of the Awakened I recently completed.
 
-![CSI: DoF](https://chasingdings.com/wp-content/uploads/2006/10/dina-giant.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/dina-giant.jpg" classes="center" >}}
 
 *The teeth marks weren't mine, though.*
 
 I leveled too quickly through my 50s to really see much of the Desert of Flames expansion. It's fun and relaxing to just do some of the old quests. There are some pretty hilarious quests in DoF -- the mad naga hunter (obviously referring to Steve Erwin; whom I couldn't stop thinking about when I was doing the quests), taking a side in the struggle between the two bands of fugitive monks in the wastes, making harpies panic... There's a harpy infesting my South Freeport apartment now, eating all the food when I'm gone.
 
-![Prophet](https://chasingdings.com/wp-content/uploads/2006/10/dina-prophet.jpg)Short adventures and quests that advance your character. That's what WoW has until level 60 (sorry, the boring and pointless faction grinding that was the endgame turned me off), that's what EQ2 has all the way through.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/dina-prophet.jpg" classes="fig-20" >}}Short adventures and quests that advance your character. That's what WoW has until level 60 (sorry, the boring and pointless faction grinding that was the endgame turned me off), that's what EQ2 has all the way through.
 
 Heck, if I'm really feeling antisocial, I can just craft. Crafting in EQ1 costs MILLIONS of plat. Sure, there's no 1 to 1 correspondence of plat in EQ1 and EQ2 but trust me, that's a lot of money. Crafted spells in EQ1 cost about 30,000 plat, assuming no failures, to make, and sell for about 70-80,000 plat. So the guild master craftswoman tells me. Armor costs a lot more -- it costs 250,000 to a million plat to make a Bazu stone augmentation. The new ones take even more, and they can only be placed in armor that also costs tens of thousands of plat to make.
 

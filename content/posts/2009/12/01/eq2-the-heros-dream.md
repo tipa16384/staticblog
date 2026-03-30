@@ -3,40 +3,17 @@ date: '2009-12-01T08:07:53-05:00'
 draft: false
 title: "EQ2: The Hero's Dream"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/01/eq2-the-heros-dream/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We were hacking a Serpentis radar site in EVE last night, and it was a good site, too. A bunch of Gallentean Starship Engineering datacores..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/EverQuest2-2009-11-30-23-54-40-62.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/EverQuest2-2009-11-30-23-54-40-62.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/EverQuest2-2009-11-30-23-54-40-62.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/EverQuest2-2009-11-30-23-54-40-62.jpg"
 ---
+We were hacking a Serpentis radar site in EVE last night, and it was a good site, too. A bunch of Gallentean Starship Engineering datacores...
+<!--more-->
 
-![In Unrest](https://chasingdings.com/wp-content/uploads/2009/12/EverQuest2-2009-11-30-23-54-40-62.jpg "In Unrest")
+
 
 We were hacking a Serpentis radar site in EVE last night, and it was a good site, too. A bunch of Gallentean Starship Engineering datacores that will come in handy, a skill book that Toldain needed, and other stuff which is now cooking on the market... but Tranquility shut down to prepare for the Dominion expansion going live today, so I headed to EQ2 for some fun.
 
@@ -46,7 +23,7 @@ I started out the night with a quick Chronomagic daily quest, which last night w
 
 Dera and I used Chronomagic to mentor down to level 70, enough to turn the quest green but not too low that we couldn't finish it. Troubadours are not the world's best tanks. Someday I'm going to have to try it with Dera tanking....
 
-![Claymore reward](https://chasingdings.com/wp-content/uploads/2009/12/EverQuest2-2009-12-01-07-05-38-52.jpg "Claymore reward")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/EverQuest2-2009-12-01-07-05-38-52.jpg" title="Claymore reward" classes="center" >}}
 
 That done, I swapped Dera for defiler Etha and set out to do the EQ2 fifth anniversary event, the Hero's Dream, on its last day. Not much to it; you talk to some people in North Freeport, and are sent to awaken a man who has fallen into a magical sleep. The wizards attending him warn that any who touch the man themselves fall into a slumber from which they never wake, but we heroes are made of sterner stuff, and so we enter the man's dream.
 
@@ -56,7 +33,7 @@ At the end, Thumore D'armer was set free, with hints that we may know of him in 
 
 And he gave a really cool statue of the Qeynos Claymore, which I placed directly in the middle of my scale model of Archer's Wood :)
 
-![Dera in the Shard of Love](https://chasingdings.com/wp-content/uploads/2009/12/EverQuest2-2009-12-01-01-17-58-32.jpg "Dera in the Shard of Love")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/EverQuest2-2009-12-01-01-17-58-32.jpg" title="Dera in the Shard of Love" classes="center" >}}
 
 Though it was late, there was a group looking for a healer for the Shard of Love! I logged Dera in and asked for an invite. When I got it, I admitted that I didn't have my mythical (not even my fabled epic!). They laughed :) It felt good not to be immediately judged on my lack of gear. The Shadow Odyssey expansion so often seems like all the bad parts of WoW's achiever mentality infecting my favorite game and driving away all the casual people.
 

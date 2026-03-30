@@ -3,41 +3,20 @@ date: '2020-08-21T08:18:40-05:00'
 draft: false
 title: "Blaugust #21: There Are No New Ideas"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/21/blaugust-21-there-are-no-new-ideas/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
+summary: "My son hates old movies, old songs, old anything. If it's over ten years old, he'll refuse to have anything to do with it --..."
+categories:
+  - "Blaugust"
 tags:
   - "Blaugust"
   - "Desert Planet"
   - "Dune"
   - "Girls Screaming in British"
   - "Tell Me of Your Homeworld Usul"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/seamonsters.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/seamonsters.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/seamonsters.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/seamonsters.jpg"
 ---
+My son hates old movies, old songs, old anything. If it's over ten years old, he'll refuse to have anything to do with it --...
+<!--more-->
 
 My son hates old movies, old songs, old anything. If it's over ten years old, he'll refuse to have anything to do with it -- with certain exceptions. I try to sneak things in, sometimes, but then he'll catch on. "That's Led Zeppelin. Not interested."
 
@@ -57,13 +36,13 @@ This year, they've rebooted "Doctor Doolittle". Remember that? No? They also reb
 
 Mulan's about to come out in some form, rebooted as a traditional martial arts film with the talking dragon replaced by a witch. There are apparently no songs.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/dune-300x168.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/dune-300x168.jpg" classes="center" >}}
 
 Dune is being rebooted again. Nobody (except me, I guess) liked David Lynch's take on it. I found the Syfy remake acceptable but forgettable. 
 
 I always thought Dune was a decent remake of Lawrence of Arabia, actually.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/lawrence-of-arabia-300x235.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/lawrence-of-arabia-300x235.jpg" classes="center" >}}
 
 Lawrence is cast into the desert and falls in among the desert dwelling Bedouins, learns their ways, and leads them into battle against the villainous Ottoman Empire; Paul is cast into the desert and falls in among the desert dwelling Fremen, learns their ways, and leads them into battle against the villainous Imperial army. They are both examples of the [White Savior trope](https://en.wikipedia.org/wiki/White_savior_narrative_in_film).
 

@@ -3,41 +3,20 @@ date: '2023-09-18T07:00:00-05:00'
 draft: false
 title: "The Teal Mask: Was it worth it?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/09/18/teal-mask-was-it-worth-it/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I finished the main plot and a bit of the post-expansion content for Pokemon Scarlet/Violet's first DLC, \"The Teal Mask\". Now that it's over... was it worth playing?"
-description: "I finished the main plot and a bit of the post-expansion content for Pokemon Scarlet/Violet's first DLC, \"The Teal Mask\". Now that it's over... was it worth playing?"
-tags:
+categories:
   - "Pokemon"
+tags:
   - "Bloodmoon Ursaluna"
   - "Ogerpon"
+  - "Pokemon"
   - "The Loyal Three"
   - "The Teal Mask"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/2023091520051500-B6CE40797459B0890BF7CEF68A4CE587.jpg"
 ---
+I finished the main plot and a bit of the post-expansion content for Pokemon Scarlet/Violet's first DLC, "The Teal Mask". Now that it's over... was it worth playing?
+<!--more-->
 
 Yes.
 
@@ -51,11 +30,11 @@ A lot of Pokemon from previous generations finally make their way to Kitakami to
 
 The plot is fun; siblings Carmine and Kieran are your rivals through the DLC, each taking turns to check out how your team is coming along. Kieran's character arc from an ogre-loving kid to an obsessed stalker who only wants to beat you into the ground is fun, and we expect him to be the main crazed villain in the second half of the DLC, The Indigo Disk.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/2023091513240700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Hangin' with Ogerpon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/2023091513240700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Hangin' with Ogerpon" classes="center" >}}
 
 The legendary bully Pokemon fights were somewhat challenging. Actually *catching* them in the post-game content was another story entirely. They had a lot of fun killing my entire team as I was forced to keep them alive as I sent dozens of Ultra Balls bouncing harmlessly off their noggins. One of my team was fairly resistant to their attacks, and that really changed things up once I found it. (Shiftry could block almost everything the monkey threw at it). I'd turned off auto-saving so that I could quit the game and restart if I accidentally killed the legendary.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-23-1024x532.png" title="Fighting against one of Ogerpon's masks" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-23-1024x532.png" title="Fighting against one of Ogerpon's masks" classes="center" >}}
 
 The highlight was the final fight of the main plot. Once Ogerpon is given all four of its masks, they insist upon fighting you to see if you are worthy enough to become its partner.
 
@@ -67,7 +46,7 @@ This really got me out of my comfort zone, where I might have used my raid-level
 
 I am not yet sure if I can replace Iron Hands with Mienshao in raids. Iron Hands is just so bulky. Mienshao came with a perfectly useless ability, Reckless, which powers up moves that give recoil damage. I could find no move in his moveset or given via TMs that had recoil damage, so I had to use a precious Ability Patch to change the ability to Inner Focus, which makes it immune to flinching and intimidation. I might be able to overcome its lack of Belly Drum (max attack but cut own HP to half) by maxing its Speed and using Focus Punch for the same end, but I'll have to see if that works. The real problem is that since Iron Hands is in the meta, when people see it on the party screen in fights where that would be the best option, they know they can rely on support and heals as Iron Hands has the damage covered.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/2023091523142600-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="The Loyal Three enjoying a picnic" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/2023091523142600-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="The Loyal Three enjoying a picnic" classes="center" >}}
 
 I've already mentioned that Arceus still outclasses Ogerpon.
 
@@ -77,6 +56,6 @@ Likely the best raid mon coming out of the DLC is Bloodmoon Ursaluna, whom you m
 
 So, looks like my journey in The Teal Mask isn't quite done. I only have 139 mons in the Kitakami dex, even though I've spent a lot of time hunting. Time to stop hunting and start evolving, probably. Also, there's the random Sinnoh starter to hatch as well.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/2023091521012700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="To be continued..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/2023091521012700-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="To be continued..." classes="center" >}}
 
 Keep an eye out for Bloodmoon Ursaluna news, once I find it and try it out in a few raids. I have also started on Baldur's Gate 3, so... more news on that when I find something interesting. Thanks for reading!

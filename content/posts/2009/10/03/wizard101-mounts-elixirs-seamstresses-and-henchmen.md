@@ -3,40 +3,19 @@ date: '2009-10-03T00:22:37-05:00'
 draft: false
 title: "Wizard101: Mounts, Elixirs, Seamstresses and Henchmen"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/03/wizard101-mounts-elixirs-seamstresses-and-henchmen/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36-480x334.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36-480x334.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36-480x334.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36-480x334.jpg"
 ---
+[...
+<!--more-->
 
-[![Dragon mount flying around Mooshu](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36-480x334.jpg "Dragon mount flying around Mooshu")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-18-56-44-36.jpg)
 
 The upcoming [Wizard101 mega-patch](https://www.wizard101.com/game/community/patchnotes) is up on the test server today, and we were there to look over the new changes. We'd known about the new mounts that were on their way, but that's not all KingsIsle had up their billowing sleeves.
 
@@ -64,15 +43,15 @@ Here's the official word on mounts.
 
 Zeke doesn't offer many mounts, but the crown store is always available via a new icon at the upper left of the screen. Most (but not all) items can be bought for either Crowns or gold. PILES of gold -- but you don't have to spend real money on these things if you'd rather just use in-game gold on it. Travel is MUCH nicer with a mount! Here's the mounts available from the Crowns store.
 
-[![Mounts 1](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-04-38-479x370.jpg "Mounts 1")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-04-38.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-04-38-479x370.jpg" title="Mounts 1" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-04-38.jpg)
 
-[![Mounts 2](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-09-49-480x374.jpg "Mounts 2")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-09-49.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-09-49-480x374.jpg" title="Mounts 2" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-09-49.jpg)
 
-[![Mounts 3](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-14-24-480x370.jpg "Mounts 3")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-14-24.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-14-24-480x370.jpg" title="Mounts 3" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-03-14-24.jpg)
 
 My favorite mount? The broom, of course!
 
-[![WizardGraphicalClient 2009-10-02 19-20-46-11](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-20-46-11.jpg "WizardGraphicalClient 2009-10-02 19-20-46-11")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-20-46-11.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-20-46-11.jpg" title="WizardGraphicalClient 2009-10-02 19-20-46-11" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-20-46-11.jpg)
 
 Elixirs add short term benefits or effects to your character. KI says:
 
@@ -90,7 +69,7 @@ Is being human becoming really dull? Shake things up with a transformation potio
 
 Meh. I can see a use for them to make some cool comics, though.
 
-[![WizardGraphicalClient 2009-10-02 19-22-34-62](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-22-34-62-480x444.jpg "WizardGraphicalClient 2009-10-02 19-22-34-62")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-22-34-62.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-22-34-62-480x444.jpg" title="WizardGraphicalClient 2009-10-02 19-22-34-62" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-22-34-62.jpg)
 
 You'll never be alone again with the new henchmen, wizards you can hire to help you, one fight at a time. You can only purchase them while in battle, and they poof as soon as it's over. They aren't quite as skilled as players, but then, if there were other players around, you wouldn't need these. And they don't attract additional monsters to the duel! KI's take:
 
@@ -98,7 +77,7 @@ You'll never be alone again with the new henchmen, wizards you can hire to help 
 
 I guess that's more or less what I said. It's kinda cool -- fighting fire mobs? Summon a level 50 Grandmaster Ice Wizard! Always have the best kind of wizard for the fight :)
 
-[![Galen Frostflower to the rescue!](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-13-23-51-479x357.jpg "Galen Frostflower to the rescue!")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-13-23-51.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-13-23-51-479x357.jpg" title="Galen Frostflower to the rescue!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-13-23-51.jpg)
 
 Galen Frostflower is a hired wizard. His ice spells all came out nicely, but he wasn't big on the buffing and debuffing.
 
@@ -124,11 +103,11 @@ Eloise Merryweather, the elderly lady who sells furniture next to Prospector Zek
 
 Here's a picture of the seamstress screen:
 
-[![Make my hat into a better hat!](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-08-33-98-480x360.jpg "Make my hat into a better hat!")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-08-33-98.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-08-33-98-480x360.jpg" title="Make my hat into a better hat!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-08-33-98.jpg)
 
 I bought one of the new appearance outfits and am taking all my level 50 gear and making it look like level 25 gear because I R CLEVR. Most of the outfits that you can buy for Crowns can be bought for far cheaper in the Bazaar, but naturally, the Bazaar clothes tend to have picky level requirements. They DO have some unique outfits, but ya know, if you run around in a store-bought ensemble, it's just going to be a fashion disaster if you see anyone else wearing the same thing.
 
-[![Me in my cheap but satisfying clothing](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-09-39-24-480x456.jpg "Me in my cheap but satisfying clothing")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-09-39-24.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-09-39-24-480x456.jpg" title="Me in my cheap but satisfying clothing" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-02-19-09-39-24.jpg)
 
 I just... have always liked the Marleybone look. Hey, Marleybone is getting TELEPORTERS! All you rooftop-averse wizards should be jumping for joy!
 

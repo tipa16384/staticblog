@@ -3,39 +3,18 @@ date: '2010-05-20T21:39:04-05:00'
 draft: false
 title: "Ultima Online: A Classic Experience"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/20/ultima-online-a-classic-experience/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/ultima_w010Q6K4J4en2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/ultima_w010Q6K4J4en2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/ultima_w010Q6K4J4en2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/ultima_w010Q6K4J4en2.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/ultima_w010Q6K4J4en2.jpg "Ultima wallpaper")](https://chasingdings.com/wp-content/uploads/2010/05/ultima_w010Q6K4J4en2.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/ultima_w010Q6K4J4en2.jpg)
 
 Flying dragons dive-bombing armies while squads of orcs rush in from the flanks! Death hems in on all sides as you struggle to give better than you get in a desperate bid for survival! Aid the forces of light against the numberless minions of the dark!
 
@@ -43,13 +22,13 @@ That's what Ultima Online shows in the picture above, and if you ask an old UO p
 
 What you get is more like....
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/UOSA-2010-05-20-21-49-02-29.jpg "Killing bears")](https://chasingdings.com/wp-content/uploads/2010/05/UOSA-2010-05-20-21-49-02-29.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/UOSA-2010-05-20-21-49-02-29.jpg" title="Killing bears" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/05/UOSA-2010-05-20-21-49-02-29.jpg)
 
 You run around and kill everything you see, not for experience -- there isn't any in Ultima Online -- but to gain enough skill in swords and healing to survive against the tougher skeletons, zombies and two-headed ettins that populate the newbie isle.
 
 Getting lost is not a problem in UO; exploration is very much encouraged, and the residents of the island seem, to a person, to be confused as to where they are and how to get to where they need to go. There were a lot of escort quests.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/UOSA-2010-05-20-21-19-13-38.jpg "A dragon!")](https://chasingdings.com/wp-content/uploads/2010/05/UOSA-2010-05-20-21-19-13-38.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/UOSA-2010-05-20-21-19-13-38.jpg" title="A dragon!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/05/UOSA-2010-05-20-21-19-13-38.jpg)
 
 Ultima Online is a game that demands you use your imagination. By giving you so little detail visually, your brain starts to fill in all the missing pieces, like an Impressionist painting with pixels instead of dots of paint.
 
@@ -61,6 +40,6 @@ A lot of games make you wait months to get to the stuff they show on the box, bu
 
 Until the guy who owned it started objecting to our attempts to scratch its rosy hide.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/UOSA-2010-05-20-21-14-33-92.jpg "The Meeting")](https://chasingdings.com/wp-content/uploads/2010/05/UOSA-2010-05-20-21-14-33-92.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/UOSA-2010-05-20-21-14-33-92.jpg" title="The Meeting" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/05/UOSA-2010-05-20-21-14-33-92.jpg)
 
 Ultima Online makes little effort to convince a player of modern MMOs to take a trip back in time to when there were so few MMOs that players didn't mind steep learning curves as long as they could play in a living world -- this UO shares with EverQuest, Dark Age of Camelot and Anarchy Online. All these games will welcome you with open arms... after you've proven yourself worthy.

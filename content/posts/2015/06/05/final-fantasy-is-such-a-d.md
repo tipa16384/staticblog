@@ -3,38 +3,15 @@ date: '2015-06-05T14:50:32-05:00'
 draft: false
 title: "Final Fantasy XIV is... different?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/05/final-fantasy-is-such-a-d/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Final Fantasy is such a different experience, that a bit more than a week in, I'm still not sure how I feel about it. I..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://lh3.googleusercontent.com/-7vt2Nk4JPSQ/VXG3N8Q5aiI/AAAAAAABJh0/Rj2OGV7u5FM/w506-h750/ffxiv%2B2015-06-02%2B23-36-04-00.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-7vt2Nk4JPSQ/VXG3N8Q5aiI/AAAAAAABJh0/Rj2OGV7u5FM/w506-h750/ffxiv%2B2015-06-02%2B23-36-04-00.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-7vt2Nk4JPSQ/VXG3N8Q5aiI/AAAAAAABJh0/Rj2OGV7u5FM/w506-h750/ffxiv%2B2015-06-02%2B23-36-04-00.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-7vt2Nk4JPSQ/VXG3N8Q5aiI/AAAAAAABJh0/Rj2OGV7u5FM/w506-h750/ffxiv%2B2015-06-02%2B23-36-04-00.jpg"
 ---
+Final Fantasy is such a different experience, that a bit more than a week in, I'm still not sure how I feel about it. I...
+<!--more-->
 
 Final Fantasy is such a different experience, that a bit more than a week in, I'm still not sure how I feel about it. I do LIKE it... but... wait, a little background.
 
@@ -52,6 +29,8 @@ Last night went so poorly that I felt like apologizing to my group. Nobody died 
 
 More disappointment in myself than anything in the game. I'm still very much liking the differences. I just feel that I am fighting the UI to some extent.
 
-The mouse/keyboard combo may be better. I'll have to take a careful look at the key bindings.﻿[![](https://lh3.googleusercontent.com/-7vt2Nk4JPSQ/VXG3N8Q5aiI/AAAAAAABJh0/Rj2OGV7u5FM/w506-h750/ffxiv%2B2015-06-02%2B23-36-04-00.jpg)]()
+The mouse/keyboard combo may be better. I'll have to take a careful look at the key bindings.﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/+BrendaHolloway/posts/L4N3WRp6PGt)

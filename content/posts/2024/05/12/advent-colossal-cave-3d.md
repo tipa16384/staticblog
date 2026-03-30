@@ -3,49 +3,27 @@ date: '2024-05-12T09:59:22-05:00'
 draft: false
 title: "ADVENT: Colossal Cave 3D"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/05/12/advent-colossal-cave-3d/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Having spent the past several days mapping and exploring the text version, it's finally time to replay Colossal Cave Adventure in glorious 3D."
-description: "Having spent the past several days mapping and exploring the text version, it's finally time to replay Colossal Cave Adventure in glorious 3D."
-tags:
+categories:
   - "Adventure"
   - "EverQuest"
   - "RPG"
   - "Text Adventure Game"
+tags:
   - "Colossal Cave"
   - "Colossal Cave Adventure"
   - "Sierra"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-troll2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/05/cc-troll2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cc-troll2.png"
 ---
+Having spent the past several days mapping and exploring the text version, it's finally time to replay Colossal Cave Adventure in glorious 3D.
+<!--more-->
 
 I was *really skeptical* when I read that Roberta and Ken Williams of the dearly departed Sierra Online were remaking Crowther and Woods' ADVENT for modern consoles. I'd already *played* it; couldn't they come out with something new? Like a new tech Quest for Glory?
 
 I guess they probably don't have the rights to that franchise any more. Since they sold the company. But, still. ADVENT holds such a special place in my heart for being the first computer RPG I ever played. I thought that they would cheapen it. I thought it was a quick cash grab and a way to get back in the news.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-8-1024x576.png" title="Gold Room. The dwarf is just about to run away." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-8-1024x576.png" title="Gold Room. The dwarf is just about to run away." classes="center" >}}
 
 I shouldn't have worried. If the game was special to me, it was way more special to Roberta Williams. She and her husband started an entire game company to make games like ADVENT (as did Scott Adams (not that Scott Adams), whose [old adventure games are also being brought back](https://store.steampowered.com/app/1171560/Adventureland_XL/) but without such loving care).
 
@@ -57,7 +35,7 @@ It went like this: Advent sparked Infocom's "Zork", which inspired the first mul
 
 THIS ONE GAME transformed computer RPGs. I'm just astonished that Crowther and Woods aren't celebrated more.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-9-1024x576.png" title="The Shell Room" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-9-1024x576.png" title="The Shell Room" classes="center" >}}
 
 Obviously, the original game is still around. You don't have to go hunting for the source and building it from scratch. I just did that because I was weird. You can [play the original text game here](https://rickadams.org/adventure/advent/), just as it was played back in the 70s. I really do think this is the pure, undiluted form of the game. People found it so compelling that it started an entire *genre*.
 

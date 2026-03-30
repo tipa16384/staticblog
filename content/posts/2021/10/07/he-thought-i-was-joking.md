@@ -3,44 +3,22 @@ date: '2021-10-07T23:37:50-05:00'
 draft: false
 title: "He thought I was joking."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/07/he-thought-i-was-joking/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "UltrViolet writes great posts but doesn't have any comment section on his blog. Sometimes you just have to take that extra step...."
+categories:
   - "Blaugust"
   - "Daily Blogroll"
   - "Final Fantasy"
   - "Greedfall"
   - "MMORPG"
   - "New World"
+tags:
   - "Blogging"
   - "Daily Log"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/endgame_auto_x2_toned_light_ai.jpg"
 ---
+UltrViolet writes great posts but doesn't have any comment section on his blog. Sometimes you just have to take that extra step....
+<!--more-->
 
 [UltrViolet](http://endgameviable.com/) writes great posts but doesn't have any comment section on his blog. Sometimes you just have to take that extra step.
 
@@ -49,7 +27,7 @@ editPost:
 
 Once upon a time, I used to do respond to other people's posts on my blog, every day -- almost every day. It was fun.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/GreedFall_20211007230958-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/GreedFall_20211007230958-scaled.jpg)Poorly lit Greedfall shot
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/GreedFall_20211007230958-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/GreedFall_20211007230958-scaled.jpg)Poorly lit Greedfall shot
 
 > I started **Greedfall** a while back, but it didn’t click with me. It was “okay” but running back and forth to watch cut scenes is the main game activity. It wasn’t a good game for videos.
 > "[Now What](http://endgameviable.com/gaming/2021/10/now-what/)"
@@ -61,9 +39,9 @@ I'm actually surprised that a lot of New World players *aren't* playing Greedfal
 
 I feel the same way.[ I try to record most games I play](https://www.twitch.tv/tipa16384), now, unless they are with other people, in which case I protect their privacy by not broadcasting it. I am slowly figuring out how to do Twitch. I tried a live stream on YouTube the other day, but I didn't enjoy it much.
 
-You should definitely try [Valheim](https://chasingdings.com/?s=valheim). I had a lot of fun playing with my static group. And some amount of fun playing solo, too :-)
+You should definitely try [Valheim](https://tipa16384.github.io/wkblog/?s=valheim). I had a lot of fun playing with my static group. And some amount of fun playing solo, too :-)
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/20210925172222_1-1024x574.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/20210925172222_1.jpg)That dress.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/20210925172222_1-1024x574.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/20210925172222_1.jpg)That dress.
 
 > The Copied Factory, it turns out, is one of the easiest alliance raids I’ve seen in the game (admittedly I’m late to it, so everyone is now overleveled). Compared to The Labyrinth of the Ancients back in the day, it’s a breeze.
 > [Shadowbringers 5.1](http://endgameviable.com/gaming/2021/09/ffxiv-shadowbringers-51-vows-of-virtue-deeds-of-cruelty/)

@@ -3,47 +3,23 @@ date: '2008-09-15T08:29:50-05:00'
 draft: false
 title: "Vanguard noob experience: The Isle of Dawn"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/15/vanguard-noob-experience-the-isle-of-dawn/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've played Vanguard before -- but only up to 18. I still consider myself a Vanguad \"noobie\". I felt more like a noob than ever..."
+categories:
   - "MMORPG"
   - "Vanguard"
+tags:
   - "Isle of Dawn"
   - "Newbie Island"
   - "Temple of the Ancients"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg"
 ---
+I've played Vanguard before -- but only up to 18. I still consider myself a Vanguad "noobie". I felt more like a noob than ever...
+<!--more-->
 
 I've played Vanguard before -- but only up to 18. I still consider myself a Vanguad "noobie". I felt more like a noob than ever after running through the new player experience, "The Isle of Dawn". Almost everyone I met there had at least one max level character, and for those Vanguard experts, the noob island was easy and fun. To someone still fairly new to Vanguard, it was a somewhat frustrating experience. I crashed to desktop four times, got stuck in an elevator three times (being warned each time I typed /stuck yes that my usage was being logged and I could be banned), and drowned in the middle of an open room with no water in sight.
 
 On the other hand, I learned more about Vanguard than I knew before, was spared the "plopped down in the middle of nowhere" feel of the original starting areas, got outfitted in decent gear and had an opportunity to group with some nice people.
-
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-22-22-05-43.jpg "vgclient-2008-09-14-22-22-05-43")
 
 I wanted to try out the disciple class -- I'd picked that for my Stout Henry guy and I found I really liked the idea of a melee healer. Because I was just playing around, I chose the silliest race (a fox person) and name (Viveca Crevan). The entire night, little Viveca did high kicks to monster's crotches. It was like being in the Will Ferrell version of Vanguard.
 
@@ -57,7 +33,7 @@ After that, it was into the swamp to take care of the hobgoblin problem.
 
 This is where the Isle of Dawn very nearly lost me. I was REALLY UNCOMFORTABLE that the major enemy on the island was a race of often-naked black guys (with pointy ears). Couldn't they have made the hobgoblins look like monsters? Judge for yourself.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-14-03-00-82.jpg "vgclient-2008-09-14-14-03-00-82")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-14-14-03-00-82.jpg" title="vgclient-2008-09-14-14-03-00-82" classes="center" >}}
 
 "But mearly naked WHITE guys would have been okay?" you might ask. Well, actually, I dislike killing mobs that look like people in general. Monsters are fine. People is uncomfortable. But black guys dressed in nearly nothing, covered with tribal war paint (in later zones, they do wear clothing), with all attempts to talk to them met with violence, I mean, come on. Who thought that was a good idea?
 
@@ -65,7 +41,7 @@ I got random group invites every now and then. First group mate was an 11 year o
 
 Together, we cleared out a village of hobgoblins who were being coerced from beyond to open up portals to the Fire Dimension and summon imps to come do their terrible bidding. The imps were most notable for being one-hit kills. If I were running the Fire Dimension, and I was looking to invade a world, I would pull out the big guns.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-18-57-55-69.jpg "vgclient-2008-09-14-18-57-55-69")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-14-18-57-55-69.jpg" title="vgclient-2008-09-14-18-57-55-69" classes="center" >}}
 
 Later villages of hobgoblins, these that called forth elementals from the Rock Dimension, fared no better. I found a ring that makes an annoying sound in the Rock Dimension when you use it on a rock critter. I just kept using it until it annoyed a rock critter so much that he popped into the Isle of Dawn to make me stop. I just kept using the ring on him until he exploded. I guess he didn't like the ring tone.
 
@@ -73,7 +49,7 @@ Like, from a cellphone. Never mind.
 
 Turns out the hobgoblins are being riled up by some invaders from the Uvula Dimension, the Ulvari. Who are basically even blacker guys. After wiping out a village of them, we were sent (different group by this time; the 11 year old had to spend time with his cousin) to the Temple of Ancients! Which you get to via pegasus.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-20-02-05-05.jpg "vgclient-2008-09-14-20-02-05-05")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-14-20-02-05-05.jpg" title="vgclient-2008-09-14-20-02-05-05" classes="center" >}}
 
 Stargrace took me on a griffon flight once, but I'd forgotten how to fly them, since after that one time, I could never find the flight masters again so just ran everywhere. (Use the map? HAHAHAHAHAAHAHAHAHAHAHAHAHA yeah right). Anyway, for those who, like me, are fairly new to flying, here's how you fly: Click on the flight master, choose your destination by clicking on a useful, clearly marked map, and you're off. Oh wait, that's World of Warcraft. I meant, click on the flight master, and choose your destination from a list. Oh damn sorry, that's EverQuest 2. What I really meant was: Click on the flight master, buy a pegasus leash from him, find it in your inventory, open up your character window, choose the last tab, equip the leash, right click it to summon the pegasus, close the window, while moving forward hit the space button twice, line up the red mark in your compass, point upward while flapping with the space bar, and you're off!
 
@@ -85,7 +61,7 @@ The room fell silent. And then someone clapped. And then another. And then the w
 
 Anyway, off I eventually went to the Temple of the Ancients.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-22-09-14-84.jpg "vgclient-2008-09-14-22-09-14-84")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-14-22-09-14-84.jpg" title="vgclient-2008-09-14-22-09-14-84" classes="center" >}}
 
 I don't actually have any screen shots from the Temple. So you can't see the rock elevator which slams you against some bars from which you are unable to move or escape. That had me and my group mate risking the ban hammer by typing /stuck yes a couple of times. Or the room right before the dungeon boss where you suddenly find yourself drowning while your groupmate yells at you to "use your protection". My what? gurglegurle gaaaaaaah.... I crashed right after that and my groupmate was gone when I got back.
 
@@ -95,7 +71,7 @@ Afterward, I helped a rogue do it, and it went a whole lot better.
 
 Then I got stuck in the elevator again. I decided not to bother with the quest to farm nameds for Death Poems because any more time spent in Temple of the Ancients and that stupid elevator would drive me mad, so I did the "find the pegasus master" quest for the fourth time (oh, isn't he on the map? HAHAHAHAHAHA!), turned in the quest at ToA, finished up the quests I had back at the village, dinged ten, talked to the rift master about leaving the island, clicked on the rift and crashed.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-14-19-57-19-06.jpg "vgclient-2008-09-14-19-57-19-06")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-14-19-57-19-06.jpg" title="vgclient-2008-09-14-19-57-19-06" classes="center" >}}
 
 As an intro to Vanguard, the Isle of Dawn is more focused and puts you together with a large number of other players, most of whom are Vanguard experts with a lot of experience in the game. It is far better to start with other people than to be dropped in the middle of nowhere with no other players in sight.
 

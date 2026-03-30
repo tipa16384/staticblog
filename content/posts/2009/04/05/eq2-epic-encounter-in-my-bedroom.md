@@ -3,43 +3,21 @@ date: '2009-04-05T22:19:44-05:00'
 draft: false
 title: "EQ2: Epic encounter in my bedroom"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/05/eq2-epic-encounter-in-my-bedroom/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was really cool! See, Kasul and I were kinda bored, and we were alone in the guild hall, and we got to thinking about..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
   - "One Panel Comix"
+tags:
   - "Kobold"
   - "Orc"
   - "Station Marketplace"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg"
 ---
+It was really cool! See, Kasul and I were kinda bored, and we were alone in the guild hall, and we got to thinking about...
+<!--more-->
 
 It was really cool! See, Kasul and I were kinda bored, and we were alone in the guild hall, and we got to thinking about what we could do and so we ...
 
@@ -49,11 +27,9 @@ OMG! You people... I swear. I'm gonna stop writing this post unless you stop lau
 
 It wasn't THAT kind of encounter.
 
-![everquest2-2009-04-04-21-58-41-05](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-04-21-58-41-05.jpg "everquest2-2009-04-04-21-58-41-05")
-
 A couple of weeks ago, SOE put an Orc Centurion into their Station Marketplace thingy RMT thing. And I've been wracking my brains trying to think of what you could DO with it.
 
-![everquest2-2009-04-04-22-51-43-45](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-04-22-51-43-45.jpg "everquest2-2009-04-04-22-51-43-45")And then, hey, we have that Kobold just sitting around in my guild room, eating any rats that get too close... what if we could make, oh, like a grouped encounter? Kasul logged in his carpenter and made a bunch of tents to choose from, the campfire, some decorative skull poles and a treasure box, and I pulled together some stuff from my room and invited an orc and a second kobold to join the first, and set them up in the crafting room.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-04-22-51-43-45.jpg" title="everquest2-2009-04-04-22-51-43-45" classes="center" >}}And then, hey, we have that Kobold just sitting around in my guild room, eating any rats that get too close... what if we could make, oh, like a grouped encounter? Kasul logged in his carpenter and made a bunch of tents to choose from, the campfire, some decorative skull poles and a treasure box, and I pulled together some stuff from my room and invited an orc and a second kobold to join the first, and set them up in the crafting room.
 
 Perfect!
 

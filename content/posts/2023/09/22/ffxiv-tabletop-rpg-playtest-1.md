@@ -3,39 +3,16 @@ date: '2023-09-22T07:00:00-05:00'
 draft: false
 title: "FFXIV Tabletop RPG: Playtest #1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/09/22/ffxiv-tabletop-rpg-playtest-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Square Enix is coming out with a sourcebook and game master's guide for a table top version of Final Fantasy XIV in May. I wonder what playing that would be like..."
-description: "Square Enix is coming out with a sourcebook and game master's guide for a table top version of Final Fantasy XIV in May. I wonder what playing that would be like..."
-tags:
+categories:
   - "Final Fantasy"
   - "Humor"
   - "Tabletop Game"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/ffxivttrpg.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/09/ffxivttrpg.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/ffxivttrpg.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/ffxivttrpg.png"
 ---
+Square Enix is coming out with a sourcebook and game master's guide for a table top version of Final Fantasy XIV in May. I wonder what playing that would be like...
+<!--more-->
 
 Tonight was game night, and I was super excited to bring the new Final Fantasy XIV Tabletop Role Playing Game to the group. All of us are devoted FFXIV players, so we wouldn't need any time at all to get accustomed to the setting of Eorzea, the magical continent where most of the MMORPG takes place.
 
@@ -43,7 +20,7 @@ Tonight was game night, and I was super excited to bring the new Final Fantasy X
 
 Character creation was simple and streamlined, allowing each player to choose from among cat girl, bunny girl, or the tiny sexless Lalafell race of dwarfs. Since there are no stats to roll -- your stats are determined by your gear -- character creation was largely about making sure nobody else had copied your hair color.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-27-1024x643.png" title="So, which one of these things is \"gil\"?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-27-1024x643.png" title="So, which one of these things is \"gil\"?" classes="center" >}}
 
 **Game Setup**
 
@@ -55,7 +32,7 @@ Oh, well, we already knew all this stuff, so we just skipped the cutscene.
 
 Oh, okay. Well, I'll skip ahead to
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-28-1024x643.png" title="Wait, we all chose Dark Knight?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-28-1024x643.png" title="Wait, we all chose Dark Knight?" classes="center" >}}
 
 **Meeting your Guildmasters**
 
@@ -81,7 +58,7 @@ Everyone starts out with a quest from their guildmaster meant to teach them the 
 
 Okay, sure. Let's move on to
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-29-1024x643.png" title="Boss!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-29-1024x643.png" title="Boss!" classes="center" >}}
 
 **Your First Dungeon**
 

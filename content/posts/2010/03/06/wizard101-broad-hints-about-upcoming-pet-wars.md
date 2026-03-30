@@ -3,38 +3,15 @@ date: '2010-03-06T07:04:25-05:00'
 draft: false
 title: "Wizard101: Broad hints about upcoming PET WARS!?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/06/wizard101-broad-hints-about-upcoming-pet-wars/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, the fine faculty at the Ravenwood School of Magical Arts have put a month's worth of speculation into a handful of paragraphs. The full..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/dhj6p59w_29d5xmd6dz_b.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/dhj6p59w_29d5xmd6dz_b.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/dhj6p59w_29d5xmd6dz_b.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/dhj6p59w_29d5xmd6dz_b.png"
 ---
+Well, the fine faculty at the Ravenwood School of Magical Arts have put a month's worth of speculation into a handful of paragraphs. The full...
+<!--more-->
 
 Well, the fine faculty at the Ravenwood School of Magical Arts have put a month's worth of speculation into a handful of paragraphs. The full press release is below, but let's take a look at it, shall we?
 
@@ -722,8 +699,6 @@ border: 1px dashed #C0C0C0
 
 **
 
-![](https://chasingdings.com/wp-content/uploads/2010/03/dhj6p59w_29d5xmd6dz_b.png "Ravenwood Crest")
-
 **
 
 ** **
@@ -744,7 +719,7 @@ border: 1px dashed #C0C0C0
 
 **WIZARD CITY, The Spiral** (March 5, 2010) – The winds of spring are blowing across Wizard City, and with them come the fresh spirit of competition. Inspired by Earth’s finest athletes at their winter games, Wizards from every school and many worlds of the Spiral are ready to set forth on grand new adventures with their loyal pets alongside them, with exciting new activities and fresh challenges soon to come.
 
-![](https://chasingdings.com/wp-content/uploads/2010/03/dhj6p59w_30ddt2nff2_b.png "At the Animalympics!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/dhj6p59w_30ddt2nff2_b.png" title="At the Animalympics!" classes="center" >}}
 
 When asked what’s in store for pet-owners, Merle Ambrose, headmaster of Ravenwood School of Magical Arts, replied: “This spring, pets will be able to do more than you have ever dared hope! These fine creatures will serve alongside you in wonderful new ways, taking you to unseen parts of familiar worlds, and in time to come, worlds beyond those you know! If you think you have seen all that the Spiral has to offer, young Wizard, you will soon discover an all new breed of entertainment!”
 

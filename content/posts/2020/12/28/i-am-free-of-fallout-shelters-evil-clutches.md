@@ -3,45 +3,23 @@ date: '2020-12-28T20:27:08-05:00'
 draft: false
 title: "I am free of Fallout Shelter's evil clutches"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/12/28/i-am-free-of-fallout-shelters-evil-clutches/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Header image shows the moment I knew I was done with Fallout Shelter. I had just gotten things back on track from an attack of..."
+categories:
   - "Mobile Games"
   - "PS5"
+tags:
   - "F2P"
   - "Fallout Shelter"
   - "Mobile Game"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228193414.jpg"
 ---
+Header image shows the moment I knew I was done with Fallout Shelter. I had just gotten things back on track from an attack of...
+<!--more-->
 
 Header image shows the moment I knew I was done with Fallout Shelter. I had just gotten things back on track from an attack of radioactive scorpions, when some death claws came by and took out my defenses, then killed my main power, water and food facilities. Even "Cut-Rate Richard Branson" couldn't fight them off.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/1-Fallout-Shelter_20201228193200.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228193200.jpg" classes="center" >}}
 
 I had 101 residents when I finished -- enough to unlock every building, but enough to also make the shelter chronically short of water, energy and food. The shelter always made more than it needed, but the frequent attacks would decimate them and then it would be a long session to get things stable once more.
 
@@ -49,7 +27,7 @@ Most of the 101 people weren't useful for anything. Their stats were low; traini
 
 If they'd had a Soylent Green facility, my issues would solve themselves. But, alas, that's the one science fiction trope they *didn't* use in Fallout Shelter.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/1-Fallout-Shelter_20201228193855.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228193855.jpg" classes="center" >}}
 
 I will miss the expeditions, though. You could send groups of folks out on quests, but you could also send them out individually to explore on their own, taking much less time.
 
@@ -61,7 +39,7 @@ I would have spent real money on an upgrade that stopped or substantially decrea
 
 It has no more hold over me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/1-Fallout-Shelter_20201228194422.jpg" title="Fallout Shelter_20201228194422" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/1-Fallout-Shelter_20201228194422.jpg" title="Fallout Shelter_20201228194422" classes="center" >}}
 
 But, it did last longer with me than the typical mobile game. Usually I delete them within hours. This one has lasted a couple of weeks. So, for a mobile game, A+, keep 'em coming.
 

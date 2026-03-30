@@ -3,42 +3,20 @@ date: '2020-05-24T14:13:08-05:00'
 draft: false
 title: "Five MORE Ways You're Playing EQ Wrong!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/24/five-more-ways-youre-playing-eq-wrong/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Hey, don't blame me -- blame the incomparable Jeff Rimer......"
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Aradune"
   - "Macintosh"
   - "Parallels"
   - "TLP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/Image-5-24-20-at-7.56-AM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/Image-5-24-20-at-7.56-AM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/Image-5-24-20-at-7.56-AM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/Image-5-24-20-at-7.56-AM.jpg"
 ---
+Hey, don't blame me -- blame the incomparable Jeff Rimer......
+<!--more-->
 
 Hey, don't blame me -- blame the incomparable Jeff Rimer...
 
@@ -67,7 +45,7 @@ I downloaded [Parallels VM for the Macintosh](https://www.parallels.com/products
 
 I installed EverQuest on it, patched it up, and there it was, running like it was on a Windows laptop.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/eqgame-2020-05-23-23-33-26-70-1024x589.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/eqgame-2020-05-23-23-33-26-70-1024x589.jpg" classes="center" >}}
 
 The real test was whether I could actually manage to two box, and whether it would actually be worth the hassle.
 

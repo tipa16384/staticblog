@@ -3,42 +3,20 @@ date: '2025-07-02T08:00:00-05:00'
 draft: false
 title: "Malifaux: Boilermaker takes the stage"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/07/02/malifaux-boilermaker-takes-the-stage/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "For Canada Day, a special crew. Not all of the Foundry crew are from Canada, but some are, and they have a proud history of bending molten metal to their will."
-description: "For Canada Day, a special crew. Not all of the Foundry crew are from Canada, but some are, and they have a proud history of bending molten metal to their will."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "Boilermaker"
   - "Foundry"
   - "Pack Rat Gaming"
   - "Transmortis"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5205-1-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5205-1-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5205-1-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5205-1-scaled.jpg"
 ---
+For Canada Day, a special crew. Not all of the Foundry crew are from Canada, but some are, and they have a proud history of bending molten metal to their will.
+<!--more-->
 
 Not all of the Foundry crew are from Canada, but some are. The Foundry folks mix metal and magic into living constructs that stalk around the battlefield, melting stuff.
 
@@ -46,7 +24,7 @@ Mei Feng's parents worked on uniting Canada with the Canadian Pacific Railway, b
 
 So, on Canada Day, I played Mei Feng and her newest crew member: Boilermaker, a construct forged of honest Ontario steel, sparked to life by the spirit of the Burning Man. Along with her were the normal fourth edition Foundry crew -- Rock Hopper as totem; Kang as henchman; Neil Henry as someone who gets lost a lot; Shadow Emissary as an easy target with a large hit box; Metal Golem as a unit that really misses Sparks; and a Steelworker to help keep the rest in line. Absent was poor Willie, replaced by a machine. Well, it's for the best.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/1-IMG_5206.jpg" title="We meet the enemy" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/1-IMG_5206.jpg" title="We meet the enemy" classes="center" >}}
 
 I was playing Kasul this time; every so often it works out that we head somewhere half an hour away to play a game we could have played together at home. But he felt it would be more fun to get out and about. Sounded like fun! I left work a few minutes early so I could print out all the new cards. I'll be super happy when beta is over and I can stop printing this stuff out for every game. Printing isn't the bad part. It's cutting them all out and putting them in the plastic sleeves that takes the time.
 

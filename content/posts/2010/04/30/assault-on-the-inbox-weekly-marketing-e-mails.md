@@ -3,24 +3,8 @@ date: '2010-04-30T07:07:40-05:00'
 draft: false
 title: "Assault on the Inbox: Weekly marketing e-mails"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/30/assault-on-the-inbox-weekly-marketing-e-mails/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What wonders does the in box of mystery hold for us today?..."
+categories:
   - "Age of Conan"
   - "Daily Blogroll"
   - "EVE Online"
@@ -29,20 +13,13 @@ tags:
   - "Shin Megami Tensei"
   - "Star Trek"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg"
 ---
+What wonders does the in box of mystery hold for us today?...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-19-23-13-13-21.jpg "On the bridge of the USS Santa Cruz")
+
 
 What wonders does the in box of mystery hold for us today?
 

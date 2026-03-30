@@ -3,40 +3,17 @@ date: '2013-02-02T13:19:00-05:00'
 draft: false
 title: "Star Trek Online: The Temporal Ambassador"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/02/star-trek-online-the-temporal-ambassador/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's only so much reading about all the fun the people in the Federation News Service were having in Star Trek Online before I had..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-50-33-30-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-50-33-30-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-02-09-50-33-30-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-02-09-50-33-30-480x343.jpg"
 ---
+There's only so much reading about all the fun the people in the Federation News Service were having in Star Trek Online before I had...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-50-33-30-480x343.jpg" title="The Enterprise C and a time ship battle a Tholian fleet" class="align-center" >}}
+
 
 There's only so much reading about all the fun the people in the Federation News Service were having in Star Trek Online before I had to patch up, log in, and check for myself.
 
@@ -44,13 +21,13 @@ It's been a very long time since I last did more than just log in; since that ti
 
 Since I've been gone, apparently the Rommies have finally found a new world to call their own. And, being Romulans, immediately set to fighting among themselves, since they don't (yet?) have the power to band together to conquer everyone else.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-08-46-47-66-480x343.jpg" title="The USS Manchester approaches an anomaly" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-02-08-46-47-66-480x343.jpg" title="The USS Manchester approaches an anomaly" classes="center" >}}
 
 My ship had been in space dock for the past year or so, being repaired and refitted while my bridge and duty officers took on additional training and some much needed time to reconnect with their families. To shakedown the re-fit Manchester, Starfleet ordered us to the New Romulus area to check out some mysterious anomalies.
 
 We chased anomalies around the sector as they opened and closed until we were able to close enough on one to give it a good scan, and then ---
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-08-48-19-83-480x343.jpg" title="Aboard the freighter Manchester" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-02-08-48-19-83-480x343.jpg" title="Aboard the freighter Manchester" classes="center" >}}
 
 And then I was the captain of the Freighter Manchester, docking with a Tholian space station. The Tholians (I somehow knew) had been paid off with this section of the Beta Quadrant by the Dominion during their invasion of the Alpha Quadrant through the Bajoran wormhole.
 
@@ -62,7 +39,7 @@ Her ship, the Enterprise C, had been dragged to this base by the Tholians. We ne
 
 Well, he WAS sexy, in a spidery sort of way. You know, for a Tholian.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-16-30-97-480x343.jpg" title="Nobody ever checks the maintenance tubes" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-02-09-16-30-97-480x343.jpg" title="Nobody ever checks the maintenance tubes" classes="center" >}}
 
 I managed to convince one of the refugees to cause a distraction; I hacked through the lock console and headed into the maintenance tunnels.
 
@@ -72,13 +49,13 @@ The environmental controls, inexplicably put in the maintenance tunnels, could b
 
 With the Tholians incapacitated by the retuned environment, I exited into the control room and let the rest of the merry crew in, including Tasha Yar (voiced by Denise Crosby, best known as Dr. Mary Speake in "The X-Files"). We set to work freeing the Enterprise-C without resistance. Ran down the docking tunnel, and escaped the base.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-31-56-47-480x343.jpg" title="Enterprise C escapes the Tholian base" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-02-09-31-56-47-480x343.jpg" title="Enterprise C escapes the Tholian base" classes="center" >}}
 
 Home free! Just need to get to the closest anomaly and... And then the reinforcements came, Tholian Web ships to keep us pinned down, then a flotilla of other ships and lastly a Tarantula/Recluse-class dreadnaught... We fought back, destroyed many ships. All power to weapons and shields; the Ent-C was a "[yar](http://en.wiktionary.org/wiki/yar)" ship (as was Tasha Yar, voiced by "Baywatch's" Emily Morgan). Wasn't looking forward to taking on the dreadnaught, when a mysterious, unfamiliar ship warped in and took it out for us. Together we cleaned up the rest of the ships.
 
 It was a timeship! Come from the future to ensure the integrity of the past. The way was clear to the anomaly; the Ent-C dove in and then....
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/GameClient-2013-02-02-09-38-39-52-480x253.jpg" title="Aboard the Time Ship" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/GameClient-2013-02-02-09-38-39-52-480x253.jpg" title="Aboard the Time Ship" classes="center" >}}
 
 ... and then I was beamed onto the time ship by a "Captain Walker". Who held me there until the Ent-C's return to the past reset the timeline and I found myself back on the bridge of the USS Manchester, trying to get a lock on a spatial anomaly, but... no anomalies here.
 

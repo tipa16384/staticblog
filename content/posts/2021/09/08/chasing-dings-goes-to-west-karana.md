@@ -3,27 +3,12 @@ date: '2021-09-08T08:01:16-05:00'
 draft: false
 title: "Chasing Dings! goes to West Karana"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/09/08/chasing-dings-goes-to-west-karana/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to..."
+categories:
   - "Programming Language"
   - "System Software"
   - "Topic"
+tags:
   - "Aws"
   - "Filezilla"
   - "Lightsail"
@@ -31,18 +16,11 @@ tags:
   - "SQL"
   - "West Karana"
   - "Wordpress"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/tara21.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/09/tara21.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/tara21.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/tara21.jpg"
 ---
+I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to...
+<!--more-->
 
 I was playing around and wrote a script last week that took an old backup of my previous blog, West Karana, and brought it to life as a GitHub repository. A friend on Twitter challenged me to do even better. Yesterday, I found a more recent backup -- posts up to 2016, that I wrote for Google+, and used that as a source to finally get everything merged to *this* blog. It's an exciting DevOps adventure.
 
@@ -50,13 +28,13 @@ It's always fun to write little scripts in Python to do the heavy lifting in wha
 
 This comes up at work sometimes, too, and I always appreciate a bit of sanity checking before I put a lot of time into a project.
 
-[Nimgimli](https://dragonchasers.com/) was [the calm, wise voice of reason](https://chasingdings.com/2021/09/01/resurrecting-west-karana/#comment-1466) who suggested I use Wordpress' built-in migration tools to, maybe, do the job.
+[Nimgimli](https://dragonchasers.com/) was [the calm, wise voice of reason](https://tipa16384.github.io/wkblog/2021/09/01/resurrecting-west-karana/#comment-1466) who suggested I use Wordpress' built-in migration tools to, maybe, do the job.
 
 Basically, his suggestion was to run the SQL scripts in my backup against a fresh Wordpress instance, and then export it from that one in the standard Wordpress XML format, and import that into Chasing Dings!
 
 Um, okay, maybe that would work. I'd have to redirect all the links that pointed into WestKarana-dot-com (can't write that out as Wordpress will make it into a URL and that points to the spam site that stole my domain), copy all the images up to the new host, but maybe it will work?
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/image-3.png)](https://chasingdings.com/wp-content/uploads/2021/09/image-3.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/image-3.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/image-3.png)
 
 **Step 1: Make a new Wordpress instance**
 
@@ -66,23 +44,23 @@ I used their Wordpress templates to make a new blog, installed phpMyAdmin on it,
 
 I hit a roadblock with the wp_comments and wp_posts table, in that both had a "category" column that had been removed somewhere along the way. I used the console to add those columns back, and everything imported fine. Except that I no longer had admin access. I'd preserved the default user, but I'd nuked the wp_usermeta table that set the admin privs. I copied that meta information from my Chasing Dings! blog, and everything was fine.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/image-4.png)](https://chasingdings.com/wp-content/uploads/2021/09/image-4.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/image-4.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/image-4.png)
 
 **Step 2: Export!**
 
 Next step was the simplest -- just export all the things. This isn't a full backup, like the one I had from WK. This one includes only some of the tables. It doesn't export users, links, options -- tables like that. It does export the posts, post-meta, comments, comments-meta, and all the tags and categories. So, this file alone can't restore a WP blog 100%. It's only useful for migrating blog information to another blog. Fortunately, that's exactly my use case, but someone hoping for a *full* backup would need the same sort of SQL backup that I'd kept from WK.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/image-5.png)](https://chasingdings.com/wp-content/uploads/2021/09/image-5.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/image-5.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/image-5.png)
 
 **Step 3: Uploading the images**
 
 The export file also doesn't include the images and other non-text information. I'd backed up all this stuff separately, back in the day, which seems weirdly off-brand for me. But I guess at some point I wanted to keep this stuff around. I had to create a new FTP user with my web host because I couldn't remember the info for the old one, but eventually I got to the point where I was having FileZilla upload 10,000+ files. Thank heavens for fiber. It took an hour or so nonetheless and it was after midnight when it completed.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/image-6-1024x587.png)](https://chasingdings.com/wp-content/uploads/2021/09/image-6.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/image-6-1024x587.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/image-6.png)
 
 **Step 4: Import the data into the new blog**
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/image-1.jpeg)](https://chasingdings.com/wp-content/uploads/2021/09/image-1.jpeg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/image-1.jpeg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/image-1.jpeg)
 
 The final step was anticlimactic. I imported the file into Chasing Dings! using the console. The tool warned me that it couldn't find the references to any of the images, but that was fine -- I'd put them where they needed to be already. Then it asked me to map old users to new. There were only three post authors from the old blog -- me (I mapped the WK user to my new user), Saylah and Lemons. I opted to not copy their user information over, but to make new, dummy users to protect their privacy.
 

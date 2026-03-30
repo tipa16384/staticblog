@@ -3,40 +3,17 @@ date: '2012-11-21T15:04:28-05:00'
 draft: false
 title: "EQ2: Not gonna fight."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/11/21/eq2-not-gonna-fight/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I just got this great idea for how to fix my \"Haunted Diorama\", a display section of my Qeynos inn home that has a scarecrow..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg"
 ---
+I just got this great idea for how to fix my "Haunted Diorama", a display section of my Qeynos inn home that has a scarecrow...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest-II-Nov-14-2012-155218-USER-OPTIMIZED-SOEBuild9393L-11212012-90542-AM-480x269.jpg" title="Haunted Diorama" class="align-center" >}}
+
 
 I just got this great idea for how to fix my "Haunted Diorama", a display section of my Qeynos inn home that has a scarecrow and some spooky trees all waving back and forth, looking for a way out. I spent a good half hour last night trying to figure out how to make a wall with a window in it without using one of those custom home editors. I was making jigs to set things in the right place, then taking the jigs away, but positioning was still a bother.
 
@@ -46,7 +23,7 @@ Doing my best with this character, but the in-game editor is great for plopping 
 
 Working on stuff. I could have been any kind of crafter for the Wurmslayer; I chose carpenter because I wanted to learn to decorate. There's so much you can decorate -- you can even decorate your own dungeons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/Fullscreen-capture-11212012-22914-PM-480x232.jpg" title="Broker helper" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/Fullscreen-capture-11212012-22914-PM-480x232.jpg" title="Broker helper" classes="center" >}}
 
 I'm also making money through the broker. This is something that takes a good amount of time. Everyone gets a lot of loot through normal gameplay, most of it not really worth the time to put on the broker, given you have to figure out how much it's worth and how much of a bite the broker and your display arrangements are going to take from the profit. In some cases, it makes more sense just to sell the loot to a merchant.
 
@@ -54,7 +31,7 @@ Nobody is going to buy your thing on the broker unless it's the cheapest, but yo
 
 If the current prices are way out of line (like four plat for a level 72 adept), I'll just sell it at my normal max rate for such things (25 gold for a 70-79 adept) because nobody is going to buy that for 4p, and listing one for 3p 96g won't get it sold. The whole purpose is to move inventory, not to try and catch the occasional sucker.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/Fullscreen-capture-11212012-23728-PM.jpg" title="A run of the script" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/Fullscreen-capture-11212012-23728-PM.jpg" title="A run of the script" classes="center" >}}
 
 Between crafting, decorating, working on harvesting quests, and pricing stuff on the broker,  I can go a full game session having gotten a lot done but not one monster killed.
 

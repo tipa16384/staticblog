@@ -3,38 +3,15 @@ date: '2009-03-21T07:52:18-05:00'
 draft: false
 title: "Chronicles of Spellborn: Adventures in Newbieville"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/21/chronicles-of-spellborn-adventures-in-newbieville/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One of the really great things about the open beta is that it is the FIRST time, my time on the EU servers included, where..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-20-21-17-27-04.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-20-21-17-27-04.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-20-21-17-27-04.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-20-21-17-27-04.jpg"
 ---
+One of the really great things about the open beta is that it is the FIRST time, my time on the EU servers included, where...
+<!--more-->
 
 One of the really great things about the open beta is that it is the FIRST time, my time on the EU servers included, where there were enough people running around that it felt like an MMO.
 
@@ -42,15 +19,13 @@ You could go from Hawksmouth City to the docks without happening upon even one Y
 
 I logged on to Spellborn to find the Void Seer I'd made the night before was gone, so with no older characters to hold me back, I made three new ones: a rogue, a warrior, and a mage.
 
-![sb_client-2009-03-20-21-17-27-04](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-20-21-17-27-04.jpg "sb_client-2009-03-20-21-17-27-04")
-
 Dina, the Rogue
 
-![sb_client-2009-03-20-21-17-31-39](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-20-21-17-31-39.jpg "sb_client-2009-03-20-21-17-31-39")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-20-21-17-31-39.jpg" title="sb_client-2009-03-20-21-17-31-39" classes="center" >}}
 
 Nashuya, the Warrior
 
-![sb_client-2009-03-20-21-17-37-62](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-20-21-17-37-62.jpg "sb_client-2009-03-20-21-17-37-62")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-20-21-17-37-62.jpg" title="sb_client-2009-03-20-21-17-37-62" classes="center" >}}
 
 Tipa, the Mage
 
@@ -62,7 +37,7 @@ When I finally made it to the Spellcaster Academy, I was chatting with the Rune 
 
 I stood in front of the Ancestral Mage teacher for awhile, then, reluctantly, agreed to follow his path. Now I'll never be lonely. I make my OWN friends!
 
-![sb_client-2009-03-21-01-00-26-26](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-21-01-00-26-26.jpg "sb_client-2009-03-21-01-00-26-26")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-21-01-00-26-26.jpg" title="sb_client-2009-03-21-01-00-26-26" classes="center" >}}
 
 The client crashed, so I called it a night.
 

@@ -3,40 +3,17 @@ date: '2009-12-04T08:25:53-05:00'
 draft: false
 title: "EVE Online: 40 Minutes to Evaulon"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/04/eve-online-40-minutes-to-evaulon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I got it into my head a few weeks ago that for true success in EVE Online, I really needed to take control of my..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-02-07-59-30-85.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-02-07-59-30-85.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-02-07-59-30-85.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-02-07-59-30-85.jpg"
 ---
+I got it into my head a few weeks ago that for true success in EVE Online, I really needed to take control of my...
+<!--more-->
 
-![Viator + Planet = Crunchy Goodness](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-02-07-59-30-85.jpg "Viator + Planet = Crunchy Goodness")
+
 
 I got it into my head a few weeks ago that for true success in EVE Online, I really needed to take control of my consumables. Ammo is no problem; I have that covered. Anyone can make normal ammo right out of the box, day one (and they probably should). But my real need was for Tech II drones.
 
@@ -58,7 +35,7 @@ Well, my alt had just finished training up Cloaking IV, which gave her the abili
 
 NOTHING beats a good gate camp like being undetectable.
 
-![It](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-03-08-19-50-16.jpg "It")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-03-08-19-50-16.jpg" title="It" classes="center" >}}
 
 Doing missions for CreoDron increases standings, which open up more agents, better agents, researching more things for you. Normal missions increase standings only a little bit, but every sixteenth mission you get a special, "storyline" mission. These increase your standings substantially. You don't want to decline a storyline mission if you can at all help it.
 

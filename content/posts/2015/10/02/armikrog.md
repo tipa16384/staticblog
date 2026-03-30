@@ -3,40 +3,17 @@ date: '2015-10-02T07:56:00-05:00'
 draft: false
 title: "Armikrog!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/10/02/armikrog/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I kickstarted Armikrog a few years back. It's a point and click adventure in the style of Maniac Mansion, Day of the Tentacle and so..."
+categories:
   - "Armikrog"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/10/Armikrog-2015-10-01-21-37-15-06.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/10/Armikrog-2015-10-01-21-37-15-06.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/10/Armikrog-2015-10-01-21-37-15-06.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/10/Armikrog-2015-10-01-21-37-15-06.jpg"
 ---
+I kickstarted Armikrog a few years back. It's a point and click adventure in the style of Maniac Mansion, Day of the Tentacle and so...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/10/Armikrog-2015-10-01-21-37-15-06.jpg" title="There's a lot of secrets packed into this room" class="align-center" >}}
+
 
 I kickstarted Armikrog a few years back. It's a point and click adventure in the style of Maniac Mansion, Day of the Tentacle and so forth; you solve puzzles by picking stuff up, finding someplace to put it, pressing buttons and so on.
 

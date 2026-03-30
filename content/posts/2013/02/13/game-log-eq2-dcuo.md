@@ -3,41 +3,18 @@ date: '2013-02-13T08:37:30-05:00'
 draft: false
 title: "Game Log: EQ2, DCUO"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/13/game-log-eq2-dcuo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Doctor Psycho, I don't think you're even a real doctor. But yeah, I can see that that would be a tough name to grow up..."
+categories:
   - "DC Universe Online"
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/DCGame-2013-02-12-20-24-58-85-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/DCGame-2013-02-12-20-24-58-85-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/DCGame-2013-02-12-20-24-58-85-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/DCGame-2013-02-12-20-24-58-85-480x300.jpg"
 ---
+Doctor Psycho, I don't think you're even a real doctor. But yeah, I can see that that would be a tough name to grow up...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/DCGame-2013-02-12-20-24-58-85-480x300.jpg" title="Power Girl, Super Girl, Wonder Woman" class="align-center" >}}
+
 
 Doctor Psycho, I don't think you're even a _real_ doctor. But yeah, I can see that that would be a tough name to grow up with, plus being only a foot tall doesn't help much. I thought your powers were lame, as I crawled through Metropolis General's Meta Wing, where you forced me to pummel the entire hospital's security staff while I freed the imprisoned meta-humans along the way. How did you ever capture Supergirl, anyway?
 
@@ -55,7 +32,7 @@ The Vault gave me a "Zoom" T-shirt, just like the Flash T-shirt with different c
 
 Our current level guidance is 18, so we will have Oolong Island available to us next time we play.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-12-22-10-00-50-480x294.jpg" title="Arda meets Gorilla Grodd" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-12-22-10-00-50-480x294.jpg" title="Arda meets Gorilla Grodd" classes="center" >}}
 
 Grinding my way slowly through the Eidolon Jungle, again. Arda finally graduated to the Throne of Fear and Temple of the Faceless solo instances; I'm done with the Skyshrine ones for good, now. Though there was a Skyshrine xp grind group going on that needed a healer that I probably should have taken advantage of, because I'm almost up to the next Chains of Eternity zone, the Obol Plains, and I'm not even halfway through level 93.
 

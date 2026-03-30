@@ -3,24 +3,8 @@ date: '2009-10-09T07:09:26-05:00'
 draft: false
 title: "Daily Blogroll 10/10: Short Week edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/09/daily-blogroll-1010-short-week-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been playing a bit of Earth Eternal since it went into open-closed beta yesterday. Since I think we're still unable to actually show the..."
+categories:
   - "Aion"
   - "Champions Online"
   - "Daily Blogroll"
@@ -29,20 +13,13 @@ tags:
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/fox1-480x252.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/fox1-480x252.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/fox1-480x252.jpg"
 ---
+I've been playing a bit of Earth Eternal since it went into open-closed beta yesterday. Since I think we're still unable to actually show the...
+<!--more-->
 
-![Fantastic Mr. Fox](https://chasingdings.com/wp-content/uploads/2009/10/fox1-480x252.jpg "Fantastic Mr. Fox")
+
 
 I've been playing a bit of Earth Eternal since it went into open-closed beta yesterday. Since I think we're still unable to actually show the game, here's a picture of the upcoming stop motion/cgi film, Roald Dahl's [Fantastic Mr. Fox](http://en.wikipedia.org/wiki/Fantastic_Mr._Fox_%28film%29). Now, I don't KNOW that Sparkplay's gonna close down to go to the premiere, but I wouldn't be surprised.
 

@@ -3,42 +3,20 @@ date: '2024-04-15T08:00:33-05:00'
 draft: false
 title: "Palworld @ 100%. Finally."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/04/15/palworld-100-finally/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Palworld, Palworld... I wish I knew how to quit you. Also: PvP?"
-description: "Palworld, Palworld... I wish I knew how to quit you. Also: PvP?"
-tags:
+categories:
   - "Open World RPG"
   - "Palworld"
+tags:
   - "Bellanoir"
   - "Bellanoir Libero"
   - "PvP"
   - "Raiding"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/BellanoirLibero.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/04/BellanoirLibero.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/BellanoirLibero.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/BellanoirLibero.jpg"
 ---
+Palworld, Palworld... I wish I knew how to quit you. Also: PvP?
+<!--more-->
 
 I always said that I would quit Palworld when I finally defeated the fifth tower boss, the 250K health Shadowbeak. Then, they added three raids (Bellanoir, Bellanoir Libero, and Bellanoir Libero (Ultra)), and I said I would quit Palworld when I had defeated the fifth tower boss, *and also* Bellanoir. And now they are adding PvP through the Arena.
 

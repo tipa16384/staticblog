@@ -3,41 +3,19 @@ date: '2011-11-11T01:21:45-05:00'
 draft: false
 title: "DCUO: It's a hard light"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/11/11/dcuo-its-a-hard-light/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Okay, so in SOE's DC Universe Online, people are getting random superpowers by being infected with some superpower thing cooked up by Brainiac. You wake..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Google+"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg"
 ---
+Okay, so in SOE's DC Universe Online, people are getting random superpowers by being infected with some superpower thing cooked up by Brainiac. You wake...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/MPYR0122_POSTFX-PC-10-18.01.350.jpg" title="Tipara, member of the Sinestro Corps" class="align-center" >}}
+
 
 Okay, so in SOE's DC Universe Online, people are getting random superpowers by being infected with some superpower thing cooked up by Brainiac. You wake up one morning, you have superpowers. Maybe you have to escape from Brainiac's space ship, but whatever.
 
@@ -51,7 +29,7 @@ It's free now, though, and people I know are playing it, so I told Steam to send
 
 Well, duh. Being a Green Lantern is the only thing I ever wanted from DCUO, and was a key reason in my disappointment in beta. The Sinestro Corps is just like the Green Lantern Corps, just yellower.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/MPYR0122_POSTFX-PC-10-16.54.450.jpg" title="Tipara and more eviler friend" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/11/MPYR0122_POSTFX-PC-10-16.54.450.jpg" title="Tipara and more eviler friend" classes="center" >}}
 
 As a Station Pass subscriber, I even got the Phosphorescent Photons (whatever) expansion free, so I made my character with Sinestro as my mentor (which gave me all his powers and, apparently, his ring, which I imagine he'll miss in a bit), popped into the tutorial mission and kicked butt.
 
@@ -63,7 +41,7 @@ He helped me out with a small project to corrupt local university students by fo
 
 She's the cousin of Superman in this game. I thought Supergirl was Superman's cousin?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/MMET101_AUDIO-PC-10-17.02.590.jpg" title="I love the smell of napalm in the morning" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/11/MMET101_AUDIO-PC-10-17.02.590.jpg" title="I love the smell of napalm in the morning" classes="center" >}}
 
 Is DCUO suddenly interesting because it is F2P? Well, it was always part of the Station Pass, so I'd never be paying anything additional to play the game. The controller/combo-based gameplay is something I find tiring if forced to do it very long. The game seems designed to be a pick-up-and-play game. Can DCUO be fun for thirty minutes a day?
 

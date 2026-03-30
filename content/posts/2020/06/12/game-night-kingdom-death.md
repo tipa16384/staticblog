@@ -3,39 +3,17 @@ date: '2020-06-12T03:14:54-05:00'
 draft: false
 title: "Game Night: Kingdom Death"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/12/game-night-kingdom-death/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm not really sure what kind of game someone would expect to play if they were told its name was \"Kingdom Death\". Is... a kingdom..."
+categories:
   - "Game Night"
   - "Tabletop Games"
+tags:
   - "Kingdom Death"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/kingdomdeath2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/kingdomdeath2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/kingdomdeath2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/kingdomdeath2.jpg"
 ---
+I'm not really sure what kind of game someone would expect to play if they were told its name was "Kingdom Death". Is... a kingdom...
+<!--more-->
 
 I'm not really sure what kind of game someone would expect to play if they were told its name was "Kingdom Death". Is... a kingdom dying? Is it Death's kingdom?
 
@@ -45,7 +23,7 @@ I last played this at my boyfriend's apartment when he lived in Ohio, with both 
 
 Every battle is a story.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/kingdomdeath1.jpg" title="Eventually, you're going to see my entire house. But what is on the wall you haven't yet seen? Something... special." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/kingdomdeath1.jpg" title="Eventually, you're going to see my entire house. But what is on the wall you haven't yet seen? Something... special." classes="center" >}}
 
 Tonight, we played that first fateful encounter against the lion. We had it surrounded. The lion immediately saw Ally's character and rushed her, knocking her over and doing her some damage. Meanwhile, the rest of us closed in as best we could. I hurled my stone dagger, my Founder's Stone, at the lion, causing it a critical wound in its foot and knocking it down. We all took the moment to rush in, but we couldn't get close enough to bring it down.
 

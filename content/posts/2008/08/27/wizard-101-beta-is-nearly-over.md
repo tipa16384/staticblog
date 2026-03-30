@@ -3,41 +3,20 @@ date: '2008-08-27T01:30:07-05:00'
 draft: false
 title: "Wizard 101 beta is nearly over"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/27/wizard-101-beta-is-nearly-over/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wizard 101's beta is ending, and all characters will be deleted prior to the game going live. So this is a goodbye to Tara Mythcrafter,..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Beta"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-00-41-05-50.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-00-41-05-50.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-00-41-05-50.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-00-41-05-50.jpg"
 ---
+Wizard 101's beta is ending, and all characters will be deleted prior to the game going live. So this is a goodbye to Tara Mythcrafter,...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-00-41-05-50.jpg "wizardgraphicalclient-2008-08-27-00-41-05-50")
+
 
 Wizard 101's beta is ending, and all characters will be deleted prior to the game going live. So this is a goodbye to Tara Mythcrafter, Adept Conjurer and part time Pyromancer.
 

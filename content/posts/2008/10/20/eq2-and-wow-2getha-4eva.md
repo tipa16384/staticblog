@@ -3,40 +3,15 @@ date: '2008-10-20T11:48:00-05:00'
 draft: false
 title: "EQ2 and WoW, 2GETHA 4EVA"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/20/eq2-and-wow-2getha-4eva/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I went off to Amazon.com to pre-order The Shadow Odyssey so I could get that cool dire bear pet/mount (which will be claimed by Ettie,..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I went off to Amazon.com to pre-order The Shadow Odyssey so I could get that cool dire bear pet/mount (which will be claimed by Ettie,...
+<!--more-->
 
 I went off to Amazon.com to pre-order The Shadow Odyssey so I could get that cool dire bear pet/mount (which will be claimed by Ettie, my 46 defiler), and halfway down the page, Amazon told me that people who pre-ordered the EQ2 expansion frequently pre-ordered Wrath of the Lich King at the same time.
 

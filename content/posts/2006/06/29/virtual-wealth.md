@@ -3,39 +3,16 @@ date: '2006-06-29T00:00:00-05:00'
 draft: false
 title: "Virtual Wealth"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/29/virtual-wealth/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Is this a dagger I see before me, its handle toward my hand? Come, let me buy thee... I have thee not, yet I see..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/20060629-dina.jpg"
-cover:
-  image: "https://chasingdings.com/images/20060629-dina.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/20060629-dina.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/20060629-dina.jpg"
 ---
+Is this a dagger I see before me, its handle toward my hand? Come, let me buy thee... I have thee not, yet I see...
+<!--more-->
 
-![](https://chasingdings.com/images/20060629-dina.jpg)
+
 
 *Is this a dagger I see before me, its handle toward my hand? Come, let me buy thee... I have thee not, yet I see thee still. Are thee not, fatal vision, as affordable to newbies as to farmers? Or art thou but a dagger of the mind, a false creation of a IGE-oppressed purse. I see thee yet, in form as palpable as this which now I draw. Thou marshall'st my desire, and such an instrument I was to buy. My plat is made the fool of the other adventurers, or worth all the rest.*
 

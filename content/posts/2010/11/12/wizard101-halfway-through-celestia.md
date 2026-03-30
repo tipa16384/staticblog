@@ -3,42 +3,20 @@ date: '2010-11-12T08:01:02-05:00'
 draft: false
 title: "Wizard101: Halfway through Celestia!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/12/wizard101-halfway-through-celestia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We've been through the Stellarium, the Lunarium, the Floating Island, the Celestia Base Camp, the Grotto and half a dozen other mini-worlds in Celestia. Quests..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Celestia"
   - "Queen Umbra"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg"
 ---
+We've been through the Stellarium, the Lunarium, the Floating Island, the Celestia Base Camp, the Grotto and half a dozen other mini-worlds in Celestia. Quests...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-12-07-33-23-75.jpg "New clothes!")
+
 
 We've been through the Stellarium, the Lunarium, the Floating Island, the Celestia Base Camp, the Grotto and half a dozen other mini-worlds in Celestia. Quests have been shoveling experience points at us, and we're level 56 and starting to get some gear upgrades -- most recently, school-specific wands that add an incredible boost to the new stat, Crit.
 

@@ -3,42 +3,21 @@ date: '2008-09-07T10:03:23-05:00'
 draft: false
 title: "W101: The Sunken City"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/07/w101-the-sunken-city/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It is SO difficult to hook up with your friends in Wizard 101. Even once I figured out where to enter the \"True Friend\" code,..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Sunken City"
   - "W101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-12-18-82.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-12-18-82.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-12-18-82.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-12-18-82.jpg"
 ---
+It is SO difficult to hook up with your friends in Wizard 101. Even once I figured out where to enter the "True Friend" code,...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-12-18-82.jpg "wizardgraphicalclient-2008-09-07-02-12-18-82")
+
 
 It is SO difficult to hook up with your friends in Wizard 101. Even once I figured out where to enter the "True Friend" code, it didn't work. Meeting up with Gnewton and his wife in game took a frenzied batch of emails which ended with their "We are standing with Ambrose right now ... 11:40" and my "omw".
 
@@ -54,13 +33,13 @@ When you walk in, you are immediately attacked by three Rank 3 Elite ghosts. Tha
 
 There was a Fire wizard looking like she was about to try it, so we stepped together onto the pads, and started 90 minutes of brilliant teamwork. We were mirror-specced, I as Life/Fire, she as Fire/Life. It was amazing how well that worked, in practice.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-07-09-02-24-32.jpg "wizardgraphicalclient-2008-09-07-09-02-24-32")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-07-09-02-24-32.jpg" title="wizardgraphicalclient-2008-09-07-09-02-24-32" classes="center" >}}
 
 This was the first time I'd ever had to play the healer as opposed to just another wizard, but the kind who wears green. After we narrowly survived the first fight, we re-arranged our decks -- mine for as much healing and warding as possible, she for more damage and additional warding. I also swapped out my Myth wand for a Storm wand because almost every mob in Sunken City seemed to be from the Myth school. For some reason, I have found a bunch of wands in my travels. Well, this is why you need more than one.
 
 The hardest encounter wasn't the last mob, Grubb, though he and his friends had more health than anything else we'd killed to that point. The hardest encounter was the tower we'd just cleared, six increasingly difficult battles in a row. With no way to get health or mana back, we had to not only defeat the monsters, but also end each battle at full health, or as close as we could come, since we could not heal between battles.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-06-52-92.jpg "wizardgraphicalclient-2008-09-07-02-06-52-92")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-07-02-06-52-92.jpg" title="wizardgraphicalclient-2008-09-07-02-06-52-92" classes="center" >}}
 
 It was a good run, even though it didn't reward much besides a new title, "Sunken City Survivor". But it pointed out a couple of issues.
 

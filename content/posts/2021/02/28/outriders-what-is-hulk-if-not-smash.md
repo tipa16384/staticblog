@@ -3,41 +3,19 @@ date: '2021-02-28T09:35:15-05:00'
 draft: false
 title: "Outriders: What is Hulk if not smash?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/02/28/outriders-what-is-hulk-if-not-smash/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Square Enix's new co-op third person shooter RPG, \"Outriders\", doesn't have anything to do with the Marvel heroes. Just, the last demo I played of..."
+categories:
   - "MMORPG"
   - "PS4"
   - "PS5"
   - "Shooter"
+tags:
   - "RPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/02/OUTRIDERS-DEMO_20210227201851-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/02/OUTRIDERS-DEMO_20210227201851-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/02/OUTRIDERS-DEMO_20210227201851-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/02/OUTRIDERS-DEMO_20210227201851-scaled.jpg"
 ---
+Square Enix's new co-op third person shooter RPG, "Outriders", doesn't have anything to do with the Marvel heroes. Just, the last demo I played of...
+<!--more-->
 
 Square Enix's new co-op third person shooter RPG, "Outriders", doesn't have anything to do with the Marvel heroes. Just, the last demo I played of this sort was Marvel's Avengers, and I didn't have a great experience with the co-op features, and this title was just there, for some reason.
 
@@ -47,7 +25,7 @@ https://twitter.com/4robertanderson/status/1365370703457959936?ref_src=twsrc%5Et
 
 I'm not a huge fan of shooters. I tried Destiny 2 and didn't like it. I tried Mass Effect but got bored with it. I sucked at Star Wars Battlefront. But, I trust my friends, and demos are free, so I downloaded it... and I kinda liked it.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/02/OUTRIDERS-DEMO_20210227203021-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/02/OUTRIDERS-DEMO_20210227203021-scaled.jpg)Eivor of the Raven Clan! In Space!!!
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/02/OUTRIDERS-DEMO_20210227203021-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/02/OUTRIDERS-DEMO_20210227203021-scaled.jpg)Eivor of the Raven Clan! In Space!!!
 
 Having recently finished a 150 hour adventure with Eivor of the Raven Clan in Assassin's Creed: Valhalla, when it came time to create a bad-ass warrior of the future, I knew just the warrior to bring. Eivor! Of the Raven Clan!
 
@@ -59,7 +37,7 @@ The game opens with a forward scouting party landing on the planet Enoch, with t
 
 Things... begin to go wrong -- very wrong, and everyone involved begins to make incredibly bad decisions.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/02/OUTRIDERS-DEMO_20210227205641-1-1024x576.jpg" title="Solar Tower!" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/02/OUTRIDERS-DEMO_20210227205641-1-1024x576.jpg" title="Solar Tower!" classes="center" >}}
 
 There was a movie a few years back, Prometheus, where the scientists made astonishingly bad choices. They have some of those Prometheus scientists here, too, as one of them makes the irrevocable decision to unfreeze and disembark the entirety of the ark just when it becomes clear that something is very, very wrong in paradise.
 

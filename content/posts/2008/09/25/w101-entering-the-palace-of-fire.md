@@ -3,26 +3,11 @@ date: '2008-09-25T12:00:57-05:00'
 draft: false
 title: "W101: Entering the Palace of Fire"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/25/w101-entering-the-palace-of-fire/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dragon Mouth Cave..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Chamber of Flames"
   - "Krokosphinx"
   - "Krokotopia"
@@ -30,20 +15,14 @@ tags:
   - "Pyramid of the Sun"
   - "Royal Halls"
   - "Sprite Guardian"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg"
 ---
+Dragon Mouth Cave...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-24-20-52-32-26.jpg "wizardgraphicalclient-2008-09-24-20-52-32-26")
+
 
 *Dragon Mouth Cave*
 
@@ -51,7 +30,7 @@ The Pyramid of the Sun doesn't look that large, but somehow it contains miles an
 
 Always kind of cool to have an MMO that emphasizes such traditionally-ignored skills like staying on the sidewalk and looking both ways before you cross the street. It's almost sad to note that the Marleybone rooftops don't work the same way.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-25-06-04-05-80.jpg "wizardgraphicalclient-2008-09-25-06-04-05-80")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-25-06-04-05-80.jpg" title="wizardgraphicalclient-2008-09-25-06-04-05-80" classes="center" >}}
 
 *Hand this dog a deck and make him do his OWN fighting.*
 
@@ -59,7 +38,7 @@ Given the problems the dog-folk of Marleybone are having at home, it's odd they 
 
 Last night, I cleared the Chamber of Flames and the Royal Halls portion of the Pyramid; I also helped a few random people with boss fights. I'm always happy to help with these -- the more bosses I kill, the better the chance of getting a rare pet or staff. I haven't gotten any pets yet, but I do have a nice staff waiting for me at level 20.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-25-05-48-30-21.jpg "wizardgraphicalclient-2008-09-25-05-48-30-21")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-25-05-48-30-21.jpg" title="wizardgraphicalclient-2008-09-25-05-48-30-21" classes="center" >}}
 
 *The Dig Site in the Royal Halls.*
 
@@ -69,7 +48,7 @@ Since my secondary school is Fire, I pretty much have to build my deck solely ar
 
 I got a great reply from someone who pointed out you could have multiple decks -- one built one way, one another -- and just equip the one with the spells I needed. One person even has a deck built around Treasure cards. I imagine that one is tuned for boss fights where you really need to bring out the big guns.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-24-22-23-54-39.jpg "wizardgraphicalclient-2008-09-24-22-23-54-39")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-24-22-23-54-39.jpg" title="wizardgraphicalclient-2008-09-24-22-23-54-39" classes="center" >}}
 
 *I dunno, do I really look like a Storm wizard?*
 

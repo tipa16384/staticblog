@@ -3,40 +3,19 @@ date: '2010-10-13T06:23:55-05:00'
 draft: false
 title: "Star Trek Online: Devidian arc starts Saturday!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/13/star-trek-online-devidian-arc-starts-saturday/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-13-07-06-11-16-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-13-07-06-11-16-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-13-07-06-11-16-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-13-07-06-11-16-480x300.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-13-07-06-11-16-480x300.jpg "Star Trekkin")](https://chasingdings.com/wp-content/uploads/2010/10/GameClient-2010-10-13-07-06-11-16.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/GameClient-2010-10-13-07-06-11-16.jpg)
 
 The follow-up to Star Trek Online's fantastic Breen arc begins this Saturday. This new five episode arc takes us back to the Neutral Zone to [battle the Devidians](http://www.startrekonline.com/feature_episodes), a ghostly, extra-dimensional race which feeds off the life energy of mortal critters. One of the story missions in the area had us closing the portals which allowed them entrance to the physical realm; they have once again managed to infect reality. A ghostly race for a spooky time of year!
 

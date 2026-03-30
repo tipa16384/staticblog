@@ -3,41 +3,19 @@ date: '2023-01-23T08:18:29-05:00'
 draft: false
 title: "The Order of the Stick: The Dungeon of Dorukan"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/01/23/the-order-of-the-stick-the-dungeon-of-dorukan/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Ever like a web comic that satirizes Dungeons and Dragons so much that you wanted to play as those characters in a board game? You're in luck -- \"The Order of the Stick: The Dungeon of Dorukan\" is here."
-description: "Ever like a web comic that satirizes Dungeons and Dragons so much that you wanted to play as those characters in a board game? You're in luck -- \"The Order of the Stick: The Dungeon of Dorukan\" is here."
-tags:
+categories:
   - "Comic"
   - "Game Night"
   - "Tabletop Game"
+tags:
   - "The Dungeon of Dorukan"
   - "The Order of the Stick"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/01/pic169316.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/01/pic169316.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/pic169316.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/pic169316.webp"
 ---
+Ever like a web comic that satirizes Dungeons and Dragons so much that you wanted to play as those characters in a board game? You're in luck -- "The Order of the Stick: The Dungeon of Dorukan" is here.
+<!--more-->
 
 When I saw this tabletop RPG based on "[The Order of the Stick](https://www.giantitp.com/comics/oots0010.html)" in the used game display bin for $20, I liked that it could play with up to six people, and looked pretty darn hilarious. What I maybe should also have noticed is that a single game can take from three to six *hours*.
 
@@ -47,7 +25,7 @@ Players start with three "schticks" that determine the sorts of things they can 
 
 Each player also gets battle cards, which consists of monster cards and "screw this" cards -- both of which are played to help or hinder other players. Because this is *not* a cooperative adventure.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/01/IMG_2975-1024x768.jpg" title="Something bad is about to happen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/01/IMG_2975-1024x768.jpg" title="Something bad is about to happen" classes="center" >}}
 
 The actual goal of the game is to explore the dungeon, defeat its many challenges (including monsters, traps, and the Order of the Stick's mirror universe rivals, the Linear Guild), and finally reach the lair of the strip's ultimate villain, the lich Xykon.
 

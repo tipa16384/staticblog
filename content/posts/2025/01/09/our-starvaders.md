@@ -3,45 +3,23 @@ date: '2025-01-09T08:00:55-05:00'
 draft: false
 title: "Our STAR*VADERS!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/09/our-starvaders/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's \"Slay the Spire\" meets \"Into the Breach\" meets \"Space Invaders\" meets... Space Battleship Yamato?"
-description: "It's \"Slay the Spire\" meets \"Into the Breach\" meets \"Space Invaders\" meets... Space Battleship Yamato?"
-tags:
+categories:
   - "Steam Games"
   - "Tactical RPG"
   - "Tactics"
+tags:
   - "Into the Breach"
   - "Slay the Spire"
   - "Space Invaders"
   - "Starvaders"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/KeyArt_920x430.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/KeyArt_920x430.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/KeyArt_920x430.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/KeyArt_920x430.png"
 ---
+It's "Slay the Spire" meets "Into the Breach" meets "Space Invaders" meets... Space Battleship Yamato?
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-29-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-29-150x150.png" classes="fig-20" >}}
 
 They're diving into space
 They're shuffling for the fight
@@ -59,7 +37,7 @@ Anyone of a certain age will remember the English version of Space Battleship Ya
 
 Maybe none of the Star*Vaders devs have seen the anime. They've definitely seen Space Invaders, though.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/20250103225251_1-1024x576.jpg" title="The sky, filled with alien bombs" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/20250103225251_1-1024x576.jpg" title="The sky, filled with alien bombs" classes="center" >}}
 
 In Star*Vaders, the Earth is being invaded. All our air and space defenses are wiped out. All that's left are brave mech pilots and their deadly machines, trying to stop the alien advance from bringing doom to us all.
 
@@ -71,7 +49,7 @@ Right of that is your current card hand with the actions you can take this turn.
 
 Right of that is the end turn button; right of that are your discards. Continuing above is the help text for the selected card.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/20250103224602_1-1024x576.jpg" title="Polaria or Arcadia? Who can choose?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/20250103224602_1-1024x576.jpg" title="Polaria or Arcadia? Who can choose?" classes="center" >}}
 
 The missions you choose help you build your deck; successfully completing one usually gives you a choice of rare, powerful cards, or upgrades that let you tune your strategy or mitigate some of the negative effects of playing cards. Very similar to Slay the Spire.
 
@@ -81,7 +59,7 @@ That's two of the three inspirations. How about the third parent in their little
 
 Given you are controlling just one mech, and your available moves are randomly drawn, and that you can't instantly retry a level until you succeed, there's not a lot of Into the Breach in the game. But ItB still exists; go play it. Nonetheless, the enemy moves are *not* random. You'll know just where they are going to go, and can set up traps and situations that they will blunder into. Most direct attacks can be avoided, but you'll still be running against the timer and the doom counter in most levels.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/20250103225133_1-1024x576.jpg" title="Thank you for playing!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/20250103225133_1-1024x576.jpg" title="Thank you for playing!" classes="center" >}}
 
 The Steam demo takes you through the first two acts of the game with a single mech pilot. The game is goofy fun, and like Slay the Spire, the game is more about how far you get than actually winning. The boss battles at the end of each act have a good blend of "this is WAY too much" and "hold on, I have an idea" -- the kind of thing where well-designed tactics puzzles shine.
 

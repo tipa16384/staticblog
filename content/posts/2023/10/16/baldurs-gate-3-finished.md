@@ -3,39 +3,16 @@ date: '2023-10-16T07:00:00-05:00'
 draft: false
 title: "Baldur's Gate 3: Finished!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/10/16/baldurs-gate-3-finished/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "There will be spoilers below."
-description: "There will be spoilers below."
-tags:
+categories:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
   - "PS5"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/scritches1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/10/scritches1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/scritches1.png"
 ---
+There will be spoilers below.
+<!--more-->
 
 Time to complete: 138 hours. I could have spent more on some side quests. I think the only one I intentionally didn't finish, but could have, was the hag fight in Act 3. It was annoying enough in Act 1. Act 3 looked to be even *more* annoying.
 
@@ -59,7 +36,7 @@ In the final fight, I let the Emperor eat the Githyanki prince Orpheus. I romanc
 
 Kept her as a cleric all the way through. When she finished the Gauntlet of Sharr, she decided to spurn her goddess. After meeting her parents at the Temple of Grief, she decided to turn away from her destiny and worship Selune.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-15-1024x618.png" title="This was pretty creepy. It got creepier." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-15-1024x618.png" title="This was pretty creepy. It got creepier." classes="center" >}}
 
 **Astarion**
 
@@ -79,7 +56,7 @@ At the end of the game, he vowed to reforge the crown and return it to Mystra.
 
 Saved him in the goblin camp, lifted the curse in the Shadowed Lands with him, never really used him. I had intended for him to be the tank in the party, but I didn't go that way. He was Orin's kidnap victim, and we did save him.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-14-1024x574.png" title="Midjourney wants my character to look like Aloy, apparently" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-14-1024x574.png" title="Midjourney wants my character to look like Aloy, apparently" classes="center" >}}
 
 **Jaheira**
 

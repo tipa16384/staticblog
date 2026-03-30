@@ -3,24 +3,8 @@ date: '2008-04-07T07:44:41-05:00'
 draft: false
 title: "The MMO Nostalgia Challenge"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/07/the-mmo-nostalgia-challenge/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "While discussing the possibility of \"classic\" servers in World of Warcraft, Cameron waxes nostalgic about his own yearning for the simpler days of gnoll-pounding in..."
+categories:
   - "Age of Conan"
   - "Champions Online"
   - "EVE Online"
@@ -32,18 +16,9 @@ tags:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+While discussing the possibility of "classic" servers in World of Warcraft, Cameron waxes nostalgic about his own yearning for the simpler days of gnoll-pounding in...
+<!--more-->
 
 While discussing the possibility of "classic" servers in World of Warcraft, [Cameron waxes nostalgic](http://random-battle.com/2008/04/06/hitting-the-old-nostalgia-pipe/) about his own yearning for the simpler days of gnoll-pounding in the Karanas. I loved those days too -- my blog is named after one of those old zones, and my header images are all from EQ1, so you know I'm standing right there with Cameron, casting SoW, shooting off careless lightning and healing as best an old-school druid can. I was so nostalgic at one point that I restarted on a new no-transfer server, Stromm, and went through the entire game from scratch (xping in East Commonlands and Permafrost and Oasis, seeing the world once again), so that helped sate that particular yearning.
 
@@ -59,7 +34,7 @@ If you run out of content, bug the devs in the forums about expansions and run t
 
 MMOs cannot be fully enjoyed by dabblers. Commitment is *part of the attraction*.
 
-Second step to this is to blog about it. If you aren't a blogger, [Blogspot](http://www.blogger.com/home) and [Wordpress](http://wordpress.com/) ([West Karana](https://chasingdings.com/) runs on Wordpress) will set you up, for free, no cost to you, in about a minute. Day 1 of the new game: Create a character and just write about how that goes. Win or suck, this is your game for a year. So keep a journal online, and in five years when you look back upon this year fondly, you'll remember everything that happened.
+Second step to this is to blog about it. If you aren't a blogger, [Blogspot](http://www.blogger.com/home) and [Wordpress](http://wordpress.com/) ([West Karana](https://tipa16384.github.io/wkblog/) runs on Wordpress) will set you up, for free, no cost to you, in about a minute. Day 1 of the new game: Create a character and just write about how that goes. Win or suck, this is your game for a year. So keep a journal online, and in five years when you look back upon this year fondly, you'll remember everything that happened.
 
 The question is -- could you play a single MMO for an entire year in order to get that same sort of feeling for a new game that you did for the one you remember?
 

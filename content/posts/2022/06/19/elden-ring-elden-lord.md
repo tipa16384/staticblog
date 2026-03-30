@@ -3,40 +3,19 @@ date: '2022-06-19T18:27:17-05:00'
 draft: false
 title: "Elden Ring: Elden Lord"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/06/19/elden-ring-elden-lord/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "About three weeks ago, I finished the required fights up to the final fight. I then spent the time between then and now leveling and..."
+categories:
   - "Elden Ring"
   - "Open World RPG"
   - "PS5"
+tags:
+  - "Elden Ring"
   - "RPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220619115831-scaled.jpg"
 ---
+About three weeks ago, I finished the required fights up to the final fight. I then spent the time between then and now leveling and...
+<!--more-->
 
 About three weeks ago, I finished the required fights up to the final fight. I then spent the time between then and now leveling and exploring all the parts I'd missed to that point, always trying to tune my build enough to push it over the edge. That plan was doomed to fail.
 
@@ -44,7 +23,7 @@ I was about to quit this game. I told my partner today that I would finish Elden
 
 All I had to do was play the game 100% entirely differently.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220619120858-1024x576.jpg" title="Final stats. I was overleveled because I took so long to beat it." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220619120858-1024x576.jpg" title="Final stats. I was overleveled because I took so long to beat it." classes="center" >}}
 
 I played through most of the game with a Dragon Incantation build, with a variety of bleed weapons for trash mobs. High arcane, high faith, enough vigor and endurance and mind to get by, dex and int enough only to wield the weapons. And that *really worked*. Once I went dragon and got faith high enough, almost every boss died to rot, bleed, or magic, and it wasn't even really that hard. Once I realized I would never be able to dodge as easily as the pros on YouTube do, I really leaned into the dragon mode and most every boss fight was easy. The few that were strong to status effects, I figured out other ways to kill. The Crystallian Trio, for instance, I blew bubbles at.
 
@@ -54,7 +33,7 @@ Although I eventually got good enough to kill the first half of the final fight 
 
 I became a Sorceress, with Comet Azur. This would delete Radagon, those few times he'd stay still enough. But I usually didn't have many flasks left for the Elden Beast, and the beast was far less interested in letting me stand still long enough to cast it. I think I could have made it work, but I was finding myself going through the entire game again, doing quests and dungeons for caster gear, and I still had huge gaps. Plus, the Millicent quest, the one that during the course of gives a lot of vital talismans and spells for the endgame, was bugged for me. I have no idea what happened to her, but I can't find her to continue her quest so two vitally important melee talismans -- Millicent's Prosthesis and Rotted Winged Talisman -- aren't available to me. Plus, the spell Pest Threads wasn't being sold by her mentor that is supposed to.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/06/ELDEN-RING™_20220619120837-1024x576.jpg" title="Final equipment." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/06/ELDEN-RING™_20220619120837-1024x576.jpg" title="Final equipment." classes="center" >}}
 
 I made a spreadsheet this morning that listed all my dragon incantations, all the weapons I'd leveled up, the minimum stats required and their special abilities. I went to work crafting the perfect build.
 

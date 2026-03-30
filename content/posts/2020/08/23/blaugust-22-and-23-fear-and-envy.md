@@ -3,45 +3,24 @@ date: '2020-08-23T08:26:20-05:00'
 draft: false
 title: "Blaugust #22 and #23: Fear and Envy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/23/blaugust-22-and-23-fear-and-envy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I at first didn't want to write anything about fear, the topic of the first Blaugust Promptapalooza prompt. I'd much rather talk about the second..."
+categories:
   - "Blaugust"
   - "EverQuest"
   - "MMORPG"
   - "PS4"
   - "Real Life"
+tags:
+  - "Blaugust"
   - "Eqpa"
   - "Green Lantern"
   - "Heavy Rain"
   - "Tanglewood"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/lantern-corps-970x545-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/lantern-corps-970x545-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/lantern-corps-970x545-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/lantern-corps-970x545-1.jpg"
 ---
+I at first didn't want to write anything about fear, the topic of the first Blaugust Promptapalooza prompt. I'd much rather talk about the second...
+<!--more-->
 
 I at first didn't want to write anything about fear, the topic of the first Blaugust Promptapalooza prompt. I'd much rather talk about the second one, which was easy, and all prepared. But, I came into this Blaugust thing determined to write a post for each writing prompt. Just because something is hard doesn't mean I get to skip each. The things that are hard, are the things on which I should focus.
 
@@ -51,7 +30,7 @@ The first prompt comes from [Professor Beej of the Geekery](https://geektogeekme
 
 Before I get started on that, though, I just have to really just *admire* the creativity people show when designing their blogs. Not one of them looks like another, and the layout and how the blogger sets their focus through visual display elements is just a gallery of personality. If we ever do Promptapalooza again, I'd like one of the prompts to be, "What does your blog design say about you?" There's definitely been a progression in my own blog as I get inspired by different people.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/Heavy_Rain_Cover_Art-300x300.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/Heavy_Rain_Cover_Art-300x300.jpg" classes="center" >}}
 
 Fear, though -- that's something I live with, all the time. There's some personal element to that, tragedies that I won't get into on a public post. I will say that there was a certain thing that happened, a long time ago, that ended the time when I looked to the future with hope and joy, and instead was held back with the knowledge that everyone I love could be taken away by some evil chance.
 
@@ -67,7 +46,7 @@ Okay, enough of that.
 
 > How did you get the name that you regularly go by online, and what if anything does it mean?
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-eqgame-2020-08-23-06-38-48-58-300x300.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-eqgame-2020-08-23-06-38-48-58-300x300.jpg" classes="center" >}}
 
 The picture really is worth a thousand words, here. Although I didn't know where I'd gotten the name "Tipa" from. For a long time, I thought I'd just made it up, from thin air.
 
@@ -79,21 +58,21 @@ There is absolutely no way I *hadn't* seen her when I was playing Etha. I'd alwa
 
 It was all just a lie.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/IMG_1798-300x241.jpg)Site of concert
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1798-300x241.jpg" classes="center" >}}Site of concert
 
 Similar story about my preferred last name, "Tanglewood". Anyone in New England is thinking, "you got that from the [famous music festival in the Berkshires](https://en.wikipedia.org/wiki/Tanglewood_Music_Festival), right?"
 
 I dunno. Probably? But that's not what I was thinking when I was camping the aviaks at the tree house in South Karana and level 20 was coming up fast. Back then, you had to petition for a GM to come grant you your last name, and I wanted more than anything for a green-named GM to pop up next to me and do the deed. But it would have to be something epic, but also meaningful.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/saryrn.gif)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/saryrn.gif" classes="center" >}}
 
 Etha was a druid, so I knew it had to be something woodsy. Bark, Tree, Treebranch, Brambleshoot, I kept trying different things until I hit upon my new, wholly original creation, Tanglewood, a name nobody had ever heard before in any context. Hence, Etha Tanglewood, and I wore that name proudly.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/terris.gif)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/terris.gif" classes="center" >}}
 
 I'm not sure how long after it was that I remembered that maybe I had, somewhere, at some time, heard the name before. I'd even been to a Tanglewood concert; way back when I was a kid, my mom took us to a concert on the lawn of the old mill down in Uxbridge. I was fascinated, entranced by the music. I don't know if I'd ever heard music performed live before. I was in the school band, but I don't think anyone ever considered that to be anything close to "music". Music played by people who knew what they were doing. THAT was new.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/ldon.gif)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/ldon.gif" classes="center" >}}
 
 I'm not certain why this old signature doesn't say "Tanglewood". At some point, EverQuest was updated so that you could change your name freely. I don't remember changing it to Ebonstar, though I obviously changed it back, because it's been Tanglewood as long as I can remember.
 

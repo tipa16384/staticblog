@@ -3,39 +3,18 @@ date: '2010-05-19T06:51:28-05:00'
 draft: false
 title: "The Cosmological Theory of Gaming"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/19/the-cosmological-theory-of-gaming/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5162010-71921-PM-480x195.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5162010-71921-PM-480x195.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/Fullscreen-capture-5162010-71921-PM-480x195.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/Fullscreen-capture-5162010-71921-PM-480x195.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5162010-71921-PM-480x195.jpg "Full of achievement in Legends of Zork")](https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5162010-71921-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/Fullscreen-capture-5162010-71921-PM.jpg)
 
 So you install this hot new MMO, *Frog Pond of Destiny: Legend of the Tadpole*, play for a bit, start taking on the "Eat 1000 Mosquitoes" quests, get your croak just the way you like it, get that special spotted skin design for making such a big splash. The pond is crowded, but pretty soon people are drifting back to World of Warcraft, and after some time being a big frog in what is really a very little pond, you join them.
 
@@ -45,17 +24,17 @@ There's no person on this Earth who doesn't want the things they do to matter. N
 
 Players and game developers are willing partners, then. Both interested in proving to the other that their time in the game is worth it. This can all be condensed into a single statistic, the "It Matters Index", or "IMI". The IMI of a game is based on the number of people who play, the number of ways the game convinces you you are a good player via levels and achievements, and the amount of buzz the game has outside the circle of people who actually play it. This can be represented as a graph of three circles that I'll label "stroke", "brag" and "buzz".
 
-![](https://chasingdings.com/wp-content/uploads/2010/05/fpod.png "Sample IMI for Frog Pond of Destiny")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/fpod.png" title="Sample IMI for Frog Pond of Destiny" classes="center" >}}
 
 Clearly, if the game never gives you any sort of indication that you are progressing on the path from newbie to awe-inspiring killer, the Stroke value will be very low. If you don't have any friends who play the game, you don't have anyone to brag to about your stroke. And if nobody who doesn't play the game has even heard of it, then you have a tough job using your stroke and brag to get more people to the game.
 
 Let's look at the IMI for some popular games.
 
-![](https://chasingdings.com/wp-content/uploads/2010/05/eve.png "EVE Online")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/eve.png" title="EVE Online" classes="center" >}}
 
 As a more or less purely sandbox game, EVE offers very little stroke. Your progress in skill training and the number of ships in your hanger, even your total wealth, none of these things are easy to show. Brag is fairly important; by belonging to a given corporation or alliance, the accomplishments of perhaps hundreds of other people become YOUR accomplishments as well. And finally, EVE has a huge buzz. It's the only game I know of where news of crime and fraud make the mainstream press, leading to the thousands of EVE players hoping to make that next massive con. Each fraud that DOES make it into the news brings in more new EVE players. The power of buzz, positive OR negative, cannot be denied.
 
-![](https://chasingdings.com/wp-content/uploads/2010/05/eq.png "EverQuest, old and new")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/eq.png" title="EverQuest, old and new" classes="center" >}}
 
 EverQuest, the first of the modern fantasy MMOs, is a very different game now than it was in the beginning.
 
@@ -67,6 +46,6 @@ The relative size of the graphs varies from game to game. One can see that the I
 
 The hot, dense core of stroke would contribute a lot to gravity. The brag-o-sphere somewhat less, and the important buzz would be the least massive but the most impressive.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/solar.png "Relative gravity of some selected MMOs")](https://chasingdings.com/wp-content/uploads/2010/05/solar.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/solar.png" title="Relative gravity of some selected MMOs" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/05/solar.png)
 
 Arranged according to IMI gravity, it becomes easy to see why players tend to be attracted to certain games. A good, dense stroke and brag will keep people happy, and a thick buzz will obscure other games for awhile, but once someone travels beyond the atmosphere of their first game, it's hard to ignore the pull of the truly massive giants of gaming.

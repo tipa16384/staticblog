@@ -3,43 +3,21 @@ date: '2025-08-05T08:00:00-05:00'
 draft: false
 title: "International Play Your Vectrex Day is November 1!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/05/international-play-your-vectrex-day-is-november-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The world comes together for just one day each year to enjoy a forgotten 1980s home arcade classic -- the GCE Vectrex. Also, a new Vectrex song."
-description: "The world comes together for just one day each year to enjoy a forgotten 1980s home arcade classic -- the GCE Vectrex. Also, a new Vectrex song."
-tags:
+categories:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2025"
   - "Vectrex"
+tags:
   - "Retro World Expo"
   - "Spinball"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/vectrexbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/vectrexbanner.png"
 ---
+The world comes together for just one day each year to enjoy a forgotten 1980s home arcade classic -- the GCE Vectrex. Also, a new Vectrex song.
+<!--more-->
 
 Kid with nose pressed against a Toys 'Я' Us display case, back when there were TЯU's and display cases; that was me, though I wasn't really a kid. What I was, was *poor*. I'd loved the vector graphic arcade games for years -- Asteroids, Battle Zone, Star Trek, Star Wars, Omega Race, Space War, so many more. The Atari 2600 I had wasn't the same.
 
@@ -49,13 +27,13 @@ I didn't really think about it for the longest time, not until I started going t
 
 I started haunting fleaBay until I found a working one at a reasonable price, and I bought it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/IMG_5302-1024x768.jpg" title="My pretty Vectrex playing Spin Ball w/ overlay" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5302-1024x768.jpg" title="My pretty Vectrex playing Spin Ball w/ overlay" classes="center" >}}
 
 I've picked up a few games over the years. Loose carts aren't hard to come by, but complete-in-box games with the necessary acetate overlay in good condition are much scarcer. I've had it sitting in its custom slip case waiting for me to have a good space to set it up permanently.
 
 Then a couple of days ago, a [Random Stranger on BlueSky mentioned the console](https://bsky.app/profile/randomstranger.bsky.social/post/3lvgb2jnlic2p) and I got excited:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-19.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-19.png" classes="center" >}}
 
 Th... there's an International Play Your Vectrex Day? [So it seems](https://vectrex.fandom.com/wiki/International_Play_Your_Vectrex_Day)!
 

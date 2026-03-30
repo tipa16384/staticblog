@@ -3,24 +3,8 @@ date: '2009-05-04T07:52:13-05:00'
 draft: false
 title: "Daily Blogroll 5/4 -- Dragon Claw Style edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/04/daily-blogroll-54-dragon-claw-style-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yes, this is the Daily Blogroll MY OWN BLOG didn't want you to see!..."
+categories:
   - "City of Heroes"
   - "Daily Blogroll"
   - "Darkfall"
@@ -33,22 +17,15 @@ tags:
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/dragonclawstyle1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/dragonclawstyle1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/dragonclawstyle1.jpg"
 ---
+Yes, this is the Daily Blogroll MY OWN BLOG didn't want you to see!...
+<!--more-->
 
-![I](https://chasingdings.com/wp-content/uploads/2009/05/dragonclawstyle1.jpg "Dragon Claw Style edition")
 
-Yes, this is the Daily Blogroll MY OWN BLOG [didn't want you to see](https://chasingdings.com/index.php/2009/05/01/adventures-in-monopoly-wheres-the-daily-blogroll/)!
+
+Yes, this is the Daily Blogroll MY OWN BLOG [didn't want you to see](https://tipa16384.github.io/wkblog/index.php/2009/05/01/adventures-in-monopoly-wheres-the-daily-blogroll/)!
 
 I'm kinda tired of Free Realms. Not the game; heck, considering my computer now refuses to run Lord of the Rings Online for long, I've been spending most of my gaming time in Free Realms. Beau is [having fun playing](http://epicdolls.com/beauturkey/?p=1393). Pete at Dragonchasers took a 75 degree turn and [went from being marginal about the game to a fan](http://dragonchasers.com/2009/05/04/free-realms-weekend-wrap/) in just three short days. Syp of Bio Break is still dubious, but what does he care -- [his wife is Tinker Bell](http://biobreak.wordpress.com/2009/04/30/free-realms-well-at-least-they-got-50-of-the-title-right/#comments)!
 
@@ -64,7 +41,7 @@ Psychochild looks at crafting through the ages, with a deeper look at how EverQu
 
 When I read that [Aventurine was adding solo-friendly islands to Darkfall](http://www.keenandgraev.com/?p=2288), my first thought was, "go here to find a lot of solo people to gank". Syncaine, however, is liking these [new changes to the Darkfall PvE experience](http://syncaine.wordpress.com/2009/05/01/darkfall-patch-pve-love/). I'm betting Syncaine is secretly thinking "target-rich environment"...
 
-Beau waxes quixotic about Aeria Game's [Dream of Mirror Online](http://epicdolls.com/beauturkey/?p=1385), especially about the cut-scene heavy epic quest that takes you through the game. I've written lots about [my own adventures in the game](https://chasingdings.com/index.php/2008/12/24/domo-mission-night/).
+Beau waxes quixotic about Aeria Game's [Dream of Mirror Online](http://epicdolls.com/beauturkey/?p=1385), especially about the cut-scene heavy epic quest that takes you through the game. I've written lots about [my own adventures in the game](https://tipa16384.github.io/wkblog/index.php/2008/12/24/domo-mission-night/).
 
 I STILL think DOMO is one of the best social MMOs going. I'm still looking for a decent exploration MMO. No, EVE Online is NOT an exploration MMO... it's an Achiever MMO, exploration doesn't really mean that much when everyplace you go is pretty much just like every other place. It comes closest, though. I'm desperately hoping Cryptic's Star Trek Online IS, though. I'm tired of Achiever MMOs.
 

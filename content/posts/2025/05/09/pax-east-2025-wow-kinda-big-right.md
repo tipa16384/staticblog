@@ -3,27 +3,12 @@ date: '2025-05-09T19:52:49-05:00'
 draft: false
 title: "PAX East 2025: Wow, kinda big, right?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/05/09/pax-east-2025-wow-kinda-big-right/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "First time at PAX, having a great time, wish you were here."
-description: "First time at PAX, having a great time, wish you were here."
-tags:
+categories:
   - "Erenshor"
   - "Gaming Convention"
   - "Tabletop Games"
+tags:
   - "Buy the Vote"
   - "Cat Secretary"
   - "Gigasword"
@@ -31,18 +16,11 @@ tags:
   - "Pax East"
   - "Planet Hexx"
   - "Sage Stones"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5091-scaled.jpeg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/05/IMG_5091-scaled.jpeg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5091-scaled.jpeg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5091-scaled.jpeg"
 ---
+First time at PAX, having a great time, wish you were here.
+<!--more-->
 
 I am having a great time, except that it’s cold and rainy here at the Boston sea coast, and I picked up my boyfriend’s cold, and I put my back out last week and am still feeling it, but you know, aside from that.
 
@@ -52,21 +30,21 @@ This isn’t the first gaming-focused convention I’ve gone to. We went to Orig
 
 Of them all, PAX East is the largest. There is SO much going on.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/IMG_5133-1024x768.jpeg" title="Jonathan Coulton" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5133-1024x768.jpeg" title="Jonathan Coulton" classes="center" >}}
 
 We missed Jonathan Coulton at Origins last year; his concert was sold out before we could get our tickets. He was here with frequent collaborators Paul & Storm and he played a greatest hits selection — Millionaire Girlfriend, Skullcrusher Mountain, Re: Your Brains, Code Monkey, Mister Fancypants (which was very fancy indeed), Still Alive and a few others. He and Paul & Storm held a Q&A this afternoon where they explained just how much fun the Joco Cruise would be, while admitting that it’s been sold out until 2027, I think. So, maybe later.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-23.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-23.png" classes="center" >}}
 
 I was lucky enough to meet Brian of Burgee Media, the developer of Erenshor. Incredibly nice guy in person. He’d rented out the corner of another booth and it was kind of hard to find him, but we did manage it, and I have the business card to prove it. I took a picture, but it was kinda crappy so just using that screenshot as a placeholder. He had the game running on a couple of screens and the people trying it out seemed to like it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/IMG_5125-1024x717.jpeg" title="Mission to Planet Hexx" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5125-1024x717.jpeg" title="Mission to Planet Hexx" classes="center" >}}
 
 I’d met the developer of card-slash-board game Planet Hexx at CaptainCon in February, and was a little surprised that he didn’t have any of the game for sale with him. The game is pretty simple; each player is given a Mad Libs-style game board that you fill by playing cards to build a wacky space map through which you move to earn currency to buy cards, etc. It’s fun and fast-paced, and the winner gets to read the silly story they made.
 
 The dev said he would be at PAX East, I said I would, too, and it was one of my first stops. He put my picture on his web page, so I feel I am owed his picture on mine.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/IMG_5117-1024x768.jpeg" title="Buy the Vote!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/IMG_5117-1024x768.jpeg" title="Buy the Vote!" classes="center" >}}
 
 Hey, when did games become political? Ripped from the headlines, in Buy the Vote, the players are billionaires willing to throw cash around to get themselves elected president. Through nine rounds, states are dealt (more states each round) and every player places blind bids for the state or states they want to buy. If no bids on a state or the top bids are ties, the state goes until the next round. Swing states let you steal the latest state some other player has bought, so it pays to be strategic and get those swing states so you can finally steal California, just like you always wanted.
 

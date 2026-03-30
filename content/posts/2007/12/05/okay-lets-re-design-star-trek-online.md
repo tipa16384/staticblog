@@ -3,38 +3,13 @@ date: '2007-12-05T18:00:37-05:00'
 draft: false
 title: "Okay, let's re-design Star Trek Online."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/05/okay-lets-re-design-star-trek-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We know very little about Star Trek Online, but what we do know doesn't sound much like Star Trek. Very \"gamey\", not very \"worldy\". You..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+We know very little about Star Trek Online, but what we do know doesn't sound much like Star Trek. Very "gamey", not very "worldy". You...
+<!--more-->
 
 We know very little about Star Trek Online, but what we do know doesn't sound much like *Star Trek*. Very "gamey", not very "worldy". You form a group in a city (or starship or starbase), choose a quest (mission) and beam down, run the quest, beam back up. OR, you get in your shuttle, meet up with other shuttles, run the quest, and then go back to a shuttle port.
 

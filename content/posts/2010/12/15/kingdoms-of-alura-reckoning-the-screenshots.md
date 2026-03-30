@@ -3,46 +3,25 @@ date: '2010-12-15T19:19:48-05:00'
 draft: false
 title: "Kingdoms of Amalur: Reckoning: The Screenshots"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/15/kingdoms-of-alura-reckoning-the-screenshots/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/4x3-AlabastraVista_1024x768-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/4x3-AlabastraVista_1024x768-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/4x3-AlabastraVista_1024x768-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/4x3-AlabastraVista_1024x768-480x360.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/4x3-AlabastraVista_1024x768-480x360.jpg "Alabastra Vista")](https://chasingdings.com/wp-content/uploads/2010/12/4x3-AlabastraVista_1024x768.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/4x3-AlabastraVista_1024x768.jpg)
 
 If I were online media, I'd never have been able to bring you these exclusive screenshots from Kingdoms of Amalur: Reckoning that the Big Huge Games division of 38 Studios is busily polishing down in Baltimore. But since it's just you and me, here, Curt sent these along with a personal message about the hard work the super secret Copernicus guys are doing.
 
 Here's another secret wallpaper:
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/4x3-Dalentarth_1024x768-480x360.jpg "Dalentarth Night")](https://chasingdings.com/wp-content/uploads/2010/12/4x3-Dalentarth_1024x768.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/4x3-Dalentarth_1024x768-480x360.jpg" title="Dalentarth Night" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/4x3-Dalentarth_1024x768.jpg)
 
 First reaction: these screenshots are so DARK! I know from the teaser video that the whole game isn't dark like this, but I'd appreciate seeing a scene with more brightness. Because I have DDO for my game where everything is so friggin' dark all the time that I have to tie a rope around my hireling and toss her ahead of me so I know where the walls are.
 

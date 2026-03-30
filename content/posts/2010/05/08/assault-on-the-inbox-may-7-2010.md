@@ -3,24 +3,8 @@ date: '2010-05-08T08:26:27-05:00'
 draft: false
 title: "Assault on the Inbox: May 7, 2010"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/08/assault-on-the-inbox-may-7-2010/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Daily Blogroll"
   - "EVE Online"
   - "EverQuest"
@@ -29,20 +13,15 @@ tags:
   - "Runes of Magic"
   - "Star Trek"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/stochair.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/stochair.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/stochair.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/stochair.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/stochair.jpg "It isn")](https://chasingdings.com/wp-content/uploads/2010/05/stochair.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/stochair.jpg)
 
 MMO devs fire broadside press releases at my inbox, and I inflict them on others. We'll suffer together or not at all.
 
@@ -56,7 +35,7 @@ Sony stats their full-court press to publicize their [new Move controllers](http
 
 Dungeons & Dragons Online is [having a sale](http://echo4.bluehornet.com/hostedemail/email.htm?h=32b4c0c7ef0fbb0447a817023f5d856a&CID=9085209377&ch=1330C479A9E9791716B031E1CA0E5E69) on their 32 point builds, extra inventory space Veteran Status and more. If you've been waiting for a sale to snap up items in the DDO store, now's your chance. Still waiting for Drow to go on sale....
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-582010-81325-AM.jpg "Won")](http://www.facebook.com/#!/apps/application.php?id=107363772621957)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/Fullscreen-capture-582010-81325-AM.jpg" title="Won" classes="center" >}}](http://www.facebook.com/#!/apps/application.php?id=107363772621957)
 
 JoltOnline, they of Legends of Zork and Playboy Manager fame, are moving into the Facebook gaming arena with their satirical take on Farmville, [Farm Villain](http://joltonlinegaming.createsend4.com/T/ViewEmail/r/4C6C51532AA17DDA/F67DBD78D5336805F6A1C87C670A6B9F). You can do such family-friendly things as run a meth lab on your farm, discover dead hookers buried beneath the fields, spread mad cow disease and other hilarious hijinks. Head to Facebook to start distributing radioactive corn to your neighbor's pigs today!
 

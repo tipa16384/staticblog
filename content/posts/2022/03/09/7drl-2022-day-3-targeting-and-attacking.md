@@ -3,37 +3,14 @@ date: '2022-03-09T07:33:04-05:00'
 draft: false
 title: "7DRL 2022 Day 3: Targeting and Attacking"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/09/7drl-2022-day-3-targeting-and-attacking/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I reached an important milestone, though a day late as I lost a day integrating the new tile set. As I added targeting and combat,..."
+categories:
   - "7DRL"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/day3teaser.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/day3teaser.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/day3teaser.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/day3teaser.png"
 ---
+I reached an important milestone, though a day late as I lost a day integrating the new tile set. As I added targeting and combat,...
+<!--more-->
 
 I reached an important milestone, though a day late as I lost a day integrating the new tile set. As I added targeting and combat, I began to realize what kind of game this was becoming, and I think that understanding is going to let me finish 7DRL with an actual game that is, maybe, fun to play?
 
@@ -56,11 +33,11 @@ NPCs always have their target -- the player. The player, however, can pick and c
 
 You'll see in the video that the player now can enter a room at a given position and facing a certain way. In fact, everything in the scene is now controlled by Tiled, as I implemented the Tiled Object Layer last night. This gives me the opportunity now to set up specific scenarios.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/image-6.png)](https://chasingdings.com/wp-content/uploads/2022/03/image-6.png)Tiled map with object layer
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/image-6.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/image-6.png)Tiled map with object layer
 
 The first new scenario is actually in the first room. Where before I just had Ritz appear randomly, now she looks to be coming down a path to a clearing where she can encounter the Amulet of Yendor.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/image-7.png)](https://chasingdings.com/wp-content/uploads/2022/03/image-7.png)New "intentional" starting screen
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/image-7.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/image-7.png)New "intentional" starting screen
 
 Removing randomness in this way could be seen by some as moving YATA *away* from roguelike, but I disagree. It's moving it *toward* roguelike. Let me explain. This has to do with the epiphany I had while coding last night.
 
@@ -72,7 +49,7 @@ Tonight, we're having Training Room #2, which will have you toss the amulet to t
 
 *Multiple ways to approach a problem is ALSO ROGUELIKE.*
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-3.gif)](https://chasingdings.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-3.gif)I also added a list of commands in case someone was curious about them.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-3.gif" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-3.gif)I also added a list of commands in case someone was curious about them.
 
 I needed someone to explain to the player about the targeting and the combat system, so I enlisted the Frog Knight from Chrono Trigger to help out, as he can look directly down the screen without facing left or right, as HIS game isn't isometric. I implemented him as an item so that he couldn't be targeted, and blocked his space off from the rest of the training area so that nobody would attempt to pick him up. I probably should animate him, though that means *every* item could potentially animate, leading to scope issues now and down the road. Or I could make him an NPC, give him finger guns, and add a flag to make him non-targetable (so that nobody could kill him or toss him an amulet or a weapon, because GUYS HE IS NOT ISOMETRIC, HE CAN'T MOVE AROUND THE ROOM!!!)
 

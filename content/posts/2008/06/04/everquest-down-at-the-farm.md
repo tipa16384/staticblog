@@ -3,41 +3,18 @@ date: '2008-06-04T08:23:20-05:00'
 draft: false
 title: "EverQuest: Down at the farm"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/04/everquest-down-at-the-farm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "SOE loves reinventing their flagship games. Last fall, SOE decided that their latest EQ2 expansion, Rise of Kunark, should focus on mostly-soloable quests instead of..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-03-22-42-47-54.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-03-22-42-47-54.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-03-22-42-47-54.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-03-22-42-47-54.jpg"
 ---
+SOE loves reinventing their flagship games. Last fall, SOE decided that their latest EQ2 expansion, Rise of Kunark, should focus on mostly-soloable quests instead of...
+<!--more-->
 
-![eqgame-2008-06-03-22-42-47-54.jpg](https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-03-22-42-47-54.jpg)
+
 
 SOE loves reinventing their flagship games. Last fall, SOE decided that their latest EQ2 expansion, Rise of Kunark, should focus on mostly-soloable quests instead of the mostly-groupable open experience zones that had been EQ2's signature style of play since release. Since those people who prefer to solo had largely already gravitated to World of Warcraft, it came as a shock to those people who played EQ2 for the strong social and community aspects. Many group loving players had a hard time soloing the quests in RoK, since after an initial flurry of activity while everyone leveled to 80, finding groups for the 70-80 quest grind is now virtually impossible.
 

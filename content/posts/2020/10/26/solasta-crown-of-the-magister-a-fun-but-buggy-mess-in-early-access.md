@@ -3,51 +3,29 @@ date: '2020-10-26T08:16:33-05:00'
 draft: false
 title: "Solasta: Crown of the Magister -- A fun but buggy mess in early access"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/26/solasta-crown-of-the-magister-a-fun-but-buggy-mess-in-early-access/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I am done with the early access content in Solasta: Crown of the Magister. I think Solasta did what it set out to do. It..."
+categories:
   - "Steam Games"
+tags:
   - "Crown of the Magister"
   - "D&d"
   - "Gold Box"
   - "RPG"
   - "Solasta"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/20201025094236_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/20201025094236_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201025094236_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201025094236_1.jpg"
 ---
+I am done with the early access content in Solasta: Crown of the Magister. I think Solasta did what it set out to do. It...
+<!--more-->
 
 I am done with the early access content in Solasta: Crown of the Magister. I think Solasta did what it set out to do. It made a statement about how it would approach the modern era of D&D computer RPGs and how it sets itself apart from other modern offerings such as Pillars of Eternity, Divinity: Original Sin and Baldur's Gate 3. And it made me eager to see what comes next.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201026070823_1-1024x576.jpg" title="Belial, Lore Master Wizard" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201026070823_1-1024x576.jpg" title="Belial, Lore Master Wizard" classes="center" >}}
 
 Compared to the other games mentioned, Solasta doesn't rely much on its story to move things forward. It *does* have a story, something that wasn't clear until the last dungeon of early access, the Dark Tower. There's not going to be any intra-group romances. You're not going to be the chosen one. In fact, there's no main character you can point to and say that that is your avatar in the game, as you create, name and control all four permanent members of your group.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201026070833_1-1024x576.jpg" title="Delial, Green Mage Wizard" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201026070833_1-1024x576.jpg" title="Delial, Green Mage Wizard" classes="center" >}}
 
 The wide variety of backgrounds and attitudes to some extent makes up for the lack of classes and races; this is very barebones D&D, without warforged or dragonkin or tieflings or half-orcs. You'll get only humans, elves, half-elves, halflings and dwarfs and like it.
 
@@ -55,7 +33,7 @@ No monks or artificers or warlocks or sorcerers either; your classes are limited
 
 There's also no mechanism for multiclassing or changing classes. Nor are there endless options for customizing your character's looks and outfits. This is very much an old school D&D implementation.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201026070842_1-1024x576.jpg" title="Melial, Arcane Wizard and part time rogue" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201026070842_1-1024x576.jpg" title="Melial, Arcane Wizard and part time rogue" classes="center" >}}
 
 The focus in Solasta is very much to get your party into a dungeon as quickly as possible. A nicely framed retelling of how your party met up together at a bar provides a tutorial through all the basics, and then your party is nearly immediately sent off to the first of the three dungeons in early access.
 
@@ -63,13 +41,13 @@ Overworld travel is via a map, where icons representing your party walks along t
 
 Occasionally the party will hit a random encounter, which drops you into one of three "road battle" maps. If you were not surprised, you'll often have the chance to hide and let the encounter pass, but they are typically worth doing, as these encounters are one of the few places you can really use all your spells and abilities without concern, as you'll be getting them all back via a long rest as soon as you are finished.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201026070849_1-1024x576.jpg" title="Parnad, battle cleric. Note the sword." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201026070849_1-1024x576.jpg" title="Parnad, battle cleric. Note the sword." classes="center" >}}
 
 My party was three wizards and a cleric. Each dungeon was a race to get through before running out of spell slots. A short rest would sometimes allow the recovery of a slot or two, or the opportunity to spend hit dice to save the cleric some healing.
 
 I eventually understood that I needed to get a lot more serious about crafting. Crafting is fairly simple; you buy a recipe that is then available to everyone in your party from then on. You discover crafting ingredients in dungeons or while traveling. You then press a button and go; eventually that character will produce an item, if they have the skills.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201026071027_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201026071027_1-1024x576.jpg" classes="center" >}}
 
 I encountered an amusing bug where items crafted on the road didn't take any ingredients. The final boss fight in the final dungeon puts you in a place where you have to get through three to four encounters without a chance for a long rest. (You can skip the final encounter through persuasion, if you're lucky and don't need the 900xp you get for finishing it). As such, I decided to hoard my spell slots by crafting magic missile scrolls and healing potions. I had enough ingredients for about eight of each. I arrived at the final dungeon with everyone's inventories stuffed full of scrolls.
 
@@ -89,7 +67,7 @@ Melial, the wizard whose background gave her some experience with thieve's tools
 
 I collected all the loot I could, went outside and completed the ghost's quest as much as I could, and went to head back to the city and...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201025213519_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201025213519_1-1024x576.jpg" classes="center" >}}
 
 So that was the end of Solasta's early access. The story had finally begun, but I won't spoil any of it here.
 
@@ -101,7 +79,7 @@ Where Solasta shines is in its puzzles. In the Tower of Magic, you explore verti
 
 Each dungeon keeps its encounters fairly consistent, so it's easier to bring the spells you know you'll need for the run. For instance, a dungeon of mostly undead stays true to its theme, so you can put the Sleep spells (normally so overpowered) aside and focus on better things.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201025095842_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201025095842_1-1024x576.jpg" classes="center" >}}
 
 My characters all ended at level 5, the point where most classes start coming into their class defining abilities. (See: Fireball). All my characters had at least one magic item. By bringing back artifacts to city factions and selling them to them, I had more money than I really knew what to do with, so I went on a magic item buying spree. There's very little else to buy.
 

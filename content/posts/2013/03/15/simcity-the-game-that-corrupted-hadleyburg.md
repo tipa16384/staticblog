@@ -3,40 +3,17 @@ date: '2013-03-15T07:22:37-05:00'
 draft: false
 title: "SimCity: The Game that Corrupted Hadleyburg"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/03/15/simcity-the-game-that-corrupted-hadleyburg/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's more than a little unfair to complain so much when I couldn't play SimCity 2013, and then say nothing once I was able to..."
+categories:
   - "MMORPG"
   - "Simcity 2013"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png"
 ---
+It's more than a little unfair to complain so much when I couldn't play SimCity 2013, and then say nothing once I was able to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/Spark_2013-03-13_02-06-54-480x300.png" title="Incorruptible Hadleyburg" class="align-center" >}}
+
 
 It's more than a little unfair to complain so much when I couldn't play SimCity 2013, and then say nothing once I was able to play it. So here's this post. I can play it and do enjoy it when I do; I'm playing in a corner of a region started by friends who fled to another server, so it's as close to a single player game as it possibly can be. I've started two cities and a Great Work -- an arcology. I've lost sleep just doing one... more... thing.
 
@@ -44,7 +21,7 @@ For all SimCity's new shine, though, it doesn't let me be very creative. Followi
 
 SimCity isn't as complicated a game as it appears. You don't need industry, for instance. There's this balancing game with industry and pollution. When I saw what industry was doing to [Hadleyburg](http://www.gutenberg.org/files/1213/1213-h/1213-h.htm), I just bulldozed it all and replaced it with commercial and, where the ground pollution wasn't bad, residential. City progressed fine; better, even. The yellow "need more industry NOW!" gauge is pinned to the top, but the town is above 100K people, making decent simoleons, and apparently all the sims have found that just taking their car out and sitting in traffic all day is just as fun as getting your hand cut off in some metal press machine.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/Spark_2013-03-13_00-45-31-480x300.png" title="Shoes for Industry" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/Spark_2013-03-13_00-45-31-480x300.png" title="Shoes for Industry" classes="center" >}}
 
 I started [Shoes for Industry](http://firesigntheatre.com/media/media.php?item=sfi) to take up the industrial slack from Hadleyburg, but not one Hadleyburgian has made the commute. Traffic, probably. Takes ten-fifteen minutes for the recycling trucks to make it from the trade depot to the arcology.
 
@@ -58,7 +35,7 @@ I think I'll just continue to ignore what the game wants. It gives bad advice an
 
 The individual life of the sim, a feature much touted, is really boring, unless they're driving. Following a sim who is supposed to be driving to a store just end up taking a really roundabout route everywhere and sitting in traffic for hours to get to a place that was only a couple blocks from his starting location is hilarious. Since the sims refuse to take detours along the roads I built just to ease congestion, I bulldoze the extra roads. More room for building stuff.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/Darkedge-Jun.-9-921363349796-480x360.png" title="Darkedge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/Darkedge-Jun.-9-921363349796-480x360.png" title="Darkedge" classes="center" >}}
 
 Compare a standard SimCity 2013 city with this one from my SimCity 4 game. In SimCity 4, I have built a city around a really, stupidly tall peak I terraformed. The residents live in shadow most of the time. Industrial pollution really doesn't have anywhere to go. Crime is a big problem. But people struggle on, and manage to get around the city without creating huge traffic jams, and I never have to raze the downtown to put in adequate streets.
 

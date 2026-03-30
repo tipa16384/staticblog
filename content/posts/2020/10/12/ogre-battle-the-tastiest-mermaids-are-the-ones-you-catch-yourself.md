@@ -3,43 +3,21 @@ date: '2020-10-12T08:52:12-05:00'
 draft: false
 title: "Ogre Battle: The Tastiest Mermaids are the Ones You Catch Yourself"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/12/ogre-battle-the-tastiest-mermaids-are-the-ones-you-catch-yourself/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The first time I tried to play Ogre Battle: The March of the Black Queen, I didn't know how there could be any sort of..."
+categories:
   - "Super Nintendo"
+tags:
   - "Island Avalon"
   - "Kastolatian Sea"
   - "Ogre Battle"
   - "RPG"
   - "Snes"
   - "The March of the Black Queen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-010.png"
 ---
+The first time I tried to play Ogre Battle: The March of the Black Queen, I didn't know how there could be any sort of...
+<!--more-->
 
 The first time I tried to play Ogre Battle: The March of the Black Queen, I didn't know how there could be any sort of strategy or planning when every map was just continually battling enemies that are continually attacking you.
 
@@ -47,7 +25,7 @@ How anyone could take the time to be concerned about making sure each unit only 
 
 I've had the GameFaqs for the game in a tab in my browser since last *winter*. Every time I saw it, I promised myself that sometimes I would figure it out and just -- play through it. Especially since I found the actual SNES cartridge in a store downtown, taunting me until I bought it. It's why I have made the commitment to finally play and finish this game, no matter what.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-012.png)Evil mage Warren faces the leader of Island Avalon.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-012.png" classes="center" >}}Evil mage Warren faces the leader of Island Avalon.
 
 Each map takes me between two and three hours to complete. I've tried a bunch of different strategies -- waiting for the enemy to come to me, rushing the boss, slowly taking territory while building my forces -- and it always ends up taking the same amount of time. Multiply that by the 30 maps in the game (including hidden maps) and it's going to end up being an 80 hour game.
 
@@ -55,7 +33,7 @@ And that doesn't even include the whole SECOND part of the game, the hidden part
 
 Aisha is the lady confronting the Dark Knight in the header image. The DK killed her mother, and he thought he'd killed her as well, but she escaped and is now bent on revenge. If you hadn't found the secret temple where she was hiding, and made sure she confronted him before you killed him, you wouldn't have this scene.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/mermaid-1.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/mermaid-1.png" classes="center" >}}
 
 The Kastolatian Sea is ruled over by Queen Porkyus, a nixie who is trying to save her people, the mermaids, from being wiped out by humanity. There is a rumor that eating mermaids can make you immortal, and so they have been hunted by the human inhabitants of the Kastolatian Sea until the only thing the mermaids could do, with their tails back against the coral, is to hunt humans in return and liberate their land.
 

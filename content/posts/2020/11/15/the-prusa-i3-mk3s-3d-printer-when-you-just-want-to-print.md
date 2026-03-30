@@ -3,39 +3,17 @@ date: '2020-11-15T09:38:32-05:00'
 draft: false
 title: "The Prusa i3 Mk3S 3D printer: When you just want to print"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/11/15/the-prusa-i3-mk3s-3d-printer-when-you-just-want-to-print/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I chose my first 3D printer carefully. I lurked on r/3dprinting for months, reading all their guides, looking at what they were printing, finding people..."
+categories:
   - "3D Printing"
+tags:
   - "Creality Ender 3 Pro"
   - "Prusa"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/11/howitstarted.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/11/howitstarted.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/howitstarted.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/howitstarted.png"
 ---
+I chose my first 3D printer carefully. I lurked on r/3dprinting for months, reading all their guides, looking at what they were printing, finding people...
+<!--more-->
 
 I chose my first 3D printer carefully. I lurked on r/3dprinting for months, reading all their guides, looking at what they were printing, finding people who were doing the sorts of things with their printer that I wanted to do, and finally ordered the best of the bunch: The Creality Ender 3 Pro. There was a lot of help for it and a lot of support, and I was so excited by it, that I ordered it the moment I had a couple hundred bucks I didn't need. Because it was *affordable*, too. Budget printing for amazing results.
 
@@ -43,7 +21,7 @@ It came as a kit with very, very poor instructions. I read them carefully (mostl
 
 What followed was months of frustration as every successful print was preceded by three or four false starts and a bed that wouldn't stay level. The bed leveling system is done via four knobs on springs which gradually lose tension during the printing process, shifting the Z-axis down. (People replace those springs with better ones as part of a common mod). The rollers that control the X and Y axes aren't 100% smooth, leading to uneven printing (this can be ameliorated somewhat). The belt tensioning system is primitive, making it hard to dial in the correct tension, leading to the occasional layer slip.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/11/6-IMG_2009-1.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/11/6-IMG_2009-1.jpg" classes="center" >}}
 
 When someone paid me a debt, I used that money to buy what I should have bought the first time: a Prusa. I think I could (and will) fix the Ender; it has printed many, many things for me that came out great. But I really want a more "just print it" solution.
 

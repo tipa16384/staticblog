@@ -3,49 +3,24 @@ date: '2010-03-23T07:36:42-05:00'
 draft: false
 title: "MMOs, Story, Immersion and Definition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/23/mmos-story-immersion-and-definition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Petter of Don't Fear the Mutant was wondering on Twitter last night what happened to immersion in MMOs. What happened to those virtual worlds, like..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/Dragonica-2010-03-17-22-48-03-60.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/Dragonica-2010-03-17-22-48-03-60.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/Dragonica-2010-03-17-22-48-03-60.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/Dragonica-2010-03-17-22-48-03-60.jpg"
 ---
+Petter of Don't Fear the Mutant was wondering on Twitter last night what happened to immersion in MMOs. What happened to those virtual worlds, like...
+<!--more-->
 
 Petter of [Don't Fear the Mutant](http://blog.dontfearthemutant.com/) was wondering on Twitter last night what happened to immersion in MMOs. What happened to those virtual worlds, like Vanguard, World of Warcraft and EverQuest?
 
 Is immersion a quality that games have, or is immersion what the player brings to the game? For immersion to exist, I suspect the player has to WANT to be immersed. There have been times in my life when I've been immersed in such games as Super Mario Kart, Chess, Othello, Backgammon, Colossal Cave Adventures and Zork, and none of those were virtual worlds (and none of those feel immersive to me any more).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/Dragonica-2010-03-17-22-48-03-60.jpg" title="Getting in the spirit of Dragonica's St. Patrick's Day" class="align-center" >}}
-
 Looking back, I can see in every case that I'd made a decision to become immersed in that game. As I took my first, willing steps, I let the game draw me further. There are hundreds of MMOs available now, each with their own take on a virtual world and each offering the opportunity for immersion. We should enjoy them now; now that social games have grabbed the imaginations of game developers, those looking for the next money making opportunity will likely move away from expensive MMOs to lighter, browser-based fare.
 
 Massively's Robin Torres yesterday introduced [a new column](http://www.massively.com/2010/03/22/the-fringe-farming-games/) focusing on browser-based Flash games, starting it off with an in-depth look at five farming simulations. Editor Sera Brennan asked her Twitter followers how they felt about Massively's expanding focus?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-20-09-55-47-86.jpg" title="Q drags the USS Monterey back through time to save the future" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-20-09-55-47-86.jpg" title="Q drags the USS Monterey back through time to save the future" classes="center" >}}
 
 I can't deny the popularity of these sorts of casual games. Looking through my list of Facebook friends last night, seems every one of them was playing several. Not just children -- if you're a Facebook user, chances are you are playing a bunch of social games. They aren't all as loud as Farmville, Mafia Wars and their cousins.
 
@@ -59,7 +34,7 @@ That begs the question of what, exactly, is an MMO?
 
 Petter believes MMOs must offer immersion. Robin extends the definition to any game that is online and has millions of players. As my Twitter friend @Slurms1 noted, Farmville is "as much as MMO as Battlefield: Bad Company 2. I play with others, and get levels and new gear."
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/EverQuest2-2010-03-23-00-33-34-03.jpg" title="Relaxing after an intense evening of Brew Day crafting" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/EverQuest2-2010-03-23-00-33-34-03.jpg" title="Relaxing after an intense evening of Brew Day crafting" classes="center" >}}
 
 Clearly, MMOs are those kinds of games that when you look at them, you say, "ah, this is an MMO."
 

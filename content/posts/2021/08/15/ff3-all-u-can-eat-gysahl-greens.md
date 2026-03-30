@@ -3,46 +3,25 @@ date: '2021-08-15T08:55:31-05:00'
 draft: false
 title: "FF3 -- All-U-Can-Eat Gysahl Greens"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/15/ff3-all-u-can-eat-gysahl-greens/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I can stop eating Gysahl Greens any time I want. Not like mister \"dude, can I like crash on your couch just for tonight? Won't..."
+categories:
   - "Blaugust"
   - "Final Fantasy"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210814221925_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210814221925_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210814221925_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210814221925_1.jpg"
 ---
+I can stop eating Gysahl Greens any time I want. Not like mister "dude, can I like crash on your couch just for tonight? Won't...
+<!--more-->
 
 I can stop eating Gysahl Greens *any time I want*. Not like mister "dude, can I like crash on your couch just for tonight? Won't even know I'm there" there. That was A WEEK AGO, CHOCO-BRO.
 
 Our adventures in FF3 continue...
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210814174725_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210814174725_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210814174725_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210814174725_1.jpg)
 
 **Dislike: Mini**
 
@@ -56,15 +35,15 @@ The gem was larger than the eye socket. HOW DID WE DRAG IT THROUGH THE SMALLER T
 
 Checkmate, Squenix.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210814175125_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210814175125_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210814175125_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210814175125_1.jpg)
 
 Anyway, with the eye returned, the Klepto Dragon told us a tale of a gigantic earthquake that transformed the land and sank the four crystals that sustain the world.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210814202510_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210814202510_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210814202510_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210814202510_1.jpg)
 
 Our adventures soon brought us to a tall tower (that we had to become frogs to enter... for reasons...). This tower, apparently, is how the continent we're on manages to float above the surface of the world and WHAT, WE'RE ON A FLOATING CONTINENT? Okay, news flash.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210814202603_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210814202603_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210814202603_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210814202603_1.jpg)
 
 By this time, I'd settled on the initial jobs for the characters. I'd switched from Red Mage to Warrior at this point. Red Mage does have some unique weapons -- there were times when I used the job to cut down undead with the Wightbane, but in the end, I just needed someone who could stand at the front of the party and soak hits.
 
@@ -74,7 +53,7 @@ I'm a little disappointed that AE attacks aren't really a thing, yet.
 
 Our friend remembers that he is the Ancient in charge of this tower, so after Medusa dies and the tower is still exploding, he sacrifices himself to the tower, fixes it, teleports us out, and then dies.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210814205953_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210814205953_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210814205953_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210814205953_1.jpg)
 
 But, our work wasn't done. We still had to restore the Fire Crystal, which was held by the dwarves. Thankfully, we didn't have to MINI ourselves to lali-ho with the dwarves, but they were having their own little crisis. A creature named Gutso had stolen one of their two treasured Horns of Ice. We tracked Gutso down and defeated them, but it turned out that was just a feint. When the dwarfs dropped the force field protecting the other Horn so we could replace the second one next to it, Gutso popped back up and stole the other.
 
@@ -86,7 +65,7 @@ The fire crystal bestowed new jobs upon us. My Warrior became a Knight. Ally's W
 
 Yeah, I get that this is pretty standard, and is a thing even up to Final Fantasy XIV, but it's a real pain to start each job from level 1, especially since the plot just keeps ramping up the danger. That means more grinding to get them usable instead of continuing with the plot.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210814214130_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210814214130_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210814214130_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210814214130_1.jpg)
 
 As we were leaving the dwarf village, a vision of a villager we'd met before appeared to us and asked for help. The evil Hein was no longer content with stealing villagers away, he was now burning down the town itself! And what's worse, he was using a floating World Tree as his mobile base, which would kill the Living Forest and bring destruction on the world... again...
 
@@ -98,17 +77,17 @@ He also dropped the Wheel of Time, and wouldn't you know it, Cid could use that 
 
 With our new airship, we set off to see what was over the horizon.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210814224421_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210814224421_1.jpg)Oh hey, we really are on a floating continent...
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210814224421_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210814224421_1.jpg)Oh hey, we really are on a floating continent...
 
 We did some exploring and found a couple small bits of land, including an island with a prominent shipwreck. Exploring, we found a sage who was tending to Aria, a water priestess. We healed her with an Elixir, and she told us that the Water Crystal had been fractured, causing the waters of the world to rise, and turn everyone into stone, and just basically recapped the entire plot to Waterworld. 
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210814230309_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210814230309_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210814230309_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210814230309_1.jpg)
 
 She had the shard with her. If we could just get her to the Temple of Water... well, of course we could.
 
 Since changing jobs doesn't restore magic slots, I couldn't have Tom become a Black Mage again -- he'd have been useless. So he took his Link cosplay into the temple. The whole thing went too fast. I'd meant to have Ally become a Scholar again, but we went into the fight with what we had and it wasn't too bad.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210814230623_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210814230623_1.jpg)Celebrating over the corpse of our dead friend seems a little tone-deaf
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210814230623_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210814230623_1.jpg)Celebrating over the corpse of our dead friend seems a little tone-deaf
 
 As with the Ancient at the Tower of Fire, Aria was forced to sacrifice herself in the Temple of Water in order to restore the world and its people to its former state of dryness and not stone-ness. Basically, they'll never have been aware of her sacrifice.
 

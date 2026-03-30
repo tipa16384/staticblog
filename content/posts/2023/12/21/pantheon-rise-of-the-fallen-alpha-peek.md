@@ -3,42 +3,20 @@ date: '2023-12-21T07:41:59-05:00'
 draft: false
 title: "Pantheon: Rise of the Fallen (alpha peek)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/21/pantheon-rise-of-the-fallen-alpha-peek/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new."
-description: "More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new."
-tags:
+categories:
   - "EverQuest"
   - "Monsters & Memories"
   - "Pantheon: Rise of the Fallen"
   - "Vanguard"
+tags:
   - "Alpha"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-23.38.37-Create-an-illustration-that-resembles-a-crayon-drawing-of-a-scene-in-a-meadow-near-a-tall-cliff-illuminated-by-the-morning-sun.-In-the-meadow-a-woma.png"
 ---
+More Vanguard than EverQuest, Pantheon: Rise of the Fallen tries to strike a balance between old and new.
+<!--more-->
 
 Alpha testers weren't allowed to use in-game footage or screenshots, and so any illustrations here are the fevered imaginings of Dall-E 3 or Midjourney.
 
@@ -64,7 +42,7 @@ The spell/ability book echoes EQ. The character window shows your current experi
 
 Your combat log can be filtered in many ways to ensure you're only seeing the information you care to see. I didn't try to rearrange the UI, but the wiki says it is possible to do some measure of customization here.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/24f93952-f88c-4be3-8f8c-560b1036f148-300x300.webp" title="Grouping at the thug camp" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/24f93952-f88c-4be3-8f8c-560b1036f148-300x300.webp" title="Grouping at the thug camp" classes="center" >}}
 
 **The World**
 
@@ -76,7 +54,7 @@ It is not currently possible to change your bind point (your guild hall), which 
 
 Grouping is very familiar to EQ players. There is a small experience penalty for grouping, more than made up for by faster killing. There does not seem to be any auto coin split or rolling for loot, which is unfortunate. You can make macros for group-friendly actions like assisting the main tank or turning on auto-attack (which is normally bound to the '`' key). All keys can be rebound.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-19-300x226.png" title="Harvesting herbs" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-19-300x226.png" title="Harvesting herbs" classes="center" >}}
 
 **Skills**
 

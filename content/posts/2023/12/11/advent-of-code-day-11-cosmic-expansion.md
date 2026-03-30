@@ -3,42 +3,20 @@ date: '2023-12-11T07:49:29-05:00'
 draft: false
 title: "Advent of Code Day 11 -- Cosmic Expansion"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/11/advent-of-code-day-11-cosmic-expansion/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This is why Santa shouldn't let elves do astrophysics."
-description: "This is why Santa shouldn't let elves do astrophysics."
-tags:
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Cosmology"
   - "Observatory"
   - "Starry Starry Night"
   - "Telescope"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-11-07.29.15-An-elf-showing-a-telescope-to-a-repairman-wearing-a-hardhat-and-a-safety-vest.-The-scene-is-set-under-a-dark-sky-filled-with-stars-and-galaxies.-In-th.png"
 ---
+This is why Santa shouldn't let elves do astrophysics.
+<!--more-->
 
 After yesterday, I was hoping for an easier puzzle, and we got an easier puzzle.
 
@@ -48,7 +26,7 @@ I guess we've given up looking for the mysterious Robo-Elf from yesterday's puzz
 
 Elves and science. They just don't mix. But you humor the elf and go along with his calculations. He hands you a star map with all the galaxies of interest arranged in a grid, and he wants you to calculate the [Manhattan distance](https://en.wikipedia.org/wiki/Taxicab_geometry) between every pair of galaxies, and then sum them up. *But*, every empty row or column in the path between the two galaxies *doubles* the normal measurement. In part two, the distance is a *million* times longer. (This is the only difference between parts 1 and 2.)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-12-1024x643.png" title="Midjourney" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-12-1024x643.png" title="Midjourney" classes="center" >}}
 
 Reading and processing the grid:
 

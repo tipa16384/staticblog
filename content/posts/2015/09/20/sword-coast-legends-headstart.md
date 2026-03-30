@@ -3,40 +3,17 @@ date: '2015-09-20T15:11:39-05:00'
 draft: false
 title: "Sword Coast Legends Headstart"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/20/sword-coast-legends-headstart/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Hey! First quest written in the \"DM Mode\" of Sword Coast Legends!..."
+categories:
   - "MMORPG"
   - "Sword Coast Legends"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/1-SwordCoast-2015-09-20-12-26-44-85.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/1-SwordCoast-2015-09-20-12-26-44-85.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-SwordCoast-2015-09-20-12-26-44-85.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-SwordCoast-2015-09-20-12-26-44-85.jpg"
 ---
+Hey! First quest written in the "DM Mode" of Sword Coast Legends!...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-SwordCoast-2015-09-20-12-26-44-85.jpg" title="My first quest!" class="align-center" >}}
+
 
 Hey! First quest written in the "DM Mode" of Sword Coast Legends!
 
@@ -54,7 +31,7 @@ One thing I could not do it make a plot that carried through the dungeon. I also
 
 There are different modes -- you can have kill quests, collection quests, boss quests -- but once you set the parameters, there's a random dungeon waiting for you, and it is what it is.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/SwordCoast-2015-09-20-12-40-13-58.jpg" title="At the end" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/SwordCoast-2015-09-20-12-40-13-58.jpg" title="At the end" classes="center" >}}
 
 Playing through, I took my level 1 paladin and three level 2-3 NPC companions and started through. It's a very tactical game, and even "easy" mode is no walk in the park. Just letting the NPCs choose their own attacks tends to let everyone die fairly quickly. Pausing is incredibly important.
 

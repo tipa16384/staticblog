@@ -3,50 +3,27 @@ date: '2009-10-08T07:02:12-05:00'
 draft: false
 title: "Daily Blogroll 10/8: Inappropriate Birth Metaphor edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/08/daily-blogroll-108-inappropriate-birth-metaphor-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Awwww, over-protective mommy ship takes cute baby alt-ship out for the first time! Yes, I've joined the ranks of EVE pilots with two accounts; the..."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "EVE Online"
   - "Fallen Earth"
   - "MMORPG"
   - "Shards of Dalaya"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-10-04-21-34-16-87.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-10-04-21-34-16-87.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-10-04-21-34-16-87.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-10-04-21-34-16-87.jpg"
 ---
+Awwww, over-protective mommy ship takes cute baby alt-ship out for the first time! Yes, I've joined the ranks of EVE pilots with two accounts; the...
+<!--more-->
 
-![Baby spaceship takes its first flight!](https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-10-04-21-34-16-87.jpg "Baby spaceship takes its first flight!")
+
 
 Awwww, over-protective mommy ship takes cute baby alt-ship out for the first time! Yes, I've joined the ranks of EVE pilots with two accounts; the lure of EVE's Power of 2 promotion and the savings in time by having a second account for salvaging, hauling, and extra drones was just too much to ignore.
 
 If you think THAT picture is just too twee, check THIS one out.
 
-![What your doctor saw the day you were born. If you were a spaceship.](https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-10-04-21-16-47-43.jpg "What your doctor saw the day you were born. If you were a spaceship.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-10-04-21-16-47-43.jpg" title="What your doctor saw the day you were born. If you were a spaceship." classes="center" >}}
 
 So there you have it. Another alt is born.
 

@@ -3,43 +3,22 @@ date: '2010-04-26T23:48:10-05:00'
 draft: false
 title: "A first look at Dragon Oath: All kung fu, all the time"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/26/a-first-look-at-dragon-oath-all-kung-fu-all-the-time/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/Game-2010-04-26-21-38-58-89-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/Game-2010-04-26-21-38-58-89-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/Game-2010-04-26-21-38-58-89-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/Game-2010-04-26-21-38-58-89-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/Game-2010-04-26-21-38-58-89-480x384.jpg "Tipa in Dragon Oath")](https://chasingdings.com/wp-content/uploads/2010/04/Game-2010-04-26-21-38-58-89.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/04/Game-2010-04-26-21-38-58-89.jpg)
 
 There's dozens of kung fu-based MMOs out there; I think Aeria Games publishes at least three. They aren't hard to find, but the best and most popular of them has just come to the States last year, and that's Dragon Oath, the WoW of Chinese kung fu MMOs.
 
-I came across Dragon Oath during [my series on IP-based MMOs](https://chasingdings.com/index.php/2010/04/16/ip-based-mmos-part-2-of-5/). The game is based on an epic "wuxia" novel, Tian Long Ba Bu, serialized over four years in newspapers starting in 1963. With a cast of hundreds and a complexity that could only be appreciated by a Robert Jordan fan, TLBB sparked a string of over-the-top kung fu movies, television series and so on. As an IP-based game, they have a tiger by the tail. Dragon Oath has over 75 million players the world over. Granted, it's a free to play, so who knows how much yuan it's pulling in compared to WoW, but it's no slouch.
+I came across Dragon Oath during [my series on IP-based MMOs](https://tipa16384.github.io/wkblog/index.php/2010/04/16/ip-based-mmos-part-2-of-5/). The game is based on an epic "wuxia" novel, Tian Long Ba Bu, serialized over four years in newspapers starting in 1963. With a cast of hundreds and a complexity that could only be appreciated by a Robert Jordan fan, TLBB sparked a string of over-the-top kung fu movies, television series and so on. As an IP-based game, they have a tiger by the tail. Dragon Oath has over 75 million players the world over. Granted, it's a free to play, so who knows how much yuan it's pulling in compared to WoW, but it's no slouch.
 
 **Character Creation**
 

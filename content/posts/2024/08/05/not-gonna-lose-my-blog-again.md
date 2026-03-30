@@ -3,42 +3,20 @@ date: '2024-08-05T08:29:00-05:00'
 draft: false
 title: "Not Gonna Lose My Blog: Backups Saved Me Once and Will Save Me Again"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/05/not-gonna-lose-my-blog-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I lost my blog. Backups saved me. Now I'm taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive."
-description: "I lost my blog. Backups saved me. Now I'm taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Real Life"
+tags:
   - "3-2-1 Strategy"
   - "Backups"
   - "West Karana"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/3-2-1-Backup-Rule.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/3-2-1-Backup-Rule.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/3-2-1-Backup-Rule.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/3-2-1-Backup-Rule.png"
 ---
+I lost my blog. Backups saved me. Now I'm taking it to the next level by implementing the 3-2-1 backup strategy with rclone and OneDrive.
+<!--more-->
 
 A few years back, I let my blog's domain name expire. And my blog was gone. Ten years of posts; terrible ones in 2006, but over the years, I learned how to write -- a little. Learned how to get my ideas out on the page -- somewhat. It's a journey.
 
@@ -54,7 +32,7 @@ Anyway, I started from scratch on this blog. Eventually, the web developers in t
 
 The new Wordpress had changed their format since I'd made those old backups I found in my e-mail, but I wrote a Python program to read it all in, change the format, and write it all out again. I stood up a temporary copy of West Karana on an EC2 instance, then took the content I'd made here on Chasing Dings, folded that in, exported it all using the Wordpress tools, imported it here, uploaded the images and I WAS BACK IN BUSINESS. All my posts, good or bad, back.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-16-1024x585.png" title="I'm not sure what's going here but I burned down a forest to get it rendered" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-16-1024x585.png" title="I'm not sure what's going here but I burned down a forest to get it rendered" classes="center" >}}
 
 A couple of days ago I was congratulating myself, once again, on having backed up all the WK stuff, when it occurred to me that that backup was all I had. I could lose the Chasing Dings stuff, everything I'd written here since the start of the pandemic. I got my blog to export all its data so I'd have it locally, just as I'd done with West Karana.
 
@@ -68,7 +46,7 @@ I don't trust Amazon for similar reasons. I do use AWS, but I have to, for work,
 
 So could Microsoft, of course, but I poked around and it doesn't seem like that's the kind of thing they do, so... I went with them. I went with the 1 terabyte plan, and that comes with the Office Cloud 365 apps -- Outlook, Excel, Powerpoint and Word. I haven't installed them, yet, but it's nice to know I can move to them if I like. Outlook would allow me to unload my e-mail from GMail, bringing it locally, and able to be backed up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-17-1024x213.png" title="Verbose logging of my backup software running" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-17-1024x213.png" title="Verbose logging of my backup software running" classes="center" >}}
 
 I chose for my backup software [rclone](https://rclone.org/). It's widely used, it's cross-platform, and it is scriptable. It doesn't come with a UI, but I think some are available. Having it be scriptable was important to me, though. Now I can just run my backup script and everything important on my computer gets sent to the cloud.
 

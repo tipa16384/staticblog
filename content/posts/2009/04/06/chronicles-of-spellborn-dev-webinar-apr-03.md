@@ -3,41 +3,19 @@ date: '2009-04-06T07:09:42-05:00'
 draft: false
 title: "Chronicles of Spellborn Dev Webinar, Apr 03"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/06/chronicles-of-spellborn-dev-webinar-apr-03/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Friday's dev \"Webinar\" was beset by a number of technical problems -- for the first half hour, all I could hear was the software repeating..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Webinar"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/untitled-6.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/untitled-6.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/untitled-6.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/untitled-6.jpg"
 ---
+Friday's dev "Webinar" was beset by a number of technical problems -- for the first half hour, all I could hear was the software repeating...
+<!--more-->
 
-![untitled-6](https://chasingdings.com/wp-content/uploads/2009/04/untitled-6.jpg "untitled-6")
+
 
 Friday's dev "Webinar" was beset by a number of technical problems -- for the first half hour, all I could hear was the software repeating in a pleasant voice that the organizers hadn't yet joined the webinar, though I could see them moving things around on the screen. After two restarts, I finally was able to hear what was going on.
 

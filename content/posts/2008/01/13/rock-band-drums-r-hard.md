@@ -3,39 +3,16 @@ date: '2008-01-13T11:17:49-05:00'
 draft: false
 title: "Rock Band: Drums R Hard"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/13/rock-band-drums-r-hard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yeah, i know the song isn't THAT hard, and Stone Temple Pilots' \"Vasoline\" in the same set was a lot harder, and this is mostly..."
+categories:
   - "Rock Band"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/stp60927.JPG"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/stp60927.JPG"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/stp60927.JPG"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/stp60927.JPG"
 ---
+Yeah, i know the song isn't THAT hard, and Stone Temple Pilots' "Vasoline" in the same set was a lot harder, and this is mostly...
+<!--more-->
 
-![stp60927.JPG](https://chasingdings.com/wp-content/uploads/2008/01/stp60927.JPG)
+
 
 Yeah, i know the song isn't THAT hard, and Stone Temple Pilots' "Vasoline" in the same set was a lot harder, and this is mostly an endurance test with only a couple of "gotchas", but still, this beats my previous solo score on this song by over a hundred thousand points and so... now that I'm going into the Berlin set list with some truly tricky songs therein, thought I'd mark my accomplishment :) I'm learning how to play these things! On Hard!
 

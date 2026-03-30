@@ -3,47 +3,26 @@ date: '2010-05-20T06:11:52-05:00'
 draft: false
 title: "Could Red Dead Redemption lead to an Old West MMO?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/20/could-red-dead-redemption-lead-to-an-old-west-mmo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/reddeadredemption-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/reddeadredemption-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/reddeadredemption-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/reddeadredemption-480x270.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/reddeadredemption-480x270.jpg "Red Dead Redemption")](https://chasingdings.com/wp-content/uploads/2010/05/reddeadredemption.jpg)
+[
 
-.bbpBox14290030752 {background:url(http://a1.twimg.com/profile_background_images/14251900/twitter_bkgd.jpg) #8493cb;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block} Only got an hour or so into Red Dead Redemption last night, but so far I'm liking it. Now I want @[tipadaknife](http://twitter.com/tipadaknife)'s Gunsmoke MMO, though![less than a minute ago](http://twitter.com/pasmith/status/14290030752) via [Seesmic Web](http://seesmic.com/app)[![](http://a1.twimg.com/profile_images/597263332/twitter_pic_normal.jpg)](http://twitter.com/pasmith)**[Peter Smith](http://twitter.com/pasmith)**
+](https://tipa16384.github.io/wkblog/uploads/2010/05/reddeadredemption.jpg)
+
+.bbpBox14290030752 {background:url(http://a1.twimg.com/profile_background_images/14251900/twitter_bkgd.jpg) #8493cb;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block} Only got an hour or so into Red Dead Redemption last night, but so far I'm liking it. Now I want @[tipadaknife](http://twitter.com/tipadaknife)'s Gunsmoke MMO, though![less than a minute ago](http://twitter.com/pasmith/status/14290030752) via [Seesmic Web](http://seesmic.com/app)[{{< image src="http://a1.twimg.com/profile_images/597263332/twitter_pic_normal.jpg" classes="center" >}}](http://twitter.com/pasmith)**[Peter Smith](http://twitter.com/pasmith)**
 
 pasmith
 
 I couldn't agree more, Pete.
 
-A couple of weeks back, I wondered if the world was ready for [a MMO based on a fairly realistic version of the Old West](https://chasingdings.com/index.php/2010/05/04/ips-that-should-be-mmos-1-gunsmoke/), specifically [Gunsmoke](http://www.imdb.com/title/tt0047736/), an old TV series that ran for twenty years from the fifties through the seventies.
+A couple of weeks back, I wondered if the world was ready for [a MMO based on a fairly realistic version of the Old West](https://tipa16384.github.io/wkblog/index.php/2010/05/04/ips-that-should-be-mmos-1-gunsmoke/), specifically [Gunsmoke](http://www.imdb.com/title/tt0047736/), an old TV series that ran for twenty years from the fifties through the seventies.
 
 People wondered how such a game -- such a brown, drab game -- could possibly interest modern players who demand flashy, cartoony graphics and bright, vibrant colors in their games. I thought that the pull of the setting, especially if the pioneer lifestyle were heavily emphasized, could bring people in.
 

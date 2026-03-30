@@ -3,40 +3,18 @@ date: '2025-06-02T08:45:46-05:00'
 draft: false
 title: "GW2: She's Found the Altar to Balthazar"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/06/02/gw2-shes-found-the-altar-to-balthazar/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "He's found the saucer news. Don't report this. The end of Path of Fire was a thing that happened."
-description: "He's found the saucer news. Don't report this. The end of Path of Fire was a thing that happened."
-tags:
+categories:
   - "Guild Wars"
   - "MMORPG"
+tags:
   - "Mounts"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/1-gw033.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/06/1-gw033.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-gw033.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-gw033.jpg"
 ---
+He's found the saucer news. Don't report this. The end of Path of Fire was a thing that happened.
+<!--more-->
 
 Path of Fire isn't the *first* storyline I completed. We did Secrets of the Obscure to the end, and we're up to date on Janthir Wilds. But it's the first *in a while*, especially for content so old.
 
@@ -58,7 +36,7 @@ Eventually he died. Krackle-and-pop and Aurene got supercharged on fallen god en
 
 Epilogue: talk to a bunch of NPCs, ruin someone's day/life, get attacked by Kackedlips.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/1-gw036-1024x640.jpg" title="Rent-a-Griffon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/1-gw036-1024x640.jpg" title="Rent-a-Griffon" classes="center" >}}
 
 I started the expansion intending to follow up the Skyscale quest with all the other mounts. The capstone mount of the expansion is the rare mount of the Sunspears, the Griffon. To get to this remote sanctuary, you have to find hidden clues, talk to random people, and then use your Springer, Jackal and Skimmer to follow the very dangerous path to the ruins of the Sunspear sanctuary.
 

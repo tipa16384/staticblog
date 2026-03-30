@@ -3,41 +3,19 @@ date: '2025-06-11T08:00:00-05:00'
 draft: false
 title: "Dark Quest 4: More Hero Quest than ever?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/06/11/dark-quest-4-more-hero-quest-than-ever/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Can Dark Quest 4 satisfy your insatiable appetite for Hero Quest, except on a computer?"
-description: "Can Dark Quest 4 satisfy your insatiable appetite for Hero Quest, except on a computer?"
-tags:
+categories:
   - "HeroQuest"
   - "Steam Games"
   - "Tabletop Games"
   - "Turn-Based Rpgs"
+tags:
   - "Dark Quest"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/1-20250610202611_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/06/1-20250610202611_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-20250610202611_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-20250610202611_1.jpg"
 ---
+Can Dark Quest 4 satisfy your insatiable appetite for Hero Quest, except on a computer?
+<!--more-->
 
 I admit that I'd never heard of the Dark Quest series before, which is bizarre, as I am a huge Hero Quest fan. We're even about to start a new campaign in real life. So... when I finally did hear about it, I wishlisted it immediately. The demo dropped today, and I dropped everything to play it.
 
@@ -45,13 +23,13 @@ If you've never heard of Hero Quest, here's the skinny: It's a party-based table
 
 I was actually a little shocked to find out that there is no official digital version more recent than the 1991 HeroQuest game -- which, admittedly, is an excellent adaptation of the base game's campaign. ([And you can play it right now, for free](https://playclassic.games/games/role-playing-dos-games-online/play-heroquest-online/)).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/image-4-300x200.png" title="Your granddad's HeroQuest" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/image-4-300x200.png" title="Your granddad's HeroQuest" classes="center" >}}
 
 Into that void comes Dark Quest. Each of the games in the series is similar -- you choose a party of three adventurers, and take them on a turn-based adventure full of traps, encounters and mysteries. I haven't played any of those, though as I'm writing this, Dark Quest I and II are dirt-cheap.
 
 Earlier games in the series seemed to rely on procedurally generated dungeons in the vein of Rogue and NetHack. This fourth version delivers a campaign of handcrafted dungeons, with Steam Workshop integration for many more, including those you make yourself. It supports only three characters instead of four -- the elf has apparently returned to her forest with trees of silver, though the demo promises the full game will allow choosing from many more characters than just the starting barbarian, wizard and dwarf.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/20250610205016_1-1024x624.jpg" title="Dark Quest 4" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/20250610205016_1-1024x624.jpg" title="Dark Quest 4" classes="center" >}}
 
 I played through all three of the demo scenarios a couple of times, and then I did a couple scenarios in the 1991 Hero Quest game to compare.
 
@@ -63,7 +41,7 @@ Each character has their own stats; the dwarf has a better chance of not being a
 
 My standard approach to all the three missions in the demo was: let the dwarf explore, keep the wizard well in back. Barbarian to open doors. Dwarf sets exploding barrel of fun while everyone hides. Wizard explodes enemies from out of sight, monsters get exploded, finally reach barbarian, who is in a place where he can't be surrounded. Dwarf helps. Wizard keeps exploding stuff. When this worked, I could get through even the hardest scenario without taking much damage.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/20250610210140_1-1024x624.jpg" title="Watch out for the Skull of Fate!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/20250610210140_1-1024x624.jpg" title="Watch out for the Skull of Fate!" classes="center" >}}
 
 The full game will allow up to three players, which could be fun. The scenarios in the demo only take a few minutes each, which is fair because, first time through, before you know where everything is, health isn't going to last. There are no healing spells and the health potions only heal 1-2 health each, and each character can only carry one potion. The characters don't appear to level up or gain stats. This tracks with Hero Quest, which hid all character progression behind equipment.
 

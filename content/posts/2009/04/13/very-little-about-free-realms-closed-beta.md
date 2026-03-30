@@ -3,41 +3,21 @@ date: '2009-04-13T06:50:46-05:00'
 draft: false
 title: "Very little about Free Realms closed beta"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/13/very-little-about-free-realms-closed-beta/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Free Realms"
   - "MMORPG"
+tags:
   - "Closed Beta"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/54755-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/54755-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/54755-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/54755-480x300.jpg"
 ---
+[...
+<!--more-->
 
-[![54755](https://chasingdings.com/wp-content/uploads/2009/04/54755-480x300.jpg "54755")](https://chasingdings.com/wp-content/uploads/2009/04/54755.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/04/54755.jpg)
 
 The NDA prevents me from going into any detail at all about Free Realms, but [Massively](http://www.massively.com/) has more [Free Realms info](http://www.massively.com/category/free-realms) than you can read, so I don't really have to provide detail. I do have lots of screenies and reactions saved up, though.
 

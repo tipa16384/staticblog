@@ -3,38 +3,15 @@ date: '2010-03-30T23:52:12-05:00'
 draft: false
 title: "Star Trek Online: Trading Spaces"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/30/star-trek-online-trading-spaces/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Tuesday is typically not a gaming night for me; Tuesday is American Idol night! So you'll find me planted in front of the television with..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-30-19-41-25-45.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-30-19-41-25-45.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-30-19-41-25-45.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-30-19-41-25-45.jpg"
 ---
+Tuesday is typically not a gaming night for me; Tuesday is American Idol night! So you'll find me planted in front of the television with...
+<!--more-->
 
 Tuesday is typically not a gaming night for me; Tuesday is American Idol night! So you'll find me planted in front of the television with a cat, a bowl of pistachios and a glass of Diet Coke, rooting for Crystal Bowersox. This year, anyway.
 
@@ -44,13 +21,11 @@ Definitely! I even offered to send him the costume file so that he could make an
 
 @Longasc sent me a copy of his main, I sent him two copies of mine, one in her off-duty outfit, and the other in a Classic Trek science officer's uniform. Later, @Arkenor of [Ark's Ark](http://www.arksark.org/blog/) volunteered to send his character's data around for any random transporter room to capture, and he was duly added to crews.
 
-![](https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-30-19-41-25-45.jpg)
-
 While still an ensign, William T. Longasc was involved in [a mysterious transporter accident](http://memory-alpha.org/en/wiki/Talk:Thomas_Riker) that cloned him. They went on to have separate careers. William Longasc went on to become a rear admiral in command of a number of ships including an immense star cruiser. "Tom" Longasc's career took an alternate path. He hung around starbases, doing odd jobs and volunteering for dangerous away missions until he was sent to serve with me on the USS Monterey, the starship where the dregs, rejects and weirdos of Starfleet inevitably land.
 
 Longasc-Prime wants me to point out that his transporter clone is very hard at work, and is eager to please.
 
-![](https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-30-19-45-55-24.jpg "Super friends from the Mirror Universe")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-30-19-45-55-24.jpg" title="Super friends from the Mirror Universe" classes="center" >}}
 
 With all the coming and going to and from the Mirror Universe, that alternate reality where the Terran Federation is evil, it was inevitable that alternate selves would occasionally meet. Tipa met her mirror universe twin on an away mission. When Mirror-Tipa saw that Tipa-Prime was in command of a starship while she was stuck in a dead-end job leaving portions of important data scattered on a half-dozen computers in every mining operation she visited, she turned on her mirror-friends, killed them all, and signed up with Starfleet. She was duly assigned to Longasc's crew.
 
@@ -66,7 +41,7 @@ I took a look at her computer, read the data displayed there.
 
 "Told you," sighed Mirror Tipa.
 
-![](https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-30-21-11-58-07.jpg "Arkenor gets small")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-30-21-11-58-07.jpg" title="Arkenor gets small" classes="center" >}}
 
 Arkenor's data came out of the transporter as a very small being, almost like a creature out of Andorian myth. "He's small, but strong!" said @Arkenor. "He could carry a cargo container by himself!"
 

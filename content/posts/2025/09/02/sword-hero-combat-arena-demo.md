@@ -3,45 +3,23 @@ date: '2025-09-02T08:45:02-05:00'
 draft: false
 title: "Sword Hero: Combat Arena Demo"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/09/02/sword-hero-combat-arena-demo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This solo fantasy RPG asks the question, \"What if combat was super dangerous?\""
-description: "This solo fantasy RPG asks the question, \"What if combat was super dangerous?\""
-tags:
+categories:
   - "Steam Games"
   - "Sword Hero"
+tags:
   - "Demo"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/swordhero.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/09/swordhero.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/swordhero.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/swordhero.png"
 ---
+This solo fantasy RPG asks the question, "What if combat was super dangerous?"
+<!--more-->
 
 I'm not sure how I was invited to test out the Sword Hero Combat Arena demo yesterday. It's not the kind of game I usually play.
 
 [Sword Hero](https://www.swordherogame.com/), or at least the combat arena part of it, is a low-poly 3D game set in a ring world that was settled by humans just before their civilization collapsed. Now the remnants struggle to survive in an alien ecosystem which nonetheless would look familiar to anyone who has ever read or watched Game of Thrones. Low magic, deadly combat.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-3-1024x692.png" title="Character selection" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-3-1024x692.png" title="Character selection" classes="center" >}}
 
 The game renders as a low-poly dark world that reminds me more than a little of the 3D dungeon crawlers of the PS2 era. The sound is decent, the few environments we get to see (an anteroom, a shop, the small fighting pit) are detailed. The game nails the sort of Kenshi-level aesthetic it's trying for.
 
@@ -49,7 +27,7 @@ Even though the focus of the demo is on the combat, the developer included a lit
 
 Three classes are available in the combat demo, of the dozen or more planned. Karak the Warrior has the most health and fights with a sword. Silvio the Ranger has about 2/3 the health of the warrior and fights with a bow and axe. I haven't tried Gylbard the Scholar yet, but I'm betting he wields magic. (Female characters will be available in the full game, I'm told).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/20250902080945_1-1024x429.jpg" title="Sylvio was doing well, until he backed into the fire" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/20250902080945_1-1024x429.jpg" title="Sylvio was doing well, until he backed into the fire" classes="center" >}}
 
 The starting room contains books hinting at the history and current state of the wider world, a rusty sword and a spare healing herb. You'll want to grab all those and sell the books and rusty sword to the merchant / arena master.
 

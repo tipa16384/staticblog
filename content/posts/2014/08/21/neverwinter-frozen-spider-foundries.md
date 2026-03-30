@@ -3,41 +3,19 @@ date: '2014-08-21T22:00:11-05:00'
 draft: false
 title: "Neverwinter: Frozen Spider Foundries!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/08/21/neverwinter-frozen-spider-foundries/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Back to the Foundry once more. Kasul and I had intended to start reviewing the Cult of the Dragon foundry contest entries tonight, but the..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh5.googleusercontent.com/-3hoau4TwQjM/U_SATAmaSeI/AAAAAAAAznU/Ki3RdbUzOhE/w787-h630-no/GameClient%2B2014-08-20%2B00-00-37-93.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-3hoau4TwQjM/U_SATAmaSeI/AAAAAAAAznU/Ki3RdbUzOhE/w787-h630-no/GameClient%2B2014-08-20%2B00-00-37-93.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-3hoau4TwQjM/U_SATAmaSeI/AAAAAAAAznU/Ki3RdbUzOhE/w787-h630-no/GameClient%2B2014-08-20%2B00-00-37-93.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-3hoau4TwQjM/U_SATAmaSeI/AAAAAAAAznU/Ki3RdbUzOhE/w787-h630-no/GameClient%2B2014-08-20%2B00-00-37-93.jpg"
 ---
+Back to the Foundry once more. Kasul and I had intended to start reviewing the Cult of the Dragon foundry contest entries tonight, but the...
+<!--more-->
 
-![Frozen Folly](https://lh5.googleusercontent.com/-3hoau4TwQjM/U_SATAmaSeI/AAAAAAAAznU/Ki3RdbUzOhE/w787-h630-no/GameClient%2B2014-08-20%2B00-00-37-93.jpg)
+
 
 Back to the Foundry once more. Kasul and I had intended to start reviewing the Cult of the Dragon foundry contest entries tonight, but the start date for those has been moved to next week. The new module and the inevitable Foundry issues made it impossible for many authors to get their quests into shape before the deadline of yesterday passed. For instance, using the words "to pass" anywhere in your quest flags it as profane.
 

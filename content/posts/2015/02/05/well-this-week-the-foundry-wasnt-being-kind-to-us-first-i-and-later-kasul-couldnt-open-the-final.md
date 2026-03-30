@@ -3,39 +3,15 @@ date: '2015-02-05T05:19:03-05:00'
 draft: false
 title: "Weekly Foundry Reviews -- February 5, 2015"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/02/05/well-this-week-the-foundry-wasnt-being-kind-to-us-first-i-and-later-kasul-couldnt-open-the-final/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, this week the Foundry wasn’t being kind to us. First I, and later Kasul, couldn’t open the final chest for two of the foundries,..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Well, this week the Foundry wasn’t being kind to us. First I, and later Kasul, couldn’t open the final chest for two of the foundries,...
+<!--more-->
 
 Well, this week the Foundry wasn’t being kind to us. First I, and later Kasul, couldn’t open the final chest for two of the foundries, so we couldn’t both leave reviews. And one of those foundries refused to finish at all! And another foundry, previously featured -- twice! -- had clearly been broken by some foundry change and couldn’t be finished.
 

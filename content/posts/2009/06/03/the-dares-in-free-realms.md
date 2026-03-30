@@ -3,42 +3,20 @@ date: '2009-06-03T06:54:45-05:00'
 draft: false
 title: "\"The Dares\" in Free Realms"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/03/the-dares-in-free-realms/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Jamming and dancing after the show. Note the concert tees, put on only AFTER the show, as according to the Rules of Live Concerts..."
+categories:
   - "Free Realms"
   - "MMORPG"
+tags:
   - "E3"
   - "The Dares"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-622009-80051-pm.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-622009-80051-pm.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-622009-80051-pm.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/fullscreen-capture-622009-80051-pm.jpg"
 ---
+Jamming and dancing after the show. Note the concert tees, put on only AFTER the show, as according to the Rules of Live Concerts...
+<!--more-->
 
-![Getting the jams out after the show](https://chasingdings.com/wp-content/uploads/2009/06/fullscreen-capture-622009-80051-pm.jpg "Getting the jams out after the show")
+
 
 *Jamming and dancing after the show. Note the concert tees, put on only AFTER the show, as according to the Rules of Live Concerts*
 

@@ -3,40 +3,17 @@ date: '2010-04-30T06:27:46-05:00'
 draft: false
 title: "Wizard101: Pet games coming to an iPhone near you?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/30/wizard101-pet-games-coming-to-an-iphone-near-you/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "First there was Wizard101, a MMO unlike any other that played in a unique fashion but lived happily on your PC. There were minigames, variants..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg"
 ---
+First there was Wizard101, a MMO unlike any other that played in a unique fashion but lived happily on your PC. There were minigames, variants...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-59-35-43.jpg "Cannon Game")
+
 
 First there was Wizard101, a MMO unlike any other that played in a unique fashion but lived happily on your PC. There were minigames, variants on popular Flash games widely available, that conferred some in-game benefits -- they would refill your mana potions, let you win gold and some magic items.
 
@@ -46,12 +23,12 @@ Now on the Test realm are the pet games. You can breed two adult pets to make a 
 
 Past that are the new, pet-focused mini games. There's a Simon memory game, we're you're given a short tune and asked to repeat it; a game where you catch food falling from the sky for points; a Pac Man clone set in a 3D, 1st person perspective hedge maze; a cannon game where you shoot your pet at randomly placed targets, and the Pet Derby, a kart racing game for pets.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-58-05-64-480x360.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-58-05-64-480x360.jpg" title="Click to enlarge" classes="center" >}}
 
 Winning any of these games gives your pet a small increase to their stats, which can be improved further by feeding them snacks bought at the pet food vendor. It will take playing the minigames hundreds of times to evolve a pet to its epic status. It will take 1500 Arena tickets (won via arena dueling or the pet derby) to buy a baby version of the best PvP pet in the game, the Magma Colossus (shown above).
 
 Simple games that need to played again and again in order to improve your pet? By a company which has already taken one of their minigames onto the phone? If the pet expansion doesn't sound tailor-made for phone versions, then I don't know what does.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-29-43-37-480x360.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/WizardGraphicalClient-2010-04-29-20-29-43-37-480x360.jpg" title="Click to enlarge" classes="center" >}}
 
 My favorite game? The pet derby, by far. But then, I have always loved Super Mario Kart.

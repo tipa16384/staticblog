@@ -3,40 +3,17 @@ date: '2010-02-02T08:01:16-05:00'
 draft: false
 title: "Star Trek Online: My Crew is Revolting."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/02/star-trek-online-my-crew-is-revolting/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Stardate 2010.02.01, U.S.S. Newton, on patrol in the Arucanis Arm off Regulus Sector, Captain Tipa D'zoph in command...."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-01-31-10-46-03-97.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-01-31-10-46-03-97.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-01-31-10-46-03-97.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-01-31-10-46-03-97.jpg"
 ---
+Stardate 2010.02.01, U.S.S. Newton, on patrol in the Arucanis Arm off Regulus Sector, Captain Tipa D'zoph in command....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-01-31-10-46-03-97.jpg "A small disagreement in mission objectives leads to a tense situation")
+
 
 Stardate 2010.02.01, U.S.S. Newton, on patrol in the Arucanis Arm off Regulus Sector, Captain Tipa D'zoph in command.
 
@@ -48,7 +25,7 @@ Due to damage sustained in orbit, the Klingon's cloaking device left behind a pl
 
 One thing has become very clear: the Klingons have been building a substantial presence in the Arm. They or their Gorn confederates have been found in nearly every system we have explored.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-01-30-14-12-24-63.jpg "Andorian Cheerleading Squad")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-01-30-14-12-24-63.jpg" title="Andorian Cheerleading Squad" classes="center" >}}
 
 Lieutenant Rank 10 at the moment, just a few bars from Rank 11. That gets me the promotion to Lt. Commander and a new ship. I was hoping to reach that rank this weekend, but Star Trek Online's persistent inability to stay up for more than a few hours made that impossible.
 
@@ -80,7 +57,7 @@ After all the open groups in the (newbie) Sirius Sector, I'm amazed at how few t
 
 If I can FIND the damn place. I've BEEN to the exploded remains of Romulus. You think you'd HAVE to go through the Neutral Zone to get to Romulus, wouldn't you?
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-01-22-03-34-96.jpg "Enemy Signal mission in Regulus. We actually survived this fight.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-01-22-03-34-96.jpg" title="Enemy Signal mission in Regulus. We actually survived this fight." classes="center" >}}
 
 Tonight, though -- Starfleet has a huge list of places for me to explore. Maybe one of those missions will earn me a promotion and a NEW SHIP.
 

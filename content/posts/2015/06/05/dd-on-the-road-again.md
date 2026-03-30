@@ -3,40 +3,17 @@ date: '2015-06-05T20:52:42-05:00'
 draft: false
 title: "D&D: On the road again!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/05/dd-on-the-road-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Since last I wrote of our adventures, we nearly met death in a dungeon guarded by a half dragon and a roper... which was pretty..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/Fullscreen-capture-652015-74149-PM-480x402.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/Fullscreen-capture-652015-74149-PM-480x402.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/Fullscreen-capture-652015-74149-PM-480x402.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/Fullscreen-capture-652015-74149-PM-480x402.jpg"
 ---
+Since last I wrote of our adventures, we nearly met death in a dungeon guarded by a half dragon and a roper... which was pretty...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/Fullscreen-capture-652015-74149-PM-480x402.jpg" title="Trouble at the Inn" class="align-center" >}}
+
 
 Since last I wrote of our adventures, we nearly met death in a dungeon guarded by a half dragon and a roper... which was pretty exciting. It was there that I learned that even immobile creatures will move to prevent Cloud of Daggers from hitting them. It was there I first learned that ropers -- creatures that mimic stalagmites -- can move, actually.
 

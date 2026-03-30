@@ -3,37 +3,12 @@ date: '2007-08-06T11:30:33-05:00'
 draft: false
 title: "Schools that make you smarter? Impossible!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/08/06/schools-that-make-you-smarter-impossible/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I raised two kids, and I don't think either one of them got much out of school. My son, in particular, was shuffled through a..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I raised two kids, and I don't think either one of them got much out of school. My son, in particular, was shuffled through a...
+<!--more-->
 
 I raised two kids, and I don't think either one of them got much out of school. My son, in particular, was shuffled through a 'special ed' system far more concerned about teaching kids to behave well in school than in learning to think and solve problems. I talked to both my kids' teachers about the yawning gaps in their general knowledge, but the teachers only wanted to emphasize how well-behaved (or not) they were in class.
 

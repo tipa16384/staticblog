@@ -3,45 +3,21 @@ date: '2009-02-17T07:47:13-05:00'
 draft: false
 title: "Bringing Balance to Wizard 101"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/17/bringing-balance-to-wizard-101/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Agh, I have SO MUCH STUFF TO TALK ABOUT! I won't even get a chance to write about EQ2 today :/..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Dragonspyre"
   - "Lord Nightshade"
   - "Malistaire"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg"
 ---
+Agh, I have SO MUCH STUFF TO TALK ABOUT! I won't even get a chance to write about EQ2 today :/...
+<!--more-->
 
 Agh, I have SO MUCH STUFF TO TALK ABOUT! I won't even get a chance to write about EQ2 today :/
-
-![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-15-17-47-59-88.jpg "wizardgraphicalclient-2009-02-15-17-47-59-88")
 
 Cool outfit, isn't it? Total trash, aside from the boots which are a marginal upgrade from the Crowns boots I was wearing. The danger of dressing to kill is that it isn't actually that much use in the actual killing. I was being torn apart by Forum mobs before I realized I did not have my fighting clothes on. OOPS.
 
@@ -55,25 +31,25 @@ When she dinged 25, off we went back to Dragonspyre, where the super high level 
 
 She'll be put back in the box after Dragonspyre, but until then, she gives me the extra oomph I need.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-13-21-37-46-74.jpg "wizardgraphicalclient-2009-02-13-21-37-46-74")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-13-21-37-46-74.jpg" title="wizardgraphicalclient-2009-02-13-21-37-46-74" classes="center" >}}
 
 [Thomas](http://thefriendlynecromancer.blogspot.com/) and I had another go at Malistaire Friday night. It was fun, but would have been funner if either Kyle or I had gotten our robes from the guy. He's gonna die again and again until he coughs them up, so he should get with the program, call his tailor, and have them nicely boxed and gift-wrapped next time we see him.
 
 I spent a couple of hours trying to get Lord Nightshade to drop the winged robe for me, but no luck. I did get a couple of Valentine's wands and a pet, so it wasn't a total loss. Here, then, is the latest fashion show, with new pets and wands.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-14-12-33-07-08.jpg "wizardgraphicalclient-2009-02-14-12-33-07-08")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-14-12-33-07-08.jpg" title="wizardgraphicalclient-2009-02-14-12-33-07-08" classes="center" >}}
 
 Life elemental from pet shop in Wizard City, casts a 5 pip damage spell midway between Seraph and Centaur. My current battle pet.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-14-12-32-02-67.jpg "wizardgraphicalclient-2009-02-14-12-32-02-67")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-14-12-32-02-67.jpg" title="wizardgraphicalclient-2009-02-14-12-32-02-67" classes="center" >}}
 
 Storm Beetle and Heartbow Wand. The beetle is a 101 Crown pet which can be bought with the 101 Crowns KingsIsle gave everyone to celebrate their millionth account. The wand was dropped by Lord Nightshade.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-14-12-31-03-89.jpg "wizardgraphicalclient-2009-02-14-12-31-03-89")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-14-12-31-03-89.jpg" title="wizardgraphicalclient-2009-02-14-12-31-03-89" classes="center" >}}
 
 Dark Fairy and Roseate Wand, both also dropped by Lord Nightshade. The Fairy gives the Rank 1 Death spell of the same name.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-14-12-30-34-84.jpg "wizardgraphicalclient-2009-02-14-12-30-34-84")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-14-12-30-34-84.jpg" title="wizardgraphicalclient-2009-02-14-12-30-34-84" classes="center" >}}
 
 Jade Oni and Shockblade of the Hoarder. Jade Oni gives a five pip Balance spell. Oni is from the ring shop in the Atheneum, Shockblade (my current sword) from The Hoarder in the Drake Hatchery.
 

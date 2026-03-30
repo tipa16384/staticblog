@@ -3,38 +3,13 @@ date: '2008-09-08T10:20:32-05:00'
 draft: false
 title: "Spore: Short, short impressions"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/08/spore-short-short-impressions/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'll have a better review up in a day or two when I have played through more of the Galactic Conquest game, but basically, here's..."
+categories:
   - "Other Games"
   - "Spore"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I'll have a better review up in a day or two when I have played through more of the Galactic Conquest game, but basically, here's...
+<!--more-->
 
 I'll have a better review up in a day or two when I have played through more of the Galactic Conquest game, but basically, here's what I thought of it.
 

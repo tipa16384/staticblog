@@ -3,42 +3,20 @@ date: '2008-12-10T09:44:11-05:00'
 draft: false
 title: "New EverQuest hot zones. RMT, and Frostfell missions"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/10/new-everquest-hot-zones-rmt-and-frostfell-missions/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Much thanks to Danshir for reminding me last night that EverQuest has changed its list of hot zones, places that give extra adventure and AA..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Frostfell"
   - "Hot Zones"
   - "RMT"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg"
 ---
+Much thanks to Danshir for reminding me last night that EverQuest has changed its list of hot zones, places that give extra adventure and AA...
+<!--more-->
 
 Much thanks to [Danshir](http://themmoexperience.blogspot.com/) for reminding me last night that EverQuest has changed its list of hot zones, places that give extra adventure and AA experience if you fight there. If leveling is your goal in EverQuest, you want to go to the hot zone best for your level and look for a group. Usually there will be plenty of other people there to group with. SOE usually adds a few new drops (often nice augments) to sweeten the deal, as well.
 
@@ -70,8 +48,6 @@ Wow, no Prophecy of Ro zones. Is it appropriate at this point to ask SOE to remo
 
 We in Nostalgia are at the 65-70 range, so that would bring us to our first Depths of Darkhollow zone. I don't remember the xp there being all that hot before, but perhaps that has changed.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-10-08-05-08-12.jpg "eqgame-2008-12-10-08-05-08-12")
-
 SOE didn't forget about EverQuest when adding their new RMT Item Mall. They mostly have experience potions that don't expire if you happen to die while under the influence, a nice little bonus, considering what a kiss of certain death using the Lessons of the Devoted veteran reward experience buff always seems to be. Since EQ has no appearance slots, and the ability to dye your armor any color you like makes appearance armor more or less moot anyway, EQ instead has expanded the weapon appearance modifiers that they have been offering through Legends of Norrath loot cards for awhile.
 
 If your weapon looks boring, you can change its appearance to something newer and classier. There's no dressing room, and I haven't been to the new Seeds of Destruction zones yet, but it looks like most of the new weapon appearances come from an updated version of Guk. So if you've been aching for a weapon that looks like one of those, but has the stats of your current weapon, you just might be in the market for some SOE RMT gravy.
@@ -80,7 +56,7 @@ I've highlighted the very last item, which is a box of three pieces of armor and
 
 SOE is in a pinch now with Defiant armor. If they stop it from dropping, then new players will be SIGNIFICANTLY underpowered compared to other players. They've just [Monty Haul](http://www.urbandictionary.com/define.php?term=monty%20haul)-ed the level 1-70 portion of EverQuest. Maybe that was their intent.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-10-08-17-17-24.jpg "eqgame-2008-12-10-08-17-17-24")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-10-08-17-17-24.jpg" title="eqgame-2008-12-10-08-17-17-24" classes="center" >}}
 
 This unfortunate gnome here has a bum clockwork on his hands. Seems the Dark Mistletoe giant clan is trying to stop Frostfell -- but you can help. The gnome offers four increasingly-dangerous missions to Great Divide to kill and slay the Dark Mistletoe giants and to wrestle the stolen power source back from their evil leader. The mission text hints that the first three missions can be done solo.
 

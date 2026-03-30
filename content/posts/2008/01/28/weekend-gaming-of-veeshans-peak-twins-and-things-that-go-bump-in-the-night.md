@@ -3,49 +3,24 @@ date: '2008-01-28T09:49:59-05:00'
 draft: false
 title: "Weekend Gaming: Of Veeshan's Peak, Twins, and Things that Go Bump in the Night"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/28/weekend-gaming-of-veeshans-peak-twins-and-things-that-go-bump-in-the-night/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, if you insist upon knowing the truth, I spent the weekend learning to twirl drumsticks. Yes, really. Poring over Youtube videos, dropping sticks onto..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Rock Band"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg"
 ---
+Well, if you insist upon knowing the truth, I spent the weekend learning to twirl drumsticks. Yes, really. Poring over Youtube videos, dropping sticks onto...
+<!--more-->
 
 Well, if you insist upon knowing the truth, I spent the weekend learning to twirl drumsticks. Yes, really. Poring over Youtube videos, dropping sticks onto cats, sending them helicoptering across the room. I can do it, though. I can twirl drumsticks the standard (what some call, boring) way. There's variations so you can do little quick twirls while playing that I have to work on now. And of course, the double twirl is still beyond me. Someday, maybe years from now, it will be as important to know, RIGHT THEN, how to twirl drumsticks, as it was when I taught myself the one-handed card shuffle. Well, actually, that STILL hasn't really been all that useful (which reminds me: must practice one-handed card shuffle.)
-
-![everquest2-2008-01-26-02-12-16-22.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-26-02-12-16-22.jpg)
 
 A friend from EQ1, who now plays on WoW, started a new character on my EQ2 server (dizzying, isn't it.) I met up with her and OMG TWINSSSSSS! Well, I had to quickly do the quest for that spotless white gi so we could be even MORE alike. We tore through Darklight Woods, pulling hundreds of undead in all their throngs until the stupid, lazy named finally showed.
 
 My insatiable hunger for dps had me spending most of the weekend in Solusek's Eye, trying out different AA and weapon selections. The answers were surprising to me -- turns out if you spec correctly, sword and shield is very viable for troubadors, and with my current choice of weapons, and respeccing for maximum benefit to shield arts, was able to get my tanking dps (so attacking mostly from the front) from about 990 to about 1150. Unfortunately, that's not a spec I can use on raids.
 
-![everquest2-2008-01-26-19-02-51-05.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-26-19-02-51-05.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-26-19-02-51-05.jpg" classes="center" >}}
 
 Dera's wondering if she heard a noise...
 
@@ -53,6 +28,6 @@ I was testing out Dera's dps, and heard over channel someone asking for a healer
 
 Someone was working on a quest that in the end, turned everything left alive in HoF non-aggro. So I hatched all the drake eggs and took some screenshots with my new friends :)
 
-![everquest2-2008-01-27-23-47-29-53.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-27-23-47-29-53.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-27-23-47-29-53.jpg" classes="fig-20" >}}
 
 And later on, I soloed the second floor of Veeshan's Peak :P

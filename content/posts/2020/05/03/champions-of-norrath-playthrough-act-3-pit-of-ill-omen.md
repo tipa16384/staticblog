@@ -3,50 +3,28 @@ date: '2020-05-03T14:04:04-05:00'
 draft: false
 title: "Champions of Norrath playthrough, Act 3: Pit of Ill Omen"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/03/champions-of-norrath-playthrough-act-3-pit-of-ill-omen/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This is part three of a four part playthrough of the 2005 PlayStation 2 hit, Champions of Norrath: Realms of EverQuest. All four parts will..."
+categories:
   - "Emulators"
   - "EverQuest"
+tags:
   - "Champions of Norrath"
   - "PS2"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg"
 ---
+This is part three of a four part playthrough of the 2005 PlayStation 2 hit, Champions of Norrath: Realms of EverQuest. All four parts will...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-19-09-25-62-1024x769.jpg" >}}
 
-*This is part three of a four part playthrough of the 2005 PlayStation 2 hit, Champions of Norrath: Realms of EverQuest. All four parts will be [available at this link](https://chasingdings.com/?tag=champions-of-norrath).*
+
+*This is part three of a four part playthrough of the 2005 PlayStation 2 hit, Champions of Norrath: Realms of EverQuest. All four parts will be [available at this link](https://tipa16384.github.io/wkblog/?tag=champions-of-norrath).*
 
 Before we get started, I'm just going to put my notes up here. I've been trying to fit the geography of this game to the known geography of Norrath. Remember, we know what the whole of Norrath looks like, as we see it entire from the moon of Luclin in that expansion. There are no lost continents. This game came out during the time of EverQuest's ninth expansion. Kunark, Velious, and Luclin were old expansions at that point.
 
 - I'm just going to call it the Lake of Ill Omen.- The Pit/Lake of Ill Omen is clearly not underground.- How is the Lake of Ill Omen connected to the Underfoot sea?- Are the portals that much of a mystery? They were all over Faydwer and the Underfoot in this game already.- The Horn of Ill Omen is a textbook McGuffin, but I'll roll with it.- Someone tell her that conch shells actually are found in the water more easily than the land. Also, why does she have knees?- No, it was Solusek Ro, demigod of the Sun, who turned the east coast of Antonica into desert. Not Innoruuk. However, Innoruuk did corrupt the Takish Hiz elves who lived there, so that much is true.- Let's pretend this is Skyshrine, but without the dragons.- Let's pretend this is somewhere in Velious. Maybe the Western Wastes.- If I'm underwater, how come I can't simply swim off of foot high ledges?- His only child is a daughter.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-08-30-39-40-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-08-30-39-40-1024x769.jpg" classes="center" >}}
 
 We left the underworld realm in a ship that could sail the underground sea to what I expected to be another underground place, the Pit of Ill Omen. Instead, it turned out to be a sunny place with tropical islands and sudden magical tempests that tear ships apart and leave them stranded.
 
@@ -56,29 +34,29 @@ Instead, we are the sole survivor of our ship's crew of two. We crawl up onto th
 
 The villagers were all here to search for the fabled Horn of Ill Omen, an instrument that shatters planar barriers and can send anyone where they wish -- home, even. Davel happens to know how to use it, and were some brave adventurer manage to follow the portal paths and find it, then all paths would be open.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-16-52-00-41-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-16-52-00-41-1024x769.jpg" classes="center" >}}
 
 We enter some tunnels that would lead to the other side of the island, where the slavers are as thick as flies, and are immediately set upon by an army of frogloks. We fight through them and rescue their prisoner, one of the few people left alive from the village. He asks us to rescue his mad brother Lazlo, who was also offered up from Davel as someone who knew how to find the Horn of Ill Omen.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-17-11-18-03-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-17-11-18-03-1024x769.jpg" classes="center" >}}
 
 We emerge from the caves but find we're still battling frogloks, but also orc slavers and this cheery character, who looks like a cross between a froglok and a cyclops. He gave me a couple good lessons in how to block attacks.
 
 Back into another set of tunnels, we finally emerge in what will become the hub of our time in the Lake of Ill Omen, Water's Edge. The orc slavers are in fact as thick as flies, and when we've cleared the place out, we come across an old friend.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-17-15-14-94-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-17-15-14-94-1024x769.jpg" classes="center" >}}
 
 It's our erstwhile navigator and second crewmate on the ship we crashed, Babik Nurn (AKA Bruin Bank). His cage isn't even locked. He kicked out its previous occupant, a mad human named Lazlo, and is holed up here until the slavers are gone. He said that the orcs put Lazlo through one of their weird portals and might still be alive somewhere.
 
 Once the slavers are all dead, Babik sets himself free and wanders around the islands, finally finding one that he likes a lot and has such lovely conch shells. He hands me the best one as thanks for killing the slavers.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-17-46-24-11-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-17-46-24-11-1024x769.jpg" classes="center" >}}
 
 Not long after, we happen upon a mermaid who just so happens to be looking for a conch shell, which she apparently believes grow on the land. Her reward is a charm of water breathing that will only work in the Pit of Ill Omen. I took that to mean, in this particular body of water, but find out later it applies to the entire third act.
 
 This comes in handy as we were otherwise unable to get into the underwater caves right next to her. Battling through the caves brings us to a broken (one way) portal that takes us to the Ashen Plains, AKA Desert of Ro.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-19-03-09-59-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-19-03-09-59-1024x769.jpg" classes="center" >}}
 
 We explore the vast plain, dying many times to bandits before we discover the instant save/restore feature on the emulator, and come across a sealed temple in the middle of the map, and an open entrance to a forgotten Takish Hiz temple on the far side of the desert. Battling through here brings us face to face with an ancient mummy, who confirms that he does in fact know how to get to the place that has the Horn of Ill Omen, but he needs us to do him a favor though.
 
@@ -90,11 +68,11 @@ With the braziers extinguished, the dead elven king says he will open the way to
 
 So, you're saying we could have simply killed you the first time we met you and skipped a whole, now unnecessary, dungeon? O-KAY. We kill him and step over his corpse and enter a portal.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-21-44-10-10-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-21-44-10-10-1024x769.jpg" classes="center" >}}
 
 This brings us to some sort of floating platform, covered with animated jumping statues and dark elf ninjas. We remember our lessons in blocking and add to them lessons in remembering to switch to the bow and attack from range sometimes and work our way to the other side, where a sky giant (?) lord thanks us for the fun, recognizes we are an ant who is beneath his notice, but remembers a pledge he made to Pelys that he would kill us.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-21-47-37-10-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-21-47-37-10-1024x769.jpg" classes="center" >}}
 
 It doesn't go the way he expects. We find that he had dear mad Lazlo caged up. Lazlo tells us (eventually after much squirrel talk) that he knows where the Horn is. In fact, he is its discoverer, but didn't know what he had and so tossed it into the frozen waters of the Western Wastes. But he had a cunning plan to escape -- he made a raft and split it into six parts, that he hid in shipwrecks.
 
@@ -102,7 +80,7 @@ If we were to gather together his raft, and launch it from a place he knew, we c
 
 This is where I thought we were in trouble, because we were clearly not int he Lake of Ill Omen.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-22-31-18-64-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-22-31-18-64-1024x769.jpg" classes="center" >}}
 
 Collecting the raft pieces was simply a matter of checking all the shipwrecks while battling dire snow badgers and ice ogres. (They are badgers; I had to look it up). Lazlo did as he promised and showed us where to shove off. 
 
@@ -110,15 +88,15 @@ We were sucked into a current and deposited beneath the frozen sea. We walked ab
 
 And it had the horn! We took a nearby portal to tell Davel the good news.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-22-41-42-80-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-22-41-42-80-1024x769.jpg" classes="center" >}}
 
 Davel calls us the Hound of Leithkorias, which is an odd turn of phrase. Where have we heard that before?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-22-42-36-76-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-22-42-36-76-1024x769.jpg" classes="center" >}}
 
 Oh snap! He's really Pelys! He spends some time gloating about how he fooled us while we don't kill him.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-22-43-42-92-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-22-43-42-92-1024x769.jpg" classes="center" >}}
 
 Oh snap! He's really some evil dark elf dude! Pelys drops his orc commander illusion and reveals that it was old Mister Smithers the groundskeeper the whole time! And he would have got away with it if it wasn't for those darned kids!
 

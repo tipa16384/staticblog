@@ -3,42 +3,20 @@ date: '2024-07-24T07:00:00-05:00'
 draft: false
 title: "Dungeon Crawl Classics TTRPG: Survival of the Fittest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/07/24/dungeon-crawl-classics-ttrpg-survival-of-the-fittest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying."
-description: "Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying."
-tags:
+categories:
   - "Dungeon Crawl Classics"
   - "Dungeons & Dragons"
   - "Tabletop Games"
+tags:
   - "Dungeon Crawl Classic"
   - "Goodman Games"
   - "TTRPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/dccbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/07/dccbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dccbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/dccbanner.png"
 ---
+Why play one character when you could play five? DCC is a table top RPG with a different perspective on roleplaying.
+<!--more-->
 
 The Dungeon Crawl Classics folks really gave me the hard sell at Origins 2024. Gaming like they did it in the 70s. A focus on adventuring over roleplaying. Mixing things up. Don't care if you live or die, as long as you had fun doing it.
 
@@ -52,7 +30,7 @@ Creating a character is easy. No choosing spells or skills or race or much of an
 
 It is so automatic, that I wrote a little program to do the rolling:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/07/image-1.png" title="Output from my DCC character creator" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/07/image-1.png" title="Output from my DCC character creator" classes="center" >}}
 
 Once the character reaches level 1, they get to choose a class (unless their occupation has made them a dwarf, elf or halfling, which are both races and classes in DCC). But to reach level 1, they have to survive to level 1. That takes only 10 xp, but in DCC, your typical encounter only gives 2 xp. And there is no healing to full by just resting; you can rest back only one health point per day, but you can lose it a lot faster.
 
@@ -62,7 +40,7 @@ Players will lose some or most of their characters in their first dungeon run (t
 
 If rolling up a character is just too much, they have... [scratch off character cards](https://www.ebay.com/itm/134609877778?chn=ps&norover=1&mkevt=1&mkrid=711-117182-37290-0&mkcid=2&mkscid=101&itemid=134609877778&targetid=2299003535955&device=c&mktype=pla&googleloc=9003191&poi=&campaignid=21214315381&mkgroupid=161363866036&rlsatarget=pla-2299003535955&abcId=9407526&merchantid=8167804&gad_source=1&gclid=CjwKCAjwqf20BhBwEiwAt7dtdYMYNUfVbbzZwsdummVNz7B44biKYTcvlEsIMMQBVtKpgY0BU2fUOxoCcOQQAvD_BwE).... Or you can just use one of the many [DCC party creators online](https://purplesorcerer.com/create_party.php)...!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/07/image-2-1024x810.png" title="Scratch-off Character Sheet" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/07/image-2-1024x810.png" title="Scratch-off Character Sheet" classes="center" >}}
 
 **Luck**
 

@@ -3,26 +3,11 @@ date: '2010-09-08T06:56:29-05:00'
 draft: false
 title: "Lord of the Rings Online is F2P, for certain definitions of free"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/08/lord-of-the-rings-online-is-f2p-for-certain-definitions-of-free/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
+tags:
   - "Evendim"
   - "F2P"
   - "Free to Play"
@@ -30,20 +15,15 @@ tags:
   - "Lysistra"
   - "Moria"
   - "Skirmish"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52-480x363.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52-480x363.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52-480x363.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52-480x363.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52-480x363.jpg "LotRO F2P Character Selection Screen")](https://chasingdings.com/wp-content/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/lotroclient-2010-09-08-07-05-29-52.jpg)
 
 Lord of the Rings Online launched as a free-to-play game today.
 

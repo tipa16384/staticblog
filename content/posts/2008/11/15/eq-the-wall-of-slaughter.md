@@ -3,42 +3,20 @@ date: '2008-11-15T01:05:02-05:00'
 draft: false
 title: "EQ: The Wall of Slaughter"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/15/eq-the-wall-of-slaughter/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Being a Drogorn civic planner must be the most interesting job in the world. I can just imagine the presentation at the planning meeting:..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Wall of Slaughter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-14-22-40-29-99.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-14-22-40-29-99.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-14-22-40-29-99.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-14-22-40-29-99.jpg"
 ---
+Being a Drogorn civic planner must be the most interesting job in the world. I can just imagine the presentation at the planning meeting:...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-14-22-40-29-99.jpg "eqgame-2008-11-14-22-40-29-99")
+
 
 Being a Drogorn civic planner must be the most interesting job in the world. I can just imagine the presentation at the planning meeting:
 
@@ -70,7 +48,7 @@ But Azeroth has a greater pull on his heart than Norrath, so he was soon back in
 
 So that wasn't great.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/eqgame-2008-11-14-21-07-21-57.jpg "eqgame-2008-11-14-21-07-21-57")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/eqgame-2008-11-14-21-07-21-57.jpg" title="eqgame-2008-11-14-21-07-21-57" classes="center" >}}
 
 Aside from those slip-ups, we did fairly well. I dinged 64, Coldheat dinged 63, Mantis' newly transferred enchanter Elryndal got 6 AAs, and our new pally tank Talfu got several AAs as well. Talfu also got a nice 40/40 aug and a Muramite Rune for his last 68 disc; I got a 40/40 aug of my own; and Coldheat got a nice upgrade to his helm.
 

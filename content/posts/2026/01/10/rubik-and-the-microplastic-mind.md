@@ -3,39 +3,17 @@ date: '2026-01-10T20:05:14-05:00'
 draft: false
 title: "Rubik and the Microplastic Mind"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2026/01/10/rubik-and-the-microplastic-mind/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I just went to my first \"cubing\" competition -- the \"Wide Moves and Waterslides CT\" tournament held this weekend by Cube New England. It won't be the last,"
-description: "I just went to my first \"cubing\" competition -- the \"Wide Moves and Waterslides CT\" tournament held this weekend by Cube New England. It won't be the last,"
-tags:
+categories:
   - "Real Life"
+tags:
   - "Cube New England"
   - "Rubik's Cube"
-featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/ChatGPT-Image-Jan-10-2026-07_02_02-PM.png"
 ---
+I just went to my first "cubing" competition -- the "Wide Moves and Waterslides CT" tournament held this weekend by Cube New England. It won't be the last,
+<!--more-->
 
 My grandson is obsessed with solving Rubik's Cubes. I had one, maybe a few -- everyone did, back in the day. I had a book that showed me how to solve it, and back then, I could take a scrambled cube and solve it in a few minutes. I felt pretty good about that.
 
@@ -55,7 +33,7 @@ I was fascinated. My microplastic brain was well and truly blown. I could imagin
 
 This is the reason I'd only ever learn blind solving, right from the start. Solving the 3x3 the usual way is to use algorithms, tricks and heuristics to solve the cube. Do this algorithm until you've got the corners you like; and now this one to get the white face solved; and then this next one until you're done. These algorithms are crutches. People solving a 3x3 in less than five seconds know everything they need to do before they do their first move. People solving the 2x2 in less than three seconds have memorized each of the 64 possible combinations and know the solution by sight.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2026/01/image-2-1024x668.png" title="My grandson with his best 2x2 time" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2026/01/image-2-1024x668.png" title="My grandson with his best 2x2 time" classes="center" >}}
 
 The AI-generated image may have people thinking my grandson didn't get his personal best time. Here's his time after the 2x2 solve.
 

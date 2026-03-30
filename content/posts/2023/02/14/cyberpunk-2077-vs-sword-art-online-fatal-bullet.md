@@ -3,42 +3,20 @@ date: '2023-02-14T19:51:46-05:00'
 draft: false
 title: "Cyberpunk 2077 vs Sword Art Online: Fatal Bullet"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/02/14/cyberpunk-2077-vs-sword-art-online-fatal-bullet/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?"
-description: "When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?"
-tags:
+categories:
   - "Cyberpunk 2077"
   - "Sword Art Online Fatal Bullet"
+tags:
   - "Gun Gale Online"
   - "RPG"
   - "Shooter"
   - "Sword Art Online"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/02/jvsk.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/02/jvsk.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/jvsk.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/jvsk.png"
 ---
+When anyone thinks of gun-centric shooter RPGs, they naturally think first of Cyberpunk 2077 and Sword Art Online: Fatal Bullet. Which is the best bang for your bullet?
+<!--more-->
 
 There are only two shooter RPGs in the world, which is kinda surprising, thought there would be more, but I'm not going to let the Internet, or anyone else, tell me differently. There are only two. And while someone who was a real student of this two game genre might play them both, who really has that sort of time?
 
@@ -50,7 +28,7 @@ Oh, still confused? Obviously I mean the one that has a unique weapon forever as
 
 F'er Crissakes. KIRITO. Okay?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/02/snapedit_1676380623979-1024x575.jpg" title="Rei, Tipa and Kirito on a hunt" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/02/snapedit_1676380623979-1024x575.jpg" title="Rei, Tipa and Kirito on a hunt" classes="center" >}}
 
 **You can see yourself**
 
@@ -62,7 +40,7 @@ Fatal Bullet is in third person, so you can always see what you're wearing. In C
 
 Both games have a wide variety of guns, and plenty of ways to upgrade them. Since Fatal Bullet lets you play in a party (with either NPCs or other players), many of their "guns" grant buffs or set up defenses and barriers, as well as shooting rockets and being able to launch yourself all around the battlefield. Since Fatal Bullet is not bound by any nods to reality, they can go wild -- and do.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/02/Cyberpunk-2077_20230214073422-1024x576.jpg" title="A Good Guy with a Gun" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/02/Cyberpunk-2077_20230214073422-1024x576.jpg" title="A Good Guy with a Gun" classes="center" >}}
 
 **The people are nicer**
 
@@ -76,7 +54,7 @@ In Fatal Bullet, since you are a normal person just playing the VRMMO Gun Gale O
 
 Cyberpunk 2077's character customization isn't bad, but it pales in comparison to that offered in Fatal Bullet. You can let your anime freak flag fly. I do have to give CP2077 props for letting you play with the character's gender presentation. While FB does have people playing characters opposite their presenting gender in the real world, in game it's cute anime boys and girls. But you can design your character to look like pretty much any character from the anime.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/02/SWORD-ART-ONLINE_-FATAL-BULLET_20230212204650-1024x576.jpg" title="Your circle of friends" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/02/SWORD-ART-ONLINE_-FATAL-BULLET_20230212204650-1024x576.jpg" title="Your circle of friends" classes="center" >}}
 
 **Casual play**
 
@@ -86,7 +64,7 @@ They even have Hero Quests, where you get to play one of the anime's iconic char
 
 Cyberpunk has scattered gangs that you can kill, but odds are you're not going to gain much benefit from it. Mostly you will be adventuring through the depressing quest lines.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/02/Cyberpunk-2077_20230214073658-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/02/Cyberpunk-2077_20230214073658-1024x576.jpg" classes="center" >}}
 
 **The Plot**
 

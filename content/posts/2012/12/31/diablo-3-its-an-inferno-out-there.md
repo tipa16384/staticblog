@@ -3,40 +3,17 @@ date: '2012-12-31T12:59:31-05:00'
 draft: false
 title: "Diablo 3: It's an Inferno out there!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/12/31/diablo-3-its-an-inferno-out-there/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Our Barbarian was missing again this week, leaving us a Gang of Three as we moved into Act II, Inferno, Diablo 3. You may remember..."
+categories:
   - "Diablo 3"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/12/Diablo-III-2012-12-30-22-02-19-12-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/12/Diablo-III-2012-12-30-22-02-19-12-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/Diablo-III-2012-12-30-22-02-19-12-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/Diablo-III-2012-12-30-22-02-19-12-480x300.jpg"
 ---
+Our Barbarian was missing again this week, leaving us a Gang of Three as we moved into Act II, Inferno, Diablo 3. You may remember...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/Diablo-III-2012-12-30-22-02-19-12-480x300.jpg" title="At the Start of Act II" class="align-center" >}}
+
 
 Our Barbarian was missing again this week, leaving us a Gang of Three as we moved into Act II, Inferno, Diablo 3. You may remember that we'd flown through Hell mode in Monster Level 10, which made the game just a little more difficult, while adding loads and loads more loot and cash to the monster drops.
 
@@ -52,7 +29,7 @@ As we progressed through the first act, though, we started dying a lot. Down we 
 
 I did finally have a reason to change my spells from a Disintegrate-based build to an AE Blizzard-based build. This was a suggested build from the forums, but I was happy sticking with the all-destroying Disintegrate laser beam as long as it worked.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/Diablo-III-2012-12-30-22-02-19-013.jpg" title="Let's zoom in a little" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/Diablo-III-2012-12-30-22-02-19-013.jpg" title="Let's zoom in a little" classes="center" >}}
 
 Spode was gleeful over how much more green his witch doctor was; she now even had green smeared over her thighs!
 

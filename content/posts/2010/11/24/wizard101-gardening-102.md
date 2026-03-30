@@ -3,41 +3,21 @@ date: '2010-11-24T08:23:43-05:00'
 draft: false
 title: "Wizard101: Gardening 102"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/24/wizard101-gardening-102/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Gardening"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-24-08-06-27-68-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-24-08-06-27-68-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-24-08-06-27-68-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-24-08-06-27-68-480x270.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-24-08-06-27-68-480x270.jpg "How does your garden grow?")](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-24-08-06-27-68.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-24-08-06-27-68.jpg)
 
 Yesterday, I played in Wizard101's test server for a time, hoping to figure out Gardening's strange attraction. That, and to figure just how you got experience in gardening! Well, I wasn't able to make any progress -- I remain one bubble into Rank 1, precisely where I started after talking to Farley, the Golem Court mole who teaches the skill.
 

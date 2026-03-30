@@ -3,41 +3,21 @@ date: '2010-11-25T19:49:34-05:00'
 draft: false
 title: "Daily Blogroll: Thanksgiving Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/25/daily-blogroll-thanksgiving-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Daily Blogroll"
   - "MMORPG"
+tags:
   - "Thanksgiving"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-25-14-28-20-81-480x383.jpg "When all you have is a fireball, everything starts smelling like roast turkey.")](https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-25-14-28-20-81.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-25-14-28-20-81.jpg)
 
 It's Turkey Day in the USA, the day when we all gather together with our families and other loved ones and try not to talk about gaming. I kinda failed at this this afternoon when I was talking to my daughter and she wanted to talk about the new gnome starting quests in World of Warcraft...
 

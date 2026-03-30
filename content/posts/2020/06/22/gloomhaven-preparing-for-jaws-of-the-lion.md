@@ -3,40 +3,18 @@ date: '2020-06-22T11:21:13-05:00'
 draft: false
 title: "Gloomhaven: Preparing for \"Jaws of the Lion\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/22/gloomhaven-preparing-for-jaws-of-the-lion/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The huge, 20 pound box that Gloomhaven comes in can be more than a little intimidating, but that's nothing compared to all the boxes, cards,..."
+categories:
   - "3D Printing"
   - "Gloomhaven"
   - "Tabletop Games"
+tags:
   - "Jaws of the Lion"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/cragheart.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/cragheart.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/cragheart.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/cragheart.jpg"
 ---
+The huge, 20 pound box that Gloomhaven comes in can be more than a little intimidating, but that's nothing compared to all the boxes, cards,...
+<!--more-->
 
 The huge, 20 pound box that Gloomhaven comes in can be more than a little intimidating, but that's nothing compared to all the boxes, cards, tiles and popout tokens inside the game box.
 

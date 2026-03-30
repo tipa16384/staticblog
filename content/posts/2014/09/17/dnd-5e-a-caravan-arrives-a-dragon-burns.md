@@ -3,40 +3,17 @@ date: '2014-09-17T20:12:55-05:00'
 draft: false
 title: "DND 5e: A Caravan Arrives; A Dragon Burns"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/09/17/dnd-5e-a-caravan-arrives-a-dragon-burns/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There’s a song I wrote once. Everyone in Elturel was singing it. They loved me there, but what could I do? I’m just that good...."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9112014-101707-PM-480x430.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9112014-101707-PM-480x430.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9112014-101707-PM-480x430.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9112014-101707-PM-480x430.jpg"
 ---
+There’s a song I wrote once. Everyone in Elturel was singing it. They loved me there, but what could I do? I’m just that good....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9112014-101707-PM-480x430.jpg" title="Entering Greenest" class="align-center" >}}
+
 
 There’s a song I wrote once. Everyone in Elturel was singing it. They loved me there, but what could I do? I’m just that good. They love me everywhere. The song was “Get Off the Cart”... I don’t know if you’ve ever been to the gnome cities beneath the rolling hills of the Western Heartlands, and why would you? You love the sun, the wind, the trees, and why not? Gnome cities were all mines in ancient times, and some still are, with the stone brothers ceaselessly chipping.
 

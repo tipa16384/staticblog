@@ -3,46 +3,23 @@ date: '2009-08-25T07:17:59-05:00'
 draft: false
 title: "A first look at Dragonica Online"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/25/a-first-look-at-dragonica-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's plenty of MMOs that promise to get you right in the action, but few of them really deliver. You have to zone out of..."
+categories:
   - "Dragonica Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg"
 ---
+There's plenty of MMOs that promise to get you right in the action, but few of them really deliver. You have to zone out of...
+<!--more-->
 
-![Gawking at passers-by in Dragonica Online](https://chasingdings.com/wp-content/uploads/2009/08/Dragonica-2009-08-24-08-03-50-41.jpg "Gawking at passers-by in Dragonica Online")
+
 
 There's plenty of MMOs that promise to get you right in the action, but few of them really deliver. You have to zone out of the city, have to go hunting, have to buy provisions, have to find your quest area... and that's fine.
 
 But why make life complicated? Sometimes you just want to put a coin in the coin slot and slaughter stuff wholesale. But, with other people.
 
-Arcade MMOs like [Pi Story](https://chasingdings.com/index.php/2008/10/12/pi-story-one-in-a-thousand/) and [LaTale](http://latale.ogplanet.com/) and follow the lead of the genre leader, Maple Story -- a side-scrolling world, easy and quick grouping, heavy anime influence, lots of enemies, over-the-top attacks and drop-in gameplay.
+Arcade MMOs like [Pi Story](https://tipa16384.github.io/wkblog/index.php/2008/10/12/pi-story-one-in-a-thousand/) and [LaTale](http://latale.ogplanet.com/) and follow the lead of the genre leader, Maple Story -- a side-scrolling world, easy and quick grouping, heavy anime influence, lots of enemies, over-the-top attacks and drop-in gameplay.
 
 THQ*ICE's [Dragonica Online](http://dragonica.thqice.com/), currently in open beta, includes all these things, along with player housing, loads of customization, and a 3D engine which playfully toys with the whole side scrolling experience by having enemies and players turn and move around, devastating critical effects blasting monsters into the computer monitor (which cracks! They hit so hard!) and platforming aspects that have you moving in and out of the world as well as left and right, using conveniently placed hyperjump platforms to send you flying into a different path.
 

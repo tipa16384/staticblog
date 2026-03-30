@@ -3,39 +3,15 @@ date: '2015-01-29T04:46:57-05:00'
 draft: false
 title: "Weekly Foundry Reviews -- 1/28/2015"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/29/weekly-foundry-reviews-1282015well-i-missed-a-week-so-this-week-theres-a-double-helping-of/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Weekly Foundry Reviews -- 1/28/2015**..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Weekly Foundry Reviews -- 1/28/2015**...
+<!--more-->
 
 Weekly Foundry Reviews -- 1/28/2015**
 

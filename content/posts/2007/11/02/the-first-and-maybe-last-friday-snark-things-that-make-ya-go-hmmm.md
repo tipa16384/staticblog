@@ -3,37 +3,12 @@ date: '2007-11-02T12:45:48-05:00'
 draft: false
 title: "The First (and maybe Last) Friday Snark -- things that make ya go, hmmm..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/02/the-first-and-maybe-last-friday-snark-things-that-make-ya-go-hmmm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Cuppy of Areae (why isn't this Area E? That would sound so much cooler...) posted some Metaplace wallpaper. Their game engine is built around 2D..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Cuppy of Areae (why isn't this Area E? That would sound so much cooler...) posted some Metaplace wallpaper. Their game engine is built around 2D...
+<!--more-->
 
 [Cuppy](http://www.cuppycake.org/?p=284) of [Areae](http://areae.net) (why isn't this Area E? That would sound so much cooler...) posted some [Metaplace wallpaper](http://www.metaplace.com/blog/13.html). Their game engine is built around 2D art assets (think Super Nintendo games in your browser), and presumably, their world-y reference MMO will be as well. Lessee... from the wallpaper... what can we guess about their game... Orcs... and Dwarves! Revolution! World of Meta Warhammer :) I guess we shouldn't read too much into that. It could have been elves.
 

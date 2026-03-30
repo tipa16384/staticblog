@@ -3,51 +3,27 @@ date: '2009-02-11T02:07:04-05:00'
 draft: false
 title: "EQ2: Two girls ready for LOVE!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/11/eq2-two-girls-ready-for-love/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "And oh yeah, we finished clearing Veeshan's Peak and then cleared up to the Maestro in the Shard of Hate! First time the experience is..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Erollisi Day"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-11-01-05-41-95.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-11-01-05-41-95.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-11-01-05-41-95.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-11-01-05-41-95.jpg"
 ---
+And oh yeah, we finished clearing Veeshan's Peak and then cleared up to the Maestro in the Shard of Hate! First time the experience is...
+<!--more-->
 
 And oh yeah, we finished clearing Veeshan's Peak and then cleared up to the Maestro in the Shard of Hate! First time the experience is new. Second time, it's like, can we skip ahead to the part where I get something :) No, it was fun, just not much to write about.
 
 Afterward, I bought the Erollisi Day crafting book from the vendor in East Freeport, farmed a dozen or so Orc Love Letters in the War Elephant Breeding Ground and other orcs in the area, and made almost all of the things you could make. All except the ring at the end -- ran out of love letters.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-11-01-05-41-95.jpg "everquest2-2009-02-11-01-05-41-95")
-
 My room downstairs has been empty since I removed almost everything because I'd just messed it up so badly, but I had to have a place to put the stuff I made and it's the only undecorated room in the guild hall, so I started filling it up again.
 
 The rugs are new, the presidential motorcade-ready grassy knolls are new, there's some tapestries and cups you can't see... Dinah is modeling the $10 Dress for a $2 Girl outfit (I think that's the name).
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-11-01-31-49-04.jpg "everquest2-2009-02-11-01-31-49-04")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-11-01-31-49-04.jpg" title="everquest2-2009-02-11-01-31-49-04" classes="center" >}}
 
 There's zillions of house items you can buy with those love notes, but what I really, really wanted and heard that they had, was some holiday armor like the stuff they had for Frostfell. But, no dice. If they have any of that stuff, it's a well-kept secret.
 
@@ -59,4 +35,4 @@ Oh, guildies -- there's some extra love notes and stuff in the guild bank, and I
 
 Someone at work was wondering how the wizard RMT hat would look with the Frostfell scout armor. Really similar to this :) I was wrong, you were right -- it really DOES look cool!
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-08-11-30-29-17.jpg "everquest2-2009-02-08-11-30-29-17")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-08-11-30-29-17.jpg" title="everquest2-2009-02-08-11-30-29-17" classes="center" >}}

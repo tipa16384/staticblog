@@ -3,40 +3,17 @@ date: '2011-02-28T00:08:13-05:00'
 draft: false
 title: "DDO is having a birthday, and you're invited... to spend money!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/28/ddo-is-having-a-birthday-and-youre-invited-to-spend-money/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's Dungeons & Dragons Online's fifth birthday, and Turbine just wants to give back by re-opening Smuggler's Rest for a few short days. Before DDO..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/dndclient-2011-02-27-22-17-57-42-480x385.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/dndclient-2011-02-27-22-17-57-42-480x385.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/dndclient-2011-02-27-22-17-57-42-480x385.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/dndclient-2011-02-27-22-17-57-42-480x385.jpg"
 ---
+It's Dungeons & Dragons Online's fifth birthday, and Turbine just wants to give back by re-opening Smuggler's Rest for a few short days. Before DDO...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/dndclient-2011-02-27-22-17-57-42-480x385.jpg" title="In Smuggler's Rest" class="align-center" >}}
+
 
 It's Dungeons & Dragons Online's fifth birthday, and Turbine just wants to give back by re-opening Smuggler's Rest for a few short days. Before DDO acquired the Korthos Island adventure zone, new players would be sent to Smuggler's Rest to learn the basics of the game before finding themselves in the mean streets of Stormreach.
 

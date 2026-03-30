@@ -3,44 +3,23 @@ date: '2022-08-29T07:00:00-05:00'
 draft: false
 title: "Leap Year: the 29th Day"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/29/leap-year-the-29th-day/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "After the world disappears on Leap Day, you must team up with the only other person left awake to find out what happened."
-description: "After the world disappears on Leap Day, you must team up with the only other person left awake to find out what happened."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
   - "Visual Novel"
+tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Leap Day"
   - "Leap Year"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/29daybanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/29daybanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Visual Novel"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/29daybanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/29daybanner.png"
 ---
+After the world disappears on Leap Day, you must team up with the only other person left awake to find out what happened.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 29th: “Leap Year: the 29th Day”.
 
@@ -56,7 +35,7 @@ The stranger you meet is a young man who has also been affected by the Leap Day 
 
 The stranger is a mysterious figure, and it will be up to you to decide whether to trust him or not.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/vnscene29.png" title="A fateful meeting" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/vnscene29.png" title="A fateful meeting" classes="center" >}}
 
 **Chapter 1: The Day the World Disappeared**
 

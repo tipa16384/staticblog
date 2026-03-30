@@ -3,40 +3,17 @@ date: '2012-01-21T01:03:55-05:00'
 draft: false
 title: "D&D4e: A Dripping Bag of Head"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/21/dd4e-a-dripping-bag-of-head/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Modern MMOs have the right idea. You collect bits of monster and put them in your backpack and don't give it a second thought. Store..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/FantasyGrounds-2012-01-19-23-16-38-63-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/FantasyGrounds-2012-01-19-23-16-38-63-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/FantasyGrounds-2012-01-19-23-16-38-63-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/FantasyGrounds-2012-01-19-23-16-38-63-480x384.jpg"
 ---
+Modern MMOs have the right idea. You collect bits of monster and put them in your backpack and don't give it a second thought. Store...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/FantasyGrounds-2012-01-19-23-16-38-63-480x384.jpg" title="Things that go" class="align-center" >}}
+
 
 Modern MMOs have the right idea. You collect bits of monster and put them in your backpack and don't give it a second thought. Store them in a bank, why not? Ten years later, your wolf eyeball or cow tongue is gonna be as fresh as when you looted it.
 
@@ -52,7 +29,7 @@ Just... ewwww. Okay.
 
 ... read the note. We all decided not to make long term plans to stay in Winterhaven.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/FantasyGrounds-2012-01-19-21-13-49-93.jpg" title="~~Lord Warden Faren Markelhay~~ ~~Lord Ernest Padraig~~ Lord Orcus" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/FantasyGrounds-2012-01-19-21-13-49-93.jpg" title="~~Lord Warden Faren Markelhay~~ ~~Lord Ernest Padraig~~ Lord Orcus" classes="center" >}}
 
 Among the many people in Winterhaven who were not interested in a dripping bag of head was Lord Padraig. "Yes, yes... I must admit this is a very unique way of delivering the map of the ruins I asked you to scribe."
 
@@ -114,7 +91,7 @@ We heard some whimpering from a crate in the camp to the side of the excavation.
 
 "Why, yes!" said the professor. He opened it and removed a small portrait of a radiantly lovely human woman. He handed the locket back to Wenner. "The locket is yours. This portrait is precious, though."
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/locket.png" title="The Professor's Lovely Wife" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/locket.png" title="The Professor's Lovely Wife" classes="center" >}}
 
 "Yes, your wife is very lovely indeed," says Sheeoil, "but what can you tell us of this mirror?"
 

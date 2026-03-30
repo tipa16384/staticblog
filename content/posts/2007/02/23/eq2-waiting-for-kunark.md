@@ -3,47 +3,26 @@ date: '2007-02-23T14:55:04-05:00'
 draft: false
 title: "EQ2: Waiting for Kunark"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/23/eq2-waiting-for-kunark/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Rumors have the next EQ2 expansion as \"The Rise of Kunark\". That's a small surprise; I was expecting them to follow up \"Echoes of Faydwer\"..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/archers.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/02/archers.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/archers.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/archers.jpg"
 ---
+Rumors have the next EQ2 expansion as "The Rise of Kunark". That's a small surprise; I was expecting them to follow up "Echoes of Faydwer"...
+<!--more-->
 
-![archers.jpg](https://chasingdings.com/wp-content/uploads/2007/02/archers.jpg)Rumors have the next EQ2 expansion as "The Rise of Kunark". That's a small surprise; I was expecting them to follow up "Echoes of Faydwer" with another adventure pack, not something as grand as a whole 'nother expansion, especially one that opens the lands that really launched the original EverQuest into MMO history.
+
+
+Rumors have the next EQ2 expansion as "The Rise of Kunark". That's a small surprise; I was expecting them to follow up "Echoes of Faydwer" with another adventure pack, not something as grand as a whole 'nother expansion, especially one that opens the lands that really launched the original EverQuest into MMO history.
 
 The job SOE does here is so critical to EQ2's future... so many people from EQ1 and EQ2 are off trying Vanguard. Guilds all over EQ1 are imploding; I expect the same from EQ2 soon. Vanguard doesn't cost anything extra for people already on the Station Access plan, so it's never been easier to leave EQ.
 
 SOE has to do something so mind-bogglingly original with Rise of Kunark that it defines the EQ2 experience the same was Ruins of Kunark did for EQ1. That was the expansion that made the game a raiding game, that set players apart, and gave real goals and enough of them to keep people always working. Epic weapon quests, a whole new race, dragons and enough lore to choke a historian, Trak and VS and KC and OS and HS and LoIO and Chardok...
 
-![dina.jpg](https://chasingdings.com/wp-content/uploads/2007/02/dina.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/dina.jpg" classes="center" >}}
 
 *Does this boat dock at the outpost in Firiona Vie?
 
@@ -53,7 +32,7 @@ I don't talk like this normally but dammit, SOE has got balls to come out with K
 
 I love the game as it is now. But that won't be enough. Kunark rewrote EQ1, and it made EQ1 great. Kunark has to do the same for EQ2. By bringing it out so early, SOE *must* believe they have something that will make EQ2 absolutely new.
 
-![dera.jpg](https://chasingdings.com/wp-content/uploads/2007/02/dera.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/dera.jpg" classes="center" >}}
 
 *Help me with my epic, THEN I'll heal for your stupid raid!
 
@@ -63,7 +42,7 @@ But the EQ1 developers have been rewriting EQ1 each expansion and that hasn't be
 
 So, here is my idea of a transfiguration that will make people sit up and go OH MY GOD. You see where I'm going?
 
-![magishield.jpg](https://chasingdings.com/wp-content/uploads/2007/02/magishield.jpg)Merge EQ1 and EQ2. Bit by bit. First step is: if you have a character on EQ1, you have that character on EQ2. On new servers of course. You can't have the same gear of course, but for each piece of gear you could have on EQ1, you get comparable gear on EQ2. Yeah, given EQ1's advanced age, you'll find people logging in for the first time at max level and with raid gear. They'd also be given the opportunity to pick their variety of class (my cleric should be able to become an Inquisitor even though she's a halfling) and their race.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/magishield.jpg" classes="fig-20" >}}Merge EQ1 and EQ2. Bit by bit. First step is: if you have a character on EQ1, you have that character on EQ2. On new servers of course. You can't have the same gear of course, but for each piece of gear you could have on EQ1, you get comparable gear on EQ2. Yeah, given EQ1's advanced age, you'll find people logging in for the first time at max level and with raid gear. They'd also be given the opportunity to pick their variety of class (my cleric should be able to become an Inquisitor even though she's a halfling) and their race.
 
 That's a HUGE task. But that's only where it starts.
 

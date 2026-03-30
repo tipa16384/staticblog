@@ -3,37 +3,12 @@ date: '2008-07-12T08:40:21-05:00'
 draft: false
 title: "Fanboys, your game needs you."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/12/fanboys-your-game-needs-you/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Mythic cuts four classes and four cities from Warhammer Online. Hellgate: London debuts to poor response. Pirates of the Burning Sea needed a better integration..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Mythic cuts four classes and four cities from Warhammer Online. Hellgate: London debuts to poor response. Pirates of the Burning Sea needed a better integration...
+<!--more-->
 
 Mythic cuts four classes and four cities from Warhammer Online. Hellgate: London debuts to poor response. Pirates of the Burning Sea needed a better integration of its elements and some changes to pacing. Vanguard was released too early. Age of Conan has a bunch of bugs and its end game is not as stable as was hoped.
 

@@ -3,43 +3,21 @@ date: '2020-10-17T20:40:19-05:00'
 draft: false
 title: "Ogre Battle: The March of the Black Queen: How to Win the Game."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/17/ogre-battle-the-march-of-the-black-queen-how-to-win-the-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't really been blogging, streaming or even talking about my progress in Ogre Battle lately. I've been mostly just working my way through the..."
+categories:
   - "Super Nintendo"
   - "Tactical RPG"
+tags:
   - "Ogre Battle"
   - "RPG"
   - "Snes"
   - "Tactics"
   - "The March of the Black Queen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138.png"
 ---
+I haven't really been blogging, streaming or even talking about my progress in Ogre Battle lately. I've been mostly just working my way through the...
+<!--more-->
 
 I haven't really been blogging, streaming or even talking about my progress in Ogre Battle lately. I've been mostly just working my way through the story.
 
@@ -47,7 +25,7 @@ The last time I wrote, my character was headed for the very worst of endings. He
 
 I found a solution. It was obvious, really: I had to stop playing the main character, and I had to stop liberating cities and temples if there were any possibility that the enemy could retake them.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-125.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-125.png" classes="center" >}}
 
 This is definitely counter-intuitive. In almost every RPG, you want your protagonist in every battle, leading every team. The problem here is that doing so in Ogre Battle commits two crimes: It levels up your protagonist such that you get an alignment hit for every kill, and you will eventually be forced to kill good-aligned enemies, like angels and such. If you want to get the best ending, you have to stay above such petty concerns.
 
@@ -55,11 +33,11 @@ No, the hero's job is to stay at the rebel base until the fighting is over. When
 
 At the end of the game, my hero was level 19. Lans, who headed up my main killing unit, was level 28.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-126.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-126.png" classes="center" >}}
 
 This brings up the third, and probably most important, value: the reputation. You can increase this by taking cities with a high alignment and not letting cities get retaken. This is why I (mostly) stopped taking cities. Instead, I deployed the units and just sent most of them right to the boss, keeping a token few at or near the rebel base to take care of the wanderers immediately sent out by the boss. Once you start killing the things right outside the boss city, you'll run out of wanderers to kill. I usually used fast moving units, like my hero's, and Canopus', to chase down enemy wanderers, and then had DPS-focused units, like Aisha's, to hold some likely cities.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-129.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-129.png" classes="center" >}}
 
 My hero's group was:
 
@@ -67,23 +45,23 @@ Tipa&LordDickelMaster SamuraiBlacksMaster NinjaOmegaWyvern
 
 The Master Ninja was in the back to do their HIT ALL ability. Omega was in the back for fire and to provide the group with HIGH SKY movement -- the best movement power. Tipa& and Dickel were in the front for tanking and single target DPS. This group was not a killing group, but they could kill, especially with all the cards Tipa&'s group was pulling that were increasing all their attributes to the max.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-132.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-132.png" classes="center" >}}
 
 Aisha's group was perfect when I first recruited her. The only change I made was to promote her to Princess. This gave her the Starlite attack, and since she was a leader, she added one more action to all her units.
 
 She didn't come with a healer in her group, and I didn't give her one, so she was what I call a "City" unit -- built to destroy any enemy unit who tried to take her city. Her unit had six HIT ALL abilities, and it was very unusual for anything to walk away from that. Her unit would take damage, but being parked in a city came with natural healing and she would typically be all healed up for the next fight.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-133.png)Diablo, final boss
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-133.png" classes="center" >}}Diablo, final boss
 
 Reputation was a continual problem, and in the end I used a cheat to keep it pinned to max so I didn't have to worry about it while I dealt with alignment and charisma and levels and all that. Left to itself, I'd be doing okay for awhile, but then I'd just find myself grinding through all the units the boss was sending out and my reputation would be down a third.
 
 To be honest, I would have used the Game Genie to do the same thing back in the day. But the rest is legit. Keeping the hero's unit in the rear to liberate cities and temples and do just the occasional fighting pinned the other important stats right to the top and enabled the best ending.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-134.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-134.png" classes="center" >}}
 
 There is no way to get the best ending, I am convinced, unless you're working from a guide. I imagine having the official strategy guide was more or less required. The manual itself tells you exactly how to approach the first half dozen levels and stresses how important are the various attributes. The official strategy guide would continue with that, I imagine. I relied heavily on GameFaqs. The official strategy guides were pricier than I wanted to pay, and GameFaqs noted that in some cases the official guide was incorrect or misleading in places.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-021-1.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-021-1.png" classes="center" >}}
 
 I found several sources that said that if you recruited the witch, Deneb, the pumpkin queen, you would not be able to get the best ending.
 
@@ -91,7 +69,7 @@ I couldn't accept that. She's one of the mascots for the game series, and I coul
 
 She wasn't super effective -- witches in Ogre Battle are purely support, but they do have a combo they do with the pumpkinheads they can summon. The witch stuns the enemy, making them unable to dodge the pumpkin that drops from the sky and swallows half their health. You'd then have a mage available to finish the job, otherwise you get into a Zeno's Paradox with the health bar -- always halving but never reaching zero.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-139.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-139.png" classes="center" >}}
 
 The final battle is in three phases. Gares, the dark knight who made a bargain for power with the Mage Rashidi, and who has been sending clones of himself to ambush you for a couple of maps, is first. I used a lot of tarots to make him dead.
 
@@ -99,7 +77,7 @@ Next, Mage Rashidi, the one responsible for powering up most of the bad guys you
 
 I restarted from my last save and when I came to that point, I answered YES and Lans was able to easily take him. The first time through, I ran out of tarots on the Gares and Rashidi fights and didn't have enough for the Diablo fight. Second time through, I beat the first two bosses without tarot help and had plenty for the finale.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-137.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-137.png" classes="center" >}}
 
 I'd spent a few hours gathering together the twelve Zodiac stones and the three magical treasures that are required for the ending, and I'd recruited all the three dragoons and those of the four devas that would agree to join me, all necessary for the best ending.
 
@@ -107,7 +85,7 @@ You'll remember the Zodiac stones from the Final Fantasy Tactics series, as that
 
 The events of the ending are too long to talk about here; they're found on the web. I've embedded video up above for the final fights, including where I fouled up and lost a unit. Afterward, the complete final ending, epilogue, and score.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138-1.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-138-1.png" classes="center" >}}
 
 Final score: 100pt, perfect. Conquest was 141 game days, which is a little long. Other people have finished the game much more quickly. And if you don't spend extra time slowly killing everything and liberating cities, it won't take you long at all. You can sell buried treasure for enough to keep your armies going -- I ended the game with far more money than I actually needed.
 
@@ -121,7 +99,7 @@ HIT ALL abilities are really the secret sauce to winning. You don't have to worr
 
 So, in the end, Ogre Battle: The March of the Black Queen is a somewhat confusing game with a lot of stuff to keep track of, it's meant to be played many times as you learn more and more of its secrets and work toward the best ending, and each map really doesn't take that long once you learn the best strategy (rush the boss).
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-140.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-140.png" classes="center" >}}
 
 Probably its best seen as the first in a long line of tactical strategy RPGs that would change the world with its direct sequel, Tactics Ogre: Let Us Cling Together and its most famous cousin, Final Fantasy Tactics.
 

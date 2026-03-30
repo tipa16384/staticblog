@@ -3,38 +3,15 @@ date: '2023-12-26T11:17:19-05:00'
 draft: false
 title: "Goodbye, Lannister"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/26/goodbye-lannister/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The story of my chocolate Maine Coon, Lannister, who died today."
-description: "The story of my chocolate Maine Coon, Lannister, who died today."
-tags:
+categories:
   - "Cats"
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/IMG_9234.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/IMG_9234.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_9234.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/IMG_9234.jpg"
 ---
+The story of my chocolate Maine Coon, Lannister, who died today.
+<!--more-->
 
 I'm not going to federate this post, but my cat was put to sleep this morning and I want to talk about him a little.
 
@@ -44,7 +21,7 @@ They had let some of the cats and kittens roam around behind the cages a bit. Am
 
 I couldn't get him out of my head. I went back the next weekend, but he wasn't there. I talked to the people there, and they said he hadn't been adopted, they just hadn't happened to bring him. He was a stray, and his long fur had been so matted that they had to shave him to get him clean. He was two years old at that time, 2011, so we figured he was born in 2009.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-20.png" title="Day of adoption, May 30, 2011" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-20.png" title="Day of adoption, May 30, 2011" classes="center" >}}
 
 I filled out the forms, had the interview about home conditions, promised to never have his claws pulled and never to let him roam around outside, and then I took him home. The shelter had named him "Prince". I dunno. I thought he looked like a little lion. Game of Thrones was playing at the time, and lions were the totem animal for the Lannisters, so I thought he should be Lannister. I figured people would immediately recognize the name and wonder why I named him after characters in a fantasy novel, but actually, nobody at all had any idea where the name came from. I got zero questions about it.
 
@@ -54,7 +31,7 @@ When he was adopted, I was living in an apartment complex. He begged and begged 
 
 Apartment rents were insane. I realized that I could save money by just buying a house and *pay less* in mortgage that I did on rent. *And I was right*. So I bought a house. No balcony, though. Lani never did forgive me for that. When I got the keys to the house, I brought Lani over to show him the place. I opened the cat carrier and let him out. After about a minute, he got back in the carrier, ready to go. I'd chosen poorly. He expected better. We should stay in the place with a balcony.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-21-1024x614.png" title="Whitten and Lannister on my dresser" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-21-1024x614.png" title="Whitten and Lannister on my dresser" classes="center" >}}
 
 Lani soon made my house his home. First off, he needed to have a talk with me about my dresser. I thought the top of the dresser would be a good place for pictures, jewelry, etc. He thought it would be a good place for a cat. He won. I set a blanket and a cat bed up there and now that was his place to stay. His alone. Until my son adopted Whitten, who never let any other cat's desires influence what he did.
 
@@ -62,7 +39,7 @@ We had three cats at one time; Lani, my boyfriend's similarly colored but much s
 
 Lani intended to do the same to our bedroom, but Whitten never paid attention to that. Lani and Whitten were like father and son. Lani would groom Whitten, and tolerate Whitten trying to taunt and play with him until he just reached the end of his rope and start hissing. Whitten is the kind of cat who is calm and playful and nice until the murder switch is thrown.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/image-22.png" title="Lannister, Christmas, 2023" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/image-22.png" title="Lannister, Christmas, 2023" classes="center" >}}
 
 Lannister was diagnosed with chronic kidney disease last February. His doctor said, in a cat as old as he was, there was a good chance he would die of old age before the kidneys failed. He had the prescription food, he had food and water in various places around the house so he never had to go far, and he had a loving family. But he never got well. He stabilized for several months, but come autumn, he wasn't eating as much, and he was having trouble jumping up on the dresser, so he abandoned "his" place. He stopped being able to climb the cat perch. He used to wake me up every morning by jumping on the bed and sleeping on my pillow, curled up near my head. He gave that up.
 

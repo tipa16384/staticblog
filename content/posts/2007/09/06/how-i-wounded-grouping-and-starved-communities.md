@@ -3,39 +3,16 @@ date: '2007-09-06T13:00:47-05:00'
 draft: false
 title: "How I wounded grouping and starved communities."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/09/06/how-i-wounded-grouping-and-starved-communities/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One afternoon, after being frustrated by looking for a good group several hours without any luck, I made a desperate wish that the MMO devs..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/09/dinaboat.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/09/dinaboat.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/dinaboat.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/dinaboat.jpg"
 ---
+One afternoon, after being frustrated by looking for a good group several hours without any luck, I made a desperate wish that the MMO devs...
+<!--more-->
 
-![dinaboat.jpg](https://chasingdings.com/wp-content/uploads/2007/09/dinaboat.jpg)
+
 
 One afternoon, after being frustrated by looking for a good group several hours without any luck, I made a desperate wish that the MMO devs would wise up and let all classes solo for XP so nobody would ever *need*Â a group, ever again.
 

@@ -3,41 +3,18 @@ date: '2006-11-28T12:18:55-05:00'
 draft: false
 title: "EQ2: Staff of the Observers and Robe of the Oracle"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/28/eq2-staff-of-the-observers-and-robe-of-the-oracle/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Because sometimes I go to a restaurant, or a home, or a dank dungeon, that are without proper lighting fixtures, I now carry my own...."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/oracle01.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/11/oracle01.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/oracle01.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/oracle01.jpg"
 ---
+Because sometimes I go to a restaurant, or a home, or a dank dungeon, that are without proper lighting fixtures, I now carry my own....
+<!--more-->
 
-![oracle01.jpg](https://chasingdings.com/wp-content/uploads/2006/11/oracle01.jpg)
+
 
 Because sometimes I go to a restaurant, or a home, or a dank dungeon, that are without proper lighting fixtures, I now carry my own. That's the Lumen 1000 Floor Lamp with Variable Bulb strapped to my back. And hello, I'm [Reddy Kilowatt](http://www.toonopedia.com/reddy_k.htm).
 
@@ -49,7 +26,7 @@ I'd done the quest in beta, but they'd changed it a little. The quest starter, a
 
 Dorah died when the Kobold King summoned the rest of the zone to him as he was killed. *That* was new, too. So though she finished the quest, she didn't actually get the staff until she zoned out (after half an hour of looking for it in her bags and petitioning).
 
-![oracle2.jpg](https://chasingdings.com/wp-content/uploads/2006/11/oracle2.jpg)Still sentimental over EverQuest 1... had to get the Oracle robe. This was highly prized back in EQ1's early days. It was an explosion of fluorescent goofiness when most robes were solid primary colors. Formal wear for squishies, and for a time, it meant you were among the most powerful of your class. The Oracle was no pushover, and he had a powerful friend.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/oracle2.jpg" classes="fig-20" >}}Still sentimental over EverQuest 1... had to get the Oracle robe. This was highly prized back in EQ1's early days. It was an explosion of fluorescent goofiness when most robes were solid primary colors. Formal wear for squishies, and for a time, it meant you were among the most powerful of your class. The Oracle was no pushover, and he had a powerful friend.
 
 Then druids figured out how to kite him. How did it go? Lev and SoW, root and snare his paladin friend, snare the Oracle, and run right out over the water, nuking him until he died. The market was flooded with soggy Oracle robes, and soon they marked a caster as a noob. By that time Hate and Fear were open and dropped the next step up in uberful robewear.
 
@@ -63,7 +40,7 @@ She'd do that. She'd do that for sure. Make her own "Oracle Robe" so people woul
 
 Yeah, uh huh. Someone is missing a bathrobe, that's what I think.
 
-![oracle3.jpg](https://chasingdings.com/wp-content/uploads/2006/11/oracle3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/oracle3.jpg" classes="center" >}}
 
 Anyway. Just traveling out to the Ocean of Tears this morning brought back memories. That whole zone is whispered in fables in EQ2. The Sisterhood of Erollisi is based on this same island. They left it to help defend Faydwer from the forces of evil. Looking over to the next island, a mage in that tower there sells low level spells to mages too lazy to research their own. You had to time your trip to buy them carefully, as cyclops roam the island -- including the super rare Ancient Cyclops, that dropped the ring needed to do the Journeyman Boots quest.
 

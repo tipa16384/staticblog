@@ -3,43 +3,23 @@ date: '2010-11-07T19:51:59-05:00'
 draft: false
 title: "Star Trek Online: S2E4 \"Everything Old is New Again\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/07/star-trek-online-s2e4-everything-old-is-new-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Devidian"
   - "Drozana"
   - "Time Travel"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-06-14-02-09-96-480x383.jpg "He")](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-06-14-02-09-96.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-06-14-02-09-96.jpg)
 
 After defeating a rogue hologram and a couple hundred Devidians in last week's episode, "What Lies Beneath", the Federation News Service traveled into the past to take on the deadliest enemy of them all -- Starfleet! With some pluck, courage and help from an unexpected friend, we did manage to complete our mission.
 

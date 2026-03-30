@@ -3,48 +3,25 @@ date: '2009-06-16T07:57:13-05:00'
 draft: false
 title: "One if by land, two if by sea: a second look at Florensia"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/16/one-if-by-land-two-if-by-sea-a-second-look-at-florensia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was a little surprised to see that my character from Florensia's open beta last year was still around, though naturally I'd entirely forgotten how..."
+categories:
   - "Florensia"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/flor1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/flor1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/flor1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/flor1.jpg"
 ---
+I was a little surprised to see that my character from Florensia's open beta last year was still around, though naturally I'd entirely forgotten how...
+<!--more-->
 
-![Tipa standing by the docks in Roxbury](https://chasingdings.com/wp-content/uploads/2009/06/flor1.jpg "Tipa standing by the docks in Roxbury")
 
-I was a little surprised to see that my character from [Florensia's open beta last year](https://chasingdings.com/index.php/2008/07/25/a-first-look-at-florensia/) was still around, though naturally I'd entirely forgotten how to play her.
+
+I was a little surprised to see that my character from [Florensia's open beta last year](https://tipa16384.github.io/wkblog/index.php/2008/07/25/a-first-look-at-florensia/) was still around, though naturally I'd entirely forgotten how to play her.
 
 To get back up to speed, I put my Saint (healer) aside and started a new character, an Explorer (ranged dps specializing in guns). The very detailed tutorial took me through setting skills, inventory management, ship construction and combat, and I was just about to set out on my new life as an Explorer when I read in chat that people were desperate for Saints in their higher-level groups.
 
 So I went back to Tipa and went my merry way... killing ten (strong dodos, weak fungi, wild boars, devil's scarecrows, etc). Now as back last year, I was struck by just how similar quests and combat were to Dream of Mirror Online. I finished up my quests in the area (leveling from 7 to 9) and headed back to town, because you can be an adventurer in ANY game. I wanted to be a pirate.
 
-![Meeting a pirate on the high seas](https://chasingdings.com/wp-content/uploads/2009/06/flor2.jpg "Meeting a pirate on the high seas")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/flor2.jpg" title="Meeting a pirate on the high seas" classes="center" >}}
 
 The port master of Roxbury took great pains to inform me that pirates aren't bad people -- in fact, most of them consider themselves "[gentleman pirates](http://math.boisestate.edu/gas/pirates/web_op/pirates27.html)" who would never harm an honest sailor.
 

@@ -3,40 +3,18 @@ date: '2020-06-19T12:17:58-05:00'
 draft: false
 title: "Squire Wimbley has some mighty fine hide"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/19/squire-wimbley-has-some-mighty-fine-hide/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Again, my huge advantage over Kasul is that I still am forced to work from home, but on the plus side, I get to get..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Aradune"
   - "TLP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-19-07-59-23-14.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-19-07-59-23-14.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-19-07-59-23-14.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-19-07-59-23-14.jpg"
 ---
+Again, my huge advantage over Kasul is that I still am forced to work from home, but on the plus side, I get to get...
+<!--more-->
 
 Again, my huge advantage over Kasul is that I still am forced to work from home, but on the plus side, I get to get in the Aradune queue early and am usually able to play by the time I am done work and have supper cooking.
 

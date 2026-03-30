@@ -3,40 +3,18 @@ date: '2020-06-17T12:25:11-05:00'
 draft: false
 title: "I'm still playing EverQuest for some reason..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/17/im-still-playing-everquest-for-some-reason/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Aradune has returned to the endless queue strategy, which is a huge upgrade, I guess, from the \"let everyone in and watch the server die\"..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Aradune"
   - "TLP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-17-08-01-40-13.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-17-08-01-40-13.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-17-08-01-40-13.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-17-08-01-40-13.jpg"
 ---
+Aradune has returned to the endless queue strategy, which is a huge upgrade, I guess, from the "let everyone in and watch the server die"...
+<!--more-->
 
 Aradune has returned to the endless queue strategy, which is a huge upgrade, I guess, from the "let everyone in and watch the server die" strategy they'd been trying for a couple weeks prior.
 

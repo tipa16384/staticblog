@@ -3,46 +3,25 @@ date: '2020-08-20T08:08:29-05:00'
 draft: false
 title: "Blaugust #20: It's Good to be Bad"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/20/blaugust-20-its-good-to-be-bad/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It is known that the best bad guys are mirror reflections of the good guys. Batman and the Joker. Superman and Darkseid. Wonder Woman and..."
+categories:
   - "Blaugust"
   - "Greedfall"
   - "PS4"
+tags:
+  - "Blaugust"
   - "Death Stranding"
   - "Ghost of Tsushima"
   - "Red Dead Redemption"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/1-Ghost-of-Tsushima_20200726211225.jpg"
 ---
+It is known that the best bad guys are mirror reflections of the good guys. Batman and the Joker. Superman and Darkseid. Wonder Woman and...
+<!--more-->
 
 It is known that the best bad guys are mirror reflections of the good guys. Batman and the Joker. Superman and Darkseid. Wonder Woman and Cheetah. Captain Marvel* and Black Adam. I imagine the same holds true with the Marvel heroes, but I'm not very familiar with them. They should make some movies, get some publicity.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/captainmarvek-1.png)* This is the real and only Captain Marvel. Fight me.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/captainmarvek-1.png" classes="center" >}}* This is the real and only Captain Marvel. Fight me.
 
 The very best villains go beyond the mirror, with goals and dreams all their own, and perhaps knowing them so well, they wouldn't seem like villains at all. Misguided, but perhaps not beyond redemption.
 
@@ -62,7 +41,7 @@ Cousin to Kublai Khan, sent to prepare the way for his cousin to extend his empi
 
 ## Cliff, "Death Stranding"
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-DEATH-STRANDING_20191201201900-1024x682.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-DEATH-STRANDING_20191201201900-1024x682.jpg" classes="center" >}}
 
 When Sam Porter Bridges first meets Cliff in Death Stranding, he is an implacable spirit of vengeance caught in the loop of an ancient war. Through occasional visions given when Sam connects to his Bridge Baby, Sam learns more about Cliff's life, and Cliff's connection to BB. By the end of the game, the full scope of Cliff's love and sacrifice are made plain, and Cliff is finally allowed to rest. Just one of the many, many scenes that had me crying in real life.
 
@@ -70,7 +49,7 @@ Some might contend that Cliff is not the real villain in the game, and the game 
 
 ## Dutch van der Linde, "Red Dead Redemption 2"
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/RDR2_Screenshot_018.0-1024x683.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/RDR2_Screenshot_018.0-1024x683.jpg" classes="center" >}}
 
 It takes protagonist Arthur Morgan half the game to realize that his father figure, Dutch van der Linde, is a murderous psychopath who cares only for himself while glibly convincing others to follow him into hell, but we as players know it from the start (if only because he appears as the villain in the original Red Dead Redemption, of which #2 is the prequel).
 
@@ -80,7 +59,7 @@ In the end, his last appearance in the game, when he has a last chance at reveng
 
 ## Constantin, "Greedfall"
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/old-countries-in-a-new-world-1024x576.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/old-countries-in-a-new-world-1024x576.jpg" classes="center" >}}
 
 It's been a couple of years. It's no longer a spoiler who Greedfall's true villain is, is it?
 

@@ -3,24 +3,8 @@ date: '2009-06-18T07:49:05-05:00'
 draft: false
 title: "Daily Blogroll 6/18 -- Fun with your new Brad edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/18/daily-blogroll-618-fun-with-your-new-brad-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A few days ago, the MMO blogging world burned with the news that rock star MMO developer turned lonely exile, Brad McQuaid, had returned from..."
+categories:
   - "Aion"
   - "Cities XL"
   - "Daily Blogroll"
@@ -29,20 +13,13 @@ tags:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg"
 ---
+A few days ago, the MMO blogging world burned with the news that rock star MMO developer turned lonely exile, Brad McQuaid, had returned from...
+<!--more-->
 
-![Woot! Lord Tipa has come to save us!](https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-06-11-52-13-75.jpg "Woot! Lord Tipa has come to save us!")
+
 
 A few days ago, the MMO blogging world burned with the news that rock star MMO developer turned lonely exile, Brad McQuaid, had returned from his lonely, sparse existence of [playing video games, racing cars and sports bikes](http://www.bradmcquaid.com/Brad_McQuaid/Blog/Entries/2009/6/14_Where_the_heck_have_you_been.html) and feeling sorry about the harsh hand life dealt him to [urge people to play more Vanguard](http://www.bradmcquaid.com/Brad_McQuaid/Blog/Entries/2009/6/16_Silius_and_the_current_VG_Team.html). Some people were skeptical, [but have come to believe](http://www.thegrouchygamer.com/?p=192). Others [forgive him for his sins](http://ardwulfslair.wordpress.com/2009/06/17/forgiving-brad-mcquaid/).
 

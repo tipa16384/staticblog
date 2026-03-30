@@ -3,40 +3,17 @@ date: '2007-12-11T08:33:24-05:00'
 draft: false
 title: "EQ2: Charasis -- The Vault"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/11/eq2-charasis-the-vault/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "No time for leveling last night; when I sat down to play, I was invited to a Crypt of Agony group right away, and of..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-10-23-36-06-76.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-10-23-36-06-76.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-10-23-36-06-76.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-10-23-36-06-76.jpg"
 ---
+No time for leveling last night; when I sat down to play, I was invited to a Crypt of Agony group right away, and of...
+<!--more-->
 
-![everquest2-2007-12-10-23-36-06-76.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-10-23-36-06-76.jpg)
+
 
 No time for leveling last night; when I sat down to play, I was invited to a Crypt of Agony group right away, and of course, I had to go. Have I mentioned that dungeon crawls are my absolutely favorite thing to do in EQ? It would be fair to say that meeting the dangers along with new friends is at the very heart of what makes MMOs enjoyable, for me, and the more time I spend in a group using all my character's abilities to the limit, the more fun I am having.
 
@@ -46,7 +23,7 @@ I logged in at around nine last night. I was the only person on in my guild, and
 
 The group leader suggested we follow up CoA with a trip to Howling Stones.
 
-![everquest2-2007-12-11-00-01-06-04.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-11-00-01-06-04.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-11-00-01-06-04.jpg" classes="center" >}}
 
 Mmmm. Howling Stones.
 
@@ -56,7 +33,7 @@ The new Howling Stones knows about the old one. OSHA has been after them, appare
 
 We went to one of the Howling Stones instances, "The Vault". This is a labyrinth covered with glowing runes and puzzles. I wasn't quite sure what to do with all the glowing gems; they needed to be placed in certain spots. Ancient scrolls needed to be read and their equally ancient guardians dealt with. Loot needed to be given to the scouts *ahem* yes, y'r faithful haffer got her first piece of the RoK legendary set, the Shoulders of Imperious Strikes. That wasn't the only loot that dropped but it was the only piece I got -- and it was plenty.
 
-![everquest2-2007-12-11-00-12-22-78.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-11-00-12-22-78.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-11-00-12-22-78.jpg" classes="center" >}}
 
 We ended up facing a tall phylactery, guarded by a glowing skeleton. The group leader warned that two skeletons would spawn from the urns to each side, walk toward the boss, and heal him. I volunteered to mez them, which I did, and it became the easiest fight of the night, as the two helper skeletons gazed, stunned, at the ceiling. Someone had shared a quest for that phylactery, so we all got that update. The master chest had gotten stuck in the wall, but I found if I went to first person view, stuck my nose to the wall and then turned around, there it was, so I opened it and there was some nice loot for the tank and one of the casters.
 

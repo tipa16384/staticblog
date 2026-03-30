@@ -3,49 +3,26 @@ date: '2012-10-11T06:51:44-05:00'
 draft: false
 title: "Game Log: Pirate101, Torchlight 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/11/game-log-pirate101-torchlight-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I kinda remembered the Presidio battle from Alpha, but Arislyn on Google+ was saying it had gotten a lot tougher. I think I did it..."
+categories:
   - "Diablo 3"
   - "MMORPG"
   - "Other Games"
   - "Pirate101"
   - "Torchlight"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg"
 ---
+I kinda remembered the Presidio battle from Alpha, but Arislyn on Google+ was saying it had gotten a lot tougher. I think I did it...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-10-21-01-42-45-480x360.jpg" title="Rumble in the Presidio" class="align-center" >}}
+
 
 I kinda remembered the Presidio battle from Alpha, but Arislyn on Google+ was saying it had gotten a lot tougher. I think I did it with someone else back then, but I didn't remember it being TOO hard.
 
 Basic plot is, you're trying to get a favor from the Frogfather -- the location of a notorious pirate you've been chasing -- and to earn that, you need to do the Frogfather a favor -- get some spices stored in the Monquista Presidio.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-10-20-46-22-23-480x228.jpg" title="Choose three!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-20-46-22-23-480x228.jpg" title="Choose three!" classes="center" >}}
 
 The game warns you that this instance will take a good amount of time. A witchdoctor player stepped into the entrance same time as me, so I had help going through it. It was pretty vital. She'd gotten the Boochbeard Bundle and had the cat companion plus a couple others I didn't know, likely because of her different personal story.
 
@@ -55,7 +32,7 @@ Even with heals from the WD and the heal I get from the magic eyepatch that I th
 
 We did win, and I used my health potion to bring my dead companions back to life as we did one last battle to free one of the Frogfather's henchmen, a giant crab.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-10-21-26-57-76-480x359.jpg" title="New ship!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-10-21-26-57-76-480x359.jpg" title="New ship!" classes="center" >}}
 
 I got a nice amulet for another class as loot, but without the auction house, it just gets sold to a vendor. Sorry. When I returned to the Frogfather, instead of repaying the favor with the location of the dog pirate we were pursuing, he transferred the obligation to some old rabbit, so now I have to go find HIM.
 
@@ -67,7 +44,7 @@ Pirate level: 8, Nautical level: 3
 
 I was happy to "friend" Eccentric Austen Oarsley, but Arislyn's friend code didn't work for me :(
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Torchlight2-2012-10-10-23-32-46-57-480x360.jpg" title="Torchlight 2" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Torchlight2-2012-10-10-23-32-46-57-480x360.jpg" title="Torchlight 2" classes="center" >}}
 
 Slowly making my way through Torchlight 2, killed the boss of Act I, the Grand Regent, and moved on to Act II. I'm playing an engineer, though my main gadget at this point is a small bot that follows me around, healing me. Next level, at 21, I start unlocking a turret bot that puts on the pain for a minute of every three.
 

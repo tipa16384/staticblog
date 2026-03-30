@@ -3,42 +3,20 @@ date: '2009-07-07T00:40:39-05:00'
 draft: false
 title: "Wizard 101: Why crafting is broken, and how to fix it"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/07/wizard-101-why-crafting-is-broken-and-how-to-fix-it/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "With the Grizzleheim expansion, KingsIsle also brought crafting to the world of Wizard 101. The crafting system chosen is the most ... um ... unique(?)..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Crafting"
   - "Grizzleheim"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/w101station.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/w101station.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101station.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101station.jpg"
 ---
+With the Grizzleheim expansion, KingsIsle also brought crafting to the world of Wizard 101. The crafting system chosen is the most ... um ... unique(?)...
+<!--more-->
 
-![Crafting in Wizard101 is done at one of four crafting stations](https://chasingdings.com/wp-content/uploads/2009/07/w101station.jpg "Crafting in Wizard101 is done at one of four crafting stations")
+
 
 With the Grizzleheim expansion, KingsIsle also brought crafting to the world of Wizard 101. The crafting system chosen is the most ... um ... unique(?) ... that I've seen in any MMO.
 
@@ -52,7 +30,7 @@ Wizard 101 looks at things differently.
 
 **Harvesting**
 
-![The Black Lotus run](https://chasingdings.com/wp-content/uploads/2009/07/w101blacklotus.jpg "The Black Lotus run")Most WoW-like MMOs require crafters to harvest raw materials from the world, and here, Wizard 101 is no exception. Harvesting nodes spawn here and there throughout the world. W101 crafting requires so MANY resources, though, that a given zone doesn't have enough active harvesting nodes to support even one crafter. Instead, the most efficient means of harvesting resources is to find an area with several node spawns, then flip between the different servers harvesting where you can. This might seem like a hack, but it's impossible to gather the necessary items for free otherwise.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/07/w101blacklotus.jpg" title="The Black Lotus run" classes="center" >}}Most WoW-like MMOs require crafters to harvest raw materials from the world, and here, Wizard 101 is no exception. Harvesting nodes spawn here and there throughout the world. W101 crafting requires so MANY resources, though, that a given zone doesn't have enough active harvesting nodes to support even one crafter. Instead, the most efficient means of harvesting resources is to find an area with several node spawns, then flip between the different servers harvesting where you can. This might seem like a hack, but it's impossible to gather the necessary items for free otherwise.
 
 While the first crafting "badge" isn't too onerous, all later ones require hours spent flipping realms and running a route. I spent the better part of a day running the same circle in Moo Shu for enough items to complete the first of the Moo Shu crafting quests.
 
@@ -68,7 +46,7 @@ Cool-downs punish crafters by making it impossible for a crafter to make things 
 
 **You can't trade money or items to other people**
 
-![Mannequins require vast amounts of rare resources](https://chasingdings.com/wp-content/uploads/2009/07/w101manny.jpg "Mannequins require vast amounts of rare resources")People love the new mannequins, which let you show off your best outfits in your home. Any Apprentice Crafter or above can make these, but they take vast amounts of very, very rare harvests, so it's unlikely to be something I make casually, especially if someone doesn't have the materials. But even if someone DOES have the materials, they can't give them to me (and I couldn't give them the mannequin) because there is no item trading in the game -- just Treasure Cards -- special, single-use cards.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/07/w101manny.jpg" title="Mannequins require vast amounts of rare resources" classes="center" >}}People love the new mannequins, which let you show off your best outfits in your home. Any Apprentice Crafter or above can make these, but they take vast amounts of very, very rare harvests, so it's unlikely to be something I make casually, especially if someone doesn't have the materials. But even if someone DOES have the materials, they can't give them to me (and I couldn't give them the mannequin) because there is no item trading in the game -- just Treasure Cards -- special, single-use cards.
 
 The only possible way to get an item from one player to another is via the Bazaar.
 
@@ -88,7 +66,7 @@ Crafting in Wizard 101 is not any fun at all. Zero. Neither harvesting or the cr
 
 Here's my suggestions for fixing Wizard 101's crafting.
 
-![EQ2 has a reason for different crafting stations](https://chasingdings.com/wp-content/uploads/2009/07/w101eq2crafting.jpg "EQ2 has a reason for different crafting stations")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/07/w101eq2crafting.jpg" title="EQ2 has a reason for different crafting stations" classes="center" >}}
 
 - Get rid of crafting slots. Instead, make crafting take a set amount of time spent at the crafting station, like WoW, EQ2, LotRO, DAoC, Aion, etc etc etc. Having crafting cooldowns of 59+ hours for some items is just ... weird.
 

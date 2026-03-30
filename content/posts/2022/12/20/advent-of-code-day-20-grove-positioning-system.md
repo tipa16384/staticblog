@@ -3,39 +3,17 @@ date: '2022-12-20T23:06:05-05:00'
 draft: false
 title: "Advent of Code Day 20 -- Grove Positioning System"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/20/advent-of-code-day-20-grove-positioning-system/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "As someone remarked today on Reddit, the entire plan hinged upon you remembering a ten digit prime number you randomly overheard twenty days ago."
-description: "As someone remarked today on Reddit, the entire plan hinged upon you remembering a ten digit prime number you randomly overheard twenty days ago."
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "Elf"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-20-22.51.19-A-woman-wearing-a-Christmas-hat-looking-up-at-a-starry-sky-above-a-jungle-at-night.-Her-face-is-lit-by-the-glow-coming-from-her-handheld-device.-By-Ha.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-20-22.51.19-A-woman-wearing-a-Christmas-hat-looking-up-at-a-starry-sky-above-a-jungle-at-night.-Her-face-is-lit-by-the-glow-coming-from-her-handheld-device.-By-Ha.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-20-22.51.19-A-woman-wearing-a-Christmas-hat-looking-up-at-a-starry-sky-above-a-jungle-at-night.-Her-face-is-lit-by-the-glow-coming-from-her-handheld-device.-By-Ha.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-20-22.51.19-A-woman-wearing-a-Christmas-hat-looking-up-at-a-starry-sky-above-a-jungle-at-night.-Her-face-is-lit-by-the-glow-coming-from-her-handheld-device.-By-Ha.png"
 ---
+As someone remarked today on Reddit, the entire plan hinged upon you remembering a ten digit prime number you randomly overheard twenty days ago.
+<!--more-->
 
 I'd say this finally caught me up, but I still have Day 13 to do at some point. 
 

@@ -3,44 +3,22 @@ date: '2010-08-14T00:32:50-05:00'
 draft: false
 title: "Wizard101: Ding! I can go to sleep now?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/14/wizard101-ding-i-can-go-to-sleep-now/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I should be preparing for my trip to NH for a family reunion tonight, but I couldn't resist the opportunity to help a friend with..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Balance"
   - "Celestia"
   - "Grandmaster"
   - "Myth"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/WizardGraphicalClient-2010-08-14-01-21-15-32.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/WizardGraphicalClient-2010-08-14-01-21-15-32.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-14-01-21-15-32.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-14-01-21-15-32.jpg"
 ---
+I should be preparing for my trip to NH for a family reunion tonight, but I couldn't resist the opportunity to help a friend with...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/WizardGraphicalClient-2010-08-14-01-21-15-32.jpg "Marissa and Allison, Grandmasters")
+
 
 I should be preparing for my trip to NH for a family reunion tonight, but I couldn't resist the opportunity to help a friend with Labyrinth... a couple of times... and also finish up the Dragonspyre stone rose and books quests. Combined with another side quest I'd totally missed first time around, and Marissa gained the last two bubbles to hit Grandmaster Conjurer.
 

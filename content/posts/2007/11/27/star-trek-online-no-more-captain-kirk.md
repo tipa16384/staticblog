@@ -3,38 +3,13 @@ date: '2007-11-27T07:39:48-05:00'
 draft: false
 title: "Star Trek Online: No more Captain Kirk?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/27/star-trek-online-no-more-captain-kirk/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Via Tobolds, more news: apparently Perpetual and STO have been on deathwatch for awhile, and last-gasp development is trying to change the direction of the..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Via Tobolds, more news: apparently Perpetual and STO have been on deathwatch for awhile, and last-gasp development is trying to change the direction of the...
+<!--more-->
 
 Via [Tobolds](http://tobolds.blogspot.com/2007/11/tribbles-under-new-ownership.html), [more news](http://www.shacknews.com/onearticle.x/50065): apparently Perpetual and STO have been on deathwatch for awhile, and last-gasp development is trying to change the direction of the game to more casual. It didn't sound very hardcore to me anyway... Free to play? Merde... This is definitely not how I saw the game being released.
 

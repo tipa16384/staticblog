@@ -3,45 +3,24 @@ date: '2010-05-06T06:32:57-05:00'
 draft: false
 title: "IPs that should be MMOs, part 2: Blade Runner"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/06/ips-that-should-be-mmos-part-2-blade-runner/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/bladerunner-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/bladerunner-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/bladerunner-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/bladerunner-480x360.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/bladerunner-480x360.jpg "He say you Blade Runner. He say you under arrest.")](https://chasingdings.com/wp-content/uploads/2010/05/bladerunner.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/bladerunner.jpg)
 
 Exhausted by centuries of abuse and war, Earth is a dying planet. The best and brightest have fled to neighboring solar systems for a second chance at life. Most of the world's wildlife is extinct, and people treasure those animals that survive, like an accidental toad, or a sheep placidly grazing on a rooftop garden. Despair is avoided through the omnipresent mood organs. Humanity pays for its many sins by sharing the suffering of a post-apocalyptic messiah, William Mercer, as he struggles to stay alive in his own little Hell. Artificial snakes, camels, ostriches etc -- replicants -- were developed to fill the human need to share their world with other life. Now, human replicants, engineered as a slave race for offworld colonists, have returned to Earth to build a new life for themselves on a world their masters have ruined.
 
 [Blade Runner](http://en.wikipedia.org/wiki/Blade_Runner), based on Philip K. Dick's "[Do Androids Dream of Electric Sheep?](http://en.wikipedia.org/wiki/Do_Androids_Dream_of_Electric_Sheep%3F)", continues and modernizes the visual vocabulary of a post-apocalyptic dystopia first seen in Fritz Lang's [Metropolis](http://en.wikipedia.org/wiki/Metropolis_(film)). It combines and transcends its inspirations into an alloy that defines its world exactly, and places the viewer in it. At the end of the world, the book and the movie argue in their own ways, we will still be learning what it means to be human.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/05/155394-bladerunner-480x264.jpg" title="Blade Runner rendered in CryEngine 2" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/155394-bladerunner-480x264.jpg" title="Blade Runner rendered in CryEngine 2" classes="center" >}}
 
 I thought yesterday's "Gunsmoke" would be a perfect sandbox game because, well, there's a lot of sand in the setting. Blade Runner would be strongly story-driven through quests and missions. Set years after the movie, replicants have discovered how to build themselves, and are hunting down what remains of humanity to leave the world pure for replicant life.
 

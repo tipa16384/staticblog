@@ -3,24 +3,8 @@ date: '2009-08-11T07:34:45-05:00'
 draft: false
 title: "Daily Blogroll 8/11 -- Cataclysm edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/11/daily-blogroll-811/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Hey, everyone ELSE returns to WoW.... And why not? Rumor has it that Blizzard is definitely going to introduce the Worgen and Goblin races as..."
+categories:
   - "Champions Online"
   - "Daily Blogroll"
   - "Guild Wars"
@@ -28,20 +12,13 @@ tags:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg"
 ---
+Hey, everyone ELSE returns to WoW.... And why not? Rumor has it that Blizzard is definitely going to introduce the Worgen and Goblin races as...
+<!--more-->
 
-![Gnome conga line](https://chasingdings.com/wp-content/uploads/2009/08/39ba0f5f07f444691742d01b64aab12b.jpg "Gnome conga line")
+
 
 Hey, everyone ELSE returns to WoW.... And why not? [Rumor has it](http://www.wow.com/2009/08/10/cataclysm-races-leaked/) that Blizzard is definitely going to introduce the Worgen and Goblin races as new playable races... something ever World of Warcraft player has been expecting since before Burning Crusade was announced. With news of the new expansion and the Starcraft II delays already making the rounds, Green Armadillo asks [what else could Blizzard possibly have in waiting](http://playervsdeveloper.blogspot.com/2009/08/pointless-blizzcon-speculation-is.html) to surprise Blizzcon attendees?
 

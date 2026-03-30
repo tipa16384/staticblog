@@ -3,24 +3,8 @@ date: '2010-11-30T06:00:13-05:00'
 draft: false
 title: "Daily Blogroll, 11/30 -- Worst Case Scenario edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/30/daily-blogroll-1130-worst-case-scenario-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "World of Warcraft's forthcoming Cataclysm expansion (1 week away!!!!) is still setting fire to the blogroll today. Hey, if all a MMO has to do..."
+categories:
   - "Daily Blogroll"
   - "EverQuest"
   - "Everquest"
@@ -31,20 +15,13 @@ tags:
   - "Runes of Magic"
   - "Vanguard"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg"
 ---
+World of Warcraft's forthcoming Cataclysm expansion (1 week away!!!!) is still setting fire to the blogroll today. Hey, if all a MMO has to do...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/11/vgclient-2010-11-29-20-32-30-42.jpg "Well, Vanguard needs SOMETHING!")
+
 
 World of Warcraft's forthcoming Cataclysm expansion (1 week away!!!!) is still setting fire to the blogroll today. Hey, if all a MMO has to do these days to generate some buzz is destroy the world, well, I have a couple candidates who could use some devastation.
 

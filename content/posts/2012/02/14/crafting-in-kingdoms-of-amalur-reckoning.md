@@ -3,40 +3,17 @@ date: '2012-02-14T08:11:06-05:00'
 draft: false
 title: "Crafting in Kingdoms of Amalur: Reckoning"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/14/crafting-in-kingdoms-of-amalur-reckoning/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've really been impressed with Kingdoms of Amalur: Reckoning's crafting. The whole game has actually impressed me more than I thought it would, so good..."
+categories:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-13-23-29-58-39-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-13-23-29-58-39-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-13-23-29-58-39-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-13-23-29-58-39-480x384.jpg"
 ---
+I've really been impressed with Kingdoms of Amalur: Reckoning's crafting. The whole game has actually impressed me more than I thought it would, so good...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-13-23-29-58-39-480x384.jpg" title="Recipe screen" class="align-center" >}}
+
 
 I've really been impressed with Kingdoms of Amalur: Reckoning's crafting. The whole game has actually impressed me more than I thought it would, so good job, Big Huge Games, 38 Studios and Electronic Arts.
 
@@ -44,7 +21,7 @@ There's a couple kinds of crafting common to RPGs; one is where there are fixed 
 
 RPGs like Star Wars Galaxies have a model where the general function of an item -- a template -- is provided, but the actual details are determined by the crafter and their skill. Reckoning follows this latter model.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-13-23-30-04-31-480x384.jpg" title="Making a hood" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-13-23-30-04-31-480x384.jpg" title="Making a hood" classes="center" >}}
 
 Equipment in Reckoning is created via the Blacksmithing skill. Items can be made with from 2 to 5 components, depending on your skill. Each component adds another stat or effect to the item. In the screenshot above, I'm making a new hood for my rogue. I start out with the base component, a leather headdress. Components can be found as loot or by disabling traps (with high detect hidden skill), but are normally created by salvaging unwanted gear.
 
@@ -52,13 +29,13 @@ I toss almost everything I find into salvage, because I like having all my optio
 
 At each step, I make decisions about the final product. Here I select a high armor class headdress over a lower armor class one. I will make some trash loot for selling with the trash components.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-13-23-31-14-50-480x384.jpg" title="Comparing the finished product" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-13-23-31-14-50-480x384.jpg" title="Comparing the finished product" classes="center" >}}
 
 The final crafting component is a gem, found as loot or created with sagecraft. I'm trying here to replace a Might-based helm (from a set) with a Finesse-based hood, so I can at some point switch from my Might/Finesse build to a Finesse/Sorcery build without losing all my gear. It was important to me to not lose the old helmet's innate health regeneration, as your health doesn't regen quickly on its own.
 
 Luckily, I had stumbled onto the formula, through experimentation, for +1 health regeneration gems.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-13-23-32-26-02-480x384.jpg" title="Name it!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-13-23-32-26-02-480x384.jpg" title="Name it!" classes="center" >}}
 
 If I didn't like what I made, I could have backed out the entire process and lost nothing, or tried different components, but in this case it's a clear upgrade and is a great alternative to the old helmet.
 

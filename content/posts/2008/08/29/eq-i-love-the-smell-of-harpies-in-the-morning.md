@@ -3,41 +3,18 @@ date: '2008-08-29T08:43:03-05:00'
 draft: false
 title: "EQ: I love the smell of Harpies in the morning"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/29/eq-i-love-the-smell-of-harpies-in-the-morning/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The regular Friday group was postponed this week because of the Labor Day holiday, but that didn't mean we weren't going to have any EQ..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-28-22-24-18-62.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-28-22-24-18-62.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-28-22-24-18-62.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-28-22-24-18-62.jpg"
 ---
+The regular Friday group was postponed this week because of the Labor Day holiday, but that didn't mean we weren't going to have any EQ...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-28-22-24-18-62.jpg "eqgame-2008-08-28-22-24-18-62")
+
 
 The regular Friday group was postponed this week because of the Labor Day holiday, but that didn't mean we weren't going to have any EQ action this week. Sejal, still reeling from the horrible news that cruising through the Plane of Justice Execution trial no longer flags you to enter the Planes of Storms and Valor. Apparently there's still some level 55 barrier in place...
 
@@ -45,7 +22,7 @@ Nobody ever thinks of us poor mid-levels!
 
 So last night's goal was two-fold. First was to do the Aura quests for Tsukiko and Sejal. Auras are buffs that radiate from the caster and buff anyone within range. They are amazingly vital for raids, and a nice bonus when just in a group. Tsukiko's warrior aura increases everyone's AC and proc rate, and Sejal's increases mana regen for everyone in the area. Cool stuff.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-28-19-14-58-30.jpg "eqgame-2008-08-28-19-14-58-30")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-28-19-14-58-30.jpg" title="eqgame-2008-08-28-19-14-58-30" classes="center" >}}
 
 The whole quest took place in the underground lost city of the Sand Elves, Takish-Hiz. Which was filled with... sand, sand golems, sand drawings, sand in the shoes, sand in various other uncomfortable places... like being at the beach at midnight, with monsters. And no water.
 
@@ -67,6 +44,6 @@ The group went fine, though we were in constant danger of wiping due to adds sin
 
 Sejal ended the night 20% from 55, I am about halfway through 57 and gained another AA (10% xp going to AAs) for a total of 31 -- which isn't bad for a new character my level.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-29-07-44-20-65.jpg "everquest2-2008-08-29-07-44-20-65")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-07-44-20-65.jpg" title="everquest2-2008-08-29-07-44-20-65" classes="center" >}}
 
 What's this picture? Oh, nothing much. Just interior designer to the stars, the queen of feng-shui herself, [STARGRACE](http://mmoquests.com), building the Tanglewood Community Theater in my apartment in Gorowyn. I am sooooo excited :)

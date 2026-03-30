@@ -3,24 +3,8 @@ date: '2008-01-02T17:28:56-05:00'
 draft: false
 title: "Great Expectations: 2008"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/02/great-expectations-2008/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "2007 opened with me splitting my time between EQ1 and EQ2. Through brief flings with LotRO, Dungeon Runners and Mythos, and even briefer flings with..."
+categories:
   - "Age of Conan"
   - "EverQuest"
   - "Lord of the Rings"
@@ -31,18 +15,9 @@ tags:
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+2007 opened with me splitting my time between EQ1 and EQ2. Through brief flings with LotRO, Dungeon Runners and Mythos, and even briefer flings with...
+<!--more-->
 
 2007 opened with me splitting my time between EQ1 and EQ2. Through brief flings with LotRO, Dungeon Runners and Mythos, and even briefer flings with a half dozen more I played just once, I ended the year in pretty much the same place -- playing EQ2 exclusively.
 

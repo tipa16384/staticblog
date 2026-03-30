@@ -3,39 +3,16 @@ date: '2007-10-01T07:17:17-05:00'
 draft: false
 title: "PernMUSH"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/01/pernmush/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In thinking about how Wiki technology could be extended to make MUDs (text-only Multi-User Dungeon -- these were the MMORPGs of the 80s and 90s),..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/pern.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/pern.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/pern.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/pern.png"
 ---
+In thinking about how Wiki technology could be extended to make MUDs (text-only Multi-User Dungeon -- these were the MMORPGs of the 80s and 90s),...
+<!--more-->
 
-![pern.png](https://chasingdings.com/wp-content/uploads/2007/10/pern.png)
+
 
 In thinking about how Wiki technology could be extended to make MUDs (text-only **M**ulti-**U**ser **D**ungeon -- these were the MMORPGs of the 80s and 90s), I got wondering if the MUD in which I spent the most time, PernMUSH, was still around...
 
@@ -43,7 +20,7 @@ And what do you know, it's still up.
 
 Anne McCaffrey writes romance novels. They may seem to be fantasy or science fiction (or, in the case of the Pern books, *both*), but what they really are, are romance novels.
 
-![pernbook.png](https://chasingdings.com/wp-content/uploads/2007/10/pernbook.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/pernbook.png" classes="center" >}}
 
 *I've read this a dozen times over the past thirty years, Maybe more.*
 

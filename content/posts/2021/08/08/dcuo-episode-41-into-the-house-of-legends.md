@@ -3,48 +3,26 @@ date: '2021-08-08T10:07:46-05:00'
 draft: false
 title: "DCUO Episode 41: Into the House of Legends"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/08/dcuo-episode-41-into-the-house-of-legends/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So, I listened to the DCUO livestream the other day, where they showed a preview of the House of Legends episode, packed to the rafters..."
+categories:
   - "Blaugust"
   - "DC Universe Online"
   - "MMORPG"
   - "Steam Games"
+tags:
   - "House of Legends"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/HouseOfLegends.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/HouseOfLegends.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/HouseOfLegends.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/HouseOfLegends.jpg"
 ---
+So, I listened to the DCUO livestream the other day, where they showed a preview of the House of Legends episode, packed to the rafters...
+<!--more-->
 
 So, I listened to [the DCUO livestream](https://www.twitch.tv/videos/1110360816) the other day, where they showed a preview of the House of Legends episode, packed to the rafters with quality-of-life changes and new content. I was listening, fascinated, until they mentioned that House of Legends was currently LIVE ON THE TEST SERVER.
 
 So, I, um, quit the livestream and installed the test version of DCUO and went to have a look for myself.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.26.500-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.26.500.jpg)Allies screen
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.26.500-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.26.500.jpg)Allies screen
 
 **Allies**
 
@@ -54,7 +32,7 @@ It's the latter. Allies come, they do they iconic attack, and then they take off
 
 Having everyone have their Allies out all the time would mean everyone would be being followed around by Batman, which would be, not gonna lie, a little awesome. I can see why they wouldn't necessarily want that, though.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.15.230-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.15.230.jpg)Tempus Fuginaut
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.15.230-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.15.230.jpg)Tempus Fuginaut
 
 **Tier Gear**
 
@@ -62,7 +40,7 @@ Tempus Fuginaut sells tier-specific gear. One of the major goals with Hall of He
 
 The gear Tempus sells, for source marks, will always be the best gear to buy in order to raise your combat rating. For those leveling characters through the ranks to the end game, the cycle will be to do On Duty missions to get source marks, and then buy gear to fill the gaps here. Rinse and repeat.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.35.500-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.35.500.jpg)Map of Hall of Legends
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.35.500-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.35.500.jpg)Map of Hall of Legends
 
 **The Map**
 
@@ -70,9 +48,9 @@ The Hall of Legends is split into four parts, which are all at the same level an
 
 It's the Main Observation Deck where all the bank, auction and mail vendors are as well.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.11.540-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.11.540.jpg)Pet Vendor
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.11.540-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.11.540.jpg)Pet Vendor
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.11.500-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.11.500.jpg)More pets
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.11.500-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.11.500.jpg)More pets
 
 **Pets**
 
@@ -80,7 +58,7 @@ Chang Tzu, the Apocalyptian Egg, sells all the pets. You can buy any Tier 1 pet 
 
 Tier 3 pets are only for those who have completed the content at the elite level. These are the pets you most want by your side.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.33.430-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.33.430.jpg)New On Duty screen
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.33.430-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.33.430.jpg)New On Duty screen
 
 The new On Duty screen has been entirely reworked. (The old On Duty screen is still available in the Custom Play tab, if you want to queue for something specific). You choose the roles you're queueing for, and then choose options.
 
@@ -94,7 +72,7 @@ There's a normal teleportation portal that brings you to safe houses and police 
 
 Finding the portals to the episode hubs in the old bases was just impossible.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.20.190-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/MHQS104_AUDIO-PC-07-14.20.190.jpg)It's ~~probably~~ definitely a trap.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.20.190-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/MHQS104_AUDIO-PC-07-14.20.190.jpg)It's ~~probably~~ definitely a trap.
 
 **Other Useful Stuff**
 

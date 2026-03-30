@@ -3,47 +3,25 @@ date: '2023-09-24T16:29:36-05:00'
 draft: false
 title: "D&D Session 1: The Lost Mine of Phandelver"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/09/24/dd-session-1-the-lost-mine-of-phandelver/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This is a ChatGPT-written description of our first D&D session in the 5e starter adventure, The Lost Mine of Phandelver."
-description: "This is a ChatGPT-written description of our first D&D session in the 5e starter adventure, The Lost Mine of Phandelver."
-tags:
+categories:
   - "Dungeons & Dragons"
   - "Game Night"
   - "Tabletop Game"
+tags:
   - "5e"
   - "D&d"
   - "Phandalin"
   - "Phandelver"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/Phandelverobservers.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/09/Phandelverobservers.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/Phandelverobservers.webp"
 ---
+This is a ChatGPT-written description of our first D&D session in the 5e starter adventure, The Lost Mine of Phandelver.
+<!--more-->
 
 This was written by ChatGPT 4 based on our DM's notes.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-32.png" title="I kinda look like the player back right" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-32.png" title="I kinda look like the player back right" classes="center" >}}
 
 ### Chapter 1: The Gathering Storm
 
@@ -57,7 +35,7 @@ Gregory responded with a hearty laugh, "We shall see, Skulltaker! May the best h
 
 The game concluded in a draw, leaving them with a mutual respect, acknowledging each other's mettle with hearty laughter and claps on the back.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/IMG_3998-1024x768.jpg" title="Clockwise from top; DM, chair where cleric sits, Bard, Warlock, Barbarian" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/IMG_3998-1024x768.jpg" title="Clockwise from top; DM, chair where cleric sits, Bard, Warlock, Barbarian" classes="center" >}}
 
 In the shadowed corner of the inn, the Bard, his face hidden under a hood, played enchanting melodies. His fingers danced on the strings of his lute, while the other hand subtly relieved the entranced audience of their possessions. His eyes, twinkling with mischief, locked with the intense gaze of a figure obscured in the darkness.
 
@@ -79,7 +57,7 @@ As they debated, a shadow passed overhead, drawing the attention of the entire i
 
 With an air of unified resolve, the newly formed band of adventurers stepped into the twilight, their shadows melding with the encroaching night. The journey to the dwarven archaeological dig had begun, marking the first chapter of an epic tale that would be forged in battle and camaraderie.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-33-1024x643.png" title="I think Gregory is on the left, Harka in the middle, Warlock on the right" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-33-1024x643.png" title="I think Gregory is on the left, Harka in the middle, Warlock on the right" classes="center" >}}
 
 ### Chapter 2: Echoes of Ancient Ruins
 
@@ -115,7 +93,7 @@ Before them, the final room was blocked by rubble, its secrets whispering throug
 
 As they retreated for the night, laughter and tales of bravery filled the mountain air, the bond among them growing stronger. The ruins, once silent, were now echoing with the spirit of adventure, marking the second chapter of their epic journey.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-34-1024x643.png" title="I just have to think we'll be fighting this at some point" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-34-1024x643.png" title="I just have to think we'll be fighting this at some point" classes="center" >}}
 
 ### Chapter 3: Revelations and Confrontations
 

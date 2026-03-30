@@ -3,41 +3,19 @@ date: '2020-06-29T11:59:11-05:00'
 draft: false
 title: "ABP -- Always Be Printing, Always Be Painting"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/29/abp-always-be-printing-always-be-painting/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We're working as hard as we can to be able to play Gloomhaven: Jaws of the Lion the way we want to play it --..."
+categories:
   - "3D Printing"
   - "Gloomhaven"
+tags:
   - "Creality Ender 3 Pro"
   - "Elegoo Mars"
   - "Jaws of the Lion"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1698.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1698.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1698.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1698.jpg"
 ---
+We're working as hard as we can to be able to play Gloomhaven: Jaws of the Lion the way we want to play it --...
+<!--more-->
 
 We're working as hard as we can to be able to play Gloomhaven: Jaws of the Lion the way we want to play it -- by making a quick, easy to set up and play game an exercise in overcompensation.
 
@@ -51,11 +29,11 @@ From seventeen unlocked and unlockable characters, you begin with four (and they
 
 Everything else in the box is flat cardboard. The scenarios are no longer cardboard tiles, but pages in a book. The monsters are still standees. There is no dimensionality.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1696.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1696.jpg" classes="center" >}}
 
 To up our Gloomhaven, Kingdom Death and Terraforming Mars games, Tom and I have been diving deep into the world of 3D printing. My entry level Creality Ender 3 Pro, a filament printer, is on the left. Tom's Elegoo Mars resin printer and washing/curing station is on the right.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1700.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1700.jpg" classes="center" >}}
 
 The filament printer is best suited for larger prints and terrain; the resin printer is perfect for highly detailed, smaller items, like miniatures.
 
@@ -63,7 +41,7 @@ The picture above shows three times I tried to print the mini for my EQ Shadow K
 
 Aside from the minis, the picture at the top of this post only shows items printed by the filament printer, including my Bulbasaur friend. Everyone has to print a Pokemon. I think it's some sort of natural law.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/1-IMG_1702.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/1-IMG_1702.jpg" classes="center" >}}
 
 Painting is the unfortunate side effect of printing where miniatures are concerned. But if I don't paint these things, they'll remain unpainted.
 

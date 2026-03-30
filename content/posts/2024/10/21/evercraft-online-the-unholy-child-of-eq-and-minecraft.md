@@ -3,46 +3,23 @@ date: '2024-10-21T08:00:00-05:00'
 draft: false
 title: "EverCraft Online: The Unholy Child of EQ and MineCraft"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/10/21/evercraft-online-the-unholy-child-of-eq-and-minecraft/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Not a MineCraft mod, ECO brings back the 1999 experience in style -- block style."
-description: "Not a MineCraft mod, ECO brings back the 1999 experience in style -- block style."
-tags:
+categories:
   - "Adrullan Online Adventures"
   - "EverQuest"
   - "Minecraft"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/evercraft-banner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/10/evercraft-banner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/evercraft-banner.png"
 ---
+Not a MineCraft mod, ECO brings back the 1999 experience in style -- block style.
+<!--more-->
 
 It really is mysterious to me why there are so, so many games seeking to recreate the vibe of the original EverQuest -- the game that brought 3D MMOs to the masses and sparked an industry. Just recently, I wrote about Erenshor, a single-player MMO. Monsters & Memories, Pantheon and Embers Adrift try to bring the game to the modern day. And then there's EverCraft Online.
 
 A recreation of the original so exact, that they have a gnoll dungeon called... Blockburrow.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-9.png" title="(Not Blockburrow)" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-9.png" title="(Not Blockburrow)" classes="fig-20" >}}
 
 Blockburrow, because the conceit of the game is that it's EverQuest, as if the game was recreated with MineCraft graphics. It isn't MineCraft, though -- there's no punching trees or digging or making things, aside from through crafting stations.
 
@@ -64,7 +41,7 @@ Guards try to be helpful, but they don't know anything about the evil guilds, so
 
 The guild master set me on my path, giving me my first SK skill and a depressing look at the cost of my other abilities and spells. Yup, just like EQ.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-10-1024x609.png" title="Die, a brown rat, die" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-10-1024x609.png" title="Die, a brown rat, die" classes="center" >}}
 
 After visiting with the mining trainer (getting a pick), the smithing trainer and the smelting trainer, I headed out to start my rise to glory.
 
@@ -72,7 +49,7 @@ After a couple hours, I was level 3 and closing in on level 4. Yup, slow -- beca
 
 Because *it's not*. Sure, EQ is an inspiration, but the game picks and chooses what it takes. Leaving corpses and xp loss are there, but in crafting, you don't fail. Enchanters can't keep recharming mobs. As blocky as the graphics are, they are better than original EQ's experience with blurry textures obscuring terrain just as blocky, if you saw them bare. You gain skills by using them -- weapon skills improve by hitting things with them, defense increases by being hint, gathering by gathering etc. There are factions that raise and lower as you kill things. My SK is just barely tolerated in Leont -- if a paladin sees me, it will come for me, and the guards will happily join in on the beatdown. This is all very familiar.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-11-1024x427.png" title="EverCraft Online insists on being a full screen application" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-11-1024x427.png" title="EverCraft Online insists on being a full screen application" classes="center" >}}
 
 Who is this for? People who miss EQ but for some reason don't want to play actual EverQuest. Just like all the other EQ nostalgia games. People who like the look of MineCraft but don't want to build stuff. People who just want a fun world in which to adventure and find groups.
 

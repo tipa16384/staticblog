@@ -3,43 +3,21 @@ date: '2022-09-06T08:17:03-05:00'
 draft: false
 title: "Cid's Legacy: A Story of the World of Ruin"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/06/cids-legacy-a-story-of-the-world-of-ruin/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him."
-description: "A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him."
-tags:
+categories:
   - "Fanfic"
   - "Final Fantasy"
+tags:
   - "Celes"
   - "Cid"
   - "Dall-E 2"
   - "Gpt-3"
   - "World of Ruin"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-06-08.14.20-A-painting-of-a-blonde-haired-woman-dressed-in-silver-armor-and-with-the-Ultima-Sword-strapped-to-her-waist-stands-on-a-raft-as-it-sails-into-the-sun.png"
 ---
+A year after Kefka woke the Warring Triad and destroyed the world, Celes wakes up from a coma to find that she is on an island with Cid. Cid has been sick for a long time, and Celes is determined to take care of him.
+<!--more-->
 
 Celes slowly opened her eyes, the light hurting them after being in the dark for so long. It took a moment for her to adjust and remember where she was. She was in Cid's cabin, on the small island they had been stranded on for the past year. Cid had found her after Kefka had destroyed the world and taken care of her ever since.
 
@@ -63,7 +41,7 @@ He opened his eyes and smiled at her. "I knew you'd come back to us, my girl," h
 
 Cid slowly got out of the chair and into the bed. Celes pulled the covers up to his chin and kissed his forehead. "Don't worry, Cid," she said. "I'm going to take care of you. I promise." Celes found an old fishing rod sitting against the wall outside the cabin, and headed to the beach to fish.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-06-08.04.31-An-emotional-painting-of-a-woman-with-blonde-hair-wearing-armor-bringing-a-plate-of-fish-to-an-old-man-in-a-yellow-hat-and-raincoat-who-is-tucked-in.png" title="Celes nursing Cid back to health" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-06-08.04.31-An-emotional-painting-of-a-woman-with-blonde-hair-wearing-armor-bringing-a-plate-of-fish-to-an-old-man-in-a-yellow-hat-and-raincoat-who-is-tucked-in.png" title="Celes nursing Cid back to health" classes="center" >}}
 
 Celes was determined to catch a fish for Cid, no matter how long it took. She cast her line out into the water and waited. The sun was setting, and she was getting tired, but she refused to give up.
 

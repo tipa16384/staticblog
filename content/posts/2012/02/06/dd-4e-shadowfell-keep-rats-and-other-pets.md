@@ -3,40 +3,19 @@ date: '2012-02-06T21:48:14-05:00'
 draft: false
 title: "D&D 4E Shadowfell Keep: Rats, and other pets"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/06/dd-4e-shadowfell-keep-rats-and-other-pets/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-01-23-04-12-58-480x388.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-01-23-04-12-58-480x388.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-01-23-04-12-58-480x388.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-01-23-04-12-58-480x388.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-01-23-04-12-58-480x388.jpg "Don")](https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-01-23-04-12-58.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-01-23-04-12-58.jpg)
 
 ...and that was when the Death Star landed right on top of us. No? I'll get to the meaning of the mysterious shadow in the screenshot above in a bit.
 
@@ -80,7 +59,7 @@ We take our lives in our hands just having a halfling in the team!
 
 When everything quiets down, we've not explored the entire first level, but we have found some pretty suspicious stairs leading down, and explored a storeroom closed by an exquisitely thick tapestry.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-01-22-56-17-36-480x388.jpg" title="Half of the first level" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-01-22-56-17-36-480x388.jpg" title="Half of the first level" classes="center" >}}
 
 There's still blank spaces on the map, though. Wenner and Sheeoil head to one of them, and Bryn and I follow.
 
@@ -96,7 +75,7 @@ A goblin warrior looks at me dazedly. I grin. Wenner does all sorts of damage to
 
 Quick survey of the group uncovered no hobgoblins, so we felt we were pretty safe from being tortured. Teeth gnashing in frustration, the torturer decided to deal with us the old-fashioned way. With red hot pokers, fresh from the furnace.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-01-23-29-24-60-480x388.jpg" title="Oh, the hot irony..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-01-23-29-24-60-480x388.jpg" title="Oh, the hot irony..." classes="center" >}}
 
 By keeping a "mark" on the torturer, I kept its attention. Wenner perfected a move where he slides up, plants a knife in the torturer and hops back, staying out of melee range. Sheeoil and Bryn picked off the outliers. The torturer made a mad dash at me, knocking me back and taking my spot (the patented #OccupyTipa movement, you know). I kept my feet and struck back with my shield.
 

@@ -3,41 +3,19 @@ date: '2023-01-27T08:25:03-05:00'
 draft: false
 title: "No kidding: I bought (and sold) an NFT."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/01/27/no-kidding-i-bought-and-sold-an-nft/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Turns out there might be at least one use case for the things."
-description: "Turns out there might be at least one use case for the things."
-tags:
+categories:
   - "Comic"
   - "DC Comics"
   - "NFT"
+tags:
   - "Future State"
   - "Wonder Woman"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/01/futurestatewonderwoman1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/01/futurestatewonderwoman1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/futurestatewonderwoman1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/01/futurestatewonderwoman1.jpg"
 ---
+Turns out there might be at least one use case for the things.
+<!--more-->
 
 I've had a lot of fun at the expense of Atari and DC's attempts to make spinning comic book covers or game cartridge boxes a thing. I'd have to pay someone to care enough to even watch my little box or floppy disk spin slowly back and forth, back and forth. A hundred of these things spinning slowly, back and forth. I've seen large collections of these things and the only real question I ever had, was "why?"
 
@@ -47,7 +25,7 @@ The DC NFT marketplace has a lot of stuff of the slowly spinning variety. It als
 
 But... they also sell comic book NFTs.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/01/image-1024x601.png" title="Some of my DC NFTs" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/01/image-1024x601.png" title="Some of my DC NFTs" classes="center" >}}
 
 They gave out a free one -- the Harley Quinn #1 one, shown above. Once you have the NFT, you can read the comic. There are more common and more rare covers, because of course there have to be artificial scarcities, but the comics are perfectly readable.
 
@@ -61,13 +39,13 @@ Free comics, and totally legit.
 
 Bargain, right?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/01/image-1.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/01/image-1.png" classes="center" >}}
 
 There's a couple of catches. DC has to get their taste, so buying the comic NFT comes with a service fee -- $0.72, in this case. And selling also comes with its own fee -- 10%, or $0.40. So if I list this for what it was listed as, it will have cost me $1.12 to read. I don't tend to re-read digital comics. If I like them, I wait until there's a collection and just buy that physically.
 
 There's another catch. Once sold, there is a $25 fee to cash out your account. While selling a picture of a pink Batman helmet might net enough to make that worthwhile, all buying and selling comic book NFTs will do is give store credit. I suppose there are some people who want to have the rare covers, though not sure why. Buying the collected editions usually comes with all the variant covers, sketches, character outlines and so on.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/01/image-2-1024x590.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/01/image-2-1024x590.png" classes="center" >}}
 
 Buying these comic book NFTs is a little bit of a hassle. Selling them is an entirely different story.
 

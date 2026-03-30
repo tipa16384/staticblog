@@ -3,60 +3,40 @@ date: '2012-02-11T20:56:38-05:00'
 draft: false
 title: "STO: \"The 2800\" episode 1 -- Second Wave"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/11/sto-the-2800-episode-1-second-wave/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Deep Space 9"
   - "Dominion"
   - "Ds9"
   - "Federation News Service"
   - "Fns"
   - "Jem'hadar"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-15-41-480x208.jpg "Second Wave")](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-15-41.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-28-15-41.jpg)
 
 We have been waiting for the new Featured Episode arc for a year. The fleet -- Federation News Service, supplier of embedded journalists to Starfleet -- was logging in more and more, getting ready to do whatever would be asked of us. Fleet mates were watching the relevant Deep Space 9 episodes. We were totally there.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/uniforms.png "Uniforms of the day")](https://chasingdings.com/wp-content/uploads/2012/02/uniforms.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/uniforms.png" title="Uniforms of the day" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/02/uniforms.png)
 
 We even specified uniforms of the day (four variations) so we'd be dressed appropriately. Because while the poor, doomed residents of Deep Space 9 didn't know what was going to happen -- we did.
 
 I shouldn't say that. I think the current Deep Space 9 commander knew, because he got out alive, leaving his XO to die. But we'll get to that.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-12-55-55-72-480x360.jpg "Gathered outside DS9")](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-12-55-55-72.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-12-55-55-72-480x360.jpg" title="Gathered outside DS9" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-12-55-55-72.jpg)
 
 We gathered outside Deep Space 9 -- I, Talyn, Azz, Galo, and Kermoon. Well, I shouldn't say "together", since we were in three of the many instances outside DS9. And we weren't ready to start, even though we all had "Start Second Wave" buttons, because you get those whenever anyone has gotten the quest. One of us had gone to the Episodes screen and gotten it, we all had the button, but only one of us was going to get the end rewards. ANYWAY. We all entered the mission -- and found ourselves on Deep Space 9.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-09-28-10-480x364.jpg "Hangin")](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-09-28-10.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-09-28-10-480x364.jpg" title="Hangin" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-09-28-10.jpg)
 
 Well, most of us. Talyn got his own instance.
 
@@ -72,19 +52,19 @@ I'm really not sure what the point of those was. With a full group running aroun
 
 Anyway, mini quests done and delegates notified, we took the turbolift to the conference room and took a seat at the table.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-24-29-53-480x360.jpg "At the conference")](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-24-29-53.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-24-29-53-480x360.jpg" title="At the conference" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-24-29-53.jpg)
 
 The conference started immediately. The Klingon ambassador (who was a Gorn) trumpeted that that Klingon empire was strong and would never accept defeat (the Gorn, remember, are a conquered race. Talk about your textbook Stockholm Syndrome). The Deferans proposed to do nothing and let everyone else help them because that has worked so well with the Breen and the Borg. The Cardassians aren't big fans of anyone else. The Federation ambassador promises to keep the entire quadrant safe, eventually. They're really working hard. A solution is just around the corner. Your words may be assimilated by then but help is on the way.
 
 This discussion isn't going anywhere. The station commander asks for our input. If your diplomacy skill is high enough, you get the decisive arguments and can select them. Otherwise you have to drill down into a conversation tree. Your arguments are either persuasive or miss the mark. I think you get an accolade if you sway all of them to your side.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-38-85-480x157.jpg "The Dominion attacks!")](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-28-38-85.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-28-38-85-480x157.jpg" title="The Dominion attacks!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-28-38-85.jpg)
 
 That's when the wormhole opens and a Dominion fleet streams through. They quickly strike through DS9's defenses and beam Jem'Hadar troops into the promenade. The delegates must be brought to safety, by us!
 
 The turbolift drops us onto a promenade in ruins. Jem'Hadar troops are everywhere. Tactical officers can take a gun from a fallen security officer and give it to the Gorn. Engineering officers can unjam a bulkhead and free a security officer. Science officers can heal a security officer. Doing all three gets you an accolade.  It's a running fight down to the ship docks, and we needed both energy and melee weapons to take the Jem'Hadar down. Several Cardassian Lock Boxes dropped, and quite a lot of Ketracel White.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-38-09-41-480x323.jpg "At the docks")](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-38-09-41.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-38-09-41-480x323.jpg" title="At the docks" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-38-09-41.jpg)
 
 I, as a fabrication engineer, was a little depowered because I could not make most of my devices, like turrets and stuff. Fab engineers are not allowed to make their devices on DS9 because they are considered spammy. Fine, but I felt underpowered on our trip to the docks. I was able to call down some Orbital Bombardments now and then. I don't know from where, or how it hit without blowing a hole straight through the station, but there you go.
 
@@ -98,7 +78,7 @@ From the wormhole came a new Dominion battle group -- several battleships, a squ
 
 Just as we finished that, the vanguard of the Dominion battle group reached DS9.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-13-45-07-35-480x288.jpg" title="My name is Loriss, and I speak for the trees. Er, Dominion." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-13-45-07-35-480x288.jpg" title="My name is Loriss, and I speak for the trees. Er, Dominion." classes="center" >}}
 
 Cutscene as a Jem'Hadar beams in to DS9 Operations and kills the XO, leaving the station commander (who escaped on the Defiant) squawking on comm about what was happening. A Vorta woman beams in and announces that she is Loriss, and is claiming Deep Space 9 on behalf of the Dominion.
 
@@ -106,11 +86,11 @@ You can either warp to Bajor at this point, or stay behind and kill the battle g
 
 Warping out brings you to Bajor orbit, where you release the delegates to their delegations and receive your reward (if you remembered to get the mission before starting it. I had to go back and do it again.)
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-14-57-28-76-480x391.jpg "Loot")](https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-14-57-28-76.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-14-57-28-76-480x391.jpg" title="Loot" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-14-57-28-76.jpg)
 
 Loot is one of two weapons, some Jem'Hadar pistols or a Jem'Hadar rifle. The rifle is part of a set, the set which will clearly be completed by other episodes in this arc. So get that. Do it again for the pistols if you like. The other rewards are consumable weapon power-ups. Presumably future episodes will need these weapons, so look for more ground missions in this arc.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-02-11-17-21-47-23-480x355.jpg" title="Krontar! Of House Krondor!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-02-11-17-21-47-23-480x355.jpg" title="Krontar! Of House Krondor!" classes="center" >}}
 
 Here's my Klingon captain modeling the rifle. Look at his spindly legs and laugh! Laugh! Ask him about his smooth forehead! See how he cowers in fear! He is no true warrior! Hahaha!
 

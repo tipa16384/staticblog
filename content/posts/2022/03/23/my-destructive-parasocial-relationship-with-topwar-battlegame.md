@@ -3,42 +3,20 @@ date: '2022-03-23T23:16:00-05:00'
 draft: false
 title: "My Destructive Parasocial Relationship with TopWar: BattleGame."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/23/my-destructive-parasocial-relationship-with-topwar-battlegame/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Nobody really expects the ads for a mobile game to resemble in any way the actual game, do they? Why do I care so much..."
+categories:
   - "Asides"
+tags:
   - "Topwar: Battlegame"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/totalwar.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/totalwar.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/totalwar.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/totalwar.jpg"
 ---
+Nobody really expects the ads for a mobile game to resemble in any way the actual game, do they? Why do I care so much...
+<!--more-->
 
 Nobody really expects the ads for a mobile game to resemble in any way the actual game, do they? Why do I care so much when TW:BG advertises a game that doesn't exist?
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/topwarss.png)](https://chasingdings.com/wp-content/uploads/2022/03/topwarss.png)TopWar: BattleGame (the actual one)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/topwarss.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/topwarss.png)TopWar: BattleGame (the actual one)
 
 TW:BG is a base building game, where you click stuff and drag stuff onto other stuff to upgrade it into better stuff. Opening up new areas requires using your merged troops in a non-interactive battle with some enemy troops. You can purchase heroes that will do an initial action in a battle. Marvel's Black Widow is given for free, and they also currently have a Hasbro Transformers collaboration running, so they have connections.
 

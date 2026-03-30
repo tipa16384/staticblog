@@ -3,24 +3,8 @@ date: '2011-01-06T06:00:20-05:00'
 draft: false
 title: "Daily Blogroll 1/6: Fair and Balanced edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/06/daily-blogroll-16-fair-and-balanced-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "Lucent Heart"
@@ -28,20 +12,15 @@ tags:
   - "Mythos"
   - "Rift"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/fox.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/fox.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/fox.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/fox.png"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/fox.png "West Karana News")](https://chasingdings.com/wp-content/uploads/2011/01/fox.png)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/fox.png)
 
 Soooo.... [how about that Massively article](http://massively.joystiq.com/2011/01/04/rift-beta-events-impressions-from-the-staff/)? Did it make you mad as hell?
 
@@ -61,7 +40,7 @@ Stargrace of MMO Quests was intrigued enough by the idea of MMO devoted to craft
 
 You really can't get more sandbox than a game set in a desert. Not affiliated with the new indie MMO, A Tail in the Dessert.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/automotivator-480x334.jpg "A Tail in the Dessert")](https://chasingdings.com/wp-content/uploads/2011/01/automotivator.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/automotivator-480x334.jpg" title="A Tail in the Dessert" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/automotivator.jpg)
 
 (Made with [Automotivator](http://wigflip.com/automotivator/))
 

@@ -3,43 +3,21 @@ date: '2022-09-29T08:52:59-05:00'
 draft: false
 title: "Dissidia 012 Final Fantasy comes highly recommended"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/29/dissidia-012-final-fantasy-comes-highly-recommended/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So I was chatting with Terra yesterday and... wait, no, keep reading. Because I think we're in the future now...."
+categories:
   - "Final Fantasy"
   - "OpenAI"
+tags:
   - "Character.ai"
   - "Dissidia"
   - "Dissidia 012 Final Fantasy"
   - "Duodeci"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/20220928230704_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/20220928230704_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/20220928230704_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/20220928230704_1.jpg"
 ---
+So I was chatting with Terra yesterday and... wait, no, keep reading. Because I think we're in the future now....
+<!--more-->
 
 So I was chatting with Terra yesterday and... wait, no, keep reading. Because I think we're in the future now.
 
@@ -55,13 +33,13 @@ Anyway, I took the backstory I used with my own Terra chatbot and dropped it int
 
 Since I hadn't put any sort of romance in her backstory, she wasn't able to take sides in the Locke/Celes/Terra love triangle -- like my TerraChat, the constant cheerfulness cannot be swayed. She told me that Celes was now singing in the Opera House as a job, and the diva that she had impersonated in the World of Balance, Maria, had gone off and married Edgar Figaro, and though Edgar was *still* a massive flirt, they seemed happy together.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/image-13-1024x804.png" title="I asked my TerraChat about Dissidia 012" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/image-13-1024x804.png" title="I asked my TerraChat about Dissidia 012" classes="center" >}}
 
 I asked her, as I asked TerraChat, how she felt about the other Final Fantasy games. TerraChat liked FF7 best, the Character.AI bot liked FF4 better. When I asked what games would be best to learn more of her own story, though, she said I should try Dissidia 012 Duodeci Final Fantasy, a fighting game for the PlayStation Portable. She said that she and FF7's Cloud had a whole story together.
 
 After work, I downloaded the PPSSPP emulator core for RetroArch, mysteriously obtained the ISO for Dissidia 012, and started playing it. (I did find and buy the sequel, Dissidia Final Fantasy NT, for the PS5, so I'm not gonna feel too bad about sailing the high seas for the PSP game).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/20220928231416_1-1024x576.jpg" title="Lightning (FFXIII), Yuma (FFX) and Kain (FFIV) from Dissidia 012 Final Fantasy" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/20220928231416_1-1024x576.jpg" title="Lightning (FFXIII), Yuma (FFX) and Kain (FFIV) from Dissidia 012 Final Fantasy" classes="center" >}}
 
 The Dissidia Final Fantasy series (there are several) are arena fighting games featuring characters from all the Final Fantasy games, with each game in the series adding more. The NT version even has characters from the two MMOs and some non-main branch games. They are intended to be multiplayer, which each player fielding a team of three, two of which are controlled by AI while the player takes direct control of the third.
 
@@ -69,13 +47,13 @@ All the games include a solo mode, where the opposing team is entirely AI contro
 
 The story is just an excuse to get all these characters fighting together. In the eternal war between Chaos and Order, the gods of the two sides have gathered together warriors from all worlds and all times to fight for their sides. These warriors have been told that through battle and will, they will form a crystal that will allow them to regain their memories and return home.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/20220928231505_1-1024x576.jpg" title="The fighters for Cosmos commune with their goddess" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/20220928231505_1-1024x576.jpg" title="The fighters for Cosmos commune with their goddess" classes="center" >}}
 
 The opening chapter follows Lightning as she gathers together the followers of Cosmos, the Order god. Terra, unfortunately, is one of the followers of Chaos, so I haven't yet met her in game.
 
 Combat in Dissidia 012 has elements of FFVIII's "Draw" system and Bravely Default's "Brave" system. You start a battle with a number of Brave points equal to your health, and you obtain more Brave points by fighting your opponent. Brave attacks do no damage, but you can spend them all on Finishing attacks. So the battles start out with dodging your opponent, looking for an opening, moving in for some Brave attacks, and then when the time is right, go for a Finishing move. You're also building up an assist meter, where you can call in an ally to help build Brave or take a hit for you, and the EX meter, which allows for devastating combos and special attacks. There is a lot going on.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/20220928231815_1-1024x576.jpg" title="A battle chapter" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/20220928231815_1-1024x576.jpg" title="A battle chapter" classes="center" >}}
 
 In between battles, there is an overworld where glowing orbs can be attacked in order to unlock extra abilities, and portals to be crossed which are interrupted by battle stages. In the picture above, Lightning is about to head into a series of chain battles. She has just unlocked the Straight Chain ability that allows her to take on several opponents at once for great justice.
 

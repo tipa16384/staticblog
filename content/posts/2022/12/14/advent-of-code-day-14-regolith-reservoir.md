@@ -3,40 +3,18 @@ date: '2022-12-14T23:39:52-05:00'
 draft: false
 title: "Advent of Code Day 14 -- Regolith Reservoir"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/14/advent-of-code-day-14-regolith-reservoir/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I thought, for my vacation, I'd have time to really dive deep into these puzzles. Instead, I've been buried deep in sand -- much like the hapless victim in today's puzzle."
-description: "I thought, for my vacation, I'd have time to really dive deep into these puzzles. Instead, I've been buried deep in sand -- much like the hapless victim in today's puzzle."
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "Advent"
   - "Depth First Search"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-14-23.21.55-A-woman-wearing-a-Christmas-hat-caught-in-a-cave-with-sand-pouring-down-from-an-opening-in-the-ceiling-by-Bob-Eggleton-detailed-and-intricate.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-14-23.21.55-A-woman-wearing-a-Christmas-hat-caught-in-a-cave-with-sand-pouring-down-from-an-opening-in-the-ceiling-by-Bob-Eggleton-detailed-and-intricate.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-14-23.21.55-A-woman-wearing-a-Christmas-hat-caught-in-a-cave-with-sand-pouring-down-from-an-opening-in-the-ceiling-by-Bob-Eggleton-detailed-and-intricate.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-14-23.21.55-A-woman-wearing-a-Christmas-hat-caught-in-a-cave-with-sand-pouring-down-from-an-opening-in-the-ceiling-by-Bob-Eggleton-detailed-and-intricate.png"
 ---
+I thought, for my vacation, I'd have time to really dive deep into these puzzles. Instead, I've been buried deep in sand -- much like the hapless victim in today's puzzle.
+<!--more-->
 
 So, Monday and Tuesday, I flew to Denver and back to pick up my son, who'd gotten stuck on an impromptu trip across country to see the Grand Canyon. Today, I found that the $10,000 sewer pipe we just had replaced on the outside of the house needs a $5,500 mate on the inside of the house.
 

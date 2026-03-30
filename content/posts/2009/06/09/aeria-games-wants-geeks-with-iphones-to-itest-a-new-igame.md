@@ -3,41 +3,17 @@ date: '2009-06-09T17:25:58-05:00'
 draft: false
 title: "Aeria Games wants Geeks with iPhones to iTest a new iGame"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/09/aeria-games-wants-geeks-with-iphones-to-itest-a-new-igame/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I knew I wasn't crazy! Okay, back up -- I knew I had really seen this! Jury's still out about the whole \"crazy\" thing...."
+categories:
   - "Other Games"
+tags:
   - "Aeria Games"
   - "Icollector"
   - "iPhone"
   - "Parallel Kingdoms"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I knew I wasn't crazy! Okay, back up -- I knew I had really seen this! Jury's still out about the whole "crazy" thing....
+<!--more-->
 
 I knew I wasn't crazy! Okay, back up -- I knew I had really seen this! Jury's still out about the whole "crazy" thing.
 

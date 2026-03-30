@@ -3,44 +3,22 @@ date: '2020-12-22T13:15:02-05:00'
 draft: false
 title: "Quick Takes: Fallout Shelter"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/12/22/quick-take-fallout-shelter/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "A \"Fallout\"-branded worker placement mobile game in the vein of Ellison's \"A Boy and His Dog\""
-description: "A \"Fallout\"-branded worker placement mobile game in the vein of Ellison's \"A Boy and His Dog\""
-tags:
+categories:
   - "Mobile Games"
   - "PS4"
   - "PS5"
+tags:
   - "F2P"
   - "Fallout"
   - "Fallout Shelter"
   - "Mobile Game"
   - "Quick Take"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Fallout-Shelter_20201222093220-scaled.jpg"
 ---
+A "Fallout"-branded worker placement mobile game in the vein of Ellison's "A Boy and His Dog"
+<!--more-->
 
 I'm not a huge fan of the "Fallout" game series, so when Fallout Shelter, a mobile game based on the series, was released, I wasn't very interested. I happened upon it recently while browsing games on the PS5, and thought I'd give it another chance. I found a pretty interesting worker placement game for which a non-mobile platform like the PlayStation might not be the best choice on which to play it.
 
@@ -50,7 +28,7 @@ Because nuclear war had become inevitable, the government had time to build vast
 
 (Apologies if I got any of this wrong; I have not played much Fallout).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Fallout-Shelter_20201222092650-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Fallout-Shelter_20201222092650-1024x576.jpg" classes="center" >}}
 
 In Fallout Shelter, you are the omniscient Overseer of a fallout shelter that was left unfinished as Armageddon approached. Your job is to take in what survivors you can and expand the shelter while fending off disasters such as fire, mutant rats, mutant bugs, regular old mutants, and raiders who care nothing about their lives or yours.
 
@@ -69,7 +47,7 @@ Which is actually... kinda bad. Once your workers have completed their tasks, th
 
 Once your Vault reaches a decent size, you'll have to do a LOT of clicking, and it never really lets up... There is even a mysterious guy who shows up in a trenchcoat every few minutes. If you can locate and click on him in the five seconds he is there, you will get a decent chunk of bottle caps, the game's iconic currency. Fallout Shelter is a game that wants your eyeballs whenever you have it playing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Fallout-Shelter_20201222110242-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Fallout-Shelter_20201222110242-1024x576.jpg" classes="center" >}}
 
 Once your Vault has grown large enough, you can build the Overseer's Bureau, where you would presumably sit if you had a corporeal form. This lets you take on Quests, and it is in these quests that the game's storyline and actual goals are revealed.
 
@@ -81,7 +59,7 @@ Strong, perceptive and agile characters will do well on these raids; unfortunate
 
 Quests are the best possible means to get new armor and weapons and the raw materials with which to make more. They are also kinda fun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Fallout-Shelter_20201222110154-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Fallout-Shelter_20201222110154-1024x576.jpg" classes="center" >}}
 
 After a lengthy journey to the quest area (a journey that can be sped up by spending consumables that can be purchased in the cash shop), your team arrives at the quest location, which you then explore room by room. Sometimes you happen upon raiders or even survivors from another Vault. Sometimes you can negotiate with them, but typically you end up in a fight. Hope you remembered the Stimpaks and the Radaway!
 
@@ -89,7 +67,7 @@ Once successful (or, often, once forced to return), your team heads back to the 
 
 It can take ten or more hours for your team to get to the quest area; this is where Bethesda wants you to pay. The waits are agonizing, but that is a testament to how much fun these ruins explorations are.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Fallout-Shelter_20201222110843-1024x576.jpg" title="It's creepy how they smile all the time..." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Fallout-Shelter_20201222110843-1024x576.jpg" title="It's creepy how they smile all the time..." classes="center" >}}
 
 So my quick take on Fallout Shelter: It's a clicky worker placement game that demands your attention when you're playing it, such that it's a race to do all the clicking and shut it down before some disaster you must deal with happens.
 

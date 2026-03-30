@@ -3,43 +3,21 @@ date: '2022-12-03T20:59:41-05:00'
 draft: false
 title: "Advent of Code Day 3 -- Rucksack Reorganization"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/03/advent-of-code-day-3-rucksack-reorganization/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I did this puzzle last night while writing the post about Day 2. This time I'm not in quite so much of a rush. Weekends...."
+categories:
   - "Advent of Code"
   - "OpenAI"
+tags:
   - "Advent"
   - "Java"
   - "Lua"
   - "Pico-8"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/aoc2022.3.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/aoc2022.3.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/aoc2022.3.jpg"
 ---
+I did this puzzle last night while writing the post about Day 2. This time I'm not in quite so much of a rush. Weekends....
+<!--more-->
 
 I did this puzzle last night while writing the post about Day 2. This time I'm not in quite so much of a rush. Weekends.
 
@@ -49,13 +27,13 @@ Advent of Code always starts out slowly, getting people used to how things go be
 
 I really don't know how these people are delivering their full solutions while I am still reading the story. They probably don't read the story. Story is the best part.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/12/An_elf_filling_a_backpack_with_gems_at_a_camp_in_a_lush_jungle__Detailed_and_Intricate__by_Bob_Eggle_Seed-679908_Steps-100_Guidance-7.5-1024x1024.jpeg" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/12/An_elf_filling_a_backpack_with_gems_at_a_camp_in_a_lush_jungle__Detailed_and_Intricate__by_Bob_Eggle_Seed-679908_Steps-100_Guidance-7.5-1024x1024.jpeg" classes="fig-20" >}}
 
 You might notice a difference in the header image. I've been using Stable Diffusion for the past couple of days because it is free, but goddamn does it take a million tries to find something usable. And even then... it's pretty bad if you look close. Tonight I got frustrated with Stable Diffusion and just used the exact same prompt on Dall-E and... just what I wanted.
 
 The picture on the left is what Stable Diffusion gave me. Face and hands a mess as usual, the costume was all weird and what is with that hat sticking out of his neck? I've got twenty that look worse. When it works, it works, but... first try with Dall-E.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/12/image-1-1024x252.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/12/image-1-1024x252.png" classes="center" >}}
 
 In fact, all four options were mostly decent. A little extra leg issue on picture 3, but otherwise fine.
 

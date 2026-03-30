@@ -3,41 +3,18 @@ date: '2006-10-23T13:03:38-05:00'
 draft: false
 title: "EQ2: Quests, Quests, Quests"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/10/23/eq2-quests-quests-quests/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Coming so close on the heels of my last letter, you might think there's been some emergency -- but we're fine, all are well. Adventures..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/10/orrery.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/10/orrery.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/orrery.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/orrery.jpg"
 ---
+Coming so close on the heels of my last letter, you might think there's been some emergency -- but we're fine, all are well. Adventures...
+<!--more-->
 
-![Orrery in the Tower of the Moon](https://chasingdings.com/wp-content/uploads/2006/10/orrery.jpg)
+
 
 Coming so close on the heels of my last letter, you might think there's been some emergency -- but we're fine, all are well. Adventures just won't let us rest! Should the Rivervale Gazette ever ask about us, just tell them that all is well.
 
@@ -67,7 +44,7 @@ Dorah was saved from having to do the same perilous journeys in the Obelisk of L
 
 In the end, Dorah returned to her desert, and Dera learned the secrets of the draconic tongue and will be able to understand what the droaga are yelling at her as she moves deeper into the Sanctum of the Scaleborn.
 
-![Deathtoll Access Quest](https://chasingdings.com/wp-content/uploads/2006/10/deathtoll.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/deathtoll.jpg" classes="center" >}}
 
 I've been raiding when I can, doing short instances from time to time, and in general taking it easy. The guild used to try to raid nightly but is now largely not raiding. I got the start of the Deathtoll access quest (above) but doubt I'll ever see it. I've started working more on the Claymore but without being in a raid guild, doubt I'll ever finish it. So I don't do it with the same intensity as achievable goals, like the Mark of the Awakened.
 

@@ -3,39 +3,14 @@ date: '2007-01-25T11:10:23-05:00'
 draft: false
 title: "wc xp grp lftank+1m @xr rtg"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/01/25/wc-xp-grp-lftank1m-xr-rtg/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If you play MMOs, you instantly knew from the title that there is a group of people who want to go to Wailing Caves/Caverns/West Commonlands..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+If you play MMOs, you instantly knew from the title that there is a group of people who want to go to Wailing Caves/Caverns/West Commonlands...
+<!--more-->
 
 If you play MMOs, you instantly knew from the title that there is a group of people who want to go to Wailing Caves/Caverns/West Commonlands (depending on your MMO) for the purpose of making their characters more experienced, and they are looking for someone to take the hits and attacks from the monsters therein, plus an additional person of any profession to fill the group. They are meeting at the Crossroads (both EQ2 and WoW have a Crossroads near their WC, go figure) and are otherwise ready to go.
 

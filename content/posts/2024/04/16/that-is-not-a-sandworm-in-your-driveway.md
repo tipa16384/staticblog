@@ -3,25 +3,10 @@ date: '2024-04-16T07:31:20-05:00'
 draft: false
 title: "That is not a sandworm in your driveway"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/04/16/that-is-not-a-sandworm-in-your-driveway/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Just random stuff I've asked ChatGPT..."
-description: "Just random stuff I've asked ChatGPT..."
-tags:
+categories:
   - "General"
+tags:
   - "AI"
   - "Bell Book and Candle"
   - "Bewitched"
@@ -29,18 +14,11 @@ tags:
   - "ChatGPT"
   - "Mr. Bean"
   - "Sandworms"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/sandwormindriveway.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/04/sandwormindriveway.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/sandwormindriveway.png"
 ---
+Just random stuff I've asked ChatGPT...
+<!--more-->
 
 I have nobody who will take my weird questions seriously.
 
@@ -48,7 +26,7 @@ But ChatGPT will. If I want to know if that large branch in the driveway is a sa
 
 Here's some other stuff.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-1.png" title="Elizabeth Montgomery as Samantha Stevens, and one of her two TV husbands" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-1.png" title="Elizabeth Montgomery as Samantha Stevens, and one of her two TV husbands" classes="center" >}}
 
 **Bewitched vs Bell, Book and Candle**
 
@@ -56,7 +34,7 @@ I had no idea that "Bewitched", a show I watched when I was a kid, was based on 
 
 ChatGPT found that the use of magic in BB&C was more ritualistic and personally dangerous than the magic in Bewitched, largely used to comedic effect. While there were no limits on Samantha Stevens' powers, aside from judgement from the Witch's Council, BB&C's Gillian would lose her powers forever if she fell in love, and her magic was far more subtle and slow.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image.png" title="Big Bang Theory cast" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image.png" title="Big Bang Theory cast" classes="center" >}}
 
 **Big Bang Theory**
 
@@ -102,7 +80,7 @@ Every tells me to watch BBT on the theory that I would totally identify with one
 
 **End Scene.**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-2.png" title="Rowan Atkinson as Mr. Bean" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-2.png" title="Rowan Atkinson as Mr. Bean" classes="center" >}}
 
 **Mr. Bean: The Board Game**
 

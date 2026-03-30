@@ -3,37 +3,12 @@ date: '2008-01-22T11:05:54-05:00'
 draft: false
 title: "Rock Band: Frickin Mofos."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/22/rock-band-frickin-mofos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Look. You don't want to be a part of this. I'm gonna let you off easy, put up the \"more\" thing and everything. You can..."
+categories:
   - "Rock Band"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Look. You don't want to be a part of this. I'm gonna let you off easy, put up the "more" thing and everything. You can...
+<!--more-->
 
 Look. You don't want to be a part of this. I'm gonna let you off easy, put up the "more" thing and everything. You can just go do whatever it is you were doing, and you'll be safe and free. There's nothing interesting after the break.
 

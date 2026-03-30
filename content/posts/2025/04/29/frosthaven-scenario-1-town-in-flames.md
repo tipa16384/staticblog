@@ -3,45 +3,22 @@ date: '2025-04-29T08:00:00-05:00'
 draft: false
 title: "Frosthaven Scenario #1: Town in Flames"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/04/29/frosthaven-scenario-1-town-in-flames/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Having completed the tutorial scenario and let a month pass before schedules matched up again, we finally started Frosthaven for reals."
-description: "Having completed the tutorial scenario and let a month pass before schedules matched up again, we finally started Frosthaven for reals."
-tags:
+categories:
   - "3D Printing"
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/04/IMG_5077-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/04/IMG_5077-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/IMG_5077-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/04/IMG_5077-scaled.jpg"
 ---
+Having completed the tutorial scenario and let a month pass before schedules matched up again, we finally started Frosthaven for reals.
+<!--more-->
 
 It seemed like we were never going to get a Monday night game going again. Kids would have stuff to go to. There was car trouble. Calamities would happen. Last night, it was going to happen. **It was GOING TO HAPPEN.**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/04/Screenshot-2025-04-28-at-10.36.19 PM-300x245.jpeg" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/04/Screenshot-2025-04-28-at-10.36.19 PM-300x245.jpeg" classes="center" >}}
 
 I have a Frosthaven shirt, btw.
 
@@ -63,7 +40,7 @@ The action starts outside the town, where a lone guardsman stands next to the do
 
 The tutorial mission constrained us to a small subset of the available cards for our level. This scenario was the first one where we could really lean into the power of our class. My original plan was to load up on defensive actions and stand up front, and perhaps that's what I should have done. I instead chose to drop into a support role. Which is fine, but someone has to tank.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/04/image-6-1024x568.png" title="Opening the door" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/04/image-6-1024x568.png" title="Opening the door" classes="center" >}}
 
 This was made super clear when the Deathwalker opened the gate to the second half of the map, where guards were trying to hold back the Algox incursion by just standing still, which really worked pretty well for them. I did eventually drag the gate guard with me to take some additional hits elsewhere. They were super tanky for this scenario.
 
@@ -75,7 +52,7 @@ Me, my scenario goal was to never get below half health. I did my best; came clo
 
 First scenarios in the Gloomhaven games can be tricky, as everyone figures out how their class works. My class, Banner Spear, requires enemies and friends to be positioned in particular ways in order to spit out an AE. I got a couple out, but they were less effective because the faster characters would be rushing around trying to die glorious deaths. I may swap out some cards for next time in order to emphasize more tanky tanky and less supporty. We'll see.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/04/image-7-1024x629.png" title="Me and my friends" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/04/image-7-1024x629.png" title="Me and my friends" classes="center" >}}
 
 Between Malifaux and Frosthaven, I sure have enough painting to do. I'm so terrible at it, but even a bad paint job brings color to the table. Even a bad paint job takes a lot of time. I am down in my painting bench so many nights...
 

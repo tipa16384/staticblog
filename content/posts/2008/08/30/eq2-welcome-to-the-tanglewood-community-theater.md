@@ -3,44 +3,22 @@ date: '2008-08-30T11:10:11-05:00'
 draft: false
 title: "EQ2: Welcome to the Tanglewood Community Theater"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/30/eq2-welcome-to-the-tanglewood-community-theater/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My sister Hillary and her husband just bought a condo in Boston. They were supposed to move in weeks ago, but the workmen just haven't..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Gorowyn"
   - "Norrathian Home Show"
   - "Stargrace"
   - "Tanglewood Community Theater"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-29-18-50-09-92.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-29-18-50-09-92.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-18-50-09-92.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-18-50-09-92.jpg"
 ---
+My sister Hillary and her husband just bought a condo in Boston. They were supposed to move in weeks ago, but the workmen just haven't...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-29-18-50-09-92.jpg "everquest2-2008-08-29-18-50-09-92")
+
 
 My sister Hillary and her husband just bought a condo in Boston. They were supposed to move in weeks ago, but the workmen just haven't been able to get it finished on time. She still hasn't been able to move in.
 
@@ -50,19 +28,19 @@ I can't tell you how thrilled I was when I saw it. When I logged off to go to wo
 
 Allow me to show you Timorous Deep's newest attraction, the Tanglewood Community Theater (visit Dinah in the five room house instance of Gorowyn, Najena server).
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-29-21-45-15-68.jpg "everquest2-2008-08-29-21-45-15-68")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-21-45-15-68.jpg" title="everquest2-2008-08-29-21-45-15-68" classes="center" >}}
 
 The stage. Notice the attention to detail -- footlights, decorative hanging plants, shelves in the back to store reminder scripts, and even a bouquet of roses tossed on the stage by a fan!
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-29-21-45-48-60.jpg "everquest2-2008-08-29-21-45-48-60")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-21-45-48-60.jpg" title="everquest2-2008-08-29-21-45-48-60" classes="center" >}}
 
 Accompanists can complement the action on stage via the piano and the bone xylophone, from Mistmoore's Castle and the Troubadour Epic quest respectively.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-29-21-46-11-89.jpg "everquest2-2008-08-29-21-46-11-89")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-21-46-11-89.jpg" title="everquest2-2008-08-29-21-46-11-89" classes="center" >}}
 
 Looking through the dining area toward the lobby. Well, the entrance room where my sales containers are stashed. I think I will try to make it into a ticket seller's window and a coat room, a stand that sells souvenirs and a sales display :) Kasul is waiting to be seated.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/everquest2-2008-08-29-21-47-03-77.jpg "everquest2-2008-08-29-21-47-03-77")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/everquest2-2008-08-29-21-47-03-77.jpg" title="everquest2-2008-08-29-21-47-03-77" classes="center" >}}
 
 The designer herself, Stargrace, relaxes after finishing the room. Behind her is a full bar. And this bar includes PIE, and pie-flavored beverages. Whiskey *a la mode*? We server that! Apple brandy? Naturally -- with just a hint of crust!
 

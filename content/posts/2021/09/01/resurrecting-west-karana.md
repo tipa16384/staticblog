@@ -3,49 +3,28 @@ date: '2021-09-01T07:48:11-05:00'
 draft: false
 title: "Resurrecting West Karana"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/09/01/resurrecting-west-karana/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was fascinated by UltrViolet's DevOps-ification of his blog, \"Endgame Viable\". The sort of stuff he's doing is the sort of stuff I do every..."
+categories:
   - "Blaugust"
+tags:
   - "Aws"
+  - "Blaugust"
   - "Devops"
   - "Github"
   - "Markdown"
   - "Python"
   - "West Karana"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/b0d5f94a61f128683568fec95571fa8e.jpg"
 ---
+I was fascinated by UltrViolet's DevOps-ification of his blog, "Endgame Viable". The sort of stuff he's doing is the sort of stuff I do every...
+<!--more-->
 
 I was fascinated by UltrViolet's DevOps-ification of his blog, "[Endgame Viable](https://endgameviable.com/dev/2021/08/status-quest-for-the-one-blog-part-13/)". The sort of stuff he's doing is the sort of stuff I do every day at work. I'm getting paid to get better at doing all of this stuff, but my own blog can't take advantage?
 
 That ends today. Today, I bring my old blog, West Karana, back to life, via the magic of DevOps.
 
-![](https://lh3.googleusercontent.com/hjM5Ue7WA3y02kAI0heoLwhraDHDktG9N71N_pAGhwlkaDgc_EPb0jMrU3RqgBB0nVWoRZU3hC-wOuL2_P1FZovfTOfTYAOgVsEcab2NdlsEgfPfFGQcZv1wi_UqFiuhpQS6gC6ocI0rHS71n-2YpyJOQCELhkht89o2yyNi8uocPbmnndwXJFvEU3zzqnPihSB63Cl11N5B8TgFJuYnTq5QuX1jNlyz0XwyeIsc6dourSSV8xD9ixiBejcw9cPmREtsuf1nLCzxyzMNjEqgrW4b74mYuf3uh3TBtq1F2hMtEYD7-sddITkxf-F5x45NdEl9DIdEUGtjxUL3FibaA1qWRQYl3zNOBlsBAbPjO4yTeb3kypScf9rmeGfYH6wrHjGMLjOlruX6bzBWFM1mOKiThKkqja5b86Wl7D8uRYVftujcvL2ejfLnb7SCRiP8lONa7LWjAXT4sm2WOtb8xBNySQzJ8G7Yr6OL7SVu6ty8tUFx4aWQD9o2f9Hrqfz1tyD-xg0Mp6Iu4WBAxuzZR6RhkmOOrX7ehEgXQSQi70eWE0il0fT4uBGSOrZt3G7zAw7XPi471REdrsSk7eNbaOxuyP6D7d2A8jERpwdWzYbwQANy9srvyNcTSGmmLk7jxZoyLQjrGEdVnjZBCaJrG0sfO2ire0WHuMy8XgleaLyCfrXbHuRxAmsx1ot4gFRgwzXPRe_Fd4sYuLVr8T3PBFQV=w961-h226-no?authuser=0)One of my old banners :-)
+{{< image src="https://lh3.googleusercontent.com/hjM5Ue7WA3y02kAI0heoLwhraDHDktG9N71N_pAGhwlkaDgc_EPb0jMrU3RqgBB0nVWoRZU3hC-wOuL2_P1FZovfTOfTYAOgVsEcab2NdlsEgfPfFGQcZv1wi_UqFiuhpQS6gC6ocI0rHS71n-2YpyJOQCELhkht89o2yyNi8uocPbmnndwXJFvEU3zzqnPihSB63Cl11N5B8TgFJuYnTq5QuX1jNlyz0XwyeIsc6dourSSV8xD9ixiBejcw9cPmREtsuf1nLCzxyzMNjEqgrW4b74mYuf3uh3TBtq1F2hMtEYD7-sddITkxf-F5x45NdEl9DIdEUGtjxUL3FibaA1qWRQYl3zNOBlsBAbPjO4yTeb3kypScf9rmeGfYH6wrHjGMLjOlruX6bzBWFM1mOKiThKkqja5b86Wl7D8uRYVftujcvL2ejfLnb7SCRiP8lONa7LWjAXT4sm2WOtb8xBNySQzJ8G7Yr6OL7SVu6ty8tUFx4aWQD9o2f9Hrqfz1tyD-xg0Mp6Iu4WBAxuzZR6RhkmOOrX7ehEgXQSQi70eWE0il0fT4uBGSOrZt3G7zAw7XPi471REdrsSk7eNbaOxuyP6D7d2A8jERpwdWzYbwQANy9srvyNcTSGmmLk7jxZoyLQjrGEdVnjZBCaJrG0sfO2ire0WHuMy8XgleaLyCfrXbHuRxAmsx1ot4gFRgwzXPRe_Fd4sYuLVr8T3PBFQV=w961-h226-no?authuser=0" classes="center" >}}One of my old banners :-)
 
 DevOps is just a fancy way of bringing every IT position into one person -- the developer.
 
@@ -59,7 +38,7 @@ I'm not nearly up to that point. But, I'm sitting on years worth of SQL code tha
 
 First, though, I'd have to start writing code to turn the old SQL backup into something I could work with.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/image.png)](https://chasingdings.com/wp-content/uploads/2021/09/image.png)Python fragment to save a blog post as Markdown
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/image.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/image.png)Python fragment to save a blog post as Markdown
 
 - Open the backup SQL file- For each lineIs this a SQL insert for a new blog post?Use my SQLConsumer action to parse the line into a dictionary of column name: data pairs- Create a new "Post" object with that data- call the "Post" object to write itself to a file in Markdown format
 - Is this a SQL insert for a new comment?Worry about this later
@@ -68,7 +47,7 @@ So, as a proof of concept, all the text of all the posts (sans images, comments,
 
 Here's [a sample post from the past](https://github.com/tipa16384/westkarana/blob/somethingelse/posts/5144.md):
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/image-1.png)](https://chasingdings.com/wp-content/uploads/2021/09/image-1.png)Blast from the Past
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/image-1.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/image-1.png)Blast from the Past
 
 The link above goes into the actual repo, where, with a little poking around, you can find some of my very dirty, banging together at midnight, code that does the deed.
 

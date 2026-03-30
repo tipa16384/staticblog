@@ -3,40 +3,19 @@ date: '2016-01-12T22:36:37-05:00'
 draft: false
 title: "Mister Estinien Loses an \"O\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2016/01/12/mister-estinien-loses-an-o/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg"
 ---
+[...
+<!--more-->
 
-[![vlcsnap-2016-01-12-20h34m26s188](https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg)](https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2016/01/vlcsnap-2016-01-12-20h34m26s188.jpg)
 
 Do I have to say by this time that there WILL BE spoilers here, as there are for every post? The guides for this part of the quest were VERY CAREFUL to avoid any specifics about who or what you'd be fighting.
 
@@ -50,13 +29,13 @@ We caught up with Regula van Hydrus, the coward who abandoned his solo fight wit
 
 The second boss was a strange Allagan amalgam that changed forms, each of which came with its own strategy. But that couldn't stop us. Even the weird one way down lifts (well, "drops", technically) couldn't stop us.
 
-[![1-vlcsnap-2016-01-12-21h16m44s255](https://chasingdings.com/wp-content/uploads/2016/01/1-vlcsnap-2016-01-12-21h16m44s255.jpg)](https://chasingdings.com/wp-content/uploads/2016/01/1-vlcsnap-2016-01-12-21h16m44s255.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2016/01/1-vlcsnap-2016-01-12-21h16m44s255.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2016/01/1-vlcsnap-2016-01-12-21h16m44s255.jpg)
 
 I guess we should have expected the Ascians ever since Urianger showed up with the White Auracite that had swallowed another Ascian in the past. I expected to see Lahabrea... but I didn't expect to see Igeyorhm, the sole female Ascian we've seen, with him. We'd have to fight them both. At the same time.
 
 Which became even more literal when we had them on the ropes. They refused to back down, instead, they drew upon their cores of power and melded together to form... LORD ZODIARK!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-21h28m00s177.jpg" title="Lord of the Dark" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2016/01/vlcsnap-2016-01-12-21h28m00s177.jpg" title="Lord of the Dark" classes="center" >}}
 
 But perhaps Lahabrea and Igeyorhm were still weakened from their fight against we warriors of light. Or perhaps Hydaelyn's crystal gift blunted his powers. Lord Zodiark was forced to withdraw....
 
@@ -64,7 +43,7 @@ But perhaps Lahabrea and Igeyorhm were still weakened from their fight against w
 
 We had White Auracite, and we had Estinien's Eye of Nidhogg. We used the auracite to trap Igeyorhm, and the power of the Eye to burn her out of existence.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-21h41m22s48.jpg" title="White Auracite, eating an Ascian" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2016/01/vlcsnap-2016-01-12-21h41m22s48.jpg" title="White Auracite, eating an Ascian" classes="center" >}}
 
 But that left us without the necessary power to take on and destroy Lahabrea once and for all. The Eye had immense power, but it would take some time to store enough aethyric energy to make it a danger to any Ascian.
 
@@ -76,13 +55,13 @@ The Archbishop could have handed us the Eye, and we could have used it to destro
 
 As King Thordan, the Archbishop took a swing of the sword and Lahabrea was no more.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-22h06m06s219.jpg" title="An Uneven Fight" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2016/01/vlcsnap-2016-01-12-22h06m06s219.jpg" title="An Uneven Fight" classes="center" >}}
 
 He and his knights weren't finished with us. We pursued them into the Singularity Reactor, where they would free the Warring Triad and take control of Eorzea and probably all of Hydaelyn.
 
 They were ready for us. King Thordan threatened us with his sword, zapped us with the power of Nidhogg's Eye, and sent his Heaven's Ward knights at us, and maybe if it had just been one Warrior of Light, it would have happened. But eight of them was too much for him. We killed all his Knights, and then we killed him. Hydaelyn was spending all her power to make sure his strongest attacks were ineffective. Thordan lost hold of his power, reverted back to a lowly Archbishop, and then went screaming into the void, leaving behind only his sword, with Nidhogg's Eye still pulsing in the crosspiece.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2016/01/vlcsnap-2016-01-12-22h24m29s72.jpg" title="Nidhogg Reborn" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2016/01/vlcsnap-2016-01-12-22h24m29s72.jpg" title="Nidhogg Reborn" classes="center" >}}
 
 Estinien finally caught up to us. He had the Eye of the Azure Dragoon back from us, noticeably already starting to show signs of power. When he spotted the second eye in Thordan's sword, he had to have it, have BOTH eyes. That was his undoing. Estinien had the strength to control one eye's power, but not two. Like all Ishgardians, dragon blood runs in Estinien's veins, and only needs a small awakening to transform them into a dragon. Nidhogg's spirit used the power of the eyes to awaken the transformation within Estinien in such a way as to make him into a new body for the dragon's spirit -- with both eyes intact.
 

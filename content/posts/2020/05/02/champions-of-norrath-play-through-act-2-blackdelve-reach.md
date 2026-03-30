@@ -3,43 +3,21 @@ date: '2020-05-02T15:59:42-05:00'
 draft: false
 title: "Champions of Norrath play through: Act 2, Blackdelve Reach"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/02/champions-of-norrath-play-through-act-2-blackdelve-reach/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We left off with King Leithkorias of Kelethin ordering us to follow the Black Scroll (a map that could not be understood by even the..."
+categories:
   - "Emulators"
   - "EverQuest"
+tags:
   - "Champions of Norrath"
   - "Playthrough"
   - "PS2"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg"
 ---
+We left off with King Leithkorias of Kelethin ordering us to follow the Black Scroll (a map that could not be understood by even the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-23-30-28-91-1024x570.jpg" title="I vahnt your cleecks" >}}
+
 
 We left off with King Leithkorias of Kelethin ordering us to follow the Black Scroll (a map that could not be understood by even the great Mayong Mistmoore) to the Underworld and there confront the orc commander that was fomenting so much Unrest (heh heh) in Faydwer. (In EverQuest, the subterranean realm is known as Underfoot, not Underworld, in another of the puzzling lore issues that should have been fixed.)
 
@@ -47,17 +25,17 @@ We take a portal from Kelethin back to the ~~Crushbone~~ dungeons where the wood
 
 Every spider I killed, I said to myself, we're gonna be fighting a giant spider at the end of all this.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-20-51-35-28-1024x697.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-01-20-51-35-28-1024x697.jpg" classes="center" >}}
 
 It was sort of an anticlimax when the mysterious orc commander we'd killed earlier popped up, healthy as a clam, to promise us a giant spider. He went on and on and on about it. Really selling the whole spider thing. Why can't I just KILL him again? I'm right there! Why can't I get that cool armor, too, while I'm there?
 
 Eventually he stomps off down into Under~~foot~~world, leaving behind the promised giant spider.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-20-52-29-25-1024x590.jpg" title="I mean, I guess?" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-01-20-52-29-25-1024x590.jpg" title="I mean, I guess?" classes="center" >}}
 
 We climb down an endless series of mysteriously well-maintained and clean stairs to the underground gnomish city of ~~Corathus Creep~~ Blackdelve Reach. (Okay, that one's a little unfair. Corathus Creep was from the Depths of Darkhollow expansion, which hadn't come out when this game came out. And further, Corathus Creep is beneath Antonica, not Faydwer. But I'm not one to let facts get in the way of snark.)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-20-56-19-02-1024x697.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-01-20-56-19-02-1024x697.jpg" classes="center" >}}
 
 There, Captain Exposition fills us in on the state of things in the Under~~foot~~world. Lord "I am not Mistmoore" Vanarhost is a vampire that is contracting with a certain mysterious orc commander to take people living in the Pit of Ill Omen (not... Lake of Ill Omen?) and sell them to him as mobile blood banks.
 
@@ -65,7 +43,7 @@ The gnomes would love to get involved and shake things up but, you see, there ar
 
 After a few anty deaths, we manage to finish the job. The shipwright building a ship for Lord Vanarhost would love to lend us the ship to go visit the vampire lord, but it's not built because a certain mysterious orc commander came by and maliciously removed a part required to fabricate the hull plating and took it with him into the lava fields where, we learn, he just hid it somewhere inaccessible as he continued to the vampire castle.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-01-22-14-49-94-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-01-22-14-49-94-1024x769.jpg" classes="center" >}}
 
 Turns out the lava fields are filled with lava, and that lava is hot, and if the lava golems and lava beetles push us into lava, we dissolve. We eventually do find a gnome that will lend us a lava runner, a tractor-like vehicle that can sail on the lava. With that, we find the missing part, fix the lava pump, and get that yummy lava pumping up to the ship yards where the shipwright can finish the boat that will bring us to Lord Vanarhost's castle because there is no other possible way that we can get there except via that boat.
 
@@ -73,11 +51,11 @@ After returning to Blackdelve Reach, though, the shipwright tells us that the sh
 
 As we go searching the city for a spare navigator, we come across a gnome whose daughter has run off into the Caverns of the Fallen, where she has lost her kittens.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-01-22-44-35-36-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-01-22-44-35-36-1024x769.jpg" classes="center" >}}
 
 We hunt down her kittens (lost, each one, in a nest of undead), and she moves aside to allow us deeper into the Caverns of the Fallen.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-01-22-56-58-64-1024x574.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-01-22-56-58-64-1024x574.jpg" classes="center" >}}
 
 As we descend, Firiona Vie pops up briefly to foreshadow where she is, and where we will be going. She still fails to explain just how she's doing this, or how we're supposed to find her if we don't know where she is, etc. I guess she's some sort of god now? Or something?
 
@@ -85,13 +63,13 @@ We battle our way through an army of undead (and many gallons of health potions)
 
 Guess we no longer need that ship.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-01-23-29-16-96-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-01-23-29-16-96-1024x769.jpg" classes="center" >}}
 
 Busty the Vampire Slayer accosts us as we enter, and begs us to go grab her some bloodvine, which she requires so that she won't be transformed into a mindless "nosferatu". There is a convenient passage that will bring us right to the bloodvine fields in Blackdelve Reach right over there.
 
 From her we find that the orc commander's name is Pelys, and that he is not actually an orc, but some creature wearing an orc's skin. The succubus' name is actually Sylea, and says that Pelys treats her master like nothing more than a servant.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-01-23-37-16-05-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-01-23-37-16-05-1024x769.jpg" classes="center" >}}
 
 As we explore Lord Vanarhost's castle, we come across a prison that contains a gnomish navigator. Hey, with his help, we can finally take that ship to Lord Vanarhost's castle! The key, though, is in the vampire lord's possession.
 
@@ -99,12 +77,12 @@ After retrieving the bloodvine and returning it to Sylea, she tells us that her 
 
 Pelys leaves. Vanarhost, though, clearly has detected the presence of both us and Sylea and makes a comment about feeding us to the nosferatu.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/1-pcsx2-2020-05-02-00-15-53-34-1024x712.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/1-pcsx2-2020-05-02-00-15-53-34-1024x712.jpg" classes="center" >}}
 
 When we battle our way through the mindless vampire horde and confront him in his chambers, he is there with Sylea, and it seems that perhaps she has betrayed us and was on her master's side all along. We fight for awhile and then at the moment of his defeat, Vanarhost turns into mist and reforms on a balcony, with Sylea by his side. But as the cut-rate Mistmoore monologues on and on before destroying us finally and forever, Sylea takes a dagger out from... somewhere... and plunges it into his back.
 
 He's hurt, and mists out of there. Sylea promises that Vanarhost will not bother us for some amount of time, and that we should hurry on to our mission to stop Pelys, who has returned to the Pit of Ill Omen to gather another load of unhappy victims.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-05-02-00-29-47-03-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-05-02-00-29-47-03-1024x769.jpg" classes="center" >}}
 
 We leave by the passage by which we gathered the bloodvine, freeing the navigator along the way. Together we battle our way back to Blackdelve Reach, where the now-completed ship, no longer needed by Vanarhost, awaits us. We set sail on the sunless sea to the Pit of Ill Omen, and that's the end of Act 2.

@@ -3,41 +3,18 @@ date: '2024-09-04T07:00:00-05:00'
 draft: false
 title: "The Transgressive Charm of Um Jammer Lammy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/09/04/the-transgressive-charm-of-um-jammer-lammy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "All \"Jammer\" Lammy wants to do is rock. The only thing stopping her is... everything."
-description: "All \"Jammer\" Lammy wants to do is rock. The only thing stopping her is... everything."
-tags:
+categories:
   - "Rhythm Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/umjammer-240903-213013.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/09/umjammer-240903-213013.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/umjammer-240903-213013.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/umjammer-240903-213013.png"
 ---
+All "Jammer" Lammy wants to do is rock. The only thing stopping her is... everything.
+<!--more-->
 
 It is weird just how obscure this game is, today. It's a spinoff from 1996's "PaRappa the Rapper", which is itself hard to find these days. But at least people have *heard* of it. When I go to retro video game stores looking for Um Jammer Lammy, I usually have to spell it out. The last place actually looked on eBay to see if it was a real game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-225x300.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-225x300.png" classes="fig-20" >}}
 
 It really is!
 
@@ -51,7 +28,7 @@ Lammy starts the game jamming out with Master Onion, the dojo leader from "PaRap
 
 It's a dream! She wakes up and realizes she only has fifteen minutes to get to her first real gig with the band!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-1-1024x377.png" title="MilkCan, featuring Katy, Ma-san and Lammy" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-1-1024x377.png" title="MilkCan, featuring Katy, Ma-san and Lammy" classes="center" >}}
 
 But first, she has to put out a fire, help out at a nursery, learn to fly a jet plane, carve a new guitar from a tree with a chainsaw, die and go to hell (in the Japanese version) or get flung onto a distant island (in the US/EU version), before she can finally meet up with her bandmates. She's overwhelmed each time until she remembers to imagine she is playing a guitar instead of fire fighting, flying a plane, etc. And then it's easy.
 
@@ -63,7 +40,7 @@ She wasn't *really* pregnant, though -- she got all the pizza she could eat once
 
 Lammy doesn't want to be a mom. She just wants to rock.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/image-2-1024x661.png" title="Retro Fix II Turbo video game store" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/image-2-1024x661.png" title="Retro Fix II Turbo video game store" classes="center" >}}
 
 That's not the store where I found the game, but I was a little amazed at how happening this retro video game store in Campbell was. That couple sitting down is playing Super Mario Kart for the Wii. Like... wow.
 

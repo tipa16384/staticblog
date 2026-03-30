@@ -3,40 +3,17 @@ date: '2008-03-07T08:52:01-05:00'
 draft: false
 title: "EQ2: Nothing special."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/07/eq2-nothing-special/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's nothing special about this picture... except that it shows why EQ2 is so great...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-07-00-53-02-92.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-07-00-53-02-92.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-07-00-53-02-92.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-07-00-53-02-92.jpg"
 ---
+There's nothing special about this picture... except that it shows why EQ2 is so great....
+<!--more-->
 
-![everquest2-2008-03-07-00-53-02-92.jpg](https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-07-00-53-02-92.jpg)
+
 
 There's nothing special about this picture... except that it shows why EQ2 is so great.
 

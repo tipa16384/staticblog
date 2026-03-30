@@ -3,40 +3,17 @@ date: '2013-05-01T06:54:57-05:00'
 draft: false
 title: "EQ2: Scars of the Awakened: Day 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/01/eq2-scars-of-the-awakened-day-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's an issue whenever the EQ2 team brings back one of EverQuest's classic zones: how close have they come to the original experience? And, secondly,..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-04-30-21-31-14-27-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-04-30-21-31-14-27-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-04-30-21-31-14-27-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-04-30-21-31-14-27-480x343.jpg"
 ---
+It's an issue whenever the EQ2 team brings back one of EverQuest's classic zones: how close have they come to the original experience? And, secondly,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-04-30-21-31-14-27-480x343.jpg" title="Frog Wars" class="align-center" >}}
+
 
 It's an issue whenever the EQ2 team brings back one of EverQuest's classic zones: how close have they come to the original experience? And, secondly, does it mesh well with the "shattered lands" lore that backs EverQuest II?
 

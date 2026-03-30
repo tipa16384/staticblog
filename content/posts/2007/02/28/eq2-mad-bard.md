@@ -3,40 +3,17 @@ date: '2007-02-28T10:36:15-05:00'
 draft: false
 title: "EQ2: Mad Bard"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/28/eq2-mad-bard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Live Update 32 went in this morning, bringing Unrest, Brell Day, and new achievements. I was so excited when I saw that bards had gotten..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/madbard.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/02/madbard.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/madbard.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/madbard.jpg"
 ---
+Live Update 32 went in this morning, bringing Unrest, Brell Day, and new achievements. I was so excited when I saw that bards had gotten...
+<!--more-->
 
-![madbard.jpg](https://chasingdings.com/wp-content/uploads/2007/02/madbard.jpg)
+
 
 Live Update 32 went in this morning, bringing Unrest, Brell Day, and new achievements. I was so excited when I saw that bards had gotten a new Selo's run speed buff - Selo's Speed of Sound.
 

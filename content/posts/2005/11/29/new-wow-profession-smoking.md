@@ -3,38 +3,13 @@ date: '2005-11-29T00:00:00-05:00'
 draft: false
 title: "New WoW Profession: Smoking"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/11/29/new-wow-profession-smoking/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I am absolutely opposed to smoking. My mom and my Aunt Betty died from it within a year of each other. My grandfather had severe..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I am absolutely opposed to smoking. My mom and my Aunt Betty died from it within a year of each other. My grandfather had severe...
+<!--more-->
 
 I am absolutely opposed to smoking. My mom and my Aunt Betty died from it within a year of each other. My grandfather had severe breathing difficulties and I had bronchitis and constant allergies growing up.
 

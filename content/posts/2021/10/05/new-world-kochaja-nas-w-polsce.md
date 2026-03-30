@@ -3,24 +3,8 @@ date: '2021-10-05T08:10:39-05:00'
 draft: false
 title: "New World: Kochają nas w Polsce!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/05/new-world-kochaja-nas-w-polsce/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "New World has been released for just a week. It is way, way too early to start forecasting any sort of trends from this...."
+categories:
   - "Dark Ages of Camelot"
   - "Final Fantasy"
   - "MMORPG"
@@ -28,20 +12,14 @@ tags:
   - "Old School Runescape"
   - "The Elder Scrolls Online"
   - "World of Warcraft"
+tags:
   - "Google Trends"
   - "Poland"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/poland.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/poland.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/poland.jpg"
 ---
+New World has been released for just a week. It is way, way too early to start forecasting any sort of trends from this....
+<!--more-->
 
 New World has been released for just a week. It is way, *way* too early to start forecasting any sort of trends from this.
 
@@ -49,7 +27,7 @@ Like, that's ever stopped me before.
 
 I repeat this whenever I talk about Google Trends. Google Trends is based solely on what people are searching for, and does not correlate with the actual popularity of the game, the number of players, or anything. It's just the number of searches on a specific topic in a certain amount of time. I would assume that search terms are connected to a specific topic by the searcher clicking on a relevant link in the search results, but that's just a guess. That said...
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/image.png)](https://chasingdings.com/wp-content/uploads/2021/10/image.png)Worldwide Popularity
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/image.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/image.png)Worldwide Popularity
 
 I pitted four popular MMOs -- World of Warcraft, Final Fantasy XIV, The Elder Scrolls Online and Old School Runescape -- against New World in a worldwide search. Limiting the results to the USA didn't provide good results, as USA is and continues to be dominated by FFXIV. (In this map, WoW only has a dominating presence in India, Indonesia, South Korea, Romania and Czechia). Japan is so overwhelmingly for FFXIV that no other game on this list rises above 1% of the search terms.
 

@@ -3,26 +3,11 @@ date: '2010-09-25T17:28:08-05:00'
 draft: false
 title: "Star Trek Online s2e5: Cold Storage (spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/25/star-trek-online-s2e5-cold-storage-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Breen"
   - "Defera"
   - "Deferi"
@@ -31,20 +16,15 @@ tags:
   - "Progenitors"
   - "Starfleet"
   - "USS Monterey"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-17-08-23-68.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-17-08-23-68.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-17-08-23-68.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-17-08-23-68.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-17-08-23-68.jpg "A Breen is still a Breen")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-17-08-23-68.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-17-08-23-68.jpg)
 
 > I could while away the watches, Berating Ensign Hodges
 
@@ -70,7 +50,7 @@ editPost:
 
 Um, sorry. Back to business. This week, Cryptic ends their five episode Breen arc with Cold Storage. In episode 1, the Breen invaded the Defera system in order to find traces of Preserver technology. In Episode 2, the Breen decided to stick around and enslave some Defera for fun and profit. Episode 3 uncovered a Breen resistance, opposed to the dishonorable actions of the Breen leadership. Episode 4 had the Federation and the Breen compete to complete a map and key to an archive of ancient Preserver knowledge. In episode 5, we follow that map to the end. And what we find there.... you'll have to read after the jump.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-13-42-06-72.jpg "Cold Storage")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-13-42-06-72.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-13-42-06-72.jpg" title="Cold Storage" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-13-42-06-72.jpg)
 
 Vice Admiral D'zoph in command of the USS Monterey, in patrol around Defera, reporting to all subscribers to the FNS War News Service; welcome!
 
@@ -86,7 +66,7 @@ Yes, I understand that phrase doesn't make any sense. Ask your great grandparent
 
 Why this constant returning to the 20th Century by more famous captains than your correspondent was so attractive, I will never understand.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-14-00-47-77.jpg "The Preserver Obelisk")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-14-00-47-77.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-14-00-47-77.jpg" title="The Preserver Obelisk" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-14-00-47-77.jpg)
 
 The planet of the Preserver archives is almost achingly beautiful. If some Preserver hologram had popped up and told me that this world was their gift to the modern races, I would believe it, and I would be thankful. Only duty would ever compel me to leave it, and if I did, I would (and will) return. The only fly in the amber were the Breen.
 
@@ -94,7 +74,7 @@ It must be difficult seeing anything in those masks, because they walked right b
 
 We were forced to fight them anyway, though I wonder if we'd just stood still, they'd just have passed right by, blind as they are.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-14-13-24-51.jpg "A Live Preserver!")](https://chasingdings.com/wp-content/uploads/2010/09/GameClient-2010-09-25-14-13-24-51.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-14-13-24-51.jpg" title="A Live Preserver!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/GameClient-2010-09-25-14-13-24-51.jpg)
 
 We fought our way through a crowd of Breen who turned out to be stuck at a series of three consoles that would unlock the Archives. Each emitted a tone; my science officer helpfully reminded me that Preserver technology was based on sound, which was surprising, since we'd seen no indication of that before. Good on her, though. There were six possible ways to activate the three consoles, but this was apparently beyond the ability of the Breen to manage. With a hint from my omniscient science officer that activating the consoles so that the sounds would sing in ascending order might activate it, we managed it first try.
 

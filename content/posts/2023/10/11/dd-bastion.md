@@ -3,39 +3,17 @@ date: '2023-10-11T07:00:00-05:00'
 draft: false
 title: "D&D: Bastions"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/10/11/dd-bastion/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Finally, after fifty years, housing comes to Dungeons & Dragons. Innkeepers across the land protest."
-description: "Finally, after fifty years, housing comes to Dungeons & Dragons. Innkeepers across the land protest."
-tags:
+categories:
   - "Dungeons & Dragons"
+tags:
   - "5e"
   - "Bastions"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/bastion.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/10/bastion.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/bastion.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/bastion.png"
 ---
+Finally, after fifty years, housing comes to Dungeons & Dragons. Innkeepers across the land protest.
+<!--more-->
 
 I am *so confused* by all of this. I think I remember reading in the old Advanced Dungeons & Dragons player handbook that once you reached a certain level, you could attract followers and have a class-appropriate lair/castle/whatever that you could run. Your character could retire there, and then you would start a new character.
 
@@ -61,7 +39,7 @@ When I was a kid, just learning D&D, all it took for me to go off in a world of 
 
 Now... now, I dunno. There are rules for how big my house can be. Rules for what things I can have in it. Rules for how many. This costs this much. You want a fountain? Buddy, gain a few levels and then we'll talk *fountains*. I can get you a dragon skin doormat -- *maybe*. Lemme make a call.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-10-1024x771.png" title="Moving day. Night. Actually... what is going on in this picture?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-10-1024x771.png" title="Moving day. Night. Actually... what is going on in this picture?" classes="center" >}}
 
 Back when I was a kid, if you wanted a thieves guild of your own, you found one you liked, challenged the head thief dude to a knife throwing contest and if you won, it's *your* thieves guild now! If you lost, well, you misread the rules. It wasn't a knife-*catching* contest. Be better.
 

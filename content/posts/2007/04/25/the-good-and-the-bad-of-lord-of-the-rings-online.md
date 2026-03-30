@@ -3,40 +3,19 @@ date: '2007-04-25T04:33:42-05:00'
 draft: false
 title: "The Good (and the Bad) of Lord of the Rings Online"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/04/25/the-good-and-the-bad-of-lord-of-the-rings-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "*..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/04/simp1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/04/simp1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/simp1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/simp1.jpg"
 ---
+*...
+<!--more-->
 
-![simp1.jpg](https://chasingdings.com/wp-content/uploads/2007/04/simp1.jpg)*
+
+
+*
 
 Gandalf points a new player toward the next step in her Quest.*
 
@@ -44,21 +23,21 @@ I logged my Champion in to Lord of the Rings Online last night, turned in the qu
 
 But, yes, LotRO is very different from World of Warcraft. In WoW, you don't get horses until 40. LotRO gives them to you at *35*. And instead of costing 80 gold, they cost the LotRO-equivalent of about 30 gold. The game is so obviously meant for WoW players in every way -- as if Turbine's goal was to specifically make a better WoW instead of a better MMO.
 
-![lotro-blackrider-1.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-blackrider-1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-blackrider-1.jpg" classes="center" >}}
 
 That out of the way, there's a lot of reasons *to* play. Like finding a pint-sized "Black Rider" terrorizing the residents of the Shire. THAT was a total shock. I was in Budgeford crafting when I hear a Black Rider outside saying things like "Today the Shire, tomorrow the world!". I'm not feeling any of the dread that comes with a real Black Rider, so I run out and am confronted with... well, who the heck IS he?
 
-![lotro-chap11.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-chap11.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-chap11.jpg" classes="center" >}}
 
 The so-called "Chapter" quests, the storyline quests that advance your tale simultaneously with the more famous tale of the hobbits and the One Ring... vary. It's fun to see what's happening with the main story and how every single other person in the realm is working overtime to make things easier for the Fellowship. Blasting away a particularly nasty wight before the hobbits can run afoul of it... very thrilling, and the quest is perfect for teaching the ins and outs of grouping. The quest before it, picking flowers near Old Man Willow... not as much. That's "Chapter Nine of the Epic Tale of the Fellowship: Picking Some Flowers."
 
-*![lotro-dera-cheese.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-dera-cheese.jpg)
+*{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-dera-cheese.jpg" classes="center" >}}
 
 Dera (13 Guardian) relaxes at the Bree auction house.*
 
 For every "Defeat the Fallen Ranger before he turns evil" quest, though, there are ten "Kill six pigs and bring me their tusks" quests. At least you can gather several similar quests together and do them all at once for massive quest xp when you turn them in. Last night, I had Eraindiel (elf champion) in the Lone Lands along with a hundred other people working the ruins near the Forsaken Inn. Every goblin or wolf kill dinged 2-3 quests. Dinged 16 and am halfway to 17 just for an hour or so of work. So at least grinding is a little more worth it than in the competition.
 
-*![lotro-dina-tull.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-dina-tull.jpg)
+*{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-dina-tull.jpg" classes="center" >}}
 
 Dina (15 minstrel) going all Aqualung on the patrons of the Prancing Pony.*
 
@@ -66,13 +45,13 @@ Every reviewer talks about LotRO's polish. Being able to play your own music on 
 
 Some snarky people might say that they had plenty of room for polish since they ripped so much from WoW. The auction house, the way you can track resource nodes, all the little pieces and bits they didn't have to design themselves, so they could put in the time they needed to make the game look utterly fantastic.
 
-*![lotro-tomhouse.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-tomhouse.jpg)
+*{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-tomhouse.jpg" classes="center" >}}
 
 Tom Bombadil's house in the Old Forest almost glows with warmth and magic.*
 
 Graphically, this game is so far beyond WoW and even EQ2... bloom, advanced lighting, great textures; LotRO uses the most advanced graphic engine I've seen so far (Vanguard's might be as good, I don't know). I and many others have mentioned before that the landscapes look more painted than rendered; almost any screenshot you could take could be a painstakingly painted book-cover.
 
-*![lotro-lysistra-3.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-lysistra-3.jpg)
+*{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-lysistra-3.jpg" classes="center" >}}
 
 Lysistra (15 captain), with friend, in Combe.*
 
@@ -80,4 +59,4 @@ LotRO is not the game for everyone. I doubt people who come to the game purely b
 
 But those who come to the game looking for a familiar experience in a new setting with enough differences to keep things interesting will have a happy time in Middle Earth, and for them, I very much recommend it, especially if you bring some friends along with you.
 
-![simp21.jpg](https://chasingdings.com/wp-content/uploads/2007/04/simp21.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/simp21.jpg" classes="center" >}}

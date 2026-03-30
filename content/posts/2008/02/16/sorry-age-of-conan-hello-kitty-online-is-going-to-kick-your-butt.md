@@ -3,41 +3,18 @@ date: '2008-02-16T11:54:41-05:00'
 draft: false
 title: "Sorry, Age of Conan. Hello Kitty Online is going to kick your butt."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/16/sorry-age-of-conan-hello-kitty-online-is-going-to-kick-your-butt/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Decapitated naked women (now with NIPPLES!!!), or the sheer awesome goodness of Hello Kitty Online?..."
+categories:
   - "Age of Conan"
   - "Hello Kitty Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/hk.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/hk.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/hk.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/hk.jpg"
 ---
+Decapitated naked women (now with NIPPLES!!!), or the sheer awesome goodness of Hello Kitty Online?...
+<!--more-->
 
-![hk.jpg](https://chasingdings.com/wp-content/uploads/2008/02/hk.jpg)
+
 
 Decapitated naked women (now with NIPPLES!!!), or the sheer awesome goodness of Hello Kitty Online?
 
@@ -47,7 +24,7 @@ Carving chunks of flesh from your thick-thewed foes on the battlefield, or fun g
 
 In the twenty four hours since the Hello Kitty closed beta signups have been live, they have been completely crushed by interest. I just got an email apologizing for their delay but they have had WAY more interest than they ever expected. They had to close their forums because of TOO MUCH INTEREST.
 
-![hk2.jpg](https://chasingdings.com/wp-content/uploads/2008/02/hk2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/hk2.jpg" classes="center" >}}
 
 If the chat we were having when we recorded Witty Ranter #3 last night is any clue, you guys are gonna get mighty lonesome shagging your skanky hos in AoC.
 

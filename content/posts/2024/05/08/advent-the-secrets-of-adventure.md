@@ -3,40 +3,18 @@ date: '2024-05-08T07:00:00-05:00'
 draft: false
 title: "ADVENT: The Secrets of Adventure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/05/08/advent-the-secrets-of-adventure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "What you need to know before you begin to play Crowther and Woods' \"Colossal Cave Adventure\"."
-description: "What you need to know before you begin to play Crowther and Woods' \"Colossal Cave Adventure\"."
-tags:
+categories:
   - "Adventure"
+tags:
   - "Colossal Cave"
   - "Colossal Cave Adventure"
   - "RPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/05/cca-banner2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/cca-banner2.png"
 ---
+What you need to know before you begin to play Crowther and Woods' "Colossal Cave Adventure".
+<!--more-->
 
 You have probably never played an adventure game quite like ADVENT. It wasn't intended to be a commercial product. It was intended to be a fun diversion; you had half an hour free, see how far you could get.
 
@@ -50,7 +28,7 @@ You are not alone in the dungeon. Aside from the monsters which stay in their ro
 
 Do unto others, etc.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/image-5-1024x291.png" title="Pirate." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/image-5-1024x291.png" title="Pirate." classes="center" >}}
 
 Further, you are being stalked by a pirate who wants to take all your treasure. If he finds you before you find him, he *will* take all your treasure, and with it any hope of getting a decent score. You can hunt him down, though, and take it back... and maybe some other treasure he happened to have stashed away.
 
@@ -70,7 +48,7 @@ Back in the day, I thought for a moment that this was the "all alike" maze, but 
 
 This maze, which is right at the start of the game, didn't exist when I played the game back in college. This is new. I've started mapping it... but it is pretty bad. It might even be the worst maze, *but*... there's at least one item in there you need.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/fullmap-1024x614.png" title="The Map of Room Connections" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/fullmap-1024x614.png" title="The Map of Room Connections" classes="center" >}}
 
 So before I go -- I spent some more time on my program to map room connections. I was thinking about the problem at work today, and when I got home, I rewrote it. The rooms are arranged so that they are generally close to the rooms close to them. I colored them from red to green according to their order in the game files. I did not include any of the mazes. Those are too twisty.
 

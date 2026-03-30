@@ -3,40 +3,17 @@ date: '2010-05-12T18:50:35-05:00'
 draft: false
 title: "What? A new game programming challenge?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/12/what-a-new-game-programming-challenge/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Via Slashie of Temple of the Roguelike, news of a NEW game programming challenge: Tiny Game 2010...."
+categories:
   - "Other Games"
   - "TinyGame2010"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/cube.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/cube.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/cube.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/cube.jpg"
 ---
+Via Slashie of Temple of the Roguelike, news of a NEW game programming challenge: Tiny Game 2010....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/05/cube.jpg "Feeling a little pixelated?")
+
 
 Via Slashie of [Temple of the Roguelike](http://www.roguetemple.com/), news of a NEW game programming challenge: [Tiny Game 2010](http://www.javagaming.org/index.php/topic,22255.0.html).
 

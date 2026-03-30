@@ -3,39 +3,17 @@ date: '2025-05-05T08:00:00-05:00'
 draft: false
 title: "Blue Prince: Welcome to the Gift Shop"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/05/05/blue-prince-welcome-to-the-gift-shop/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Hey, I completed another game! And what a journey..."
-description: "Hey, I completed another game! And what a journey..."
-tags:
+categories:
   - "Puzzle Games"
   - "RPG"
+tags:
   - "Blue Prince"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/Blue-Prince_20250504155946-scaled.jpg"
 ---
+Hey, I completed another game! And what a journey...
+<!--more-->
 
 Would I have picked this game up if it hadn't been offered through the PlayStation Plus service? I dunno. I might have. But probably not. And I would have really been missing out.
 
@@ -49,13 +27,13 @@ It's possible to do the whole thing on Day 1, if you're lucky. Doing so is one o
 
 I did neither. My winning run took a bit over an hour, mostly because I'd never done the puzzles that come after the Antechamber before. After I finished, I watched someone's successful Day 1/1 Hour run, and that player did the post-Antechamber stuff an entirely different way. I'd unlocked some rooms along the way that made it easier for me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/Blue-Prince_20250504154246-1024x576.jpg" title="Room 46" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/Blue-Prince_20250504154246-1024x576.jpg" title="Room 46" classes="center" >}}
 
 Opening Room 46 rolls the credits, but what you find in the room sets up the second part of the game. Like a lot of RPGs these days, the post-credits stuff is where the real game begins, and where the real story comes out.
 
 Like Firewatch, Gone Home and other such "walking simulators", there is no combat, no real time pressure. The story is told through letters, notes, e-mail, books and so on you find as you explore the house. Sometimes a room will contain clues for a puzzle in a different room, maybe not even a room you'll draft that day. Rooms can be stuffed with clues for several puzzles, but I don't think any puzzles need to be solved to win the game. They can unlock new rooms, but typically they are just the mechanism to tell the story about what happened to the family that lived there. (Aside from your uncle, the Baron -- he died there, and his death is what brings you to the house).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/Blue-Prince_20250427150955-1024x576.jpg" title="Clues come in the oddest places" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/Blue-Prince_20250427150955-1024x576.jpg" title="Clues come in the oddest places" classes="center" >}}
 
 If you like puzzles, Blue Prince has puzzles. If you like just exploring and learning a story, there's that. If you're into speed running, this game has you covered. If you'd rather have exciting real-time combat, come on. Simon (your character) is a 14-year old boy, and his country, Fenn Aries, has seen enough fighting.
 

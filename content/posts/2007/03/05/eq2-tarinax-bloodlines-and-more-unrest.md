@@ -3,44 +3,21 @@ date: '2007-03-05T15:03:05-05:00'
 draft: false
 title: "EQ2: Tarinax, Bloodlines and More Unrest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/03/05/eq2-tarinax-bloodlines-and-more-unrest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last weekend was the last weekend I'll be able to play EQ, as I am moving cross-country and it could be a few weeks for..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/03/wk-skull.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/03/wk-skull.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/wk-skull.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/wk-skull.jpg"
 ---
+Last weekend was the last weekend I'll be able to play EQ, as I am moving cross-country and it could be a few weeks for...
+<!--more-->
 
 Last weekend was the last weekend I'll be able to play EQ, as I am moving cross-country and it could be a few weeks for everything to arrive, Internet get hooked up, life to settle back to normal, fingers get unfrozen enough to type.
 
 But, it was a good weekend.
 
-*![wk-skull.jpg](https://chasingdings.com/wp-content/uploads/2007/03/wk-skull.jpg)
+*
 
 We have seized control of your computer... and your MIND.*
 
@@ -48,13 +25,13 @@ We have seized control of your computer... and your MIND.*
 
 I returned to Unrest a couple of times this weekend, seeing more of it with every trip. Trip? This place IS trippy. Unrest will do *anything* to mess with you. From fogging up your screen, to giving you double vision, to suddenly make things go hazy and throwing *cackling skulls* at you... this is less an adventure zone than a trip through madness. What with devious puzzles (collect pages of music, try to play them, and infuriate the guiding spirit by your lack of ability -- or try to prepare a meal for people long dead), playing with nostalgia and a wicked sense of humor.
 
-*![wk-dina.jpg](https://chasingdings.com/wp-content/uploads/2007/03/wk-dina.jpg)
+*{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/wk-dina.jpg" classes="center" >}}
 
 OMG HAFFER KILL!*
 
 Sometimes we'd hear someone in the party mutter something aloud... I heard myself demanding to know why everyone had left me behind... but I was with the group and so who could THAT Dina be? And she'd laugh and start attacking us. The fight against the Festering Hag teleports people randomly into cells. I saw a party member get ported to one, so I ran to open it and OH NO.... ANOTHER ONE!
 
-*![wk-lavatrap.jpg](https://chasingdings.com/wp-content/uploads/2007/03/wk-lavatrap.jpg)
+*{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/wk-lavatrap.jpg" classes="center" >}}
 
 If you played EQ1, you think you know what to do here.*
 
@@ -64,13 +41,13 @@ Both were wrong. Crossing this pit spawns the blood goblin, Hemogoblin (/groan).
 
 **The Bloodline Chronicles**
 
-![wk-vampire.jpg](https://chasingdings.com/wp-content/uploads/2007/03/wk-vampire.jpg) I didn't care much for the Bloodlines Chronicles when it was first released. I did do a couple of the quests, but as is often the case in long quest chains, the groups I joined were always further along in their quests than I was in mine, so I never really progressed that much.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/wk-vampire.jpg" classes="fig-20" >}} I didn't care much for the Bloodlines Chronicles when it was first released. I did do a couple of the quests, but as is often the case in long quest chains, the groups I joined were always further along in their quests than I was in mine, so I never really progressed that much.
 
 I logged on my prize duo of Dina and Dorah yesterday really intending to work on the Peacock Club quest series, but instead, ended up delving into the tombs and crypts of the Bloodline Chronicles. The eventual rewards of learning the Thexian language (used all over EoF but hardly anyone knows what the NPCs are saying) and getting the Vampire illusion for completing a level 30-40 quest series seemed like just the thing to do before our Sunday raid.
 
 The quest series tells the tale of a coup in the Vampire hierarchy. A new gun in town has killed the old Master and taken over, and hopes to use various artifacts in order to control the power of vampires even more ancient. Freeport wasn't alarmed by some old world Thexians living their lives in peace, feeding on their captive goblins and leaving the surface world alone, more or less. But this new vampire has other plans and so, must be dealt with. And of course, as they're deciding this, who should stumble up but Yours Truly.
 
-*![wk-hellhound.jpg](https://chasingdings.com/wp-content/uploads/2007/03/wk-hellhound.jpg)
+*{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/wk-hellhound.jpg" classes="center" >}}
 
 Bloodmaw? Helltooth? Marmaduke? Whatever, he's a Big Dog.*
 
@@ -78,7 +55,7 @@ Far from being the dull grind I thought it would be from what I had seen before,
 
 The art isn't as good as SOE would produce; this was the adventure pack Gabe of Penny Arcade pointed to to illustrate SOE's lack of design skills. And I agree. The expansion could be a lot more atmospheric with some bolder colors (why are the EQ2 artists afraid of color?) and more creative textures. However, it's still a lot of fun. The Crypt of Thaez is a dungeon in three dimensions and even with a good map, it is still far too easy to get lost.
 
-*![wk-tarinax.jpg](https://chasingdings.com/wp-content/uploads/2007/03/wk-tarinax.jpg)
+*{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/wk-tarinax.jpg" classes="center" >}}
 
 Dead, and loving it.*
 

@@ -3,37 +3,12 @@ date: '2008-02-25T09:01:59-05:00'
 draft: false
 title: "Witty Ranter #3"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/25/witty-ranter-3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Witty Ranter #3, a round-table style podcast where Adam of Troll on Fire brings together several people and sets them going, and which (unwisely) had..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Witty Ranter #3, a round-table style podcast where Adam of Troll on Fire brings together several people and sets them going, and which (unwisely) had...
+<!--more-->
 
 Witty Ranter #3, a round-table style podcast where Adam of [Troll on Fire](http://trollonfire.wordpress.com/) brings together several people and sets them going, and which (unwisely) had me as a guest, is out. So [here it is](http://virginworlds.com/podcast.php?show=14&ep=3) for your listening delight. In it, me, Karen from Journeys with Jaye and Leala from Epic Dolls discuss the role of men in MMOs. (Do they have a role? Listen and find out!)
 

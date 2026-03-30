@@ -3,40 +3,17 @@ date: '2015-11-14T11:47:57-05:00'
 draft: false
 title: "The IJN Welcomes You to Tier V"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/11/14/the-ijn-welcomes-you-to-tier-v/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was only fair that Suzuki Senchou was offered command of the Imperial Japanese Navy cruiser Furutaka on her addition to my fleet. It was..."
+categories:
   - "MMORPG"
   - "World of Warships"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/worldofwarships-2015-11-14-10-43-27-25.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/11/worldofwarships-2015-11-14-10-43-27-25.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/worldofwarships-2015-11-14-10-43-27-25.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/worldofwarships-2015-11-14-10-43-27-25.jpg"
 ---
+It was only fair that Suzuki Senchou was offered command of the Imperial Japanese Navy cruiser Furutaka on her addition to my fleet. It was...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/worldofwarships-2015-11-14-10-43-27-25.jpg" title="The Furutaka, a T5 Cruiser" class="align-center" >}}
+
 
 It was only fair that Suzuki Senchou was offered command of the Imperial Japanese Navy cruiser Furutaka on her addition to my fleet. It was his stellar record on the Kuma that not only drove the research of the new line of cruisers, but also drove improvements on other ships of the line. However, the deeper waters of Tier V engagements may tarnish the record that has brought my record of wins and losses almost to "average".
 

@@ -3,41 +3,21 @@ date: '2010-10-28T07:11:22-05:00'
 draft: false
 title: "Wizard101: Diving into Celestia!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/28/wizard101-diving-into-celestia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Celestia"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-27-23-36-10-56-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-27-23-36-10-56-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-27-23-36-10-56-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-27-23-36-10-56-480x360.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-27-23-36-10-56-480x360.jpg "The Grotto")](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-27-23-36-10-56.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-27-23-36-10-56.jpg)
 
 After spending a couple of weeks soaking on the Wizard101 Test server, KingsIsle yesterday released the underwater-themed expansion to the wider world. By the time I logged in, there were already many wizards halfway through the run from level 50 to level 60, and every world and every zone of Celestia was filled with spells and wandfire and confused, dazed looking monsters with WTF? looks on their carapaced faces.
 

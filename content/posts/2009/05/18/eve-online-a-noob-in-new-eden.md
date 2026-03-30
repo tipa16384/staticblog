@@ -3,46 +3,21 @@ date: '2009-05-18T08:20:02-05:00'
 draft: false
 title: "EVE Online: A noob in New Eden"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/18/eve-online-a-noob-in-new-eden/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm in a sort of MMO rut these days, and it's not because MMOs have let me down. They haven't; most of the MMOs I..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-17-20-53-19-11.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-17-20-53-19-11.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-17-20-53-19-11.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-17-20-53-19-11.jpg"
 ---
+I'm in a sort of MMO rut these days, and it's not because MMOs have let me down. They haven't; most of the MMOs I...
+<!--more-->
 
 I'm in a sort of MMO rut these days, and it's not because MMOs have let me down. They haven't; most of the MMOs I play regularly are extremely good, and if I'm not having much fun, I'm sure it's not he game's fault.
 
 I've been thinking about the old Bartle method for classifying MMO players as having varying degrees of four attributes, a character sheet of sorts for gamers -- Explorer, Socialite, Achiever and Killer. Everyone has each of those to a lesser or greater extent. Explorers like seeing something they haven't seen before. Socialites like doing things with other people. Achievers want to have the most or be the best, and Killers want to hug puppies and donate to worthy charities. The Bartle test shows me to be a heavy Explorer type, with about equal shares of Socialite and Achiever, and lastly, far and away the least, a Killer.
 
 But the games I have been playing are mostly either Achiever-focused games (EQ2 and LotRO) or Killer games (Spellborn). Wizard101 is a Social game and Free Realms an Explorer game, but they were the minority and suffer from being kid-focused. Realizing that my rut may come from playing MMOs that really don't appeal to me (in EQ2, for instance, I mostly just make tableaux for comics instead of grinding shards and AAs as I am supposed to do), I downloaded EVE Online, the hardest core of all the Explorer-focused MMO I know of.
-
-![Isis](https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-17-20-53-19-11.jpg "Isis")
 
 I hadn't wanted to go Gallente again, but I looked at all the ships available and in the appealing looks department, it was either Gallente or the Mon Calimari-looking Amarr ships. Given racial histories of either liberty or religious fervor, I went with liberty and taking on a very old family name, entered New Eden as Tipa Pinneau (by the time my mother was born, the name had been Anglicized to Pineo. I went back to the original).
 
@@ -52,13 +27,13 @@ Since I played last year, the tutorial mission arcs have gone from a single catc
 
 That arc rewarded me the Tristan above. I used EVEMon to browse Battleclinic for good Tristan builds, and I was only a couple of hours away from a really solid build, so I trained that up while I searched the market for the fittings I'd need. Isis' Dark Laughter III is a speed tank -- she zips around the battle at 800m/s while destroying things from 10km with 125mm guns and Flameburst missiles, with a combat drone to help out a little. In the missions I've run with her, most of her enemies have died in the first few seconds; I can't lock target on them fast enough. Now that I have moved to Arnon, I expect things to be more difficult, but I'm liking it so far.
 
-![Ship in Shadow heads into lowsec](https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-17-20-06-57-95.jpg "Ship in Shadow heads into lowsec")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-17-20-06-57-95.jpg" title="Ship in Shadow heads into lowsec" classes="center" >}}
 
 After the excitement of the combat arc, the business arc was a bit of a snore. The combat was depressingly simple, and though it taught the basics of salvage and hacking, the arc itself noted that it would be some time before we could use these abilities in real situations. I did peek in on the ship graveyards in some systems, with the salvagers buzzing around immense hulks like flies on a corpse. Someday... I didn't, by the way, appreciate that these missions couldn't be done usefully in a group. I flew them with my friend Kasul, and we ended up having to do most of them twice so we each could get the doodad from them.
 
 The reward for this arc was the slow-moving hauler Iteron, which was amusingly destroyed in my only PvP incident of the weekend. I don't want to say PvP battle, because it wasn't. But I'll talk about that more in the next section.
 
-![Mining Kernite](https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-17-15-06-18-86.jpg "Mining Kernite")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-17-15-06-18-86.jpg" title="Mining Kernite" classes="center" >}}
 
 The mining arc! I remembered this from last year! The last of the three arcs has you mining the skies for ore and forming it into various things. This is the arc that teaches new pilots, like me, how they are going to be making their money to start. The missions alternated between killing a couple extremely weak enemies and then mine something (and for this I used a combat drone which had no trouble keeping me safe from NPCs), or make something.
 

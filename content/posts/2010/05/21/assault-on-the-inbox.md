@@ -3,24 +3,8 @@ date: '2010-05-21T21:41:28-05:00'
 draft: false
 title: "Assault on the Inbox"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/21/assault-on-the-inbox/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Another week, another truckload of gaming press releases...."
+categories:
   - "Daily Blogroll"
   - "Dragon Age Origins"
   - "EverQuest"
@@ -28,22 +12,13 @@ tags:
   - "Legends of Zork"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/assault-479x185.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/assault-479x185.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/assault-479x185.jpg"
 ---
+Another week, another truckload of gaming press releases....
+<!--more-->
 
 Another week, another truckload of gaming press releases.
-
-![](https://chasingdings.com/wp-content/uploads/2010/05/assault-479x185.jpg "Assault on the Inbox")
 
 **Bioware announces their new downloadable content** for their Dragon Age RPG, "[The Darkspawn Chronicles](http://ebm.em.ea.com/c/tag/hBL9u3eB7uauvB8JggvDpF6Br5a/doc.html)". Meant as an alternate story -- one where your character from Dragon Age: Origins and Awakening dies during the Grey Warden initiation -- here you command the forces of the Darkspawn against the remnants of the forces of Light, led by the man who wouldn't be king, Alistair.
 
@@ -51,7 +26,7 @@ Complete the module, unlock an item in the main games. And hey, you can buy some
 
 **Jolt Online announces a new toolbar** for their Legends of Zork browser game. The toolbar will let you [keep track of your character](http://joltonlinegaming.createsend.com/T/ViewEmail/r/65929912D29C0407/5C9A30E8397DAF18D9767B6002735221) when you aren't playing the game, but are in your browser (IE and FF only, folks. Sorry, Safari and Chrome users) where... you could just load the game up if you wanted to see this information. I wondered idly on Twitter if this apparently useless add-on had some nefarious purpose. And I got a reply!
 
-.bbpBox14433765400 {background:url(http://a1.twimg.com/profile_background_images/84128378/jolt.jpg) #C0DEED;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block} @[tipadaknife](http://twitter.com/tipadaknife) of course we're not using our new toolbar to spy on you! We already have covert viruses for that...[less than a minute ago](http://twitter.com/joltonline/status/14433765400) via [TweetDeck](http://www.tweetdeck.com)[![](http://a1.twimg.com/profile_images/733688232/jolt-avatar_normal.jpg)](http://twitter.com/joltonline)**[Jolt Online Gaming](http://twitter.com/joltonline)**
+.bbpBox14433765400 {background:url(http://a1.twimg.com/profile_background_images/84128378/jolt.jpg) #C0DEED;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block} @[tipadaknife](http://twitter.com/tipadaknife) of course we're not using our new toolbar to spy on you! We already have covert viruses for that...[less than a minute ago](http://twitter.com/joltonline/status/14433765400) via [TweetDeck](http://www.tweetdeck.com)[{{< image src="http://a1.twimg.com/profile_images/733688232/jolt-avatar_normal.jpg" classes="center" >}}](http://twitter.com/joltonline)**[Jolt Online Gaming](http://twitter.com/joltonline)**
 
 joltonline
 
@@ -69,7 +44,7 @@ I found out that there was ALSO a [toolbar for XFire](http://www.xfire.com/cms/a
 
 I think everyone should only refer to money with slang. I'll go first.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/CL_Wallpaper_04-480x384.jpg "Wizard101 Celestia tease")](https://chasingdings.com/wp-content/uploads/2010/05/CL_Wallpaper_04.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/CL_Wallpaper_04-480x384.jpg" title="Wizard101 Celestia tease" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/05/CL_Wallpaper_04.jpg)
 
 **KingsIsle uncovers another shadowy figure** from their forthcoming Wizard101 expansion, Celestia. The huge crab, dressed in shell armor and carrying a wicked polearm, looks menacing enough. If Celestia continues the trend of new Wizard101 worlds, we'll have to kill approximately a million of these critters at half an hour per fight.
 

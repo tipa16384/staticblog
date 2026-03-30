@@ -3,40 +3,19 @@ date: '2010-03-05T19:18:19-05:00'
 draft: false
 title: "EVE Online: Nemesis Initiative update"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/05/eve-online-nemesis-initiative-update/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg "Success in invention comes at a price")](https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/03/ExeFile-2010-03-05-18-45-09-42.jpg)
 
 On my fourth try, my Nemesis invention produced an actual blueprint. That's pretty fun, but what are the true costs? I wasn't able to find any Tristan blueprints on contract on which to base the invention, so I had to buy an original. That DOES give me a second avenue of profit, as I can sell Tristan blueprints at about 200K each. They don't move quickly, but they eventually do sell.
 

@@ -3,48 +3,26 @@ date: '2022-07-19T23:19:23-05:00'
 draft: false
 title: "Gloomhaven Jaws of the Lion: Finished."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/07/19/gloomhaven-jaws-of-the-lion-finished/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It took us a little over two years to play through the twenty-five scenarios of Jaws of the Lion. But we enjoyed every single one..."
+categories:
   - "3D Printing"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
   - "Terraforming Mars"
+tags:
   - "Jaws of the Lion"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/jotlbox.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/jotlbox.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/jotlbox.png"
 ---
+It took us a little over two years to play through the twenty-five scenarios of Jaws of the Lion. But we enjoyed every single one...
+<!--more-->
 
 It took us a little over two years to play through the twenty-five scenarios of Jaws of the Lion. But we enjoyed every single one of those twenty five.
 
-Covid, real life, and the occasional other game (mostly [Terraforming Mars](https://chasingdings.com/category/terraforming-mars/)) got in the way of finishing this prequel to Gloomhaven in any reasonable amount of time. Sometimes, months would go by between plays. But we always came back. Our time with [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven) and [Jaws of the Lion](https://chasingdings.com/tag/jaws-of-the-lion/) gave us a reason to come together and just lose ourselves in a world where certain doom seemed to lurk around every new scenario.
+Covid, real life, and the occasional other game (mostly [Terraforming Mars](https://tipa16384.github.io/wkblog/category/terraforming-mars/)) got in the way of finishing this prequel to Gloomhaven in any reasonable amount of time. Sometimes, months would go by between plays. But we always came back. Our time with [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven) and [Jaws of the Lion](https://tipa16384.github.io/wkblog/tag/jaws-of-the-lion/) gave us a reason to come together and just lose ourselves in a world where certain doom seemed to lurk around every new scenario.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/IMG_2625-1024x774.jpg" title="The final encounter" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2625-1024x774.jpg" title="The final encounter" classes="center" >}}
 
 Toward the end of our Gloomhaven playthrough, I'd started 3D printing the various terrain and furniture that decorated the dungeons. My plan was to print EVERYTHING in Jaws of the Lion, set up completely printed dioramas for each mission.
 
@@ -52,7 +30,7 @@ That didn't last long at all. The printed scenario books are really just too han
 
 My painting skills went from "terrible" to "sometimes acceptable". In the picture above, the face on the boss (the dude in red cape and orange tabard) is a lot more fully featured than the one of the Void Warden, the woman in the green dress. I hadn't learned to paint faces when I painted her. Also, the minis my partner prints are way more detailed than the ones that came with the game, a persistent problem with Gloomhaven minis.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/IMG_1720-1024x768.jpg" title="JotL terrain test prints" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_1720-1024x768.jpg" title="JotL terrain test prints" classes="center" >}}
 
 In those twenty five scenarios, we marveled at how for most every scenario, it was absolutely unknown if we would fail the mission or somehow succeed. Many times we were one move from losing, and some lucky draw would win the day. Gloomhaven rules prevent players from collaborating with each other when planning moves, but you can talk generally about what your plans are. Without knowing precisely who would go when, a lot of carefully planned combos went up in smoke as the monster someone needed to be THERE was now suddenly OVER THERE instead.
 

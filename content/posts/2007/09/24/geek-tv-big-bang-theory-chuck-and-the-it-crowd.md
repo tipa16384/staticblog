@@ -3,37 +3,12 @@ date: '2007-09-24T10:13:31-05:00'
 draft: false
 title: "Geek TV: Big Bang Theory, Chuck, and The IT Crowd"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/09/24/geek-tv-big-bang-theory-chuck-and-the-it-crowd/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Chuck and Big Bang Theory had free previews on Yahoo! So what the heck, I watched them.Â Â..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Chuck and Big Bang Theory had free previews on Yahoo! So what the heck, I watched them.Â Â...
+<!--more-->
 
 Chuck and Big Bang Theory had free previews on Yahoo! So what the heck, I watched them.Â Â
 

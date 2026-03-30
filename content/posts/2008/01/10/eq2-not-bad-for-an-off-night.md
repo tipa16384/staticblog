@@ -3,40 +3,17 @@ date: '2008-01-10T08:45:23-05:00'
 draft: false
 title: "EQ2: Not bad for an off night."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/10/eq2-not-bad-for-an-off-night/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night was an off night -- no official raiding -- but when I got a raid invite the moment I logged in, well, who..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-10-07-19-27-99.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-10-07-19-27-99.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-10-07-19-27-99.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-10-07-19-27-99.jpg"
 ---
+Last night was an off night -- no official raiding -- but when I got a raid invite the moment I logged in, well, who...
+<!--more-->
 
-![everquest2-2008-01-10-07-19-27-99.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-10-07-19-27-99.jpg)
+
 
 Last night was an off night -- no official raiding -- but when I got a raid invite the moment I logged in, well, who am I to say no?
 
@@ -46,7 +23,7 @@ Why stop there? We moved to the Tunarian Throne Room, and got quite far in there
 
 It *is* easier when everyone is 80...
 
-![everquest2-2008-01-10-00-08-42-42.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-10-00-08-42-42.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-10-00-08-42-42.jpg" classes="fig-20" >}}
 
 That finished our official OFF night raiding. I joined a guild Maiden's group, and we just tore through the place. Record time. It is SO DIFFERENT from the pickup groups I've had before. Drusella? She went DOWN. I pulled two upgrades out of that place -- the picture at the top isn't appearance armor; that's actually what Dina wears. It matches enough now that I can drop the appearance stuff.
 

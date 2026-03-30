@@ -3,38 +3,16 @@ date: '2020-07-20T11:33:02-05:00'
 draft: false
 title: "Ghost of Tsushima: Act One"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/07/20/ghost-of-tsushima-act-one/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Having now completed (I estimate) the first third of the game, I think I can talk a little more about how I feel about it...."
+categories:
   - "PS4"
+tags:
   - "Ghost of Tsushima"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200719141325.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200719141325.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200719141325.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200719141325.jpg"
 ---
+Having now completed (I estimate) the first third of the game, I think I can talk a little more about how I feel about it....
+<!--more-->
 
 Having now completed (I estimate) the first third of the game, I think I can talk a little more about how I feel about it.
 

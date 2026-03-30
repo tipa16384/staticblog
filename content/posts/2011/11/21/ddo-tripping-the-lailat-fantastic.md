@@ -3,41 +3,19 @@ date: '2011-11-21T07:08:34-05:00'
 draft: false
 title: "DDO: Tripping the Lailat Fantastic"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/11/21/ddo-tripping-the-lailat-fantastic/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We've been on the rocks the last couple of weeks, progressionally-speaking. Gianthold Tor has given us an extended learning curve as we learn how to..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg"
 ---
+We've been on the rocks the last couple of weeks, progressionally-speaking. Gianthold Tor has given us an extended learning curve as we learn how to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-20-23-41-06-72-480x383.jpg" title="Team Spode vs the Kite Runner" class="align-center" >}}
+
 
 We've been on the rocks the last couple of weeks, progressionally-speaking. Gianthold Tor has given us an extended learning curve as we learn how to become giant and dragon slayers (which will likely involve specific resist gear for each dragon). When we decided to take a break and finish up the Sands of Menechtarun content, designed for level 12 that we thought would be trivial at our levels (14-16), that also kicked our butt.
 
@@ -51,7 +29,7 @@ During the week, we'd discussed our kiting strategy for Queen Lailat (Lailat, la
 
 Back to the shrine to wait the few minutes to rest again, and then in for the second phase.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-20-23-44-57-25-480x384.jpg" title="Tunnel of Death" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-20-23-44-57-25-480x384.jpg" title="Tunnel of Death" classes="center" >}}
 
 The second try is around a much smaller room. Again, we took out the adds and kited her -- flawlessly. We won, and got nearly 10K experience from it.
 
@@ -59,7 +37,7 @@ The quest giver back at base opened our way to the two-group raid, where we coul
 
 The raid opens with a corridor of lava death. I feign real deathed my way up it while Gleek, Spode and Ulan took on the waves of demons that spawned as we made our way up. Soon we were face-to-arms with the demon queen.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/dndclient-2011-11-20-23-51-07-11-480x384.jpg" title="Lailat & Frenemy" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/11/dndclient-2011-11-20-23-51-07-11-480x384.jpg" title="Lailat & Frenemy" classes="center" >}}
 
 She laughed us off and poofed away. Demons on pillars separated from us by a void shot us as Lailat teleported around the room firing off spells, including an incredibly hard to avoid roving blade barrier that sliced the rest of the group to shreds. Rogues have high evasion, so not so much me, but once everyone else had died, the demons on the pillars and Lailat herself started bringing the pain my way.
 

@@ -3,41 +3,20 @@ date: '2020-08-27T08:20:39-05:00'
 draft: false
 title: "Blaugust #27: Be the Content You Want to See"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/27/blaugust-27-be-the-content-you-want-to-see/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't even know if that title makes any sense. Anyway. A bunch of the prompts from the past week have dealt, in some way,..."
+categories:
   - "Blaugust"
   - "Comic"
   - "Lord of the Rings"
   - "MMORPG"
+tags:
+  - "Blaugust"
   - "Girls Screaming at Readers"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/ClipartKey_519651.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/ClipartKey_519651.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/ClipartKey_519651.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/ClipartKey_519651.png"
 ---
+I don't even know if that title makes any sense. Anyway. A bunch of the prompts from the past week have dealt, in some way,...
+<!--more-->
 
 I don't even know if that title makes any *sense*. Anyway. A bunch of the prompts from the past week have dealt, in some way, with *content creation*. A lot of people have disagreed with my interpretation of that task as a method of drawing people to a website for the purpose of monetizing them in some way and getting your message and your content seen by those who'd enjoy seeing it.
 
@@ -53,7 +32,7 @@ But, let's turn that around, and assume that I wanted people to read what I wrot
 
 How would I go about that?
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/openmike-1.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/openmike-1.png" classes="center" >}}
 
 ## Meet reader expectations
 
@@ -65,7 +44,7 @@ But if I really wanted to bring people in, I'd find one thing I was passionate a
 
 If every one of my posts on this blog dealt with playing Doman Mahjong in FFXIV (and why not? it's fun!), then eventually when people started searching for information about FFXIV's Mahjong on any given search engine, they'd start seeing all the links point to my Mahjong blog. I could show how to set up tricky *yaku*, or explore the weaknesses in the novice bot AI -- the possibilities are endless. I would become the authority, rightly or wrongly, on this subject. I could then branch out to related topics (other Gold Saucer games, or other forms of Mahjong) and bring my readership along while expanding the kinds of potential readers search engines would send me.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/killbears-1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/killbears-1.jpg" classes="center" >}}
 
 ## Find your voice
 
@@ -75,7 +54,7 @@ I see this all the time in Youtube streamers. The bets ones have narrowed their 
 
 Text is no different from video, except less makeup. Who is the person I want to be to a reader? TBH, I don't even know. When I was writing West Karana, I chose the persona of someone who found fun and humor in the MMO community. It's definitely a part of me. I haven't found a voice yet for this blog, but I feel like I'm being shouty, and that definitely isn't what I'm going for (and isn't me in real life). I can't go back to the WK voice because it's just such a different world now. It's probably for the best that I lost that site.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/forsakenale.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/forsakenale.jpg" classes="center" >}}
 
 ## Know your reader
 
@@ -91,7 +70,7 @@ Readers need a reason to comment. If my blog post was, "I went to the grocery st
 
 Making headlines like that one above may seem dishonest, but it shouldn't. That article really would be talking about how the virus spreads in stores, how you should protect yourself and so on. Headlines should never *lie*. That will drive off your readers. The entire purpose of a headline is to entice the potential reader to click it and read your article. Afterwards, they'll be happy they got a chance to read it. They'll be likely to come back next time.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/teevee.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/teevee.png" classes="center" >}}
 
 ## Use Analytics
 
@@ -103,7 +82,7 @@ I've already written about one -- narrowing the focus so that search engines sta
 
 Back in the West Karana days, I got a lot of traffic from search engines. An exciting amount of people would actually type "West Karana blog" into their search engine -- they were looking for my content on purpose! The rest of the queries that listed my site were based on things I was writing about, and their decision to follow the link could only have been based on the headlines I chose. I got a lot of comments, and even when I came back after six years of not blogging, people still remembered my blog, so that's something.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/lotroclient-2009-02-01-22-2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/lotroclient-2009-02-01-22-2.jpg" classes="center" >}}
 
 ## Do you.
 

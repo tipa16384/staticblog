@@ -3,44 +3,22 @@ date: '2025-01-05T12:09:14-05:00'
 draft: false
 title: "Best Board Games of 2024!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/05/best-board-games-of-2024/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world..."
-description: "The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world..."
-tags:
+categories:
   - "HeroQuest"
   - "Nemesis"
   - "Tabletop Games"
   - "Tales From the Loop"
+tags:
   - "Axe-O-Lot-L"
   - "Bardwood Grove"
   - "Best Of 2024"
   - "In Too Deep"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/bestboardgamebanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/bestboardgamebanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bestboardgamebanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bestboardgamebanner.png"
 ---
+The last Best Of post! We play a lot of board games. Stems from our crippling Kickstarter habit. Step into my tabletop world...
+<!--more-->
 
 There are some games I'm not going to talk about here. They are the "emeritus" honorees, games that we'll bring to the table whenever we just want to have some fun with a game everyone enjoys, no questions asked. Those are:
 
@@ -54,11 +32,11 @@ I think I probably have written lots about those games before.
 
 We are serious board gamers. It's not unusual to spend two nights a week board gaming. You discover who your friends and family really are when you're staring at each other over a colorful cardboard square.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-17-300x259.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-17-300x259.png" classes="center" >}}
 
 **Axe-A-Lot-L (2024)**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-18-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-18-150x150.png" classes="fig-20" >}}
 
 Case in point: Axe-A-Lot-L. This card game, where you play an axolotl desperate to keep their limbs from the other axolotls that covet them, would seem to be a friendly game that would bring a family together. I gave it to my granddaughter for her birthday, and when I played with her, she was an aggressive demonic force.
 
@@ -68,7 +46,7 @@ I met the game's creator, Tim Buckley, better known as the artist behind the "[C
 
 I'm a big fan of his comics, and was pretty impressed with the game. The kid who's in the target audience loved it, and there's a lot of bizarre cards to keep people laughing as their number of limbs dwindle. Because when you've lost all your limbs, well, you become an enraged, berserk ball of floof and then, watch out.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-19-1024x576.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-19-1024x576.png" classes="center" >}}
 
 **Bardwood Grove (2024)**
 
@@ -80,7 +58,7 @@ Each new season brings new events and new bards. Each bard has a unique ability 
 
 It's a complicated game. But also, goofy fun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-20-1024x576.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-20-1024x576.png" classes="center" >}}
 
 **Tales from the Loop, the Boardgame (2022)**
 
@@ -94,7 +72,7 @@ Kids can help each other out by improvising items to solve situations or by addi
 
 We loved the concept of the game. But, it just doesn't work. We made some house rules to make things somewhat more achievable but in the end, we felt the game could have been better.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-21.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-21.png" classes="center" >}}
 
 **In Too Deep (2023)**
 
@@ -110,7 +88,7 @@ If you were playing alone, not much of an issue. But the other spies are trying 
 
 It's fun when a plan comes together. But even when things seem to be going right, the end of the round might reveal that you don't have all you need after all, and the Syndicate has gotten away again.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-23-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-23-1024x576.png" classes="center" >}}
 
 **Nemesis (2019)**
 
@@ -122,7 +100,7 @@ The ship is damaged and needs repairs. Alien intruders are stalking you. You nee
 
 We played a lot of Nemesis. Aside from the standard "aliens hunting crew through a huge spaceship" mode, expansions go through the aftermath of a previous successful run, and what has happened now that the intruders have escaped onto Earth itself.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-24.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-24.png" classes="center" >}}
 
 **HeroQuest (1989/2021)**
 

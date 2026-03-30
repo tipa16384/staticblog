@@ -3,24 +3,8 @@ date: '2009-04-27T07:01:37-05:00'
 draft: false
 title: "Web log 4/27 -- the Calm Before the Storm edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/27/web-log-427-the-calm-before-the-storm-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Welcome to Monday! We had a gorgeous weekend here in Connecticut. The cat loved sunning herself in every patch of light, shorts weather for sure,..."
+categories:
   - "Age of Conan"
   - "Champions Online"
   - "Chronicles of Spellborn"
@@ -28,18 +12,9 @@ tags:
   - "EVE Online"
   - "Free Realms"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Welcome to Monday! We had a gorgeous weekend here in Connecticut. The cat loved sunning herself in every patch of light, shorts weather for sure,...
+<!--more-->
 
 Welcome to Monday! We had a gorgeous weekend here in Connecticut. The cat loved sunning herself in every patch of light, shorts weather for sure, and everything is in bloom.
 

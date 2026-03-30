@@ -3,40 +3,19 @@ date: '2010-03-12T08:09:35-05:00'
 draft: false
 title: "EVE Online: Building the Stealth Bomber"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/12/eve-online-building-the-stealth-bomber/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg "The Purifier")](https://chasingdings.com/wp-content/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/03/ExeFile-2010-03-12-07-04-29-98.jpg)
 
 A few days ago, my alt in EVE Online, Etha Preve, finished enough training to fly the Amarrian stealth bomber, the Purifier. After grouping with a friend who had just gotten the skills to fly his own bomber (a Nemesis), I knew I'd want one on my alt to help with level 4 missions.
 
@@ -50,7 +29,7 @@ As a pilot who has trained for Amarr ships all her career, Etha had very little 
 
 It was time to plug the numbers into the EVE Fitting Tool.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/Fullscreen-capture-3122010-70509-AM-479x319.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/Fullscreen-capture-3122010-70509-AM-479x319.jpg" title="Click to enlarge" classes="center" >}}
 
 I started my hunt for good fits over in BattleClinic. BattleClinic is THE go-to site for help with EVE Online, if you want a good overview for what is really happening in the game. They are also the #1 destination for sample ship fittings. EVEMON ties directly into their database.
 
@@ -62,7 +41,7 @@ Since I mean for this stealth bomber to pair with my Ishtar, and the Ishtar will
 
 Missiles good out to 40km; I have not seen many NPCs fire effectively from that distance (though they do try). I have also not seen many NPCs with a velocity greater than 500m/s, so at 711m/s cruising speed under afterburners (which this ship can run full time), it should be impossible for any ship to get close enough to do serious damage, especially if the Ishtar is doing its job and keeping aggro and killing stuff with drones.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/Fullscreen-capture-3122010-70534-AM-479x428.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/Fullscreen-capture-3122010-70534-AM-479x428.jpg" title="Click to enlarge" classes="center" >}}
 
 I mentioned before that, as an Amarr pilot, Etha had little training in missiles. I took all the skills needed from the list EFT provided and plugged them into EVEMON.
 

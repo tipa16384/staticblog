@@ -3,40 +3,17 @@ date: '2009-07-18T11:00:22-05:00'
 draft: false
 title: "Dragonica Online: Closed Beta closes, Open Beta opens soon"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/18/dragonica-online-closed-beta-closes-open-beta-opens-soon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When you kill a wolf in, say, Lord of the Rings Online, it just kind of fades away. When you kill a wolf in Dragonica..."
+categories:
   - "Dragonica Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/Dragonica-2009-07-02-16-21-04-64.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/Dragonica-2009-07-02-16-21-04-64.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/Dragonica-2009-07-02-16-21-04-64.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/Dragonica-2009-07-02-16-21-04-64.jpg"
 ---
+When you kill a wolf in, say, Lord of the Rings Online, it just kind of fades away. When you kill a wolf in Dragonica...
+<!--more-->
 
-![Bringing the smackdown to mangy wolves everywhere.](https://chasingdings.com/wp-content/uploads/2009/07/Dragonica-2009-07-02-16-21-04-64.jpg "Bringing the smackdown to mangy wolves everywhere.")
+
 
 When you kill a wolf in, say, Lord of the Rings Online, it just kind of fades away. When you kill a wolf in Dragonica Online, THAT happens. That wolf isn't going to be just fading away. They'll be picking bits of wolf out of the trees for the next year.
 

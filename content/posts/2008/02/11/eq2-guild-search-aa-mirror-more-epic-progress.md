@@ -3,40 +3,17 @@ date: '2008-02-11T09:03:54-05:00'
 draft: false
 title: "EQ2: Guild search, AA mirror, more epic progress"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/11/eq2-guild-search-aa-mirror-more-epic-progress/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Prices for the reflective smoldering shard have really tanked on Befallen, so even though they've eluded me in groups, I got one for cheap from..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-10-15-20-34-07.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-10-15-20-34-07.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-10-15-20-34-07.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-10-15-20-34-07.jpg"
 ---
+Prices for the reflective smoldering shard have really tanked on Befallen, so even though they've eluded me in groups, I got one for cheap from...
+<!--more-->
 
-![everquest2-2008-02-10-15-20-34-07.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-10-15-20-34-07.jpg)
+
 
 Prices for the reflective smoldering shard have really tanked on Befallen, so even though they've eluded me in groups, I got one for cheap from the broker. Loves the broker. I had Dorah make me a mirror of my own, and I hung it here in my little Shrine to the Mirror and stored my DPS spec there. (By the by: Dorah is an 80 jeweler now, and she made the remaining six adept 3s I needed, though some weren't any improvement at all over my master spells from T7.)
 
@@ -44,7 +21,7 @@ One of the guilds I'm talking with asked me what my DPS was. Now I know the raid
 
 With my new DPS spec, I parse from about 1400-1600 in my own tests, but that's not with raid buffs...
 
-![epic2a.jpg](https://chasingdings.com/wp-content/uploads/2008/02/epic2a.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/epic2a.jpg" classes="center" >}}
 
 Anyway, when last we left the epic quest, I had just learned to speak with the Djinn by virtue of slaughtering enough of them that I learned their language, but was locked out of Poet's Palace. I went back after my lockout and -- having to do the scarab ring event again to get to the top floor -- talked to the Djinn Master, who sent me down to talk to Vhalen's ghost again.
 
@@ -62,7 +39,7 @@ SAME ROOM. What are the odds!?
 
 We gather the other pages people needed, start on the nameds, and along the way, find time to place the 89th key on the piano, and hit it to summon Vhalen for the last time, where he thanks me for my efforts and hands me my epic.
 
-![eq2epica.jpg](https://chasingdings.com/wp-content/uploads/2008/02/eq2epica.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/eq2epica.jpg" classes="center" >}}
 
 No, no. Of course not. Instead, he sends me back to the DEMON XYLOPHONE, which must be played to summon its ghost. Basically making the whole Vhalen-ghost-thing pointless. Some friends from Revolution came and helped me kill the ghost (thanks Tenadore and Nurm!), and that was that -- I'm sent off to Kunark.
 

@@ -3,24 +3,8 @@ date: '2022-08-03T07:00:00-05:00'
 draft: false
 title: "Three Frow: A deep, tactical basketball RPG"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/03/three-throw-a-deep-tactical-basketball-rpg/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
+categories:
   - "Basketball"
   - "Blaugust"
   - "Blaugust 2022"
@@ -30,21 +14,17 @@ tags:
   - "Strategy"
   - "Tactical RPG"
   - "Tactics"
+tags:
+  - "Basketball"
   - "Craiyon"
   - "Gpt-3"
+  - "Tactics"
   - "Three Frow"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/craiyon_183021_a_close_up_of_five_basketball_players_wearing_medieval_armor_and_holding_basketballs_-1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/craiyon_183021_a_close_up_of_five_basketball_players_wearing_medieval_armor_and_holding_basketballs_-1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_183021_a_close_up_of_five_basketball_players_wearing_medieval_armor_and_holding_basketballs_-1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_183021_a_close_up_of_five_basketball_players_wearing_medieval_armor_and_holding_basketballs_-1.png"
 ---
+I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...
+<!--more-->
 
 I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here's its idea for August 3rd: "Three Frow".
 
@@ -56,7 +36,7 @@ The opposing teams have their own bag of tricks. You might face such bizarre pla
 
 "Three Frow!" is a challenging and addictive game that will keep you coming back for more. With its unique take on basketball, and its deep roster of characters, it’s a game that has something for everyone. So round up your friends, hit the court, and see if you have what it takes, to be the best.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/image-5.png" title="Basketballing!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/image-5.png" title="Basketballing!" classes="center" >}}
 
 Your starting team is basic, but capable, consisting of: 
 

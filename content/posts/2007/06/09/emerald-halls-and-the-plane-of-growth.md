@@ -3,42 +3,17 @@ date: '2007-06-09T09:35:49-05:00'
 draft: false
 title: "Emerald Halls and the Plane of Growth"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/06/09/emerald-halls-and-the-plane-of-growth/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We raided Emerald Halls last night, and the whole thing reminded me so much of old Everquest's Plane of Growth... so before getting into our..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/eq000076.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/06/eq000076.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/eq000076.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/eq000076.jpg"
 ---
+We raided Emerald Halls last night, and the whole thing reminded me so much of old Everquest's Plane of Growth... so before getting into our...
+<!--more-->
 
 We raided Emerald Halls last night, and the whole thing reminded me so much of old Everquest's Plane of Growth... so before getting into our Emerald Halls raid, a little nostalgia to another zone that, years ago, was *also* filled with loads and loads of trash, mobs with a zillion hit points, and more growing things than you could pile on your lawn and burn in a lifetime.
-
-![eq000076.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq000076.jpg)
 
 *Tunare's tree rises above the forested canopy of the Plane of Growth*
 
@@ -46,7 +21,7 @@ If you were a good person and never once killed anything sacred to the goddess T
 
 It just didn't make *any sense at all* that the druid pet spell dropped off mobs druids weren't supposed to kill.
 
-![eq000074.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq000074.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq000074.jpg" classes="center" >}}
 
 *Tunare: So, Etha... where'd you get that pet spell?
 
@@ -56,7 +31,7 @@ Tunare's tree used to be the favorite place for goodie good elves to quit Everqu
 
 Me? Heck, I just want the Phat Lewts!
 
-![eq000078.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq000078.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq000078.jpg" classes="center" >}}
 
 *Oops!*
 
@@ -66,7 +41,7 @@ Did I say oops? I didn't know then that I'd done that. I was only positioning fo
 
 Each of these screenshots was separated from the others by about an hour and a half of tedious trash clearing. At least the tedious trash clearing in the Plane of Growth drops class armor, spells and rare gems. Here, it's just put in to make clearing EH take an entire day.
 
-![eq2_000037.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000037.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000037.jpg" classes="center" >}}
 
 *Mistress of the Veil*
 
@@ -74,7 +49,7 @@ The Mistress of the Veil threw a small party for us. The tea was wonderful! She 
 
 Bwahaha. MwuhahahahahaHAHAHAHAAH take that, Miss Wood.
 
-![eq2_000048.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000048.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000048.jpg" classes="center" >}}
 
 *Well you see, you need to create a mulched patch around the OW! the um, the seedling that is half again larger th -- OW! BLESS IT! -- than the spread of the branches and about -- OW! BY TUNARE'S GRACE, WOULD YOU WATCH WHERE YOU SWING THAT? *
 
@@ -82,7 +57,7 @@ Next up was the Tender of the Seedlings. Very gracious fellow. Went on and on an
 
 The last named of the night (but not the end of the night, we did some more clearing after, *just for fun!*) was a sprightly old centaur named Sariah the Bloom Seeker.
 
-![eq2_000049.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000049.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000049.jpg" classes="center" >}}
 
 He must have thought we'd come for a picnic, because he was *cake*.
 

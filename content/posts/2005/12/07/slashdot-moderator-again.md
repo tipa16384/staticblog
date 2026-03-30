@@ -3,37 +3,12 @@ date: '2005-12-07T00:00:00-05:00'
 draft: false
 title: "Slashdot Moderator Again!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/12/07/slashdot-moderator-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It had been so many weeks since Slashdot had chosen me to be a moderator. Was I not compulsively refreshing the page enough? Were they..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+It had been so many weeks since Slashdot had chosen me to be a moderator. Was I not compulsively refreshing the page enough? Were they...
+<!--more-->
 
 It had been so many weeks since [Slashdot](http://slashdot.org) had chosen me to be a moderator. Was I not compulsively refreshing the page enough? Were they mad at me for becoming a [Digger](http://digg.com/)?
 

@@ -3,38 +3,15 @@ date: '2008-01-12T14:01:09-05:00'
 draft: false
 title: "SF MMOs we'd like to see..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/12/sf-mmos-wed-like-to-see/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When Wired ran a story headlined \"Apple Plotting an Avon Power Play\", all I could think was, \"Damn that Avon! Which side is he ON?\"...."
+categories:
   - "General"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/avon.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/avon.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/avon.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/avon.jpg"
 ---
+When Wired ran a story headlined "Apple Plotting an Avon Power Play", all I could think was, "Damn that Avon! Which side is he ON?"....
+<!--more-->
 
 When Wired ran a story headlined "[Apple Plotting an Avon Power Play](http://www.wired.com/gadgets/mac/commentary/cultofmac/2008/01/cultofmac_0109)", all I could think was, "Damn that Avon! Which side is he ON?". Of course, he's always on *his* side, but then I wondered why they mentioned [Blake's 7](http://en.wikipedia.org/wiki/Blake%27s_7) in a "Cult of Mac" article.
 
@@ -49,8 +26,6 @@ Turned out they meant the cosmetics company. Ouch. When the Stargate MMO press r
 In the future, most of the galaxy is in the grip of the Federation, a fascist state that brutally oppresses any planet they come across. Earth itself has become an Orwellian dystopia. Opposing them are the free planets, colonized by people who are fleeing the Federations expansion; lost colonies of people no longer quite human; and aliens who have their own ideas on who should be running the galaxy.
 
 On his way to a prison planet, rebel leader Blake, with the help of his fellow prisoners, takes control of a Federation prisoner ship, and while evading Federation patrol ships, happens upon an alien starship they name the Liberator. His fellow prisoners, including the duplicitous Avon, spend the next three seasons trying to overthrow the Federation, which comes to an end three seasons later, when second in command Avon shoots Blake to death. Blake's 7 is possibly the only TV series ever in which the good guys lose.
-
-![avon.jpg](https://chasingdings.com/wp-content/uploads/2008/01/avon.jpg)
 
 How could this be made into an MMO? With its combination of adventures in space and on the planets, Blake's 7 would have the same challenges as a Star Trek MMO, except that person ownership of space ships actually has a place in the B7 universe and space battles tend to be fairly small scale, as when any ship is hit, it takes a long time to repair. In B7, all conflicts were *not* resolved at the end of each episode, and when someone got hurt or the ship got damaged, that had repercussions for quite some time. A main "evil" faction, the Federation; a "rebel" faction headed by Blake (just news that he was still alive was anough to keep the rebellion going), and any number of more-or-less interested non-Terran civilizations.
 
@@ -70,7 +45,7 @@ If you try to unsubscribe from "The Agency" -- this is where you go. Life can be
 
 How to make this into an MMO? How about if every player has a secret they must not reveal; and their status is based on how many secrets can they learn from others?
 
-![screenshot4.png](https://chasingdings.com/wp-content/uploads/2008/01/screenshot4.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/screenshot4.png" classes="center" >}}
 
 And when you finally get enough secrets and escape from The Village, next time you log in, you're back where you started.
 

@@ -3,24 +3,8 @@ date: '2009-07-23T07:26:16-05:00'
 draft: false
 title: "Daily Blogroll 7/23 -- Aftermath edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/23/daily-blogroll-723-aftermath-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Okay, THAT was a day of good discussion, so thanks, Wolfshead :) Why did I feel your \"first impressions\" article needed rebutting? Well, SOMEONE had..."
+categories:
   - "Aion"
   - "Champions Online"
   - "Chronicles of Spellborn"
@@ -30,22 +14,15 @@ tags:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg"
 ---
+Okay, THAT was a day of good discussion, so thanks, Wolfshead :) Why did I feel your "first impressions" article needed rebutting? Well, SOMEONE had...
+<!--more-->
 
-![Statue District on Quarterstone in Chronicles of Spellborn](https://chasingdings.com/wp-content/uploads/2009/07/sb_client-2009-07-23-07-34-50-3.jpg "Statue District on Quarterstone in Chronicles of Spellborn")
 
-Okay, [THAT was a day of good discussion](https://chasingdings.com/index.php/2009/07/22/eq2-the-sixteenth-minute-a-rebuttal/), so [thanks, Wolfshead](http://www.wolfsheadonline.com/?p=2570) :) Why did I feel your "first impressions" article needed rebutting? Well, SOMEONE had to stand up (and [thanks to Hudson, who did](http://hudshideout.com/blog/?p=3034)!). I couldn't say that stuff about WoW and expect to come away without comment. In grand blogging tradition, Wolfshead now has [a rebuttal to my rebuttal](http://www.wolfsheadonline.com/?p=2764) :)
+
+Okay, [THAT was a day of good discussion](https://tipa16384.github.io/wkblog/index.php/2009/07/22/eq2-the-sixteenth-minute-a-rebuttal/), so [thanks, Wolfshead](http://www.wolfsheadonline.com/?p=2570) :) Why did I feel your "first impressions" article needed rebutting? Well, SOMEONE had to stand up (and [thanks to Hudson, who did](http://hudshideout.com/blog/?p=3034)!). I couldn't say that stuff about WoW and expect to come away without comment. In grand blogging tradition, Wolfshead now has [a rebuttal to my rebuttal](http://www.wolfsheadonline.com/?p=2764) :)
 
 Adding fuel to this smoldering fire, Warhammerer does the same [first few minutes analysis to SOE's Vanguard](http://exploringwar.wordpress.com/2009/07/22/vanguard-first-glances/). That company just can't catch a break these days, even if it had sealed box with the words "WARNING -- DO NOT OPEN -- LIVE BREAK" stenciled on it.
 

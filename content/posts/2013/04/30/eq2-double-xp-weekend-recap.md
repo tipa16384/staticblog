@@ -3,46 +3,23 @@ date: '2013-04-30T06:16:39-05:00'
 draft: false
 title: "EQ2: Double XP Weekend Recap"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/04/30/eq2-double-xp-weekend-recap/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Sure, EQ2 has its holidays and celebrations. But the events that REALLY bring Norrathians together are the Double XP Weekends. 72 hours (or so) of..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-23-07-38-40-70-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-23-07-38-40-70-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/EverQuest2-2013-04-23-07-38-40-70-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/EverQuest2-2013-04-23-07-38-40-70-480x343.jpg"
 ---
+Sure, EQ2 has its holidays and celebrations. But the events that REALLY bring Norrathians together are the Double XP Weekends. 72 hours (or so) of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-23-07-38-40-70-480x343.jpg" title="Passive Aggression in action" class="align-center" >}}
+
 
 Sure, EQ2 has its holidays and celebrations. But the events that REALLY bring Norrathians together are the Double XP Weekends. 72 hours (or so) of people finishing up old chores, dusting off alts, exploring dungeons off the beaten path... Anything can happen in a double xp weekend.
 
 What'd I do on mine?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-28-15-07-09-85-480x342.jpg" title="Tipa's Epic" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/04/EverQuest2-2013-04-28-15-07-09-85-480x342.jpg" title="Tipa's Epic" classes="center" >}}
 
 When I last posted about EQ2, I'd started a halfling swashbuckler to fill the empty space in my heart where a scout should be. I had Tipa, of course, but I really wanted someone more DPS-oriented than a troubadour. Of course, I could just betray to a dirge....
 
@@ -54,13 +31,13 @@ But, double XP weekend. Several runs through Chelsith later, Tipa was at level 8
 
 Tipa's report card for double xp weekend: eight levels, forty-something AA, and her enervated epic.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-28-10-54-49-50-480x294.jpg" title="Scatterfall's Epic" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/04/EverQuest2-2013-04-28-10-54-49-50-480x294.jpg" title="Scatterfall's Epic" classes="center" >}}
 
 Being left with a cleared Vestigial Cella as a result of helping out with my friend's enervated epic was the inspiration I needed to get Scatter's done. She has the mythical version of her epic, but hasn't used it in ages as upgrades came and went. Getting those epic effects with her current weapon choices would be a good thing. Being a crap-geared berserker is no problem when running the older dungeons, especially since, typically, I only needed to kill the first boss or two in the ones before the Cella. And, my friend had shown me how to get through the Erudin Research Halls without dying so much. Dunno why I had so much trouble when I did these quests on Dera....
 
 Scatterfall's report card: Enervated epic done, plus FOUR Sundered Frontier collection quests completed while harvesting Ulteran Diamonds for Tipa's expert abilities.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/EverQuest2-2013-04-30-07-01-10-05-480x341.jpg" title="Teofila vamps it up" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/04/EverQuest2-2013-04-30-07-01-10-05-480x341.jpg" title="Teofila vamps it up" classes="center" >}}
 
 A long time ago, I noticed that I'd gotten the Freeblood vampire race unlocked for free as some veteran reward or for being a legendary subscriber or something. And vampires eventually would get the ability to transform into a cloud of bats and fly around, which is utterly awesome. So I had to make one -- a fury. My idea was, I would do NO quests on this character except the ones that were absolutely necessary. I would level entirely by going to dungeons and grinding mobs. In one weekend, long ago, I leveled up through the Freeport newbie zones, explored the depths of Wailing Caves, and started in on Fallen Gate. Got the achievement for hitting 20 in less than two weeks, and then put the character away.
 

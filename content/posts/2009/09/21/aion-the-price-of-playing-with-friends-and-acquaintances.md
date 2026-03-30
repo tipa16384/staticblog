@@ -3,38 +3,13 @@ date: '2009-09-21T17:39:57-05:00'
 draft: false
 title: "Aion: The Price of Playing with Friends and Acquaintances"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/21/aion-the-price-of-playing-with-friends-and-acquaintances/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "*Another guest post by the always awesome Saylah! -- Tipa..."
+categories:
   - "Aion"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+*Another guest post by the always awesome Saylah! -- Tipa...
+<!--more-->
 
 *Another guest post by the always awesome Saylah! -- Tipa
 

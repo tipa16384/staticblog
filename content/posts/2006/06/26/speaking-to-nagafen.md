@@ -3,41 +3,19 @@ date: '2006-06-26T00:00:00-05:00'
 draft: false
 title: "Speaking to Nagafen"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/26/speaking-to-nagafen/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Five hours. Multiple trips into the pre-expansion EQ2's end game zone. And more kindness and generosity than I had any right to expect...."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Buddy"
-featured_image: "https://chasingdings.com/images/20060626-naggy.jpg"
-cover:
-  image: "https://chasingdings.com/images/20060626-naggy.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/20060626-naggy.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/20060626-naggy.jpg"
 ---
+Five hours. Multiple trips into the pre-expansion EQ2's end game zone. And more kindness and generosity than I had any right to expect....
+<!--more-->
 
-![](https://chasingdings.com/images/20060626-naggy.jpg)
+
 
 Five hours. Multiple trips into the pre-expansion EQ2's end game zone. And more kindness and generosity than I had any right to expect.
 
@@ -71,10 +49,10 @@ I am still shocked and forever grateful. Naggy wants me to summon his dead partn
 
 Laolthias, I owe you a big one. And Amberstone. And Nalas. I never met any of you before, you didn't know me, and yet you took a good chunk of time to show kindness. Never saw that in WoW - everyone was so focused on themselves.
 
-![](https://chasingdings.com/images/20060626-roost.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/20060626-roost.jpg" classes="center" >}}
 
 And that's not even the only example. I was harvesting (again; still) with LFG up. A level 70 mystic asks if I want to go to the Roost and farm some nameds. Okay! We go in there, we do this - he doing the bulk of the work - and he lets me have the best stuff. What is wrong with these people?
 
-![](https://chasingdings.com/images/20060626-buddy.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/20060626-buddy.jpg" classes="center" >}}
 
 And Dorah found Buddy again. She thought Buddy was dead at her hand when she betrayed, but the Tanglewood clan nursed him back to health. Matthias Siegemaker is no fool, and Dorah knows he knows... but the leaders of Freeport like having a little something to use against you if they need to, and so they are satisfied with this leverage. Dorah is just glad to see Buddy alive, even if he has to be confined to the apartment.

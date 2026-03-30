@@ -3,40 +3,17 @@ date: '2009-10-13T07:06:25-05:00'
 draft: false
 title: "Wizard101: Straight outta Marleybone"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/13/wizard101-straight-outta-marleybone/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We last left our intrepid duo of Marissa, 34 Myth wizard, and Allison, 36 Balance wizard, exhausted from having herded half a hundred howling cats..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-12-23-36-21-74.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-12-23-36-21-74.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-12-23-36-21-74.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-12-23-36-21-74.jpg"
 ---
+We last left our intrepid duo of Marissa, 34 Myth wizard, and Allison, 36 Balance wizard, exhausted from having herded half a hundred howling cats...
+<!--more-->
 
-![Outside Marleybone](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-12-23-36-21-74.jpg "Outside Marleybone")
+
 
 We last left our intrepid duo of Marissa, 34 Myth wizard, and Allison, 36 Balance wizard, exhausted from having herded half a hundred howling cats in Katzenstein's Laboratory. Needing a rest before pursuing the evil Meowiarty up the numberless lifts and staircases of the Big Ben clock tower, they went their separate ways, but came together last night to complete the job: to prevent Malistaire from getting his foul hands on the sacred Krokonomicon, once stolen from the Order of the Fang by Meowiarty's murderous clockworks, with which he will complete the destruction of all the worlds of the Spiral.
 
@@ -46,7 +23,7 @@ This was my first time doing these instances without a healer and health was alw
 
 I worked so much harder on these fights than I did when I came with Tara, my grandmaster Life wizard. There, my sprite guardian would usually keep me healed, if [Thomas](http://thefriendlynecromancer.blogspot.com/) wasn't in the group. I couldn't catch a heal with him in the group. Sprite was in lurrrrrv.
 
-![Evil awaits](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-13-01-02-02-70.jpg "Evil awaits")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-13-01-02-02-70.jpg" title="Evil awaits" classes="center" >}}
 
 It was really late by the time I finished the two counterweights and the innumerable fights up Big Ben. That's my excuse for why I thought I wouldn't be facing any Myth mobs and removed all my prisms from the deck while adding the Myth dome.
 

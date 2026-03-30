@@ -3,46 +3,25 @@ date: '2008-11-04T08:00:37-05:00'
 draft: false
 title: "Stout Henry, NaNoWriMo edition: Kneed Before Greed"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/04/stout-henry-nanowrimo-edition-kneed-before-greed/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In honor of my friends and fellow bloggers either taking part in the National Novel Writing Month (NaNoWriMo) or just writing for the pleasure of..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Stout Henry"
+tags:
   - "Kneed Before Greed"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/stouthenrynbg.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/stouthenrynbg.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Stout Henry"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrynbg.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stouthenrynbg.jpg"
 ---
+In honor of my friends and fellow bloggers either taking part in the National Novel Writing Month (NaNoWriMo) or just writing for the pleasure of...
+<!--more-->
 
 *In honor of my friends and fellow bloggers either taking part in the [National Novel Writing Month](http://www.nanowrimo.org/) (NaNoWriMo) or just writing for the pleasure of it, here is a special NaNoWriMo-sized entry. I now have even more appreciation for what those writers are going through :) 29 more like this one? Maybe next year!*
 
 ---
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/stouthenrynbg.jpg "stouthenrynbg")Nodding Fields was not the sort of place known for its nightlife. It wasn't all that exciting during the day, either. If it hadn't been Tournament week, even the most tenacious barfly would have stumbled his or her way back home before dark.
+Nodding Fields was not the sort of place known for its nightlife. It wasn't all that exciting during the day, either. If it hadn't been Tournament week, even the most tenacious barfly would have stumbled his or her way back home before dark.
 
 “Because of the werewolves?” asked Stout Henry, as he and the thief who had found him stumbling through the forest walked along the cobbled road toward the center of town.
 

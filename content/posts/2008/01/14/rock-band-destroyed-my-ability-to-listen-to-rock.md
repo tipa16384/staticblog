@@ -3,37 +3,12 @@ date: '2008-01-14T14:09:09-05:00'
 draft: false
 title: "Rock Band destroyed my ability to listen to rock."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/14/rock-band-destroyed-my-ability-to-listen-to-rock/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I just finished listening to \"Rose Colored Glasses\" by Animal Logic) -- one of my favorite songs by one of my favorite bands...."
+categories:
   - "Rock Band"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I just finished listening to "Rose Colored Glasses" by Animal Logic) -- one of my favorite songs by one of my favorite bands....
+<!--more-->
 
 I just finished listening to "Rose Colored Glasses" by [Animal Logic](http://en.wikipedia.org/wiki/Animal_Logic_(band)) -- one of my favorite songs by one of my favorite bands.
 

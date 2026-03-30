@@ -3,40 +3,17 @@ date: '2011-08-14T12:01:27-05:00'
 draft: false
 title: "Wizard101: Enter Wintertusk"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/08/14/wizard101-enter-wintertusk/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I spent a few nights last week getting my Myth wizard, Tara Mythcrafter, through Grizzleheim so she could enter Wintertusk. She was already max level..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/WizardGraphicalClient-2011-08-14-10-54-41-14-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/08/WizardGraphicalClient-2011-08-14-10-54-41-14-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/WizardGraphicalClient-2011-08-14-10-54-41-14-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/WizardGraphicalClient-2011-08-14-10-54-41-14-480x360.jpg"
 ---
+I spent a few nights last week getting my Myth wizard, Tara Mythcrafter, through Grizzleheim so she could enter Wintertusk. She was already max level...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/WizardGraphicalClient-2011-08-14-10-54-41-14-480x360.jpg" title="Mythology 101!" class="align-center" >}}
+
 
 I spent a few nights last week getting my Myth wizard, Tara Mythcrafter, through Grizzleheim so she could enter Wintertusk. She was already max level when Grizzleheim came out, and it just made more sense to put my alt team through, as they could use the experience and loot. When Wintertusk was released and I found it required Grizzleheim, I was at a loss.
 

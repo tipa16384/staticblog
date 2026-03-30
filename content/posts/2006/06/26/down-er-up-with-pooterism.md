@@ -3,39 +3,16 @@ date: '2006-06-26T00:00:00-05:00'
 draft: false
 title: "Down... er... Up With Pooterism!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/26/down-er-up-with-pooterism/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Whilst perusing (it's important to use Britlish when talking about) the BBC NEWS website, I read an article about blogging; in particular their own blog...."
+categories:
   - "General"
-featured_image: "http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Charles_and_Lupin_Pooter.gif/250px-Charles_and_Lupin_Pooter.gif"
-cover:
-  image: "http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Charles_and_Lupin_Pooter.gif/250px-Charles_and_Lupin_Pooter.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Charles_and_Lupin_Pooter.gif/250px-Charles_and_Lupin_Pooter.gif"
+thumbnailImage: "http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Charles_and_Lupin_Pooter.gif/250px-Charles_and_Lupin_Pooter.gif"
 ---
+Whilst perusing (it's important to use Britlish when talking about) the BBC NEWS website, I read an article about blogging; in particular their own blog....
+<!--more-->
 
-![](http://upload.wikimedia.org/wikipedia/en/thumb/1/19/Charles_and_Lupin_Pooter.gif/250px-Charles_and_Lupin_Pooter.gif)
+
 
 Whilst perusing (it's important to use Britlish when talking about) [the BBC NEWS website](http://news.bbc.co.uk), I read an article about blogging; in particular their own blog. [Down With Blogs!](http://news.bbc.co.uk/1/hi/magazine/5116654.stm) they screamed. Including their own. But what was this mention of something called "Pooterism"?
 

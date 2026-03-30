@@ -3,26 +3,11 @@ date: '2011-02-21T07:37:29-05:00'
 draft: false
 title: "Star Trek Online FE303: Frozen (Spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/21/star-trek-online-fe303-frozen-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Cloaked Intentions"
   - "Feature Episode"
   - "Featured Episodes"
@@ -31,26 +16,21 @@ tags:
   - "Obisek"
   - "Reman"
   - "Romulan"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-19-13-57-38-51-480x326.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-19-13-57-38-51-480x326.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-13-57-38-51-480x326.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-13-57-38-51-480x326.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-19-13-57-38-51-480x326.jpg "Frozen")](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-19-13-57-38-51.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-13-57-38-51.jpg)
 
 In the first episode of "Cloaked Intentions", the third Feature Episode arc, we visited a semi-abandoned, giant space station called "The Vault" deep within the Romulan neutral zone. There, we met Obisek, a Reman rebelling against the half-human Romulan empress Sela and her scattered empire of refugees. In the second episode, "Mine Enemy", we followed Obisek's suspicions to a hidden Tal Shiar (Romulan intelligence agency) base deep within a mining colony inhabited by the rock-like Horta.
 
 The third episode, "Frozen", brings us to the Remans once more... after the break.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-19-13-59-29-61-480x325.jpg" title="Romulan battleship ambushing a Reman scout ship" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-13-59-29-61-480x325.jpg" title="Romulan battleship ambushing a Reman scout ship" classes="center" >}}
 
 Starfleet had heard rumors of a Reman base hidden somewhere in the Dera system. The Remans have the entire system blanketed in a sensor-disrupting field, which is aided not at all by the presence of "micro nebulas", small regions of gas and radiation within which ships are essentially blinded. The Federation News Service dispatched the USS Amgarrak and the USS Concord to track down the rumors and get the facts of the story.
 
@@ -58,7 +38,7 @@ My science officer suggested modifying the signal of a communications satellite 
 
 We hoped they'd miss us in the nebula, but it turned out we were not alone in the system as a Romulan battleship decloaked and started firing upon the Reman scout ship. The Romulans had been there all along; who knows what they'd been thinking as they watched us do our little trick with the communications satellite.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-19-14-01-34-65-480x299.jpg" title="Following the Reman scout ship" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-14-01-34-65-480x299.jpg" title="Following the Reman scout ship" classes="center" >}}
 
 If we were ever to find the Reman base, we'd need that scout ship to lead us to it. We reluctantly left the cloud to the non-surprise of the Romulan commander, who ordered us to stand down lest we further disrupt relationships between the Federation and the Romulan Star Empire.
 
@@ -68,7 +48,7 @@ While we fought the battleship, the Reman ship limped away. It tried to cloak, b
 
 We beamed in, ready for whatever might happen.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-19-14-13-54-21-480x384.jpg" title="The Mining Laser Puzzle" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-14-13-54-21-480x384.jpg" title="The Mining Laser Puzzle" classes="center" >}}
 
 The cavern was filled with space-hyenas and space-spiders and a ... starship. It turned out that the Reman base was a derelict ship that had been beamed, piece-by-piece, deep within the planet. The Remans had been mining these natural caverns for materials with which to make ship parts and weapons ever since, safe from any prying eyes... until we came around, anyway.
 
@@ -76,7 +56,7 @@ Access to the ship was blocked by a strong grate. Luckily for us, there was a po
 
 Laser fixed (and accolades won), we blasted our way into the ship and into the super secret Reman base.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-19-14-17-51-57-480x384.jpg" title="Obisek Ke-remie, we meet at last" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-14-17-51-57-480x384.jpg" title="Obisek Ke-remie, we meet at last" classes="center" >}}
 
 That our presence had not gone unnoticed by the Remans was no surprise. That we were expected, and to some extent even welcomed, we did not understand.
 
@@ -86,7 +66,7 @@ When we worked our way to the center of the base and discovered Obisek, he under
 
 The Thalaron weapons, he told us, were regrettable tools, but necessary ones. They had already lost so much. Without those, they would have nothing. If we wanted him to give up the fight and the thalaron weapons, we could offer to provide help. Ships, weapons, humanitarian supplies -- to take a stand against the evils of the Tal Shiar and bring life, hope and freedom to the Remans.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-18-28-59-10-480x385.jpg" title="Incarceration accolade" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-20-18-28-59-10-480x385.jpg" title="Incarceration accolade" classes="center" >}}
 
 All you can do is bring Obisek's story to the Federation. As for Obisek himself, you're given a choice. You can either let him go about his way or arrest him, and bring him back to the Federation yourself.
 

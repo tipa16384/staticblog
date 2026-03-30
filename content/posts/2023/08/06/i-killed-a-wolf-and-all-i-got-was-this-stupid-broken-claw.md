@@ -3,40 +3,17 @@ date: '2023-08-06T07:00:00-05:00'
 draft: false
 title: "I killed a wolf and all I got was this stupid broken claw"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/06/i-killed-a-wolf-and-all-i-got-was-this-stupid-broken-claw/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Why do you have to kill a hundred deer to get one antler? There's got to be a better way."
-description: "Why do you have to kill a hundred deer to get one antler? There's got to be a better way."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
   - "EverQuest"
   - "Palia"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-05-22.30.24-a-picture-of-a-wolf-sleeping-with-a-family-of-rabbits.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-05-22.30.24-a-picture-of-a-wolf-sleeping-with-a-family-of-rabbits.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-05-22.30.24-a-picture-of-a-wolf-sleeping-with-a-family-of-rabbits.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-05-22.30.24-a-picture-of-a-wolf-sleeping-with-a-family-of-rabbits.png"
 ---
+Why do you have to kill a hundred deer to get one antler? There's got to be a better way.
+<!--more-->
 
 I was hunting deer in Palia (they are called something else, but they are deer) and slowly collecting the tufts of fur, occasional antler and stuff from each one I killed, and I was thinking how stupid this was. Clear back to EverQuest, or even back before, to Ultima Online, you would kill a critter, and you'd only get the occasional paw, maybe every third one would have some fur, the really rare one might have a liver you could store in your bank for a few years until you really needed it...
 

@@ -3,40 +3,17 @@ date: '2012-02-09T22:31:32-05:00'
 draft: false
 title: "STO: STF Walkthrough -- Khitomer Accord (Space)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/09/sto-stf-walkthrough-khitomer-accord-space/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was pointed out to me at some length in an elite STF tonight -- Infected -- that while these STF walkthroughs are fine for..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-01-23-21-21-10-15-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-01-23-21-21-10-15-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-01-23-21-21-10-15-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/GameClient-2012-01-23-21-21-10-15-480x384.jpg"
 ---
+It was pointed out to me at some length in an elite STF tonight -- Infected -- that while these STF walkthroughs are fine for...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/GameClient-2012-01-23-21-21-10-15-480x384.jpg" title="Khitomer Accord (Space)" class="align-center" >}}
+
 
 It was pointed out to me at some length in an elite STF tonight -- Infected -- that while these STF walkthroughs are fine for the normal mode task forces, elite task forces take slightly different strategies. Those strategies would work in normal mode, too, but nobody bothers with them. In normal mode STFs, these walkthroughs work fine.
 
@@ -46,7 +23,7 @@ Once all those are destroyed, an assimilated Reman Scimitar -- Donatra's Scimita
 
 Let's take this step by step.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/khitomer-480x313.png" title="Playbook for Khitomer Accord (Space)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/khitomer-480x313.png" title="Playbook for Khitomer Accord (Space)" classes="center" >}}
 
 There's a tactical cube guarding the time portal at the start of the mission. Destroy that.
 

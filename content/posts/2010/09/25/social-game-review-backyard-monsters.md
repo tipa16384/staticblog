@@ -3,45 +3,25 @@ date: '2010-09-25T00:41:18-05:00'
 draft: false
 title: "Social Game Review: Backyard Monsters"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/25/social-game-review-backyard-monsters/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
+tags:
   - "Backyard Monsters"
   - "Casual Collective"
   - "Facebook"
   - "Review"
   - "Social Game"
   - "Tower Defense"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9242010-91206-PM-480x329.jpg "Backyard Monsters")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9242010-91206-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9242010-91206-PM.jpg)
 
 I figured when I finally got the chance to bomb my neighbor's yard from orbit, that that would be the turning point. But, I guess not. Apparently twigs just don't do that much damage. I have a plan. Next time: I drop pebbles. Right onto the Tesla coil.
 
@@ -57,7 +37,7 @@ Breeding monsters of your own, looking over other players' yards and devising at
 
 You don't need friends to play the game, but they can be nice to have in a pinch. They can send you random bags of resources once a day, and come by and speed up your unit construction and upgrades. You can also attempt to trash their yard, but, sheesh, what kind of friend are you?
 
-![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9202010-73751-AM.jpg "It")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9202010-73751-AM.jpg" title="It" classes="center" >}}
 
 Almost everything you do -- complete a quest, build or upgrade a building, fend off an attack, attack someone else, unlock a new monster, etc -- brings with it an urge to spam your friends with your awesome achievement, but there's no reason to do so (unless you really want them to know!) Unlike games such as My Empire or City of Wonder, you don't need to have friends come click on your buildings so that you can move forward.
 

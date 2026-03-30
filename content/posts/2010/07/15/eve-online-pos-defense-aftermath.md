@@ -3,40 +3,19 @@ date: '2010-07-15T19:35:52-05:00'
 draft: false
 title: "EVE Online: To Avenge, This Is the Pact"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/15/eve-online-pos-defense-aftermath/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/ExeFile-2010-07-15-18-59-18-47.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/ExeFile-2010-07-15-18-59-18-47.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/ExeFile-2010-07-15-18-59-18-47.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/ExeFile-2010-07-15-18-59-18-47.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/ExeFile-2010-07-15-18-59-18-47.jpg "Lyrics from Blue Oyster Cult")](https://chasingdings.com/wp-content/uploads/2010/07/ExeFile-2010-07-15-18-59-18-47.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/07/ExeFile-2010-07-15-18-59-18-47.jpg)
 
 I'm not really going to swear vengeance on the corp that hunted us down, took our starbase and then -- magnanimously -- retracted the wardec once they'd gotten what they wanted from us. I was choosing from among the ships left to Etha, and this frigate looked just like the sort of thing that would sneak up on someone, decloak, go into a mad speed-tanked frenzy, leave them smoldering wreckage and warp away into the shadows....
 

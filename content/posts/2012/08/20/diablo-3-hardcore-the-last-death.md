@@ -3,39 +3,18 @@ date: '2012-08-20T22:03:56-05:00'
 draft: false
 title: "Diablo 3 Hardcore: The Last Death"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/08/20/diablo-3-hardcore-the-last-death/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-19-22-54-48-56-480x244.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-19-22-54-48-56-480x244.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-19-22-54-48-56-480x244.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-19-22-54-48-56-480x244.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-19-22-54-48-56-480x244.jpg "Softcore")](https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-19-22-54-48-56.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-19-22-54-48-56.jpg)
 
 Hardcore in Diablo 3 is fun and exciting and in a group, it's a heck of a chance for group dynamics to come into play.
 
@@ -51,7 +30,7 @@ Calrain asked if he should re-roll. We all agreed he should re-roll -- as a soft
 
 So we re-rolled. We shifted characters. Stingite went monk, Calrain went barbarian, Spode went with witch doctor, and I went with wizard. Wizard was going to be my back-up character if my main character, a level 26 monk, happened to die.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-20-18-31-54-50-480x429.jpg "Level 44, er, 45 hardcore monk")](https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-20-18-31-54-50.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-20-18-31-54-50-480x429.jpg" title="Level 44, er, 45 hardcore monk" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-20-18-31-54-50.jpg)
 
 The reason I needed a wizard is that I'd secretly been playing my back-up character and now she was 44. Er, 45. And repeating bits of Act II Nightmare to level up to meet Belial for the second time.
 
@@ -61,7 +40,7 @@ This gave me permission to do the one thing I could never allow myself to do, so
 
 I was going to kill my hardcore wizard and find out what happened.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-20-18-29-49-01-480x384.jpg" title="You Have Died!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-20-18-29-49-01-480x384.jpg" title="You Have Died!" classes="center" >}}
 
 It would have been really indelicate for me to ask Stingite or Calrain what had happened when their characters had died. I tried to fit it once into conversation, but the pain was still too fresh, I think.
 
@@ -73,7 +52,7 @@ In seconds we were mobbed. I lobbed low powered spells at the skeletons, drakes 
 
 I lasted longer than I thought I would.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-20-18-30-16-60-480x384.jpg" title="Ghost Typhus" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-20-18-30-16-60-480x384.jpg" title="Ghost Typhus" classes="center" >}}
 
 Yeah, his name was Typhus. You remember the Greek god Typhus, right? Heroic Typhus, god of lice-born disease. The new softcore wiz is named Typhus, too.
 
@@ -81,7 +60,7 @@ Anyway, Typhus the ex-Wizard looked reproachfully at me from the shadowy realm b
 
 I felt terrible, really awful, so I archived him. Moved him from Limbo to Purgatory. Christian imagery comes easy to a game which is set on a fantasy world which nonetheless independently came up with the same visions of Hell, though with a different vision of Heaven.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-20-22-43-14-93-480x293.jpg" title="Typhus the Immortal" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-20-22-43-14-93-480x293.jpg" title="Typhus the Immortal" classes="center" >}}
 
 So, back to Typhus. As a softcore character, he can't die. None of us can. We've had our last party death and our last restart. Now that hardcore has taught us to all get on board with the auction house, probably we won't even fail boss fights very often. I sold some stuff from my 34 demon hunter and got a nice bankroll, not just to twink my character out, but to get things on the auction house so I could go bargain hunting.
 

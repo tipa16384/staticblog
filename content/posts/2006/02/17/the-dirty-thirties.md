@@ -3,40 +3,17 @@ date: '2006-02-17T00:00:00-05:00'
 draft: false
 title: "The Dirty Thirties"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/17/the-dirty-thirties/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Nashuya fighting the Spore King in the Ark of Harclave solo adventure. They give you a heroic buff which allows you to take on groups..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/sporeking.jpg"
-cover:
-  image: "https://chasingdings.com/images/sporeking.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/sporeking.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/sporeking.jpg"
 ---
+Nashuya fighting the Spore King in the Ark of Harclave solo adventure. They give you a heroic buff which allows you to take on groups...
+<!--more-->
 
-![](https://chasingdings.com/images/sporeking.jpg)
+
 
 Nashuya fighting the Spore King in the Ark of Harclave solo adventure. They give you a heroic buff which allows you to take on groups of yellow heroic mobs and bosses, like this guy.
 

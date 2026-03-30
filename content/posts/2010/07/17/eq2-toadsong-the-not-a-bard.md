@@ -3,40 +3,17 @@ date: '2010-07-17T14:58:51-05:00'
 draft: false
 title: "EQ2: Toadsong, the Not-a-Bard"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/17/eq2-toadsong-the-not-a-bard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I start a new MMO, I want to be dazzled -- right up front. I know that MMOs want you to start out weak,..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/EverQuest2-2010-07-17-12-56-47-44.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/EverQuest2-2010-07-17-12-56-47-44.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/EverQuest2-2010-07-17-12-56-47-44.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/EverQuest2-2010-07-17-12-56-47-44.jpg"
 ---
+When I start a new MMO, I want to be dazzled -- right up front. I know that MMOs want you to start out weak,...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/07/EverQuest2-2010-07-17-12-56-47-44.jpg "Toadsong!")
+
 
 When I start a new MMO, I want to be dazzled -- right up front. I know that MMOs want you to start out weak, with few abilities and few decisions to make, and introduce new abilities to you as you progress through the levels....
 

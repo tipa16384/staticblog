@@ -3,41 +3,18 @@ date: '2008-05-10T01:50:57-05:00'
 draft: false
 title: "EQ: Death by Goblin"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/10/eq-death-by-goblin/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The goblin spawner got stopped up. That's the only explanation why we were sitting in the King room in Sol A, mindin our own business,..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-09-19-53-59-51.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-09-19-53-59-51.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-09-19-53-59-51.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-09-19-53-59-51.jpg"
 ---
+The goblin spawner got stopped up. That's the only explanation why we were sitting in the King room in Sol A, mindin our own business,...
+<!--more-->
 
-![eqgame-2008-05-09-19-53-59-51.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-09-19-53-59-51.jpg)
+
 
 The goblin spawner got stopped up. That's the only explanation why we were sitting in the King room in Sol A, mindin our own business, when suddenly seven, eight, ten goblins were dancing on our lower intestines. Between sudden goblin drop ships landing troops wherever we happened to be, having to keep apart from the other group, and the powerlevelers who used the place as their private reserve... well, by the end of the evening, corpses were piled high at the entrance, the goblins were very well fed, but most of us were pushing 30... and we had fun.
 
@@ -47,4 +24,4 @@ In a pickup group, dying so many of times could only have ended in a lot of bad 
 
 Next week is Butcherblock LDoN, and the week after... Mistmoore Castle.
 
-![eqgame-2008-05-09-22-12-29-73.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-09-22-12-29-73.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-09-22-12-29-73.jpg" classes="center" >}}

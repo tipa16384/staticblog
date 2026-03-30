@@ -3,40 +3,17 @@ date: '2013-03-22T06:43:20-05:00'
 draft: false
 title: "EQ2: How to spawn the Ancient Cyclops"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/03/22/eq2-how-to-spawn-the-ancient-cyclops/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "First step in spawning the Ancient Cyclops in EverQuest 2 is to go back in time about thirteen years and log in to the original..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-21-32-47-480x294.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-21-32-47-480x294.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-21-21-21-32-47-480x294.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-21-21-21-32-47-480x294.jpg"
 ---
+First step in spawning the Ancient Cyclops in EverQuest 2 is to go back in time about thirteen years and log in to the original...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-21-32-47-480x294.jpg" title="Camp Check!" class="align-center" >}}
+
 
 First step in spawning the Ancient Cyclops in EverQuest 2 is to go back in time about thirteen years and log in to the original EverQuest. Journeyman's Boots, one of the most highly prized items in the game, would give characters a decent instant speed boost in a game where most characters could not get anywhere quickly. JBoots, combined with a snare spell or ability, could allow most classes to solo in a game focused on groups.
 
@@ -46,15 +23,15 @@ JBoots used to drop from Drelzna in Najena's Lair, which meant waiting in line f
 
 Once you've experienced what it was like in the elder game, come back to present day and enter the chronoportal in the Sinking Sands.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-21-40-12-480x228.jpg" title="AC camped!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-21-21-21-40-12-480x228.jpg" title="AC camped!" classes="center" >}}
 
 Camp check. You have your necro fear kiting sand giants. You have your ranger trying to track the AC. You have everyone at their favorite camps killing placeholders. And you have a thousand different guaranteed, sure-fire methods of spawning the Ancient Cyclops.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-25-31-90-480x225.jpg" title="Let's try killing desert madmen!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-21-21-25-31-90-480x225.jpg" title="Let's try killing desert madmen!" classes="center" >}}
 
 As far as anyone thought in vanilla EQ, Ancient Cyclops and Terrorantula were rare spawns off wandering monster spawns, so if you killed every wandering monster in South Ro, you'd eventually spawn both names. Terrorantula silk from Terrorantula sold pretty well; it was required for some armor quests. The AC was such a rare spawn that there was some disagreement over exactly which spawn spot spawned him. Generally people tried to keep everything dead.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-21-21-30-41-10-480x223.jpg" title="Kill-stealer!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-21-21-30-41-10-480x223.jpg" title="Kill-stealer!" classes="center" >}}
 
 In EQ2's version, you kill all the spiders, wandering madmen and mummies in the zone to spawn the AC. Every NPC in the zone starts attacking it, hoping to get the ancient ring for themselves. In vanilla EQ, the first person to click the corpse when a monster died got to loot it, regardless of who killed it. They later changed it to the character or group that did the most damage to it. Both methods were exploited by unscrupulous characters. Wizards, for instance, would run around kill-stealing nameds by casting manaburn on them while a group was fighting them.
 
@@ -64,7 +41,7 @@ Just as the AC spawns, Terrorantula ALSO spawns, and kills the ranger. In EQ, th
 
 In EQ2, ignore the AC and kill Terrorantula. AC will finish with the NPCs and come attack, and now he can be killed.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/EverQuest2-2013-03-22-06-54-14-83-480x270.jpg" title="The Chrono Squad" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/EverQuest2-2013-03-22-06-54-14-83-480x270.jpg" title="The Chrono Squad" classes="center" >}}
 
 Clearing a chrono-portal earns you ancient platinum coins which lets you buy a replica of the old-school mob for your home, as well as some books and paintings of EQ1 scenes. I had to catch them all, and here they all are, gathered together outside my South Qeynos home. I couldn't place them with my chronotask replicas inside, because they are too big and cannot be resized.
 

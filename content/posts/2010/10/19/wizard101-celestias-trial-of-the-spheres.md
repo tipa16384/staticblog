@@ -3,55 +3,35 @@ date: '2010-10-19T07:11:23-05:00'
 draft: false
 title: "Wizard101: Celestia's Trial of the Spheres"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/19/wizard101-celestias-trial-of-the-spheres/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Celestia"
   - "Mithraya"
   - "Ptolemos"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-59-34-40-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-59-34-40-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-59-34-40-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-59-34-40-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-59-34-40-480x384.jpg "Mithraya")](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-59-34-40.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-59-34-40.jpg)
 
 This is Mithraya, the final boss in the Trial of the Spheres. I'm not certain, when Celestia actually goes live, that the Trial of the Spheres will turn out to be the ultimate dungeon in the world, but it IS the one that drops all the level 58+ legendary armor. Putting traps on Mithraya is pointless; she just removes them.
 
 I've heard again and again that Celestia is very difficult. I heard on Twitter that some are pronouncing the short deck dead in Celestia. That is wrong on both counts. We fought Mithraya with three wizards -- a level 50 life wizard, a level 50 balance wizard, and a level 58 (and again at 60) fire wizard. There was never any doubt that we would win. Sure, the bosses in the Trials CHEAT -- all Celestia bosses do. Sure, they start out with six power pips. But they don't pump out the damage the way the bosses in Briskbreeze or the Warehouse do.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-51-51-60-480x384.jpg "Ptolemos")](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-51-51-60.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-51-51-60-480x384.jpg" title="Ptolemos" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-18-21-51-51-60.jpg)
 
 Ptolemos is the twin of [Kif from Futurama](http://en.wikipedia.org/wiki/Kif_Kroker). He's always going on about charms. He loves them! He's the second boss of the three in the Trial, and I believe he drops the shoes of the legendary set.
 
 He is so weak that it's almost certain he will be tuned to be more dangerous going live. There's nothing particularly stopping someone from soloing the entirety of the Trials of the Sphere, to be honest. Only the first fight presented us with a full group of four enemies, and the three minions only had 800 health.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-17-18-20-45-15-480x360.jpg "Efreeti")](https://chasingdings.com/wp-content/uploads/2010/10/WizardGraphicalClient-2010-10-17-18-20-45-15.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-17-18-20-45-15-480x360.jpg" title="Efreeti" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/WizardGraphicalClient-2010-10-17-18-20-45-15.jpg)
 
 Though the legendary gear is full of crit and block, it's sadly lacking in health and mana, making the Dragonspyre outfits arguably better in some cases than the Celestia replacements. The new spells, however, are awesome.
 

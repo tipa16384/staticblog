@@ -3,40 +3,17 @@ date: '2013-05-14T06:04:25-05:00'
 draft: false
 title: "Neverwinter: I just met you, and this is crazy..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/14/neverwinter-i-just-met-you-and-this-is-crazy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This is a Neverwinter experiment, and it could be one that has never before been attempted. We don't even know if the game supports this..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-13-23-24-23-16-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-13-23-24-23-16-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/GameClient-2013-05-13-23-24-23-16-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/GameClient-2013-05-13-23-24-23-16-480x342.jpg"
 ---
+This is a Neverwinter experiment, and it could be one that has never before been attempted. We don't even know if the game supports this...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-13-23-24-23-16-480x342.jpg" title="Nina and Kasul at the Job Board" class="align-center" >}}
+
 
 This is a Neverwinter experiment, and it could be one that has never before been attempted. We don't even know if the game supports this style of play, but what if... what if two or more characters always grouped, and never soloed, through the PvE content of the game?
 
@@ -44,7 +21,7 @@ Most of the content in the game is designed to be completed either solo, or solo
 
 However, there's one kind of Neverwinter content that scales to player level and can be designed to support duos and other unusual playing choices -- Foundry missions.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-12-16-11-48-62-480x343.jpg" title="Old Jerry?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/GameClient-2013-05-12-16-11-48-62-480x343.jpg" title="Old Jerry?" classes="center" >}}
 
 (The above is a screenshot from the first Old Jerry Foundry mission, which assumes nobody reads NPC dialog).
 
@@ -58,7 +35,7 @@ This guy's guild is filled with super people, but they can't fight worth a darn.
 
 There were a lot of really decent fights in that mission, though. It's fun to see how people build out their dungeons. Some are utilitarian affairs with no flair; some are filled with extra bits and pieces, like the one we did last night -- clearing the Nasher Sewers of the Master and his undead legions -- which included special accolades for leaving the glowing path and going exploring.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-11-23-17-51-08-480x343.jpg" title="1.49999 elves walk into a bar..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/GameClient-2013-05-11-23-17-51-08-480x343.jpg" title="1.49999 elves walk into a bar..." classes="center" >}}
 
 We're only meeting once a week, so it's going to be a couple of weeks before we hit the Cloak Tower, the first actual dungeon. We'll be forced to move through it super-fast, because that's how random groups move -- Neverwinter will have trained everyone, by then, how NOT to work within a group.
 

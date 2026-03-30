@@ -3,42 +3,19 @@ date: '2009-09-25T07:08:45-05:00'
 draft: false
 title: "Daily Blogroll 9/25 - Apocalypse edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/25/daily-blogroll-925-apocalypse-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Adventuring after a mysterious apocalypse forever changed the landscape, with strange creatures everywhere and a refugee populace just trying to survive in a mutant world..."
+categories:
   - "Champions Online"
   - "Chronicles of Spellborn"
   - "Earth Eternal"
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg"
 ---
+Adventuring after a mysterious apocalypse forever changed the landscape, with strange creatures everywhere and a refugee populace just trying to survive in a mutant world...
+<!--more-->
 
 Adventuring after a mysterious apocalypse forever changed the landscape, with strange creatures everywhere and a refugee populace just trying to survive in a mutant world overrun with danger.... I didn't even know I'd gotten into the Earth Eternal closed beta. ~~Tails~~ Tales of my chubby little rat rogue, the kind that Cinderella did NOT want helping make her dress, once I've seen more of the game.
 
@@ -47,8 +24,6 @@ Back in EverQuest, unexpected adds usually meant a group wipe (unless you were s
 At Hudson's Hideout, Rock Hound looks at [the two kinds of people who roll up heroes in Champions Online](http://hudshideout.com/blog/?p=3383) -- Conceptionists, who have a backstory and a theme for their hero, and Minmaxists, who just go for the most efficient powers and stats. We used to call these role-players and ROLL-players back in the day.... and this argument has been going on for thirty years.
 
 Jaye from Journeys With is pushing back against the grind. Having to essentially solo for weeks or months upon joining an established game to catch up with max level guildmates [has killed many friends' interest in playing EQ2](http://www.journeyswithjaye.com/?p=1459). With ten more levels coming in February, who could possibly be dedicated enough to go through 89 levels of mostly soloing? It's an issue for any established game, and I wonder what SOE is planning to help new players bridge the largest level gap of any subscription game. I'm guessing *nothing*, because there's one thing that SOE loves more than anything in all its games, and that's the GRIND. It's a holy mandate with them.
-
-![It](https://chasingdings.com/wp-content/uploads/2009/09/GameClient-2009-09-24-21-31-22-51.jpg "It")
 
 EQ2's Game Update 53 that introduced the Shard of Lurrrrv and lots of other coolness to the game has gotten Gestalt Mind's Rao [back in the game](http://raoworld.wordpress.com/2009/09/24/incoming-train-of-fun/). Being able now to pass appearance and quest armor among alts is a *nice* thing, and the new adventure zone that adjusts to the group level -- sweet.
 

@@ -3,45 +3,20 @@ date: '2010-03-29T07:47:49-05:00'
 draft: false
 title: "Weekend gaming: EQ, LotRO, STO, DDO"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/29/weekend-gaming-eq-lotro-sto-ddo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The games in the title -- EverQuest, Lord of the Rings Online, Star Trek Online, Dungeons & Dragons Online. Three of the four have \"online\"..."
+categories:
   - "Dungeons & Dragons Online"
   - "EverQuest"
   - "Fallen Earth"
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg"
 ---
+The games in the title -- EverQuest, Lord of the Rings Online, Star Trek Online, Dungeons & Dragons Online. Three of the four have "online"...
+<!--more-->
 
 The games in the title -- EverQuest, Lord of the Rings Online, Star Trek Online, Dungeons & Dragons Online. Three of the four have "online" in their name. It's Lord of the Rings, except ONLINE! It's Star Trek like you never imagined it -- ONLINE! Throw away your pencils and dice because D&D is ONLINE! EverQuest is just -- EverQuest. Online is all it knows. That's the power of having a pre-existing IP for your game; its name is its best feature.
-
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-27-11-28-11-01.jpg" title="The start of the \"Infected\" raidisode" class="align-center" >}}
 
 Since capping out my level in Star Trek Online, I've really wanted to try out the "raidisodes". I've been farming the special currency you get from doing the daily missions for awhile, and nearly have enough for the uber epic science kit. I decided to head into Infected just to see what I'd be up against.
 
@@ -49,7 +24,7 @@ Borg cubes and spheres slowly circling a planet. These weren't the wimpy Borg of
 
 Given that death was nearly certain in the raidisode, I decided to move along and play STO when a death wouldn't mean the end. Of course it was just a glitch, probably fixed already, but I'd rather just avoid the problem entirely.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/lotroclient-2010-03-27-12-44-24-33.jpg" title="Relaxing in Evendim" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/lotroclient-2010-03-27-12-44-24-33.jpg" title="Relaxing in Evendim" classes="center" >}}
 
 This last weekend was one of LotRO's free weekends, where they open the gates and let anyone who ever has had an active account play. Lots of people have been urging me to give LotRO another shot. It DESERVES another shot. A lot of people I respect really enjoy the game.
 
@@ -57,7 +32,7 @@ I logged in and checked my bank balance, first thing. Buying a horse has always 
 
 I didn't make it. Evendim was just as I remembered; twisty paths, death around the corner, long lonely roads dotted with wolves, bears, and robbers. I finished a couple of quests, dinged level 37 (yay!), but died in the end without a horse to my name. Maybe next time.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/dndclient-2010-03-28-20-52-32-33.jpg" title="Playing DDO like a house on fire!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/dndclient-2010-03-28-20-52-32-33.jpg" title="Playing DDO like a house on fire!" classes="center" >}}
 
 The Sunday DDO group decided we'd seen enough of the Waterworks for now. Time to take a vacation in the sunny Cerulean Hills. I was livid when I got there and found that the hills weren't cerulean AT. ALL. They were GREEN. Heck, if I want to see green hills, I can look out the WINDOW.
 
@@ -69,7 +44,7 @@ Also needing saving was a princess and her loyal servants. Yawn. Another day, an
 
 Tony dinged 5; I am closing in on it. We all visited the Coin Lord patron outside the bank in the Marketplace and each earned an extra inventory tab for our services. Still pretty far from unlocking the Drow race.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/EQ000009.jpg" title="Grinding XP in Zeka" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/EQ000009.jpg" title="Grinding XP in Zeka" classes="center" >}}
 
 Most of my free time this weekend was spent in EverQuest. I didn't INTEND to spend so much time in the game; it just happened that way.
 

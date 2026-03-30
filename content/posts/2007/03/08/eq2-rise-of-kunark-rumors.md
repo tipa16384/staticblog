@@ -3,38 +3,13 @@ date: '2007-03-08T13:08:34-05:00'
 draft: false
 title: "EQ2: Rise of Kunark rumors"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/03/08/eq2-rise-of-kunark-rumors/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "THIS TURNED OUT TO BE A JOKE...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+THIS TURNED OUT TO BE A JOKE....
+<!--more-->
 
 THIS TURNED OUT TO BE A JOKE.
 

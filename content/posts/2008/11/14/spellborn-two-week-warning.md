@@ -3,38 +3,13 @@ date: '2008-11-14T15:08:02-05:00'
 draft: false
 title: "Spellborn: Two week warning!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/14/spellborn-two-week-warning/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If everything is still on schedule, Spellborn NV's \"The Chronicle of Spellborn\" should be out two weeks from yesterday, published in North American by Acclaim...."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+If everything is still on schedule, Spellborn NV's "The Chronicle of Spellborn" should be out two weeks from yesterday, published in North American by Acclaim....
+<!--more-->
 
 If everything is still on schedule, Spellborn NV's "The Chronicle of Spellborn" should be out two weeks from yesterday, published in North American by Acclaim. I've heard nothing from Acclaim as to how to get the game; I imagine it will be a free-to-play download with a starting area, plus a massive full-game download if you choose to subscribe, but who knows?
 

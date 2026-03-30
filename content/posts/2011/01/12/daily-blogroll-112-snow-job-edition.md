@@ -3,48 +3,27 @@ date: '2011-01-12T06:00:02-05:00'
 draft: false
 title: "Daily Blogroll 1/12 -- Snow Job edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/12/daily-blogroll-112-snow-job-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Champions Online"
   - "Dark Ages of Camelot"
   - "DC Universe Online"
   - "EverQuest"
-  - "Lego Universe"
+  - "LEGO Universe"
   - "MMORPG"
   - "Mythos"
   - "Pirates of the Burning Sea"
   - "Rift"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/11111png.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/11111png.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/11111png.png "Treknobabble")](https://chasingdings.com/wp-content/uploads/2011/01/11111png.png)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/11111png.png)
 
 A whole weekend lost in a Rift, but I think what I'll remember most about this last weekend was this jerk in General chat -- named, ironically, Karana -- who was going on and on about how the quests and everything else about the game was a copy of WoW.
 
@@ -74,7 +53,7 @@ You almost never hear anything good about "zerging" -- throwing players at a pro
 
 EQ means a lot to us old MMO gamers. I played way too much, but I did come away with some great memories and good friends. [Kaozz reminisces about the game](http://www.ectmmo.com/2011/01/digging-through-past-everquest.html) a bit and points out that [EverQuest will be opening a new progression server later this March](http://eqplayers.station.sony.com/news_article.vm?id=52135). The server will open with no expansions available, then slowly open up expansions as time goes on.
 
-This would be a PERFECT opportunity for gamers to [take up the MMO Challenge](https://chasingdings.com/index.php/2011/01/11/the-mmo-challenge-revisited/) and dive into the game that shaped modern MMO gaming.
+This would be a PERFECT opportunity for gamers to [take up the MMO Challenge](https://tipa16384.github.io/wkblog/index.php/2011/01/11/the-mmo-challenge-revisited/) and dive into the game that shaped modern MMO gaming.
 
 By the way, I was thrilled and humbled to be asked to [share my own EQ memories](http://massively.joystiq.com/2011/01/11/the-game-archaeologist-and-the-neverending-quest-the-vets/) in Justin Olivetti's "Game Archaeologist" column on Massively. I hope some of my old Crimson Eternity guildies recognize their characters in those screenshots :)
 
@@ -86,7 +65,7 @@ Zoso at KiaSA writes about [his adventures in Flying Lab's "Pirates of the Burni
 
 [Thanks to Jef Reahard](http://massively.joystiq.com/2011/01/11/mythos-quest-system-detailed/), who's become a regular link on this blog, news that Frogster is ramping up its [coming launch of the embattled action MMO across Europe](http://www.mythos-europe.com/en/index.html).
 
-[I wrote last week](https://chasingdings.com/index.php/2011/01/07/daily-blogroll-17-better-than-life-edition/) that the North American release of Mythos seemed to have fallen off a cliff. That silence was broken Monday with [a post from community manager Mundo](http://forums.redbana.com/showthread.php?t=34237) on the Redbana forums about the state of the NA beta. Seems Hanbitsoft is totally focused on the European launch, and has no dates for its introduction to the states.
+[I wrote last week](https://tipa16384.github.io/wkblog/index.php/2011/01/07/daily-blogroll-17-better-than-life-edition/) that the North American release of Mythos seemed to have fallen off a cliff. That silence was broken Monday with [a post from community manager Mundo](http://forums.redbana.com/showthread.php?t=34237) on the Redbana forums about the state of the NA beta. Seems Hanbitsoft is totally focused on the European launch, and has no dates for its introduction to the states.
 
 At least they allow people to discuss the European release on the forums, now.
 

@@ -3,45 +3,24 @@ date: '2025-02-18T08:42:08-05:00'
 draft: false
 title: "Wot's... Uh the Deal?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/02/18/wots-uh-the-deal/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Lots of stuff going on, I guess I should update on all the things."
-description: "Lots of stuff going on, I guess I should update on all the things."
-tags:
+categories:
   - "Erenshor"
   - "Adrullan Online Adventures"
   - "Malifaux"
   - "MMORPG"
+tags:
   - "Cryptmaster"
+  - "Erenshor"
   - "Fantasian Neo Dimension"
   - "Stars Reach"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/tipachu_A_scene_from_a_city_with_an_unpainted_metal_statue_of_1f26c4d5-89d9-43e1-98ae-b76a59f62d92_2.png"
 ---
+Lots of stuff going on, I guess I should update on all the things.
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/image-1-150x150.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/image-1-150x150.png" classes="fig-20" >}}
 
 First up is **Erenshor**, I guess. I have a few indie games I really want to be playing right now. Erenshor is one of them; I'm in the beta, so I have access to the whole game. It's really *addictive*. In all the best ways. If you want to just log in, find a camp spot and just sit back for tasty experience, *you can*. I was at the goblins in Rottenfoot Swamp for a good amount of time last night, until I hit level 17. Then we went back to the Lost Cellar and tried our luck against the Spectral Torturer again. We just didn't have enough deeps, or we needed a better healer or something. I'd grouped up with another arcanist, Zara, and she did well enough but I looked at her gear and it was *terrible*. I'm going to need to bring her to some places if she's going to be raid-ready.
 
@@ -49,7 +28,7 @@ Still looking for the best group combination. Tank, Healer, Crowd Control/Nuker 
 
 Well, there's some stuff I need to camp in Blacksalt Strand, maybe we can find some upgrades for everyone else there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/image-2-300x169.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/image-2-300x169.png" classes="fig-20" >}}
 
 Someone on **Reddit** was overjoyed that he had found the old EverQuest II **Dire Bear** pack-in toy in a box somewhere. I still have mine on my desk right next to me. 
 
@@ -57,7 +36,7 @@ Back in the day, I liked it so much that I thought it would make a great optiona
 
 Those took so long to do. If I had to do it all over again, I'd get better lighting. The header image for this post may have been inspired by this.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/image-3-300x197.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/image-3-300x197.png" classes="fig-20" >}}
 
 Not sure if I've ever shown my mini work area. I'm still working on bringing together my **Malifaux** December crew. I know, I know, it's February now, this is just how slow I am.
 
@@ -69,7 +48,7 @@ Primed but unpainted are three Kaltgeists, two Ice Dancers and Raspy 2. And some
 
 I'm also working on making a shelving unit to fit inside a bag so that I can bring the minis places safely. My previous project works fine as long as I'm being super careful not to tip them over, but I need something more robust.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/image-4-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/image-4-1024x576.png" classes="center" >}}
 
 **EverCraft Online**
 
@@ -81,19 +60,19 @@ I mean, of course it is. But I am there for it.
 
 BTW, how is Pantheon doing? It came out and I haven't heard much about it. The Pantheon Reddit is pretty active and people seem to be enjoying themselves. I guess it would be easier to keep track of it if it were on Steam.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/image-5.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/image-5.png" classes="center" >}}
 
 *Speaking of games that should be on Steam*, I've been feeling kinda shitty about giving Raph Koster's "Stars Reach" such short shrift. I've been reading up about it, reading Wilhelm's stories about it and so on, and I am still not *sold* on it, having been through the whole Landmark mess and with more than the normal amount of time spent on MineCraft back in the day and Valheim more recently.
 
 I signed up to back the Kickstarter and just now signed up to play test it, so... I'm keeping an open mind.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/image-6-1024x657.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/image-6-1024x657.png" classes="center" >}}
 
 I legitimately thought (and still think) that **Cryptmaster** was one of the most fun and innovative games of 2024, based only on the demo that I played. I always *meant* to buy and play the full version, but I always have this gigantic backlog of games to play and I just don't have as much time as I would like to play them all. It was unfortunate that Cryptmaster fell off like that.
 
 Limited Run Games, a company that re-releases games on physical media, is going to press some copies of Cryptmaster and give them a real, physical release. It's sold out now, but I got one of them, it will be coming this June, and I am going to play it through.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/image-7-244x300.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/image-7-244x300.png" classes="fig-20" >}}
 
 Hey, whatever happened to **Fantasian: Neo Dimension**, you ask?
 

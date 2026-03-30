@@ -3,40 +3,18 @@ date: '2024-08-08T07:00:00-05:00'
 draft: false
 title: "Did a robot write this?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/08/did-a-robot-write-this/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "When it was revealed that more than one blog was relying upon AI-generated content, the blogosphere erupted in righteous indignation. Why?"
-description: "When it was revealed that more than one blog was relying upon AI-generated content, the blogosphere erupted in righteous indignation. Why?"
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Generative AI"
+tags:
   - "Blogging"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/tipachu_synthwave_background_robot_typing_on_a_teletype_with__6eab107d-1c5c-4b6a-a133-4bab146eff78_0-1.png"
 ---
+When it was revealed that more than one blog was relying upon AI-generated content, the blogosphere erupted in righteous indignation. Why?
+<!--more-->
 
 Belghast, who runs Blaugust every year, [wrote today](https://aggronaut.com/2024/08/07/blaugust-and-large-language-models/) about his complicated feelings regarding some participating blogs that were using LLMs -- large language models, what most people these days call "AI" -- to generate their blog posts.
 
@@ -46,7 +24,7 @@ I also asked for the blog, mostly because I wanted to see if it was any good. My
 
 **Have I used AI in Blaugust?**
 
-You betcha. Two years ago, [every single day was AI generated](https://chasingdings.com/category/blaugust/blaugust-2022/), AI illustrated, and I had the AI generate the title and excerpts, too. Whoever is using AI now, I used it *more*. I was open about it. The whole *point* was to see how AI would handle a specific concept -- games designed around the date. It was fun, I don't regret it. I haven't done it since, in Blaugust, but that doesn't mean I wouldn't do it in the future, if I could think of an angle that might work.
+You betcha. Two years ago, [every single day was AI generated](https://tipa16384.github.io/wkblog/category/blaugust/blaugust-2022/), AI illustrated, and I had the AI generate the title and excerpts, too. Whoever is using AI now, I used it *more*. I was open about it. The whole *point* was to see how AI would handle a specific concept -- games designed around the date. It was fun, I don't regret it. I haven't done it since, in Blaugust, but that doesn't mean I wouldn't do it in the future, if I could think of an angle that might work.
 
 Back then, AI was booming; now, there's a backlash.
 
@@ -75,7 +53,7 @@ Okay, I take it back. Having ChatGPT write out the first chapter of Moby Dick in
 
 I don't blog to inform anyone of anything. If anyone wants to find out anything, this blog is the *last* place they'd go. I don't play games well, and when I do, I mostly mess up. The games I do play have been well-documented everywhere else. I can't even get my family or friends to read the blog, and my most popular posts have been about cheating at Wordle and stuff like that. So: not informing anyone. Don't need AI for *that*.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-19-150x150.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-19-150x150.png" classes="fig-20" >}}
 
 Rote writing -- busy work? Nah, there's no mandate for me to write anything. Nobody is looking for this blog for scores or anything. My most read work was when I was writing about the adventures of my old EverQuest guild, Crimson Eternity, and that's because people were interested in what our guild was doing. But, that's long in the past.
 

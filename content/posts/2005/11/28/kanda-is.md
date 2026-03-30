@@ -3,40 +3,17 @@ date: '2005-11-28T00:00:00-05:00'
 draft: false
 title: "Kanda is 50"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/11/28/kanda-is/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Not bad progress for a character I had quit. Just over a month from 1 to 50...."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/images/login.jpg"
-cover:
-  image: "https://chasingdings.com/images/login.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/login.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/login.jpg"
 ---
+Not bad progress for a character I had quit. Just over a month from 1 to 50....
+<!--more-->
 
-![](https://chasingdings.com/images/login.jpg)
+
 
 Not bad progress for a character I had quit. Just over a month from 1 to 50.
 
@@ -44,11 +21,11 @@ Distressed at possibly repeating a mistake I had made in EQ of joining a guild i
 
 But Kayllistul urged me to return to Kirin Tor and try his guild, The Compendium, out. It was hard to leave friends in Ghost Watch, but I am having more fun now.
 
-![](https://chasingdings.com/images/felwood.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/felwood.jpg" classes="center" >}}
 
 What the heck is that? Seen in Felwood.
 
-![](https://chasingdings.com/images/azshara.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/azshara.jpg" classes="center" >}}
 
 Sure, this dragon is a 40 MAN raid, but it only takes a troll and a deader!
 

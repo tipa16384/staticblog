@@ -3,44 +3,22 @@ date: '2008-12-06T01:53:41-05:00'
 draft: false
 title: "EQ: Doomfire, the Burning Lands (Part II)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/06/eq-doomfire-the-burning-lands-part-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last time we came to the Plane of Fire, we scurried back and forth in front of the zone, kiting mobs, a good portion of..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Doomfire"
   - "Plane of Fire"
   - "The Burning Lands"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-05-22-20-45-78.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-05-22-20-45-78.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-05-22-20-45-78.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-05-22-20-45-78.jpg"
 ---
+Last time we came to the Plane of Fire, we scurried back and forth in front of the zone, kiting mobs, a good portion of...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-05-22-20-45-78.jpg "eqgame-2008-12-05-22-20-45-78")
+
 
 Last time we came to the Plane of Fire, we scurried back and forth in front of the zone, kiting mobs, a good portion of whom declined to be kited. We muddled through.
 

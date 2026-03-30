@@ -3,41 +3,19 @@ date: '2024-01-08T07:58:24-05:00'
 draft: false
 title: "Trash Goblin Demo"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/01/08/trash-goblin-demo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "One goblin's trash is another goblin's treasure..."
-description: "One goblin's trash is another goblin's treasure..."
-tags:
+categories:
   - "Kickstarter"
   - "RPG"
+tags:
   - "Goblin"
   - "Item Shop"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/trashgoblin.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/01/trashgoblin.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/trashgoblin.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/trashgoblin.png"
 ---
+One goblin's trash is another goblin's treasure...
+<!--more-->
 
 I'm not usually one to play slow, meditative games where there doesn't seem to be a specific goal in mind. I like my games to have endings. But sometimes, maybe it's just fun to spend some time just idly clicking away between more urgent things.
 

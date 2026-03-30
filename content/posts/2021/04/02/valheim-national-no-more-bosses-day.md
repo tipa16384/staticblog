@@ -3,41 +3,19 @@ date: '2021-04-02T07:21:43-05:00'
 draft: false
 title: "Valheim: National No More Bosses Day"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/04/02/valheim-national-no-more-bosses-day/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I probably should have waited one more day to blog about Valheim, as last night we took down the Goblin King, Yagluth, in an epic fight."
-description: "I probably should have waited one more day to blog about Valheim, as last night we took down the Goblin King, Yagluth, in an epic fight."
-tags:
+categories:
   - "Steam Games"
   - "Survival"
   - "Valheim"
+tags:
   - "Steam"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/04/20210401223728_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/04/20210401223728_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/04/20210401223728_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/04/20210401223728_1.jpg"
 ---
+I probably should have waited one more day to blog about Valheim, as last night we took down the Goblin King, Yagluth, in an epic fight.
+<!--more-->
 
 I told everyone that Moder was enough for me. Killing her got us the best crafting, while the Plains boss, Yagluth, wouldn't particularly help us in any way, were we to kill him. Kasul was frankly against the idea -- he'd read that once Yagluth dies, the goblin Fulings would start spawning in the relatively friendly Meadows and Black Forest biomes, and suggested we'd probably need to start in a new world where the worst we'd have to worry about would be weak Greylings and boars.
 
@@ -45,7 +23,7 @@ Aftere the last patch, Stingite can't even connect to the server, so we wouldn't
 
 Taking him on last night would be a very, very bad idea.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/04/20210401221210_1.jpg" title="Summoning Yagluth" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/04/20210401221210_1.jpg" title="Summoning Yagluth" classes="center" >}}
 
 But if I didn't have bad ideas, I wouldn't have any ideas at all. I kicked the idea around with Calrain, and he was fine with it. Kasul said he'd do it, against his better judgment. I figured the three of us could do it, once, and get the gist of the fight, so we could do it even better when everyone else could make it.
 
@@ -53,7 +31,7 @@ I'd seen a couple YouTube videos of folks killing him solo, and it looked pretty
 
 Hah.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/04/20210401222946_1.jpg" title="Yagluth about to go nuclear" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/04/20210401222946_1.jpg" title="Yagluth about to go nuclear" classes="center" >}}
 
 Giant stone fingers surround his summoning altar. My thought was that we could kite him around them, and hide from his attacks behind them. That *did not work*. His Godzilla breath punches right through the fingers, his burning aura ignores them, and his meteor shower will find you wherever you are.
 
@@ -63,7 +41,7 @@ There were a couple of deaths. We'd built our forward base not far from the summ
 
 I'd brought some healing potions that kept me alive. Those have to be mandatory with this fight, along with the fire resist potions and the best foods we could manage.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/04/20210401223530_1.jpg" title="Claiming the final sacrifice menhir" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/04/20210401223530_1.jpg" title="Claiming the final sacrifice menhir" classes="center" >}}
 
 This was the most epic fight we've had in Valheim. This was the first fight where it looked like we might lose.
 

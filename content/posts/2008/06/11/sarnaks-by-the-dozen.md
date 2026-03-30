@@ -3,41 +3,18 @@ date: '2008-06-11T08:33:43-05:00'
 draft: false
 title: "Sarnaks by the dozen"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/11/sarnaks-by-the-dozen/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "First of all, there's no such thing as a so-called \"Tipa pull\". For one thing, it's just more EFFICIENT to nuke something at a door..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-10-20-39-03-26.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-10-20-39-03-26.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-10-20-39-03-26.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-10-20-39-03-26.jpg"
 ---
+First of all, there's no such thing as a so-called "Tipa pull". For one thing, it's just more EFFICIENT to nuke something at a door...
+<!--more-->
 
-![eqgame-2008-06-10-20-39-03-26.jpg](https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-10-20-39-03-26.jpg)
+
 
 First of all, there's *no such thing* as a so-called "Tipa pull". For one thing, it's just more EFFICIENT to nuke something at a door and have the entire fort come after you in groups of three and four.
 

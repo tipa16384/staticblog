@@ -3,38 +3,15 @@ date: '2007-06-27T07:36:22-05:00'
 draft: false
 title: "EQ2: Darklight Woods, Cyenadros, EOF Armor, EQ2Flames"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/06/27/eq2-darklight-woods-cyenadros-eof-armor-eq2flames/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "That Shapeshifter game doesn't take up all my time. It just seems like it does. Another game that doesn't take all my time: Overlord. I..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000035.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000035.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000035.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000035.jpg"
 ---
+That Shapeshifter game doesn't take up all my time. It just seems like it does. Another game that doesn't take all my time: Overlord. I...
+<!--more-->
 
 That Shapeshifter game doesn't take up all my time. It just seems like it does. Another game that doesn't take all my time: Overlord. I downloaded it based on the giddy reviews from Cuppy and Brent, but it seemed boring to me. MMOs have raised my expectations of games beyond what single player games can satisfy. Games without other people playing seem lifeless and barren, now.
 
@@ -42,17 +19,15 @@ Does anyone actually care about my progress in Shapeshifter? Maybe I'll just not
 
 On to EQ2! Dina has had some exciting upgrades.... I'm really excited about -- well, I'll get to that in a second.
 
-![eq2_000035.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000035.jpg)
-
 Cyenadros, Lord of the Sanctum, an Epicx2 is up in the Sanctum of the Scaleborn, you say? And you have two spots free? And you need a healer and some DPS? OMW!
 
 I haven't played my alts much since I joined Eternal Chaos. I am the only troubadour in the guild, so that's the character I play in raids. Sometimes, though, the opportunity arises... and so Dera and Dorah find themselves at the very bottom of SoS, facing a purple dragon, a dragon moreover that once killed Dina. This time the story ended better, and everyone got a nice chunk of AA experience. Still, I need to go back there with Dina. This is the same spot she needs to complete Riddle of the Vault and finally get out of SoS forever!
 
-![eq2_000020.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000020.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000020.jpg" classes="center" >}}
 
 Dorah has been keeping busy with alt raids; here's a shot from the Epic x4 in Zharvonn's Tower. For the life of me, I can't remember the name of the mob we killed, but like Cyenadros, the uber bosses of yesteryear can't defeat even the underpowered twink raid forces of today. This will only get worse when Kunark comes out and everyone is level 80.
 
-![eq2_000016.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000016.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000016.jpg" classes="center" >}}
 
 Back in Nagafen, my fury Tipara finally finished all the Darklight Woods quests at level 21 and about thirteen AAs. These quests got a little easier when she outleveled most of the roving bands of Qeynosians.
 
@@ -60,7 +35,7 @@ The quest above is the end of a line dealing with fire worshipers who have set u
 
 It's so good, to be evil!
 
-![eq2_000018.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000018.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000018.jpg" classes="center" >}}
 
 The little mushroom guys to the south of the Woods are spreading. Not by themselves, oh no. Because stupid ADVENTURERS like YOU tramp in there, get their spores ALL over themselves, then stagger all around shaking them off and causing an INFESTATION! Picture above shows some of the dozens little shroomlings I accidentally shook loose at the Fair.
 
@@ -68,7 +43,7 @@ Oops. Nothing to do but kill them. Kill them all.
 
 It's amazing how many evil quests end with those words!
 
-![eqdina.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eqdina.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eqdina.jpg" classes="center" >}}
 
 Finally, back to Dina :) I've been looking through some of the posts about Troubadours on EQ2 Flames, and realize now that my armor is all wrong.
 

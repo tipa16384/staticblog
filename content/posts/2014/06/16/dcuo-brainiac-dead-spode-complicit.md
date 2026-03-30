@@ -3,41 +3,19 @@ date: '2014-06-16T06:57:21-05:00'
 draft: false
 title: "DCUO: Brainiac dead, Spode complicit"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/06/16/dcuo-brainiac-dead-spode-complicit/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Soooo.... in DCUO , killing Brainiac was a thing that happened. Which very much confused me...."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://lh4.googleusercontent.com/-4L3YXasK_1E/U55eknAQgwI/AAAAAAAAvG0/WV1LQy7P44k/w741-h556-no/DCGame+2014-06-15+23-03-43-63.jpg"
-cover:
-  image: "https://lh4.googleusercontent.com/-4L3YXasK_1E/U55eknAQgwI/AAAAAAAAvG0/WV1LQy7P44k/w741-h556-no/DCGame+2014-06-15+23-03-43-63.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh4.googleusercontent.com/-4L3YXasK_1E/U55eknAQgwI/AAAAAAAAvG0/WV1LQy7P44k/w741-h556-no/DCGame+2014-06-15+23-03-43-63.jpg"
+thumbnailImage: "https://lh4.googleusercontent.com/-4L3YXasK_1E/U55eknAQgwI/AAAAAAAAvG0/WV1LQy7P44k/w741-h556-no/DCGame+2014-06-15+23-03-43-63.jpg"
 ---
+Soooo.... in DCUO , killing Brainiac was a thing that happened. Which very much confused me....
+<!--more-->
 
-![Brainiac the once and future toaster](https://lh4.googleusercontent.com/-4L3YXasK_1E/U55eknAQgwI/AAAAAAAAvG0/WV1LQy7P44k/w741-h556-no/DCGame+2014-06-15+23-03-43-63.jpg)
+
 
 Soooo.... in DCUO  , killing Brainiac was a thing that happened. Which very much confused me.
 
@@ -47,7 +25,7 @@ We killed Tala before her huge clown friend in "Black Dawn", did "Fortress of So
 
 But it was "Prime Battleground", a Tier 4 raid I'd also never done before, which got me wondering. In this raid, we defeat Brainiac, the villain who started this whole invasion shebang by invading Earth and bottling (or trying to bottle) Metropolis and Gotham (leaving aside that in the comics, this city bottling thing happens quickly and all at once, not the block-by-block scheme that Brainiac seems to be doing here).
 
-![And he](https://lh5.googleusercontent.com/-POR6GIMuPeg/U55fiCRTZHI/AAAAAAAAvHY/gZGPcFIGf-4/w741-h556-no/DCGame+2014-06-15+23-07-50-66.jpg)
+{{< image src="https://lh5.googleusercontent.com/-POR6GIMuPeg/U55fiCRTZHI/AAAAAAAAvHY/gZGPcFIGf-4/w741-h556-no/DCGame+2014-06-15+23-07-50-66.jpg" classes="center" >}}
 
 At the end, it turns out that Future Luthor was behind this all along; that he, like Brainiac, was most interested in getting to the core of all reality for everywhere in all universes, conveniently located beneath Gotham. This sets up the Tier 5 Nexus and Paradox raids, which still seem to be beyond Team Spode at the moment.
 

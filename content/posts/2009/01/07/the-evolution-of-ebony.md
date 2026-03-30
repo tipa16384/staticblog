@@ -3,48 +3,25 @@ date: '2009-01-07T07:31:59-05:00'
 draft: false
 title: "The Evolution of Ebony"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/01/07/the-evolution-of-ebony/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A few weeks ago, the geek-o-sphere was abuzz with a picture of the Mona Lisa drawn by fifty overlapping translucent polygons... I thought it was..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/ebonysm.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/01/ebonysm.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/ebonysm.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/ebonysm.jpg"
 ---
+A few weeks ago, the geek-o-sphere was abuzz with a picture of the Mona Lisa drawn by fifty overlapping translucent polygons... I thought it was...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/ebonysm.jpg "ebonysm")
+
 
 A few weeks ago, the geek-o-sphere was abuzz with a picture of the Mona Lisa[ drawn by fifty overlapping translucent polygons](http://rogeralsing.com/2008/12/07/genetic-programming-evolution-of-mona-lisa/)... I thought it was a neat hack, and forgot all about it until last night.
 
 I'd just gotten home from a painful root canal, and needed SOMETHING to take my mind off of it... So I decided to try my hand at this. I took his algorithm and implemented it in a REAL programming language -- Python -- not that filthy C#.NET -- using PyGame to do the rendering, and put a picture of my daughter's dog Ebony into the hopper, stepped back, and let evolution take its course...
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/ebony-collage.jpg "ebony-collage")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/ebony-collage.jpg" title="ebony-collage" classes="center" >}}
 
 Kind of abstract, isn't it? Here's the final image after I let it run a couple of hours:
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/ebonysm-03200.jpg "ebonysm-03200")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/ebonysm-03200.jpg" title="ebonysm-03200" classes="center" >}}
 
 Still needs some work, but I think it's pretty cool :) Needs heavy optimization to speed it up some, but it was a fun way to spend an evening and my tooth doesn't hurt any more :)

@@ -3,46 +3,23 @@ date: '2013-01-16T08:43:23-05:00'
 draft: false
 title: "EQ2: An Angelic Presence"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/01/16/eq2-an-angelic-presence/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Mel Pence may look all dark and purpley in her evil looking armor, but when Dera reached level 86 while doing random dungeons with an..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-15-00-23-00-018-480x299.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-15-00-23-00-018-480x299.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-15-00-23-00-018-480x299.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-15-00-23-00-018-480x299.jpg"
 ---
+Mel Pence may look all dark and purpley in her evil looking armor, but when Dera reached level 86 while doing random dungeons with an...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-15-00-23-00-018-480x299.jpg" title="Divine judgement has come upon you" class="align-center" >}}
+
 
 Mel Pence may look [all dark and purpley](https://plus.google.com/104824679101375705172/posts/G1xatuDJ2dJ) in her evil looking armor, but when Dera reached level 86 while doing random dungeons with an illusionist, well, there were these ice wings I got from a Legends of Norrath loot card. And those icy wings didn't really match her dark, functional armor, so I picked up some shining armor from the Freeport city merchants and flew her up into the skies of the Commonlands.
 
 She is the Inquisitor Incarnate. And she is bringing the wrath of Karana to your home. (Well, of course she worships the God of Storms. What other deity so embodies uncontrolled fury?)
 
-[![](https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-15-00-23-37-90-480x294.jpg "Flying toward the crossroads")](https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-15-00-23-37-90.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-15-00-23-37-90-480x294.jpg" title="Flying toward the crossroads" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-15-00-23-37-90.jpg)
 
 Anyway. What is holding up her body and her legs in this shot? I just don't get how wings work. It's fun swooping around among the Ulteran Spires and, of course, the Great Divide quests pretty much require the ability to fly. Level 87, never powerleveled.
 

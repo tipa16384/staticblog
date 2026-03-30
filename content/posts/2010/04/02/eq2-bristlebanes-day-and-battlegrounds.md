@@ -3,40 +3,17 @@ date: '2010-04-02T07:03:12-05:00'
 draft: false
 title: "EQ2: Bristlebane's Day and Battlegrounds"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/02/eq2-bristlebanes-day-and-battlegrounds/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There was no way I was going to miss Bristlebane's Day on EverQuest II! Bristlebane and I have always had a special relationship. He was..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/kitchen.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/kitchen.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/kitchen.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/kitchen.jpg"
 ---
+There was no way I was going to miss Bristlebane's Day on EverQuest II! Bristlebane and I have always had a special relationship. He was...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/04/kitchen.jpg "I need to see if they")
+
 
 There was no way I was going to miss Bristlebane's Day on EverQuest II! Bristlebane and I have always had a special relationship. He was my deity in EverQuest and remains so in EQ2; as the creator of the halfling race, how could he not? Though others may claim Brell had a hand in our creation, we know better.
 
@@ -44,7 +21,7 @@ The April 1-only quest largely involved answering riddles by running to obscure 
 
 While finishing the dodecahedron quest, I just had to stop and harvest a lot of the special bushes containing items for the Bristlebane Day crafting. With those I made most everything you see in the above picture as well :) I love EQ2 for its holiday crafting. I also made some of the motley robes for later.
 
-![](https://chasingdings.com/wp-content/uploads/2010/04/EverQuest2-2010-04-01-23-13-40-97.jpg "Battlegrounds!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/EverQuest2-2010-04-01-23-13-40-97.jpg" title="Battlegrounds!" classes="center" >}}
 
 Kinkle invited me to come along on a battlegrounds run. He lives for battlegrounds, and he'd gotten me excited about trying them and I was eager to try them out for myself.
 

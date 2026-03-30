@@ -3,24 +3,8 @@ date: '2009-08-19T08:00:08-05:00'
 draft: false
 title: "Daily Blogroll 8/19 - L2Test edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/19/daily-blogroll-819-l2test-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Having heard about the EVE Fitting Tool from a helpful commentator, I spent a lot of time last night working some Battle Clinic builds into..."
+categories:
   - "Aion"
   - "Chronicles of Spellborn"
   - "Daily Blogroll"
@@ -30,20 +14,13 @@ tags:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-18-21-44-27-54.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-18-21-44-27-54.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-18-21-44-27-54.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-18-21-44-27-54.jpg"
 ---
+Having heard about the EVE Fitting Tool from a helpful commentator, I spent a lot of time last night working some Battle Clinic builds into...
+<!--more-->
 
-![Wormhole diving in EVE Online](https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-18-21-44-27-54.jpg "Wormhole diving in EVE Online")
+
 
 Having heard about the EVE Fitting Tool from a helpful commentator, I spent a lot of time last night working some Battle Clinic builds into viable builds for me. VERY happy. Later on, the corps went on an impromptu trip through a wormhole, where we were relentlessly shadowed by the corp (Bones) who had staked it out. They allowed us to take on a Sleeper cell before we left. We got some T3 loot, but since we'd all brought expendable ships (that's my Exequoror "The Liberator" hovering outside the wormhole), we weren't up for taking out the second wave, which included a battleship. (Drew at Wizard of Duke Street has [a little more about wormholing](http://dukestreet.org/archives/004716.html)).
 

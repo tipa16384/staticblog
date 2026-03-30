@@ -3,39 +3,16 @@ date: '2008-03-04T09:08:45-05:00'
 draft: false
 title: "Oh no, not SHAPESHIFTER again..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/04/oh-no-not-shapeshifter-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yeah, I'm back on Shapeshifter again, that amazingly difficult puzzle game on Neopets...."
+categories:
   - "Neopets"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/image0.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/03/image0.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/image0.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/image0.jpg"
 ---
+Yeah, I'm back on Shapeshifter again, that amazingly difficult puzzle game on Neopets....
+<!--more-->
 
-![image0.jpg](https://chasingdings.com/wp-content/uploads/2008/03/image0.jpg)
+
 
 Yeah, I'm back on Shapeshifter again, that amazingly difficult puzzle game on Neopets.
 

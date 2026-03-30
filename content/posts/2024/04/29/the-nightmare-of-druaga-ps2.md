@@ -3,42 +3,20 @@ date: '2024-04-29T07:53:52-05:00'
 draft: false
 title: "The Nightmare of Druaga (PS2)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/04/29/the-nightmare-of-druaga-ps2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's a roguelike, it's the next chapter in TWO long running game series... but is it any good?"
-description: "It's a roguelike, it's the next chapter in TWO long running game series... but is it any good?"
-tags:
+categories:
   - "PS2"
   - "Rogue-Likes"
+tags:
   - "Chocobo Mystery Dungeon"
   - "Mystery Dungeon"
   - "Rogue"
   - "The Nightmare of Druaga"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421183241.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421183241.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421183241.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421183241.jpg"
 ---
+It's a roguelike, it's the next chapter in TWO long running game series... but is it any good?
+<!--more-->
 
 In the beginning, there was the game "Rogue". Fifty levels of dungeon, each randomly generated, and you didn't know what anything you picked up did, exactly, without rolling the dice and quaffing, reading, wielding, eating or equipping it. Monsters moved when you moved; if you didn't move, nothing else happened. Over time, you would grow hungry and weary. Time and the environment were as much dangerous as the monsters.
 
@@ -48,11 +26,11 @@ The [Babylonian Castle Saga](https://en.wikipedia.org/wiki/Babylonian_Castle_Sag
 
 In the Nightmare of Druaga (Fushigi no Dungeon), these two game series collide.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421203505.jpg" title="Gil meets Druaga's disciple, Skulld." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421203505.jpg" title="Gil meets Druaga's disciple, Skulld." classes="center" >}}
 
 The game opens three years after the defeat of Druaga in the previous game, on the day Ki and Gil are to be wed. The sorceress Skulld appears just before the vows, encases Ki in crystal, and spirits her away to the sealed dungeon that lies beneath the town. Only Gil can rescue her, and on this journey that eventually includes three dungeons and the original sixty level Tower of Druaga, Gil will find out the true story behind Ki, Skulld, Druaga, and the Blue Crystal Rod.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240426073046.jpg" title="The Goddess Ishtar hates save scumming" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240426073046.jpg" title="The Goddess Ishtar hates save scumming" classes="center" >}}
 
 This is my first "Druaga" game, so I can't really talk about how good an entry into that series this is, but "Chocobo Mystery Dungeon" was my absolutely go to smash hit from a couple of years back, and I got a fair way through "Shiren the Wanderer" before the punishing difficulty finally had me tapping out, so I've had a pretty good time with the Mystery Dungeon games.
 
@@ -60,7 +38,7 @@ In my first few hours of play, I thought that this was the best game ever. As th
 
 Normal weapons and armor drop frequently in the dungeon, but this gear is almost useless. The best gear comes from finding Silver and Gold chests. Finding a Silver chest requires you to do something very specific; the game does not tell you what to do, and it is different in every level. In order to find a Gold chest, you must run through the dungeon to that level *again*, and do something *even more specific* (like, stand in front of every torch in the dungeon, or, kill these three mobs in this specific order without killing anything between). The only way you would know how to get these things was to get the hint book -- and have a good working knowledge of Japanese. (Or, for us non-Japanese understanders, GameFaqs has an excellent guide).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-12-227x300.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-12-227x300.png" classes="fig-20" >}}
 
 Weapons and armor are upgraded by fusing trash normal gear to them at the blacksmith's. After raising it to +15, you can then have another NPC merge the special moves attached to a weapon to another weapon. Building your perfect weapon is going to take a *lot* of dungeon crawling... and then when you come across a better weapon, this all happens again.
 
@@ -74,7 +52,7 @@ Available in the dungeons are "bonus" dungeons, which are randomly generated, hi
 
 Dying incurs a hefty penalty. You drop everything you were carrying at the place of your death, and half your gold is deleted. Ishtar provides you with a new set of starter gear, but you're on your own in getting back to your corpse.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421204408.jpg" title="Scorecard for completion of the first dungeon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/Nightmare-of-Druaga_SLUS-21071_20240421204408.jpg" title="Scorecard for completion of the first dungeon" classes="center" >}}
 
 The game is oddly compelling. It is grindy as heck, because you do *not* want to overextend yourself. The word "roguelike" is almost meaningless today. The original Rogue never actually expected you to finish the main objective; playing the game itself was the fun. And if you did win, grats, go do it again!
 

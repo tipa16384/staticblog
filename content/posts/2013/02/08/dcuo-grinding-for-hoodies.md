@@ -3,42 +3,19 @@ date: '2013-02-08T17:57:35-05:00'
 draft: false
 title: "DCUO: Grinding for Hoodies"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/08/dcuo-grinding-for-hoodies/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ever since I heard that the only hope of my DCUO Green Lantern-\"ish\" character getting to wear the lantern symbol on her costume was to..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-08-07.45.570-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-08-07.45.570-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-08-07.45.570-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-08-07.45.570-480x300.jpg"
 ---
+Ever since I heard that the only hope of my DCUO Green Lantern-"ish" character getting to wear the lantern symbol on her costume was to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-08-07.45.570-480x300.jpg" title="Batwoman T-Shirt" class="align-center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-08-07.47.050-480x300.jpg" title="Superboy Hoodie" class="align-center" >}}
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-08-07.47.050-480x300.jpg" title="Superboy Hoodie" classes="center" >}}
 
 Ever since I heard that the only hope of my DCUO Green Lantern-"ish" character getting to wear the lantern symbol on her costume was to find a Green Lantern hoodie in The Vault, I've been in there every day.
 

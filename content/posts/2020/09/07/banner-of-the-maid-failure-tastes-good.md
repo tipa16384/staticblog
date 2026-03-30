@@ -3,41 +3,19 @@ date: '2020-09-07T12:58:40-05:00'
 draft: false
 title: "Banner of the Maid: Failure Tastes Good."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/07/banner-of-the-maid-failure-tastes-good/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The more I play Banner of the Maid, the more I'm enjoying it. The plot is picking up, with plenty of side quests that lean..."
+categories:
   - "Nintendo Switch"
   - "Visual Novel"
+tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/2020090620392900-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/2020090620392900-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090620392900-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090620392900-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 ---
+The more I play Banner of the Maid, the more I'm enjoying it. The plot is picking up, with plenty of side quests that lean...
+<!--more-->
 
 The more I play Banner of the Maid, the more I'm enjoying it. The plot is picking up, with plenty of side quests that lean more into the Visual Novel side of the game.
 
@@ -47,7 +25,7 @@ Another side quest had the protagonist, Pauline Bonaparte, circulating around an
 
 That one ended with a daring escape in a hot air balloon.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020090617080500-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020090617080500-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 The battle themselves are getting increasingly technical, even well into the third act of the game still introducing new mechanics (like flanking) and changing battlefield conditions. The rain in this scene is making the ground muddy, which is making it nearly impossible to move units or keep gunpowder dry. In particular, it makes artillery nearly impossible to move and difficult to aim.
 

@@ -3,37 +3,12 @@ date: '2007-04-07T11:35:48-05:00'
 draft: false
 title: "27 Degrees"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/04/07/27-degrees/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "That's how cold it was in Hartford, Connecticut yesterday morning. That's how cold it was when I spent four hours in and waiting for buses..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+That's how cold it was in Hartford, Connecticut yesterday morning. That's how cold it was when I spent four hours in and waiting for buses...
+<!--more-->
 
 That's how cold it was in Hartford, Connecticut yesterday morning. That's how cold it was when I spent four hours in and waiting for buses because my car had finally made it to Connecticut from California and I had to return my rental then go home. Slowly.
 

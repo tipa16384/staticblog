@@ -3,40 +3,17 @@ date: '2013-05-23T06:34:01-05:00'
 draft: false
 title: "EQ2: Wuoshi Must Die"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/23/eq2-wuoshi-must-die/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The real slap in the face came when I won a Fae Wing Cloak. How is this even a THING? I suppose I should weep..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-23-00-08-13-37-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-23-00-08-13-37-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-23-00-08-13-37-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-23-00-08-13-37-480x270.jpg"
 ---
+The real slap in the face came when I won a Fae Wing Cloak. How is this even a THING? I suppose I should weep...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-23-00-08-13-37-480x270.jpg" title="Can you find the tank in this picture?" class="align-center" >}}
+
 
 The real slap in the face came when I won a Fae Wing Cloak. How is this even a THING? I suppose I should weep for all my unwinged brothers and sisters who now have to walk on unfamiliar ground because their wings have been turned into outerwear, but for me, a Fae, to wear one... that's like wearing human leather boots with babyskin gloves.
 
@@ -48,7 +25,7 @@ I'd forgotten everything I ever knew about the raid; even which guild I was in w
 
 Throughout the next day we texted strat ideas back and forth, got back in game and Hamal offtanked the stun adds while I whittled down the unicorn. Things broke free toward the end, but we managed to get the win and to go on to finish clearing the second floor.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-23-00-11-23-66-480x270.jpg" title="Wolves and Debauchery" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-23-00-11-23-66-480x270.jpg" title="Wolves and Debauchery" classes="center" >}}
 
 Third day was the third floor, and we got a little help from members of the Debauchery guild, whom I'd just helped click statues for the Assassin epic. We all chrono'd down to level 80 and headed in to kill the dragon.
 
@@ -60,7 +37,7 @@ When we'd killed every other mob, we pulled Wuoshi to the island in the middle o
 
 I had solid aggro, though, thanks to some recent shuffling around of abilities such that the super aggro ability, Adrenaline, was way more available. With that running, it is impossible for any non-fighter to pull aggro from something I want paying attention to me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-23-00-08-32-72-480x269.jpg" title="Wuoshi Whacker!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-23-00-08-32-72-480x269.jpg" title="Wuoshi Whacker!" classes="center" >}}
 
 We were all pretty pumped about the kill. Raiding this old stuff is FUN. No longer require a full raid, there's not the endless cycle of death and discovery that comes with doing raids at level, it's raiding with all the frustrating bits removed. I know there's people out there who could solo the zone in three pulls, fifteen minutes tops, but speed and loot was never the real goal here.
 

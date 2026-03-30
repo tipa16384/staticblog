@@ -3,45 +3,24 @@ date: '2008-09-21T20:34:27-05:00'
 draft: false
 title: "W101: The Chamber of Fire, the Royal Hall and Sunken City"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/21/w101-the-chamber-of-fire-the-royal-hall-and-sunken-city/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Chamber of Fire"
   - "Krokotopia"
   - "Pyramid of the Sun"
   - "Sunken City"
   - "W101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg"
 ---
+A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-21-17-39-05-38.jpg "wizardgraphicalclient-2008-09-21-17-39-05-38")
+
 
 A friend was having trouble in the Sunken City and asked for some help. I was in a battle of my own and was low on potions, so I told him I'd be there in a few. Finished the battle, played a few rounds of my potion-filling minigames of choice, and the teleported to him.
 
@@ -51,7 +30,7 @@ Given that everyone in the game is a wizard of some sort, it doesn't break any r
 
 if you're level 5 and your friend is lever 40 and my teleporting in you made another monster join the fight, a monster your friend is going to have to handle, maybe you'll want to send your friend a tell before you pop over.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/collage4.jpg "collage4")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/collage4.jpg" title="collage4" classes="center" >}}
 
 I spent the day helping out friends and working my way through the Pyramid of the Sun quests in Krokotopia. For a game where it doesn't make a huge difference what class you are -- what school of magic you learn -- the choice to take a support school like Life as my primary school was kind of questionable. Since everyone can heal themselves to some extent, why choose Life?
 

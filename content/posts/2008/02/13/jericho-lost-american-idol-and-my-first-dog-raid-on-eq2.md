@@ -3,39 +3,14 @@ date: '2008-02-13T10:25:13-05:00'
 draft: false
 title: "Jericho, Lost, American Idol and my first DoG raid on EQ2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/13/jericho-lost-american-idol-and-my-first-dog-raid-on-eq2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "You can get a sense for how popular a show is by how many people are downloading it. That's as direct correlation of interest as..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+You can get a sense for how popular a show is by how many people are downloading it. That's as direct correlation of interest as...
+<!--more-->
 
 You can get a sense for how popular a show is by how many people are downloading it. That's as direct correlation of interest as you're likely to get.
 

@@ -3,39 +3,14 @@ date: '2008-03-19T09:26:57-05:00'
 draft: false
 title: "What can beta leaks tell us about upcoming games?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/19/what-can-beta-leaks-tell-us-about-upcoming-games/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Tobold posted today about a site hoping to be for MMO gaming what Wikileaks is for the real world -- a way for players in..."
+categories:
   - "Age of Conan"
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Tobold posted today about a site hoping to be for MMO gaming what Wikileaks is for the real world -- a way for players in...
+<!--more-->
 
 [Tobold posted today](http://tobolds.blogspot.com/2008/03/beta-leaks.html) about a site hoping to be for MMO gaming what Wikileaks is for the real world -- a way for players in the betas for upcoming games to alert people to potential problems in the game.
 

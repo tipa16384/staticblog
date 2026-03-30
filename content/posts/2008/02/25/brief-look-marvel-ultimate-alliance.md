@@ -3,37 +3,12 @@ date: '2008-02-25T15:35:14-05:00'
 draft: false
 title: "Brief look: Marvel Ultimate Alliance"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/25/brief-look-marvel-ultimate-alliance/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I had nothing better to do last night, so I popped Marvel Ultimate Alliance, a game that came with the Xbox 360, in last night..."
+categories:
   - "Other Games"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I had nothing better to do last night, so I popped Marvel Ultimate Alliance, a game that came with the Xbox 360, in last night...
+<!--more-->
 
 I had nothing better to do last night, so I popped Marvel Ultimate Alliance, a game that came with the Xbox 360, in last night to see how REAL superheroes mixed things up.
 

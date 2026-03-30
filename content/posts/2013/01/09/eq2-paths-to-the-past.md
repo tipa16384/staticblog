@@ -3,40 +3,17 @@ date: '2013-01-09T08:16:10-05:00'
 draft: false
 title: "EQ2: Paths to the Past"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/01/09/eq2-paths-to-the-past/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I leveled very quickly, once I got my mercenary, and I only did the dungeons that I could do \"molo\" (merc + solo) and for..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-09-00-18-32-11-480x240.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-09-00-18-32-11-480x240.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-09-00-18-32-11-480x240.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-09-00-18-32-11-480x240.jpg"
 ---
+I leveled very quickly, once I got my mercenary, and I only did the dungeons that I could do "molo" (merc + solo) and for...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-09-00-18-32-11-480x240.jpg" title="Norrathian track lighting" class="align-center" >}}
+
 
 I leveled very quickly, once I got my mercenary, and I only did the dungeons that I could do "molo" (merc + solo) and for which I had quests, so all the KoS group instances, plus Karnor's, Chelsith and Chardok back in Kunark.
 

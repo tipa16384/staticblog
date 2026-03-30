@@ -3,24 +3,8 @@ date: '2011-01-27T06:00:43-05:00'
 draft: false
 title: "Daily Blogroll 1/27 -- Inevitable Backlash edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/27/daily-blogroll-127-inevitable-backlash-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Allods Online"
   - "Daily Blogroll"
   - "DC Universe Online"
@@ -35,20 +19,15 @@ tags:
   - "Tabula Rasa"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/riftblade.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/riftblade.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/riftblade.png "Rift Blade")](https://chasingdings.com/wp-content/uploads/2011/01/riftblade.png)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/riftblade.png)
 
 Yeah, I've been MIA for a couple weeks now. Work time is creeping into home time. It's so cold when I get home that I find myself cuddling up with blankets and a cat on the couch, watching Netflix (tonight: the Canadian comedy "[Slings & Arrows](http://en.wikipedia.org/wiki/Slings_and_Arrows)", season 1). I'm not wild about this "winter" thing in general. I haven't been able to get on the bicycle for a few weeks now, and it's really making me antsy.
 

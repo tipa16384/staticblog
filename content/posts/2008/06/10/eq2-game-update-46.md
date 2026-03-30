@@ -3,41 +3,18 @@ date: '2008-06-10T11:56:00-05:00'
 draft: false
 title: "EQ2 - Game Update #46"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/10/eq2-game-update-46/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I spent hours last night running around Norrath on Test, killing stuff and doing quests, just so I could write about the Void Storms coming..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "My Work"
-featured_image: "http://www.massively.com/media/2008/06/regatheringheader.jpg"
-cover:
-  image: "http://www.massively.com/media/2008/06/regatheringheader.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://www.massively.com/media/2008/06/regatheringheader.jpg"
+thumbnailImage: "http://www.massively.com/media/2008/06/regatheringheader.jpg"
 ---
+I spent hours last night running around Norrath on Test, killing stuff and doing quests, just so I could write about the Void Storms coming...
+<!--more-->
 
-![Runnyeye: the Gathering](http://www.massively.com/media/2008/06/regatheringheader.jpg)
+
 
 I spent hours last night running around Norrath on Test, killing stuff and doing quests, just so I could write about [the Void Storms coming](http://www.massively.com/2008/06/10/everquest-ii-gu46-the-void-invasion/) in EQ2's Game Update 46. Is the next expansion The Void? Or is this just a red herring? Regardless, the appearance armor and weapons are kind of cool and there are a lot more benefits besides, and [you can read all about it](http://www.massively.com/2008/06/10/everquest-ii-gu46-the-void-invasion/) over on Massively. Fair warning: You will be doing a LOT of cleansing to earn the nicer rewards.
 

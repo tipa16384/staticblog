@@ -3,40 +3,17 @@ date: '2015-11-21T19:00:06-05:00'
 draft: false
 title: "Sohm Al and the Death of Love"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/11/21/sohm-al-and-the-death-of-love/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We expected to have to spend more time questing in the Dravanian Forelands before being allowed to ascend the mountain of Sohm Al and fulfill..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-21-16h59m50s121.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-21-16h59m50s121.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/vlcsnap-2015-11-21-16h59m50s121.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/vlcsnap-2015-11-21-16h59m50s121.jpg"
 ---
+We expected to have to spend more time questing in the Dravanian Forelands before being allowed to ascend the mountain of Sohm Al and fulfill...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-21-16h59m50s121.jpg" title="Tiamat. I mean, Tioman." class="align-center" >}}
+
 
 We expected to have to spend more time questing in the Dravanian Forelands before being allowed to ascend the mountain of Sohm Al and fulfill the promise we made to deal with the desperate dragon Nidhogg the only way we could -- by killing his girlfriend, Tiamat.
 
@@ -48,7 +25,7 @@ You can only imagine how upset Tioman was when we caught up with her. I can only
 
 Was a good, easy dungeon. Would run again. Said to drop a cute kitty-dragon minion and a playing card, but I got neither.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-21-17h04m08s3.jpg" title="Welcome to Moogleville" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/vlcsnap-2015-11-21-17h04m08s3.jpg" title="Welcome to Moogleville" classes="center" >}}
 
 Our NPC crew popped up afterward, insisting that they had helped in some manner that we could not see. Iceheart felt like she'd never be able to have sex with another dragon after helping in some unhelpful way with the Tioman fight. Estinien, the dragoon who has Nidhogg's other eye, sensed that Nidhogg was now pretty angry about something. Alphinaud congratulated himself for being totally awesome, as he does.
 
@@ -58,7 +35,7 @@ Flashback to the time when we were all excited about killing King Mog Moogle the
 
 It turned out that this was maybe not 100% of the truth, as we found the Moogles very much in evidence in Churning Mists, a land of floating islands set among the clouds and mountain peaks. We saw EVIDENCE of them, but no actual Moogles, until we headed down to Gridania, got the Seedseer and a spare Moogle, and headed back. And then we found them. And wouldn't you know it, they had a bunch of trivial jobs for us to see to.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-21-17h04m47s135.jpg" title="Alphinaud is just trying to HELP. Be NICE to him." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/vlcsnap-2015-11-21-17h04m47s135.jpg" title="Alphinaud is just trying to HELP. Be NICE to him." classes="center" >}}
 
 Alphinaud did manage to gather some sticks while Kasul and I ran around trying to take care of threats to his life. Kid sure can gather them sticks, though. Gotta give him that.
 

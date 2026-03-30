@@ -3,39 +3,16 @@ date: '2006-06-20T00:00:00-05:00'
 draft: false
 title: "EQ2: Betraying Qeynos - the Faction Wars"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/20/eq-betraying-qeynos-the-faction-wars/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Commonlands, at last. It took many days to earn the right to come here. That inky in Antonica had me going into Qeynos more than..."
+categories:
   - "EverQuest"
-featured_image: "https://chasingdings.com/images/betray-cl.jpg"
-cover:
-  image: "https://chasingdings.com/images/betray-cl.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/betray-cl.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/betray-cl.jpg"
 ---
+Commonlands, at last. It took many days to earn the right to come here. That inky in Antonica had me going into Qeynos more than...
+<!--more-->
 
-![](https://chasingdings.com/images/betray-cl.jpg)
+
 
 Commonlands, at last. It took many days to earn the right to come here. That inky in Antonica had me going into Qeynos more than I ever did before I became an Exile. Some of those missions are far easier than others, but you don't know til you try. I eventually settled on just one mission to grind out the majority of the 12 5000 point missions to make myself welcome in Freeport.
 
@@ -77,11 +54,11 @@ If you try to retrace my steps and are low level, you can do as I did and suicid
 
 My armor was mostly ruined by the time I cast Call of Haven; but as a pet caster, who needs armor?
 
-![](https://chasingdings.com/images/betray-matthias.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/betray-matthias.jpg" classes="center" >}}
 
 This morning I took the tunnels to Haven's Nektulos Forest exit and made my way to Freeport. They don't attack me, but they don't like me either; every guard "spots" me and draws their weapon. They finally let Matthias come in from the cold and wear a new, snazzier set of armor.
 
-![](https://chasingdings.com/images/betray-dog.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/betray-dog.jpg" classes="center" >}}
 
 He wants me to do one last thing; to tame a dog. It can't be that easy... I guess I'll find out tonight, when I summon up my soon-to-be dear friend, Buddy, the Annoying Yaphound.
 

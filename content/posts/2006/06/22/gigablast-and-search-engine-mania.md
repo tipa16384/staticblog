@@ -3,37 +3,14 @@ date: '2006-06-22T00:00:00-05:00'
 draft: false
 title: "GigaBlast and Search Engine Mania"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/22/gigablast-and-search-engine-mania/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Whilst perusing the lists of bots indexing this blog, I noticed an unfamiliar name, GigaBlast. They search through blogs with a natural language interface, similar..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/images/huffpo.png"
-cover:
-  image: "https://chasingdings.com/images/huffpo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/huffpo.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/huffpo.png"
 ---
+Whilst perusing the lists of bots indexing this blog, I noticed an unfamiliar name, GigaBlast. They search through blogs with a natural language interface, similar...
+<!--more-->
 
 Whilst perusing the lists of bots indexing this blog, I noticed an unfamiliar name, [GigaBlast](http://gigablast.com). They search through blogs with a natural language interface, similar to what [Jeeves claimed to do](http://ask.com) but never quite managed.
 
@@ -98,8 +75,6 @@ I'm apparently 62 years old, so speak really loud when you call. And type big.
 **really on a blog roll today**
 
 The thing that got me started on the whole "why is my blog not counted as a blog?" thing is the little note on [The Huffington Post](http://www.huffingtonpost.com/) (a great political read with a liberal bent) where they do smarmy [buzz graphs](http://www.huffingtonpost.com/harry-shearer/not-getting-quite-as-much_b_23588.html) (on the left there) to see what people are talking about on blogs.
-
-![](https://chasingdings.com/images/huffpo.png)
 
 I typed in the names of some MMORPGs to see how the buzz was doing. Everything was about where I expected it to be (and somehow, by some wild coincidence, I typed in the game names *in the exact high-to-low order* they would be placed!)
 

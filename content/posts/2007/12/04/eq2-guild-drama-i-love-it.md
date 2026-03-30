@@ -3,43 +3,21 @@ date: '2007-12-04T08:46:09-05:00'
 draft: false
 title: "EQ2: Guild drama -- I love it!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/04/eq2-guild-drama-i-love-it/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I accidentally deleted the pictures I had while cleaning out my Fraps folder. So instead, I have this one of Dera at level fifteen or..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Dera"
   - "Drama"
   - "Kunark"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg"
 ---
+I accidentally deleted the pictures I had while cleaning out my Fraps folder. So instead, I have this one of Dera at level fifteen or...
+<!--more-->
 
-![8ac5382a5461aad117091694e4b83233.jpg](https://chasingdings.com/wp-content/uploads/2007/12/8ac5382a5461aad117091694e4b83233.jpg)
+
 
 I accidentally deleted the pictures I had while cleaning out my Fraps folder. So instead, I have this one of Dera at level fifteen or so, betraying Qeynos to join Freeport -- after a very harrowing trip (it took me hours to find the Thundering Steppes zone in Antonica, more hours to find the docks in Thundering Steppes, and though the path through Nektulos was pretty well-defined, it was surrounded on all sides by monsters hungry for halfling). After a trip with no maps and only vague directions from people she met on the way, she made it to the Commonlands and caught this first glimpse of the city that would -- after 500 orcs and five uncommon nameds == become her new home.
 

@@ -3,44 +3,22 @@ date: '2022-09-04T21:25:13-05:00'
 draft: false
 title: "How I used AI to write a Final Fantasy VI chatbot"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/04/how-i-used-ai-to-write-a-final-fantasy-vi-chatbot/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "GPT-3's real power comes when it can use AI to help people find what they need. In this case, information about Final Fantasy VI. Read on to find out how I used AI to help make a FF6 chatbot -- TerraChat."
-description: "GPT-3's real power comes when it can use AI to help people find what they need. In this case, information about Final Fantasy VI. Read on to find out how I used AI to help make a FF6 chatbot -- TerraChat."
-tags:
+categories:
   - "Final Fantasy"
   - "General"
   - "OpenAI"
+tags:
   - "Celes"
   - "Chatbot"
   - "Dall-E 2"
   - "Gpt-3"
   - "Terra"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-04-21.21.57-A-magazine-illustration-of-a-woman-with-dark-green-hair-in-a-high-ponytail-wearing-overalls-constructing-a-giant-mechanical-steampunk-chatbot-with-h.png"
 ---
+GPT-3's real power comes when it can use AI to help people find what they need. In this case, information about Final Fantasy VI. Read on to find out how I used AI to help make a FF6 chatbot -- TerraChat.
+<!--more-->
 
 When I started my Blaugust project to create 31 game ideas using AI as much as possible, the actual end goal was to learn to create AI-powered tools to help me with blogging -- generating ideas, titles, excerpts, correct spellings and grammar, things like that. Things that GPT-3 is actually well suited to handle.
 
@@ -52,7 +30,7 @@ I did write the chatbot, picture below. It is real and does work, but since it c
 
 I'll go into more detail past the pic. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/image-1024x745.png" title="Actual conversation with TerraChat." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/image-1024x745.png" title="Actual conversation with TerraChat." classes="center" >}}
 
 **Telling TerraChat about Final Fantasy VI**
 

@@ -3,42 +3,19 @@ date: '2009-06-09T23:42:13-05:00'
 draft: false
 title: "Nightly Blogroll 6/09 -- Freemium Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/09/nightly-blogroll-609-freemium-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It started out like a normal day. Then Turbine announced that it's Dungeons & Dragons Online MMO was going Free to Play, and Twitter ignited..."
+categories:
   - "Daily Blogroll"
   - "MMORPG"
   - "Star Trek"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/ddo.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/ddo.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/ddo.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/ddo.jpg"
 ---
+It started out like a normal day. Then Turbine announced that it's Dungeons & Dragons Online MMO was going Free to Play, and Twitter ignited...
+<!--more-->
 
-![Dungeons & Dragons Online goes Free to Play](https://chasingdings.com/wp-content/uploads/2009/06/ddo.jpg "Dungeons & Dragons Online goes Free to Play")
+
 
 It started out like a normal day. Then [Turbine announced](http://www.ddo.com/news/547-turbiner-announces-dungeons-a-dragons-onliner-eberron-unlimited) that it's [Dungeons & Dragons Online MMO](http://www.ddo.com/) was going Free to Play, and Twitter ignited and MMO bloggers the world over ran [to](http://www.massively.com/2009/06/09/ddo-adds-free-to-play-with-eberron-unlimited/) [their](http://www.killtenrats.com/2009/06/09/new-ddo-business-model/) [keyboards](http://pumpingirony.net/2009/06/09/ddo-eberron-unlimited/) [to](http://mmomentofzen.blogspot.com/2009/06/ddo-goes-free-to-play-sony-to-follow.html) [pound](http://commonsensegamer.com/?p=1356) [out](http://epicdolls.com/beauturkey/?p=1565) [the](http://biobreak.wordpress.com/2009/06/09/announcement-ddo-f2p/) [news](http://biobreak.wordpress.com/2009/06/09/ddo-unlimited-gets-an-explanation/). Subscribers were now VIPs! And the new "unlimited" players were (by comparison) NVIPs! Or VUIPs! (Sorry if I didn't link to the announcement on *your* blog; after awhile I stopped saving the announcements).
 

@@ -3,43 +3,19 @@ date: '2014-09-19T19:20:20-05:00'
 draft: false
 title: "Neverwinter: Cult Foundry Contest Week 3 Reviews"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/09/19/neverwinter-cult-foundry-contest-week-3-reviews/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wow, week 3 already. It’s been a rollercoaster so far, but this week is special. We have missions by two of the foundry’s pro builders..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg"
-cover:
-  image: "https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg"
+thumbnailImage: "https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg"
 ---
+Wow, week 3 already. It’s been a rollercoaster so far, but this week is special. We have missions by two of the foundry’s pro builders...
+<!--more-->
 
 Wow, week 3 already. It’s been a rollercoaster so far, but this week is special. We have missions by two of the foundry’s pro builders -- and the unluckiest contest entry of them all. But we’ll get to that one later. First, one of the three quests the overworked cleric who stands near Sergeant Knox gives out this week.
-
-![The Dragon](https://lh6.googleusercontent.com/-n_VLwusuGv8/VBu2YKwLu5I/AAAAAAAA2Tg/cecRl0Gh9T4/w745-h596-no/GameClient%2B2014-09-16%2B23-13-42-85.jpg)
 
 **The Dragon's Prize** by sc00teR
 
@@ -55,7 +31,7 @@ The dragon’s lair shows an attention to detail that is a master class in level
 
 This quest got five stars from both Kasul and me. It is the first time we’ve given a quest five stars since the contest began. THIS is the bar. The average score is 4.32 stars.
 
-![Stop the Cult of the Dragon](https://lh5.googleusercontent.com/-1xx-fl0ccc0/VBu2YCpkZeI/AAAAAAAA2Tg/fGANEAeN7lE/w745-h596-no/GameClient%2B2014-09-16%2B23-38-15-41.jpg)
+{{< image src="https://lh5.googleusercontent.com/-1xx-fl0ccc0/VBu2YCpkZeI/AAAAAAAA2Tg/fGANEAeN7lE/w745-h596-no/GameClient%2B2014-09-16%2B23-38-15-41.jpg" classes="center" >}}
 
 **Stop the Cult of the Dragon** by raindance7
 
@@ -67,7 +43,7 @@ We walked through a version of Neverdeath that Kasul claimed was the Shadowfell 
 
 There were no issues with this quest. The maps were competently put together, there was a minimal plot and some characterization. It was just a really dull quest. There was no excitement, the boss battle was perfunctory, the stakes seemed low. Maybe it was just unlucky to be the quest we played just after The Dragon’s Prize, but Kasul and I both gave it two stars.  Average score is 3.99 stars.
 
-![A Game of Dragons](https://lh3.googleusercontent.com/-p30DeHhnXmQ/VBu2YGUcYpI/AAAAAAAA2Tk/Lc-nZ6EgYNs/w745-h596-no/GameClient%2B2014-09-16%2B23-59-24-20.jpg)
+{{< image src="https://lh3.googleusercontent.com/-p30DeHhnXmQ/VBu2YGUcYpI/AAAAAAAA2Tk/Lc-nZ6EgYNs/w745-h596-no/GameClient%2B2014-09-16%2B23-59-24-20.jpg" classes="center" >}}
 
 **A Game of Dragons** by BjornKoer
 
@@ -81,7 +57,7 @@ We soon find that very little of what we thought we knew was the truth… and th
 
 I was going to give this quest three stars, but Kasul started listing off all the things wrong with it. But I just didn’t think it was two star territory. We compromised; I gave this quest three stars, and Kasul gave it two. Adjusted score 3.99 stars.
 
-![Rise of...](https://lh5.googleusercontent.com/-nBHAWrTdvtI/VBu2YHmohPI/AAAAAAAA2Tk/aZe62JkKKQY/w745-h596-no/GameClient%2B2014-09-17%2B00-46-27-62.jpg)
+{{< image src="https://lh5.googleusercontent.com/-nBHAWrTdvtI/VBu2YHmohPI/AAAAAAAA2Tk/aZe62JkKKQY/w745-h596-no/GameClient%2B2014-09-17%2B00-46-27-62.jpg" classes="center" >}}
 
 **Rise of Ingeloakastimizilian** by eldarth
 
@@ -95,7 +71,7 @@ This quest was a story -- with chapters, and side quests, boundless attention to
 
 Kasul and I agreed -- this one easily deserved five stars as well. If you play no other quests this week, play this one and The Dragon’s Prize. Average score: 4.21 stars.
 
-![The Dragon Scroll](https://lh6.googleusercontent.com/-HDTglt0-724/VBu2YNkNDKI/AAAAAAAA2Tk/RHR5afdgEj4/w745-h596-no/GameClient%2B2014-09-17%2B23-07-34-47.jpg)
+{{< image src="https://lh6.googleusercontent.com/-HDTglt0-724/VBu2YNkNDKI/AAAAAAAA2Tk/RHR5afdgEj4/w745-h596-no/GameClient%2B2014-09-17%2B23-07-34-47.jpg" classes="center" >}}
 
 **The Dragon Scroll** by Denniss99
 
@@ -119,7 +95,7 @@ Aside from the bug, we were puzzled at how this quest turned into a mindflayer q
 
 We weren’t able to review this quest, but we would have given it one star if we had. Kasul was getting pretty angry at it. Never a good sign. Average score is 4.00 with four reviews.
 
-![The Cult](https://lh5.googleusercontent.com/-QQm5eeLgQ2E/VBu2YDNaWsI/AAAAAAAA2Tk/rZGrBo16_50/w745-h596-no/GameClient%2B2014-09-18%2B00-00-51-48.jpg)
+{{< image src="https://lh5.googleusercontent.com/-QQm5eeLgQ2E/VBu2YDNaWsI/AAAAAAAA2Tk/rZGrBo16_50/w745-h596-no/GameClient%2B2014-09-18%2B00-00-51-48.jpg" classes="center" >}}
 
 **The Cult's Hideout** by BennH0llysword
 

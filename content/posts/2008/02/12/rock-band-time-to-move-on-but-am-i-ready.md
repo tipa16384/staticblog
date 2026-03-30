@@ -3,37 +3,12 @@ date: '2008-02-12T17:58:11-05:00'
 draft: false
 title: "Rock Band -- time to move on, but am I ready?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/12/rock-band-time-to-move-on-but-am-i-ready/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Played Rock Band last night, I seem locked at \"True Skill\" 32. I'd lost only one match the night before, and THAT was to those..."
+categories:
   - "Rock Band"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Played Rock Band last night, I seem locked at "True Skill" 32. I'd lost only one match the night before, and THAT was to those...
+<!--more-->
 
 Played Rock Band last night, I seem locked at "True Skill" 32. I'd lost only one match the night before, and THAT was to those stupid freeform outros that reward those with the fastest kicks instead of those who can play musically. Rock Band keeps duels close so even if you're way ahead, someone can destroy you if you lose the outro by just 200 points.
 

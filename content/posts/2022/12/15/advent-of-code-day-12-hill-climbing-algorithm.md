@@ -3,41 +3,19 @@ date: '2022-12-15T20:11:29-05:00'
 draft: false
 title: "Advent of Code Day 12 -- Hill Climbing Algorithm"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/15/advent-of-code-day-12-hill-climbing-algorithm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The title says it all. It's a \"shortest path\" puzzle, you're meant to use Dijkstra's algorithm, and the puzzle has no curve balls to toss at you."
-description: "The title says it all. It's a \"shortest path\" puzzle, you're meant to use Dijkstra's algorithm, and the puzzle has no curve balls to toss at you."
-tags:
+categories:
   - "Advent of Code"
+tags:
   - "Advent"
   - "Dijkstra"
   - "Python"
   - "Vscode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-15-17.06.41-A-woman-in-a-Christmas-cap-hiking-up-a-steep-wandering-path-to-the-top-of-a-hill-over-looking-a-jungle-river-by-Bob-Eggleton-detailed-and-intricate.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-15-17.06.41-A-woman-in-a-Christmas-cap-hiking-up-a-steep-wandering-path-to-the-top-of-a-hill-over-looking-a-jungle-river-by-Bob-Eggleton-detailed-and-intricate.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-15-17.06.41-A-woman-in-a-Christmas-cap-hiking-up-a-steep-wandering-path-to-the-top-of-a-hill-over-looking-a-jungle-river-by-Bob-Eggleton-detailed-and-intricate.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-15-17.06.41-A-woman-in-a-Christmas-cap-hiking-up-a-steep-wandering-path-to-the-top-of-a-hill-over-looking-a-jungle-river-by-Bob-Eggleton-detailed-and-intricate.png"
 ---
+The title says it all. It's a "shortest path" puzzle, you're meant to use Dijkstra's algorithm, and the puzzle has no curve balls to toss at you.
+<!--more-->
 
 Most Advent of Code puzzles expect you to solve them using some sort of Data and Algorithms method. One of the favorites is [Dijkstra's Algorithm](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm), the first algorithm to find the shortest distant between two points. We had two puzzles last year that used it.
 

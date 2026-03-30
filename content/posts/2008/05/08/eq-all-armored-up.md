@@ -3,41 +3,18 @@ date: '2008-05-08T00:21:23-05:00'
 draft: false
 title: "EQ: All armored up!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/08/eq-all-armored-up/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The leader of the Tuesday group said we should finish our racial armor quests before next week; I figured I'd get them out of the..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-07-20-01-18-46.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-07-20-01-18-46.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-07-20-01-18-46.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-07-20-01-18-46.jpg"
 ---
+The leader of the Tuesday group said we should finish our racial armor quests before next week; I figured I'd get them out of the...
+<!--more-->
 
-![eqgame-2008-05-07-20-01-18-46.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-07-20-01-18-46.jpg)
+
 
 The leader of the Tuesday group said we should finish our racial armor quests before next week; I figured I'd get them out of the way today. A variety of wolf furs, various yellowjacket drops, and some iron bricks from goblins.
 
@@ -57,7 +34,7 @@ I don't like bending the rules, so full disclosure here.
 
 I did camp the armor components legit, though as the night wore on, I cared less and less about beating down mobs to make wasps spawn, and more and more about just getting it done ASAP. So I would gather up a dozen mobs and bring them to the guards at The Wall. When the guards had finished them off, I would bring more. And more. And then the wasps started coming back. Thanks guards :)
 
-![eqgame-2008-05-07-23-28-40-62.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-07-23-28-40-62.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-07-23-28-40-62.jpg" classes="center" >}}
 
 Shout out to Kuron, who finally finished his warrior epic 1.0 after what was it, six years? This nostalgia thing is pretty powerful! Big grats to the big guy. I dashed into the picture to show off my racial quest armor as well :)
 

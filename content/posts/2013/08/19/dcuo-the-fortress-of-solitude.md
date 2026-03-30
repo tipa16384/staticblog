@@ -3,40 +3,17 @@ date: '2013-08-19T07:03:05-05:00'
 draft: false
 title: "DCUO: The Fortress of Solitude!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/08/19/dcuo-the-fortress-of-solitude/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last week, we Spodians decided to shake things up a bit by, THIS week, trying to join a raid. You kinda have to raid, at..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/08/DCGame-2013-08-18-23-06-57-66-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/08/DCGame-2013-08-18-23-06-57-66-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/08/DCGame-2013-08-18-23-06-57-66-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/08/DCGame-2013-08-18-23-06-57-66-480x343.jpg"
 ---
+Last week, we Spodians decided to shake things up a bit by, THIS week, trying to join a raid. You kinda have to raid, at...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/08/DCGame-2013-08-18-23-06-57-66-480x343.jpg" title="Hangin' with mah Supes" class="align-center" >}}
+
 
 Last week, we Spodians decided to shake things up a bit by, THIS week, trying to join a raid. You kinda have to raid, at some point. Almost every piece of gear costs Marks of Triumph, and the gear for the content you are doing typically requires a set number of marks. A typical Tier 3 "daily double" mission might give 150 marks; which isn't bad, except the T3 armor requires a couple thousand for each piece.
 
@@ -44,7 +21,7 @@ T3 raids, though, can give 500 or more marks per success. You can get the marks 
 
 The only solution: mixing in some raids on group night.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/08/DCGame-2013-08-18-22-42-47-53-480x343.jpg" title="Ray Gold" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/08/DCGame-2013-08-18-22-42-47-53-480x343.jpg" title="Ray Gold" classes="center" >}}
 
 The daily double mission was The League of Assassins Stronghold, starring our fave Batman villain, Ra's al Ghul (pronounced by the voice actor, Raze-al Gool, which was unique). This is one of the easiest T3 group missions and we didn't have any issues with it. If we hadn't spent so much time trying to get the in-game voice chat straightened out, we'd have been done-and-done half an hour in to our night.
 
@@ -64,7 +41,7 @@ KY said later he wasn't feeling great after a long weekend, but I tell ya, that 
 
 I spent the rest of the night hunting exobits, doing races, and working through some Atlantean invasion questline I stumbled upon, duoing with another Lantern.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/08/LAIR_FLOORPLAN_01_MATINEE-PC-19-07.55.430-480x300.jpg" title="The Teal Lantern?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/08/LAIR_FLOORPLAN_01_MATINEE-PC-19-07.55.430-480x300.jpg" title="The Teal Lantern?" classes="center" >}}
 
 I paid station cash for green energy weapons to go along with the whole Green Lantern thing. Problem was, I play a TEAL Lantern, who represents "awkwardness" on the emotional spectrum. So for the time being, I reluctantly rejoined the Green Lantern Corps just so I could wear an outfit matching my hard light constructs. I'm the only one of Team Spode who hasn't won an aura yet, so I don't actually know what color my final outfit will be. This will do until then, though -- it would be nice if my constructs could be TEAL instead of green.
 

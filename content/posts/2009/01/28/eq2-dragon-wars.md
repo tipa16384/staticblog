@@ -3,44 +3,22 @@ date: '2009-01-28T08:00:33-05:00'
 draft: false
 title: "EQ2: Dragon Wars"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/01/28/eq2-dragon-wars/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This isn't Veeshan's Peak. That's Thomas Lionblood, the Friendly Necromancer, on the left, though...."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Nexona"
   - "Silverwing"
   - "Taskmaster"
   - "Veeshan's Peak"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg"
 ---
+This isn't Veeshan's Peak. That's Thomas Lionblood, the Friendly Necromancer, on the left, though....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-25-00-13-31-29.jpg "wizardgraphicalclient-2009-01-25-00-13-31-29")
+
 
 *This isn't Veeshan's Peak. That's Thomas Lionblood, the Friendly Necromancer, on the left, though.*
 
@@ -56,13 +34,13 @@ Some of you may be wondering where the last of the Adventures in Monopoly: Darkf
 
 So even though we raided Sunday and cleared three more dragons -- dragons required for eventual access to Trakanon's Lair, I didn't go. I signed up for three nights a week, and at least for myself, that's as much time as I can spend playing just one game.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-24-21-46-16-11.jpg "everquest2-2009-01-24-21-46-16-11")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-24-21-46-16-11.jpg" title="everquest2-2009-01-24-21-46-16-11" classes="center" >}}
 
 Given all that, it was really, really satisfying to finally kill Nexona. We used the same strats as before, but this time, it just worked. When raids work, it's almost boring. Well, actually, it isn't all that thrilling for a support class like myself; my job is basically to keep my raid wide arcane resists up and to sing Perfection of the Maestro as often as I can, cast Jester on people that are about to cast a long-refresh spell, and help out on the shiny killing when needed. But it's great to be part of a team that is working together.
 
 I don't remember what she dropped. I haven't been rolling on the armor patterns that drop, but since I haven't been doing enough TSO dungeons to gear up in the latest expansion, I should really start trying to get some.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-24-22-32-51-56.jpg "everquest2-2009-01-24-22-32-51-56")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-24-22-32-51-56.jpg" title="everquest2-2009-01-24-22-32-51-56" classes="center" >}}
 
 Nexona's death opened up the second wing of Veeshan's Peak.
 
@@ -80,7 +58,7 @@ Last night we tried him again, and he died.
 
 I'd love to think I had something to do with that, but probably it was, again, just learning how to work as a team. The real kudos likely belong to the healers who managed to keep everyone mostly vertical during the fight.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/silverwing.jpg "silverwing")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/silverwing.jpg" title="silverwing" classes="center" >}}
 
 *Hey, look, EQ2 COMES with a screenshot button! Who needs FRAPS?*
 

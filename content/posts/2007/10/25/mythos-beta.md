@@ -3,40 +3,17 @@ date: '2007-10-25T01:03:30-05:00'
 draft: false
 title: "Mythos Beta"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/25/mythos-beta/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't know whether to thank JoBildo or not for sending me a Mythos beta key just when I'd resubscribed to Dungeon Runners. Both are..."
+categories:
   - "MMORPG"
   - "Mythos"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/mythos-nash2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/mythos-nash2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/mythos-nash2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/mythos-nash2.jpg"
 ---
+I don't know whether to thank JoBildo or not for sending me a Mythos beta key just when I'd resubscribed to Dungeon Runners. Both are...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/mythos-nash2.jpg)
+
 
 I don't know whether to thank JoBildo or not for sending me a Mythos beta key just when I'd resubscribed to Dungeon Runners. Both are point-and-click kill fests, but where Dungeon Runners takes the Diablo 2 formula a little toward the MMO world, Mythos unashamedly brings the legendary dungeon hack to the present day. I haven't run DR once since I installed Mythos...
 
@@ -64,7 +41,7 @@ Climb the tree. Each character is unique -- mine specializes in AE melee attacks
 
 Mythos is anything but a hard game. Casual chat among the other players show character building as a high art -- and after awhile, every character essentially becomes a god of monster death, killing by their very presence.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/mythos-fight.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/mythos-fight.jpg" classes="center" >}}
 
 *Creepy...*
 

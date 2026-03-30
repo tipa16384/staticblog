@@ -3,38 +3,15 @@ date: '2015-01-05T05:42:25-05:00'
 draft: false
 title: "Valkyria Chronicles: Grinding levels."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/05/valkyria-chronicles-grinding-levels-i-think-the-problems-ive-been-having-battling-the-batomys-dreadnought/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Valkyria Chronicles: Grinding levels...."
+categories:
   - "Other Games"
   - "Valkyria Chronicles"
-featured_image: "https://lh3.googleusercontent.com/-8qGA2cddApM/VKohgpASGxI/AAAAAAAA-NQ/WsMsSZOzOLQ/w506-h750/Valkyria%2B2015-01-04%2B21-49-12-16.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-8qGA2cddApM/VKohgpASGxI/AAAAAAAA-NQ/WsMsSZOzOLQ/w506-h750/Valkyria%2B2015-01-04%2B21-49-12-16.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-8qGA2cddApM/VKohgpASGxI/AAAAAAAA-NQ/WsMsSZOzOLQ/w506-h750/Valkyria%2B2015-01-04%2B21-49-12-16.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-8qGA2cddApM/VKohgpASGxI/AAAAAAAA-NQ/WsMsSZOzOLQ/w506-h750/Valkyria%2B2015-01-04%2B21-49-12-16.jpg"
 ---
+Valkyria Chronicles: Grinding levels....
+<!--more-->
 
 Valkyria Chronicles: Grinding levels.
 
@@ -48,6 +25,8 @@ Back to the cheat guide. As with all the ones before, if your strategy (for the 
 
 I leveled scout, shocktrooper, lancer and sniper to level 8. Once more should get my engineers to 8 as well. Then I'll head back into the desert with lancers that can actually hit where they aim.
 
-[#ValkyriaChronicles](https://plus.google.com/s/%23ValkyriaChronicles)  ﻿[![](https://lh3.googleusercontent.com/-8qGA2cddApM/VKohgpASGxI/AAAAAAAA-NQ/WsMsSZOzOLQ/w506-h750/Valkyria%2B2015-01-04%2B21-49-12-16.jpg)]()
+[#ValkyriaChronicles](https://plus.google.com/s/%23ValkyriaChronicles)  ﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/2KwWtQ4w3sS)

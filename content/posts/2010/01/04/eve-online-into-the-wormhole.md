@@ -3,40 +3,17 @@ date: '2010-01-04T07:13:49-05:00'
 draft: false
 title: "EVE Online: Into the Wormhole"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/04/eve-online-into-the-wormhole/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Into the whirlpool, where matter vanishes..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/ExeFile-2010-01-03-01-01-50-47.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/ExeFile-2010-01-03-01-01-50-47.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/ExeFile-2010-01-03-01-01-50-47.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/ExeFile-2010-01-03-01-01-50-47.jpg"
 ---
+Into the whirlpool, where matter vanishes...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/ExeFile-2010-01-03-01-01-50-47.jpg "At our POS in the wormhole")
+
 
 > Into the whirlpool, where matter vanishes
 
@@ -66,7 +43,7 @@ It's a really great feeling to approach a player station with its shields up and
 
 I smuggled my Dominix and my alt's Prophecy into the wormhole, intent on clearing out some of the Sleeper complexes for the salvage. Last time I came, I paired the Prophecy with my Myrmidon battlecruiser, and did fairly well. Against the sleepers this time, though, my Dominix could barely touch them. I spent thousands of Antimatter L rounds clearing the place, and lots about ten drones. The Prophecy took all the aggro every time it got in range. It wasn't good fun.
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/ExeFile-2010-01-04-06-58-25-24.jpg "Stuck inside a wormhole...")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/ExeFile-2010-01-04-06-58-25-24.jpg" title="Stuck inside a wormhole..." classes="center" >}}
 
 If I was going to solo the sleepers, I'd either need to go back to the Myrmidon/Prophecy pairing (which did work fine), or make a new ship. Well, I can STILL do the battlecruiser duo, but I almost never turn away an opportunity to try out a new ship design.
 

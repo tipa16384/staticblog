@@ -3,43 +3,22 @@ date: '2021-08-31T07:31:23-05:00'
 draft: false
 title: "Blaugust 2021 -- That's a Wrap!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/31/blaugust-2021-thats-a-wrap/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
+summary: "It's been a month of blog posts! Maybe a little more, since I started posting daily a little before August in order to get in..."
+categories:
+  - "Blaugust"
 tags:
   - "Blaugust"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/Blaugust2021-Logo-800.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/Blaugust2021-Logo-800.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/Blaugust2021-Logo-800.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/Blaugust2021-Logo-800.png"
 ---
+It's been a month of blog posts! Maybe a little more, since I started posting daily a little before August in order to get in...
+<!--more-->
 
 It's been a month of blog posts! Maybe a little more, since I started posting daily a little before August in order to get in the routine. How'd I do? Let's take a look...
 
 **Final Fantasy 1 and 3 playthroughs**
 
-![](https://chasingdings.com/wp-content/uploads/2021/08/Final-Fantasy-USA_001.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/Final-Fantasy-USA_001.png" classes="center" >}}
 
 My idea for the month was just to post daily playthroughs of Final Fantasy 1. I thought these games would be longer... and I wondered if really focusing on a single game would be a good way to narrowly target my blog in a way that would make it a destination for these kinds of things. 
 
@@ -49,7 +28,7 @@ Pixel Remasters = pretty good. I even got used to the weird font.
 
 **Board Gaming**
 
-![](https://chasingdings.com/wp-content/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/fbbf63001a2354f8bc6e89c58b4a21f1_original.png" classes="center" >}}
 
 I have consistently gotten very little reader interaction on board games, or stories about my family and I playing them. I'm kind of sad about that, because I'd love to talk more about them.
 
@@ -57,7 +36,7 @@ I can totally understand this. Most people I know pretty much play video games a
 
 **MMOs on Google Trends**
 
-![](https://chasingdings.com/wp-content/uploads/2021/08/STP61286.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg" classes="center" >}}
 
 I got inspired by Google Trends and the whole Blizzard kerfuffle to try and figure out which MMOs were actually more popular than I thought. I had a hierarchy in my mind that had WoW on top, FFXIV coming closely second, and then everything else some huge distance beneath them. I also suspected that Crowfall and New World weren't as popular as the people I follow on Twitter would have me believe.
 
@@ -67,7 +46,7 @@ If true, and I'm not saying it is, WoW and FFXIV are not nearly as popular among
 
 **DCUO**
 
-![](https://chasingdings.com/wp-content/uploads/2021/08/HouseOfLegends.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/HouseOfLegends.jpg" classes="center" >}}
 
 DCUO is the MMO I play most frequently, and it's been the topic of most of my posts that discuss MMOs.
 
@@ -75,7 +54,7 @@ I was able to test the House of Legends episode before it was released to the pu
 
 **Superhero MMOs in General**
 
-![](https://chasingdings.com/wp-content/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/cityofheroes-2007-12-01-12-05-32-84.jpg" classes="center" >}}
 
 If I were going to focus on just one thing with my blog, it would be superhero MMOs. They are a tragically underserved sub-genre, and there's actually a lot of excitement in the area. DCUO is, arguably, the most financially successful (given we can never know the actual numbers), but several others are still chugging along, being revived, trying to make themselves outlets for different sorts of player power fantasies.
 

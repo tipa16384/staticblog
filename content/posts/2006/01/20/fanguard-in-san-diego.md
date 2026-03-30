@@ -3,38 +3,13 @@ date: '2006-01-20T00:00:00-05:00'
 draft: false
 title: "Fanguard in San Diego"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/20/fanguard-in-san-diego/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Sigil Games is holding another Fanguard here in San Diego. I've been interested in Vanguard: Saga of Heroes for awhile, but my time was filled..."
+categories:
   - "MMORPG"
   - "Vanguard"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Sigil Games is holding another Fanguard here in San Diego. I've been interested in Vanguard: Saga of Heroes for awhile, but my time was filled...
+<!--more-->
 
 [Sigil Games](http://www.sigilgames.com/) is holding another [Fanguard](http://www.vanguardsoh.com/forums/showthread.php?threadid=32760&mode=linear&perpage=40&pagenumber=1) here in San Diego. I've been interested in [Vanguard: Saga of Heroes](http://www.vanguardsoh.com/) for awhile, but my time was filled with other games. Now, temporarily not playing EQ, and with the WoW bug waning, I have time.
 

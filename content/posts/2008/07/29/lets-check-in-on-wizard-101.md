@@ -3,50 +3,28 @@ date: '2008-07-29T01:09:53-05:00'
 draft: false
 title: "Let's check in on Wizard 101..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/29/lets-check-in-on-wizard-101/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm not supposed to be in Marleybone. I'm supposed to be mediating the eons-old feud between the Djesserit and Anjit clans of Kroks, a feud..."
+categories:
   - "Comic"
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Krokotopia"
   - "Marleybone"
   - "Mooshu"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/wizardcomic.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/wizardcomic.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/wizardcomic.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/wizardcomic.jpg"
 ---
+I'm not supposed to be in Marleybone. I'm supposed to be mediating the eons-old feud between the Djesserit and Anjit clans of Kroks, a feud...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/wizardcomic.jpg "wizardcomic")
+
 
 I'm not supposed to be in Marleybone. I'm supposed to be mediating the eons-old feud between the Djesserit and Anjit clans of Kroks, a feud that started over where someone was to be buried. The Kroks are so focused on death, they love nothing else so much as the touch of the grave.
 
 It's depressing.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/wizardgraphicalclient-2008-07-28-06-33-12-89.jpg "wizardgraphicalclient-2008-07-28-06-33-12-89")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/wizardgraphicalclient-2008-07-28-06-33-12-89.jpg" title="wizardgraphicalclient-2008-07-28-06-33-12-89" classes="center" >}}
 
 That's Tara in front of the portal to the Tomb of Storms, the final zone in the world of Krokotopia. That's my work outfit, the one I use to get things done. Notice it is covered with the Sigil of Myth. My entire outfit is in the blue and gold of the Myth school. So when people ask me what kind of wizard I am, I usually say Fire.
 
@@ -60,15 +38,15 @@ I did a bunch of quests in Marleybone, and have finally started the storyline qu
 
 Okay, I'll stop.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/wizardgraphicalclient-2008-07-28-07-18-43-14.jpg "wizardgraphicalclient-2008-07-28-07-18-43-14")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/wizardgraphicalclient-2008-07-28-07-18-43-14.jpg" title="wizardgraphicalclient-2008-07-28-07-18-43-14" classes="center" >}}
 
 Since I last wrote, everyone has pretty much discovered how to set their account so they can use Dictionary Chat -- where you can write freely, as long as every single word is in their dictionary. Aside from such puzzling omissions as "one", "two", "three" and the like (though the ordinal numbers "first", "second", "third" and so on are okay) conversation is more fluid. Someone still using the choose-a-phrase menus are seen as quaint. But there is still censorship, of a sort. Big words are simply not there. You can say what you like most of the time, as long as you use little words.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/wizardgraphicalclient-2008-07-28-07-36-57-71.jpg "wizardgraphicalclient-2008-07-28-07-36-57-71")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/wizardgraphicalclient-2008-07-28-07-36-57-71.jpg" title="wizardgraphicalclient-2008-07-28-07-36-57-71" classes="center" >}}
 
 Battles are still fairly lengthy and somewhat tedious; there's no such thing as just wading through trash or ignoring fights. If you get too close to any mob, it will force you into a circle and begin to attack. And all you can do is pull out your wand and deck of cards and play it through. Because of the design of the circle, you can only meet four mobs at once. Before the patch, they would line them up in ranks if they needed more. Now they just open a door to another fight. And another fight. And another fight. The fight in the picture above was one such; we must have done a dozen cookie-cutter fights before we hit a mini-boss, after which I had to go to work. You get low on power and health and have to take quick trips back to the city to plat mini games for health and mana once your potions have run out. These long fight series would be impossible alone. Eventually you would have to leave to regain health and mana... and then you would have to start over again.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/wizardgraphicalclient-2008-07-28-07-06-35-26.jpg "wizardgraphicalclient-2008-07-28-07-06-35-26")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/wizardgraphicalclient-2008-07-28-07-06-35-26.jpg" title="wizardgraphicalclient-2008-07-28-07-06-35-26" classes="center" >}}
 
 And that's where I am, and where I am supposed to be. In the Tomb of Storms. I have to solve the Anjit clan's problems, then do the Emperor's Retreat -- an instance you have to complete in one session (I think) that has some fights impossible to solo, and then the Temple of Storms which I have not unlocked, and a blocked tunnel which goes I don't know where.
 

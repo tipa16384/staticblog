@@ -3,48 +3,25 @@ date: '2012-10-20T07:18:51-05:00'
 draft: false
 title: "Game Log: Pirate101, Diablo3"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/20/game-log-pirate101-diablo3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "From the moment I first saw them, I've been blown away by Pirate101's cinematics. These aren't 3D rendered with lots of dramatic camera angles and..."
+categories:
   - "Diablo 3"
   - "MMORPG"
   - "Other Games"
   - "Pirate101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg"
 ---
+From the moment I first saw them, I've been blown away by Pirate101's cinematics. These aren't 3D rendered with lots of dramatic camera angles and...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-19-22-31-46-93-480x384.jpg" title="Who built those mysterious ruins, anyway?" class="align-center" >}}
+
 
 From the moment I first saw them, I've been blown away by Pirate101's cinematics. These aren't 3D rendered with lots of dramatic camera angles and explosions. They're little puppet shows. HILARIOUS puppet shows, as in this one, where the monkey prelate Bishop Hidalgo is telling the story of how the gorilla Gortez went all Lord Jim/Heart of Darkness in these mysterious ruins and is now using a giant golden statue as his seat of power.
 
 If you're getting a "Planet of the Apes" vibe from this place, you're not wrong, because it turned out that this island was settled originally not by monkeys or gorillas, but by humans. They don't call it the Island of Doom for nothing, you know.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-19-22-32-32-22-480x384.jpg" title="Doom of Doom Island" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-19-22-32-32-22-480x384.jpg" title="Doom of Doom Island" classes="center" >}}
 
 It was named after Baron Ferdinand von Doom.
 
@@ -64,6 +41,6 @@ That might not be all that soon; I have a dozen side quests that I've put on hol
 
 Now pirate level 11, nautical level 6.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-20-07-47-56-41.jpg" title="One meeeeelion gold" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-20-07-47-56-41.jpg" title="One meeeeelion gold" classes="center" >}}
 
 Not much to report on the Diablo 3 side, but I have got my first million in the bank. It would be more, of course, if I didn't keep buying upgrades. DPS over 9K now, which, for a level 45 character, doth not sucketh.

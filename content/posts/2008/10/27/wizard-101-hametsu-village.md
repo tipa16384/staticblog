@@ -3,26 +3,11 @@ date: '2008-10-27T08:45:01-05:00'
 draft: false
 title: "Wizard 101: Hametsu Village"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/27/wizard-101-hametsu-village/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Finished Moo Shu's first quest hub, Hametsu Village. It's nice to have kinda-safe sidewalks to run around in; there's nothing more annoying than the Marleybone..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Hametsu Village"
   - "Knight's Court"
   - "Krokotopia"
@@ -30,20 +15,14 @@ tags:
   - "Moo Shu"
   - "Tatakai Outpost"
   - "W101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg"
 ---
+Finished Moo Shu's first quest hub, Hametsu Village. It's nice to have kinda-safe sidewalks to run around in; there's nothing more annoying than the Marleybone...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-26-17-18-58-70.jpg "wizardgraphicalclient-2008-10-26-17-18-58-70")
+
 
 Finished Moo Shu's first quest hub, Hametsu Village. It's nice to have kinda-safe sidewalks to run around in; there's nothing more annoying than the Marleybone rooftops, where the middle of the roof is safe, most of the time. Unless the mobs have decided to use that roof to turn around, in which case -- grats on being chain-pulled into encounter after encounter.
 

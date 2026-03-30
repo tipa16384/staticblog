@@ -3,40 +3,17 @@ date: '2012-01-10T07:59:24-05:00'
 draft: false
 title: "STO: De-Borging the Manchester"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/10/sto-de-borging-the-manchester/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Star Trek Online may have unique story missions, the genre's best capital starship battles and a kinda fun \"select and dress your crew\" mini-game, but..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-09-22-00-01-00-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-09-22-00-01-00-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-09-22-00-01-00-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-09-22-00-01-00-480x384.jpg"
 ---
+Star Trek Online may have unique story missions, the genre's best capital starship battles and a kinda fun "select and dress your crew" mini-game, but...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-09-22-00-01-00-480x384.jpg" title="Making M.A.C.O." class="align-center" >}}
+
 
 Star Trek Online may have unique story missions, the genre's best capital starship battles and a kinda fun "select and dress your crew" mini-game, but the end-game is the same as it is for many MMOs: repeating end game missions on normal mode for tokens with which to buy advanced gear to do heroic mode instances and raids.
 

@@ -3,37 +3,12 @@ date: '2008-01-21T13:12:30-05:00'
 draft: false
 title: "Death and Command Lines"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/21/death-and-command-lines/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Perhaps because I learned last night of the sad death of Adam Messer, an old friend and coworker from Digital Research (of cancer, which claimed..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Perhaps because I learned last night of the sad death of Adam Messer, an old friend and coworker from Digital Research (of cancer, which claimed...
+<!--more-->
 
 Perhaps because I learned last night of the sad [death of Adam Messer](http://www.legacy.com/MOBILE/DeathNotices.asp?Page=Notice&PersonID=101346006), an old friend and coworker from [Digital Research](http://en.wikipedia.org/wiki/Digital_Research) (of cancer, which claimed both my parents and will likely claim me), I dreamed (as I have before) that I was back there, in Monterey, working at DRI again.
 

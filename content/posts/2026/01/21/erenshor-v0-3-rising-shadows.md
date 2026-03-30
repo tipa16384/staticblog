@@ -3,39 +3,16 @@ date: '2026-01-21T08:34:36-05:00'
 draft: false
 title: "Erenshor v0.3: \"Rising Shadows\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2026/01/21/erenshor-v0-3-rising-shadows/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I hit max level in Erenshor, and BurgeeMedia immediately drops a whole new update full of cool stuff. Coincidence? Maybe!"
-description: "I hit max level in Erenshor, and BurgeeMedia immediately drops a whole new update full of cool stuff. Coincidence? Maybe!"
-tags:
+categories:
   - "Erenshor"
   - "MMORPG"
   - "Steam Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/20260120210322_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2026/01/20260120210322_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/20260120210322_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/20260120210322_1.jpg"
 ---
+I hit max level in Erenshor, and BurgeeMedia immediately drops a whole new update full of cool stuff. Coincidence? Maybe!
+<!--more-->
 
 If you drop off for a week or a month or a season in a normal MMO, there's a good chance that the friends you made won't be there any longer, your guild may have dumped you, the game itself will have moved on and left you behind.
 
@@ -43,7 +20,7 @@ Not so with Erenshor! Pick it up six months later and your friends will have kin
 
 Erenshor's world is an open one. It's easy to get to a place too dangerous for you. I'd failed hard in Fallen Braxonia and the Blight (that last because, like in Rottenfoot, a wandering dragon wants to ruin your day as it ruined mine). But there were some solid experience spots -- I made several levels in Abyssal Lake, and finally hit 35 in the Ripper's Keep Mysterious Portal. Infinitely respawning mobs, not too hard to kill. I popped an XP potion and settled in. I had to keep resetting Eron, the puller/tank. He'd get lost or tied up. Eventually he refused to autopull, so I had to direct him to pull specific mobs, but we got there -- we all did. All of my usual team are level 35.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2026/01/20260120223628_1-1024x576.jpg" title="This is my boomstick!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2026/01/20260120223628_1-1024x576.jpg" title="This is my boomstick!" classes="center" >}}
 
 We immediately headed back to town (taking on another nemesis, Savannah Priel, along the way), sold and banked stuff, then headed in to Vitheo's Rest to finally put the shade to his final, final rest. And this time he had the Apotheosis equipped -- the glowy staff I've coveted since I saw it on a twink many, many levels ago but could not afford to buy from the auction house. MINE NOW. And l farmed it legit, so there.
 

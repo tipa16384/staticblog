@@ -3,39 +3,16 @@ date: '2006-01-19T00:00:00-05:00'
 draft: false
 title: "Pluto Mission Away!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/19/pluto-mission-away/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After two delays and controversy over the plutonium shipped along with the probe, New Horizons lifted off today on the first leg of its ten-year..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/images/141078main_liftoff.jpg"
-cover:
-  image: "https://chasingdings.com/images/141078main_liftoff.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/141078main_liftoff.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/141078main_liftoff.jpg"
 ---
+After two delays and controversy over the plutonium shipped along with the probe, New Horizons lifted off today on the first leg of its ten-year...
+<!--more-->
 
-![](https://chasingdings.com/images/141078main_liftoff.jpg)
+
 
 After two delays and controversy over the plutonium shipped along with the probe, [New Horizons](http://www.nasa.gov/mission_pages/newhorizons/main/index.html) lifted off today on the first leg of its ten-year trip to Pluto, Charon (pronounced SHAHR-ON I found out this morning, not KARE-on, as I'd pronounced it), and the two smaller moons recently discovered.
 

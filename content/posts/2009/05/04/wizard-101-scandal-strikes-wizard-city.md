@@ -3,40 +3,17 @@ date: '2009-05-04T14:00:31-05:00'
 draft: false
 title: "Wizard 101: Scandal strikes Wizard City"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/04/wizard-101-scandal-strikes-wizard-city/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Agent Provocateur Eggbert defies Wizard City planners by giving out free Summer Dragons..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/w101shockingnews.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/w101shockingnews.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/w101shockingnews.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/w101shockingnews.jpg"
 ---
+Agent Provocateur Eggbert defies Wizard City planners by giving out free Summer Dragons...
+<!--more-->
 
-![w101shockingnews](https://chasingdings.com/wp-content/uploads/2009/05/w101shockingnews.jpg "w101shockingnews")
+
 
 *Agent Provocateur Eggbert defies Wizard City planners by giving out free Summer Dragons*
 

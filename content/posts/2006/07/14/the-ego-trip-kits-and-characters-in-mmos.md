@@ -3,41 +3,16 @@ date: '2006-07-14T00:00:00-05:00'
 draft: false
 title: "The Ego Trip: Kits and Characters in MMOs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/14/the-ego-trip-kits-and-characters-in-mmos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What is it that is exactly the same about every single vacation you have ever taken? You! You're the same. No matter where you go,..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/threerogues.jpg"
-cover:
-  image: "https://chasingdings.com/images/threerogues.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/threerogues.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/threerogues.jpg"
 ---
+What is it that is exactly the same about every single vacation you have ever taken? You! You're the same. No matter where you go,...
+<!--more-->
 
 > *What is it that is exactly the same about every single vacation you have ever taken? You! You're the same. No matter where you go, there you are. It's always the same old you. Let me suggest that you take a vacation from yourself. I-I know it sounds wild. It is the latest thing in travel. We call it the Ego Trip.* - Total Recall
-
-![](https://chasingdings.com/images/threerogues.jpg)
 
 But sometimes, I *want* it to be the same. Three rogues, three games; all short, sneaky, mischievous, stabby, hard to find, and deadly. And I've been playing her since 1979.
 

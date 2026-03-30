@@ -3,40 +3,17 @@ date: '2009-06-10T19:08:51-05:00'
 draft: false
 title: "Wizard 101 to let adults talk freely in game!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/10/wizard-101-to-let-adults-talk-freely-in-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One of the most frustrating things in Wizard 101 is the inability to speak freely. Wizard 101 uses a \"dictionary\" chat system, which only allows..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/wizardgraphicalclient-2009-06-10-19-06-13-92.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/wizardgraphicalclient-2009-06-10-19-06-13-92.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/wizardgraphicalclient-2009-06-10-19-06-13-92.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/wizardgraphicalclient-2009-06-10-19-06-13-92.jpg"
 ---
+One of the most frustrating things in Wizard 101 is the inability to speak freely. Wizard 101 uses a "dictionary" chat system, which only allows...
+<!--more-->
 
-![What I MEANT to say was ... the ... and ... the .... in ... rounds.](https://chasingdings.com/wp-content/uploads/2009/06/wizardgraphicalclient-2009-06-10-19-06-13-92.jpg "What I MEANT to say was ... the ... and ... the .... in ... rounds.")
+
 
 One of the most frustrating things in Wizard 101 is the inability to speak freely. Wizard 101 uses a "dictionary" chat system, which only allows words in that dictionary, and things like numbers, names of states or anything else that might be used to easily identify or locate someone, replaced with an ellipsis (...).
 

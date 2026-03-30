@@ -3,46 +3,25 @@ date: '2008-10-01T12:00:35-05:00'
 draft: false
 title: "W101: Krokosphinx and October 1 patch notes"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/01/w101-krokosphinx-and-october-1-patch-notes/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After being a one-wizard elimination team on the Niriki royalty, it turned out it was all for nothing. Professor Winthrop told me with an astonished..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Krokosphinx"
   - "Krokotopia"
   - "Patch Notes"
   - "Temple of Storm"
   - "The Map Room"
   - "W101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg"
 ---
+After being a one-wizard elimination team on the Niriki royalty, it turned out it was all for nothing. Professor Winthrop told me with an astonished...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-01-00-34-18-86.jpg "wizardgraphicalclient-2008-10-01-00-34-18-86")
+
 
 After being a one-wizard elimination team on the Niriki royalty, it turned out it was all for nothing. Professor Winthrop told me with an astonished tone that the missing Order of the Fang was on an *entirely different island*. Not in the Pyramid of the Sun *at all*, it turns out.
 
@@ -54,7 +33,7 @@ All those hours, all those endless card battles, all of that -- and I was on the
 
 Sadly, that is the case. And now, would you hurry along to the Krokosphinx and get on with the killing?
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-09-30-22-54-15-30.jpg "wizardgraphicalclient-2008-09-30-22-54-15-30")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-09-30-22-54-15-30.jpg" title="wizardgraphicalclient-2008-09-30-22-54-15-30" classes="center" >}}
 
 How do I know that the real evil won't actually be on that mysterious looking Temple of Storm island nobody is talking about yet? Why can't I just skip right there? HUH?
 

@@ -3,41 +3,19 @@ date: '2012-01-11T00:28:28-05:00'
 draft: false
 title: "DDO: Buying Time"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/11/ddo-buying-time/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "None of Team Spode much liked working so hard on In The Flesh and failing it Sunday. We were so close, but we were just..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-10-23-25-52-06-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-10-23-25-52-06-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-10-23-25-52-06-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-10-23-25-52-06-480x383.jpg"
 ---
+None of Team Spode much liked working so hard on In The Flesh and failing it Sunday. We were so close, but we were just...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-10-23-25-52-06-480x383.jpg" title="Auraxyllon" class="align-center" >}}
+
 
 None of Team Spode much liked working so hard on In The Flesh and failing it Sunday. We were so close, but we were just out of time. We decided to meet mid-week and try it again -- on normal mode -- to finish the quest series and get the rewards.
 

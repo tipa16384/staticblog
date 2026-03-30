@@ -3,61 +3,39 @@ date: '2021-09-23T20:34:37-05:00'
 draft: false
 title: "GTI Racer: When Physical Media... isn't."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/09/23/gti-racing-when-physical-media-isnt-i/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I drive a VW GTI. My son drives a VW GTI. I have owned many VWs over the years. I bought GTI Racer for the..."
+categories:
   - "Steam Games"
+tags:
   - "Beetle Adventure Racing"
   - "GTI"
   - "Gti Racer"
   - "Racing"
   - "Steam"
   - "Volkswagen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/itsalie.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/09/itsalie.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/itsalie.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/itsalie.png"
 ---
+I drive a VW GTI. My son drives a VW GTI. I have owned many VWs over the years. I bought GTI Racer for the...
+<!--more-->
 
 I drive a VW GTI. My son drives a VW GTI. I have owned many VWs over the years. I bought GTI Racer for the PC. The box is in good condition. The disk is in good condition. But even though I have a physical copy of the game with all the bits, I don't actually have the game.
 
 GTI Racer outsmarted me good.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/1-IMG_2333.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/1-IMG_2333.jpg)GTI Racer, complete in the original packaging
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/1-IMG_2333.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/1-IMG_2333.jpg)GTI Racer, complete in the original packaging
 
 I found this at the Retro Game Shop down in Newington (Connecticut, for those of you with inferior Newingtons). With games this old (it was originally published in 2006), I wouldn't have been entirely shocked if I'd gotten it home and it just... didn't run. With all the GTI love in the family, it was going to be worth the chance that it *would* run.
 
 But check this out... this should have been my first clue.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/2-IMG_2334.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/2-IMG_2334.jpg)Disk and "manual"
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2334.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/2-IMG_2334.jpg)Disk and "manual"
 
 That serial number. Sure looks like a digital download code, doesn't it?
 
 The disk contains nothing but an installer for Steam. That's it. That's all that is on the disk.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/image-9.png)](https://chasingdings.com/wp-content/uploads/2021/09/image-9.png)What happens when you try to install.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/image-9.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/image-9.png)What happens when you try to install.
 
 There's a couple of other installers -- "instmsi.exe" attempts to install it for Windows 95, and "instmsiw.exe" attempts to install it for a version of Windows meant for Europe, I believe. I couldn't get either to work, even in compatibility mode.
 

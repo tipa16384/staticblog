@@ -3,44 +3,22 @@ date: '2009-03-13T07:22:39-05:00'
 draft: false
 title: "Wizard 101: St. Patty's day -- and new Crowns items!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/13/wizard-101-st-pattys-day-and-new-crowns-items/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A funny little man dressed in green dragged me to my computer. \"Log in! To Wizard 101!\" he insisted. And when I started to do..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Crowns"
   - "Dragonspyre"
   - "Mooshu"
   - "RMT"
   - "St. Patrick's Day"
   - "Zeke the Prospector"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg"
 ---
+A funny little man dressed in green dragged me to my computer. "Log in! To Wizard 101!" he insisted. And when I started to do...
+<!--more-->
 
 A funny little man dressed in green dragged me to my computer. "Log in! To Wizard 101!" he insisted. And when I started to do just that, he slapped my hands rudely from the keyboard. "No! Log in to the TEST SERVER! There all the new St. Patty's Day things you will see!"
 
@@ -52,40 +30,38 @@ First, St. Patty's new wands. That's right, no new clothes from him, and the St.
 
 The wands cast Life magic, and as is usual now, come in different powers for different levels, so you can always find a wand that's good for your level. Wand? Heck, you can get an IRISH HARP!
 
-![wizardgraphicalclient-2009-03-13-07-34-54-60](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg "wizardgraphicalclient-2009-03-13-07-34-54-60")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-36-95.jpg" title="wizardgraphicalclient-2009-03-13-07-35-36-95" classes="center" >}}
 
-![wizardgraphicalclient-2009-03-13-07-35-36-95](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-36-95.jpg "wizardgraphicalclient-2009-03-13-07-35-36-95")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-25-49.jpg" title="wizardgraphicalclient-2009-03-13-07-35-25-49" classes="center" >}}
 
-![wizardgraphicalclient-2009-03-13-07-35-25-49](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-25-49.jpg "wizardgraphicalclient-2009-03-13-07-35-25-49")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-20-53.jpg" title="wizardgraphicalclient-2009-03-13-07-35-20-53" classes="center" >}}
 
-![wizardgraphicalclient-2009-03-13-07-35-20-53](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-20-53.jpg "wizardgraphicalclient-2009-03-13-07-35-20-53")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-14-93.jpg" title="wizardgraphicalclient-2009-03-13-07-35-14-93" classes="center" >}}
 
-![wizardgraphicalclient-2009-03-13-07-35-14-93](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-14-93.jpg "wizardgraphicalclient-2009-03-13-07-35-14-93")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-08-65.jpg" title="wizardgraphicalclient-2009-03-13-07-35-08-65" classes="center" >}}
 
-![wizardgraphicalclient-2009-03-13-07-35-08-65](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-08-65.jpg "wizardgraphicalclient-2009-03-13-07-35-08-65")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-04-72.jpg" title="wizardgraphicalclient-2009-03-13-07-35-04-72" classes="center" >}}
 
-![wizardgraphicalclient-2009-03-13-07-35-04-72](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-35-04-72.jpg "wizardgraphicalclient-2009-03-13-07-35-04-72")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-58-82.jpg" title="wizardgraphicalclient-2009-03-13-07-34-58-82" classes="center" >}}
 
-![wizardgraphicalclient-2009-03-13-07-34-58-82](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-58-82.jpg "wizardgraphicalclient-2009-03-13-07-34-58-82")
-
-![wizardgraphicalclient-2009-03-13-07-34-54-60](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg "wizardgraphicalclient-2009-03-13-07-34-54-60")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-34-54-60.jpg" title="wizardgraphicalclient-2009-03-13-07-34-54-60" classes="center" >}}
 
 The Prospector Zeke in Dragonspyre now sells level 45+ Crowns clothes, athames and rings. These are unusual in that they are not specifically an UPGRADE from the level 35+ items sold in Moo Shu, and they are certainly well below the level of many ordinary drops in Dragonspyre itself. Is this an effort to make the Crowns items less of a "must buy" for each new world? It's likely -- but it's weird that they aren't a real upgrade from the Moo Shu stuff.
 
 I've bought the Moo Shu crown clothes, so here's a comparison between the stuff from Moo Shu and the corresponding Dragonspyre stuff. Click on the images to see them full-size.
 
-[![wizardgraphicalclient-2009-03-13-07-39-19-14](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-39-19-14-225x225.jpg "wizardgraphicalclient-2009-03-13-07-39-19-14")](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-39-19-14.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-39-19-14-225x225.jpg" title="wizardgraphicalclient-2009-03-13-07-39-19-14" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-39-19-14.jpg)
 
-[![wizardgraphicalclient-2009-03-13-07-39-45-61](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-39-45-61-225x225.jpg "wizardgraphicalclient-2009-03-13-07-39-45-61")](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-39-45-61.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-39-45-61-225x225.jpg" title="wizardgraphicalclient-2009-03-13-07-39-45-61" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-39-45-61.jpg)
 
-[![wizardgraphicalclient-2009-03-13-07-40-17-29](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-17-29-225x225.jpg "wizardgraphicalclient-2009-03-13-07-40-17-29")](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-17-29.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-17-29-225x225.jpg" title="wizardgraphicalclient-2009-03-13-07-40-17-29" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-17-29.jpg)
 
-[![wizardgraphicalclient-2009-03-13-07-40-32-41](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-32-41-225x225.jpg "wizardgraphicalclient-2009-03-13-07-40-32-41")](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-32-41.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-32-41-225x225.jpg" title="wizardgraphicalclient-2009-03-13-07-40-32-41" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-32-41.jpg)
 
-[![wizardgraphicalclient-2009-03-13-07-40-44-35](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-44-35-225x225.jpg "wizardgraphicalclient-2009-03-13-07-40-44-35")](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-44-35.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-44-35-225x225.jpg" title="wizardgraphicalclient-2009-03-13-07-40-44-35" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-44-35.jpg)
 
-[![wizardgraphicalclient-2009-03-13-07-40-58-50](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-58-50-225x225.jpg "wizardgraphicalclient-2009-03-13-07-40-58-50")](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-58-50.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-58-50-225x225.jpg" title="wizardgraphicalclient-2009-03-13-07-40-58-50" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-13-07-40-58-50.jpg)
 
 .... and lastly, thanks to Kasul and Beckett's MMO Magazine, a glowy staff :)
 
-![wizardgraphicalclient-2009-03-12-18-30-52-67](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-12-18-30-52-67.jpg "wizardgraphicalclient-2009-03-12-18-30-52-67")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-12-18-30-52-67.jpg" title="wizardgraphicalclient-2009-03-12-18-30-52-67" classes="center" >}}

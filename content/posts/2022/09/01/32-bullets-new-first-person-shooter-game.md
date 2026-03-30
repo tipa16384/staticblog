@@ -3,43 +3,21 @@ date: '2022-09-01T07:00:00-05:00'
 draft: false
 title: "Creating \"32 Bullets\" -- an AI adventure."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/01/32-bullets-new-first-person-shooter-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "In \"32 Bullets\", you play as a professional hitman with only 32 bullets to complete 32 contracts. The catch is that you must complete them all within a certain amount of time."
-description: "In \"32 Bullets\", you play as a professional hitman with only 32 bullets to complete 32 contracts. The catch is that you must complete them all within a certain amount of time."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "First Person Shooter"
   - "OpenAI"
+tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Twitch"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/32bulletsbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/32bulletsbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/32bulletsbanner.png"
 ---
+In "32 Bullets", you play as a professional hitman with only 32 bullets to complete 32 contracts. The catch is that you must complete them all within a certain amount of time.
+<!--more-->
 
 I streamed the creation of this AI-assisted post to show the process of using GPT-3, DALL-E 2, and other tools to make something new. Ish. New-ish.
 
@@ -51,7 +29,7 @@ One shot, one kill. Each bullet is another chapter. Another life that you end.
 
 Your first victim is perhaps the most difficult. A senator hiding away in his penthouse suite. But with a well-placed shot, you take him down and begin your bloody journey through the city. With the senator dead, you move on to your next target - a criminal kingpin holed up in his mansion. Again, one shot is all it takes. You work your way through the city, taking out targets both large and small. Drug dealers, mobsters, corrupt politicians - no one is safe from your bullets. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/craiyon_205240_A_picture_of_32_bullets_against_a_white_background__studio_lighting.png" title="Best friends." class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_205240_A_picture_of_32_bullets_against_a_white_background__studio_lighting.png" title="Best friends." classes="fig-20" >}}
 
 With each kill, the clock ticks closer to zero. If the time runs out before the 32nd kill, your mission is a failure. And if you run out of bullets, well... that would be even worse. So make every shot count, and complete your contracts before time runs out. 
 

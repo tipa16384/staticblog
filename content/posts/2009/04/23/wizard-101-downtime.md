@@ -3,39 +3,16 @@ date: '2009-04-23T19:14:24-05:00'
 draft: false
 title: "Wizard 101 Downtime"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/23/wizard-101-downtime/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Saith the Wizard 101 prophets and prognosticators:..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "W101"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
 ---
+Saith the Wizard 101 prophets and prognosticators:...
+<!--more-->
 
 Saith the Wizard 101 prophets and prognosticators:
 

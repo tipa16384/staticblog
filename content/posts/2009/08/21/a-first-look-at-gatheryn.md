@@ -3,56 +3,33 @@ date: '2009-08-21T06:37:54-05:00'
 draft: false
 title: "A first look at Gatheryn"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/21/a-first-look-at-gatheryn/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Elymian Isles are a fabled land of peace and industry, where clockwork creations stamp noisily through the cobblestone streets while the populace engages in..."
+categories:
   - "Gatheryn"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/Gatheryn-2009-08-20-18-39-39-75.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/Gatheryn-2009-08-20-18-39-39-75.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-39-39-75.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-39-39-75.jpg"
 ---
+The Elymian Isles are a fabled land of peace and industry, where clockwork creations stamp noisily through the cobblestone streets while the populace engages in...
+<!--more-->
 
-![Gatheryn Logo](https://chasingdings.com/wp-content/uploads/2009/08/Gatheryn-2009-08-20-18-39-39-75.jpg "Gatheryn Logo")
+
 
 The Elymian Isles are a fabled land of peace and industry, where clockwork creations stamp noisily through the cobblestone streets while the populace engages in sundry pasttimes of strategy and skill to earn the silver coin of the realm.
 
 It's steampunk, it's minigames, it's [Gatheryn, the casual MMO from newcomers Mindfuse](http://www.mindfusegames.com/). Gatheryn went open beta yesterday to very little fanfare, but I got the news through Twitter and they couldn't keep me away. I've been looking forward to playing this game since I heard about it nearly a year ago. Steampunk and minigames? Yes!
 
-![Gatheryn character creator](https://chasingdings.com/wp-content/uploads/2009/08/Gatheryn-2009-08-20-18-41-52-88.jpg "Gatheryn character creator")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-41-52-88.jpg" title="Gatheryn character creator" classes="center" >}}
 
 Gatheryn is the first game I've played that is based on Simutronics' HeroEngine, the same game engine that will be used by Bioware's "Star Wars: The Old Republic". So the sorts of performance and customizability we see here can perhaps give us a clue of what to expect when SWTOR comes out.
 
 Gatheryn's character creator gives you an almost Vanguard-like ability to change all the minutiae of your body's measurements, from inter-eye width to average nosehair length, but comes up fairly short on clothing options, though the coloring palette will give you range to make your own, unique, look. The hairstyles were fairly extensive, and there's no reason to stick with natural hair colors. Want to make your hair look as if it were on fire? You can do that.
 
-![A clockwork welcomes me to the checkers table](https://chasingdings.com/wp-content/uploads/2009/08/Gatheryn-2009-08-20-18-51-28-13.jpg "A clockwork welcomes me to the checkers table")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-51-28-13.jpg" title="A clockwork welcomes me to the checkers table" classes="center" >}}
 
 Your first introduction to Elymia is a city similar to Victorian London, except with wider streets and less sewage, probably thanks to the aid of the clockwork helpers scattered about. The clockwork above welcomes me to a small park full of tables with Draughts (anachronistically referred to as Checkers) boards on them. Sitting down at a table sends the camera to a bird's-eye position over the board as you wait for an opponent. I soon moved on -- there were few other players available, and most were enjoying other minigames.
 
-![The game of Draughts/Checkers](https://chasingdings.com/wp-content/uploads/2009/08/Gatheryn-2009-08-20-18-56-19-81.jpg "The game of Draughts/Checkers")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/Gatheryn-2009-08-20-18-56-19-81.jpg" title="The game of Draughts/Checkers" classes="center" >}}
 
 Elymia's economy is built around Silver. You earn silver for winning games, or at least losing less quickly. You spend silver on fruit and drinks which you will need to survive and likely on clothing and pets. You have a health bar, and bubblers here and there that can heal you, so I think it's safe to say it's possible to come to some harm in some way, perhaps by not eating or drinking enough?
 

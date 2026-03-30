@@ -3,45 +3,25 @@ date: '2010-10-18T23:19:12-05:00'
 draft: false
 title: "Dungeons & Dragons Online: The Seal of Shan-To-Kor"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/18/dungeons-dragons-online-the-seal-of-shan-to-kor/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Dungeon Crawl"
   - "Guild"
   - "Guild Hall"
   - "Shan to Kor"
   - "Static Group"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg "Group Portrait")](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-18-00-40-03-40.jpg)
 
 While the rest of the group wasn't looking, I nailed their boots to the floor. It's the only way I can get people to stop moving long enough for a picture!
 
@@ -59,7 +39,7 @@ I'm now in a guild -- GAMERS! It was a random guild invite. Gleek and Ulan had a
 
 When I played my Hobbesian cleric, I got guild invites all the time, even though I was IN a guild, Massively's OneDAwesome.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-23-12-58-38.jpg "Engine room for the guild airship")](https://chasingdings.com/wp-content/uploads/2010/10/dndclient-2010-10-18-23-12-58-38.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-18-23-12-58-38.jpg" title="Engine room for the guild airship" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/10/dndclient-2010-10-18-23-12-58-38.jpg)
 
 Anyway, I jumped at the first ninja guild invite that came my way. Nobody talks or anything, but they do have an airship. They also have a kick policy, nicely posted on their Guild Message of the Day: If you have not been active for three weeks, it said, you will be kicked. Great message. How are the inactive people ever going to see it? I wondered in guild chat. It's now been changed to be a simple statement of policy. Something to do with guild renown.
 

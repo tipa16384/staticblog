@@ -3,40 +3,17 @@ date: '2009-12-11T08:04:31-05:00'
 draft: false
 title: "EQ2: Leave Freeport Alone!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/11/eq2-leave-freeport-alone/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It used to be such a happy place. True story: I started EQ2 as a happy resident of Baubbleshire. I joined a roleplay guild on..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/EverQuest2-2009-12-10-22-23-05-10.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/EverQuest2-2009-12-10-22-23-05-10.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/EverQuest2-2009-12-10-22-23-05-10.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/EverQuest2-2009-12-10-22-23-05-10.jpg"
 ---
+It used to be such a happy place. True story: I started EQ2 as a happy resident of Baubbleshire. I joined a roleplay guild on...
+<!--more-->
 
-![Deathknell demolished](https://chasingdings.com/wp-content/uploads/2009/12/EverQuest2-2009-12-10-22-23-05-10.jpg "Deathknell demolished")
+
 
 It used to be such a happy place. True story: I started EQ2 as a happy resident of Baubbleshire. I joined a roleplay guild on Antonia Bayle, settled down for a happy time in a happy land and --
 
@@ -52,7 +29,7 @@ Deathknell Citadel is as emblematic to Freeport as the mage towers are to Qeynos
 
 SOE pulled it down. Not because of a challenge to Lucan's authority or a mystical shake-up in the city's centers of power. No. They did it because they HATE FREEPORT.
 
-![Old Freeport](https://chasingdings.com/wp-content/uploads/2009/12/freportw-gate.jpg "Old Freeport")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/freportw-gate.jpg" title="Old Freeport" classes="center" >}}
 
 Back in EverQuest, the great cities of Oggok, Qeynos and Freeport stood fast to protect Antonica from enemies of the south, west and east. They did their jobs unflinchingly; bravely; without reward or notice.
 
@@ -62,7 +39,7 @@ But Freeport... Freeport was a wide-open city, full of life, color and happiness
 
 Then the Plane of Magic opened, and desolation spilled from that horrid cesspool of a plane and destroyed fair Freeport forever.
 
-![Post-Prophecy Freeport](https://chasingdings.com/wp-content/uploads/2009/12/eqgame-2009-12-11-06-52-07-32.jpg "Post-Prophecy Freeport")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/eqgame-2009-12-11-06-52-07-32.jpg" title="Post-Prophecy Freeport" classes="center" >}}
 
 Freeport changed from a colorful, open, simple town to one of dirt and grime, a place no respectable person would ever go. And aside from people seeking entry to the Plane of Magic, nobody did, ever again.
 

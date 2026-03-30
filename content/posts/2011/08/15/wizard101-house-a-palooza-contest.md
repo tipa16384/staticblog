@@ -3,40 +3,17 @@ date: '2011-08-15T22:20:38-05:00'
 draft: false
 title: "Wizard101: HOUSE-A-PALOOZA CONTEST!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/08/15/wizard101-house-a-palooza-contest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "THE CONTEST HAS ENDED! SCROLL TO THE BOTTOM FOR THE LIST OF WINNERS!..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/WizardGraphicalClient-2011-08-15-22-02-44-28.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/08/WizardGraphicalClient-2011-08-15-22-02-44-28.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/WizardGraphicalClient-2011-08-15-22-02-44-28.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/WizardGraphicalClient-2011-08-15-22-02-44-28.jpg"
 ---
+THE CONTEST HAS ENDED! SCROLL TO THE BOTTOM FOR THE LIST OF WINNERS!...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/WizardGraphicalClient-2011-08-15-22-02-44-28.jpg" title="Alison Goldtalon notices something" class="align-center" >}}
+
 
 **THE CONTEST HAS ENDED! SCROLL TO THE BOTTOM FOR THE LIST OF WINNERS!**
 
@@ -54,7 +31,7 @@ If you are a lucky winner, head to [http://www.wizard101.com/promo](http://www.w
 
 That's the important stuff! Now, here's the puzzle:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/balancemap.png" title="Map of Balance Excavation" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/balancemap.png" title="Map of Balance Excavation" classes="center" >}}
 
 Alison Goldtalon was standing in the basement excavation of her Balance home, when she, by *chance*, noticed that each of the seven rooms had a chest in it, and each of the chests was made of a different material. If you went counter-clockwise starting in the nearest room, the first letters of the material the chest in that room was made in would spell the name of her favorite singer.
 

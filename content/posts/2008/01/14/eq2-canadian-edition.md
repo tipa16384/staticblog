@@ -3,38 +3,13 @@ date: '2008-01-14T10:11:57-05:00'
 draft: false
 title: "EQ2: British Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/14/eq2-canadian-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "On the news that the new Prime Minister of Britain, Gordon Brown, would like to see knives removed from videogames, SOE today announced some small..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+On the news that the new Prime Minister of Britain, Gordon Brown, would like to see knives removed from videogames, SOE today announced some small...
+<!--more-->
 
 On the news that the new Prime Minister of Britain, Gordon Brown, [would like to see knives removed from videogames](http://www.rockpapershotgun.com/?p=919), SOE today announced some small changes to its flagship fantasy MMO, EverQuest 2, which has previously showcased knives of various sizes and functions.
 

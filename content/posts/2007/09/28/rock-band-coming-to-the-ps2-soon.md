@@ -3,39 +3,16 @@ date: '2007-09-28T16:44:50-05:00'
 draft: false
 title: "\"Rock Band\" coming to the PS2 SOON!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/09/28/rock-band-coming-to-the-ps2-soon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Gosh, I need to post more... if you could see how many posts I have partially written......"
+categories:
   - "General"
-featured_image: "http://blog.wired.com/games/images/2007/09/28/rockband256.jpg"
-cover:
-  image: "http://blog.wired.com/games/images/2007/09/28/rockband256.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://blog.wired.com/games/images/2007/09/28/rockband256.jpg"
+thumbnailImage: "http://blog.wired.com/games/images/2007/09/28/rockband256.jpg"
 ---
+Gosh, I need to post more... if you could see how many posts I have partially written......
+<!--more-->
 
-![Rock Band](http://blog.wired.com/games/images/2007/09/28/rockband256.jpg "Rock Band")
+
 
 Gosh, I need to post more... if you could see how many posts I have partially written...
 

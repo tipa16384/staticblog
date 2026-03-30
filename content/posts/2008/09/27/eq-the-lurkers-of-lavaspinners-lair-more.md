@@ -3,27 +3,12 @@ date: '2008-09-27T10:49:29-05:00'
 draft: false
 title: "EQ: The Lurkers of Lavaspinner's Lair & more"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/27/eq-the-lurkers-of-lavaspinners-lair-more/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Another Friday, another entirely new zone, and we still are ages from seeing more than a fraction of the game...."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Broodlands"
   - "Crimson Eternity"
   - "Dragons of Norrath"
@@ -31,20 +16,13 @@ tags:
   - "Gimblax"
   - "Lavaspinner's Lair"
   - "Stillmoon Temple"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg"
 ---
+Another Friday, another entirely new zone, and we still are ages from seeing more than a fraction of the game....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-26-19-45-56-08.jpg "eqgame-2008-09-26-19-45-56-08")
+
 
 Another Friday, another entirely new zone, and we still are ages from seeing more than a fraction of the game.
 
@@ -56,7 +34,7 @@ Our job was to kill those spiders and grab some of their webs -- eight for each 
 
 So, basically, an entire night spent getting uncommon drops from hundreds of mobs, because they are collection quests, the ABSOLUTE WORST kind of quests ever written in any MMO. The kind of quests that you don't want to do in a group because it will take forever, but this being EverQuest, not the kind of thing you can do alone. Not at level 60, at any rate, and not Lavaspinner's Lair.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-27-07-21-59-09.jpg "eqgame-2008-09-27-07-21-59-09")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-27-07-21-59-09.jpg" title="eqgame-2008-09-27-07-21-59-09" classes="center" >}}
 
 Things went fairly well before we kind of all slipped into a pit, so that wasn't good. Most of us died. On the way back, we were jumped by a bunch of mobs and a couple people died, cleric camped and those of us still alive evaced. Coldheat logged back in and rezzed the two with him, but then they got a respawn while the rest of us were fighting back. It was after eleven, we were all still kind of disturbed by the presidential debates -- no matter what side you were on, it was pretty disturbing -- so we called it, ported out or summoned depending on our live/dead state, and logged.
 
@@ -66,11 +44,11 @@ Since most of the screenshots I took last night were craptacular (why isn't that
 
 While there, I got to chatting with Egat, and then someone piped up in general chat that they needed to kill Emoush, which, I believe, is the second Dragons of Norrath raid. I was *right there*, so I asked if they could use a lowly 70 rogue -- they could, I was in, and off we went.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-27-07-58-47-56.jpg "eqgame-2008-09-27-07-58-47-56")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-27-07-58-47-56.jpg" title="eqgame-2008-09-27-07-58-47-56" classes="center" >}}
 
 Emoush is a huge rock dervish at the far end of a goblin temple in the Broodlands. This temple pops up in a lot of different quests and missions; it's beautiful, sure, but it's way too large for goblins. It's very hard to believe they made this themselves. More likely it's something they robbed from the dragons. Still, they're there now and are about as friendly to strangers as these kinds of places normally are, so in we went, spreading death in dark puddles staining the stainless marble floors.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-27-08-18-28-99.jpg "eqgame-2008-09-27-08-18-28-99")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-27-08-18-28-99.jpg" title="eqgame-2008-09-27-08-18-28-99" classes="center" >}}
 
 This used to take four groups back in the day. Seriously.
 
@@ -84,7 +62,7 @@ One of the people in the group needed Gimblax, the first raid in Dragons of Norr
 
 So I snuck this time back into position, waiting for the SK tank to finish feigning to the mob. When he got there, we slayed. And that was the second (former) raid done.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-27-09-35-09-76.jpg "eqgame-2008-09-27-09-35-09-76")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-27-09-35-09-76.jpg" title="eqgame-2008-09-27-09-35-09-76" classes="center" >}}
 
 I was enjoying my first Tipa group since like 2005 so much, I stuck around for another Stillmoon Temple mission. I did this a LOT back in the day; a rogue can make some of the yuckier bits go by much faster by using their ability to soundlessly sneak all over the temple.
 

@@ -3,40 +3,17 @@ date: '2011-09-21T06:00:08-05:00'
 draft: false
 title: "Divinity II don't care what class you are"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/09/21/divinity-ii-dont-care-what-class-you-are/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just because my character is wearing plate armor and swinging a two-handed sword doesn't mean she isn't a mean spell caster, because she is. Magic..."
+categories:
   - "Divinity Ii -- Dragon Knight Saga"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/09/Divinity2-2011-09-17-23-49-25-30-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/09/Divinity2-2011-09-17-23-49-25-30-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/Divinity2-2011-09-17-23-49-25-30-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/Divinity2-2011-09-17-23-49-25-30-480x384.jpg"
 ---
+Just because my character is wearing plate armor and swinging a two-handed sword doesn't mean she isn't a mean spell caster, because she is. Magic...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/09/Divinity2-2011-09-17-23-49-25-30-480x384.jpg" title="Your basic Divinity II spell slinger" class="align-center" >}}
+
 
 Just because my character is wearing plate armor and swinging a two-handed sword doesn't mean she isn't a mean spell caster, because she is. Magic users in Divinity II: The Dragon Knight Saga would kick a D&D magic user's butt to the gates of hell and back. It's okay to make an entirely unbalanced character in a single player RPG; you are, after all, expected to save the world at some point.
 

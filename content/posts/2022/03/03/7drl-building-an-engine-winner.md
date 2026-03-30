@@ -3,39 +3,17 @@ date: '2022-03-03T08:21:20-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Winner."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/03/7drl-building-an-engine-winner/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The last element of the 7DRL engine's \"must haves\" -- a win condition for the player. With that out of the way, let's talk about..."
+categories:
   - "7DRL"
+tags:
   - "Rogue"
   - "Tiled"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/screenshot.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/screenshot.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/screenshot.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/screenshot.png"
 ---
+The last element of the 7DRL engine's "must haves" -- a win condition for the player. With that out of the way, let's talk about...
+<!--more-->
 
 The last element of the 7DRL engine's "must haves" -- a win condition for the player. With that out of the way, let's talk about localization, combat, and making the game look a little less like crap.
 
@@ -59,7 +37,7 @@ But the important point here is that at least some of the readable text of the g
 
 Well, I never expected the engine itself to look like anything, I really don't like how it looks right now. I was looking around, and found an open source tool called "[Tiled](https://thorbjorn.itch.io/tiled)" that can generate isometric maps from terrain sheets, which is... just what I want.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/image.png)](https://chasingdings.com/wp-content/uploads/2022/03/image.png)Tiled
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/image.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/image.png)Tiled
 
 This editor gives me the power to control exactly the look and feel of each room. I said before that I'm probably not going to have random rooms for this game, just because the story I want to tell is specific. Take away some Roguelike points for that, I guess.
 

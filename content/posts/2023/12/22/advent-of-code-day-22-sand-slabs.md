@@ -3,48 +3,26 @@ date: '2023-12-22T17:28:03-05:00'
 draft: false
 title: "Advent of Code Day 22 -- Sand Slabs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/22/advent-of-code-day-22-sand-slabs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I almost gave up on this one. Then I started playing around with it in a 3D render package and I found the issue."
-description: "I almost gave up on this one. Then I started playing around with it in a 3D render package and I found the issue."
-tags:
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Babylonjs"
   - "Jenga"
   - "Pygame"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/jenga.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/jenga.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/jenga.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/jenga.png"
 ---
+I almost gave up on this one. Then I started playing around with it in a 3D render package and I found the issue.
+<!--more-->
 
 This is one of those that looked easy to begin with, but then I just had a bunch of issues. I gave up, started playing with 3D rendering packages for fun, and then while flying around the rendered puzzle -- I found the issue.
 
 In this puzzle, you have liberated sand from the Desert Island, and it is falling to the Snow Island, all ready to filter the water... except it isn't.[ It's coming in solid slabs.](https://adventofcode.com/2023/day/22) They're stacking so prettily and so precariously that we don't want to disturb it too much. That's part 1 -- seeing which blocks we can destroy without bringing the whole tower down. In part 2, we change our minds -- and try to see just how must destruction we can cause.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/b201b9252361064b-300x256.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/b201b9252361064b-300x256.png" classes="fig-20" >}}
 
 The input is a set of blocks, like Jenga bricks, but they can be all different sizes) though always rectangular. They are hanging suspended in space. The very first step is to see how the fall; this is common to both parts.
 
@@ -58,7 +36,7 @@ So that was it. I gave up. Why am I even writing physics engines? This is dumb.
 
 But it was fun to play with someone else's physics engine. Just blowing stuff up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/jenga-1024x711.gif" title="Me, just blowing stuff up. That's the input. Being blown up. Boom." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/jenga-1024x711.gif" title="Me, just blowing stuff up. That's the input. Being blown up. Boom." classes="center" >}}
 
 While I was getting the physics worked out, I found out that pieces that were only touching at a corner or an edge, *weren't falling*. My *overlap* code was wrong.
 
@@ -72,7 +50,7 @@ UNIT TESTS, BABY. This code was going to WORK now.
 
 So yeah stuff worked after that. It was slow, but it *worked*.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/7ddd6132-bad8-4e68-9b4a-d1b654ae9563-1024x585.webp" title="Dall-E's illustration, but I like mine better" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/7ddd6132-bad8-4e68-9b4a-d1b654ae9563-1024x585.webp" title="Dall-E's illustration, but I like mine better" classes="center" >}}
 
 `def drop(falling: list, scanning_for_drop: bool = False) -> int:
     drop_count = 0

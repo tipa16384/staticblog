@@ -3,46 +3,23 @@ date: '2012-10-07T14:58:48-05:00'
 draft: false
 title: "Game Log: Guild Wars 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/07/game-log-guild-wars-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been in my Guild Wars 2 guild a couple of days, and I've come to appreciate just how ironically named the game is. Sure,..."
+categories:
   - "Guild Wars"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-07-11-28-08-90-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-07-11-28-08-90-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-07-11-28-08-90-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-07-11-28-08-90-480x269.jpg"
 ---
+I've been in my Guild Wars 2 guild a couple of days, and I've come to appreciate just how ironically named the game is. Sure,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-07-11-28-08-90-480x269.jpg" title="Tipster, level 15 Asura thief" class="align-center" >}}
+
 
 I've been in my Guild Wars 2 guild a couple of days, and I've come to appreciate just how ironically named the game _is_. Sure, it's just a spam invite guild -- Ranger Rabble or something like that, even though I'm not a ranger -- and (not for lack of trying) haven't spoken to anyone else in the guild and am really just in it because otherwise, my game time isn't contributing to any larger effort. Ironic because this is a game that really doesn't need guilds (lampshaded perhaps by GW2 allowing you to be a member of multiple guilds, changing between them at will).
 
 Instead, this is a game that celebrates the solo player. Aside from a personal story that you can complete at your leisure, this game is for those who like to wander. In that ESAK spectrum, GW2 comes in high on the Explorer, places reasonably in Achiever and Killer, but Social -- that's not even on the table.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-05-21-43-18-91-480x270.jpg" title="Maybe charge up my gadget, maybe end all life everywhere instantly." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-05-21-43-18-91-480x270.jpg" title="Maybe charge up my gadget, maybe end all life everywhere instantly." classes="center" >}}
 
 Every class is pretty self-sufficient, with tanking, healing, ranged and melee combat all present in varying amounts. Makework tasks bring you to new areas to explore, and while there, events happen around you. The more people who join in, the better the reward, so everyone within range of the announcement pours in to repel an invasion, or guard a scientist, or get the power grid running again. Successfully completing one event often starts another, which, like the public quests in Warhammer Online, usually end in a boss battle too difficult for anyone to solo, but by then everyone with any interest is there helping out. No need for grouping or strategy. Everyone gets a reward based on their participation, and as importantly, fame with their faction. You can use that fame to buy goods at faction merchants.
 
@@ -50,7 +27,7 @@ I'm told there are dungeons once you reach level 40, or at least one dungeon, bu
 
 Pointing your character toward an empty area of the map and seeing what you can find is the focus of Guild Wars 2.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-07-11-02-07-53-480x270.jpg" title="Discovering a vista" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-07-11-02-07-53-480x270.jpg" title="Discovering a vista" classes="center" >}}
 
 Obvious question being, what happens when there are no empty areas on the map?
 
@@ -58,7 +35,7 @@ First, GW2 isn't going to make it easy to complete the map. Each map has several
 
 If you just like running around and killing stuff and occasionally having a go at a big baddie without too much stress or risk, it's hard to see how any game could be better at that than GW2 -- at least up to my still low level.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-07-11-26-44-14-480x269.jpg" title="Out of the newbie zone" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-07-11-26-44-14-480x269.jpg" title="Out of the newbie zone" classes="center" >}}
 
 This utter lack of urgency is what kept me from really getting into the game. With nothing that particularly needs doing, no risk, and nobody to talk to, it's always easier to just not log in. But then I started putting some time into figuring out what skills support other skills, which weapons support my play-style best.... oh, word about that.
 
@@ -66,7 +43,7 @@ Your skills are half determined by you class and chosen weapons. Everyone can wi
 
 The other half of your abilities comes from skills and traits. You earn skill points by leveling and by completing skill challenges (you'll see those on the map as well). You can slot these skills in any order you like. Traits are more general ability and bonus unlocks which, I believe, are the same for all characters of all races and classes.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-07-15-50-58-60-480x384.jpg" title="Not quite alt city, here" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-07-15-50-58-60-480x384.jpg" title="Not quite alt city, here" classes="center" >}}
 
 Anyway, now that I have kinda figured out what I'm doing and am (finally!) out of the newbie zone, I'm beginning to have a bit more fun. For me, it's the kind of game you can just be playing while watching a movie or something.
 

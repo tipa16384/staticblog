@@ -3,39 +3,16 @@ date: '2008-09-19T08:00:28-05:00'
 draft: false
 title: "Straight Talk Warhammer: Believe in WAR"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/19/believe-in-war/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "*Producer's note: Hey folks, just a head's up. I know a lot of you were looking forward to a full set of 100 editions of..."
+categories:
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/warhammerbox.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/warhammerbox.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warhammerbox.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/warhammerbox.jpg"
 ---
+*Producer's note: Hey folks, just a head's up. I know a lot of you were looking forward to a full set of 100 editions of...
+<!--more-->
 
 ***Producer's note:** Hey folks, just a head's up. I know a lot of you were looking forward to a full set of 100 editions of "Straight Talk Warhammer", our exclusive look at the amazing World of Warhammer. And we did our best, but as we were running STW past our beta-readers, we noticed that some of the posts needed some tweaking. There were spelling errors, run-on sentences, and, frankly, some pretty gnarly grammar mistakes here and there. So we've decided to cut the series down to just four posts, to give you the best reading experience possible. We will release STWs covering the other nineteen classes, the second city, and every public quest and scenario, at some point in the future -- if they aren't good enough, we won't make ya read them! We promise!
 
@@ -51,21 +28,19 @@ Well, now your kitty, who has sat on your lap through every disappointing raid a
 
 It's the Second Coming of Warcraft.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/warhammerbox.jpg "warhammerbox")
-
 *Simulated screenshot of the Second Coming*
 
 It's the friggin' Nerd Bible and it has incited a religious fervor not seen in these here parts since Moses first carried WoW down from Mount Hyjal and knocked over EverQuest's golden calf. It's got an old testament (WoW) and a new one (WAR), messiahs, prophets and fanatical converts. It even has an all new moneylender's temple, which it will build right next to the old one.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/warbosch.jpg "warbosch")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/warbosch.jpg" title="warbosch" classes="center" >}}
 
 *WAR is Everywhere.*
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/witchelf.jpg "witchelf")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/witchelf.jpg" title="witchelf" classes="center" >}}
 
 *WAR is Everywhere.*
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/warmoney.jpg "warmoney")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/warmoney.jpg" title="warmoney" classes="center" >}}
 
 *WAR is Everywhere.*
 

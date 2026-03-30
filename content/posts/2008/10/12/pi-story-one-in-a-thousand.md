@@ -3,40 +3,17 @@ date: '2008-10-12T12:55:15-05:00'
 draft: false
 title: "Pi Story: one in a thousand"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/12/pi-story-one-in-a-thousand/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The game is lying...."
+categories:
   - "MMORPG"
   - "Pi Story"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/pistory-2008-10-12-07-14-36-88.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/pistory-2008-10-12-07-14-36-88.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-12-07-14-36-88.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-12-07-14-36-88.jpg"
 ---
+The game is lying....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/pistory-2008-10-12-07-14-36-88.jpg "pistory-2008-10-12-07-14-36-88")
+
 
 *The game is lying.*
 
@@ -44,7 +21,7 @@ So, a long time ago, I looked around at all these dozens, hundreds of minor MMOs
 
 When you think about it like that, though, you have to wonder why people are so different. What are we doing with almost seven billion people that we couldn't do with, like, seven thousand?  But every one of those seven billion people has someone that cares about them and thinks they're special. And every game developer thinks they are making a game just as special as a person.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/pistory-2008-10-12-08-51-14-95.jpg "pistory-2008-10-12-08-51-14-95")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-12-08-51-14-95.jpg" title="pistory-2008-10-12-08-51-14-95" classes="center" >}}
 
 *Grouping in Act 5, one of the many instances you have to repeat a dozen times for various reasons.*
 
@@ -80,7 +57,7 @@ Since everyone has to do a LOT of adventures to level, finding a group is never 
 
 The incredibly simple graphics mask a fairly deep and involved gameplay. Friday night, the high level people were strutting their stuff at the housing zone, and a GM was organizing a banshee doll hunt. You eventually do lose that newbie look, which you can hurry along by buying appearance clothing at the cash shop. I haven't been able to get an idea what, besides appearance clothing and items for your house, the cash shop has. Maybe that's all it has.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/pistory-2008-10-11-18-13-14-13.jpg "pistory-2008-10-11-18-13-14-13")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/pistory-2008-10-11-18-13-14-13.jpg" title="pistory-2008-10-11-18-13-14-13" classes="center" >}}
 
 Pi Story knows its audience -- anime and manga obsessed teens from around the world (and unlike my own experiences with WoW and EQ2, where people from South America were extremely rare (though not entirely unheard of), Pi Story players are truly global). One shop is the Pi Story outlet for Shojo Beat, a manga collection for girls that sounds like the counterpart to Shonen Jump's collection of boy-oriented manga. Subscribe and get a code for a special hat. Is that enough to get people to subscribe? According to the forums, it is :)
 

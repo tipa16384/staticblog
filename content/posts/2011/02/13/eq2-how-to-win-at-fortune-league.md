@@ -3,40 +3,18 @@ date: '2011-02-13T13:03:59-05:00'
 draft: false
 title: "EQ2: How to win at Fortune League"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/13/eq2-how-to-win-at-fortune-league/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "A couple of weeks ago, I started playing Fortune League on Facebook with absolutely no idea what I was doing. Or rather, with all the..."
+categories:
   - "Facebook Games"
+tags:
   - "Fortune League"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-2132011-120658-PM-480x423.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-2132011-120658-PM-480x423.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-2132011-120658-PM-480x423.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-2132011-120658-PM-480x423.jpg"
 ---
+A couple of weeks ago, I started playing Fortune League on Facebook with absolutely no idea what I was doing. Or rather, with all the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-2132011-120658-PM-480x423.jpg" title="Party Lineup Screen (click to enlarge)" class="align-center" >}}
+
 
 A couple of weeks ago, I started playing [Fortune League on Facebook](http://apps.facebook.com/fortuneleague/) with absolutely no idea what I was doing. Or rather, with all the wrong ideas. Fortune League is based off of EverQuest II, and success in the Facebook game brings rewards to the live game. You get AA experience and enhanced XP potions just for participating. If you do well, you can get some cosmetic items -- currently some tattered wings and, for the best of the best, a gold trophy for your home.
 
@@ -44,7 +22,7 @@ My first group was a balanced party that would do well in an EQ2 dungeon -- tank
 
 - Do nothing- ???- Profit!
 
-Finding the whole thing rather pointless, I set it aside for a couple of weeks. When I [sat down to write about it](https://chasingdings.com/index.php/2011/01/10/fortune-league-or-wall-street-raiders/), I realized that it wasn't about making a balanced party and going on adventures at all -- it was a fantasy adventure league (and in fact, the JavaScript code for Fortune League clearly shows its roots, as it calls the characters 'athletes'). But basically, the real deal is: you buy characters according to your budget. They perform based characters of that race and class in the game -- if there's a hundred iksar defilers pumping out the heals one day and the froglok furies are slacking off, people with iksar defilers in their parties will be getting more points than the ones with furies -- IF the particular adventure is assigning points for healing.
+Finding the whole thing rather pointless, I set it aside for a couple of weeks. When I [sat down to write about it](https://tipa16384.github.io/wkblog/index.php/2011/01/10/fortune-league-or-wall-street-raiders/), I realized that it wasn't about making a balanced party and going on adventures at all -- it was a fantasy adventure league (and in fact, the JavaScript code for Fortune League clearly shows its roots, as it calls the characters 'athletes'). But basically, the real deal is: you buy characters according to your budget. They perform based characters of that race and class in the game -- if there's a hundred iksar defilers pumping out the heals one day and the froglok furies are slacking off, people with iksar defilers in their parties will be getting more points than the ones with furies -- IF the particular adventure is assigning points for healing.
 
 That's the next piece to the puzzle. Each week is a new adventure, which scores your characters in a new way. For instance, this week is a Befallen adventure. Your party receives points for Heals, Buffs and Hate, and loses points for Deaths. Last week, it was about AOE and Pet Damage.
 
@@ -78,7 +56,7 @@ Below this is the stats display. Zero points, as this is the start of the advent
 
 Below, not shown, are the broker stats for the party -- how much they are worth, how their value is trending, high and low price figures and so on. While you win the game by maximizing your hero points -- score, you need a good party value in order to make trades.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/Fullscreen-capture-2132011-120302-PM-480x384.jpg" title="The Spreadsheet (click to enlarge)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/Fullscreen-capture-2132011-120302-PM-480x384.jpg" title="The Spreadsheet (click to enlarge)" classes="center" >}}
 
 What makes a good party? Maximizing the return on the investment. You can have a real winner of a character who generates three times as many points as any other character, but if it costs ten times as much, is it a good deal?
 

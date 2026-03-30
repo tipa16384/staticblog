@@ -3,46 +3,25 @@ date: '2011-01-01T10:26:38-05:00'
 draft: false
 title: "Treasure Abyss: The Enchanted Tower (walk-through)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/01/treasure-abyss-the-enchanted-tower-walk-through/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
   - "Treasure Abyss"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-08-54-41-97-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-08-54-41-97-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-54-41-97-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-54-41-97-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-08-54-41-97-480x384.jpg "Enchanted Tower")](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-08-54-41-97.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-54-41-97.jpg)
 
 It's been a few months since the last significant content update to Namco-Bandai's "Treasure Abyss", when they added the Samurai class and the associated "Tower of the Samurai", wherein lay the components for creating the Samurai class weapons.
 
 Since then, there's been precious little to do on the TA front. Namco-Bandai released some appearance armor for players who recruit more people to the game, but the low stats gear was inappropriate for dungeon crawling, and I haven't seen any of my friends, not even the low level ones, wearing even one piece.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-08-53-11-17-480x384.jpg "Mages Only")](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-08-53-11-17.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-53-11-17-480x384.jpg" title="Mages Only" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-53-11-17.jpg)
 
 Not to despair. Last week brought Treasure Abyss' eighth dungeon, "The Enchanted Tower". Only four floors -- and very small ones at that -- but with a unique restriction: the entire party must consist only of mages. Mages will want to explore the dungeon to the slot machine on the bottom floor that sometimes gives Philosopher's Stones, the alchemical ingredient that, along with ice crests, wood and enchanted stones, creates the new mage weapon, the Polar Staff. Dave, above, is wielding it.
 
@@ -50,11 +29,11 @@ The Polar Staff is an AE ice weapon. It does little damage by itself, but freeze
 
 If only we weren't facing mobs that were perfectly happy to toss spears of ice at us from the other side of the screen. These swirls of purple energy are the nuking cousins of the fire-hurling ghosts from the Tower of the Samurai (who make a brief encore appearance in this dungeon as well). The ice spears hurt A LOT. With the mages equipped as I had them, they died fairly quickly, but even one hit can knock a good chunk of health away. It's not rare to come to the last fight against four of the creatures with one of your mages already dead. Luckily it's a short dungeon -- you can probably make two attempts at the final encounter per day.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-08-43-25-54-480x384.jpg "Huh?")](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-08-43-25-54.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-43-25-54-480x384.jpg" title="Huh?" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-08-43-25-54.jpg)
 
 Once you do make it to the slot machine which holds the Philosopher's Stone, prepare yourself for disappointment. Missing the 7-7-7 that gets you the Stone (you need four stones to make the staff) gets you either nothing, a 20% candle or a hex stone (cherries)... or 5 Enchanted Stones (bells), of which you likely have hundreds already.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-09-54-47-77-480x384.jpg "Floor 1")](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-09-54-47-77.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-09-54-47-77-480x384.jpg" title="Floor 1" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-09-54-47-77.jpg)
 
 **Floor 1**
 
@@ -62,19 +41,19 @@ You start at the southern corner of the dungeon. Proceed straight northwest unti
 
 Once those are vanquished, head to the end of the corridor and take the stairs down to the second floor.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-09-59-53-43-480x384.jpg "Floor 2")](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-09-59-53-43.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-09-59-53-43-480x384.jpg" title="Floor 2" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-09-59-53-43.jpg)
 
 **Floor 2**
 
 The exit to the third floor is in the upper part of the leftmost corridor. Going the northern route sends you through two fights, while the southern route only has one. Don't be fooled. You may only have half the fights, but there are two spike traps along the way; you can't afford to give up any health. Go north and fight the two fights, both of which put you against two Purple Swirls. Purple Swirls can drop Spirit Stones, if you're still trying to make a samurai weapon.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-10-05-50-95-480x384.jpg "Floor 3")](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-10-05-50-95.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-10-05-50-95-480x384.jpg" title="Floor 3" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-10-05-50-95.jpg)
 
 **Floor 3**
 
 The stairs to the fourth floor are at the end of the central corridor. Just head over that way and fight the single walking tree monster, who shouldn't even be able to do any damage to your group. Finish it off, continue past and prepare for the final battle.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-10-09-27-30-480x384.jpg "Fourth Floor")](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-10-09-27-30.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-10-09-27-30-480x384.jpg" title="Fourth Floor" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-10-09-27-30.jpg)
 
 **Floor 4**
 
@@ -82,7 +61,7 @@ There's only two fights on the fourth floor. Turn right to fight FOUR Purple Swi
 
 You can see how damaged my group is from the trip down; thankfully, nobody has died yet. I spent a long time farming 50% health potions from the third and sixth dungeons, though, so I'm prepared.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-10-13-57-64-480x384.jpg "Final Battle")](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2011-01-01-10-13-57-64.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-10-13-57-64-480x384.jpg" title="Final Battle" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2011-01-01-10-13-57-64.jpg)
 
 We make short work of the four Purple Swirls, though Paul takes quite a few hits in the initial volley. After that, it's a short but ultimately disappointing trip to the slot machine, where I roll cherries and receive a hex stone for the thief's Cursed Dagger.
 

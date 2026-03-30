@@ -3,41 +3,19 @@ date: '2008-11-05T13:19:09-05:00'
 draft: false
 title: "Shin Megami Tensei -- the MMO"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/05/shin-megami-tensei-the-mmo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just saw that Aeria Games is adding Shin Megami Tensei to its stable of free-to-play Asian import MMOs. Brought to the West previously as single..."
+categories:
   - "MMORPG"
   - "Shin Megami Tensei"
+tags:
   - "Aeria Games"
-featured_image: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
-cover:
-  image: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
+thumbnailImage: "http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg"
 ---
+Just saw that Aeria Games is adding Shin Megami Tensei to its stable of free-to-play Asian import MMOs. Brought to the West previously as single...
+<!--more-->
 
-![Shin Megami Tensei](http://www.shacknews.com/images/generated/4910c1d8f256c_featured_without_text_smt_pc.jpg)
+
 
 Just saw that [Aeria Games](http://aeriagames.com) is [adding Shin Megami Tensei](http://www.shacknews.com/onearticle.x/55737) to its stable of free-to-play Asian import MMOs. Brought to the West previously as single player games for the Playstation consoles and known here as Persona, Shin Megami Tensei will be a horror/fantasy MMO where high school and university students battle the forces of evil by bonding with Personas that give them supernatural powers.
 

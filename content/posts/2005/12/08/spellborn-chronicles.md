@@ -3,37 +3,14 @@ date: '2005-12-08T00:00:00-05:00'
 draft: false
 title: "Spellborn Chronicles"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/12/08/spellborn-chronicles/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Always on the lookout to find new things to which to become addicted, I've been keeping an eye on The Spellborn Chronicles. A close call..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/report.png"
-cover:
-  image: "https://chasingdings.com/images/report.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/report.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/report.png"
 ---
+Always on the lookout to find new things to which to become addicted, I've been keeping an eye on The Spellborn Chronicles. A close call...
+<!--more-->
 
 Always on the lookout to find new things to which to become addicted, I've been keeping an eye on [The Spellborn Chronicles](http://www.thechroniclesofspellborn.com/scrolls/?id=scroll1). A close call with its forums left me with an unending stream of information about it courtesy of Google Desktop's automatic feed subscriber.
 
@@ -48,5 +25,3 @@ I don't know much about it yet, but it sounds intriguing. Actually, parts of it 
 ---
 
 Hmm. I wrote a program today. So I guess I still can! If you can call a web application programming. And if you can call JavaScript a programming language :P
-
-![](https://chasingdings.com/images/report.png)

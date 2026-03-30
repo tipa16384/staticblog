@@ -3,40 +3,17 @@ date: '2007-04-11T04:23:34-05:00'
 draft: false
 title: "LotRO: The Captain"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/04/11/lotro-the-captain/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Stand back, Lysistra! I shall bash this fell beast with this little flag!..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/04/lotr-0411-a.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/04/lotr-0411-a.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/lotr-0411-a.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/lotr-0411-a.jpg"
 ---
+Stand back, Lysistra! I shall bash this fell beast with this little flag!...
+<!--more-->
 
-![lotr-0411-a.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotr-0411-a.jpg)
+
 
 *Stand back, Lysistra! I shall bash this fell beast with this little flag!*
 
@@ -44,7 +21,7 @@ I didn't want to discuss LotRO's Captain class until I'd gotten to level 10 and 
 
 A Captain can do moderate DPS, but their role in a group is to cast short buffs to dps, speed, healing, resilience and that sort of thing. They prefer two-handed weapons and do get a taunt and thus can also tank when needed. Calling them LotRO's paladin class wouldn't be far wrong. You could call them LotRO's bard class and you still wouldn't be wrong. Heck, you could even make a case for them being similar to EQ1's Beastlord. No matter how you compare them, they are this game's hybrid class, able to do a lot of things acceptably but not shining in any one thing.
 
-![lotr-0411-b.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotr-0411-b.jpg)I'm particularly disappointed in their healing. Like several of their abilities, healing can only be started when a creature dies. It's a medium heal at the start but then continues for a few seconds as a very weak heal. Instead of putting all the healing onus on the Minstrel, the Captain should be able to heal for their group with their heals-over-time, making fellowships less dependent on one single class.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotr-0411-b.jpg" classes="fig-20" >}}I'm particularly disappointed in their healing. Like several of their abilities, healing can only be started when a creature dies. It's a medium heal at the start but then continues for a few seconds as a very weak heal. Instead of putting all the healing onus on the Minstrel, the Captain should be able to heal for their group with their heals-over-time, making fellowships less dependent on one single class.
 
 I've had a lot of time to spend on crafting. Lysistra is working on mastery of tailoring while Eraindiel focuses on weaponsmithing and woodcraft. The gear made is decent; nearly everything Lysistra wears was made by either her or Eraindiel because it is better than most drops or quest rewards. Far better when you get the rare drop recipes.
 
@@ -54,6 +31,6 @@ At 15, the champion DPS is astounding. I just might keep her around. Of my four 
 
 I'll let you know next time!
 
-![lotr-0411-c.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotr-0411-c.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotr-0411-c.jpg" classes="center" >}}
 
 *Eraindiel going elf-wild on a gobber.*

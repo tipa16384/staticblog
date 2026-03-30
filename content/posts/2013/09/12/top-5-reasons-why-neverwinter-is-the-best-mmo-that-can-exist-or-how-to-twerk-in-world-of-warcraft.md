@@ -3,50 +3,27 @@ date: '2013-09-12T00:32:46-05:00'
 draft: false
 title: "Top 5 Reasons why Neverwinter is the Best MMO That Can Exist, or, How To Twerk in World of Warcraft"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/09/12/top-5-reasons-why-neverwinter-is-the-best-mmo-that-can-exist-or-how-to-twerk-in-world-of-warcraft/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I found out \"Top (some number) (some thing)\" articles were called \"listicles\" (for List Articles), my life was changed. I'd always had these feelings..."
+categories:
   - "Guild Wars"
   - "Hoard"
   - "MMORPG"
   - "Neverwinter"
   - "Other Games"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg"
 ---
+When I found out "Top (some number) (some thing)" articles were called "listicles" (for List Articles), my life was changed. I'd always had these feelings...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-12-00-38-15-69-480x334.jpg" title="Boared Stiff." class="align-center" >}}
+
 
 When I found out "Top (some number) (some thing)" articles were called "listicles" (for List Articles), my life was changed. I'd always had these feelings I couldn't explain, where I'd think of some provocative list of things and then put any old things in as the list, because getting people to click on the link and come to the article -- the LISTICLE -- would be mission accomplished. Article could be blank.
 
 "How To" articles, though -- have listicles beat. You can be just as provocative with the title as you would be with a listicle, but you only have to write about one thing (be sure your AdWords bill is paid up!) In fact, as a corollary of Internet Rule 34, I just needed to Google Twerking in World of Warcraft to find this gem over at [One Crazy Paladin](http://onecrazypaladin.wordpress.com/2013/08/26/miley-cyrus-twerking-in-world-of-warcraft/):
 
-{{< figure src="http://onecrazypaladin.files.wordpress.com/2013/08/mileycyrus.png" title="More than you wanted to see." class="align-none" >}}
+{{< image src="http://onecrazypaladin.files.wordpress.com/2013/08/mileycyrus.png" title="More than you wanted to see." classes="center" >}}
 
 I love this game. Let's try for... Three Wolf Moon in Guild Wars 2? [DONE](http://www.shockfront.net/forum/m/5314351/viewthread/7251323-three-wolf-moon/forum_id/1721783). I SWEAR to you that I didn't know there was a Lunar Wolf spell in Guild Wars 2 that did the Three Wolf Moon before I searched for it.
 
@@ -54,7 +31,7 @@ So that brings up probably the most popular kind of link bait in blogs: Writing 
 
 Don't make me look for Gangnam Style in, say, EverQuest.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-11-22-20-24-911-480x320.jpg" title="Pig Herding" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-11-22-20-24-911-480x320.jpg" title="Pig Herding" classes="center" >}}
 
 But now I'm totally serious. Neverwinter is the best MMO that CAN EVER EXIST, and I think you'll agree when you find all your pig herding dreams are coming true for you in glorious F2P 3D.
 
@@ -66,13 +43,13 @@ It's incredibly relaxing and fun. After crafting, it might be my favorite Neverw
 
 And that's my top five reasons why Neverwinter is the best MMO that can ever be.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/09/GameClient-2013-09-11-21-48-58-25-480x300.jpg" title="2,600 petals later..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/09/GameClient-2013-09-11-21-48-58-25-480x300.jpg" title="2,600 petals later..." classes="center" >}}
 
 The reason for my Midsummer obsession is a simple blouse, the Sunite Garb. There's three bits to the festival outfit; the pants, the headdress, and the garb (the blouse). The first two can be crafted with the special Midsummer Crafting, but the only way to get the blouse is to earn 2,600 petals and buy it from the petal store. You get around 300 petals for doing all the events and quests at least once each day. Helps if you can herd pigs like a Pokemon Master. Since I wanted the outfit for Nina and the petals are (mostly) no trade, I had to do the quests on Nina, breaking the leveling compact Kasul and I have to stay in sync. (You can pick twelve flower blossoms (also no trade) and with them purchase a Flower Garden Reward (tradeable) which can be opened by someone else for fifteen petals). You can follow someone killing kobolds and ninja all their flowers while they are still fighting. I know this because people kept doing it to me.
 
 Anyway, outfit done, pig mount obtained, I'm done herding pigs and picking corn for lazy farmers. Hated every minute of it. Half elves get no respect.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/09/Reuben-2013-09-12-00-15-06-62-480x319.jpg" title="For the HOARD!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/09/Reuben-2013-09-12-00-15-06-62-480x319.jpg" title="For the HOARD!" classes="center" >}}
 
 I don't need to herd pigs, because I can be a dragon frying knights and ransoming princesses in HOARD. This little actioner came out last year, and I meant to try it out when it first came out, but for whatever reason did not. Now that EverQuest 2 has stopped taking up so much of my time, I'm branching out.
 

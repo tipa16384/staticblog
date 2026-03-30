@@ -3,40 +3,17 @@ date: '2009-10-28T18:20:17-05:00'
 draft: false
 title: "EVE Online breaking news: CVA dissolved"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/28/eve-online-breaking-news-cva-dissolved/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The mega-EVE alliance Curatores Veritatis Alliance (CVA), one of the alliances that keep the nullsec Providence region mostly safe and pirate free, was dissolved today...."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-09-13-11-23-00-48.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-09-13-11-23-00-48.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-09-13-11-23-00-48.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-09-13-11-23-00-48.jpg"
 ---
+The mega-EVE alliance Curatores Veritatis Alliance (CVA), one of the alliances that keep the nullsec Providence region mostly safe and pirate free, was dissolved today....
+<!--more-->
 
-![Random EVE screenie that has nothing to do with this story. But cool Titan, eh?](https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-09-13-11-23-00-48.jpg "Random EVE screenie that has nothing to do with this story. But cool Titan, eh?")
+
 
 The mega-EVE alliance Curatores Veritatis Alliance (CVA), one of the alliances that keep the nullsec Providence region mostly safe and pirate free, was dissolved today. [CVA leaders are calling it an account hacking](http://www.eveonline.com/ingameboard.asp?a=topic&threadID=1205265) and have vowed to either get CCP to roll the hack back or to form a new alliance from the ashes of the old.
 

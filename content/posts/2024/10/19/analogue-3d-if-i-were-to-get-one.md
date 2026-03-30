@@ -3,43 +3,21 @@ date: '2024-10-19T08:00:00-05:00'
 draft: false
 title: "Analogue 3D: If I were to get one..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/10/19/analogue-3d-if-i-were-to-get-one/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Do I love Nintendo 64 games enough to buy a $250 console that would bring them into the 21st century?"
-description: "Do I love Nintendo 64 games enough to buy a $250 console that would bring them into the 21st century?"
-tags:
+categories:
   - "Beyond Shadowgate"
   - "Nintendo 64"
+tags:
   - "Analogue"
   - "Hybrid Heaven"
   - "Legend of Zelda"
   - "Paper Mario"
   - "Perfect Dark"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/analogue3d.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/10/analogue3d.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/analogue3d.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/analogue3d.png"
 ---
+Do I love Nintendo 64 games enough to buy a $250 console that would bring them into the 21st century?
+<!--more-->
 
 Yes, I know that the [Nintendo 64](https://en.wikipedia.org/wiki/Nintendo_64) was already sold well into the 21st century. You knew what I meant.
 
@@ -53,19 +31,19 @@ I'm going to *try*, though. I still actually have my original N64 from the 90s, 
 
 Analogue promises to make these games look and play *better* than they did on the original hardware. So, *if* I get one -- and that's a big *IF* -- here's what I'm looking forward to (re)playing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image.png" title="Shadowgate 64" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image.png" title="Shadowgate 64" classes="center" >}}
 
 Having recently played through Beyond Shadowgate, I was surprised to find that some version of the game had been released on the Nintendo 64.  The plot seems similar to that of both the original Beyond Shadowgate for the Turbografix and the new one for Steam, with legally-distinct hobbit Del Cottonwood once again trying to stop the Dark Lord from being resurrected and making everyone feel really bad.
 
 It goes for about $35 on FleaBay for just the cartridge, or around ten decabucks for the complete-in-box version. If I do get the A+3D, this is going on my shopping list.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-1-1024x770.png" title="Paper Mario" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-1-1024x770.png" title="Paper Mario" classes="center" >}}
 
 This isn't a screenshot of the game, this is a [handcrafted diorama](https://gamernostalgia.com/products/paper-mario-64) that you can buy. But I thought it looked cute enough to share.
 
 Weirdly, I haven't played Paper Mario. I haven't played Super Mario Galaxy, the premiere flagship game for the system. I just thought at the time that I'd had approximately enough Mario for one lifetime. But, it's been just about one lifetime since Paper Mario came out, and it might be time to give the chubby little feller another chance. My ~~boyfriend~~ partner (he says we're too old to say girlfriend/boyfriend) bought me Super Mario RPG for the SNES, which I played a little of -- then he went and played through the remake in like three days. It's a good game. If I get the Analogue 3D, Paper Mario is going on the list.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-2.png" title="Hybrid Heaven" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-2.png" title="Hybrid Heaven" classes="center" >}}
 
 This is a weird game. It's an action RPG with a really complicated experience system where skills, weapons, and even your arms and legs gain experience separately. It reminds me of Parasite Eve, that old PlayStation game which was just *weird*, and wonderful.
 
@@ -73,11 +51,11 @@ I still have Parasite Eve downstairs. But I have never played Hybrid Heaven. Cos
 
 I miss Blockbuster. We'd get all the games we wanted for three bucks for a weekend. Now I have to pay premium prices for them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-3.png" title="Perfect Dark" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-3.png" title="Perfect Dark" classes="center" >}}
 
 I don't play shooters much, but sometimes I do. I slept on Perfect Dark. Ima fix that if I get the Analogue 3D. It's cheap (relatively) on fleaBay. It's by Rare, it's going to be a fun time.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-4-1024x512.png" title="Ocarina of Time and Majora's Mask" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-4-1024x512.png" title="Ocarina of Time and Majora's Mask" classes="center" >}}
 
 Of course I played *these* two games. I have one or both of them downstairs even, and if I don't, I know Kasul does. I was over Mario in the 90s, but I still wasn't over Link. I may not play all the way through these, but they're going to at least give me a chance to see how they look on the new system.
 

@@ -3,38 +3,16 @@ date: '2020-07-27T11:32:54-05:00'
 draft: false
 title: "Ghost of Tsushima: Act III complete. (Spoilers!)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/07/27/ghost-of-tsushima-act-iii-complete-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Since at least the thumbnail to this post will be shared where people who have not completed Ghost of Tsushima will see it, I headed..."
+categories:
   - "PS4"
+tags:
   - "Ghost of Tsushima"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200726212441.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200726212441.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200726212441.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200726212441.jpg"
 ---
+Since at least the thumbnail to this post will be shared where people who have not completed Ghost of Tsushima will see it, I headed...
+<!--more-->
 
 Since at least the thumbnail to this post will be shared where people who have not completed Ghost of Tsushima will see it, I headed this with a picture of Jin and Yuna limping together off the battlefield after the final battle with the Khan. But, it was clear from almost the beginning of Act II that this game would not have a happy ending.
 
@@ -42,23 +20,23 @@ In history, the Mongols invaded Tsushima twice. The first time, they swept throu
 
 But this is a game that is not afraid to rewrite history in order to tell its story about what is left when we no longer have family, love, legacy or tradition, and are left with only the drive to do whatever is necessary. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200726213545-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200726213545-1024x576.jpg" classes="center" >}}
 
 Almost everything I know about *samurai* I learned from watching Kurosawa movies, and so I imagine I know nothing at all about them. When Shimura and Sakai meet after the final battle, and Shimura says he has been in contact with the *shogun* and clan Sakai is dissolved, and that Jin himself is an outlaw without clan or honor that is to be killed, I expected Jin to perform *seppuku* to atone. Jin sat and wrote one final *haiku*. But Shimura was in agony as well, and dueled the man who was to be his son and heir on the grounds where they'd practiced together so often in flashbacks. The game gives you a final, terrible choice: Kill your uncle with honor after he loses the duel, or let him live with the shame of his loss as you walk away, refusing to end the life of your last connection with your past.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200726211225-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200726211225-1024x576.jpg" classes="center" >}}
 
 Khotei Khan is one of gaming's great villains. (Although entirely fictional). He is a monster, but he is a *smart* monster. When Jin begins to use unconventional tactics for a short term win, he is quick to adopt those same tactics for himself to make his coming attack on the mainland all the more devastating. He isn't a barbarian warlord. Ordered to occupy Japan by his cousin Kublai, he has spent years studying the Japanese culture, language, and *samurai*. He knows as much about the *bushido* culture as Shimura, and he knows how to use it against them.
 
 Sakai is the fly in the ointment. He doesn't act as *samurai* are supposed to act. Saved from the rout at Komodo Beach by the thief Yuna, and literally guided by the spirit of his father (who we learn was more similar to Jin than Shimura would ever tell), Jin becomes a supernatural force of vengeance and a human leader of people.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200725224014-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200725224014-1024x576.jpg" classes="center" >}}
 
 The game introduces new powers and abilities -- *techniques* -- at a fairly decent rate. Techniques build upon the various stats of the various armors you gain to make Sakai a one man army, able to stand toe-to-toe to an army (killing five of them outright and terrifying the others), or striking from the shadows, killing the enemy in ones and threes, building the legend of the Ghost as you go.
 
 When you finally come to a decision about whether to treat a defeated enemy with honor or brutality, and make the decision to give up your honor to become a force for terror, you unlock the Ghost Stance. Sakai pays the ultimate blood price for the power to free his homeland.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200726150619-1024x576.jpg" title="I knew who \"Matsu\" was the moment she showed up." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200726150619-1024x576.jpg" title="I knew who \"Matsu\" was the moment she showed up." classes="center" >}}
 
 For all the story, this is still a game, and like all games of this type, there are collectibles and mini-games to break up the flow. I mostly felt the mini-games were tedious, with some exceptions.
 
@@ -66,7 +44,7 @@ For all the story, this is still a game, and like all games of this type, there 
 
 Resolve was crucial to my build. Since this statistic controls how often you can heal or perform certain special moves, I focused on Resolve, and almost all of my charms went toward regaining this precious statistic. By the end, I could perform many Heavenly Strikes in each boss battle, making many of the duels trivial. Only the extended stages to the Khan fight had me hoarding resolve points to make sure I had sufficient healing to make it through.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/Ghost-of-Tsushima_20200720233642-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/Ghost-of-Tsushima_20200720233642-1024x576.jpg" classes="center" >}}
 
 When I started this game, I continually compared it to similar games I'd played somewhat recently -- *Red Dead Redemption 2*, *Horizon: Zero Dawn*, *Rise of the Tomb Raider*. It is broadly similar in mechanics to all these games, and most especially *Tomb Raider*. Jin's character arc is the opposite of RDR2's Arthur Morgan -- Arthur regains his humanity and dies with honor (at least if you played as I did), while Jin loses his humanity and his honor to become a living instrument of terror. HZD's Aloy keeps expanding her world and experience, while Jin just wants desperately to regain a past that is gone forever. TR's Lara Croft, of course, lives for the jumping puzzles. She can always rely on herself in a pinch and needs nobody. She'd consider Jin's moping about a weakness.
 

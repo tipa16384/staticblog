@@ -3,40 +3,17 @@ date: '2006-01-17T00:00:00-05:00'
 draft: false
 title: "A Trip to Darnassus"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/17/a-trip-to-darnassus/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm building up my leatherworking and I need LOTS of leather. Wetlands seemed like a good place, so I went to the excavation site and..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/images/darn.jpg"
-cover:
-  image: "https://chasingdings.com/images/darn.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/darn.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/darn.jpg"
 ---
+I'm building up my leatherworking and I need LOTS of leather. Wetlands seemed like a good place, so I went to the excavation site and...
+<!--more-->
 
-![](https://chasingdings.com/images/darn.jpg)
+
 
 I'm building up my leatherworking and I need LOTS of leather. Wetlands seemed like a good place, so I went to the excavation site and decided to thin the raptor population. Sometimes a night elf would come up to me and say something. It took me awhile, but I finally realized from the way they were pointing out of the excavation while looking at me, that they were inviting me back to their home city.
 

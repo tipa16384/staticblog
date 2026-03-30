@@ -3,39 +3,18 @@ date: '2011-01-20T07:56:08-05:00'
 draft: false
 title: "So who is this XFire person, anyway?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/20/so-who-is-this-xfire-person-anyway/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1202011-71647-AM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1202011-71647-AM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1202011-71647-AM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1202011-71647-AM.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1202011-71647-AM.jpg "XFire screenshot")](https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-1202011-71647-AM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-1202011-71647-AM.jpg)
 
 Xfire is a background program for gamers that provides basic matchmaking for some games, instant messaging, the ability to capture audio, screen shots and movies while gaming and track WoW achievements and time spent gaming. According to its home page, it has nearly 18 million registered users (which is not the same as active or current users). 121,602 gamers are logged in at the time I am writing this.
 

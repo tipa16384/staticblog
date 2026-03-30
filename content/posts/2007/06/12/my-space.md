@@ -3,50 +3,25 @@ date: '2007-06-12T19:21:11-05:00'
 draft: false
 title: "My Space"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/06/12/my-space/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Cuppy of Cuppycake.org asked bloggers to post pictures of their gaming setups. Mine's in a bit of a flux; my main gaming computer just died,..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/stp60499.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/06/stp60499.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/stp60499.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/stp60499.jpg"
 ---
+Cuppy of Cuppycake.org asked bloggers to post pictures of their gaming setups. Mine's in a bit of a flux; my main gaming computer just died,...
+<!--more-->
 
 Cuppy of Cuppycake.org asked bloggers to [post pictures of their gaming setups](http://www.cuppycake.org/?p=110). Mine's in a bit of a flux; my main gaming computer just died, and I have a laptop replacement.
-
-![stp60499.jpg](https://chasingdings.com/wp-content/uploads/2007/06/stp60499.jpg)
 
 Here's mine. The left rear screen is for Supernova, my recently deceased computer. In front of it is Darkstar, its replacement (after a star goes supernova, it becomes a dark star... Hey, my LAN is called GALAXY, I have to keep with the theme). The widescreen and keyboard to the right are  Baphomet, my Linux computer and the one I use to watch movies and program. Waaaay to the left you can see a bit of my 15" TV, and on top of that is Spock's Brain, the external USB drive enclosure that has Nova's main drive in it. You knoew you're a geek when you just happen to have a USB drive enclosure lying around.
 
 Anyway, Cuppy's upped the ante with her workplace, but mine is boring. A laptop connected to a docking station, I haven't brought anything of my own there yet.
 
-![stp60502.jpg](https://chasingdings.com/wp-content/uploads/2007/06/stp60502.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/stp60502.jpg" classes="center" >}}
 
 Now, for consoles, our trusty Wii and Playstation 2. We have a Nintendo 64, SNES, Dreamcast, Sega Saturn, a Colecovision and an Atari 2600 packed away. My son, who plays Readysetboom! on Nagafen, is holding down the couch...
 
-![stp60503.jpg](https://chasingdings.com/wp-content/uploads/2007/06/stp60503.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/stp60503.jpg" classes="center" >}}
 
 Dunno why people are so concerned with people's bookcases; here's a couple of mine. The rest are in my bedroom, which is messy...

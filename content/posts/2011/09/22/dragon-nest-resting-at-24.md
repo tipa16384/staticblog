@@ -3,40 +3,17 @@ date: '2011-09-22T22:31:03-05:00'
 draft: false
 title: "Dragon Nest: Resting at 24"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/09/22/dragon-nest-resting-at-24/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't played Dragon Nest since I hit level 24, the current maximum, a few weeks back. I understood something about myself and my relation..."
+categories:
   - "Dragon Nest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/09/DragonNest-2011-09-22-21-26-10-46-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/09/DragonNest-2011-09-22-21-26-10-46-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/DragonNest-2011-09-22-21-26-10-46-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/DragonNest-2011-09-22-21-26-10-46-480x384.jpg"
 ---
+I haven't played Dragon Nest since I hit level 24, the current maximum, a few weeks back. I understood something about myself and my relation...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/09/DragonNest-2011-09-22-21-26-10-46-480x384.jpg" title="Going berzerk on minos" class="align-center" >}}
+
 
 I haven't played Dragon Nest since I hit level 24, the current maximum, a few weeks back. I understood something about myself and my relation to MMOs at that moment; I like the leveling. I really do. Once I've leveled, I've seen the game, time to move on. The "end game" used to be incredibly important to me, but now there are so many games to play, that I just treat the end of leveling as the "end" of the game. I don't know if I could deal with EverQuest's year to level any more. Not that it takes that long to level in EverQuest these days. But if another game were to offer it, I doubt I'd go for it.
 

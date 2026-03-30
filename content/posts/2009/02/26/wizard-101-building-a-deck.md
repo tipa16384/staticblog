@@ -3,47 +3,23 @@ date: '2009-02-26T08:50:13-05:00'
 draft: false
 title: "Wizard 101: Building a deck"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/26/wizard-101-building-a-deck/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wizard 101 is built around a card game, and that card game is built around your deck. Deck construction can be tricky. I was talking..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Colossus Boulevard"
   - "Decks"
   - "Marleybone"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg"
 ---
+Wizard 101 is built around a card game, and that card game is built around your deck. Deck construction can be tricky. I was talking...
+<!--more-->
 
 Wizard 101 is built around a card game, and that card game is built around your deck. Deck construction can be tricky. I was [talking with a friend](http://shatteredblog.wordpress.com/) about building decks for collectible card games last night, and he told me of some people who would bring massive decks of eighty or more cards to a tournament. How could that player ever get the card he wanted?
 
 How indeed? In the best Wizard 101 decks, you always get the card you want.
-
-![wizardgraphicalclient-2009-02-25-21-32-59-54](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-59-54.jpg "wizardgraphicalclient-2009-02-25-21-32-59-54")
 
 These are the cards I turned up in my first round against two Ice school cats in Marleybone, as my 27 Balance wizard, Allison. Every single card in that draw, I will use.
 
@@ -51,7 +27,7 @@ If you've ever found yourself madly discarding cards to get to the card you want
 
 Even though each new world gives you newer and bigger card boxes, even though you have so many spells available, you can easily win normal fights with just a few copies of a few cards and never get a card you don't want to play.
 
-![wizardgraphicalclient-2009-02-25-21-32-45-82](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-45-82.jpg "wizardgraphicalclient-2009-02-25-21-32-45-82")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-32-45-82.jpg" title="wizardgraphicalclient-2009-02-25-21-32-45-82" classes="center" >}}
 
 This is Allison's regular deck. It can't hold all that many cards, but even so, it only uses just over half. Aside from the two heals from the Life school, there aren't even any spells from another school in the deck. Her secondary school is death, but there's no death school spells that are better than the equivalent balance school spell until Feint, for which she needs one more training point. After which Feint (+70% damage to target, you take +30% damage, costs 1 pip) will be in the deck.
 
@@ -63,7 +39,7 @@ Now add in your traps, blades, shields, heals and other similar cards. You need 
 
 There are seven damage cards in her deck and nine zero pip trap/blade/shield spells. Doesn't she need more zero pip cards to charge up her damage spells?
 
-![wizardgraphicalclient-2009-02-25-21-40-10-21](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-10-21.jpg "wizardgraphicalclient-2009-02-25-21-40-10-21")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-10-21.jpg" title="wizardgraphicalclient-2009-02-25-21-40-10-21" classes="center" >}}
 
 No, because she has a little extra selection of cards that come from the items she is wearing or wielding. Her staff gives a bunch of nukes that are perfect for charging up spells, removing enemy traps (especially that -50% damage shield ice mobs are so happy to cast), and finishing off mobs who aren't yet ready to find honest work.
 
@@ -71,15 +47,15 @@ This is a good time to mention choosing the best pet and amulet for your wizard.
 
 The sole purpose of amulets are to give you an extra spell. That's it. So which extra spell to choose? A six pip Minotaur? Well, maybe if you're a Myth wizard. But for his base damage (around 575 over two hits?), Allison could cast two Spectral Blasts for potentially double the damage.
 
-[![wizardgraphicalclient-2009-02-25-21-40-47-99](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-47-99.jpg "wizardgraphicalclient-2009-02-25-21-40-47-99")](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-47-99.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-47-99.jpg" title="wizardgraphicalclient-2009-02-25-21-40-47-99" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-47-99.jpg)
 
-[![wizardgraphicalclient-2009-02-25-21-40-58-82](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-58-82-225x225.jpg "wizardgraphicalclient-2009-02-25-21-40-58-82")](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-58-82.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-58-82-225x225.jpg" title="wizardgraphicalclient-2009-02-25-21-40-58-82" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-58-82.jpg)
 
 While Fire Elf isn't a balance school spell, it IS one of the most efficient damage spells in the game, and is well worth the two pips necessary to cast it, especially if you don't have to waste a power pip to do so. Plus it effectively prevents enemies from keeping fire shields up, which is handy if your attacks include a fire component, as those of balance wizards can, and you're facing ice mobs, who will happily waste their time putting up fire shield after fire shield.
 
 Pets are very nice and it's lots of fun to collect them. But the ones you use in battle should also be helping out in the fight. Allison uses the Jade Oni from Dragonspyre, which adds a five pip balance spell to her deck. She had to fight a lot of monsters, open a lot of chests and sell a lot of trash loot for the money to buy that pet, but if you're going to get a pet for the card it gives, it should be the best one, right?
 
-[![wizardgraphicalclient-2009-02-25-21-40-22-31](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-22-31.jpg "wizardgraphicalclient-2009-02-25-21-40-22-31")](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-22-31.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-22-31.jpg" title="wizardgraphicalclient-2009-02-25-21-40-22-31" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-40-22-31.jpg)
 
 But wait! We can't forget treasure cards! These live on your sideboard and are the one reason why you might want a larger deck -- to put more treasure cards into play. These cards just sit around doing nothing until you really need them. So, the treasure cards you choose should be the ones that you use when you REALLY have to have a specific card RIGHT NOW.
 
@@ -93,13 +69,13 @@ That's, after all, why we can trade treasure cards, right?
 
 But what if things go horribly wrong, just disastrous, and you run out of cards? What then?
 
-[![wizardgraphicalclient-2009-02-25-21-18-52-71](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-18-52-71.jpg "wizardgraphicalclient-2009-02-25-21-18-52-71")](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-18-52-71.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-18-52-71.jpg" title="wizardgraphicalclient-2009-02-25-21-18-52-71" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-18-52-71.jpg)
 
 There is a little old lady in Colossus Boulevard that has your answer. You can buy a Reshuffle card from her for one training point (free if you're a balance wizard). When you play Reshuffle, all the cards you have played or discarded, except for treasure cards, are placed back in your deck. If you're daring, you could even have fewer cards in your main deck and just always plan on using a Reshuffle during a fight.
 
 That would be living on the edge.
 
-[![wizardgraphicalclient-2009-02-25-21-14-24-65](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-14-24-65.jpg "wizardgraphicalclient-2009-02-25-21-14-24-65")](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-14-24-65.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-14-24-65.jpg" title="wizardgraphicalclient-2009-02-25-21-14-24-65" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009-02-25-21-14-24-65.jpg)
 
 The little old card seller, who also sells Life Trap and three counterspells for elemental magics, sits in a huge house at the end of a long alley near Mandy in Colossus. Pay her a visit sometime, I understand she loves visitors. She's so lonely, living there, far away from the Commons, selling spell cards that are available no place else in the Spiral!
 

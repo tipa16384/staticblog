@@ -3,41 +3,19 @@ date: '2021-10-18T08:24:56-05:00'
 draft: false
 title: "Dungeon Encounters: For Those Who Skip Cutscenes"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/18/dungeon-encounters-for-those-who-skip-cutscenes/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "DM: You see an encounter before you Party: I don't recognize this one. Hmmm. Okay, everyone, brace up, we're heading in! DM: It is a..."
+categories:
   - "Dungeon Encounters"
   - "PS4"
   - "Rogue-Likes"
   - "Tactical RPG"
+tags:
   - "Square-Enix"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016205159-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016205159-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016205159-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016205159-scaled.jpg"
 ---
+DM: You see an encounter before you Party: I don't recognize this one. Hmmm. Okay, everyone, brace up, we're heading in! DM: It is a...
+<!--more-->
 
 DM: *You see an encounter before you*
 Party: I don't recognize this one. Hmmm. Okay, everyone, brace up, we're heading in!
@@ -49,13 +27,13 @@ After my original party was sucked in by a black hole, and I'd taken a new chara
 
 I see a lot of reviews ragging on Dungeon Encounters for stripping out story, world, graphics, animation and all that we've come to expect from our JRPGs. But for my money, Dungeon Encounters finds beauty and challenge in its stark simplicity.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211015214834-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211015214834-scaled.jpg)Game Start
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211015214834-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211015214834-scaled.jpg)Game Start
 
 An labyrinth of a hundred floors mysteriously appears one day; the local Academy is hiring adventures to explore the depths. This has been going on for some time; many adventurers have been lost far beneath the surface. As your first action, you will assemble a party from the adventurers gathered at the entrance to the labyrinth.
 
 *Note: You will see in the Party Composition screen that there are some other adventures on the top level but not yet at the Academy. Go get them and bring them. If you wipe and need to make a new party, only those adventurers actually at the Academy -- location 00 -- will be available.*
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016001802-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016001802-scaled.jpg)A small trading camp on the twelfth level
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016001802-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211016001802-scaled.jpg)A small trading camp on the twelfth level
 
 You're not given any starting money, so the various vendors (a white two digit number starting with "1") have nothing to sell you, but you can see from the items on offer that equipment gets more powerful over time, but doesn't offer much variety in battle. Most of the really *good* stuff you will find by solving puzzles and opening treasure chests.
 
@@ -79,7 +57,7 @@ Additionally, the party can find and equip Abilities. These are separated into B
 
 Similar to PP, abilities require ability points -- AP -- to slot, and this can only be done at an Ability Altar (03). Most abilities can only be used a certain number of times, before they must be refreshed at an Adventurer's Rest (04). The game is careful about giving you just a few fewer points than you need slot all the useful abilities. If you're clearing a map, maybe you don't need to abilities to change dungeon level or look for wandering adventurers so much. Ability points are granted for visiting unmapped squares on the map.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211017233152-1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211017233152-1-scaled.jpg)Back at the Academy
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211017233152-1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211017233152-1-scaled.jpg)Back at the Academy
 
 75% of the encounters are just going to be breaking a monster's defense and burning down their health. 25% are going to make you sweat. The items you find and equip will synergize to make previously unthinkably deadly encounters manageable. Math puzzles will lead you on wild goose chases across the map; I have a solution that I think was targeting a location a few levels below my deepest delve. I'll have no way of knowing if my solution was correct until I get there.
 

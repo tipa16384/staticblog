@@ -3,40 +3,17 @@ date: '2008-12-30T22:58:09-05:00'
 draft: false
 title: "Character design in Spellborn"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/30/character-design-in-spellborn/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Erisa, a spellcaster. Her name is an inside joke :)..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-19-14-54-40.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-19-14-54-40.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-19-14-54-40.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-19-14-54-40.jpg"
 ---
+Erisa, a spellcaster. Her name is an inside joke :)...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-19-14-54-40.jpg "sb_client-2008-12-30-19-14-54-40")
+
 
 *Erisa, a spellcaster. Her name is an inside joke :)*
 
@@ -48,27 +25,27 @@ Many character creators these days are pages of sliders for every physical dimen
 
 Still, you can make some cool characters :)
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-18-40-27-83.jpg "sb_client-2008-12-30-18-40-27-83")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-18-40-27-83.jpg" title="sb_client-2008-12-30-18-40-27-83" classes="center" >}}
 
 Stout Henry. Heavy human male model. Little armor, blunt weapons.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-18-40-39-47.jpg "sb_client-2008-12-30-18-40-39-47")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-18-40-39-47.jpg" title="sb_client-2008-12-30-18-40-39-47" classes="center" >}}
 
 Tipa. Heavy human female. She looks as if she's been swinging a sword her whole life.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-18-45-34-13.jpg "sb_client-2008-12-30-18-45-34-13")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-18-45-34-13.jpg" title="sb_client-2008-12-30-18-45-34-13" classes="center" >}}
 
 Willowy human female.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-18-49-52-82.jpg "sb_client-2008-12-30-18-49-52-82")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-18-49-52-82.jpg" title="sb_client-2008-12-30-18-49-52-82" classes="center" >}}
 
 Holyoke. Non-human female.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-19-10-12-20.jpg "sb_client-2008-12-30-19-10-12-20")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-19-10-12-20.jpg" title="sb_client-2008-12-30-19-10-12-20" classes="center" >}}
 
 The Incredible Holk. Yeah, I wanted to see if I could make a comic book character. Huge human male.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-18-59-32-93.jpg "sb_client-2008-12-30-18-59-32-93")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-18-59-32-93.jpg" title="sb_client-2008-12-30-18-59-32-93" classes="center" >}}
 
 Thin human male. If you work at it, you can make some cool looking characters. THIS guy could tell some stories.
 
@@ -78,7 +55,7 @@ Oh yeah, and the rapidly shrinking red bar that represents my health.
 
 So, tonight I played Erisa, the spell caster. She's an albino with glowing red eyes, and she wields a sword which was forged a hundred million years ago by the... She's no relation to you-know-who. Really.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/combo.jpg "combo")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/combo.jpg" title="combo" classes="center" >}}
 
 When I finally dinged 2 (finally!), I didn't want to just toss all my new, shiny skill points straight into Mind because, could that be bad? I know that the subclasses you get depend upon putting some points in another attribute, so would that really be the best for me?
 

@@ -3,24 +3,8 @@ date: '2011-01-01T06:00:01-05:00'
 draft: false
 title: "Daily Blogroll 1/1/11 -- Happy New Year edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/01/daily-blogroll-1111-happy-new-year-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Age of Conan"
   - "Allods Online"
   - "Daily Blogroll"
@@ -32,20 +16,15 @@ tags:
   - "Star Trek"
   - "Tabula Rasa"
   - "Warhammer: Age of Reckoning"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-31-16-51-43-97-480x384.jpg "Beta 3")](https://chasingdings.com/wp-content/uploads/2010/12/rift-2010-12-31-16-51-43-97.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/rift-2010-12-31-16-51-43-97.jpg)
 
 We're way behind on our latest project at work, so I' spent most of Friday working. I did take a break, though, to log on and participate in the final Beta 3 invasion event this afternoon. I'd spent all night (until 4:30AM) leveling my cleric from 12 to 20, and though I didn't get a chance to visit the Iron Tombs, I did want to help keep Freemarch free. I'd leveled from 16 to 18 in a raid group at one of Thursday's invasions. That also earned me nearly enough planar currency to get some nice epic items. I logged on, joined in, and earned enough to get some "purple" leggings. Good stuff.
 
@@ -149,6 +128,6 @@ Well, people have been asking for a fantasy FPS for some time... but I'm not sur
 
 I've just started following Viiral of Epic-Hero.com. Viiral's blog showcases the latest in Asian MMOs; pretty cool stuff. You can find the latest and greatest about new games such as Tera there. [His latest post](http://epic-hero.com/adventure-logs/finding-neverland-online-tw-a-log-4/) brings us "Finding Neverland Online", a game which doesn't look to have fallen far from the DOMO/Florensia tree as far as graphics and UI go.
 
-![](https://chasingdings.com/wp-content/uploads/2011/01/noeyes.jpg "No Eyes!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/noeyes.jpg" title="No Eyes!" classes="center" >}}
 
 I take it all back. This no eyes girl gives me the creeps.

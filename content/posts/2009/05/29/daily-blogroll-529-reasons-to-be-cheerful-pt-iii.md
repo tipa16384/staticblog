@@ -3,24 +3,8 @@ date: '2009-05-29T07:54:40-05:00'
 draft: false
 title: "Daily Blogroll 5/29 -- Reasons to be Cheerful, Pt III"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/29/daily-blogroll-529-reasons-to-be-cheerful-pt-iii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Welcome to another Friday! Got plans for the weekend? I'm planning to take a short break from EVE Online and get caught up on a..."
+categories:
   - "Age of Conan"
   - "Daily Blogroll"
   - "EVE Online"
@@ -30,20 +14,13 @@ tags:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg"
 ---
+Welcome to another Friday! Got plans for the weekend? I'm planning to take a short break from EVE Online and get caught up on a...
+<!--more-->
 
-![everquest2-2009-05-17-07-38-31-44](https://chasingdings.com/wp-content/uploads/2009/05/everquest2-2009-05-17-07-38-31-44.jpg "everquest2-2009-05-17-07-38-31-44")
+
 
 Welcome to another Friday! Got plans for the weekend? I'm planning to take a short break from EVE Online and get caught up on a beta, Mabinogi, Wizard 101 and will reinstall EQ2 to see if that fixes the problems I'm having with it freezing on launch.
 
@@ -63,7 +40,7 @@ Meanwhile, Hudson has finally realized what we Nostalgians figured out last year
 
 Meanwhile, Syp is over in the Lone Lands working through the ruins and watching Hunters flee past him at warpspeed. Hunter can't take a hit? [Syp's Captain likes a good fight](http://biobreak.wordpress.com/2009/05/28/lotro-i-am-hero/)!
 
-Ogrebears [doesn't agree with me](http://ogrebear.com/?p=993) that EQ3 (if there is such a game) [would be built on the Free Realms engine](https://chasingdings.com/index.php/2009/05/28/will-everquest-iii-be-free-realms-ii/) because the constant hits of endless and continual downloading as the game streams to the player would be a deal-killer. Well, I dunno. They could stream it in larger chunks. Wizard 101 does a similar streaming thing, and though there are delays when you open a new area, it's not too bad and it's only once.
+Ogrebears [doesn't agree with me](http://ogrebear.com/?p=993) that EQ3 (if there is such a game) [would be built on the Free Realms engine](https://tipa16384.github.io/wkblog/index.php/2009/05/28/will-everquest-iii-be-free-realms-ii/) because the constant hits of endless and continual downloading as the game streams to the player would be a deal-killer. Well, I dunno. They could stream it in larger chunks. Wizard 101 does a similar streaming thing, and though there are delays when you open a new area, it's not too bad and it's only once.
 
 Damion of Zen of Design [examines how EVE Online keeps growing](http://www.zenofdesign.com/2009/05/28/eves-slow-burn/), while most MMOs have a spike-and-fall subscription model. Make a unique game, don't try to chase trends, keep your vision and play the underdog. EVE Online has more subscribers that Warhammer, EQ, or EQ2, is likely closing in on LotRO, and still keeps that indie niche game cred. How does it do it?
 

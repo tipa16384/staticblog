@@ -3,43 +3,22 @@ date: '2011-01-14T06:00:42-05:00'
 draft: false
 title: "Daily Blogroll 1/14 -- Old Character's Home edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/14/daily-blogroll-114-old-characters-home-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Rift"
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/openmike-480x270.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/openmike-480x270.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/openmike-480x270.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/openmike-480x270.png"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/openmike-480x270.png "openmike")](https://chasingdings.com/wp-content/uploads/2011/01/openmike.png)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/openmike.png)
 
 Who owns your MMO character? The game companies say they do, but they didn't put hundreds of hours into turning the character from an animated paper doll into a person with relationships, memories, friends, victories, stories and history. But it's precisely because you HAVE taken the time and done all these things that the companies can keep running their game. But as long as game companies control access to your character, you're paying them so that you can add value to their game.
 

@@ -3,40 +3,18 @@ date: '2025-03-19T07:56:22-05:00'
 draft: false
 title: "Malifaux: New Crew Two"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/03/19/malifaux-new-crew-two/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Rasputina meets the alien, mind-controlling Cadmus project on the streets of Malifaux City."
-description: "Rasputina meets the alien, mind-controlling Cadmus project on the streets of Malifaux City."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "New Crew"
   - "The Haven"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/newleague2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/03/newleague2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newleague2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/newleague2.png"
 ---
+Rasputina meets the alien, mind-controlling Cadmus project on the streets of Malifaux City.
+<!--more-->
 
 I'd say you never know what to expect when you're going into a Malifaux match, but I'd be wrong about this one. I knew I'd be facing Cadmus this week, and I had time to prepare.
 

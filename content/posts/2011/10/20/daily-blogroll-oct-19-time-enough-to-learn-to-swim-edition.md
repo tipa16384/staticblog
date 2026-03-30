@@ -3,24 +3,8 @@ date: '2011-10-20T05:00:04-05:00'
 draft: false
 title: "Daily Blogroll Oct 19: Time enough to learn to swim edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/10/20/daily-blogroll-oct-19-time-enough-to-learn-to-swim-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If you were given six months to live, you wouldn't spend it leveling up a new character in some MMORPG. You'd want to do something..."
+categories:
   - "7DRL"
   - "Daily Blogroll"
   - "MMORPG"
@@ -28,18 +12,11 @@ tags:
   - "Star Corsairs"
   - "Star Wars the Old Republic"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/ffxivgame-2011-10-18-19-43-58-81-480x234-1.jpg"
 ---
+If you were given six months to live, you wouldn't spend it leveling up a new character in some MMORPG. You'd want to do something...
+<!--more-->
 
 If you were given six months to live, you wouldn't spend it leveling up a new character in some MMORPG. You'd want to do something that gave your life meaning. Six months at the end of your life isn't more valuable than six months right now. In fact, six months right now is way better. Truth is, your friends and family don't care that you leveled a character. They care about the time you spent with them. (Fact is, it's almost certain nobody in the world cares about your achievements in video games, and in a couple of years, neither will you).
 
@@ -51,9 +28,9 @@ It was with some trepidation that I read about Damion Schubert (lead systems des
 
 > Hardcore gaming isn't dead -- all of the big 'mainstream' successes (WoW, Starcraft, Wizards 101, Facebook games) have a hardcore path, and work hard to convert their casual gamers into hardcore gamers. But doing so may require rethinking your definition of 'hardcore', and what it means in your particular game.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/10/wowtravel-480x421.jpg "WoW travel poster")](https://chasingdings.com/wp-content/uploads/2011/10/wowtravel.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/wowtravel-480x421.jpg" title="WoW travel poster" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/10/wowtravel.jpg)
 
-[![](https://chasingdings.com/wp-content/uploads/2011/10/Myth-2011-10-19-23-13-25-50-480x281.jpg "Mythos")](https://chasingdings.com/wp-content/uploads/2011/10/Myth-2011-10-19-23-13-25-50.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/Myth-2011-10-19-23-13-25-50-480x281.jpg" title="Mythos" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/10/Myth-2011-10-19-23-13-25-50.jpg)
 
 I still love games and I still love MMOs and I still plan to write about them -- but I'll have to enjoy the sixteen hour raids and repeated nights after nights of failures against a big boss until eventual victory makes it all worthwhile in other people's writings.
 

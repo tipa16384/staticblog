@@ -3,26 +3,11 @@ date: '2008-11-01T11:22:27-05:00'
 draft: false
 title: "Wizard 101: October 30 update and the Cave of Sorrows"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/01/wizard-101-october-30-update-and-the-cave-of-sorrows/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Still working on Shoshuni Village quests. I cleared out all the quests in the Cave of Sorrows, a place of treacherous paths and ramps and..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Cave of Sorrow"
   - "Crowns"
   - "Dragonspyre"
@@ -31,21 +16,15 @@ tags:
   - "RMT"
   - "Spooky Bob"
   - "W101"
+  - "Wizard101"
   - "Zeke the Prospector"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg"
 ---
+Still working on Shoshuni Village quests. I cleared out all the quests in the Cave of Sorrows, a place of treacherous paths and ramps and...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-08-29-11-18.jpg "wizardgraphicalclient-2008-11-01-08-29-11-18")
+
 
 Still working on Shoshuni Village quests. I cleared out all the quests in the Cave of Sorrows, a place of treacherous paths and ramps and stuff that you have to cross dozens of times, and am now purifying the shrines in the other zone off Shoshuni, Kimise(?) Village. That is home to three shrines that will, when cleansed, weaken the Plague Oni enough so that I can defeat it.
 
@@ -57,7 +36,7 @@ About halfway through level 40. Since the instance xp nerf makes it nearly impos
 
 All the people now sitting around, done with Moo Shu, waiting for Dragonspyre will all be running the new zone when it opens. I'd rather be able to run through it with people, rather than largely soloing, as in Moo Shu. It was easy to find groups from Wizard City through Marleybone, but MS, perhaps because it is so spread out, just feels empty.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-00-08-56-06.jpg "wizardgraphicalclient-2008-11-01-00-08-56-06")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-00-08-56-06.jpg" title="wizardgraphicalclient-2008-11-01-00-08-56-06" classes="center" >}}
 
 Good news for RMT haters. As of the most recent patch, all the regular RMT clothes Zeke the Shill sells are now available for purchase with regular gold. So now, there's no reason not to have the best outfits you can afford.
 

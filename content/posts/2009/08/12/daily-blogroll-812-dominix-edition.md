@@ -3,24 +3,8 @@ date: '2009-08-12T07:45:14-05:00'
 draft: false
 title: "Daily Blogroll 8/12 - Dominix edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/12/daily-blogroll-812-dominix-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "EVE Online wants you to make money. It's hard NOT to be swimming in the stuff. So your given level 3 mission might have a..."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "EVE Online"
@@ -29,20 +13,13 @@ tags:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg"
 ---
+EVE Online wants you to make money. It's hard NOT to be swimming in the stuff. So your given level 3 mission might have a...
+<!--more-->
 
-![It looks better on the inside.](https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-11-22-18-43-82.jpg "It looks better on the inside.")
+
 
 EVE Online wants you to make money. It's hard NOT to be swimming in the stuff. So your given level 3 mission might have a couple dozen enemies in it. You get a bounty on every one you kill, they drop loot which can sell for a fair bit, can be salvaged for loot worth a million or more (sometimes much more) if you get a decent price, and many have asteroids that you can mine with very little danger that anyone will locate you. I've been sending my mining proceeds to one of the corp officers, and last night he parked a battleship at the local trading hub for me -- the mainstay of the Gallente Federation Navy, the Dominix drone tank battleship. Half a kilometer of hurt clad in a meter-thick skin of tritanium. Now I have to train for a few days to be able to fly it to my base in Aunia -- the EVE Online equivalent of bringing a new battery and a pair of jumper cables to check out a used car. (THANKS, RED!!!)
 

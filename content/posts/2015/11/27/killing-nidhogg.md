@@ -3,40 +3,17 @@ date: '2015-11-27T09:19:20-05:00'
 draft: false
 title: "Killing Nidhogg"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/11/27/killing-nidhogg/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was a night of revelations! And dragons! And cutscenes!..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-27-08h15m35s105.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-27-08h15m35s105.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/vlcsnap-2015-11-27-08h15m35s105.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/vlcsnap-2015-11-27-08h15m35s105.jpg"
 ---
+It was a night of revelations! And dragons! And cutscenes!...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-27-08h15m35s105.jpg" title="That moment you realize your whole life has been a lie..." class="align-center" >}}
+
 
 It was a night of revelations! And dragons! And cutscenes!
 
@@ -50,7 +27,7 @@ Everyone was appropriately aghast that when we killed dragons, we were likely ki
 
 Staggered by these revelations, we decided to check up on the Sultana Nanamo.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-27-08h34m24s111.jpg" title="Sleeping Sultana" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/vlcsnap-2015-11-27-08h34m24s111.jpg" title="Sleeping Sultana" classes="center" >}}
 
 We'd also known for a long time that the Sultana had not been killed that night when the Crystal Braves and the Immortal Flames had joined forces to betray the Scions of the Seventh Dawn and their beloved Sultana and deposed her with a sip of poison. The Sultana had wanted to dissolve the ruling Syndicate, abdicate, and form a parliamentary government comprised both of the wealthy, the commoners, and the Ala Mhigan refugees they had taken in. The Syndicate had a problem with this.
 
@@ -60,7 +37,7 @@ Leaving Raubahn alive was not according to Lolorito's plan. After we tracked dow
 
 Expect there to be more repercussions down the line as the Sultana still intends to abdicate.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-27-08h52m11s253.jpg" title="Staring down Nidhogg with his own eye!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/vlcsnap-2015-11-27-08h52m11s253.jpg" title="Staring down Nidhogg with his own eye!" classes="center" >}}
 
 That pause had allowed Cid, Biggs and Wedge to finish development on single-person flying craft called Mana Cutters, the only craft capable of piercing the magical storm around Nidhogg's lair, the Aery. Nidhogg could not be killed by mortals, unless Estinien the Azure Dragoon could contain the dragon's power with one of the two eyes that were taken from him in ages past (another cutscene explains how he could lose two eyes yet still have one remaining).
 
@@ -70,7 +47,7 @@ Estinien shows up for the Nidhogg fight. It's going to take him some time to get
 
 But, all went well for us, if not so well for the dragon. Nidhogg was defeated, and Estinien removed his remaining eye and handed it to me. I then returned it to its rightful owner.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/vlcsnap-2015-11-27-09h10m21s235.jpg" title="Lahabrea returns!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/vlcsnap-2015-11-27-09h10m21s235.jpg" title="Lahabrea returns!" classes="center" >}}
 
 Meanwhile, back at Ishgard, Iceheart's heretics attacked the city, but the Ishgardian defenders, already mustered to repel Nidhogg's Dravanian army, expect them to be no challenge. The Archbishop believed the heretic attack will allow the Ishgard rank and file to look every more for help from the Holy See, and dismissed the council. Only then did the Ascian Lahabrea, the otherworlder responsible for the Garlemand invasion that formed much of the Main Scenario, reveal himself. The Archbishop had claimed that he had been just drawing out the Ascians for more information, but it becomes clear that, like Saruman before him, he had been co-opted by the enemy.
 

@@ -3,44 +3,21 @@ date: '2008-01-21T08:23:33-05:00'
 draft: false
 title: "Vanguard: The Newbie Fields"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/21/vanguard-the-newbie-fields/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Vanguard has its problems; Stargrace mentioned last night while we were chatting that you really should think of it as still being in beta and..."
+categories:
   - "MMORPG"
   - "Vanguard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/vgclient-2008-01-20-19-24-59-80.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/vgclient-2008-01-20-19-24-59-80.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/vgclient-2008-01-20-19-24-59-80.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/vgclient-2008-01-20-19-24-59-80.jpg"
 ---
+Vanguard has its problems; Stargrace mentioned last night while we were chatting that you really should think of it as still being in beta and...
+<!--more-->
 
-![vgclient-2008-01-20-19-24-59-80.jpg](https://chasingdings.com/wp-content/uploads/2008/01/vgclient-2008-01-20-19-24-59-80.jpg)
+
 
 Vanguard has its problems; [Stargrace](http://mmoquests.com/) mentioned last night while we were chatting that you really should think of it as still being in beta and that's right on. And we now know from former Sigil employees that the artwork was in place, but most of the quests were written by new hires in the last year of development so in short, the game is absolutely beautiful, but the quests are rote and the game isn't all that stable.
 
-![vgclient-2008-01-20-19-35-13-42.jpg](https://chasingdings.com/wp-content/uploads/2008/01/vgclient-2008-01-20-19-35-13-42.jpg) My first few hours were plagued by bugs and disappointments, such as having to ramp back the resolution I play at in order to get acceptable performance. But I moved past that. Since I have Station Pass on my main account, Vanguard is free for me as long as I keep up the subscription; so I will be able to check in now and then.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/vgclient-2008-01-20-19-35-13-42.jpg" classes="fig-20" >}} My first few hours were plagued by bugs and disappointments, such as having to ramp back the resolution I play at in order to get acceptable performance. But I moved past that. Since I have Station Pass on my main account, Vanguard is free for me as long as I keep up the subscription; so I will be able to check in now and then.
 
 Vanguard players are passionate about their game. They know about WoW and EQ2 and consider both games for kids. In the Thestra general chat, aside from chatting about Cloverfield and the Packers game, were fears that SOE would be bastardizing the game to make it more palatable for players of other games.
 

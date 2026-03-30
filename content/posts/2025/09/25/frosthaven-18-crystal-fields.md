@@ -3,39 +3,16 @@ date: '2025-09-25T08:09:25-05:00'
 draft: false
 title: "Frosthaven #18 -- Crystal Fields"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/09/25/frosthaven-18-crystal-fields/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Back to Frosthaven with an entirely new threat -- and a weighty decision to make."
-description: "Back to Frosthaven with an entirely new threat -- and a weighty decision to make."
-tags:
+categories:
   - "Frosthaven"
   - "Game Night"
   - "Tabletop Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/frosthaven-20250924.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/09/frosthaven-20250924.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/frosthaven-20250924.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/frosthaven-20250924.png"
 ---
+Back to Frosthaven with an entirely new threat -- and a weighty decision to make.
+<!--more-->
 
 I've been working so hard on Dune: Awakening and my new [Daily Blogroll app](https://gamepad.club/@Tipa/115264473610635090) (more on that later) that I haven't been *blogging* as much.
 
@@ -43,13 +20,13 @@ Part of the problem there is that mostly I am in Dune. With games like that, eit
 
 But tonight (or rather last night), we played Frosthaven, and so in *this* post, we're talking about that.
 
-[Last time we played](https://chasingdings.com/2025/09/11/frosthaven-114-work-freeze/), we were helping a gnome crew clear a pass through some deadly mountains. We'd have liked to continue with that, but the crew leader told us we would not be needed for a few weeks. This ties into Frosthaven's calendar system, where things happen on specific days and dates. For instance, in game, we are coming to the end of summer, and winter is closing in. This affects the sorts of events we'll have available to us, and the kinds of things that will happen to this remote outpost of Frosthaven once support from the warmer climes shuts off.
+[Last time we played](https://tipa16384.github.io/wkblog/2025/09/11/frosthaven-114-work-freeze/), we were helping a gnome crew clear a pass through some deadly mountains. We'd have liked to continue with that, but the crew leader told us we would not be needed for a few weeks. This ties into Frosthaven's calendar system, where things happen on specific days and dates. For instance, in game, we are coming to the end of summer, and winter is closing in. This affects the sorts of events we'll have available to us, and the kinds of things that will happen to this remote outpost of Frosthaven once support from the warmer climes shuts off.
 
 To that end, we have raised Frosthaven's prosperity enough that we could build another section of the wall (and make Gloomhaven pay for it?). This moves Kasul's necromancer closer to retirement, so it's good for him and good for the outpost, which will almost certainly be seeing more attacks as winter makes fighting easier for the invading Algox and harder for the defenders.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-37-1024x616.png" title="Burrowing Blades were the enemy du jour" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-37-1024x616.png" title="Burrowing Blades were the enemy du jour" classes="center" >}}
 
-To that end, we decided to continue with the Algox questline and make our way through the field of ice crystal conduits on the trail of an Algox shaman [who tried to kill us](https://chasingdings.com/2025/08/26/frosthaven-scenario-10-crystal-enclosure/) a few weeks back. We had to abandon the sled when the conduits crowded too thickly, and had to proceed on foot until we got to a clearing covered with the aftermath of a battle.
+To that end, we decided to continue with the Algox questline and make our way through the field of ice crystal conduits on the trail of an Algox shaman [who tried to kill us](https://tipa16384.github.io/wkblog/2025/08/26/frosthaven-scenario-10-crystal-enclosure/) a few weeks back. We had to abandon the sled when the conduits crowded too thickly, and had to proceed on foot until we got to a clearing covered with the aftermath of a battle.
 
 Dead Algox were everywhere. We couldn't tell if our quarry was among the dead or not. But probably not, as dead Algox started coming back to life. Pfft, undead are easy. This is going to be cake.
 

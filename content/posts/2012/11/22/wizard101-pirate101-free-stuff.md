@@ -3,41 +3,18 @@ date: '2012-11-22T22:31:36-05:00'
 draft: false
 title: "Wizard101 & Pirate101 Free Stuff!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/11/22/wizard101-pirate101-free-stuff/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, here's a code you won't have to jump through hoops to use. If you redeem the code PirateGold at Pirate101.com, you'll win up to..."
+categories:
   - "MMORPG"
   - "Pirate101"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg"
 ---
+Well, here's a code you won't have to jump through hoops to use. If you redeem the code PirateGold at Pirate101.com, you'll win up to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/Pirate-2012-11-22-22-15-34-33-480x360.jpg" title="Gold!" class="align-center" >}}
+
 
 Well, here's a code you won't have to jump through hoops to use. If you redeem the code **PirateGold** at Pirate101.com, you'll win up to 5000 gold. Up to -- I got 3000, but hey, free gold. Can buy a couple new fittings for that ship you just got with that gold.
 

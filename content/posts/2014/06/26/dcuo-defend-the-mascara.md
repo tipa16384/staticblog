@@ -3,41 +3,19 @@ date: '2014-06-26T18:40:37-05:00'
 draft: false
 title: "DCUO: Defend The Mascara!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/06/26/dcuo-defend-the-mascara/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night's endlessly rescheduled Neverwinter foundry night was rescheduled, so it was off to #DCUO . Blighted had suggested a Themyscira Divided run, if I..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://lh3.googleusercontent.com/-ewB2eN7BACY/U6qudpjF-MI/AAAAAAAAwCE/HWsLyIal0N8/w907-h680-no/DCGame+2014-06-24+23-39-11-40.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-ewB2eN7BACY/U6qudpjF-MI/AAAAAAAAwCE/HWsLyIal0N8/w907-h680-no/DCGame+2014-06-24+23-39-11-40.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-ewB2eN7BACY/U6qudpjF-MI/AAAAAAAAwCE/HWsLyIal0N8/w907-h680-no/DCGame+2014-06-24+23-39-11-40.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-ewB2eN7BACY/U6qudpjF-MI/AAAAAAAAwCE/HWsLyIal0N8/w907-h680-no/DCGame+2014-06-24+23-39-11-40.jpg"
 ---
+Last night's endlessly rescheduled Neverwinter foundry night was rescheduled, so it was off to #DCUO . Blighted had suggested a Themyscira Divided run, if I...
+<!--more-->
 
-![Fighting Circe](https://lh3.googleusercontent.com/-ewB2eN7BACY/U6qudpjF-MI/AAAAAAAAwCE/HWsLyIal0N8/w907-h680-no/DCGame+2014-06-24+23-39-11-40.jpg)
+
 
 Last night's endlessly rescheduled Neverwinter foundry night was rescheduled, so it was off to #DCUO  . Blighted had suggested a Themyscira Divided run, if I happened to be available, and I suddenly was :) It was a pretty good league turnout for an off night, with Sting, Clara, Spode and Blighted doing feats and instances when I logged in.
 

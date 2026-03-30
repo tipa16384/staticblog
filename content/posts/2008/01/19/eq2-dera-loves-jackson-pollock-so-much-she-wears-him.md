@@ -3,40 +3,17 @@ date: '2008-01-19T12:28:16-05:00'
 draft: false
 title: "EQ2: Dera loves Jackson Pollock SO MUCH, she wears him."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/19/eq2-dera-loves-jackson-pollock-so-much-she-wears-him/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When you ding in EQ2, everyone knows. When you ding 80, there's an explosion of light and a legion of angels fly down from Heaven..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-19-01-02-28-37.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-19-01-02-28-37.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-19-01-02-28-37.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-19-01-02-28-37.jpg"
 ---
+When you ding in EQ2, everyone knows. When you ding 80, there's an explosion of light and a legion of angels fly down from Heaven...
+<!--more-->
 
-![everquest2-2008-01-19-01-02-28-37.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-19-01-02-28-37.jpg)
+
 
 When you ding in EQ2, everyone knows. When you ding 80, there's an explosion of light and a legion of angels fly down from Heaven calling your name.
 
@@ -48,7 +25,7 @@ People who just want to kick butt and cause pain wear PLATE. Fluffy HEALERS wear
 
 Damn right. Inquisitors are a DPS class and now everyone knows.
 
-![everquest2-2008-01-19-08-35-20-04.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-19-08-35-20-04.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-19-08-35-20-04.jpg" classes="center" >}}
 
 But what is UP with that armor design? It's like a blind person who'd never held a paintbrush tried to paint an incredibly detailed, monochrome rendering of a Candyland board on my armor.
 

@@ -3,40 +3,18 @@ date: '2020-06-01T11:45:20-05:00'
 draft: false
 title: "EverQuest introduces \"appointment gaming\"; bring on the Abashi Server?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/01/everquest-introduces-appointment-gaming-bring-on-the-abashi-server/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't written much about our adventures on the Aradune server in EverQuest largely because we haven't had very much time to adventure on the..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Abashi"
   - "Aradune"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-05-31-08-05-57-78.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-05-31-08-05-57-78.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-05-31-08-05-57-78.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-05-31-08-05-57-78.jpg"
 ---
+I haven't written much about our adventures on the Aradune server in EverQuest largely because we haven't had very much time to adventure on the...
+<!--more-->
 
 I haven't written much about our adventures on the Aradune server in EverQuest largely because we haven't had very much time to adventure on the Aradune server in EverQuest.
 
@@ -44,7 +22,7 @@ Our experience has been the same as [everyone](https://tagn.wordpress.com/2020/0
 
 This happened to me. I was in a two and a half hour queue. I left the computer to go continue working on building my 3D printer for awhile. My BF yelled at me to come log in to EverQuest. I missed what he was saying, and he came into the kitchen to tell me to log in. I ran to the office. The game was at character select. Before I could press the button to enter the world, though, it tossed me back to server select. He was logged in. It was another three hours before I could enjoy grouping up with him.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-05-30-13-36-55-10.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-05-30-13-36-55-10.jpg" classes="center" >}}
 
 Once we're in game, it's fine -- it's actually exactly what I was hoping for. As an SK and a shaman, we're fine off by ourselves or in a group. He's taken up tailoring and smithing, and I'm working on baking, just as we planned. I spent a couple of hours running a bard on the Erudin to Qeynos mail run for some early plat with which to buy some basic armor, just as I'd done in the Mangler trial run.
 
@@ -52,13 +30,13 @@ It's the queue. It really is. You can't log in and join friends because you'll n
 
 Yup, they're still there.
 
-![](https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-01-07-04-04-00.jpg)bots.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-01-07-04-04-00.jpg" classes="center" >}}bots.
 
 This bot team has been camping the SE undead camp in Nektulos forest for the past couple of days. They are still there; I just now took this picture, Monday morning. A skeleton spawns. They stand together, send in their pets, nuke, then when the skeleton is dead, they sit down. They have not moved an inch from this spot. I don't know when they first got here, but they were here every time I checked yesterday and are there right now.
 
 It's a popular camping spot. I don't resent them taking it. I just resent that they are clearly bots and are not leaving the game to let actual players in.
 
-![](https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-01-07-03-53-87.jpg)bots.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-01-07-03-53-87.jpg" classes="center" >}}bots.
 
 This little bot team is over on the wall by the same camp. They haven't moved at all. Same as the necro duo -- they were there all day yesterday and are still there right now. Four characters, probably waiting for the other bot team to leave the camp. And taking up four player slots that real players could take up.
 

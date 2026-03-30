@@ -3,37 +3,12 @@ date: '2009-04-25T09:00:12-05:00'
 draft: false
 title: "Star Trek Countdown: Taking the Science out of Science Fiction"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/25/star-trek-countdown-taking-the-science-out-of-science-fiction/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Anticipating the new Trek movie out next month, I picked up the prequel comics that set up the movie. Trek's good, right? Lots of real..."
+categories:
   - "Sci Fi"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Anticipating the new Trek movie out next month, I picked up the prequel comics that set up the movie. Trek's good, right? Lots of real...
+<!--more-->
 
 Anticipating the new Trek movie out next month, I picked up the prequel comics that set up the movie. Trek's good, right? Lots of real SF writers have written for the various Treks. I know that ST is based on stuff that may not be possible in reality, like faster than light travel and teleportation, but I'll give them that much.
 

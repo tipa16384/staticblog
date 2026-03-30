@@ -3,24 +3,8 @@ date: '2009-09-10T08:00:41-05:00'
 draft: false
 title: "Daily Blogroll 9/10 - Launch Madness edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/10/daily-blogroll-910/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Was there ever a mob that you really, REALLY hated as a low level, that you just HAD to go back later on and just..."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "EverQuest"
@@ -28,20 +12,13 @@ tags:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg"
 ---
+Was there ever a mob that you really, REALLY hated as a low level, that you just HAD to go back later on and just...
+<!--more-->
 
-![Buh bye, Dorn](https://chasingdings.com/wp-content/uploads/2009/09/EverQuest2-2009-09-09-22-49-15-60.jpg "Buh bye, Dorn")
+
 
 Was there ever a mob that you really, REALLY hated as a low level, that you just HAD to go back later on and just kill, kill, kill? Well, old Dorn in North Ro was that mob for a lot of us EQ players. Seeing him CRINGE before me now in EQ2.... Worth the ride!
 

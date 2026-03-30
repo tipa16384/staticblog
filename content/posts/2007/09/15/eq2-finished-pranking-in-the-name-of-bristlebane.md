@@ -3,40 +3,17 @@ date: '2007-09-15T01:22:35-05:00'
 draft: false
 title: "EQ2: Finished Pranking in the name of Bristlebane"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/09/15/eq2-finished-pranking-in-the-name-of-bristlebane/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Leave it to Bristlebane to have a favorite pet who looks designed by a committee. A drunk committee. That had just spent a sleepless night..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/09/beloved.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/09/beloved.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/beloved.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/beloved.jpg"
 ---
+Leave it to Bristlebane to have a favorite pet who looks designed by a committee. A drunk committee. That had just spent a sleepless night...
+<!--more-->
 
-![beloved.jpg](https://chasingdings.com/wp-content/uploads/2007/09/beloved.jpg)
+
 
 Leave it to Bristlebane to have a favorite pet who looks designed by a committee. A *drunk* committee. That had just spent a sleepless night being chased by giant pink rabbits.
 
@@ -56,7 +33,7 @@ And so I was off to Antonica to look for a really big egg that we could use ~~fo
 
 The moo-saur was so happy, she gave me an egg. I brought it back to the little man at the docks and he hatched it... and then put me INSIDE it! I'd been pranked! I ran around and scared the bejeezers out of the two prophets and then... I couldn't talk to anyone... except to say MOO! in unusual ways... nor could I figure out how to return to my own body... so I camped and when I returned I was me once more... and the moo-saur had shrunk and become my own little pet...!
 
-![catcow.jpg](https://chasingdings.com/wp-content/uploads/2007/09/catcow.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/catcow.jpg" classes="center" >}}
 
 More like Moo-CAT! The little critter thinks my bed is hers... and the cloak the haffer gave me made me even SMALLER!
 

@@ -3,42 +3,20 @@ date: '2025-01-29T09:00:00-05:00'
 draft: false
 title: "Malifaux: Booty &amp; Plunder"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/29/malifaux-booty-plunder/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Rasputina and her crew are painted and ready for \"primed\" time in her first serious match-up."
-description: "Rasputina and her crew are painted and ready for \"primed\" time in her first serious match-up."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "CaptainCon"
   - "December"
   - "Rasputina"
   - "The Haven"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/bootyplunder.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/bootyplunder.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/bootyplunder.png"
 ---
+Rasputina and her crew are painted and ready for "primed" time in her first serious match-up.
+<!--more-->
 
 It's four days until CaptainCon. Kasul is sick in bed; we're hoping he's well enough for the trip to Rhode Island. I was sent alone to Enfield, December box in hand, to save the family honor.
 
@@ -68,7 +46,7 @@ Now, you don't get points for killing models, and while my big models (**Ceddra*
 
 By turn 4 I had just four models left, and I hadn't killed any of his. We talked out the rest of the game and agreed on a final score of 8-5. I think I did pretty good for being entirely outmatched.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/image-40-1024x257.png" title="Some of my models before deployment" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/image-40-1024x257.png" title="Some of my models before deployment" classes="center" >}}
 
 Ceddra died way too easily. She can equip mutations when she shapeshifts. I don't have the box they come from, but I *need* those. I found them online and printed them, so I have them now. Her and Snow Storm dying so quickly was a tragedy. I have to do better, and I will.
 

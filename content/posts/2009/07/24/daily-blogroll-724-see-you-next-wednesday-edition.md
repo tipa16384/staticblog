@@ -3,44 +3,21 @@ date: '2009-07-24T06:31:36-05:00'
 draft: false
 title: "Daily Blogroll 7/24 -- See You Next Wednesday edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/24/daily-blogroll-724-see-you-next-wednesday-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Aside from just being a shout-out to John Landis fans, I will be away on family business all weekend, returning Tuesday. I don't know if..."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "EVE Online"
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-23-23-33-35-79.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-23-23-33-35-79.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-23-23-33-35-79.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-23-23-33-35-79.jpg"
 ---
+Aside from just being a shout-out to John Landis fans, I will be away on family business all weekend, returning Tuesday. I don't know if...
+<!--more-->
 
-![Dying gracefully in WoE](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-23-23-33-35-79.jpg "Dying gracefully in WoE")
+
 
 Aside from just being [a shout-out to John Landis fans](http://en.wikipedia.org/wiki/See_You_Next_Wednesday), I will be away on family business all weekend, returning Tuesday. I don't know if I'll bring my laptop, but I won't be gaming in any event.
 

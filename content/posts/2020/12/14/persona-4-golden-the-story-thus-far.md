@@ -3,40 +3,18 @@ date: '2020-12-14T07:22:29-05:00'
 draft: false
 title: "Persona 4 Golden: The Story Thus Far"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/12/14/persona-4-golden-the-story-thus-far/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In a more consistent world, I'd have played Persona 4 before I played Persona 5. Not because the plots or characters of the two games..."
+categories:
   - "CRPG"
   - "Steam Games"
+tags:
   - "Persona"
   - "RPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/20201209215453_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/12/20201209215453_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201209215453_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/20201209215453_1.jpg"
 ---
+In a more consistent world, I'd have played Persona 4 before I played Persona 5. Not because the plots or characters of the two games...
+<!--more-->
 
 In a more consistent world, I'd have played Persona 4 before I played Persona 5. Not because the plots or characters of the two games are at all connected; they are not. It's because I am continually seeing the P4 characters and plot through a P5 lens. And, I think this is maybe spoiling some plot twists for me, twists that P5 players were supposed to have been expecting.
 
@@ -44,7 +22,7 @@ All Persona games share a similar theme. A series of supernatural events ensnare
 
 The hero can evoke new Personas by defeating shadows and merging them with the help of a mysterious man known as Igor, who is aided by mysterious companions. As they work through the Shadow world, they learn of a larger plot that could endanger the entire world.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/20201213213302_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/20201213213302_1-1024x576.jpg" classes="center" >}}
 
 The Persona games are lighter, more casual spinoffs of a grimmer, darker series, the Shin Megami Tensei series, though they share a lot of elements.
 
@@ -52,7 +30,7 @@ I've played the original Persona game on the Playstation a really long time ago.
 
 Persona 4 Golden, the version I am playing, is a remaster of the original PS2 Persona 4 game for the PS Vita and remastered again for Steam. The graphics are high resolution and I'd never have known it was a PS2 original. It comes on sale now and again, and I bought it on one of those sales. After watching my boyfriend play through Persona 3 and watching the first episode of the Persona 4 anime, I was ready to have more Persona in my life.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/20201212182732_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/20201212182732_1-1024x576.jpg" classes="center" >}}
 
 The protagonist, whom I named after one of my cats, is a student sent to live with his uncle, a police detective, in the rural town of Inaba. The Inaba downtown is struggling because a Walmart-like omnistore, Junes (Joo-ness), has set up shop on the outskirts and is slowly sucking up all the commerce. 
 
@@ -62,7 +40,7 @@ Locals sometimes watch the "Midnight Channel" on TV. Legend has it that if you t
 
 He and his friend Yosuke (yo-skay), whose family owns Junes, use the bigger display TVs in the store to enter and explore the TV universe on the other side. There they meet this game's mascot, Teddie, a hollow, top-shaped creature who claims to be a bear and fills them in on the rules of this shadow universe.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/20201213165623_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/20201213165623_1-1024x576.jpg" classes="center" >}}
 
 Persona 4 follows the same general arc after that; the Protagonist goes to school, joins clubs, gets a part time job, and in other ways forms bonds with his friends and the other people in town. The "real life" portion of the Persona games is as important as the dungeon crawling and Shadow battling.
 

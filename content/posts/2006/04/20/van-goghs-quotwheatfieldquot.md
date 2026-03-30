@@ -3,40 +3,17 @@ date: '2006-04-20T00:00:00-05:00'
 draft: false
 title: "Van Gogh&#039;s &quot;Wheatfield&quot;"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/04/20/van-goghs-quotwheatfieldquot/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I have to send more spam for work today. Some more styles we're trying to get rid of. The last time, just for fun, I..."
+categories:
   - "My Work"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/images/wheatfield.jpg"
-cover:
-  image: "https://chasingdings.com/images/wheatfield.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/wheatfield.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/wheatfield.jpg"
 ---
+I have to send more spam for work today. Some more styles we're trying to get rid of. The last time, just for fun, I...
+<!--more-->
 
-![](https://chasingdings.com/images/wheatfield.jpg)
+
 
 I have to send more spam for work today. Some more styles we're trying to get rid of. The last time, just for fun, I put the pictures of the outfits we're hawking in front of a Renoir landscape... and people liked it... they made our clothes look sunnier, classier...
 

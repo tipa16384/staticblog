@@ -3,46 +3,26 @@ date: '2010-11-05T07:04:10-05:00'
 draft: false
 title: "Star Trek Online: What Lies Beneath"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/05/star-trek-online-what-lies-beneath/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Devidian"
   - "Drozana"
   - "Ferengi"
   - "Hologram"
   - "Starfleet"
   - "Time Travel"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-10-30-14-15-57-85-480x385.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-10-30-14-15-57-85-480x385.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-10-30-14-15-57-85-480x385.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-10-30-14-15-57-85-480x385.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-10-30-14-15-57-85-480x385.jpg "Murder most foul")](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-10-30-14-15-57-85.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-10-30-14-15-57-85.jpg)
 
 There were Bad Things prowling the depths of Drozana Station's maintenance decks in Star Trek Online's Halloween-themed episode, "What Lies Beneath".
 
@@ -54,7 +34,7 @@ Last week, an undercover operative working both for Starfleet AND the Klingon Em
 
 We didn't expect much trouble. How dangerous could some insubstantial ghosts really be?
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-10-30-15-02-47-95-480x384.jpg "Who ya gonna call?")](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-10-30-15-02-47-95.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-10-30-15-02-47-95-480x384.jpg" title="Who ya gonna call?" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-10-30-15-02-47-95.jpg)
 
 The darkened corridors below were brightened only by the single flashlight we found in a box just before the first bulkhead. Our sensors were mostly useless; tricorder scans showed only the closest results, everything else being masked by the pervasive triolic radiation. The Devidians were certainly in evidence, but there were also signs of another danger...
 

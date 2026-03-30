@@ -3,56 +3,35 @@ date: '2010-06-25T06:56:40-05:00'
 draft: false
 title: "Fists of Fu: Beat 'em Up MMOs go Platform"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/06/25/fists-of-fu-beat-em-up-mmos-go-platform/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Fists of Fu"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76-480x197.jpg "PvP Victory Screen")](https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/06/EastFantasy-2010-06-25-00-17-09-76.jpg)
 
 ***Note: Fists of Fu is currently in a short closed beta period. I expect open beta to start fairly soon.***
 
 You'd hardly know Outspark's [Fists of Fu](http://fistsoffu.outspark.com/) is an MMO to look at it. What we usually consider an MMO has a long history back through MUDs and to the pre-history of tabletop, pen-and-paper games. You learn to expect adventure to come at a fairly slow and sedate pace.
 
-The Beat 'em Up MMO genre, though, has no time for thought. With its roots in arcade games like the 80s video game [Double Dragon](http://en.wikipedia.org/wiki/Double_Dragon), the only real decisions you need to make are how close to get and which combo to use. THQ*Ice's [Dragonica Online](https://chasingdings.com/index.php/2009/08/25/a-first-look-at-dragonica-online/) may be the most prominent example of the genre here in the US. Outspark hopes to raise Beat 'm Up MMOs to a new level with Fists of Fu.
+The Beat 'em Up MMO genre, though, has no time for thought. With its roots in arcade games like the 80s video game [Double Dragon](http://en.wikipedia.org/wiki/Double_Dragon), the only real decisions you need to make are how close to get and which combo to use. THQ*Ice's [Dragonica Online](https://tipa16384.github.io/wkblog/index.php/2009/08/25/a-first-look-at-dragonica-online/) may be the most prominent example of the genre here in the US. Outspark hopes to raise Beat 'm Up MMOs to a new level with Fists of Fu.
 
 Known also as East Fantasy, Fists of Fu has its roots in Nexon's Beat 'm Up MMO "[Elsword](http://steparu.com/reviews/mmo-rpg-reviews/90-elsword-season-2-review)", with which it shares the gameplay engine and [a few other things](http://ggftw.com/forum/elsword/77993-fists-fu-east-fantasy-list-noteworthy-stuff.html). Both Elsword and Fists of Fu take the standard side-scrolling action and add elements of platform games to it. This tends to slow down the action somewhat as you spend time trying to get your enemies all at approximately the same level on the screen so that your combos hit for maximum effectiveness.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-24-23-59-17-70-480x357.jpg "Outside the Inn")](https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-24-23-59-17-70.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/06/EastFantasy-2010-06-24-23-59-17-70-480x357.jpg" title="Outside the Inn" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/06/EastFantasy-2010-06-24-23-59-17-70.jpg)
 
 New players won't spend much time in the character creator. You have six characters to choose from, male and female varieties of the mage, warrior and archer which, at level 20, can subclass to more specialized versions of each. You will see and group with many, many copies of your character, which can become especially embarrassing in team or PvP play when you lose track of which of the identical characters is yours. By level 6, I still looked identical to every female archer I met. Eventually gear differences and cash shop appearance clothing will allow you to somewhat set your own style.
 
 Once created, a short tutorial goes over the basics of movement, fighting and basic combos. You are then dumped with a thousand other new characters into the starting village, little more than a row of quest-giving NPCs who teach you about the battle maps, PvP, enchanting items and daily quests. You now have all you need to succeed in Fists of Fu.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-06-41-45-32-480x255.jpg "Map Selection Screen")](https://chasingdings.com/wp-content/uploads/2010/06/EastFantasy-2010-06-25-06-41-45-32.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/06/EastFantasy-2010-06-25-06-41-45-32-480x255.jpg" title="Map Selection Screen" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/06/EastFantasy-2010-06-25-06-41-45-32.jpg)
 
 Unlike Dragonica Online, there are no open-world combat maps. All the PvE combat is done by selecting maps from various combat hubs. Once selected, you can choose a difficulty (Solo/Beginner, Expert and Hardcore, beating one unlocks the next) and try to form a team if you don't have one. You're briefly shown an overview of the map, and then you're off. Run toward the right and kill everything you see. In the final section of the map lives the Monster King, a far more powerful (and larger!) creature who hits hard to start and once shifted into its fury mode, can unleash a wide variety of one-shot kill attacks. Best to be running the other way when it starts to flash red.
 

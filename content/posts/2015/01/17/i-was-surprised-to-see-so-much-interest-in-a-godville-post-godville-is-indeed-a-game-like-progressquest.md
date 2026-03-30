@@ -3,38 +3,15 @@ date: '2015-01-17T02:31:06-05:00'
 draft: false
 title: "Godville: Dungeon Run"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/17/i-was-surprised-to-see-so-much-interest-in-a-godville-post-godville-is-indeed-a-game-like-progressquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was surprised to see so much interest in a #Godville post :) Godville is indeed a game like ProgressQuest, a parody of MMOs where..."
+categories:
   - "Godville"
   - "Other Games"
-featured_image: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
-cover:
-  image: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
+thumbnailImage: "https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg"
 ---
+I was surprised to see so much interest in a #Godville post :) Godville is indeed a game like ProgressQuest, a parody of MMOs where...
+<!--more-->
 
 I was surprised to see so much interest in a  [#Godville](https://plus.google.com/s/%23Godville)  post :) Godville is indeed a game like ProgressQuest, a parody of MMOs where it seemed all you would do is just grind gear... forever.
 
@@ -64,6 +41,8 @@ No ark wood for me.
 
 But there ya go, a Godville dungeon run.
 
-I have PLENTY of Godville invites (not that you need one!).﻿[![](https://lh6.googleusercontent.com/-IWUZmew2OuE/VLnFtlji8HI/AAAAAAAA-xo/4QcGZ8L1mrg/w506-h750/Fullscreen%2Bcapture%2B1162015%2B71447%2BPM.jpg)]()
+I have PLENTY of Godville invites (not that you need one!).﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/PAKrhV3qspp)

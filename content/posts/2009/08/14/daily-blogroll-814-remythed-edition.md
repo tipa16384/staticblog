@@ -3,42 +3,19 @@ date: '2009-08-14T06:58:49-05:00'
 draft: false
 title: "Daily Blogroll 8/14 - Remythed Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/14/daily-blogroll-814-remythed-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Apparently, Diablo-esque MMO Mythos, formerly developed by the Diablo-esque developers of Diablo, who lost the rights to their game to Korean publisher HanbitSoft, is apparently..."
+categories:
   - "Daily Blogroll"
   - "Lord of the Rings"
   - "MMORPG"
   - "Mythos"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/mythostease.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/mythostease.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/mythostease.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/mythostease.jpg"
 ---
+Apparently, Diablo-esque MMO Mythos, formerly developed by the Diablo-esque developers of Diablo, who lost the rights to their game to Korean publisher HanbitSoft, is apparently...
+<!--more-->
 
-![The Resurrection of Mythos?](https://chasingdings.com/wp-content/uploads/2009/08/mythostease.jpg "The Resurrection of Mythos?")
+
 
 Apparently, Diablo-esque MMO [Mythos](http://en.wikipedia.org/wiki/Mythos_%28computer_game%29), formerly developed by the [Diablo-esque developers](http://en.wikipedia.org/wiki/Flagship_Studios) of Diablo, who lost the rights to their game to Korean publisher [HanbitSoft](http://www.hanbitsoft.com/about/company/about_hanbit.asp), is apparently ... coming. Details are slim, but it looks as if Redbana, publishers of the [online dance game Audition](http://audition.redbana.com/), will also be taking on a newly relaunched Mythos. Head to [the Mythos site](http://www.mythos.com/) to sign up for the beta... [Thanks to Heartless_](http://hgamer.blogspot.com/2009/08/mythos-something-is-coming.html) for spotting their solitary tweet on Twitter about this!
 

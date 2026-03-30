@@ -3,42 +3,21 @@ date: '2022-10-29T15:51:15-05:00'
 draft: false
 title: "Star Trek Prodigy: Supernova"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/10/29/star-trek-prodigy-supernova/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Out of all the new-era Star Trek shows, Star Trek Prodigy is the one that strays furthest from the basic template. It's the first targeted..."
+categories:
   - "Action Adventure Games"
   - "Puzzle Games"
   - "Star Trek"
   - "Video Game"
+tags:
   - "Check It"
   - "Pew Pew"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/10/star-trek-header-mobile.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/10/star-trek-header-mobile.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Star Trek"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/star-trek-header-mobile.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/star-trek-header-mobile.webp"
 ---
+Out of all the new-era Star Trek shows, Star Trek Prodigy is the one that strays furthest from the basic template. It's the first targeted...
+<!--more-->
 
 Out of all the new-era Star Trek shows, Star Trek Prodigy is the one that strays furthest from the basic template. It's the first targeted specifically toward children, and the first that, at least at first, doesn't involve Starfleet.
 
@@ -52,7 +31,7 @@ When an alien teen named Dal discovers a Federation starship in a deep mine, he 
 
 As the first season progressed, the episodes focused less on the Star Wars aspects, and more on the Star Trek aspects, as some disastrous early missions taught them the value of Starfleet protocols. We also learn more about what happened with the ship -- the Protostar, named after its innovative drive system -- its original crew, and why Gwynn's father needs the ship so much. The last episode before the midseason hiatus revealed that the Protostar, and its original crew, were responsible for the destruction of Gwynn's homeworld. In the last moments, Zero lets his true form be seen by the Diviner, which drives him in catatonia. Gwynn sees only a reflection of his light, which destroys her memory of the truths of what her father has told her.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/10/Star-Trek-Prodigy_-Supernova_20221023134901-1024x576.jpg" title="Dummy." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/10/Star-Trek-Prodigy_-Supernova_20221023134901-1024x576.jpg" title="Dummy." classes="center" >}}
 
 This is where Supernova comes in. The kids, now taught quite a lot about the Federation and Starfleet  by hologram Janeway, are on their way to the Federation to turn themselves in and return the Protostar. Along the way, they are helping out where they can. Ships sensors detect a Dyson sphere in the vicinity; the star it surrounds is about to go Supernova. As they come nearer to investigate, they detect life on one of the planets. They are then attacked and are forced to crash onto one of the planets. Dal beams Rok, Zero, Murf and Jankom to what he hopes is safety and he and Gwynn try to save the Protostar, beaming out at the last moment.
 
@@ -60,7 +39,7 @@ Now Dal and Gwynn are stranded on a strange planet, without their friends or the
 
 And what's worse -- it looks like Drednok has followed them there. Or was it here already?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/10/Star-Trek-Prodigy_-Supernova_20221023202335-1024x576.jpg" title="The Dyson Sphere (not really much of a sphere)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/10/Star-Trek-Prodigy_-Supernova_20221023202335-1024x576.jpg" title="The Dyson Sphere (not really much of a sphere)" classes="center" >}}
 
 The game itself is largely a co-op puzzle game with a fairly linear storyline. You find the Protostar and get it flying again, rescue your crewmates, stop Drednok, and make first contact with the alien race that lived on the three planets before Drednok arrived. Because it was here for awhile before the aliens repaired it and brought it back to life.
 
@@ -74,7 +53,7 @@ The game is short. Some of the puzzles might be frustrating for a young child, b
 
 I had fun with it, even though I could only get my not-a-child-anymore son to play with me about an hour before he got bored and wandered off.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/10/Star-Trek-Prodigy_-Supernova_20221023203515-1024x576.jpg" title="Epilogue" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/10/Star-Trek-Prodigy_-Supernova_20221023203515-1024x576.jpg" title="Epilogue" classes="center" >}}
 
 I bought the game to get caught up to the Protostar crew before the show came back from its hiatus last week. I stayed because I got caught up in the mysteries -- How did Drednok come here in a Rev-13 from before the time we last saw him in the Rev-12? Is it a different Drednok? Just how long has he been in this system -- and why come here?
 

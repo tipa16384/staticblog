@@ -3,42 +3,20 @@ date: '2024-08-29T23:19:09-05:00'
 draft: false
 title: "Going to California"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/29/going-to-california/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I took a chance on a big jet plane, don’t let anyone tell you that they’re all the same."
-description: "I took a chance on a big jet plane, don’t let anyone tell you that they’re all the same."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Real Life"
+tags:
   - "California"
   - "Marina"
   - "Monterey"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4594-scaled.jpeg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4594-scaled.jpeg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4594-scaled.jpeg"
 ---
+I took a chance on a big jet plane, don’t let anyone tell you that they’re all the same.
+<!--more-->
 
 Normally I don’t blog about my vacations, but it is Blaugust, so why not?
 
@@ -50,7 +28,7 @@ When I flew to California for the interview, I couldn’t believe how beautiful 
 
 Marriage, divorce, children, schools, playing in my first paying band, raising my kids in one of the best and most diverse places in the country… there really was nothing like it. But eventually it all came crashing down. I had to sell the house. My daughter got married and moved away. I eventually found myself back home, back in New England. I hadn’t come back to California… until now.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/IMG_4600-1024x768.jpeg" title="Marina State Beach" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4600-1024x768.jpeg" title="Marina State Beach" classes="center" >}}
 
 We lived in various places in our time here, but most of the time, we lived in Marina, a suburb of Monterey. We lived half a mile from the spot where that picture was taken.
 
@@ -58,7 +36,7 @@ I was thinking about Monterey and the stuff the kids and I would do, like the an
 
 My boyfriend has never been to Monterey, so, well, maybe we can go to the fair. Oh, and in Carmel-by-the-Sea, they have the Pacific Repertory Theater that puts on plays outside, in the forest, and this year they’re doing Wizard of Oz. Oh, and I don’t have any good pictures of the Bixby Bridge. And of course we need to drive past the old house. And… well, we came.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/IMG_4595-1024x768.jpeg" title="A Carl’s Jr medium soda and straw." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4595-1024x768.jpeg" title="A Carl’s Jr medium soda and straw." classes="center" >}}
 
 Before I could bring Kasul to see the sights, we had to stop by the really special places; the places the kids and I made so many memories of every day life. Carl’s Jr. Mountain Mike’s Pizza. The Del Monte Mall. Of course, the beach.
 

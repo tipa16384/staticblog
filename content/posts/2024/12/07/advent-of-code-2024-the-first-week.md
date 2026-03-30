@@ -3,27 +3,12 @@ date: '2024-12-07T19:56:05-05:00'
 draft: false
 title: "Advent of Code 2024: The First Week"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/12/07/advent-of-code-2024-the-first-week/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "AI has changed programming forever. It has changed Advent of Code and the way I work. What's life going to be like when AI can do my job, better than me?"
-description: "AI has changed programming forever. It has changed Advent of Code and the way I work. What's life going to be like when AI can do my job, better than me?"
-tags:
+categories:
   - "Advent of Code"
   - "Generative AI"
   - "Programming Language"
+tags:
   - "C"
   - "Clojure"
   - "Haskell"
@@ -31,18 +16,11 @@ tags:
   - "Julia"
   - "Python"
   - "Rust"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/DALL·E-2024-12-07-11.54.46-A-Tolkien-inspired-scene-depicting-graceful-elves-in-a-Tolkien-inspired-setting-repairing-a-rope-bridge-over-a-serene-river-surrounded-by-lush-vibra.webp"
 ---
+AI has changed programming forever. It has changed Advent of Code and the way I work. What's life going to be like when AI can do my job, better than me?
+<!--more-->
 
 I had a conversation with ChatGPT regarding people who post their LLM-generated code solutions to the global leaderboards and the r/adventofcode subreddit and try to pass them off as their own. Chat and I agreed that this was a little sketchy. I'd set it to solving a couple of the puzzles to compare with my own solutions and... it didn't do very well, usually going for a brute force, obvious solution over one that would be better approached with some nuance.
 
@@ -60,7 +38,7 @@ You can solve this by finding out every combination of + and * -- ++, +*, *+, **
 
 I knew, going to bed, recursion was the correct approach, but I was too tired to figure it out. In the morning I went and implemented a much faster recursive approach. I looked at some other solutions on BlueSky and changed mine a little to make it faster, then made it multi-threaded to get it down to less than a second from a starting point of around 20 seconds.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-3.png" title="Time (ms) vs Language" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-3.png" title="Time (ms) vs Language" classes="center" >}}
 
 Enter ChatGPT. I asked it to solve the problem and it proposed the exact same *slow* solution I'd come up with the night before. I hinted at the correct solution (well, my solution, which is by the doctrine of infallibility always the correct one) and it generated one pretty close to mine; a little more verbose but it was good. Tech lead powers activate.
 

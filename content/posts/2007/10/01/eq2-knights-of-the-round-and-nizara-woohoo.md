@@ -3,40 +3,19 @@ date: '2007-10-01T06:09:26-05:00'
 draft: false
 title: "EQ2: Knights of the Round...."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/01/eq2-knights-of-the-round-and-nizara-woohoo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "*..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/09/sod1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/09/sod1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/sod1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/sod1.jpg"
 ---
+*...
+<!--more-->
 
-![sod1.jpg](https://chasingdings.com/wp-content/uploads/2007/09/sod1.jpg)*
+
+
+*
 
 The sky over the Commonlands was the color of galvanized aluminum...
 
@@ -48,7 +27,7 @@ Much of this weekend and the last one was spent catching up to the guild on the 
 
 The weapon isn't even that great and it's likely I wouldn't use it over better weapons such as the Grinning Dirk of Horror -- 4 second delay -- crit and proc heaven -- wish I had it.
 
-![sod2.jpg](https://chasingdings.com/wp-content/uploads/2007/09/sod2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/sod2.jpg" classes="fig-20" >}}
 
 I last wrote about the SoD quest after I finished the first quest and began the second, The Knights of the Round. This involves finding 50 statuettes hidden all over Norrath. Between this, Speaks as a Dragon, and a few other quests... what's up with the ancients? They're doomed, they're going to die, but first... they have to scatter things through a dozen zones.
 
@@ -62,7 +41,7 @@ Enter Dorah, my 64 (at the time) necromancer. She's on the other account, and I 
 
 Today Commonlands. Tomorrow... the world.... Bwahahaha.
 
-![sod3.jpg](https://chasingdings.com/wp-content/uploads/2007/09/sod3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/sod3.jpg" classes="center" >}}
 
 Back to Butcherblock, where the evil (in a good way) Lucanic Knight had another little job for me. I'd found Soulfire's hilt... but could I find the blade?
 

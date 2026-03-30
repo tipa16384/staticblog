@@ -3,41 +3,19 @@ date: '2022-12-18T08:00:00-05:00'
 draft: false
 title: "Woody, the Tetris-playing Woodpecker"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/18/woody-the-tetris-playing-woodpecker/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "True story of how a Tetris-playing bird made humanity examine its role in the universe. Plus: an exclusive interview with Woody about his marriage to a human woman!"
-description: "True story of how a Tetris-playing bird made humanity examine its role in the universe. Plus: an exclusive interview with Woody about his marriage to a human woman!"
-tags:
+categories:
   - "Humor"
+tags:
   - "Gpt-3"
   - "Planet of the Corvids"
   - "Red Bellied Woodpecker"
   - "Tetris"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-17-23.25.01-35mm-photograph-of-a-red-bellied-woodpecker-playing-Tetris-in-an-arcade-using-its-beak-to-press-the-buttons.-Spectators-are-cheering-it-on.-Lit-only-b.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-17-23.25.01-35mm-photograph-of-a-red-bellied-woodpecker-playing-Tetris-in-an-arcade-using-its-beak-to-press-the-buttons.-Spectators-are-cheering-it-on.-Lit-only-b.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-23.25.01-35mm-photograph-of-a-red-bellied-woodpecker-playing-Tetris-in-an-arcade-using-its-beak-to-press-the-buttons.-Spectators-are-cheering-it-on.-Lit-only-b.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-23.25.01-35mm-photograph-of-a-red-bellied-woodpecker-playing-Tetris-in-an-arcade-using-its-beak-to-press-the-buttons.-Spectators-are-cheering-it-on.-Lit-only-b.png"
 ---
+True story of how a Tetris-playing bird made humanity examine its role in the universe. Plus: an exclusive interview with Woody about his marriage to a human woman!
+<!--more-->
 
 Once there was a woodpecker named Woody who lived in a forest near a small town. Woody was an unusual woodpecker, with a brilliant mind and lightning-fast beak movements. He was always searching for new challenges to test his skills, and one day he stumbled upon a Tetris game at a local arcade.
 

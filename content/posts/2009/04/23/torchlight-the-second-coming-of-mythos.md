@@ -3,46 +3,25 @@ date: '2009-04-23T19:38:04-05:00'
 draft: false
 title: "Torchlight: The second coming of Mythos?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/23/torchlight-the-second-coming-of-mythos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
   - "Torchlight"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/image1-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/image1-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/image1-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/image1-480x300.jpg"
 ---
+[...
+<!--more-->
 
-[![image1](https://chasingdings.com/wp-content/uploads/2009/04/image1-480x300.jpg "image1")](https://chasingdings.com/wp-content/uploads/2009/04/image1.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/04/image1.jpg)
 
 The founders and developers at Flagship Studios-Seattle, makers of the doomed but wonderful Mythos MMO, formed Runic Studios from the phoenix ashes of Flagship and have come back to life with the Mythos dream clenched in their fiery beak.
 
 Um. Too flowery?
 
-[![torchlight001](https://chasingdings.com/wp-content/uploads/2009/04/torchlight001-480x300.jpg "torchlight001")](https://chasingdings.com/wp-content/uploads/2009/04/torchlight001.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/torchlight001-480x300.jpg" title="torchlight001" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/04/torchlight001.jpg)
 
 These two screen shots are from Torchlight, an action-adventure RPG in the style of Diablo and Mythos. Click on them for the full-sized originals.
 

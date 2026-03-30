@@ -3,40 +3,17 @@ date: '2013-02-18T08:31:26-05:00'
 draft: false
 title: "DCUO: Super Sunday"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/18/dcuo-super-sunday/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "With Kaptain KY off fighting evil in Mexico this week, Team Spode was short a hero. Undeterred, we decided to make Metropolis a little bit..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/MADV107_AUDIO-PC-17-23.42.200-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/MADV107_AUDIO-PC-17-23.42.200-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MADV107_AUDIO-PC-17-23.42.200-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MADV107_AUDIO-PC-17-23.42.200-480x300.jpg"
 ---
+With Kaptain KY off fighting evil in Mexico this week, Team Spode was short a hero. Undeterred, we decided to make Metropolis a little bit...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MADV107_AUDIO-PC-17-23.42.200-480x300.jpg" title="To the Moon, Alice!" class="align-center" >}}
+
 
 With Kaptain KY off fighting evil in Mexico this week, Team Spode was short a hero. Undeterred, we decided to make Metropolis a little bit safer by taking care of some of the "Wanted" poster quests -- the Avatar of Sin, Bizarro and the Minotaur all met their temporary ends. Before all popping up again, minutes later, proving just how ineffective heroes really are.
 
@@ -58,7 +35,7 @@ Eventually we had to give up; but we probably know the fight now, and next week,
 
 All of us but Kaptain KY dinged 20 during the adventure; we're holding at 20 for next week. The Teal Lantern's combat rating rose to 15.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/CHARSELECT_CREATE-PC-17-19.01.330-480x300.jpg" title="Nurse G." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/CHARSELECT_CREATE-PC-17-19.01.330-480x300.jpg" title="Nurse G." classes="center" >}}
 
 Because I wanted to play DCUO out of group, I created a new character, the villainous Nurse Goebbels. A distant relative of one of the authors of the great tragedy of the 20th century, Nurse G. was a medical researcher seeking ways to raise human potential with purpose-built utility suits. While testing one of these suits, Nurse G. crippled herself in a horrible accident. Reduced to using a slow, prototype exoskeleton to even have any semblance of independence, she recruited street thugs to abduct people upon whom she would experiment with ever more powerful suits. With the results of her experiments and some stolen exobits, she built a super suit which allowed her incredible speed, power, mobility and healing.
 

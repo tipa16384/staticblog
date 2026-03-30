@@ -3,41 +3,18 @@ date: '2012-10-15T06:35:51-05:00'
 draft: false
 title: "Game Log: Pirate101, Star Trek Online"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/15/game-log-pirate101-star-trek-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It took a long time, too long, before it all connected: there was a reason Bonnie Anne kept wanting to meet me in the cellars..."
+categories:
   - "MMORPG"
   - "Pirate101"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg"
 ---
+It took a long time, too long, before it all connected: there was a reason Bonnie Anne kept wanting to meet me in the cellars...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-14-13-34-42-60-480x270.jpg" title="In the cellar of any tavern" class="align-center" >}}
+
 
 It took a long time, too long, before it all connected: there was a reason Bonnie Anne kept wanting to meet me in the cellars of any tavern. I'd noticed before that its patrons were all companions, of course; what I didn't realize until after I'd recruited Rat Commander Ratbeard that they were all of MY companions.
 
@@ -49,7 +26,7 @@ I finished up most of the quests in the Skull Island area and have moved to Puer
 
 The couple random encounters I've had haven't been hopeful. I spent some time raising my nautical level, but the Monquistador ships still give me a pounding. I might have to take that minor upgrade and then start squirreling money away for the galleon. Maybe the money will be better in this new zone. I remember in Wizard101, you literally could not spend all the gold you'd get. But that was at the end game, where things are different.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/GameClient-2012-10-14-07-54-26-97-480x269.jpg" title="Star Trek Online" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/GameClient-2012-10-14-07-54-26-97-480x269.jpg" title="Star Trek Online" classes="center" >}}
 
 I'd heard on G+ that Cryptic was giving away some pretty cool ships for their 1000 Day subscriber veteran reward. I like cool ships! There's been issues with the counting for my vet rewards, though, and I didn't really know if I'd passed the 1000 day point by their reckoning. Turned out I hadn't, but I was eligible for the 900 day vet rewards, which weren't all that incredible, but did include a special ship texture.
 

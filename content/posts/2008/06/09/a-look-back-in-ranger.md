@@ -3,41 +3,18 @@ date: '2008-06-09T07:56:51-05:00'
 draft: false
 title: "A look back in (r)anger"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/09/a-look-back-in-ranger/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Call of Sky FTW, beyotch..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-06-20-30-07-18.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-06-20-30-07-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-06-20-30-07-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/eqgame-2008-06-06-20-30-07-18.jpg"
 ---
+Call of Sky FTW, beyotch...
+<!--more-->
 
-![eqgame-2008-06-06-20-30-07-18.jpg](https://chasingdings.com/wp-content/uploads/2008/06/eqgame-2008-06-06-20-30-07-18.jpg)
+
 
 *Call of Sky FTW, beyotch*
 

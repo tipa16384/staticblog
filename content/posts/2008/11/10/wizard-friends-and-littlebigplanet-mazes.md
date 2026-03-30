@@ -3,44 +3,19 @@ date: '2008-11-10T09:36:17-05:00'
 draft: false
 title: "Wizard Friends and LittleBigPlanet Mazes"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/10/wizard-friends-and-littlebigplanet-mazes/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was going to title this, \"Friends don't let friends play Wizard 101\" because it's so addictive, but I couldn't. I really, really enjoyed playing..."
+categories:
   - "Littlebigplanet"
   - "MMORPG"
   - "Other Games"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg"
 ---
+I was going to title this, "Friends don't let friends play Wizard 101" because it's so addictive, but I couldn't. I really, really enjoyed playing...
+<!--more-->
 
 I was going to title this, "Friends don't let friends play Wizard 101" because it's so addictive, but I couldn't. I really, really enjoyed playing my current crush with friends this weekend.
-
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-10-00-53-52-28.jpg "wizardgraphicalclient-2008-11-10-00-53-52-28")
 
 I have this dream... that someday, I will fight through the Master's Tower in Ravenwood and at the end of the battles, when I meet the final boss, Pumpkin Head, he will look at me in his terror, and just before I play that final card that will call down a centaur from the heavenly plains upon which he runs to split the villain's vegetable head with a fierce arrow, he will say... Pumpkin Head will say...
 

@@ -3,56 +3,36 @@ date: '2010-09-03T20:59:20-05:00'
 draft: false
 title: "A Parent's Guide to MMO Gaming"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/03/a-parents-guide-to-mmo-gaming/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Someone needs to tell the truth about MMOs. I guess it falls to me to explain to parents about the games their children are playing..."
+categories:
   - "Fallen Earth"
   - "Hello Kitty Online"
   - "Humor"
   - "MMORPG"
   - "World of Warcraft"
+tags:
   - "All Points Bulletin"
   - "APB"
   - "Bible"
   - "Blizzard"
   - "Cataclysm"
+  - "Fallen Earth"
+  - "Hello Kitty Online"
   - "Not Funny"
   - "Sanrio"
   - "Tera Online"
   - "The Bible Online"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/worgen_1280x1024-225x225.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/worgen_1280x1024-225x225.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024-225x225.jpg"
 ---
+Someone needs to tell the truth about MMOs. I guess it falls to me to explain to parents about the games their children are playing...
+<!--more-->
 
 Someone needs to tell the truth about MMOs. I guess it falls to me to explain to parents about the games their children are playing online with people whose idea of a good conversation opener is "I AM SO HIGH."
 
 **[World of Warcraft: Cataclysm](http://www.worldofwarcraft.com/cataclysm/) by [Activision Blizzard](http://www.activisionblizzard.com/corp/index.html).[
 
-![](https://chasingdings.com/wp-content/uploads/2010/09/worgen_1280x1024-225x225.jpg "Worgen")](https://chasingdings.com/wp-content/uploads/2010/09/worgen_1280x1024.jpg)**
+](https://tipa16384.github.io/wkblog/uploads/2010/09/worgen_1280x1024.jpg)**
 
 In the original World of Warcraft, children could take the role of a virtuous human fighting on the side of the Church against the evil Horde. The Burning Crusade expansion revealed that **the enemy Horde** came from **Hell itself**, and the humans took the fight against the villainous Orcs and other demons to the lower realms.
 
@@ -60,7 +40,7 @@ Blizzard's game took a decided turn for the worse with Wrath of the Lich King, w
 
 **[Hello Kitty Online](http://www.hellokittyonline.com/) by [Sanrio, Inc.](http://www.sanrio.com/)**
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-932010-72142-PM-225x225.jpg "What")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-932010-72142-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-932010-72142-PM-225x225.jpg" title="What" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-932010-72142-PM.jpg)
 
 In his novel "[Rising Sun](http://en.wikipedia.org/wiki/Rising_Sun_(novel))", Dr. Michael Crichton exposed the cruel designs **Japanese megacorporations** had for the trusting citizens of the United States. This lesson has been forgotten even as Japan has come to dominate the electronics and auto industries. Now **they are coming for our children** in the guise of a game where children help cheerful cartoon animals with household tasks -- tasks such as the **mindless slaughter** of cartoon creatures.
 
@@ -70,7 +50,7 @@ Don't underestimate this threat. Ask your daughter to tell you about the **bisho
 
 **[TERA Online](http://www.tera-online.com/) by [Bluehole Studio](http://www.bluehole.net/)**
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/tera-online-girl-225x225.jpg "Softporn")](https://chasingdings.com/wp-content/uploads/2010/09/tera-online-girl.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/tera-online-girl-225x225.jpg" title="Softporn" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/tera-online-girl.jpg)
 
 Do we even want to know what a "bluehole" is in Korean? I sure don't. Your kids may learn when they play South Korea's "TERA Online", **a softcore pornography simulator** coming to your son's bedroom later this year.
 
@@ -80,7 +60,7 @@ If you've been putting off having "the talk" with your son, but he plays TERA On
 
 **[APB: All Points Bulletin](http://www.apb.com/) by [Realtime Worlds](http://www.realtimeworlds.com/)**
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/apb1-225x225.jpg "Before and After APB")](https://chasingdings.com/wp-content/uploads/2010/09/apb1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/apb1-225x225.jpg" title="Before and After APB" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/apb1.jpg)
 
 You might expect that Asia would have little use for our "outdated" sense of Western morality, but you might be surprised to find that Great Britain hopes to lead our children into the criminal life with their gang simulator, APB: All Points Bulletin.
 
@@ -90,7 +70,7 @@ Remember, parents, **we trounced Britain** in 1776 and 1812, and they've never f
 
 **[The Bible Online](http://thebible-onlinegame.com/) by [FIAA](http://www.fiaa.eu/)**
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-932010-84148-PM-225x225.jpg "The Bible Online")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-932010-84148-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-932010-84148-PM-225x225.jpg" title="The Bible Online" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-932010-84148-PM.jpg)
 
 Surely **a MMO based on the Holy Bible** would be a safe haven for children? Not so fast. German developers FIAA GmbH, known for their **adult fantasy KALOS Adventure** and their war simulator [Operation7](http://operation7.fiaa.eu/) (where you may "**bare (sic) your own unique gun**") have turned the struggles of the Tribes of Abraham into **a game of resource control**.
 
@@ -100,7 +80,7 @@ We all look forward to the inevitable sequel, when **heavily armored Christians*
 
 **[Fallen Earth](http://www.fallenearth.com/) by [Icarus Studios](http://www.icarusstudios.com/)**
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/fallenearth07052302a_1172205315-225x225.jpg "Fallen Earth")](https://chasingdings.com/wp-content/uploads/2010/09/fallenearth07052302a_1172205315.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/fallenearth07052302a_1172205315-225x225.jpg" title="Fallen Earth" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/fallenearth07052302a_1172205315.jpg)
 
 In Fallen Earth, Icarus Studios has created a near-future utopia where the basic rights of Americans are preserved -- the right to bear arms, the right to defend ourselves, the right to our own happiness no matter the cost, and the right to free speech (especially when coated in armor-piercing titanium). In a land where [pathetically clueless liberals](http://) mouth **words they can repeat but never understand**, only those with the strength and determination to make their perfect America out of whatever land they can defend will thrive.
 

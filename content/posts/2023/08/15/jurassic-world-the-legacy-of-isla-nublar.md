@@ -3,42 +3,20 @@ date: '2023-08-15T07:00:00-05:00'
 draft: false
 title: "Jurassic World: The Legacy of Isla Nublar"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/15/jurassic-world-the-legacy-of-isla-nublar/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Today is the day we evacuated Isla Nublar. But, the adventure isn't yet over."
-description: "Today is the day we evacuated Isla Nublar. But, the adventure isn't yet over."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
   - "Game Night"
+tags:
   - "Board Game"
   - "Jurassic Park"
   - "Legacy"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/IMG_3952-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/IMG_3952-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3952-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3952-scaled.jpg"
 ---
+Today is the day we evacuated Isla Nublar. But, the adventure isn't yet over.
+<!--more-->
 
 Today is the day we evacuated Isla Nublar. But, the adventure isn't yet over.
 
@@ -48,7 +26,7 @@ So we have been working on the[ ](https://boardgamegeek.com/boardgame/260329/jur
 
 (I just looked and I don't think I have ever written about this game...)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/IMG_3430-1024x768.jpg" title="Way back in the beginning... we were so innocent... so few dinos..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/IMG_3430-1024x768.jpg" title="Way back in the beginning... we were so innocent... so few dinos..." classes="center" >}}
 
 The earliest game night picture that showed the board game was March 2nd. So it's been more than five months since we started. It was called Jurassic Park back then. There was some running and screaming, some deaths, and they closed the park. They reopened it as Jurassic World, and we got a new sticker to put on the board.
 
@@ -58,7 +36,7 @@ Each scenario starts with making permanent changes to the game board, with non-r
 
 About the only things you can depend upon, from scenario to scenario, are the dinos. We started out with a T-Rex, a velociraptor, a triceratops and a brachiosaurus. In almost every scenario, losing a dinosaur makes it nearly certain you will lose the scenario, and these dinos live dangerously. In tonight's game, we've added a half dozen additional carnivores and a vegetarian stegosaurus, We also managed to turn the normally peaceful brachiosaurus into a carnivore with some illicit genetic engineering. Keeping all these dinos from eating each other is a constant struggle, as, inevitably, the power goes out in each scenario, setting the dinos free to rampage.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-34.png" title="Yes, sexy mathematicians are in the game" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-34.png" title="Yes, sexy mathematicians are in the game" classes="center" >}}
 
 That might be enough for any other game. But in this one, we also have to shepherd tour groups around, man the gift shop, keep the genetics lab humming, making sure the park cameras can see what's going on, do a daily mosasaur show, and, of course, try to keep the power on. In addition to these goals common to every scenario, you have five rounds of additional stuff that happens.
 

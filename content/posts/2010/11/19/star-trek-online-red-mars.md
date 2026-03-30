@@ -3,40 +3,19 @@ date: '2010-11-19T08:01:58-05:00'
 draft: false
 title: "Star Trek Online: Red Mars"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/19/star-trek-online-red-mars/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-18-21-41-10-21-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-18-21-41-10-21-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-18-21-41-10-21-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-18-21-41-10-21-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-18-21-41-10-21-480x384.jpg "Approaching Mars colony")](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-18-21-41-10-21.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-18-21-41-10-21.jpg)
 
 I didn't even know Mars was even in the game. It's kind of ironic that the first time I saw that dead world was from the bridge of a Klingon K'tanco cruiser.
 
@@ -52,7 +31,7 @@ That we did. We warped in, easily passing through the Sol system's outer defense
 
 Mars is named after the human god of war. It is a Klingon world!
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-18-23-26-41-17-480x384.jpg "Commandeering a Danube-class runabout")](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-18-23-26-41-17.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-18-23-26-41-17-480x384.jpg" title="Commandeering a Danube-class runabout" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-18-23-26-41-17.jpg)
 
 J'mpek was pleased with our success. We were true warriors, the pride of Qo'noS, heirs to Kahless himself. We should celebrate with barrels of blood wine, and the Klingon prisoners held in Starfleet Penal Facility #47. To live in confinement is no life at all for a warrior. We would need stealth and guile and a Federation runabout to get to the facility. A poorly defended Federation starbase was nearby -- perhaps they would have such a ship?
 
@@ -62,7 +41,7 @@ At Penal Facility #47, the hapless Federation ships flew without suspicion on th
 
 Beacons disabled, we beamed down to the station, cleared it of all Federation life, freed our fellow warriors and fought our way to the shuttle bay. The prisoners commandeered a shuttle of their own, and in glorious victory, we escaped into the black and green of combat as the battleship sent to meet us was greeted by weaponfire from the Federation -- weapons which will fire no more.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-19-00-19-10-76-480x384.jpg "The Norgh Bird of Prey")](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-19-00-19-10-76.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-19-00-19-10-76-480x384.jpg" title="The Norgh Bird of Prey" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-19-00-19-10-76.jpg)
 
 In recognition of my success in battle, I was made a Commander, and given command of a Norgh-class Bird of Prey.
 

@@ -3,40 +3,17 @@ date: '2013-12-04T08:29:27-05:00'
 draft: false
 title: "Dragons Must Die"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/12/04/dragons-must-die/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I like to think I enjoy dungeons in MMOs when the group I'm in isn't depending upon me for anything. All I have to do..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-11-26-19-21-40-80-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-11-26-19-21-40-80-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-11-26-19-21-40-80-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-11-26-19-21-40-80-480x270.jpg"
 ---
+I like to think I enjoy dungeons in MMOs when the group I'm in isn't depending upon me for anything. All I have to do...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-11-26-19-21-40-80-480x270.jpg" title="Chartilifax is Dead" class="align-center" >}}
+
 
 I like to think I enjoy dungeons in MMOs when the group I'm in isn't depending upon me for anything. All I have to do is some simple task, and then everyone else does all the hard work.
 
@@ -46,7 +23,7 @@ Maybe that's just a maturity that arose as I aged. But I want to believe that it
 
 As such, I've never been a big fan of soloing in MMOs. During last weekend's double xp in Neverwinter, I wanted to get my remaining non-max level character, my cleric Dera, a few levels of her own. If not during a double xp weekend, then when, right?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-11-30-09-28-57-86-480x384.jpg" title="The Death of Ethraniev Marroslake" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-11-30-09-28-57-86-480x384.jpg" title="The Death of Ethraniev Marroslake" classes="center" >}}
 
 When I played a cleric in beta, I thought they were unstoppable mega-gods -- easy mode soloing, and still vital to a group. I leveled one up in the beginning content when the game went live, and since then, Dera largely sat in the Moonstone Mask floating bar, doing crafting and farming invocations for astral diamonds. When she started in on Leadership, her levels really began to climb, all without doing a single quest or killing a single monster.
 
@@ -68,7 +45,7 @@ Dera has been offered random guild invites from strangers, of course, every ungu
 
 And then when I finished the Veliosk quests and needed to run the dungeon again for completion, they came and helped get through it again. So that was a nice feeling. It's really nice to be able to just talk to people when I'm online.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-11-30-17-39-13-90-480x383.jpg" title="The Pirate King looks so lonely" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-11-30-17-39-13-90-480x383.jpg" title="The Pirate King looks so lonely" classes="center" >}}
 
 I moved on to Pirate's Skyhold. Kasul and I leveled too fast to do that zone, but Dera ended at just the right level for it. The quests weren't too hard until I got to Skull Fortress. I can't even find the entrance to that place. Anyway, zone was yelling for a healer for the zone dungeon, Pirate King, so I volunteered.
 
@@ -78,7 +55,7 @@ Group didn't have a guardian fighter, you see. Nina would have gathered those up
 
 So, saw a lot of new dungeons, got a new guild, and a lot of new levels. It was a good weekend.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/12/GameClient-2013-12-02-07-27-23-42-480x270.jpg" title="Bridgecrusher is all out of chewing gum." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/12/GameClient-2013-12-02-07-27-23-42-480x270.jpg" title="Bridgecrusher is all out of chewing gum." classes="center" >}}
 
 One of the things I most enjoyed while writing The Crypt of Befallen was the opportunity to make some old friends part of the story. In early EverQuest, your guild said a lot about you -- every guild had its history of accomplishments, setbacks, alliances and enmities. When you joined, you were taking a stand, of sorts. If you joined a spam guild, nobody would want you in their group. If you were any GOOD, you'd be in a good guild. Every player knew most of the guilds on the server. If they were raiders, you generally knew where in the hierarchy they were, too.
 

@@ -3,41 +3,19 @@ date: '2024-07-03T08:00:08-05:00'
 draft: false
 title: "Nemesis: The Board Game"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/07/03/nemesis-the-board-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Stop me if you've heard this one before. You've been awakened from hibernation by your starship's AI. Something has gone wrong. It's... Aliens. I mean Intruders."
-description: "Stop me if you've heard this one before. You've been awakened from hibernation by your starship's AI. Something has gone wrong. It's... Aliens. I mean Intruders."
-tags:
+categories:
   - "Game Night"
   - "Nemesis"
   - "Tabletop Games"
+tags:
   - "Alien"
   - "Prometheus"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/1-pic8211747.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/07/1-pic8211747.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/1-pic8211747.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/1-pic8211747.jpg"
 ---
+Stop me if you've heard this one before. You've been awakened from hibernation by your starship's AI. Something has gone wrong. It's... Aliens. I mean Intruders.
+<!--more-->
 
 Spoiler alert: Nemesis is the legally-distinct board game of the movie "Alien".
 
@@ -47,7 +25,7 @@ Players choose among archetypes -- Pilot, Scientist, Engineer, Scout, Captain, S
 
 The game is semi-cooperative, but if your win condition demands that Player 2 dies, well, Player 2 better not be surprised when the doors in the room they are in suddenly lock as an Intruder larva squirms across the deck.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/07/IMG_4434.jpg" title="Nemesis underway" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/07/IMG_4434.jpg" title="Nemesis underway" classes="center" >}}
 
 I chose the **Pilot** as my character. My unlockable special abilities were to unlock an escape pod early, and to be able to change ship course more easily. My first choice for objectives were to either be the sole survivor or make sure player 2 died -- I was player 2. My other choice was for me and at least one other player survive.
 
@@ -55,7 +33,7 @@ Kasul chose **Scientist**. His chosen objective was to survive and to bring the 
 
 I guess that could easily have been a scene from the game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/07/IMG_4433.jpg" title="Captain trying to set the navigation controls while something interrupts" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/07/IMG_4433.jpg" title="Captain trying to set the navigation controls while something interrupts" classes="center" >}}
 
 Since everyone has different objectives, you're never really sure if your fellow crew are on your side. Since everyone has temporary amnesia, everyone has forgotten the layout of the ship. Rooms have to be explored; they usually contain items that can be used as-is or combined with other items to make improvised weapons or condition cures. Most rooms have a specific function, like putting out ship fires, setting the ship self-destruct, healing the sick and so on. Usually, these rooms start off disabled and must be repaired before they can function.
 
@@ -63,7 +41,7 @@ It can seem weird to have to repair the generator room before you can set the ge
 
 Characters have different combat abilities, so while the soldier and the captain might want to meet the Intruders head-on, other crew might prefer to sneak around and try not to alert the monsters while they do what they must to survive.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/07/IMG_4435.jpg" title="The full game and most of the crew" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/07/IMG_4435.jpg" title="The full game and most of the crew" classes="center" >}}
 
 To finish my objective, I had to go to the Fire Control Room to grab the device that unlocks the escape pods, head to an escape pod, and get in it. The room outside the escape pod was on fire and had an adult Intruder in it, but I managed to give it the slip and get into the escape pod, just a little singed.
 

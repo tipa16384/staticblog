@@ -3,43 +3,23 @@ date: '2010-11-22T10:00:33-05:00'
 draft: false
 title: "DDO: Searing(ly expensive) Heights"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/22/ddo-searingly-expensive-heights/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Delera's Tomb"
   - "Searing Heights"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/dndclient-2010-11-21-22-54-21-20-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/dndclient-2010-11-21-22-54-21-20-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-21-22-54-21-20-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-21-22-54-21-20-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/dndclient-2010-11-21-22-54-21-20-480x384.jpg "Why did it have to be drachnids?")](https://chasingdings.com/wp-content/uploads/2010/11/dndclient-2010-11-21-22-54-21-20.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/dndclient-2010-11-21-22-54-21-20.jpg)
 
 Team Spode left Three Barrel Cove behind, complete except for one level 7 dungeon we may return to once more of us are level 7. But we'd fought pirate monsters long enough. It was time to strike the barnacles from the scurvy mains'l, star the board and drink the port, drive the wharf rats out from under the saxboard, swab the bo's'n and harpoon the gunwales, weigh the anchor and turn two sheets to the wind, and in all other ways, leave the pirate life behind us for awhile.
 

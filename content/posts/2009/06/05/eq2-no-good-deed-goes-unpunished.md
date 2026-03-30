@@ -3,49 +3,26 @@ date: '2009-06-05T00:22:21-05:00'
 draft: false
 title: "EQ2: No good deed goes unpunished"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/05/eq2-no-good-deed-goes-unpunished/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When a friend asks you to look after their pets for a couple of days, don't just automatically say yes......"
+categories:
   - "Comic"
   - "EverQuest"
   - "Humor"
   - "MMORPG"
   - "One Panel Comix"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/cameldaycare.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/cameldaycare.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/cameldaycare.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/cameldaycare.jpg"
 ---
+When a friend asks you to look after their pets for a couple of days, don't just automatically say yes......
+<!--more-->
 
-![Camel Day Care](https://chasingdings.com/wp-content/uploads/2009/06/cameldaycare.jpg "Camel Day Care")
+
 
 *When a friend asks you to look after their pets for a couple of days, don't just automatically say yes...*
 
 Finally got around to reinstalling EQ2, so it launches and works and all that fun stuff. And they had new pets in the Marketplace! So naturally, a camel came home with me. And by home, I mean not the guild hall, as the new pets can't be placed there. Sadness.
 
-![Tunare dances for the crowd](https://chasingdings.com/wp-content/uploads/2009/06/everquest2-2009-06-04-22-31-32-96.jpg "Tunare dances for the crowd")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/everquest2-2009-06-04-22-31-32-96.jpg" title="Tunare dances for the crowd" classes="center" >}}
 
 A drunken dwarf (never met any other kind) was offering to reward anyone who came to him at the North Qeynos gates and performed a certain task for him. He was standing, as it turned out, right between two heroic guards who were very interested in adding a notch for a certain level 31 Arasai to their belts. I asked the dwarf if he were able to move just a few metres out, and he did and offered me the quest as well -- twenty harvests.
 

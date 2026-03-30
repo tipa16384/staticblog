@@ -3,48 +3,26 @@ date: '2025-05-18T10:00:00-05:00'
 draft: false
 title: "Clair Obscur: Expedition 33 1/3"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/05/18/clair-obscur-expedition-33-1-3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Clair Obscure: great gameplay, characters and milieu, but its third act seems in a hurry to get off the stage."
-description: "Clair Obscure: great gameplay, characters and milieu, but its third act seems in a hurry to get off the stage."
-tags:
+categories:
   - "PS5"
   - "RPG"
   - "Turn-Based Rpgs"
+tags:
   - "Clair Obscur"
   - "Expedition 33"
   - "Sandfall Interactive"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/1-Clair-Obscur_-Expedition-33_20250517165411-scaled.jpg"
 ---
+Clair Obscure: great gameplay, characters and milieu, but its third act seems in a hurry to get off the stage.
+<!--more-->
 
 For some reason, 67 years before the events in the story take place, Belle Époque-era Paris is sundered apart in an event called "The Fracture", and the heart of the city is transported offshore onto a handy island named "Lumière". Back on the continent, an immense monolith was erected, with the number "100" painted on it. An enormous creature, called "The Paintress", once a year wakes up, erases the old number, and paints a new number, one lower. Anyone who was that year's age or older just disappears in a shower of flower petals.
 
 Each year, after this "grommage", a new expedition is sent to the mainland to find a way to stop the Paintress. No expedition has ever returned. Now the remaining 33 year olds are setting off on an expedition of their own. Expedition 33.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/image-7-1024x575.png" title="You'll fight more mimes than you'd like" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/image-7-1024x575.png" title="You'll fight more mimes than you'd like" classes="center" >}}
 
 CO:E33 is a turn-based RPG by the French game developers Sandfall Interactive. It plays fairly similarly to the Persona series; you wander about until you see something that wants killing, you run up to it, and your group (maximum of three) attacks in turn.
 
@@ -52,7 +30,7 @@ The twist with CO:E33 is that almost every attack sent your way by an enemy can 
 
 One boss mob kept killing two of my three group members over and over but, for some reason, I could handle the parrying with the third one. So, I killed a boss, with my healer, almost entirely through parrying. It took an hour. But I did it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/image-8-1024x573.png" title="A picture of the developers is an Easter Egg in the game" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/image-8-1024x573.png" title="A picture of the developers is an Easter Egg in the game" classes="center" >}}
 
 The game is split into three acts (and a couple of epilogues), and each act ends with Something Surprising That Changes Everything That Came Before.
 
@@ -64,7 +42,7 @@ It's only natural to think that one of the characters you're playing is the "mai
 
 Anyway, I have to stop talking about the plot or I'll say more than I should.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/05/image-9-1024x429.png" title="Lune looking at the Monolith and the sleeping Paintress" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/05/image-9-1024x429.png" title="Lune looking at the Monolith and the sleeping Paintress" classes="center" >}}
 
 I love French RPGs. Greedfall, Steelrising, Bonaparte, and so on. They've such a *continental* feel to them that is so very different from the largely Japanese-inspired RPGs that seem more written for children. I was going to point out Baldur's Gate 3 as a counter-example, but that's a Belgian game, so there you go. I'm an adult; I want fantasy RPGs for adults.
 

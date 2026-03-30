@@ -3,52 +3,30 @@ date: '2024-12-30T08:00:00-05:00'
 draft: false
 title: "Best of 2024: Single-Player RPGs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/12/30/best-of-2024-single-player-rpgs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "2024 was a great year for RPGs. I didn't play all the ones I wanted, but the ones I did play were pretty incredible."
-description: "2024 was a great year for RPGs. I didn't play all the ones I wanted, but the ones I did play were pretty incredible."
-tags:
+categories:
   - "Dragon's Dogma"
   - "Lord of the Rings"
   - "Open World RPG"
   - "RPG"
+tags:
   - "Dragon Age"
   - "Erenshor"
   - "Outlaws"
   - "Star Wars"
   - "The Veilguard"
   - "War in the North"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/bestrpgbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/12/bestrpgbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/bestrpgbanner.png"
 ---
+2024 was a great year for RPGs. I didn't play all the ones I wanted, but the ones I did play were pretty incredible.
+<!--more-->
 
 RPGs have been a mainstay of my gaming life since I spent hours (and hours and hours) playing ROGUE and DND back in college. (We'd call both of those roguelikes today). The earliest of them were based off of Dungeons & Dragons, but as time went on they would become a way to tell all sorts of stories.
 
 Here's the five best I played this year.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/erenshor-shivering.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/erenshor-shivering.png" classes="center" >}}
 
 **Erenshor (Beta)**
 
@@ -58,7 +36,7 @@ Log on to Erenshor, and you'll find a world populated with simulated players (Si
 
 The demo just takes you through the tutorial island, but the full game will bring you to max level and introduce you and your guildmates to the world of raiding. If it were in early access, it would definitely rate higher on this list. As it is, the demo is a polished gem that left me wanting to see more of the world of Erenshor.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-24.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-24.png" classes="center" >}}
 
 **Lord of the Rings: War in the North (2011)**
 
@@ -70,7 +48,7 @@ The game tells a fairly tight story, with plenty of chances to find how the Fell
 
 It's good fun, and though it has been removed for sale on Steam, it can still be played on the PS3 or XBox.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-25.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-25.png" classes="center" >}}
 
 **Dragon's Dogma II (2024)**
 
@@ -80,7 +58,7 @@ In both Dragon's Dogmas, you build a unique character of certain classes and hir
 
 The game itself shuns fast travel so that it can give you plenty of time to come across random adventures. A griffon attacking. Weird zipline runs to follow. Dragons who *know* you. Little problems you can solve along the way. Only occasionally will time become a factor; most of the time, you're free to adventure in the world and make your own fun as you build your character. And then your camp gets surrounded by orcs and in the flickering firelight, you suddenly are forced to fight for your life...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-26.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-26.png" classes="center" >}}
 
 **Dragon Age: The Veilguard (2024)**
 
@@ -94,7 +72,7 @@ It's a great story with plenty of replay potential. The developers consider it a
 
 Some say the game strays from the lore of the Dragon Age series; I disagree. Veilguard felt like coming home and I look forward to playing it again.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/12/image-27-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/12/image-27-1024x576.png" classes="center" >}}
 
 **Star Wars Outlaws (2024)**
 

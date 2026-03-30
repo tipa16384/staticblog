@@ -3,40 +3,16 @@ date: '2010-10-17T09:58:13-05:00'
 draft: false
 title: "West Karana goes QR Code!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/17/west-karana-goes-qr-code/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[qrcodetag]If you can read this, then welcome to West Karana![/qrcodetag]..."
+categories:
   - "General"
+tags:
   - "Bar Code"
   - "Cuecat"
   - "QR Code"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+[qrcodetag]If you can read this, then welcome to West Karana![/qrcodetag]...
+<!--more-->
 
 [qrcodetag]If you can read this, then welcome to West Karana![/qrcodetag]
 

@@ -3,45 +3,20 @@ date: '2007-01-05T14:29:30-05:00'
 draft: false
 title: "When We Return: Television's Finest (Part 1)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/01/05/when-we-return-televisions-finest-part-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's a new year and time for all the shows that left us hanging last year to finally get around to rescuing us from that..."
+categories:
   - "Battlestar Galactica"
   - "Doctor Who"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/avatar.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/01/avatar.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/avatar.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/avatar.jpg"
 ---
+It's a new year and time for all the shows that left us hanging last year to finally get around to rescuing us from that...
+<!--more-->
 
 It's a new year and time for all the shows that left us hanging last year to finally get around to rescuing us from that cliff. Read on for spoilers, rumors, speculation and rabid fangirl-ism for *Avatar: The Last Airbender*, *Battlestar Galactica*, and *Doctor Who*. Tomorrow I'll finish up with *Heroes*, *Lost*, *Robin Hood*, and *Studio 60 on the Sunset Strip*.
 
 I went without television for more than five years. There was nothing on worth paying the cable company to see. A couple of years back I started hearing about shows that sounded really intriguing -- I rescued an old 15" TV from my closet and watched a couple through layers of static. And yeah, they were good. They were incredible, actually. Last March I subscribed to cable and though I don't watch a lot of television, there are shows I never miss.
-
-![avatar.jpg](https://chasingdings.com/wp-content/uploads/2007/01/avatar.jpg)
 
 ***Avatar: The Last Airbender*** isn't a nighttime drama. It's a cartoon on Nickelodeon, and you can see by the handy tag that this stuff is safe for anyone seven or older. Kids today are lucky. When *I* was seven, all we had was Scooby-Doo.
 
@@ -57,7 +32,7 @@ The exiled prince was showing all the signs of letting go of his hate and anger 
 
 Though since Aang recently learned to consciously enter the Avatar state where he has access to all the skills of all the previous Avatars, I wonder at the real need to learn the powers all over again, but there you go.
 
-![bg.jpg](https://chasingdings.com/wp-content/uploads/2007/01/bg.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/01/bg.jpg" classes="fig-20" >}}
 
 ***Battlestar Galactica*** knows drama like no other show does. The story of ordinary people put under extraordinary stress and how they cope completely overwhelms the sci-fi setting. This show could be set in World War II, or present-day Iraq, or the Crusades for that matter, and I'd still watch. These are people for whom there is no light at the end of the tunnel, but that doesn't stop them from getting up each day and following it further. What else can they do?
 
@@ -67,7 +42,7 @@ They don't particularly need the humans they're chasing. In fact they would much
 
 I don't see how they'll ever find Earth. I do believe that in the remainder of the third season, we'll find the fate of the thirteenth tribe, and it will not be that they found and colonized Earth. They will have been destroyed or met some horrid fate, and both the Cylons and humans will have to learn to live lives without hope unless they learn to work together.
 
-![doctorwho.jpg](https://chasingdings.com/wp-content/uploads/2007/01/doctorwho.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/01/doctorwho.jpg" classes="fig-20" >}}
 
 ***Doctor Who*** ended its second series (and first with David Tennant as the Doctor) with his companion, Rose (Billie Piper), trapped in a parallel universe. Billie Piper has moved on to her old career of trying to be the British Brittany Spears, or perhaps acting, but in any event, she's gone now.
 

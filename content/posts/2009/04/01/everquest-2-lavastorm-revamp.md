@@ -3,50 +3,28 @@ date: '2009-04-01T08:05:34-05:00'
 draft: false
 title: "EverQuest 2: Lavastorm revamp"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/01/everquest-2-lavastorm-revamp/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Flying over the newly redesigned Lavastorm on my elemental horse, I kinda feel a little like Santa, except if instead of riding Rudolph, Santa was..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Far Seas Trading Company"
   - "Gu51"
   - "Lavastorm"
   - "Sootfoot"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg"
 ---
+Flying over the newly redesigned Lavastorm on my elemental horse, I kinda feel a little like Santa, except if instead of riding Rudolph, Santa was...
+<!--more-->
 
-![everquest2-2009-03-31-19-35-03-75](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-03-31-19-35-03-75.jpg "everquest2-2009-03-31-19-35-03-75")
+
 
 Flying over the newly redesigned Lavastorm on my elemental horse, I kinda feel a little like Santa, except if instead of riding Rudolph, Santa was riding a demon steed, and instead of flying over the North Pole, Santa was flying over the pits of Hell. And instead of presents, Santa dropped lava bombs. And instead of making little children happy, Santa was trying to make the Sootfoot goblins angry with him.
 
 Because that's the plan with the level 45-55 quests. You have two factions, the Far Seas Trading Company in the Temple of Thunder near the docks, and the Sootfoot goblins set up just over the first bridge -- Fennin's Pass -- in some tents.
 
-![everquest2-2009-03-31-21-12-53-55](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-03-31-21-12-53-55.jpg "everquest2-2009-03-31-21-12-53-55")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-03-31-21-12-53-55.jpg" title="everquest2-2009-03-31-21-12-53-55" classes="center" >}}
 
 The Sootfoots don't want you to grind faction, in fact they just love you so much, you're their ally, you couldn't be more their friend if they tried.
 
@@ -56,13 +34,13 @@ So they don't trust friends. What if YOU go do all those things, and then the So
 
 Truly. Your faction with the Sootfoots has to be between -50000 and -10000 for them to trade with you, each quest subtracts 2500 points from your faction, and completing all their quests brings you right to the magic -10K mark.
 
-![everquest2-2009-04-01-01-42-57-34](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-01-42-57-34.jpg "everquest2-2009-04-01-01-42-57-34")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-01-01-42-57-34.jpg" title="everquest2-2009-04-01-01-42-57-34" classes="center" >}}
 
 First two things I got were a tinfoil hat and a molten cow. The tinfoil hat makes you relatively impervious to mind control abilities. In fact, it has a 75% chance of working all the time. The molten cow is just a fun mount :) 45% run speed with the usual boosts to regen.
 
 The tinfoil hat was actually somewhat of an upgrade for my 70 necro!
 
-![everquest2-2009-04-01-02-06-29-03](https://chasingdings.com/wp-content/uploads/2009/04/everquest2-2009-04-01-02-06-29-03.jpg "everquest2-2009-04-01-02-06-29-03")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/everquest2-2009-04-01-02-06-29-03.jpg" title="everquest2-2009-04-01-02-06-29-03" classes="center" >}}
 
 Most of the quest lines came with house rewards. The Sootfoot forge, which lets you make Sootfoot armor from the comfort of your own home instead of having to run off to Lavastorm every time, was the reward for the Lavastorm red shiny collection (epic crafters: wear your epic earring). The glowing ring, lava drake plushie, lava crab plushie, and glowing bag of soot were all quest rewards.
 

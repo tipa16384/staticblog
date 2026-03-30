@@ -3,40 +3,18 @@ date: '2023-12-19T07:00:00-05:00'
 draft: false
 title: "Advent of Code Day 18 -- Lavaduct Lagoon"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/19/advent-of-code-day-18-lavaduct-lagoon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We had game night tonight, more HeroQuest (yay!), so I didn't have a lot of time to work on this...."
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Elf"
   - "Lava"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-18-22.42.07-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-shows-a-large-newly-constructed-lagoon-near-a-machine-parts-factory-on.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-18-22.42.07-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-shows-a-large-newly-constructed-lagoon-near-a-machine-parts-factory-on.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-18-22.42.07-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-shows-a-large-newly-constructed-lagoon-near-a-machine-parts-factory-on.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-18-22.42.07-Illustration-for-an-Advent-of-Code-puzzle-with-a-16-10-aspect-ratio.-The-scene-shows-a-large-newly-constructed-lagoon-near-a-machine-parts-factory-on.png"
 ---
+We had game night tonight, more HeroQuest (yay!), so I didn't have a lot of time to work on this....
+<!--more-->
 
 We had game night tonight, more HeroQuest (yay!), so I didn't have a lot of time to work on this.
 

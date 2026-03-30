@@ -3,48 +3,26 @@ date: '2009-06-22T08:23:25-05:00'
 draft: false
 title: "Wizard 101: Grizzleheim"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/22/wizard-101-grizzleheim/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Though I was away this weekend, I still managed to squeeze some hours into Wizard 101's Test server to check out the latest changes. And..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Grizz"
   - "Grizzleheim"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg"
 ---
+Though I was away this weekend, I still managed to squeeze some hours into Wizard 101's Test server to check out the latest changes. And...
+<!--more-->
 
-![Tara and Allison show off the level 30 gear sold at the Bear village](https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-20-49-59-56.jpg "Tara and Allison show off the level 30 gear sold at the Bear village")
+
 
 Though I was away this weekend, I still managed to squeeze some hours into Wizard 101's Test server to check out the latest changes. And there's a LOT of them. This next update does not just introduce the world of Grizzleheim into the game, but a whole laundry list of things players have been begging for (aside from appearance slots, which haven't made an, um, appearance).
 
 **Grizzleheim opens, a new world of Viking Bears, Ravens and Wolves. **
 
-![Teleport stone in Grizzleheim](https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-19-47-32-61.jpg "Teleport stone in Grizzleheim")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-21-19-47-32-61.jpg" title="Teleport stone in Grizzleheim" classes="center" >}}
 
 Ah yes, Grizzleheim. The whole new world that pretty much has nothing for max level characters. You can do the next Zeke collection quest, which continues its classic rock theme this time with The Yardbirds, rather huge, wooden birds that look suspiciously like Mr. Lincoln's less mobile cousins. But no new levels and gear that is no upgrade make this an excuse to haul out the lower level alts rather than to progress your main.
 
@@ -54,7 +32,7 @@ In the picture above, Tara stands before a Teleport Stone. You'll find these thr
 
 **We're introducing a Bazaar that lets players buy and sell items they've earned or found in the game. **
 
-![The Bazaar in Old Town](https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-18-49-35-96.jpg "The Bazaar in Old Town")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-21-18-49-35-96.jpg" title="The Bazaar in Old Town" classes="center" >}}
 
 Yes, you can finally sell stuff to other people through the Bazaar. You can find an outpost of the Bazaar in at least Wizard City (in Olde Town) and Krokotopia (on the mysterious fifth island, before this unused, and no, I don't know how to get to it, but it's on the map, and before you say anything, it's not the hourglass secret island).
 
@@ -66,7 +44,7 @@ Those hoping to avoid camping bosses for the best dropped gear will be disappoin
 
 **Crafting lets players create their own equipment and Treasure Cards. **
 
-![Crafting station](https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-21-04-08-51.jpg "Crafting station")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-21-21-04-08-51.jpg" title="Crafting station" classes="center" >}}
 
 MMOs tend to go one of two ways when they add crafting. Either the crafted gear is superior to that found in boss drops, or it isn't. Wizard 101 has gone this second way.
 
@@ -82,7 +60,7 @@ Eventually, you'll be able to craft furniture and other house items, and I'm hop
 
 **We've added Grouping that allows players to team up with friends.**
 
-![Red Sparkles are where your friend wants to be.](https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-22-54-35-32.jpg "Red Sparkles are where your friend wants to be.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-21-22-54-35-32.jpg" title="Red Sparkles are where your friend wants to be." classes="center" >}}
 
 Grouping is pretty clever. You get a group-only chat channel and a group list, and that's handy stuff just by itself. But you also get a reserved spot in a dueling circle. You can make out a red sparkly person next to the wizard in the dueling ring above -- nobody but a group member can take that spot. If you have a group of four wizards and one of them starts an encounter, no wizard not in your group will be able to join.
 
@@ -94,7 +72,7 @@ Along with the group chat comes the dread General Chat ("All"), where wizards an
 
 I don't know if the chat channels are cross realms yet.
 
-![Tree Lamp from a Grizzleheim boss fight](https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-21-23-05-59-84.jpg "Tree Lamp from a Grizzleheim boss fight")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-21-23-05-59-84.jpg" title="Tree Lamp from a Grizzleheim boss fight" classes="center" >}}
 
 If you have a wizard leveling through the Spiral, you are going to want to be spending a lot of time in Grizzleheim. If you are a max level wizard, now's the time to start an alt -- the Bazaar makes alts easy to gear up, and Grizzleheim is full of things you've never seen before. Grouping is a huge win, and chat channels should build the elusive Wizard 101 community we've been wanting.
 

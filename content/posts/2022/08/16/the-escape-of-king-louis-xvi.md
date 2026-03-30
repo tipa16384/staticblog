@@ -3,45 +3,23 @@ date: '2022-08-16T07:00:00-05:00'
 draft: false
 title: "The Escape of King Louis XVI"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/16/the-escape-of-king-louis-xvi/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
   - "Text Adventure Game"
+tags:
   - "Dall-E 2"
   - "French Revolution"
   - "Gpt-3"
   - "King Louis XVI"
   - "The 16th King"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-08-20.34.22-King-Louis-XVI-sitting-in-a-dark-prison-cell-painted-by-Antoine-Callet.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-08-20.34.22-King-Louis-XVI-sitting-in-a-dark-prison-cell-painted-by-Antoine-Callet.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-08-20.34.22-King-Louis-XVI-sitting-in-a-dark-prison-cell-painted-by-Antoine-Callet.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-08-20.34.22-King-Louis-XVI-sitting-in-a-dark-prison-cell-painted-by-Antoine-Callet.png"
 ---
+I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 16th: “The 16th King”.
 

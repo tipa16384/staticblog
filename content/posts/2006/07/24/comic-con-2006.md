@@ -3,45 +3,24 @@ date: '2006-07-24T10:46:30-05:00'
 draft: false
 title: "Comic-Con 2006"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/24/comic-con-2006/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/07/comiccon.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/07/comiccon.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/07/comiccon.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/07/comiccon.gif"
 ---
+[...
+<!--more-->
 
-[![Comic-Con 2006 logo](https://chasingdings.com/wp-content/uploads/2006/07/comiccon.gif)](http://www.comic-con.org/)
+[
+
+](http://www.comic-con.org/)
 
 A line is the highest form of human organization. You can have a thousand people; ten thousand people; more -- all doing what they're doing, but tell them to form a line and *whomp*. Is there any position higher in the world than Head of the Line? Or more detested than the end of the line? You always know your place in a line. You might not be at the front, but at least you're further along than the poor S.O.B. behind you.
 
 I had plenty of time to appreciate my place in the line Saturday - where the hundreds of thousands of people pressed noses to ears in the San Diego Convention Center closed registration when my son Andrew and I had been in line over two hours. And again Sunday, where it was only an hour spent outside. And inside -- more lines for registration. Lines to get swag. Lines for autographs. Lines to get in. Lines to get out. Lines to eat. Lines to sit down.
 
-[![Andrew and Yu Gi Oh Master dueling at San Diego Comic-Con 2006](https://chasingdings.com/wp-content/uploads/2006/07/yugioh.jpg)](https://chasingdings.com/wp-content/uploads/2006/07/yugioh.jpg) Not to say all lines are bad. It gave Andrew (on the right) time to get warmed up dueling other people in line at the Yu Gi Oh card game. I was kind of disappointed that the kids didn't loudly  announce each play along with a complete description of what it did, why they did it, and tell how it was going to save them from doom at the hands decks of their opponent - you know, like the anime.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/07/yugioh.jpg" classes="fig-20" >}}](https://tipa16384.github.io/wkblog/uploads/2006/07/yugioh.jpg) Not to say all lines are bad. It gave Andrew (on the right) time to get warmed up dueling other people in line at the Yu Gi Oh card game. I was kind of disappointed that the kids didn't loudly  announce each play along with a complete description of what it did, why they did it, and tell how it was going to save them from doom at the hands decks of their opponent - you know, like the anime.
 
 Andrew's face lit up when he saw the YuGiOh dueling area. I thought probably they expected people to bring their own cards. Andrew slapped his pocket when I mentioned that. He slapped it a couple more times and said, "Don't you get it? I BROUGHT my cards!"
 
@@ -51,7 +30,7 @@ These YuGiOh masters (all from [Upper Deck](http://www.upperdeck.com/) in Carlsb
 
 I went to the Comic-Con intending to hunt down the artists whose web-comics I read each day and fawn over them.
 
-[![Schlock Mercenary](https://chasingdings.com/wp-content/uploads/2006/07/schlockbook.thumbnail.jpg)](https://chasingdings.com/wp-content/uploads/2006/07/schlockbook.jpg)First one who couldn't run away in time was Howard Tayler of [Schlock Mercenary](http://www.schlockmercenary.com/). Was looking over Billy West's booth (voice actor for Futurama; he does the voice of Frye, Zap Brannigan, the Professor, etc), and there was the talented Mr. Tayler!
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/07/schlockbook.thumbnail.jpg" classes="fig-20" >}}](https://tipa16384.github.io/wkblog/uploads/2006/07/schlockbook.jpg)First one who couldn't run away in time was Howard Tayler of [Schlock Mercenary](http://www.schlockmercenary.com/). Was looking over Billy West's booth (voice actor for Futurama; he does the voice of Frye, Zap Brannigan, the Professor, etc), and there was the talented Mr. Tayler!
 
 I came off sounding like a dweeb. I couldn't remember any of the character names (when I asked for a sketch, the best I could come up with was "the girl with the hair". SHEESH.) What a maroon. But he was nice, deftly made me feel like less of a fangirl, did a wonderful sketch (below), didn't taunt me when I stumbled over the words for the current storyline...
 
@@ -67,4 +46,4 @@ And I'll bring a cellphone, so when my son, who will stand in line for me, gets 
 
 Here's Howard Tayler's sketch of Lieutenant Foxworthy, the gal with the cybernetic hair extensions and an unrequited (in this timeline, anyway) crush on Commander Tagon, from Schlock Mercenary.
 
-![Lieutenant Foxworthy of Schlock Mercenary](https://chasingdings.com/wp-content/uploads/2006/07/schlock.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/07/schlock.jpg" classes="center" >}}

@@ -3,40 +3,19 @@ date: '2011-01-02T01:06:46-05:00'
 draft: false
 title: "EverQuest: I can admit to myself that I like Velious now."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/02/everquest-i-can-admit-to-myself-that-i-like-velious-now/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2010-12-29-23-42-05-44-480x303.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2010-12-29-23-42-05-44-480x303.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/eqgame-2010-12-29-23-42-05-44-480x303.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/eqgame-2010-12-29-23-42-05-44-480x303.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2010-12-29-23-42-05-44-480x303.jpg "The Dain and I")](https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2010-12-29-23-42-05-44.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/eqgame-2010-12-29-23-42-05-44.jpg)
 
 Even in a California summer, the icy blankness of Velious' frozen wastes could make me feel chilly. EverQuest was always immersive for me in that way; the first time we raided the underwater dungeon of Kedge Keep, I thought I might drown, I was so short of breath.
 
@@ -76,7 +55,7 @@ I was browsing around the old server forums and came across [this little bit of 
 
 > (Old) Planar was an upgrade over (just about) anything droppable.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2011-01-01-22-25-43-18-480x367.jpg "Tower of Frozen Shadow")](https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2011-01-01-22-25-43-18.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/eqgame-2011-01-01-22-25-43-18-480x367.jpg" title="Tower of Frozen Shadow" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/eqgame-2011-01-01-22-25-43-18.jpg)
 
 I'm still coming down from the ending of Rift's third beta event. I kicked around in DDO for awhile, watched a movie, and when I came back and sat at my computer again, I knew just where I needed to go: EverQuest.
 
@@ -88,7 +67,7 @@ That was the first place I came to when I got off the first boat to Iceclad that
 
 Nobody knew how many floors were in the place.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2011-01-01-22-35-02-83-480x367.jpg "The Library")](https://chasingdings.com/wp-content/uploads/2011/01/eqgame-2011-01-01-22-35-02-83.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/eqgame-2011-01-01-22-35-02-83-480x367.jpg" title="The Library" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/eqgame-2011-01-01-22-35-02-83.jpg)
 
 Even though my mage, Tsuki, has the master key that would let her travel directly to the seventh floor, for old time's sake, I went floor by floor, killing everything. I even successfully farmed two of the keys, and got the prized Embalmer's Knife from Cara Omica. I would have cheerfully killed for that back in the day -- it proc'd Summon Bandage. Back then, mana was at such a premium that most healers expected anyone who was not the tank to bandage their own wounds.
 

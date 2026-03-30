@@ -3,40 +3,18 @@ date: '2020-08-19T07:54:57-05:00'
 draft: false
 title: "Blaugust #19: Defend Your Life"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/19/blaugust-19-defend-your-life/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm not really sure how to respond to today's Blaugust Promptapalooza prompt, which is from Solarayo of Ace Asunder:..."
+categories:
   - "Blaugust"
   - "Neopets"
+tags:
   - "Bridges"
   - "Kalimba"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1538.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/IMG_1538.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/IMG_1538.jpg"
 ---
+I'm not really sure how to respond to today's Blaugust Promptapalooza prompt, which is from Solarayo of Ace Asunder:...
+<!--more-->
 
 I'm not really sure how to respond to today's Blaugust Promptapalooza prompt, which is from [Solarayo of Ace Asunder](https://aceasunder.com/2020/08/19/unbabbled-about-hobbies/):
 
@@ -50,11 +28,11 @@ I have other blogs, though.
 
 Here's my bridge hunting blog, though I haven't been bridge hunting for a few years now:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/08/lifeonabridged.png" title="https://lifeonabridged.blogspot.com/" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/lifeonabridged.png" title="https://lifeonabridged.blogspot.com/" classes="center" >}}
 
 I also used to really be into a particular minigame in Neopets called Shapeshifter, where you had to fit random shapes into a puzzle to flip all the pieces into the same picture. The first few levels are easy. But to go to level 100, you need computer help. There were some programs out there to help, but I wanted to write my own. For a few months, I was obsessed with algorithms and hit upon my "flip counting" method to prune a move tree and solve most puzzles fairly quickly. I had a lot of great discussions with other solvers.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/08/shewhoshapes.png" title="https://shewhoshapes.wordpress.com/" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/shewhoshapes.png" title="https://shewhoshapes.wordpress.com/" classes="center" >}}
 
 It's my trap to get really focused on things to the detriment of everything else, and that includes gaming.
 

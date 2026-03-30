@@ -3,41 +3,18 @@ date: '2009-07-22T07:53:45-05:00'
 draft: false
 title: "EQ2: The sixteenth minute -- a rebuttal"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/22/eq2-the-sixteenth-minute-a-rebuttal/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Where I live, both Burger King and Texas Steak House are in walking distance. Both serve meals, and both of those meals may contain beef...."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-21-20-29-32-68.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-21-20-29-32-68.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-21-20-29-32-68.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-21-20-29-32-68.jpg"
 ---
+Where I live, both Burger King and Texas Steak House are in walking distance. Both serve meals, and both of those meals may contain beef....
+<!--more-->
 
-![The planets are in alignment at the sicteenth minute...](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-21-20-29-32-68.jpg "The planets are in alignment at the sicteenth minute...")
+
 
 Where I live, both Burger King and Texas Steak House are in walking distance. Both serve meals, and both of those meals may contain beef. I could walk into the steak house and notice that the wait was too long, the menu was not posted prominently with pictures of the meals as you walked in, the meals were vastly overpriced, the music was too loud, the place was too crowded, the servers demanded I decide how I wanted my meal cooked, they served alcohol, and that since Burger King was arguably a LOT more popular, they would be well served by changing their business, or at least to be more aware of the BK way.
 
@@ -67,7 +44,7 @@ Minute 2-3 -- inappropriate character background screen. This got a big "HUH?" f
 
 **Minutes 3-4: Character Creation — Too Many Choices**
 
-![faces](https://chasingdings.com/wp-content/uploads/2009/07/faces.jpg "faces")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/07/faces.jpg" title="faces" classes="center" >}}
 
 EQ2 was so proud of their character creator that they gave it away prior to the game launch so that people could design their characters in advance. Most people saw this as a good thing, including me. Here's some of my actual EQ2 characters. All are halflings, most of them female. Their faces are unique and yet consistent. Tipa's mood is happy, while Etha's is angry -- you can change your expression to fit your mood in EQ2 (but because that option is not available in WoW, does it matter?)
 
@@ -83,7 +60,7 @@ Largely spent trashing EQ2's user modifiable UI with the non-modifiable (without
 
 Wolfshead acknowledges that pretty much all of his perceived issues could be solved by a custom UI, such as those commonly and nearly universally used in WoW. As a hard of sight person myself, I was able to arrange things for easy seeing. Here's my UI -- and yes, it's busy, but that's EQ2 for you. A matter of taste. I can find everything I need.
 
-![Random screen shot.](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-22-08-28-58-12.jpg "Random screen shot.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-22-08-28-58-12.jpg" title="Random screen shot." classes="center" >}}
 
 Clearly, a new character's UI won't be this busy -- but it needs to have room to expand. WoW's fixed default UI won't last you very long at all, unless the thought of switching hot bars all the time appeals to you. (Note, I am not acquainted with the WoW UI aside from the game as it was when I played.)
 

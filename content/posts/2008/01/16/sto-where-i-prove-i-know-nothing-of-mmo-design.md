@@ -3,38 +3,13 @@ date: '2008-01-16T19:28:52-05:00'
 draft: false
 title: "STO: Where I prove I know nothing of MMO design."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/16/sto-where-i-prove-i-know-nothing-of-mmo-design/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The original show is almost forty years old. The whole Star Trek license is becoming less valuable -- there are no shows on the air,..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+The original show is almost forty years old. The whole Star Trek license is becoming less valuable -- there are no shows on the air,...
+<!--more-->
 
 The original show is almost forty years old. The whole Star Trek license is becoming less valuable -- there are no shows on the air, the movie coming out this year seems more like a homage to a fading memory than a new start to the franchise, and I just have to admit that that ensign phasoring a Gorn just didn't do it for me. Kirk spent an episode fighting a single Gorn; now they're trash-mobs? Nuh-uh. Don't go there.
 

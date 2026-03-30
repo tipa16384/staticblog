@@ -3,42 +3,17 @@ date: '2008-11-07T12:04:19-05:00'
 draft: false
 title: "Thursday gaming: LBP, EQ2 and W101... again."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/07/thursday-gaming-lbp-eq2-and-w101-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wizard 101, why can't I quit you?..."
+categories:
   - "EverQuest"
   - "Littlebigplanet"
   - "MMORPG"
   - "Nostalgia the Guild"
   - "Other Games"
   - "Wizard101"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Wizard 101, why can't I quit you?...
+<!--more-->
 
 Wizard 101, why can't I quit you?
 

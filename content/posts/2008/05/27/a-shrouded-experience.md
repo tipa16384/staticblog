@@ -3,41 +3,18 @@ date: '2008-05-27T22:39:32-05:00'
 draft: false
 title: "A Shrouded Experience"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/27/a-shrouded-experience/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Because people occasionally miss our Nostalgia nights, those who make all of them have outleveled those who do not. I, alas, not only not missed..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-27-20-21-55-53.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-27-20-21-55-53.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-27-20-21-55-53.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-27-20-21-55-53.jpg"
 ---
+Because people occasionally miss our Nostalgia nights, those who make all of them have outleveled those who do not. I, alas, not only not missed...
+<!--more-->
 
-![eqgame-2008-05-27-20-21-55-53.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-27-20-21-55-53.jpg)
+
 
 Because people occasionally miss our Nostalgia nights, those who make all of them have outleveled those who do not. I, alas, not only not missed a night, but I sometimes do quests and group with guildies on other nights. The result: Some people were still at level 30 when I hit 40 and 41.
 

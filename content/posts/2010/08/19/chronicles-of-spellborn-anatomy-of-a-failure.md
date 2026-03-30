@@ -3,45 +3,23 @@ date: '2010-08-19T06:48:52-05:00'
 draft: false
 title: "Chronicles of Spellborn: Anatomy of a Failure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/19/chronicles-of-spellborn-anatomy-of-a-failure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Chronicles of Spellborn seemed to provide a wish list of what people want in an MMO. You could look cool from day 1; the..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Acclaim"
   - "Casual"
   - "F2P"
   - "Frogster"
   - "Hardcore"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg"
 ---
+The Chronicles of Spellborn seemed to provide a wish list of what people want in an MMO. You could look cool from day 1; the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/08/sb_client-2010-08-18-19-49-21-19-480x270.jpg" title="No other game looked like Spellborn" class="align-center" >}}
+
 
 The Chronicles of Spellborn seemed to provide a wish list of what people want in an MMO. You could look cool from day 1; the gear you chose at character creation could be upgraded by slotting in runes to increase their power. You could still find or craft items with more or better slots, but there was never a time when your character would have to look anything but cool as sheets.
 
@@ -59,7 +37,7 @@ The game then went into further hiatus for five more months.
 
 Eventually, in February of 2009, Spellborn went live in the US and the rest of the world. Instead of a standard subscription plan, players needed to by Acclaim's cash shop currency, and then redeem that for play time. It was fairly complicated, and since people would be spending different amounts to play the game depending on the deals they got for the cash shop currency, it was hard for people to figure out just how much the game cost, and whether or not they were getting a decent deal.
 
-[![](http://art.penny-arcade.com/photos/519972950_3DaaX-L-2.jpg "Penny Arcade, ")](http://www.penny-arcade.com/comic/2009/4/24/)
+[{{< image src="http://art.penny-arcade.com/photos/519972950_3DaaX-L-2.jpg" title="Penny Arcade, " classes="center" >}}](http://www.penny-arcade.com/comic/2009/4/24/)
 
 Acclaim promised heavy support for the game, but when it became clear Spellborn was not a hit, such support dried up. In just a few months, rumors arose that the developers, Spellborn N.V., had all left to find other work, and that the game would be moving to a F2P model with an item shop (for a game without a focus on items!) and other such paraphernalia. The game was to be relaunched to begin again as a MMO like most of the others in Acclaim's stable, but instead, was just set to be free and left alone, patchless, until the decision came to close the game down.
 

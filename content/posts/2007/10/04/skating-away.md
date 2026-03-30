@@ -3,39 +3,16 @@ date: '2007-10-04T22:30:21-05:00'
 draft: false
 title: "Skating Away..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/04/skating-away/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, my last concert trip didn't turn out so well. Blue Oyster Cult was a real disappointment, a dead band. Will Jethro Tull be the..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/12780_24984_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/12780_24984_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/12780_24984_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/12780_24984_1.jpg"
 ---
+Well, my last concert trip didn't turn out so well. Blue Oyster Cult was a real disappointment, a dead band. Will Jethro Tull be the...
+<!--more-->
 
-![12780_24984_1.jpg](https://chasingdings.com/wp-content/uploads/2007/10/12780_24984_1.jpg)
+
 
 Well, my last concert trip didn't turn out so well. Blue Oyster Cult was a real disappointment, a dead band. Will Jethro Tull be the same?
 

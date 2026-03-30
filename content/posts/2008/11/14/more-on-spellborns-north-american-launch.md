@@ -3,41 +3,17 @@ date: '2008-11-14T19:42:04-05:00'
 draft: false
 title: "More on Spellborn's North American launch"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/14/more-on-spellborns-north-american-launch/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Commenter Ardenya wrote up a fantastic description of how Spellborn will be published in Europe (aside from the UK and the other Commonwealth countries (Australia,..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Acclaim"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Commenter Ardenya wrote up a fantastic description of how Spellborn will be published in Europe (aside from the UK and the other Commonwealth countries (Australia,...
+<!--more-->
 
-Commenter [Ardenya](http://www.idot-blog.de/) [wrote up a fantastic description](https://chasingdings.com/index.php/2008/11/14/spellborn-two-week-warning/#comment-10704) of how Spellborn will be published in Europe (aside from the UK and the other Commonwealth countries (Australia, NZ, South Africa), which seem to be lumped in with North America in this case). I'm copying it here because it's the most concrete info I've heard so far about the game's launch, anywhere.
+Commenter [Ardenya](http://www.idot-blog.de/) [wrote up a fantastic description](https://tipa16384.github.io/wkblog/index.php/2008/11/14/spellborn-two-week-warning/#comment-10704) of how Spellborn will be published in Europe (aside from the UK and the other Commonwealth countries (Australia, NZ, South Africa), which seem to be lumped in with North America in this case). I'm copying it here because it's the most concrete info I've heard so far about the game's launch, anywhere.
 
 > Considering packages and payment, earlier tonight I have recieved an email with some details and amazon preorder links. Unfortunatly, Im not at my desktop atm and will be as early as tomorrow so bear with the little details I have preserved in the twists of my mind… =) I’ll verify the info as I get home.
 

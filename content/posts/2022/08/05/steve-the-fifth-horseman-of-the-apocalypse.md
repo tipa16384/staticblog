@@ -3,24 +3,8 @@ date: '2022-08-05T07:00:00-05:00'
 draft: false
 title: "Steve, the Fifth Horseman of the Apocalypse"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/05/steve-the-fifth-horseman-of-the-apocalypse/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
+categories:
   - "2D Platformer"
   - "Action Adventure Games"
   - "Blaugust"
@@ -28,27 +12,24 @@ tags:
   - "Post-Apocalyptic Games"
   - "Shooter"
   - "Zombie Games"
+tags:
+  - "2D Platformer"
   - "Action Game"
   - "AI"
+  - "Blaugust"
   - "Craiyon"
   - "Gpt-3"
   - "Light-Hearted Tone"
   - "Post-Apocalyptic"
+  - "Shooter"
   - "Super Mario"
   - "Wild West"
   - "Zombies"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.32.58-A-photograph-of-a-colorfully-dressed-clown-named-Steve-sitting-on-a-horse-that-has-fiery-eyes.-They-are-standing-on-a-hill.-Behind-them-on-the-hori.png"
 ---
+I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...
+<!--more-->
 
 I asked OpenAI's GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here's its idea for August 5th: "Steve, the Fifth Horseman of the Apocalypse".
 
@@ -64,7 +45,7 @@ Once you have defeated all your brothers, you'll be able to ride into the sunset
 
 "Steve: The Fifth Horseman" resembles many of the most famous 2D platformers, like "Super Mario World". However, it sets itself apart with its focus on combat. The majority of the game will have you fighting off hordes of zombies, using a variety of weapons. While the game is not particularly difficult, it can be challenging at times. The final battle against Pestilence, in particular, is quite difficult. However, the game is forgiving and allows you to continue from checkpoints if you die.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-30-11.36.40-A-screenshot-from-a-2D-platformer-in-the-style-of-Castlevania.-The-protagonist-is-a-clown-on-a-horse.-The-enemy-is-large-and-detailed-and-is-Pestilenc-1024x1024.png" title="Screenshot from \"Steve, the Fifth Horseman\"" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-30-11.36.40-A-screenshot-from-a-2D-platformer-in-the-style-of-Castlevania.-The-protagonist-is-a-clown-on-a-horse.-The-enemy-is-large-and-detailed-and-is-Pestilenc-1024x1024.png" title="Screenshot from \"Steve, the Fifth Horseman\"" classes="center" >}}
 
 **Graphics and Sound**
 

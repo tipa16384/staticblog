@@ -3,48 +3,26 @@ date: '2020-09-11T07:00:00-05:00'
 draft: false
 title: "Game Night: Jaws of the Lion, the Black Ship"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/11/game-night-jaws-of-the-lion-the-black-ship/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Since school has started up, we've been hesitant to continue with the family game night. But you just can't keep us down. We've decided to..."
+categories:
   - "3D Printing"
   - "Game Night"
   - "Gloomhaven"
   - "Miniatures"
   - "Tabletop Games"
+tags:
   - "Jaws of the Lion"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1908.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1908.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1908.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1908.jpg"
 ---
+Since school has started up, we've been hesitant to continue with the family game night. But you just can't keep us down. We've decided to...
+<!--more-->
 
 Since school has started up, we've been hesitant to continue with the family game night. But you just can't keep us down. We've decided to alternate Jaws of the Lion, a campaign game, with other games. Last time we met it was for mahjong. Tonight, we're back in Gloomhaven.
 
 My goal with Jaws of the Lion was to completely 3D print the terrain, the miniatures, the furniture -- *everything*. Unfortunately, I've been having a lot of trouble with the 3D printer, but that's really a story for another post. Because of the problems, I haven't been able to finish printing the wooden floors for this scenario, or the stone floors for the next one. I have a barrel full of failed prints. Something about the floor tiles for wood and stone really seems to kill my printer.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1907-1024x1024.jpg" title="My daughter setting up her character." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1907-1024x1024.jpg" title="My daughter setting up her character." classes="center" >}}
 
 So that was issue #1. Issue #2 was the miniatures. My boyfriend had printed them, but I still had a lot of painting to do. I'd thought, somehow, that the scenario we were playing tonight was just Vermlings, and I'd painted those already. While setting the game up, though, I saw that we were actually facing zealots and snakes.
 
@@ -52,7 +30,7 @@ Since both my kids have pet snakes, painting the snake miniatures to look like t
 
 I hadn't painted *any* of the zealots, though. As soon as work ended, I took out my paints and got to painting. I only finished two of them, though, before my daughter came over. Those two had to leapfrog through the scenario, taking the place of an unpainted one every time they died.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1909.jpg" title="A couple of cultists and Shaharra waited for us in the last room." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1909.jpg" title="A couple of cultists and Shaharra waited for us in the last room." classes="center" >}}
 
 Since I hadn't gotten the terrain printed, we had to use the Jaws of the Lion scenario book as it was intended, though with my printed terrain pieces. To be honest, not having to fiddle with all those Maghex bases and the terrain tiles saved a lot of time. I'm rethinking printing the bases at the moment. Printed hexes can look good, but I'm not sure I can make them look better than the printed page.
 

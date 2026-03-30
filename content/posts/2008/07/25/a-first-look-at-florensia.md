@@ -3,63 +3,41 @@ date: '2008-07-25T08:15:56-05:00'
 draft: false
 title: "A first look at Florensia"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/25/a-first-look-at-florensia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?..."
+categories:
   - "Florensia"
   - "MMORPG"
+tags:
   - "Dream of Mirror Online"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg"
 ---
+Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/florensiaen-2008-07-25-07-24-20-08.jpg "florensiaen-2008-07-25-07-24-20-08")
+
 
 Adventure on land and sea? Lush, detailed world? Dual talent trees that let you mold your character however you like? How can it miss?
 
 Florensia's kinship with Dream of Mirror Online couldn't be more unmistakable. That same sort of soft focus, cell-shaded look of the characters against backdrops so lush they seem to be almost painted. And these guys don't just sit around and swing at each other... they put their bodies into it, jumping and swinging and spiking stuff at the enemy. The birth of the aerobic adventurer.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/florensiaen-2008-07-25-07-22-34-49.jpg "florensiaen-2008-07-25-07-22-34-49")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-22-34-49.jpg" title="florensiaen-2008-07-25-07-22-34-49" classes="center" >}}
 
 You start off in the port town of Roxbury on Cardiff Island -- any relationship to actual cities is purely coincidental. This small fishing village is being assaulted from both land and sea by a variety of pests. On land, someone delved into a cave where no mortal was meant to tread, and a vile mist began corrupting the local wildlife. On the sea, the port is being harassed by gigantic lobster men who seem to be in league with some pirates.
 
 The residents of Roxbury are going to need all your abilities on land AND on sea in order to survive. Also, you will need to fish.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/florensiaen-2008-07-24-06-43-50-29.jpg "florensiaen-2008-07-24-06-43-50-29")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-24-06-43-50-29.jpg" title="florensiaen-2008-07-24-06-43-50-29" classes="center" >}}
 
 Nothing says "hi, this game is from Japan" like hundreds of people all lined up against the water, fishing. And why not? Fish up some rare stuff and you can turn it in for upgrades.
 
 The quests are thoroughly standard. Bring this thing to someone else. Go talk to that guy about something. Go kill ten of that and three of this and all the thoses you can find until you get ten wazzits from it.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/florensiaen-2008-07-24-07-50-12-23.jpg "florensiaen-2008-07-24-07-50-12-23")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-24-07-50-12-23.jpg" title="florensiaen-2008-07-24-07-50-12-23" classes="center" >}}
 
 The extensive tutorial leads you easily through battles on land, building and equipping a ship, and setting sail. It does fail a bit on how to actually kill stuff on the water; it took awhile before I figured out how to successfully join the fight against the Lobstermen from the Deep but yeah, I eventually got all Cloverfield on their butts.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/florensiaen-2008-07-25-07-12-10-90.jpg "florensiaen-2008-07-25-07-12-10-90")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-25-07-12-10-90.jpg" title="florensiaen-2008-07-25-07-12-10-90" classes="center" >}}
 
 I designed and built that ship, by the way. That ain't no tutorial ship.
 
@@ -69,7 +47,7 @@ Those are just the templates. Similar to the late and lamented Mythos, you can b
 
 I haven't seen a respec NPC, but I can't see how there would not be one.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/florensiaen-2008-07-24-07-45-41-49.jpg "florensiaen-2008-07-24-07-45-41-49")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/florensiaen-2008-07-24-07-45-41-49.jpg" title="florensiaen-2008-07-24-07-45-41-49" classes="center" >}}
 
 But is the game any good? I can't tell you that. I can tell you it isn't BAD. It does need some work -- for instance, the UI is not modifiable. These old eyes need text to be a little larger, and I'd like some of the other UI elements moved around. The movement keys are a little wacky; you can't turn in place, you can only turn while moving forward, which is weird. And you can't redefine them. The bouncy music plays continuously whether you are in battle or not, and it's always the same tune. So yeah, there's work to be done.
 

@@ -3,40 +3,17 @@ date: '2008-02-16T11:28:15-05:00'
 draft: false
 title: "Finished: Perdido Street Station by China Miéville"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/16/finished-perdido-street-station-by-china-mieville/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I bet you thought I would forget about my Reader, return to paper books (and I admit, I do have Iain M. Banks' \"Matter\" winging..."
+categories:
   - "General"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/stp60957.JPG"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/stp60957.JPG"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/stp60957.JPG"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/stp60957.JPG"
 ---
+I bet you thought I would forget about my Reader, return to paper books (and I admit, I do have Iain M. Banks' "Matter" winging...
+<!--more-->
 
-![stp60957.JPG](https://chasingdings.com/wp-content/uploads/2008/02/stp60957.JPG)
+
 
 I bet you thought I would forget about my Reader, return to paper books (and I admit, I do have Iain M. Banks' "Matter" winging its way to me in dead tree form). But I swear to you, the Reader is my constant companion. Tucked away in my purse are about twenty books, some bought, some free, and whenever I have a few quiet moments to read, out it comes.
 

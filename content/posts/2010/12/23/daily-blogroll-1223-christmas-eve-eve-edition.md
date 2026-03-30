@@ -3,24 +3,8 @@ date: '2010-12-23T06:00:43-05:00'
 draft: false
 title: "Daily Blogroll 12/23 -- Christmas Eve Eve edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/23/daily-blogroll-1223-christmas-eve-eve-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Black Prophecy"
   - "Daily Blogroll"
   - "EverQuest"
@@ -29,20 +13,15 @@ tags:
   - "MMORPG"
   - "Rift"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/rifty.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/rifty.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rifty.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/rifty.png"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/rifty.png)](https://chasingdings.com/wp-content/uploads/2010/12/rifty.png)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/rifty.png)
 
 Scott of [Pumping Irony](http://pumpingirony.net/) was chiding me and other bloggers today on Twitter for getting totally excited about a game, writing loads about it, then dropping that game the moment something new came by. I was all defensive, pointing to my long-term coverage of W101, STO, DDO and, when I played them, EVE, EQ and EQ2 when -- I remembered Fantasy Earth Zero, Dragonica, Dream of Mirror Online, Dragon Oath and so many other games I played heavily for a few weeks, then totally forgot.
 
@@ -54,7 +33,7 @@ Big news today is, of course, the dropping of the Rift NDA. Read about that and 
 
 **Rift... sigh.**
 
-I wrote my rather rambling thoughts about Rift [earlier today](https://chasingdings.com/index.php/2010/12/22/rift-the-realm-of-the-faerie/). I really enjoyed it, but not everyone had such warm feelings about the game.
+I wrote my rather rambling thoughts about Rift [earlier today](https://tipa16384.github.io/wkblog/index.php/2010/12/22/rift-the-realm-of-the-faerie/). I really enjoyed it, but not everyone had such warm feelings about the game.
 
 Beau of Epic Dolls thinks it has [a strong sense of deja fail](http://epicdolls.com/beauturkey/?p=4120) about it. Keen liked the dungeon he tried, but considers the game [a tired variation on the WoW theme](http://www.keenandgraev.com/?p=4628). Chris at Level Capped thinks Rift and Warhammer are [two halves of one really great game](http://levelcapped.com/2010/12/rift-nda-is-down/).
 
@@ -66,7 +45,7 @@ Everyone remarks that the starter experience is very linear, but there'd be comp
 
 Some people are taking this [way too seriously](http://www.twitlonger.com/show/7k2vrv)...
 
-[![](http://eq2wire.com/wp-content/uploads/2010/12/eq2_sucker_660.jpg "EQ2 Suckers")](http://eq2wire.com/2010/12/22/cheesepirate-smedleys-toothy-grin-explained/)
+[{{< image src="http://eq2wire.com/wp-content/uploads/2010/12/eq2_sucker_660.jpg" title="EQ2 Suckers" classes="center" >}}](http://eq2wire.com/2010/12/22/cheesepirate-smedleys-toothy-grin-explained/)
 
 **EverQuest $$**
 

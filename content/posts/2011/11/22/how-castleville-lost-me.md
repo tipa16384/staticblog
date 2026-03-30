@@ -3,39 +3,16 @@ date: '2011-11-22T22:23:36-05:00'
 draft: false
 title: "How Castleville Lost Me."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/11/22/how-castleville-lost-me/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "With each new \"-Ville\" game, Zynga adds something new to their base clicker gameplay. Their latest, Castleville, adds fairly involved crafting to the farming mechanic..."
+categories:
   - "Facebook Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/11/Fullscreen-capture-11192011-93944-AM-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/11/Fullscreen-capture-11192011-93944-AM-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/Fullscreen-capture-11192011-93944-AM-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/11/Fullscreen-capture-11192011-93944-AM-480x384.jpg"
 ---
+With each new "-Ville" game, Zynga adds something new to their base clicker gameplay. Their latest, Castleville, adds fairly involved crafting to the farming mechanic...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/Fullscreen-capture-11192011-93944-AM-480x384.jpg" title="The Castleville board." class="align-center" >}}
+
 
 With each new "-Ville" game, Zynga adds something new to their base clicker gameplay. Their latest, Castleville, adds fairly involved crafting to the farming mechanic from Farmville and the town building and creature fighting mechanic from Frontierville. Cityville's trading game and Empires & Allies rudimentary PvP are absent here.
 
@@ -43,7 +20,7 @@ The majority of the Castleville board is hidden beneath a "gloom" that can be di
 
 I usually give Zynga games a couple months, but it's gone from my Facebook stream now. The picture below tells the story.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/Fullscreen-capture-11222011-94212-PM-480x375.jpg" title="Castleville owns my timeline" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/11/Fullscreen-capture-11222011-94212-PM-480x375.jpg" title="Castleville owns my timeline" classes="center" >}}
 
 Castleville friggin' took over my timeline. I post pictures to Facebook, chat with my family and non-G+ aware friends. When I look at my timeline to see at a glance what is happening, and all I see is Castleville... well, that can't happen.
 
@@ -51,6 +28,6 @@ This isn't the only annoying feature Castleville adds. Recent Zynga games have l
 
 Castleville by itself isn't a bad game, and the crafting is innovative (though since it uses non- or very slow-renewing resources, you're forced to do most of your harvesting in your friends' kingdoms). You no longer need to click your harvests -- you can just wave your mouse over items to instantly collect them. I'd have liked to have seen that in Frontierville.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/11/Fullscreen-capture-11222011-94446-PM-480x372.jpg" title="The timeline I wanted to see." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/11/Fullscreen-capture-11222011-94446-PM-480x372.jpg" title="The timeline I wanted to see." classes="center" >}}
 
 I'd have liked to have played Castleville some more. But it's just too damn annoying and way too noisy. Thankfully, removing the app lets you have your timeline back.

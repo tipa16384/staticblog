@@ -3,24 +3,8 @@ date: '2022-08-07T07:00:00-05:00'
 draft: false
 title: "The Seven Sages: A Masterclass in Metroidvania Design"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/07/the-seven-sages-a-masterclass-in-metroidvania-design/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "In \"The Seven Sages\", you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil."
-description: "In \"The Seven Sages\", you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil."
-tags:
+categories:
   - "2D Platformer"
   - "Action Adventure Games"
   - "Blaugust"
@@ -28,6 +12,7 @@ tags:
   - "Metroidvania Games"
   - "OpenAI"
   - "Side-Scrolling Games"
+tags:
   - "Action"
   - "Adventure"
   - "Craiyon"
@@ -40,18 +25,11 @@ tags:
   - "Seven Sages"
   - "The Seven Sages"
   - "Video Game"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/7sages2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/7sages2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/7sages2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/7sages2.png"
 ---
+In "The Seven Sages", you play as one of the seven ancient sages of mystery, who must journey through a vast and dangerous world to gather the seven magical artifacts that will save the realm from a great evil.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 7th: “The Seven Sages”. I found out later this was a Zelda reference...
 
@@ -61,7 +39,7 @@ The game world is also filled with secrets to discover, and each of the seven sa
 
 It's up to you and your fellow sages to stop him before he can gather the seven magical artifacts and use them to destroy the world. This is a tough game, and you'll die often as you learn the ropes and explore the huge game world. But don't worry, because death is just another opportunity to start again and try a different approach.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-31-12.17.44-colorful-digital-art-of-a-screenshot-from-a-Metroidvania-style-game-showing-a-wise-old-sage-holding-a-staff-glowing-with-purple-energy.-He-is-looking-.png" title="They're coming!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-31-12.17.44-colorful-digital-art-of-a-screenshot-from-a-Metroidvania-style-game-showing-a-wise-old-sage-holding-a-staff-glowing-with-purple-energy.-He-is-looking-.png" title="They're coming!" classes="center" >}}
 
 **The Sages**
 
@@ -79,7 +57,7 @@ Sage Aquila is a gifted healer who uses her magic to help those in need. She car
 
 Last but not least is Sage Nox, a mysterious figure who keeps to the shadows. Not much is known about him, but he always seems to be there when you need him most. He wields a staff that can shoot devastating waves of sound, and he knows how to use it to great effect.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-31-12.14.50-a-16-bit-pixel-art-showing-a-wise-old-sage-holding-a-staff-glowing-with-purple-energy.-He-is-looking-over-an-army-of-monsters.-In-the-distance-is-a-fo-1024x1024.png" title="Sage Solus" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-31-12.14.50-a-16-bit-pixel-art-showing-a-wise-old-sage-holding-a-staff-glowing-with-purple-energy.-He-is-looking-over-an-army-of-monsters.-In-the-distance-is-a-fo-1024x1024.png" title="Sage Solus" classes="center" >}}
 
 **The Graphics & Gameplay**
 
@@ -91,7 +69,7 @@ Players who use controllers will find the controls to be tight and responsive. T
 
 The sound design is top-notch, with a mix of catchy tunes and atmospheric tracks that set the perfect mood for exploration. The sound effects are also well done, and they really add to the game's overall immersion. The most memorable tune plays when you're close to discovering one of the seven magical artifacts. It's sure to get your heart racing!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/craiyon_123750_colorful_digital_art_of_a_screenshot_from_a_Metroidvania_style_game_showing_a_wise_ol.png" title="Screenshot" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/craiyon_123750_colorful_digital_art_of_a_screenshot_from_a_Metroidvania_style_game_showing_a_wise_ol.png" title="Screenshot" classes="center" >}}
 
 **Meta**
 

@@ -3,40 +3,17 @@ date: '2009-11-21T21:42:52-05:00'
 draft: false
 title: "Wizard101: Mirkholm Keep"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/11/21/wizard101-mirkholm-keep/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The dynamic duo was on the prowl in Grizzleheim once more. The wolves of Mirkholm Keep, once at peace with the bears, have had their..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-21-17-07-31-90.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-21-17-07-31-90.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/WizardGraphicalClient-2009-11-21-17-07-31-90.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/WizardGraphicalClient-2009-11-21-17-07-31-90.jpg"
 ---
+The dynamic duo was on the prowl in Grizzleheim once more. The wolves of Mirkholm Keep, once at peace with the bears, have had their...
+<!--more-->
 
-![She](https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-21-17-07-31-90.jpg "She")
+
 
 The dynamic duo was on the prowl in Grizzleheim once more. The wolves of Mirkholm Keep, once at peace with the bears, have had their trust betrayed by raven lies, courtesy of the evil Munin. Munin was one of two ravens that the All-Father, Odin, used to keep tabs on the world. Even though he only had one eye, he managed to still keep the whole All-Seeing title by sending Munin and his brother, Hugin -- Memory and Thought -- around the world every night so they could report back all the things they'd seen.
 
@@ -50,7 +27,7 @@ And look! Horses were on sale! I didn't want to spend crowns on a horse, but gol
 
 With good clothes and a mean-spirited horse, I was ready to go. Allison logged on, and off we went to Grizzleheim.
 
-![Frogs are the secret weapons](https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-21-17-40-20-74.jpg "Frogs are the secret weapons")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/WizardGraphicalClient-2009-11-21-17-40-20-74.jpg" title="Frogs are the secret weapons" classes="center" >}}
 
 The wolves were only reluctant allies to the ravens, and the bears were desperate to get on the good side of the wolves, so step one, we needed to kill us some wolves. And lots of them.
 
@@ -60,7 +37,7 @@ It turns out a well-played myth Humungofrog buffed up with all the goodies a bal
 
 So eventually, I'd killed enough wolves so that they knew I was serious about being their friend. It was time to meet Mr. Memory.
 
-![Friends at last!](https://chasingdings.com/wp-content/uploads/2009/11/WizardGraphicalClient-2009-11-21-18-47-49-61.jpg "Friends at last!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/WizardGraphicalClient-2009-11-21-18-47-49-61.jpg" title="Friends at last!" classes="center" >}}
 
 I'd managed to scrounge up some dust that forced Munin to tell the truth in front of the wolf elders, and naturally they immediately wanted to become friends with the now-blameless bears. They were done with us. We returned to the mayor for our reward, and that was that. I guess we don't get to see the next chapter -- to meet the ravens -- until level 40.
 

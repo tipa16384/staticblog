@@ -3,26 +3,11 @@ date: '2020-08-22T09:28:16-05:00'
 draft: false
 title: "I Jump on Bandwagons"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/22/i-jump-on-bandwagons/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's a lot of issues I have with gaming. Lack of time, for one. I'd really like to have a lot more time for gaming,..."
+categories:
   - "PS4"
   - "Tabletop Games"
+tags:
   - "Avengers Beta"
   - "Chocobo Mystery Dungeon"
   - "DC Universe Online"
@@ -30,30 +15,23 @@ tags:
   - "Girls Screaming on Twitter"
   - "Othello"
   - "Twitter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821210108.jpg"
 ---
+There's a lot of issues I have with gaming. Lack of time, for one. I'd really like to have a lot more time for gaming,...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/othello.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/othello.png" classes="center" >}}
 
 There's a lot of issues I have with gaming. Lack of time, for one. I'd really like to have a lot more time for gaming, and blogging about games. But then I think -- hold on, wait a second, I *work*. And if I *wasn't working*, then I'd be broke, and unable to play games (or at least, unable to enjoy playing games), and then I'd lose the house and be on the streets and be miserable and clutching the Othello set my mom bought me when I was a kid, my last remaining game.
 
 But a lot of people do manage to juggle a full-time job, a family, all sorts of real life commitments, and also have time to game but also time to write long and insightful posts about it. I know this because I have Twitter and am daily exposed [to precisely the sort of people](https://twitter.com/i/lists/1297151286916382723) who are fantastic at everything I'd like to at least be slightly good at. But instead, it feels like I'm always chasing behind.
 
-But, you know, I'm a gamer and gamers gonna game, no matter how much or how little time they have. And I do occasionally actually play games other people are playing (though you'll pry my [Chocobo Mystery Dungeon](https://chasingdings.com/?tag=chocobo-mystery-dungeon) game out of my cold, dead controller. I don't care how few people play it; it's my favorite).
+But, you know, I'm a gamer and gamers gonna game, no matter how much or how little time they have. And I do occasionally actually play games other people are playing (though you'll pry my [Chocobo Mystery Dungeon](https://tipa16384.github.io/wkblog/?tag=chocobo-mystery-dungeon) game out of my cold, dead controller. I don't care how few people play it; it's my favorite).
 
 ## Fall Guys
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821204747-300x169.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/Fall-Guys_-Ultimate-Knockout_20200821204747-300x169.jpg" classes="center" >}}
 
 This game was free with PSN this month, so I downloaded it on a whim, played it a few times, had a decent time though I wasn't really all that good at it.
 
@@ -63,9 +41,9 @@ Then all the streamers my BF watches are doing Fall Guys streams. And so I pick 
 
 ## **Avengers Beta**
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/Marvels-Avengers-300x169.jpg)Marvel's Avengers
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/Marvels-Avengers-300x169.jpg" classes="center" >}}Marvel's Avengers
 
-This is a game I *only* picked up because people on Twitter were playing it. I don't really have a lot of interest in Marvel stuff. I play [DC Universe Online](https://chasingdings.com/?tag=dcuo) every day -- if I count my hours, it's probably the MMO I've spent the second most time in over the past several years, only coming in behind Final Fantasy XIV. This one was free on PS4, too, and I understand it's just an extended ad for the actual game. But that's fine.
+This is a game I *only* picked up because people on Twitter were playing it. I don't really have a lot of interest in Marvel stuff. I play [DC Universe Online](https://tipa16384.github.io/wkblog/?tag=dcuo) every day -- if I count my hours, it's probably the MMO I've spent the second most time in over the past several years, only coming in behind Final Fantasy XIV. This one was free on PS4, too, and I understand it's just an extended ad for the actual game. But that's fine.
 
 The game is fine. I guess that's damning with faint praise? I haven't gotten too far into it, only having unlocked the first two heroes, Hulk and Kamala Khan. I can't call Kamala by her hero name because the Marvel family is DC, and I have to stick with my loyalties.
 

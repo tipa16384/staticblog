@@ -3,45 +3,23 @@ date: '2007-10-13T09:10:23-05:00'
 draft: false
 title: "EQ2: The crows come home to roost"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/13/eq2-the-crows-come-home-to-roost/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This was all part of our \"execution strategy\". Carefully arrange ourselves beneath him, with our weapons all pointed up, then when he gets tired and..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "EverQuest II"
   - "Isle of Mara"
   - "Mystic Lake"
   - "Roost"
   - "Village of Shin"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/deraroost2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/deraroost2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/deraroost2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/deraroost2.jpg"
 ---
+This was all part of our "execution strategy". Carefully arrange ourselves beneath him, with our weapons all pointed up, then when he gets tired and...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/deraroost2.jpg)
+
 
 This was all part of our "execution strategy". Carefully arrange ourselves *beneath* him, with our weapons all pointed up, then when he gets tired and lands, WHAM! Death of a thousand needles, we rez and we loot.
 
@@ -49,7 +27,7 @@ It was *just crazy enough to work.*
 
 Okay, we really didn't think we were going to roll in their with ~~twelve~~ eleven random people and kill Xux'liao (yeah, I looked up his name...), but given we'd just spent a night getting access to the place, seemed worth a look.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/deraroost1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/deraroost1.jpg" classes="center" >}}
 
 And didn't I just know I'd be asked to bring my Inquisitor... well heck, she does 380 dps -- not bad for an alt, though raid geared inquisitors can do 1K dps and still heal -- but it was fun. A plate healer hat dropped off a mini-named along the way and the templar in the raid either had it or didn't want it, so I got it.
 

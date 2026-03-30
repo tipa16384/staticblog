@@ -3,41 +3,19 @@ date: '2008-12-12T10:11:38-05:00'
 draft: false
 title: "EQ: Frostfell comes to Velious"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/12/eq-frostfell-comes-to-velious/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I think I'm still hurting from the smackdown those giants in the Great Divide put on me...."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Frostfell"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-11-19-37-06-12.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-11-19-37-06-12.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-11-19-37-06-12.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-11-19-37-06-12.jpg"
 ---
+I think I'm still hurting from the smackdown those giants in the Great Divide put on me....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-11-19-37-06-12.jpg "eqgame-2008-12-11-19-37-06-12")
+
 
 I think I'm still hurting from the smackdown those giants in the Great Divide put on me.
 
@@ -47,12 +25,12 @@ The first two, kill ten goblin scouts and a boss, and then kill ten lower level 
 
 The third quest, where the giants were light and dark blue (to a 66 ranger), I thought I might be able to do them with the help of my cleric mercenary, but she was nearly out of mana and I'd used my weaponshield by the time I managed to kill the first of the two I brought on my first pull.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-12-09-03-13-70.jpg "eqgame-2008-12-12-09-03-13-70")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-09-03-13-70.jpg" title="eqgame-2008-12-12-09-03-13-70" classes="center" >}}
 
 The second one killed me when my cleric ran out of mana. Well, at least I got this little gem. It's colorful! It's sparkly! It's not something a ranger could use because, well, it's not a bow. The first three quests all give this item, with better stats as you go through the chain.
 
 The fourth quest, killing the big baddy who wants to ruin Frostfell for everyone -- well, he was guarded by storms that were all "what do you want your tombstone to say?" and "ready to attack!" and red as hot blood spilled on snow to me... so I wasn't going to even touch that one.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-12-09-04-08-66.jpg "eqgame-2008-12-12-09-04-08-66")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-12-09-04-08-66.jpg" title="eqgame-2008-12-12-09-04-08-66" classes="center" >}}
 
 Besides, EQ2's Frostfell celebrations are begging me to check them out. Maybe tonight!

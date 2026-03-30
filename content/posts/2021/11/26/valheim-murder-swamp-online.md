@@ -3,41 +3,19 @@ date: '2021-11-26T21:35:54-05:00'
 draft: false
 title: "Valheim: Murder Swamp Online"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/11/26/valheim-murder-swamp-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The swamp biome was already Valheim's deadliest, in my opinion. A new \"stirring in the mist\" just made it a little bit deadlier -- but..."
+categories:
   - "Survival"
   - "Valheim"
+tags:
   - "Roots"
   - "Stats"
   - "Swamp"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/20211126173621_1_resized.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/11/20211126173621_1_resized.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211126173621_1_resized.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/20211126173621_1_resized.jpg"
 ---
+The swamp biome was already Valheim's deadliest, in my opinion. A new "stirring in the mist" just made it a little bit deadlier -- but...
+<!--more-->
 
 The swamp biome was already Valheim's deadliest, in my opinion. A new "stirring in the mist" just made it a little bit deadlier -- but also brought some new rewards.
 
@@ -51,7 +29,7 @@ The Abomination fights similarly to the Stone Golem in the mountain biome -- eas
 
 It drops roots, wood, and the Abomination trophy, which itself looks like a pile of tree cuttings mounted on your wall.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/1-20211126194648_1-1024x768.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/1-20211126194648_1.jpg)Root armor
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/1-20211126194648_1-1024x768.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/1-20211126194648_1.jpg)Root armor
 
 The armor looks pretty cool. The stats are appropriate for a Viking who is new to the swamps, but a Viking who has faced Yagluth and is in the Plains biome armor will not want to use the root armor for anything but show.
 
@@ -61,6 +39,6 @@ The nicest thing about the armor is its special buffs. The standard armor for th
 
 Basically, if you're going to take on the boss of the swamp, Bonemass, and you're going to use arrows to do it, you'll want to be wearing this set.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/rootstats.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/rootstats.jpg)Root Armor stats
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/rootstats.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/rootstats.jpg)Root Armor stats
 
 I imagine most everyone who has killed all the bosses will continue to wait for the Mistlands expansion before returning to the game, but for someone starting out new -- more fun waits for them in the swamp.

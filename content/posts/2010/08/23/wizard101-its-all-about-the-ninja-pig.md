@@ -3,26 +3,11 @@ date: '2010-08-23T22:49:33-05:00'
 draft: false
 title: "Wizard101: It's all about the Ninja Pig"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/23/wizard101-its-all-about-the-ninja-pig/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My friend Michael Stormpyre and I were farming for grandmaster gear the other night. I was on my myth wizard, Marissa Spiritcaller, and I was..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Cards"
   - "Celestia"
   - "Decks"
@@ -32,20 +17,13 @@ tags:
   - "Ninja Pig"
   - "Warehouse"
   - "Wayfinder"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg"
 ---
+My friend Michael Stormpyre and I were farming for grandmaster gear the other night. I was on my myth wizard, Marissa Spiritcaller, and I was...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-14-18-90.jpg "Marissa and her best friend")
+
 
 My friend Michael Stormpyre and I were farming for grandmaster gear the other night. I was on my myth wizard, Marissa Spiritcaller, and I was getting a little frustrated by the awful nature of the higher level myth spells. My Minotaur and Orthrus spells did a trap-destroying weak attack before the now-debuffed main attack. Setting up an attack required casting two myth traps, two feints and so on, so that, having wasted traps on the weak hit, I would still have some left over for the main damage. Otherwise, I would be very lucky to break 1K damage on blades alone.
 
@@ -57,9 +35,9 @@ You get them occasionally as treasure cards; five pip myth spells that do 650 po
 
 Treasure cards are kind of hard to come by, and the good ones are never so common that you would be able to use them as a matter of course.
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-19-23-43.jpg "Orthrus card")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-19-23-43.jpg" title="Orthrus card" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-19-08-24.jpg "Ninja pig card")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-23-19-08-24.jpg" title="Ninja pig card" classes="center" >}}
 
 Then, I remembered The Hat.
 
@@ -79,4 +57,4 @@ So, Myth wizards... learn to love the pigs. They love you!
 
 Michael said afterward that he just knew he'd be dreaming about Ninja Pigs. So, Michael, this one's for you.
 
-![](https://chasingdings.com/wp-content/uploads/2010/08/WizardGraphicalClient-2010-08-23-21-49-48-78.jpg "NINNNNNJAAAAA PIGGGGGSSSSSS!!!!!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/WizardGraphicalClient-2010-08-23-21-49-48-78.jpg" title="NINNNNNJAAAAA PIGGGGGSSSSSS!!!!!" classes="center" >}}

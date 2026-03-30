@@ -3,44 +3,24 @@ date: '2010-12-04T16:36:23-05:00'
 draft: false
 title: "Gimme Some Space: Star Trek Online, Pirate Galaxy, Space Paranoids"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/04/gimme-some-space-star-trek-online-pirate-galaxy-space-paranoids/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Discs of Tron"
   - "Pirate Galaxy"
   - "Space Paranoids"
   - "Tron"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-03-23-16-18-04-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-03-23-16-18-04-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/GameClient-2010-12-03-23-16-18-04-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/GameClient-2010-12-03-23-16-18-04-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-03-23-16-18-04-480x384.jpg "Killing the ")](https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-03-23-16-18-04.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/GameClient-2010-12-03-23-16-18-04.jpg)
 
 **Klingon meets Breen. Breen goes boom.**
 
@@ -60,11 +40,11 @@ That automatically started me on the path toward the "Capital Punishment" accola
 
 I'll write about the secret True Way daily another time.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-04-07-31-08-48-375x480.jpg "Huh?")](https://chasingdings.com/wp-content/uploads/2010/12/GameClient-2010-12-04-07-31-08-48.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/GameClient-2010-12-04-07-31-08-48-375x480.jpg" title="Huh?" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/GameClient-2010-12-04-07-31-08-48.jpg)
 
 Star Trek Online's user generated mission creator, "The Forge" is online. I'll have more about that later, but ... what's with the unreadable EULA? Did they run out of WHITE in the future? I know space is dark, but come ON!
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/java-2010-12-04-13-27-35-74-480x378.jpg "Pirate Galaxy")](https://chasingdings.com/wp-content/uploads/2010/12/java-2010-12-04-13-27-35-74.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/java-2010-12-04-13-27-35-74-480x378.jpg" title="Pirate Galaxy" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/java-2010-12-04-13-27-35-74.jpg)
 
 **Pirate Galaxy**
 
@@ -76,7 +56,7 @@ Once on the ground, and once you have mastered the rather slushy motion of your 
 
 I've been advised by other players to never attempt the third galaxy alone. And that if I play consistently for 2-3 years, I might just earn myself a really shiny ship! Yay!
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/chrome-2010-12-04-15-20-37-50-480x360.jpg "Space Paranoids")](https://chasingdings.com/wp-content/uploads/2010/12/chrome-2010-12-04-15-20-37-50.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/12/chrome-2010-12-04-15-20-37-50-480x360.jpg" title="Space Paranoids" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/12/chrome-2010-12-04-15-20-37-50.jpg)
 
 **Space Paranoids**
 

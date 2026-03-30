@@ -3,43 +3,21 @@ date: '2025-02-03T08:00:00-05:00'
 draft: false
 title: "Rolling Dice and Taking Names: My CaptainCon 2025 Experience"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/02/03/my-adventures-at-captaincon-2025/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We traveled through the Quiet Corner to the exotic Rhode Island to chew bubblegum and play board games. There was a lot more going on than just Malifaux!"
-description: "We traveled through the Quiet Corner to the exotic Rhode Island to chew bubblegum and play board games. There was a lot more going on than just Malifaux!"
-tags:
+categories:
   - "Malifaux"
   - "RPG"
   - "Tabletop Games"
+tags:
   - "CaptainCon"
   - "Dead Reckoning"
   - "Fae"
   - "Planet Hexx"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/captainconbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/02/captainconbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/captainconbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/captainconbanner.png"
 ---
+We traveled through the Quiet Corner to the exotic Rhode Island to chew bubblegum and play board games. There was a lot more going on than just Malifaux!
+<!--more-->
 
 The problem with game conventions is that there is always too much to see, play, and experience. You never know what you’re going to find. Before the con, looking at the schedule, there’s a lot of guesswork—will this game I’ve never heard of be fun to play? Do I want to roleplay with a bunch of strangers?
 
@@ -47,7 +25,7 @@ I’m not the most social person, but I can pretend to be when needed. So I put 
 
 There’s some Malifaux content coming up, but if you’re not interested in my warm-up tournament experience, feel free to scroll past it to read about the other games I played.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/IMG_4956.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/IMG_4956.jpg" classes="center" >}}
 
 **Malifaux**
 
@@ -61,7 +39,7 @@ Second round, I switched to Mei Feng, Foreman (Keyword: FOUNDRY) against the Vik
 
 With a win ensuring I wouldn’t be shut out of the tournament, I switched back to Raspy to play against Tiri, the Nomad (Keyword: BYGONE). This crew likes staying together. I had Bashe on one side of the board, where he forced them to pass duels just to attack and discard more to attack anyone but him. Instead, they all walked right into the pillars Raspy and her crew placed. My December Acolyte stripped their armor and shielding—a big deal for a crew that relies on shielding. However, they managed to break through and take out my models while successfully blocking me from completing my schemes. I really have to work on my scheming. I did manage to achieve my strategies for each turn, though.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/IMG_4970.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/IMG_4970.jpg" classes="center" >}}
 
 **Mission to Planet Hexx**
 
@@ -77,7 +55,7 @@ Later, someone trapped me in there along with my victim. Eventually, I played a 
 
 The Mission File includes a fill-in-the-blanks story using the uploaded cards, so the winner has to read a Mad Libs-style victory tale aloud. It’s a lot of fun. I’ll probably pick it up at PAX East.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/IMG_4964.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/IMG_4964.jpg" classes="center" >}}
 
 **Fae: An RPG Where You Are The Monster**
 
@@ -91,7 +69,7 @@ After a show, we heard humans saying words that sounded like True Names—Avalon
 
 As for me? I poked Poiside with silver needles and recited discarded True Names to him. The GM warned me that if he got free, he’d want to kill me. Oh, I hope so.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/IMG_4973.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/IMG_4973.jpg" classes="center" >}}
 
 **Dead Reckoning**
 
@@ -109,7 +87,7 @@ I found this pirate-themed game while looking for something to play after lunch.
 
 • **Uncover secrets of the sea:** Expansions for *Dead Reckoning* use a "saga" system in which certain content remains hidden and is discovered and added to the game organically only via playing. Rather than add everything at once, you gradually add it by playing and discovering. Depending on luck and player choice, less or more new content may get added each game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/image-300x271.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/image-300x271.png" classes="fig-20" >}}
 
 It was a busy weekend, and I only saw a fraction of it. The miniatures tournaments went beyond Malifaux, with Warhammer, Age of Sigmar, Game of Thrones, and others on display. The painting talent alone was phenomenal. I’d love to try more of these games in the future.
 

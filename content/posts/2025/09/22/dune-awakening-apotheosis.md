@@ -3,40 +3,18 @@ date: '2025-09-22T08:00:00-05:00'
 draft: false
 title: "Dune Awakening: Apotheosis"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/09/22/dune-awakening-apotheosis/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I had a vision of what life in the Deep Desert might be like, and it happened? Also, if Funcom names an expansion \"Apotheosis\", they owe me money."
-description: "I had a vision of what life in the Deep Desert might be like, and it happened? Also, if Funcom names an expansion \"Apotheosis\", they owe me money."
-tags:
+categories:
   - "Dune Awakening"
   - "MMORPG"
+tags:
   - "Team Spode"
   - "Tell Me of Your Homeworld Usul"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250920233213_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/09/1-20250920233213_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920233213_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920233213_1.jpg"
 ---
+I had a vision of what life in the Deep Desert might be like, and it happened? Also, if Funcom names an expansion "Apotheosis", they owe me money.
+<!--more-->
 
 I've made it through the DLC and got my treadwheel.
 
@@ -46,7 +24,7 @@ Treadwheel.
 
 Mine is black with glowy bits. It has a scanner in the front and a boot in the back. It can climb like anything. It spins around whenever it catches air. It feels like it goes faster than an ornithopter, but it doesn't. It can't outrun a sandworm, but nothing can outrun one on the ground.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/1-20250920140923_1-1024x640.jpg" title="So mysterious" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/1-20250920140923_1-1024x640.jpg" title="So mysterious" classes="center" >}}
 
 I've written about the DLC plot before, but there was a free chapter that continues your personal story.
 
@@ -56,7 +34,7 @@ See, you're not just some random prisoner -- you're a ghola, an artificial perso
 
 Unfortunately, chapter two doesn't answer that question -- not directly. It hints about it. In a previous life, they say, you were famous, and everyone would know your name. The clear implication is that you were someone known as the Sleeper. Someone who has to be shocked out of their normal existence to awaken and reach their full potential. In game terms, you, as the Sleeper, will awaken -- remembering your previous life -- and then?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-35.png" title="This is why the Sleeper must awaken" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-35.png" title="This is why the Sleeper must awaken" classes="center" >}}
 
 The bulk of the quest deals with the aftermath of the destruction of Old Carthag, a city on Arrakis. The official story is that someone jerk was playing with a shield and an unmodified lasgun and blowed up the city, killing everyone.
 
@@ -70,7 +48,7 @@ But, at least if you want to continue the story, you are compelled to track down
 
 If you've finished the DLC story, it should be no surprise what you find down there. As Ariste says to you, the Bene Gesserit don't really believe rules apply to them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/image-36.png" title="Thanks for playing!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/image-36.png" title="Thanks for playing!" classes="center" >}}
 
 I don't want to spoil anything. But after the revelations in chapter two, I Have Questions. I somehow don't think they will ever answer the question of *who you are*, because that would imply, I think, that all your memories would come back and then your happy fun time living in the basin and kicking about in the Deep Desert would be pretty much over. Also, someone would probably want to kill you... again.
 

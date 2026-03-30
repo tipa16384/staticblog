@@ -3,40 +3,18 @@ date: '2025-12-09T08:00:00-05:00'
 draft: false
 title: "DragonStrike in my kitchen?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/12/09/dragonstrike-in-my-kitchen/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We finally got the dragon aerial combat game to the table, and it was an unqualified hit."
-description: "We finally got the dragon aerial combat game to the table, and it was an unqualified hit."
-tags:
+categories:
   - "Game Night"
   - "Tabletop Games"
+tags:
   - "Dragonstrike"
   - "Fighting Hedgehog"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/1-IMG_5562-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/12/1-IMG_5562-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5562-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5562-scaled.jpg"
 ---
+We finally got the dragon aerial combat game to the table, and it was an unqualified hit.
+<!--more-->
 
 The most unfortunate thing about the DragonStrike board game [that was kickstarted last year](https://www.kickstarter.com/projects/clashofspears/dragonstrike/) is the name; there's at least two, and possibly three, games by that name already. Potential players have got to be asking themselves if this is a remake of one of the older games, maybe the one with [a dragon with a motorized head](https://www.amazon.com/Dragon-Strike-Game-Motorized-Sweepin/dp/B00005YXWT)?
 
@@ -58,7 +36,7 @@ The play goes in turns:
 
 Play continues until the scenario turn limit is reached, or one side has no more active dragons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/1-IMG_5568-1024x576.jpg" title="Crowded skies" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/1-IMG_5568-1024x576.jpg" title="Crowded skies" classes="center" >}}
 
 We played two full games last night; the opening scenario (just a dogfight), and then we did the same again, with better knowledge of how to play. The good dragon team, me and my SO, won the first game by being the team to first exhaust an enemy dragon. The evil dragons won the second round by being the last left on the table.
 

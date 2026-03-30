@@ -3,38 +3,15 @@ date: '2006-07-19T00:00:00-05:00'
 draft: false
 title: "Eureka: All Icing, No Cake"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/19/eureka-all-icing-no-cake/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Sat down in anticipation last night for Eureka, the SciFi channel's newest show...."
+categories:
   - "Eureka"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/images/triangle.png"
-cover:
-  image: "https://chasingdings.com/images/triangle.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/triangle.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/triangle.png"
 ---
+Sat down in anticipation last night for Eureka, the SciFi channel's newest show....
+<!--more-->
 
 Sat down in anticipation last night for Eureka, the SciFi channel's newest show.
 
@@ -53,8 +30,6 @@ The marshall gets suspicious pretty quickly, and is drawn to solve the mystery o
 This avoids the fact that the rotation of the Earth is dwarfed by the velocity of the Earth moving around the Sun in its orbit, the Solar System's orbit around galactic center, and the movement of our galaxy away from the center of the universe. That little bubble should have burst somewhere in deep space.
 
 Space-time bubbles (or, more properly, [bobbles](http://en.wikipedia.org/wiki/Marooned_in_Realtime)), happen a couple of more times, and Mr. Marshall asks chief nerd to use his program to track everything in the universe back to its source, to triangulate these three events back to their origin.
-
-![](https://chasingdings.com/images/triangle.png)
 
 Town full of nerds, kids who read textbooks for fun, and they needed a sophisticated program to do 7th grade geometry...
 

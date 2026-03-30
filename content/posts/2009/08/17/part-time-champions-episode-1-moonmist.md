@@ -3,41 +3,16 @@ date: '2009-08-17T10:00:54-05:00'
 draft: false
 title: "Part-Time Champions: Episode 1 - Moonmist"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/17/part-time-champions-episode-1-moonmist/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The first of three comics set in Champions Online introduces Moonmist, the least famous member of the supergroup \"Celestial Light\". This comic was made early..."
+categories:
   - "Champions Online"
   - "Comic"
   - "Humor"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/championscomic.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/championscomic.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/championscomic.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/championscomic.jpg"
 ---
+The first of three comics set in Champions Online introduces Moonmist, the least famous member of the supergroup "Celestial Light". This comic was made early...
+<!--more-->
 
 The first of three comics set in Champions Online introduces Moonmist, the least famous member of the supergroup "Celestial Light". This comic was made early in closed beta and the game's look has improved substantially since. Also, the plot of the comic has absolutely nothing to do with the actual storyline of the tutorial.
-
-![Champions episode 1: Moonmist](https://chasingdings.com/wp-content/uploads/2009/08/championscomic.jpg "Champions episode 1: Moonmist")

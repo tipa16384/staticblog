@@ -3,40 +3,18 @@ date: '2023-12-20T17:23:55-05:00'
 draft: false
 title: "Advent of Code Day 20 -- Pulse Propagation"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/20/advent-of-code-day-20-pulse-propogation/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "First, you find the right answer using pencil and paper. Then, you write code to produce that answer. Right? No? Just me?"
-description: "First, you find the right answer using pencil and paper. Then, you write code to produce that answer. Right? No? Just me?"
-tags:
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Circuits"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-16.57.44-Create-an-illustration-inspired-by-the-aesthetic-of-a-retro-sci-fi-movie-similar-to-Tron-avoiding-direct-references-or-copyrighted-elements.-Visualiz.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-20-16.57.44-Create-an-illustration-inspired-by-the-aesthetic-of-a-retro-sci-fi-movie-similar-to-Tron-avoiding-direct-references-or-copyrighted-elements.-Visualiz.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-16.57.44-Create-an-illustration-inspired-by-the-aesthetic-of-a-retro-sci-fi-movie-similar-to-Tron-avoiding-direct-references-or-copyrighted-elements.-Visualiz.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-20-16.57.44-Create-an-illustration-inspired-by-the-aesthetic-of-a-retro-sci-fi-movie-similar-to-Tron-avoiding-direct-references-or-copyrighted-elements.-Visualiz.png"
 ---
+First, you find the right answer using pencil and paper. Then, you write code to produce that answer. Right? No? Just me?
+<!--more-->
 
 The elves don't have much to do today, as the puzzle wastes no time getting to the meat: it wants you to [build a digital circuit](https://adventofcode.com/2023/day/20), and then run it.
 

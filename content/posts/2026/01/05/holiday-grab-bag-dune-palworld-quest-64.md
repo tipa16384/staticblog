@@ -3,41 +3,19 @@ date: '2026-01-05T08:56:39-05:00'
 draft: false
 title: "Holiday Grab Bag: Dune, Palworld, Quest 64"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2026/01/05/holiday-grab-bag-dune-palworld-quest-64/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on..."
-description: "We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on..."
-tags:
+categories:
   - "Dune Awakening"
   - "MMORPG"
   - "Palworld"
+tags:
   - "Analogue"
   - "Quest 64"
-featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/1-20260104163451_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2026/01/1-20260104163451_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-20260104163451_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/1-20260104163451_1.jpg"
 ---
+We moved servers in Dune, killed a God pal in Palworld, and escaped the Blue Cave in Quest 64. Read on...
+<!--more-->
 
 Every day, the leader of the Prophets of Melange guild hosts a control point capping party in the Dune: Awakening Deep Desert. I've not been on one; I guess you can capture a control point each day, and if you're in a group when it's done, everyone gets the credit. I have a mission that requires me to do this, just once, and it's been sitting there, undone, for months, as by the time I get on to play, it's been done.
 
@@ -57,7 +35,7 @@ I went back to the Deep Desert and flew my carrier and its precious cargo back t
 
 In the picture up top, my base is front and center. Way in the distance on the left, is Calrain's base. Way in the distance on the *right* is the PoM guild hall. We've been invited to join PoM; we probably will. We're on their Discord, because of course they have one.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2026/01/1-20260102232442_1.jpg" title="Killing Hartalis" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2026/01/1-20260102232442_1.jpg" title="Killing Hartalis" classes="center" >}}
 
 If Pokemon has a certain Pokemon, Palworld is going to have their own version of that Pokemon. Enter Hartalis, the Arceus clone -- Palworld's "King of Salvation" vs Pokemon's creator of Time and Space (as represented by his children Dalgia and Palkia). Hartalis came as part of the recent "Home Sweet Home" update.
 
@@ -69,7 +47,7 @@ Two eggs! I could breed them... if they weren't both girls. Thankfully, Dr. Braw
 
 The update also brought new building pieces and the ability to recolor a lot of the building pieces, so... I went a little crazy there, for awhile.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2026/01/IMG_5593-1024x778.jpg" title="Hi, Brian" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2026/01/IMG_5593-1024x778.jpg" title="Hi, Brian" classes="center" >}}
 
 Quest 64 continues. I've killed two bosses holding the Earth and Wind crystals, and after passing through the endless Blue Cave, I am just about to take on the third. I've heard rumors about the boss I have to defeat for the Water crystal, and we'll see how true these rumors are.
 

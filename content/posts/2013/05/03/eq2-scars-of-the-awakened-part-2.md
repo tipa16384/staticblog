@@ -3,40 +3,17 @@ date: '2013-05-03T07:05:19-05:00'
 draft: false
 title: "EQ2: Scars of the Awakened, Part 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/03/eq2-scars-of-the-awakened-part-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Oh, so those mindflayer guys were Tavalan! Gotcha. They were called something different in EverQuest. But every single player knows that those are mind flayers...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-02-23-30-43-53-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-02-23-30-43-53-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-02-23-30-43-53-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/EverQuest2-2013-05-02-23-30-43-53-480x342.jpg"
 ---
+Oh, so those mindflayer guys were Tavalan! Gotcha. They were called something different in EverQuest. But every single player knows that those are mind flayers....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/EverQuest2-2013-05-02-23-30-43-53-480x342.jpg" title="Siren's Grotto: Tavalan Abyss" class="align-center" >}}
+
 
 Oh, so those mindflayer guys were Tavalan! Gotcha. They were called something different in EverQuest. But every single player knows that those are mind flayers. EverQuest and EverQuest 2 make some really amazing versions of standard D&D monsters, every ability implemented exactly, the art totally spot-on, but then tacks on some random name.
 

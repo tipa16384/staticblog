@@ -3,39 +3,17 @@ date: '2023-11-20T10:26:24-05:00'
 draft: false
 title: "Welcome to your 17 1/2 hour work week!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/20/welcome-to-your-17-1-2-hour-work-week/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Are you really doing metric if you're still living in a 24 hour reality?"
-description: "Are you really doing metric if you're still living in a 24 hour reality?"
-tags:
+categories:
   - "Metric Time"
+tags:
   - "French Revolution"
   - "Lagrange"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/DALL·E-2023-11-20-09.21.53-Create-an-exaggerated-cartoon-style-image-of-a-person-enjoying-their-free-time-depicted-in-a-vibrant-and-colorful-setting.-The-person-should-be-shown.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/DALL·E-2023-11-20-09.21.53-Create-an-exaggerated-cartoon-style-image-of-a-person-enjoying-their-free-time-depicted-in-a-vibrant-and-colorful-setting.-The-person-should-be-shown.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/DALL·E-2023-11-20-09.21.53-Create-an-exaggerated-cartoon-style-image-of-a-person-enjoying-their-free-time-depicted-in-a-vibrant-and-colorful-setting.-The-person-should-be-shown.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/DALL·E-2023-11-20-09.21.53-Create-an-exaggerated-cartoon-style-image-of-a-person-enjoying-their-free-time-depicted-in-a-vibrant-and-colorful-setting.-The-person-should-be-shown.png"
 ---
+Are you really doing metric if you're still living in a 24 hour reality?
+<!--more-->
 
 In the aftermath of the French Revolution, decimal time joined the other decimal weights and measures to form a new metric system. Unlike the others, though, decimal time was soon discarded in favor of the very decidedly *non*-metric 24 hour, 60 minute, 60 second clock that was standard at the time and is still used universally today. Is it time to let metric time shine once more?
 

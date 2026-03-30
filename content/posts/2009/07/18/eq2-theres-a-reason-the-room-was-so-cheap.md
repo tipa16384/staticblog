@@ -3,40 +3,17 @@ date: '2009-07-18T12:07:31-05:00'
 draft: false
 title: "EQ2: There's a reason the room was so cheap..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/18/eq2-theres-a-reason-the-room-was-so-cheap/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I finally got around to unpacking my things from the move to the Antonia Bayle server. First step: renting a new apartment from Big Bend..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-18-01-08-08-77.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-18-01-08-08-77.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-18-01-08-08-77.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-18-01-08-08-77.jpg"
 ---
+I finally got around to unpacking my things from the move to the Antonia Bayle server. First step: renting a new apartment from Big Bend...
+<!--more-->
 
-![He better not touch anything on my side of the refrigerator.](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-18-01-08-08-77.jpg "He better not touch anything on my side of the refrigerator.")
+
 
 I finally got around to unpacking my things from the move to the Antonia Bayle server. First step: renting a new apartment from ~~Big Bend~~ New Rivervale's friendly slumlord. He wanted 5 silver for one dingy room, but this haffer wasn't born in a cabbage patch. Well, actually, I WAS born in a cabbage patch -- long story -- but I'm still a pretty sharp cookie.
 

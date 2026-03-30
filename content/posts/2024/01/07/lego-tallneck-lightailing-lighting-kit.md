@@ -3,40 +3,18 @@ date: '2024-01-07T13:49:13-05:00'
 draft: false
 title: "LEGO Tallneck + Lightailing lighting kit"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/01/07/lego-tallneck-lightailing-lighting-kit/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I really wanted a LEGO Tallneck, all lit up, so I bought one, built it, and lit it up."
-description: "I really wanted a LEGO Tallneck, all lit up, so I bought one, built it, and lit it up."
-tags:
+categories:
   - "Horizon Forbidden West"
+tags:
   - "Lego"
   - "Lightailing"
   - "Tallneck"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/etallneck.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/01/etallneck.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/etallneck.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/etallneck.png"
 ---
+I really wanted a LEGO Tallneck, all lit up, so I bought one, built it, and lit it up.
+<!--more-->
 
 There's a reason Guerilla Games always opens its Horizon videos with the Tallneck walking past the camera, absolutely unconcerned with anything happening around it. It's big -- it's MASSIVE -- and it sets the scene instantly. This is even more impressive in the Call of the Mountain PSVR2 game, where it walks right over you.
 
@@ -52,22 +30,22 @@ Installing the lighting was stressful. The assembled Tallneck is not the most st
 
 And so, here it is.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4127.jpg" title="Aloy and Watcher" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4127.jpg" title="Aloy and Watcher" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4132-rotated.jpg" title="Assembled base with Aloy and Watcher" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4132-rotated.jpg" title="Assembled base with Aloy and Watcher" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4133-rotated.jpg" title="Body of Tallneck" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4133-rotated.jpg" title="Body of Tallneck" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4134.jpg" title="Body and neck of Tallneck" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4134.jpg" title="Body and neck of Tallneck" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4135.jpg" title="Tallneck sans head" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4135.jpg" title="Tallneck sans head" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4140-rotated.jpg" title="Tallneck with the Lightailing kit taped up" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4140-rotated.jpg" title="Tallneck with the Lightailing kit taped up" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4136.jpg" title="Fully assembled Tallneck" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4136.jpg" title="Fully assembled Tallneck" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4147-rotated.jpg" title="Tallneck lit up" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4147-rotated.jpg" title="Tallneck lit up" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4152.jpg" title="A Watcher, Mantis and Aloy at the feet of the Tallneck" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4152.jpg" title="A Watcher, Mantis and Aloy at the feet of the Tallneck" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/IMG_4153.jpg" title="Aloy overriding the Tallneck" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/IMG_4153.jpg" title="Aloy overriding the Tallneck" classes="center" >}}

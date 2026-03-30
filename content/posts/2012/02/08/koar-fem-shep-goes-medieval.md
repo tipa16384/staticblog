@@ -3,40 +3,17 @@ date: '2012-02-08T08:08:38-05:00'
 draft: false
 title: "KoAR: Fem-Shep goes Medieval"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/08/koar-fem-shep-goes-medieval/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last summer, Electronic Arts held a contest to decide upon the iconic face for the lead character from Mass Effect 3. Though the lead character,..."
+categories:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-07-23-57-22-48-480x320.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-07-23-57-22-48-480x320.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-07-23-57-22-48-480x320.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/Reckoning-2012-02-07-23-57-22-48-480x320.jpg"
 ---
+Last summer, Electronic Arts held a contest to decide upon the iconic face for the lead character from Mass Effect 3. Though the lead character,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/Reckoning-2012-02-07-23-57-22-48-480x320.jpg" title="FemShep strikes a pose" class="align-center" >}}
+
 
 Last summer, [Electronic Arts held a contest](http://www.pcgamer.com/2011/07/25/mass-effect-vote-lets-fans-decide-femsheps-face/) to decide upon the iconic face for the lead character from Mass Effect 3. Though the lead character, Shepard, can be male or female at the player's choice, Mass Effect and its sequel were marketed with a male Shepard. Fans had been yelling for a more prominent role for the female version, known as FemShep for short.
 

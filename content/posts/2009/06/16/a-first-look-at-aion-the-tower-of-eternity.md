@@ -3,42 +3,20 @@ date: '2009-06-16T21:25:54-05:00'
 draft: false
 title: "A first look at Aion: The Tower of Eternity"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/16/a-first-look-at-aion-the-tower-of-eternity/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Aion is not an innovative MMO. Anybody will tell you that...."
+categories:
   - "Aion"
   - "MMORPG"
+tags:
   - "First"
   - "First Impressions"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/aionwings.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/aionwings.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aionwings.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aionwings.jpg"
 ---
+Aion is not an innovative MMO. Anybody will tell you that....
+<!--more-->
 
-![Wings? Yeah, I got ](https://chasingdings.com/wp-content/uploads/2009/06/aionwings.jpg "Wings? Yeah, I got ")
+
 
 Aion is not an innovative MMO. Anybody will tell you that.
 
@@ -48,7 +26,7 @@ And these work exactly as you might expect, in essence. Sure, there's a whole co
 
 But I don't really want to get into the mechanics of the game. You can point to pretty much anything in Aion and say, I remember that from World of Warcraft, and this thing is just like it is from EverQuest II, and this feature is totally right out of Lord of the Rings Online.
 
-![aionlake](https://chasingdings.com/wp-content/uploads/2009/06/aionlake.jpg "aionlake")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/aionlake.jpg" title="aionlake" classes="center" >}}
 
 That's the number one thing I have heard about Aion -- it's just like every other game, so why play?
 
@@ -62,7 +40,7 @@ This is the most immersive game since the original EverQuest. Not just because o
 
 And yes, you get to fly.
 
-![aionbattle](https://chasingdings.com/wp-content/uploads/2009/06/aionbattle.jpg "aionbattle")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/aionbattle.jpg" title="aionbattle" classes="center" >}}
 
 Now and then you come to cut scenes -- for completing an important quest chain, Ascending to become a Daeva and earning your wings, or remembering how you came to be cast down from Heaven to live among mortals for a time -- and they are beautiful, and they make you want to level up and head back into the Abyss to bring the hurt to the creatures that cast you out.
 

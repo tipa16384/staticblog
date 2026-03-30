@@ -3,46 +3,26 @@ date: '2010-08-19T23:56:50-05:00'
 draft: false
 title: "Clone Wars Adventures: You're in ar-cade world now."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/19/clone-wars-adventures-youre-in-ar-cade-world-now/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Clone Wars Adventures"
   - "Other Games"
+tags:
   - "Casual"
   - "F2P"
   - "Jedi"
   - "Kid"
   - "Sony Online Entertainment"
   - "Star Wars"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg "At home in Coruscant")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-80402-PM.jpg)
 
 I wasn't sure what to think about SOE's Clone Wars Adventures when I first read of it. A kid-oriented, "freemium" MMO set in the Star Wars universe? With SOE's Star Wars Galaxies out for years and Bioware's Star Wars: The Old Republic set to tear things up next year, is there really any room for yet ANOTHER MMO set in the same universe?
 
@@ -54,7 +34,7 @@ It takes a few minutes to learn to control your character. Although the game is 
 
 Thankfully, that's a heckuva fun game.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-65756-PM-480x363.jpg "Clone Wars Adventures game menu")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-65756-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-65756-PM-480x363.jpg" title="Clone Wars Adventures game menu" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-65756-PM.jpg)
 
 You won't find many truly new games in the CWA lineup. I haven't tried all of these, but the ones I have, I'll try and describe....
 
@@ -92,7 +72,7 @@ Mine Buster -- for Jedi only, but come on, I'm thinking Mine Sweeper.
 
 I'll bet a dozen rebel credits that one of the games I didn't try is a Sudoku clone.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-65453-PM-480x309.jpg "Character creation")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8192010-65453-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-65453-PM-480x309.jpg" title="Character creation" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8192010-65453-PM.jpg)
 
 In the end, it's all about being a Jedi. In the movies, years of training, meditation, and coming to terms with your darker impulses can only begin to prepare you for the pressures and responsibilities of the Jedi Order.
 

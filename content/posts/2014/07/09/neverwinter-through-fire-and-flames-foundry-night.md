@@ -3,41 +3,19 @@ date: '2014-07-09T07:04:20-05:00'
 draft: false
 title: "Neverwinter: Through Fire and Flames -- Foundry Night!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/07/09/neverwinter-through-fire-and-flames-foundry-night/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Despite storms both here and in Columbus, the potato salad capital of the world, Kasul and I managed to fight our way through the thunder..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh3.googleusercontent.com/-qJFH52EuAz0/U7vXSfgxfVI/AAAAAAAAxhg/1z4Q-HvtbXQ/w907-h727-no/GameClient+2014-07-07+20-52-12-13.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-qJFH52EuAz0/U7vXSfgxfVI/AAAAAAAAxhg/1z4Q-HvtbXQ/w907-h727-no/GameClient+2014-07-07+20-52-12-13.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-qJFH52EuAz0/U7vXSfgxfVI/AAAAAAAAxhg/1z4Q-HvtbXQ/w907-h727-no/GameClient+2014-07-07+20-52-12-13.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-qJFH52EuAz0/U7vXSfgxfVI/AAAAAAAAxhg/1z4Q-HvtbXQ/w907-h727-no/GameClient+2014-07-07+20-52-12-13.jpg"
 ---
+Despite storms both here and in Columbus, the potato salad capital of the world, Kasul and I managed to fight our way through the thunder...
+<!--more-->
 
-![Heaters gonna heat!](https://lh3.googleusercontent.com/-qJFH52EuAz0/U7vXSfgxfVI/AAAAAAAAxhg/1z4Q-HvtbXQ/w907-h727-no/GameClient+2014-07-07+20-52-12-13.jpg)
+
 
 Despite storms both here and in Columbus, the potato salad capital of the world, Kasul and I managed to fight our way through the thunder for another FOUNDRY NIGHT! YAYYY!
 

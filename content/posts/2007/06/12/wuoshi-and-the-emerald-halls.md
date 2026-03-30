@@ -3,46 +3,23 @@ date: '2007-06-12T07:10:10-05:00'
 draft: false
 title: "Wuoshi and the Emerald Halls"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/06/12/wuoshi-and-the-emerald-halls/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Hi! Look at me! I'm a big scawy dwagon! So ha ha ha!..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000070.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/06/eq2_000070.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000070.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000070.jpg"
 ---
+Hi! Look at me! I'm a big scawy dwagon! So ha ha ha!...
+<!--more-->
 
-![eq2_000070.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000070.jpg)
+
 
 *Hi! Look at me! I'm a big scawy dwagon! So ha ha ha!*
 
 When Tunare left Wuoshi in charge of the Plane of Growth, could she ever have predicted that he'd turn into a tin-pot dictator, strutting around in a circle, terrorizing innocent people who just wanted to skip and frolic in the home of all growth?
 
-![eq2_000040.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000040.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000040.jpg" classes="center" >}}
 
 *Gardener Thirgen*
 
@@ -52,13 +29,13 @@ When someone is in this much pain, a part of me dies inside. I'm sure it's the s
 
 We're here for *you*, bud. We don't do this for ourselves. We do this for you. Us? We'd rather be donating food to orphans, but we're here. For you.
 
-![eq2_000050.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000050.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000050.jpg" classes="center" >}}
 
 *Herald of Wuoshi*
 
 The Herald here wouldn't give us a group rate to see the Great Wuoshi. Instead, he insisted on ten plat from each of us. I was going to pay, but for some reason, I only had *nine plat* on me. I couldn't go! Thankfully, the guild rallied behind me and the others who were 'between paychecks' and negotiated a group rate after all. Slightly blood-stained tickets in hand, we ran, with awe and purpose, into Wuoshi's Abode.
 
-![eq2_000060.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000060.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000060.jpg" classes="center" >}}
 
 *Galiel Spirithoof*
 
@@ -66,7 +43,7 @@ Oooh! Ponies!
 
 This one got awful tired from playing with us. Mother says we mustn't play with our toys so hard, but they are so squeezie and pokey and slashey and bitey that we forget, sometimes. Some of the guys corpse-humped the horsie after, but you could tell their hearts weren't in it.
 
-![eq2_000066.jpg](https://chasingdings.com/wp-content/uploads/2007/06/eq2_000066.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/eq2_000066.jpg" classes="center" >}}
 
 *Treah Greenroot*
 

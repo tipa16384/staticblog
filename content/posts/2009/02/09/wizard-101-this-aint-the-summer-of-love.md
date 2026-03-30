@@ -3,47 +3,23 @@ date: '2009-02-09T08:51:54-05:00'
 draft: false
 title: "Wizard 101: This ain't the Summer of Love"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/09/wizard-101-this-aint-the-summer-of-love/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Um, sorry for the Blue Oyster Cult shout out...."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Valentine's Day"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/wizardgraphicalclient-2009.jpg"
 ---
+Um, sorry for the Blue Oyster Cult shout out....
+<!--more-->
 
 Um, sorry for the Blue Oyster Cult shout out.
 
 Scratch that. I'm not sorry. Blue Oyster Cult RULES. And there ain't no angels above. Cuz things aren't like they used to be. And this ain't the summer of love...
 
 Um, sorry. This post isn't about my favorite band. This is about Wizard 101's newest heartthrob, Valentina Heartsong.
-
-![](https://chasingdings.com/wp-content/uploads/2009/02/wizardgraphicalclient-2009.jpg "wizardgraphicalclient-2009")
 
 > Valentina: "Hi! I'm Valentina! I'm standing on this street corner holding a huge staff with a heart on the top of it, trying to find some love, and everyone keeps on taking it the wrong way! PLUS, what's with all these GIRLS? Aren't there any BOY wizards?"
 
@@ -55,19 +31,19 @@ Um, sorry. This post isn't about my favorite band. This is about Wizard 101's ne
 
 Valentina is the first of the Crown merchants who isn't selling clothing. That's a good move for her, as the clothing her brothers and sisters sold had no stats and so could not actually be worn. I'd have preferred that KingsIsle had added appearance slots so that the clothes you show could be different from the clothes that actually gave you stats, but at least saving people from spending real money on useless items is a good move.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/cupig.jpg "cupig")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/cupig.jpg" title="cupig" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/valentinepig.jpg "valentinepig")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/valentinepig.jpg" title="valentinepig" classes="center" >}}
 
 She sells two pets. Both are re-skins of the common flying pig you can buy from Wizard City's pet vendor in the Shopping District. The first is just the Valentine-themed pig. The second is slightly darker, and adds a Fire Elf card to your hand. Even at higher levels, Fire Elf is a good way for Fire wizards (or those using Fire magic) to keep the enemies from casting annoying Fire shields to block your mega attacks. So if you have the crowns -- go to the pig who comes with an elf. All I'm saying.
 
 As long as we're talking about pets, let's take a brief trip to Dragonspyre, where Zeke has a couple of new pets to sell. Note that you'll either need access to Dragonspyre yourself, or have a friend who can bring you, to buy these pets. Once you are there, though, there's no level requirement to buy or use these pets.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/stormhound.jpg "stormhound")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/stormhound.jpg" title="stormhound" classes="center" >}}
 
 This Storm Hound is more or less an "I Win!" button for Storm wizards. It's as powerful as you want it to be -- cast it at one pip and it does 120 damage over three rounds. Cast it with four pips, as a high level Storm wizard would start many fights with, and it's 480 points over three rounds, which is pretty darn nice for a spell you can cast first round AND keeps those pesky Storm shields off. This is the most expensive Crown item in the game -- but for Storm wizards, it is so amazingly powerful that it would be hard NOT to buy it. I hope other schools of magic get similarly overpowered items, as this could be severely unbalancing in PvP, where Storm wizards already hold a real advantage.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/jadeoni.jpg "jadeoni")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/jadeoni.jpg" title="jadeoni" classes="center" >}}
 
 Zeke's other pet is Jade Oni. You might think that, being a Moo Shu Life boss, that the Jade Oni pet would give a Life card. You would be wrong. Instead, Jade Oni just does a balance strike which is cool, I guess, but dammit. I'm a Life wizard, I want my Life pets to cast Life spells. Anyway, go go Balance wizards. I might purchase this just because, hey, Jade Oni.
 
@@ -79,19 +55,19 @@ Wands have many uses. Damage is one use, but as time goes on, it's not what you 
 
 I'm just showing the level 45+ wands here, but there is a similar selection for wizards of every level.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/allegiancestaff.jpg "allegiancestaff")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/allegiancestaff.jpg" title="allegiancestaff" classes="center" >}}
 
 Allegiance Staff, 500 Crowns, adds a regular pip to the beginning of a fight.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/amoretto.jpg "amoretto")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/amoretto.jpg" title="amoretto" classes="center" >}}
 
 Amoretto's Staff, 500 Crowns, again with a regular pip.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/staffofsediment.jpg "staffofsediment")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/staffofsediment.jpg" title="staffofsediment" classes="center" >}}
 
 Staff of Sentiment, 500 Crowns, yet again, just a regular pip. I do love the heart at the top :)
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/wingsofthecherubim.jpg "wingsofthecherubim")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/wingsofthecherubim.jpg" title="wingsofthecherubim" classes="center" >}}
 
 Wings of the Cherubim, 2500 Crowns, adds a power pip to the beginning of the fight. This is the one you want if you can get it; a power pip at the beginning of a fight is like 1-2 free pip-building rounds in a battle.
 

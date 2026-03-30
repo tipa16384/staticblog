@@ -3,38 +3,15 @@ date: '2014-12-23T01:46:50-05:00'
 draft: false
 title: "Gauntlet: Throwing Down."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/12/23/i-thought-i-would-just-dive-into-gauntlet-in-normal-mode-i-was-okay-at-this-in-the-arcades-thirty/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I thought I would just dive into Gauntlet in \"Normal\" mode. I was okay at this, in the arcades, thirty years ago. Nothing much has..."
+categories:
   - "Gauntlet"
   - "Other Games"
-featured_image: "https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg"
 ---
+I thought I would just dive into Gauntlet in "Normal" mode. I was okay at this, in the arcades, thirty years ago. Nothing much has...
+<!--more-->
 
 I thought I would just dive into Gauntlet in "Normal" mode. I was okay at this, in the arcades, thirty years ago. Nothing much has changed, right?
 
@@ -52,6 +29,8 @@ It's a workout for the hands. If I can beat the game, with one character, on Eas
 
 But, they could have just given the original game, with infinite quarters, and I would have been absolutely fine with that. That's all I really wanted.
 
-[#Gauntlet](https://plus.google.com/s/%23Gauntlet)  ﻿[![](https://lh5.googleusercontent.com/-0LIR8Q5SDMU/VJjHY70V3HI/AAAAAAAA9AA/ehkCV7swjo8/w506-h750/gauntlet%2B2014-12-22%2B20-22-37-85.jpg)]()
+[#Gauntlet](https://plus.google.com/s/%23Gauntlet)  ﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/YFxWSMz8nxp)

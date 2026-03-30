@@ -3,40 +3,18 @@ date: '2015-01-26T01:21:07-05:00'
 draft: false
 title: "Neverwinter: Decent progress on the first floor of \"Newfallen\" this weekend."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/26/i-made-decent-progress-on-the-first-floor-of-newfallen-this-weekend-most-of-the-ceiling-has-been/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I made decent progress on the first floor of \"Newfallen\" this weekend. Most of the ceiling has been added. I've sketched out the Gynok Moltar..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
   - "Newfallen"
-featured_image: "https://lh3.googleusercontent.com/-eO8Ig7d-HjY/VMWTVK71f4I/AAAAAAAA_O8/LUMddHDsLw0/w506-h750/GameClient%2B2015-01-25%2B20-04-20-96.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-eO8Ig7d-HjY/VMWTVK71f4I/AAAAAAAA_O8/LUMddHDsLw0/w506-h750/GameClient%2B2015-01-25%2B20-04-20-96.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-eO8Ig7d-HjY/VMWTVK71f4I/AAAAAAAA_O8/LUMddHDsLw0/w506-h750/GameClient%2B2015-01-25%2B20-04-20-96.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-eO8Ig7d-HjY/VMWTVK71f4I/AAAAAAAA_O8/LUMddHDsLw0/w506-h750/GameClient%2B2015-01-25%2B20-04-20-96.jpg"
 ---
+I made decent progress on the first floor of "Newfallen" this weekend. Most of the ceiling has been added. I've sketched out the Gynok Moltar...
+<!--more-->
 
 I made decent progress on the first floor of "Newfallen" this weekend. Most of the ceiling has been added. I've sketched out the Gynok Moltar encounter, but I think I need to make it a little easier. The druid is now Pham Willowbark, who appears in most of my other EQ adventures.
 
@@ -54,6 +32,8 @@ For some reason, having mobs drop items isn't working for me. Not sure if it's b
 
 One more minor encounter on the way to the second floor and the first floor will be to the "80%" mark. 80% of the work is done in 20% of the time. The remaining 20% takes 80% of the time. When all of Newfallen is at 80%, I can finally publish it and get feedback as I finish it.
 
-[#Neverwinter](https://plus.google.com/s/%23Neverwinter)   [#Foundry](https://plus.google.com/s/%23Foundry)   [#Newfallen](https://plus.google.com/s/%23Newfallen)  ﻿[![](https://lh3.googleusercontent.com/-eO8Ig7d-HjY/VMWTVK71f4I/AAAAAAAA_O8/LUMddHDsLw0/w506-h750/GameClient%2B2015-01-25%2B20-04-20-96.jpg)]()
+[#Neverwinter](https://plus.google.com/s/%23Neverwinter)   [#Foundry](https://plus.google.com/s/%23Foundry)   [#Newfallen](https://plus.google.com/s/%23Newfallen)  ﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/4X4FrqARphu)

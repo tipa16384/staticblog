@@ -3,41 +3,18 @@ date: '2006-10-17T16:55:18-05:00'
 draft: false
 title: "EQ2: Crafting Milestones"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/10/17/eq2-crafting-milestones/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dear Mother;..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/10/haffervs.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/10/haffervs.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/haffervs.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/haffervs.jpg"
 ---
+Dear Mother;...
+<!--more-->
 
-![Haffer vs Haffer](https://chasingdings.com/wp-content/uploads/2006/10/haffervs.jpg)
+
 
 Dear Mother;
 
@@ -63,11 +40,11 @@ I wish she'd come back and take that zombie out from beneath my bedroom floor.
 
 Well, it wasn't all torture. I made some new clothes for Tipa & Verd along the way. Yeah, it doesn't hurt so much when you're making clothes for someone you *like*.
 
-![Sea Mist](https://chasingdings.com/wp-content/uploads/2006/10/seamist.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/seamist.jpg" classes="center" >}}
 
 Tipa sent me back some pictures. Here they are wearing my level 44 Sea Mist outfits as they look out over the moonlit waters surrounding the Isle of Mara. The fabric is just as soft as a cloud.
 
-![Fire Champ](https://chasingdings.com/wp-content/uploads/2006/10/firechamp.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/10/firechamp.jpg" classes="center" >}}
 
 They took this picture while strolling along the firepit the devotees of Ro built on the Lavastorm beach, Verd has on a Fire Champion's Burn, and Tipa wears the matching Fire Maiden's Sultriness!
 

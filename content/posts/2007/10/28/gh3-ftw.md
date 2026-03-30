@@ -3,51 +3,28 @@ date: '2007-10-28T02:20:17-05:00'
 draft: false
 title: "GH3 FTW"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/28/gh3-ftw/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We gathered at midnight well, 11pm, to get our hands on Guitar Hero 3. Actually. I'm not sure how I ended up there, then. It's..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/stp60759.JPG"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/stp60759.JPG"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/stp60759.JPG"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/stp60759.JPG"
 ---
+We gathered at midnight well, 11pm, to get our hands on Guitar Hero 3. Actually. I'm not sure how I ended up there, then. It's...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/stp60759.JPG)
+
 
 We gathered at ~~midnight~~ well, 11pm, to get our hands on Guitar Hero 3. Actually. I'm not sure how I ended up there, then. It's not as if GH3 won't be all over every store but, when we were in Gamespot this morning getting .hack/G.U. 2 for my son, I somehow walked out of there with a receipt for GH3 and a promise to be there that night -- tonight -- to pick it up.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/stp60758.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/stp60758.JPG" classes="center" >}}
 
 The store was fairly deserted. Turns out they opened at 11pm, but weren't giving them out until midnight. Sigh. Back home. Forty-five minutes later, I go back -- line is *enormous*. I deftly take out my DS and start beating the crap out of the Elite Four just to be mean. I reach the counter just as Staravia cuts up some critter with Steel Wing.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/stp60752.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/stp60752.JPG" classes="center" >}}
 
 Oh yeah, speaking of Pokemon, I caught Mesprit the other day. That squishy critter made me so mad. I finally recruited a Gobat from Victory Road to hold it in place with Mean Look while I pelted it with ultraballs. Moving on...
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/stp60764.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/stp60764.JPG" classes="center" >}}
 
 First set was fun, second set was okay and then...  Rage Against the Machine's Tom Morello challenged me to a boss battle. He'd play, and I had to copy it (luckily, I was merely on Hard while he had to struggle through Expert). Oh yeah, exxcept instead of Star Power, you get Rock Power or something, and you use that to do nasty things to your opponent. I was trying to keep alive while he kept hitting me with stuff, ending it with a Death Drain that took me rock meter to zero and that was it.
 

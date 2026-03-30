@@ -3,41 +3,19 @@ date: '2015-09-21T19:33:14-05:00'
 draft: false
 title: "That's the Power of Love"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/21/thats-the-power-of-love/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Team Spode kinda left GW2 and kinda went back to DC Universe Online over the past couple weeks. Apathy toward the upcoming GW2 expansion may..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg"
 ---
+Team Spode kinda left GW2 and kinda went back to DC Universe Online over the past couple weeks. Apathy toward the upcoming GW2 expansion may...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-DCGame-2015-09-20-22-43-18-06.jpg" title="Sinestro needs Hal Jordan's LUUURVE" class="align-center" >}}
+
 
 Team Spode kinda left GW2 and kinda went back to DC Universe Online over the past couple weeks. Apathy toward the upcoming GW2 expansion may have contributed. Many of the top Spodians had already finished all of the story and had grinded through the long process to make their marginally better endgame gear.
 

@@ -3,41 +3,19 @@ date: '2014-09-04T19:33:13-05:00'
 draft: false
 title: "Neverwinter: Cult Foundry Contest Week 1 Reviews"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/09/04/neverwinter-cult-foundry-contest-week-1-reviews/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Okay, it's finally here -- the first six featured quests in the Cult of the Dragon foundry contest. The devs say this contest could take..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh5.googleusercontent.com/-gtkdY0sFLAk/VAkcQw2fcRI/AAAAAAAA0jI/0hKm7EqSc8c/w745-h596-no/GameClient%2B2014-09-03%2B00-15-03-74.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-gtkdY0sFLAk/VAkcQw2fcRI/AAAAAAAA0jI/0hKm7EqSc8c/w745-h596-no/GameClient%2B2014-09-03%2B00-15-03-74.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-gtkdY0sFLAk/VAkcQw2fcRI/AAAAAAAA0jI/0hKm7EqSc8c/w745-h596-no/GameClient%2B2014-09-03%2B00-15-03-74.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-gtkdY0sFLAk/VAkcQw2fcRI/AAAAAAAA0jI/0hKm7EqSc8c/w745-h596-no/GameClient%2B2014-09-03%2B00-15-03-74.jpg"
 ---
+Okay, it's finally here -- the first six featured quests in the Cult of the Dragon foundry contest. The devs say this contest could take...
+<!--more-->
 
-![Relative Security](https://lh5.googleusercontent.com/-gtkdY0sFLAk/VAkcQw2fcRI/AAAAAAAA0jI/0hKm7EqSc8c/w745-h596-no/GameClient%2B2014-09-03%2B00-15-03-74.jpg)
+
 
 Okay, it's finally here -- the first six featured quests in the Cult of the Dragon foundry contest. The devs say this contest could take MONTHS to finish.
 

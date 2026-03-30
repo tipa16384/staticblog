@@ -3,37 +3,12 @@ date: '2006-06-12T00:00:00-05:00'
 draft: false
 title: "Persian rug makers disprove Intelligent Design"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/12/persian-rug-makers-disprove-intelligent-design/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Browsing the CNN web, came across this interview with Gerald McRaney, who used to play the brother with the moustache on \"Simon & Simon\". And..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Browsing the CNN web, came across this interview with Gerald McRaney, who used to play the brother with the moustache on "Simon & Simon". And...
+<!--more-->
 
 Browsing the CNN web, came across [this interview](http://www.cnn.com/2006/SHOWBIZ/TV/06/12/apontv.geraldmcraney.ap/) with Gerald McRaney, who used to play the brother with the moustache on "Simon & Simon". And he says this about the actors in his current series, "Deadwood" (never seen it), who try to put some human imperfections into their acting to make it seem more real:
 

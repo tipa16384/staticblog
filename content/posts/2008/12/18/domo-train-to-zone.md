@@ -3,43 +3,21 @@ date: '2008-12-18T10:09:02-05:00'
 draft: false
 title: "DOMO: Train to Zone!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/18/domo-train-to-zone/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "They say you can't polish a turd, but I beg to differ. Placid Plains is full of Premier Pupu, so, yum for that. After spending..."
+categories:
   - "Dream of Mirror Online"
   - "MMORPG"
+tags:
   - "Phoenix Tower"
   - "Placid Plains"
   - "Swan Lake Basin"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-18-08-08-30-92.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-18-08-08-30-92.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-18-08-08-30-92.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-18-08-08-30-92.jpg"
 ---
+They say you can't polish a turd, but I beg to differ. Placid Plains is full of Premier Pupu, so, yum for that. After spending...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-18-08-08-30-92.jpg "domo-2008-12-18-08-08-30-92")
+
 
 They say you can't polish a turd, but I beg to differ. Placid Plains is full of Premier Pupu, so, yum for that. After spending a good hour doing alchemy (now level 8 from making level 0 recipes; today I will make level 8 recipes to 10 and beyond, hopefully), I thought I'd track down the fairy that supposedly gives a quest to upgrade my flying speed in Collingwood City. Which is smack-dab in the middle of high level zones, so it was with some care that I flew there.
 
@@ -53,7 +31,7 @@ I was glad to see that they were just pigs. They were too high level for my leve
 
 Since I can heal my pet but not myself, this worked out a LOT better than me tanking the whole way.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-17-23-04-55-96.jpg "domo-2008-12-17-23-04-55-96")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-17-23-04-55-96.jpg" title="domo-2008-12-17-23-04-55-96" classes="center" >}}
 
 > DOMO tip: When someone says they are 'flagged', it doesn't mean that they have fulfilled certain requirements to enter a difficult zone. It means they have pressed the little button with a flag on it below the chat window and clicked the checkbox for looking for a group. When someone is flagged this way, they can be added to a group from a different zone. You can also choose the title "Please add me to your team" so people walking past you can see you're looking.
 
@@ -77,7 +55,7 @@ It brought tears of joy to my eyes. EverQuest, I missed you so much.
 
 I don't point out these similarities of DOMO to EQ with sarcasm, but with respect, and I'm being totally honest. Yes, DOMO is HARD. It has real penalties for screwing up. You do not level particularly fast. It is a VERY social game, and leveling up is NOT the primary goal. Chatting, making friends, crafting, working on outfits and such, and teaming up for challenging group content -- that was the purpose of the ORIGINAL EverQuest and is the purpose of DOMO. The fact that so many of their game mechanics are straight out of pre-PoP EQ when all conventional wisdom says that people want to level quickly to get to some end game and skip any social or group content is just amazing.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-17-23-42-12-66.jpg "domo-2008-12-17-23-42-12-66")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-17-23-42-12-66.jpg" title="domo-2008-12-17-23-42-12-66" classes="center" >}}
 
 Most of the group was reluctant to actually come to the dungeon until we had a Doctor (healer) and Mercenary (tank). It's true that any character can take either or both of these jobs, but doctors, especially, have a hard time of it. Just like in EQ, groups are reluctant to have more than one healer because they need space for more dps -- especially AoE dps. This requires docs to have spent heavily on their group healing skills -- the "froggy" skills, since they take a small frog as a material component, as opposed to the single target heals, which are far more useful, since those can be used to fill out subjobs. It also means they have to have a lot of time healing for groups, and healers in DOMO, as in every game that swears by the Holy Trinity, are first to be blamed when things go bad.
 
@@ -85,7 +63,7 @@ Most of the group was reluctant to actually come to the dungeon until we had a D
 
 Once we'd gathered, it was time to head down to the **M**ale **B**irds of **P**aradise, past the **F**emale **B**irds of **P**aradise. I *knew* if I waited long enough, I'd find out what "mbops" and "fbops" were!
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-17-23-22-41-56.jpg "domo-2008-12-17-23-22-41-56")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-17-23-22-41-56.jpg" title="domo-2008-12-17-23-22-41-56" classes="center" >}}
 
 Once down deep enough, we pulled mobs here and there until the group leader suggested I start pulling.
 

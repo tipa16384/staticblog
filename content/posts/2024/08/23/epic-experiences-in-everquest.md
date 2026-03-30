@@ -3,44 +3,22 @@ date: '2024-08-23T08:00:00-05:00'
 draft: false
 title: "EverQuest: Five Epic Tales"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/23/epic-experiences-in-everquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "There was a discussion on Mastodon yesterday (thanks, Nimgimli!) about the stories we tell about our MMO characters. Here's five EverQuest stories about mine."
-description: "There was a discussion on Mastodon yesterday (thanks, Nimgimli!) about the stories we tell about our MMO characters. Here's five EverQuest stories about mine."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "EverQuest"
+tags:
   - "A Twist of Fate"
   - "Crimson Eternity"
   - "Divine Grace"
   - "Nostalgia"
   - "United Norrath Coalition"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/saryrn.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/saryrn.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/saryrn.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/saryrn.png"
 ---
+There was a discussion on Mastodon yesterday (thanks, Nimgimli!) about the stories we tell about our MMO characters. Here's five EverQuest stories about mine.
+<!--more-->
 
 I devoted eight years to EverQuest. Sometimes I think I could have made better use of that time, especially now, when I haven't heard anything from the friends I made there for many years. But I was in a pretty bad place, post-divorce, two kids to raise... it helped to have people I could chat to and do things with that didn't require getting dressed up and out of the house. And it did lead to meeting the love of my life in EverQuest II, so I guess it wasn't wasted after all?
 
@@ -50,7 +28,7 @@ An EverQuest guild was twenty or more people who would drop everything if you ne
 
 So anyway, here's a little bit about my life in EverQuest, as told by the epics I managed to obtain for five very different characters in five different guilds.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/EQ000004-1024x566.jpg" title="Etha Tanglewood of Erollisi Marr" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/EQ000004-1024x566.jpg" title="Etha Tanglewood of Erollisi Marr" classes="center" >}}
 
 **Druid - Nature Walker's Scimitar - United Norrath Coalition**
 
@@ -60,7 +38,7 @@ As a young druid, Etha grouped up with Noffin Stormfyre, a halfling rogue, and L
 
 Valksis, Anavrin, Cilia, Jalanea, Taluil, so many other friends whose names I can't remember now. I miss them so much. They got me this epic and I stayed there happily until the guild broke up. Etha moved into a European raiding guild, Divine Grace, and then I changed mains, which didn't make anyone very happy. I wasn't happy with how hard it was to find groups as a druid, or to be effective in raids as a druid. SOE later buffed druids up considerably, but it was too late for me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/EQ000002-1024x566.jpg" title="Shadow Tipa Tanglewood" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/EQ000002-1024x566.jpg" title="Shadow Tipa Tanglewood" classes="center" >}}
 
 **Rogue - Ragebringer - A Twist of Fate**
 
@@ -72,7 +50,7 @@ After I left Divine Grace, I fell in with A Twist of Fate because Noffin and (I 
 
 Torm wasn't happy about that. She accused me of just using the guild to get my epic and now I was going to jump ship. Which is what I did do, so she had a point. I still feel really bad about that.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/EQ000000-1024x566.jpg" title="Dera Tanglewood of Stromm" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/EQ000000-1024x566.jpg" title="Dera Tanglewood of Stromm" classes="center" >}}
 
 **Cleric - Water Sprinkler of Nem Ankh (1.0) and Aegis of Superior Divinity (2.0) - Lost Sock Patrol and Crimson Eternity**
 
@@ -88,7 +66,7 @@ I asked CE if it would be okay if I transferred Brita to Erollisi Marr and chang
 
 In the fullness of time, CE helped me get the Cleric 2.0 epic. I really had fun playing cleric.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/EQ000003-1024x566.jpg" title="Tsuki Stormfyre of Erollisi Marr" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/EQ000003-1024x566.jpg" title="Tsuki Stormfyre of Erollisi Marr" classes="center" >}}
 
 **Magician - Orb of Mastery - Various Guilds**
 
@@ -98,7 +76,7 @@ Tsuki was another of my alts, someone to wear all the caster gear I'd come acros
 
 Every so often I'd work a little more on her epic; camping Quillmane was a long term project. I finally did get the epic when Nostalgia the Guild did our last raid, to the Plane of Sky.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/EQ000001-1024x566.jpg" title="Ranoma Tanglewood of Luclin" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/EQ000001-1024x566.jpg" title="Ranoma Tanglewood of Luclin" classes="center" >}}
 
 **Ranger - Swiftwind and Earthcaller - Nostalgia the Guild**
 

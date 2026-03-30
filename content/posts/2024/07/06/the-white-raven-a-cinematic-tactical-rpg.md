@@ -3,52 +3,30 @@ date: '2024-07-06T10:51:06-05:00'
 draft: false
 title: "The White Raven: A Cinematic Tactical RPG"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/07/06/the-white-raven-a-cinematic-tactical-rpg/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game."
-description: "After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game."
-tags:
+categories:
   - "RPG"
   - "Tactical RPG"
   - "Tactics"
   - "Turn-Based Rpgs"
+tags:
   - "Sword & Sworcery"
   - "The White Raven"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/whiteraventitle.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/07/whiteraventitle.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/whiteraventitle.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/whiteraventitle.png"
 ---
+After two years, GatherRound Games has released their first peek at their upcoming Fire Emblem-style tactical game.
+<!--more-->
 
 I'm a huge fan of tactical RPGs -- I've played dozens. The basics are always the same -- tactical, turn-based combat that arises naturally from a rich, intricate storyline. Final Fantasy Tactics, XCOM, Fire Emblem, Tactics Ogre -- these games are the best of the genre.
 
 Most new tactics RPGs fall short; the story is simple or missing entirely, or the game has clearly drawn too much inspiration from what came before, or the gameplay is just... bad. I've seen lots of those.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/07/The-White-Raven-Mvp-Screenshot-2024.07.05-21.43.34.28-1024x429.jpg" title="I should have taken better screenshots" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/07/The-White-Raven-Mvp-Screenshot-2024.07.05-21.43.34.28-1024x429.jpg" title="I should have taken better screenshots" classes="center" >}}
 
 I was struck by The White Raven's very distinct graphical style; typically, games follow the FFT diagonal overhead view, but this is straight on with no perspective. It's very unusual. The backgrounds are also drawn in a flat, low palette style, while the characters are heavily pixelated in a call back to games from 30 years ago. It's amazing that all these come together so well, though the head-on view makes it difficult sometimes to judge the relative heights of the terrain. The look and feel reminded me strongly of the mobile game [Sword & Sworcery](http://www.swordandsworcery.com/).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/07/IMG_0226-EDIT-1.jpg" title="Screenshot from \"Sword & Sworcery\"" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/07/IMG_0226-EDIT-1.jpg" title="Screenshot from \"Sword & Sworcery\"" classes="center" >}}
 
 Outside of battle, you are free to walk around and explore. There are plenty of environmental puzzles; I'm unsure how many in this small preview were required, but they usually opened access to treasure rooms or gave other rewards.
 

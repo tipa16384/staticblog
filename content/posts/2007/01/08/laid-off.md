@@ -3,37 +3,12 @@ date: '2007-01-08T11:57:18-05:00'
 draft: false
 title: "LAID OFF"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/01/08/laid-off/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Surya laid me off this morning. And after all the nice things I said about them!..."
+categories:
   - "My Work"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Surya laid me off this morning. And after all the nice things I said about them!...
+<!--more-->
 
 Surya laid me off this morning. And after all the nice things I said about them!
 

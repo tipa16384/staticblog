@@ -3,44 +3,22 @@ date: '2020-05-28T03:27:17-05:00'
 draft: false
 title: "Octomini Project Day 2: Primed and Ready"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/28/primed-and-ready/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'd really wanted to talk about playing in the new EverQuest server today. I took a day off from work to play EverQuest and watch..."
+categories:
   - "EverQuest"
   - "Gloomhaven"
   - "Miniatures"
   - "Nintendo Switch"
+tags:
   - "Aradune"
   - "Cragheart"
   - "Octomini Project"
   - "Octopath Traveler"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-primed.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-primed.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-primed.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-primed.jpg"
 ---
+I'd really wanted to talk about playing in the new EverQuest server today. I took a day off from work to play EverQuest and watch...
+<!--more-->
 
 I'd really wanted to talk about playing in the new EverQuest server today. I took a day off from work to play EverQuest and watch the SpaceX rocket take off with two American astronauts from American soil.
 
@@ -62,6 +40,6 @@ And, while the minis are super easy to see here in this photo, in real life they
 
 But I've started down the road, I'll see where it takes me. At least I can always have [Hero Forge](https://www.heroforge.com/) print me the colored versions now :-)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/duo-1024x526.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/duo-1024x526.jpg" classes="center" >}}
 
 Since I couldn't create a character in EverQuest last night (and still can't get in this morning), I went to Hero Forge and created my artist's rendition of Kanad (Troll Shaman) and Nashuya (Dark Elf Shadow Knight) taking the fight to the login queue. May they be ever victorious.

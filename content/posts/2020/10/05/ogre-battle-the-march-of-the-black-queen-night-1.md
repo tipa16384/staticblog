@@ -3,43 +3,21 @@ date: '2020-10-05T08:03:07-05:00'
 draft: false
 title: "Ogre Battle \"The March of the Black Queen\" -- Night 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/05/ogre-battle-the-march-of-the-black-queen-night-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Before Final Fantasy Tactics, my favorite fantasy tactical battle RPG, there was the Ogre Battle series. I discovered the franchise the other way around, though:..."
+categories:
   - "Super Nintendo"
   - "Tactical RPG"
+tags:
   - "Final Fantasy Tactics"
   - "Ogre Battle"
   - "RPG"
   - "Tactics"
   - "The March of the Black Queen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/blackqueen.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/blackqueen.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/blackqueen.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/blackqueen.png"
 ---
+Before Final Fantasy Tactics, my favorite fantasy tactical battle RPG, there was the Ogre Battle series. I discovered the franchise the other way around, though:...
+<!--more-->
 
 Before Final Fantasy Tactics, my favorite fantasy tactical battle RPG, there was the Ogre Battle series. I discovered the franchise the other way around, though: after loving and completing FFT on the PlayStation back in the day, I looked around and found Ogre Battle: Let Us Cling Together, the second game in the series, and was again blown away.
 
@@ -47,7 +25,7 @@ Both games shared a creator -- Yasumi Matsuno -- who, along with the Ogre Battle
 
 I only heard about the first game in the series, "The March of the Black Queen", fairly recently. This game came out originally for the Super Nintendo and was later ported to the PlayStation and is a very different experience than the turn-based games in the series where you select your movements and actions for each unit at your leisure. MotBQ operates in real time, and the battles play out without user input, though you can influence the battle by setting the battle tactics (focus on leader, on strong units, on weak units, or on whatever the game thinks of as the best strategy for the fight). You can also cast tarot cards of varying abilities, or order a retreat (which can be in many instances a better path to eventual victory).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1938.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1938.jpg" classes="center" >}}
 
 I found the game in its original box, though without the manual, in a retro game shop downtown. I started playing through it on my [Analogue Super NT](https://www.analogue.co/super-nt), but this is a hard game. Many boss battles require specific units in order to get the best rewards, and it is easy to lose these fights and these units.
 
@@ -61,7 +39,7 @@ During the initial phase, when you're struggling to expand your hold on the new 
 
 Canopus was crushed immediately. I reset and tried softening him up with my group (my character has her own group) or my main commander, Lans' group, and I had to retreat after just a round or two each time so that I wouldn't kill Gilbert, the boss. By the time I could get Canopus in (moving slowly since the first thing Gilbert had done on their first meeting was to kill his Gryphon that allowed him to move fast), Gilbert had healed up. After several resets, I just used precious tarot cards to kill the boss and move the plot ahead.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/pledgemylife-1024x899.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/pledgemylife-1024x899.png" classes="center" >}}
 
 Defeating Gilbert with Canopus makes Gilbert see the error of his ways. The Empire forced him to be evil! All is forgiven, and he joined my army.
 

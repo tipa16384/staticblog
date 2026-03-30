@@ -3,43 +3,21 @@ date: '2024-08-18T09:41:06-05:00'
 draft: false
 title: "My first Malifaux tournament!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/18/my-first-malifaux-tournament/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I'ma start by explaining what the game is, as best I can anyway."
-description: "I'ma start by explaining what the game is, as best I can anyway."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "Frostgrave"
   - "Tactics"
   - "Warhammer"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/malifaux-wtf.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/malifaux-wtf.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-wtf.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/malifaux-wtf.png"
 ---
+I'ma start by explaining what the game is, as best I can anyway.
+<!--more-->
 
 At some point a couple hundred years ago, a mysterious portal to another world -- Malifaux -- appeared. A world of magic; magic that could be brought to Earth in the form of Soulstones.
 
@@ -49,11 +27,11 @@ The humans are split into eight warring factions; chief among them is the Guild,
 
 When talks and negotiation fail, the Masters must work out their disagreements on the battlefield. They each gather their crews and meet, with their strategies and schemes.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/1-IMG_4570.jpg" title="Kasul's crew (left) and my crew (right)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/1-IMG_4570.jpg" title="Kasul's crew (left) and my crew (right)" classes="center" >}}
 
 Each Master has one or more factions and one or more *keywords*. Keywords are grouping withing a faction; my Master, Mei Feng (Foreman), is a member of both the Arcanist and Ten Thunders factions. But importantly, she has the keyword Foundry, as she leads the metalworkers union. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-25-300x300.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-25-300x300.png" classes="fig-20" >}}
 
 In a normal game, all masters can bring along any unit that shares a keyword with the master, if they can pay the cost. (Normal games give 50 soulstones, and every crew member has a cost, aside from the Master and her minion). They can also hire "versatile" models, as long as they are in the same faction. They are assumed to share a keyword with the master. Models that are in the same faction but are not versatile and do not share a keyword cost an additional soulstone fee.
 
@@ -101,7 +79,7 @@ If you like games like Warhammer 40K, Battletech, or similar other miniatures ga
 
 It's an expensive game just to buy the minis and the stuff you need to play, though there are core boxes that will have most of the stuff you need, and there's an app for the game which can take the place of most of the various condition markers and stuff. The app is how you start matches; it can help choose the strategies, scheme pools and layouts.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/IMG_4568-1.jpg" title="Assembling and painting models. The ones with some green are Metal Gamins" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4568-1.jpg" title="Assembling and painting models. The ones with some green are Metal Gamins" classes="center" >}}
 
 There are no dice in Malifaux; randomness is done with a standard deck of playing cards, though you can get decks themed to your faction (and the core boxes include such a deck). It all comes down to the minis. They largely come unassembled and unpainted. Putting them together can be a chore. Models don't need to be painted; only some of mine are.
 

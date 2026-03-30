@@ -3,53 +3,30 @@ date: '2006-06-19T00:00:00-05:00'
 draft: false
 title: "EQ2: Betraying Qeynos"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/19/eq-betraying-qeynos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Even the in-game items mock me! I could put this book in my home... if I had one... but let me backtrack to... two days..."
+categories:
   - "EverQuest"
-featured_image: "https://chasingdings.com/images/betray-homeless.jpg"
-cover:
-  image: "https://chasingdings.com/images/betray-homeless.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/betray-homeless.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/betray-homeless.jpg"
 ---
+Even the in-game items mock me! I could put this book in my home... if I had one... but let me backtrack to... two days...
+<!--more-->
 
-![](https://chasingdings.com/images/betray-homeless.jpg)
+
 
 Even the in-game items mock me! I could put this book in my home... if I had one... but let me backtrack to... two days ago.
 
-![](https://chasingdings.com/images/scaleborn.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/scaleborn.jpg" classes="center" >}}
 
 Spending so much time in the Kingdom of Sky expansion grinding out the levels. Dina was 55 last weekend; 58 this one. But I hate the grind, and when the pickup raid channel came alive with news of raiding Cazic Thule to free the frogloks, I had to join. See, actually, they have been freed on my server, Befallen. I was hoping we could convince Venekor, the dragon who sometimes calls CT his lair, sweet lair, to take them *back*.
 
-![](https://chasingdings.com/images/venekor-beneath.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/venekor-beneath.jpg" classes="center" >}}
 
 We fought bravely, but it took too much time for the impatient pickup raiders, and we ran out of people not long before we were to meet the dragon himself.
 
 But the next day, the dragon did return to terrorize CT - not the "Save the Froggies" instance, but the real deal; and in the name of 40-ish xp groups everywhere, the pickup raiders of which I am a proud participant, sprang into action.
 
-![](https://chasingdings.com/images/venekor-above.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/venekor-above.jpg" classes="center" >}}
 
 His amazingly potent poison AE did us in. It's possible to stay out of range - this is a range fight if ever there was one, at least at the casual-raider state of resist gear - but the raid leader didn't have a strong sense of the encounter. I dunno. Huge, dangerous AE + low resists = STAY OUT OF RANGE. But I'm only one haffer, and the people who signed up for the raid hoping for easy loots and no dying dropped out after the second wipe. We ended with fewer people than needed to even engage him.
 
@@ -67,7 +44,7 @@ That's the way Dera did it, and I met a lot of great people through that. When I
 
 The new betrayal quest requires no groups to take on nameds, and doesn't limit your level. It consists entirely of level-scaled solo quests and faction farms.
 
-![](https://chasingdings.com/images/betray-start.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/betray-start.jpg" classes="center" >}}
 
 Rumors (ie, the LU #24 update notes) led me to a disgruntled gnome beneath Qeynos Harbor. Gnomes are usually cranky on the best of days, but by his grumbles and mutters, I knew I'd found a kindred soul, fed up, as I was, with the incessant cheerfulness of the western human city.
 
@@ -75,7 +52,7 @@ He sent me to a Freeport spy in a nearby inn. That spy didn't come right out and
 
 Well, he was wanting information before he'd waste any time with me, and gave me some pointers on who might have information I could trade to him for a trip to Freeport.
 
-![](https://chasingdings.com/images/betray-shields.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/betray-shields.jpg" classes="center" >}}
 
 Investigation turned up hints of something big and extremely secret going down. I found some loose lips, and some truth potion to loosen some others. Queen Antonica had caused the mages to build a device to keep Qeynos safe from enemy magical attack - a hostile act designed to protect itself from retaliation after they pre-emptively would attack Freeport.
 
@@ -85,13 +62,13 @@ The spy said the first thing I need to learn about Freeport is to keep my questi
 
 And then the Qeynos guard comes running up. Oh yes, you looked at your shift schedule and someone asked someone else why all the lowbie mages had been left to guard Qeynos' most precious secret. Jig was up, they conked me out and dragged my pie-stuffed body onto a cart and went outside to dump me to my death...
 
-![](https://chasingdings.com/images/betray-scout.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/betray-scout.jpg" classes="center" >}}
 
 I woke up in Haven. A Haven patrol had ambushed the Qeynos guards, found me somewhat alive in the cart and brought me to their underground city. Whenever I see tunnels like these, I expect to see gnolls, but this wasn't Splitpaw, though I later found out that place wasn't far.
 
 I was an exile, a haffer without a home. I wandered the place for awhile. I like snug, enclosed places; I guess that's the gift Brell gives all his creations, and this felt far more homey than Baubbleshire. Empty.
 
-![](https://chasingdings.com/images/betray-fellow.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/betray-fellow.jpg" classes="center" >}}
 
 I did find a fellow exile prowling about. He was still dazed; still in shock over what he had done. He'd hoped to carve out a better life in Freeport, but now that he had left Qeynos, he missed it more than ever and longed to go back. But eventually he comforted himself with the rumors of Tunare's return, and hopes his elven homeland in Faydwer would soon be rediscovered so he, like so many other elves, could leave the human cities behind and return to the trees.
 
@@ -99,7 +76,7 @@ Remembering what we'd found when Rivervale was rediscovered, I couldn't offer hi
 
 My path to Freeport led first, oddly, back to Qeynos. Destroying the mystical shield generatror wasn't enough to prove my worth to Freeport. They demanded no less than the complete disintegration of authority in Qeynos. They assured me that the people and organizations I was to defeat would be no more than I could handle by myself. With the key bits of Qeynos so easily defeated, why do they need me?
 
-![](https://chasingdings.com/images/betray-fightclub.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/betray-fightclub.jpg" classes="center" >}}
 
 I defeated some people who had gathered in a hidden location to have some bare knuckle brawling. They had all these complicated rules; I didn't bother memorizing them. "Not killing your opponent" may have been one of them. A little hazy on them.
 

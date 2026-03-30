@@ -3,40 +3,18 @@ date: '2023-09-26T08:24:01-05:00'
 draft: false
 title: "Baldur's Gate 3: Finishing off  the Goblin Camp"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/09/26/baldurs-gate-3-finishing-off-the-goblin-camp/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Jump magic, jump."
-description: "Jump magic, jump."
-tags:
+categories:
   - "Baldur's Gate 3"
   - "PS5"
+tags:
   - "Goblin Camp"
   - "The Labyrinth"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/jumpmagicjump.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/09/jumpmagicjump.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jumpmagicjump.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/jumpmagicjump.png"
 ---
+Jump magic, jump.
+<!--more-->
 
 The last time I had a moment to play Baldur's Gate 3, I had just finished off the first of the Goblin Camp's three bosses, the goblin High Priestess Gut. I then explored, without the rest of the party, some of the back rooms, solved a rotating disk puzzle that required lighting torches to give hints, declined to go down the dark stairway alone, and returned to the party.
 
@@ -46,7 +24,7 @@ This may not have been the best suggestion.
 
 We explored a little, saved spoony bard Volo and a druid who was being tortured, gaining us some minor loot.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-35.png" title="Eye see you..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-35.png" title="Eye see you..." classes="center" >}}
 
 First up was Nightwarden Minthara. I knew a couple of things about her. One, that she would join your party as a paladin if you helped her wipe out Druid's Grove. Nah, I already told the druids and tieflings there that I would help them out. Besides, I have my Githyanki friend for tanking, and Halsin would (justifiably) leave if I destroyed his home.
 
@@ -60,7 +38,7 @@ Astarion was key, with his ability to always attack from hiding. All the other c
 
 We looted her, got some cool stuff, then jumped our way over to the Goblin King.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-36-1024x662.png" title="Lewts" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-36-1024x662.png" title="Lewts" classes="center" >}}
 
 I didn't have to be told that attacking Dror Razglin, the Hobgoblin boss, would be best done from the rafters. But it still took several tries before I managed to both kill him and his minions without wiping out. It took *hours* of tries.
 

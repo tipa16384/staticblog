@@ -3,40 +3,17 @@ date: '2020-10-02T07:54:13-05:00'
 draft: false
 title: "Game Night: Terraforming Mars (Turmoil #2)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/02/game-night-terraforming-mars-turmoil-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Quick recap: Terraforming Mars is one of the most popular board games in the world right now, and has been for years. It's a game..."
+categories:
   - "3D Printing"
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/3-IMG_1937.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/3-IMG_1937.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/3-IMG_1937.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/3-IMG_1937.jpg"
 ---
+Quick recap: Terraforming Mars is one of the most popular board games in the world right now, and has been for years. It's a game...
+<!--more-->
 
 Quick recap: Terraforming Mars is one of the most popular board games in the world right now, and has been for years. It's a game not just about about terraforming Mars, but eventually exploring and colonizing our Moon, Venus, Mercury, and the outer planets' larger moons through several expansions.
 
@@ -46,7 +23,7 @@ The game ends when Mars is habitable by humans without need for any protective g
 
 In what has become typical for my son, he ended last night's game by crashing Mars' smaller moon, Deimos, into the planet, raising its heat just enough to finish the terraforming. One moon is enough for any planet, right?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1934.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1934.jpg" classes="center" >}}
 
 Last night, we separated out all the stuff from the other expansions -- Venus Next, Hellas & Elysium and Prelude to Mars (we don't have Colonies yet) so we could focus on learning the Turmoil expansion. Turmoil is ranked the most difficult expansion to learn ([it's considered an "expert" expansion](https://theboardgameguide.com/terraforming-mars-expansions-guide/)) and the first time we played it, its new mechanics were mostly detrimental as we worked on all the other normal activities.
 
@@ -58,7 +35,7 @@ Influence counts when playing on the other new board that came with this expansi
 
 On a previous turn, I'd had to do the same battle as we'd had news that Earth was going through a period of war and had cut its terraforming budget for a generation. Everyone would lose four terraforming points -- minus their council influence. By having the chair and control of the dominant party (in that case, the Mars First party), I had three influence and was mostly able to weather the lean times better than anyone else. This led directly to me being able to claim the Terraforming Milestone for five extra victory points.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/2-IMG_1935.jpg" title="Boyfriend, daughter, son. None of these people is me." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/2-IMG_1935.jpg" title="Boyfriend, daughter, son. None of these people is me." classes="center" >}}
 
 The Turmoil expansion slams on the brakes by removing one terraforming rating point from everyone each turn. Every player must keep pushing forward just to stay in place, and there tends to be very little money available each generation to research the best projects.
 

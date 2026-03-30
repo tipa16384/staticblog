@@ -3,43 +3,21 @@ date: '2009-03-14T07:40:04-05:00'
 draft: false
 title: "EQ2: Brewday, or: How did I end up HERE?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/14/eq2-brewday-or-how-did-i-end-up-here/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "......"
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Brewday"
   - "Brightknife"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-14-07-39-28-12.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-14-07-39-28-12.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/everquest2-2009-03-14-07-39-28-12.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/everquest2-2009-03-14-07-39-28-12.jpg"
 ---
+......
+<!--more-->
 
-![everquest2-2009-03-14-07-39-28-12](https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-14-07-39-28-12.jpg "everquest2-2009-03-14-07-39-28-12")
+
 
 ...
 
@@ -51,7 +29,7 @@ Damned if I know. The last thing I remember was getting together with the drumme
 
 Would you STOP MOVING SO FAST? I have enough trouble focusing ... well, just sit still or something.
 
-![everquest2-2009-03-14-08-06-34-94](https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-14-08-06-34-94.jpg "everquest2-2009-03-14-08-06-34-94")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/everquest2-2009-03-14-08-06-34-94.jpg" title="everquest2-2009-03-14-08-06-34-94" classes="center" >}}
 
 Anyway, so I wake up back in the Guild Hall with a few kegs, a mostly-empty stone stein, a cabbage with eyes and an evil grin that calls me "Mommy", and a tattoo on my rear that says "Brell Was Here". I wouldn't even have noticed if it didn't hurt so damn much.
 

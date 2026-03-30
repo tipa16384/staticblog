@@ -3,38 +3,13 @@ date: '2008-03-26T16:20:34-05:00'
 draft: false
 title: "Confounded Confinder!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/26/confounded-confinder/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's something supremely, unapologetically geeky about going to a science fiction convention or comic convention. I went to San Diego Comicon back in 2006 and..."
+categories:
   - "General"
   - "Sci Fi"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+There's something supremely, unapologetically geeky about going to a science fiction convention or comic convention. I went to San Diego Comicon back in 2006 and...
+<!--more-->
 
 There's something supremely, unapologetically geeky about going to a science fiction convention or comic convention. I went to San Diego Comicon back in 2006 and you know, it's just our kind of folk there. Before that, when I was employed anyway (and living in the greater Bay Area), I would hit up Baycon, SiliCon and Fanime every year up in San Jose.
 

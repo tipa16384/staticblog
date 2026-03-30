@@ -3,42 +3,21 @@ date: '2009-03-07T15:19:05-05:00'
 draft: false
 title: "The League of Cruelty Presents: Octomom"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/07/the-league-of-cruelty-presents-octomom/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "City of Heroes"
   - "Humor"
   - "League of Cruelty"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-07-07-34-41-70.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-07-07-34-41-70.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-07-07-34-41-70.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-07-07-34-41-70.jpg"
 ---
+[...
+<!--more-->
 
-[![cityofheroes-2009-03-07-07-34-41-70](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-07-07-34-41-70.jpg "cityofheroes-2009-03-07-07-34-41-70")](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-07-07-34-41-70.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-07-07-34-41-70.jpg)
 
 Name: Octomom
 

@@ -3,28 +3,13 @@ date: '2008-10-02T08:31:41-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Ironbreaker"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/02/straight-talk-warhammer-the-ironbreaker/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's just so much to say about Warhammer Online: Age of Reckoning that people don't even talk about. I'm don't mean innovations like Public Quests..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
+tags:
   - "Alderich"
   - "Apocalypse Now"
   - "Der Ring Des Nibelungen"
@@ -36,18 +21,11 @@ tags:
   - "The Ride of the Valkyrie"
   - "The Ring of the Nibelung"
   - "What's Opera Doc"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg"
 ---
+There's just so much to say about Warhammer Online: Age of Reckoning that people don't even talk about. I'm don't mean innovations like Public Quests...
+<!--more-->
 
 There's just so much to say about Warhammer Online: Age of Reckoning that people don't even talk about. I'm don't mean innovations like Public Quests or the Tome of Knowledge or Open Groups or stuff like that, but stuff that really makes you sit down and go, "damn, why hasn't any other game ever done this?" It's that "I coulda had a V-8" forehead slap moment.
 
@@ -56,8 +34,6 @@ I'd have liked to have been in that meeting where some nebbiish dev looked up fr
 [The sound of helicopters](http://en.wikipedia.org/wiki/Ride_of_the_Valkyries)... [the tragedy of bunnies](http://en.wikipedia.org/wiki/What%27s_Opera,_Doc%3F)... Every person's mind was immediately gripped by the tale of the dwarf Alderich, who forged a magic ring deep within a volcano's maw, [a single ring that would rule the entire world](http://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen).
 
 "Nobody has EVER done THAT," agreed everyone else. "Nobody's gonna figure out that we [stole the idea from an OPERA](http://larryavisbrown.homestead.com/files/Ring/Ring3_Siegfried.htm)!" And thus, the race of dwarfs was born, and among them, that stalwart example of dwarf obstinacy, the Ironbreaker.
-
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-02-07-39-22-47.jpg "eqgame-2008-10-02-07-39-22-47")
 
 *Simulated Warhammer screenshot.*
 

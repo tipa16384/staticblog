@@ -3,40 +3,17 @@ date: '2010-02-17T07:23:31-05:00'
 draft: false
 title: "First Look: Allods Online"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/17/first-look-allods-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After helping to save dozens of people from the destruction of their doomed Allod -- an island floating in the Twisting Nether -- my gibberling..."
+categories:
   - "Allods Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-16-19-33-38-62.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-16-19-33-38-62.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/AOgame-2010-02-16-19-33-38-62.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/AOgame-2010-02-16-19-33-38-62.jpg"
 ---
+After helping to save dozens of people from the destruction of their doomed Allod -- an island floating in the Twisting Nether -- my gibberling...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-16-19-33-38-62.jpg "Gibberlings meet the Ultimate Lord of Darkness.")
+
 
 After helping to save dozens of people from the destruction of their doomed Allod -- an island floating in the Twisting Nether -- my gibberling crew defeated a ravening demonologist, lured a marauding demon into a trap that meant its doom, defended a powerful sorceror as she strived to keep the island afloat just a few more seconds, and finally escaped at the last moment to safety, regarded by all who knew them as a new breed of hero.
 
@@ -46,7 +23,7 @@ Gameplay is entirely standard. I have only played the Warrior to level 4 (as the
 
 But that is not a problem. Their target audience is the World of Warcraft player, and anyone who has played WoW at all is very familiar with how these things work.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/AOgame-2010-02-17-06-41-52-13.jpg "Druid + Pet")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/AOgame-2010-02-17-06-41-52-13.jpg" title="Druid + Pet" classes="center" >}}
 
 Graphically, the game is beautiful and runs smooth as glass. There was some rubber-banding and a little lag last night, but that was better than I expected given the number of people crowded onto the two North American servers. A lot of attention has been paid to making the game just look absolutely incredible.
 

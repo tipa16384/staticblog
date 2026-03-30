@@ -3,40 +3,17 @@ date: '2009-07-03T15:34:38-05:00'
 draft: false
 title: "Wizard 101: Cyrus Drake apologizes for difficult boss encounters"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/03/wizard-101-cyrus-drake-apologizes-for-difficult-boss-encounters/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Along with Grizzleheim, the folks at KingsIsle introduced new boss battles more along the lines of bosses from traditional MMOs like World of Warcraft or..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/cyrusdrake.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/cyrusdrake.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/cyrusdrake.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/cyrusdrake.jpg"
 ---
+Along with Grizzleheim, the folks at KingsIsle introduced new boss battles more along the lines of bosses from traditional MMOs like World of Warcraft or...
+<!--more-->
 
-![cyrusdrake](https://chasingdings.com/wp-content/uploads/2009/07/cyrusdrake.jpg "cyrusdrake")
+
 
 Along with Grizzleheim, the folks at KingsIsle introduced new boss battles more along the lines of bosses from traditional MMOs like World of Warcraft or EverQuest II, which required specific strategies to defeat.
 

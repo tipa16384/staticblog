@@ -3,52 +3,31 @@ date: '2007-02-01T11:41:00-05:00'
 draft: false
 title: "EQ2: Barakah"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/01/eq2-barakah/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "More in my little series of the big baddies of EverQuest 2 -- Today, Barakah, the gold dragon who holds part of the mystic barrier..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/barrthumb.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/02/barrthumb.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/barrthumb.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/barrthumb.jpg"
 ---
+More in my little series of the big baddies of EverQuest 2 -- Today, Barakah, the gold dragon who holds part of the mystic barrier...
+<!--more-->
 
-![barrthumb.jpg](https://chasingdings.com/wp-content/uploads/2007/02/barrthumb.jpg)More in my little series of the big baddies of EverQuest 2 -- Today, Barakah, the gold dragon who holds part of the mystic barrier guarding access to the Djinn Master's Prism, the Pedestal of Sky, and Poet's Palace: Return.
+
+
+More in my little series of the big baddies of EverQuest 2 -- Today, Barakah, the gold dragon who holds part of the mystic barrier guarding access to the Djinn Master's Prism, the Pedestal of Sky, and Poet's Palace: Return.
 
 Barakah sometimes wanders Maj'Dul in his mortal form as a dark elf, and it was there we tricked him into assuming his dragon form and slaying him for his half of the mystic key. But though we defeated him there, he fled to the Pillars of Flame to nurse his wounds and his anger. And it was there we found him hiding last night.
 
-![barrackah1.jpg](https://chasingdings.com/wp-content/uploads/2007/02/barrackah1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/barrackah1.jpg" classes="center" >}}
 
 We had to sneak up to him, on his island off the west coast of the Pillars. If anyone poked their head up, he'd blast it off. And what a blast -- AE fire attack, a frontal, long-term stun, AE knockback (so many people got flung from the island), and an annoying habit of forgetting all about the fighters in front of him to go after the wizards and warlocks behind him.
 
-![barrackah2.jpg](https://chasingdings.com/wp-content/uploads/2007/02/barrackah2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/barrackah2.jpg" classes="center" >}}
 
 It was the kind of fight where every instinct screams "BURN! BURN!", but it's best to keep things slow. And his memwipe forces the raid to heal and fight through the mob (something which, by the way, would have helped so much in EQ1 with memwipe mobs like Vule) instead of through the Main Assist. Since Barakah is solo, a MA isn't as needed as in other raids.
 
-![barrackah3.jpg](https://chasingdings.com/wp-content/uploads/2007/02/barrackah3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/barrackah3.jpg" classes="center" >}}
 
 We had two groups for this four group raid. It took two tries to set the strategy, and on the third time we downed him. We got some nice cloth shoulders, and a plate BP that turned out to be a server discovery!
 

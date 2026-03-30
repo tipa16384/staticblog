@@ -3,27 +3,12 @@ date: '2024-04-18T07:00:00-05:00'
 draft: false
 title: "Confessions of a Kickstarter Superbacker"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/04/18/confessions-of-a-kickstarter-superbacker/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I haven't talked about my recent kickstarter projects, so here's a bunch of board games, some video games, and some other stuff."
-description: "I haven't talked about my recent kickstarter projects, so here's a bunch of board games, some video games, and some other stuff."
-tags:
+categories:
   - "Kickstarter"
   - "Tabletop Games"
   - "Terraforming Mars"
+tags:
   - "Beyond Shadowgate"
   - "Diceomatic"
   - "Mystery Under Magi-Mart"
@@ -31,22 +16,15 @@ tags:
   - "Plane Teleporter Operator Simulator"
   - "Shadowgate"
   - "The Red Dragon Inn"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/superbacker.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/04/superbacker.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/superbacker.png"
 ---
+I haven't talked about my recent kickstarter projects, so here's a bunch of board games, some video games, and some other stuff.
+<!--more-->
 
 It's been awhile since I wrote about the games I kickstart. All of these games are games I really want to play, but it's hard to get them to the table. Someday, though, someday I'll have time to play them all.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-3-300x206.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-3-300x206.png" classes="fig-20" >}}
 
 **One Hit Heroes by Wiggles 3D**
 
@@ -56,7 +34,7 @@ Their currently live-on-Kickstarter [One Hit Heroes](https://www.kickstarter.com
 
 They do have an expansion and a solo mode to continue the fun. The expansion contains a super boss that will take all the skill of all the players to make it through without ever taking a hit.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-4-300x169.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-4-300x169.png" classes="fig-20" >}}
 
 **PLANE: Teleporter Operator Simulator**
 
@@ -66,7 +44,7 @@ In [Teleporter Operator Simulator](https://www.kickstarter.com/projects/tinaalbe
 
 The game provides situations, characters, and prompts. You provide the story. It could be fun, though my record on actually playing the journaling games I have backed in the past is not good. I'll try to be better, this time.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-5-300x169.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-5-300x169.png" classes="fig-20" >}}
 
 **Mystery under Magi-Mart**
 
@@ -74,13 +52,13 @@ This one looked too cute to pass up. It is a point and click adventure game... i
 
 I am backing this for my grandkids, but I think I will probably play it a couple of times before I wrap it up for them :-)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-6-300x169.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-6-300x169.png" classes="fig-20" >}}
 
 **Diceomatic Retro Dice Spinner**
 
 Now that I am actually playing a real life game of Dungeons & Dragons -- with other people, this time -- I'm always looking out for ways to get the best looking dice at the table. The Mystery Dice kickstarter that delivered a couple of months ago helped a little, but a dice roller that looks like those old handheld manual adding machines for shoppers that my grandmother had? Yeah, I think that is something I might want.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-7-300x171.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-7-300x171.png" classes="fig-20" >}}
 
 (Picture on the left is the thing I was trying to remember).
 
@@ -90,7 +68,7 @@ Me, I think it's just going to be a fidget thing for me. I'll bring it to work. 
 
 Worth it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-8-300x169.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-8-300x169.png" classes="fig-20" >}}
 
 **The Red Dragon Inn Allies: Melvyn vs Marah**
 
@@ -102,7 +80,7 @@ For those new to RDI, in Red Dragon Inn, you play as adventurers who have just r
 
 Melvyn is the kind school librarian. He'll show you convoluted artifacts that you don't understand, and beat you at convoluted games you don't understand.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-9-300x168.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-9-300x168.png" classes="fig-20" >}}
 
 **More Terraforming Mars**
 
@@ -110,7 +88,7 @@ I say all the time that we play too much [Terraforming Mars](https://www.kicksta
 
 The campaign also includes more project and Prelude cards to further improve the game. When Fryxgames and Stronghold Games comes out with new Terraforming Mars stuff, I just automatically back it. I know for a fact that it will get played, and that's the important thing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-10-300x168.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-10-300x168.png" classes="fig-20" >}}
 
 **Beyond Shadowgate**
 

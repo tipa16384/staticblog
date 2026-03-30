@@ -3,38 +3,15 @@ date: '2007-12-30T13:30:01-05:00'
 draft: false
 title: "EQ2: Here's what a good day looks like."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/30/eq2-heres-what-a-good-day-looks-like/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Saturday was an off-day for the guild, so I figured I'd get going with the whole crafting biz. I have to get Dorah, my jeweler,..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-29-12-42-41-53.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-29-12-42-41-53.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-29-12-42-41-53.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-29-12-42-41-53.jpg"
 ---
+Saturday was an off-day for the guild, so I figured I'd get going with the whole crafting biz. I have to get Dorah, my jeweler,...
+<!--more-->
 
 Saturday was an off-day for the guild, so I figured I'd get going with the whole crafting biz. I have to get Dorah, my jeweler, to 40,000 faction with her tradeskill society, *and* to level 80 jewelcraft so she can make Dina's spells. No problem, thinks I. I drag her to Gorowyn because there's no possible way I can find my way out of that confusing place (Mission: Find the mender in thirty minutes or left, starting... NOW!), grab some writs from Mister Hi I'm The Guy Who Stands Here Night And Day Just In Case You Came Buy, and set off, whistling merrily, Dina's mind wandering as she finds herself being Dorah's mana battery. Because, you know, bards = power song.
 
@@ -45,8 +22,6 @@ She's going to have to move back to Freeport. Back to expensive housing Freeport
 Anyway, I decided to take a break, and log Dera in to sell, repair, change outfits and stuff. I got sidetracked... I always get sidetracked... and found myself in Kunzar Jungle, questing and looking for an instance group (but not CoA, since I was locked out). After the fifth invite to a CoA group, finally someone was going to Maiden's. "A-ha!". I thought. "I can finish Anaphylaxis!".
 
 That's the Jarsath Waste quest given by a little Fae outside the Vault of Eternal Sleep that results in a level 80 Legenday weapon, which is very nice for all classes (except Brawlers, apparently). You run through VoES, and then through Maiden's Chambers (the other Charasis instance, home of dirt, donuts and Drusella Sathir) (I was kidding about the donuts). The priest weapon is highly droolworthy. And the scout weapon looks like the old Rogue 1.5 epic from EQ1.
-
-![everquest2-2007-12-29-12-42-41-53.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-29-12-42-41-53.jpg)
 
 That's Sandstorm. He spits off tiny storms as you hurt him, but we had an enchanter and they couldn't do much but just stand around pining for the Sahara while we killed Mom.
 
@@ -62,7 +37,7 @@ The group wanted to go on to Chelsith, but guild wanted Dina for some instance f
 
 I'm not sure what instance it was. It I think it was Vault of Eternal Sleep, I know I was hoping we'd go there so I could get my green dagger. Kinda unusual my lower level alt would get her Anaphylaxis weapon before my main did. We may have done an instance before then but I know we did do VoES, totally smoothly. That place is so fun now. Got my updates, went to Maiden's without an enchanter (note to self: you are not an enchanter), managed to make our way to Drusella with some death but (significantly) hitting the Skorpikis guy up for his tail so Dina could get her dagger.
 
-![everquest2-2007-12-29-21-19-26-44.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-29-21-19-26-44.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-29-21-19-26-44.jpg" classes="center" >}}
 
 That's Dina with her knife and a new robe she got in Maiden's (she also has a new hat you can't see, the third piece of the legendary RoK Scout set, which gives her a nice double attack bonus for having three. She's standing in her bedroom in her Gorowyn suite. Ooooh, windows!).
 
@@ -70,7 +45,7 @@ I went off and repaired and was thinking about what it would take to get Dorah m
 
 YOU BET!
 
-![everquest2-2007-12-29-18-37-23-58.jpg](https://chasingdings.com/wp-content/uploads/2007/12/everquest2-2007-12-29-18-37-23-58.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/12/everquest2-2007-12-29-18-37-23-58.jpg" classes="center" >}}
 
 Chelsith is a temple the Murlocs built to provide for the care and feeding of their giant, [multi-tentacled](http://en.wikipedia.org/wiki/Tentacle_sex) [hentai loving](http://en.wikipedia.org/wiki/Hentai) god, but for me, that place will always live in my memory as the home of the majestic Penisaurus, proudly displayed in the picture above. May it scar you as I was scarred. Brrr.
 

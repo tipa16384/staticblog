@@ -3,44 +3,22 @@ date: '2009-03-28T21:19:16-05:00'
 draft: false
 title: "Wizard 101: So, Malistaire. We meet again."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/28/wizard-101-so-malistaire-we-meet-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't want to talk about Kraysys...."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Dragonspyre"
   - "Malistaire"
   - "Player Housing"
   - "Thomas"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg"
 ---
+I don't want to talk about Kraysys....
+<!--more-->
 
-![wizardgraphicalclient-2009-03-28-00-49-38-56](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-28-00-49-38-56.jpg "wizardgraphicalclient-2009-03-28-00-49-38-56")
+
 
 I don't want to talk about Kraysys.
 
@@ -58,7 +36,7 @@ Thomas got his robe the very first time we fought Malistaire, and we wondered if
 
 Nope. Another time. This was my sixth fight against Malistaire, but this is the one that got me the Drake Rider title :)
 
-![wizardgraphicalclient-2009-03-28-11-51-17-12](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-28-11-51-17-12.jpg "wizardgraphicalclient-2009-03-28-11-51-17-12")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-28-11-51-17-12.jpg" title="wizardgraphicalclient-2009-03-28-11-51-17-12" classes="center" >}}
 
 I had some fun trying out the shared bank. I had to make a character on that account to try it out because, why have an alt? The game is precisely the same the second time through as it was the first. One of Wizard 101's few failings is its linearity (and I bet that they're working on solving that very problem).
 

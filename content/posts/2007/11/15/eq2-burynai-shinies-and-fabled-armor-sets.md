@@ -3,40 +3,17 @@ date: '2007-11-15T08:27:22-05:00'
 draft: false
 title: "EQ2: Burynai, shinies and fabled armor sets."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/15/eq2-burynai-shinies-and-fabled-armor-sets/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This is my Burynai. His name is Dalnir! When I feed him, he acts like he's coughing up a hairball, but it's really collectible items...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-21-42-01-09.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-21-42-01-09.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-21-42-01-09.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-21-42-01-09.jpg"
 ---
+This is my Burynai. His name is Dalnir! When I feed him, he acts like he's coughing up a hairball, but it's really collectible items....
+<!--more-->
 
-![eq2 burynai](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-21-42-01-09.jpg)
+
 
 This is my Burynai. His name is Dalnir! When I feed him, he acts like he's coughing up a hairball, but it's really collectible items. I got a Crushed Scorpion (ewww) and a Rivervale Scroll from the foods I had on me.
 
@@ -50,26 +27,26 @@ The beta is still running, for some reason. I accidentally logged into it last n
 
 Monk:
 
-![eq2 rok fabled monk](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-18-44-04-60.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-18-44-04-60.jpg" classes="center" >}}
 
 Templar:
 
-![eq2 rok fabled templar](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-18-44-40-41.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-18-44-40-41.jpg" classes="center" >}}
 
 Ranger:
 
-![eq2 rok fabled ranger](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-18-45-55-12.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-18-45-55-12.jpg" classes="center" >}}
 
 Fury:
 
-![eq2 rok fabled fury](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-18-46-33-73.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-18-46-33-73.jpg" classes="center" >}}
 
 Coercer (I think, maybe Illusionist):
 
-![eq2 rok fabled coercer](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-18-46-59-77.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-18-46-59-77.jpg" classes="center" >}}
 
 Dirge:
 
-![eq2 rok fabled dirge](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-18-50-41-61.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-18-50-41-61.jpg" classes="center" >}}
 
 There were others, but nobody had thought to do a troubador. Someday, we'll be flavor of the month again!

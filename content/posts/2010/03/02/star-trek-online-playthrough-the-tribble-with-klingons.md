@@ -3,46 +3,21 @@ date: '2010-03-02T08:06:02-05:00'
 draft: false
 title: "Star Trek Online Playthrough: The Tribble with Klingons"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/02/star-trek-online-playthrough-the-tribble-with-klingons/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I thought it might be fun to do \"playthroughs\" of certain MMO missions, to try and give a feel for what it's like to simply..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-21-51-03-24.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-21-51-03-24.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-21-51-03-24.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-21-51-03-24.jpg"
 ---
+I thought it might be fun to do "playthroughs" of certain MMO missions, to try and give a feel for what it's like to simply...
+<!--more-->
 
 I thought it might be fun to do "playthroughs" of certain MMO missions, to try and give a feel for what it's like to simply play the game. I play a good variety of MMOs, so what I'm going to do is go through each one of them and do a mission or quest from start to end. For this first one, I will be doing a Star Trek Online "episode" called "The Tribble with Klingons". Klingons and Tribbles have never gotten along... but why?
 
-![](https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-21-51-03-24.jpg "On the bridge")
-
 We open on the bridge of the USS Monterey, 93940-B, an *Intrepid*-class long range science vessel on leave at Starbase 01. Commanding her is my character, Captain Tipa D'zoph. Captain D'zoph is an Aenar, an Andorian sub-species once considered mythical but in reality just very private. D'zoph's congenital blindness was corrected with gene therapy while still in the womb, and the Aenar are finally taking their place in Andorian society. Commander Tarah is first officer and unofficial 'minder' for the captain. It wasn't easy for Andoria to allow an Aenar to command full-blooded Andorians; Tarah keeps D'zoph on a short leash. At the console behind them is Chief Engineer Sryn.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-11-28-50-480x384.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-11-28-50-480x384.jpg" title="Click to enlarge" classes="center" >}}
 
 A message from Starfleet!
 
@@ -56,19 +31,19 @@ A message from Starfleet!
 
 I've fought the Klingons before. No other race gives me so much trouble on the ground.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-13-47-18-480x383.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-13-47-18-480x383.jpg" title="Click to enlarge" classes="center" >}}
 
 The Minos Korva system is in the Dorvan sector of the Alpha Trianguli sector block. I have some patrol missions to do in that area, so it's likely we'll be seeing a lot of that sector. I leave Commander Tarah in command and retire to my ready room as the Monterey travels to the system via the sector maps.
 
 The Gamma Orionis sector that dominates the bottom of the map is the future home of the first few "raidisodes". I'm going to have to be an admiral to help with those.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-17-42-84-480x270.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-17-42-84-480x270.jpg" title="Click to enlarge" classes="center" >}}
 
 The sector map is a weird display that is meant to suggest some sort of tactical overlay over the galaxy, showing stylized representations of the systems in the sector. Here's we're outside the Minos Korva system. The Eye of Sauron-like thing represents an open sector defense mission; I could fly into it and immediately be in a shooting war with an enemy faction -- probably the Terran Federation in this sector, Mirror Universe enemies who want to take over our reality.
 
 But some admiral's friend is in ~~tribble~~ trouble, so we let the evil twins be for the moment and enter the system.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-18-17-30-480x306.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-18-17-30-480x306.jpg" title="Click to enlarge" classes="center" >}}
 
 > Captain, Starfleet has requested we investigate reports of Klingons in the area of Minos Korva.
 
@@ -78,11 +53,11 @@ But some admiral's friend is in ~~tribble~~ trouble, so we let the evil twins be
 
 Convince the Klingons? Starfleet is always being diplomatic. The only kind of diplomacy Klingons understand is PHASER diplomacy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-18-54-82-480x384.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-18-54-82-480x384.jpg" title="Click to enlarge" classes="center" >}}
 
 There is a Klingon fleet in orbit around Minos Korva; the battleship IKV Kang, along with two Bird of Preys and a Raptor Escort, all a level higher than me. The USS Monterey is a science vessel, and science vessels allow for a lot of dirty tricks. I scramble their sensors, jam their targeting, use a viral matrix to hold the battleship in place and do various other cool things until the fight is mostly won and the IKV Kang breaks off and cloaks (the cowards; the generals ALWAYS flee).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-20-25-78-480x306.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-20-25-78-480x306.jpg" title="Click to enlarge" classes="center" >}}
 
 Captain Ja'rod of the IKV Kang hails us.
 
@@ -92,7 +67,7 @@ Captain Ja'rod of the IKV Kang hails us.
 
 Captain Ja'rod then runs away. Run away, Klingon, run away home! Your House is on fire and your children have flown!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-25-36-66-480x270.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-25-36-66-480x270.jpg" title="Click to enlarge" classes="center" >}}
 
 Time to beam down to the planet and see what's happening down there that would cause such consternation among the Klingons. My away team consists of myself, first officer Tarah, chief engineer Sryn, chief of security half-Romulan Karas, and medical officer Saylah (yes, named after Saylah of Mystic Worlds!).
 
@@ -108,7 +83,7 @@ First officer Tarah is incensed.
 
 > I recommend that we stop the Klingons and find Doctor Jones' lab. Maybe he can explain what's happening here.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-35-06-33-480x384.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-35-06-33-480x384.jpg" title="Click to enlarge" classes="center" >}}
 
 Sounds good to me. Ground missions mean taking on pockets of enemies who are generally a decent match for the group, especially since in this case, they are all higher level than my characters.
 
@@ -116,11 +91,11 @@ Since these are Klingons, that means we'll be fighting Targ Handlers, who summon
 
 We fight our way up the hill to Doctor Jones' lab.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-52-19-63-480x384.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-52-19-63-480x384.jpg" title="Click to enlarge" classes="center" >}}
 
 We thought there were a lot of tribbles OUTSIDE the lab! The lab itself is infested with them. We're beginning to understand how the Klingons feel about the little parasites. Doesn't mean we're not going to kill all the Klingons we find, however. The only good Klingon is a dead Klingon. Unfortunately, dead Klingon is the one food tribbles WON'T eat.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-19-57-37-07-480x309.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-19-57-37-07-480x309.jpg" title="Click to enlarge" classes="center" >}}
 
 Doctor Gregory Jones, we find when we finally meet him, turns out to be related to the famous Cyrano Jones, a trader who first introduced tribbles to the Federation two hundred years ago. Cyrano Jones was a human; Gregory Jones seems to be some sort of weird hybrid of human, Andorian and Orion. When he describes his grandfather as a 'bit of a rogue', he ain't lying. He asks us to help him out by putting transport enhancers at the four corners of the base so that we can beam all million or so tribbles into the transporter pattern buffers until we can bring them to a moon being tribble-formed so that they can live in peace and harmony, safe from Klingons forever.
 
@@ -128,13 +103,13 @@ We place the transport enhancers and return to the Monterey.
 
 But this wouldn't be a Star Trek Online mission if it ended there. It always has to end with a fight, and this one is no exception.
 
-[![Click to enlarge](https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-20-13-29-72-480x384.jpg "More Klingons want to die")](https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-20-13-29-72.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-20-13-29-72-480x384.jpg" title="More Klingons want to die" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-20-13-29-72.jpg)
 
 Starbase Deep Space 9 hails us to let us know that a Klingon fleet is headed for our location! Looks like Captain Ja'rod has found some more lackeys and is on his way to destroy us. DS9 is sending along the Defiant to help out. Our job is just to hold off the Klingons until the Defiant arrives.
 
 We're actually more than capable of defeating the IKV Kang AGAIN, and all his support ships, too, but we're always grateful for the assist.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/03/GameClient-2010-03-01-20-17-57-40-480x384.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/03/GameClient-2010-03-01-20-17-57-40-480x384.jpg" title="Click to enlarge" classes="center" >}}
 
 I hail Starfleet and tell them that the mission is accomplished. They thank me, give me some xp and DING! Captain 6! Only five more levels till admiral!
 

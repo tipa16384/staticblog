@@ -3,42 +3,20 @@ date: '2009-01-30T00:56:28-05:00'
 draft: false
 title: "Wizard 101: Take THIS, Thomas!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/01/30/wizard-101-take-this-thomas/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Thomas Lionblood has been having a bunch of fun, bringing magical artifacts infused with Death power to the verdant green of the Life school...."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Dragon Hatchery"
   - "Necropolis"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-30-00-46-52-98.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-30-00-46-52-98.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-30-00-46-52-98.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-30-00-46-52-98.jpg"
 ---
+Thomas Lionblood has been having a bunch of fun, bringing magical artifacts infused with Death power to the verdant green of the Life school....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-30-00-46-52-98.jpg "wizardgraphicalclient-2009-01-30-00-46-52-98")
+
 
 Thomas Lionblood has been having a [bunch of fun](http://thefriendlynecromancer.blogspot.com/2009/01/tres-de-smarmy.html), [bringing magical artifacts](http://thefriendlynecromancer.blogspot.com/2009/01/smarmy-part-duex.html) [infused with Death power](http://thefriendlynecromancer.blogspot.com/2009/01/terminus.html) to the verdant green of the Life school.
 

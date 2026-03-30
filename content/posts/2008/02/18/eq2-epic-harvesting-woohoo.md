@@ -3,40 +3,17 @@ date: '2008-02-18T08:45:41-05:00'
 draft: false
 title: "EQ2: Epic Harvesting! Woohoo!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/18/eq2-epic-harvesting-woohoo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In the Temple of the White Lady, deep within the burning spires of Skyfire Mountains, dodging psychopathic cannibalistic yeti giants. seeking the mythical Flame of..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-16-22-24-20-70.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-16-22-24-20-70.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-16-22-24-20-70.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-16-22-24-20-70.jpg"
 ---
+In the Temple of the White Lady, deep within the burning spires of Skyfire Mountains, dodging psychopathic cannibalistic yeti giants. seeking the mythical Flame of...
+<!--more-->
 
-![everquest2-2008-02-16-22-24-20-70.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-16-22-24-20-70.jpg)
+
 
 In the Temple of the White Lady, deep within the burning spires of Skyfire Mountains, dodging psychopathic cannibalistic yeti giants. seeking the mythical Flame of Yore.
 
@@ -44,7 +21,7 @@ In the Temple of the White Lady, deep within the burning spires of Skyfire Mount
 
 I guess Dina-harvested Xegonite is better than someone-else-harvested Xegonite. So I sold my xegonites to a guildy for less than I had paid, and headed to Tenebrous Tangle to get with the harvesting.
 
-![everquest2-2008-02-17-00-18-07-13.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-17-00-18-07-13.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-17-00-18-07-13.jpg" classes="center" >}}
 
 So the FIRST night, I ran in circles around the stonesetter house on the temple island. Half the time spent harvesting, the other half spent watching other people STEAL MY HARVESTS!!!
 
@@ -62,7 +39,7 @@ When you run around a place for several hours, it becomes a game by itself. So I
 
 After last night's raid, I went back to my spot and within an hour, got my last Xegonite, and headed back to the Temple of the White Lady to feed the flame ***MY*** Xegonite.
 
-![everquest2-2008-02-18-00-35-12-89.jpg](https://chasingdings.com/wp-content/uploads/2008/02/everquest2-2008-02-18-00-35-12-89.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/everquest2-2008-02-18-00-35-12-89.jpg" classes="center" >}}
 
 The spirit wanted to know my business with it. I chose "I do not need anything. I just like wasting xegonite. Bye."
 

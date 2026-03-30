@@ -3,44 +3,22 @@ date: '2009-01-18T09:26:40-05:00'
 draft: false
 title: "EQ2: My Nexona"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/01/18/eq2-my-nexona/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Hey we're gonna quickly run, quickly run..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "My Sharona"
   - "Nexona"
   - "The Knack"
   - "Veeshan's Peak"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-17-21-58-51-67.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-17-21-58-51-67.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-17-21-58-51-67.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-17-21-58-51-67.jpg"
 ---
+Hey we're gonna quickly run, quickly run...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-17-21-58-51-67.jpg "everquest2-2009-01-17-21-58-51-67")
+
 
 Hey we're gonna quickly run, quickly run
 

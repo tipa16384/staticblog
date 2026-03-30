@@ -3,41 +3,16 @@ date: '2008-06-06T15:19:22-05:00'
 draft: false
 title: "Bloggers of ye elder games, WRU?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/06/bloggers-of-ye-elder-games-wru/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't know how many people come looking for EverQuest blogs, but there are darn few in the blogosphere that actually cover events in EQ..."
+categories:
   - "Dark Ages of Camelot"
   - "EverQuest"
   - "Final Fantasy"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I don't know how many people come looking for EverQuest blogs, but there are darn few in the blogosphere that actually cover events in EQ...
+<!--more-->
 
 I don't know how many people come looking for EverQuest blogs, but there are darn few in the blogosphere that actually cover events in EQ from a player's perspective. Aside from those bloggers in Nostalgia, and the occasional EQ-oriented post from Loral at Mobhunter.com, I can't find any.
 

@@ -3,37 +3,12 @@ date: '2008-02-12T10:11:30-05:00'
 draft: false
 title: "Jean Shepherd's WOR radio hours"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/12/jean-shepherds-wor-radio-hours/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I was a kid growing up in New Hampshire, there was this show on PBS called \"Jean Shepherd's America\", which was this guy's \"Travels..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+When I was a kid growing up in New Hampshire, there was this show on PBS called "Jean Shepherd's America", which was this guy's "Travels...
+<!--more-->
 
 When I was a kid growing up in New Hampshire, there was this show on PBS called "Jean Shepherd's America", which was this guy's "Travels with Charlie"-esque journey through contemporary 70's America.
 

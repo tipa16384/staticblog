@@ -3,26 +3,11 @@ date: '2009-02-28T11:08:00-05:00'
 draft: false
 title: "Spellborn Developer Chat transcript, Part 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/28/spellborn-developer-chat-transcript-part-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This is a transcript of the first half of the Acclaim Spellborn developer chat. The first half, as in, I typed until my fingers could..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Acclaim"
   - "David Perry"
   - "Developer Chat"
@@ -30,20 +15,13 @@ tags:
   - "Historian"
   - "Howard Marks"
   - "Transcript"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg"
 ---
+This is a transcript of the first half of the Acclaim Spellborn developer chat. The first half, as in, I typed until my fingers could...
+<!--more-->
 
-![sb_client-2009-01-02-00-54-38-24](https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-01-02-00-54-38-24.jpg "sb_client-2009-01-02-00-54-38-24")
+
 
 This is a transcript of the first half of the Acclaim Spellborn developer chat. The first half, as in, I typed until my fingers could type no more -- and I was just halfway through. Even in the first half, though, many exciting topics come up.
 

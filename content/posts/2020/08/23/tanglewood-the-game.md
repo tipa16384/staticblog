@@ -3,43 +3,21 @@ date: '2020-08-23T17:43:32-05:00'
 draft: false
 title: "Tanglewood: the Game."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/23/tanglewood-the-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After I posted today's Blaugust prompts, especially the bit about the origin of most of my characters' last name, \"Tanglewood\", Bhagpuss commented that there was..."
+categories:
   - "Steam Games"
+tags:
   - "Platformer"
   - "Steam"
   - "Tanglewood"
   - "What Does the Fox Say"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/tanglewd_win_64-2020-08-23-15-02-49-65.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/tanglewd_win_64-2020-08-23-15-02-49-65.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/tanglewd_win_64-2020-08-23-15-02-49-65.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/tanglewd_win_64-2020-08-23-15-02-49-65.jpg"
 ---
+After I posted today's Blaugust prompts, especially the bit about the origin of most of my characters' last name, "Tanglewood", Bhagpuss commented that there was...
+<!--more-->
 
-After I posted [today's Blaugust prompts](https://chasingdings.com/?p=784), especially the bit about the origin of most of my characters' last name, "Tanglewood", [Bhagpuss commented](https://chasingdings.com/?p=784#comment-783) that there was actually a *game* by that name, back awhile ago.
+After I posted [today's Blaugust prompts](https://tipa16384.github.io/wkblog/?p=784), especially the bit about the origin of most of my characters' last name, "Tanglewood", [Bhagpuss commented](https://tipa16384.github.io/wkblog/?p=784#comment-783) that there was actually a *game* by that name, back awhile ago.
 
 I had absolutely no idea. It was kind of funny that he'd also considered "Tanglewood" as the name of his druid.
 
@@ -47,7 +25,7 @@ The 80s-era game was for the Amiga and the Atari ST, and looked like a pretty st
 
 Anyway, turns out that a there is an entirely different game by this same title that was [Kickstarted just a couple years ago](https://www.kickstarter.com/projects/bigevilcorporation/tanglewood-an-original-game-for-the-sega-genesis-m). This game was shipped as a new, physical cartridge for the Sega Genesis Mega Drive, for those people who still had one of those laying around and were desperate for more games to play on it.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-tanglewd_win_64-2020-08-23-16-00-14-00.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-tanglewd_win_64-2020-08-23-16-00-14-00.jpg" classes="center" >}}
 
 They also ported the game to Windows, Linux and Mac OS. They also planned to port it to the Dreamcast, for some reason. The [demo is available on Steam](https://store.steampowered.com/app/837190/TANGLEWOOD/), so of course I just had to download it and see how it played.
 
@@ -55,7 +33,7 @@ In Tanglewood, you play as a young, fox-like creature named "Nymn". You've becom
 
 There's no time limit or lives; each level can take as long as you like to solve, and if you decide to stop for a nap, most likely you'll be fine.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-tanglewd_win_64-2020-08-23-15-29-02-25-300x300.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-tanglewd_win_64-2020-08-23-15-29-02-25-300x300.jpg" classes="center" >}}
 
 All is not fireflies and flowers in the forest, though. Once night falls, various terrors will roam, and if they touch you, you will fail and be forced to restart from your last checkpoint.
 
@@ -67,7 +45,7 @@ When that fails, or you find yourself unable to progress, you'll have to find a 
 
 Stopping time is useful for sneaking up to the big brutes and jumping away while they are powerless to kill you. Mind control lets you ride the big brutes for a few seconds, but you'd better have a plan for when it wears off.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/1-tanglewd_win_64-2020-08-23-15-45-42-09-300x300.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/1-tanglewd_win_64-2020-08-23-15-45-42-09-300x300.jpg" classes="center" >}}
 
 I like the game's slow pace and lack of urgency. If you just simply take your hands off the controller, Nymn will eventually just curl up and go to sleep where she stands. This won't progress the time to morning for you, though. The only way to progress time is to pass checkpoints.
 

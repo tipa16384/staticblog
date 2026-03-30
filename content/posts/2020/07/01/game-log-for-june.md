@@ -3,45 +3,23 @@ date: '2020-07-01T12:35:25-05:00'
 draft: false
 title: "Game Log for June"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/07/01/game-log-for-june/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "June hasn't been the best month for gaming. Tom and I are ramping up our 3D printing, and working on that sort of stuff is..."
+categories:
   - "EverQuest"
   - "Gloomhaven"
   - "MMORPG"
   - "PS4"
   - "Steam Games"
   - "Tabletop Games"
+tags:
   - "Chocobo Mystery Dungeon"
   - "Death Stranding"
   - "The Witcher"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200630210621.jpg"
 ---
+June hasn't been the best month for gaming. Tom and I are ramping up our 3D printing, and working on that sort of stuff is...
+<!--more-->
 
 June hasn't been the best month for gaming. Tom and I are ramping up our 3D printing, and working on that sort of stuff is taking more and more of our time. I hope it's worth it. I have a severe backlog of minis to paint -- I have to finish the Gloomhaven PC minis, I have an army of vermlings and cultists to paint for the first few Jaws of the Lions scenarios, some snakes... Plus printing the terrain tiles.
 
@@ -49,13 +27,13 @@ June hasn't been the best month for gaming. Tom and I are ramping up our 3D prin
 
 This has become my go-to game when I only have a few minutes to play. It's easy drop in and drop out gaming, and so, weirdly, it's the game I have been playing most often lately. I'm currently in the Dark Dungeon, which, I believe, is the final story dungeon (although there may be one more to wrap up Croma's story). After that is the end-game, where the challenge becomes brutal. I think it's safe to say that everything up to that point is just an extended opening story :-)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/DEATH-STRANDING_20191129163005-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/DEATH-STRANDING_20191129163005-1024x576.jpg" classes="center" >}}
 
 ## Death Stranding
 
 I didn't actually play Death Stranding last month. I came across some of the old screenshots while getting the Chocobo screenshots off the PS4 and got nostalgic. I really liked Death Stranding.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/1-streaming_client-2020-07-01-08-13-58-08.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/1-streaming_client-2020-07-01-08-13-58-08.jpg" classes="center" >}}
 
 ## Gloomhaven: The Video Game
 
@@ -65,7 +43,7 @@ If you have any interest in Gloomhaven, or are a player, it's worth getting.
 
 That screenshot? That's what I'm trying to build in real life.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/1-Fullscreen-capture-712020-82230-AM.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/1-Fullscreen-capture-712020-82230-AM.jpg" classes="center" >}}
 
 ## Final Fantasy XIV
 

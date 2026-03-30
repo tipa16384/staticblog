@@ -3,44 +3,22 @@ date: '2008-10-18T10:32:57-05:00'
 draft: false
 title: "EQ: Burning in the Plane of Fire"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/18/eq-burning-in-the-plane-of-fire/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Doomfire, the Burning Lands..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Doomfire"
   - "Plane of Fire"
   - "The Burning Lands"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/planeoffirenotitle.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/planeoffirenotitle.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/planeoffirenotitle.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/planeoffirenotitle.jpg"
 ---
+Doomfire, the Burning Lands...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/planeoffirenotitle.jpg "planeoffirenotitle")
+
 
 *Doomfire, the Burning Lands*
 
@@ -48,13 +26,13 @@ Last night was another light night; by seven, there were only four of us on: Sto
 
 Kanad asked me if I had Endless Quiver, the ranger ability that gives you an unending supply of arrows. I did! It was the first Class AA I got, actually. So he suggested we try out kiting in the Plane of Fire.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-18-08-33-02-86.jpg "eqgame-2008-10-18-08-33-02-86")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-18-08-33-02-86.jpg" title="eqgame-2008-10-18-08-33-02-86" classes="center" >}}
 
 *The wardens who guard the portal to the Plane of Fire*
 
 Could I even zone in? Traditionally, access to the Plane of Fire was achieved only by completing all the raids up to and including the raid on the Tower of Solusek Ro, which would drop you into the Plane of Fire after you killed the Burning Prince himself.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-18-09-43-57-44.jpg "eqgame-2008-10-18-09-43-57-44")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-18-09-43-57-44.jpg" title="eqgame-2008-10-18-09-43-57-44" classes="center" >}}
 
 *The Fennin Ro shield, one quarter of the Key of Time*Later on, you could get permanent access to PoF -- one of the two best AA xp spots in the entire Planes of Power expansion, the other being the Plane of Earth -- simply by hailing a spirit that appears after killing Fennin Ro, the ultimate boss of the plane, and receiving a shield called the Globe of Dancing Flame from it. The spirit would only give out 40 shields, but you'd get everyone their shield after the first couple of times killing him. His loot was good enough that you would want to farm him for awhile as part of the gear-up to the Plane of Time. After all the mains were flagged, people would use the "5 out of 6" rule -- for every five flagged character, you could bring in one unflagged character -- to bring in their alts to grab the shield and get instantly flagged for the Plane of Fire, as if they had done all the pre-requisite raids.
 
@@ -72,7 +50,7 @@ Mmmm.... pet weapon :) Procs a wolf!
 
 Well, Kanad was happy we could group in PoF if we wanted, but kinda pissed (I thought) that SOE had done away with all the flagging requirements for the zone. He'd done the raiding, he got the flag legit, and now some still wet behind the ears newbie carpetbaggers were going to be able to come right in and stink up the joint.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-17-22-48-42-79.jpg "eqgame-2008-10-17-22-48-42-79")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-17-22-48-42-79.jpg" title="eqgame-2008-10-17-22-48-42-79" classes="center" >}}
 
 And that was our night. I'd pull un-snareable mobs, and we'd all madly dash back and forth trying to not die. Well, most were snareable, but it was the ones that couldn't be snared that were the MOST fun. We all turned our regular experience back on, because the goal right now is to level to 65 and start terrorizing the Bastion of Thunder. All of us dinged to level 61 during the night, so our inevitable rise to power has begun.
 

@@ -3,41 +3,18 @@ date: '2012-10-17T23:43:44-05:00'
 draft: false
 title: "Game Log: Castle Story, Diablo 3"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/17/game-log-castle-story-diablo-3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When Sauropod was hawking their Kickstarter for RTS/Minecraft hybrid Castle Story, they promised that backers past a certain tier would get access to the very..."
+categories:
   - "Castle Story"
   - "Diablo 3"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg"
 ---
+When Sauropod was hawking their Kickstarter for RTS/Minecraft hybrid Castle Story, they promised that backers past a certain tier would get access to the very...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Castle-Story-Prototype-2012-10-17-23-46-33-27-480x269.jpg" title="Castle Story Prototype" class="align-center" >}}
+
 
 When Sauropod was hawking their [Kickstarter for RTS/Minecraft hybrid Castle Story](http://www.kickstarter.com/projects/902505202/castle-story), they promised that backers past a certain tier would get access to the very prototype they were using in the demo. Today they sent out the prototype, with the warning that the game probably wouldn't be really playable or anything in this primal state.
 
@@ -51,7 +28,7 @@ Hoping Sauropod doesn't fall into that trap. I hope, for all the Kickstarter gam
 
 Finish. The. Game.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-17-22-17-32-35.jpg "Diablo III")](https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-17-22-17-32-35.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-17-22-17-32-35.jpg" title="Diablo III" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-17-22-17-32-35.jpg)
 
 So yesterday, I couldn't find the Monster Power drop down, even though I looked where they said. Rereading the patch notes, I should be able to set monster power no matter what level I am. So I did some poking around and found out I had to turn the feature on in options. Which I did.
 

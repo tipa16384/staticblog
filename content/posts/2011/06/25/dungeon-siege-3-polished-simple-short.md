@@ -3,50 +3,27 @@ date: '2011-06-25T19:59:01-05:00'
 draft: false
 title: "Dungeon Siege 3: Polished, Simple, Short"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/06/25/dungeon-siege-3-polished-simple-short/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "At a certain point in Dungeon Siege 3, you come across a dead mule. Tired, beaten and worn, it finally collapsed under the weight of..."
+categories:
   - "Dungeon Siege"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg"
 ---
+At a certain point in Dungeon Siege 3, you come across a dead mule. Tired, beaten and worn, it finally collapsed under the weight of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-24-22-37-50-06.jpg" title="It's a Mule's Life" class="align-center" >}}
+
 
 At a certain point in Dungeon Siege 3, you come across a dead mule. Tired, beaten and worn, it finally collapsed under the weight of heavy armor and weapons loaded onto it by cruel adventurers. In Dungeon Siege, earning the gold to buy a mule was a game-changer, allowing you to finally carry enough junk back to a merchant to earn gold for the good stuff. In Dungeon Siege 2, the mule could become a full member of your party, gaining levels and putting up as good a fight as any elf or human.
 
 In Dungeon Siege 3, the mule is dead. There's no room for him in your party, which can only comprise two people, your character and one of the other three children of the Legion -- the Fighting Tenth Legion, that is. (In multiplayer, you can have up to three friends join in your game).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-25-19-42-17-50.jpg" title="Lucas" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/Dungeon-Siege-III-2011-06-25-19-42-17-50.jpg" title="Lucas" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-25-19-29-21-89.jpg" title="Reinhard" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/Dungeon-Siege-III-2011-06-25-19-29-21-89.jpg" title="Reinhard" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-25-17-55-48-52.jpg" title="Anjari" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/Dungeon-Siege-III-2011-06-25-17-55-48-52.jpg" title="Anjari" classes="center" >}}
 
 It's thirty years after ~~Jane~~ Jayne Kassynder, certain the powerful 10th Legion had betrayed and killed the old High King, rebelled against the crown and the legion, leaving the legion all but destroyed and the land decimated. After decades building an army in the East, she has returned to finish the last remnants of the Legion -- that's you -- and usurp the throne to set herself up as queen of all the lands.
 
@@ -54,13 +31,13 @@ You are one of the children of the 10th Legion -- Katarina, a halfbreed gunsling
 
 It's a cool story, a real page turner, and I played right through the game as Katarina in three long sessions (Steam says 17 hours, but I did replay the parts near the end with each companion to see how things changed).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-25-17-46-56-44.jpg" title="A Boss" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/Dungeon-Siege-III-2011-06-25-17-46-56-44.jpg" title="A Boss" classes="center" >}}
 
 I played on Normal difficulty, which was a decent challenge until one of the helpful tooltips reminded me that I couldn't be hurt while tumbling. After that, I'd kite stuff around invulnerably while my companion did damage, stopping when the companion got aggro to lay down some withering covering fire. Boss fights may have gotten long -- the fight against the Dapper Old Gent seemed to go on and on -- but there was never any doubt I'd win. I even trained up an ability to do damage to creatures while tumbling around. The final battle saw me just rolling around the entire battlefield, bulldozing through enemies (and killing them!) like some sort of deadly armadillo.
 
 In Dungeon Siege 2, you'd need certain NPCs in your party at times to do things only they could do. In DS3, there's no fight you can't do with the companion of your choice, but it quickly becomes clear that there's a secondary plot that revolves around one of the character choices -- Anjari, the archon. Since I wasn't playing her, that meant potentially missing some plot development centered on her unless she was in my party. The resolution of the plot is significantly expanded if Anjari is present.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/Dungeon-Siege-III-2011-06-25-17-32-48-64.jpg" title="Anjari, Martel and Katarina" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/Dungeon-Siege-III-2011-06-25-17-32-48-64.jpg" title="Anjari, Martel and Katarina" classes="center" >}}
 
 I found Dungeon Siege, the first, fairly difficult only because I found it impossible, at times, to know where I was or where I was going. In Dungeon Siege 3, an optional glowing trail leads you, MMO-like, to your next quest objective, so that is never an issue.
 
@@ -68,7 +45,7 @@ Both DS1 and DS2 let you build a four person party (or three person and a mule) 
 
 I haven't tried multiplayer, but the multiplayer achievements on Steam give a sense for what's possible. NPC interaction is done with every character, who appear to vote on the party response. There's achievement for all agreeing and all disagreeing, and another one for finishing the game in a four person party. Each person takes on the role of one of the four companions, no dupes. As [Penny Arcade pointed out](http://www.penny-arcade.com/comic/2011/6/22/), only the person whose game this is is getting loot and xp, everyone else is just part of their world.
 
-{{< figure src="http://art.penny-arcade.com/photos/i-B2C3Rr8/0/L/i-B2C3Rr8-L.jpg" title="Co-Opt" class="align-center" >}}
+{{< image src="http://art.penny-arcade.com/photos/i-B2C3Rr8/0/L/i-B2C3Rr8-L.jpg" title="Co-Opt" classes="center" >}}
 
 That's not necessarily a problem if everyone is on board with playing together.
 

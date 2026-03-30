@@ -3,50 +3,28 @@ date: '2020-09-21T07:00:00-05:00'
 draft: false
 title: "Banner of the Maid: Final Thoughts"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/21/banner-of-the-maid-final-thoughts/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Banner of the Maid has been my constant gaming companion over the past several weeks. In short, Banner of the Maid takes place in an..."
+categories:
   - "Nintendo Switch"
   - "Steam Games"
   - "Switch"
   - "Tactical RPG"
+tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Switch Tax"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017453800-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 ---
+Banner of the Maid has been my constant gaming companion over the past several weeks. In short, Banner of the Maid takes place in an...
+<!--more-->
 
 Banner of the Maid has been my constant gaming companion over the past several weeks. In short, Banner of the Maid takes place in an alternate fantasy version of the French Revolution. Napoleon has fended off a British incursion and is now in Italy fighting against an Austrian invasion.
 
 Almost all the important NPCs existed in our reality, but in the game reality, there are the Maids -- heroes imbued with divine powers whose powers arise when France needs them. The first, most famous Maid was Jean D'Arc. With France consumed by revolution, new maids have arisen.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020091723071600-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" title="Pauline Bonaparte" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091723071600-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" title="Pauline Bonaparte" classes="center" >}}
 
 Chief among them is Pauline Bonaparte, sister to Napoleon and closely associated with the future Empress, Josephine, of the Château de Malmaison, a high society faction in revolutionary Paris. This association allows Pauline to mingle with the various Parisian factions without becoming so associated with one or another that her ability to fight for all of France is imperiled.
 
@@ -56,17 +34,17 @@ This eventually becomes impossible -- King Louis XVI is beheaded, Queen Marie an
 
 That's where we left off in the last post.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020091721583700-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091721583700-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 Under the cover of night, Pauline crept into the famous Parisian sewers and met Leclerc, who opted to join her cause rather than continue to support the monarchists and bandits who called the sewers their home.
 
 Leclerc would find himself the sacrificial lamb for many battles to come, as I'd gotten tired of grinding levels on new recruits and had decided to just push forward with those that had already reached the max level of 30.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020091907542900-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091907542900-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 Pauline needed to get to the military school to access necessary supplies; luckily they had the use of the very hot air balloon that Pauline and Desaix had used to escape a high society party turned deadly.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020091919524100-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091919524100-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 Once there, we found the Marquis de Lafayette -- the very same that was such a great friend to Alexander Hamilton during the American Revolution. Unfortunately, he has been entranced by the Queen, her power now revealed to all. His former aide, Charlotte, tries to remind him of his greater loyalty to France and the revolution while Pauline desperately tries to get through his forces and use her power to overwhelm the Queen's and awaken Lafayette.
 
@@ -76,13 +54,13 @@ Charlotte was in no way able to kill him first, but she had bread for health and
 
 I'd thought I'd had plenty of time to focus on secondary objectives. I was entirely unready to find out I had to complete the battle in just two or three turns.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020092015335200-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020092015335200-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 With Lafayette once again on our side, we rushed outside Paris to try the to awaken one of the Queen's other victims, General Rose. She'd seemed to take our protestations seriously before, but her loyalty to the crown runs deep.
 
 We defeated her armies and convinced her that we had no ill feelings toward the monarchists themselves, just to the cursed power wielded by the queen, the power of the blue diamond.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020092016344100-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020092016344100-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 Rose joins us in the final fight against the Queen. Her power broken, she has put all her hopes on the blue diamond, which has the power to stun, confuse and weaken our entire army, at the cost of her own health. We suffer through this power once, then Pauline uses her own Maid abilities to take control of the blue diamond and power up her own Maid ability, the divine ability to inspire her allies to amazing feats of martial ability. We are untroubled by the blue diamond after that.
 
@@ -90,13 +68,13 @@ Long time gadfly Nivernais waits for us at the gates to the palace. We quickly d
 
 We fight briefly, but drained by the blue diamond, the queen slumps to the ground and dies. Pauline, similarly drained, also falls unconscious.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020092017452400-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017452400-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 When she awakes after many days, she finds her brother Napoleon has returned to Paris, and needs her help to defeat the commanders of the British-Austrian coalition army that now seeks to take Paris.
 
 Napoleon takes command of half of Pauline's army, while she takes the other half and together flank the forces of the enemy and permanently defeat Generals Anne, Bridget and Leonore. The fight will continue, but this is the end of Pauline's story -- for now.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020092017461400-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020092017461400-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 Since I'd restarted the game in "Story" mode after bad decisions had made it impossible for me to continue with the "Normal" mode, I actually can't continue with a NG+. I'd have to replay the game on Normal mode to unlock the NG+.
 

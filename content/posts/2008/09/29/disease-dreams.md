@@ -3,37 +3,12 @@ date: '2008-09-29T08:18:27-05:00'
 draft: false
 title: "Disease dreams"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/29/disease-dreams/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Whatever was sneaking up on me Friday turned into full-blown influenza Sunday morning. I've been spending my time alternately dreaming and hallucinating; I'm not sure..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Whatever was sneaking up on me Friday turned into full-blown influenza Sunday morning. I've been spending my time alternately dreaming and hallucinating; I'm not sure...
+<!--more-->
 
 Whatever was sneaking up on me Friday turned into full-blown influenza Sunday morning. I've been spending my time alternately dreaming and hallucinating; I'm not sure which I'm typing this in. I want to sit up but can only do it in five minute stretches.
 

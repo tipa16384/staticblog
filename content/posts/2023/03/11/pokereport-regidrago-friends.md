@@ -3,38 +3,17 @@ date: '2023-03-11T15:56:46-05:00'
 draft: false
 title: "PokeReport: Regidrago & Friends"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/03/11/pokereport-regidrago-friends/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
+summary: "So, it's been a busy month in Pokémon since the last post. I finished Pokémon Shield -- loved it, have started on Pokemon Violet, and..."
+categories:
+  - "Pokemon"
 tags:
   - "Pokemon"
   - "Raiding"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/03/1-snapedit_1678565419578.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/03/1-snapedit_1678565419578.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/03/1-snapedit_1678565419578.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/03/1-snapedit_1678565419578.jpg"
 ---
+So, it's been a busy month in Pokémon since the last post. I finished Pokémon Shield -- loved it, have started on Pokemon Violet, and...
+<!--more-->
 
 So, it's been a busy month in Pokémon since the last post. I finished Pokémon Shield -- loved it, have started on Pokemon Violet, and things have progressed somewhat in Pokémon Go. I haven't met Giovanni again, yet. So, I don't know what he has for me when he does crawl out of whatever hole he's dug.
 
@@ -44,7 +23,7 @@ In this "season" of Pokémon Go, Niantic is trying to get people to meet up in p
 
 After the Noibat community day, they had Noibat raids appear. In person *only*, no remote raiding, and this has made people pretty upset. Especially those who live far away from city centers, or are disabled, or for some other reason (avoiding COVID, perhaps?) just preferring to play from home.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/03/IMG_3520_1-1024x768.png" title="Trainers in trainers" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/03/IMG_3520_1-1024x768.png" title="Trainers in trainers" classes="center" >}}
 
 If you are my friend on Pokémon Go, you know Charter Oak Park well from the postcards I've sent you. It is about a hundred feet from my house, and I try to go spinning the dozen or so Pokestops in the park at least a few times a week. I'd never met most of the people in the photo above in person before, but I knew them from their avatars and the Pokémon that they leave in the park gyms. There was a lot of mutual friend-making going on prior to the raid. And some people say that your kids are your best friends. My son, who is in the picture (guess which one) is my ULTRA-friend. Other moms, you'll never match this.
 
@@ -52,7 +31,7 @@ The reason we're all gathered here today is to take on Regidrago, one of the "Re
 
 Registeel, Ice and Rock showed up in normal raids. Today's Regidrago and the coming Regielectri are elite raids. They cannot be raided remotely; you have to be there. Legions of Pokémon Go trainers have been scanning their local gyms in order to make them into Elite gyms. I must have scanned the White Oak gym a dozen times by now -- and it has become an Elite gym, where elite raids happen.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/03/regidrago.png" title="Regidrago raid" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/03/regidrago.png" title="Regidrago raid" classes="center" >}}
 
 We met, and friended. One of the trainers tried to coordinate us so that we wouldn't all pile in and crash the raid, but that happened anyway, and all the careful separating of people so that they would be playing with their best friends and thereby getting bonuses was for nothing. Once we all rebooted the app and waited a few minutes, we were able to get in and take down the Regidrago. Mine wasn't anything special.
 

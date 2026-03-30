@@ -3,40 +3,17 @@ date: '2015-11-23T12:28:57-05:00'
 draft: false
 title: "Shroud of the Avatar: Choosing Fate"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/11/23/shroud-of-the-avatar-choosing-fate/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Peaked into Shroud of the Avatar again yesterday. This is Richard \"Lord British\" Garriott's MMO-in-development that brings the morality-based gameplay of his Ultima RPG into..."
+categories:
   - "MMORPG"
   - "Shroud of the Avatar"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/Shroud-of-the-Avatar-2015-11-22-15-33-24-76.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/11/Shroud-of-the-Avatar-2015-11-22-15-33-24-76.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/Shroud-of-the-Avatar-2015-11-22-15-33-24-76.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/Shroud-of-the-Avatar-2015-11-22-15-33-24-76.jpg"
 ---
+Peaked into Shroud of the Avatar again yesterday. This is Richard "Lord British" Garriott's MMO-in-development that brings the morality-based gameplay of his Ultima RPG into...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/Shroud-of-the-Avatar-2015-11-22-15-33-24-76.jpg" title="Outside of space, outside of time" class="align-center" >}}
+
 
 Peaked into Shroud of the Avatar again yesterday. This is Richard "Lord British" Garriott's MMO-in-development that brings the morality-based gameplay of his Ultima RPG into a more modern incarnation. I backed this on [Kickstarter](https://www.kickstarter.com/projects/portalarium/shroud-of-the-avatar-forsaken-virtues-0) about two and a half years ago, and have been checking into the alpha and beta releases on a regular basis since they started becoming available. Not EVERY one... but often enough.
 
@@ -44,7 +21,7 @@ The last time I played, they didn't have any of the single-player options active
 
 I would have LOVED THIS in EverQuest. I chose the single player, online mode just to see what adventure in a world of ghosts might bring.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/1-Shroud-of-the-Avatar-2015-11-22-15-31-57-60.jpg" title="Choosing my path" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/1-Shroud-of-the-Avatar-2015-11-22-15-31-57-60.jpg" title="Choosing my path" classes="center" >}}
 
 Before I could be set upon my destined path, I would have to have my morality checked. I answered as honestly as I could. The game decided that I would be an Avatar of Truth, an arcane mage. A firestarter. Not what I would have chosen, but...
 
@@ -58,7 +35,7 @@ Hah. That ain't happening.
 
 (Note: I double checked, and the Kickstarter tier I backed did not include a home. Not sure why I thought I had one.)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/1-Shroud-of-the-Avatar-2015-11-22-16-58-41-99.jpg" title="In town! Finally." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/1-Shroud-of-the-Avatar-2015-11-22-16-58-41-99.jpg" title="In town! Finally." classes="center" >}}
 
 It had taken me longer than I'd hoped to find the single item in the ruined village to give to the looter, and longer than I expected to explore the far side of the gate and find the boat that would sail me out of the tutorial. I'd run out of time for the night and had no time left to actually play the game. I had wanted to see if the overworld random encounters were still around; those were a lot of fun, the last time I played.
 

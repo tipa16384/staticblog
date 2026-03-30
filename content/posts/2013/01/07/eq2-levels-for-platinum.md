@@ -3,40 +3,17 @@ date: '2013-01-07T08:01:02-05:00'
 draft: false
 title: "EQ2: Levels for Platinum"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/01/07/eq2-levels-for-platinum/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "How the heck, you might ask, is a solo Arasai assassin in her 60s, no mercenary, no mentor, hitting dozens of at-level mobs while tanking..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-06-17-47-31-84-480x351.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-06-17-47-31-84-480x351.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-06-17-47-31-84-480x351.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-06-17-47-31-84-480x351.jpg"
 ---
+How the heck, you might ask, is a solo Arasai assassin in her 60s, no mercenary, no mentor, hitting dozens of at-level mobs while tanking...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-06-17-47-31-84-480x351.jpg" title="\"DM PLing\"" class="align-center" >}}
+
 
 How the heck, you might ask, is a solo Arasai assassin in her 60s, no mercenary, no mentor, hitting dozens of at-level mobs while tanking thousands of points of damage and being continually self-healed?
 
@@ -50,7 +27,7 @@ I've played through a couple of those. But since you can get experience in these
 
 The powerlevelers started leaving behind their open dungeons, moved right into DM dungeons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-06-21-18-25-04-480x343.jpg" title="Brightknife, the DM PL'd" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-06-21-18-25-04-480x343.jpg" title="Brightknife, the DM PL'd" classes="center" >}}
 
 The third part to the puzzle came with the Chains of Eternity expansion. CoE introduced "Tradeskill Prestige" abilities, which allow max level crafters to enjoy a variety of new abilities, such as an innate "salvage" to recover rare crafting components from no-trade gear, mass production to craft up to 20 items at once, and "experimentation", to add stats and procs to crafted armor, jewelry and weapons.
 
@@ -64,7 +41,7 @@ Then I sent Brightknife into some DM dungeons... alone. I'd been leveling her fa
 
 In the new EQ2, people start playing their characters at 90 -- or even PL straight to 95 and start their career there. As fast as I did solo DMs, in a group, led by a maxed out character, levels come even faster.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-05-16-12-56-95-480x299.jpg" title="My inquisitor Dera (Arda) in a totally legit Unrest group" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-05-16-12-56-95-480x299.jpg" title="My inquisitor Dera (Arda) in a totally legit Unrest group" classes="center" >}}
 
 Just include this picture to show that there are people still doing regular groups. Dera is my armorer; I was making armor for Brightknife when I read someone trying to put together an Unrest group. Though Dera is 80, I mentored down and healed for the group and had a lot of fun. Even dinged 81, totally legit. Dera has never been PL'd, but probably will be soon.
 

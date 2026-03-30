@@ -3,41 +3,19 @@ date: '2008-08-16T16:48:21-05:00'
 draft: false
 title: "More on the Fan Faire"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/16/more-on-the-fan-faire/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "On the way to the EQ2 expansion panel, stopped by the room to upload some pics...."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Fan Faire"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/image66-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/image66-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image66-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image66-1.jpg"
 ---
+On the way to the EQ2 expansion panel, stopped by the room to upload some pics....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/image66-1.jpg "image66-1")
+
 
 On the way to the EQ2 expansion panel, stopped by the room to upload some pics.
 

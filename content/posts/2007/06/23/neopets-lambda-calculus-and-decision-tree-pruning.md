@@ -3,37 +3,14 @@ date: '2007-06-23T01:44:47-05:00'
 draft: false
 title: "Neopets, Lambda Calculus and Decision Tree Pruning"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/06/23/neopets-lambda-calculus-and-decision-tree-pruning/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "\"What has she been working on?\" you might well ask. \"All this raiding, all these long long long comments on everyone else's blogs but precious..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/shifter.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/06/shifter.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/shifter.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/shifter.gif"
 ---
+"What has she been working on?" you might well ask. "All this raiding, all these long long long comments on everyone else's blogs but precious...
+<!--more-->
 
 "What has she been working on?" you might well ask. "All this raiding, all these long long long comments on everyone else's blogs but precious little here?"
 
@@ -45,13 +22,11 @@ I'll be working on that later. The ticket to entry to the adult tier is software
 
 One game in particular is nearly impossible to do without a computer, and that's the one that's been taking my time. This is a "game" which gets exponentially harder (literally) each level.
 
-![shifter.gif](https://chasingdings.com/wp-content/uploads/2007/06/shifter.gif)
-
 It's very simple. You have a grid containing from two to three (so far) kinds of shapes, and up to twenty or so variously shaped pieces. Placing a piece on the board changes all the squares under it to the next shape up. You must use all the shapes, you must place them in order, and in the end, every square must show the "goal" piece.
 
 Brute force worked up until about level 21, when they introduced a larger board. I rewrote my program to use bitfields instead of relatively slow arrays, and then at 25, they moved to three value squares instead of the old two value ones. So bits wouldn't work. I then generalized my program to dynamically create a function to kick a square to its next state based on the number of states... and here it is. This function generator was itself partially written by another program using a very simple genetic algorithm, just as an exercise to see what kind of function a computer would write (the weird formulas for case 2 through 4 are the result. No human wrote those!). I had actually written a general solution for any value, but kept the computer's because they looked quirky. All code is written in Python, which handles lambda functions very well -- it's one of the few languages which supports lambda calculus, which is (very basically) the mathematics of functions.
 
-![lambda.gif](https://chasingdings.com/wp-content/uploads/2007/06/lambda.gif)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/lambda.gif" classes="center" >}}
 
 This new code worked wonderfully, until level 31, when they returned to two value squares, but greatly extended the size of the board. This placed the solution space well out beyond any reasonable time to solve -- I modified the program to run in parallel and ran it on my Linux computer and one on each of the two cores of my laptop, went to bed, when I got up in the morning it had barely made any progress.
 

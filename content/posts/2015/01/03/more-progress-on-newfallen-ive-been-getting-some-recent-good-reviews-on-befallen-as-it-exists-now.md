@@ -3,39 +3,15 @@ date: '2015-01-03T02:22:26-05:00'
 draft: false
 title: "More progress on Newfallen."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/03/more-progress-on-newfallen-ive-been-getting-some-recent-good-reviews-on-befallen-as-it-exists-now/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "More progress on Newfallen. I've been getting some recent good reviews on Befallen as it exists now, which is puzzling. Maybe it's because I joined..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+More progress on Newfallen. I've been getting some recent good reviews on Befallen as it exists now, which is puzzling. Maybe it's because I joined...
+<!--more-->
 
 More progress on Newfallen. I've been getting some recent good reviews on Befallen as it exists now, which is puzzling. Maybe it's because I joined Scribe's Enclave. But it gives me pause about totally ripping out all the old stuff. I think people liked the adventuring party on the second level best, so I'll be sure to keep them.
 

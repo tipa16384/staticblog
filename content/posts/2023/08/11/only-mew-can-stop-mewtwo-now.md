@@ -3,41 +3,20 @@ date: '2023-08-11T07:00:00-05:00'
 draft: false
 title: "Only Mew can stop Mewtwo now..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/11/only-mew-can-stop-mewtwo-now/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Mewtwo is coming to Pokemon Scarlet and Violet in a 7 star Tera raid. I've had exactly zero luck winning any 7 star raids so far. This time, I plan to be prepared."
-description: "Mewtwo is coming to Pokemon Scarlet and Violet in a 7 star Tera raid. I've had exactly zero luck winning any 7 star raids so far. This time, I plan to be prepared."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
   - "Pokemon"
+tags:
   - "Mew"
   - "Mewtwo"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/mewtoo.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/mewtoo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Pokemon"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/mewtoo.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/mewtoo.png"
 ---
+Mewtwo is coming to Pokemon Scarlet and Violet in a 7 star Tera raid. I've had exactly zero luck winning any 7 star raids so far. This time, I plan to be prepared.
+<!--more-->
 
 Mewtwo is coming to Pokemon Scarlet and Violet in a 7 star Tera raid. I've had exactly zero luck winning any 7 star raids so far. This time, I plan to be prepared.
 
@@ -47,7 +26,7 @@ Mewtwo wasn't particularly special, but I lobbed my master ball at him and caugh
 
 I stopped playing very much after that. I still played the other Pokemon games, but Niantic was getting *just a little greedy* with their mobile app, and I felt I could get all the Pokemon fun I needed in Shield, Violet and Arceus. And I did.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/2023081022294300-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Mew in Pokemon Violet" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/2023081022294300-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Mew in Pokemon Violet" classes="center" >}}
 
 They're giving away a free Mew for the next couple of weeks in Pokemon Scarlet and Violet. They are doing that to give people enough time to train it up so that it can take on Mewtwo, who invades in a 7 star raid on the first of September.
 
@@ -55,7 +34,7 @@ Nobody knows exactly what he will be like, what attacks he'll use, or which Poke
 
 The webs are already theory crafting it. We know that Mew will need maxed out Special Attack and Special Defense, as Mewtwo is a Psychic attacker.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/2023081022300400-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Mew's moves and Effort Values (EVs)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/2023081022300400-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Mew's moves and Effort Values (EVs)" classes="center" >}}
 
 As can be seen above, I have a long way to go here. I used up all the Calciums and Genius Feathers I had, and have been killing Psyducks for some boosts, but it's clear there needs to be some grinding done. Six star raids give out bottle caps that can be turned in for some turbo charged EV raising, but I have not had a lot of luck with those.
 
@@ -65,7 +44,7 @@ Acid Spray lowers Mewtwo's resistance to special damage, and Nasty Plot raises M
 
 If Mew can last long enough to become Terrastized, it will become immune to most of what Mewtwo is likely to throw at it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/2023081022323400-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Picnic with my team -- Regidrago, Miraidon, Arceus, Cinderace, Mew, Iron Hands and Copperajah" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/2023081022323400-B6CE40797459B0890BF7CEF68A4CE587-1024x576.jpg" title="Picnic with my team -- Regidrago, Miraidon, Arceus, Cinderace, Mew, Iron Hands and Copperajah" classes="center" >}}
 
 So the plan for the next few weeks is just to work on the Special Attack and Special Defense. It's not world shaking to get Mewtwo, but I think it would be fun.
 

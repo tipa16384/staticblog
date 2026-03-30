@@ -3,39 +3,18 @@ date: '2007-01-06T12:08:59-05:00'
 draft: false
 title: "Five things you don't know about me..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/01/06/five-things-you-dont-know-about-me/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "MrrX tagged me for this (and also Amber... OOPS)... so here it goes... Five things about me you probably don't know......"
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/01/teddy.thumbnail.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/01/teddy.thumbnail.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/teddy.thumbnail.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/01/teddy.thumbnail.jpg"
 ---
+MrrX tagged me for this (and also Amber... OOPS)... so here it goes... Five things about me you probably don't know......
+<!--more-->
 
-![teddy.jpg](https://chasingdings.com/wp-content/uploads/2007/01/teddy.thumbnail.jpg) [MrrX](http://mrrx.wordpress.com/) [tagged me](http://mrrx.wordpress.com/2007/01/04/five-things-about-me/) for this (and also [Amber](http://ambernight.org/archives/2006/12/28/453)... OOPS)... so here it goes... Five things about me you probably don't know...
+
+
+[MrrX](http://mrrx.wordpress.com/) [tagged me](http://mrrx.wordpress.com/2007/01/04/five-things-about-me/) for this (and also [Amber](http://ambernight.org/archives/2006/12/28/453)... OOPS)... so here it goes... Five things about me you probably don't know...
 
 **I'm not a New Englander.** It's a big point with me that I grew up in Massachusetts and went to high school and college in New Hampshire. But I was born outside of Seattle while my dad was working at Boeing. Where the hospital I was born once stood, a K-Mart stands now.
 

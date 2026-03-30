@@ -3,41 +3,19 @@ date: '2013-11-15T08:08:34-05:00'
 draft: false
 title: "Greatest Hits from the 60s, the 70s, and Today!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/11/15/greatest-hits-from-the-60s-the-70s-and-today/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What if there was a popular MMO where it wasn't clear how to level? Completing quests wouldn't do the trick. Defeating enemies would not bring..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/DCGame-2013-11-14-23-45-28-06.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/11/DCGame-2013-11-14-23-45-28-06.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/DCGame-2013-11-14-23-45-28-06.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/DCGame-2013-11-14-23-45-28-06.jpg"
 ---
+What if there was a popular MMO where it wasn't clear how to level? Completing quests wouldn't do the trick. Defeating enemies would not bring...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/DCGame-2013-11-14-23-45-28-06.jpg" title="Teal Lantern hits 70 -- FINALLY!" class="align-center" >}}
+
 
 What if there was a popular MMO where it wasn't clear how to level? Completing quests wouldn't do the trick. Defeating enemies would not bring you one bit further. Even collecting gear upgrades would, most of the time, not fill the till.
 
@@ -47,7 +25,7 @@ That's what it's been like, for me, in DC Universe Online for MONTHS now. For MO
 
 Both Sting and Spode did exactly that. Kaptain KY probably did, too, but he doesn't play any more (and we miss him!), and he's never explained how he hit 70 months before me, when I'd been ahead of him to that point.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/MLOC115_AUDIO-PC-15-23.44.360.jpg" title="Raaaaaaiiiiiiiiidddddsssss" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/MLOC115_AUDIO-PC-15-23.44.360.jpg" title="Raaaaaaiiiiiiiiidddddsssss" classes="center" >}}
 
 Since I wouldn't grind (much, I'll do some), Team Spode decided to start doing pickup raids. For the past several weeks, we've been doing the daily double T3 four man alert, then signing up for FOS3 Expert.
 

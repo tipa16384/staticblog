@@ -3,45 +3,20 @@ date: '2020-08-01T13:48:42-05:00'
 draft: false
 title: "Blaugust Prompt #1: Core Fandoms"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/01/blaugust-prompt-1-core-fandoms/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Do I even need to explain what Blaugust is? I imagine the Venn diagram of the people who read my blog and aren't already well..."
+categories:
   - "Blaugust"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/path3783.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/path3783.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/path3783.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/path3783.png"
 ---
+Do I even need to explain what Blaugust is? I imagine the Venn diagram of the people who read my blog and aren't already well...
+<!--more-->
 
 Do I even need to explain what Blaugust is? I imagine the Venn diagram of the people who read my blog and aren't already well aware of Blaugust would be an empty circle. But I do love Venn diagrams. Here's one.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/path3783.png)
-
 [The question of the day](https://aggronaut.com/2020/07/31/changing-a-fandom/) is, "What would I change about one of my core fandoms?". Another Venn diagram:
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/fandom-2.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/fandom-2.png" classes="center" >}}
 
 I have a lot of interests, but nothing I'm really fanatical about. I mean, I *used* to be a fan. I used to be a fan of a lot of things. Back in California, I used to go to a lot of conventions -- BayCon, SiliCon, Fanime -- so I guess that I was a fan back then.
 

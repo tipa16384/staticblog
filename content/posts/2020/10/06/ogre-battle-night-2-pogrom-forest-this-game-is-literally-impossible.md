@@ -3,41 +3,19 @@ date: '2020-10-06T07:35:14-05:00'
 draft: false
 title: "Ogre Battle -- Night 2, Pogrom Forest. This game is literally impossible."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/06/ogre-battle-night-2-pogrom-forest-this-game-is-literally-impossible/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I just don't know about this game...."
+categories:
   - "Super Nintendo"
+tags:
   - "Ogre Battle"
   - "RPG"
   - "Tactics"
   - "The March of the Black Queen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/kapella.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/kapella.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/kapella.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/kapella.png"
 ---
+I just don't know about this game....
+<!--more-->
 
 I just don't know about this game.
 
@@ -51,7 +29,7 @@ Since only two of my squads could fight with white magic, this meant that I ende
 
 But the unit that was best at undead killing grew too powerful. In Ogre Battle, having a powerful unit kill a weaker enemy unit is an evil act, as bullying should not be rewarded. So in the middle of the map, I had to send my best unit home and remove it from play. Otherwise its alignment would drop and it would then become an evil unit.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/alignment.png)I has a bad reputation
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/alignment.png" classes="center" >}}I has a bad reputation
 
 So, let's review. If you do too well, you are a bully and your alignment drops and now you are evil. If you liberate towns but cannot keep them because the enemy is playing dirty, then you lose your reputation and now you are evil because you gave the towns you liberated false hope. If you liberate towns but draw bad tarot cards, you are evil because fate just doesn't love you anymore.
 

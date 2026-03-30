@@ -3,40 +3,17 @@ date: '2009-12-16T07:57:11-05:00'
 draft: false
 title: "EVE Online: A Probing Question"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/16/eve-online-a-probing-question/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Here's the question. You're an EVE Online player, and you need to buy a ship designed for seeking out and exploring wormholes. You go down..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-15-19-17-39-51.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-15-19-17-39-51.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-15-19-17-39-51.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-15-19-17-39-51.jpg"
 ---
+Here's the question. You're an EVE Online player, and you need to buy a ship designed for seeking out and exploring wormholes. You go down...
+<!--more-->
 
-![The Amarr probe ship ](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-15-19-17-39-51.jpg "The Amarr probe ship ")
+
 
 Here's the question. You're an EVE Online player, and you need to buy a ship designed for seeking out and exploring wormholes. You go down to Honest Skeeve's Used Starship Emporium and Deli and look over their probe frigates. You base your buying decision on which of these important factors?
 
@@ -72,7 +49,7 @@ The [Wormhole Database](http://www.ellatha.com/eve/WormholeSystemslist.asp) list
 
 For the next few hours, I had the Excursionator probing down one site after another. Nothing but gas mines and more wormholes. I was somewhat disappointed.
 
-![The Zephyr (detail)](https://chasingdings.com/wp-content/uploads/2009/12/ExplorationShip_02_detail.jpg "The Zephyr (detail)")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/ExplorationShip_02_detail.jpg" title="The Zephyr (detail)" classes="center" >}}
 
 This isn't [the original picture](http://www.eveonline.com/devblog.asp?a=blog&bid=722); I fiddled with it to show the ship in more detail.
 

@@ -3,40 +3,18 @@ date: '2025-11-17T14:35:36-05:00'
 draft: false
 title: "Lost Worlds: not so lost anymore?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/11/17/lost-worlds-not-so-lost-anymore/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The \"Lost Worlds\" series of fantasy combat book games is being reprinted? Here in Connecticut? And I'm just finding out about this?"
-description: "The \"Lost Worlds\" series of fantasy combat book games is being reprinted? Here in Connecticut? And I'm just finding out about this?"
-tags:
+categories:
   - "Tabletop Games"
+tags:
   - "Ace of Aces"
   - "Lost Worlds"
   - "Nova Game Designs"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5485-EDIT-scaled.jpg"
 ---
+The "Lost Worlds" series of fantasy combat book games is being reprinted? Here in Connecticut? And I'm just finding out about this?
+<!--more-->
 
 I am a terrible person. You'll agree once you know what I know.
 
@@ -50,7 +28,7 @@ Those were awesome (probably) and reminded me of the decidedly *non*-fantasy gam
 
 I so wanted to play that.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5486-EDIT-1024x683.jpg" title="Ace of Aces" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5486-EDIT-1024x683.jpg" title="Ace of Aces" classes="center" >}}
 
 When I saw ads for Flying Buffalo's "Ace of Aces" World War I air combat game, it looked like black magic to me. You and a friend take on the role of a Red Baron or an Eddie Rickenbacker and take to the skies. One of you would be landing to cheers and champagne. One of you would be landing somewhat short of the runway, probably in flames.
 
@@ -62,7 +40,7 @@ I couldn't figure out how it even worked. Magic is real. When my son was living 
 
 I treasure it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/IMG_5484-1024x543.jpg" title="Lost Worlds list of maneuvers" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/IMG_5484-1024x543.jpg" title="Lost Worlds list of maneuvers" classes="center" >}}
 
 Ace of Aces was designed by Alfred Leonardi, who, unfortunately, passed away earlier this year. He went on to adapt the Ace of Aces combat system to Star Wars (X-Wing vs TIE Fighter) and to a series of fantasy combat books, the "Lost Worlds" series. Instead of dogfighting maneuvers, the maneuvers were attack and defense actions. Dozens of different fighters were written, all based on the same system. Darth Vader and Luke Skywalker also got books, so... Luke vs a Skeleton with a Scimitar? Yeah, that can happen. Might not go well for the skeleton.
 
@@ -82,13 +60,13 @@ This latest round of reprints comes from NOVA Game Designs, led by Leonardi's da
 
 But here's where the plot thickens.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/image-2.png" title="Nova Game Designs LLC, Willimantic, CT" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/image-2.png" title="Nova Game Designs LLC, Willimantic, CT" classes="center" >}}
 
 Oh... Nova Games is just up the street. I can and have biked up to Willimantic. They have a cool frog bridge. Wow, that explains how their games ended up at Tabletop. They are in the area. Let's find out more.
 
 Here it comes.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/image-3.png" title="They were at Silk City Gamers" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/image-3.png" title="They were at Silk City Gamers" classes="center" >}}
 
 Willimantic is known as the "Thread City". Textiles were big industry in New England before the USA sent all manufacturing overseas, pretty much devastating the region and leaving ruins of factories throughout.
 

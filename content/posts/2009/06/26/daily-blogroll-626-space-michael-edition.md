@@ -3,24 +3,8 @@ date: '2009-06-26T07:59:43-05:00'
 draft: false
 title: "Daily Blogroll 6/26 -- Space Michael edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/26/daily-blogroll-626-space-michael-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm not gonna say anything snarky about Michael Jackson. When he died yesterday, millions of people all over the world played his music loud and..."
+categories:
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
   - "EverQuest"
@@ -28,20 +12,13 @@ tags:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/jackson.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/jackson.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/jackson.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/jackson.jpg"
 ---
+I'm not gonna say anything snarky about Michael Jackson. When he died yesterday, millions of people all over the world played his music loud and...
+<!--more-->
 
-![jackson](https://chasingdings.com/wp-content/uploads/2009/06/jackson.jpg "jackson")
+
 
 I'm not gonna say anything snarky about Michael Jackson. When he died yesterday, millions of people all over the world played his music loud and sang along; people gathered to remember him. When you and I die, how many people will even remember we lived? Nobody will remember us for how many max level characters we had or how many nights we spent raiding. We'll only be remembered by and because of the people whose hearts we touched. Beau Turkey finds the most memorable moments in MMOs are not the levels ground out, but [the coming together of friends to work on something as a team](http://epicdolls.com/beauturkey/?p=1685).
 

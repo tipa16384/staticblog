@@ -3,53 +3,31 @@ date: '2024-01-16T07:19:55-05:00'
 draft: false
 title: "City of Heroes: Homecoming..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/01/16/city-of-heroes-homecoming/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's probably been 15 years since I last played City of Heroes... and now it's come back. Should I?"
-description: "It's probably been 15 years since I last played City of Heroes... and now it's come back. Should I?"
-tags:
+categories:
   - "City of Heroes"
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Homecoming"
   - "The Amoy Tiger"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/01/cohhclogo.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/01/cohhclogo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/01/cohhclogo.png"
 ---
+It's probably been 15 years since I last played City of Heroes... and now it's come back. Should I?
+<!--more-->
 
-The last time I blogged about time I personally spent in City of Heroes or Villains was in March of 2009, when I was [playing in the Architect system](https://chasingdings.com/2009/03/25/city-of-heroes-architect-killer-klowns/), where players could author their own missions. I imagine I kept playing for at least a little while after, but there were always so many other games to play... so best guess, this is a game that I haven't played for a decade and a half but I still think about it every now and then.
+The last time I blogged about time I personally spent in City of Heroes or Villains was in March of 2009, when I was [playing in the Architect system](https://tipa16384.github.io/wkblog/2009/03/25/city-of-heroes-architect-killer-klowns/), where players could author their own missions. I imagine I kept playing for at least a little while after, but there were always so many other games to play... so best guess, this is a game that I haven't played for a decade and a half but I still think about it every now and then.
 
 Looking back on those blog posts, it seems that in every one, I was playing a new character. That defined my time in City of Heroes and City of Villains. I was always trying something new. I wasn't in a guild, I didn't have anyone I knew who played, and that always leads to me quitting an MMO. I hate playing MMOs alone.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/image-3-1024x576.png" title="Amoy Tiger" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/image-3-1024x576.png" title="Amoy Tiger" classes="center" >}}
 
 I've known *of* the City of Heroes rogue server for awhile, "Homecoming". I didn't really feel I needed to try it; all my characters were gone, I have plenty of other superhero MMOs to play (I spent a decade in DCUO), nobody I knew played, etc. But when I heard that the current owners of the IP had given their blessing to the Homecoming project... Well, I had to try it.
 
 I went through my old blog posts and remembered a character I'd made to go through some new content or other, I don't remember what. Amoy Tiger, inspired to seek revenge on the poachers that were killing her beloved Amoy tigers. She took on their name and followed their trail to Paragon City. Some day, she'll find them and have her revenge. Until then, she'll do her best to strike down evil wherever it exists.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/01/image-4.png" title="The original Amoy Tiger ca. 2009." class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/01/image-4.png" title="The original Amoy Tiger ca. 2009." classes="fig-20" >}}
 
 Creating an account was fairly straightforward; there are instructions to create a forum account and then a game account, and after that, you're in. There are several servers, some of which offer double experience to encourage people to create or transfer their characters there.
 

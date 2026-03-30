@@ -3,43 +3,21 @@ date: '2008-12-20T17:49:59-05:00'
 draft: false
 title: "EQ: Exploring the Depths of Darkhollow"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/20/eq-exploring-the-depths-of-darkhollow/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Depths of Darkhollow, EverQuest's tenth expansion was set in the vast underground series of caverns of Underdark Darkhollow, a vast series of caverns beneath Norrath..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Depths of Darkhollow"
   - "Stoneroot Falls"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-19-20-26-00-27.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-19-20-26-00-27.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-19-20-26-00-27.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/eqgame-2008-12-19-20-26-00-27.jpg"
 ---
+Depths of Darkhollow, EverQuest's tenth expansion was set in the vast underground series of caverns of Underdark Darkhollow, a vast series of caverns beneath Norrath...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/eqgame-2008-12-19-20-26-00-27.jpg "eqgame-2008-12-19-20-26-00-27")
+
 
 Depths of Darkhollow, EverQuest's tenth expansion was set in the vast underground series of caverns of ~~Underdark~~ Darkhollow, a vast series of caverns beneath Norrath inhabited by the remains of the ~~Illithid~~ Illisin empire and the upstart, warring factions of the Wurine (werewolves). It continued the previous Dragons of Norrath expansion's effort to reposition EverQuest back to its Norrath-centered fantasy roots after two large expansions, *Gates of Discord* and its follow-up, *Omens of War*, took players off Norrath and into the middle of an alien invasion. After all, where could you go when you'd just killed off all the gods of Norrath in *Planes of Power*?
 

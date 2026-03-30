@@ -3,40 +3,18 @@ date: '2021-12-27T14:59:48-05:00'
 draft: false
 title: "Advent of Code 2021 -- Completed."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/12/27/advent-of-code-2021-completed/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was an obsession, it was a challenge, it was a lesson. The Advent of Code is an annual coding event that runs from the..."
+categories:
   - "Advent of Code"
+tags:
   - "Algorithms"
   - "Clojure"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/12/AoC_banner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/12/AoC_banner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/12/AoC_banner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/12/AoC_banner.png"
 ---
+It was an obsession, it was a challenge, it was a lesson. The Advent of Code is an annual coding event that runs from the...
+<!--more-->
 
 It was an obsession, it was a challenge, it was a lesson. The [Advent of Code](https://adventofcode.com/) is an annual coding event that runs from the first to the twenty-fifth of December, but instead of chocolate treats, this advent calendar delivers delicious daily coding puzzles... although you don't necessarily need to code to solve them.
 
@@ -46,7 +24,7 @@ My family thinks I was insane for doing this. And toward the end, I pretty much 
 
 Advent of Code starts off as a pleasant walk. The first puzzle was to simply count the number of times a value was greater than the previous value in a list. Here's a solution I wrote in BASIC:
 
-[![](https://chasingdings.com/wp-content/uploads/2021/12/image.png)](https://chasingdings.com/wp-content/uploads/2021/12/image.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/12/image.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/12/image.png)
 
 I first heard about Advent of Code a couple months ago at one of our team learning sessions at work. The place where I work asks every developer to document the training they are taking in order to keep their skills up to date.
 
@@ -56,7 +34,7 @@ I'd never heard of Advent of Code, but I looked up the previous years puzzles an
 
 The people who join AoC come from all backgrounds. Some have only just started programming; some do competitive programming all the time. Some are working in languages they have never used, some are experts in a language hoping to improve their skills. Some just want to have some fun.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/12/image-1.png)](https://chasingdings.com/wp-content/uploads/2021/12/image-1.png)Day 1, Part 1 in Rockstar, by [CCC_037](https://old.reddit.com/r/adventofcode/comments/r66vow/2021_day_1_solutions/hmy9wj9/).
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/12/image-1.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/12/image-1.png)Day 1, Part 1 in Rockstar, by [CCC_037](https://old.reddit.com/r/adventofcode/comments/r66vow/2021_day_1_solutions/hmy9wj9/).
 
 I use Java at work, and Python at home (and at work when I can find a good excuse), so I thought the problems would be... no problem for me, and I started looking into old languages that I learned way back when that I could do the problems in -- just to make it a little bit of a challenge.
 
@@ -68,7 +46,7 @@ According to [Reddit](https://old.reddit.com/r/adventofcode/), people used all t
 
 To be brutally honest with myself, I was kind of hoping I wouldn't have to solve these puzzles by myself. I'd installed [GitHub Copilot](https://copilot.github.com/) in my VS Code IDE and had been trying it out on a few easier coding puzzles. GitHub Copilot looks at your code and comments as you write it, and automatically completes your code with what it thinks you're trying to do. My test was to see if I could just describe the problem and the functions needed, in English, and have it write the code.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/12/image-2.png)](https://chasingdings.com/wp-content/uploads/2021/12/image-2.png)via GitHub Copilot
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/12/image-2.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/12/image-2.png)via GitHub Copilot
 
 As an example, I just now wrote two comments in a new window and GitHub Copilot wrote Clojure code to satisfy it. Unlike that example I wrote in BASIC, this one uses map/reduce to do the work. That's not how I solved the puzzle in Python, but it's *better* than I could have come up with.
 
@@ -138,7 +116,7 @@ I sure used a lot of libraries, though. "tupleops" is mine :-) I realized that i
 
 Day 22 was a constructive solid geometry problem. More than a couple people solved it by importing the problem data into a graphics modeling program and just using those tools for the answer. I found a library that would intersect and difference rectangles and extended it for 3D. Some people used octree, which I might have done if I'd remembered it existed. My faves were the people who printed it in 3D. Of course there were better solutions that ignored CSG entirely.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/12/image-3.png)](https://chasingdings.com/wp-content/uploads/2021/12/image-3.png)Day 23 problem
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/12/image-3.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/12/image-3.png)Day 23 problem
 
 Day 23 was a sliding block puzzle which a lot of people solved with Dijkstra, and some others with graph theory. I just solved it manually. Worked for me.
 

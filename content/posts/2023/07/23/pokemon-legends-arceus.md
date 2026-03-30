@@ -3,37 +3,16 @@ date: '2023-07-23T22:55:18-05:00'
 draft: false
 title: "Pokémon Legends: Arceus"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/07/23/pokemon-legends-arceus/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Step into an ancient and treacherous world where Pokémon reign as wild and untamed forces, embark on a perilous quest, and discover why Pokémon Legends: Arceus delivers the most daring and immersive Pokémon experience yet!"
-description: "Step into an ancient and treacherous world where Pokémon reign as wild and untamed forces, embark on a perilous quest, and discover why Pokémon Legends: Arceus delivers the most daring and immersive Pokémon experience yet!"
+categories:
+  - "Pokemon"
 tags:
   - "Pokemon"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/07/1-snapedit_1690161413949.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/07/1-snapedit_1690161413949.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/1-snapedit_1690161413949.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/1-snapedit_1690161413949.jpg"
 ---
+Step into an ancient and treacherous world where Pokémon reign as wild and untamed forces, embark on a perilous quest, and discover why Pokémon Legends: Arceus delivers the most daring and immersive Pokémon experience yet!
+<!--more-->
 
 When Pokémon Legends: Arceus came out a couple years ago, I heard a lot about it. It seemed primitive, without all the quality of life updates that have come to the Pokémon games over the decades. The screen shots seemed low poly. People were throwing around words like "MMO-like" and "open world", but that was said about Pokémon Scarlet/Violet, too, and those were very much like open world MMOs.
 
@@ -41,7 +20,7 @@ I came across the game at a used game store. It was affordable, I'd been working
 
 Arceus might be the best of its generation, actually.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/07/2023040217212600-7CBCCE282CD36658AB28471FB4791102-1024x576.jpg" title="They actually have a professional photographer's studio available..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/07/2023040217212600-7CBCCE282CD36658AB28471FB4791102-1024x576.jpg" title="They actually have a professional photographer's studio available..." classes="center" >}}
 
 Here's the setup: You are a Pokémon trainer from the present day who finds themselves dropped through a portal six hundred years in the past, into a time where Pokémon and people haven't learned to work together. Pokeballs have just been invented. Soon after you land, you are handed the first ever Pokedex, and a mysterious voice tells you that your mission is to meet every Pokémon in the Hisui region.
 
@@ -51,7 +30,7 @@ Two warring cults -- the Pearl Clan and Diamond Clan -- each think the mysteriou
 
 It's a lot to unpack.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/07/snapedit_1690163964297-1024x576.jpg" title="The team to face Arceus" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/07/snapedit_1690163964297-1024x576.jpg" title="The team to face Arceus" classes="center" >}}
 
 There are a lot of differences between Arceus and any other game in the series.
 
@@ -73,7 +52,7 @@ There are a lot of differences between Arceus and any other game in the series.
 
 - Big Pokémon are big. You can see them in the world and in your party. You can ride them, too. Some of them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/07/2023072319325800-7CBCCE282CD36658AB28471FB4791102-1024x576.jpg" title="Not an ocarina" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/07/2023072319325800-7CBCCE282CD36658AB28471FB4791102-1024x576.jpg" title="Not an ocarina" classes="center" >}}
 
 The game rolls credits once you have defeated and perhaps captured Palkia and Dialga. That happens about thirty hours in. But to fight the ultimate boss, Arceus, you have to complete the entire Pokedex. And some of those critters are *rare*.
 
@@ -83,7 +62,7 @@ This wasn't the first or even the tenth time I had to import Pokémon from other
 
 It's a deep game. It's a different game. It's a dangerous world and you've got to save it -- very different from the mainline games, where all you have to do is be your best.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/07/2023061313454000-7CBCCE282CD36658AB28471FB4791102-1024x576.jpg" title="Haven't I seen you in GO and Shield?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/07/2023061313454000-7CBCCE282CD36658AB28471FB4791102-1024x576.jpg" title="Haven't I seen you in GO and Shield?" classes="center" >}}
 
 I'm not sure who needs to play Arceus. If you played Diamond/Pearl, you might already have the mythical Pokémon you'll find here. You should play Arceus if you're a fan of the games, but want to try a different take on the catching game. I'd love to see a mainline game on this model. Each game tries new things with its settings, but this is the first one where I really felt I was in an entirely new and deadly world. The first one where you aren't playing as a child.
 

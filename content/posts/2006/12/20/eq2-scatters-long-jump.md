@@ -3,39 +3,16 @@ date: '2006-12-20T08:40:39-05:00'
 draft: false
 title: "EQ2: Scatter's Long Jump"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/12/20/eq2-scatters-long-jump/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I used to make a lot of comics for EQ1 but haven't done the same yet with EQ2. Here's a little comic about my level..."
+categories:
   - "Comic"
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/12/scatter.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/12/scatter.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/12/scatter.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/12/scatter.jpg"
 ---
+I used to make a lot of comics for EQ1 but haven't done the same yet with EQ2. Here's a little comic about my level...
+<!--more-->
 
 I used to make a lot of comics for EQ1 but haven't done the same yet with EQ2. Here's a little comic about my level 13 Fae berzerker traveling to the Bonemire to make the longest flight ever - from the Catotoxic Stain to the Halls of Fate.
 
@@ -43,4 +20,6 @@ In my next comic, I won't use any in-game text balloons. They tend to be in bad 
 
 Click on the smaller version here to read the larger, readable version.
 
-[![scattersmall.jpg](https://chasingdings.com/wp-content/uploads/2006/12/scatter.jpg)](https://chasingdings.com/wp-content/uploads/2006/12/scatter.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2006/12/scatter.jpg)

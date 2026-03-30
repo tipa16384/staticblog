@@ -3,24 +3,8 @@ date: '2021-08-07T10:11:39-05:00'
 draft: false
 title: "MMOs on the Bubble"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/07/mmos-on-the-bubble/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't play every MMO that comes out -- not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and..."
+categories:
   - "Blaugust"
   - "City of Heroes"
   - "DC Universe Online"
@@ -38,6 +22,7 @@ tags:
   - "Star Wars: the Old Republic"
   - "Vanguard"
   - "World of Warcraft"
+tags:
   - "Camelot Unchained"
   - "Champions Online"
   - "Crowfall"
@@ -48,24 +33,17 @@ tags:
   - "Neverwinter Online"
   - "Pantheon: Rise of the Fallen"
   - "Shadowbane"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/STP61286.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/STP61286.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/STP61286.jpg"
 ---
+I don't play every MMO that comes out -- not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and...
+<!--more-->
 
 I don't play every MMO that comes out -- not by a longshot. But, I follow a lot of gamers, streamers, and game developers, and between me and them, I see a lot of discussion about the new MMOs that come down the pike.
 
 Crowfall was released a couple of weeks ago. Suddenly, everyone was talking about it. And then, suddenly everyone was not. What did it all mean? I asked Google Trends to help me analyze searches for a dozen or so MMOs to help understand what all was going on with MMOs today.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/crowfall.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/crowfall.jpg)Epic Immortal Legendary Hero Warrior of the Gods, in Crowfall
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/crowfall.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/crowfall.jpg)Epic Immortal Legendary Hero Warrior of the Gods, in Crowfall
 
 **Indie MMOs that I backed on Kickstarter:**
 
@@ -79,7 +57,7 @@ Searches for these indie MMOs that build upon the strengths and reputations of s
 
   trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/012wn_sf","geo":"US","time":"today 12-m"},{"keyword":"pantheon mmo","geo":"US","time":"today 12-m"},{"keyword":"/m/0t_dl2y","geo":"US","time":"today 12-m"},{"keyword":"/m/0s8tt32","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=%2Fm%2F012wn_sf,pantheon%20mmo,%2Fm%2F0t_dl2y,%2Fm%2F0s8tt32&date=today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); 
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/scribble-2013-09-25-01-24-43-37.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/scribble-2013-09-25-01-24-43-37.jpg)DC Universe Online, as far as you know
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/scribble-2013-09-25-01-24-43-37.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/scribble-2013-09-25-01-24-43-37.jpg)DC Universe Online, as far as you know
 
 **Daybreak Games MMOs:**
 
@@ -91,7 +69,7 @@ DCUO and the original, 22-year-old EverQuest, are neck and neck for searches, wi
 
  trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/02sw6","geo":"US","time":"today 12-m"},{"keyword":"/m/0448yz","geo":"US","time":"today 12-m"},{"keyword":"/m/04cylb0","geo":"US","time":"today 12-m"},{"keyword":"/m/0543v3","geo":"US","time":"today 12-m"},{"keyword":"/m/078r86","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=%2Fm%2F02sw6,%2Fm%2F0448yz,%2Fm%2F04cylb0,%2Fm%2F0543v3,%2Fm%2F078r86&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); 
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/Neverwinter-Nights-2-7_12_2016-8_01_27-PM-1024x655.png)](https://chasingdings.com/wp-content/uploads/2021/08/Neverwinter-Nights-2-7_12_2016-8_01_27-PM.png)Neverwinter Pest Control
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/Neverwinter-Nights-2-7_12_2016-8_01_27-PM-1024x655.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/Neverwinter-Nights-2-7_12_2016-8_01_27-PM.png)Neverwinter Pest Control
 
 **Cryptic MMOs:**
 
@@ -111,7 +89,7 @@ Neverwinter and DCUO share the crown for the most searched-for MMO, according to
 
  trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/012wn_sf","geo":"US","time":"today 12-m"},{"keyword":"/m/04cylb0","geo":"US","time":"today 12-m"},{"keyword":"/m/0dsb1wd","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=%2Fm%2F012wn_sf,%2Fm%2F04cylb0,%2Fm%2F0dsb1wd&date=today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); 
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/Wow-64-2014-03-23-09-18-50-11-1024x819.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/Wow-64-2014-03-23-09-18-50-11.jpg)Wow, panda people.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/Wow-64-2014-03-23-09-18-50-11-1024x819.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/Wow-64-2014-03-23-09-18-50-11.jpg)Wow, panda people.
 
 **Corporate MMOs:**
 
@@ -133,7 +111,7 @@ This could be the right time for New World to come and enforce a New World Order
 
  trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/021dvx","geo":"US","time":"today 12-m"},{"keyword":"/m/064ln09","geo":"US","time":"today 12-m"},{"keyword":"/m/0jt2y_q","geo":"US","time":"today 12-m"},{"keyword":"/m/04q3kvg","geo":"US","time":"today 12-m"},{"keyword":"/g/11fjx8g4kd","geo":"US","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"geo=US&q=%2Fm%2F021dvx,%2Fm%2F064ln09,%2Fm%2F0jt2y_q,%2Fm%2F04q3kvg,%2Fg%2F11fjx8g4kd&date=today 12-m,today 12-m,today 12-m,today 12-m,today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); 
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/felwood.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/felwood.jpg)Wow, tree people
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/felwood.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/felwood.jpg)Wow, tree people
 
 **Corporate MMOs vs the Non-Corporate MMOs:**
 

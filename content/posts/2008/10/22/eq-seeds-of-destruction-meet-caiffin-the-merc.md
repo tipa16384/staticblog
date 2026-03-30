@@ -3,43 +3,21 @@ date: '2008-10-22T00:53:11-05:00'
 draft: false
 title: "EQ: Seeds of Destruction: Meet Caiffin, the Merc."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/22/eq-seeds-of-destruction-meet-caiffin-the-merc/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So this screen shot entirely contains my philosophy of life. I'm in this really stormy place, and I'm fighting for my life, but some souless..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Hirelings"
   - "Seeds of Destruction"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg"
 ---
+So this screen shot entirely contains my philosophy of life. I'm in this really stormy place, and I'm fighting for my life, but some souless...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-21-22-24-23-12.jpg "eqgame-2008-10-21-22-24-23-12")
+
 
 So this screen shot entirely contains my philosophy of life. I'm in this really stormy place, and I'm fighting for my life, but some souless minion is trying to save me, but he's about to be eaten by a giant bear he can't see, and there's some huge guy with a "wide stance" lurking about, and someone not even in the screen shot keeping everyone alive.
 
@@ -49,7 +27,7 @@ But seriously.
 
 The mercenary hirelings in EverQuest's new expansion, Seeds of Destruction, are made of 200-proof AWESOME.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-21-23-01-15-11.jpg "eqgame-2008-10-21-23-01-15-11") I don't know anything about the new zones because, what the heck, I'm only level 61. I'm twenty five levels from the good stuff. But after I finished buying SoD (yup, no free expansion for me), second thing I did was to hunt up the Hireling trainers in the Plane of Knowledge. The first thing I did was to redeem the LDoN loot card everyone got for this ugly little pet that sometimes reflects spells cast at you back at the caster.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-23-01-15-11.jpg" title="eqgame-2008-10-21-23-01-15-11" classes="center" >}} I don't know anything about the new zones because, what the heck, I'm only level 61. I'm twenty five levels from the good stuff. But after I finished buying SoD (yup, no free expansion for me), second thing I did was to hunt up the Hireling trainers in the Plane of Knowledge. The first thing I did was to redeem the LDoN loot card everyone got for this ugly little pet that sometimes reflects spells cast at you back at the caster.
 
 Isn't he sweet looking?
 
@@ -69,7 +47,7 @@ Hirelings have a rank -- Apprentice and Journeyman were the ranks I had availabl
 
 Both Healer and Tank hirelings are available; Healers can eventually even rez you if you die, which is a nice touch. I hired an Apprentice Tier V Tank and went searching for stuff to kill.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/eqgame-2008-10-21-21-51-25-84.jpg "eqgame-2008-10-21-21-51-25-84")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/eqgame-2008-10-21-21-51-25-84.jpg" title="eqgame-2008-10-21-21-51-25-84" classes="center" >}}
 
 The most impressive magic done the entire evening was the magic that convinced [Stargrace](http://mmoquests.com) to re-open her EQ1 account :) She logged in her druid, and we went off to Grieg's End to see how he'd act under pressure.
 

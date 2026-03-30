@@ -3,40 +3,17 @@ date: '2013-01-30T07:49:13-05:00'
 draft: false
 title: "DCUO: Home Turf"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/01/30/dcuo-home-turf/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The \"Home Turf\" downloadable content dropped in DC Universe Online yesterday, bringing housing to the hordes of heroes and villains of Metropolis and Gotham City...."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg"
 ---
+The "Home Turf" downloadable content dropped in DC Universe Online yesterday, bringing housing to the hordes of heroes and villains of Metropolis and Gotham City....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/LAIR_FLOORPLAN_01_MATINEE-PC-29-23.20.570-480x343.jpg" title="The Mainframe in the Membrane" class="align-center" >}}
+
 
 The "Home Turf" downloadable content dropped in DC Universe Online yesterday, bringing housing to the hordes of heroes and villains of Metropolis and Gotham City. It opens up at level 12, so the first order of the day was getting to level 12 (luckily, this week's level cap in Team Spode).
 
@@ -48,7 +25,7 @@ Eric Redman wrote a bit about [his first base PvP battle](https://plus.google.co
 
 I'd have gone back, but that would have meant a trip through the Watchtower, and that place is so incredibly confusing; I avoid it as much as possible.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/792832-queen_bee_10-480x361.jpg" title="Queen Bee" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/792832-queen_bee_10-480x361.jpg" title="Queen Bee" classes="center" >}}
 
 I'd been flying around Metropolis doing the Booster Gold exploration stuff, and happened upon an invasion by Queen Bee's drones. Needing the experience, I flew down and lent a hand. Plenty of heroes were helping out, and I went through the quest series pretty quickly.
 

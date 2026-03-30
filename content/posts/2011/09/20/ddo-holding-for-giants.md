@@ -3,40 +3,17 @@ date: '2011-09-20T06:41:40-05:00'
 draft: false
 title: "DDO: Holding for Giants"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/09/20/ddo-holding-for-giants/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Giants, they are big. They are big and very powerful. They swing I-beams like 10' rods. They could and do crush the life from insects..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/09/dndclient-2011-09-18-22-36-28-03-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/09/dndclient-2011-09-18-22-36-28-03-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/dndclient-2011-09-18-22-36-28-03-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/09/dndclient-2011-09-18-22-36-28-03-480x384.jpg"
 ---
+Giants, they are big. They are big and very powerful. They swing I-beams like 10' rods. They could and do crush the life from insects...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/09/dndclient-2011-09-18-22-36-28-03-480x384.jpg" title="Frozen dragon" class="align-center" >}}
+
 
 Giants, they are big. They are big and very powerful. They swing I-beams like 10' rods. They could and do crush the life from insects such as we without thinking about it. They freeze dragons in stone forever.
 

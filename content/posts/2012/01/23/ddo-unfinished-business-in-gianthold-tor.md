@@ -3,40 +3,17 @@ date: '2012-01-23T07:13:39-05:00'
 draft: false
 title: "DDO: Unfinished business in Gianthold Tor"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/23/ddo-unfinished-business-in-gianthold-tor/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "None of us was happy about the way we left Gianthold Tor; expert at getting through the dungeon and killing the Gatekeeper, unable to kill..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-22-23-07-49-00-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-22-23-07-49-00-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-22-23-07-49-00-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-22-23-07-49-00-480x384.jpg"
 ---
+None of us was happy about the way we left Gianthold Tor; expert at getting through the dungeon and killing the Gatekeeper, unable to kill...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-22-23-07-49-00-480x384.jpg" title="Go ask Alice, when the white dragons fall" class="align-center" >}}
+
 
 None of us was happy about the way we left Gianthold Tor; expert at getting through the dungeon and killing the Gatekeeper, unable to kill the three dragons at the end. We'd all gained a level since we left the Tor, though, and the Harbingers of Madness gear was a literal game changer for most of us.
 
@@ -44,7 +21,7 @@ The rewards for grinding Gianthold Tor for rare dragon scales are not that great
 
 But the dragons had to die. Last night we returned to Gianthold Tor and we killed the dragons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/dndclient-2012-01-22-23-58-29-21-480x384.jpg" title="The Death of the Black Dragon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/dndclient-2012-01-22-23-58-29-21-480x384.jpg" title="The Death of the Black Dragon" classes="center" >}}
 
 All the dragons have a giant protector, and both dragon and giant have to die within seconds of each other. For this, we split the group. Spode tanked the dragon, Ulan the giant, and Gleek and I would switch from one to the other to keep their health balanced as we took them down.
 

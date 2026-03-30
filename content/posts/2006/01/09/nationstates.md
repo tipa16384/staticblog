@@ -3,40 +3,17 @@ date: '2006-01-09T00:00:00-05:00'
 draft: false
 title: "NationStates"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/09/nationstates/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "NationStates is an interesting web game; you make a country and mold it according to your own beliefs, interact with other nations, join the UN..."
+categories:
   - "MMORPG"
   - "Nationstates"
-featured_image: "https://chasingdings.com/images/dryroot.gif"
-cover:
-  image: "https://chasingdings.com/images/dryroot.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/dryroot.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/dryroot.gif"
 ---
+NationStates is an interesting web game; you make a country and mold it according to your own beliefs, interact with other nations, join the UN...
+<!--more-->
 
-![](https://chasingdings.com/images/dryroot.gif)
+
 
 [NationStates](http://www.nationstates.net) is an interesting web game; you make a country and mold it according to your own beliefs, interact with other nations, join the UN and debate items of world importance and so forth.
 

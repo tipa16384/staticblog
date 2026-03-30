@@ -3,41 +3,20 @@ date: '2023-02-21T22:16:36-05:00'
 draft: false
 title: "Pokémon: The New(ish) Addiction"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/02/21/pokemon-the-newish-addiction/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "With both Pokémon Go and Pokémon Sword & Shield going on, it's pretty much peak Pokémon at the moment."
-description: "With both Pokémon Go and Pokémon Sword & Shield going on, it's pretty much peak Pokémon at the moment."
-tags:
+categories:
   - "Pokemon"
   - "Valheim"
+tags:
   - "Guild Wars 2"
   - "Octopath Traveler"
+  - "Pokemon"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/02/pokemonaddiction.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/02/pokemonaddiction.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/pokemonaddiction.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/02/pokemonaddiction.png"
 ---
+With both Pokémon Go and Pokémon Sword & Shield going on, it's pretty much peak Pokémon at the moment.
+<!--more-->
 
 I've been playing Pokémon Go, on and off, since 2016. I've been playing Pokémon since the Red, Blue and Yellow days, when I played them with my kids. It kept them busy during our long trips to drop them off for visitation every couple weeks.
 
@@ -47,7 +26,7 @@ I don't think I have ever, ever written about the game (that would be wrong, I'v
 
 Started playing this when it launched. I was playing Ingress, the previous game from Niantic Labs, and had gotten really turned off by the bizarrely psychotic player base for that game. If you know, you know. I was riding my bike back and forth to work, about eight miles where I was living at that time, so I would play along the way and then do some more serious pokemoning around the gym near my apartment. Since I didn't know anyone else who played, I eventually drifted away from it. I'd go back now and again. Then my son started playing, and so I've been playing daily since.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/02/IMG_3213-473x1024.jpg" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/02/IMG_3213-473x1024.jpg" classes="fig-20" >}}
 
 The game is built around catching Pokemon and visiting Pokestops. But that's not going to get you very far. The *real* game is raiding. Back pre-pandemic, that meant going to a place where there were other people playing Pokemon and seeing if they were raiding. This was never going to happen for me, so I just checked out of the whole Pokemon Go phenomenon.
 
@@ -69,7 +48,7 @@ But it's not enough.
 
 The problem with Pokémon Go is that it forces you to go somewhere -- which is fine when I have time and the weather is good. I love walking around for an hour in our local parks. But it's been rainy, and I've been busy, and some days I just can't get out and do the thing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/02/1-2023022107562800-B8FAEF4816CAC2B76D11869B05CA7601.jpg" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/02/1-2023022107562800-B8FAEF4816CAC2B76D11869B05CA7601.jpg" classes="fig-20" >}}
 
 There's a *bunch* of Pokémon games. Sapphire and Violet, Arceus, probably dozens out since the last one I played, Pokémon Omega Ruby. A couple years back, I got a used copy of Pokémon Shield for the Switch at a local junk store. And then I didn't play it... until now.
 

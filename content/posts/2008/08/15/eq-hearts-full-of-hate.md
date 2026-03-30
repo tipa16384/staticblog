@@ -3,43 +3,21 @@ date: '2008-08-15T06:44:16-05:00'
 draft: false
 title: "EQ: Hearts full of Hate"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/15/eq-hearts-full-of-hate/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yeah, it seems really hard to imagine, but we have not yet ventured into any of the alternate planes of reality as a guild. We..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Hand of the Maestro"
   - "Plane of Hate"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-14-20-08-45-31.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-14-20-08-45-31.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-14-20-08-45-31.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-14-20-08-45-31.jpg"
 ---
+Yeah, it seems really hard to imagine, but we have not yet ventured into any of the alternate planes of reality as a guild. We...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-14-20-08-45-31.jpg "eqgame-2008-08-14-20-08-45-31")
+
 
 Yeah, it seems really hard to imagine, but we have not yet ventured into any of the alternate planes of reality as a guild. We fixed that last night as we had our way with the Plane of Hate.
 
@@ -49,9 +27,9 @@ Sejal had busted butt to get to 46 so that he could join the Friday group in Hat
 
 Once we had a group together, we cleared our way through to the Maestro area, and guess who we found there:
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-14-19-49-20-51.jpg "eqgame-2008-08-14-19-49-20-51")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-14-19-49-20-51.jpg" title="eqgame-2008-08-14-19-49-20-51" classes="center" >}}
 
-["Bad touch" Rogbog](https://chasingdings.com/index.php/2008/08/08/eq-veksar-rising/)? No, that's the Hand of the Maestro playing one-fingered piano. The Hand is needed for the warrior epic. Ceipheid couldn't make it last night, but we decided to go ahead and kill it anyway. When we had enough for a second group, we made a quick raid and entered the Cathedral to take the mob down. The Hand joined as we were killing the mob in front of it, so I offtanked that while everyone else killed the Hand and Qutey and Callendra, druids both, tried to keep people alive as the cleric, Coldheat, kept getting disconnected every couple of minutes. The Hand and the add died at about the same time.
+["Bad touch" Rogbog](https://tipa16384.github.io/wkblog/index.php/2008/08/08/eq-veksar-rising/)? No, that's the Hand of the Maestro playing one-fingered piano. The Hand is needed for the warrior epic. Ceipheid couldn't make it last night, but we decided to go ahead and kill it anyway. When we had enough for a second group, we made a quick raid and entered the Cathedral to take the mob down. The Hand joined as we were killing the mob in front of it, so I offtanked that while everyone else killed the Hand and Qutey and Callendra, druids both, tried to keep people alive as the cleric, Coldheat, kept getting disconnected every couple of minutes. The Hand and the add died at about the same time.
 
 We split back into two groups. Group 1 stayed on the steps, while the group I was in returned to the bridge and pulled for a couple of hours. It was fun, but after awhile it got a little boring. I can't wait until we get to level 60 so we can get back to doing some raids. In EQ, Raids = TOTAL FUN, and there's bunches two groups can do.
 

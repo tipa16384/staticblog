@@ -3,43 +3,22 @@ date: '2008-09-02T07:25:47-05:00'
 draft: false
 title: "Wizard 101 goes live"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/02/wizard-101-goes-live/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wizard 101 goes live!..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Kingsisle"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-02-07-10-47-94.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-02-07-10-47-94.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-02-07-10-47-94.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/wizardgraphicalclient-2008-09-02-07-10-47-94.jpg"
 ---
+Wizard 101 goes live!...
+<!--more-->
 
 Wizard 101 goes live!
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/wizardgraphicalclient-2008-09-02-07-10-47-94.jpg "wizardgraphicalclient-2008-09-02-07-10-47-94")> KingsIsle Entertainment is very happy to announce the launch of our first title, Wizard101.
+> KingsIsle Entertainment is very happy to announce the launch of our first title, Wizard101.
 
 > To celebrate, we are offering a 1-year subscription for only $60! That’s a 50% savings off the monthly subscription rate! This offer will only be available until Monday, Sept. 8th. Subscribing will also give you access to text chat, posting on the forums, getting more powerful equipment/clothing/pets, and teleporting anywhere to friends and family.
 

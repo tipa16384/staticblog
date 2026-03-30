@@ -3,41 +3,19 @@ date: '2014-08-06T21:09:18-05:00'
 draft: false
 title: "Neverwinter: You're a Little Short for a Foundry"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/08/06/neverwinter-youre-a-little-short-for-a-foundry/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This week in the Neverwinter Foundry! A short night, as Kasul and I were play testing each other's contest entries. Mine, as you know, is..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh5.googleusercontent.com/-pOTQC7nCLlk/U-LhqwTEnzI/AAAAAAAAy_8/dPxDP8VXBxo/w684-h547-no/GameClient%2B2014-08-04%2B22-12-50-33.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-pOTQC7nCLlk/U-LhqwTEnzI/AAAAAAAAy_8/dPxDP8VXBxo/w684-h547-no/GameClient%2B2014-08-04%2B22-12-50-33.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-pOTQC7nCLlk/U-LhqwTEnzI/AAAAAAAAy_8/dPxDP8VXBxo/w684-h547-no/GameClient%2B2014-08-04%2B22-12-50-33.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-pOTQC7nCLlk/U-LhqwTEnzI/AAAAAAAAy_8/dPxDP8VXBxo/w684-h547-no/GameClient%2B2014-08-04%2B22-12-50-33.jpg"
 ---
+This week in the Neverwinter Foundry! A short night, as Kasul and I were play testing each other's contest entries. Mine, as you know, is...
+<!--more-->
 
-![where am I?](https://lh5.googleusercontent.com/-pOTQC7nCLlk/U-LhqwTEnzI/AAAAAAAAy_8/dPxDP8VXBxo/w684-h547-no/GameClient%2B2014-08-04%2B22-12-50-33.jpg)
+
 
 This week in the Neverwinter Foundry! A short night, as Kasul and I were play testing each other's contest entries. Mine, as you know, is "Fire Sale" (and I'm going to do a project review on it at some point). Kasul's entry is "Of Kobolds and Cultists", and I won't be reviewing it. You should play it, though -- AFTER it gets featured as part of the Dragon Cult contest.
 

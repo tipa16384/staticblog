@@ -3,40 +3,18 @@ date: '2025-01-21T08:48:50-05:00'
 draft: false
 title: "FANTASIAN Neo Dimension (Part 1)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/01/21/fantasian-neo-dimension-part-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "A throwback to the classic JRPGs set in handcrafted dioramas, Fantasian Neo Dimension is a love letter to the Final Fantasy series."
-description: "A throwback to the classic JRPGs set in handcrafted dioramas, Fantasian Neo Dimension is a love letter to the Final Fantasy series."
-tags:
+categories:
   - "Final Fantasy"
   - "PS5"
   - "Turn-Based Rpgs"
+tags:
   - "Fantasian Neo Dimension"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250105160053-scaled.jpg"
 ---
+A throwback to the classic JRPGs set in handcrafted dioramas, Fantasian Neo Dimension is a love letter to the Final Fantasy series.
+<!--more-->
 
 There was a point this last weekend where I decided I'd had enough Neo Dimension and would just be starting a new game with the dimensions I already had at home. The grind was getting to be too much. Then I unlocked more of the "growth tree" and was able to start shaping the characters more to my liking, and suddenly, things began to look up.
 
@@ -44,7 +22,7 @@ So, backing up: FANTASIAN Neo Dimension *is* Final Fantasy. It was created by Hi
 
 The game was originally released in two parts for the Apple Arcade service, with Part 1 ending with a confrontation with the entity we thought was the Big Bad, and the second gathering the group back together again to investigate the real villains in a more open world setting. It was re-released last month as a single game in two parts.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/FANTASIAN-Neo-Dimension_20250119102523-1024x576.jpg" title="The crew face off against a chaos monster" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250119102523-1024x576.jpg" title="The crew face off against a chaos monster" classes="center" >}}
 
 **Leo** is the star of the show. At the start of the game, Leo has just lost his memory. He is trapped in a machine world with two robot protectors and no knowledge of where he is, how he got there, or how to get out -- or even where "out" might be. You're immediately in a running battle with a boss that echoes the Magitek factory explosion opening in Final Fantasy VII. This isn't the last time we'll be reminded of that.
 
@@ -52,7 +30,7 @@ After escaping (but to where?), he is rescued by **Kina**, an orphan who was fou
 
 Meeting airship captain ~~Cid~~, I mean, **Zinikr**, (tank role), opens up the world. We soon meet **Ez**, a tinker, who uses crafted items in battle and can heal, buff and do AE elemental damage. **Prickle**, the robot from the opening, rejoins as healer/dps/buffer, and they eventually meet Vulcan-like **Valrika**, a witch character, who has a thing for guys with beards.. I've read that **Tan**, who we've met several times getting into trouble, eventually joins the party, but he hasn't yet in my playthrough.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/01/FANTASIAN-Neo-Dimension_20250121072655-1024x576.jpg" title="At the home base" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/01/FANTASIAN-Neo-Dimension_20250121072655-1024x576.jpg" title="At the home base" classes="center" >}}
 
 Mysterious "mechteria", virus-like mechanical growths, are slowly invading the world. We soon find out this is due to the god Vam the Malevolent, who has vowed to give the world over to chaos. At the end of Part 1, we finally face Vam and discover he was only doing this to save the world from an even greater evil. In Part 2, we find out the true story behind the world's destruction. I imagine we will eventually save the world, but who knows? I've seen in Baldur's Gate 3 and Beyond Shadowgate that sometimes, the world just doesn't get saved. Pretty sure we'll save it, though.
 

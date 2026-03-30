@@ -3,42 +3,20 @@ date: '2020-10-14T08:33:56-05:00'
 draft: false
 title: "Ogre Battle: Alignment and Charisma"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/14/ogre-battle-alignment-and-charisma/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Before I decided to consolidate my groups a bit, my lord's alignment and charisma were sky-high. I'm even proudly wielding the holy sword Brunhild. They..."
+categories:
   - "Super Nintendo"
+tags:
   - "Ogre Battle"
   - "RPG"
   - "Snes"
   - "Tactics"
   - "The March of the Black Queen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-068.png"
 ---
+Before I decided to consolidate my groups a bit, my lord's alignment and charisma were sky-high. I'm even proudly wielding the holy sword Brunhild. They...
+<!--more-->
 
 Before I decided to consolidate my groups a bit, my lord's alignment and charisma were sky-high. I'm even proudly wielding the holy sword Brunhild. They just don't toss those out to just *anyone*.
 
@@ -46,13 +24,13 @@ But now, I am in dire straits. My charisma is a nice, round zero -- and it's the
 
 How did this happen?
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-065.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-065.png" classes="center" >}}
 
 There were a couple of reasons. First and foremost, after I was able to buy the Golden Bough Deneb wanted, I went back to her garden and recruited her. Recruiting her is BAD. But I really wanted her to join my army.
 
 Also, I overleveled some things. The manual shows you a specific path through the game, but I noticed in the FAQs that if you want Debonair to reveal to Figaro, the boss of Kalbi Peninsula, that he is still alive, you need to first skip Kalbi and work your way through to Shangri La, rescue Debonair, then clear Kalbi. There were several maps that opened up at that point which I then needed to do, though all were now below my level.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-056.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-056.png" classes="center" >}}
 
 I did them anyway. I knew my alignment would suffer, but I didn't know how much.
 
@@ -60,35 +38,35 @@ To be honest, I wasn't really keeping track of my alignment and charisma fall. I
 
 Now, I have to figure out how I'm going to get things back to where I need them to be for the best ending. Alignment and Charisma have to be near maxed, not bottomed out.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/ogremap.png)The map so far
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/ogremap.png" classes="center" >}}The map so far
 
 I have General Debonair in my main group. I don't think having two general/lord types in my army is doing any good, so he has to go. I used to have two samurai in my front line and never had an issue. I think he's probably the biggest reason my charisma dropped.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-069.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-069.png" classes="center" >}}
 
 Every army needs a unit that is dedicated to liberating cities. I'm still using Canopus for that, and you can see that he's still pretty much above it all. His unit hasn't been changed much at all. When you get him, his unit has him and two other hawkmen in the back row, and the gryphon was in the front row.
 
 That poor gryphon would get murdered any time they got into a fight. So I moved him to the back row and moved two of the hawkmen to the front row. The gryphon started fighting with a "hit all" ability, Gale, and stopped dying so much. Now that the gryphon is promoted to a Cockatris (actual spelling), he petrifies everyone he meets. It's really great. Great unit for liberation and for chasing down running enemy units.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-070.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-070.png" classes="center" >}}
 
 Lans is the first unit you recruit, and he's still my second-in-command. His alignment is still high, but his charisma is falling, almost certainly because I placed another named unit, Rauny, in his army as DPS. It's a very effective unit, though. Lans and a Ninja Master are tanking. Another Ninja Master is in the back row, doing group attacks, next to Rauny, who is also doing group attacks as a Muse. The shaman keeps everyone healed and deals with undead. I put Lans to guard the cities where I know enemy units are headed. He does not let me down.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-071.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-071.png" classes="center" >}}
 
 Aisha's team is the same from when I recruited her. I did promote her to Princess, which gives her a two hit hit-all ability from the back row. With her in the back row is a Nixie with another Icestorm, another hit-all ability. There is no healer in this group. Usually four hit alls, plus the two paladins and second nixie in the front row, are all that is needed to wipe out the enemy. Of course, she is useless vs undead and must immediately retreat. (**NOTE:** *this is not true. Starlite is White magic and kills them all. I was thinking of another unit.*)
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-072.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-072.png" classes="center" >}}
 
 Warren, the very first boss you meet and subsequently recruit, I left mostly untouched for much of the game. I swapped out one of his hellhounds with a ghost and a skeleton I recruited in the Pogrom Forest, and they did a fine job. I usually had him guarding the rebel base, only venturing out toward the end. As such, he was underleveled and also nearly invulnerable.
 
 After his promotion to Mage, I decided he would be more useful as part of a new group with General Tristan and Dragoon Slust. I've decided now that you can't have more than one named unit in a group, because Tristan and Slust have done nothing but argue and it's bringing the whole vibe down. Like the vibe from the highlands. It's bad.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-053.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-053.png" classes="center" >}}
 
 I'm about 2/3rds of the way through the game. If I want to get the best ending, I have to start working on that now. First: Split up the teams, one named per team. Second, find some low-alignment enemies to grind alignment on. My alignment isn't bottomed out *yet* -- I should be able to more carefully pick my fights. There's some levels that are filled with good units (like the mermaid level) and I should have stayed out of a lot of those fights. Not all of my groups need high alignment and charisma, just my character.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-061.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-061.png" classes="center" >}}
 
 Getting Debonair out of my group should help with the Charisma. Only fighting unredeemable units should get that Alignment up. I have to play the remaining levels very carefully, but I don't believe it is too late.
 

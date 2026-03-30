@@ -3,41 +3,19 @@ date: '2008-10-30T12:26:15-05:00'
 draft: false
 title: "LBP: The Littlest, Biggest Planet in the galaxy."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/30/lbp-the-littlest-biggest-planet-in-the-galaxy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night was a LittleBigPlanet night. I didn't know that it was going to be a LBP night, but when I sat down to play,..."
+categories:
   - "Littlebigplanet"
   - "Other Games"
+tags:
   - "PS3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/stp61416.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/stp61416.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61416.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61416.jpg"
 ---
+Last night was a LittleBigPlanet night. I didn't know that it was going to be a LBP night, but when I sat down to play,...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/stp61416.jpg "stp61416")
+
 
 Last night was a LittleBigPlanet night. I didn't know that it was going to be a LBP night, but when I sat down to play, my cat pinned me to the couch and I wasn't able to leave for hours. Besides, when [Stargrace](http://mmoquests.com) and Sirhyl stopped by the Pod of Love, ready to play, how could I not?
 
@@ -47,7 +25,7 @@ The other issue is the camera. The camera is the hidden extra player in the game
 
 We played solo after that, but even though we weren't playing together, the achievements we made and levels we finished got flashed to each other's screens, so it was nice. I followed them to some user-made levels which are designed to give you certain trophies, and those were kinda cool in a god-mode kind of way.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/stp61418.jpg "stp61418")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/stp61418.jpg" title="stp61418" classes="center" >}}
 
 Afterward, I finished the creation tutorials and set to work on my first level, the EQ1 dungeon of Befallen as a platformer. It will be a level dominated by a huge well, and as you go down each dungeon level, there will be new puzzles to solve to cross it in different ways.
 
@@ -59,7 +37,7 @@ The hard part is going to be figuring out how to make the boss battle at the end
 
 The stuff you can do in LBP is amazing, especially given how simple all the individual bits are. The story levels are just astounding and are great examples of how to put these games together.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/stp61413.jpg "stp61413")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/stp61413.jpg" title="stp61413" classes="center" >}}
 
 My "Pod", decorated with found items and pictures of me and my friends. I wish I could figure out how to get those pictures off the PS3 and on to a computer where I could do something with them -- Stargrace as Zombie Bride was particularly cool -- but I guess I better work on getting better at taking pictures off the television with my camera.
 

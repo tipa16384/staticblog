@@ -3,40 +3,17 @@ date: '2009-08-18T07:09:59-05:00'
 draft: false
 title: "Daily Blogroll 8/18: Champions Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/18/daily-blogroll-818-champions-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This week marks the start of the Champions Online open beta, the end of Aion's closed beta, the beginning of the Fallen Earth open beta,..."
+categories:
   - "Champions Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/progress.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/progress.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/progress.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/progress.jpg"
 ---
+This week marks the start of the Champions Online open beta, the end of Aion's closed beta, the beginning of the Fallen Earth open beta,...
+<!--more-->
 
-![progress](https://chasingdings.com/wp-content/uploads/2009/08/progress.jpg "progress")
+
 
 This week marks the start of the Champions Online open beta, the end of Aion's closed beta, the beginning of the Fallen Earth open beta, and right now, MMO gamers just have to be asking themselves why they PAY for games when they can just jump from beta to beta?
 

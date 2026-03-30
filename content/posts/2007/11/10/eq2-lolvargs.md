@@ -3,49 +3,24 @@ date: '2007-11-10T01:15:56-05:00'
 draft: false
 title: "EQ2: LOLVARGS"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/10/eq2-lolvargs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ya know, I'm not even going to try to explain. It's late, I'm tired, just leave me alone...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/lol5.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/lol5.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/lol5.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/lol5.jpg"
 ---
+Ya know, I'm not even going to try to explain. It's late, I'm tired, just leave me alone....
+<!--more-->
 
 Ya know, I'm not even going to try to explain. It's late, I'm tired, just leave me alone.
 
-![](https://chasingdings.com/wp-content/uploads/2007/11/lol5.jpg)
-
-![](https://chasingdings.com/wp-content/uploads/2007/11/lol3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/lol3.jpg" classes="center" >}}
 
 More after the jump.
 
-![](https://chasingdings.com/wp-content/uploads/2007/11/lol1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/lol1.jpg" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2007/11/lol2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/lol2.jpg" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2007/11/lol4.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/lol4.jpg" classes="center" >}}

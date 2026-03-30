@@ -3,39 +3,18 @@ date: '2020-08-28T07:16:06-05:00'
 draft: false
 title: "Blaugust #28: Let's forget 2020 ever happened."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/28/blaugust-28-lets-forget-2020-ever-happened/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wow. I'd hate to be in the shoes of UltrViolet of Endgame Viable, who has the unenviable task of asking the question:..."
+categories:
   - "Blaugust"
+tags:
   - "2020"
+  - "Blaugust"
   - "Girls Screaming"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/01a15x11vangoghgreenwheatcorn-and-cypresses.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/01a15x11vangoghgreenwheatcorn-and-cypresses.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/01a15x11vangoghgreenwheatcorn-and-cypresses.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/01a15x11vangoghgreenwheatcorn-and-cypresses.jpg"
 ---
+Wow. I'd hate to be in the shoes of UltrViolet of Endgame Viable, who has the unenviable task of asking the question:...
+<!--more-->
 
 Wow. I'd hate to be in the shoes of [UltrViolet of Endgame Viable](https://endgameviable.com/), who has the unenviable task of asking the question:
 
@@ -45,7 +24,7 @@ Wow. I'd hate to be in the shoes of [UltrViolet of Endgame Viable](https://endga
 
 I'm ready for 2020 to be over. 2021 could be even worse. Although some people I know have had Covid, none of them has died. Everyone in my family was either able to work from home or were an essential employee, so we were able to keep our jobs. Tropical Storm Isaias cost us hundreds of dollars of food, but we were okay.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/dumpsterfire-300x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/dumpsterfire-300x300.png" classes="center" >}}
 
 So next year, I am looking for life to return to normal. I want to get back to the gym. I want to start bicycling again. I want to go to movies again. I want to be able to not worry about politics again. I'd like the US to stop being a cesspool of disease and corruption. I'd like to stay healthy and for everyone in my family to stay healthy.
 

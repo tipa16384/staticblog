@@ -3,43 +3,20 @@ date: '2022-02-21T08:07:58-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Line of Sight"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/02/21/7drl-building-an-engine-line-of-sight/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "NPCs don't want to hit their allies while they are attacking you with ranged attacks. Some objects in the room can block them as well..."
+categories:
   - "7DRL"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/trinketamulet.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/02/trinketamulet.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/trinketamulet.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/trinketamulet.jpg"
 ---
+NPCs don't want to hit their allies while they are attacking you with ranged attacks. Some objects in the room can block them as well...
+<!--more-->
 
 NPCs don't want to hit their allies while they are attacking you with ranged attacks. Some objects in the room can block them as well -- and using the objects in the room to deal with larger swarms of enemies will be an important strategy in the actual game. Today we go over the line of sight algorithm.
 
 As before, you can always test the latest state of the game engine by [following this link to Trinket IO](https://trinket.io/pygame/86b9301490?outputOnly=true). I'd rather work with something that has the latest version of Pygame, or at least let me use a larger screen, but ya work with the tools ya have.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/02/screenshot-3.png)](https://chasingdings.com/wp-content/uploads/2022/02/screenshot-3.png)Playing with Line of Sight
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-3.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-3.png)Playing with Line of Sight
 
 I added some happy little trees to our test room. Based on the scale of the trees and the terrain, our adventurers are probably about 40 feet tall. Just saying.
 
@@ -47,7 +24,7 @@ In my last post, I wrote how each NPC has their own preferred positioning with r
 
 Good job, Babus!
 
-[![](https://chasingdings.com/wp-content/uploads/2022/02/babusspeaks.png)](https://chasingdings.com/wp-content/uploads/2022/02/babusspeaks.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/02/babusspeaks.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/02/babusspeaks.png)
 
 The line of sight algorithm is an addition to each Actor's "good position" algorithm. Where the first implementation was just concerned with distance and position, we now draw an invisible line between the NPC and its target, and check every space it crosses to see if it's on the list of "bad spaces" we make that contains blocking static items or NPCs that are in the way.
 

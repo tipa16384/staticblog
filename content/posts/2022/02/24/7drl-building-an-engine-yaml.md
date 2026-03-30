@@ -3,37 +3,14 @@ date: '2022-02-24T00:14:57-05:00'
 draft: false
 title: "7DRL: Building an Engine -- YAML"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/02/24/7drl-building-an-engine-yaml/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If someone were to quiz me on how a game engine is different from a game, I'd think about it a bit, and then probably..."
+categories:
   - "7DRL"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot-4.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot-4.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-4.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-4.png"
 ---
+If someone were to quiz me on how a game engine is different from a game, I'd think about it a bit, and then probably...
+<!--more-->
 
 If someone were to quiz me on how a game engine is different from a game, I'd think about it a bit, and then probably explain that a game is run *by* the game engine, but no part of the game is actually *in* the game engine. I'm enforcing that by moving the game (as opposed to the game engine) into YAML, which stands for ***Y**AML **a**in’t **m**arkup language*. The game is data. The game engine runs that data.
 

@@ -3,41 +3,19 @@ date: '2008-08-16T04:05:45-05:00'
 draft: false
 title: "Lost in the Shadow of Destruction... or something."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/16/lost-in-the-shadow-of-destruction-or-something/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Long,LONG day. Son wakes up with an ear infection. Go to work. Do some work. Find doctor. Take son to doctor's.Wait forever. Doc says, hey,..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Fan Faire"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/image27-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/image27-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image27-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/image27-1.jpg"
 ---
+Long,LONG day. Son wakes up with an ear infection. Go to work. Do some work. Find doctor. Take son to doctor's.Wait forever. Doc says, hey,...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/image27-1.jpg "image27-1")
+
 
 Long,LONG day. Son wakes up with an ear infection. Go to work. Do some work. Find doctor. Take son to doctor's.Wait forever. Doc says, hey, ear infection. I /sigh. Go to pharmacy. Wait there forever. Go home, give son meds. He goes to sleep. It's 1PM. I opt to do some laundry before we leave. Give the cat a huge bowl of water that scares her,it's so huge she may drown. Go to airport. Remember in the security line that I brought a full sized tube of toothpaste. Expect to be arrested immediately, but they let it through. TSA, my teeth thank you. Thunderstorms in Hartford delay the flight an hour and a half. We barely make the connection in Cincinnati. Try to sleep on plane, but it is SRO. Get to Vegas Slots everywhere. Shuttle to Hotel. Registration guy wants to talk about EQ and WAR for fifteen minutes, which is weird. He's in the WAR closed beta Lucky.
 

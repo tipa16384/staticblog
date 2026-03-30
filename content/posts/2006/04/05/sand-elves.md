@@ -3,41 +3,18 @@ date: '2006-04-05T00:00:00-05:00'
 draft: false
 title: "Sand Elves"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/04/05/sand-elves/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Kinda bugs me when people insist they cannot play the original EverQuest because of \"the horrible graphics\". Sure, seven years ago, the graphics were blocky..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/images/tak.jpg"
-cover:
-  image: "https://chasingdings.com/images/tak.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/tak.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/tak.jpg"
 ---
+Kinda bugs me when people insist they cannot play the original EverQuest because of "the horrible graphics". Sure, seven years ago, the graphics were blocky...
+<!--more-->
 
-![](https://chasingdings.com/images/tak.jpg)
+
 
 Kinda bugs me when people insist they cannot play the original EverQuest because of "the horrible graphics". Sure, seven years ago, the graphics were blocky - but that was seven years ago. Things have changed quite a lot. This shot, killing some treants in the new Prophecy of Ro zone of Taka'hiz... (or whatever...), wouldn't look out of place in EQ2, or even WoW, if you made the colors brighter.
 

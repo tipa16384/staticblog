@@ -3,45 +3,20 @@ date: '2009-04-03T08:08:39-05:00'
 draft: false
 title: "Lord of the Rings Online: Champion of the World"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/03/lord-of-the-rings-online-champion-of-the-world/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yeah, it's a Jimmy Buffet song. Did you REALLY want me to...? Really? Okay, just for you, because you're a friend, the real title of..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg"
 ---
+Yeah, it's a Jimmy Buffet song. Did you REALLY want me to...? Really? Okay, just for you, because you're a friend, the real title of...
+<!--more-->
 
 Yeah, it's a Jimmy Buffet song. Did you REALLY want me to...? Really? Okay, just for you, because you're a friend, the real title of this post is "We are the Champions".
 
 And, we will, we will rock you.
-
-![lotroclient-2009-04-03-07-34-47-79](https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-03-07-34-47-79.jpg "lotroclient-2009-04-03-07-34-47-79")
 
 Last night, I joined Stargrace and Kasul in LotRO for a little Nostalgia action. Gozad peeked in for awhile, and if we can get some other Nostalgians -- looking at you, Sirhyl and Malfi -- to return, we will have a pretty amazing group.
 
@@ -69,6 +44,6 @@ Champions get so many cool attacks, but many are so similar it's hard to judge b
 
 Still, I think I'll enjoy being the DPS for our crew -- unless Sirhyl and Malfi come back with their champ and hunter, in which case I will likely swap to Burglar. She's holding on to the Tipa name at the moment :)
 
-![lotroclient-2009-04-02-21-28-00-42](https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-02-21-28-00-42.jpg "lotroclient-2009-04-02-21-28-00-42")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-02-21-28-00-42.jpg" title="lotroclient-2009-04-02-21-28-00-42" classes="center" >}}
 
 Dera just looks so INTENT on something. "What is my purpose? Why am I here? Do those elves think my butt's too big?"

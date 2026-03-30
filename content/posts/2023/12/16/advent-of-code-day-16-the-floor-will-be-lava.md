@@ -3,42 +3,20 @@ date: '2023-12-16T10:54:05-05:00'
 draft: false
 title: "Advent of Code Day 16 -- The Floor Will Be Lava"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/16/advent-of-code-day-16-the-floor-will-be-lava/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "/u/YellowZorro hasn't posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!"
-description: "/u/YellowZorro hasn't posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!"
-tags:
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Laser"
   - "Lava"
   - "Mirrors"
   - "Reindeer"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/DALL·E-2023-12-16-10.31.52-A-reindeer-leading-the-way-into-the-depths-of-a-giant-cave-that-serves-as-a-Lava-Production-Facility.-The-caves-walls-doorways-and-floor-are-all-na.png"
 ---
+/u/YellowZorro hasn't posted any more art, so back to Dall-E 3 renderings. Today, we get ready to MAKE SOME LAVA TO SAVE CHRISTMAS!
+<!--more-->
 
 Now that you've got all your lenses together and positioned, the beam of light (from the parabolic mirror outside, remember?) is being focused into a tight and very narrow beam that leads deep into the heart of the mountain. Following the deer and the beam of light into the depths, you find the final arrangement of mirrors that will turn the stones into lava. The beam of light doesn't seem like it's entering the contraption in the correct spot to do the most damage; your job today is to [find out where it should enter](https://adventofcode.com/2023/day/16) in order to heat the most rock.
 

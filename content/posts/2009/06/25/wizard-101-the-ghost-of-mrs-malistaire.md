@@ -3,41 +3,19 @@ date: '2009-06-25T00:28:33-05:00'
 draft: false
 title: "Wizard 101: The Ghost of Mrs. Malistaire"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/25/wizard-101-the-ghost-of-mrs-malistaire/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Deciding to see if a treasure card like \"Quench\" could stop Malistaire from casting Meteor Storm all the time, Thomas the Friendly Necromancer and I..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Malistaire"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-24-23-50-59-13.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-24-23-50-59-13.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-24-23-50-59-13.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-24-23-50-59-13.jpg"
 ---
+Deciding to see if a treasure card like "Quench" could stop Malistaire from casting Meteor Storm all the time, Thomas the Friendly Necromancer and I...
+<!--more-->
 
-![Malistaire and his ex-wife, Sylvia](https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-24-23-50-59-13.jpg "Malistaire and his ex-wife, Sylvia")
+
 
 Deciding to see if a treasure card like "Quench" could stop Malistaire from casting Meteor Storm all the time, Thomas the Friendly Necromancer and I took ourselves and our alts to the Great Spyre to see if we could figure out the puzzle of Wizard 101's ultimate encounter.
 
@@ -59,4 +37,4 @@ While I think he can be killed in that way, a real solution wouldn't be so depen
 
 We're getting closer now that we know more about the encounter, but there's something we're still missing.
 
-![About to engage Malistaire](https://chasingdings.com/wp-content/uploads/2009/06/WizardGraphicalClient-2009-06-24-23-45-34-15.jpg "About to engage Malistaire")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/06/WizardGraphicalClient-2009-06-24-23-45-34-15.jpg" title="About to engage Malistaire" classes="center" >}}

@@ -3,40 +3,19 @@ date: '2009-09-29T12:00:08-05:00'
 draft: false
 title: "EVE Online: As seen by Hubble"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/29/eve-online-as-seen-by-hubble/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-28-21-16-44-38.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-28-21-16-44-38.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-28-21-16-44-38.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-28-21-16-44-38.jpg"
 ---
+[...
+<!--more-->
 
-[![Lots o](https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-28-21-16-44-38.jpg "Lots o")](https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-28-21-16-44-38.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-28-21-16-44-38.jpg)
 
 Ya know those [Deep Field](http://en.wikipedia.org/wiki/Hubble_Deep_Field) shots the Hubble took, where they point the telescope at a seemingly empty part of the sky and find [tens of thousand of galaxies in every shot](http://en.wikipedia.org/wiki/Olbers%27_paradox)?
 

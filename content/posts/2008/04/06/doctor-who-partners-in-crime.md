@@ -3,40 +3,17 @@ date: '2008-04-06T11:26:22-05:00'
 draft: false
 title: "Doctor Who: Partners in Crime"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/06/doctor-who-partners-in-crime/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night, millions of Britons (8.4 millions to be exact) sat down to the first episode of the latest series of Doctor Who, the first..."
+categories:
   - "Doctor Who"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/drwho.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/04/drwho.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/drwho.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/drwho.jpg"
 ---
+Last night, millions of Britons (8.4 millions to be exact) sat down to the first episode of the latest series of Doctor Who, the first...
+<!--more-->
 
-![drwho.jpg](https://chasingdings.com/wp-content/uploads/2008/04/drwho.jpg)
+
 
 Last night, millions of Britons (8.4 millions to be exact) sat down to the first episode of the latest series of Doctor Who, the first with Catherine Tate (who co-starred in the 2006 Christmas special). And today, millions of people outside the UK downloaded it and watched it as well. I watched it on my television via my Vista laptop running the media center extensions for a show I'd downloaded on my Linux desktop computer. The wonders of a home network :) As I watched it from the couch with my morning waffles and Diet Coke, I thought how wonderful it will be when BBC makes some sort of deal with some US network so we can see it the SAME DAY.
 
@@ -52,7 +29,7 @@ IN YOUR FACE, ENGLAND. YEARS of making fun of us Americans for being fat, but wh
 
 Anyway, since Catherine Tate's Donna decided not to hang out with the Doctor after her adventure with him a year and a half ago, her life has taken a turn for the dull. Nagging mother. Doesn't even have her own car. Her granddad is a kook who spends the nights gazing at Venus (the only planet named for a woman, he tells Donna). (What he doesn't go on to say is that Venus is an acidic, vitriolic planet with a dead landscape that you can't live with. And it's good he didn't, because I'd have been ALL OVER him. I think he implied it, though, so I'm still kinda heated).
 
-![donna.jpg](https://chasingdings.com/wp-content/uploads/2008/04/donna.jpg) So she decides to go looking for the Doctor. She piles all her luggage in her mom's car and goes looking for trouble, sure he'll be there, too. She finds trouble, and after fifteen minutes of near misses, finds the Doctor as well, as they look in through opposite windows as the villain is explaining her master plan to a hapless bystander in true villain fashion. Donna tries to explain what she's DOING there. This goes on for awhile until the villain excuses herself, but hopes she is not interrupting anything.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/donna.jpg" classes="center" >}} So she decides to go looking for the Doctor. She piles all her luggage in her mom's car and goes looking for trouble, sure he'll be there, too. She finds trouble, and after fifteen minutes of near misses, finds the Doctor as well, as they look in through opposite windows as the villain is explaining her master plan to a hapless bystander in true villain fashion. Donna tries to explain what she's DOING there. This goes on for awhile until the villain excuses herself, but hopes she is not interrupting anything.
 
 Well, it's all chases, sonic pens and screwdrivers, and alien spaceships from then on. Once again, London is assaulted by aliens. But of course, it's all a hoax, because that's what they read on the Internet.
 
@@ -64,6 +41,6 @@ In the end, though, when Donna starts to move her luggage into the TARDIS, the D
 
 Don't they have the word "friend" in Britain? Buddy? Pal? I guess that's why Gandalf was so confused outside the gates of Moria. If the dwarfs had written, "Speak, Mate, and enter" -- they'd have sailed right in. "Friend"? I guess you can't be *friendly* in England. It's all "oh, he acted all mately, but I knew he wasn't a real mate. Mateship isn't something you give lightly!"
 
-![rose.jpg](https://chasingdings.com/wp-content/uploads/2008/04/rose.jpg) Anyway, after explaining wistfully to her granddad that she'd found the man of her dreams and let him "fly away -- in a blue box", she assures the Doctor that she has no interest in his skinny butt, and off they go -- to buzz her granddad and head off to Pompeii. Pompeii, hundreds of years old, but guess when they arrive? Yup. Volcano day. Don't they always?
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/04/rose.jpg" classes="center" >}} Anyway, after explaining wistfully to her granddad that she'd found the man of her dreams and let him "fly away -- in a blue box", she assures the Doctor that she has no interest in his skinny butt, and off they go -- to buzz her granddad and head off to Pompeii. Pompeii, hundreds of years old, but guess when they arrive? Yup. Volcano day. Don't they always?
 
 Donna leaves the keys to her mum's car in a trash bin near the scene of an awful accident -- seems a woman fell off a spaceship, horrible tragedy, all too common these days -- and tells a blonde woman to tell her mum "THAT bin THERE" if she should come by. Donna doesn't know her, but we do. It's Rose. She turns and fades away.

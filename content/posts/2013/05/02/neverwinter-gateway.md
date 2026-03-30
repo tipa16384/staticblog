@@ -3,52 +3,29 @@ date: '2013-05-02T07:07:33-05:00'
 draft: false
 title: "Neverwinter: Gateway"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/05/02/neverwinter-gateway/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "With the Neverwinter Gateway, Cryptic has improved upon World of Warcraft's Armory. Like the Armory, you can check out a player's gear and stats, but..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/05/Fullscreen-capture-522013-72656-AM-480x425.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/05/Fullscreen-capture-522013-72656-AM-480x425.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/Fullscreen-capture-522013-72656-AM-480x425.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/05/Fullscreen-capture-522013-72656-AM-480x425.jpg"
 ---
+With the Neverwinter Gateway, Cryptic has improved upon World of Warcraft's Armory. Like the Armory, you can check out a player's gear and stats, but...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/Fullscreen-capture-522013-72656-AM-480x425.jpg" title="Tipa, Trickster Rogue" class="align-center" >}}
+
 
 With the Neverwinter Gateway, Cryptic has improved upon World of Warcraft's Armory. Like the Armory, you can check out a player's gear and stats, but then it takes it another step further.
 
 Correct me if I'm wrong, but does WoW's Armory allow you to do crafting from your web browser? Gateway does. Can Play the auction house? EverQuest II did something like this years ago, but they charged money to access the service, and as a result, almost nobody used it. SOE eventually made it free, but nobody has even thought about it for years and I wonder if it even still exists.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/Fullscreen-capture-522013-72313-AM-480x293.jpg" title="Click those cows!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/Fullscreen-capture-522013-72313-AM-480x293.jpg" title="Click those cows!" classes="center" >}}
 
 Folks in my Neverwinter guild (Combat Wombat) are just giddy over the prospect of being able to play some little slice of Neverwinter from work, on their phones, checking in when their timers are up to send their little crafters to their new tasks. The comparisons to Farmville are lost on nobody, but the secret of Farmville was engagement, and keeping people engaged and interested in playing a MMO past the first couple weeks is no small victory.
 
 It hasn't been a couple weeks yet. I'm projecting. How long did people click virtual cows in Farmville before they tired of it? Six months? If Cryptic gets six months from the average player, they can't help but be ecstatic. Six times longer than the average player stays with an MMO. Some will stay for years, some will leave after a day, but the average player playing a new MMO for about a month sounds right to me. Always some new game comes along to lure people away. The Gateway could be a powerful tool to keep people in Neverwinter when Wildstar and The Elder Scrolls Online are released.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/05/GameClient-2013-05-02-00-07-56-52-480x342.jpg" title="Tipa Ribtickler" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/05/GameClient-2013-05-02-00-07-56-52-480x342.jpg" title="Tipa Ribtickler" classes="center" >}}
 
 Before I tired of repeating the 1-20 content in Neverwinter's numerous betas, I played a Devoted Cleric, a Great Weapon Fighter and a Trickster Rogue to decent (for beta) levels. I never gave Control Wizard much of a chance -- and neither have very many other people, as any casual survey of grouped players shows very few in wizard's robes; there's only one in the entire guild at this time. (Useful nugget found through the Gateway...)
 

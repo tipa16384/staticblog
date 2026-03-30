@@ -3,43 +3,20 @@ date: '2009-05-07T07:36:30-05:00'
 draft: false
 title: "A word to bloggers about reviewing MMOs I play."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/07/a-word-to-bloggers-about-reviewing-mmos-i-play/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In the aftermath of the scandal surrounding Darkfall and its 2/10 Eurogamer review, I just have a couple of things to say...."
+categories:
   - "Darkfall"
   - "EverQuest"
   - "Free Realms"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-572009-82916-am.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-572009-82916-am.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-572009-82916-am.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-572009-82916-am.jpg"
 ---
+In the aftermath of the scandal surrounding Darkfall and its 2/10 Eurogamer review, I just have a couple of things to say....
+<!--more-->
 
-![fullscreen-capture-572009-82916-am](https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-572009-82916-am.jpg "fullscreen-capture-572009-82916-am")
+
 
 In the aftermath of the scandal surrounding Darkfall and its 2/10 Eurogamer review, I just have a couple of things to say.
 

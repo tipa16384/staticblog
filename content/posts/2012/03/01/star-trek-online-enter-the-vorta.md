@@ -3,40 +3,17 @@ date: '2012-03-01T08:21:12-05:00'
 draft: false
 title: "Star Trek Online: Enter the Vorta"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/03/01/star-trek-online-enter-the-vorta/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I love MMOs. I love leveling in MMOs. Shepherding a character through her own unique path, growing in power and becoming more awesome -- that's..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/03/GameClient-2012-03-01-07-02-00-08-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/03/GameClient-2012-03-01-07-02-00-08-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/03/GameClient-2012-03-01-07-02-00-08-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/03/GameClient-2012-03-01-07-02-00-08-480x383.jpg"
 ---
+I love MMOs. I love leveling in MMOs. Shepherding a character through her own unique path, growing in power and becoming more awesome -- that's...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/GameClient-2012-03-01-07-02-00-08-480x383.jpg" title="Vorta Heerza Huo" class="align-center" >}}
+
 
 I love MMOs. I love *leveling* in MMOs. Shepherding a character through her own unique path, growing in power and becoming more awesome -- that's what keeps me in a game. Once I've finished with the leveling, more often than not I'm done with the MMO. The max level grind can't hold me. World of Warcraft, EverQuest, EQII, Rift, Wizard101 -- once I hit the top, I was ready to move on.
 
@@ -46,7 +23,7 @@ My first character was a regular Andorian, though light-skinned so she might be 
 
 My third character, standard Vulcan. She flew the "Star Trek Enterprise" version of the Enterprise, and unlike Enterprise's T'pol, T'pral wore a uniform. She's currently on detachment to the Bajoran militia for the duration of the Dominion crisis.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/GameClient-2012-02-27-19-55-17-39-480x384.jpg" title="Heerza in happier times" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/03/GameClient-2012-02-27-19-55-17-39-480x384.jpg" title="Heerza in happier times" classes="center" >}}
 
 In the center of that crisis is my fourth character, Heerza, a Vorta. Put in charge of a squadron of Alpha Jem'Hadar during the last days of the Dominion War, Heerza led many attacks against entrenched Alliance positions both on ground and in space, until finally crashing on an unexplored Class L planet. Though the ship was damaged beyond repair, Heerza and her surviving Jem'Hadar were able to rig stasis pods and survive until a Federation exploration ship discovered them while on a mapping mission.
 
@@ -56,6 +33,6 @@ The return of the 2800 has changed all that forever. Now she must confront the D
 
 And that's why I'm still with Star Trek Online, you see. It's that rare, non-sandbox MMO where I can tell my own story.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/03/GameClient-2012-02-28-19-51-11-74-480x384.jpg" title="Heerza's first ship" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/03/GameClient-2012-02-28-19-51-11-74-480x384.jpg" title="Heerza's first ship" classes="center" >}}
 
 Also, seriously? Heerza's first ship in the game was a refurbished Constitution-class starship, a sister to the Enterprise itself! Just can't get cooler than that. Well, it would be cooler if Cryptic would let me buy a Dominion ship... Maybe someday.

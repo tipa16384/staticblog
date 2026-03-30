@@ -3,38 +3,13 @@ date: '2006-02-15T00:00:00-05:00'
 draft: false
 title: "Unan1mous, Crafting in MMOs."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/15/unanmous-crafting-in-mmos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "So there's this new TV reality show called Unan1mous. The basic idea; lock nine people away, and promise a prize of $1.5m to the person..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+So there's this new TV reality show called Unan1mous. The basic idea; lock nine people away, and promise a prize of $1.5m to the person...
+<!--more-->
 
 So there's this new TV reality show called [Unan1mous](http://www.cnn.com/2006/SHOWBIZ/TV/02/15/television.unan1mous.reut/index.html). The basic idea; lock nine people away, and promise a prize of $1.5m to the person who gets the unanimous vote of the others. The catch is, each day they do not choose one person to receive the bonanza, the pot lessens. I suppose after a couple of weeks, it's down to ten bucks and a rusty quarter.
 

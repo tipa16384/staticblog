@@ -3,47 +3,26 @@ date: '2021-08-10T09:06:40-05:00'
 draft: false
 title: "Palia: You're In Our World Now."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/10/palia-youre-in-our-world-now/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "That... isn't actually their tagline (old folks know that it was EverQuest's), but it seems like what this social MMO is going for. An idyllic..."
+categories:
   - "Blaugust"
   - "MMORPG"
+tags:
+  - "Blaugust"
   - "Palia"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/Palia__ConceptRuinsPast.jpg"
 ---
+That... isn't actually their tagline (old folks know that it was EverQuest's), but it seems like what this social MMO is going for. An idyllic...
+<!--more-->
 
 That... isn't actually their tagline (old folks know that it was EverQuest's), but it seems like what this social MMO is going for. An idyllic world where you can relax with friends. The trailer shows players building their own homes and communities, but is that all there is?
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/Palia__ConceptCreek-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/Palia__ConceptCreek.jpg)Creek
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/Palia__ConceptCreek-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/Palia__ConceptCreek.jpg)Creek
 
 Because I enjoy tedious tasks for little reward, I found myself idly listing every MMORPG I could find on Steam last night. People called out all the MMOs I'd missed when I did the Google Trends experiment the other day, and I kept thinking of more, afterward. I'd missed Runescape!? I literally watch Runescape videos every day. I'm pretty sure that the Old School Runescape streamers are being punished in some sort of televised Hell, and I just want to make sure they're okay and try to give them some hope for the future.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/image-1.png)](https://chasingdings.com/wp-content/uploads/2021/08/image-1.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/image-1.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/image-1.png)
 
 There were hundreds of MMOs on the Steam list, and I could easily think of a few dozen more that weren't available on Steam, but should be on that list.
 
@@ -59,7 +38,7 @@ Palia is a social MMO, with little (or perhaps no) emphasis on combat. Players b
 
 NPCs will each have richly developed personalities and will keep the neighborhood bustling while the players involve themselves in the lore of the world.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/Castle_in_the_Sky_1986.png)](https://chasingdings.com/wp-content/uploads/2021/08/Castle_in_the_Sky_1986.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/Castle_in_the_Sky_1986.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/Castle_in_the_Sky_1986.png)
 
 With hints of vanished technology, and its long-armed robots, Palia's setting has been compared many times to Studio Ghibli's movie "Laputa: Castle in the Sky". In the movie, a tyrannical nation of advanced tech people lived in a floating city and raided the nations below, keeping them relatively primitive. Now, the sky people are just myths, the world below is forging their own path, when a mysterious girl floats down from the sky and she and the boy who finds her rediscover the true past of their world.
 

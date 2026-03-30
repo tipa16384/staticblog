@@ -3,55 +3,30 @@ date: '2007-11-11T11:28:58-05:00'
 draft: false
 title: "EQ2: Tier 8 Armor"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/11/eq2-tier-8-armor/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "RoK introduces many new armor styles. Following are some pictures of Tier 8 mastercrafted (the plate) and handcrafted (everything else) armor for all five types..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-11-09-28-21-22.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-11-09-28-21-22.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-11-09-28-21-22.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-11-09-28-21-22.jpg"
 ---
+RoK introduces many new armor styles. Following are some pictures of Tier 8 mastercrafted (the plate) and handcrafted (everything else) armor for all five types...
+<!--more-->
 
 RoK introduces many new armor styles. Following are some pictures of Tier 8 mastercrafted (the plate) and handcrafted (everything else) armor for all five types (plate, chain, brawler, leather and cloth).
 
 Mastercrafted Plate:
 
-![EQ2 Tier 8 mastercrafted plate](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-11-09-28-21-22.jpg)
-
 Even yet more after the jump :)
 
 Handcrafted chain:
 
-![EQ2 Tier 8 handcrafted chain](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-11-09-35-05-14.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-11-09-35-05-14.jpg" classes="center" >}}
 
 Handcrafted brawler armor:
 
-![EQ2 tier 8 handcrafted brawler](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-11-09-43-34-55.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-11-09-43-34-55.jpg" classes="center" >}}
 
 Handcrafted leather armor:
 
-![eq2 tier 8 handcrafted leather](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-11-09-48-03-51.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-11-09-48-03-51.jpg" classes="center" >}}

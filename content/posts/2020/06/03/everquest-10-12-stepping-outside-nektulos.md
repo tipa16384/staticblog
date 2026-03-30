@@ -3,40 +3,18 @@ date: '2020-06-03T11:52:55-05:00'
 draft: false
 title: "EverQuest 10-12: Stepping outside Nektulos"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/06/03/everquest-10-12-stepping-outside-nektulos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's a week since Aradune opened. Raid guilds have the planes of Hate and Fear on lockdown. Naggy died last night; probably Vox has died,..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Aradune"
   - "TLP"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/06/1-eqgame-2020-06-01-21-51-52-88.jpg"
 ---
+It's a week since Aradune opened. Raid guilds have the planes of Hate and Fear on lockdown. Naggy died last night; probably Vox has died,...
+<!--more-->
 
 It's a week since Aradune opened. Raid guilds have the planes of Hate and Fear on lockdown. Naggy died last night; probably Vox has died, too, when I wasn't on to see it. Groups have level 50 alts to sit outside the group and buff and heal.
 
@@ -54,7 +32,7 @@ And I can say that, without a doubt, tanks are broken in EverQuest, at least at 
 
 Other games, you taunt *everything*, pop your defensive cooldowns, and hold the line while the DPS AE everything to death. It's a far more dynamic situation than in EQ. In EQ, you pull one creature and everyone focuses on that one creature, or you pull multiple and the enchanter keep the adds occupied until they are ready to die. This is why crowd control is a big thing in EverQuest and unknown anywhere else.
 
-{{< figure src="https://i.imgur.com/CQF41tJ.png" title="Aradune class distribution" >}}
+{{< image src="https://i.imgur.com/CQF41tJ.png" title="Aradune class distribution" classes="center" >}}
 
 This is a graph showing the class distribution on Aradune right now. It's also a graph showing how easy it is to solo with any given class. I asked Kasul, before I showed this to him, what he thought the least popular class would be. He said "rogue!" right away, and of course he was right. Rogues cannot solo at all.
 

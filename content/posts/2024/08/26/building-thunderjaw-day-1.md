@@ -3,42 +3,20 @@ date: '2024-08-26T07:00:00-05:00'
 draft: false
 title: "Building Thunderjaw — Day 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/26/building-thunderjaw-day-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together."
-description: "My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Horizon Forbidden West"
+tags:
   - "Lego"
   - "Tallneck"
   - "Thunderjaw"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_0230.jpeg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_0230.jpeg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_0230.jpeg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_0230.jpeg"
 ---
+My big birthday present this year was a LEGO Thunderjaw to go along with my LEGO Tallneck. It’s time to start putting it together.
+<!--more-->
 
 I’m going on vacation to California this week, so I am trying out writing a blog on my iPad to see how it goes, as I won’t be near my computer when I’m. I *had* a MacBook, but it was stolen. I’ve heard that modern iPads are nearly as capable as an actual laptop. We’ll see.
 
@@ -50,7 +28,7 @@ A builder that goes by the handle “jazlecraz” [published the instructions](h
 
 Sourcing the bricks is up to the reader.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/IMG_4591-1024x768.jpeg" title="Build in progress. iPad I’m writing this on, on the right" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4591-1024x768.jpeg" title="Build in progress. iPad I’m writing this on, on the right" classes="center" >}}
 
 Building this thing isn’t super easy, but it pales to the effort of getting all the bricks. The final build is a mixture of standard LEGO and Technik parts. There are thousands of pieces.
 

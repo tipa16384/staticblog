@@ -3,41 +3,20 @@ date: '2010-11-28T21:09:29-05:00'
 draft: false
 title: "WoW: Killing you is just Arthas' way of saying \"hello!\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/28/wow-killing-you-is-just-arthas-way-of-saying-hello/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-28-14-42-02-97-480x385.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-28-14-42-02-97-480x385.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-28-14-42-02-97-480x385.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-28-14-42-02-97-480x385.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-28-14-42-02-97-480x385.jpg "Arthas glowers over Northrend from the spirit realm")](https://chasingdings.com/wp-content/uploads/2010/11/WoW-2010-11-28-14-42-02-97.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/WoW-2010-11-28-14-42-02-97.jpg)
 
 I was grinding my way through the Howling Fjord quests in World of Warcraft today, just minding my own business, keeping an eye out for stray turkeys to kill (I don't know why, @Longasc hinted that I should kill them). I've been staging a one-gnome assault on a nearby village of giants; I've fought their champions in the arena, stolen artifacts from beneath the noses of a hundred million undead, freed prisoners and in all ways made myself something of a pest.
 
@@ -55,7 +34,7 @@ Arthras MAY be the very first NPC in any game who ever acknowledged that a playe
 
 Unfortunately for him, my seven free days ends tomorrow. I better get to being a willing vessel quickly.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-28-20-15-56-87-480x384.jpg "Helephant ears smell better than they hear")](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-28-20-15-56-87.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-28-20-15-56-87-480x384.jpg" title="Helephant ears smell better than they hear" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-28-20-15-56-87.jpg)
 
 My garden continues to grow nicely on the Wizard101 test realm. I've reached Rank 3 by harvesting several elder plants. With my three gardens, I've very much outstripped the amount of power in my power pool with which to perform gardening tasks each day; I'm forced to leave some plants with needs. If only the music from my music spell could be heard by the plant in the next pot over...
 
@@ -63,7 +42,7 @@ The Helephant Ears have reached maturity and started giving harvests; the Baby C
 
 I am very close to Rank 4, and that's a fairly respectable rate to level; I guess I can't complain about that. There seem to be ten possible ranks. Farley the Mole sells plants up to Rank 5; I'm hoping seeds become available for later ranks. There's indications that there are variants to Desperagus and Laugh-o-Dills which may well be given when harvesting the elder plants.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-27-23-53-59-32-480x384.jpg "The Doomsday Device")](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-27-23-53-59-32.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-27-23-53-59-32-480x384.jpg" title="The Doomsday Device" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-27-23-53-59-32.jpg)
 
 Parts of Star Trek Online's Season 3 are up on the STO test server, Tribble, for players to test this weekend. Those who spent time on the test server will get a special prize, typically a tribble of some sort. Well, it IS the Tribble server!
 
@@ -71,7 +50,7 @@ The Forge isn't out yet. That's the STO user-generated content creator, similar 
 
 This mission is a sequel of sorts to the original series' [episode of the same name](http://t.co/rTSzDw8). (You can watch it online, legally, from CBS.com by following that link. McCoy quote: "I'm a doctor, not a mechanic!" Also note Commodore Deckard's ship-specific USS Constellation badge). The original Doomsday Machine was an intergalactic visitor, a remnant of another galaxy's ruinous war. Captain Kirk destroyed the original way back when, but now there's been another one sighted. And the Klingons are aching to use it as a weapon with which to dominate the Alpha Quadrant.
 
-I [played this mission](https://chasingdings.com/index.php/2010/02/08/star-trek-online-one-week-later/) in the first week of the game's launch back in February. Back then, it was tough to run a mission alone, and I had a group of friends and strangers. We were pretty much through and done with the thing, Doomsday Machine #2 destroyed and rewards given, before I really knew what was going on.
+I [played this mission](https://tipa16384.github.io/wkblog/index.php/2010/02/08/star-trek-online-one-week-later/) in the first week of the game's launch back in February. Back then, it was tough to run a mission alone, and I had a group of friends and strangers. We were pretty much through and done with the thing, Doomsday Machine #2 destroyed and rewards given, before I really knew what was going on.
 
 It was fun to go back and take some time with it. I had to steal some special torpedoes from a Klingon base, power them with special materials from the core of a recently, not-so-mysteriously destroyed planet, and play a cat and mouse game with the Doomsday Machine where it would fire a planet-killing blast at me, which I would have to immediately follow with a torpedo down its gullet.
 

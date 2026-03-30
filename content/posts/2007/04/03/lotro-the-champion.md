@@ -3,40 +3,17 @@ date: '2007-04-03T12:45:38-05:00'
 draft: false
 title: "LotRO: The Champion"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/04/03/lotro-the-champion/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Whatcha reading? The Fellowship of the Ring? Dude, Gandalf isn't really dead. Oh yeah, and Frodo like totally wants to keep the ring at the..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/04/lotro-book.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/04/lotro-book.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-book.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-book.jpg"
 ---
+Whatcha reading? The Fellowship of the Ring? Dude, Gandalf isn't really dead. Oh yeah, and Frodo like totally wants to keep the ring at the...
+<!--more-->
 
-![lotro-book.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-book.jpg)
+
 
 *Whatcha reading? The Fellowship of the Ring? Dude, Gandalf isn't really dead. Oh yeah, and Frodo like totally wants to keep the ring at the end but Gollum grabs it and falls into Mount Doom.*
 
@@ -44,7 +21,7 @@ Busy busy weekend but I found a little time to play in the Lord of the Rings Onl
 
 I wasn't that pleased with the Minstrel. Minstrels seemed weak on dps, and their healing was really nothing to get excited about. More of a balance issue; would you rather spend your time healing yourself or just take less damage to begin with?
 
-![lotro-scene1.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-scene1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-scene1.jpg" classes="center" >}}
 
 *No Hobbits or smelly Dwarves allowed in the Grey Havens!*
 
@@ -58,6 +35,6 @@ Yes, yes it is.
 
 *Champion strategy note: Champion special attacks are based on the **damage** of the weapon, not the speed. So get the highest damage one-handed weapons you can find and go crazy.*
 
-![lotro-scene2.jpg](https://chasingdings.com/wp-content/uploads/2007/04/lotro-scene2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/04/lotro-scene2.jpg" classes="center" >}}
 
 *Quite easy to become lost in the gorgeous vistas of Elfland...*

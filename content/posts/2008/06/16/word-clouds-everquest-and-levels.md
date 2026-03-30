@@ -3,40 +3,17 @@ date: '2008-06-16T07:41:39-05:00'
 draft: false
 title: "Word Clouds, EverQuest and Levels"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/16/word-clouds-everquest-and-levels/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I found this cool little app over at Wordle that takes a bunch of text you throw at it and makes a decorative tag cloud..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/wordcloud.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/wordcloud.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/wordcloud.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/wordcloud.jpg"
 ---
+I found this cool little app over at Wordle that takes a bunch of text you throw at it and makes a decorative tag cloud...
+<!--more-->
 
-![wordcloud.jpg](https://chasingdings.com/wp-content/uploads/2008/06/wordcloud.jpg)
+
 
 I found this [cool little app](http://wordle.net/) over at Wordle that takes a bunch of text you throw at it and makes a decorative tag cloud out of it. I just took the front page of my site, plugged it in, and... I guess it's pretty obvious what my blog is about, with EverQuest right there, front and center. Well, you know, aside from excursions into WoW and some other favorite games I play now and again, I guess my blog has always been about the game I looked forward to so much in 1999, a game I've had a love/hate relationship with over the years.
 

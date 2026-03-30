@@ -3,24 +3,8 @@ date: '2022-08-08T07:00:00-05:00'
 draft: false
 title: "The Amazing Adventures of 8-Ball!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/08/the-amazing-adventures-of-8-ball/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "\"Adventure of 8-Ball\" is a 2D platformer mobile game with 50 levels, attractive graphics, and catchy music. The player controls 8-ball, a little black cat, on a quest to save their owner from the evil dog catcher who has kidnapped them."
-description: "\"Adventure of 8-Ball\" is a 2D platformer mobile game with 50 levels, attractive graphics, and catchy music. The player controls 8-ball, a little black cat, on a quest to save their owner from the evil dog catcher who has kidnapped them."
-tags:
+categories:
   - "2D Platformer"
   - "Action Adventure Games"
   - "Blaugust"
@@ -30,29 +14,24 @@ tags:
   - "Mobile Games"
   - "OpenAI"
   - "Puzzles"
+tags:
+  - "2D Platformer"
   - "Attractive Graphics"
   - "Catchy Music"
   - "Challenging"
   - "Dall-E 2"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/TipaNina_A_tuxedo_cat_wearing_a_red_bowtie._He_is_standing_in_f_7f5ba02f-45ee-4c41-bf1c-71df9e5d3245.png"
 ---
+"Adventure of 8-Ball" is a 2D platformer mobile game with 50 levels, attractive graphics, and catchy music. The player controls 8-ball, a little black cat, on a quest to save their owner from the evil dog catcher who has kidnapped them.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 8th: “The Amazing Adventures of 8-Ball!”.
 
 Genre: Platformer. Title: "The Amazing adventures of 8-ball". Outline: You play as 8-ball, a little black cat with a big attitude, on a quest to save your owner from the evil dog catcher. Run, jump, and claw your way through 50 levels of non-stop action.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/DALL·E-2022-07-31-17.40.45-A-black-and-white-tuxedo-cat-named-8-ball-running-through-a-warehouse-with-water-dripping-from-very-high-puddles-wires-draped-down-light-streaming-.png" title="8-Ball in the Warehouse level" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/DALL·E-2022-07-31-17.40.45-A-black-and-white-tuxedo-cat-named-8-ball-running-through-a-warehouse-with-water-dripping-from-very-high-puddles-wires-draped-down-light-streaming-.png" title="8-Ball in the Warehouse level" classes="center" >}}
 
 Your owner, who is a scientist, has been kidnapped by the evil dog catcher and taken to his lair. You must rescue her before she is used in his nefarious experiments. Along the way you will encounter a variety of enemies, obstacles, and puzzles. Use your agility and intelligence to defeat the dog catcher and his henchmen and rescue your owner. Now, the dog catcher is an elected official, so you're going to have to deal not only with the dog catcher and his henchmen, but also with the political bureaucracy that's in place. This is going to be a tough quest, but you're up for the challenge!
 

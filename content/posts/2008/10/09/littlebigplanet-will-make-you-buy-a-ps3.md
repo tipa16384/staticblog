@@ -3,51 +3,29 @@ date: '2008-10-09T08:30:47-05:00'
 draft: false
 title: "LittleBigPlanet will make you buy a PS3."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/09/littlebigplanet-will-make-you-buy-a-ps3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
-  - "Littlebig Planet"
+summary: "What SPORE did for Civilization-type games, LittleBigPlanet is going to do for platformers. Nobody will play the game the same way you do, and the..."
+categories:
+  - "Little Big Planet"
   - "Littlebigplanet"
+tags:
   - "Lbp"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/stp61406.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/stp61406.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61406.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/stp61406.jpg"
 ---
+What SPORE did for Civilization-type games, LittleBigPlanet is going to do for platformers. Nobody will play the game the same way you do, and the...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/stp61406.jpg "stp61406")
+
 
 What SPORE did for Civilization-type games, LittleBigPlanet is going to do for platformers. Nobody will play the game the same way you do, and the longer you play, the more the game will become a unique reflection of your own creativity and the things YOU find fun. Joe, June, Jane and Jack can play it some stupid boring way, but you can skip all those parts and just bring the FUN ones into the game. Or make your own. Or take someone else's and change it.
 
 Because LittleBigPlanet isn't just a game, it's a thousand games, and you get to choose which ones become part of your own planet.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/stp61407.jpg "stp61407")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/stp61407.jpg" title="stp61407" classes="center" >}}
 
 The game itself is narrated by British comedian Stephen Fry, who also narrated "Hitchhiker's Guide to the Galaxy", and he makes even the tutorial a fun, fairy-tale adventure. The tutorials themselves give little peeks into the sort of worlds and levels the player will soon be making on their own, and I gotta admit, if my kids were still kids, making fun levels for them to play would be the absolute most wonderful thing ever. Every level is like a new story, with your little Sackboy or Sackgirl as the hero (and of course, you can invite your friends over to play with you! Why not?)
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/stp61409.jpg "stp61409")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/stp61409.jpg" title="stp61409" classes="center" >}}
 
 This is my "pod", the room everyone gets. That planet hanging by a scrap of yarn is LittleBigPlanet itself, and using the PS3 controller in the back there, I can zoom in to any part of it and play the games I find. The pod can (of course) be decorated with the things you find in game, so even the menu screen for the game, which this is, will be as unique as the player.
 

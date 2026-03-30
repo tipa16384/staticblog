@@ -3,39 +3,16 @@ date: '2006-06-06T00:00:00-05:00'
 draft: false
 title: "GMail"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/06/gmail/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We have severe problems with e-mail at work. We use Outlook 2000. Named not for the year it came out, but for how much mail..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/images/gmail.png"
-cover:
-  image: "https://chasingdings.com/images/gmail.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/gmail.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/gmail.png"
 ---
+We have severe problems with e-mail at work. We use Outlook 2000. Named not for the year it came out, but for how much mail...
+<!--more-->
 
-![](https://chasingdings.com/images/gmail.png)
+
 
 We have severe problems with e-mail at work. We use Outlook 2000. Named not for the year it came out, but for how much mail you can have before Outlook sticks a revolver  in its mouth and pulls the trigger. Pass 2000 megabytes of mail, and it's gone. Corrupted. Without a hope of retrieval, unless you use two Microsoft tools to fix it - the first whacks several megabytes of mail from the end of your monolithic message file, the other heals the wounds THAT caused and makes it usable, until the next time that person passes the limit.
 

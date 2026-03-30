@@ -3,40 +3,17 @@ date: '2015-06-07T14:13:06-05:00'
 draft: false
 title: "Killing giants for fun and profit!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/07/killing-giants-for-fun-an/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I wonder if everyone sees my butt like this at the end of a dungeon, or if they're looking at their own character in some..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-06-18-17-32-41-1024x640.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-06-18-17-32-41-1024x640.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-06-18-17-32-41-1024x640.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-06-18-17-32-41-1024x640.jpg"
 ---
+I wonder if everyone sees my butt like this at the end of a dungeon, or if they're looking at their own character in some...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-06-18-17-32-41-1024x640.jpg" title="The bigger they come..." class="align-center" >}}
+
 
 I wonder if everyone sees my butt like this at the end of a dungeon, or if they're looking at their own character in some sort of heroic pose. It's okay if it's me they're seeing, because I'm friggin Brienne of Tarth here. I look like a warrior. I love MMOs where it doesn't matter if you're a boy or a girl, if you're a warrior, you look badass.
 

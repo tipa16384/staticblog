@@ -3,44 +3,22 @@ date: '2024-04-19T07:58:49-05:00'
 draft: false
 title: "Beyond Shadowgate -- the Demo"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/04/19/beyond-shadowgate-the-demo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Still trying to figure out the puzzles in that old NES cart of Shadowgate you still somehow have? Well, you can finally take the game out of your NES because the sequel is finally here, almost."
-description: "Still trying to figure out the puzzles in that old NES cart of Shadowgate you still somehow have? Well, you can finally take the game out of your NES because the sequel is finally here, almost."
-tags:
+categories:
   - "Beyond Shadowgate"
   - "Kickstarter"
+tags:
   - "Adventure Game"
   - "NES"
   - "Point and Click"
   - "Shadowgate"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/04/thumb0-640x360-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/04/thumb0-640x360-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/thumb0-640x360-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/04/thumb0-640x360-1.jpg"
 ---
+Still trying to figure out the puzzles in that old NES cart of Shadowgate you still somehow have? Well, you can finally take the game out of your NES because the sequel is finally here, almost.
+<!--more-->
 
-After I wrote about "[Beyond Shadowgate](https://www.kickstarter.com/projects/zojoi/beyond-shadowgate)" in my [Kickstarter post](https://chasingdings.com/2024/04/18/confessions-of-a-kickstarter-superbacker/) yesterday, I was unsure if I'd ever actually played it. I have distinct memories about playing a game *like* that, but I was really so terribly sue that I'd played Castlevania on the Mac Classic back in the day, only to find out it had been an entirely *different* game, Dark Castle. So I had to play a version of Castlevania just to get back some of that gamer cred I'd lost.
+After I wrote about "[Beyond Shadowgate](https://www.kickstarter.com/projects/zojoi/beyond-shadowgate)" in my [Kickstarter post](https://tipa16384.github.io/wkblog/2024/04/18/confessions-of-a-kickstarter-superbacker/) yesterday, I was unsure if I'd ever actually played it. I have distinct memories about playing a game *like* that, but I was really so terribly sue that I'd played Castlevania on the Mac Classic back in the day, only to find out it had been an entirely *different* game, Dark Castle. So I had to play a version of Castlevania just to get back some of that gamer cred I'd lost.
 
 I *know* I didn't play Shadowgate on my NES, because I didn't have an NES. I was an Atari girl. That meant something, back in the day. It meant I didn't get to play any of those NES, or Commodore 64, or Amiga, or Apple // games. Instead, I could play... Miner 2049er. So, take that, haters.
 
@@ -50,7 +28,7 @@ Shadowgate came out for a bunch of systems, but their NES version was, I think, 
 
 There is a lot of dying, in Shadowgate. Usually it's you.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/04/image-11-1024x589.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/04/image-11-1024x589.png" classes="center" >}}
 
 The interface is extremely simple. There's an un-animated view of your current location in the upper left. You can't turn around; when you are in a location, the view is always the same. On the upper right is your inventory. Along the bottom, either the narrator is telling you something (usually, "You will die in two seconds. WHAT DO YOU DO?" or words to that effect), or the actions you can take, as well as a simple map of your location and possible exits, which update as you unlock new exits.
 

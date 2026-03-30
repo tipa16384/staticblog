@@ -3,40 +3,17 @@ date: '2015-12-29T18:57:44-05:00'
 draft: false
 title: "An Overdue Encounter"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/12/29/an-overdue-encounter/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Kasul was sooo close to 59, so we spent a little time doing quests and running Fates and those were actually pretty fun. There's a..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg"
 ---
+Kasul was sooo close to 59, so we spent a little time doing quests and running Fates and those were actually pretty fun. There's a...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/5-vlcsnap-2015-12-29-16h17m55s220.jpg" title="Let me stamp that for you..." class="align-center" >}}
+
 
 Kasul was sooo close to 59, so we spent a little time doing quests and running Fates and those were actually pretty fun. There's a storyline dealing with fights between good and bad dragons that we took part in. The bad dragon has all sorts of bad dragon friends, but all the good dragon had was us. Well, sometimes a Fate train would come chugging in, complete the Fate, and steam off once more, and that was fun. I even changed to Dragoon for a bit of it, got level 54 out of it and could wear some of the armor I got from quests while leveling up my Paladin job.
 
@@ -52,7 +29,7 @@ Well, we wandered about for quite awhile looking for the Magical Devices A-F: Ae
 
 I doubt he liked the ending much.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/4-vlcsnap-2015-12-29-16h15m23s222.jpg" title="Trust not thine Creepy-elves" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/4-vlcsnap-2015-12-29-16h15m23s222.jpg" title="Trust not thine Creepy-elves" classes="center" >}}
 
 Matoya begrudgingly decrypted the book for us, warning us that the knowledge was only one part of the puzzle. It would still need a power source. Hmm. Well, didn't Estinien have something like a dragon eye or something that was full of power? So let's go ask him how he feels about giving that up. Matoya kept Y'shtola back for a moment as we left, told her she had noticed that Y'shtola was now blind and was using her vital life force to "see" her surroundings. (I called that she was blind last week.... not that they didn't make it very obvious).
 
@@ -96,7 +73,7 @@ While Cid and his crew worked out the details, Y'shtola sent us to say goodbye t
 
 Urianger came by at the end and handed his ex-(because she died)-(while he watched)-girlfriend's white auracite to Y'shtola just in case we might need it later. It has been known to keep Ascians from re-incarnating, and it's a little odd that a friend to the Ascians, like Urianger, is betraying his best buds like this. I cannot wait to find out what his whole evil plot might be.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/3-vlcsnap-2015-12-29-16h14m28s40.jpg" title="Rerouting all power to the forward deflector array" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/3-vlcsnap-2015-12-29-16h14m28s40.jpg" title="Rerouting all power to the forward deflector array" classes="center" >}}
 
 And then it was off to Azys Lla. Estinien did not swallow, and was not swallowed by, Nidhogg's eye as he channeled its power into the aethyric lance. It successfully shattered the impermeable membrane around the ancient Allagan city and we passed through to fertilize it with our prime directive. Or something.
 
@@ -114,7 +91,7 @@ Not dead until we see the body... but I think she might actually be dead.
 
 We'd soon find out why Iceheart and Hraesvelgr were so interested in Azys Lla....
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/2-vlcsnap-2015-12-29-16h12m37s69.jpg" title="Confronted by Gaius von Baltar" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/2-vlcsnap-2015-12-29-16h12m37s69.jpg" title="Confronted by Gaius von Baltar" classes="center" >}}
 
 Azys Lla seemed a dead city, filled with ancient mechanisms and stray monsters. Wedge literally stumbled on an ancient sentinel (shades of Arthur Clarke's "The City and the Stars"?) which ... you know, I'm reminded just how much Clarke's stories creeped me out when I was a kid.
 
@@ -128,7 +105,7 @@ Someone has a really deep knowledge of the genre, at any rate.
 
 Estinien, Alphinaud and Y'shtola stayed behind to keep the Imperials from pursuing us, following Gaius' cowardly flight as the battle turned against him. We continued alone to the Delta Quadrant to waken the last (Stargate the Movie-like) short range teleporter and finally arrive at Flagship, home to the mysterious "Warring Triad" and the likely destination of the Archbishop.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/1-vlcsnap-2015-12-29-16h11m52s109.jpg" title="Tiamat!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/1-vlcsnap-2015-12-29-16h11m52s109.jpg" title="Tiamat!" classes="center" >}}
 
 As we approached Flagship, we came across a monstrous dragon impaled on some sort of device. The dragon demanded to know who interrupted its agony. Midgardsormr appeared in dragonling form next to us and revealed that this was Tiamat, sister to Bahamut, both of them his children, brought with him as eggs to this world eons ago. When Bahamut was killed, Tiamat agreed to give up her freedom and power to the Ascians in order to bring Bahamut back to life. But the life they gave him was cruel and tormented, and is a raid dungeon now that I have hopes to someday see.
 
@@ -150,7 +127,7 @@ I've been doing daily game reports on G+ for a few days, and decided I'd blog th
 
 But, as a little *omake*, here's today's report:
 
-[![ffreport122915](https://chasingdings.com/wp-content/uploads/2015/12/ffreport122915.jpg)](https://chasingdings.com/wp-content/uploads/2015/12/ffreport122915.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/ffreport122915.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2015/12/ffreport122915.jpg)
 
 Level 50 dungeon: Amdapor Keep
 
@@ -160,7 +137,7 @@ Trial: Thornmarch (Hard)
 
 I did have Advanced Combat Tracker on through all the runs today, so I knew, before the black mage mentioned it, that the group's dragoon wasn't doing his job. The black mage was doing a great rotation, and I was doing my best, but the dragoon was being outdamaged by me on most fights, and by the HEALER on some. Toward the end, the BLM wanted to kick him, but I declined because I just wanted to finish. The dragoon got angry and finished up TREMENDOUSLY on the last boss, cursing all the time.
 
-[![dragoonshame](https://chasingdings.com/wp-content/uploads/2015/12/dragoonshame.jpg)](https://chasingdings.com/wp-content/uploads/2015/12/dragoonshame.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/dragoonshame.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2015/12/dragoonshame.jpg)
 
 Cutter's Cry was very standard. Everyone did their job. I started very much switching between tank and dps modes through the dungeon, as appropriate, and my dps was pretty good.
 

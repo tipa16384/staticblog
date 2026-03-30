@@ -3,44 +3,23 @@ date: '2024-03-23T10:03:57-05:00'
 draft: false
 title: "Unicorn Overlord -- Whose Overlord Is It, Anyway?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/03/23/unicorn-overlord-whose-overlord-is-it-anyway/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "After playing through this amazing real-time tactics RPG, the only question I hadn't answered was... were we the baddies all the time?"
-description: "After playing through this amazing real-time tactics RPG, the only question I hadn't answered was... were we the baddies all the time?"
-tags:
+categories:
   - "PS5"
   - "Tactical RPG"
   - "Tactics"
   - "Unicorn Overlord"
+tags:
   - "Final Fantasy Tactics"
   - "Ogre Battle"
   - "RPG"
+  - "Tactics"
   - "Tactics Ogre"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322181915.jpg"
 ---
+After playing through this amazing real-time tactics RPG, the only question I hadn't answered was... were we the baddies all the time?
+<!--more-->
 
 Unicorn Overlord was just dropped into my lap out of the blue. Well, out of my boyfriend's hands, I guess. I was playing Palworld when it happened. "I thought you might like playing this more than Palworld," he said, having just opened one of those distinctive plastic Amazon envelopes.
 
@@ -48,23 +27,23 @@ Well, I guess. I was really enjoying Palworld, but games like Unicorn Overlord d
 
 But... I didn't want to seem ungrateful, so I loaded it into my PS5 and... well, I haven't come back up for air in over a week.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240322174236.jpg" title="Start Battle screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322174236.jpg" title="Start Battle screen" classes="center" >}}
 
 Unicorn Overlord is a real-time tactics RPG, in the vein of the Ogre Battle series mixed with a little Fire Emblem. There is an overworld that you will wander around and do RPG things, like trading, gathering resources, chatting with NPCs and so on. Scattered around the map are banners that indicate a battle.
 
 Battles always take place on a separate map with at least one home base and at least one objective marker, that you must capture. The battle map works in real time, though the game can (and should) be paused to bring out new units and to give units order, to use consumables, and so on. When one of your units come into contact with an enemy unit, the two units battle automatically. If this was a story mission, then the story might advance a bit before the fighting begins.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240322193252.jpg" title="In the thick of battle" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322193252.jpg" title="In the thick of battle" classes="center" >}}
 
 You can't control the characters while they are fighting, but you can use a gambit system very similar to Final Fantasy XII's similar system to influence when your troops heal, use big attacks, and so on. All units have a base AP (action point) and PP (passive point) budget, which can be increased or decreased with gear and levels, or as the result of certain actions. Every action takes some action points; run out of actions and the unit can't do anything; when all combatants have run out of AP, the battle ends. PP is spent on passive abilities, such as support magics, guarding units, and so on.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240321232243.jpg" title="Some characters having a chat" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240321232243.jpg" title="Some characters having a chat" classes="center" >}}
 
 You play Alain, a young prince whose mother, a queen, was killed while saving him from an unprovoked invasion from the revived remnants of an ancient empire. While the queen's most faithful retainer raises and trains Alain on a secluded island, the newly restored Zenoiran empire conquers Alain's homeland and the other four countries on the continent.
 
 But the paradisical life on the island is interrupted when the world comes calling and Alain has to leave to meet his destiny. Led by the light of the Ring of the Unicorn and a prophecy from a mystic Sage, Alain and his mentor, Josef, and friends Lex and Scarlet, leave on a little mission to save the world.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240321232431.jpg" title="Alain talking with Scarlet" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240321232431.jpg" title="Alain talking with Scarlet" classes="center" >}}
 
 Most tactics RPGs, including the Fire Emblem series, are turn based. You move a unit, the opponent moves a unit, and play trades like that until it's over. Games like Ogre Battle, however, have you shifting your attention around a map more along the lines of an RTS game; most of your important decisions are going to be how you form and equip your squads.
 
@@ -72,7 +51,7 @@ As in the Fire Emblem series, characters can become closer, emotionally, to each
 
 Most battles involve Alain's Liberation Army doing what they do -- liberating towns. These liberation battles are typically fairly straightforward, compared to the larger plot battles, and they can be gamed to earn extra experience and honor. Once liberated, towns offer vendors and other services, and you can do delivery tasks to open up even more services and vendor items. If you feel inclined and have folks to spare, you can set one of your army toward guarding the town, and they will give you resources now and again. (Guard units are still available in the battle stages; there is no reason *not* to do so). 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Unicorn-Overlord_20240322182038.jpg" title="Alain looking at an old church" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Unicorn-Overlord_20240322182038.jpg" title="Alain looking at an old church" classes="center" >}}
 
 Unicorn Overlord, on its normal mode, is quite a lot easier than Ogre Battle. Ogre Battle is vicious about taking advantage of any lapses in guarding your bases during a battle. Unicorn Overlord rarely punishes you for this, and should it happen, it offers you plenty of warning and gives you many chances to get something there in time. It is usually pretty easy to rapidly get around the sections of the map you've already opened up.
 

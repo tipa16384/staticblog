@@ -3,24 +3,8 @@ date: '2009-06-24T08:19:54-05:00'
 draft: false
 title: "Daily Blogroll 6/24 -- I Love Allergies edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/24/daily-blogroll-624-i-love-allergies-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yes, we're back to the Daily Blogroll. Another allergy attack has left me asleep by 9PM, which really shortens the nights for me...."
+categories:
   - "Aion"
   - "Champions Online"
   - "Daily Blogroll"
@@ -31,20 +15,13 @@ tags:
   - "Tabula Rasa"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg"
 ---
+Yes, we're back to the Daily Blogroll. Another allergy attack has left me asleep by 9PM, which really shortens the nights for me....
+<!--more-->
 
-![Nashuya in Aion](https://chasingdings.com/wp-content/uploads/2009/06/aion-2009-06-21-16-27-52-78.jpg "Nashuya in Aion")
+
 
 Yes, we're back to the Daily Blogroll. Another allergy attack has left me asleep by 9PM, which really shortens the nights for me.
 

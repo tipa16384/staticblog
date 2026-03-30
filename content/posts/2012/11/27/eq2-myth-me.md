@@ -3,40 +3,17 @@ date: '2012-11-27T07:03:35-05:00'
 draft: false
 title: "EQ2: Myth me?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/11/27/eq2-myth-me/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was a whirlwind holiday weekend. And the holiday to which I refer is Thanksgiving, NOT \"Black Friday\" or \"Cyber Monday\". Thanksgiving, a time for..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-24-23-53-45-38-480x299.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-24-23-53-45-38-480x299.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-24-23-53-45-38-480x299.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-24-23-53-45-38-480x299.jpg"
 ---
+It was a whirlwind holiday weekend. And the holiday to which I refer is Thanksgiving, NOT "Black Friday" or "Cyber Monday". Thanksgiving, a time for...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-24-23-53-45-38-480x299.jpg" title="Fully myth'd" class="align-center" >}}
+
 
 It was a whirlwind holiday weekend. And the holiday to which I refer is Thanksgiving, NOT "Black Friday" or "Cyber Monday". Thanksgiving, a time for family to come together, which mine did, and a time to eat a lot of food, which I did. The piggery continues with leftovers to this day.
 
@@ -46,7 +23,7 @@ Which translates today to the Fabled version requiring a single character with a
 
 At level 80, I started the work on the Fabled. I was literally waiting for the mob in Skyfire for the second to last fight when a friend, Said from the old EQ Nostalgia guild, and briefly Sirhyl from the EQ2 incarnation (and now on two or three new characters) offered to help with his max leveled necromancer. I accepted, and shortly had my Fabled, which was, honestly, only a slight upgrade over the Labs dagger I was wielding.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-24-23-52-02-37-480x299.jpg" title="Norrath was still for a moment, for me!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-24-23-52-02-37-480x299.jpg" title="Norrath was still for a moment, for me!" classes="center" >}}
 
 But, Sirhyl had a willing friend. Over the next few days, we did the Tombs of Thuuga, Veeshan's Peak and the Crypt of the Leviathan and, after a long trip to the forge deep in Solusek's Eye, had my "myth".
 
@@ -54,7 +31,7 @@ I owe him quite a debt.
 
 Getting my myth had a nice side effect; my guild wondered who this mystery person was, who was raiding VP and getting mythicals and all that. My guild is super casual, but the high level people know each other in real life, I think, and are always running dungeons together. The old Kunark raids aren't something they really do. But having a tiny (literally) level 83 berserker get her myth when the guild's level 95 berserker didn't have his just wasn't right, so I was invited to come along with the high level folks back to Veeshan's Peak to show them how we did it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/EverQuest2-2012-11-25-20-33-37-04-480x294.jpg" title="The Freeing of Dera" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/EverQuest2-2012-11-25-20-33-37-04-480x294.jpg" title="The Freeing of Dera" classes="center" >}}
 
 Scatterfall was still locked to her instance of VP, I couldn't go. When the guild leader asked if I had any alts, though, I admitted to having a troubadour and an inquisitor, of who much has been written on this blog. Bingo. The guild has too many troubs already (story of my life), so I unpacked Dera from her mothballed inn room and got her guilded.
 

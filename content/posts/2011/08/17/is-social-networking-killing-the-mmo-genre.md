@@ -3,41 +3,18 @@ date: '2011-08-17T06:54:36-05:00'
 draft: false
 title: "Is social networking killing the MMO genre?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/08/17/is-social-networking-killing-the-mmo-genre/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Rift was my main game this year, the one I would play before any other. The only real way, I feel, to really enjoy a..."
+categories:
   - "MMORPG"
   - "Rift"
   - "Skyrim"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg"
 ---
+Rift was my main game this year, the one I would play before any other. The only real way, I feel, to really enjoy a...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/rift-2011-08-17-07-23-49-86.jpg" title="Not social enough for Rift?" class="align-center" >}}
+
 
 Rift was my main game this year, the one I would play before any other. The only real way, I feel, to really enjoy a MMO is to go all-in, completely devote yourself to it. Otherwise you remain an outsider or a dabbler. I love MMOs, so if I followed my natural inclination, I'd just play a dozen at a time but never really get to know any of them.
 

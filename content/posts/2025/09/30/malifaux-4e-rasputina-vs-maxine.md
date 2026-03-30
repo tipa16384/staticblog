@@ -3,41 +3,19 @@ date: '2025-09-30T08:27:00-05:00'
 draft: false
 title: "Malifaux 4e: Rasputina vs Maxine"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/09/30/malifaux-4e-rasputina-vs-maxine/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "\"What do you mean, I can destroy your ice pillars?\" The Arcanists face off against the Explorer Society in a match nobody saw coming."
-description: "\"What do you mean, I can destroy your ice pillars?\" The Arcanists face off against the Explorer Society in a match nobody saw coming."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "Maxine"
   - "Rasputina"
   - "The Battle Standard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/09/rasp2vsmax2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/09/rasp2vsmax2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/09/rasp2vsmax2.png"
 ---
+"What do you mean, I can destroy your ice pillars?" The Arcanists face off against the Explorer Society in a match nobody saw coming.
+<!--more-->
 
 It's autumn here in the northeast, and so with the turning leaves comes the new Malifaux league. Three matches held over six weeks, followed by a tournament to crown the best Malifaux-er of the Northern Connecticut/Western Massachusetts area.
 
@@ -45,11 +23,11 @@ Which is *oddly specific*, but that's just how it works out.
 
 The Fourth Edition is still new for everyone; the official models are only just now coming out, and it will likely take them the rest of this year and all the next to get the new boxes for everything in stores. Cards and lore books are still to come, so right now, all we have are downloaded cards on printer paper and a lot of speculation.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/IMG_5393-150x150.jpg" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/IMG_5393-150x150.jpg" classes="fig-20" >}}
 
 One model I'm still waiting on is Mara, the new totem for Rasputina, Abominable. We know from the art that she is a December cultist who wears a mask and has glowing blue talons for hands. Kasul found a model that looks somewhat similar. I painted it up and she joined my crew for last night's game.
 
-I'm not going to go over what Malifaux is; [my previous posts](https://chasingdings.com/?s=malifaux) about the skirmish miniatures game will get you up to speed. I'll just say it's the kind of game you see people playing with little painted miniatures on dioramas in game stores, and they seem to be super serious about it. But with the twist that they're playing a game nobody has ever heard of.
+I'm not going to go over what Malifaux is; [my previous posts](https://tipa16384.github.io/wkblog/?s=malifaux) about the skirmish miniatures game will get you up to speed. I'll just say it's the kind of game you see people playing with little painted miniatures on dioramas in game stores, and they seem to be super serious about it. But with the twist that they're playing a game nobody has ever heard of.
 
 That's Malifaux.
 
@@ -57,7 +35,7 @@ First game of the league matched me with someone who had just recovered from a g
 
 Nonetheless, I came to the table to chew bubblegum and bring the full force of the titan December against my hapless foes as I laughed maniacally, drunk with power and wishing only to bury the world beneath five kilometers of ice as my minions danced over the lost and forgotten grave of civilization, and I was all out of bubblegum.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/09/social_tipachu_httpss.mj_.run-QdTD3b0YC4_camera_slowly_circling_a_chi_d64039e7-27f1-4fd6-8fa5-b8bc5bcd6e10_2.gif" title="\"They will rule... I mean rue... the day. Mwahaha... ha?\"" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/09/social_tipachu_httpss.mj_.run-QdTD3b0YC4_camera_slowly_circling_a_chi_d64039e7-27f1-4fd6-8fa5-b8bc5bcd6e10_2.gif" title="\"They will rule... I mean rue... the day. Mwahaha... ha?\"" classes="center" >}}
 
 I've written about Rasputina many, many times, but her opponent, Maxine Agassiz, captain of the good ship *EV Superior* (keyword EVS) of the Explorer's Society, I knew nothing about. I haven't really played many matches against the Explorers; maybe Lord Cooper once? They are not a splashy faction like many of the others.
 

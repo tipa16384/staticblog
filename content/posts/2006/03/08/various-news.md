@@ -3,41 +3,18 @@ date: '2006-03-08T00:00:00-05:00'
 draft: false
 title: "Various News"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/03/08/various-news/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Initial reviews of Final Fantasy XII look really good. This is the one that uses a FFXI Online-like world map. If they could let me..."
+categories:
   - "General"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "http://www.boingboing.net/images/_images_cat-piano.jpg"
-cover:
-  image: "http://www.boingboing.net/images/_images_cat-piano.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://www.boingboing.net/images/_images_cat-piano.jpg"
+thumbnailImage: "http://www.boingboing.net/images/_images_cat-piano.jpg"
 ---
+Initial reviews of Final Fantasy XII look really good. This is the one that uses a FFXI Online-like world map. If they could let me...
+<!--more-->
 
-![](http://www.boingboing.net/images/_images_cat-piano.jpg)
+
 
 Initial reviews of [Final Fantasy XII](http://www.insertcredit.com/archives/001012.html) look really good. This is the one that uses a FFXI Online-like world map. If they could let me make my own characters and use them, instead of pre-generated ones, this would be anything I could ever want in a console RPG. And it still may be.
 

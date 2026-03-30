@@ -3,39 +3,16 @@ date: '2006-06-08T00:00:00-05:00'
 draft: false
 title: "EQ2: Bringing a Knife to a Fyst Fight"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/08/eq-bringing-a-knife-to-a-fyst-fight/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "No EQ1 raiding yesterday, and of course I totally forgot to hunt up my City of Heroes disks and check out Paragon City once more...."
+categories:
   - "EverQuest"
-featured_image: "https://chasingdings.com/images/nash-hollow.jpg"
-cover:
-  image: "https://chasingdings.com/images/nash-hollow.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/nash-hollow.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/nash-hollow.jpg"
 ---
+No EQ1 raiding yesterday, and of course I totally forgot to hunt up my City of Heroes disks and check out Paragon City once more....
+<!--more-->
 
-![](https://chasingdings.com/images/nash-hollow.jpg)
+
 
 No EQ1 raiding yesterday, and of course I totally forgot to hunt up my City of Heroes disks and check out Paragon City once more. I logged Nashuya in to sell and repair prior to finishing up the Cauldron Hollow access quest needed for the next fight in the Restoring Ghoulbane heritage. Heard in the 40s channel (oh yes, our dear Shadow Knight is 40 now) that people were gathering to kill Emperor Fyst in Deathfist Citadel.
 

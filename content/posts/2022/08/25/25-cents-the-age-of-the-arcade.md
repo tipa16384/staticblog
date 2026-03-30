@@ -3,44 +3,22 @@ date: '2022-08-25T07:00:00-05:00'
 draft: false
 title: "25 Cents: The Age of the Arcade"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/25/25-cents-the-age-of-the-arcade/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "In 25 Cents, players take on the role of arcade owners in the 1980s, running their businesses and competing against each other to attract high scores from players who drop quarters into virtual machines."
-description: "In 25 Cents, players take on the role of arcade owners in the 1980s, running their businesses and competing against each other to attract high scores from players who drop quarters into virtual machines."
-tags:
+categories:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2022"
   - "MMORPG"
   - "OpenAI"
+tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-17-23.27.24-synthwave-a-wombat-dressed-in-a-pink-blazer-playing-an-arcade-machine-in-a-video-arcade.-the-picture-is-lit-only-by-the-glow-of-the-arcade-machines.-l.png"
 ---
+In 25 Cents, players take on the role of arcade owners in the 1980s, running their businesses and competing against each other to attract high scores from players who drop quarters into virtual machines.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 25th, “25 Cents: The Age of the Arcade”.
 
@@ -48,7 +26,7 @@ I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each 
 
 The game features a variety of classic arcade games to play, as well as a construction mode for players to build their own custom machines. There is also a virtual stock market where players can trade shares of arcades and games, and an auction house where players can buy and sell classic arcade games. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-18-00.03.02-mechanical-drawing-of-a-video-arcade-machine-1024x1024.png" title="Construction mode" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-18-00.03.02-mechanical-drawing-of-a-video-arcade-machine-1024x1024.png" title="Construction mode" classes="fig-20" >}}
 
 The goal of the game is to make as much money as possible, and there are several ways to do this. Players can focus on building up their own arcade empire, or they can invest in other players' arcades and take a cut of the profits. They can also speculate on the stock market, buying low and selling high, or flipping games at the auction house for a profit. 
 
@@ -58,7 +36,7 @@ The game includes a variety of classic arcade games, including: Asteroids, Donke
 
 The game includes a construction mode for players to build their own custom machines. Players can choose the game, the cabinet style, the control panel, and even the artwork. Once they've built their machine, they can then set the difficulty, price, and other options. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/craiyon_235339_digital_art_cartoon_characters_constructing_a_video_arcade_machine.png" title="Build your own arcade cabinet!" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_235339_digital_art_cartoon_characters_constructing_a_video_arcade_machine.png" title="Build your own arcade cabinet!" classes="fig-20" >}}
 
 The virtual stock market is a place where players can trade shares of arcades and games. The goal is to buy low and sell high, or to invest in other players' arcades and take a cut of the profits. 
 

@@ -3,40 +3,17 @@ date: '2007-10-06T03:21:59-05:00'
 draft: false
 title: "EQ2: Harla Dar is dead and a certain halfer is welcome in Deathtoll"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/06/eq2-harla-dar-is-dead-and-a-certain-halfer-is-welcome-in-deathtoll/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I upgraded to the latest Wordpress and changed my theme just so I could use larger screenshots......"
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/harladar.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/harladar.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/harladar.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/harladar.jpg"
 ---
+I upgraded to the latest Wordpress and changed my theme just so I could use larger screenshots......
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/harladar.jpg)
+
 
 I upgraded to the latest Wordpress and changed my theme just so I could use larger screenshots...
 
@@ -46,13 +23,13 @@ We finished with five minutes to spare!
 
 It was great to be part of such an awesome raid.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/arbiter.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/arbiter.jpg" classes="center" >}}
 
 After that, a run down to Naggy... well, a glide. I won a Fae Wing Cloak in Emerald Halls the other day, and that gives even plump pie-maidens the ability to flit through the air like a Fae. So I jumped all the way from the top to the bottom of Solusek's Eye, but in trying to find just the right ranp on which to land, I misjudged my glide and ended up in the lava.
 
 So... once I'd revived... I didn't glide quite so far down.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/amulet.jpg)Naggy went on and on blah blah blah blah. Why is it that dragons, seemingly above mortal cares, always keep droning on and on about how powerful they are, how insignificant I am, how their plots will be the undoing of the world... ***YAWN***. Look, Naggy. I'm a simple bard. My poor mortal mind can't understand all the hidden meanings and complex plots you're always on about.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/amulet.jpg" classes="fig-20" >}}Naggy went on and on blah blah blah blah. Why is it that dragons, seemingly above mortal cares, always keep droning on and on about how powerful they are, how insignificant I am, how their plots will be the undoing of the world... ***YAWN***. Look, Naggy. I'm a simple bard. My poor mortal mind can't understand all the hidden meanings and complex plots you're always on about.
 
 Me, I'm mostly just waiting for you to shut up and give me some treasure. Okay? Thanks.
 

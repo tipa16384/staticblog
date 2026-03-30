@@ -3,43 +3,21 @@ date: '2023-05-07T12:10:55-05:00'
 draft: false
 title: "FFXIV: How I Ruined a Realm Reborn..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/05/07/ffxiv-how-i-ruined-a-realm-reborn/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I really wanted to title this post, \"FFXIV: Who Hurt You To Make You Do This?\". I didn't, because I knew the answer. It was me. I'm to blame."
-description: "I really wanted to title this post, \"FFXIV: Who Hurt You To Make You Do This?\". I didn't, because I knew the answer. It was me. I'm to blame."
-tags:
+categories:
   - "Final Fantasy"
   - "MMORPG"
+tags:
   - "A Realm Reborn"
   - "Heavensward"
   - "Praetorium"
   - "Shadowbringer"
   - "Stormblood"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_001521_777.jpg"
 ---
+I really wanted to title this post, "FFXIV: Who Hurt You To Make You Do This?". I didn't, because I knew the answer. It was me. I'm to blame.
+<!--more-->
 
 My son was pretty excited to get a new laptop for his birthday. He immediately wanted suggestions for MMOs he could put on it. The laptop was a Macbook Air, so EverQuest and EQ2 were right out. (You *could *play EQ, at least, on an Intel-based Mac, using a Windows emulator, but I doubt the new Macs can do that anymore).
 
@@ -47,7 +25,7 @@ That left World of Warcraft and Final Fantasy XIV. We made goblins in WoW and ra
 
 I did play FFXIV, original recipe, before they took it off the market and rewrote it. I bounced off before my first month was over, though, so I am not in the annals of heroes that shows at the end of the A Realm Reborn (ARR) main story quest (MSQ). If I'd *known* that would happen, I would have kept playing, but, alas...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05042023_073114_618.jpg" title="Players? We don't need no stinking players!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05042023_073114_618.jpg" title="Players? We don't need no stinking players!" classes="center" >}}
 
 I was excited to connect with the main story again. The first time through, so, so long ago, was right before the first expansion, Heavensward, opened. There were always a lot of people around, it wasn't hard to find a group, pretty sure the Duty Finder was already in place at that time. I didn't pay too much attention to the story -- I was just excited to be there and be leveling up. Eagerly watching each new [MTQCapture](https://www.youtube.com/@MTQcapture) video so that I wouldn't embarrass myself in the dungeons and raids, working on my first glowy weapon, making Mor Dhona my new home. There was a lot going on, and the story was always going to be there.
 
@@ -55,7 +33,7 @@ I didn't know until the expansions came out just how much foreshadowing was goin
 
 And even more context. For some reason, maybe because I skipped cutscenes (horrors), I completely missed the backstory for the opening of the Coils of Bahamut raids -- it's all there. I missed a lot of the Allagan hints. I think I even missed that evil spirit Lahabrea had taken over Thancred's body. Sure, when I was doing the Praetorium raids, it was hard to miss, but I'd forgotten how it started.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05042023_202845_603.jpg" title="Enterprise... engage!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05042023_202845_603.jpg" title="Enterprise... engage!" classes="center" >}}
 
 So, lots of nostalgia going on. But there are *changes*.
 
@@ -71,7 +49,7 @@ Well, for one, at some point you're going to need other people to get to the fun
 
 Anyway. It's a trap. But this isn't why I am angry at Squenix and wonder why they hate their game so much. What I really can't understand is, why they went easy mode in the dungeons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05062023_230935_577.jpg" title="Meeting Nero for the first time" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05062023_230935_577.jpg" title="Meeting Nero for the first time" classes="center" >}}
 
 Almost all the early dungeons have been simplified. In Thousand Maws, you had to collect stuff to open the boss fights. Gone, don't have to do that anymore. Also, the snare pods are entirely gone, and the dungeon is more linear. Copperbell had some fun mechanics. Gone, replaced with "don't stand in the fire" mechanics, and the final boss doesn't bring adds. Stone Vigil has excised most of the wandering mobs that made the dungeon so much fun. Brayflox Longstop has taken all the positioning strategy of the final boss away, replaced with don't stand in the fire mechanics. Haukke Manor has fewer adds and the final boss fight removed all the fun mechanics, replaced with don't stand in the fire. Stone Vigil second boss removed the "fire cannons" bit entirely, and the randomly moving tornadoes just travel on a straight path now. Etc etc etc.
 
@@ -81,7 +59,7 @@ Fug that. They removed fun stuff and replaced it with "don't stand in that obvio
 
 But, I thought to myself, I still have the raids at the end of ARR to look forward to Cape Westwind, the most fun thirty seconds of raiding I will ever know. The fun of cheesing Castrum Meridian. And of course, the multipart epic of the Praetorium, which would elicit groans from the raid whenever it popped, because here come the unskippable cutscenes and forty five minutes of chatting with everyone......
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05072023_003418_636.jpg" title="But where there is light, there is always shadow" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_003418_636.jpg" title="But where there is light, there is always shadow" classes="center" >}}
 
 All gone. All gone. They tore it apart.
 
@@ -97,7 +75,7 @@ Now it has been split into three. A light party, four person run ending with Gai
 
 The Gaius fight was changed a lot; it looks like they copy/pasted the Odin encounter in, but it still is just avoiding the glowing bits. (But there's a lot of them). (I did read up on these new fights before I started).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_05072023_114702_823-1024x574.jpg" title="One must also leave a building ahead of the fireball" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_05072023_114702_823-1024x574.jpg" title="One must also leave a building ahead of the fireball" classes="center" >}}
 
 I played Castrum Meridian with a group of players, but when it became clear there was no reason for the other people to be there, I did Praetorium and the Porta Decumana (Ultima Weapon trial) with NPCs. I'd actually forgotten the Lahabrea capper, since it was usually over in a minute or so. So it was a little unexpected when they left me off of Porta Decumana in front of a portal to this single encounter.
 
@@ -109,7 +87,7 @@ I'd show more pictures, because it was pretty thrilling, but while I had OBS run
 
 Wait, I'm going to go do that just to make more pictures for this post. But it's not real time.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/05/ffxiv_01022016_092153.jpg" title="A little less conversation, a little more action, please" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/05/ffxiv_01022016_092153.jpg" title="A little less conversation, a little more action, please" classes="center" >}}
 
 So how is this all my fault?
 

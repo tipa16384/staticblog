@@ -3,50 +3,29 @@ date: '2007-02-25T12:02:57-05:00'
 draft: false
 title: "LotRO Stress Test: The Shire"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/25/lotro-stress-test-the-shire/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Returned to the game only to be put in a queue. The game initially said it would be fifteen minutes before I got in the..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-queue.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-queue.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-queue.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-queue.jpg"
 ---
+Returned to the game only to be put in a queue. The game initially said it would be fifteen minutes before I got in the...
+<!--more-->
 
-![lotr-queue.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-queue.jpg)Returned to the game only to be put in a queue. The game initially said it would be fifteen minutes before I got in the game, but it was more like five. I hate queues. Not for the first time, I wonder what "Game Experience May Change During Online Play" really means.
+
+
+Returned to the game only to be put in a queue. The game initially said it would be fifteen minutes before I got in the game, but it was more like five. I hate queues. Not for the first time, I wonder what "Game Experience May Change During Online Play" really means.
 
 Night in Little Delving and I can't help doing a little star watching before adventuring. Orion again, and Cassiopeia, the Seven Sisters and Taurus are all right in front of me. Strange what a little thing like putting a familiar sky in the game does for you.
 
-![lotro-littledelving.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotro-littledelving.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotro-littledelving.jpg" classes="center" >}}
 
 First guy I see tells me about crafting. Crafting! I LOVE Crafting! So I'm off to the Craft-fair after getting a full slate of quests from Little Delving.
 
 Michel Delving has all the town offices, Kinship charters, last name granters, all that kind of stuff. I grab a Hobbit Kinship charter in case I come across any like minded hobbits. I name my kinship "Shirrifs of the Shire".
 
-![lotr-mail.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-mail.jpg)Okay, out of the newbie area, I have to admit the quests, though simple, are pretty fun. Carrying mail but not letting nosey hobbits at it, or running around snatching chickens from the jaws of wolves...
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-mail.jpg" classes="fig-20" >}}Okay, out of the newbie area, I have to admit the quests, though simple, are pretty fun. Carrying mail but not letting nosey hobbits at it, or running around snatching chickens from the jaws of wolves...
 
 You get a bonus skill for completing every quest in a region. The reward for completing all Bree-land quests is +1 Empathy. Also, you get titles for killing things -- the title for killing a certain number of wolves is Fur-catcher.
 
@@ -58,7 +37,7 @@ It looks like you can choose farming as a profession, and raise crops on the fie
 
 Story instances... using a reflecting pool allows you to join someone else who is doing a story instance you have done already.
 
-![lotr-threads.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-threads.jpg)Armor of each type comes in different styles with identical stats so you can build your own look. This is only true of bought and probably crafted items -- quest and dropped items look as they look.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-threads.jpg" classes="fig-20" >}}Armor of each type comes in different styles with identical stats so you can build your own look. This is only true of bought and probably crafted items -- quest and dropped items look as they look.
 
 --
 
@@ -76,19 +55,19 @@ I met up with another person in my Kinship (guild) and we formed a Fellowship (g
 
 Ulfar warned us that the task ahead was a perilous one, and we should be prepared for a difficult fight, so we found more halflings to join us.
 
-![lotr-stonetroll3.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-stonetroll3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-stonetroll3.jpg" classes="center" >}}
 
 When we told him we were ready, he sent us to the instance. We'd been to this very area earlier, and it had been empty, but now it was filled with the dwarven band that was passing through that night.
 
-![lotr-stonetroll2.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-stonetroll2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-stonetroll2.jpg" classes="center" >}}
 
 We fought many dwarven guards until we reached the top of the pass and discovered the dwarven leader who had been doing various acts of mischief and mayhem in the area (stealing cows, souring milk and such), baiting a troll in a cage.
 
-![lotr-stonetroll1.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-stonetroll1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-stonetroll1.jpg" classes="center" >}}
 
 We defeated the dwarf bandit easily enough, but not before he had unbarred the cage and set the troll free.
 
-![lotr-stonetroll.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-stonetroll.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-stonetroll.jpg" classes="center" >}}
 
 He was no match for our Fellowship -- a Guardian, a Burglar, two Hunters and two Minstrels. We lotto'd the loot and returned to Ulfar who gave us further rewards -- I got a very nice longsword.
 

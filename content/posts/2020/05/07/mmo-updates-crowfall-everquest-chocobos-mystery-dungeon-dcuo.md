@@ -3,47 +3,25 @@ date: '2020-05-07T11:20:10-05:00'
 draft: false
 title: "MMO updates: Crowfall, EverQuest, Chocobo's Mystery Dungeon, DCUO"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/07/mmo-updates-crowfall-everquest-chocobos-mystery-dungeon-dcuo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I apologize for the brief news on Crowfall. I'd meant to get deeper into the PvE, but while I was building up my kingdom in..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nintendo Switch"
   - "PS4"
   - "Switch"
   - "Uncategorized"
+tags:
   - "Chocobo Mystery Dungeon"
   - "Crowfall"
   - "DC Universe Online"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg"
 ---
+I apologize for the brief news on Crowfall. I'd meant to get deeper into the PvE, but while I was building up my kingdom in...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/CrowfallClient-2020-05-07-07-19-12-64-1024x576.jpg" >}}
+
 
 I apologize for the brief news on Crowfall. I'd meant to get deeper into the PvE, but while I was building up my kingdom in the creative mode, the test server came down and I moved on to other things.
 

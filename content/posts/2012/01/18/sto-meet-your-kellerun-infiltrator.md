@@ -3,40 +3,17 @@ date: '2012-01-18T23:07:10-05:00'
 draft: false
 title: "STO: Meet your Kellerun Infiltrator"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/18/sto-meet-your-kellerun-infiltrator/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I had a run of luck; I got the rare borg deflector tech drop which went to replace my Mark XI MACO Deflector with an..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-18-21-43-49-57-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-18-21-43-49-57-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-18-21-43-49-57-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-18-21-43-49-57-480x270.jpg"
 ---
+I had a run of luck; I got the rare borg deflector tech drop which went to replace my Mark XI MACO Deflector with an...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-18-21-43-49-57-480x270.jpg" title="Fully functional" class="align-center" >}}
+
 
 I had a run of luck; I got the rare borg deflector tech drop which went to replace my Mark XI MACO Deflector with an Omega Force Mark XI deflector; winning just five missions got me the rest of the Encrypted Data Chips (EDCs) I needed, 40 total, for the Omega Force Mark XI engines, and I already had the Omega Force Mark XI shields, so... full Kellerun Infiltrator set. 2 pieces give a boost to tetryon damage, and 3 pieces gives a power that makes enemies unable to turn for five seconds.
 

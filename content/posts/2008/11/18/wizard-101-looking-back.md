@@ -3,41 +3,20 @@ date: '2008-11-18T10:00:32-05:00'
 draft: false
 title: "Wizard 101: Looking back"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/18/wizard-101-looking-back/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's nothing as sad as seeing any empty quest journal. Er, assignment book. We are, after all, all wizards at Ravenwood, and in between saving..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "W101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-15-22-01-14-59.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-15-22-01-14-59.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-15-22-01-14-59.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-15-22-01-14-59.jpg"
 ---
+There's nothing as sad as seeing any empty quest journal. Er, assignment book. We are, after all, all wizards at Ravenwood, and in between saving...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-15-22-01-14-59.jpg "wizardgraphicalclient-2008-11-15-22-01-14-59")
+
 
 There's nothing as sad as seeing any empty quest journal. Er, assignment book. We are, after all, all wizards at Ravenwood, and in between saving all the worlds of the Spiral from the renegade Death professor, Malistaire, we're meant to be getting in our assignments on time and are graded on neatness!
 
@@ -51,7 +30,7 @@ I even spent the weekend farming Onis for gear I probably don't need. My alt wen
 
 So now that I've been everywhere and fought everything, what have I learned?
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-15-18-27-53-77.jpg "wizardgraphicalclient-2008-11-15-18-27-53-77")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-15-18-27-53-77.jpg" title="wizardgraphicalclient-2008-11-15-18-27-53-77" classes="center" >}}
 
 *A much-appreciated dryad brings me back from the brink of death in a fight with the Jade Oni.*
 
@@ -65,7 +44,7 @@ The schools of magic of the enemies always called for certain responses. Life be
 
 The need to weigh all these factors means fights are never "hit autoattack and get some coffee". Nor are they especially fast. Sometimes you'd LIKE fights to be over in just a couple of seconds.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-16-07-22-39-83.jpg "What IS that?")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-16-07-22-39-83.jpg" title="What IS that?" classes="center" >}}
 
 *A mystery in Krokotopia: What IS that island? It's not the Tomb of Storms, that's to the left and below. It's not the Krokosphinx -- no sphinx (and it's clearly visible, just not in the picture). It's not the secret island, because I'm standing on it. It's a mystery.*
 
@@ -73,7 +52,7 @@ Bad parts? The quests are almost always unimaginative kill fests -- kill ten cat
 
 That places an effective cap at leveling. After you have emptied your assignment book and done every mission twice, you're between 44 and 46, depending on how much additional killing you did. The level cap is 50, but only those who got there before the diminishing returns patch are there now.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-16-19-13-18-80.jpg "Wavebringer in Shiritaki Temple")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-16-19-13-18-80.jpg" title="Wavebringer in Shiritaki Temple" classes="center" >}}
 
 *Tara and Allison speak with Wavebringer after defeating the Plague Oni in Shiritaki Temple*
 

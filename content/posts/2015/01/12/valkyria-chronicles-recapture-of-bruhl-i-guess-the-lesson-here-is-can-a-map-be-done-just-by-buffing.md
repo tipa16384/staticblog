@@ -3,38 +3,15 @@ date: '2015-01-12T02:31:50-05:00'
 draft: false
 title: "Valkyria Chronicles: Recapture of Bruhl"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/12/valkyria-chronicles-recapture-of-bruhl-i-guess-the-lesson-here-is-can-a-map-be-done-just-by-buffing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Valkyria Chronicles: Recapture of Bruhl...."
+categories:
   - "Other Games"
   - "Valkyria Chronicles"
-featured_image: "https://lh5.googleusercontent.com/-ZBQyS-a6Jvs/VLMxJ17W9pI/AAAAAAAA-dw/t-dRA9ToOYU/w506-h750/Valkyria%2B2015-01-11%2B19-53-36-73.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-ZBQyS-a6Jvs/VLMxJ17W9pI/AAAAAAAA-dw/t-dRA9ToOYU/w506-h750/Valkyria%2B2015-01-11%2B19-53-36-73.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-ZBQyS-a6Jvs/VLMxJ17W9pI/AAAAAAAA-dw/t-dRA9ToOYU/w506-h750/Valkyria%2B2015-01-11%2B19-53-36-73.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-ZBQyS-a6Jvs/VLMxJ17W9pI/AAAAAAAA-dw/t-dRA9ToOYU/w506-h750/Valkyria%2B2015-01-11%2B19-53-36-73.jpg"
 ---
+Valkyria Chronicles: Recapture of Bruhl....
+<!--more-->
 
 Valkyria Chronicles: Recapture of Bruhl.
 
@@ -48,6 +25,8 @@ It was kinda grim that Welkin and Kreis had this big conversation about how they
 
 Haven't worked on Newfallen at all this weekend. I should do more of that, and less of this, But there's this "just one more battle" thing going on...
 
-[#ValkyriaChronicles](https://plus.google.com/s/%23ValkyriaChronicles)  ﻿[![](https://lh5.googleusercontent.com/-ZBQyS-a6Jvs/VLMxJ17W9pI/AAAAAAAA-dw/t-dRA9ToOYU/w506-h750/Valkyria%2B2015-01-11%2B19-53-36-73.jpg)]()
+[#ValkyriaChronicles](https://plus.google.com/s/%23ValkyriaChronicles)  ﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/Ypbq1FfJiHC)

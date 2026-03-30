@@ -3,41 +3,19 @@ date: '2008-12-09T22:23:22-05:00'
 draft: false
 title: "DOMO: I'm a filthy camper."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/09/domo-im-a-filthy-camper/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dream of Mirror Online was down most of the night last night. When it came back up, I mostly just ran around collecting jobs --..."
+categories:
   - "Dream of Mirror Online"
   - "MMORPG"
+tags:
   - "New Shiny"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/newshiny.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/newshiny.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/newshiny.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/newshiny.jpg"
 ---
+Dream of Mirror Online was down most of the night last night. When it came back up, I mostly just ran around collecting jobs --...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/newshiny.jpg "newshiny")
+
 
 Dream of Mirror Online was down most of the night last night. When it came back up, I mostly just ran around collecting jobs -- after Norikue's cool suggestion to have Musician as my secondary job to give my pet somewhat more survivability, I figured I should definitely get that one. I stumbled onto the Shaman job (honestly, I didn't know that was the job quest until I finished it).
 
@@ -47,7 +25,7 @@ Flew around Placid Plain and some other zones for awhile, then decided to see if
 
 The Man-Eating Spider in the Well Sewers dungeon -- the newbie dungeon in the game -- spawns very rarely, and I kinda swing by to look for it when I'm bored. Back when I was seriously working on the dungeon, there was no way I could have taken him myself (and earlier had died to the Revenge Boss in the area, the Copper Croaker, I blame my sister, whom I was talking to at the time). When I got to his spawn point, i saw a lot of suspiciously high level people in the area. I had picked up the (repeatable) quest to kill 30 Pearly Tadpoles on my way in, so I'd started on that when -- there it was. The Man-Eating Spider.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-08-23-49-03-81.jpg "domo-2008-12-08-23-49-03-81")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-08-23-49-03-81.jpg" title="domo-2008-12-08-23-49-03-81" classes="center" >}}
 
 Should I back off and try to get a group for it, or should I just wade in and take it for myself?
 
@@ -59,7 +37,7 @@ And he called me a filthy Big Spider Camper, and gave me the title to prove it.
 
 I protested for awhile, but he was absolutely inflexible about it. Sigh.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-08-23-59-02-27.jpg "domo-2008-12-08-23-59-02-27")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-08-23-59-02-27.jpg" title="domo-2008-12-08-23-59-02-27" classes="center" >}}
 
 I realized this morning that Dream of Mirror Online had become my New Shiny, like Wizard 101, EQ2, WoW, DAoC and EQ before it. So, thought I, still sleepy this morning, I should fire up Photoshop and make a New Shiny Badge!
 

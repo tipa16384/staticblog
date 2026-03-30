@@ -3,57 +3,36 @@ date: '2010-04-21T06:34:43-05:00'
 draft: false
 title: "IP-based MMOs: Part 5 (of 5)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/21/ip-based-mmos-part-5-of-5/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We reach the end of the Internet Protocol Intellectual Property-based MMO list with the biggest MMO ever... and the one that promised to dethrone it...."
+categories:
   - "MMORPG"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/warhammer_002-225x225.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/warhammer_002-225x225.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/warhammer_002-225x225.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/warhammer_002-225x225.jpg"
 ---
+We reach the end of the Internet Protocol Intellectual Property-based MMO list with the biggest MMO ever... and the one that promised to dethrone it....
+<!--more-->
 
 We reach the end of the ~~Internet Protocol~~ Intellectual Property-based MMO list with the biggest MMO ever... and the one that promised to dethrone it.
 
 If you've missed the previous entries, here they are:
 
-- [Part 1](https://chasingdings.com/index.php/2010/04/15/ip-based-mmos-part-1-of-5/) - Absolute Terror, Age of Conan, Champions Online, DC Universe Online, Toontown
+- [Part 1](https://tipa16384.github.io/wkblog/index.php/2010/04/15/ip-based-mmos-part-1-of-5/) - Absolute Terror, Age of Conan, Champions Online, DC Universe Online, Toontown
 
-- [Part 2](https://chasingdings.com/index.php/2010/04/16/ip-based-mmos-part-2-of-5/) - Dragon Oath, Dungeons & Dragons Online, Final Fantasy XI & Final Fantasy XIV, FusionFall, Hello Kitty Online
+- [Part 2](https://tipa16384.github.io/wkblog/index.php/2010/04/16/ip-based-mmos-part-2-of-5/) - Dragon Oath, Dungeons & Dragons Online, Final Fantasy XI & Final Fantasy XIV, FusionFall, Hello Kitty Online
 
-- [Part 3](https://chasingdings.com/index.php/2010/04/17/ip-based-mmos-part-3-of-5/) - Huxley, LEGO Universe, Lord of the Rings Online, Pirates of the Caribbean Online, Playboy Manager
+- [Part 3](https://tipa16384.github.io/wkblog/index.php/2010/04/17/ip-based-mmos-part-3-of-5/) - Huxley, LEGO Universe, Lord of the Rings Online, Pirates of the Caribbean Online, Playboy Manager
 
-- [Part 4](https://chasingdings.com/index.php/2010/04/19/ip-based-mmos-part-4-of-5/) - Star Trek Online, Star Wars Galaxies, Star Wars: The Old Republic, Stargate World, Ultima Online
+- [Part 4](https://tipa16384.github.io/wkblog/index.php/2010/04/19/ip-based-mmos-part-4-of-5/) - Star Trek Online, Star Wars Galaxies, Star Wars: The Old Republic, Stargate World, Ultima Online
 
 Game: [Warhammer Online](http://www.warhammeronline.com/)
 
 IP: Games Workshop's [Warhammer](http://www.games-workshop.com/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/warhammer_002-225x225.jpg "Warhammer Online")](https://chasingdings.com/wp-content/uploads/2010/04/warhammer_002.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/04/warhammer_002.jpg)
 
 Even as pen-and-paper games typified by such roleplaying games as D&D, Champions and Traveler (a seminal space RPG) took the tabletop gaming arena by storm, other games focused more heavily on D&D's wargaming roots. Tractics and Starfleet Battles simulated vehicle combat, but it was 1983's Warhammer Fantasy Battles that would set the new standard for tabletop fantasy gaming.
 
@@ -69,7 +48,7 @@ Game: [World of Warcraft](http://www.worldofwarcraft.com/)
 
 IP: [Warcraft](http://en.wikipedia.org/wiki/Warcraft:_Orcs_%26_Humans)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/ss7-12724_2-225x225.jpg "Molten Core")](https://chasingdings.com/wp-content/uploads/2010/04/ss7-12724_2.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/ss7-12724_2-225x225.jpg" title="Molten Core" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/ss7-12724_2.jpg)
 
 In 1994, the Real-Time Strategy (RTS) genre was still seeking to define itself after the success of 1992's "Dune II" jump-started the genre. To Dune II's basic formula of harvest/build/destroy, Warcraft added the essential multiplayer modes and a wide variety of mission types. Through Warcraft and its successors, Warcraft II & III, Blizzard developed a massive storyline running through the series about interdimensional Orcs who discover and enlarge a portal to the Human world of Azeroth, and are then driven and exiled on Azeroth by the demonic Burning Legion. The orcs and humans must (briefly) ally in order to defeat the Legion.
 
@@ -79,7 +58,7 @@ Game: [Ys Online](http://www.ysonline.com/)
 
 IP: [Ys](http://www.atlus.com/ys/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/ys_online_the_call_of_solum_image_1jXno3M1JUyTDhY-225x225.jpg "Ys Online")](https://chasingdings.com/wp-content/uploads/2010/04/ys_online_the_call_of_solum_image_1jXno3M1JUyTDhY.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/ys_online_the_call_of_solum_image_1jXno3M1JUyTDhY-225x225.jpg" title="Ys Online" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/ys_online_the_call_of_solum_image_1jXno3M1JUyTDhY.jpg)
 
 Few Japanese RPG series have really stood the test of time. There's Square-Enix's Final Fantasy series, Square-Enix's Dragon Quest series, and Falcom's "Ys" series. Produced for a wide variety of consoles and personal computers, Ys (unrelated to the mythical city of Ys aside from its name) tells a connected story over the series of games about Adol Christin. Adol explores the world in adventures that have spawned several RPGs, an RTS, and an anime. The first two games in the series have been recently ported to the Wii and the Nintendo DS.
 

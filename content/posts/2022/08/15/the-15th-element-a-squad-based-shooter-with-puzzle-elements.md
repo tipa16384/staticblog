@@ -3,42 +3,20 @@ date: '2022-08-15T07:00:00-05:00'
 draft: false
 title: "The 15th Element: A Squad-Based Shooter With Puzzle Elements"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/15/the-15th-element-a-squad-based-shooter-with-puzzle-elements/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The 15th Element is a squad-based first person shooter with puzzle elements, set in an alien world. The game includes a variety of DLC options, such as a new enemy race and a survival-style mode."
-description: "The 15th Element is a squad-based first person shooter with puzzle elements, set in an alien world. The game includes a variety of DLC options, such as a new enemy race and a survival-style mode."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "First Person Shooter"
   - "OpenAI"
+tags:
   - "Dall-E 2"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/15thelementtop.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/15thelementtop.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/15thelementtop.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/15thelementtop.png"
 ---
+The 15th Element is a squad-based first person shooter with puzzle elements, set in an alien world. The game includes a variety of DLC options, such as a new enemy race and a survival-style mode.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 15th: “The 15th Element”.
 
@@ -48,7 +26,7 @@ As you explore the planet, you discover that the energy field is actually a barr
 
 The opening scenes of the game show that the barrier around the planet was created by a massive explosion that resonated in unusual ways with the upper atmosphere. But the barrier is eroding, and the aliens are getting closer to being able to reach Earth.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-07-20.53.44-a-squad-of-futuristic-soldiers-fighting-underwater-against-an-army-of-aliens-that-resemble-jellyfish.png" title="It's easy to get surrounded in these underwater levels" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-07-20.53.44-a-squad-of-futuristic-soldiers-fighting-underwater-against-an-army-of-aliens-that-resemble-jellyfish.png" title="It's easy to get surrounded in these underwater levels" classes="center" >}}
 
 The challenge is too great for any one soldier, so you must team up with other members of your squad to take on the aliens. Each member of your team has their own unique skills and weapons, so you'll need to use all of your resources to succeed. You can choose your own specialty in the squad, whether it's medical, tech, or combat. You will be commanded by a military officer, but you will also have to rely on your own resourcefulness to survive.
 

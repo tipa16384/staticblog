@@ -3,39 +3,15 @@ date: '2008-07-22T15:03:33-05:00'
 draft: false
 title: "Save the Middleman!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/22/save-the-middleman/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Rumor has it that The Middleman, probably the best SF/comedy on TV this season, is in danger! Not of cancellation, but of being restricted to..."
+categories:
   - "General"
   - "Sci Fi"
+tags:
   - "The Middleman"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Rumor has it that The Middleman, probably the best SF/comedy on TV this season, is in danger! Not of cancellation, but of being restricted to...
+<!--more-->
 
 Rumor has it that The Middleman, probably the best SF/comedy on TV this season, is in danger! Not of cancellation, but of being restricted to just one season. Creator Javier Grillo-Marxuach writes on [The Middleblog](http://themiddleblog.livejournal.com/32682.html) that despite stellar network support, ratings haven't been great, and they have decided to end The Middleman at episode 12, and to go out with a bang.
 

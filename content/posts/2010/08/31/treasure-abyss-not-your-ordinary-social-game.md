@@ -3,46 +3,27 @@ date: '2010-08-31T07:07:29-05:00'
 draft: false
 title: "Treasure Abyss: Not your ordinary social game"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/31/treasure-abyss-not-your-ordinary-social-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
   - "Treasure Abyss"
+tags:
   - "Bandai"
   - "City of Wonder"
   - "Facebook"
   - "Frontierville"
   - "Namco"
   - "RPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Treasure Abyss"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-63135-PM-480x376.jpg "Dungeon crawling")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-63135-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8302010-63135-PM.jpg)
 
 I thought I would never find a game on Facebook that tied together social gaming and RPGs. This whole experiment with Facebook games has typically been one spam-filled sim game after another. Frontierville, City of Wonder, My Empire, Virtual Villagers -- all share the same half-hearted copying of better single player games combined with a financial urge to turn the player into a whining beggar who is a burden on their friends.
 
@@ -50,7 +31,7 @@ If that's all "social gaming" is, then I don't care how much money Zynga is maki
 
 I asked Twitter if there were any actual, honest to God RPGs on Facebook, and @Caffo sent me a link to Namco Bandai's [Treasure Abyss](http://www.facebook.com/apps/application.php?id=110417579004579).
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-74522-PM-480x380.jpg "Party selection")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8302010-74522-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8302010-74522-PM-480x380.jpg" title="Party selection" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8302010-74522-PM.jpg)
 
 If you've ever tried to get a guild group together in a traditional MMO, you know how tough it is to get all your friends online at the same time, and also wanting to do the dungeons you need. Wouldn't it be so much easier if you could just hire their offline characters as NPC hirelings?
 

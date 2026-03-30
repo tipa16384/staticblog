@@ -3,37 +3,12 @@ date: '2007-07-26T17:00:00-05:00'
 draft: false
 title: "Meme Wars"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/26/meme-wars/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I think I dropped a previous Meme... well, this time I saw it before it got stale :) Thanks, Amber!..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I think I dropped a previous Meme... well, this time I saw it before it got stale :) Thanks, Amber!...
+<!--more-->
 
 I think I dropped a previous Meme... well, this time I saw it before it got stale :) Thanks, Amber!
 

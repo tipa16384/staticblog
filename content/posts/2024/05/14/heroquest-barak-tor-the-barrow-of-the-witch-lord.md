@@ -3,40 +3,18 @@ date: '2024-05-14T06:30:00-05:00'
 draft: false
 title: "HeroQuest: Barak Tor - The Barrow of the Witch Lord"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/05/14/heroquest-barak-tor-the-barrow-of-the-witch-lord/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We're nearing the end of the first HeroQuest campaign... and we're up against an undefeatable lich. Should be fun."
-description: "We're nearing the end of the first HeroQuest campaign... and we're up against an undefeatable lich. Should be fun."
-tags:
+categories:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
+tags:
   - "Rogue"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/05/barrow-12.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/05/barrow-12.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/barrow-12.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/05/barrow-12.png"
 ---
+We're nearing the end of the first HeroQuest campaign... and we're up against an undefeatable lich. Should be fun.
+<!--more-->
 
 What with one thing and another, we haven't played HeroQuest for a long time. And we're so close! In this twelfth of fourteen missions in the first campaign, we are finally becoming powerful enough to begin girding for the final fight against the Witch Lord.
 
@@ -44,7 +22,7 @@ Luckily, he's already dead. But, typical for witch lords near and far, they don'
 
 I asked Zargon if we were to find the Spirit Blade in the tomb. He said no. I figured we eventually would, anway. But we didn't.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/05/IMG_4267.jpg" title="Escaping from Barak Tor" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/05/IMG_4267.jpg" title="Escaping from Barak Tor" classes="center" >}}
 
 At this stage in the game, everyone has great armor and weapons. There was nothing that could really harm us in the dungeon. The dwarf had the dread spell Fear cast on him, that kept him weak for three full turns before he finally found his courage.
 

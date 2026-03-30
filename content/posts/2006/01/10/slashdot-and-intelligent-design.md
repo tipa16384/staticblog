@@ -3,37 +3,12 @@ date: '2006-01-10T00:00:00-05:00'
 draft: false
 title: "Slashdot and Intelligent Design"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/10/slashdot-and-intelligent-design/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I had some mod points to spend on Slashdot, so after reading CmdrTaco's frustration at recent flames and stern instructions to moderators, I resolved to..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I had some mod points to spend on Slashdot, so after reading CmdrTaco's frustration at recent flames and stern instructions to moderators, I resolved to...
+<!--more-->
 
 I had some mod points to spend on [Slashdot](http://slashdot.org), so after reading CmdrTaco's [frustration at recent flames](http://slashdot.org/article.pl?sid=06/01/10/1440240&tid=124) and stern instructions to moderators, I resolved to do my best to keep topics on-topic today.
 

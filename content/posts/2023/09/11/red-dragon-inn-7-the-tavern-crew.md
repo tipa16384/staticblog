@@ -3,38 +3,16 @@ date: '2023-09-11T07:42:22-05:00'
 draft: false
 title: "Red Dragon Inn 7: The Tavern Crew"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/09/11/red-dragon-inn-7-the-tavern-crew/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We brought four new characters to the table for Game Night. Three of them were a hit. One... didn't get any love."
-description: "We brought four new characters to the table for Game Night. Three of them were a hit. One... didn't get any love."
-tags:
+categories:
   - "Game Night"
+tags:
   - "The Red Dragon Inn"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/09/RDI7Logo-1024x424-1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/09/RDI7Logo-1024x424-1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/RDI7Logo-1024x424-1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/09/RDI7Logo-1024x424-1.png"
 ---
+We brought four new characters to the table for Game Night. Three of them were a hit. One... didn't get any love.
+<!--more-->
 
 We brought four new characters to the table for Game Night. Three of them were a hit. One... didn't get any love.
 
@@ -44,7 +22,7 @@ One of our enduring favorites is the long-running Red Dragon Inn, a collection o
 
 They drink, they tell tall tales, and they gamble. And they do so in the inn.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-13-300x284.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-13-300x284.png" classes="fig-20" >}}
 
 Most of the games, aside from the single character boosters, come with four characters. The characters from all boxes can work together... I think I have about twenty characters now, all gathered together in the Big Box that came with the fifth expansion.
 
@@ -58,7 +36,7 @@ A running joke is that the tavern wench is alert to gambling going on, and will 
 
 Red Dragon Inn 7 brings the Tavern Crew to the table as playable characters. From the [Slugfest Games website](https://slugfestgames.com/rdi-products/the-red-dragon-inn-7-the-tavern-crew/):
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-14.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-14.png" classes="fig-20" >}}
 
 **Warthorn Redbeard**
 
@@ -68,7 +46,7 @@ It’s pronounced “War-thorn”, though he’s been known to chortle whenever 
 
 ***The Bad**: …and he’ll happily talk your ear off about it!*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-15.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-15.png" classes="fig-20" >}}
 
 **Molly the Stablehand**
 
@@ -78,7 +56,7 @@ Molly is a chipper halfling who works a normal, stable… er, *reliable* job a
 
 ***The Bad**: They’re not always friends with each other… or the furniture… or you…*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-16.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-16.png" classes="fig-20" >}}
 
 **Jasper the Bouncer**
 
@@ -88,7 +66,7 @@ An amiable retiree from the adventuring life himself, Jasper is still tough as n
 
 ***The Bad:** He does, however, frequently lose track of his teeth.*
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/09/image-17.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/09/image-17.png" classes="fig-20" >}}
 
 **The Wench!**
 

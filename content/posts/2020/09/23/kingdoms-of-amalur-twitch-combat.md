@@ -3,41 +3,19 @@ date: '2020-09-23T07:57:50-05:00'
 draft: false
 title: "Kingdoms of Amalur: Twitch combat"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/23/kingdoms-of-amalur-twitch-combat/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This post today isn't actually about Kingdoms of Amalur: Re-Reckoning. Mostly...."
+categories:
   - "Steam Games"
+tags:
   - "Kingdoms of Amalur: Reckoning"
   - "RPG"
   - "Twitch"
-  - "Youtube"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/1-streaming_client-2020-09-22-23-09-00-17.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/1-streaming_client-2020-09-22-23-09-00-17.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "YouTube"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-streaming_client-2020-09-22-23-09-00-17.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-streaming_client-2020-09-22-23-09-00-17.jpg"
 ---
+This post today isn't actually about Kingdoms of Amalur: Re-Reckoning. Mostly....
+<!--more-->
 
 This post today isn't actually about Kingdoms of Amalur: Re-Reckoning. Mostly.
 
@@ -57,7 +35,7 @@ After dinner and dishes, I sat down to stream it for real. The result is up abov
 
 This morning I explored the mechanism to get that stream into my YouTube channel -- it worked really well. It's pretty clear from watching both videos that the stream is choppy and nothing like the high resolution, professionally produced streams real streamers make. But while I am stuck with a DSL connection, that's the best I'll be able to do -- and at least if anyone is wondering what the whole Kingdoms of Amalur stuff is about, you can skip around and see exactly what's up. Unfiltered, unprocessed, not just the cool bits.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/streaming_client-2020-09-22-23-08-16-90-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-22-23-08-16-90-1024x576.jpg" classes="center" >}}
 
 ## Why is the text in German?
 
@@ -69,7 +47,7 @@ I've been trying that same sort of immersion in my own sort of way. I've set up 
 
 One of the advantages of learning a language through a game is that a lot of words come up again and again, enough so that I can learn them from context. "Schaden" -- that's damage. "Körper" -- physical. "Körperschaden" -- physical damage. I got this. (Google Translate translates it to "bodily harm").
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/streaming_client-2020-09-22-22-22-08-16-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-22-22-22-08-16-1024x576.jpg" classes="center" >}}
 
 ## Are you using a controller?
 
@@ -79,7 +57,7 @@ I've gotten really used to using a controller these days. I've played DCUO with 
 
 I'm not picky about the controller, either. I swap between the XBox, PS4 and Switch controllers without a problem. I'm truly controller-agnostic.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/streaming_client-2020-09-22-22-19-35-96-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-22-22-19-35-96-1024x576.jpg" classes="center" >}}
 
 ## Is Blacksmithing really the über skill?
 
@@ -89,7 +67,7 @@ There are two kinds of skills you learn as you level; combat skills and non-comb
 
 With smithing maxed until I reach the next tier, I am now focusing on gems to augment all this cool gear. And then, maybe alchemy...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/streaming_client-2020-09-21-23-35-30-15-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/streaming_client-2020-09-21-23-35-30-15-1024x576.jpg" classes="center" >}}
 
 ## Is KoA still super easy?
 

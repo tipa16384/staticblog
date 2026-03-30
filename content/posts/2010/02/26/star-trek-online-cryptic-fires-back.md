@@ -3,40 +3,17 @@ date: '2010-02-26T08:03:20-05:00'
 draft: false
 title: "Star Trek Online: Cryptic fires back"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/26/star-trek-online-cryptic-fires-back/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Cryptic responded to player concerns about the state and the direction of the game in a huge, long, detailed producers letter that outlines their thoughts..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/cryptichq.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/cryptichq.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/cryptichq.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/cryptichq.png"
 ---
+Cryptic responded to player concerns about the state and the direction of the game in a huge, long, detailed producers letter that outlines their thoughts...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/cryptichq.png "Cryptic fires back")
+
 
 Cryptic responded to player concerns about the state and the direction of the game in a [huge, long, detailed producers letter](http://www.startrekonline.com/node/1182) that outlines their thoughts on the game as it nears the end of its first month.
 

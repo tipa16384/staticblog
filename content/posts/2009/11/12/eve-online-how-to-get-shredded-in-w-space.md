@@ -3,40 +3,17 @@ date: '2009-11-12T08:05:18-05:00'
 draft: false
 title: "EVE Online: How to get shredded in W-Space"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/11/12/eve-online-how-to-get-shredded-in-w-space/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Since we started flying Wednesday Ops Nights with Holowan Industrials, the phrase \"usually, it goes better than this\" has become as legendary as \"I have..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-11-21-37-41-23.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-11-21-37-41-23.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/ExeFile-2009-11-11-21-37-41-23.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/11/ExeFile-2009-11-11-21-37-41-23.jpg"
 ---
+Since we started flying Wednesday Ops Nights with Holowan Industrials, the phrase "usually, it goes better than this" has become as legendary as "I have...
+<!--more-->
 
-![The fleet gathers](https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-11-21-37-41-23.jpg "The fleet gathers")
+
 
 Since we started flying Wednesday Ops Nights with Holowan Industrials, the phrase "usually, it goes better than this" has become as legendary as "I have a bad feeling about this" and "at least it's not raining".
 
@@ -68,7 +45,7 @@ I wrote off the loss (though thanks to Kzaara who tried to get my stuff and got 
 
 Red, who was first to lose his ship, had been predicting the events like some sort of space-born [Cassandra](http://en.wikipedia.org/wiki/Cassandra). "This is a level 5 wormhole. Where 6 is the worst. Battleships are a minimum for this," he warned. "If you kill the last drone, the second wave will spawn," he warned. And like legendary Cassandra before him, though he prophesied truly, nobody believed him.
 
-![Viator!](https://chasingdings.com/wp-content/uploads/2009/11/ExeFile-2009-11-12-05-55-28-92.jpg "Viator!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/11/ExeFile-2009-11-12-05-55-28-92.jpg" title="Viator!" classes="center" >}}
 
 It was a fair flight back to Aunia in my pod, and I debated whether I should even bother replacing the Brutix. It's a nice ship, but entirely devoted to being a melee-range scrapper like some sort of overgrown frigate that would look about as appropriate as [a middle-aged man on a Little League team](http://www.imdb.com/title/tt0437863/). Nonetheless, it's a nice ship.
 

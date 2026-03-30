@@ -3,27 +3,12 @@ date: '2008-08-23T08:19:43-05:00'
 draft: false
 title: "EQ: Hot zone hoedown"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/23/eq-hot-zone-hoedown/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Crimson Eternity"
   - "Hot Zones"
   - "Keeper of Souls"
@@ -33,20 +18,13 @@ tags:
   - "Plane of Storms"
   - "Tolapumj"
   - "Trial of Execution"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg"
 ---
+The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-22-22-02-52-46.jpg "eqgame-2008-08-22-22-02-52-46")
+
 
 The plan was to help everyone get to level 60 so we can start doing some of the two group raids in Kunark, Velious and Luclin -- things like Velketor the Sorcerer, Trakanon, Venril Sathir and such. What better way, than through the hot zones? The hot zone for our level was (*was*) Riwwi in Gates of Discord. Not the best place in the world, but we made plans to go.
 
@@ -64,7 +42,7 @@ Experience dropped to 1% per kill.
 
 That's still 10x better than group xp per kill in Karnor's Castle in EQ2's *Rise of Kunark* expansion (which was 0.1% per kill). How the devs thought making an open dungeon with (a) no xp, (b) no loot, (c) difficult to kill mobs and (d) only a couple of quests would be the best way to introduce people to the expansion, I'll never understand. We soon realized that SOE had decided to discourage grouping until the level cap. So Karnor's was like a giant middle finger stuck in the middle of the Kylong Plains. Ah, bashing *Rise of Kunark* just never gets old, does it?
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-22-20-05-44-27.jpg "eqgame-2008-08-22-20-05-44-27")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-22-20-05-44-27.jpg" title="eqgame-2008-08-22-20-05-44-27" classes="center" >}}
 
 If you take a really close look at that screenie, it shows the first thing on my track list as "a fallen monk", and there's Sisca laying there dead. I thought that was a funny coincidence, in a macabre way.
 

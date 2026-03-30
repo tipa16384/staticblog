@@ -3,24 +3,8 @@ date: '2011-01-16T06:00:18-05:00'
 draft: false
 title: "Daily Blogroll 1/16 -- Lazy Sunday edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/16/daily-blogroll-116-lazy-sunday-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yeah, I like TV. I can say that now; for years I refused to watch it. Rotting my mind and all. But having just come..."
+categories:
   - "Aion"
   - "DC Universe Online"
   - "Earthrise"
@@ -28,20 +12,13 @@ tags:
   - "Everquest"
   - "Guild Wars"
   - "Vanguard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/teevee.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/teevee.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/teevee.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/teevee.png"
 ---
+Yeah, I like TV. I can say that now; for years I refused to watch it. Rotting my mind and all. But having just come...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2011/01/teevee.png "It")
+
 
 Yeah, I like TV. I can say that now; for years I refused to watch it. Rotting my mind and all. But having just come off a marathon 30 Rock Season 2 bender, I find I really want to get back to playing MMOs because they are LESS addictive than television. With MMOs, you chat with people, group with them, make friends. With TV, it's just sitting with the cat and a bowl of popcorn on a lonely couch. So, you know, on the scale of pathetic leisure time activities, MMOs are way above television.
 
@@ -93,7 +70,7 @@ EVE wasn't the first MMO to legitimize shady activity, not by a long shot.
 
 Ravious at KTR has written [a nice guide to the main features of Guild Wars 2](http://www.killtenrats.com/2011/01/14/world-of-warcraft-players-guide-to-guild-wars-2/) -- "A World of Warcraft Player's Guide to Guild Wars 2". I see these kinds of guides all over for various games, and it's always tuned to the WoW player.
 
-![](https://chasingdings.com/wp-content/uploads/2011/01/playwow2.png "Me Play WoW!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/playwow2.png" title="Me Play WoW!" classes="center" >}}
 
 It's been my limited experience that people who have WoW as their first MMO, and a really huge percentage of those that came to it later, really have two complaints about any non-WoW game. The first, that it's too similar to WoW. The second, that it's too different from WoW. The only solution to this paradox? Just play WoW!
 

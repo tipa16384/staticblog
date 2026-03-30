@@ -3,49 +3,29 @@ date: '2011-01-24T00:35:48-05:00'
 draft: false
 title: "Star Trek Online Foundry: The Space Between"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/24/star-trek-online-foundry-the-space-between/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "D'kyr"
   - "Foundry"
   - "The Space Between"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/GameClient-2011-01-23-21-43-08-75-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/GameClient-2011-01-23-21-43-08-75-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/GameClient-2011-01-23-21-43-08-75-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/GameClient-2011-01-23-21-43-08-75-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/GameClient-2011-01-23-21-43-08-75-480x383.jpg "The Space Between")](https://chasingdings.com/wp-content/uploads/2011/01/GameClient-2011-01-23-21-43-08-75.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/GameClient-2011-01-23-21-43-08-75.jpg)
 
 So Saturday, I had this wild idea that it would be fun to make an STO mission in the game's User-Generated Content system, the Foundry. See, I wanted to get a preview of the new Vulcan science ship that's hitting the store next month. Making a mission that included it would be one way to do that. Playing other people's missions based around the same general idea would be an even better way :)
 
 I'm not a level designer. I started a really long mission in City of Hero's Architect system once, but never finished it. It wasn't the tools, it was the inspiration. I love Star Trek, though. If I were ever going to do it, it would be here.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/GameClient-2011-01-23-21-11-01-77-480x384.jpg "The Space Between ground")](https://chasingdings.com/wp-content/uploads/2011/01/GameClient-2011-01-23-21-11-01-77.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/GameClient-2011-01-23-21-11-01-77-480x384.jpg" title="The Space Between ground" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/GameClient-2011-01-23-21-11-01-77.jpg)
 
 I read everything I could find on the Foundry and got a lot of good tips, but what I could find online was maybe a tenth of what is needed to learn how to put stuff together. Your basic flowchart is to sketch out your mission by creating the maps you need first (Maps tab), then create NPC and non-player ships in the Costumes tab. Interact with NPC and Reach Waypoint actions connect maps.
 

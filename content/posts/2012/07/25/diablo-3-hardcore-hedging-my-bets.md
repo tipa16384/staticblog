@@ -3,45 +3,22 @@ date: '2012-07-25T06:47:24-05:00'
 draft: false
 title: "Diablo 3 Hardcore: Hedging my bets"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/07/25/diablo-3-hardcore-hedging-my-bets/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Am I the only one still writing about Diablo 3? Most (all?) of the people in my circles appear to have moved on. I admit..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-25-07-21-48-93-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-25-07-21-48-93-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-25-07-21-48-93-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-25-07-21-48-93-480x384.jpg"
 ---
+Am I the only one still writing about Diablo 3? Most (all?) of the people in my circles appear to have moved on. I admit...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-25-07-21-48-93-480x384.jpg" title="Tipa the Substitute Monk" class="align-center" >}}
+
 
 Am I the only one still writing about Diablo 3? Most (all?) of the people in my circles appear to have moved on. I admit to thinking of the game as a fairly wide miss before I went to hardcore. I just am not all that wild about games in which you grind and farm.
 
 But now, I'm totally into it. The reason: because I don't want to lose my character and have to restart. I finally had a reason to look up information about my class, get advice and recommendations, all the sort of stuff I used to do in EverQuest but never had to do in Diablo 3 because, if you die, you just tweak something and try again.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-25-00-57-17-007-480x384.jpg" title="The Death of the Skeleton King" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-25-00-57-17-007-480x384.jpg" title="The Death of the Skeleton King" classes="center" >}}
 
 One of the very few down-sides of adventuring in a static group is, for me, not having a chance to really learn all the minutiae of the class. Running as a member of a team which is moving rapidly through a dungeon is an entirely separate set of skills than moving cautiously solo through that same maze.
 

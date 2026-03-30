@@ -3,40 +3,17 @@ date: '2010-10-15T06:33:22-05:00'
 draft: false
 title: "TV Recap: Mod Squad ep 1, \"Teeth of the Barracuda\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/10/15/tv-recap-mod-squad-ep-1-teeth-of-the-barracuda/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I think I missed a few weeks on my TV recaps. Well, tonight's is a good one -- Mod Squad's first episode. Set in 1968..."
+categories:
   - "General"
   - "TV Recaps"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/modsquad.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/modsquad.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/modsquad.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/modsquad.jpg"
 ---
+I think I missed a few weeks on my TV recaps. Well, tonight's is a good one -- Mod Squad's first episode. Set in 1968...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/07/modsquad.jpg "The Mod Squad -- in Color")
+
 
 I think I missed a few weeks on my TV recaps. Well, tonight's is a good one -- Mod Squad's first episode. Set in 1968 (though the novel on which it is based was set in the 50s), Mod Squad follows a mod, a cool cat and a hippie chick as they narc on their friends for Johnny Law. Richard Pryor and a very young Harrison Ford have cameos.
 

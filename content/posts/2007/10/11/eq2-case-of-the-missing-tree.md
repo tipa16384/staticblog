@@ -3,44 +3,21 @@ date: '2007-10-11T09:01:42-05:00'
 draft: false
 title: "EQ2: Case of the Missing Tree"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/10/11/eq2-case-of-the-missing-tree/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night we had low raid attendance (and it was lucky I was even there at all -- I'd just woken up from a drugged..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/10/notrunk.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/10/notrunk.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/notrunk.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/10/notrunk.jpg"
 ---
+Last night we had low raid attendance (and it was lucky I was even there at all -- I'd just woken up from a drugged...
+<!--more-->
 
 Last night we had low raid attendance (and it was lucky I was even there at all -- I'd just woken up from a drugged sleep... stupid toothache...), so the raid leaders decided to have everyone that was on finish up their Roost access.
 
 Roost is an instance in Mystic Lake, part of the Isle of Mara expansion. For such a small expansion, it sure has enough raid targets -- crab, Cheldrak, Matron and Mr. Unpronounceable Name, the four-winged wonder who sits at the end of the shortish Roost instance.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/notrunk.jpg)I'd already completed the access quest on Dina, so I got permission to come along as Dera, my inquisitor, since it seems I'm raiding with her about half the time now.
+I'd already completed the access quest on Dina, so I got permission to come along as Dera, my inquisitor, since it seems I'm raiding with her about half the time now.
 
 To get the quest, you must have permission to climb to the third level of the monk tower in the Village of Shin. I'd already done the (solo) quests to the second floor, and so I had an hour or so to read more of "Dragonriders of Pern" while waiting for the rest of the group to catch up.
 
@@ -54,7 +31,7 @@ Tromping through Forsaken City finished one of the quests. The other required su
 
 With that over, my tooth was hurting again so I drugged myself with a tasty blend of generic ibuprofen and Tylenol PM and went back to bed.
 
-![](https://chasingdings.com/wp-content/uploads/2007/10/spiritbird.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/10/spiritbird.jpg" classes="center" >}}
 
 *Following a bird spirit through Mystic Lake*
 

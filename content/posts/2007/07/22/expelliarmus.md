@@ -3,45 +3,22 @@ date: '2007-07-22T11:22:39-05:00'
 draft: false
 title: "Expelliarmus!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/22/expelliarmus/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "'Twas near the eleventh hour of yesterday before the Owl dropped a package at my door. \"I hope you have your reading glasses!\", quoth she,..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/07/stp60621.JPG"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/07/stp60621.JPG"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/stp60621.JPG"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/07/stp60621.JPG"
 ---
+'Twas near the eleventh hour of yesterday before the Owl dropped a package at my door. "I hope you have your reading glasses!", quoth she,...
+<!--more-->
 
-![stp60621.JPG](https://chasingdings.com/wp-content/uploads/2007/07/stp60621.JPG)
+
 
 'Twas near the eleventh hour of yesterday before the Owl dropped a package at my door. "I hope you have your reading glasses!", quoth she, unusually talkative (for an Owl).
 
 I tapped it twice with my wand. "*Capsa Adaperio!*" The box flew open
 
-![stp60623.JPG](https://chasingdings.com/wp-content/uploads/2007/07/stp60623.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/07/stp60623.JPG" classes="center" >}}
 
 Inside was the tome for which I had waited so long, as well as an advertisement for a Muggle cinema and a flyer for Microsoft Vista, undoubtedly placed there by a Death-Eater in the employ of Owl Mail.
 
@@ -49,11 +26,11 @@ I started to read. The sun faltered and weakened as the dark tale unfolded. At l
 
 Scones? Wasn't that the name of Ron's rat? No, that was Scuppers. Who was the evil Pettigrew in disguise! No, Dumbledore would never mention that name to me. Maybe I should make some...?
 
-![stp60624.JPG](https://chasingdings.com/wp-content/uploads/2007/07/stp60624.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/07/stp60624.JPG" classes="center" >}}
 
 So I made some scones. They were just the sort of thing needed for the long night ahead.
 
-![stp60627.JPG](https://chasingdings.com/wp-content/uploads/2007/07/stp60627.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/07/stp60627.JPG" classes="center" >}}
 
 Mmmm.... scones, Diet Coke, and a good book. Heaven!
 
@@ -61,7 +38,7 @@ I didn't have the strength to finish it all in one sitting, and reluctantly, wen
 
 I spent the morning lost once more in the book. The search, the surprises, the betrayals and the heroism... It didn't end as I expected; in fact, I think maybe it was entirely different than I thought. But I won't say another word, except to have pity on my poor cat...
 
-![stp60628.JPG](https://chasingdings.com/wp-content/uploads/2007/07/stp60628.JPG)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/07/stp60628.JPG" classes="center" >}}
 
 The final battle (well, of course there is one!) was so beyond imagination that a *Immobilus* curse sprang from the pages of the book and good Isis was right in the way.
 

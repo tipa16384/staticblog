@@ -3,40 +3,17 @@ date: '2015-08-25T07:31:25-05:00'
 draft: false
 title: "Who moo? Ramuh."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/08/25/who-moo-ramuh/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What I don't get is why the sylph primal, Ramuh, is some old human. All the others we've seen so far, save King Mog, are..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-24-21-39-12-97.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-24-21-39-12-97.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/08/ffxiv-2015-08-24-21-39-12-97.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/08/ffxiv-2015-08-24-21-39-12-97.jpg"
 ---
+What I don't get is why the sylph primal, Ramuh, is some old human. All the others we've seen so far, save King Mog, are...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/08/ffxiv-2015-08-24-21-39-12-97.jpg" title="Moo?" class="align-center" >}}
+
 
 What I don't get is why the sylph primal, Ramuh, is some old human. All the others we've seen so far, save King Mog, are the embodiment of primal forces. This guy looks like the Winter Wizard.
 

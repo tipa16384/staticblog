@@ -3,38 +3,15 @@ date: '2015-01-21T13:20:29-05:00'
 draft: false
 title: "STO: So what IS up with Seven's outfit?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/21/its-a-wonderful-world-we-live-in-where-we-can-have-a-videogame-show-people-at-a-conference-table-and/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's a wonderful world we live in where we can have a videogame show people at a conference table and still get in a decent..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg"
 ---
+It's a wonderful world we live in where we can have a videogame show people at a conference table and still get in a decent...
+<!--more-->
 
 It's a wonderful world we live in where we can have a videogame show people at a conference table and still get in a decent crotch shot.
 
@@ -52,6 +29,8 @@ Apparently, if Janeway had slept with Q just once, they could have been sent hom
 
 Anyway. Kasul and I are doffing up to level 57 now so we can continue our Delta Quadrant adventures...
 
-[#STO](https://plus.google.com/s/%23STO)  ﻿[![](https://lh5.googleusercontent.com/-x_3CTf8XGQQ/VL-k4hqvRnI/AAAAAAAA_HU/BYQoFrOHSRk/w506-h750/GameClient%2B2015-01-20%2B23-20-41-18.jpg)]()
+[#STO](https://plus.google.com/s/%23STO)  ﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/RegauXpjYd2)

@@ -3,45 +3,25 @@ date: '2010-09-13T21:14:36-05:00'
 draft: false
 title: "Is Wizard101's marketing getting out of hand?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/13/is-wizard101s-marketing-getting-out-of-hand/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Celestia"
   - "Crab Alley"
   - "Disney"
   - "Marketing"
   - "Selena Gomez"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32-480x384.jpg "Selena Gomez shoots a dance video in W101")](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-13-21-01-59-32.jpg)
 
 Seriously, KingsIsle? You're blatantly shilling teen actor/singer/Disney creation Selena Gomez's new CD in the game? It's the one that's driving all the amphibians and crustaceans in the Spiral MAD! Talking fish can't get enough of her intoxicating beauty! The indescribable sweetness of her music! She MUST become queen of Crab Alley!
 
@@ -53,7 +33,7 @@ Look, even the crabs are dancing to it! Reminds me of [the Lobster Quadrille](ht
 
 Here's some more of KingsIsle's crack marketing team in action:
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/wizardads.png "Wizard101 Facebook ad")](https://chasingdings.com/wp-content/uploads/2010/09/wizardads.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/wizardads.png" title="Wizard101 Facebook ad" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/wizardads.png)
 
 Both of these ads are from Facebook. The one on the left is a Wizard101 ad.
 

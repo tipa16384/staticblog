@@ -3,40 +3,17 @@ date: '2007-09-17T22:48:01-05:00'
 draft: false
 title: "Remembering Kunark"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/09/17/remembering-kunark/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Butcherblock shuttles with the ship to Kunark waiting offshore..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/09/kunarkboat.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/09/kunarkboat.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/kunarkboat.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/09/kunarkboat.jpg"
 ---
+The Butcherblock shuttles with the ship to Kunark waiting offshore...
+<!--more-->
 
-![kunarkboat.jpg](https://chasingdings.com/wp-content/uploads/2007/09/kunarkboat.jpg)
+
 
 *The Butcherblock shuttles with the ship to Kunark waiting offshore*
 
@@ -46,13 +23,13 @@ I guess it's faster to zip around the world via the Plane of Knowledge, or the t
 
 These weren't the dinky boats the humans built. These were elven ships of exploration, sweeping and beautiful. Velious would bring clanky gnomish ships. Luclin had spire travel. There were never ships like this in Norrath again.
 
-![fv.jpg](https://chasingdings.com/wp-content/uploads/2007/09/fv.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/fv.jpg" classes="center" >}}
 
 *The Outpost of Firiona Vie*
 
 The outpost of Firiona Vie. King Tearis Thex was so broken up at his daughter's kidnapping that he invaded Kunark and built this outpost among some old Iksar ruins and built a statue of his daughter two hundred feet high, undefeated, unclimbable...
 
-![fvstatue.jpg](https://chasingdings.com/wp-content/uploads/2007/09/fvstatue.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/fvstatue.jpg" classes="center" >}}
 
 *Climb to the top of the ruins, float at top speed to the pedestal, climb up the staff, over to her bust, up her shoulders, up the staff some more, float over to her head. Go ahead. Try.*
 
@@ -64,6 +41,6 @@ Kunark turned EQ from a game I'd play a couple of times a week into one I played
 
 EQ had problems, every game does. Given how little the EQ devs had to go on, making stuff up as they went along, really, it's amazing how much they got right. And the wrong things, like the way you could die in locked zones (Old Sebilis and Howling Stones) and have to do the access quests all over again, naked, just to get your stuff.
 
-![norrath.jpg](https://chasingdings.com/wp-content/uploads/2007/09/norrath.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/09/norrath.jpg" classes="center" >}}
 
 *The globe of Norrath in Skyfire, showing Kunark, Velious, and Timorous Deep.*

@@ -3,41 +3,18 @@ date: '2006-08-28T16:58:05-05:00'
 draft: false
 title: "Hoo'loh is Colorblind"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/28/hooloh-is-colorblind/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Sick Friday, I was sent home to sleep it off (unpaid, of course). Instead, I loaded myself up with drugs and logged in to EQ2..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/sundaybest.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/sundaybest.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/sundaybest.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/sundaybest.jpg"
 ---
+Sick Friday, I was sent home to sleep it off (unpaid, of course). Instead, I loaded myself up with drugs and logged in to EQ2...
+<!--more-->
 
-![Dina in her Sunday Best](https://chasingdings.com/wp-content/uploads/2006/08/sundaybest.jpg)
+
 
 Sick Friday, I was sent home to sleep it off (unpaid, of course). Instead, I loaded myself up with drugs and logged in to EQ2 to finish the Hoo'loh's Hat quest.
 
@@ -53,21 +30,21 @@ Hoo'loh was thrilled I'd managed to get all these ingredients from such dangerou
 
 He made a quick disguise from some dropped feathers, a couple of old bones and a few words of illusion. It would make me look like a Vultak, as long as I didn't get too close to any of them. Seemed fishy to me...
 
-![Vultak Disguise](https://chasingdings.com/wp-content/uploads/2006/08/disguise1wide.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/disguise1wide.jpg" classes="center" >}}
 
 This was so totally NOT my look. I crept in, took my time, watched the Vultaks and arranged for them to be very very far away when I raced through. I took it so slowly that I had plenty of time to wonder just how long this illusion would last. One hour? Two?
 
 It was below two minutes and counting down when I checked. I tried to hurry things up but the illusion timed out before I could make it to the end.
 
-![Roaming Vultaks in Nest of the Great Egg](https://chasingdings.com/wp-content/uploads/2006/08/nesthall.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/nesthall.jpg" classes="center" >}}
 
 Had to get another disguise. Was seen. Again. Was seen. Again. Was seen (and mobbed with escape down so I died). Again. I was getting really good at this. By the time I made it to the egg, I was able to go through the entire instance unnoticed in about three minutes. I crept carefully to the Great Egg, let the hat ingredients bask in its subtle glow, yelled a halfling yell they're probably still reeling from and escaped out of the Nest.
 
-![Dina in her Ugly Hat](https://chasingdings.com/wp-content/uploads/2006/08/uglyhat.jpg) Hoo'loh needed some reminding about that hat he had promised me. He seemed reluctant to hand it over -- and when he did, I understood why.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/uglyhat.jpg" classes="fig-20" >}} Hoo'loh needed some reminding about that hat he had promised me. He seemed reluctant to hand it over -- and when he did, I understood why.
 
 WHAT AN UGLY HAT! My colors are PURPLE! Not only that, for some reason my hair turns snow white when I'm wearing it. Well. I couldn't run around with this hat on. Everyone would laugh, or retch, or something. I made myself a matching dress to go with it (me in my traveling outfit at the top of this post), but the rest of the time it goes unseen.
 
-![Labs raid action shot](https://chasingdings.com/wp-content/uploads/2006/08/labs1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/labs1.jpg" classes="center" >}}
 
 The hat summons a "Hoo'lok Friend" who chats with you if you hail him. He is so cute! I would *totally* buy a Hoo'lok Friend in real life if SOE sold them. There's an idea for you, SOE! Everyone needs a friend!
 

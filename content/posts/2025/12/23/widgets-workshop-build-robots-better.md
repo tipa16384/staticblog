@@ -3,40 +3,18 @@ date: '2025-12-23T09:00:00-05:00'
 draft: false
 title: "Widget's Workshop: Build Robots Better."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/12/23/widgets-workshop-build-robots-better/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "If you've been fomenting a drop-style card crafting revolution, this might be the game for you."
-description: "If you've been fomenting a drop-style card crafting revolution, this might be the game for you."
-tags:
+categories:
   - "Game Night"
   - "Kickstarter"
   - "Tabletop Games"
+tags:
   - "Widget's Workshop"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5579-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5579-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5579-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5579-scaled.jpg"
 ---
+If you've been fomenting a drop-style card crafting revolution, this might be the game for you.
+<!--more-->
 
 "Revolutionary drop-style card crafting in the Dungeon Drop universe. Drop 80 part cards to create Widget's chaotic workshop, then use one finger to pull perfect components for your robots and golems. Unique spatial set collection meets strategic card crafting."
 
@@ -46,7 +24,7 @@ The goal of Widget's Workshop is to build robots from parts scattered randomly o
 
 First player to construct three robots gets a five point bonus, and everyone else gets three more turns to complete any robots under construction.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/IMG_5580-1024x768.jpg" title="My kids playing Widget's Workshop" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5580-1024x768.jpg" title="My kids playing Widget's Workshop" classes="center" >}}
 
 The twist is that the robot pieces are in a scattered pile; some may be hidden beneath others, some may be flipped upside down so that you can't see its types; some may also be on other player's boards. Each turn, you may use a single finger to slide a face-up part out of the pile and add it to one of your three construction bays, or use two fingers to slide two face-down pieces from the pile, choose one, and carelessly toss the other back in the pile, face-up.
 

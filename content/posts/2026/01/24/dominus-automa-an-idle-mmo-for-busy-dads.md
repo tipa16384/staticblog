@@ -3,40 +3,18 @@ date: '2026-01-24T10:26:41-05:00'
 draft: false
 title: "Dominus Automa: An Idle MMO for Busy Dads"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2026/01/24/dominus-automa-an-idle-mmo-for-busy-dads/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Someday it'll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday."
-description: "Someday it'll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday."
-tags:
+categories:
   - "MMORPG"
   - "Steam Games"
+tags:
   - "Dominus Automa"
   - "ZPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/dominusautoma.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2026/01/dominusautoma.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/dominusautoma.png"
 ---
+Someday it'll be an offline MMO for those with busy lives who want to text sweet nothings to their player character. Someday.
+<!--more-->
 
 The elevator pitch for Dominus Automa intrigued me a bit. An MMO where you didn't directly control your player character, who would happily quest, craft and grind levels for you even if you weren't online?
 
@@ -44,7 +22,7 @@ These sorts of MMOs aren't entirely unknown -- heck, I've been playing [one of t
 
 All that is in the future. What Dominus Automa is today is a single player speed run through the fourteen levels of the game comprised of largely purchased assets. That's not a dig; one of my favorite "MMO-lite" games, Erenshor, was built to some extent with purchased assets and is tons of fun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2026/01/20260123224937_1-1024x429.jpg" title="Not a really fast time, but then again I didn't know I was being timed" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2026/01/20260123224937_1-1024x429.jpg" title="Not a really fast time, but then again I didn't know I was being timed" classes="center" >}}
 
 The game is currently on an invite-only status on Steam; to get a key, [join the Discord](https://discord.gg/BFcx98q6) and DM the admin for a Steam key. I'm not sure for how long that Discord link will be active.
 
@@ -58,7 +36,7 @@ Currently, you start the game with a simulated login screen that puts you in com
 
 There is currently no loot or inventory in the game. I'm not sure gear is going to be part of this game, though I would hope so. I also imagine that we'll be able to design our own character at some point, but right now we're all going to be Gandalf, and the only future player character model currently in the game is a dwarf with a significantly different art style, who does his best to kill you whenever he shows up. Because PvP is a thing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2026/01/20260123200151_1-1024x429.jpg" title="Customization screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2026/01/20260123200151_1-1024x429.jpg" title="Customization screen" classes="center" >}}
 
 (I thought I'd taken better screenshots, but here we are).
 
@@ -66,7 +44,7 @@ Central to your character's strategy is the ability customization screen. There 
 
 Within each loadout, spells are cast in order from left to right as soon as they are off cooldown and you have sufficient mana to cast them. Each slot can have several conditions applied to them -- based off your or enemy health or mana, how many enemies you're facing, or how far away enemies are from you.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2026/01/image-3.png" title="Boss loadout" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2026/01/image-3.png" title="Boss loadout" classes="center" >}}
 
 As an example, the final boss, a dragon. The dragon is absolutely immune to fire attacks, so you don't see any here. My one attack is the lightning attack at the end.
 
@@ -82,7 +60,7 @@ There's only six slots for loaded abilities from a much longer selection. In gam
 
 There's also crafting, of a sort. Some levels feature plants to harvest, and in town you can send your character to the ovens to bake stat-buffing pies. Since there is no inventory, you eat these yummy pies immediately. Don't face a dragon without a berry pie in your belly.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2026/01/image-4-1024x574.png" title="Spiders!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2026/01/image-4-1024x574.png" title="Spiders!" classes="center" >}}
 
 I'm not sure I've ever played a game at quite this early in its development, so it's really hard to predict how it will work when all the features are in. I came in expecting to find other players -- I'd have invited other Spodeites to join in, we could group, etc. But multiplayer, character creation or even persistent characters are TBD. Right now, it's essentially a tech demo, and adding a persistent, multiplayer world to a single player leveling experience is not going to be super easy.
 

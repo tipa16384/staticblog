@@ -3,37 +3,12 @@ date: '2007-07-20T09:05:33-05:00'
 draft: false
 title: "Checkers Solved!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/20/checkers-solved/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "News in Nature that researchers at the University of Alberta have made their checkers program, Chinook, unbeatable. For any possible move in a game played..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+News in Nature that researchers at the University of Alberta have made their checkers program, Chinook, unbeatable. For any possible move in a game played...
+<!--more-->
 
 [News in Nature](http://www.nature.com/news/2007/070716/full/070716-13.html) that [researchers at the University of Alberta](http://www.cs.ualberta.ca/~chinook) have made their checkers program, Chinook, unbeatable. For any possible move in a game played against it, it can look up the best move. The best anyone can do against it is force a draw.
 

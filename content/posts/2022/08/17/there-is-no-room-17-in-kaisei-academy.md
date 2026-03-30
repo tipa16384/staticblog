@@ -3,43 +3,21 @@ date: '2022-08-17T07:00:00-05:00'
 draft: false
 title: "There is No Room 17 in Kaisei Academy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/17/there-is-no-room-17-in-kaisei-academy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "\"There Is No Room 17 in Kaisei Academy\" is a fun and mystery-filled visual novel that is perfect for fans of the genre."
-description: "\"There Is No Room 17 in Kaisei Academy\" is a fun and mystery-filled visual novel that is perfect for fans of the genre."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
   - "Visual Novel"
+tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-09-21.42.42-Anime-teenage-boys-in-the-school-uniform-for-Kaisei-Academy-in-Tokyo-standing-in-a-Japanese-high-school-classroom-looking-at-crime-clues-on-a-blackbo.png"
 ---
+"There Is No Room 17 in Kaisei Academy" is a fun and mystery-filled visual novel that is perfect for fans of the genre.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 17th, “There is No Room 17 in Kaisei Academy”.
 
@@ -47,7 +25,7 @@ I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each 
 
 In this anime-flavored visual novel, you are a student at the prestigious Kaisei Academy High School for boys in Tokyo, Japan. A new semester has just begun and you must help your classmates solve various mysteries that have cropped up around campus, all seemingly pointing to a mystery regarding Room 17. There is, however, no Room 17 at Kaisei Academy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/craiyon_214923_manga_style_drawing_of_a_door_with_a_window_inside_a_Japanese_high_school.png" title="Could this be?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_214923_manga_style_drawing_of_a_door_with_a_window_inside_a_Japanese_high_school.png" title="Could this be?" classes="center" >}}
 
 This visual novel makes use of a traditional point-and-click mechanics and tells its story through text with occasional still images. You can choose to read the story as it unfolds, or you can just click on the "next" button to advance it faster. 
 

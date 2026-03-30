@@ -3,47 +3,25 @@ date: '2024-11-09T09:48:52-05:00'
 draft: false
 title: "Dragon Age: The Veilguard is not the game you think it is"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/11/09/dragon-age-the-veilguard-is-not-the-game-you-think-it-is/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "But maybe the Dragon Age series has always been like this..."
-description: "But maybe the Dragon Age series has always been like this..."
-tags:
+categories:
   - "Action RPG"
   - "Dragon Age Origins"
   - "Other Games"
   - "RPG"
+tags:
   - "Dragon Age"
   - "The Veilguard"
   - "Treasure"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/davg-banner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/11/davg-banner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/davg-banner.png"
 ---
+But maybe the Dragon Age series has always been like this...
+<!--more-->
 
 I've read a dozen times over that Dragon Age: The Veilguard doesn't really show you the true game until you're eight hours in...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/image-1024x422.png" title="Just one of the places; click to go to the original comic" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/image-1024x422.png" title="Just one of the places; click to go to the original comic" classes="center" >}}
 
 That would be the time you open up the Crossroads -- the travel hub that connects the areas in the game -- and are finally let off the rails.
 
@@ -51,7 +29,7 @@ Up to that time, you've been playing a visual novel; long cut scenes broken up w
 
 As an unfair comparison, by the similar point in Baldur's Gate 3, you could already have made consequential decisions that would vastly change your game. For instance, killing all your potential companions is a thing you can do there. That might not be wise, but it's possible.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/1-20241108192815_1-1024x575.jpg" title="Hey guys. What's going on?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/1-20241108192815_1-1024x575.jpg" title="Hey guys. What's going on?" classes="center" >}}
 
 But, once the game opened up and the real game started grinding into gear, it suddenly hit me. DA:VG isn't an RPG; it's a puzzle game.
 
@@ -73,7 +51,7 @@ I really like the boss fights. They are *hard*. They take a long time, and they 
 
 Some boss fights occur with the plot; some come as you explore off the beaten path. These are the "Champions", that die to open up new places in the Crossroads that lead to -- you guessed it -- treasure.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/1-20241108191835_1-1024x576.jpg" title="I was crossing the River Styx the other day, and Charon said the funniest thing" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/1-20241108191835_1-1024x576.jpg" title="I was crossing the River Styx the other day, and Charon said the funniest thing" classes="center" >}}
 
 So, let's talk about the treasure.
 

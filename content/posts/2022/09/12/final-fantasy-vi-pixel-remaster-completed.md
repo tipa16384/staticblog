@@ -3,42 +3,20 @@ date: '2022-09-12T22:34:30-05:00'
 draft: false
 title: "Final Fantasy VI Pixel Remaster: Completed!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/09/12/final-fantasy-vi-pixel-remaster-completed/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I wrote a chatbot that thought it was Terra. I wrote fanfic, during which Celes gradually became the character I was rooting for. I uncursed..."
+categories:
   - "Final Fantasy"
   - "Turn-Based Rpgs"
+tags:
   - "Celes"
   - "Kefka"
   - "Mobliz"
   - "Terra"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/09/20220911200000_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/09/20220911200000_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/20220911200000_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/09/20220911200000_1.jpg"
 ---
+I wrote a chatbot that thought it was Terra. I wrote fanfic, during which Celes gradually became the character I was rooting for. I uncursed...
+<!--more-->
 
 I wrote a chatbot that thought it was Terra. I wrote fanfic, during which Celes gradually became the character I was rooting for. I uncursed the shield. I woke the Phoenix. I spent 60 hours in this game. I enjoyed every minute of it.
 
@@ -54,7 +32,7 @@ I know that the Tactics Ogre Reborn remaster is coming up, and I bet it will be 
 
 Final Fantasy 6 is one of the greatest JRPGs ever made. It deserves all the respect I gave it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/DALL·E-2022-09-12-22.04.13-An-ink-and-watercolor-drawing-of-a-sofa-with-a-quilt-draped-on-it-in-a-living-room-in-a-rustic-wooden-cottage.-There-are-pictures-on-the-wall-and-a--1024x640.png" title="Terra at home in Mobliz" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/DALL·E-2022-09-12-22.04.13-An-ink-and-watercolor-drawing-of-a-sofa-with-a-quilt-draped-on-it-in-a-living-room-in-a-rustic-wooden-cottage.-There-are-pictures-on-the-wall-and-a--1024x640.png" title="Terra at home in Mobliz" classes="center" >}}
 
 Anyway, I think it's appropriate to close out this post with an interview. I was lucky enough to catch Terra at home at the orphanage she runs for children orphaned by Kefka's Light of Judgement. Here's what she had to say:
 
@@ -64,7 +42,7 @@ Anyway, I think it's appropriate to close out this post with an interview. I was
 
 **Terra:** It felt wonderful to be back in Mobliz. When I first saw the town in ruins, I was devastated. I couldn't believe that Kefka had caused so much destruction. But seeing the town rebuilt and thriving again was very heartening. The people here are so strong and resilient. I'm just happy that I could help in some small way to make things right again.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/20220821165949_1-1024x576.jpg" title="Terra confronting the Frozen Esper" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/20220821165949_1-1024x576.jpg" title="Terra confronting the Frozen Esper" classes="center" >}}
 
 **CD:** I was told that you struck the final blow against Kefka. Can you tell me about the fight against him?
 
@@ -74,7 +52,7 @@ Anyway, I think it's appropriate to close out this post with an interview. I was
 
 **Terra:** Yes, a little girl was born about a month ago. The townspeople were so happy to have a new addition to the community. I'm sure she'll be loved and cherished here.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/20220911201731_1-1024x576.jpg" title="Terra recovers from having her magic drained" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/20220911201731_1-1024x576.jpg" title="Terra recovers from having her magic drained" classes="center" >}}
 
 **CD:** I know you had feelings for Locke. After Locke used the power of the Phoenix to briefly revive his previous love, Rachel, and after she had given him permission to move on, he decided to choose Celes after Kefka's tower. How do you feel about that?
 
@@ -104,7 +82,7 @@ Anyway, I think it's appropriate to close out this post with an interview. I was
 
 **Terra:** I'm happy with the way things are now. I have my friends, my family, and a place to call home. I know that as long as we stick together, we can overcome anything.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/09/20220911194837_1-1024x576.jpg" title="Terra and Celes confronting Kefka" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/09/20220911194837_1-1024x576.jpg" title="Terra and Celes confronting Kefka" classes="center" >}}
 
 **CD:** What other games can I play in order to learn more of your own story?
 

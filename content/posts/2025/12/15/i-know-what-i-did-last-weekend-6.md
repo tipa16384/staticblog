@@ -3,44 +3,23 @@ date: '2025-12-15T08:25:57-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/12/15/i-know-what-i-did-last-weekend-6/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Time for another round-up of my recent gaming adventures."
-description: "Time for another round-up of my recent gaming adventures."
-tags:
+categories:
   - "Dune Awakening"
   - "Guild Wars"
   - "MMORPG"
   - "Pokemon"
+tags:
   - "Audiomech"
+  - "Pokemon"
   - "Quest 64"
   - "Sword for Hire"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5573-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/12/IMG_5573-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/IMG_5573-scaled.jpg"
 ---
+Time for another round-up of my recent gaming adventures.
+<!--more-->
 
 Every so often I hit a tipping point where I have a lot of game-related things to talk about, but none of them quite rise to the level of needing a full post on their own. And so… here we are, with bits and pieces from a lot of games.
 
@@ -56,7 +35,7 @@ The game has an innovative battle system - one I haven’t seen before or since 
 
 BTW, putting this out here so other Analogue 3D owners don’t suffer as I have: saving to the virtual controller pack DOES NOT save to permanent storage by itself! You must explicitly QUIT THE CARTRIDGE from the Analogue 3D’s system menu for the save to persist!
 
-{{ 52!" class="align-center" >}}
+{{ 52!" classes="center" >}}
 
 **Pokemon TCG Pocket**
 
@@ -70,7 +49,7 @@ The new trading and sharing mechanics elevate the whole system to new heights. I
 
 This is my not-happy face.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/20251213183503_1-1024x429.jpg" title="Flying free" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/20251213183503_1-1024x429.jpg" title="Flying free" classes="center" >}}
 
 **Dune: Awakening**
 
@@ -82,7 +61,7 @@ That said, we’ve been pretty active. Calrain made a second carrier, so now we 
 
 The game *is* fun. It would just be more fun with more players. And no PvP. Funcom keeps threatening to make the Deep Desert more dangerous, but I don’t think that ends the way they think it does.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/image-1-1024x592.png" title="Takes some guts to call yourself \"sly\"" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/image-1-1024x592.png" title="Takes some guts to call yourself \"sly\"" classes="center" >}}
 
 **Guild Wars 2**
 
@@ -90,7 +69,7 @@ Team Spode finally finished up Living World Season 3. We’d already played *Pat
 
 With LW3 complete, we were finally able to start the *Visions of Eternity* expansion. We’ve only finished the prologue so far; the next instance is pretty long, so we opted to set sail next week.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/20251213122100_1-1024x429.jpg" title="Audio Surge!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/20251213122100_1-1024x429.jpg" title="Audio Surge!" classes="center" >}}
 
 **Audio Mech**
 
@@ -100,7 +79,7 @@ As the power of the music grows, so does the power of your enemies.
 
 It's just amazing. You can tune the difficulty to your liking, from an OP power walk to frantic bobbing and weaving. I saw this on [Scopique's Video Game Awards wrap-up](https://scopique.com/2025/12/12/the-2025-video-game-awards/) and stopped reading and started playing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/image-2.png" title="This looks familiar" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/image-2.png" title="This looks familiar" classes="center" >}}
 
 **Sword for Hire**
 

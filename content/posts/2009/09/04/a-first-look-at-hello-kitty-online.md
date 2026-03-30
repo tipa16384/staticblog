@@ -3,50 +3,29 @@ date: '2009-09-04T07:39:35-05:00'
 draft: false
 title: "A First Look at: Hello Kitty Online"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/04/a-first-look-at-hello-kitty-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Either the thought of playing in the world of Hello Kitty! makes you really excited, or you couldn't care less. Nothing in this \"first look\"..."
+categories:
   - "Hello Kitty Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/kitty.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/kitty.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kitty.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/kitty.png"
 ---
+Either the thought of playing in the world of Hello Kitty! makes you really excited, or you couldn't care less. Nothing in this "first look"...
+<!--more-->
 
-![Hello, Kitty!](https://chasingdings.com/wp-content/uploads/2009/09/kitty.png "Hello, Kitty!")Either the thought of playing in the world of Hello Kitty! makes you really excited, or you couldn't care less. Nothing in this "first look" is going to change your mind.
+
+
+Either the thought of playing in the world of Hello Kitty! makes you really excited, or you couldn't care less. Nothing in this "first look" is going to change your mind.
 
 Still here? Then you're a Hello Kitty! fan, and just want to know what the game that you've already decided to play is *like*. Worried that you're too old to enjoy Hello Kitty? Worry not. Last night, the youngest person who admitted to their age was 20. Most were older -- one person joked that everyone seemed to be 40 or over. HKO is a social game, more than anything else. A *kaffeeklatsch* for fans of a bobble-headed kitten from Japan.
 
-![Ooooh! Shiny crystals!](https://chasingdings.com/wp-content/uploads/2009/09/art_0013_colored2-480x328.jpg "Ooooh! Shiny crystals!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/art_0013_colored2-480x328.jpg" title="Ooooh! Shiny crystals!" classes="center" >}}
 
 In the game's opening animation, you learn that Hello Kitty! and all the other denizens of Sanrio Town have gone missing. It is your mission to travel into your own dreams and find your friends and have adventures!
 
 Character creation, typical for games of this sort, gives relatively few options -- but as is ALSO typical for games of this sort, you'll find lots of items to separate yourself from your clones in game. Numberless outfits, pets, masks, funny hats... the usual.
 
-[![My character](https://chasingdings.com/wp-content/uploads/2009/09/hko-2009-09-04-06-59-31-71-480x360.jpg "My character")](https://chasingdings.com/wp-content/uploads/2009/09/hko-2009-09-04-06-59-31-71.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-04-06-59-31-71-480x360.jpg" title="My character" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-04-06-59-31-71.jpg)
 
 You start off on the docks of a small port town and then -- well, that's it.
 
@@ -56,7 +35,7 @@ Because, unusual for a modern MMO and unheard of for a children's MMO, the game 
 
 Don't touch those wandering monsters (yet) -- you have no weapons, and they will kill you right away. Do feel free to harvest those shamrocks you pass -- you'll need them. A LOT of them.
 
-[![Crafting in Floraville](https://chasingdings.com/wp-content/uploads/2009/09/hko-2009-09-04-07-00-48-98-480x360.jpg "Crafting in Floraville")](https://chasingdings.com/wp-content/uploads/2009/09/hko-2009-09-04-07-00-48-98.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-04-07-00-48-98-480x360.jpg" title="Crafting in Floraville" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-04-07-00-48-98.jpg)
 
 Eventually you'll be given a broken magic wand with which no monster in the first zone will be any challenge (right click on a monster and wait for it to die. Um, get knocked out). You'd get the impression that maybe combat isn't at the heart of Hello Kitty! Online. HKO is not about the fighting. It IS about the CRAFTING.
 
@@ -66,7 +45,7 @@ Crafting, again, has no in-game tutorial, so I'll take up the slack. Quests will
 
 Many, may quests will have you making something, or making things to use as ingredients for other things. Most everything will send you out in the field to harvest the oddly shaped trees, bushes, flowers and local fauna. Most every recipe will leave you standing in front of the General Merchandise merchant, buying just one more stack of eggs and a cup of flour. *Et voila*, Chocolate Milk!
 
-[![Down on the farm with my apple orchard.](https://chasingdings.com/wp-content/uploads/2009/09/hko-2009-09-04-08-21-33-52-480x360.jpg "Down on the farm with my apple orchard.")](https://chasingdings.com/wp-content/uploads/2009/09/hko-2009-09-04-08-21-33-52.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-04-08-21-33-52-480x360.jpg" title="Down on the farm with my apple orchard." classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-04-08-21-33-52.jpg)
 
 Just want to get away from it all, get back out into the country, get back to the land? Lucky you, you have a farm! Buy some seeds and fertilizer from the farming supplier, and talk to the farm manager about a quick teleport to your mule and 40 acres. Well, by "acres" I mean square feet. Your first farm is quite small. But why be content with that? You can visit other player's farms (with their permission) and give them helpful tips like, "those inharmoniously arranged plants disrupt the *feng shui* of this land" and "all your crops are dead. Why do you hate your plants?"
 

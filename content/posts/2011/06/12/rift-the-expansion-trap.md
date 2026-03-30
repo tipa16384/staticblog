@@ -3,40 +3,17 @@ date: '2011-06-12T11:50:19-05:00'
 draft: false
 title: "Rift: The Expansion Trap"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/06/12/rift-the-expansion-trap/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Every time I post, my character is wearing a new outfit. It's a compulsion! I can't help it. But this outfit is special -- it's..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-12-10-12-29-41-480x298.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-12-10-12-29-41-480x298.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-12-10-12-29-41-480x298.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/rift-2011-06-12-10-12-29-41-480x298.jpg"
 ---
+Every time I post, my character is wearing a new outfit. It's a compulsion! I can't help it. But this outfit is special -- it's...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/rift-2011-06-12-10-12-29-41-480x298.jpg" title="Chillaxin' in Meridian" class="align-center" >}}
+
 
 Every time I post, my character is wearing a new outfit. It's a compulsion! I can't help it. But this outfit is special -- it's T1/P2 complete. Everything comes from either Tier 1 expert dungeons, or Prestige 2 PvP gear vendors. The gear from T1 and P1/2 are roughly equivalent. I spent Saturday chaining warfronts to get to Prestige 2 expressly to get that tunic. Afterward the guild (and I) raided Greenscale Blight where we easily took down the duke and got the interrogator (or whatever the next boss is called) to 17%. I was asked to switch to bard spec, which is raid code for "your DPS sucks, play these songs and try to stay out of the way". But that's okay.
 
@@ -44,7 +21,7 @@ Rift is fun, but I'm missing the excitement. It's easy to dismiss raiding as a w
 
 I've been a raider in EverQuest, Dark Age of Camelot (well, keep sieger), World of Warcraft, EverQuest II and now, this last week, in Rift as well. It all feels very much the same from one game to another. Rift is already falling into the expansion trap. They announced a new high level dungeon for those raiders who finished all the previous high level dungeons. Non-raiders have T2 dungeons and likely soon T3+ dungeons to do. Expert and raid rifts give the pickup group contingent things to look forward to. But...
 
-![](https://chasingdings.com/wp-content/uploads/2011/06/Atrapitis.gif "It")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/06/Atrapitis.gif" title="It" classes="center" >}}
 
 Once a MMO embarks upon the "new expansion, gear reset, more love for raiders" road, the danger is that the game becomes so linear and focused on the end game that players new to the game may feel they can never catch up -- and that even if they have the desire, the largely unpopulated lands between them and the bulk of the playerbase could be very discouraging.
 

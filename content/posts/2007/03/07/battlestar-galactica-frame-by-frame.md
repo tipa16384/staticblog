@@ -3,38 +3,15 @@ date: '2007-03-07T07:55:38-05:00'
 draft: false
 title: "Battlestar Galactica, frame by frame"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/03/07/battlestar-galactica-frame-by-frame/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What really happened at the end of Battlestar Galactica? Here's a frame-by-frame examination of the last few seconds. It's full of spoilers, so DO NOT..."
+categories:
   - "Battlestar Galactica"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/03/bg1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/03/bg1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/bg1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/03/bg1.jpg"
 ---
+What really happened at the end of Battlestar Galactica? Here's a frame-by-frame examination of the last few seconds. It's full of spoilers, so DO NOT...
+<!--more-->
 
 What *really* happened at the end of Battlestar Galactica? Here's a frame-by-frame examination of the last few seconds. It's full of spoilers, so DO NOT read further unless you have seen the episode, "Maelstrom".
 
@@ -42,31 +19,29 @@ In this episode, Kara "Starbuck" Thrace is haunted by visions that she is on the
 
 I don't think she died. I think something *else* happened to her. Here's frames from the last few seconds.
 
-![bg1.jpg](https://chasingdings.com/wp-content/uploads/2007/03/bg1.jpg)
-
 This is a view from Apollo's ship. See the Cylon heavy raider at the upper left, that he does not appear to notice. This is the first time we see the raider from anyone else's perspective than Starbuck's, and is the first time we know she isn't dreaming it. Moments later he noses down and Starbuck's viper comes into view.
 
-![bg2.jpg](https://chasingdings.com/wp-content/uploads/2007/03/bg2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/bg2.jpg" classes="center" >}}
 
 Kara tells Lee to let her go as light fills the cabin.
 
-![bg3.jpg](https://chasingdings.com/wp-content/uploads/2007/03/bg3.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/bg3.jpg" classes="center" >}}
 
 She closes her eyes and sees herself as a child, at peace. Cylons, by the way, don't have childhoods. Kara is not a Cylon.
 
-![bg4.jpg](https://chasingdings.com/wp-content/uploads/2007/03/bg4.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/bg4.jpg" classes="center" >}}
 
 Kara disappears in a sudden flash of light.
 
-![bg5.jpg](https://chasingdings.com/wp-content/uploads/2007/03/bg5.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/bg5.jpg" classes="center" >}}
 
 Kara's Viper (notice that the cockpit is empty; Viper pilots wear lit helmets easily seen from outside) begins to burn up and soon explodes.
 
-![bg6.jpg](https://chasingdings.com/wp-content/uploads/2007/03/bg6.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/03/bg6.jpg" classes="center" >}}
 
 Simplest explanation is that Starbuck transcends her human/mortal existence somehow. The Five have been shown as beings of light, and the original Starbuck himself had a similar transformation into a [being of Light](http://en.wikipedia.org/wiki/Ship_of_Lights). The current producers of Battlestar Galactica have time and again brought back plot elements from the original show in unexpected ways.
 
-![](http://upload.wikimedia.org/wikipedia/en/thumb/0/09/2001child2.JPG/350px-2001child2.JPG)
+{{< image src="http://upload.wikimedia.org/wikipedia/en/thumb/0/09/2001child2.JPG/350px-2001child2.JPG" classes="center" >}}
 
 It's *my* wild speculation that Kara will continue through the eye of the storm and come to Earth transfigured, similar to Dave Bowman's transfiguration into the Star Child in "2001: A Space Odyssey".
 

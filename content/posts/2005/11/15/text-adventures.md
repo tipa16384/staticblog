@@ -3,37 +3,12 @@ date: '2005-11-15T00:00:00-05:00'
 draft: false
 title: "Text Adventures"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/11/15/text-adventures/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I saw this Wall Street Journal on Modern-day Text Adventures on Slashdot...."
+categories:
   - "Other Games"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I saw this Wall Street Journal on Modern-day Text Adventures on Slashdot....
+<!--more-->
 
 I saw this Wall Street Journal on [Modern-day Text Adventures](http://online.wsj.com/public/article/SB113035964379680346-Sm_Xo6VCeinwEXHBnVDawW_8grI_20061115.html?mod=blogs) on [Slashdot](http://games.slashdot.org/article.pl?sid=05/11/15/1435221&tid=206&tid=10).
 

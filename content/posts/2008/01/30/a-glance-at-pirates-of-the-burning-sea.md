@@ -3,40 +3,17 @@ date: '2008-01-30T09:01:00-05:00'
 draft: false
 title: "A Glance at Pirates of the Burning Sea"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/30/a-glance-at-pirates-of-the-burning-sea/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I got home last night, my son was all smiles and grins. He'd finally passed the test of skill needed to join a prestigious..."
+categories:
   - "MMORPG"
   - "Pirates of the Burning Sea"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg"
 ---
+When I got home last night, my son was all smiles and grins. He'd finally passed the test of skill needed to join a prestigious...
+<!--more-->
 
-![potbs-2008-01-30-01-24-42-83.jpg](https://chasingdings.com/wp-content/uploads/2008/01/potbs-2008-01-30-01-24-42-83.jpg)
+
 
 When I got home last night, my son was all smiles and grins. He'd finally passed the test of skill needed to join a prestigious online clan in Call of Duty 4 -- having to kill ten opponents -- real people, mind you, not AIs -- in a specific death match, and to have twice as many kills as deaths.
 
@@ -48,7 +25,7 @@ At the heart of PotBS is a slow, stately, sea battle simulator. Ever mindful of 
 
 This is more than a little like EvE online. You have your hull damage -- aft, forward, port and starboard -- your guns, the need to keep at best range, destroying ships and looting cargo from the debris. You also have the depth to tactics, even more so as you try to use the wind, derelict ships and islands to force the enemy to sail where you want them to sail. An enemy tried to sail around an island with me chasing them -- going against the wind -- I turned away from the wind, sailed around the island the long way (but faster) and met him as he came around the point with my cannons blazing.
 
-![potbs-2008-01-30-02-11-42-25.jpg](https://chasingdings.com/wp-content/uploads/2008/01/potbs-2008-01-30-02-11-42-25.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/potbs-2008-01-30-02-11-42-25.jpg" classes="fig-20" >}}
 
 I guess the NPCs share something else with EvE -- they aren't all that smart, but they make up for it in numbers and having better ships. At least better than my level 1 boat.
 

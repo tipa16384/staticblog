@@ -3,40 +3,17 @@ date: '2015-06-30T11:34:18-05:00'
 draft: false
 title: "Driving Kasul..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/30/driving-kasul-with-ou/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "With our free month of FFXIV about to end, Kasul and I had to make a difficult decision. Not about whether or not to continue..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-29-20-26-46-27.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-29-20-26-46-27.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-29-20-26-46-27.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-29-20-26-46-27.jpg"
 ---
+With our free month of FFXIV about to end, Kasul and I had to make a difficult decision. Not about whether or not to continue...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-29-20-26-46-27.jpg" title="Yes, Uber has set up shop in Eorzea. I'm just out to make some extra gil with my chocobo between adventures." class="align-center" >}}
+
 
 With our free month of FFXIV about to end, Kasul and I had to make a difficult decision. Not about whether or not to continue playing the game -- we're both having a lot of fun with -- but just who was going to recruit who for the recruit-a-friend program. See, in FFXIV, if you recruit someone, you get a bunch of cool rewards, like that two-seater chocobo in the picture. If you're recruited, you get some lesser rewards.
 
@@ -50,7 +27,7 @@ The eventual goal is to take on the primal Garuda, but Garuda is very well-prote
 
 Cid had (reportedly) died during the Calamity, so this was going to be somewhat of a challenge. But that's fine. Kasul had immediately pegged an amnesiac monk as Cid in disguise. We tried various means to spark his memory, but it took one of those androgynous elf twins to name him and wake him.
 
-[![Cid!](https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-29-21-07-08-85.jpg)](https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-29-21-07-08-85.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-29-21-07-08-85.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-29-21-07-08-85.jpg)
 
 Cid's airship was last seen in Coerthas Central Highlands, drifting away after losing its crew in a battle. We eventually determined it had come to rest in the Stone Vigil, one of the four watchtowers built by the city-state of Ishgard. We were finally able to get permission to go there and attempt to retrieve the airship (with Cid and the androgyne elf along for the ride). Unfortunately, the whole place has been overrun with dragons....
 
@@ -60,7 +37,7 @@ Last night's chapter was filled with running-around quests, but they didn't rise
 
 I did not think we'd be this far along in just a month.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/ffxiv-2015-06-29-23-21-11-69.jpg" title="Nina Tanglewood, the Doom Banana." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/06/ffxiv-2015-06-29-23-21-11-69.jpg" title="Nina Tanglewood, the Doom Banana." classes="center" >}}
 
 With Stone Vigil being a level 42-44 dungeon, and Garuda herself being a level 45 trial, I feel we're getting near the end of the main, pre-Heavensward, storyline. I can't believe it would take more than a month to close it out. We have lots of jobs to level and lots of dungeons to run before we start in on the hard dungeons that we'll need in order to proceed to Heavensward. I hear that characters with average item level of 100 and more are doing okay in the expansion; my paladin average armor level is in the high 30s. It should be 50 when I start on hard dungeons. I'm a tank. My armor should be the best in the group.
 

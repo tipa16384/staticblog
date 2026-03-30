@@ -3,40 +3,17 @@ date: '2009-10-03T23:23:42-05:00'
 draft: false
 title: "EVE Online: I'm in Damallan Trick!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/03/eve-online-im-in-damallan-trick/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm in Damallan Trick..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-10-03-12-48-54-90.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-10-03-12-48-54-90.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-10-03-12-48-54-90.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-10-03-12-48-54-90.jpg"
 ---
+I'm in Damallan Trick...
+<!--more-->
 
-![Mining ops FTW!](https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-10-03-12-48-54-90.jpg "Mining ops FTW!")
+
 
 **I'm in Damallan Trick**
 
@@ -78,7 +55,7 @@ I'm still not sure if LMFAO is a parody group or the real thing. The only reason
 
 Today was mining ops day because, heck, how many ships have I gone through in just the past week? Well, the corp lost a few ships in the Lowsec Ops, and then I lost my mission Myrmidon in Taru ...
 
-[![Flash! (aaa-aaaaaah!) Granola!](https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-10-02-20-42-21-89-480x329.jpg "Flash! (aaa-aaaaaah!) Granola!")](https://chasingdings.com/wp-content/uploads/2009/10/ExeFile-2009-10-02-20-42-21-89.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-10-02-20-42-21-89-480x329.jpg" title="Flash! (aaa-aaaaaah!) Granola!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/ExeFile-2009-10-02-20-42-21-89.jpg)
 
 Oh yeah. I guess I didn't tell this story yet. Now, I know a lot of people are going to tell me not to get baited into bad situations, but the only alternative was to sit there like a dork and take it, and I didn't feel like sitting there like a dork and taking it, no matter what the consequences.
 

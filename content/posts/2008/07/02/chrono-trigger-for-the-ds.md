@@ -3,41 +3,19 @@ date: '2008-07-02T05:35:56-05:00'
 draft: false
 title: "Chrono Trigger for the DS?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/02/chrono-trigger-for-the-ds/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Over at DS Fanboy, they have an article hinting that Chrono Trigger -- one of the SNES' best RPGs -- could be making the jump..."
+categories:
   - "Other Games"
+tags:
   - "Chrono Resurrection"
   - "Chrono Trigger"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/zombor.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/zombor.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/zombor.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/zombor.jpg"
 ---
+Over at DS Fanboy, they have an article hinting that Chrono Trigger -- one of the SNES' best RPGs -- could be making the jump...
+<!--more-->
 
-![zombor.jpg](https://chasingdings.com/wp-content/uploads/2008/07/zombor.jpg)
+
 
 Over at DS Fanboy, they have an article hinting that Chrono Trigger -- one of the SNES' best RPGs -- [could be making the jump to the Nintendo DS](http://www.dsfanboy.com/2008/07/02/chrono-trigger-ds-for-real/).
 

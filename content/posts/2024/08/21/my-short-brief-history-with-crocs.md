@@ -3,42 +3,20 @@ date: '2024-08-21T07:00:00-05:00'
 draft: false
 title: "My short, brief history with Crocs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/21/my-short-brief-history-with-crocs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "My son refuses to be seen with me while wearing them. It's like wearing a scarlet letter. But they are soooo cool."
-description: "My son refuses to be seen with me while wearing them. It's like wearing a scarlet letter. But they are soooo cool."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Pokemon"
+tags:
   - "Crocs"
   - "Pikachu"
   - "Retro World Expo"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/pcroc.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/pcroc.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/pcroc.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/pcroc.png"
 ---
+My son refuses to be seen with me while wearing them. It's like wearing a scarlet letter. But they are soooo cool.
+<!--more-->
 
 When my boyfriend was in the hospital for a procedure, I noticed that more than half of the nurses were wearing Crocs!
 

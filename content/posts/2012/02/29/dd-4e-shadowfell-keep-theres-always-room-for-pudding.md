@@ -3,54 +3,33 @@ date: '2012-02-29T23:46:34-05:00'
 draft: false
 title: "D&D 4E Shadowfell Keep: There's always room for pudding!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/29/dd-4e-shadowfell-keep-theres-always-room-for-pudding/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was a cursed night when we came across the Pudding......"
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/pudding1-480x365.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/pudding1-480x365.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/pudding1-480x365.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/pudding1-480x365.png"
 ---
+It was a cursed night when we came across the Pudding......
+<!--more-->
 
 It was a cursed night when we came across the Pudding...
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/pudding1-480x365.png "Space Channel 5")](https://chasingdings.com/wp-content/uploads/2012/02/pudding1.png)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2012/02/pudding1.png)
 
 Huh? No, a PUDDING!
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/jello_instant_pudding_chocolate3.jpg "jJello Instant Pudding")](https://chasingdings.com/wp-content/uploads/2012/02/jello_instant_pudding_chocolate3.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/jello_instant_pudding_chocolate3.jpg" title="jJello Instant Pudding" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/02/jello_instant_pudding_chocolate3.jpg)
 
 Mmm closer, not quite there...
 
-[![](https://chasingdings.com/wp-content/uploads/2012/02/flan12.jpg "Ochre Jelly")](https://chasingdings.com/wp-content/uploads/2012/02/flan12.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/flan12.jpg" title="Ochre Jelly" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/02/flan12.jpg)
 
 That's it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/FantasyGrounds-2012-02-23-22-48-53-98-480x360.jpg" title="The Battle of the Pudding" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/FantasyGrounds-2012-02-23-22-48-53-98-480x360.jpg" title="The Battle of the Pudding" classes="center" >}}
 
 It's hard to get a restful sleep in a dungeon, especially when you just KNOW a murderous, stinking, backstabbing (literally) hobgoblin had all the time in the world to go through your things before he took off to undoubtedly lead some sort of hobgoblin insurgency against your humble company of naive adventurers who want only to map some old ruins...
 

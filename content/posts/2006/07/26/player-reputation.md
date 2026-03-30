@@ -3,37 +3,12 @@ date: '2006-07-26T17:05:15-05:00'
 draft: false
 title: "Player Reputation"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/26/player-reputation/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "*This post repeats and expands upon my comments to Amber Night's article, Why Player Rep Will Fail; her response to the third-party player reputation site,..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+*This post repeats and expands upon my comments to Amber Night's article, Why Player Rep Will Fail; her response to the third-party player reputation site,...
+<!--more-->
 
 *This post repeats and expands upon my comments to [Amber Night](http://www.ambernight.org)'s article, [Why Player Rep Will Fail](http://ambernight.org/archives/2006/07/26/283); her response to the third-party player reputation site, [Playerep.com](http://playerep.com/).
 

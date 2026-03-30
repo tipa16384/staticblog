@@ -3,41 +3,19 @@ date: '2020-10-16T17:06:55-05:00'
 draft: false
 title: "Game Night: Gloomhaven, Jaws of the Lion, A Ritual in Stone"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/16/game-night-gloomhaven-jaws-of-the-lion-a-ritual-in-stone/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This is the fourth scenario of Gloomhaven: Jaws of the Lion. We're still in the tutorial for the game -- this scenario introduced scenario goals..."
+categories:
   - "3D Printing"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
+tags:
   - "Jaws of the Lion"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1959.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1959.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1959.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1959.jpg"
 ---
+This is the fourth scenario of Gloomhaven: Jaws of the Lion. We're still in the tutorial for the game -- this scenario introduced scenario goals...
+<!--more-->
 
 This is the fourth scenario of Gloomhaven: Jaws of the Lion. We're still in the tutorial for the game -- this scenario introduced scenario goals and city events.
 
@@ -47,7 +25,7 @@ Board gaming is the excuse for the family to get together. This game will take a
 
 But it's a really great game!
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/1-IMG_1958.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/1-IMG_1958.jpg" classes="center" >}}
 
 We, the famous mercenary group "The Jaws of the Lion", were tasked to find a missing blacksmith by his wife. We followed a trail of vermlings to a hidden ship, where the smith and the other unfortunate victims of the Vermlings were found -- dead. But not entirely without use, as red-robed zealots seemed to have other plans for the corpses.
 

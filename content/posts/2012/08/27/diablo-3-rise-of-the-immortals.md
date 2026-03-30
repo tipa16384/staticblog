@@ -3,39 +3,16 @@ date: '2012-08-27T22:36:46-05:00'
 draft: false
 title: "Diablo 3: Rise of the Immortals"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/08/27/diablo-3-rise-of-the-immortals/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When we went \"softcore\" last week, I wasn't sure I'd have anything to write about. Sure, Sunday we made great progress, ripping through the Skeleton..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-26-23-45-29-61-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-26-23-45-29-61-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-26-23-45-29-61-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-26-23-45-29-61-480x269.jpg"
 ---
+When we went "softcore" last week, I wasn't sure I'd have anything to write about. Sure, Sunday we made great progress, ripping through the Skeleton...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-26-23-45-29-61-480x269.jpg" title="Headed to the Butcher" class="align-center" >}}
+
 
 When we went "softcore" last week, I wasn't sure I'd have anything to _write_ about. Sure, Sunday we made great progress, ripping through the Skeleton King and on to the Butcher, killed him without a death, rolled on to Act II.
 
@@ -53,7 +30,7 @@ I learned the pointers soon enough. Never post a buyout bid (or if you do, make 
 
 A piece of level 10-16 armor with my wizard's preferred stats -- Intelligence, Vitality, Experience and Life Regeneration -- typically goes for between 20,000 and 30,000 gold in the softcore auction house. Prices are cheaper in the hardcore auction house, but I'm not playing that particular game any more.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-26-12-57-59-42-480x384.jpg" title="Dead, dead monk." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-26-12-57-59-42-480x384.jpg" title="Dead, dead monk." classes="center" >}}
 
 My level 52 monk sailed through Acts III and IV of hardcore nightmare mode. There were a couple of iffy bits, but I didn't feel any real danger until Act I, hell mode.
 

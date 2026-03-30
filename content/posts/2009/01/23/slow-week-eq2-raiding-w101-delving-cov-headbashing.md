@@ -3,57 +3,33 @@ date: '2009-01-23T07:34:42-05:00'
 draft: false
 title: "Slow week -- EQ2 raiding, W101 delving, CoV headbashing"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/01/23/slow-week-eq2-raiding-w101-delving-cov-headbashing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This is my week to be the \"on call\" developer at work, which means I carry the Pager of Doom and also have to go..."
+categories:
   - "City of Heroes"
   - "EverQuest"
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Dragonspyre"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/specimen.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/01/specimen.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/specimen.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/specimen.jpg"
 ---
+This is my week to be the "on call" developer at work, which means I carry the Pager of Doom and also have to go...
+<!--more-->
 
 This is my week to be the "on call" developer at work, which means I carry the Pager of Doom and also have to go to bed early and get up early. PLUS, yesterday I had more dental work done and was in so much pain I drugged myself senseless and slept from the time I got home until 11PM. But there's always casual MMOs to fill in the free hour here and there.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/specimen.jpg "specimen")
-
 Ascarey has been working on Nexona still. We're getting closer, but the whole encounter is a balancing act. You have to keep the DPS on Nexona within certain bounds. Too low and she regens to full health. Too high and she wipes the raid. The shinies that spawn must be popped and killed. Too slow and they kill the raid. Too fast and probably Nexona is not getting enough DPS. And then the drakes spawn at 40% and must be crowd-controlled.
 
-It reminds me of one of my favorite fights in old EverQuest, the [fight vs Vishimitar](https://chasingdings.com/index.php/2005/10/01/vishimitar/). That was a progression check in EQ; if you could beat Vishimitar, then the newer raids were probably within your grasp. Nexona looks to be the same sort of deal in EQ2's Veeshan's Peak. Beat Nexona, and the rest of VP probably will fall pretty quick.
+It reminds me of one of my favorite fights in old EverQuest, the [fight vs Vishimitar](https://tipa16384.github.io/wkblog/index.php/2005/10/01/vishimitar/). That was a progression check in EQ; if you could beat Vishimitar, then the newer raids were probably within your grasp. Nexona looks to be the same sort of deal in EQ2's Veeshan's Peak. Beat Nexona, and the rest of VP probably will fall pretty quick.
 
 We were to reset the instance and clear to Nexona again last night, and maybe we did, but I was unconscious on the couch.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-22-18-55-50-58.jpg "cityofheroes-2009-01-22-18-55-50-58")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/cityofheroes-2009-01-22-18-55-50-58.jpg" title="cityofheroes-2009-01-22-18-55-50-58" classes="center" >}}
 
 I loaded up City of Villains a couple of weeks ago intending on playing a mission or two before unsubscribing to save some money. I surprised myself by getting totally hooked again. It is almost the perfect casual MMO -- missions are so slowly paced that you can take all the breaks you want, travel time to one is practically nil, you can call up the mission giver on your cell phone so there's no need to even travel back to visit them, and you get free XP just by logging off in a "day job" location. So, City of Villains kept its spot on my hard drive. When I have just half an hour to bust some heads, here's where I go. I could spend half an hour in Lord of the Rings just running to a quest. LotRO is not a game that is kind to someone without a lot of time.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-23-01-39-16-33.jpg "wizardgraphicalclient-2009-01-23-01-39-16-33")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-23-01-39-16-33.jpg" title="wizardgraphicalclient-2009-01-23-01-39-16-33" classes="center" >}}
 
 Whenever any blogger posts about the disappointments of MMOs in 2008, I get really tempted to leave comments about Wizard 101. NOT like WoW, strategic, fun, funny, can play it in small doses or take on long instances, it's the best indie MMO to come out all last year and the latest expansion does what good expansions do. Dragonspyre extended the game world and made it better, plus added an entirely new system, the Arena PvP system, that adds wizard v wizard action for all levels.
 

@@ -3,46 +3,24 @@ date: '2010-12-06T20:20:59-05:00'
 draft: false
 title: "DDO: Taking a Wight at the Ghast Station"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/06/ddo-taking-a-wight-at-the-ghast-station/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Shy, a hireling cleric, and I watch the pretty burning ship while Spode flees the scene..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Archer's Point"
   - "Dead Girl's Notebook"
   - "Delera's Tomb"
   - "Irestone Inlet"
   - "Mirra's Sleepless Nights"
   - "Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg"
 ---
+Shy, a hireling cleric, and I watch the pretty burning ship while Spode flees the scene...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-05-00-36-35-01-480x384.jpg "Spode did it! Look, he")
+
 
 *Shy, a hireling cleric, and I watch the pretty burning ship while Spode flees the scene*
 
@@ -60,7 +38,7 @@ With Ulan traveling this last weekend, and Gleek with company over on Sunday, we
 
 We did Archer's Point -- not my favorite, I dislike timed missions. You have to run around looking for packs of hobgoblins and clear them out before reinforcements arrive and invade the camp you are trying to protect. It's that sense of false urgency that I don't appreciate.
 
-We had Irestone Inlet opened up on hard -- we [did that last April](https://chasingdings.com/index.php/2010/04/21/ddo-a-night-of-crime/) in v1.0 of our group. The goal here is to slaughter the hobgoblin crew of a pirate ship, then blow up said ship before the captain catches you. Then, you murder the captain. I need to emphasize that the crew was just minding their own business when we swooped down on them with death in our hands. Does it excuse our actions if the business we interrupted was them holding innocent captives for ransom?
+We had Irestone Inlet opened up on hard -- we [did that last April](https://tipa16384.github.io/wkblog/index.php/2010/04/21/ddo-a-night-of-crime/) in v1.0 of our group. The goal here is to slaughter the hobgoblin crew of a pirate ship, then blow up said ship before the captain catches you. Then, you murder the captain. I need to emphasize that the crew was just minding their own business when we swooped down on them with death in our hands. Does it excuse our actions if the business we interrupted was them holding innocent captives for ransom?
 
 Kill first, ask questions later, that's the Team Spode way.
 

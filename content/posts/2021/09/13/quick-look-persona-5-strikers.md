@@ -3,46 +3,24 @@ date: '2021-09-13T23:26:33-05:00'
 draft: false
 title: "Quick Look: Persona 5 Strikers"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/09/13/quick-look-persona-5-strikers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Persona 5, Persona 5 Royal, Persona 5 Dancing in Starlight, and now Persona 5 Strikers. The Persona 5 legacy lives on in this new, action-oriented..."
+categories:
   - "Console Game"
   - "Nintendo Switch"
   - "Switch"
   - "Video Game"
   - "Video Game Series"
+tags:
   - "Persona"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320223000-1ED6A785ADE38F04450C188FF9531338.jpg"
 ---
+Persona 5, Persona 5 Royal, Persona 5 Dancing in Starlight, and now Persona 5 Strikers. The Persona 5 legacy lives on in this new, action-oriented...
+<!--more-->
 
 Persona 5, Persona 5 Royal, Persona 5 Dancing in Starlight, and now Persona 5 Strikers. The Persona 5 legacy lives on in this new, action-oriented chapter in the story of Joker & Friends as they seek to save the innocent people of Shibuya, once again.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/2021090421052900-1ED6A785ADE38F04450C188FF9531338-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/2021090421052900-1ED6A785ADE38F04450C188FF9531338.jpg)Futaba warns us about Shadows
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/2021090421052900-1ED6A785ADE38F04450C188FF9531338-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/2021090421052900-1ED6A785ADE38F04450C188FF9531338.jpg)Futaba warns us about Shadows
 
 *I have not yet finished Persona 5 Strikers, so this is more of a quick look than a full review.*
 
@@ -54,7 +32,7 @@ Protagonist Ren Amamiya, AKA Joker, has returned from his distant home to spend 
 
 This leads the crew into a new alternate reality and a series of new adventures and a few new friends, including an AI Phantom Thief named Sophia, a counterpart to the Alexa-like AI that has become coincidentally popular wherever suspiciously supernatural things are happening.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/2021082320172100-1ED6A785ADE38F04450C188FF9531338-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/2021082320172100-1ED6A785ADE38F04450C188FF9531338.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320172100-1ED6A785ADE38F04450C188FF9531338-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320172100-1ED6A785ADE38F04450C188FF9531338.jpg)
 
 **Combat**
 
@@ -64,7 +42,7 @@ Every fight has symbols hovering around letting you know when you can take an ex
 
 The combat is actually kind of similar to that Breath of the Wild spinoff, Hyrule Warriors.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/2021082320305400-1ED6A785ADE38F04450C188FF9531338-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/2021082320305400-1ED6A785ADE38F04450C188FF9531338.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320305400-1ED6A785ADE38F04450C188FF9531338-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/2021082320305400-1ED6A785ADE38F04450C188FF9531338.jpg)
 
 **No more school! No more jobs! No more social stuff! Well, not much of it.**
 
@@ -74,7 +52,7 @@ Even the stores have been largely subsumed into Sophia's functions -- she has th
 
 Time no longer passes until you pass certain plot points. You can duck out of the metaverse as much as you like for heals and resupplies without a night going by.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/09/2021082321423700-1ED6A785ADE38F04450C188FF9531338-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/09/2021082321423700-1ED6A785ADE38F04450C188FF9531338.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/09/2021082321423700-1ED6A785ADE38F04450C188FF9531338-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/09/2021082321423700-1ED6A785ADE38F04450C188FF9531338.jpg)
 
 **Stealth! Sometimes!**
 

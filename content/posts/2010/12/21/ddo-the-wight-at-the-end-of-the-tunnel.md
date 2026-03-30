@@ -3,42 +3,22 @@ date: '2010-12-21T12:20:15-05:00'
 draft: false
 title: "DDO: The Wight at the End of the Tunnel"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/21/ddo-the-wight-at-the-end-of-the-tunnel/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Delera"
   - "Delera's Tomb"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-19-22-54-51-00-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-19-22-54-51-00-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-19-22-54-51-00-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-19-22-54-51-00-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-19-22-54-51-00-480x383.jpg "I will outlast you")](https://chasingdings.com/wp-content/uploads/2010/12/dndclient-2010-12-19-22-54-51-00.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/12/dndclient-2010-12-19-22-54-51-00.jpg)
 
 Delera's Tomb has some sort of unhealthy obsession with dead girls. You have the "Dead Girl's Notebook" one-off. Then you have the whole Delera questline proper, where you free the spirit of the dead girl and then hunt down the evil necromancer what did it to her.
 

@@ -3,40 +3,17 @@ date: '2008-02-08T12:59:40-05:00'
 draft: false
 title: "EQ2: Epic Bits"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/08/eq2-epic-bits/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Funny thing about the Avatars. They aren't the real gods themselves, you know. They got over that whole \"oh, let's just stand here and be..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/02/bb.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/02/bb.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/bb.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/02/bb.jpg"
 ---
+Funny thing about the Avatars. They aren't the real gods themselves, you know. They got over that whole "oh, let's just stand here and be...
+<!--more-->
 
-![bb.jpg](https://chasingdings.com/wp-content/uploads/2008/02/bb.jpg)
+
 
 Funny thing about the Avatars. They aren't the real gods themselves, you know. They got over that whole "oh, let's just stand here and be raidkilled" thing 500 years ago when Druzzil Ro decided letting mortals in to the Plane of Time and perhaps follow Zebuxurok's path to semi-godhood was just going to ruin the cosmos for everyone and so she rolled back time itself.
 
@@ -54,7 +31,7 @@ Instead, what they'd do is find some hapless worshiper, polymorph them so they l
 
 I don't really care. I just wish the Avatar of the god Dina worships would just make free with teh platz.
 
-![epic1.jpg](https://chasingdings.com/wp-content/uploads/2008/02/epic1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/epic1.jpg" classes="center" >}}
 
 Finding the start of the troubador epic was easy. Just listen for the caterwauling (literally: *the wailing of cats*) of bards with rusty voices screeching out their Chaos song. The centaurs over in Thundering Steppes were grumbling about having to move their camp if that damn bard didn't shut up.
 
@@ -62,7 +39,7 @@ Heck, I'm always ready to hear a good tune, even if it does make my ears bleed a
 
 Well, that bard kinda elliptically remarked that other bards had been sent to send the residents of Freeport and Qeynos running, so I tracked them down, heard their tunes, lied through my teeth about how much I liked it, and asked where I could get a copy?
 
-![epic2.jpg](https://chasingdings.com/wp-content/uploads/2008/02/epic2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/epic2.jpg" classes="center" >}}
 
 Turns out the mages of Freeport and Qeynos were trying to decipher some copies, probably at the behest of the poor residents of those cities who were begging the mages to find a way to make it STOP.
 
@@ -70,7 +47,7 @@ I borrowed the book from the Qeynos mages and read a chilling tale of an instrum
 
 It is up to me, Dina Tanglewood, a lone halfling without a friend in the world, to take on the terrible task of acquiring the six-stringed Axe of Ayonae and strike the chord that saves eternity.
 
-![bteastage.jpg](https://chasingdings.com/wp-content/uploads/2008/02/bteastage.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/bteastage.jpg" classes="center" >}}
 
 Well, of course I had to talk to my good friend Vhalen Nostrolo about this. He's dead, of course. And I should know, since I killed him. Yup, back in EQ1, when he would just be standing around in South Karana without a care in the world. I killed him and killed him and killed him. I couldn't walk anywhere near a bard hall after that. Took days to repair that faction by running mail for them.
 
@@ -86,7 +63,7 @@ It was made from the witch's bones, and her soul was bound into it. That... that
 
 If I played it with those bone mallets, it appeared to talk... I was told to look for something bound in a lamp in a fortress that hovered high above the burning sands.
 
-![sphinx.jpg](https://chasingdings.com/wp-content/uploads/2008/02/sphinx.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/02/sphinx.jpg" classes="center" >}}
 
 Of course. That place with the Mute Bard. Poet's Palace, that sits within the Shimmering Citadel that floats high above the Deserts of Ro. It would make sense Ayonae Ro would have something to do with the place.
 

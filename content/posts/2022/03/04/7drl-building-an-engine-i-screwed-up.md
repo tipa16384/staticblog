@@ -3,44 +3,22 @@ date: '2022-03-04T08:17:29-05:00'
 draft: false
 title: "7DRL: Building an Engine -- I Screwed Up."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/04/7drl-building-an-engine-i-screwed-up/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I really thought I had more time. I thought I had a week to integrate the new Tiled-based map creation tools, and to make a..."
+categories:
   - "7DRL"
+tags:
   - "Tiled"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/7drlfail.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/7drlfail.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/7drlfail.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/7drlfail.png"
 ---
+I really thought I had more time. I thought I had a week to integrate the new Tiled-based map creation tools, and to make a...
+<!--more-->
 
 I really thought I had more time. I thought I had a *week* to integrate the new Tiled-based map creation tools, and to make a workable combat system. I did not. I am entirely out of time. 7DRL starts tomorrow.
 
 I honestly, 100%, thought that 7DRL started on the twelfth. I thought that I would just barely be able to get the engine in rough shape by then, but it turns out I didn't have any time at all.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/image-1.png)](https://chasingdings.com/wp-content/uploads/2022/03/image-1.png)Oops.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/image-1.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/image-1.png)Oops.
 
 So, I panicked. I was stunned. How could I have been so wrong. I posted on Twitter that I was abandoning 7DRL, I left the jam, and started thinking about how I would go forward with the game, now that I suddenly had all the time in the world.
 

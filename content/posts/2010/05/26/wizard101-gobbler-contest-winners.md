@@ -3,40 +3,19 @@ date: '2010-05-26T05:48:44-05:00'
 draft: false
 title: "Wizard101 Gobbler Contest Winners!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/26/wizard101-gobbler-contest-winners/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg "Outside the Myth school")](https://chasingdings.com/wp-content/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/WizardGraphicalClient-2010-05-01-20-46-27-30.jpg)
 
 The contest is over! Professor Drake is NOT a fair person, and in fact, had constructed his puzzle such that only his favorite student, Bailey, could win. No amount of cheating by Daniel, who was stuck outside the classroom; or Cedric, staring at a wall, could help them with the colors of their own hats. Abigail simply didn't have enough information to make more than a random guess at the color of her own hat.
 

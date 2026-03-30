@@ -3,41 +3,19 @@ date: '2015-11-24T19:20:39-05:00'
 draft: false
 title: "Desecrated Cathedral"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/11/24/desecrated-cathedral/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We've been working on the T7 DCUO alert, Desecrated Cathedral, for a few weeks. The basic plot is that the demon Trigon's miscreant sons are..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg"
 ---
+We've been working on the T7 DCUO alert, Desecrated Cathedral, for a few weeks. The basic plot is that the demon Trigon's miscreant sons are...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/DCGame-2015-11-22-22-38-48-50.jpg" title="Kickin' back with Raven" class="align-center" >}}
+
 
 We've been working on the T7 DCUO alert, Desecrated Cathedral, for a few weeks. The basic plot is that the demon Trigon's miscreant sons are fighting over the scraps of their father's power. Trigon's not that interest in giving them any of it. HE wants to share his power with his daughter, Raven. SHE keeps waffling between being evil and good. When she's good, she's a member of the Teen Titans and stops robbers and stuff. When she's evil, she is a psychic juggernaut who infects your dreams and is totally awesome.
 
@@ -45,13 +23,13 @@ Unfortunately, in Desecrated Cathedral, we end up helping the good version of Ra
 
 We've had issues with this alert because our DPS is too low, and I am a non-contributer. Not because controllers can't contribute in general, it's just because I, personally, don't contribute. Hold on, lemme show you.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/1-DCGame-2015-11-22-22-42-36-42.jpg" title="Go, me" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/1-DCGame-2015-11-22-22-42-36-42.jpg" title="Go, me" classes="center" >}}
 
 That's me, at the bottom, just above the people who joined our three person group, saw my CR, and quit. Well, there was a guy who stuck around until we failed on the first boss, and then quit. That guy is just ahead of me. He quit before killing the first boss and still did five times the damage I did on the entire instance.
 
 I know, I know, I shouldn't let my cruddy DPS get to me. It's my own fault. I could play a lot more, get all the mods, get a couple hundred more skill points, and be effective. And after the first boss, I didn't die as much. The REAL surprise is that we did this all without a HEALER. Without a controller (after I died on the first boss), the DPS and Spode as tank could not really do their jobs. But they got along pretty well without a healer.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/DCGame-2015-11-22-22-41-55-10.jpg" title="Yay, \"Good\" Raven wins!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/DCGame-2015-11-22-22-41-55-10.jpg" title="Yay, \"Good\" Raven wins!" classes="center" >}}
 
 The achievement is for helping the "best" Raven win... but isn't being really evil being the "best" at being evil? Maybe the White Raven is the "worst" Raven at being evil.... I dunno.
 

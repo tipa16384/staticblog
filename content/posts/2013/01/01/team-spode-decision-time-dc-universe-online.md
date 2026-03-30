@@ -3,40 +3,17 @@ date: '2013-01-01T09:28:00-05:00'
 draft: false
 title: "Team Spode Decision Time: DC Universe Online"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/01/01/team-spode-decision-time-dc-universe-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Nobody in Team Spode is actually asking me to document our choice of a new game, and it will ultimately be decided by some sort..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/DCGame-2013-01-01-08-05-05-76-480x352.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/01/DCGame-2013-01-01-08-05-05-76-480x352.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/DCGame-2013-01-01-08-05-05-76-480x352.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/DCGame-2013-01-01-08-05-05-76-480x352.jpg"
 ---
+Nobody in Team Spode is actually asking me to document our choice of a new game, and it will ultimately be decided by some sort...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/DCGame-2013-01-01-08-05-05-76-480x352.jpg" title="DC Universe Online" class="align-center" >}}
+
 
 Nobody in Team Spode is actually asking me to document our choice of a new game, and it will ultimately be decided by some sort of weird consensus. But, the search itself is fun.
 
@@ -52,7 +29,7 @@ Everything dies. The end.
 
 But, wait... Lex Luthor somehow survives. He steals some Brainiac tech and escapes into the past just before Brainiac's invasion, and tries to bring together an untrusting Justice League. Frustrated, he uses the tech to grant superpowers to random people, including you, the player. Given superhuman abilities, you can choose to take on the role of a hero or a villain, be mentored by the most famous names in comics, and save the Earth.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/DCGame-2013-01-01-07-34-17-24-480x384.jpg" title="Foxforge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/DCGame-2013-01-01-07-34-17-24-480x384.jpg" title="Foxforge" classes="center" >}}
 
 This back story echoes the most iconic of the early superhero games, 2002's [Freedom Force](http://en.wikipedia.org/wiki/Freedom_Force_(2002_video_game)). The widespread popularity of this sort of tactical hero game led inevitably to Cryptic Studios' 2004 hit, [City of Heroes](http://en.wikipedia.org/wiki/City_of_Heroes), the first superhero-themed MMO.
 
@@ -70,7 +47,7 @@ You get some basic ability to change your uniform, but unlike City of Heroes and
 
 Character creation dropped me into the extended tutorial. As a recently empowered human, I was brought into one of Brainiac's orbital harvesting facilities to be separated into my component parts. For SCIENCE. Outside, superhacker Oracle (nee Batgirl, nee Barbara Gordon), while trying to crack the harvester electronic countermeasures, managed to break me from my cryo tube. Learning to use my powers as I escaped from the ship, I eventually met up with Superman, and together we wreaked havoc (nascent villains team up with Lex Luthor, I believe).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/DCGame-2013-01-01-08-01-59-44-480x300.jpg" title="As quiet as a fly on the ceiling" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/DCGame-2013-01-01-08-01-59-44-480x300.jpg" title="As quiet as a fly on the ceiling" classes="center" >}}
 
 DCUO is a frenetic button-mashing game. Two main attacks map to the left and right mouse buttons (or the appropriate two buttons on game pads), and combos unlocked during gameplay trigger off specific combinations of left/right button presses, taps and holds. Before she'd left the mother ship, Foxforge gained a power to hurl enemies in the air -- done by tapping and holding the left mouse button.
 

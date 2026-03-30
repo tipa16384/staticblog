@@ -3,40 +3,17 @@ date: '2008-07-14T07:53:31-05:00'
 draft: false
 title: "W101: Archaeology students discover lost tomb"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/14/w101-archaeology-students-discover-lost-tomb/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Journeyman conjurer Tara Mythcrafter, of Myth House, is among those working to decipher the glyphs on the obelisks that stand throughout the dig site...."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/wizardgraphicalclient-2008-07-14-07-22-17-66.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/wizardgraphicalclient-2008-07-14-07-22-17-66.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/wizardgraphicalclient-2008-07-14-07-22-17-66.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/wizardgraphicalclient-2008-07-14-07-22-17-66.jpg"
 ---
+Journeyman conjurer Tara Mythcrafter, of Myth House, is among those working to decipher the glyphs on the obelisks that stand throughout the dig site....
+<!--more-->
 
-![some W101 ruins](https://chasingdings.com/wp-content/uploads/2008/07/wizardgraphicalclient-2008-07-14-07-22-17-66.jpg)
+
 
 *Journeyman conjurer Tara Mythcrafter, of Myth House, is among those working to decipher the glyphs on the obelisks that stand throughout the dig site.*
 

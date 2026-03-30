@@ -3,46 +3,23 @@ date: '2013-11-14T08:21:58-05:00'
 draft: false
 title: "The Tragedy of Draconic Nasolacrimal Duct Blockage"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/11/14/the-tragedy-of-draconic-nasolacrimal-duct-blockage/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm just still not convinced that naming EverQuest 2's latest expansion after what must be an incredibly painful condition was the best strategy. If YOUR..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-12-23-01-06-58.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-12-23-01-06-58.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-12-23-01-06-58.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-12-23-01-06-58.jpg"
 ---
+I'm just still not convinced that naming EverQuest 2's latest expansion after what must be an incredibly painful condition was the best strategy. If YOUR...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-12-23-01-06-58.jpg" title="Walking with Undead Dragons" class="align-center" >}}
+
 
 I'm just still not convinced that naming EverQuest 2's latest expansion after what must be an incredibly painful condition was the best strategy. If YOUR tears were indestructible stones that amplified all magic to dangerously explosive levels -- if you were ALSO a creature of magic like the dragon goddess Veeshan -- you can see how avoiding crying situations might be to your advantage.
 
 Kerafrym, the prismatic dragon, is the big bad of this expansion, imprisoned for eternity as the sleeper in Sleeper's Tomb. His parents were an ice dragon and a fire dragon, believed to be EverQuest 1 legends Lady Vox and Lord Nagafen, a mating that was forbidden by the Ring of Scale. Loot-hungry players wake him up and send him rampaging through Nagafen's Lair, Permafrost (home to Lady Vox), Dragon Necropolis and the Temple of Veeshan.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/269774cd171056a191d9a7f405b5e59d-480x384.jpg" title="Dera and other members of Lost Sock Patrol" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/269774cd171056a191d9a7f405b5e59d-480x384.jpg" title="Dera and other members of Lost Sock Patrol" classes="center" >}}
 
 Picture of my cleric, Dera, about to wake the Sleeper with my guild Lost Sock Patrol of Stromm. We were about to make a lot of scepter of destruction farmers really, really mad. These farmers were making huge piles of real cash by selling SoDs and other droppable mega-loots to associates in the Stormhammer server, who could freely swap servers, with rich players on servers where the Sleeper had been woken. My server, Stromm, was supplying all of EQ with illegal weapons. But we were also going to be the last guild that would ever wake the Sleeper in the original EverQuest. Plus, we weren't getting any of that SoD cash, now, were we?
 
@@ -52,7 +29,7 @@ I'm thinking SOE owes us something for all this work we did for them. If not for
 
 See how well THAT plays in ad copy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-12-21-22-06-08.jpg" title="Nexus Core Advanced Solo Dungeon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-12-21-22-06-08.jpg" title="Nexus Core Advanced Solo Dungeon" classes="center" >}}
 
 The expansion takes place largely in the Ethernere, the place where the souls of the dead rest before moving into their permanent afterlife. In the previous expansion, Chains of Eternity, the place was constipated with the souls of the dead, after the death spirits of the gods Rallos Zek and Cazic Thule stopped up the place and drove its guardian, Drinal, mad. THAT'S all cleared up now. Which is good, as the Tear-empowered Kerafrym is about to send the souls of every living creature there pretty soon. Unless we players can stop it.
 
@@ -62,7 +39,7 @@ The Duality, the two-bodied wizard who has been the avatar of the good guys sinc
 
 And that brings us to the expansion.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-13-23-15-38-55.jpg" title="New Pack Pony!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-13-23-15-38-55.jpg" title="New Pack Pony!" classes="center" >}}
 
 The Tears of Veeshan expansion are set in the Vespyyr Islands, the realm of dead dragons, a medium-sized overland zone consisting of several floating rocks. There is also, somewhere, Highhold Keep, or the Ethernere copy of same. I haven't been there yet. The main focus of the content is in its ten new dungeons, which, as in CoE, come in solo, heroic, challenge heroic and raid versions. Again, as in CoE, a solo signature quest leads you through the expansion, upgrading your gear to tier 2 group zone levels before sending you on your way.
 
@@ -72,7 +49,7 @@ ToV also brings a new, improved dungeon finder. Haven't tried that, since the gr
 
 The expansion has a lot of love for crafters. There's a new, short, Gathering Obsession quest that unites you again with annoying monk child Qho Augren, who this time has run off into the Ethernere in search of rare things for you to ultimately harvest for him. The reward is an upgraded pack pony that can harvest rares and holiday items for you. Additionally, daily crafting quests in Caldin Ward reward recipes and experience.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/EverQuest2-2013-11-13-20-43-58-54.jpg" title="Rat Channeler" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/EverQuest2-2013-11-13-20-43-58-54.jpg" title="Rat Channeler" classes="center" >}}
 
 ToV adds a new class, the Channeler. It's a pet class, of a sort, that uses magic arrows to heal and damage. I say "of a sort" as the pet, called a construct, isn't able to be commanded. It's an unkillable damage sponge that can take a certain amount of damage before it just stops taking damage for you. You can customize its look to a certain extent by finding new pieces in the wild, similar to... Vanguard? Didn't it have constructable necromancer pets?
 

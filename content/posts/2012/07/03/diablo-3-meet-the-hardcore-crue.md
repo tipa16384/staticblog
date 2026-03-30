@@ -3,45 +3,22 @@ date: '2012-07-03T19:39:20-05:00'
 draft: false
 title: "Diablo 3: Meet the Hardcore Crüe"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/07/03/diablo-3-meet-the-hardcore-crue/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm very \"anti\" boring stuff in games these days. So after I finished my first run through of Diablo 3 and joined a public group..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-01-23-13-42-99-480x329.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-01-23-13-42-99-480x329.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-01-23-13-42-99-480x329.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-01-23-13-42-99-480x329.jpg"
 ---
+I'm very "anti" boring stuff in games these days. So after I finished my first run through of Diablo 3 and joined a public group...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-01-23-13-42-99-480x329.jpg" title="The instance group... in Diablo 3" class="align-center" >}}
+
 
 I'm very "anti" boring stuff in games these days. So after I finished my first run through of Diablo 3 and joined a public group to bring down Diablo ~~him~~ herself in one of the most telegraphed, least surprising twists EVER -- anyway -- I started in on Nightmare mode and found myself doing the exact same things over again. Same everything.
 
 So I moved on. Lots of games, after all. Not being paid to play the same game entirely through over and over again. I know people like the challenge, but even on Hell mode, it would be just the same thing, only much harder.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/07/Diablo-III-2012-07-02-00-11-38-31-480x269.jpg" title="Vs the Skeleton King" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/07/Diablo-III-2012-07-02-00-11-38-31-480x269.jpg" title="Vs the Skeleton King" classes="center" >}}
 
 One of the first things Gleek, Spode and Ulan told me when I joined the instance group back in Neverwinter Nights 2, that when Diablo 3 came out, we were going to drop what we were doing and just do that.
 

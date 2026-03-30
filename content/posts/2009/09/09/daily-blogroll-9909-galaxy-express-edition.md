@@ -3,24 +3,8 @@ date: '2009-09-09T08:08:38-05:00'
 draft: false
 title: "Daily Blogroll 9/9/09 - Galaxy Express edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/09/daily-blogroll-9909-galaxy-express-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "That's like Galaxy Express 999, NOT the Futurama ship. That's Planet Express...."
+categories:
   - "Aion"
   - "Daily Blogroll"
   - "Darkfall"
@@ -30,22 +14,13 @@ tags:
   - "Hello Kitty Online"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg"
 ---
+That's like Galaxy Express 999, NOT the Futurama ship. That's Planet Express....
+<!--more-->
 
 That's like Galaxy Express 999, NOT the Futurama ship. That's Planet Express.
-
-![My pet loves me when I](https://chasingdings.com/wp-content/uploads/2009/09/hko-2009-09-08-21-52-33-20.jpg "My pet loves me when I")
 
 Ever, like, DIE in a game, and your pet begins dancing around your decaying corpse, singing about what a great day it is? Thanks, Hello Kitty Online! Leveling has slowed quite a lot in that game. My pet is having a super time, though.
 
@@ -57,7 +32,7 @@ Karen of Journeys with Jaye makes a stellar comeback to her too-long-dormant blo
 
 Speaking of EVE, omgtheyarenerfingtitans! Titans, for non-capsuleers, are moon-sized ships of ultimate destruction -- like the Death Star, except bigger, and [without a lot of starship-sized paths to the power core](http://blogs.amctv.com/scifi-scanner/2009/08/bad-designs-in-star-wars.php). Gordon of We Fly Spitfires says the Titan-only [10k radius sphere of destruction is being made... single target](http://blog.weflyspitfires.com/2009/09/08/eve-online-dominion-titan-nerf-and-facebook-fun/). Now, I'm still an EVE noob, but even I can see why that is a Bad Idea. AE spheres of doom don't need to lock on to a target, they just kill everything in range. Weapons requiring a target can be foiled all sorts of ways. Hey, if I just spent hundreds of billions of ISK and a year or two of training to fly a Titan -- which is like flying an asteroid-sized target around -- I want it to be UBER.
 
-![Paladins RULE!](https://chasingdings.com/wp-content/uploads/2009/09/nethackpally.jpg "Paladins RULE!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/nethackpally.jpg" title="Paladins RULE!" classes="center" >}}
 
 Zubon of Kill Ten Rats has been having a grand old time making and leveling new characters in the largest, most polished, most popular MMO in the whole world, Blizzard's World of Warcraft. His take: Night Elf druid boring, Gnome mage nerfed at low levels, and [OMG Paladin](http://www.killtenrats.com/2009/09/08/a-tale-of-three-early-game-experiences/)!!! I wanted to make a screen shot of a paladin with its magic horse for this bit, but I am among the WoW-challenged, so I offer up the screen shot of a paladin and her magic horse in Nethack, instead. But it's just like WoW in most ways.
 
@@ -65,7 +40,7 @@ Recently-capped protection warrior Copra finds the game changes at 80... especia
 
 Massively has [a great video of ship combat](http://www.massively.com/2009/09/05/star-trek-online-video-footage-an-early-look-at-starship-combat/) in the in-development Star Trek Online. One of the criticisms of combat in EVE Online is its slow pace of combat -- STO looks to change all that. Can't wait to see how all that comes together.
 
-![Wizard vs Crab](https://chasingdings.com/wp-content/uploads/2009/09/Fullscreen-capture-982009-75639-AM.jpg "Wizard vs Crab")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/Fullscreen-capture-982009-75639-AM.jpg" title="Wizard vs Crab" classes="center" >}}
 
 I've been back in Free Realms for a few days now, studiously leveling up my wizard. The game has sure changed a lot since its launch. I'm not sure why that surprised me, but it did. Beau of Spouse Aggro [likes to point to Free Realms as an example](http://epicdolls.com/beauturkey/?p=2092) of a larger trend among MMOs to remove all the boring bits and just move the player from one fun activity to the next at a good pace. Because, seriously, modern games are all more or less a collection of mini-games, right? Some just wear the badge more proudly than others.
 

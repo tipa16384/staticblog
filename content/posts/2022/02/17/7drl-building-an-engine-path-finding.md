@@ -3,39 +3,17 @@ date: '2022-02-17T23:30:32-05:00'
 draft: false
 title: "7DRL: Building an Engine -- Path Finding"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/02/17/7drl-building-an-engine-path-finding/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Path finding is central to all rogue-likes. If an enemy can't find you, they can't fight you... and that wouldn't be any fun. Tonight, I..."
+categories:
   - "7DRL"
+tags:
   - "A*"
   - "Dijkstra"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot-2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/02/screenshot-2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/02/screenshot-2.png"
 ---
+Path finding is central to all rogue-likes. If an enemy can't find you, they can't fight you... and that wouldn't be any fun. Tonight, I...
+<!--more-->
 
 Path finding is central to all rogue-likes. If an enemy can't *find* you, they can't *fight* you... and that wouldn't be any fun. Tonight, I go over Dijkstra's famous pathfinding algorithm, the differences between that and A*, and how I implemented them in the engine.
 

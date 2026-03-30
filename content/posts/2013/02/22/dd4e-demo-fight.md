@@ -3,40 +3,17 @@ date: '2013-02-22T08:19:42-05:00'
 draft: false
 title: "D&D4e: Demo Fight"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/22/dd4e-demo-fight/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Adventure Company reconvened last night to prepare for our new adventures. We made a few changes since the last time we met. All new..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/chrome-2013-02-21-21-40-09-45-480x344.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/chrome-2013-02-21-21-40-09-45-480x344.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/chrome-2013-02-21-21-40-09-45-480x344.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/chrome-2013-02-21-21-40-09-45-480x344.jpg"
 ---
+The Adventure Company reconvened last night to prepare for our new adventures. We made a few changes since the last time we met. All new...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/chrome-2013-02-21-21-40-09-45-480x344.jpg" title="B.A. had the right idea" class="align-center" >}}
+
 
 The Adventure Company reconvened last night to prepare for our new adventures. We made a few changes since the last time we met. All new characters, for one -- we'd all died in the last encounter, at the bottom of a deep hole, in front of a portal to an evil realm, a realm in which many of us are presumably now trapped for eternity.
 
@@ -44,7 +21,7 @@ We welcomed a new face, Mike S., who brings the Adventure Co up to fighting stre
 
 While Roll20.net has its own video chat system, we switched to a Google Hangout, into which Roll20 docked itself neatly. So no more switching between the game window and the hangout window.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/chrome-2013-02-21-23-36-26-98.jpg" title="You die, I die, we all die" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/chrome-2013-02-21-23-36-26-98.jpg" title="You die, I die, we all die" classes="center" >}}
 
 The Adv. Co. v2 is comprised of Pakts Dabagars, gnome warlock; Kaveith, goliath warden; B.A., tiefling wizard (sorry, missed the complete name); Valda Onyxheart, dwarf shaman (my character) and her spirit companion Dern, a basilisk; and a tiefling invoker whose player was knocked off the net by snow storms and didn't get to play last night so I didn't catch his name.
 

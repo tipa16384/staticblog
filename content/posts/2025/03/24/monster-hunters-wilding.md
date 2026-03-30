@@ -3,43 +3,21 @@ date: '2025-03-24T08:19:36-05:00'
 draft: false
 title: "Monster Hunters Wilding"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/03/24/monster-hunters-wilding/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I like to think of the Monster Hunter series being set in the same world as the Pokemon games."
-description: "I like to think of the Monster Hunter series being set in the same world as the Pokemon games."
-tags:
+categories:
   - "Final Fantasy"
   - "MMORPG"
   - "Monster Hunter"
   - "Pokemon"
   - "PS5"
+tags:
   - "Monster Hunter Wilds"
   - "Monster Hunter World"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/mhwildsbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/03/mhwildsbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/mhwildsbanner.png"
 ---
+I like to think of the Monster Hunter series being set in the same world as the Pokemon games.
+<!--more-->
 
 I'm taking a break from Sword for Hire. I will finish it. I know everything I need to do. I just need a break.
 
@@ -55,11 +33,11 @@ Not sure where I'm going with this. I guess I just imagine tiny monsters ganging
 
 Anyway. Weapons. Monster Hunter has a variety of signature weapons that carry over from game to game. I remember going through quite a number of different kinds of weapons in Monster Hunter World before finally settling on the bow.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/Monster-Hunter-World_-Iceborne_20250324074223-1024x576.jpg" title="MH World, me with bow, Palico named Lanni" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/Monster-Hunter-World_-Iceborne_20250324074223-1024x576.jpg" title="MH World, me with bow, Palico named Lanni" classes="center" >}}
 
 In Monster Hunter Wilds, I went through quite a number of different kinds of weapons before eventually settling on the bow.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/Monster-Hunter-Wilds_20250324070038-1024x576.jpg" title="MH Wilds, me with bow, Palico named Lanni" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/Monster-Hunter-Wilds_20250324070038-1024x576.jpg" title="MH Wilds, me with bow, Palico named Lanni" classes="center" >}}
 
 I guess I have a type. I found this time that I have trouble keeping track of what's happening when I am forced too close to the monster I am hunting; bows let me get the necessary distance. And bonus: I can even shoot while riding on my chocobo.
 

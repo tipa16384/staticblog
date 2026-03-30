@@ -3,40 +3,16 @@ date: '2009-03-24T12:21:44-05:00'
 draft: false
 title: "Gatheryn, Steampunk-based casual MMO, out this summer?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/24/gatheryn-steampunk-based-casual-mmo-out-this-summer/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Link has been fixed. SORRY!..."
+categories:
   - "Gatheryn"
   - "MMORPG"
+tags:
   - "Ars Technica"
   - "Steampunk"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Link has been fixed. SORRY!...
+<!--more-->
 
 *Link has been fixed. SORRY!*
 

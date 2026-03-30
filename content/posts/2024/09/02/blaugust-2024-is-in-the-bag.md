@@ -3,38 +3,15 @@ date: '2024-09-02T22:18:40-05:00'
 draft: false
 title: "Blaugust 2024 is in the bag!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/09/02/blaugust-2024-is-in-the-bag/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's always a struggle to make it to the finish line, but I also always have fun."
-description: "It's always a struggle to make it to the finish line, but I also always have fun."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/07/blaugust-2024.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/07/blaugust-2024.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/07/blaugust-2024.png"
 ---
+It's always a struggle to make it to the finish line, but I also always have fun.
+<!--more-->
 
 I knew, going into Blaugust, that I would be taking vacation the last few days of it. I thought I might be able to keep the posts going while I was in California, but I didn't quite manage it.
 

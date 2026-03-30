@@ -3,41 +3,19 @@ date: '2023-07-31T22:24:02-05:00'
 draft: false
 title: "OMG it's that time again already!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/07/31/omg-its-that-time-again-already/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Welcome to Blaugust!..."
+categories:
   - "Blaugust"
   - "Blaugust 2023"
   - "EverQuest"
+tags:
   - "Crimson Eternity"
   - "Welcometoblaugust"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/07/blaugust2023-logo-full.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/07/blaugust2023-logo-full.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/blaugust2023-logo-full.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/07/blaugust2023-logo-full.webp"
 ---
+Welcome to Blaugust!...
+<!--more-->
 
 Welcome to Blaugust!
 
@@ -47,7 +25,7 @@ Blogging, though -- blogging is cheap and easy. You don't need special equipment
 
 That's the problem with writing on ephemeral platforms like Twitter and even Mastodon; your words come and go. Search engines might find them for awhile, but in most cases, what you write leaves an impression for only a little while.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/07/01-1024x768.png" title="EverQuest reimagined from the mind of lashman." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/07/01-1024x768.png" title="EverQuest reimagined from the mind of lashman." classes="center" >}}
 
 Blogging is *forever*. What you write down today, anyone can read at any time in the future -- even you. I started blogging in.... June of 2005. More than *18 years ago*. And I can go back and relive what I was doing back then, which was, apparently, writing comics for my EverQuest guild, Crimson Eternity, chronicling our raids.
 
@@ -57,7 +35,7 @@ If you're stuck on what to blog, it's super simple, really. If you're a gamer, w
 
 Read comics? Which ones? Heck, I can't keep the plots straight to them. Let me know.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/07/devices.png" title="They never miss a blog post" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/07/devices.png" title="They never miss a blog post" classes="center" >}}
 
 TV shows? Movies? Music? You can blog about anything. Writing is as easy as thinking of someone you know who would love to hear from you, and then write to them. Vonnegut always claimed he wrote for an audience of one -- his sister. He knew what she liked.
 

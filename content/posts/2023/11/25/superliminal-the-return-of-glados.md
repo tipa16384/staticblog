@@ -3,41 +3,19 @@ date: '2023-11-25T19:32:11-05:00'
 draft: false
 title: "Superliminal: The return of GLaDOS"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/25/superliminal-the-return-of-glados/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The snarky computer guiding you through Superliminal might not actually be Portal's GLaDOS. but they at least went to the same school."
-description: "The snarky computer guiding you through Superliminal might not actually be Portal's GLaDOS. but they at least went to the same school."
-tags:
+categories:
   - "PS5"
   - "Puzzle Games"
   - "Puzzles"
+tags:
   - "Portal"
   - "Superliminal"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/capsule_616x353.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/capsule_616x353.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/capsule_616x353.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/capsule_616x353.jpg"
 ---
+The snarky computer guiding you through Superliminal might not actually be Portal's GLaDOS. but they at least went to the same school.
+<!--more-->
 
 You liked Portal? You will love Superliminal. You like puzzle games? Again, this game might be for you. Like games that break physics in fun ways? This might be something you'd like.
 

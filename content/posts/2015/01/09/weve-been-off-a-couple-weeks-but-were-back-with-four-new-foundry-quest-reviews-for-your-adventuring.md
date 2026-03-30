@@ -3,39 +3,15 @@ date: '2015-01-09T02:02:06-05:00'
 draft: false
 title: "Neverwinter: Weekly Foundry Reviews -- January 9, 2015"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/01/09/weve-been-off-a-couple-weeks-but-were-back-with-four-new-foundry-quest-reviews-for-your-adventuring/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We've been off a couple weeks, but we're back with four new foundry quest reviews for your adventuring enjoyment.**..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+We've been off a couple weeks, but we're back with four new foundry quest reviews for your adventuring enjoyment.**...
+<!--more-->
 
 We've been off a couple weeks, but we're back with four new foundry quest reviews for your adventuring enjoyment.**
 

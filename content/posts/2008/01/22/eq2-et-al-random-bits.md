@@ -3,42 +3,21 @@ date: '2008-01-22T09:03:46-05:00'
 draft: false
 title: "EQ2 (et al): Random Bits"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/22/eq2-et-al-random-bits/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Kind of a mishmash post today. I start out with some EQ2, then move on to TV and lastly a little bit about work right..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "My Work"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg"
 ---
+Kind of a mishmash post today. I start out with some EQ2, then move on to TV and lastly a little bit about work right...
+<!--more-->
 
-![everquest2-2008-01-22-07-10-48-92.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-22-07-10-48-92.jpg) Kind of a mishmash post today. I start out with some EQ2, then move on to TV and lastly a little bit about work right at the end.
+
+
+Kind of a mishmash post today. I start out with some EQ2, then move on to TV and lastly a little bit about work right at the end.
 
 Being a recruit in a highly successful raid guild going through Veeshan's Peak for the first time leaves me plenty of time to play alts and watch TV shows :) The night before last, I worked a couple more levels with Winterwing, my Arasai bruiser who is bringing the fear to Butcherblock and about whom I'll write later. Last night, I played Dera, whom I hadn't played much since she reached 80 over the weekend.
 

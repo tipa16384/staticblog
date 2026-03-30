@@ -3,43 +3,21 @@ date: '2009-04-13T07:28:20-05:00'
 draft: false
 title: "Lord of the Rings Online: A CoW is born."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/13/lord-of-the-rings-online-a-cow-is-born/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This whole Web 2.0, social media thing is pretty cool, isn't it? Friday, the Lord of the Rings Online branch of Nostalgia the Guild, using..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Casualties of War"
   - "Hunter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-11-20-43-27-24.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-11-20-43-27-24.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-11-20-43-27-24.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-11-20-43-27-24.jpg"
 ---
+This whole Web 2.0, social media thing is pretty cool, isn't it? Friday, the Lord of the Rings Online branch of Nostalgia the Guild, using...
+<!--more-->
 
-![lotroclient-2009-04-11-20-43-27-24](https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-11-20-43-27-24.jpg "lotroclient-2009-04-11-20-43-27-24")
+
 
 This whole Web 2.0, social media thing is pretty cool, isn't it? Friday, the Lord of the Rings Online branch of Nostalgia the Guild, using Twitter and XFire, decided to move *en masse* from Windfola to the Landroval RP server to join the Casualties of War folk. Since it will take several weeks for the Turbine staff to slog through the backlog and move our current characters, I started a new Hobbit hunter and did the introduction Friday night.
 

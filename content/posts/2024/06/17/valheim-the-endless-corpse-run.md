@@ -3,41 +3,19 @@ date: '2024-06-17T07:00:00-05:00'
 draft: false
 title: "Valheim: The Endless Corpse Run"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/06/17/valheim-the-endless-corpse-run/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Getting ready for killing the Goblin King was bad enough. Mistlands is worse."
-description: "Getting ready for killing the Goblin King was bad enough. Mistlands is worse."
-tags:
+categories:
   - "Other Games"
   - "Survival"
   - "Valheim"
+tags:
   - "Mistlands"
   - "Yagluth"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.50.56.55-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.50.56.55-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.50.56.55-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.50.56.55-scaled.jpg"
 ---
+Getting ready for killing the Goblin King was bad enough. Mistlands is worse.
+<!--more-->
 
 I have a little outdoor shed in my Valheim base. It has four chests that are locked away behind a decorative trellis.
 
@@ -53,7 +31,7 @@ But sometimes they bring along a berserker, two shaman, a couple death mosquitos
 
 I made my way back through the portal and managed to make it to the last goblin town on the island, where I tried to stagger a 1 star (elite) berserker and failed and was killed. I died a couple of times trying to recover from that. But yay, five totems!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.46.11.33-1024x429.jpg" title="Disaster is about to strike" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/Valheim-Screenshot-2024.06.15-20.46.11.33-1024x429.jpg" title="Disaster is about to strike" classes="center" >}}
 
 I placed the totems, and just then, a hunt started -- wolves, in packs, coming for us. One of the guys didn't notice and summoned Yagluth, so... we were being attacked from all sides by wolves while the Goblin King was being torn from beyond the grave. Yagluth's first meteor storm killed them all, though.
 
@@ -67,7 +45,7 @@ With that under our belt, I was invited to join them in their Mistlands base. We
 
 So, today, I thought it would be super fun if I took a ship and a portal and struck out for the far northern reaches of the map, to find a Mistlands that would mirror the southern one the guys had made.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/06/Valheim-Screenshot-2024.06.16-21.50.42.69-1024x429.jpg" title="Mistlands docks" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/06/Valheim-Screenshot-2024.06.16-21.50.42.69-1024x429.jpg" title="Mistlands docks" classes="center" >}}
 
 It's hard to tell how big a Mistlands any particular one is, and this is due to the mist. You can't see *anything*. Killing Yagluth gives you an item you use to make a wearable wisp that dispels the mist in a small area, but that hides much more than it shows. The whole place is just unnavigable. But, though I can use the guys' base to make gear, I'm trying to make my own base self-sufficient, and this means I need to be able to find the Mistlands dungeons and mine the black ore I need. I have never found any of these, and today was no different.
 

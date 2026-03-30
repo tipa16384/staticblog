@@ -3,42 +3,21 @@ date: '2009-09-14T19:11:12-05:00'
 draft: false
 title: "Farewell, Aion Open Beta"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/14/farewell-aion-open-beta/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I am so very pleased to welcome Mystic Worlds' Saylah as a guest blogger while she lets her blog lie fallow for awhile. -- Tipa..."
+categories:
   - "Aion"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/Aion-1-479x307.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/Aion-1-479x307.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-1-479x307.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-1-479x307.jpg"
 ---
+I am so very pleased to welcome Mystic Worlds' Saylah as a guest blogger while she lets her blog lie fallow for awhile. -- Tipa...
+<!--more-->
 
 *I am so very pleased to welcome [Mystic Worlds](http://notadiary.typepad.com/mysticworlds/)' Saylah as a guest blogger while she lets her blog lie fallow for awhile. -- Tipa*
 
-[![Aion 1](https://chasingdings.com/wp-content/uploads/2009/09/Aion-1-479x307.jpg "Aion 1")](https://chasingdings.com/wp-content/uploads/2009/09/Aion-1.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-1.jpg)
 
 Aion wasn’t on my radar - at all.  I didn’t have any preconceived notions going into the Open Beta (OB) other than the game looked attractive from all the screenshots I’d seen.  And I’d received enthusiastic emails from Mallika about her experiences in the Closed Beta.  I’m going to keep this accounting short since it’s being graciously hosted on West Karana.  I don’t want to kick-up any dust over at Mystic Worlds since I am by no means, ready to started blogging regularly.  *Smile*
 
@@ -66,11 +45,11 @@ There’s nothing new or earth-shattering about Aion.  Even player controlled f
 
 When someone releases a fantasy MMO aimed at a mature audience that is not these things, we’ll be sure to let you know.  For good or for bad, today is not that day.  That said, Aion is a good game and I had fun playing.
 
-[![Aion 2](https://chasingdings.com/wp-content/uploads/2009/09/Aion-2-453x480.jpg "Aion 2")](https://chasingdings.com/wp-content/uploads/2009/09/Aion-2.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-2-453x480.jpg" title="Aion 2" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-2.jpg)
 
 I enjoyed Aion because I’m not looking for a Holy Grail MMO.  Every game that has promised to be “the one” since the huge success of World of Warcraft, has failed to deliver on the hype.  These days, I find myself content if a game is reasonably bug-free at launch, it runs smoothly, provides decent PVE content, diverse crafting, engaging environments and an interesting back-story.    Aion meets these requirements and wraps it up in art direction that is moody and full of ambiance.  The towns and cities are nicely conceived in representing a world where celestial beings exists.
 
-[![Aion 4](https://chasingdings.com/wp-content/uploads/2009/09/Aion-4-425x479.jpg "Aion 4")](https://chasingdings.com/wp-content/uploads/2009/09/Aion-4.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-4-425x479.jpg" title="Aion 4" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-4.jpg)
 
 **What I liked Best**
 
@@ -90,7 +69,7 @@ I enjoyed Aion because I’m not looking for a Holy Grail MMO.  Every game that
 
 - **Champion/heroic level quests chains that explain the lore and give you nice rewards**.  EQ2’s brand of heroic quest chains made me hate all chains.  So much so, that I almost ignored these altogether but I’m glad I gave them a try.  They were worth the effort and weren’t monumentally annoying.
 
-[![Aion 5](https://chasingdings.com/wp-content/uploads/2009/09/Aion-5-457x480.jpg "Aion 5")](https://chasingdings.com/wp-content/uploads/2009/09/Aion-5.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-5-457x480.jpg" title="Aion 5" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-5.jpg)
 
 **What I liked Least**
 
@@ -106,4 +85,4 @@ I enjoyed Aion because I’m not looking for a Holy Grail MMO.  Every game that
 
 That’s it.  As you can see the list of dislikes is very small.  There is much to enjoy about Aion.  I’ve wanted to get into one of the longer haul games such as L2 or FF but felt it was much too late to catch up to veteran players.  I want the longer haul game since I don’t rush to the end-game.  I want the horizontal growth and options to dabble in when I don’t feel like leveling.  I think the PVP and crafting will give me that out of the gate in Aion and I hope for other options, as the game matures.
 
-[![Aion 6](https://chasingdings.com/wp-content/uploads/2009/09/Aion-6-480x385.jpg "Aion 6")](https://chasingdings.com/wp-content/uploads/2009/09/Aion-6.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-6-480x385.jpg" title="Aion 6" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/09/Aion-6.jpg)

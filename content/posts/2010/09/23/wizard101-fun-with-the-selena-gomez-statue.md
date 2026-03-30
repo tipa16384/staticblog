@@ -3,40 +3,19 @@ date: '2010-09-23T07:24:46-05:00'
 draft: false
 title: "Wizard101: Fun with the Selena Gomez statue"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/23/wizard101-fun-with-the-selena-gomez-statue/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-23-08-02-47-29-480x371.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-23-08-02-47-29-480x371.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-23-08-02-47-29-480x371.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-23-08-02-47-29-480x371.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-23-08-02-47-29-480x371.jpg "Selena as Lot")](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-23-08-02-47-29.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-23-08-02-47-29.jpg)
 
 I know this Selena Gomez promotion KingsIsle is doing isn't MEANT for me. But we adult W101 players get pulled in anyway, because, hey, we want to play Celestia, and if playing Celestia TODAY means we have to do it while KI lends itself to the Disney megacorp publicity machine, then I guess I'll play.
 
@@ -46,11 +25,11 @@ Above is Allison's humble entry; Selena Gomez as Lot's wife. God's wra(i)th is t
 
 Sodom -> Sodium -> Sodium Chloride -> Salt.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-22-21-32-05-75-480x383.jpg "Selena running from a bug")](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-22-21-32-05-75.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-22-21-32-05-75-480x383.jpg" title="Selena running from a bug" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-22-21-32-05-75.jpg)
 
 Marissa set up Selena running from a bug. I'm not sure what she was going for, here. I'm going to have to award the No Prize to Allison, the clear winner. Grats, Allison! As your No Prize, you get this hilarious Wizard101 Facebook Ad!
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9222010-93317-PM.jpg "Wizard101 Facebook Ad")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9222010-93317-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9222010-93317-PM.jpg" title="Wizard101 Facebook Ad" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9222010-93317-PM.jpg)
 
 I thought KI had turned the corner on deceptive W101 Facebook ads, and then I get this one on my sidebar. I clicked on it KNOWING it would turn out to be a w101 ad, even though nothing in the ad suggests it. And it was.
 

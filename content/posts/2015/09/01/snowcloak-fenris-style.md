@@ -3,40 +3,17 @@ date: '2015-09-01T21:57:03-05:00'
 draft: false
 title: "Snowcloak, Fenris-style"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/01/snowcloak-fenris-style/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last time we met up, Kasul and I failed spectacularly on Odin. That wasn't our fault -- probably. I was second tank, and Kasul was..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-31-23-58-10-81.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-31-23-58-10-81.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-08-31-23-58-10-81.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-08-31-23-58-10-81.jpg"
 ---
+Last time we met up, Kasul and I failed spectacularly on Odin. That wasn't our fault -- probably. I was second tank, and Kasul was...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-31-23-58-10-81.jpg" title="Fenris" class="align-center" >}}
+
 
 Last time we met up, Kasul and I failed spectacularly on Odin. That wasn't our fault -- probably. I was second tank, and Kasul was the off healer. Our problem was the DPS in the group. Not a lot we could do about that. But I have to admit that the whole Odin encounter is a rush. Camera pulled back as far as possible so I could see the entire arena, just like for Leviathan Extreme. The patterns are clear from that angle. As a tank, I get priority heals, and as a paladin, I have Hallowed Ground and three other defensive cooldowns to keep me up. Sure, we failed, but I had fun. I think Kasul did as well.
 
@@ -44,7 +21,7 @@ But it's nice to have at least one victory. We've had the Tam-Tara Deepcroft (Ha
 
 I should probably have written about those then... maybe I will, when we kill Odin for reals. I had this idea that it would be an easy fight... maybe if the DPS had been there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-31-23-59-06-69.jpg" title="About to meet the wolf. Kasul is on the left." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-08-31-23-59-06-69.jpg" title="About to meet the wolf. Kasul is on the left." classes="center" >}}
 
 Story night, though! Last time we met for Story Night, we ended with the death/defeat/diplomatic solutioning of Ramuh, the lightning primal of the Sylphs. We couldn't rest on our victory for long, though. Wonder Twin (W.T.) had a bright idea that required our immediate presence in Mos Eisley.
 
@@ -54,7 +31,7 @@ W.T. graciously, almost bashfully, accepted the rank and title of Commander of t
 
 Since we are now on Patch 2.4 and close to the end of the pre-Heavensward storyline, it became necessary to start preparations for the expansion. The fourth nation of Ishgard, long isolated from the rest of the Eorzean nations, had begun to open diplomatic negotiations with the Coerthan families. While unable to see their way clear to offer an alliance until Kasul and I pay $50 for the expansion, they offered at least to join forces against a new threat, the Harriers.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-09-01-00-05-40-14.jpg" title="Iceheart. I have a wind-up doll that looks like her." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-09-01-00-05-40-14.jpg" title="Iceheart. I have a wind-up doll that looks like her." classes="center" >}}
 
 The Harriers absolutely loved the idea of the Crystal Braves. The Ishgardians and the Coerthans share some draconic affinities with the Harriers. Harriers will kill them if they have to, but with new Crystal Brave meat available... well, they stood no chance, and so we were called in, as we always are, to save the day.
 
@@ -64,7 +41,7 @@ I'm not an idiot. I recognized the name Shiva right away. We're gonna have to ki
 
 But first, we would have to find the secret way in to the ice wall -- Snowcloak -- and hunt her down.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-30-00-17-17-28.jpg" title="Such Heroism." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-08-30-00-17-17-28.jpg" title="Such Heroism." classes="center" >}}
 
 We followed the trail of Crystal Brave bodies (how did we become so numerous so quickly?) to a cave where Harriers had been seen; heretofore unknown-to-be-in-the-area Yda leaped out of the shadows to show us the hidden entrance. The rest of the Scions and what remained of the Crystal Braves quickly made themselves scarce and left it to Kasul and I to gather up some random deeps and head into Snowcloak. There, we might find Iceheart...
 
@@ -78,4 +55,4 @@ Iceheart popped up afterward to explain her forbidden attraction to scaly, winge
 
 We didn't know anything about this chapter going in, but we're pretty sure we're going to be meeting Shiva next Monday. After that... well, we must be nearing the end of the pre-Heavensward story. I'm still quite far from getting all the Disciple of War jobs to 50. Ninja is in the early 30s; Pugilist is, I think, 26? or 21? Ninja, as a newer class, is extra, not associated with any achievements. I really should be focusing on getting Pugilist to 30, and from there, Monk to 50. I just have not yet connected with the class.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/ffxiv-2015-08-29-23-47-44-32.jpg" title="Did you forget me so soon?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/ffxiv-2015-08-29-23-47-44-32.jpg" title="Did you forget me so soon?" classes="center" >}}

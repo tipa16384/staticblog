@@ -3,38 +3,13 @@ date: '2007-11-05T13:41:02-05:00'
 draft: false
 title: "Please redo Everquest (et al) as massively SINGLE player games"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/05/please-redo-everquest-et-al-as-massively-single-player-games/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Games never die. We bought an Xbox 360 over the weekend and I had a little WTF moment when I saw they wanted to sell..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Games never die. We bought an Xbox 360 over the weekend and I had a little WTF moment when I saw they wanted to sell...
+<!--more-->
 
 Games never die. We bought an Xbox 360 over the weekend and I had a little WTF moment when I saw they wanted to sell me Pacman.
 

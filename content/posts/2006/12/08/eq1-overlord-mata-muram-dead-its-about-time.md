@@ -3,42 +3,17 @@ date: '2006-12-08T08:50:18-05:00'
 draft: false
 title: "EQ1: Overlord Mata Muram Dead - It's about time..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/12/08/eq1-overlord-mata-muram-dead-its-about-time/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Overlord Mata Muram, the end boss of the Omens of War expansion, finally fell to us a couple of days ago. And a collective yawn..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/12/omm.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/12/omm.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/12/omm.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/12/omm.jpg"
 ---
+Overlord Mata Muram, the end boss of the Omens of War expansion, finally fell to us a couple of days ago. And a collective yawn...
+<!--more-->
 
 Overlord Mata Muram, the end boss of the Omens of War expansion, finally fell to us a couple of days ago. And a collective yawn rose from the crowd. Not because the fight isn't fun -- it is; it's incredibly complex and everyone has to pay attention and be ready to do a number of different things at random times as well as their own jobs. It's because we waited until it was easy -- just as we did with Tunat in Tacvi.
-
-![omm.jpg](https://chasingdings.com/wp-content/uploads/2006/12/omm.jpg)
 
 Not our fault. It's the mysterious alien force that forces people to log out or, heavens, go mysteriously link dead if we're about to try something that we may not win first try. In the space of running down a hall, eight clerics could be winnowed down to three; four warriors to one (or none); and the raid force that makes it to the gate of new, hard stuff, has no chance of winning.Now that we have finished Omens of War, and are two mobs from the end of Depths of Darkhollow, we have to decide to work heavily on Prophecy of Ro or skip the entire expansion and start immediately on The Serpent's Spine.
 

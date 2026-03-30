@@ -3,43 +3,22 @@ date: '2008-06-29T07:51:49-05:00'
 draft: false
 title: "Crafting enhancements in Project Powder"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/06/29/crafting-enhancements-in-project-powder/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "New outfit :) And halfway through level 6. Experience is slowing down, and it seems that only finishing in first place really moves the experience..."
+categories:
   - "Other Games"
   - "Project Powder"
+tags:
   - "Enhancements"
   - "Outspark"
+  - "Project Powder"
   - "Snowboarding"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg"
 ---
+New outfit :) And halfway through level 6. Experience is slowing down, and it seems that only finishing in first place really moves the experience...
+<!--more-->
 
-![run-2008-06-28-18-43-39-74.jpg](https://chasingdings.com/wp-content/uploads/2008/06/run-2008-06-28-18-43-39-74.jpg)
+
 
 New outfit :) And halfway through level 6. Experience is slowing down, and it seems that only finishing in first place really moves the experience bar much. The only way forward is to start using level 2+ tricks, which confer an experience bonus. And the only way to do THAT is to complete the level 2 licenses, which require doing a fast series of tricks and reaching the end of the course in 36 seconds. I haven't managed to earn any level 2 tricks. Usually I am just a second or two behind. I need more speed. And to get THAT -- I need to craft enhancements.
 

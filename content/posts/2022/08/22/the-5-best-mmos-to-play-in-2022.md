@@ -3,24 +3,8 @@ date: '2022-08-22T13:19:07-05:00'
 draft: false
 title: "The 5 Best MMOs to Play in 2022"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/22/the-5-best-mmos-to-play-in-2022/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "With so many MMOs on the market, it can be hard to decide which one is right for you. Here are the 5 best MMOs to play in 2022 to help you make your decision!"
-description: "With so many MMOs on the market, it can be hard to decide which one is right for you. Here are the 5 best MMOs to play in 2022 to help you make your decision!"
-tags:
+categories:
   - "Final Fantasy"
   - "Fortnite"
   - "Guild Wars"
@@ -28,26 +12,20 @@ tags:
   - "Old School Runescape"
   - "Path of Exile"
   - "World of Warcraft"
+tags:
   - "Blaugust"
   - "Dall-E 2"
   - "MMORPG Challenge"
   - "Pandering"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-22-13.05.37-3d-digital-art-of-Tweedle-Dee-and-Tweedle-Dum-wearing-pots-and-pans-standing-in-Duskwood-in-World-of-Warcraft.png"
 ---
+With so many MMOs on the market, it can be hard to decide which one is right for you. Here are the 5 best MMOs to play in 2022 to help you make your decision!
+<!--more-->
 
 I asked Google what people wanted most to know about MMOs in this day and age, and who better to answer it than me, whose last serious MMO was DC Universe Online.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/image-3-1024x576.png" title="Path of Exile" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/image-3-1024x576.png" title="Path of Exile" classes="center" >}}
 
 **Which MMO Should I Play, right now, which is August of 2022? Put another way, which MMO is right for me? Again, this is August of 2022.**
 
@@ -61,7 +39,7 @@ My answer would be, "which MMO am I being paid to promote," if I was a streamer.
 
 So if you were being paid to play an MMO, either directly by the company or via streaming or other content services, I'd suggest Path of Exile, because you've already rejected World of Warcraft. No Man's Sky is pretty decent too, though.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/image-4-1024x576.png" title="Fortnite" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/image-4-1024x576.png" title="Fortnite" classes="center" >}}
 
 **Which MMO in 2022 Has the Best Combat?**
 
@@ -75,11 +53,11 @@ Anyway, not for me to judge, you want an answer and you will get an answer.
 
 I went to Google Trends and typed in the top combat-focused massively multiplayer games I could find, and came up with this:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/image-2.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/image-2.png" classes="center" >}}
 
 Compared to World of Tanks, Old School Runescape, Destiny 2 and Apex Legends, Fortnite defeated them all. So, Fortnite is the best MMO to play for combat. If you prefer persistent MMOs, Destiny 2 or Old School Runescape, I guess. The numbers don't lie. I'm just not seeing it for OSRS.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/image-5.png" title="Old School Runescape" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/image-5.png" title="Old School Runescape" classes="center" >}}
 
 **Which MMO has the best endgame in 2022?**
 

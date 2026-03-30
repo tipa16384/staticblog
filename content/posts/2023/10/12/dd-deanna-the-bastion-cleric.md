@@ -3,40 +3,18 @@ date: '2023-10-12T07:00:00-05:00'
 draft: false
 title: "D&D: Deanna, the Bastion Cleric"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/10/12/dd-deanna-the-bastion-cleric/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Sometimes, the silliest rules in Dungeons & Dragons can be a blessing in disguise..."
-description: "Sometimes, the silliest rules in Dungeons & Dragons can be a blessing in disguise..."
-tags:
+categories:
   - "Dungeons & Dragons"
+tags:
   - "5e"
   - "Bastions"
   - "Fiction"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/deanna.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/10/deanna.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/deanna.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/deanna.png"
 ---
+Sometimes, the silliest rules in Dungeons & Dragons can be a blessing in disguise...
+<!--more-->
 
 `**Deanna: **Hey, DM... got a moment?`
 
@@ -60,7 +38,7 @@ The "Bastions" rules described a mechanism where a player whose character had re
 
 **Deanna: **Definitely! And I could decorate it real nice!`
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-11-300x226.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-11-300x226.png" classes="fig-20" >}}
 
 She pasted a picture into the chat of a collage she'd made. It looked like she'd hit Pinterest up pretty hard. The collage was a jumble of disconnected furniture, crazy wallpapers, every kind of labor saving device, none of it looking like anything you would ever actually see in a fantasy setting. It looked a tornado had hit a Goodwill and just left every chair in the parking lot.
 
@@ -90,7 +68,7 @@ I explained about Deanna's "bastion". Everyone was a little confused. The group,
 
 After, I was asked in a direct message why Deanna had even logged in at all? It was a good question. I didn't have a good answer.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-12-1024x643.png" title="Everyone knows how nasty herb-addled rabbits can get" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-12-1024x643.png" title="Everyone knows how nasty herb-addled rabbits can get" classes="center" >}}
 
 Deanna pinged me a couple of hours before the next week's session, wanting to discuss floor plans.
 

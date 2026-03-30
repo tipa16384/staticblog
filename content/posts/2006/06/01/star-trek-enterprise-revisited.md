@@ -3,37 +3,14 @@ date: '2006-06-01T00:00:00-05:00'
 draft: false
 title: "Star Trek Enterprise: Revisited"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/01/star-trek-enterprise-revisited/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well sure, I'm going to watch the whole season. Why not? And I have to admit, after the Nazi disaster, the season improves. They have..."
+categories:
   - "Sci Fi"
-featured_image: "https://chasingdings.com/images/enterprise/vulcan2.jpg"
-cover:
-  image: "https://chasingdings.com/images/enterprise/vulcan2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/enterprise/vulcan2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/enterprise/vulcan2.jpg"
 ---
+Well sure, I'm going to watch the whole season. Why not? And I have to admit, after the Nazi disaster, the season improves. They have...
+<!--more-->
 
 Well sure, I'm going to watch the whole season. Why not? And I have to admit, after the Nazi disaster, the season improves. They have an episode arc; episodes do effect the episodes after them. Of course, nobody important ever dies. They're still *Star Trek*, you know. Only unimportant characters die.
 
@@ -41,27 +18,25 @@ The whole bit about the Vulcans plotting a pre-emptive war on the Andorians, cla
 
 Here's some pictures. I apologize for their crappiness; the Enterprise and Battlestar Galactica ones were screen captures (MPlayer and KSnapShot yay!), and the Voyager and the Uhura one I just found on the web.
 
-![](https://chasingdings.com/images/enterprise/vulcan2.jpg)
-
 This is a female crewmember of the Enterprise. Note skin-tight costume. She is a second officer in Star Fleet. Is this how they dress their officers in Star Fleet? NO! They dress them like this:
 
-![](https://chasingdings.com/images/enterprise/female.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/enterprise/female.jpg" classes="center" >}}
 
 So why is she wearing a cat suit?
 
 Is she related to the Borg in Voyager? She held some sort of position in the starship, I think. Her position was probably "Officer in charge of Cheese". None of the other women wore skintight clothing.
 
-![](https://chasingdings.com/images/enterprise/borg.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/enterprise/borg.jpg" classes="center" >}}
 
 ST: The Next Generation had that one woman, the ship's counsellor, who always wore low-cut cat suits as well. And of course, the woman who started it all, Lieutenant Uhura...
 
-![](https://chasingdings.com/images/enterprise/uhura.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/enterprise/uhura.jpg" classes="center" >}}
 
 ... although to be fair, that WAS the official uniform for women officers in Star Fleet at that time.
 
 But the whole thing just kills the shows for me. I *know* the only reason those women have to slide into those paper-thin costumes is to please the horny teenage boy element. No wonder Star Trek is doing so poorly. It doesn't even treat its audience with respect.
 
-![](https://chasingdings.com/images/enterprise/starbuck.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/enterprise/starbuck.jpg" classes="center" >}}
 
 Battlestar Galactica does. Women officers dress like officers; women pilots dress like pilots.  These guys treat their viewers with respect. They don't need women with staples across their bellies to be taken seriously. They look real.
 
@@ -69,7 +44,7 @@ To be fair, there is a main character who dresses like a stripper, but as she is
 
 And just in case Amber is reading this, Serenity's second in command:
 
-![](https://chasingdings.com/images/enterprise/firefly.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/enterprise/firefly.jpg" classes="center" >}}
 
 She's talking to her *husband* about *having kids*.
 

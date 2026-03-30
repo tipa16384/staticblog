@@ -3,37 +3,14 @@ date: '2006-07-27T17:19:11-05:00'
 draft: false
 title: "WordPress, OpenOffice, and Inkscape"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/27/wordpress-openoffice-and-inkscape/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I love free and open source software (FOSS) -- I really do. Out of more than twenty years of programming, the only software of mine..."
+categories:
   - "My Work"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/07/joyouslogo.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/07/joyouslogo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/07/joyouslogo.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/07/joyouslogo.png"
 ---
+I love free and open source software (FOSS) -- I really do. Out of more than twenty years of programming, the only software of mine...
+<!--more-->
 
 I love free and open source software (FOSS) -- I really do. Out of more than twenty years of programming, the only software of mine still out in the wild was some open source stuff I wrote back in the late 80s. All the stuff I wrote for pay was locked away by my employers, never to see daylight again. Well, except for stuff I cleverly saved, like this tiny applet for illustrating the voltage, capacitance and potential of different kinds of capacitors:
 
@@ -92,8 +69,6 @@ Printers demand 300 dpi images, and so I'd have to redraw the logo.
 Usually, I'd just do it in Photoshop, just because I know it well. But what I really wanted was a vector-based version of the logo so I could make it any size. I'd try to use Draw just recently for an illustration for this blog, but was disappointed by it in so many ways. I had used Inkscape to finish that illustration, and decided to just start with Inkscape this time.
 
 The options for tracing bitmaps were bewildering. I tried a few, but it became clear I'd have to use photoshop to separate it into its elemements ("joyous", "&", "free", "hummingbird"), trace them individually, the glomp them back together.
-
-![some other joyous logo](https://chasingdings.com/wp-content/uploads/2006/07/joyouslogo.png)
 
 The best thing about Inkscape is that it just worked. Now, why couldn't *Inkscape* have been part of OpenOffice?
 

@@ -3,41 +3,19 @@ date: '2021-10-10T10:01:10-05:00'
 draft: false
 title: "Game Night: JotL \"The Heist\" and \"The Message\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/10/game-night-jotl-the-heist-and-the-message/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Two short scenarios for last night's Jaws of the Lion campaign: First was \"The Heist\", where we investigate a sewer branch that led directly beneath..."
+categories:
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Game"
   - "Tabletop Games"
+tags:
   - "Jaws of the Lion"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2350.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2350.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2350.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2350.jpg"
 ---
+Two short scenarios for last night's Jaws of the Lion campaign: First was "The Heist", where we investigate a sewer branch that led directly beneath...
+<!--more-->
 
 Two short scenarios for last night's Jaws of the Lion campaign: First was "The Heist", where we investigate a sewer branch that led directly beneath some rich dude's mansion. Second was the Red Guard's personal quest. Both were harrowing races against time.
 
@@ -51,7 +29,7 @@ He stood and beckoned the messenger over. There was only one Red Guard in Gloomh
 
 The Jaws of the Lion are no common thieves. But we can be *uncommon* thieves when we need to be. And though we have no need of money, we always have need of new challenges that have nothing to do with the blood cultists running rampant through the heart of the city.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2351.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2351.jpg)The Heist
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2351.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2351.jpg)The Heist
 
 "The Heist" is a race against a ticking clock. There are four rooms with four chests, one for each of us four characters. There are initially no monsters at all, just a bunch of pedestals with statues on them. Our mission is to loot the four treasure chests and escape.
 
@@ -59,13 +37,13 @@ The catch: Each time someone loots a chest, the statue behind them comes to life
 
 The scenario clearly wants each player to go to a different room, so that's what we did. My Void Warden took the closest room, Ally's Demolitionist took the furthest one, as she can do a burst movement that would take her there in one turn, after a one-turn setup. Drew's Red Guard took the other one, while Tom's Hatchet stood by the last. He would be the one starting the final race by looting the last chest.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2349.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2349.jpg)Fam shot
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2349.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2349.jpg)Fam shot
 
 The golems were designed to be tough, but slow. We weren't supposed to kill any of them, though I think one may have come close to dying as we fended them off, waiting for the Hatchet's return. We escaped before anyone became exhausted, and won the scenario. I looted a Ring of Strength (one time Strengthen) from my chest; everyone else got cash.
 
 It was enough to get me to level 5, and I unlocked my Ward, a staff that, once planted, poisons enemies next to it and gives any enemy within range 3 disadvantage. That would come in handy for our next battle...
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2353.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2353.jpg)"The Message"
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2353.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2353.jpg)"The Message"
 
 We were back at the Sleeping Dragon Inn, drinking away our haul from the Heist, when the Red Guard pushed his seat back, and stood up. He tightened his armor and checked that his chained blade was secure. "I will return shortly," he said.
 
@@ -77,7 +55,7 @@ We weren't ten steps behind him. We followed him to a secluded alley in the disr
 
 We lined up behind the Red Guard. He made no sign that he knew we were there, but none was needed. The Jaws of the Lion would face this threat, and all threats, together.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2354.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/1-IMG_2354.jpg)Not going super well
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2354.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/1-IMG_2354.jpg)Not going super well
 
 All the class-specific scenarios come from city encounters, a deck from which we draw one card before each mission. Since we finished "The Heist" so quickly, we had time for another scenario. We're working on side quests before continuing on the main plot.
 

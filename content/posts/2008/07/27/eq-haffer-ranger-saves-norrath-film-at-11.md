@@ -3,44 +3,22 @@ date: '2008-07-27T11:43:22-05:00'
 draft: false
 title: "EQ: Haffer Ranger saves Norrath, film at 11."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/27/eq-haffer-ranger-saves-norrath-film-at-11/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, anyway, if you believe what NPCs tell you, then I am solely responsible for breaking Hate's grip on the natural world and letting fields..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Earthcaller"
   - "Ranger"
   - "Swiftwind"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-27-11-08-37-31.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-27-11-08-37-31.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-27-11-08-37-31.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-27-11-08-37-31.jpg"
 ---
+Well, anyway, if you believe what NPCs tell you, then I am solely responsible for breaking Hate's grip on the natural world and letting fields...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-27-11-08-37-31.jpg "eqgame-2008-07-27-11-08-37-31")
+
 
 Well, anyway, if you believe what NPCs tell you, then I am solely responsible for breaking Hate's grip on the natural world and letting fields and forests alike grow strong and healthy. That's right, that was me.
 

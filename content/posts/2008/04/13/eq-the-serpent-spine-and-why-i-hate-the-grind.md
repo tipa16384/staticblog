@@ -3,40 +3,17 @@ date: '2008-04-13T01:47:59-05:00'
 draft: false
 title: "EQ: The Serpent Spine and Why I Hate the Grind"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/13/eq-the-serpent-spine-and-why-i-hate-the-grind/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After I transferred Tsuki the Mage to Stromm, I made Tsuki the Necromancer on Erollisi Marr to save her name if I ever needed to..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/tsuki.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/04/tsuki.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/tsuki.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/tsuki.jpg"
 ---
+After I transferred Tsuki the Mage to Stromm, I made Tsuki the Necromancer on Erollisi Marr to save her name if I ever needed to...
+<!--more-->
 
-![tsuki.jpg](https://chasingdings.com/wp-content/uploads/2008/04/tsuki.jpg)
+
 
 After I transferred Tsuki the Mage to Stromm, I made Tsuki the Necromancer on Erollisi Marr to save her name if I ever needed to bring her back. Groups were a lot of fun, when I could get them -- at this time, there were still plenty of low level groups, and I was getting groups in the Overthere and Echo Caverns regularly. I usually played alts wen I couldn't find a group with my main, but after long enough without groups for my mains, I tend to wander off to other games. I was leveling Tsuki the Necro fairly regularly when groups became nearly impossible to find on my cleric, and so I went to World of Warcraft, and all my EQ1 alts have been in limbo since.
 

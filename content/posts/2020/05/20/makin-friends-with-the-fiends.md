@@ -3,40 +3,18 @@ date: '2020-05-20T11:18:46-05:00'
 draft: false
 title: "Makin' Friends with the Fiends"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/20/makin-friends-with-the-fiends/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I mostly wanted to see if I could pull an animated GIF off the PS4......"
+categories:
   - "PS4"
+tags:
   - "Chocobo Mystery Dungeon"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/1-Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200508210446.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/1-Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200508210446.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200508210446.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/1-Chocobo’s-Mystery-Dungeon-EVERY-BUDDY_20200508210446.jpg"
 ---
+I mostly wanted to see if I could pull an animated GIF off the PS4......
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2020/05/chocobomystery.gif)I mostly wanted to see if I could pull an animated GIF off the PS4...
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/chocobomystery.gif" classes="center" >}}I mostly wanted to see if I could pull an animated GIF off the PS4...
 
 I posted last week or so ago that I liked Chocobo Mystery Dungeon: Every Buddy! as a sort of light RPG that I could enjoy while waiting for something better to come along. That something better came in the form of Witcher 3, which is downloaded -- all 40+ gigabytes of it -- and waiting for me to play.
 

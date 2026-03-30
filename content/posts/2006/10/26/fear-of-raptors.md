@@ -3,39 +3,16 @@ date: '2006-10-26T22:09:10-05:00'
 draft: false
 title: "Fear of Raptors"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/10/26/fear-of-raptors/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Okay, you're trapped between three hungry raptors, 20m apart from each other. All of them accelerate at 4m/s/s. The wounded one has a top speed..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/10/raptors.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/10/raptors.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/raptors.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/10/raptors.gif"
 ---
+Okay, you're trapped between three hungry raptors, 20m apart from each other. All of them accelerate at 4m/s/s. The wounded one has a top speed...
+<!--more-->
 
-![Oh no raptors](https://chasingdings.com/wp-content/uploads/2006/10/raptors.gif)
+
 
 Okay, you're trapped between three hungry raptors, 20m apart from each other. All of them accelerate at 4m/s/s. The wounded one has a top speed of 10m/s, while the other two top out at 25m/s. You run at 6m/s. The raptors will always run directly at you. At which angle do you run to survive the longest?
 

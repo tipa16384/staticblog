@@ -3,53 +3,30 @@ date: '2022-03-13T09:55:32-05:00'
 draft: false
 title: "7DRL 2022: Retrospective"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/13/7drl-2022-retrospective/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "7DRL is over. Most everyone has turned in their games. After several hours of last minute changes to improve balance, I submitted \"You Are the..."
+categories:
   - "7DRL"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/1-Dream_TradingCard-4.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/1-Dream_TradingCard-4.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/1-Dream_TradingCard-4.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/1-Dream_TradingCard-4.jpg"
 ---
+7DRL is over. Most everyone has turned in their games. After several hours of last minute changes to improve balance, I submitted "You Are the...
+<!--more-->
 
 7DRL is over. Most everyone has turned in their games. After several hours of last minute changes to improve balance, I submitted "You Are the Amulet" at the end of Day 6. This is the retrospective on the project; what went well, what went poorly, and what I will do differently next time.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/image-10.png)](https://chasingdings.com/wp-content/uploads/2022/03/image-10.png)The last map before the boss fight
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/image-10.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/image-10.png)The last map before the boss fight
 
 **What went well**
 
 - Integration with Tiled. This was a last minute addition to the game engine, but I felt it was vital that I be able to play on nice looking levels. I didn't finish Tiled integration, as it has some quirks, and the open source tile sets I was using had their own quirks. I would want to double down on Tiled for another project, and allow mixing tile sets in one map. Tiled supports this; my engine can't handle it yet.- Trinket.io. I *knew* that having the game work in a browser would be important. I don't think anyone has run my game from the command line, and I don't know that anyone will. I hope the judges do. A lot of the decisions I made were entirely based on whether it would work in Trinket. They don't seem to support sound or transparency. When I wrote my Layout Manager, I made sure I could switch between Trinket and Native layouts.- YAML. My decision to program the game in a YAML file that was executed by the Python game engine was a literal game changer. As it stands now, I could write an entirely different game just by rewriting the YAML. There's some things I still need to put in the YAML, but that wouldn't take long to do.- Level generation. I was planning to spend Saturday creating levels by hand, but I thought of a way to do procedural generation to generate Tiled maps and populate them with critters. The level generator just adds to the YAML file and added no new Python code, proving again how import YAML was to finishing this.- Pathfinding. I really like how pathfinding worked in the game. Advent of Code gave me the opportunity to really lean into it and make the proper choices of algorithm and stuff.- I thought the prologue screen went well. I think it tells you up front what the game is going to be like, and I think it looks graphically interesting. It was the first map I did for the actual game, and I think it clearly shows why moving to Tiled for map generation was the correct choice, compared to the maps I was generating before I integrated it. I haven't even come close to unlocking all the cool things Tiled can do.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/yata-screenshot-3.png)](https://chasingdings.com/wp-content/uploads/2022/03/yata-screenshot-3.png)Prologue
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/yata-screenshot-3.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/yata-screenshot-3.png)Prologue
 
 **What went poorly**
 
 - Using Final Fantasy Tactics Advance and Chrono Trigger sprites. The use of these sprites means the game has gone as far as it can; any time spent continuing work with stolen assets is wasted, as there is no world in which I could release a game using them. - Using Python. I knew from the start that a successful game is a game that can be played in the browser. I elected to just stick with Python, as the engine I'd built to display isometric maps for Advent of Code was written in Python and I didn't want to learn something new.- Memory management. The sprite sheets used for both the sprites themselves and the room tiles are duplicated in memory for each NPC and for each room. I think this is why Trinket.io crashes so often trying to load them. I was starting to implement a caching system, but it was not going well and decided to just remove half the levels and hope things got better.- Level loading. Every level is loaded at the start of the game. All the NPCs in all the rooms, everything. This was a huge mistake. Part of this is that I had no idea how I was going to create maps in the game until the Friday before the challenge started. I'd built in a lot of support for exits that would let the player move more conventionally from room to room, but I couldn't integrate that with Tiled. The multi-map support it provides doesn't seem to work with isometric maps.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/image-9.png)](https://chasingdings.com/wp-content/uploads/2022/03/image-9.png)Tutorial #2
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/image-9.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/image-9.png)Tutorial #2
 
 **What could be improved**
 

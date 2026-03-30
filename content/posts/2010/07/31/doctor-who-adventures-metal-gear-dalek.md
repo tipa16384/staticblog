@@ -3,40 +3,19 @@ date: '2010-07-31T00:28:30-05:00'
 draft: false
 title: "Doctor Who Adventures: Metal Gear Dalek"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/31/doctor-who-adventures-metal-gear-dalek/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Doctor Who Adventures"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51-480x299.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51-480x299.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51-480x299.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51-480x299.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51-480x299.jpg "The Daleks just want to exterminate. Is that so wrong?")](https://chasingdings.com/wp-content/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/07/DoctorWho_Pc-2010-07-30-23-20-53-51.jpg)
 
 Coolest place in the galaxy? Well, if you're in 1963, the coolest place in the galaxy is ~~Cardiff, Wales~~ London, England. And if you're NOT in 1963, you'll probably need a time machine of some sort if you ever want to meet ~~John Lennon~~ Ringo Starr just when he was getting started. If you're Amy Pond, you've managed to ditch your hand-gun hubby and go off on an exciting trip through time and space to soak in all the fun and excitement Trafalgar Square has to offer.
 

@@ -3,42 +3,19 @@ date: '2009-02-25T08:14:39-05:00'
 draft: false
 title: "Gatheryn -- is this the Steampunk game for the rest of us?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/25/gatheryn-is-this-the-steampunk-game-for-the-rest-of-us/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Yesterday I wrote about \"Neo Steam\", which brings a decidedly Eastern, hardcore PvP, flair to that eternal conflict between technology and magic and the mystical..."
+categories:
   - "Gatheryn"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/3063585635_cbdd296fff_o.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/3063585635_cbdd296fff_o.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/3063585635_cbdd296fff_o.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/3063585635_cbdd296fff_o.jpg"
 ---
+Yesterday I wrote about "Neo Steam", which brings a decidedly Eastern, hardcore PvP, flair to that eternal conflict between technology and magic and the mystical...
+<!--more-->
 
-![3063585635_cbdd296fff_o](https://chasingdings.com/wp-content/uploads/2009/02/3063585635_cbdd296fff_o.jpg "3063585635_cbdd296fff_o")
 
-Yesterday [I wrote about "Neo Steam"](https://chasingdings.com/index.php/2009/02/24/atlus-neo-steam-f2p-fantasy-steampunk-mmo/), which brings a decidedly Eastern, hardcore PvP, flair to that eternal conflict between technology and magic and the mystical substance that powers them both.
+
+Yesterday [I wrote about "Neo Steam"](https://tipa16384.github.io/wkblog/index.php/2009/02/24/atlus-neo-steam-f2p-fantasy-steampunk-mmo/), which brings a decidedly Eastern, hardcore PvP, flair to that eternal conflict between technology and magic and the mystical substance that powers them both.
 
 Intriguing? Yes, maybe, but -- it isn't Steampunk! Not to me, anyway. Just having a mystical substance called "Neo Steam" is not enough to make it Steampunk in my book. If it were called "Neo Granite", would that make it "Quarry Punk"?
 

@@ -3,41 +3,19 @@ date: '2014-07-04T13:21:29-05:00'
 draft: false
 title: "Neverwinter: Foundry Night!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/07/04/neverwinter-foundry-night/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My internet troubles delayed our weekly Foundry Festivities, but the stars aligned and once again set off into the hinterlands of player-written adventures...."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: "https://lh4.googleusercontent.com/-4XVpKHXDoas/U7adSrlQwXI/AAAAAAAAxQk/cBW3I7Vcqkk/w876-h700-no/GameClient+2014-07-03+21-11-59-78.jpg"
-cover:
-  image: "https://lh4.googleusercontent.com/-4XVpKHXDoas/U7adSrlQwXI/AAAAAAAAxQk/cBW3I7Vcqkk/w876-h700-no/GameClient+2014-07-03+21-11-59-78.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh4.googleusercontent.com/-4XVpKHXDoas/U7adSrlQwXI/AAAAAAAAxQk/cBW3I7Vcqkk/w876-h700-no/GameClient+2014-07-03+21-11-59-78.jpg"
+thumbnailImage: "https://lh4.googleusercontent.com/-4XVpKHXDoas/U7adSrlQwXI/AAAAAAAAxQk/cBW3I7Vcqkk/w876-h700-no/GameClient+2014-07-03+21-11-59-78.jpg"
 ---
+My internet troubles delayed our weekly Foundry Festivities, but the stars aligned and once again set off into the hinterlands of player-written adventures....
+<!--more-->
 
-![Benny Hillgiant](https://lh4.googleusercontent.com/-4XVpKHXDoas/U7adSrlQwXI/AAAAAAAAxQk/cBW3I7Vcqkk/w876-h700-no/GameClient+2014-07-03+21-11-59-78.jpg)
+
 
 My internet troubles delayed our weekly Foundry Festivities, but the stars aligned and once again set off into the hinterlands of player-written adventures.
 
@@ -45,7 +23,7 @@ My internet troubles delayed our weekly Foundry Festivities, but the stars align
 
 Kasul led off with this one, a fairly newish quest with an interesting premise -- what DO vampires get to in the long, cold dark of night? Why, they play golf! The adventure was mostly an excuse to let loose with punny names, like "Benny Hillgiant", above. I was disappointed in not being actually able to play golf at any point, but both Kasul and I marked it up for decent level design and puns that just wouldn't stop.
 
-![Kel](https://lh3.googleusercontent.com/-PxXUXncUHTc/U7YBs7dXzCI/AAAAAAAAxNw/nLpgUyUDIuY/w907-h726-no/GameClient+2014-07-03+21-21-51-04.jpg)
+{{< image src="https://lh3.googleusercontent.com/-PxXUXncUHTc/U7YBs7dXzCI/AAAAAAAAxNw/nLpgUyUDIuY/w907-h726-no/GameClient+2014-07-03+21-21-51-04.jpg" classes="center" >}}
 
 **The Retribution of Kel'thalun** by @Guerilla
 
@@ -53,7 +31,7 @@ This was a leftover from last week. The short description: "Storm the Citadel an
 
 The quest had an excellent story, the fights were challenging for a duo but not overwhelming, the level design wasn't the most innovative but served the plot. We both gave this quest five stars.
 
-![Blacklake THING](https://lh5.googleusercontent.com/-M9Y8ANz6nM0/U7YJmOnuozI/AAAAAAAAxOc/5EU2j_kZXv8/w907-h726-no/GameClient+2014-07-03+21-55-31-81.jpg)
+{{< image src="https://lh5.googleusercontent.com/-M9Y8ANz6nM0/U7YJmOnuozI/AAAAAAAAxOc/5EU2j_kZXv8/w907-h726-no/GameClient+2014-07-03+21-55-31-81.jpg" classes="center" >}}
 
 **In Blacklake It Waits, Dreaming** by @Wezbob42
 

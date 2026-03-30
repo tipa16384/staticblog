@@ -3,40 +3,17 @@ date: '2015-11-11T22:12:07-05:00'
 draft: false
 title: "Bomb Chair."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/11/11/bomb-chair/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Kasul and I haven't managed to be conscious and online at the same time FFXIV wants to be working for awhile. I've been spending time..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/11/bombchair.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/11/bombchair.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/bombchair.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/11/bombchair.jpg"
 ---
+Kasul and I haven't managed to be conscious and online at the same time FFXIV wants to be working for awhile. I've been spending time...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/bombchair.jpg" title="Chair goes boom." class="align-center" >}}
+
 
 Kasul and I haven't managed to be conscious and online at the same time FFXIV wants to be working for awhile. I've been spending time doing solo accomplishments. I've gotten paladin, warrior, dragoon, ninja, monk and dark knight to 50. That got me the "Warmonger" title. (Dark Knight wasn't required for that, but I liked it so much). I don't think I've done a dungeon since.
 
@@ -48,7 +25,7 @@ So, go, me.
 
 We're still at the very beginning of the Heavensward storyline. Iceheart has joined Alphinaud and Tataru in our little NPC band. She told us (and showed us) how the old Saint Shiva thing got started. The moment when Shiva and the dragon decided to ... you know ... was uncomfortable for many reasons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/1-vlcsnap-2015-11-11-21h28m10s101.jpg" title="Ravana and Shiva" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/1-vlcsnap-2015-11-11-21h28m10s101.jpg" title="Ravana and Shiva" classes="center" >}}
 
 I don't know why Iceheart wouldn't just turn into Shiva all the time, but she seemed oddly reluctant. I figured she'd just have to power up when we walked in to meet Ravana, the primal of the bug people. We'd stashed crystals there in preparation, but while they were enough to let her transform into Shiva, she didn't have enough power to cause Ravana any problems.
 
@@ -66,7 +43,7 @@ I've replaced all my vitality jewelry with strength jewelry, and I've started st
 
 Not that I do hard modes any more. Kasul and I finished them all up, but since they don't give any xp, and the loot is not useful, there's really no need to do them. I think I heard that at 60 they start giving out tomestones of law or something, but... I've reached level 56 largely by soloing quests. Not really sure I need tomestones I can only get once I have essentially completed the storyline. The Free Company to which I belong is waaaay ahead of me in progression.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/11/1-vlcsnap-2015-11-11-22h00m23s17.jpg" title="Dusk Vigil" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/11/1-vlcsnap-2015-11-11-22h00m23s17.jpg" title="Dusk Vigil" classes="center" >}}
 
 Dusk Vigil was, I think I remember, an optional dungeon. Still, completing it would give us the last aethyr current we would need in order to fly in the Coerthan Western Highlands. So totally worth it. The dungeon was easy enough; I don't think we had any trouble, even though three of us were new.
 

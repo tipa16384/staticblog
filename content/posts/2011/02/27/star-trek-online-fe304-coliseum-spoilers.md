@@ -3,26 +3,11 @@ date: '2011-02-27T13:21:35-05:00'
 draft: false
 title: "Star Trek Online FE304: Coliseum (spoilers)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/27/star-trek-online-fe304-coliseum-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "You can't think of \"Star Trek\" and coliseums together without thinking immediately of the original series episodes \"Bread and Circuses)\", where the Enterprise crew beam..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Amok Time"
   - "Arena"
   - "Bread and Circuses"
@@ -37,20 +22,13 @@ tags:
   - "Reman"
   - "Romulan"
   - "Sandworms"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg"
 ---
+You can't think of "Star Trek" and coliseums together without thinking immediately of the original series episodes "Bread and Circuses)", where the Enterprise crew beam...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-29-44-32-480x275.jpg" title="Vanity, thy name is Reman shields" class="align-center" >}}
+
 
 You can't think of "Star Trek" and coliseums together without thinking immediately of the original series episodes "[Bread and Circuses](http://en.wikipedia.org/wiki/Bread_and_Circuses_(Star_Trek:_The_Original_Series))", where the Enterprise crew beam into a 20th century version of the Roman Empire, and "[Amok Time](http://en.wikipedia.org/wiki/Amok_Time)", where Kirk and Spock battle to the death on the planet Vulcan. (The director of "Bread and Circuses", Ralph Senensky, [blogs about directing that episode](http://ralph-senensky.blogspot.com/2010/02/bread-and-circuses-september-1967-star.html) -- a must read! Includes bloopers!)
 
@@ -58,9 +36,9 @@ In "Coliseum", the folks at Cryptic have managed to include nods to BOTH episode
 
 Spoilers after the break. Or, if you read this on my RSS feed, prepare to be spoiled. I'm going to be switching between screenshots of my Federation and my Klingon runs... they were identical aside from the PCs (who were played both times by Longasc and me).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-14-53-38-34-480x384.jpg" title="A space junkyard -- and a trap" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-14-53-38-34-480x384.jpg" title="A space junkyard -- and a trap" classes="center" >}}
 
-We were surprised to see Obisek's scarred face on the USS Concord's main screen. We'd last seen the Reman resistance leader in his secret base on an ice planet in the Dera system. We let him go* despite our reservations about his ability to deploy thalaron weapons after talking with his people (in [Frozen](https://chasingdings.com/index.php/2011/02/21/star-trek-online-fe303-frozen-spoilers/)) and uncovering the dishonorable actions of the Romulan Tal Shiar (in [Mine Enemy](https://chasingdings.com/index.php/2011/02/13/star-trek-online-fe302-mine-enemy-spoilers/)).
+We were surprised to see Obisek's scarred face on the USS Concord's main screen. We'd last seen the Reman resistance leader in his secret base on an ice planet in the Dera system. We let him go* despite our reservations about his ability to deploy thalaron weapons after talking with his people (in [Frozen](https://tipa16384.github.io/wkblog/index.php/2011/02/21/star-trek-online-fe303-frozen-spoilers/)) and uncovering the dishonorable actions of the Romulan Tal Shiar (in [Mine Enemy](https://tipa16384.github.io/wkblog/index.php/2011/02/13/star-trek-online-fe302-mine-enemy-spoilers/)).
 
 Obisek was coming to us, not because he thought we desired to take a side in the Romulan/Reman conflict, but because of the interest shared by all living creatures in the quadrant in keeping thalaron weapons out of the hands of any who would use them. A ship carrying a load of thalaron weapons had gone missing. Surely, we could set aside our feelings about the Reman resistance or any desire for impartiality and agree that those weapons must be found?
 
@@ -72,7 +50,7 @@ Scanners showed no signs of the ship or of thalaron weapons. There did appear to
 
 Starfleet, I love you, I would die for you, but really, why is this in the manual? What ever happened to marking it with a navigation buoy and sending in investigators?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-14-56-55-48-480x310.jpg" title="Math R Fun" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-14-56-55-48-480x310.jpg" title="Math R Fun" classes="center" >}}
 
 There was nothing to do but to transport a team to the satellite to try and disable it before we lost power to all systems. The drain was bad enough that the transport would be a one-way trip unless we succeeded. Using our power in this way would make even communication impossible. We would be on our own for the duration.
 
@@ -82,7 +60,7 @@ The codes we needed were hidden in the solutions to a series of short mathematic
 
 Success! Ships freed, we beamed back up to continue our search for the missing Reman vessel.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-13-52-32-26-480x384.jpg" title="The Cell Game" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-13-52-32-26-480x384.jpg" title="The Cell Game" classes="center" >}}
 
 Except... we didn't. We materialized in an iron cage -- our transporter signal had been intercepted and redirected. Our bridge officers must have been shocked to find their captains had been kidnapped.
 
@@ -92,7 +70,7 @@ Along with the Reman slave, we took on wave after wave of creatures -- wallingpu
 
 After we'd returned to our cell and the doors once again locked, the Reman was beamed in, battered, bloody and in great pain. He told us his name was Slemak, and that he had been part of the crew of the Reman resistance ship transporting those thalaron weapons. We were in the custody of a group of rogue slavers who were studying our response to pain. The Reman's ship had been captured by the satellite. Their masters had been sending them to their deaths in the arena ever since.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-14-01-37-44-480x384.jpg" title="Arena" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-14-01-37-44-480x384.jpg" title="Arena" classes="center" >}}
 
 We were sent to the arena once more, this time fighting against sandworms. The baby ones were no trouble, if you dodged their acidic spit attacks and their devastating knock down spin attacks. After those were defeated, the slavers sent their mommy -- a huge worm which took no damage from our pitiful melee weapons. We managed to activate the arena defenses from one of the consoles to stun the creature.
 
@@ -100,13 +78,13 @@ When the baby sandworms returned and their now-enraged mother, we kept them off 
 
 We and Slemak fled there while the Reman slaves expended their own rage upon the sandworms.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-14-11-69-480x384.jpg" title="An Iconian gateway" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-15-14-11-69-480x384.jpg" title="An Iconian gateway" classes="center" >}}
 
 To our real shock, we found an Iconian gateway. We'd seen them lurking about on the fringes of the Federation for some time; interfering in the conflict between the Undine and the Borg, disrupting things in the Alpha quadrant... these supremely powerful beings had been playing coy, but here was proof indeed of Iconian interference. It wasn't the first Iconian gate we'd seen on a Romulan base, either.
 
 We disabled the gate controls and climbed through a conveniently placed sewer pipe.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-14-13-57-16-480x384.jpg" title="Crossing the desert" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-14-13-57-16-480x384.jpg" title="Crossing the desert" classes="center" >}}
 
 The pipe let us out on the planet's surface. Although it was night, Slemak complained that it was too bright... though it was night time, and it had been far brighter inside. Romulan Scorpion fighters flew a search pattern overhead, identifying our captors. We took shelter in some rocks.
 
@@ -116,7 +94,7 @@ We then ran from cover to cover until we were beyond detection. Slemak, still fe
 
 With temperatures plummeting, he was concerned how we would survive the night, which led to a profession-based search for the means of survival. Science officers hollow out a gourd and use it to carry water; Tactical officers build a fire; and Engineering officers kill wildlife for food. You only need to do one of these to advance the episode.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-25-36-86-480x384.jpg" title="The Reman Remains" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-15-25-36-86-480x384.jpg" title="The Reman Remains" classes="center" >}}
 
 We spent the night in a convenient cave. Slemak said he had done some exploring, and a tunnel led through the mountain from the cave; it should let out near his crashed ship.
 
@@ -124,7 +102,7 @@ The next morning, we found that it did indeed lead there.
 
 The ship clearly would never see vacuum again, but we were able to jury-rig a short distress signal from parts we found strewn about. We had no sooner done that than we had an unwelcome visitor... and he brought an army.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-15-28-19-74-480x324.jpg" title="Hakeev and the Night Visitors" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-15-28-19-74-480x324.jpg" title="Hakeev and the Night Visitors" classes="center" >}}
 
 It was Commander Hakeev, whom we'd met in the secret Tal Shiar listening post. The Romulans were the aggressors all along. And not only that, they were in league with the Iconians.
 
@@ -132,7 +110,7 @@ Hakeev explained all about that in a long, extended monologue that detailed his 
 
 Anyway, we were wondering when Hakeev would get around to ordering his army of Romulan commandos to open fire. Won't evil supervillains EVER learn the dangers of monologuing? Just when he was finally about ready to kill us... JUST when the Romulans were firing their disruptors... we dissolved into twinkly transporter sparkles. Our signal had gotten through; we were saved.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-26-14-45-15-91-480x327.jpg" title="Shield wars" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-26-14-45-15-91-480x327.jpg" title="Shield wars" classes="center" >}}
 
 Obisek got in contact with us as soon we escaped the system. He offered our experiences as proof of Romulan involvement with the Iconians and with the enemies of the whole quadrant. Surely, Starfleet and the KDF could see the wisdom of allying themselves with the Reman resistance now?
 

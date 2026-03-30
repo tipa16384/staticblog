@@ -3,42 +3,19 @@ date: '2013-01-14T07:08:17-05:00'
 draft: false
 title: "D3: You've Defeated Diablo III"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/01/14/d3-youve-defeated-diablo-iii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "As hellspawn go, Diablo has to be feeling pretty useless. We didn't beat Diablo 3 last night; we beat Diablo #412. He dies so often,..."
+categories:
   - "Diablo 3"
   - "MMORPG"
   - "Other Games"
   - "Realm of the Mad God"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg"
 ---
+As hellspawn go, Diablo has to be feeling pretty useless. We didn't beat Diablo 3 last night; we beat Diablo #412. He dies so often,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-13-32-63-480x298.jpg" title="You've Defeated Diablo III" class="align-center" >}}
+
 
 As hellspawn go, Diablo has to be feeling pretty useless. We didn't beat Diablo 3 last night; we beat Diablo #412. He dies so often, and it's not exaggerating to say that he was the wimpiest boss we faced in Inferno mode.
 
@@ -48,7 +25,7 @@ Stingite and Spode will likely keep playing, trying to grind their Paragon Level
 
 I guess someone must be making a decent living off of D3, but I'm guessing that someone works at Blizzard.
 
-[![](https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-16-40-79-480x274.jpg "Diablo III 2013-01-13 23-16-40-79")](https://chasingdings.com/wp-content/uploads/2013/01/Diablo-III-2013-01-13-23-16-40-79.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-16-40-79-480x274.jpg" title="Diablo III 2013-01-13 23-16-40-79" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2013/01/Diablo-III-2013-01-13-23-16-40-79.jpg)
 
 This is how we ended the game; Sting and Spode at paragon 9, me at 7, Calrain at 5.
 
@@ -56,7 +33,7 @@ Since we only had the spider lady, Azmodan, and Diablo to kill last night and th
 
 I also upgraded to the final level of the Staff of Herding, allowing me to play Whimsyshire in Inferno mode. THAT cost a cool 1.1M gold, but what else was I going to do with all that money? Upgrades cost upward of 10M gold on the auction house, and there's just no way I'm going to pay that much for a marginal upgrade.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/Fullscreen-capture-1142013-70214-AM-480x359.jpg" title="Realm of the Mad God" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/Fullscreen-capture-1142013-70214-AM-480x359.jpg" title="Realm of the Mad God" classes="center" >}}
 
 Ding 9 in Realm of the Mad God! Pretty sure I just killed a dragon....
 

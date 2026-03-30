@@ -3,37 +3,12 @@ date: '2007-07-23T01:14:10-05:00'
 draft: false
 title: "I think I am going to have to delete Vista..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/07/23/i-think-i-am-going-to-have-to-delete-vista/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My laptop came installed with Windows Vista Home Premium...."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+My laptop came installed with Windows Vista Home Premium....
+<!--more-->
 
 My laptop came installed with Windows Vista Home Premium.
 

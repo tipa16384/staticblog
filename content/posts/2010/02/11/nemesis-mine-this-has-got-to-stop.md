@@ -3,40 +3,17 @@ date: '2010-02-11T18:12:29-05:00'
 draft: false
 title: "Nemesis Mine: This has got to stop."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/11/nemesis-mine-this-has-got-to-stop/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's not that I don't agree with everything Syp of Bio Break says, or stands for. Well, I DON'T agree, but it isn't JUST that...."
+categories:
   - "General"
   - "Humor"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/syp.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/syp.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/syp.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/syp.png"
 ---
+It's not that I don't agree with everything Syp of Bio Break says, or stands for. Well, I DON'T agree, but it isn't JUST that....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/syp.png "Fallen Nemesis")
+
 
 It's not that I don't agree with everything [Syp of Bio Break](http://biobreak.wordpress.com/) says, or stands for. Well, I DON'T agree, but it isn't JUST that.
 

@@ -3,48 +3,23 @@ date: '2006-03-19T00:00:00-05:00'
 draft: false
 title: "Molten Core and a bunch of BRS"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/03/19/molten-core-and-a-bunch-of-brs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "While I have been off \"moving\" and \"cleaning\" and \"spending time with my children\", Prophetic Fate has been forging ever deeper into Molten Core -..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/images/mc031806b.jpg"
-cover:
-  image: "https://chasingdings.com/images/mc031806b.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/mc031806b.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/mc031806b.jpg"
 ---
+While I have been off "moving" and "cleaning" and "spending time with my children", Prophetic Fate has been forging ever deeper into Molten Core -...
+<!--more-->
 
 While I have been off "moving" and "cleaning" and "spending time with my children", Prophetic Fate has been forging ever deeper into Molten Core - they are up to Majordomo, the penultimate boss in MC. I just logged in to say hello yesterday, but was drawn into joining the Molten Core raid.
-
-![](https://chasingdings.com/images/mc031806b.jpg)
 
 Garr was the first target of the day. He knocked us all about awhile, but seemed pretty easy.
 
 The Baron was next. I didn't remember to get a picture of him, but he looked like any other fire elemental in MC, just bigger. He turned me into a bomb. Three times. I HATE being turned into a bomb. Unlike that guy in that [John Varley short story](http://www.scifi.com/scifiction/classiscs/classics_archive/varley/index.html), who really got into it.
 
-![](https://chasingdings.com/images/mc031806a.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/mc031806a.jpg" classes="center" >}}
 
 We all stood in a circle, holding hands and singing campground songs as we fought Shazzrah. He'd stay smiling in the middle as we sent waves of love his way. Then he would teleport to one of us and eat us. We'd pull the broken bodies of our fallen friends out of the way, close ranks, and smile at him again. He couldn't take all this 100% concentrated caring, so he died.
 

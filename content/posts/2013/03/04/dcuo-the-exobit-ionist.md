@@ -3,40 +3,17 @@ date: '2013-03-04T07:04:21-05:00'
 draft: false
 title: "DCUO: The Exobit-ionist"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/03/04/dcuo-the-exobit-ionist/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When Spode, after harvesting himself an exobit (an aggressive one!), proclaimed himself an exobit-ionist, KY and I nearly lost it in chat. That was DDO-level..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/DCGame-2013-03-03-23-05-44-13-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/03/DCGame-2013-03-03-23-05-44-13-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/DCGame-2013-03-03-23-05-44-13-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/DCGame-2013-03-03-23-05-44-13-480x300.jpg"
 ---
+When Spode, after harvesting himself an exobit (an aggressive one!), proclaimed himself an exobit-ionist, KY and I nearly lost it in chat. That was DDO-level...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/DCGame-2013-03-03-23-05-44-13-480x300.jpg" title="Riddle me this!" class="align-center" >}}
+
 
 When Spode, after harvesting himself an exobit (an _aggressive_ one!), proclaimed himself an exobit-ionist, KY and I nearly lost it in chat. That was DDO-level punmanship. And all the more appropriate since we'd just been facing the Riddler.
 
@@ -46,7 +23,7 @@ Robbing us of the XP!!!
 
 Anyway, the Riddler wears clothes with questions marks all over it; so did the Doctors #5-7 in Doctor Who. Coincidence? There's no such thing as coincidence.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/MPYR0101_DESIGNERDATA-PC-03-23.06.430-480x342.jpg" title="Fighting Deathstroke" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/MPYR0101_DESIGNERDATA-PC-03-23.06.430-480x342.jpg" title="Fighting Deathstroke" classes="center" >}}
 
 We did try Oolong Island again last night. While we did do better against the Tornado Tyrant, we weren't able to defeat it. There's a spot around 50% where there's lots of minions running around while the Tyrant does his various attacks. I noticed that while the Tyrant's tornado twister was AoE, his glowing orbs attack was frontal -- he can't hit you with that if he's not facing you (but, he can turn pretty easily). His attacks could be blocked, but we weren't blocking at the right times, and people would get killed trying to revive other people, leading things into a death spiral whenever someone would die.
 

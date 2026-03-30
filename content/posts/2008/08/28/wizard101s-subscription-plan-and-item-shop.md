@@ -3,44 +3,23 @@ date: '2008-08-28T07:00:31-05:00'
 draft: false
 title: "Wizard101's subscription plan and item shop"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/28/wizard101s-subscription-plan-and-item-shop/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Judgement Robes and Ninja Pigs in the world of Moo Shu..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Free to Play"
   - "Item Shop"
   - "Pet Olympics"
   - "Subscription"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg"
 ---
+Judgement Robes and Ninja Pigs in the world of Moo Shu...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-05-35-45.jpg "wizardgraphicalclient-2008-08-27-18-05-35-45")
+
 
 *Judgement Robes and Ninja Pigs in the world of Moo Shu*
 
@@ -48,7 +27,7 @@ Well, I was intrigued enough by the chance to test out Wizard101's item shop tha
 
 There's a Prospector Zeke in every world; he usually gives out the collection quest they have in each world, where you have to find very small things in every zone of a world. Dwarven Smiths in Wizard City, Scarab Beetles in Krokotopia and so on. For this last bit of beta, he also sells items of great power. The Zeke in the Olde Town district of Wizard City even sells a pet dragon.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-02-22-38.jpg "wizardgraphicalclient-2008-08-27-18-02-22-38")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-02-22-38.jpg" title="wizardgraphicalclient-2008-08-27-18-02-22-38" classes="center" >}}
 
 *The Zeke in Moo Shu, and friend*
 
@@ -72,7 +51,7 @@ Anyway, I have not been able to really pin down their plans. I don't think they 
 
 Best guess still is a free to play portion, an item shop, and an optional subscription plan. Basically, every business model, all at once. Is that weird?
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-38-46-93.jpg "wizardgraphicalclient-2008-08-27-18-38-46-93")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-27-18-38-46-93.jpg" title="wizardgraphicalclient-2008-08-27-18-38-46-93" classes="center" >}}
 
 *Judgment, one of the creatures item shop garb can get you. 125 damage per pip.*
 

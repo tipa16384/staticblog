@@ -3,42 +3,19 @@ date: '2011-12-16T00:40:52-05:00'
 draft: false
 title: "EQ2, DCUO, STO: Things are starting to work again"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/12/16/eq2-dcuo-sto-things-are-starting-to-work-again/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I have a friend who is so into Rift. \"You have to come back!\" he said. \"Ember Isles is amazing; the new warfront is awesome;..."
+categories:
   - "DC Universe Online"
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/12/EverQuest2-2011-12-15-23-07-31-09-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/12/EverQuest2-2011-12-15-23-07-31-09-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-23-07-31-09-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/12/EverQuest2-2011-12-15-23-07-31-09-480x384.jpg"
 ---
+I have a friend who is so into Rift. "You have to come back!" he said. "Ember Isles is amazing; the new warfront is awesome;...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/EverQuest2-2011-12-15-23-07-31-09-480x384.jpg" title="New Freeport" class="align-center" >}}
+
 
 I have a friend who is so into Rift. "You have to come back!" he said. "Ember Isles is amazing; the new warfront is awesome; the instant adventures are great!" I want to come back and see all this! Then he started playing SWTOR.
 
@@ -56,7 +33,7 @@ Aside from floating towers spinning slowly overhead everywhere you look, there's
 
 I still haven't _done_ anything in the game. There's a huge gap between futzing around looking at stuff and getting ready to group. The latter takes real commitment.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/GameClient-2011-12-16-00-32-17-17-480x384.jpg" title="T'pral at the library computers" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/GameClient-2011-12-16-00-32-17-17-480x384.jpg" title="T'pral at the library computers" classes="center" >}}
 
 Someday, I'd like to be invited to Starfleet Academy to _teach_. But this time I came to learn -- about duty officers. I'd played with them a little bit on my main. There's a tantalizing little minigame involved. Various missions require various skills and temperaments. The better your duty officers match the requirements, the better the result.
 
@@ -66,7 +43,7 @@ I just plan to keep current on duty officer missions, at least with my Vulcan ca
 
 At least it works now, though.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/12/Fullscreen-capture-12152011-114054-PM-480x385.jpg" title="Back in black! Er, yellow!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/12/Fullscreen-capture-12152011-114054-PM-480x385.jpg" title="Back in black! Er, yellow!" classes="center" >}}
 
 Couldn't get into DCUO past few days. I downloaded it anew day before yesterday and still no luck! Today, DCUO dropped a massive 5GB patch and afterward I could play just fine.
 

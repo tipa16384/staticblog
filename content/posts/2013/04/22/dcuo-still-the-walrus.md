@@ -3,40 +3,17 @@ date: '2013-04-22T07:06:12-05:00'
 draft: false
 title: "DCUO: Still the Walrus"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/04/22/dcuo-still-the-walrus/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't played DCUO all week. All my gaming time has been spent on EverQuest II and other, single player games that I'll talk about..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-22.33.210-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-22.33.210-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-22.33.210-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-22.33.210-480x342.jpg"
 ---
+I haven't played DCUO all week. All my gaming time has been spent on EverQuest II and other, single player games that I'll talk about...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-22.33.210-480x342.jpg" title="Return to Oolong Island" class="align-center" >}}
+
 
 I haven't played DCUO all week. All my gaming time has been spent on EverQuest II and other, single player games that I'll talk about this week. The DCUO grind is just getting to me. I need a change of scenery... but that just might be in the cards, pretty soon.
 
@@ -44,7 +21,7 @@ Last night's Tier 2 daily double was Oolong Island, hard mode. The "easy" mode v
 
 That all changes in hard mode.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-23.29.560-480x342.jpg" title="Chang Tzu cracks me up with his yolks" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/04/MADV102_COMPDYNAMICLIGHTRIG-PC-21-23.29.560-480x342.jpg" title="Chang Tzu cracks me up with his yolks" classes="center" >}}
 
 While all the encounters, including our favorite, the Tornado Tyrant, had some new moves, we adapted and moved through them easily enough. Oolong Island really needs to deal with its pterodactyl issue, though. A good, breeding colony of T Rex's should do the trick. Look into it, would ya, Tom Morrow?
 

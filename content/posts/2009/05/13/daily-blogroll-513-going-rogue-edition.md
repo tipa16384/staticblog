@@ -3,24 +3,8 @@ date: '2009-05-13T07:27:25-05:00'
 draft: false
 title: "Daily Blogroll 5/13 -- Going Rogue edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/13/daily-blogroll-513-going-rogue-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I'm running around the mean streets of the Rogue Isles in City of Heroes, you know what I hate the most? Nah, not the..."
+categories:
   - "City of Heroes"
   - "Daily Blogroll"
   - "EverQuest"
@@ -32,20 +16,13 @@ tags:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/angelatheangelic.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/angelatheangelic.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/angelatheangelic.jpg"
 ---
+When I'm running around the mean streets of the Rogue Isles in City of Heroes, you know what I hate the most? Nah, not the...
+<!--more-->
 
-![Angela the Angelic](https://chasingdings.com/wp-content/uploads/2009/05/angelatheangelic.jpg "Angela the Angelic")
+
 
 When I'm running around the mean streets of the Rogue Isles in City of Heroes, you know what I hate the most? Nah, not the dons of the Family. Not even Longbow. It's those damn tourists from Paragon City. And NOW I find that the heroes themselves are thinking about [slumming their dark sides on my turf](http://www.cityofheroes.com/goingrogue/)?
 
@@ -67,7 +44,7 @@ Caliga at MMO Gamers [buys a castle in Wizard 101](http://mmogamers.freeblogit.c
 
 Ixobelle is making [individual graphic banners for the blogs in his blogroll](http://www.ixobelle.com/2009/05/now-with-more-ads.html), which I just think is really neat :) I should do something like that!
 
-Spinks [looks back at a Year of WAR](http://spinksville.wordpress.com/2009/05/12/on-war/) and charts the rise and fall of her time in the game, as she lets her subscription expire. Though I never played Warhammer, [I did have my fun with the game](https://chasingdings.com/index.php/category/mmos/war/straight-talk-warhammer/), and it's ALWAYS good to have MMO options. Mythic's only real misstep, I feel, was its unrealistic expectations for the game. There's no way it could have EVER lived up to its pre-release hype.
+Spinks [looks back at a Year of WAR](http://spinksville.wordpress.com/2009/05/12/on-war/) and charts the rise and fall of her time in the game, as she lets her subscription expire. Though I never played Warhammer, [I did have my fun with the game](https://tipa16384.github.io/wkblog/index.php/category/mmos/war/straight-talk-warhammer/), and it's ALWAYS good to have MMO options. Mythic's only real misstep, I feel, was its unrealistic expectations for the game. There's no way it could have EVER lived up to its pre-release hype.
 
 [Digital brand](http://dwellonit.taterunino.net/2009/05/12/why-i-havent-friended-you-in-facebook/) Tateru Nino only asks that Steam fulfill their part of the bargain and sell older games that work on new systems, as opposed to [old games that don't](http://dwellonit.taterunino.net/2009/05/12/letting-out-the-steam/). Now that Steam is hosting more and more MMOs, relying on them to keep their games up to date is a pretty pressing issue.
 

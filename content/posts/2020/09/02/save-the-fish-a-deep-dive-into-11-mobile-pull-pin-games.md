@@ -3,41 +3,19 @@ date: '2020-09-02T22:54:31-05:00'
 draft: false
 title: "Save the Fish! A Deep Dive into 11 Mobile Pull-Pin Games."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/02/save-the-fish-a-deep-dive-into-11-mobile-pull-pin-games/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If you've ever played a mobile app, sooner or later you're going to see a very particular ad. There's a fish that needs to be..."
+categories:
   - "Mobile Games"
+tags:
   - "Fish Screaming"
   - "Fishdom"
   - "Mobile Game"
   - "Save the Fish"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/fishdom.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/fishdom.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/fishdom.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/fishdom.jpg"
 ---
+If you've ever played a mobile app, sooner or later you're going to see a very particular ad. There's a fish that needs to be...
+<!--more-->
 
 If you've ever played a mobile app, sooner or later you're going to see a very particular ad. There's a fish that needs to be saved -- from sharks, poison, lava for some reason, dehydration -- and all you need to do is pull a pin to let good stuff happen. But the finger on the screen is doing it ALL WRONG! And NOW THE FISH IS DEAD!
 
@@ -47,7 +25,7 @@ I downloaded them all. Well, until I got tired of looking for more of them at le
 
 ## Save the Fish: The Real Game by Mesiba Games
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1863-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1863-139x300.png" classes="center" >}}
 
 I chose this one because it looked like it had the best chance of being the one in the ad. True to the name, it does offer increasingly difficult sliding pin puzzles. You earn currency after each puzzle; the game gives you a choice between a lesser reward and no ads, or a greater reward, but you have to watch an ad. Plot twist: No matter which you choose, you get to watch an ad. Combined with the continuous ads running at the bottom of the screen, there's a lot of ad watching if you like this game. Occasionally you level up and have an opportunity to gain a new skin for your fish, at the cost of you watching an ad. There's a theme here.
 
@@ -57,7 +35,7 @@ Ads aside, the game does just what it says. The skins are cute, some of the puzz
 
 Fishdom is the game the sliding pin puzzle ads send you to. It's actually an aquarium simulator, which was admittedly made pretty clear by the description in the app store.
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1869-1024x473.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1869-1024x473.png" classes="center" >}}
 
 The very first thing Fishdom teaches you is how to buy things from the store, and explains that your aquarium will be sad unless you earn coins to buy new decorations.
 
@@ -65,7 +43,7 @@ Unsurprisingly, you earn coins via a match-3 game. Once you've cleared the match
 
 ## Save the Fish - Pull Pin by Timuz
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1875-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1875-139x300.png" classes="center" >}}
 
 This one is a pure pull-pin fish saving game. The puzzles never really rise to the challenge posed by the better "Save the Fish: The Real Game" levels. You need to watch a base number of ads no matter what you do; you can optionally watch more ads to earn currency to unlock new fish costumes.
 
@@ -75,7 +53,7 @@ In the puzzle shown, if you thought that you could just draw the pin above the f
 
 ## Save the Fish - Physics Puzzle by Nirav Tank
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1878-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1878-139x300.png" classes="center" >}}
 
 This is not a pull pin save the fish puzzle, but it does have a cool mechanic to it. You actually scribble a line across the play field and then the line becomes a physical object which falls naturally as water runs, assuming you can see the line behind your finger as you're drawing it.
 
@@ -83,7 +61,7 @@ The physics simulation is really bizarre. I drew lines twenty times to solve the
 
 ## Save the Fish 3D by Babil Studios
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1880-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1880-139x300.png" classes="center" >}}
 
 I'm not sure what the third dimension used in this game is. It certainly isn't *sound* -- this is the first game of the ones I've tried that is silent. The phone does vibrate slightly while the water is draining.
 
@@ -95,7 +73,7 @@ After level 10, it looks like the puzzles repeat.
 
 ## Help the ~~Rubber Ducky~~ Fish by Virtua Technologies
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1883-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1883-139x300.png" classes="center" >}}
 
 This is not a pull pin game. In this one, you drag a hose around the screen in order to fill tubs to send a rubber fish toy (that they call a rubber duck, which is probably what it really was before they decided to join the Save the Fish craze). You're scored on the amount of water you used.
 
@@ -105,7 +83,7 @@ Level 11 was a tough level, so the puzzles do increase in difficulty. It took me
 
 ## Save the Fish!(tm) by Leslie Chen
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1885-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1885-139x300.png" classes="center" >}}
 
 First of all -- she trademarked "Save the Fish!"? A [quick search in the USPTO database](http://tmsearch.uspto.gov/bin/showfield?f=toc&state=4810%3Anw335v.1.1&p_search=searchss&p_L=50&BackReference=&p_plural=yes&p_s_PARA1=&p_tagrepl%7E%3A=PARA1%24LD&expr=PARA1+AND+PARA2&p_s_PARA2=Save+the+Fish&p_tagrepl%7E%3A=PARA2%24COMB&p_op_ALL=AND&a_default=search&a_search=Submit+Query&a_search=Submit+Query) reveals that she didn't, at least, not in the United States. So, with that little bit of fraud out of the way, let's try the game.
 
@@ -117,7 +95,7 @@ It's a cute game, and there are no ads or monetization that I saw while testing 
 
 The game opens with "O Danny Boy" played on a harp, not the kind of Chinese music I was expecting from a game that advertises itself as a "Chinese painting style game that will burn your brain!"
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1886-1-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1886-1-139x300.png" classes="center" >}}
 
 Pond is a sliding block game, the object of which is to get your carp block out the east exit in a straight line by moving it and the other blocks to clear the way. Most puzzles can be solved in less than ten seconds; I believe the longest it took to solve a puzzle was 21 seconds, and I had to move a lot of blocks to do it. Maybe all the sliding block puzzles in the Nonary Games prepared me for it.
 
@@ -129,7 +107,7 @@ Perfect score: 18 moves. My moves: 30. Okay. I will admit that it's an excellent
 
 ## Save Fish! by Alessio La Marca
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1887-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1887-139x300.png" classes="center" >}}
 
 Um, I dunno. I couldn't figure out what to do. The opening screen -- level 1 -- are three corks that can rotate in 3D space around a sphere with a fish swimming in it. Water spouts from holes beneath the corks.
 
@@ -139,7 +117,7 @@ I don't know if I can even rate this.
 
 ## Save My Fish! - Physics Puzzle by Vipul Nathani
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1888-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1888-139x300.png" classes="center" >}}
 
 I'm not sure if the developer planned to write a "Save the Fish" puzzle game, especially when I am instructed to throw a burning man into some water.
 
@@ -147,7 +125,7 @@ Save My Fish! is essentially an homage to the "Cut the Rope!" series of physics 
 
 ## SaveFish 3D by Vamsi Penmetsa
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/IMG_1889-1-139x300.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/IMG_1889-1-139x300.png" classes="center" >}}
 
 Also not a pull pin puzzle. In SaveFish 3D, you control a little whirlpool that you use to gather up gunk from the water without also sweeping up eel-like fish that are either floating happily in one place or trying to get swept up in your whirlpool in flagrant disregard for their own safety or your desire to finish the level. Like a lot of similar games, this would be a lot easier if you could somehow use x-ray vision to see through your finger.
 

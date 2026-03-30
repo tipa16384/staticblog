@@ -3,41 +3,18 @@ date: '2009-01-05T00:51:23-05:00'
 draft: false
 title: "EQ2: You've Got Mail!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/01/05/eq2-youve-got-mail/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't know why I missed this HUGE sculpture in the gnomish bit of the Moors of Ykesha before. So like, NOW you know where..."
+categories:
   - "City of Heroes"
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-04-20-15-00-44.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-04-20-15-00-44.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-04-20-15-00-44.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-04-20-15-00-44.jpg"
 ---
+I don't know why I missed this HUGE sculpture in the gnomish bit of the Moors of Ykesha before. So like, NOW you know where...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-04-20-15-00-44.jpg "everquest2-2009-01-04-20-15-00-44")
+
 
 I don't know why I missed this HUGE sculpture in the gnomish bit of the Moors of Ykesha before. So like, NOW you know where the mailbox is... from ORBIT.
 
@@ -49,7 +26,7 @@ So I start taking the "down" bit to heart, and start circling the landing pad. C
 
 Duh. I can't imagine I could have possibly sounder thicker over guild chat.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/everquest2-2009-01-04-20-01-16-17.jpg "everquest2-2009-01-04-20-01-16-17")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/everquest2-2009-01-04-20-01-16-17.jpg" title="everquest2-2009-01-04-20-01-16-17" classes="center" >}}
 
 I didn't spend all night sounding like a trickster god had struck me blind and the only cure was at the druid ring. I had just gotten back from driving my son back to school in Rhode Island, and was poking around the City of Heroes holiday stuff while totally forgetting about the rice I had steaming in the cooker. "Why am I hungry?" I thought, as I sent my ninja army chasing down another group of angry snowmen in Cap du Diablo. "Didn't I cook some rice?"
 

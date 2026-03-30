@@ -3,38 +3,15 @@ date: '2015-05-22T00:06:49-05:00'
 draft: false
 title: "Tanks for all the help..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/05/22/darna-was-a-long-time-well-respected-member-of-team-tanglewood-i-loved-her-from-the-moment-i-first/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Darna was a long time, well-respected member of Team Tanglewood. I loved her from the moment I first recruited her back at the Black Hound..."
+categories:
   - "Other Games"
   - "Pillars of Eternity"
-featured_image: "https://lh3.googleusercontent.com/-rNL1WM0Xepo/VV5tRLDkQ4I/AAAAAAABIlg/YlX2kj0jwY0/w506-h750/PillarsOfEternity%2B2015-05-20%2B23-56-23-68.jpg"
-cover:
-  image: "https://lh3.googleusercontent.com/-rNL1WM0Xepo/VV5tRLDkQ4I/AAAAAAABIlg/YlX2kj0jwY0/w506-h750/PillarsOfEternity%2B2015-05-20%2B23-56-23-68.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh3.googleusercontent.com/-rNL1WM0Xepo/VV5tRLDkQ4I/AAAAAAABIlg/YlX2kj0jwY0/w506-h750/PillarsOfEternity%2B2015-05-20%2B23-56-23-68.jpg"
+thumbnailImage: "https://lh3.googleusercontent.com/-rNL1WM0Xepo/VV5tRLDkQ4I/AAAAAAABIlg/YlX2kj0jwY0/w506-h750/PillarsOfEternity%2B2015-05-20%2B23-56-23-68.jpg"
 ---
+Darna was a long time, well-respected member of Team Tanglewood. I loved her from the moment I first recruited her back at the Black Hound...
+<!--more-->
 
 Darna was a long time, well-respected member of Team Tanglewood. I loved her from the moment I first recruited her back at the Black Hound Inn in the Gilded Vale. I made her a monk, because I needed a tank, and I thought someone whose power operated from wounds would fit the bill.
 
@@ -48,6 +25,8 @@ Dyrwood Village is a little above my level. A nest of feral druids outside town 
 
 Something tells me that that ogre won't be what I'm expecting... I half expect there to be no ogre at all. But, we'll see.
 
-[#PillarsOfEternity](https://plus.google.com/s/%23PillarsOfEternity)  ﻿[![](https://lh3.googleusercontent.com/-rNL1WM0Xepo/VV5tRLDkQ4I/AAAAAAABIlg/YlX2kj0jwY0/w506-h750/PillarsOfEternity%2B2015-05-20%2B23-56-23-68.jpg)]()
+[#PillarsOfEternity](https://plus.google.com/s/%23PillarsOfEternity)  ﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/+BrendaHolloway/posts/cEb9BXMLDnP)

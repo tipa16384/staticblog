@@ -3,41 +3,19 @@ date: '2013-11-18T08:12:20-05:00'
 draft: false
 title: "Team Spode vs the Gutter Rats"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/11/18/team-spode-vs-the-gutter-rats/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Until Kaptain KY returns from his long sabbatical in the wilds of Canada, his spot in Team Spode is being kept warm by Stingheal's wife,..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/MPYR0214_ART_004-PC-17-22.13.150.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/11/MPYR0214_ART_004-PC-17-22.13.150.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/MPYR0214_ART_004-PC-17-22.13.150.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/MPYR0214_ART_004-PC-17-22.13.150.jpg"
 ---
+Until Kaptain KY returns from his long sabbatical in the wilds of Canada, his spot in Team Spode is being kept warm by Stingheal's wife,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/MPYR0214_ART_004-PC-17-22.13.150.jpg" title="Team Spode plot with Dr. Fate" class="align-center" >}}
+
 
 Until Kaptain KY returns from his long sabbatical in the wilds of Canada, his spot in Team Spode is being kept warm by Stingheal's wife, Stingharm.
 

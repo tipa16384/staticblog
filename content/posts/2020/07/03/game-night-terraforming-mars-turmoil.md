@@ -3,39 +3,16 @@ date: '2020-07-03T19:24:22-05:00'
 draft: false
 title: "Game Night: Terraforming Mars (Turmoil)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/07/03/game-night-terraforming-mars-turmoil/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Back in the Before Times, when we only had a small number of board games, Game Night would rotate between Magic the Gathering, Vast and..."
+categories:
   - "Game Night"
   - "Tabletop Games"
   - "Terraforming Mars"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1710.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1710.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1710.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1710.jpg"
 ---
+Back in the Before Times, when we only had a small number of board games, Game Night would rotate between Magic the Gathering, Vast and...
+<!--more-->
 
 Back in the Before Times, when we only had a small number of board games, Game Night would rotate between Magic the Gathering, Vast and Terraforming Mars. Now we have dozens of games to play, but Terraforming Mars is still on our rotation.
 
@@ -45,7 +22,7 @@ When the local game store opened as part of Connecticut's post-pandemic reopenin
 
 Turmoil adds the powerful Terraforming Council to the game. Unlike the other expansions, it does not add new lands to settle, but it does add a new phase to the game: Turmoil.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1711.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1711.jpg" classes="center" >}}
 
 The Terraforming Council has been an NPC faction to this point, allocating rewards for moving the terraforming process forward. Turmoil brings the political element to Terraforming Mars.
 
@@ -57,7 +34,7 @@ The council chambers are one of the two new boards that come with Turmoil. The o
 
 Influence is the new currency, and lobbying is the new standard task (though they emphasize: lobbying is not a standard task, but it is in all but name). Once you've risen to the leadership of a party, and even become the chair of the Terraforming Committee, there is always another party vying for dominance, ready to take the chair and steer the course of Mars for the next generation.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1709.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1709.jpg" classes="center" >}}
 
 The Terraforming Committee wants to reward the players so much, that it penalizes each player a terraforming point each turn. This leads to a far more cash-starved game, and a less habitable Mars in the end. I'm not sure this was the aim of the expansion, but it could be once we get more insight into the workings of the Committee and how best to align ourselves with the coming disasters, things will pick up a bit.
 
@@ -65,7 +42,7 @@ Next time, we'll probably play without the Venus Next expansion in order to spee
 
 It was an expansion that promised a faster and richer game, and for us, that didn't happen. But it did add an entirely new element to the game of negotiation and, sometimes, teamwork, that does help make it a deeper game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/07/1-IMG_1712-001.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/07/1-IMG_1712-001.jpg" classes="center" >}}
 
 The expansion also came with these cool, two-layer player boards :-) Not worth the price of the box for them alone, but then again, maybe they are!
 

@@ -3,42 +3,21 @@ date: '2021-08-22T23:45:47-05:00'
 draft: false
 title: "Ship of Heroes: Superheroes IN SPAAAAAACE!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/22/ship-of-heroes-superheroes-in-spaaaaaace/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "...or so they would like you to believe. The GOVERNMENT says that we are in a GIANT SPACESHIP, a HUNDRED KILOMETERS LONG. How does that..."
+categories:
   - "Blaugust"
   - "DC Universe Online"
   - "MMORPG"
   - "Ship of Heroes"
+tags:
   - "Beta"
+  - "Blaugust"
   - "Champions Online"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg"
 ---
+...or so they would like you to believe. The GOVERNMENT says that we are in a GIANT SPACESHIP, a HUNDRED KILOMETERS LONG. How does that...
+<!--more-->
 
 ...or so they would like you to believe. The GOVERNMENT says that we are in a GIANT SPACESHIP, a HUNDRED KILOMETERS LONG. How does that make any sense? DO YOUR RESEARCH! We, the ones the media disparagingly call "Round Earthers", KNOW that we live on a spherical planet that circles a STAR. WAKE UP SHEEPLE!
 
@@ -66,7 +45,7 @@ During the recent Mission Beta, I tried a Brawler specializing in twin blades wi
 
 Travel powers are almost as distinctive as the hero's actual power. In comics, Batman glides through the sky and uses grappling hooks to ascend. Superman flies. Aquaman rides on the backs of seahorses. The Flash runs really fast. Compared to City of Heroes, though, there's relatively few travel powers. Ship of Heroes currently only has flight (which is kind of slushy) and super speed (much nicer).
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-redsigilbase-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-redsigilbase.jpg)Hi, I'm in space.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase.jpg)Hi, I'm in space.
 
 **Factions**
 
@@ -80,7 +59,7 @@ The missions escalated until I was sent to a high tower where the two chief mage
 
 Ship of Heroes will launch as a subscription game, with an anticipated monthly fee of about $15, placing it in line with other subscription MMOs. The original City of Heroes is currently available on unofficial servers for free, while Champions Online and DCUO both have strong free options. Having a subscription-only superhero MMO will definitely set a high bar for Hero Games Co. to clear.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/hulk.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/hulk.jpg)My original character
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/hulk.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/hulk.jpg)My original character
 
 **Can you really make any costume you can imagine in the character creator?**
 

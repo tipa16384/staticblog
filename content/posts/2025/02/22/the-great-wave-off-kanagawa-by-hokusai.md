@@ -3,40 +3,18 @@ date: '2025-02-22T10:31:36-05:00'
 draft: false
 title: "The Great Wave Off Kanagawa, by Hokusai"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/02/22/the-great-wave-off-kanagawa-by-hokusai/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work."
-description: "Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work."
-tags:
+categories:
   - "3D Printing"
+tags:
   - "Hokusai"
   - "Modern Art"
   - "Pollock"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/02/IMG_4991-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/02/IMG_4991-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/IMG_4991-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/02/IMG_4991-scaled.jpg"
 ---
+Reproducing this woodblock print with 3D printing gives me even more appreciation for the original work.
+<!--more-->
 
 Everyone has seen this print by Japanese ukiyo-e master Hokusai. A huge wave is crashing down. Mount Fuji stands in contrast serene on the horizon. Fast, urgent, dangerous action in the foreground. Unchanging permanence in the background.
 
@@ -44,11 +22,11 @@ Many people don't immediately see the fishermen struggling in their long boats t
 
 Hokusai said that "[All I have produced before the age of seventy is not worth taking into account](https://en.wikiquote.org/wiki/Hokusai#:~:text=All%20I%20have%20produced%20before,do%20not%20keep%20my%20word.)". He didn't believe in permanence. Hokusai changed his name thirty times, and moved whenever his current residence got too messy. His ukiyo-e series of woodblock prints, *Thirty Six Views of Mt. Fuji*, was completed when he was 71. He lived until he was 90. He figured if he'd lived to 110, that every dot or line he brushed would be alive.
 
-I talked [yesterday](https://chasingdings.com/2025/02/21/hueforge-high-rez-color-pictures-on-your-3d-printer/) about how I made this print with Hueforge. Hueforge prints in twenty-seven very thin layers, thin enough that you can see some of the previous layer through the upper layer. Black prints first, then blue, light blue, gray, orange and finally white. The finished print has a dimensionality around it. You can run your fingers over it, feel the different layers. The white on top, the depths and valleys of the wave itself.
+I talked [yesterday](https://tipa16384.github.io/wkblog/2025/02/21/hueforge-high-rez-color-pictures-on-your-3d-printer/) about how I made this print with Hueforge. Hueforge prints in twenty-seven very thin layers, thin enough that you can see some of the previous layer through the upper layer. Black prints first, then blue, light blue, gray, orange and finally white. The finished print has a dimensionality around it. You can run your fingers over it, feel the different layers. The white on top, the depths and valleys of the wave itself.
 
 This was the opposite of how Hokusai made the prints. The white was the white of the paper; what he printed was the negative spaces. The first layer must have been the dark part of the wave and Mt. Fuji, then over that the *Prussian blue* of the spray, then the umber of the boats and the clouds, then finally the dark outlines, the artist's signature (By Hokusai, known as Jitsu, it reads), the grasping claws of the deadly wave as it begins to crash down on the fishermen, and they do look like claws. Without this final print, the scene might look serene. This last one makes it a tragedy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/02/IMG_0272-1024x768.jpg" title="One: Number 31, 1950 by Jackson Pollock, at MoMA" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/02/IMG_0272-1024x768.jpg" title="One: Number 31, 1950 by Jackson Pollock, at MoMA" classes="center" >}}
 
 When I was a kid, Jackson Pollock's drip paintings were a punchline to every joke about modern art. Nowadays, it's "Banana Duct-Taped to a Wall", but back then, "my kid could do this better!". They'd have paintings by monkeys and elephants and call them better than Pollocks. And I couldn't see how this was art.
 

@@ -3,42 +3,17 @@ date: '2006-03-20T00:00:00-05:00'
 draft: false
 title: "Molten Core, Part 2: Coke or Pepsi?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/03/20/molten-core-part-coke-or-pepsi/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This weekend, I joined millions of other people in the nation's weekly Molten Core runs. But get a load of this......"
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/images/mc031906a.jpg"
-cover:
-  image: "https://chasingdings.com/images/mc031906a.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/mc031906a.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/mc031906a.jpg"
 ---
+This weekend, I joined millions of other people in the nation's weekly Molten Core runs. But get a load of this......
+<!--more-->
 
 This weekend, I joined millions of other people in the nation's weekly Molten Core runs. But get a load of this...
-
-![](https://chasingdings.com/images/mc031906a.jpg)
 
 Count the number of health bars I'm watching...
 
@@ -48,9 +23,9 @@ EQ1... health bars of my group and my target.
 
 Ah well. We fought two other guys...
 
-![](https://chasingdings.com/images/mc031906b.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/mc031906b.jpg" classes="center" >}}
 
-![](https://chasingdings.com/images/mc031906c.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/mc031906c.jpg" classes="center" >}}
 
 We didn't kill Majordomo, but we came close.
 

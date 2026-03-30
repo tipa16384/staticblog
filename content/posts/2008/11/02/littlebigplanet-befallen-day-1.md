@@ -3,41 +3,19 @@ date: '2008-11-02T11:50:19-05:00'
 draft: false
 title: "LittleBigPlanet Befallen: Day 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/02/littlebigplanet-befallen-day-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "What LittleBigPlanet REALLY needs is a command where you can shift EVERYTHING up and over to the right...."
+categories:
   - "Littlebigplanet"
   - "Other Games"
+tags:
   - "Befallen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/stp61419.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/stp61419.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61419.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/stp61419.jpg"
 ---
+What LittleBigPlanet REALLY needs is a command where you can shift EVERYTHING up and over to the right....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/stp61419.jpg "stp61419")
+
 
 What LittleBigPlanet REALLY needs is a command where you can shift EVERYTHING up and over to the right.
 
@@ -45,7 +23,7 @@ Creating a level in LittleBigPlanet is just the same as playing a really good ga
 
 Knowing that I'll have to do it all over again for the real dungeon is kind of depressing, because I've put hours of work into it this far. But just like writing (and a [shout](http://mmoquests.com) [out](http://ardwulfslair.wordpress.com/2008/10/30/a-new-project/) to all my NaNoWriMo-participating friends!), I have to admit that everything will be better when I do it all over again.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/stp61420.jpg "stp61420")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/stp61420.jpg" title="stp61420" classes="center" >}}
 
 Hey! Of COURSE it has quests! I had a long explanation for why the skeleton needs his book and how he came to be sitting down here and what happened to his tower, but that didn't fit and was probably boring anyway, so I just shortened the quest to "Get book, I'll help you." One of the pacing problems is that you don't yet NEED his help. The well that he helps you cross is a screen past him, you can't see it from where he sits. That will be fixed in the real one, as well as the little feature where if you jump out of his tower, you land past the well. You could play the entire level and never see the feature that is supposed to be the central challenge of all levels of my version of Befallen.
 

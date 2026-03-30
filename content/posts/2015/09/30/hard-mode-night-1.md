@@ -3,40 +3,19 @@ date: '2015-09-30T08:21:38-05:00'
 draft: false
 title: "Hard Mode Night #1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/30/hard-mode-night-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h18m32s169.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h18m32s169.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/vlcsnap-2015-09-30-07h18m32s169.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/vlcsnap-2015-09-30-07h18m32s169.jpg"
 ---
+[...
+<!--more-->
 
-[![Hullbreaker Isle](https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h18m32s169.jpg)](https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h18m32s169.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2015/09/vlcsnap-2015-09-30-07h18m32s169.jpg)
 
 Kasul and I are going through our list of hard mode dungeons and clearing them out before continuing with the Heavensward storyline. There hasn't really been a reason to do these dungeons before now. Since the launch of the expansion, superior gear is easy to come by, so the dungeon won't offer any upgrades. And, I found out, once you're post level 50, you don't even get any experience. So, no experience and no upgrades means very little incentive to queue up for a dungeon.
 
@@ -56,13 +35,13 @@ You would THINK he would slow down after that. You would be wrong.
 
 First boss was a gorilla with a taste for bananas, and tricksy lemurs that wanted them all for themselves. Second boss had bubbles you jumped into. The final boss was THE KRAKEN! LET LOOSE THE KRAKEN! We had to jump from islet to islet killing tentacles, or rather, the ninja did. The rest of us just did things our slow way, and eventually THE KRAKEN!!! returned to Poseidon.
 
-[![Sastasha (Hard)](https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h16m43s166.jpg)](https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h16m43s166.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/vlcsnap-2015-09-30-07h16m43s166.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2015/09/vlcsnap-2015-09-30-07h16m43s166.jpg)
 
 Plenty of deja vu in Sastasha, hard mode. The dungeon is much the same as normal mode. Captain Madison has overdosed on his HGH (human growth hormone) and is now a larger, but just as cowardly, version of his own bad self.
 
 First boss would randomly stun me so that I could not stun away the attack that would smoosh another player. Frustrating. Second boss was the Captain, lots of adds. And then -- THE KRAKEN! LET LOOSE THE KRAKEN! Yeah, same boss as Hullbreaker, but the tentacles weren't as much fun. Though hentai fans would probably have a field day. I don't think either of the DPS were terrible this time.
 
-[![Wanderer](https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h14m46s183.jpg)](https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h14m46s183.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/vlcsnap-2015-09-30-07h14m46s183.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2015/09/vlcsnap-2015-09-30-07h14m46s183.jpg)
 
 Wanderer's Palace (Hard) was Kasul's favorite dungeon of the night. The map was a simplified version of the normal mode map. We had a bard. Like most bards, he managed to stay entirely unaware of the actual battle he was in, and thought he was in a battle where you ignored the mechanics and stayed on the boss and tried to stay far away. At least he wasn't like that bard I got in Brayflox last night who thought that every encounter required running around in circles, drawing adds, while focusing on a single mob and ignoring fight mechanics. That same bard also asked if we could rest after every fight so that he could regain MP lost from singing a song that benefited precisely nobody but decreased his already low DPS. But enough complaining about bards.
 
@@ -74,7 +53,7 @@ Last boss was similar to the dragon in Brayflox normal mode; just had to keep ki
 
 The cut scene at the end was precious :) All the tonberries that had been enslaved by their Sahagin tormentors came with their little knives and cut up the final boss.
 
-[![Stone Vigil (Hard)](https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h19m34s75.jpg)](https://chasingdings.com/wp-content/uploads/2015/09/vlcsnap-2015-09-30-07h19m34s75.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/vlcsnap-2015-09-30-07h19m34s75.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2015/09/vlcsnap-2015-09-30-07h19m34s75.jpg)
 
 Stone Vigil (Hard) was dungeon where the DPS decided they didn't need to understand the mechanic; just choose a target and mush buttons until the enemy dies or you do. Like the normal mode dungeon, there were interesting little encounters in the corridors that were as memorable as the boss fights. The dragon that would randomly pop up to nuke you in normal, now stays and fights. The sprite traps are replaced with flocks of dragonlings -- building up to a mini-encounter where dragonlings swarm over the parapet while you drive away another dragon with cannons.
 

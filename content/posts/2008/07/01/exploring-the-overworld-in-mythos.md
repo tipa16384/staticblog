@@ -3,43 +3,23 @@ date: '2008-07-01T09:41:04-05:00'
 draft: false
 title: "Exploring the Overworld in Mythos"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/01/exploring-the-overworld-in-mythos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "As is way too often the case, I start writing a story about a MMO for Massively, and then get drawn into the game. Such..."
+categories:
   - "MMORPG"
   - "Mythos"
+tags:
   - "Mythos Beta"
   - "Mythos Camera"
   - "Mythos Overworld"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/mythos-2008-07-01-07-57-34-71.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/mythos-2008-07-01-07-57-34-71.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/mythos-2008-07-01-07-57-34-71.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/mythos-2008-07-01-07-57-34-71.jpg"
 ---
+As is way too often the case, I start writing a story about a MMO for Massively, and then get drawn into the game. Such...
+<!--more-->
 
-![mythos-2008-07-01-07-57-34-71.jpg](https://chasingdings.com/wp-content/uploads/2008/07/mythos-2008-07-01-07-57-34-71.jpg) As is way too often the case, I start writing a story about a MMO for Massively, and then get drawn into the game. Such was the case Sunday night with Pi Story, and last night with Mythos (both stories will show up today on Massively.com).
+
+
+As is way too often the case, I start writing a story about a MMO for Massively, and then get drawn into the game. Such was the case Sunday night with Pi Story, and last night with Mythos (both stories will show up today on Massively.com).
 
 Mythos is an easy game to get lost in, but I have to admit I have not been playing much since Flagship introduced the Overworld. I was going to wait until all the new content was in (they are just working on Zone 2 now), and then do a weekend's worth of leveling ahead of open beta to get a good feel for the new stuff.
 

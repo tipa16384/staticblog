@@ -3,47 +3,25 @@ date: '2025-03-13T08:04:02-05:00'
 draft: false
 title: "Game Night: CULTivate"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/03/13/game-night-cultivate/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This isn't a picture of the CULT-ivate board game. It's my cat, Midnight, helping me to play \"The Plucky Squire\". He was really getting into it."
-description: "This isn't a picture of the CULT-ivate board game. It's my cat, Midnight, helping me to play \"The Plucky Squire\". He was really getting into it."
-tags:
+categories:
   - "Cats"
   - "Game Night"
   - "Tabletop Games"
+tags:
   - "Cultivate"
   - "The Plucky Squire"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/pluckymidnight.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/03/pluckymidnight.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/pluckymidnight.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/pluckymidnight.png"
 ---
+This isn't a picture of the CULT-ivate board game. It's my cat, Midnight, helping me to play "The Plucky Squire". He was really getting into it.
+<!--more-->
 
 I have too many hobbies. It's true. I think, if I only had one or two, I could really get *good* at one of them and have more fun and stuff. Like, I could really get good at Irish flute or mandolin, and start playing with some of the local sessions. Or I could get better at gamedev and maybe join the ranks of those solo devs who come out with their purest visions of their perfect game. Or get better at writing and finish those stories I have in my head. Or get better at painting minis and gaming in person.
 
 Or start really going through my boardgaming backlog and get some sort of side hustle going with these. But we are where we are, and most of the time, new board games have to wait until the family has a free night where we can all meet up.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/image-4-1024x636.png" title="THIS is CULTivate" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/image-4-1024x636.png" title="THIS is CULTivate" classes="center" >}}
 
 CULTivate is a simple game based on real life situations you've probably encountered, such as being lured to join a cult by some charismatic leader only to be put to work in some sweatshop under horrible working conditions. I mean, who *hasn't*?
 
@@ -55,7 +33,7 @@ The other tasks are hiring influencers to model her environmentally-conscious cr
 
 The goal is to fill your card with recruits and match pattern you chose at the start of the game; in the board above, you can see I have all the children at their workstations, and a couple others besides. I kept explaining that it was "for the CHILDREN!" as I recruited kids from the other cultists at the table. Some of them might not have had the kids' best interests at heart! But my white paneled van that served up free candy to one and all did the trick.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/image-5.png" title="The cover art has a retro feel" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/image-5.png" title="The cover art has a retro feel" classes="center" >}}
 
 Each player has four cards; those cards are a mix of "recruit a certain kind of follower" and "take that" cards that mess with opponent's boards. There's also "veto" cards that stop other cult leader manipulation, and "investigator" cards.
 

@@ -3,46 +3,27 @@ date: '2010-08-27T18:52:43-05:00'
 draft: false
 title: "Thoughts on the social gaming explosion"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/27/thoughts-on-the-social-gaming-explosion/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
   - "Frontierville"
+tags:
   - "Facebook"
+  - "Frontierville"
   - "Kingdoms of Camelot"
   - "My Empire"
   - "Office Heroes"
   - "Social Game"
   - "Virtual Villagers"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/fv-480x323.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/fv-480x323.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/fv-480x323.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/fv-480x323.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/fv-480x323.jpg "My Ex-Frontierville homestead")](https://chasingdings.com/wp-content/uploads/2010/08/fv.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/08/fv.jpg)
 
 I quit Frontierville tonight. No big deal. I ended up playing it a lot longer than I thought I would, actually. I got to a point in FV where I'd just log in once in the morning and once again at night, harvest stuff, visit neighbors, see what folks were up to. Some people arranged their homesteads so that they just had mass herds of animals that they'd tend to; otherwise made gigantic farms; some folks just tried to make their homestead a pleasant looking place. There clearly could be a lot of creativity in the way the farms were laid out, and Zynga holds frequent contests to find the most innovative designs.
 

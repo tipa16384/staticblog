@@ -3,40 +3,18 @@ date: '2025-05-02T08:00:00-05:00'
 draft: false
 title: "How Kickstarter Projects are Handling Tariffs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/05/02/how-kickstarter-projects-are-handing-tariffs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I might have a Kickstarter problem. I went to all the campaign pages for the games I haven't yet received to find out how tariffs were affecting them."
-description: "I might have a Kickstarter problem. I went to all the campaign pages for the games I haven't yet received to find out how tariffs were affecting them."
-tags:
+categories:
   - "Kickstarter"
   - "Tabletop Games"
+tags:
   - "China"
   - "Tariffs"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/05/evergiven.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/05/evergiven.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/evergiven.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/05/evergiven.png"
 ---
+I might have a Kickstarter problem. I went to all the campaign pages for the games I haven't yet received to find out how tariffs were affecting them.
+<!--more-->
 
 The goal of Trump's tariffs, as I understand it, was to get stuff made in the USA. I don't have a problem with that, but I kind of think the reason manufacturing moved out of the USA to begin with is because not many people really want to do factory work (or field work, for that matter) if they don't have to. Bringing manufacturing back to the USA would just mean more automation, and probably not many jobs.
 

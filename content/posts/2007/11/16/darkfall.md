@@ -3,41 +3,16 @@ date: '2007-11-16T14:41:38-05:00'
 draft: false
 title: "Darkfall"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/16/darkfall/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The comments about the EvE-ification of a fantasy world have, I think, shown that there's a lot of interest in that sort of gameplay moved..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+The comments about the EvE-ification of a fantasy world have, I think, shown that there's a lot of interest in that sort of gameplay moved...
+<!--more-->
 
 The comments about the EvE-ification of a fantasy world have, I think, shown that there's a lot of interest in that sort of gameplay moved from interstellar space to interfluvial forests.
 
-Ammon777 [brought me to task](https://chasingdings.com/index.php/2007/11/14/what-if-eve-online-were-a-fantasy-mmorpg/#comment-3933) for not knowing about [Darkfall](http://en.wikipedia.org/wiki/Darkfall), which sounds a lot like I was imagining, except you're still directly playing your avatar (from a first or third person view) rather than seeing it and your forces from a distant perspective, as in EvE. Also, it doesn't look like you get to attract an entourage based on your skill development, as you do in EvE (replace 'entourage' with 'guns and shields and drones and stuff' -- they're conceptually similar).
+Ammon777 [brought me to task](https://tipa16384.github.io/wkblog/index.php/2007/11/14/what-if-eve-online-were-a-fantasy-mmorpg/#comment-3933) for not knowing about [Darkfall](http://en.wikipedia.org/wiki/Darkfall), which sounds a lot like I was imagining, except you're still directly playing your avatar (from a first or third person view) rather than seeing it and your forces from a distant perspective, as in EvE. Also, it doesn't look like you get to attract an entourage based on your skill development, as you do in EvE (replace 'entourage' with 'guns and shields and drones and stuff' -- they're conceptually similar).
 
 That was the really cool part about the whole thing.
 

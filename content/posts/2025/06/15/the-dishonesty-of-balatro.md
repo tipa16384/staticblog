@@ -3,46 +3,24 @@ date: '2025-06-15T10:00:00-05:00'
 draft: false
 title: "The Dishonesty of Balatro"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/06/15/the-dishonesty-of-balatro/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Now that I have finally won the game, I have some thoughts..."
-description: "Now that I have finally won the game, I have some thoughts..."
-tags:
+categories:
   - "Arcade Game"
   - "Card Games"
   - "PS5"
+tags:
   - "Balatro"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/1-Balatro_20250602230340-scaled.jpg"
 ---
+Now that I have finally won the game, I have some thoughts...
+<!--more-->
 
 There's a kind of video game that claims to be *one* sort of game, but is actually a very different kind of game once you get into it. *Inscryption*, for instance, pretends to be a card game, but is actually a weird sort of Blair Witch-type mystery-horror game. *Doki Doki Literature Club* looks to be a pretty standard visual novel dating sim, but turns out to be a story about a video game character who very much doesn't want to be one. *Papers, Please* pretends to be a game about matching patterns, but is actually a story about finding yourself the face of an oppressive government.
 
 *Balatro* pretends to be a game about making poker hands, then does everything in its power to stop you from making poker hands. It's another game that takes your expectations about card games, and then weaponizes them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/Balatro_20250614175726-1024x576.jpg" title="These are my bona fides" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/Balatro_20250614175726-1024x576.jpg" title="These are my bona fides" classes="center" >}}
 
 *Balatro* is (or claims to be) a game where you make poker hands -- pairs, full houses, flushes, straights. You score some number of *chips*, which are the point values of the cards (from 2 to 11, with aces being the 11s). That is multiplied by the value of the hand to be the total score of the hand. You have typically four hands in which to hit an ever-increasing point target, with four discards.
 

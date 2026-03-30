@@ -3,40 +3,17 @@ date: '2010-04-23T21:13:11-05:00'
 draft: false
 title: "Star Trek Online: Reporting from the Cardassian Front"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/23/star-trek-online-reporting-from-the-cardassian-front/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Federation News Service (our fleet/guild in Star Trek Online) had its first fleet event tonight. Organized by Longasc, Commanders, Captains and Admirals gathered to..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-23-19-39-00-04.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-23-19-39-00-04.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-23-19-39-00-04.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GameClient-2010-04-23-19-39-00-04.jpg"
 ---
+The Federation News Service (our fleet/guild in Star Trek Online) had its first fleet event tonight. Organized by Longasc, Commanders, Captains and Admirals gathered to...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/04/GameClient-2010-04-23-19-39-00-04.jpg "The Federation News Service at Tortig")
+
 
 The Federation News Service (our fleet/guild in Star Trek Online) had its first fleet event tonight. Organized by Longasc, Commanders, Captains and Admirals gathered to take on some fleet actions. We headed to Tortig in the Regulus sector block and ---
 

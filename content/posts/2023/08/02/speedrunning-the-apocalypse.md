@@ -3,41 +3,19 @@ date: '2023-08-02T07:00:00-05:00'
 draft: false
 title: "Speedrunning the Apocalypse"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/02/speedrunning-the-apocalypse/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Remember way back when when social media was a way to bring together and the internet was fun and exciting? Yeah. Me, too. Let's find a way to get back there."
-description: "Remember way back when when social media was a way to bring together and the internet was fun and exciting? Yeah. Me, too. Let's find a way to get back there."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
+tags:
   - "Cory Doctorow"
   - "Tom Eastman"
   - "Twitter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-01-22.15.05-1990s-era-CGI-render-of-a-wooly-mammoth-running-along-a-road-left-to-right-with-a-giant-fireball-destroying-Silicon-Valley-in-the-background.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-01-22.15.05-1990s-era-CGI-render-of-a-wooly-mammoth-running-along-a-road-left-to-right-with-a-giant-fireball-destroying-Silicon-Valley-in-the-background.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-01-22.15.05-1990s-era-CGI-render-of-a-wooly-mammoth-running-along-a-road-left-to-right-with-a-giant-fireball-destroying-Silicon-Valley-in-the-background.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-01-22.15.05-1990s-era-CGI-render-of-a-wooly-mammoth-running-along-a-road-left-to-right-with-a-giant-fireball-destroying-Silicon-Valley-in-the-background.png"
 ---
+Remember way back when when social media was a way to bring together and the internet was fun and exciting? Yeah. Me, too. Let's find a way to get back there.
+<!--more-->
 
 I thought of this title this morning, and it really was too good not to use, even though a quick google found [a story by that title](https://www.royalroad.com/fiction/55164/speedrunning-the-apocalypse) already existed. Well, I'm not going to let that stop me.
 
@@ -65,7 +43,7 @@ Facebook, Ex-Twitter, Reddit -- all of them are nearing the end of that list. Go
 
 I'm kinda over all this. Just seems to be so many people trying so very hard to make things worse for the greatest number of people. I don't know anyone that looks forward to what the future holds, anymore.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-01-23.25.09-The-ruins-of-Silicon-Valley-in-the-far-future-surrounded-by-a-desolate-and-barren-wasteland-1024x712.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-01-23.25.09-The-ruins-of-Silicon-Valley-in-the-far-future-surrounded-by-a-desolate-and-barren-wasteland-1024x712.png" classes="center" >}}
 
 Anyway! Let's get on Mastodon! You're probably there already but *just in case*....!
 
@@ -87,11 +65,11 @@ Now here's the fun part. You can follow hashtags. Since there is no "search ever
 
 You can't search for arbitrary text, but you *can* search for hashtags. In the search box, start a search with "#" and a few letters. Like Final Fantasy? Sure you do. 
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image.png" classes="fig-20" >}}
 
 Looks like the most popular hashtag is just #FinalFantasy. Selecting that first one brings up the latest posts from the federated servers with that hashtag.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-1.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-1.png" classes="fig-20" >}}
 
 You're just about there at this point. To the right of the "< Back" link is a person icon with a plus sign next to them. This is the Follow button. Click that, and now any post made among the federated servers with the #FinalFantasy hashtag will appear in your feed.
 

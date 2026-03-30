@@ -3,41 +3,16 @@ date: '2006-04-12T00:00:00-05:00'
 draft: false
 title: "Red Flag Linux, Prince Harry, Sarcasm, etc."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/04/12/red-flag-linux-prince-harry-sarcasm-etc/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Was just surfing, and came across mention of China's government-sanctioned Linux distro, Red Flag Linux. It has the cutest logo ever... but I wonder how..."
+categories:
   - "General"
-featured_image: "http://upload.wikimedia.org/wikipedia/en/b/b8/Red_Flag_Linux_logo.png"
-cover:
-  image: "http://upload.wikimedia.org/wikipedia/en/b/b8/Red_Flag_Linux_logo.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://upload.wikimedia.org/wikipedia/en/b/b8/Red_Flag_Linux_logo.png"
+thumbnailImage: "http://upload.wikimedia.org/wikipedia/en/b/b8/Red_Flag_Linux_logo.png"
 ---
+Was just surfing, and came across mention of China's government-sanctioned Linux distro, Red Flag Linux. It has the cutest logo ever... but I wonder how...
+<!--more-->
 
 Was just surfing, and came across mention of China's government-sanctioned Linux distro, [Red Flag Linux](http://en.wikipedia.org/wiki/Red_Flag_Linux). It has the cutest logo ever... but I wonder how they reconcile the freedom and openness signified by Tux, the Linux Penguin, with the oppressive communist regime of the PRC?
-
-![](http://upload.wikimedia.org/wikipedia/en/b/b8/Red_Flag_Linux_logo.png)
 
 ---
 
@@ -45,7 +20,7 @@ It's a bloggy kind of day, I guess.
 
 [Prince Harry](http://www.cnn.com/2006/WORLD/europe/04/12/uk.harry/index.html)  of Jolly Old England graduated from military academy today. He may be sent to the front lines, he may be kidnapped and held ransom, who really knows? With a life so scripted that his girlfriend, arriving from Africa, is scheduled to be cross with him about his going to a strip club (between 3:45 and 3:55 British Summer Time, after a formal tea, with five minutes scheduled for rebuttal), I wonder if he really will have a chance to actually die for his country.
 
-![](http://i.a.cnn.net/cnn/2006/WORLD/europe/04/12/uk.harry/story.harry3.ap.jpg)
+{{< image src="http://i.a.cnn.net/cnn/2006/WORLD/europe/04/12/uk.harry/story.harry3.ap.jpg" classes="center" >}}
 
 What really got me wondering was the name on Prince Harry's helment. It says Wales, I'm pretty sure. That makes sense, because Dear Old Dad is the Prince of Wales, but then I was wondering... [is that their real last name](http://experts.about.com/q/Miscellaneous-885/Prince-Charles.htm)? Wales? I thought it was Windsor.
 

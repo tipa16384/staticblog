@@ -3,44 +3,21 @@ date: '2010-12-07T06:00:30-05:00'
 draft: false
 title: "Daily Blogroll 12/7 -- Expansion edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/07/daily-blogroll-127-expansion-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Imperial Japanese Navy attacked Pearl Harbor 69 years ago today. Now we're having a little payback at the expense of the whole world. I..."
+categories:
   - "Champions Online"
   - "City of Heroes"
   - "Daily Blogroll"
   - "EverQuest"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/holmes.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/holmes.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/holmes.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/holmes.png"
 ---
+The Imperial Japanese Navy attacked Pearl Harbor 69 years ago today. Now we're having a little payback at the expense of the whole world. I...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/12/holmes.png "The New Adventures of Sherlock Holmes")
+
 
 The Imperial Japanese Navy attacked Pearl Harbor 69 years ago today. Now we're having a little payback at the expense of the whole world. I know a lot of people who plan to take days off to play their way through the entire expansion as quickly as they can. My cousin Tom even (jokingly, I hope), regretting that he had to work, thought he might let his son take the day off from school to play.
 

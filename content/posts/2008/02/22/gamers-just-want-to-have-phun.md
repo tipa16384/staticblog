@@ -3,42 +3,17 @@ date: '2008-02-22T08:14:51-05:00'
 draft: false
 title: "Gamers just want to have \"Phun\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/22/gamers-just-want-to-have-phun/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I saw yesterday that a Swedish researcher at Umeå University VRlab had released the latest version of \"Phun\". This is software that takes anything you..."
+categories:
   - "General"
   - "Other Games"
-featured_image: "http://www.vrlab.umu.se/research/images/phun_080207_0002.png"
-cover:
-  image: "http://www.vrlab.umu.se/research/images/phun_080207_0002.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://www.vrlab.umu.se/research/images/phun_080207_0002.png"
+thumbnailImage: "http://www.vrlab.umu.se/research/images/phun_080207_0002.png"
 ---
+I saw yesterday that a Swedish researcher at Umeå University VRlab had released the latest version of "Phun". This is software that takes anything you...
+<!--more-->
 
 I saw yesterday that a Swedish researcher at Umeå University VRlab had released the latest version of "Phun". This is software that takes anything you can draw... and animates it with real world physics. This kind of reminds me of [Crayon Physics](http://www.kloonigames.com/crayon/), which does the physics, but makes it into a puzzle game. Phun gives you a blank screen and your mouse. What you do then is up to you.
-
-![](http://www.vrlab.umu.se/research/images/phun_080207_0002.png)
 
 I got a little crazy. I wondered if I could draw one of those swinging ball toys -- and I could! Next was a little hammer to start it going... and then a ten ton weight to slide a block out to trigger the hammer... and then.... well, you can see it got a little crazy toward the end.
 

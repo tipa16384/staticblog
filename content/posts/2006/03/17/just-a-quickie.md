@@ -3,38 +3,13 @@ date: '2006-03-17T00:00:00-05:00'
 draft: false
 title: "Just a Quickie"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/03/17/just-a-quickie/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I got a little sidetracked with two things I'm working on for this blog (\"Music\" and \"A Day in the Life\"), but I came across..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I got a little sidetracked with two things I'm working on for this blog ("Music" and "A Day in the Life"), but I came across...
+<!--more-->
 
 I got a little sidetracked with two things I'm working on for this blog ("Music" and "A Day in the Life"), but I came across [this article about FFXI fandom](http://www.eurogamer.net/article.php?article_id=63287) that I found very interesting. Not so much for FFXI, a game I enjoyed to the point of frustration, but what it says about all of us who play MMOs. A very good read.
 

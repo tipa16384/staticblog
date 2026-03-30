@@ -3,42 +3,17 @@ date: '2008-05-12T12:37:14-05:00'
 draft: false
 title: "Sitting this one out."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/12/sitting-this-one-out/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I feel a little like a relic at this moment. Everyone is talking about Age of Conan, Warhammer Online and Wrath of the Liche King,..."
+categories:
   - "Age of Conan"
   - "EverQuest"
   - "MMORPG"
   - "Mythos"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I feel a little like a relic at this moment. Everyone is talking about Age of Conan, Warhammer Online and Wrath of the Liche King,...
+<!--more-->
 
 I feel a little like a relic at this moment. Everyone is talking about Age of Conan, Warhammer Online and Wrath of the Liche King, and I realized... I have no interest in any of them. I have a coworker in the AoC closed beta, but going around in gangs randomly ganking people wasn't that fun in EQ2's Nagafen from either end -- seemed really pointless to me, though I did enjoy the feeling of danger and risk it brought to the game.
 

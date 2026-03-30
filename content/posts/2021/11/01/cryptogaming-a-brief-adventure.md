@@ -3,46 +3,24 @@ date: '2021-11-01T00:29:18-05:00'
 draft: false
 title: "Cryptogaming: A Brief Adventure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/11/01/cryptogaming-a-brief-adventure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames...."
+categories:
   - "Axie Infinity"
   - "Blockchain"
   - "Crypto Game"
   - "Cryptokitties"
   - "Dragonereum"
   - "EverQuest"
+tags:
   - "Coinbase"
   - "Entropia Universe"
   - "Ethereum"
   - "Shiba Inu"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/CryptoDragons-a-week-later.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/CryptoDragons-a-week-later.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/CryptoDragons-a-week-later.jpg"
 ---
+I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames....
+<!--more-->
 
 I had the Ethereum. I had Bitcoins and Doge Coin and even Bounce for awhile, but I had the Ethereum to play a few cryptogames. This is what I found.
 
@@ -54,7 +32,7 @@ So these games, whether they are about breeding kitties or dragons or conquering
 
 I was watching on Coinbase, my exchange of choice for now, when the Shiba Inu coin-craze hit. I myself own 124,000 SHIBA -- that's worth about $9. There is no reason for this coin to exist; it was a pump-and-dump scam where very few would see any return. But it was the exact same experience as playing Cryptokitties or Dragonereum when they were new.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/image3291.png)](https://chasingdings.com/wp-content/uploads/2021/10/image3291.png)A Cryptokitty
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/image3291.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/image3291.png)A Cryptokitty
 
 You can buy the Cryptokitty at the left there for about $21, not including the gas fees. The amount of extra money you need to spend to ensure your $21 purchase goes through can be as little as $0.25, or as much as $7,000, depending on how busy the blockchain is, and how soon you want the transaction to be recorded.
 
@@ -70,7 +48,7 @@ So, how could this really work?
 
 - Free to Play -- players should be given free of whatever digital asset there is (cats, dogs, dragons, townships -- whatever). These can be poor quality, but enough to play the game and actually build some desire. *Not* having free-to-play means these games are just cash grabs.- Transferrable -- all digital assets can be transferred through whatever mechanism two players like, and they should not be required to go through the game to do it. - Not tied to the game -- the digital assets should have some use even if the game shuts down. Even if it's just a picture and a history of changes and transactions to that asset. It should be something the player can own forever and see on the blockchain. So, basically a NFT.
 
-![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F418f3acf-2d81-4f05-ad62-2c875ec2c33f_4463x2289.png)Axie Infinity has their own crypto coin, even.
+{{< image src="https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F418f3acf-2d81-4f05-ad62-2c875ec2c33f_4463x2289.png" classes="center" >}}Axie Infinity has their own crypto coin, even.
 
 EverQuest used to have a big side business in buying and selling accounts. You could go to eBay and take your pick -- max level shadowknight with epic? Sure! Raid-geared cleric? Here you go. Anyone could make a character for no more than the subscription fee. If you have a raid guild, you could get the new character geared up and ready for sale in a few days. This was a real business for a lot of guilds, and business was booming. SOE even helped it along by making a new special rules server that allowed free transfer into and out of the server for characters, along with all their items. It was a fantastically stupid idea for Sony, but a fantastically great happening for the secondary market.
 

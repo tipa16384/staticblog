@@ -3,30 +3,15 @@ date: '2020-12-11T09:23:17-05:00'
 draft: false
 title: "My RPGs of 2020"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/12/11/my-rpgs-of-2020/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I looked at all the RPGs I've played this year, trying to pick the one of them all that would be the best of the..."
+categories:
   - "CRPG"
   - "Nintendo Switch"
   - "PS4"
   - "PS5"
   - "Steam Games"
   - "Visual Novel"
+tags:
   - "Assassin's Creed"
   - "Banner of the Maid"
   - "Chocobo Mystery Dungeon"
@@ -46,22 +31,15 @@ tags:
   - "Three Houses"
   - "Valhalla"
   - "Zero Escape"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506204657.jpg"
 ---
+I looked at all the RPGs I've played this year, trying to pick the one of them all that would be the best of the...
+<!--more-->
 
 I looked at all the RPGs I've played this year, trying to pick the one of them all that would be the best of the year. Several stood out, but I couldn't pick just one. I guess if there were a game that I felt worth spending hours of my life playing, that proved its quality, maybe?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Outer-Wilds_20201211065927-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Outer-Wilds_20201211065927-1024x576.jpg" classes="center" >}}
 
 ## Outer Wilds (PS4; finished January 26)
 
@@ -71,7 +49,7 @@ Loop after loop, you learn more about the people of this world, the civilization
 
 I loved this game until I didn't. I can't really explain why without spoiling the game, but that screenshot holds a clue.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Zero-Escape-1-e1490391096267-696x404-1.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Zero-Escape-1-e1490391096267-696x404-1.jpg" classes="center" >}}
 
 ## The Nonary Games (PS4; finished February 14) and Zero Time Dilemma (PS4; finished March 7)
 
@@ -81,7 +59,7 @@ These games are just plain fun. I really enjoyed trying to figure out the puzzle
 
 The connections between all three games are subtle and shocking.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/2020031817210300-0DC6ECE91CF3F6F02BAFC002E3FFBAAD-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/2020031817210300-0DC6ECE91CF3F6F02BAFC002E3FFBAAD-1024x576.jpg" classes="center" >}}
 
 ## Fire Emblem: Three Houses (Switch; finished March 21)
 
@@ -91,7 +69,7 @@ This combination of visual novel, dating sim, and tactical RPG scratched so many
 
 This would be an easy pick for my "game of the year", except for all the games that were yet to come. When I finished this, we had just entered lockdown. We had no idea how long it would last... here at the end of the year, we're still in lockdown and the pandemic is worse than ever.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/2020041021441000-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/2020041021441000-93C1C73A3BAF9123A15B9B24886B634B-1024x576.jpg" classes="center" >}}
 
 ## Octopath Traveler (Switch; finished April 29)
 
@@ -101,7 +79,7 @@ In Octopath Traveler, you switch between the stories of eight characters from ve
 
 The stories are unique; the bosses are incredible; the abilities of the characters range from standard to insane; this is a game that has surprising depths and will keep any JRPG fan happy. It sure made me smile. Especially after I beat the final boss.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506203848-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Chocobos-Mystery-Dungeon-EVERY-BUDDY_20200506203848-1024x576.jpg" classes="center" >}}
 
 ## Chocobo's Mystery Dungeon EVERY BUDDY! (PS4; finished July 8)
 
@@ -115,7 +93,7 @@ The game's real depth (and I mean that literally) opens up when the main plot en
 
 A really fun game that can be played for a few minutes here and there or for days. One of the dungeons is literally endless. (Spoiler alert: It actually repeats every 500 levels...)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Ghost-of-Tsushima_20200726104020-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Ghost-of-Tsushima_20200726104020-1024x576.jpg" classes="center" >}}
 
 ## Ghost of Tsushima (PS4; finished July 29)
 
@@ -127,7 +105,7 @@ The plot is intense. The landscapes are beautiful. The fighting is fluid and sat
 
 This game is long enough to feel satisfying, but does not outstay its welcome.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/2020091313221700-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/2020091313221700-6E70575A2F28D56E573EC0C8FC82FD05-1024x576.jpg" classes="center" >}}
 
 ## Banner of the Maid (Switch; finished September 20)
 
@@ -137,7 +115,7 @@ Like many Asian tactical RPGs, the game switches between visual novel scenes set
 
 The plot of the visual novel portion is bonkers, but in a good way. The characters are all voiced (that's good!) but in Mandarin (that's crazy!). There are not many upgrades or choices to be made, making this one of the most straightforward tactical RPGs I've played.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/risetomb.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/risetomb.jpg" classes="center" >}}
 
 ## Rise of the Tomb Raider (PS4; finished September 23)
 
@@ -147,7 +125,7 @@ This second entry in the rebooted Tomb Raider series has Lara Croft following ne
 
 I really don't have much to say about this. At this stage, the Tomb Raider series is just sleepwalking through the motions, shackled to a formula by its protagonist. Coming so soon, for me, after the similar but much better Ghost of Tsushima, it failed to leave much of an impression.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/amalurfate-1024x576.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/amalurfate-1024x576.png" classes="center" >}}
 
 ## Kingdoms of Amalur: Re-Reckoning (Steam; finished October 3)
 
@@ -159,11 +137,11 @@ And it was... and is... okay. It's a decent game with a fairly robust skill syst
 
 I hadn't played the game all the way through when it came out, even though I tried twice. It just wasn't compelling. I've made myself a promise this year to finish the games I start, and so I kept at this one. The final chapter is amazing. It's just too bad very few players will stay long enough to see it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/Assassins-Creed®-Valhalla_20201123200338-1024x576.jpg" title="Assassin's Creed® Valhalla_20201123200338" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/Assassins-Creed®-Valhalla_20201123200338-1024x576.jpg" title="Assassin's Creed® Valhalla_20201123200338" classes="center" >}}
 
 ## Assassins Creed Valhalla (PS5; finished December 5)
 
-I just finished this game and made [a huge writeup](https://chasingdings.com/2020/12/05/assassins-creed-valhalla-my-first-creed-no-spoilers/) which is still on my front page, so I'm not going to get into depth here. I needed a new game to show off my new PlayStation 5, and of all the launch titles, I chose this one. I have no regrets.
+I just finished this game and made [a huge writeup](https://tipa16384.github.io/wkblog/2020/12/05/assassins-creed-valhalla-my-first-creed-no-spoilers/) which is still on my front page, so I'm not going to get into depth here. I needed a new game to show off my new PlayStation 5, and of all the launch titles, I chose this one. I have no regrets.
 
 I hadn't played an Assassins Creed game for any length of time before. My previous one was Black Flag, said by many to be the peak of pre-Valhalla Creeds. Since then, the series has become a more standard open world RPG, to such an extent that I was continually reminded of Rise of the Tomb Raider, Ghost of Tsushima and Red Dead Redemption 2.
 

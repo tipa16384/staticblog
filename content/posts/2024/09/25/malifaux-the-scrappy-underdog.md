@@ -3,40 +3,18 @@ date: '2024-09-25T07:00:00-05:00'
 draft: false
 title: "Malifaux: The Scrappy Underdog"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/09/25/malifaux-the-scrappy-underdog/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It was my final league game ahead of the tournament. I've learned a few lessons that may help me the day of."
-description: "It was my final league game ahead of the tournament. I've learned a few lessons that may help me the day of."
-tags:
+categories:
   - "Malifaux"
   - "Strategy"
   - "Tabletop Games"
+tags:
   - "The Battle Standard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/league3.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/09/league3.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/league3.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/league3.png"
 ---
+It was my final league game ahead of the tournament. I've learned a few lessons that may help me the day of.
+<!--more-->
 
 Malifaux's an easy game to understand. You're the head of a gang that all have something in common -- they call that a faction and a keyword. You have a job to do -- that's called the strategy. And while you're out doing that job, maybe there's a couple other things you want to do. Those are called schemes. You hire a crew, you choose schemes from a pool, and work against another crew to complete a strategy. It's simple.
 

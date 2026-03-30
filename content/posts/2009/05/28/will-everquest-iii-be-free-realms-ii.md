@@ -3,42 +3,20 @@ date: '2009-05-28T07:01:20-05:00'
 draft: false
 title: "Will EverQuest III be Free Realms II?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/28/will-everquest-iii-be-free-realms-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "No, I don't (to answer people on Twitter) actually know anything about EverQuest III. I don't even know if it exists. And in this NDA-loving..."
+categories:
   - "EverQuest"
   - "Free Realms"
   - "MMORPG"
+tags:
   - "Eq3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5282009-65906-am.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5282009-65906-am.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-5282009-65906-am.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-5282009-65906-am.jpg"
 ---
+No, I don't (to answer people on Twitter) actually know anything about EverQuest III. I don't even know if it exists. And in this NDA-loving...
+<!--more-->
 
-![fullscreen-capture-5282009-65906-am](https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5282009-65906-am.jpg "fullscreen-capture-5282009-65906-am")
+
 
 No, I don't (to answer people on Twitter) actually know anything about EverQuest III. I don't even know if it exists. And in this NDA-loving age, if I knew anything, I couldn't write about it. Isn't it grand that the only time someone can write about something these days is if they know nothing about it?
 

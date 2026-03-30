@@ -3,24 +3,8 @@ date: '2009-08-27T07:51:35-05:00'
 draft: false
 title: "Daily Blogroll 8/27 -- Curioser and curioser edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/27/daily-blogroll-827-curioser-and-curioser-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Started on the second tier of Grizzleheim last night. The Virgil Roughlands (level 25+) are a pretty significant step up from Svarstaad Pass. Even two..."
+categories:
   - "Age of Conan"
   - "Aion"
   - "Champions Online"
@@ -28,20 +12,13 @@ tags:
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/w101alice.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/w101alice.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/w101alice.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/w101alice.jpg"
 ---
+Started on the second tier of Grizzleheim last night. The Virgil Roughlands (level 25+) are a pretty significant step up from Svarstaad Pass. Even two...
+<!--more-->
 
-![Alice in Wizardland](https://chasingdings.com/wp-content/uploads/2009/08/w101alice.jpg "Alice in Wizardland")
+
 
 Started on the second tier of Grizzleheim last night. The Virgil Roughlands (level 25+) are a pretty significant step up from Svarstaad Pass. Even two boxing, I had to choose my cards with a lot more care than almost any challenge in recently-completed Krokotopia. At levels 27 and 32, my two-box team is as closely matched as they have ever been. Thankfully, Marissa now has the (yucky) Humongofrog to match up with Allison's Sandstorm for mass monstery death.
 

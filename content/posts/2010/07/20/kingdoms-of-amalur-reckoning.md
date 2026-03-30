@@ -3,39 +3,18 @@ date: '2010-07-20T05:55:49-05:00'
 draft: false
 title: "Kingdoms of Amalur: Reckoning"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/20/kingdoms-of-amalur-reckoning/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/reckoning719x-large.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/reckoning719x-large.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/reckoning719x-large.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/reckoning719x-large.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/reckoning719x-large.jpg "The KOA:R poster.")](https://chasingdings.com/wp-content/uploads/2010/07/reckoning719x-large.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/07/reckoning719x-large.jpg)
 
 (This game will absolutely hook me if it becomes the first game to ever look anything like its concept art. Alas.)
 

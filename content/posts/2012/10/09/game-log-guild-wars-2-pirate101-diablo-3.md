@@ -3,39 +3,16 @@ date: '2012-10-09T23:38:18-05:00'
 draft: false
 title: "Game Log: Guild Wars 2, Pirate101, Diablo 3"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/09/game-log-guild-wars-2-pirate101-diablo-3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I didn't get to all my games today, but I made good progress on the ones I did play...."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-09-23-35-43-68-480x282.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-09-23-35-43-68-480x282.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-09-23-35-43-68-480x282.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-09-23-35-43-68-480x282.jpg"
 ---
+I didn't get to all my games today, but I made good progress on the ones I did play....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-09-23-35-43-68-480x282.jpg" title="Guild Wars 2" class="align-center" >}}
+
 
 I didn't get to all my games today, but I made good progress on the ones I did play.
 
@@ -53,7 +30,7 @@ So close. But done with that bit.
 
 The problem? We're guessing not enough power.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-09-20-33-00-56-480x359.jpg" title="Pirate101" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-09-20-33-00-56-480x359.jpg" title="Pirate101" classes="center" >}}
 
 Still adventuring through the first zone in Pirate101, but I'm soon to meet the Frogfather. Once he's defeated, it's off to the Spanish-themed monkey zone. But we're not there yet.
 
@@ -69,7 +46,7 @@ In Wizard101, I typically ran two players at once, and sometimes three. I don't 
 
 Haven't found the auction house yet, and I have something I need to auction, too. Probably passed it a hundred times and just not seen it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-09-22-38-02-22-480x384.jpg" title="Diablo 3" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-09-22-38-02-22-480x384.jpg" title="Diablo 3" classes="center" >}}
 
 When I logged in to Diablo 3, Spode was farming gold to pay for repairs to his high level character's armor. His high level character is stuck in Act II of Inferno, unable to get past the Khule fight. He might have been better off going back to Act I Inferno to farm, but whatever. I couldn't join in, as my group character is already perilously close to level 39, and I might want to do a Whimsyshire run this week.
 
@@ -79,4 +56,4 @@ Still haven't managed to pass the million gold boundary; occasionally an upgrade
 
 So, Torchlight 2 and FTL will have to wait for another day. I'm kinda wanting to get in Pirate101 past where I left off in Alpha before I back off on the pace.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-04-25-20-24-49-21-480x384.jpg" title="Monquista" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-04-25-20-24-49-21-480x384.jpg" title="Monquista" classes="center" >}}

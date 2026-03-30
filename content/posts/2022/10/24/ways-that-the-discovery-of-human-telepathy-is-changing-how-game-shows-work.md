@@ -3,40 +3,18 @@ date: '2022-10-24T11:06:30-05:00'
 draft: false
 title: "Ways that the discovery of human telepathy is changing how game shows work"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/10/24/ways-that-the-discovery-of-human-telepathy-is-changing-how-game-shows-work/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I just thought this was funny. I asked GPT-3 for some help :-)"
-description: "I just thought this was funny. I asked GPT-3 for some help :-)"
-tags:
+categories:
   - "Humor"
+tags:
   - "Dall-E 2"
   - "Game Shows"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/10/DALL·E-2022-10-24-11.01.32-On-set-well-lit-photograph-of-a-game-show-host-holding-an-index-card-with-a-worried-expression-on-his-face.-In-the-background-is-the-game-show-set.-Sl.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/10/DALL·E-2022-10-24-11.01.32-On-set-well-lit-photograph-of-a-game-show-host-holding-an-index-card-with-a-worried-expression-on-his-face.-In-the-background-is-the-game-show-set.-Sl.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/DALL·E-2022-10-24-11.01.32-On-set-well-lit-photograph-of-a-game-show-host-holding-an-index-card-with-a-worried-expression-on-his-face.-In-the-background-is-the-game-show-set.-Sl.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/10/DALL·E-2022-10-24-11.01.32-On-set-well-lit-photograph-of-a-game-show-host-holding-an-index-card-with-a-worried-expression-on-his-face.-In-the-background-is-the-game-show-set.-Sl.png"
 ---
+I just thought this was funny. I asked GPT-3 for some help :-)
+<!--more-->
 
 Ways that the discovery of human telepathy is changing how game shows work:
 

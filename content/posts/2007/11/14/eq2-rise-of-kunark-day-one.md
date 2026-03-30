@@ -3,40 +3,17 @@ date: '2007-11-14T08:28:16-05:00'
 draft: false
 title: "EQ2: Rise of Kunark, Day One"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/14/eq2-rise-of-kunark-day-one/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Things I accomplished: Leveled to 71, got my Sokokar, got to \"amiable\" with the Followers of Teren, 103 AAs, explored all of Karnor's Castle and..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-06-13-39-29.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-06-13-39-29.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-06-13-39-29.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-06-13-39-29.jpg"
 ---
+Things I accomplished: Leveled to 71, got my Sokokar, got to "amiable" with the Followers of Teren, 103 AAs, explored all of Karnor's Castle and...
+<!--more-->
 
-![eq2 dina sokokar docks](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-06-13-39-29.jpg)
+
 
 Things I accomplished: Leveled to 71, got my Sokokar, got to "amiable" with the Followers of Teren, 103 AAs, explored all of Karnor's Castle and killed its commander (for no reward), made a server discovery on a tradeskill book, got the new EQ2Maps and ProfitUI running.
 
@@ -52,7 +29,7 @@ I got in game, called back to Freeport from where I'd camped outside Freethinker
 
 My maps were broken; I'd ripped the ProfitUI out of my machine and after that pretty much nothing worked, so I had no idea where the group was (turns out they were up at Teren's Grasp). So while waiting for them to get back to where I could see them, I started on the Sokokar quest. I'd grinded through about half the drolvargs I needed when the rest of the group arrived and we entered Karnor's Castle.
 
-![eq2 karnor’s castle raid zone](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-13-20-06-06-14.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-13-20-06-06-14.jpg" classes="center" >}}
 
 I'm the little Billy doll -- that illusion is one of the Four Year Veteran rewards, along with three experience potions (I used one) and some house stuff. I don't think I got my Burynai pet, though. I got a droag plushie, some massive bench, and a treasure chest that cuts my rent by 25%, but.... no Burynai to find shinies in my house!
 
@@ -64,7 +41,7 @@ We moved in, went through the Drolvarg Captain, Left Courtyard and Skeletal Capt
 
 The zone was fun and filled with memories, but the experience? Not so great, even with drinking an experience potion. Doing quests was far more rewarding, so we left KC to get our Sokokars and work on some of the Teren faction quests.
 
-![eq2 dina sokokar flying](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-01-19-40-75.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-01-19-40-75.jpg" classes="center" >}}
 
 I love my Sokokar :)
 
@@ -76,4 +53,4 @@ Bad points: Group experience in KC was pretty crappy anywhere near the zone. The
 
 All in all, though, a great experience so far, a fantastic expansion, and I'm looking forward to seeing Wuoshi dead in a couple of levels...
 
-![eq2 dina ding 71](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-14-00-12-54-17.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-14-00-12-54-17.jpg" classes="center" >}}

@@ -3,47 +3,23 @@ date: '2008-08-02T11:48:12-05:00'
 draft: false
 title: "EQ: The Last Dragons"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/02/eq-the-last-dragons/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Come Hell or high water, we were going to start leveling again after last night's dragon raids. Everyone has been getting antsy about perpetually staying..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Crypt of Nadox"
   - "Icewind"
   - "Lady Vox"
   - "Lord Nagafen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg"
 ---
+Come Hell or high water, we were going to start leveling again after last night's dragon raids. Everyone has been getting antsy about perpetually staying...
+<!--more-->
 
 Come Hell or high water, we were going to start leveling again after last night's dragon raids. Everyone has been getting antsy about perpetually staying at level 52 solely to farm the dragons. Last night, we killed them both, and have killed each of them three times. Nostalgia the Guild has gone back in time nine years to when mega guilds used to roam the world, throwing themselves against the greatest monsters of the age. But now, we're moving on to EverQuest's first expansion. Next week: Veksar, the city hidden beneath the smoothly lapping waves of the Lake of Ill Omen. Nostalgians, remember that for the next two weeks, we're meeting on Thursday instead of Friday. And that the new level cap is 55.
-
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-01-20-57-03-54.jpg "eqgame-2008-08-01-20-57-03-54")
 
 First up, Lord Nagafen. We had a fantastic turnout, but, unfortunately, were gnome-less :(. Soaridor had transferred his monk, Sisca, over (along with a lot of very nice arrows -- THANKS!), so we had a puller once again. First pull was a disaster in slow motion. First came the two giants in the room. And then Magus Rokyl decided to join in. And then Warlord Skarlon and HIS friend join in (!!). And then, NAGGY. Okay, I was very nearly almost laughing. We got the first two giants dead and Rokyl most of the way there before the last of us died.
 
@@ -65,7 +41,7 @@ We didn't get one. Naggy is being stingy. Someone asked if that meant we were co
 
 [Torn, burnt book](http://lucy.allakhazam.com/item.html?id=19071) -- rot.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-01-21-32-42-20.jpg "eqgame-2008-08-01-21-32-42-20")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-01-21-32-42-20.jpg" title="eqgame-2008-08-01-21-32-42-20" classes="center" >}}
 
 With Naggy dead, his love Vox would be pining away. She needed to be killed just to set her soul at rest. It would just be cruel to leave her alive, really.
 

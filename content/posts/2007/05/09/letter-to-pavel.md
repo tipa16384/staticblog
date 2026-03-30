@@ -3,39 +3,16 @@ date: '2007-05-09T19:34:25-05:00'
 draft: false
 title: "Letter to Pavel"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/05/09/letter-to-pavel/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Pavel of PCZone left a comment asking some questions about my MMO history. Usually, such surveys carry the subtext that the recipient is a pathetic..."
+categories:
   - "MMORPG"
-featured_image: "http://img.photobucket.com/albums/v134/bholloway/tipanew.gif"
-cover:
-  image: "http://img.photobucket.com/albums/v134/bholloway/tipanew.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://img.photobucket.com/albums/v134/bholloway/tipanew.gif"
+thumbnailImage: "http://img.photobucket.com/albums/v134/bholloway/tipanew.gif"
 ---
+Pavel of PCZone left a comment asking some questions about my MMO history. Usually, such surveys carry the subtext that the recipient is a pathetic...
+<!--more-->
 
-![](http://img.photobucket.com/albums/v134/bholloway/tipanew.gif)
+
 
 Pavel of PCZone left a comment asking some questions about my MMO history. Usually, such surveys carry the subtext that the recipient is a pathetic loser who nonetheless is part of a particularly disturbing part of nerd-dom that would be just the thing to chuckle over in some anonymous undergrad sociology class. And they should, when filling out the survey, include any really juicy bits. Answers that are also cries for help are the funniest!
 
@@ -59,11 +36,11 @@ So... I've been playing MMOs since the early 80s. Those early efforts led sidewa
 
 How long do I play each week? Less than I used to. But I would guess twenty hours wouldn't be far off.
 
-![vox.jpg](https://chasingdings.com/wp-content/uploads/2007/05/vox.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/vox.jpg" classes="center" >}}
 
 My first raid - Lady Vox in Permafrost
 
-![vox2.jpg](https://chasingdings.com/wp-content/uploads/2007/05/vox2.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/vox2.jpg" classes="center" >}}
 
 It didn't go so well.
 
@@ -81,7 +58,7 @@ She had a sister, a warrior, named Nina. Nina Tanglewood was everything Etha was
 
 That's where "I" come in :) Raised by my Aunt Etha to be a good hobbit, and hardly ever seeing my warrior mother, I nonetheless struck out on my own at a very early age. Sneaking around Runnyeye or Befallen, only happy when I was somewhere I wasn't supposed to be.
 
-![hate.jpg](https://chasingdings.com/wp-content/uploads/2007/05/hate.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/hate.jpg" classes="center" >}}
 
 The Plane of Hate
 
@@ -97,7 +74,7 @@ The monsters of the Plane of Hate... well, most of them see through Hide, but so
 
 Grabbing the book and clicking the gate to west commonlands spell my hat carried was the high point. I'd passed through the rogue Rite of Passage and risked it all on a test of skill.
 
-![tanglewoods.gif](https://chasingdings.com/wp-content/uploads/2007/05/tanglewoods.gif)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/tanglewoods.gif" classes="center" >}}
 
 Etha, Tipa, Nina and Dera Tanglewood
 

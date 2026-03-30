@@ -3,42 +3,19 @@ date: '2009-09-30T18:55:21-05:00'
 draft: false
 title: "EVE Online: PvP ops fallout"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/09/30/eve-online-pvp-ops-fallout/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last night, a \"rogue group\" of us OtakuDyne types headed to lowsec for some ratting fun, and ended up going to nullsec to rat, and..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-08-20-34-50-99.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-08-20-34-50-99.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-08-20-34-50-99.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/09/ExeFile-2009-09-08-20-34-50-99.jpg"
 ---
+Last night, a "rogue group" of us OtakuDyne types headed to lowsec for some ratting fun, and ended up going to nullsec to rat, and...
+<!--more-->
 
-![C beams on fire off the shoulder of Orion](https://chasingdings.com/wp-content/uploads/2009/09/ExeFile-2009-09-08-20-34-50-99.jpg "C beams on fire off the shoulder of Orion")
 
-Last night, a "rogue group" of us OtakuDyne types [headed to lowsec for some ratting fun](https://chasingdings.com/index.php/2009/09/29/eve-online-first-pvp-ops/), and ended up going to nullsec to rat, and taking on some players we found. We killed our fellow ratters, and then their friends killed us.
+
+Last night, a "rogue group" of us OtakuDyne types [headed to lowsec for some ratting fun](https://tipa16384.github.io/wkblog/index.php/2009/09/29/eve-online-first-pvp-ops/), and ended up going to nullsec to rat, and taking on some players we found. We killed our fellow ratters, and then their friends killed us.
 
 Was that all there was to it?
 

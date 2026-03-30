@@ -3,38 +3,13 @@ date: '2014-12-31T21:01:29-05:00'
 draft: false
 title: "Valkyria Chronicles: Battle of Barious Desert done."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/12/31/valkyria-chronicles-battle-of-barious-desert-done-ive-been-working-on-this-one-for-a-couple-of-days/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[gallery ids=\"11321,11320,11317,11318,11319,11315,11316\"]..."
+categories:
   - "Other Games"
   - "Valkyria Chronicles"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+[gallery ids="11321,11320,11317,11318,11319,11315,11316"]...
+<!--more-->
 
 [gallery ids="11321,11320,11317,11318,11319,11315,11316"]
 

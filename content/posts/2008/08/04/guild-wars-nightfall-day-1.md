@@ -3,43 +3,21 @@ date: '2008-08-04T07:50:19-05:00'
 draft: false
 title: "Guild Wars: Nightfall, Day 1"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/04/guild-wars-nightfall-day-1/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In search of... Ancient Erudites......"
+categories:
   - "Dungeon Siege"
   - "Guild Wars"
   - "MMORPG"
+tags:
   - "Dungeon Siege Ii"
   - "Nightfall"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-03-23-28-32-61.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-03-23-28-32-61.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-03-23-28-32-61.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-03-23-28-32-61.jpg"
 ---
+In search of... Ancient Erudites......
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-03-23-28-32-61.jpg "gw-2008-08-03-23-28-32-61")
+
 
 *In search of... Ancient Erudites...*
 
@@ -49,7 +27,7 @@ So, first day. I started off as a Mesmer, not knowing really what the class did 
 
 I chose Ranger as my secondary class, because of Franz Mesmer, the scientist who discovered "animal magnetism" (later called Mesmerization, and even later, Hypnosis). So it just seemed proper that I have an animal companion.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-04-06-44-58-38.jpg "gw-2008-08-04-06-44-58-38")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-04-06-44-58-38.jpg" title="gw-2008-08-04-06-44-58-38" classes="center" >}}
 
 When I looked up my build (Me/R) on various Guild Wars sites, it wasn't listed at all. Those two classes don't work well together. But, they suggested, a Mesmer can do quite well without worrying about their secondary class. Push points into Domination so stuff hurts a LOT, and into Inspiration to regain some health and energy, and you'll make your mark.
 
@@ -65,7 +43,7 @@ The wilderness zones are full of side quests so that you never find yourself set
 
 The moment he leaves, the lizard-like Skale decide to attack. Wave after wave after wave of scaley awesomeness. I still haven't survived that encounter. But combined with a Skale bounty buff, it's excellent xp and rank, until I die, anyway. There is a sort of debuff you get when dying, but since it's entirely cleared by just popping into the nearest town or outpost, it really only gets annoying when you're deep into a zone and you don't want to have to fight through all those monsters again.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/gw-2008-08-03-21-44-24-55.jpg "gw-2008-08-03-21-44-24-55")There is a main plot to the game, which you pick up as you gain rank. Some evil queen wants to rule the world, and she wants the Sunspears out of the picture before the astronomical event known as Nightfall. Isaac Asimov once wrote a story about a planet with five suns, and once in several thousand years, they'd all end up on the wrong side of the planet and night would come and the stars would come out and civilization would collapse. I don't know if the GW Nightfall has anything to do with that. But they seem to just have the one sun. My best guess: an eclipse. Anyway, the first mission -- which can be repeated for better scores -- was to save a village from invasion. I did that with all mission objectives completed. The second mission was to delve into some ancient ruins, solve various puzzles, be under continuous attack and take down the monster Apocrypha, who, it turns out, was the only thing keeping the undead from invading the land (oops). One secondary objective was to not kill any Sunspear ghosts, but temporary-ally Koromir, local head of the Sunspears, didn't get the memo and attacked every one she saw. After the first one, I found you could just run away from them and Koromir would give up on it after awhile to follow. So I need to return and redo that one. These missions are full of cut scenes and remind me very much of the similar plotline missions in Final Fantasy XI Online.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/gw-2008-08-03-21-44-24-55.jpg" title="gw-2008-08-03-21-44-24-55" classes="center" >}}There is a main plot to the game, which you pick up as you gain rank. Some evil queen wants to rule the world, and she wants the Sunspears out of the picture before the astronomical event known as Nightfall. Isaac Asimov once wrote a story about a planet with five suns, and once in several thousand years, they'd all end up on the wrong side of the planet and night would come and the stars would come out and civilization would collapse. I don't know if the GW Nightfall has anything to do with that. But they seem to just have the one sun. My best guess: an eclipse. Anyway, the first mission -- which can be repeated for better scores -- was to save a village from invasion. I did that with all mission objectives completed. The second mission was to delve into some ancient ruins, solve various puzzles, be under continuous attack and take down the monster Apocrypha, who, it turns out, was the only thing keeping the undead from invading the land (oops). One secondary objective was to not kill any Sunspear ghosts, but temporary-ally Koromir, local head of the Sunspears, didn't get the memo and attacked every one she saw. After the first one, I found you could just run away from them and Koromir would give up on it after awhile to follow. So I need to return and redo that one. These missions are full of cut scenes and remind me very much of the similar plotline missions in Final Fantasy XI Online.
 
 Crafting is pretty complex, given you don't do it yourself. You bring raw materials, which can be found, bought, or salvaged from trash loot. One of the first things I did was change into a nicer looking outfit. Most stuff can have "inscriptions", which give some benefit to the armor or the weapon. You can remove the inscriptions from items that have them, giving the occasional piece of trash loot a value it otherwise wouldn't have. You can further supplement certain items with runes, so pretty much everything you (or your heroes) use or wear will eventually be specific to you and your needs.
 

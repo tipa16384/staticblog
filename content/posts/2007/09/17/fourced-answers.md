@@ -3,37 +3,12 @@ date: '2007-09-17T23:49:57-05:00'
 draft: false
 title: "Fourced Answers"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/09/17/fourced-answers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Gaff at Trot Line tagged me with this latest meme :) I can't think of anyone to pass it too, so it ends here, but..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Gaff at Trot Line tagged me with this latest meme :) I can't think of anyone to pass it too, so it ends here, but...
+<!--more-->
 
 Gaff at [Trot Line](http://gaff.wordpress.com/2007/09/16/me-cubed/) tagged me with this latest meme :) I can't think of anyone to pass it too, so it ends here, but here's mine anyway.
 

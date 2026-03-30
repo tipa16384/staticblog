@@ -3,48 +3,26 @@ date: '2021-01-10T18:01:14-05:00'
 draft: false
 title: "EXAPUNKS Finished! Here's my solutions..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/01/10/exapunks-finished-heres-my-solutions/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Okay, I have been working on EXAPUNKS the last few weekends, and dreaming about it most nights. But I'm done with the main plot; got..."
+categories:
   - "Puzzle Games"
   - "Steam Games"
+tags:
   - "Exapunks"
   - "Puzzle"
   - "Steam"
   - "Zachtronics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/01/exaepilogue.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/01/exaepilogue.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/exaepilogue.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/01/exaepilogue.jpg"
 ---
+Okay, I have been working on EXAPUNKS the last few weekends, and dreaming about it most nights. But I'm done with the main plot; got...
+<!--more-->
 
 Okay, I have been working on EXAPUNKS the last few weekends, and *dreaming* about it most nights. But I'm done with the main plot; got the achievement for proof, and I'm going to exorcise the game by writing down how I solved each puzzle.
 
 First, some of my solutions are optimal, some are terrible, most fall somewhere in between. The first rule of programming is to get *something* working. Once you have an implementation, then you can go back and refactor; many times, your first pass is good enough. My boss used to tell me not to let the perfect be the enemy of the good; a good solution that produces the desired results is better than a perfect solution that is never finished. You'll see what I mean by that when I get to some of my solutions.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Euclids-Pizza-23-13-1-2020-12-29-23-12-41.gif" title="Euclid's Pizza (Order System)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Euclids-Pizza-23-13-1-2020-12-29-23-12-41.gif" title="Euclid's Pizza (Order System)" classes="center" >}}
 
 After each puzzle, you can choose to make a GIF of your solution. It shows in a general way how your solution works, and how many cycles it took in the worst case (so, how fast your solution is), the size, in instructions, and the number of times an EXA crossed from one host to another. Most solutions won't be perfect for every area. For instance, in this puzzle, I was able to get the cycles down to 13 by unrolling the two loops, but it increased the size slightly.
 
@@ -52,7 +30,7 @@ This solution used two EXAS, one to read the pizza order and the other to jump i
 
 There is an achievement for sending an EXA into host 805 and cycling the power.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Mitsuzen-HDI-10-244-22-6-2020-12-29-23-23-16.gif" title="Mitsuzen HDI-10 (Left Arm)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Mitsuzen-HDI-10-244-22-6-2020-12-29-23-23-16.gif" title="Mitsuzen HDI-10 (Left Arm)" classes="center" >}}
 
 The framing plot for EXAPUNKS is that the main character, Moss, has been infected with a disease called "the Phage", that slowly transforms nerves into digital circuits. This is always fatal. The Mitsuzen puzzles all deal with you writing programs to rebuild the connections between your bio parts and your new mech parts.
 
@@ -60,13 +38,13 @@ In this, XA stays home and bounds checks the values coming from the #NERV, and c
 
 If only all the puzzles would be this easy...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Last-Stop-SNAXNET-29-11-2-2020-12-29-23-45-13.gif" title="Last Stop Snaxnet (Factory 11)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Last-Stop-SNAXNET-29-11-2-2020-12-29-23-45-13.gif" title="Last Stop Snaxnet (Factory 11)" classes="center" >}}
 
 The repercussions of this hack will shake the world, as you go into the Peanut Blast ovens to remove the peanuts from their signature snacks.
 
 This puzzle asks you to look for, and remove, the word "PEANUTS" in the ingredient list. Since the EXA language doesn't have string literals, you have to read the word into the X register before moving into the assembly line. The GIF shows a solution using two EXAs, but it can be done with one. Not sure why I used two.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Zebros-Copies-74-30-4-2020-12-30-00-14-50.gif" title="Zebros Copies (Point-of-Sale System)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Zebros-Copies-74-30-4-2020-12-30-00-14-50.gif" title="Zebros Copies (Point-of-Sale System)" classes="center" >}}
 
 This puzzle requires some careful communication between EXAS, and is the first time it's become important to know if we're sharing information globally, anyone can talk to anyone, or locally, only EXAS in the same host can talk.
 
@@ -74,17 +52,17 @@ One EXA runs immediately to the host with the #DATE and writes it to the global 
 
 There is an achievement for making all the copy machines continually copy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-SFCTA-Highway-Sign-4902-164-13-1-2020-12-30-07-43-05.gif" title="SFCTA Highway Sign #4902 (Remote Access Interface)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-SFCTA-Highway-Sign-4902-164-13-1-2020-12-30-07-43-05.gif" title="SFCTA Highway Sign #4902 (Remote Access Interface)" classes="center" >}}
 
 One EXA reads the characters, the second EXA writes them. The second EXA is iterating the characters in the X register, then used the SWIZ command to set the row and column to place the character. Usually, a programmer would use the DIV and MOD operators to get this information, but might as well get familiar with the SWIZ command (which extracts and reformats individual digits of a value). We'll be using it more later.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-UNKNOWN-NETWORK-1-30-19-27-2020-12-30-12-51-46.gif" title="Unknown Network 1 (Unknown Context)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-UNKNOWN-NETWORK-1-30-19-27-2020-12-30-12-51-46.gif" title="Unknown Network 1 (Unknown Context)" classes="center" >}}
 
 This is our first adventure into hacking a Russian network. We'll be seeing it again a few times. This puzzle uses replication to track down a file in the leaf node of this binary tree -- the final puzzle of the main game is topologically similar to this. At each node, each EXA makes two copies of itself, one that will jump to link 800 and one to jump to link 801. It then attempts to kill a foreign EXA in its node, grab the file it was holding, then  link backward to the starting host.
 
 If any of the EXAs fail at linking or file grabbing, they terminate, so only the one EXA that can succeed at all those things lives until the end. EXAs that die drop whatever they're holding, so there's no need to explicitly drop the file in the home host.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-UC-Berkeley-146-35-7-2020-12-30-13-20-57.gif" title="UC Berkeley (EECS Department)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-UC-Berkeley-146-35-7-2020-12-30-13-20-57.gif" title="UC Berkeley (EECS Department)" classes="center" >}}
 
 Universities really want games off their mainframes, and Berkeley is no exception. You're sure you can hunt one down.
 
@@ -94,29 +72,29 @@ Once found, it checks the tape for the location of the record named the second s
 
 Clearing this puzzle unlocks "пасьянс" -- solitaire. There is an achievement for winning this once, and another for winning it a lot. I played it once. It's just Freecell Solitaire.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-WorkHouse-634-31-3-2020-12-30-15-57-42.gif" title="WorkHouse (Work Management System)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-WorkHouse-634-31-3-2020-12-30-15-57-42.gif" title="WorkHouse (Work Management System)" classes="center" >}}
 
 WorkHouse is a [Mechanical Turk](https://www.mturk.com/)-like job shop where people can do small tasks for small money. Your AI friend has been making some money on the side by doing these tasks, but has done too many, too fast, and your job is to run in there and make the pace seem more human-ish.
 
 EXA #1 reads the AI's "NORMALHUMAN" handle to the global channel. EXA #2 scans the user file for that ID and sends the file ID for the AI to EXA #3. EXA #3 sums up the values in the AI's file, then while that sum is > 75, writes "75" to the file, subtracts 75, and loops, finally writing the remainder. There will always be more new entries than old, so no worries about truncating the file.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Equity-First-Bank-3025-16-10-2020-12-30-16-11-13.gif" title="Equity First Bank (San Francisco)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Equity-First-Bank-3025-16-10-2020-12-30-16-11-13.gif" title="Equity First Bank (San Francisco)" classes="center" >}}
 
 Fairly straightforward. EXA jumps outside the ATM hosts, then replicates itself four times, and all five EXAs then go into their ATM, determine how many twenties the machine holds, then dispenses them all.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Mitsuzen-HDI-10-109-30-7-2020-12-30-16-26-04.gif" title="Mitsuzen HDI-10 (Heart)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Mitsuzen-HDI-10-109-30-7-2020-12-30-16-26-04.gif" title="Mitsuzen HDI-10 (Heart)" classes="center" >}}
 
 We're back in the body again, this time trying to keep the heart going. Things aren't going well. Luckily, this is an easy one again. EXA #1 keeps reading from the CNS nerve. The 10s digit of this value is the number of rows to write, which is always at least 3. EXAs #2 and #3 head to their spots and write out the first two rows, which are always the same. Then they read, from the host, the number of additional rows to write, which again are always the same.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-TRASH-WORLD-NEWS-560-26-3-2020-12-30-19-56-55.gif" title="Trash World News (Unknown Context)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-TRASH-WORLD-NEWS-560-26-3-2020-12-30-19-56-55.gif" title="Trash World News (Unknown Context)" classes="center" >}}
 
 This puzzle replaces suspicious words in an e-mail with less-suspicious words. EXA #1 reads each old/new word pair and creates a new EXA to scan the e-mail and replace any match with the new word, and then exit. It goes through this process once for each word. EXA #1 then wipes its file and exits. A third EXA just carries a file from the central host to the outbox.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-KGOG-TV-mutex8021-2020-12-30-20-23-54.gif" title="KGOG-TV (Programming Hub)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-KGOG-TV-mutex8021-2020-12-30-20-23-54.gif" title="KGOG-TV (Programming Hub)" classes="center" >}}
 
 This is the first hacker battle we encounter. Mutex8021 isn't a very formidable opponent; he just drops two tapes into two VCRs and exits. One of our EXAs replicates to carry our tapes into the channels, while the other carries mutex's out again.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-TEC-Redshift™-5973-25-5-2020-12-30-21-11-59.gif" title="TEC RedShift (Development Kit)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-TEC-Redshift™-5973-25-5-2020-12-30-21-11-59.gif" title="TEC RedShift (Development Kit)" classes="center" >}}
 
 This is a brute force password hack. It just keeps counting upward from zero, using this SWIZ command to break the count into three digits. After each try, it replicates a new EXA to try and link to the locked host, send the successful password and the devkit ID from the file it finds.
 
@@ -124,23 +102,23 @@ A second EXA is sitting waiting for a communication from a successful entry. Whe
 
 This unlocks the RedShift Homebrew, which lets you make your own games if you are very, very patient. I made a Pong. It was painful. Actually it was just the paddles.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Digital-Library-Project-316-33-74-2020-12-30-23-17-12.gif" title="Digital Library Project (Patron Access System)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Digital-Library-Project-316-33-74-2020-12-30-23-17-12.gif" title="Digital Library Project (Patron Access System)" classes="center" >}}
 
 Fairly straightforward, again. Home EXA reads a list of codes that encode both the host that contains the desired book, and the file ID of that book. For each, it replicates a new EXA to go to that host. Once found, each of those EXAs replicates another EXA to make a new file containing the contents found. They talk a bit, all in LOCAL memory mode, then the copier EXA keeps linking back toward home until it can link no more, dropping its book at home.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-TEC-EXA-Blaster™-Modem-403-55-12-2020-12-31-18-04-09.gif" title="TEC EXA-Blaster Modem (Radio Stations)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-TEC-EXA-Blaster™-Modem-403-55-12-2020-12-31-18-04-09.gif" title="TEC EXA-Blaster Modem (Radio Stations)" classes="center" >}}
 
 I went through a few iterations on this one. EXA #1 grabs the file with phone numbers and continually dials numbers. EXA #2 copies the song title and artist from the other file into its registers, drops that, then moves into the dialer, continually replicating new EXAs that will jump into any new connection immediately, and then replicates yet another EXA to rewrite the file it finds there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Emersons-Guide-44-44-6-2020-12-31-18-26-10.gif" title="Emerson's Guide (StreetSmarts GIS Database)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Emersons-Guide-44-44-6-2020-12-31-18-26-10.gif" title="Emerson's Guide (StreetSmarts GIS Database)" classes="center" >}}
 
 This simple puzzle sets up a more complicated one later. The first EXA copies the name of a restaurant into the X register, then sends the relative grid coordinates of the file that contains the restaurant ratings to a second EXA. The second EXA travels to the location, scans to the correct entry, reads the string literal for a star ("*") into a register, then writes that four more times into the file, turning a one star rating into a five star rating. All the EXAs then die.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Valhalla-plastered-2020-12-31-19-24-59.gif" title="Valhalla (=plastered)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Valhalla-plastered-2020-12-31-19-24-59.gif" title="Valhalla (=plastered)" classes="center" >}}
 
 This is the second hacker battle. All the hosts are simply connected, and the opponent has only a single EXA that just races through all the hosts, claiming ownership of each one. Since ten EXAs are available, we just replicate an EXA at each host that just sits there and takes control back in a loop. Easy win.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Mitsuzen-HDI-10-140-53-334-2020-12-31-20-24-57.gif" title="Mitsuzen HDI-10 (Left Hand)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Mitsuzen-HDI-10-140-53-334-2020-12-31-20-24-57.gif" title="Mitsuzen HDI-10 (Left Hand)" classes="center" >}}
 
 Back to hacking our own body again. My solution was not optimal; too large, too much activity, but it worked. It's a little frustrating because I can see from the leader board that there's a better solution out there.
 
@@ -148,7 +126,7 @@ The problem is sending communications in a couple directions without crosstalk. 
 
 My solution sends an EXA to the transmitting host and that replicates a carrier to bring the value to the receiving host, where it dies. This continues forever.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Sawayama-WonderDisc-5824-53-91-2020-12-31-21-10-57.gif" title="Sawayama WonderDisc (Drive Controller)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Sawayama-WonderDisc-5824-53-91-2020-12-31-21-10-57.gif" title="Sawayama WonderDisc (Drive Controller)" classes="center" >}}
 
 This one is a filter that takes data and replaces any non-numeric data it comes across with the value from the file in the home host.
 
@@ -158,17 +136,17 @@ There is an achievement for killing the processor-sent EXA when it pops out to g
 
 Completing this unlocks the Hack Match minigame, a matching block puzzle. The instructions are in Japanese, but it's easy enough to figure it out from trial and error.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Alliance-Power-and-Light-45-31-44-2020-12-31-22-19-21.gif" title="Alliance Power and Light (StreetSmarts GIS Database)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Alliance-Power-and-Light-45-31-44-2020-12-31-22-19-21.gif" title="Alliance Power and Light (StreetSmarts GIS Database)" classes="center" >}}
 
 You're looking for two hosts, the names of which are in the file in the base. The plan is to go to the upper left corner, and then replicate two EXAs, one for each host, that will self-replicate copies going east and south, then check to see if their host is the one they need. Turning off the power to that host immediately will prevent the other EXA from searching through it for the other host, so both EXAs, when they find their host, wait for a signal from the main that tells them it is okay to turn off the power.
 
 Turning off the power of all cells triggers an achievement.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Deadlocks-Domain-deadlock-2020-12-31-22-41-08.gif" title="Deadlock's Domain (deadlock)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Deadlocks-Domain-deadlock-2020-12-31-22-41-08.gif" title="Deadlock's Domain (deadlock)" classes="center" >}}
 
 The third hacker battle. The opponent, Deadlock, sends one EXA outside of their base that controls the rest of the fight. Kill that first, and then there is no competition to bringing the files back to your base host.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Xtreme-League-Baseball-174-75-1-2020-12-31-23-29-41.gif" title="XTreme League Baseball (Player Database)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Xtreme-League-Baseball-174-75-1-2020-12-31-23-29-41.gif" title="XTreme League Baseball (Player Database)" classes="center" >}}
 
 My solution was faster than average, but larger than average, too.
 
@@ -178,7 +156,7 @@ Since there's a lot of partial calculations, the calc bots store the partial cal
 
 Having an EXA continually run the bases gives an achievement.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Kings-Ransom-Online-57-34-25-2021-01-01-12-12-39.gif" title="King's Ransom Online (US West Realm)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Kings-Ransom-Online-57-34-25-2021-01-01-12-12-39.gif" title="King's Ransom Online (US West Realm)" classes="center" >}}
 
 This won't be the last time we will hack the King's Ransom Online MMO. The task is to replace every occurrence of the player ID that is not the one given by the file in the base host, with that given player ID.
 
@@ -186,7 +164,7 @@ The first EXA just reads that file and sends out the player ID there six times -
 
 The second EXA spawns the six malefactors that go to each realm, kill the player EXAs (maximum of three in a room), grabs the new player ID from global memory, and then, starting with file 200, changes the ownership of the item, and then spawns further EXAs to grab the files referenced at the end of the 200 file and change those ownerships too.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-KGOG-TV-637-98-14-2021-01-01-13-17-04.gif" title="KGOG-TV (Satellite Uplink)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-KGOG-TV-637-98-14-2021-01-01-13-17-04.gif" title="KGOG-TV (Satellite Uplink)" classes="center" >}}
 
 This was not an optimal solution. I think I was worse than average on every metric. You'll probably do better.
 
@@ -196,7 +174,7 @@ The data is added to the next encoding value, and if the sum is greater than or 
 
 Again, this solution was bad in all metrics, but... it worked.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Equity-First-Bank-154-57-8-2021-01-02-19-00-21.gif" title="Equity First Bank (San Francisco - ATMs Offline)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Equity-First-Bank-154-57-8-2021-01-02-19-00-21.gif" title="Equity First Bank (San Francisco - ATMs Offline)" classes="center" >}}
 
 My solution here was below average by all metrics. Two EXAs just bring the new checking account (file 300) and the file containing the words CREDIT and DEBIT (file 301) to the checking account area. The third EXA reads through the file of customer IDs, and spawns one EXA to read the customer ID and record a transfer to the AI account, and another EXA to read that file and then mark a credit for that amount -- one dollar -- to the AI account file. Finally, after waiting for a time to make sure the child AIs are done with the file, the third EXA continues to the next ID, finally appending file ID 300 to the end of the file and cleaning up.
 
@@ -204,11 +182,11 @@ I probably should have implemented this with one EXA doing all the debits and on
 
 Completing this unlocks the ability to write your own puzzles.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-The-Wormhole-x10x10x-2021-01-02-19-35-24.gif" title="The Wormhole (x10x10x)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-The-Wormhole-x10x10x-2021-01-02-19-35-24.gif" title="The Wormhole (x10x10x)" classes="center" >}}
 
 This hacker battle is just a race to see who can replicate bots fastest. I wrote seven bots that just slammed their way around the map in the fastest way possible -- no loops -- and once they had made their progeny, just sat there and replicated. That's all it takes to win this battle.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-TEC-EXA-Blaster™-Modem-2141-60-9-2021-01-02-20-18-04-1.gif" title="TEC EXA-Blaster Modem (Dataphone Network)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-TEC-EXA-Blaster™-Modem-2141-60-9-2021-01-02-20-18-04-1.gif" title="TEC EXA-Blaster Modem (Dataphone Network)" classes="center" >}}
 
 My solution was slower than average, smaller than average, and made as many trips as average. So, it's fine. I find that whenever I have to resort to adding NOOPs to my code to make the timings come out right, that means I have missed something important. I missed something important here. But it's fine.
 
@@ -216,7 +194,7 @@ The graphic doesn't reflect the current state of my solution. In the current sta
 
 I'm honestly unsure how I could make this faster.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Last-Stop-SNAXNET-235-55-22-2021-01-02-21-36-39.gif" title="Last Stop SnaxNet (Warehouse 27)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Last-Stop-SNAXNET-235-55-22-2021-01-02-21-36-39.gif" title="Last Stop SnaxNet (Warehouse 27)" classes="center" >}}
 
 Fast food chains often find themselves having to purify nuclear fuel in order to build a bomb to tear a hole in reality. Super common. 
 
@@ -224,7 +202,7 @@ My solution, which is average or better than average in all metrics, is to have 
 
 I originally thought I could just sort all of the values at once and then spawn an EXA to kill them all in the right order, but the order changes each time a centrifuge is powered down. I got a chance to use that sort later, though.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-Mitsuzen-HDI-10-1976-47-304-2021-01-02-21-51-19.gif" title="Mitsuzen HDI-10 (Visual Cortex)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-Mitsuzen-HDI-10-1976-47-304-2021-01-02-21-51-19.gif" title="Mitsuzen HDI-10 (Visual Cortex)" classes="center" >}}
 
 Back into the body, this time fixing the eye. There's a calculation that needs to be performed at each node, and since there is no concept of a procedure call in EXAPUNKS, I spawn a EXA at each node to do that calculation. Once done, it is transmitted via global memory to the EXA sitting at the output.
 
@@ -244,7 +222,7 @@ That EXA starts at 0 and increments the starting point for a newly spawned EXA t
 
 The last Hacker Battle. I didn't find any good solutions to this one. Try to occupy the two safe hosts ASAP and then try to keep two EXAs on every host. This wins 70% of the time, but is pretty far from 100%, as for all the others.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-U.S.-Government-1124-147-74-2021-01-09-17-54-18-1.gif" title="U.S. Government (FEMA Genetic Database)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-U.S.-Government-1124-147-74-2021-01-09-17-54-18-1.gif" title="U.S. Government (FEMA Genetic Database)" classes="center" >}}
 
 I took a long break between the previous puzzle and this one. I was just getting too obsessed; it wasn't healthy.
 
@@ -252,7 +230,7 @@ In this one, we use a tape drive system to read genetic data about a politician 
 
 It's basic but not really elegant. These later puzzles, I didn't spend much time figuring out the best way. I just wanted to finish, at this point.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/01/EXAPUNKS-UNKNOWN-NETWORK-2-433-32-56-2021-01-09-18-25-51.gif" title="Unknown Network 2 (Unknown Context)" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/01/EXAPUNKS-UNKNOWN-NETWORK-2-433-32-56-2021-01-09-18-25-51.gif" title="Unknown Network 2 (Unknown Context)" classes="center" >}}
 
 We're back in Russia again, attacking a rival AI. We need to kill all the enemy EXAs in the central area so that they drop their files, then iterate through all the possible file IDs from 200-299 and, if any are found, bring them back to the base host.
 

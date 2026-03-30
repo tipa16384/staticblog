@@ -3,40 +3,17 @@ date: '2013-01-23T08:03:58-05:00'
 draft: false
 title: "EQ2: A Simple Plan"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/01/23/eq2-a-simple-plan/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When I level up a character, I get bored if I do the same things, go the same places as another character. There's too much..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-21-14-33-50-92-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-21-14-33-50-92-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-21-14-33-50-92-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-21-14-33-50-92-480x300.jpg"
 ---
+When I level up a character, I get bored if I do the same things, go the same places as another character. There's too much...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-21-14-33-50-92-480x300.jpg" title="Inspiration!" class="align-center" >}}
+
 
 When I level up a character, I get bored if I do the same things, go the same places as another character. There's too much stuff in EverQuest 2 to ever do the same thing twice. Sure, there's people who want their character to get to the top level as soon as possible, but I'm not a raider, there's nothing waiting for me at the end game. For me, the journey truly is the reward.
 
@@ -50,7 +27,7 @@ Next morning, logged in to check and there was STILL no appearance for that book
 
 I had nothing. This bookcase doesn't even have a model. The forums concur; some update in the last few months removed the pointers to the model for the bookcase. [EQ2 Furniture](http://eq2furniture.com/) showed that even when it did have a model, it wasn't the one I was looking for. Decorating my room to match an NPC's room just wasn't going to happen. Great excuse, though, for doing some of those city quests. They're all level adjusted, so they give a small amount of experience even to level 90 characters.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/01/EverQuest2-2013-01-22-21-11-19-55-480x299.jpg" title="Occupy Qeynos?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/01/EverQuest2-2013-01-22-21-11-19-55-480x299.jpg" title="Occupy Qeynos?" classes="center" >}}
 
 Blackscale Sepulcher was last night's [chronotask](http://eq2.wikia.com/wiki/Path_of_the_Past_Timeline). This was always a fun one to do back in the day, having to tank multiple mobs for an extended period of time while killing placeholders. It's a lot easier now. I don't even bother with mercenaries on these things; I last summoned mine to kill the two group mob in Unrest, Bugaboo, while mentored below its level. I didn't really need it.
 

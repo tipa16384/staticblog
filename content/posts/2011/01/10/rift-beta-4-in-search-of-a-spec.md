@@ -3,42 +3,22 @@ date: '2011-01-10T07:54:52-05:00'
 draft: false
 title: "Rift Beta 4: In Search of... a Spec."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/10/rift-beta-4-in-search-of-a-spec/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Rift"
+tags:
   - "Beta"
   - "Closed Beta"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-16-45-28-62-480x384.jpg "A giant in Stonefields")](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-16-45-28-62.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-16-45-28-62.jpg)
 
 *A Giant in the Stonefields*
 
@@ -46,7 +26,7 @@ This weekend's fourth Rift beta event introduced seven new levels, two new zones
 
 And aside from the new Defiant-side dungeon, I saw all these things. I played a heck of a lot of Warfronts, each time tuning my various specs. With so much choice and so many combinations and so many styles of play, players should plan on making their specs flowing, freely changeable plans.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-20-52-18-49-480x384.jpg "Granite Falls")](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-20-52-18-49.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-20-52-18-49-480x384.jpg" title="Granite Falls" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-20-52-18-49.jpg)
 
 *Granite Falls*
 
@@ -58,7 +38,7 @@ My Guardian cleric, Peridot, had the best healing spec, so her role in the battl
 
 The Sentinel is such a SLOW healer that I'd get lots of notice from the enemy Defiant, but since the Guardians (for whatever reason) tended to stick together fairly well, I'd come out of the battleground usually a winner and placing fairly high up on the healing chart.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-12-52-49-30-480x384.jpg "Bardic buffing in Iron Tombs")](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-12-52-49-30.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-12-52-49-30-480x384.jpg" title="Bardic buffing in Iron Tombs" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-12-52-49-30.jpg)
 
 I spent some time on Peridot earning some more souls. (My Defiant cleric from Beta 3 got all the cleric souls before they put the quests in). All the soul quests are the same. You help seal a rift and get a planar shard as a reward. You use a special item you were given to open a small rift into the Plane of Death and pull out the spirit of a dead hero with the soul you want. You battle this spirit, then draw their soul out into a soul collector. Return to the quest giver and you have your new soul.
 
@@ -66,7 +46,7 @@ You CAN use your new soul without buying a new role. Go to your trainer and ask 
 
 I made Peridot a druid/sentinel/warden and signed up to heal the dungeon in the Gloamwood (at just short of level 22). Things went well until we came to the first boss; none of us were high enough level to do much and we eventually had to give up. Even though the monsters are around level 22, you should probably be level 25 to go...
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-13-05-04-32-480x384.jpg "Who ya gonna call?")](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-13-05-04-32.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-13-05-04-32-480x384.jpg" title="Who ya gonna call?" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-13-05-04-32.jpg)
 
 *Ghost Trap in Iron Tomb*
 
@@ -82,7 +62,7 @@ Dark Age of Camelot's Albion Minstrel was similar to the EQ bard in a lot of way
 
 At least I could still run fast, though there were class/race combinations that could run faster.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-13-50-05-43-480x384.jpg "Island hopping")](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-13-50-05-43.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-13-50-05-43-480x384.jpg" title="Island hopping" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-13-50-05-43.jpg)
 
 My first rogue soul with Rift's version of Tipa was Bladedancer, a straight-up melee rogue. In Beta 1, the bard soul wasn't available right off. When I was able to choose a second soul, I passed over bard in favor of Riftstalker, mostly because the description on the Rift web site made it sound really cool. It wasn't wrong; Riftstalker IS cool. It's the tanking rogue spec. You get to buff yourself up really high, comes with some self heals, and you teleport all over the place. I highly recommend it. In Iron Tombs, I offtanked and, when the main tank died, main tanked for a time (though I hadn't trained the taunts, so I wasn't as effective as I could have been).
 
@@ -92,7 +72,7 @@ I'd use my teleports to get behind a caster and start the killing, but my full-o
 
 I figured I'd get the Bard soul and start leveling.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-14-03-39-77-480x384.jpg "The Despoiler")](https://chasingdings.com/wp-content/uploads/2011/01/rift-2011-01-09-14-03-39-77.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-14-03-39-77-480x384.jpg" title="The Despoiler" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/rift-2011-01-09-14-03-39-77.jpg)
 
 Bard buffs come in three flavors -- Anthems and Fanfares are your long duration buffs, and Motifs your short duration buffs. You vanilla Motif lasts 12 seconds, but you can get it up to 30. They are instant cast.
 

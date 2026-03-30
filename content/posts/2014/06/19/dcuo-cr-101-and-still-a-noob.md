@@ -3,41 +3,19 @@ date: '2014-06-19T07:13:21-05:00'
 draft: false
 title: "DCUO: CR 101 and still a noob."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/06/19/dcuo-cr-101-and-still-a-noob/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Combat Rating -- \"CR\" -- in DCUO determines where you can go, what you can do, and what kind of groups will want you. Shouting..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg"
 ---
+Combat Rating -- "CR" -- in DCUO determines where you can go, what you can do, and what kind of groups will want you. Shouting...
+<!--more-->
 
-![Odyssey CR Calculator](https://lh5.googleusercontent.com/-_zK4940BNEU/U6LNGaaTSVI/AAAAAAAAvnM/w6VwfiJq_Lg/w712-h597-no/Fullscreen+capture+6182014+104107+PM.jpg)
+
 
 Combat Rating -- "CR" -- in DCUO  determines where you can go, what you can do, and what kind of groups will want you. Shouting "103 DPS LF TD" will get you a group in a moment. I don't know what TD is. I don't know because I don't have 103 CR. 105 is the current target; the elites have 107 or more.
 
@@ -49,7 +27,7 @@ Our league has been focused on the past couple of weeks in lifting up my CR and 
 
 The CR calculator suggested that I could make the jump with two key mod upgrades. I had enough Marks of Fury -- the new expansion currency (every expansion comes with its own currency) -- for one mod. I bought and applied it and still CR 100. I was actually going to have to solo a round of solo missions to get enough marks for the other.
 
-![Gotham Under Siege](https://lh5.googleusercontent.com/-IfeBvVFzo-I/U6JZ6aTTkoI/AAAAAAAAvnc/-SjBkwg_0XY/w711-h534-no/DCGame+2014-06-18+23-32-52-30.jpg)
+{{< image src="https://lh5.googleusercontent.com/-IfeBvVFzo-I/U6JZ6aTTkoI/AAAAAAAAvnc/-SjBkwg_0XY/w711-h534-no/DCGame+2014-06-18+23-32-52-30.jpg" classes="center" >}}
 
 There really should not be a problem soloing. Hard Light is one of the better damage power sets. Though my gear is heavily tuned to the controller role, it has some decent damage stats. And I've been really working on my combos.
 

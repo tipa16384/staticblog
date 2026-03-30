@@ -3,40 +3,17 @@ date: '2015-06-22T10:57:03-05:00'
 draft: false
 title: "Finished Pillars of Eternity!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/22/finished-pillars-of-etern/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, until the expansion, anyway...."
+categories:
   - "Other Games"
   - "Pillars of Eternity"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/PillarsOfEternity-2015-06-21-12-24-32-46.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/PillarsOfEternity-2015-06-21-12-24-32-46.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/PillarsOfEternity-2015-06-21-12-24-32-46.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/PillarsOfEternity-2015-06-21-12-24-32-46.jpg"
 ---
+Well, until the expansion, anyway....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/PillarsOfEternity-2015-06-21-12-24-32-46.jpg" title="Confronting Thaos..." class="align-center" >}}
+
 
 [Well, until the expansion, anyway](http://eternity.obsidian.net/news/pillars-of-eternity-the-white-march-part-1-announced).
 

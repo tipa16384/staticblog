@@ -3,47 +3,25 @@ date: '2021-08-29T21:36:08-05:00'
 draft: false
 title: "The Kickstarter Addiction"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/29/the-kickstarter-addiction/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I buy too much stuff on Kickstarter. And so can you. Might be fun to look into some of the recent projects I've backed... especially..."
+categories:
   - "Blaugust"
   - "Flamecraft"
   - "Game Night"
   - "Kickstarter"
   - "Return to Dark Tower"
   - "Tabletop Games"
+tags:
   - "Hangin with Dr Z"
   - "Rainbow 6"
   - "Sacrifire"
   - "Sunrise Market"
   - "Tiny Epic Dungeons"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/drz.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/drz.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/drz.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/drz.jpg"
 ---
+I buy too much stuff on Kickstarter. And so can you. Might be fun to look into some of the recent projects I've backed... especially...
+<!--more-->
 
 I buy too much stuff on Kickstarter. And so can you. Might be fun to look into some of the recent projects I've backed... especially since I can't reliably connect to DCUO since the patch so I am practicing mandolin and backing Kickstarters... and one of them is too horrifying to talk about. The other one is about giving your money to strangers.
 
@@ -89,7 +67,7 @@ From the rulebook:
 
  It's a worker placement game. You visit shops. You place your dragons. You die of cuteness.
 
-![An epic fantasy game pitting 1-4 heroes against an intelligent, malevolent tower.](https://ksr-ugc.imgix.net/assets/027/969/858/1394e77bcd3f9e8c07266ac5c97a2c32_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1580830700&auto=format&frame=1&q=92&s=95c97e1616d86c75251de5242170e2bc)
+{{< image src="https://ksr-ugc.imgix.net/assets/027/969/858/1394e77bcd3f9e8c07266ac5c97a2c32_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1580830700&auto=format&frame=1&q=92&s=95c97e1616d86c75251de5242170e2bc" classes="center" >}}
 
 **Return to Dark Tower**
 
@@ -101,13 +79,13 @@ Restoration Games, who have brought back such classics as Fireball Island and ot
 
 Last I read, it was basically waiting for shipping from China, which is an issue for almost every Kickstarter that includes manufactured or printed goods.
 
-![6: Siege – The Board Game is a tactical 1-on-1 shooter based on the acclaimed Tom Clancy’s Rainbow Six: Siege by Ubisoft!](https://ksr-ugc.imgix.net/assets/033/974/522/47b11c27dfc583713e8eb03a9d4fbd13_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1624381755&auto=format&frame=1&q=92&s=3559bd0ae87d9e5e94b7ff520e57cb4a)
+{{< image src="https://ksr-ugc.imgix.net/assets/033/974/522/47b11c27dfc583713e8eb03a9d4fbd13_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1624381755&auto=format&frame=1&q=92&s=3559bd0ae87d9e5e94b7ff520e57cb4a" classes="center" >}}
 
 **Rainbow 6: The Board Game**
 
 My son plays the video game version of this -- all the time -- on the PS4. As far as first person team-based shooters go, this is slower and more tactical than the spray-and-pray likes of Call of Duty. When I saw that "[Rainbow 6: The Board Game](https://www.kickstarter.com/projects/1162110258/6-siege-the-board-game)" was on Kickstarter, I had to back it just because I think it would be cool to play with my son. I don't need more reasons than that!
 
-![](https://ksr-ugc.imgix.net/assets/034/046/786/7847402d7cc70f1ad72d24ae7df32bbe_original.png?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1624978030&auto=format&frame=1&q=92&s=cb0af647e713fdb19cd819f58bd6f366)
+{{< image src="https://ksr-ugc.imgix.net/assets/034/046/786/7847402d7cc70f1ad72d24ae7df32bbe_original.png?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1624978030&auto=format&frame=1&q=92&s=cb0af647e713fdb19cd819f58bd6f366" classes="center" >}}
 
 **SacriFire**
 
@@ -117,7 +95,7 @@ Hey look, it's a JRPG with the same 2D sprites on a 3D background like Octopath 
 
 I don't think I have to say any more, do I?
 
-![](https://ksr-ugc.imgix.net/assets/033/651/267/5ce361360df008897d63094850ebd188_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1621972921&auto=format&frame=1&q=92&s=847342f6faa3e404763884cfaa22b04c)
+{{< image src="https://ksr-ugc.imgix.net/assets/033/651/267/5ce361360df008897d63094850ebd188_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1621972921&auto=format&frame=1&q=92&s=847342f6faa3e404763884cfaa22b04c" classes="center" >}}
 
 **You Are the Dungeon**
 
@@ -125,7 +103,7 @@ In this game, like the title suggests, you are the dungeon. It's a game for one 
 
 This isn't even the first solo "create a dungeon" project I've backed. "[You Are the Dungeon](https://www.kickstarter.com/projects/sandandsteam/you-are-the-dungeon-diary-of-despair/)" is one of a large number of pamphlet-based RPGs that work more as an inspiration than an actual game -- I've backed several projects by the likes of [Mousehole Press](https://mousehole.press/) that promise real adventure with minimal rules.
 
-![A quick playing cooperative dungeon crawler for 1 to 4 players, featuring a modular dungeon, epic boss battles and detailed miniatures!](https://ksr-ugc.imgix.net/assets/033/980/717/8443d0a4f053a5116bf1d591988a3f0a_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1624423159&auto=format&frame=1&q=92&s=073d9725fe44a53f7be8e797f2b11956)
+{{< image src="https://ksr-ugc.imgix.net/assets/033/980/717/8443d0a4f053a5116bf1d591988a3f0a_original.jpg?ixlib=rb-4.0.2&w=700&fit=max&v=1624423159&auto=format&frame=1&q=92&s=073d9725fe44a53f7be8e797f2b11956" classes="center" >}}
 
 **Tiny Epic Dungeons**
 

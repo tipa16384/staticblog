@@ -3,42 +3,21 @@ date: '2021-08-22T09:14:31-05:00'
 draft: false
 title: "FF3 Complete!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/22/ff3-complete/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "24.8 hours to finish Final Fantasy III. I spent so much time preparing so much for the World of Darkness... and those preparations worked out..."
+categories:
   - "Blaugust"
   - "Final Fantasy"
   - "Final Fantasy III"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Jrpg"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210821223214_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-20210821223214_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-20210821223214_1.jpg"
 ---
+24.8 hours to finish Final Fantasy III. I spent so much time preparing so much for the World of Darkness... and those preparations worked out...
+<!--more-->
 
 24.8 hours to finish Final Fantasy III. I spent so much time preparing so much for the World of Darkness... and those preparations worked out really well.
 
@@ -54,23 +33,23 @@ That still left me with over a million gil. I planned to spend that entirely on 
 
 We teleported out, made our way back into the Crystal Tower, and climbed to the top, avoiding encounters along the way (unless they looked easy enough for Tipa and Drew to take out alone).
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821212901_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821212901_1.jpg)Those drakes look... hungry?
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821212901_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821212901_1.jpg)Those drakes look... hungry?
 
 Five drakes stood on the top floor of the Crystal Tower, in front of a mysterious mirror. They didn't seem like they were about to attack, though -- they seemed paralyzed, somehow. We all felt there was a super good chance they'd start attacking us, though. Five drakes at once would be a pretty tough fight.
 
 When we looked into that mirror, that same paralysis struck us! And released the drakes from theirs! They were moving in for the kill, when the spirit of Doge appeared, along with five people with pure hearts we had met along the way. Princess Sara, Desch, Cid, Prince Alus and one of the Fellows. They were able to keep the drakes busy while we took on Xande, who had appeared to watch us be swallowed without so much as fighting back.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821213155_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821213155_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821213155_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821213155_1.jpg)
 
 None of the bosses have any particular weaknesses, which makes the huge variety of attacks the characters have pretty pointless. Tom, the Sage, had good luck with Bio on Xande. Tipa and Drew just kept hitting him in the face, while Ally was as stingy with heals as she could be, mostly using items for healing.
 
 Xande is not a tough fight, and we soon had him on the floor.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821213645_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821213645_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821213645_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821213645_1.jpg)
 
 His death roused the real villain behind the encroaching darkness, the Cloud of Darkness. They pulled us into battle and quickly killed us all with two blasts with their particle beam.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821213809_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821213809_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821213809_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821213809_1.jpg)
 
 Doge and Unei appeared, and used the last of their spirit energy to resurrect us and bade us to enter the World of Darkness and bring balance back to the Force.
 
@@ -78,41 +57,41 @@ All the disciples of Noah were now gone, forever. We were all that was left. And
 
 We'd found four Crystals of Light during our travels -- the crystals of Water, Fire, Air and Earth. The World of Darkness also has four Crystals of Darkness -- the crystals of Dark Water, Dark Fire, Dark Air and Dark Earth. Each of those had a powerful guardian, one of whom was the deadliest boss we'd encountered thus far:
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821214952_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821214952_1.jpg)Cerberus
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821214952_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821214952_1.jpg)Cerberus
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821215949_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821215949_1.jpg)Echidna
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821215949_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821215949_1.jpg)Echidna
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821221044_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821221044_1.jpg)Ahriman
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821221044_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821221044_1.jpg)Ahriman
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821222326_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821222326_1.jpg)Two-Headed Dragon
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821222326_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821222326_1.jpg)Two-Headed Dragon
 
 It was that last one, the Two-Headed Dragon, that I really hated. Defeating each guardian releases a Warrior of Darkness from the Dark Crystal, who then heads out to help us defeat the Cloud of Darkness. Each area also had a chest that contained a Ribbon, a head item that protects the wearer from all status effects. The game clearly wanted everyone to have one before the main fight. These chests were guarded by weakened clones of Xande, and usually died in just a few rounds.
 
 We didn't know, going in, that touching any of the Dark Crystals revived everyone and restored HP, MP and status. I'd been so frugal with magic to that point. Once I understood that I'd have plenty of chances to charge back up, it was Tom the Sage with the big guns, all the time. We gave Bahamut no chance to rest.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821223145_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821223145_1.jpg)Warriors of Darkness and the Cloud of Darkness
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821223145_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821223145_1.jpg)Warriors of Darkness and the Cloud of Darkness
 
 Finally time to confront the CoD, we were met by the Warriors of Darkness, who sacrificed themselves to remove the connections to the Dark Crystals. This depowered CoD's particle beam quite a lot.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821223715_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821223715_1.jpg)CoDead
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821223715_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821223715_1.jpg)CoDead
 
 It was a long fight, and Tom had to help out with Raises occasionally, but Cloud of Darkness ran out of health before a hasted Tipa ran out of Shurikens. Those little spinny weapons were well worth the million gil.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821223906_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821223906_1.jpg)You're all still here!
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821223906_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821223906_1.jpg)You're all still here!
 
 The Darkness left us back at the top of the Crystal Tower, where we met our friends, who had dispatched the drakes while we were away.
 
 With the world saved, we took the *Invincible* and the *Nautilus* and brought everyone back home.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210821224242_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210821224242_1.jpg)Sara is polyamorous, apparently
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210821224242_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210821224242_1.jpg)Sara is polyamorous, apparently
 
 We were a little surprised that Princess Sara wanted to stay with us, romantically. What, with the four of us? Awkward! She soon said she was kidding, but really, maybe it could have worked. Maybe it was just a crazy idea.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/2-20210821224311_1-1024x682.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/2-20210821224311_1.jpg)Back home
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/2-20210821224311_1-1024x682.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/2-20210821224311_1.jpg)Back home
 
 Unsure how to feel about the Princess now, we made our way back home to the village of Um on the Floating Continent (which Desch had saved while we were off bumming around on the Surface World). Dancer wanted to greet us with a kiss, so now we were all even more confused. A six person relationship -- could it even work?
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210822080224_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210822080224_1.jpg)Final character slate
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210822080224_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210822080224_1.jpg)Final character slate
 
 We ended the game with all characters at level 52, largely from leveling on the trip to the bottom of Eureka, and while fighting the minibosses in the World of Darkness. The jobs were largely what they were after we'd unlocked them with the Earthen Staff -- Ninja, Devout, Black Belt and Sage.
 

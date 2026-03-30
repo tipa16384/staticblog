@@ -3,40 +3,17 @@ date: '2020-05-22T03:25:51-05:00'
 draft: false
 title: "Game Night: Set a Watch"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/22/game-night-set-a-watch/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We've been doing a family game night where my boyfriend and myself, my son, my daughter and her family all get together to play board..."
+categories:
   - "Game Night"
   - "Gloomhaven"
   - "Set a Watch"
   - "Tabletop Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/setawatch.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/setawatch.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/setawatch.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/setawatch.jpg"
 ---
+We've been doing a family game night where my boyfriend and myself, my son, my daughter and her family all get together to play board...
+<!--more-->
 
 We've been doing a family game night where my boyfriend and myself, my son, my daughter and her family all get together to play board games once or twice a week. We recently finished an epic, year-long [Gloomhaven](https://www.kickstarter.com/projects/frosthaven/gloomhaven) campaign. If you have been [following my Instagram](https://www.instagram.com/decisivenotice/?hl=en), you're probably really familiar with our game nights...
 
@@ -48,7 +25,7 @@ For the first time in several months -- Game Night was on again.
 
 I chose a small but fun board game for our inaugural night back, before we start delving into our next long game. Naming that game will have to wait for the next Game Night post. The game I chose for tonight, though, was [Set a Watch](https://www.kickstarter.com/projects/mikegnade/set-a-watch/).
 
-{{< figure src="https://ksr-ugc.imgix.net/assets/021/555/913/c1f657117c7c5f89e2318f42dc5a22d9_original.jpg?ixlib=rb-2.1.0&w=680&fit=max&v=1528820694&auto=format&frame=1&q=92&s=7cf5aa83575f6f5bfe3336e02263ac94" >}}
+{{< image src="https://ksr-ugc.imgix.net/assets/021/555/913/c1f657117c7c5f89e2318f42dc5a22d9_original.jpg?ixlib=rb-2.1.0&w=680&fit=max&v=1528820694&auto=format&frame=1&q=92&s=7cf5aa83575f6f5bfe3336e02263ac94" classes="center" >}}
 
 In *Set a Watch*, you and up to three friends play a party of four adventurers. You are traveling from place to place to take on the evil lurking in a dark tower, but you are not alone. Each night, one of you will set up camp, while the other three take on the dark evils that attack in relentless waves.
 

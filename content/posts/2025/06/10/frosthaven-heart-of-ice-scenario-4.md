@@ -3,40 +3,17 @@ date: '2025-06-10T08:05:41-05:00'
 draft: false
 title: "Frosthaven: Heart of Ice (Scenario 4)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/06/10/frosthaven-heart-of-ice-scenario-4/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Took us long enough, but we finally had another Frosthaven night. Spoilers!"
-description: "Took us long enough, but we finally had another Frosthaven night. Spoilers!"
-tags:
+categories:
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
   - "Tabletop Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/IMG_5180-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/06/IMG_5180-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5180-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/IMG_5180-scaled.jpg"
 ---
+Took us long enough, but we finally had another Frosthaven night. Spoilers!
+<!--more-->
 
 Due to sicknesses and kids needing to be places on game nights, it's been awhile since we last played Frosthaven. Let's not even talk about the Saturday night games...
 

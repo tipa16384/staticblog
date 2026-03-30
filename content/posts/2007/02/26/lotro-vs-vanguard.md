@@ -3,41 +3,20 @@ date: '2007-02-26T17:31:25-05:00'
 draft: false
 title: "LotRO vs Vanguard"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/26/lotro-vs-vanguard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After a weekend on LotRO, a game I wasn't all that excited about, I wanted to play more. After a weekend playing Vanguard, a game..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
   - "Vanguard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-box.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/02/lotr-box.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-box.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/02/lotr-box.jpg"
 ---
+After a weekend on LotRO, a game I wasn't all that excited about, I wanted to play more. After a weekend playing Vanguard, a game...
+<!--more-->
 
-![lotr-box.jpg](https://chasingdings.com/wp-content/uploads/2007/02/lotr-box.jpg)After a weekend on LotRO, a game I wasn't all that excited about, I wanted to play more. After a weekend playing Vanguard, a game I was very much looking forward to, I never wanted to play again.
+
+
+After a weekend on LotRO, a game I wasn't all that excited about, I wanted to play more. After a weekend playing Vanguard, a game I was very much looking forward to, I never wanted to play again.
 
 The difference? In Vanguard, I had an incredible sense that I had played this game before... many times... I found myself falling into the same patterns I had run in EQ, DAoC, WoW, FFXI and EQ2... kill stuff level kill stuff level kill stuff level.
 

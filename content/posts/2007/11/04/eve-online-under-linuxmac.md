@@ -3,38 +3,13 @@ date: '2007-11-04T05:29:22-05:00'
 draft: false
 title: "EvE Online under Linux/Mac"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/04/eve-online-under-linuxmac/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "CCP, makers of EvE Online, announced yesterday that they will soon have official support for their game on the Macintosh and Linux...."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+CCP, makers of EvE Online, announced yesterday that they will soon have official support for their game on the Macintosh and Linux....
+<!--more-->
 
 CCP, makers of EvE Online, [announced yesterday](http://myeve.eve-online.com/ingameboard.asp?a=topic&threadID=628520&) that they will soon have official support for their game on the Macintosh and Linux.
 

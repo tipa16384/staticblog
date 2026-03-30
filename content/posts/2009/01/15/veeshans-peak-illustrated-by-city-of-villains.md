@@ -3,38 +3,15 @@ date: '2009-01-15T00:25:58-05:00'
 draft: false
 title: "Veeshan's Peak, illustrated by City of Villains"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/01/15/veeshans-peak-illustrated-by-city-of-villains/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The pickup raid group I'm with killed Venril Sathir and cleared up to Elder Enron in VP last night, but I'd crashed earlier and after..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-14-06-56-17-46.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-14-06-56-17-46.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/cityofheroes-2009-01-14-06-56-17-46.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/cityofheroes-2009-01-14-06-56-17-46.jpg"
 ---
+The pickup raid group I'm with killed Venril Sathir and cleared up to Elder Enron in VP last night, but I'd crashed earlier and after...
+<!--more-->
 
 The pickup raid group I'm with killed Venril Sathir and cleared up to Elder Enron in VP last night, but I'd crashed earlier and after I rebooted, didn't dare launch FRAPS and XFire in case they were the cause of my crippling lag, so no pictures. Since I hate posts without pictures, I've illustrated last night's raids with pictures of an entirely unrelated mission in City of Villains.
 
@@ -43,8 +20,6 @@ See what I did there?
 Why has "see what I did there?" become such a meme? It's something you say when you think you have done something clever but are afraid your readers are too dim to 'get it', and you want to point it out, but in such a way that people think you REALLY mean "what an obvious joke, I am making fun of myself." It's a subtle way of putting people down, like using Latin pointlessly (I am the most *amica curiae* you will ever have!) or spelling English words from French roots with all the correct accents (I made a *crêpe* from my *résumé*. It was the *piece d'resistance* of the *pas de deux*).
 
 See what I did there?
-
-![](https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-14-06-56-17-46.jpg "cityofheroes-2009-01-14-06-56-17-46")
 
 *The raid gathers outside Venril Sathir's lair in the dungeon of Old Sebilis.*
 
@@ -56,7 +31,7 @@ I pressed down the power button on the laptop until the whole thing shut off. Bo
 
 Back when I started raiding in EQ1, before they gave all the options to cut down on combat spam, my dial-up modem couldn't handle the load. I'd still be watching the fight two or three minutes after it had ended as my system struggled to catch up. I cast spells blindly. It wasn't any fun at all.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-14-07-31-43-42.jpg "cityofheroes-2009-01-14-07-31-43-42")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/cityofheroes-2009-01-14-07-31-43-42.jpg" title="cityofheroes-2009-01-14-07-31-43-42" classes="center" >}}
 
 *Venril Sathir is a raid you win by paying attention. Here, the entire raid keeps their power near 50% or the raid wipes.*
 
@@ -64,7 +39,7 @@ A lot of people dread the Venril Sathir fight. I love it. It's not about the DPS
 
 Attacking Venril Sathir wipes the entire raid, nearly immediately -- UNLESS there's a person clicking the two pillars near his throne one after the other with an item taken from a previous raid.
 
-After awhile, Venril gets a little sneaky, and summons a Watcher. The Watcher watches the raid, and if anyone's power goes below 30% or above 70%, kills that person and anyone near them. That's the first thing. Keep your power near 50%.  The Watcher will occasionally cast a debuff on some people that will make spells and combat arts use 4x the normal amount of power. Which can easily bring your power ![](https://chasingdings.com/wp-content/uploads/2009/01/cityofheroes-2009-01-14-07-37-53-34.jpg "cityofheroes-2009-01-14-07-37-53-34")
+After awhile, Venril gets a little sneaky, and summons a Watcher. The Watcher watches the raid, and if anyone's power goes below 30% or above 70%, kills that person and anyone near them. That's the first thing. Keep your power near 50%.  The Watcher will occasionally cast a debuff on some people that will make spells and combat arts use 4x the normal amount of power. Which can easily bring your power {{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/cityofheroes-2009-01-14-07-37-53-34.jpg" title="cityofheroes-2009-01-14-07-37-53-34" classes="center" >}}
 
 *We cleared the first couple of minor names in VP as a finisher.*
 

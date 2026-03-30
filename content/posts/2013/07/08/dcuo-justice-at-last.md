@@ -3,40 +3,17 @@ date: '2013-07-08T06:52:10-05:00'
 draft: false
 title: "DCUO: Justice at last...."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/07/08/dcuo-justice-at-last/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I haven't written about DCUO in awhile, not because we haven't been playing. We've been playing every week. I haven't written about DCUO in awhile..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/07/MADV119_AUDIO-PC-07-22.53.450-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/07/MADV119_AUDIO-PC-07-22.53.450-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/MADV119_AUDIO-PC-07-22.53.450-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/MADV119_AUDIO-PC-07-22.53.450-480x270.jpg"
 ---
+I haven't written about DCUO in awhile, not because we haven't been playing. We've been playing every week. I haven't written about DCUO in awhile...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/MADV119_AUDIO-PC-07-22.53.450-480x270.jpg" title="Objection Overruled" class="align-center" >}}
+
 
 I haven't written about DCUO in awhile, not because we haven't been playing. We've been playing every week. I haven't written about DCUO in awhile because we've been working on one particular instance, the South Gotham Courthouse --- and we kept losing. Now, we haven't attempted the court house every week; it's been a spotty summer, with people having other obligations some weekends. But every Sunday when we did meet up as a full group, the South Gotham Courthouse would be the daily double... taunting us.
 
@@ -52,7 +29,7 @@ There are twelve spots on the jury, and both we and Brainiac will try to select 
 
 Usually Spode goes out and grabs jurors while Kaptain KY, Sting and I kill incoming Brainiac jurors. After we collect six human jurors, the Bailiff spawns, a powerful bot that will harry us as we try to continue filling the jury box with humans. We killed him with three spots still open in the jury box; they were immediately filled with bots. So next time -- if there is a next time -- we have to keep him alive until we have all twelve spots filled.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/MADV119_AUDIO-PC-12-23.53.140-480x343.jpg" title="Prosecutor and Defense Attorney" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/07/MADV119_AUDIO-PC-12-23.53.140-480x343.jpg" title="Prosecutor and Defense Attorney" classes="center" >}}
 
 Next step is turning off the graviton generators by using hop pads at the corners of the courthouse to access them. A little bot killing and generator disabling, and we're able to fly again. Flight is the only way to reach the Supreme Justice -- but before we can meet him, we have to make our arguments to the court. Arguments that can only be argued one way -- by killing bots.
 

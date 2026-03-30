@@ -3,38 +3,13 @@ date: '2012-02-12T10:23:38-05:00'
 draft: false
 title: "KoA:R Weapons and Armor bundle -- is it worth it?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/12/koar-weapons-and-armor-bundle-is-it-worth-it/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "EA released a day 1 DLC (downloadable content) pack for their Kingdoms of Amalur: Reckoning -- the Weapon and Armor Bundle. In it are unique..."
+categories:
   - "Kingdoms of Amalur: Reckoning"
   - "Other Games"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+EA released a day 1 DLC (downloadable content) pack for their Kingdoms of Amalur: Reckoning -- the Weapon and Armor Bundle. In it are unique...
+<!--more-->
 
 EA released a day 1 DLC (downloadable content) pack for their Kingdoms of Amalur: Reckoning -- the Weapon and Armor Bundle. In it are unique weapon sets with cool looks and powerful effects. The video above from Gamer King Tarheel shows them off well.
 

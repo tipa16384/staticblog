@@ -3,40 +3,17 @@ date: '2010-01-22T08:00:03-05:00'
 draft: false
 title: "EVE Online: Pinneau/Ethomas Industries christens first ship"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/22/eve-online-pinneauethomas-industries-christens-first-ship/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Named \"Hathor\" after the Egyptian goddess who welcomed the dead to the afterlife, the first Helios covert ops frigate born of the collaboration between Tipa..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/ExeFile-2010-01-21-22-54-40-78.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/ExeFile-2010-01-21-22-54-40-78.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/ExeFile-2010-01-21-22-54-40-78.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/ExeFile-2010-01-21-22-54-40-78.jpg"
 ---
+Named "Hathor" after the Egyptian goddess who welcomed the dead to the afterlife, the first Helios covert ops frigate born of the collaboration between Tipa...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/ExeFile-2010-01-21-22-54-40-78.jpg "The Helios on its maiden voyage")
+
 
 Named "Hathor" after the Egyptian goddess who welcomed the dead to the afterlife, the first Helios covert ops frigate born of the collaboration between Tipa Pinneau and Ethomas rolled from the Federation Navy yards in Eglennaert last night to the cheers of the workers. It rounded the station twice before cloaking and heading to parts unknown.
 

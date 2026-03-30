@@ -3,40 +3,17 @@ date: '2007-06-07T07:08:42-05:00'
 draft: false
 title: "EQ2: Turtle Soup"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/06/07/eq2-turtle-soup/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Who will pull first -- us or them?..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/06/pic2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/06/pic2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/pic2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/06/pic2.jpg"
 ---
+Who will pull first -- us or them?...
+<!--more-->
 
-![pic2.jpg](https://chasingdings.com/wp-content/uploads/2007/06/pic2.jpg)
+
 
 Who will pull first -- us or them?
 
@@ -48,7 +25,7 @@ Nothing brings back EQ1's glory days more than racing for raid mobs. Nagafen for
 
 Fallen pulled first. Our raid leaders kept pulling us back because it was *laggy*. Not only were we and Fallen there, but Reborn was in the zone as well, doing Cheldrak. The server started smoking a little. Fallen nearly killed Matron, but lost it at the end... they blamed it on lag, specifically, *us* making lag for them. We formed up and pulled. Fallen kindly stood right in the middle of the raid, chain summoning pets and doing all they could to lag us out. Well, we eventually lose it, though I'm not certain it was lag (didn't help, though). Fallen pulled again, and by this time another guild, Clan of Shadows, arrived. Fallen loses, Cos pulls it and wins. We all smile, wave, grats, and head to Cheldrak.
 
-![pic1.jpg](https://chasingdings.com/wp-content/uploads/2007/06/pic1.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/06/pic1.jpg" classes="center" >}}
 
 Soon to be a dead turtle...
 

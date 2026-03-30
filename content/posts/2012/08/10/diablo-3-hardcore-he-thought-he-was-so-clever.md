@@ -3,39 +3,18 @@ date: '2012-08-10T22:24:51-05:00'
 draft: false
 title: "Diablo 3 Hardcore: He thought he was so clever"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/08/10/diablo-3-hardcore-he-thought-he-was-so-clever/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![The Death of Azmodan](https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41-480x384.jpg "The Death of Azmodan")](https://chasingdings.com/wp-content/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2012/08/Diablo-III-2012-08-10-22-04-46-41.jpg)
 
 After agonizing over the decision whether or not to risk my character by facing Azmodan, the boss of Diablo 3's Act III, I finally said 'the Hell with it' and waded in. I panicked, sure, when the pools of blood started spreading, remembering how they killed my demon hunter. But my demon hunter had crappy gear. I stood in the blood, weathered the attacks, and had the demon lord dead in a few seconds.
 

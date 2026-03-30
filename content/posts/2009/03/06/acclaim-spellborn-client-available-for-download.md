@@ -3,43 +3,19 @@ date: '2009-03-06T12:36:01-05:00'
 draft: false
 title: "Acclaim Spellborn client available for download"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/06/acclaim-spellborn-client-available-for-download/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "From Acclaim's Community Manager, Historian, comes this news via Twitter:..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Acclaim"
   - "Closed Beta"
   - "Historian"
   - "Spellborn"
   - "Twitter"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+From Acclaim's Community Manager, Historian, comes this news via Twitter:...
+<!--more-->
 
 From Acclaim's Community Manager, Historian, comes this news via Twitter:
 

@@ -3,41 +3,21 @@ date: '2011-01-04T23:03:37-05:00'
 draft: false
 title: "1 Hour Review of: Your Life"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/04/1-hour-review-of-your-life/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "General"
   - "Humor"
+tags:
   - "Not Funny"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/baby.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/baby.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/baby.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/baby.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/baby.jpg "baby")](https://chasingdings.com/wp-content/uploads/2011/01/baby.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/01/baby.jpg)
 
 [After an hour, I still couldn't pick you out from the other babies. Wrinkled, wet, head shaped weird, crying... I'd seen it before](http://massively.joystiq.com/2011/01/04/rift-beta-events-impressions-from-the-staff/).
 

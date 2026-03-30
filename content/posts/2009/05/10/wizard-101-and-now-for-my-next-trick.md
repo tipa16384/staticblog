@@ -3,40 +3,17 @@ date: '2009-05-10T23:44:21-05:00'
 draft: false
 title: "Wizard 101: And now for my next trick..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/10/wizard-101-and-now-for-my-next-trick/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One thing you have to remember about Wizard 101, is that when you fight Rattlebones on Unicorn Way, and the game gives you a little..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-10-22-33-11-35.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-10-22-33-11-35.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-10-22-33-11-35.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-10-22-33-11-35.jpg"
 ---
+One thing you have to remember about Wizard 101, is that when you fight Rattlebones on Unicorn Way, and the game gives you a little...
+<!--more-->
 
-![wizardgraphicalclient-2009-05-10-22-33-11-35](https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-10-22-33-11-35.jpg "wizardgraphicalclient-2009-05-10-22-33-11-35")
+
 
 One thing you have to remember about Wizard 101, is that when you fight Rattlebones on Unicorn Way, and the game gives you a little message saying you might want to fight bosses again for more rare loot?
 
@@ -54,7 +31,7 @@ I couldn't believe I'd gotten the rest of my Dragonspyre outfit, after so long, 
 
 Especially after yesterday's little session of house item farming.
 
-![wizardgraphicalclient-2009-05-10-09-58-46-89](https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-10-09-58-46-89.jpg "wizardgraphicalclient-2009-05-10-09-58-46-89")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-10-09-58-46-89.jpg" title="wizardgraphicalclient-2009-05-10-09-58-46-89" classes="center" >}}
 
 This is a statue of a cyclops, dropped by General Ankilles in Cyclops Lane. Standing in front of it is Allison Goldtalon, my alt, and this is her dorm room, which is decorated solely by this statue, the bones of Lord Nightshade, and a portrait stolen from the Myth school in Ravenwood.
 
@@ -62,11 +39,11 @@ I have none of these things.
 
 Even though Thomas set up a [Cyclops Alley Farm League](http://thefriendlynecromancer.blogspot.com/2009/05/housing-items-of-day-cyclops-statue.html) seemingly just to get me this statue (along the way, Allison got it as she has gotten before so many things that should have been MINE, including but not limited to, the hat from Kaysys, which she wears to TAUNT me. Wore. I have mine now. And besides she could only wear it in the dressing room due to her bastard Balance schoolness, as well as being only level 28, two things that, you would think, would cause her to be a LITTLE bit humble but no, not her. Never her.)
 
-![fullscreen-capture-5102009-101548-am](https://chasingdings.com/wp-content/uploads/2009/05/fullscreen-capture-5102009-101548-am.jpg "fullscreen-capture-5102009-101548-am")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/05/fullscreen-capture-5102009-101548-am.jpg" title="fullscreen-capture-5102009-101548-am" classes="center" >}}
 
 So today, as I logged in, I thought maybe I would set up my own little farm league. I made a third account, a free one, and set off to farm Lord Nightshade, whom I now now from what Allison and Kaitlynn won, drops a tree, a couch, and bones, among others. I, Tara, won nothing.
 
-![wizardgraphicalclient-2009-05-10-12-00-14-45](https://chasingdings.com/wp-content/uploads/2009/05/wizardgraphicalclient-2009-05-10-12-00-14-45.jpg "wizardgraphicalclient-2009-05-10-12-00-14-45")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/05/wizardgraphicalclient-2009-05-10-12-00-14-45.jpg" title="wizardgraphicalclient-2009-05-10-12-00-14-45" classes="center" >}}
 
 I got a tell from a friend asking for some help with the Oni no Death instance. It was a welcome break. I camped Kaitlynn out, and Allison and I headed into the instance.
 

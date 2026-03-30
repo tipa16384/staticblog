@@ -3,40 +3,19 @@ date: '2009-02-23T08:16:32-05:00'
 draft: false
 title: "#bearraid: Revenge of the Bear"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/23/bearraid-revenge-of-the-bear/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Based on last week's run-through of the very bare beginnings of still-very-fluid Twitter RPG, I rewrote the entire thing from scratch. It has very solid..."
+categories:
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/bearraid2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/bearraid2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/bearraid2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/bearraid2.jpg"
 ---
+Based on last week's run-through of the very bare beginnings of still-very-fluid Twitter RPG, I rewrote the entire thing from scratch. It has very solid...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/bearraid2.jpg "bearraid2")Based on last week's run-through of the very bare beginnings of still-very-fluid Twitter RPG, I rewrote the entire thing from scratch. It has very solid underpinnings now. The timeline loop -- rock solid. Fights with multiple monsters and players worked fine, though it was somewhat chaotic and I was having trouble keeping track of every actor's health without the handy visual aid of health bars to keep me informed.
+
+
+Based on last week's run-through of the very bare beginnings of still-very-fluid Twitter RPG, I rewrote the entire thing from scratch. It has very solid underpinnings now. The timeline loop -- rock solid. Fights with multiple monsters and players worked fine, though it was somewhat chaotic and I was having trouble keeping track of every actor's health without the handy visual aid of health bars to keep me informed.
 
 The first issue? The game was TOO FAST. Seriously. I had to keep slowing it down, finally slowing it to a twentieth of its initial speed, so that someone following the fight on Twitter wouldn't have to keep refreshing their Twitter client to see it. The rate the fight progresses should be about the same rate a Twitter client would refresh.
 

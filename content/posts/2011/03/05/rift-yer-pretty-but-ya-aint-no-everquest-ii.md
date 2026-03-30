@@ -3,47 +3,24 @@ date: '2011-03-05T08:24:52-05:00'
 draft: false
 title: "Rift, yer pretty, but ya ain't no EverQuest II"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/03/05/rift-yer-pretty-but-ya-aint-no-everquest-ii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Since the times when the local post office is open correspond almost exactly to the times I am at work, I won't be able to..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg"
 ---
+Since the times when the local post office is open correspond almost exactly to the times I am at work, I won't be able to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/EverQuest2-2011-03-05-07-24-37-81-480x307.jpg" title="Plushies, Appearance Items and Housing" class="align-center" >}}
+
 
 Since the times when the local post office is open correspond almost exactly to the times I am at work, I won't be able to pick up my Rift Collector's Edition until later today... and I couldn't play last night at all. My headstart amnesty was up.
 
 So I turned to EQ2 for a little fun.
 
-.bbpBox43845498133692420 {background:url(http://a3.twimg.com/a/1298664727/images/themes/theme1/bg.png) #e4ecec;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block} @[tipadaknife](http://twitter.com/tipadaknife) eq2 really? Figured you were done with it.[less than a minute ago](http://twitter.com/#!/redheadedtim/status/43845498133692416) via [Twitter for BlackBerry®](http://blackberry.com/twitter)[![](http://a3.twimg.com/profile_images/66016658/Han_and_Lando02_normal.jpg)](http://twitter.com/redheadedtim)**[redheadedtim](http://twitter.com/redheadedtim)**
+.bbpBox43845498133692420 {background:url(http://a3.twimg.com/a/1298664727/images/themes/theme1/bg.png) #e4ecec;padding:20px;} p.bbpTweet{background:#fff;padding:10px 12px 10px 12px;margin:0;min-height:48px;color:#000;font-size:18px !important;line-height:22px;-moz-border-radius:5px;-webkit-border-radius:5px} p.bbpTweet span.metadata{display:block;width:100%;clear:both;margin-top:8px;padding-top:12px;height:40px;border-top:1px solid #fff;border-top:1px solid #e6e6e6} p.bbpTweet span.metadata span.author{line-height:19px} p.bbpTweet span.metadata span.author img{float:left;margin:0 7px 0 0px;width:38px;height:38px} p.bbpTweet a:hover{text-decoration:underline}p.bbpTweet span.timestamp{font-size:12px;display:block} @[tipadaknife](http://twitter.com/tipadaknife) eq2 really? Figured you were done with it.[less than a minute ago](http://twitter.com/#!/redheadedtim/status/43845498133692416) via [Twitter for BlackBerry®](http://blackberry.com/twitter)[{{< image src="http://a3.twimg.com/profile_images/66016658/Han_and_Lando02_normal.jpg" classes="center" >}}](http://twitter.com/redheadedtim)**[redheadedtim](http://twitter.com/redheadedtim)**
 
 redheadedtim
 
@@ -53,7 +30,7 @@ Most know that I've given up my halfling troubadour and have been working for so
 
 This last week has been all Rift, all the time, and when I logged into EQ2 to finish up the Lavastorm Sootfoot line, I felt really ... weak. Since I couldn't heal myself, I had to choose my fights carefully, and still died a lot if I got too many adds. Since there were no other people of my level in the zone, soloing was my only option. Since there was no public content at my level (there is for level 90s in the new expansion) I just hacked away at goblins and drakes and colossi, finished my quests, got my rewards -- a really nice blade I can wield at 55, a weird hat which will prevent me from being mind-controlled by Void-touched creatures (maybe), and access to a lot of housing items and appearance armor.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/lunarwolvesguildhall-480x376.jpg" title="Lunar Wolves guild hall... in 3D" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/lunarwolvesguildhall-480x376.jpg" title="Lunar Wolves guild hall... in 3D" classes="center" >}}
 
 Oh yeah.
 

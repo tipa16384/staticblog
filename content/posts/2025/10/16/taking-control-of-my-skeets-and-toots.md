@@ -3,41 +3,19 @@ date: '2025-10-16T08:46:20-05:00'
 draft: false
 title: "Taking Control of my Skeets and Toots"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/10/16/taking-control-of-my-skeets-and-toots/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I lost so much stuff when I left Twitter, and again when G+ shut down. Never again. I'm using WordLand to control my social media."
-description: "I lost so much stuff when I left Twitter, and again when G+ shut down. Never again. I'm using WordLand to control my social media."
-tags:
+categories:
   - "Daily Blogroll"
+tags:
   - "Blogging"
   - "West Karana"
   - "Wordland"
   - "Wordpress"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/hq720.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/hq720.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/hq720.jpg"
 ---
+I lost so much stuff when I left Twitter, and again when G+ shut down. Never again. I'm using WordLand to control my social media.
+<!--more-->
 
 The header image, BTW, is from "{{< youtube 0jRI79wS9SA >}}", a collection of computer animated shorts meant to, I guess, keep a toddler entertained for an hour or so. As research for using this image, I watched a bit of it. Bugs Bunny ain't got nothing to worry about.
 
@@ -55,7 +33,7 @@ Enter Dave Winer's "[WordLand](http://scripting.com/2025/04/08/220456.html)".
 
 WordLand is a JavaScript-based front end to a WordPress blog that aims to make blogging as easy as tooting or tweeting. It's a box that supports all the formatting WordPress does. You type, you hit send, and you're *done*.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/image-9-1024x682.png" title="WordLand" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/image-9-1024x682.png" title="WordLand" classes="center" >}}
 
 It's been amazing. I find myself posting more, simply because the interface is weirdly better than that on either Mastodon or BlueSky. There's no length restrictions, as Jetpack just cuts off after so many characters and links to the rest on the host blog.
 
@@ -63,13 +41,13 @@ As for the host blog -- I thought for maybe a second about just using Chasing Di
 
 Enter West Karana.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/image-10.png" title="How It Works" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/image-10.png" title="How It Works" classes="center" >}}
 
 Some may remember when I ran a blog called West Karana, named such after one of my favorite vanilla EverQuest zones. The original domain is lost and used for scams, unfortunately. I'd hesitated to revive the name, largely because people might find themselves at the scam site by accident, but here, it made sense. People would read the stuff I wrote on social media, and if they were interested in reading the full item, they'd just follow the link, which could be any old name, as they wouldn't be typing it in. Why not West Karana?
 
 I made two West Karanas, actually -- [westkarana.xyz](https://westkarana.xyz) points to my Daily Blogroll, and [westkarana.blog](https://westkarana.blog) points to my WordLand-sourced chronicle of my social media posts.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/image-11.png" title="I can finally drag out my old banners?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/image-11.png" title="I can finally drag out my old banners?" classes="center" >}}
 
 I own all my content, now. It may not be worth anything, but it's mine. I can back up all the stuff in the new blog onto my local drive anytime I want. I can even upload it into Chasing Dings, if I want, all categorized so that I could keep it off the front if I felt I needed to. There's an RSS feed so that if someone wanted to, for any reason, see my social media posts in a feed reader, that could happen. I can even stop AI crawlers from being trained on my stuff (though they probably could just get it from the social media sites directly).
 

@@ -3,40 +3,17 @@ date: '2011-04-17T19:47:51-05:00'
 draft: false
 title: "Rift: Ding 50!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/04/17/rift-ding-50/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Lucked into a group grinding the Abyssal Precipice instance and dinged 50 a few times in. So, I'm now max level in Rift. More than..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-17-15-39-16-46-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-17-15-39-16-46-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-17-15-39-16-46-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-17-15-39-16-46-480x383.jpg"
 ---
+Lucked into a group grinding the Abyssal Precipice instance and dinged 50 a few times in. So, I'm now max level in Rift. More than...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-17-15-39-16-46-480x383.jpg" title="Couldn't get more glowy" class="align-center" >}}
+
 
 Lucked into a group grinding the Abyssal Precipice instance and dinged 50 a few times in. So, I'm now max level in Rift. More than that, I have the required, for rogues, +HIT > 50 (mine is around 75), so I am geared sufficiently for T1 dungeons. In T1 dungeons, I need to work HIT to > 100, and then in T2 dungeons, to > 200 for raiding.
 

@@ -3,40 +3,17 @@ date: '2006-02-18T00:00:00-05:00'
 draft: false
 title: "Queen Sendaii Dead..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/18/queen-sendaii-dead/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I didn't really expect to be able to raid last night, but when I logged in the guild had just wiped, and there was a..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/hivenews.jpg"
-cover:
-  image: "https://chasingdings.com/images/hivenews.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/hivenews.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/hivenews.jpg"
 ---
+I didn't really expect to be able to raid last night, but when I logged in the guild had just wiped, and there was a...
+<!--more-->
 
-![](https://chasingdings.com/images/hivenews.jpg)
+
 
 I didn't really expect to be able to raid last night, but when I logged in the guild had *just* wiped, and there was a spot for me... so... I was able to attend a raid I thought I would never see. Queen Sendaii is a two hour fight, and I think it was pretty fun. The guild has been hammering on this raid night after night while I was at work or playing some other game, so I can't take any credit.
 

@@ -3,40 +3,17 @@ date: '2011-07-05T06:53:02-05:00'
 draft: false
 title: "Need For Speed World: Drift online for free"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/07/05/need-for-speed-world-drift-online-for-free/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Super Mario Kart on the SNES was a racing gateway drug in our household in the 90s. We liked SMK. We LOVED SMK. All of..."
+categories:
   - "MMORPG"
   - "Need for Speed World"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/07/nfsw-2011-07-05-00-13-22-31-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/07/nfsw-2011-07-05-00-13-22-31-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/nfsw-2011-07-05-00-13-22-31-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/07/nfsw-2011-07-05-00-13-22-31-480x384.jpg"
 ---
+Super Mario Kart on the SNES was a racing gateway drug in our household in the 90s. We liked SMK. We LOVED SMK. All of...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/nfsw-2011-07-05-00-13-22-31-480x384.jpg" title="The AE86 in my garage" class="align-center" >}}
+
 
 Super Mario Kart on the SNES was a racing gateway drug in our household in the 90s. We liked SMK. We LOVED SMK. All of us, me, my daughter and my son, mastered SMK. And we had a Playstation, so we turned to Need For Speed and many of its sequels to get that same joy of racing each other, togetherness as a family, etc.
 
@@ -44,7 +21,7 @@ I've become thoroughly disenchanted over not having a car of my own. I scour Cra
 
 [Need For Speed World](http://world.needforspeed.com/) has an AE86. It's an MMO (kinda). It's free. And I've been playing it for hours.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/nfsw-2011-07-04-22-38-07-98-480x384.jpg" title="Where the doughnut meets the driveway" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/07/nfsw-2011-07-04-22-38-07-98-480x384.jpg" title="Where the doughnut meets the driveway" classes="center" >}}
 
 Need For Speed World is an open world street racing game played simultaneously with hundreds of other people, whom you will probably encounter while exploring the vaguely Los Angeles-like city. If some Civic is getting all up on your tail, you can challenge them to a 1-on-1 race, or at any time join a queue for a multiplayer race. If you'd like to join a race for a specific course, racing hubs are scattered around the map where you can choose to race against NPC cars or other players.
 
@@ -58,7 +35,7 @@ W-A-S-D, or the arrow keys, move the car around. You can't strafe as far as I ca
 
 You'll gain access to various power-ups, through racing, that can help your chances on the course. There's the nitro boost, of course, the "traffic magnet" that attracts NPC cars to the car of your choice and so on. Playing against more experienced drivers means getting hit with every dirty trick they have at their disposal. Course knowledge is invaluable; knowing just when to push someone else against a sudden unavoidable barrier is a game changer.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/nfsw-2011-07-05-07-21-43-77-480x384.jpg" title="Roadblock up ahead" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/07/nfsw-2011-07-05-07-21-43-77-480x384.jpg" title="Roadblock up ahead" classes="center" >}}
 
 **Pursuit**
 
@@ -70,7 +47,7 @@ But collide with a cop car... bump a cop car... scratch the paint of a cop car..
 
 NFSW seamlessly generates an instance of the game world as you enter pursuit mode so you're not interfering with other players as you play cop-and-mouse. It's far too easy to anger a cop as you're exploring the city, though.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/07/nfsw-2011-07-04-23-19-28-47-480x377.jpg" title="Race start" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/07/nfsw-2011-07-04-23-19-28-47-480x377.jpg" title="Race start" classes="center" >}}
 
 There's a cash shop where you can buy extended customization options to make your car a real danger on the road. I'm not certain you can obtain the special things through normal gameplay, so it could be an instance of paying to win, especially given the crudity of the control scheme costing you a lot of subtler strategies (for instance, every car in NFSW appears to be an automatic).
 

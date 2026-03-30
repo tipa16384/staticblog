@@ -3,44 +3,24 @@ date: '2009-02-26T20:10:56-05:00'
 draft: false
 title: "Out of work? Home sick? Wanna talk about Spellborn?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/26/out-of-work-home-sick-wanna-talk-about-spellborn/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Breaking news! Acclaim CEO Howard Marks says Chronicles of Spellborn closed beta starts NEXT WEEK!..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Acclaim"
   - "Voon"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg"
 ---
+Breaking news! Acclaim CEO Howard Marks says Chronicles of Spellborn closed beta starts NEXT WEEK!...
+<!--more-->
 
 # **Breaking news! Acclaim CEO Howard Marks says Chronicles of Spellborn closed beta starts NEXT WEEK!**
 
-[![sb_client-2009-02-26-19-48-24-71](https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg "sb_client-2009-02-26-19-48-24-71")](https://chasingdings.com/wp-content/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/02/sb_client-2009-02-26-19-48-24-71.jpg)
 
 I'd love to talk about Spellborn. I've been a big fan of it for a couple years now, wrote about it at every opportunity at Massively, even had the collector's box set shipped from Germany and leveled up chars on the EU servers because I REALLY LOVE THIS GAME. Cue creepy "{{< youtube t5xehYVnsnY >}}" music...
 

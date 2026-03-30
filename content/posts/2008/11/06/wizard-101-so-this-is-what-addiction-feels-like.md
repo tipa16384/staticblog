@@ -3,42 +3,20 @@ date: '2008-11-06T08:17:18-05:00'
 draft: false
 title: "Wizard 101: So, this is what addiction feels like"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/06/wizard-101-so-this-is-what-addiction-feels-like/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I really didn't INTEND to play Wizard 101 all night...."
+categories:
   - "MMORPG"
   - "Shin Megami Tensei"
   - "Wizard101"
+tags:
   - "Moo Shu; Big Ben; Meowiarty; Tree of Life; Jade Oni; De"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-54-04-47.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-54-04-47.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-54-04-47.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-54-04-47.jpg"
 ---
+I really didn't INTEND to play Wizard 101 all night....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-54-04-47.jpg "wizardgraphicalclient-2008-11-05-23-54-04-47")
+
 
 I really didn't INTEND to play Wizard 101 all night.
 
@@ -54,7 +32,7 @@ Instead, what I said was, "Oh, I have a couple of Village of Sorrows quests to f
 
 And that was pretty much it for the evening. Turns out that Jade Oni isn't the highest health mob in Moo Shu; there's an 8000 health mob in the Tree of Life that I'd never seen before.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-57-31-97.jpg "wizardgraphicalclient-2008-11-05-23-57-31-97")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-05-23-57-31-97.jpg" title="wizardgraphicalclient-2008-11-05-23-57-31-97" classes="center" >}}
 
 It was getting kinda late after we brought the Death Oni down, so i took my leave and chatted with a friend on Xfire for awhile.
 

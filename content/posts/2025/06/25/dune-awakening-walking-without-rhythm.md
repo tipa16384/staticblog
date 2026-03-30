@@ -3,41 +3,19 @@ date: '2025-06-25T08:30:29-05:00'
 draft: false
 title: "Dune Awakening: Walking Without Rhythm"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/06/25/dune-awakening-walking-without-rhythm/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Also: walking without WATER. Also: Why isn't there a \"walk without rhythm\" button? Also: What if I just have, like, natural rhythm? What do I do then?"
-description: "Also: walking without WATER. Also: Why isn't there a \"walk without rhythm\" button? Also: What if I just have, like, natural rhythm? What do I do then?"
-tags:
+categories:
   - "Dune Awakening"
   - "MMORPG"
+tags:
   - "Dune"
   - "Harkonnen"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/walk.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/06/walk.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/walk.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/walk.png"
 ---
+Also: walking without WATER. Also: Why isn't there a "walk without rhythm" button? Also: What if I just have, like, natural rhythm? What do I do then?
+<!--more-->
 
 The first Imperial Testing Station I'd encountered was a fun little romp. These are the Dune Awakening versions of dungeons. These are the old school kind of dungeons; not instanced, everyone shares the same dungeon and if there's someone a few minutes deeper into the dungeon than you, you're probably not going to find much. Since these dungeons are open to all, the mob respawn is pretty fast. It's entirely possible to happen upon a testing station and just keep working through it for experience and loot.
 
@@ -47,7 +25,7 @@ They were successful! Complete success! Except for that one plant that created a
 
 The next testing station I tried, Imperial Testing Station 10 -- different story.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/1-20250622203446_1-1024x576.jpg" title="My character trading barbs with an Atreides agent" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/1-20250622203446_1-1024x576.jpg" title="My character trading barbs with an Atreides agent" classes="center" >}}
 
 I may have not mentioned before that I am playing Dune: Awakening. I am playing Dune: Awakening. My character that I rolled up back when they released the character creator/graphics test is in the live game; she is a Harkonnen mentat and Pietr de Vries is her idol, although they haven't yet met. When the day comes, she'll probably be too starstruck to speak. But more likely they'll be trading elaborate takedowns, as my character is likely to throw her lot in with the Atreides, after all.
 
@@ -55,7 +33,7 @@ There's a good reason for this. The only multiplayer games I really stick with a
 
 I like that my character looks my age. She's new to Arrakis, perhaps, but she had a long career to this point. The opening to the game has your character rescued from the wreck of a downed prisoner transport, and you were one of the prisoners. You only get sent to Arrakis when you have really, *really*, messed up with the Imperium. For lesser crimes, you would have just been shot. For what you did -- you're going to *Dune*. Have fun going insane in the testing station!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/20250622201107_1-1024x429.jpg" title="Recovering from one of the Fremen trials" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/20250622201107_1-1024x429.jpg" title="Recovering from one of the Fremen trials" classes="center" >}}
 
 I climbed to a high place and fired off a survey probe. These map out whatever zone you're in. There *are* zones, but loading is seamless. If the game hadn't told you you were zoning, you wouldn't know. The first map (calling it the "copper" map) has one zone; this second one -- the "iron" map -- has at least three. I'm calling them that because of the prominent resources for the zone -- copper to start, then iron, then carbon, aluminum, cobalt and then who knows? I'm just guessing based on the resources needed for the higher level crafting recipes.
 
@@ -63,7 +41,7 @@ The survey probe revealed the location of the second Fremen trial. You're given 
 
 The survey probe also marked the location of Imperial Testing Station 10. I danced in, ready for another fun little romp. I got told different, right from the start. These weren't insane scientists. These were a well trained, well equipped paramilitary force.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/1-20250620111208_1-1024x575.jpg" title="The Sardaukar are always on the lookout for escaped prisoners" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/1-20250620111208_1-1024x575.jpg" title="The Sardaukar are always on the lookout for escaped prisoners" classes="center" >}}
 
 In Testing Station 10, a Harkonnen splinter faction invaded and killed all the scientists (who were also working on breeding new hardy plants). Taking their place, they intend to use this as a staging ground to take over Arrakis. I'm not sure at this point if the Hakonnen are secretly sanctioning this while officially acting entirely unaware, or if they are a true rebel faction. In any event, the Atreides are aware of the leader and want her dead, and if I want to convince them that I'm one of the *good* Harkonnen, I better make sure I have my stillsuit mask off when I twist the knife in her heart, so she *knows* just how much she messed up.
 
@@ -85,7 +63,7 @@ Here's the thing about Dune. Dune has sandstorms. Anything left unsheltered *wil
 
 I was two or three kilometers from home, which doesn't sound like much. Except there's the sandworms -- walk too fast, and you will get swallowed. It's not a pleasant experience. I know. The heat of the day will parch you. The night will expose you to Sardaukar patrols. I had to hop from cover to cover like the desert mouse they call Muad'dib -- which is a good and plentiful source of blood, if you have nothing else to drink.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/walk-1.png" title="Map of my journey" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/walk-1.png" title="Map of my journey" classes="center" >}}
 
 The testing station is on the right side of the map. I'm not sure whose base that is near it. It was open to me, but didn't have any water I could use. Testing stations have some water, but I didn't have a full load.
 

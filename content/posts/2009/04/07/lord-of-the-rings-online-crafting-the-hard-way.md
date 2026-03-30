@@ -3,47 +3,23 @@ date: '2009-04-07T07:43:45-05:00'
 draft: false
 title: "Lord of the Rings Online: Crafting the Hard Way"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/07/lord-of-the-rings-online-crafting-the-hard-way/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's been bugging me for awhile that my Woodworker, Eraindiel, never mastered apprentice woodworking. She just leveled out of the area too soon, and needed..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
+tags:
   - "Crafting"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-07-07-56-58-24.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-07-07-56-58-24.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-07-07-56-58-24.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-07-07-56-58-24.jpg"
 ---
+It's been bugging me for awhile that my Woodworker, Eraindiel, never mastered apprentice woodworking. She just leveled out of the area too soon, and needed...
+<!--more-->
 
 It's been bugging me for awhile that my Woodworker, Eraindiel, never mastered apprentice woodworking. She just leveled out of the area too soon, and needed to get making journeyman and now expert weapons -- without mastery, so not as good as they could be, but good enough.
 
 Last night, Windfola was acting up and moving around was difficult, so largely we stayed in the Bree crafting hall. I felt that would be the perfect opportunity to finish off master apprentice woodworking so that at least the journeyman-level weapons I was making for kinsfolk would count.
 
 But what to make to gain the skill the fastest with the least use of resources? The opportunity cost of gathering resources is immense, way more than the cost of crafting an item, so I didn't mind making more things if they took fewer resources.
-
-![lotroclient-2009-04-07-07-56-58-24](https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-07-07-56-58-24.jpg "lotroclient-2009-04-07-07-56-58-24")
 
 I scoured the web looking for a good crafting guide that would answer this question, and also cover the topic for all my other crafters as well, and also take advantage of synergies between specialties, for instance in the case of a Weaponsmith, looking for opportunities to level Prospecting and Woodworking as well as Weaponcrafting if points in all three were needed.
 
@@ -91,4 +67,4 @@ Next job: Typing in the Expert Tailoring recipes so I can find the quickest path
 
 But she already looks pretty cool! Using junk armor to stamp appearance slots, plus some cosmetic items and recipes, makes her look like one bad elf.
 
-![lotroclient-2009-04-07-08-10-28-86](https://chasingdings.com/wp-content/uploads/2009/04/lotroclient-2009-04-07-08-10-28-86.jpg "lotroclient-2009-04-07-08-10-28-86")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/lotroclient-2009-04-07-08-10-28-86.jpg" title="lotroclient-2009-04-07-08-10-28-86" classes="center" >}}

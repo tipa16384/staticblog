@@ -3,37 +3,14 @@ date: '2025-10-21T23:23:49-05:00'
 draft: false
 title: "Big Changes for Advent of Code 2025"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/10/21/big-changes-for-advent-of-code-2025/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Half the puzzles, no global leaderboard, and definitely... no AI."
-description: "Half the puzzles, no global leaderboard, and definitely... no AI."
-tags:
+categories:
   - "Advent of Code"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/AoC_banner-1024x576-1.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/AoC_banner-1024x576-1.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/AoC_banner-1024x576-1.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/AoC_banner-1024x576-1.png"
 ---
+Half the puzzles, no global leaderboard, and definitely... no AI.
+<!--more-->
 
 Advent of Code, the yearly gauntlet of programming puzzles that Eric Wastl runs each year from December 1 through December 25, is a big event for me. It's the one time of the year when I can get out of the humdrum of programming for an insurance company and really get to think about problems. Problems like, how many puzzles can I solve in a new programming language before I say "Fuck it, I'll do it in Python."
 
@@ -43,7 +20,7 @@ One year, I started out doing the puzzles in the "fantasy retro console" Pico-8,
 
 My past couple of years haven't been wild successes. The puzzles got too hard for me to wrap my mind around, and rather than seek help on Reddit, I just quit. I always meant to go back and finish them but, well, I didn't.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/image-12.png" title="Thar be changes afoot" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/image-12.png" title="Thar be changes afoot" classes="center" >}}
 
 I'm not super surprised to find that Eric has decided to cut down on the number of puzzles in AoC. He's been clear for years that preparing for AoC takes a good portion of his year, what with developing the puzzles and having testers solve them so that he can smash the bugs and set the difficulty appropriately.
 

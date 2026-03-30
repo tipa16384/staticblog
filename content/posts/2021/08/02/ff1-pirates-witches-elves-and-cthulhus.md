@@ -3,65 +3,44 @@ date: '2021-08-02T21:07:00-05:00'
 draft: false
 title: "FF1: Pirates, Witches, Elves and Cthulhus."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/02/ff1-pirates-witches-elves-and-cthulhus/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We defeated Garland and rescued Princess Sarah! Yay! A grateful king embarked on an impromptu \"Infrastructure Week\", and built us a bridge because that was..."
+categories:
   - "Blaugust"
   - "CRPG"
   - "Final Fantasy"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Jrpg"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/FF1neslogo.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/FF1neslogo.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/FF1neslogo.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/FF1neslogo.jpg"
 ---
+We defeated Garland and rescued Princess Sarah! Yay! A grateful king embarked on an impromptu "Infrastructure Week", and built us a bridge because that was...
+<!--more-->
 
 We defeated Garland and rescued Princess Sarah! Yay! A grateful king embarked on an impromptu "Infrastructure Week", and built us a bridge because that was *exactly* the reward we were looking for. Sure, he could have given us gold or weapons, but instead the Cupertino Corps of Engineers lali-ho'd their way north and built a bridge.
 
 Not like he didn't have loot to give. There were some vaults sealed with mystic keys below. We saved the king's daughter, but we weren't important enough for the good stuff. Garland, undefeated, now defeated by us, sure. The King of Constantine couldn't get rid of us fast enough.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210801093549_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210801093549_1-1024x576.jpg" classes="center" >}}
 
 Wandering around and leveling as fast as we could eventually brought us to the city of Pravoka, which had recently suffered a pirate invasion. Chief Pirate Brikke and his crew were pretty receptive to a little diplomacy, and after awhile we got him to agree to leave his piratey ways behind and give us his ship!
 
 It's very lucky that Warriors of Light can crew a ship by their lonesomes. It's a talent we possess.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210801111316_1-1024x576.jpg" title="Final Fantasy is a sequel to Legend of Zelda confirmed." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210801111316_1-1024x576.jpg" title="Final Fantasy is a sequel to Legend of Zelda confirmed." classes="center" >}}
 
 We soon found ourselves in Elfheim, where they have a sleeping prince problem. Game bad guy of legend Astos put the prince to sleep and stole off with everything that wasn't nailed done, and some things that were. Helpful elves mused loudly that there must be some kind of **potion** that could break the curse. Other elves would proclaim to the air that **Matroya** is known for her potions.
 
 After awhile, I put two and two together and went in search of this elusive witch.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/ffxiv_08022021_201924_044-2-1024x767.jpg" title="Matroya and Me" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/ffxiv_08022021_201924_044-2-1024x767.jpg" title="Matroya and Me" classes="center" >}}
 
 I found her easily enough, but she had no idea what I was talking about. She eventually wondered if I were maybe several games too late, and perhaps seek her out in the first Final Fantasy?
 
 What, she's there, too? (Hmm... I should have changed to my Red Mage job for this screenie...)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210801122302_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210801122302_1-1024x576.jpg" classes="center" >}}
 
 While seeking for her, I came across a marsh cave, three levels deep. I fought to the very edge of my health and magic, had cleared the entire place, was all out of potions but that was okay because there was just one chest more to open.
 
@@ -71,7 +50,7 @@ And I got the crown. I have no idea whose crown it is, but I have it.
 
 The magic system in Final Fantasy is kind of different. Newer games have magic points, that deplete when spells are cast. This first Final Fantasy, though, uses spell slots, like Dungeons & Dragons. Black Mages like Tom's can cast several first level spells, somewhat fewer second level spells, and so on. Thundara, a fourth level spell, can only be case three times. The Ether potion restores one charge of each spell level, instead of just dumping more magic points into a pool all spells share.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/08/20210801125903_1-1024x576.jpg" title="Oh, there she is." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210801125903_1-1024x576.jpg" title="Oh, there she is." classes="center" >}}
 
 Matroya, when I found her in FF1, was in no mood to talk about making potions. All SHE wanted to talk about her missing eye. Who took it? Astos. Astos took it.
 

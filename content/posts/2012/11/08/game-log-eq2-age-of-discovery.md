@@ -3,40 +3,17 @@ date: '2012-11-08T08:11:11-05:00'
 draft: false
 title: "Game Log: EQ2 Age of Discovery"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/11/08/game-log-eq2-age-of-discovery/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Those who follow me on Google+ have been hearing about my problems with the Age of Discovery. It's the expansion that brought mercenaries and beastlords..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-07-21-35-36-66-480x319.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-07-21-35-36-66-480x319.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/1-EverQuest2-2012-11-07-21-35-36-66-480x319.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/1-EverQuest2-2012-11-07-21-35-36-66-480x319.jpg"
 ---
+Those who follow me on Google+ have been hearing about my problems with the Age of Discovery. It's the expansion that brought mercenaries and beastlords...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-07-21-35-36-66-480x319.jpg" title="Halfling Beastlord" class="align-center" >}}
+
 
 Those who [follow me on Google+](http://plus.google.com/108460561201888322767/) have been hearing about my problems with the Age of Discovery. It's the expansion that brought mercenaries and beastlords to the game, and is the one expansion not included in the forthcoming expansion, Chains of Eternity. I went ahead and bought Chains of Eternity assuming I would get all previous expansions that I'd missed (Velious, etc), but, wrong. I'd get all previous expansions except Age of Discovery.
 
@@ -44,7 +21,7 @@ The whole point of buying CoE, especially the collector's edition, was to get th
 
 I went and bought AoD. As with CoE, I'd gotten a discount with my All Access membership, so that saved a couple bucks, but still. Lots of money spent in the past couple days on a game I'm still not 100% certain I'll keep playing.
 
-[![](https://chasingdings.com/wp-content/uploads/2009/02/hlfbst.jpg "Halfling Beastlord in EQ1")](https://chasingdings.com/index.php/2009/02/23/eq-a-signature-trip-down-memory-lane/)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/hlfbst.jpg" title="Halfling Beastlord in EQ1" classes="center" >}}](https://tipa16384.github.io/wkblog/index.php/2009/02/23/eq-a-signature-trip-down-memory-lane/)
 
 So; halfling beastlord. Years and years ago, in EQ1, I was kinda disappointed that halflings could not become beastlords. I had the perfect idea for their warder; a bixie! Everyone else was getting signature creatures from their homelands, and given halfling association with bixies in EQ and later, EQ2, it would be PERFECT. And unbearably CUTE.
 
@@ -58,7 +35,7 @@ Beastlords in EQ2 are related to scouts, not fighters, the archetype for monks. 
 
 So after a couple hours playing, no issues, easy leveling, New Halas is a no-challenge, high-reward starter zone meant only for familiarizing people with the game. I've gone through the place a couple times before, and there's really nothing new to talk about. I do have a few warders. They have different abilities depending upon their species, though some of the species classifications seem arbitrary (as, for instance, the widely reported, incorrect classification of hyenas with canines instead of felines).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/1-EverQuest2-2012-11-07-00-51-45-25-480x320.jpg" title="Berserker bling" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/11/1-EverQuest2-2012-11-07-00-51-45-25-480x320.jpg" title="Berserker bling" classes="center" >}}
 
 Scatterfall, who was originally an alt from way back whose big day prior was when she dinged level 14 in the Laboratory of Lord Vyemm, a raid zone in the Bonemire in the Kingdom of Sky. Her epic journey was the subject of a comic (included below). It was a time when you couldn't just teleport straight to the Bonemire from the guild hall; I had to get her to Feerrott and take the spires there.
 
@@ -78,4 +55,4 @@ Been soloing since.
 
 Here's the Scatterfall comic (she was named Scatter at the time, but lost the name in a server change).
 
-![](https://chasingdings.com/wp-content/uploads/2006/12/scatter.jpg "Scatter goes to war")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/12/scatter.jpg" title="Scatter goes to war" classes="center" >}}

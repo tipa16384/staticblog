@@ -3,52 +3,30 @@ date: '2021-10-03T13:11:58-05:00'
 draft: false
 title: "Stranger of Paradise: Final Fantasy Origins"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/03/stranger-of-paradise-final-fantasy-origins/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Some call me a Warrior of Light. Some call me a renegade. Some call me when Chaos rears its corrupted head. But you can call..."
+categories:
   - "Console Game"
   - "Final Fantasy"
   - "Final Fantasy Origins"
   - "PS5"
   - "Video Game"
   - "Video Game Series"
+tags:
   - "Chaos"
   - "Garland"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/stp_logo-2x-dxMtgRSFN.png"
 ---
+Some call me a Warrior of Light. Some call me a renegade. Some call me when Chaos rears its corrupted head. But you can call...
+<!--more-->
 
 Some call me a Warrior of Light. Some call me a renegade. Some call me when Chaos rears its corrupted head. But you can call me Garland. Jack Garland. I'm the one they call when there's nobody else.
 
-*Jack* Garland? Didn't we just kill you in [Final Fantasy I](https://chasingdings.com/category/final-fantasy/ff1/)? And... weren't *you* Chaos?
+*Jack* Garland? Didn't we just kill you in [Final Fantasy I](https://tipa16384.github.io/wkblog/category/final-fantasy/ff1/)? And... weren't *you* Chaos?
 
 I honestly hadn't heard of this game until Squenix sent me an e-mail talking about the demo. This happens again and again. Cool games that everyone (but me) has heard of, I come to it eons too late, way after it would have made sense.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211002220327-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211002220327-scaled.jpg)Totally not Garland
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211002220327-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211002220327-scaled.jpg)Totally not Garland
 
 Stranger of Paradise is a randomizer version of the first Final Fantasy game. Instead of being Chaos, in the demo, Garland fights and defeats someone wearing his iconic suit of armor.
 
@@ -64,7 +42,7 @@ The other Warriors of Light take on single iconic jobs from the Final Fantasy se
 
 You play Jack Garland, who can take on any of the basic jobs (those above, plus his starting job Swordsman, as well as Mage and Lancer). Also available to be unlocked in the demo are the advanced jobs Dragoon, White Mage, Black Mage, Red Mage, Thief, Monk, Knight, and Warrior. In the demo, I was able to unlock most of them -- and all of them play fairly differently.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211003102846-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211003102846-scaled.jpg)Garland in the Battle Settings screen
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211003102846-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211003102846-scaled.jpg)Garland in the Battle Settings screen
 
 The game has a number of systems to master. The combat takes place in real time, and each job has its own collection of counters and blocks that serve to keep you alive. You can even change jobs between any two of them on the fly -- for instance, swapping in as a Red Mage for a moment to get yourself a quick regeneration before swapping in the next moment back to Dragoon to stun the enemy with a powerful jump.
 
@@ -72,7 +50,7 @@ In addition to the basic abilities, there's a list of combos that are started by
 
 Garland can also do a finishing move on monsters that are staggered and low on health -- this is the preferred way of taking on patches of corruption, but bosses usually require this a few times before they succumb.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211003103245-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211003103245-scaled.jpg)Jed, another Warrior of Light
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211003103245-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/STRANGER-OF-PARADISE-FINAL-FANTASY-ORIGIN-TRIAL-VERSION-2_20211003103245-scaled.jpg)Jed, another Warrior of Light
 
 Garland's companions (and he can have only two at a time) work autonomously, although they can be asked to fight more fervently at request. They chatter with you during the game, but don't really reveal too much of the plot.
 

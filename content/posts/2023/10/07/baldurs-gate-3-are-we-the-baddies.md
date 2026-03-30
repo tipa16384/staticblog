@@ -3,45 +3,22 @@ date: '2023-10-07T11:35:24-05:00'
 draft: false
 title: "Baldur's Gate 3: Are We the Baddies?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/10/07/baldurs-gate-3-are-we-the-baddies/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I think I really screwed it all up, this time."
-description: "I think I really screwed it all up, this time."
-tags:
+categories:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
   - "PS5"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/Screenshot-2023-10-07-103249.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/10/Screenshot-2023-10-07-103249.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/Screenshot-2023-10-07-103249.png"
 ---
+I think I really screwed it all up, this time.
+<!--more-->
 
 I finished off Act 2 last night and found myself having to make a terrible choice before I could enter the actual city of Baldur's Gate and set off on the third and final act. I refused to make the choice, and so it was made for me.
 
 Now I'm wondering what to do about it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-6-1024x696.png" title="Excuse his appearance, he just ran into a fence. Face first. A lot." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-6-1024x696.png" title="Excuse his appearance, he just ran into a fence. Face first. A lot." classes="center" >}}
 
 Back up a bit. When last we left our heroes(?), we were just about to enter the Shadowfell to find the Nightsong, the secret of Ketheric Thorm's immortality. Balthazar was right on our heels, and he was pretty happy that we'd finished all those pesky trials that opened his way. Since he needed to bring the Nightsong back to Thorm for safekeeping.
 
@@ -51,7 +28,7 @@ Turns out the Nightsong was a literal captive angel. Shadowheart would need to k
 
 Though she still had her powers. The angel told me privately that Shar's twin and rival, Selune, had taken over, but Shadowheart would have to come to that realization on her own.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-7-1024x664.png" title="His blood runs thick, the floor is slick, my angel's killing Ketheric (angel's killing Ketheric)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-7-1024x664.png" title="His blood runs thick, the floor is slick, my angel's killing Ketheric (angel's killing Ketheric)" classes="center" >}}
 
 The angel -- Dame Aylin -- takes immediately off to the Moonrise Tower to confront her tormentor and incidentally, the father of her girlfriend, Isobel -- and so we follow after.
 
@@ -63,7 +40,7 @@ Devastated, Ketheric made a deal with Myrkul, one of the gods of Death, to resur
 
 Ketheric finally captures a second angel, cuts off their wings, and grafts them to his lieutenant Marcus. He orders Marcus to return Isobel to him whether she wills it or not. We, the adventurers, don't put up too much of a fight. Ketheric then uses the power of death and darkness to overwhelm Isobel's psyche, making her into his willing and obedient servant.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-8-1024x724.png" title="Isobel loves her daddy" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-8-1024x724.png" title="Isobel loves her daddy" classes="center" >}}
 
 I wonder, if I had saved Isobel, if all this would have gone differently. But in the end, Ketheric and his daughter were dead by our hand, and Dame Aylin was devastated.
 
@@ -71,7 +48,7 @@ However, we have our marching orders. Ketheric was one of three servants of the 
 
 But, we had one more encounter to clear before we entered the city...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-9-1024x655.png" title="Orpheus has no lute" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-9-1024x655.png" title="Orpheus has no lute" classes="center" >}}
 
 A mysterious portal opened up in our camp, and a trio of Githyanki monks jumped out. Our dream visitor was screaming at us to get to the ~~chopper~~ portal or she would be lost and with it, our protection against the Absolute, whom we had now met.
 

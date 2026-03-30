@@ -3,40 +3,19 @@ date: '2012-04-03T21:39:36-05:00'
 draft: false
 title: "W101: Interview with a Raven"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/04/03/w101-interview-with-a-raven/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/04/w101p4-480x365.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/04/w101p4-480x365.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/w101p4-480x365.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/04/w101p4-480x365.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2012/04/w101p4-480x365.jpg "Mother Raven")](https://chasingdings.com/wp-content/uploads/2012/04/w101p4.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2012/04/w101p4.jpg)
 
 Whenever I get confused or overwhelmed in Wizard101, I head to Wintertusk and talk with Mother Raven. These mysterious puzzle pieces had me puzzled... I guess... so I headed over the rainbow bridge to the Wintertusk barge, threaded my way through the slow-moving vultures, worked my way up the root of Yggdrasil and asked her if she could fit these puzzle pieces together.
 
@@ -44,7 +23,7 @@ She said nothing. She just gave me another piece. I had a feeling from her that 
 
 Only Mother Raven. And she's not telling.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/04/Fansite-Puzzler_WKarana04.jpg "Fansite-Puzzler_WKarana04")](https://chasingdings.com/wp-content/uploads/2012/04/Fansite-Puzzler_WKarana04.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/04/Fansite-Puzzler_WKarana04.jpg" title="Fansite-Puzzler_WKarana04" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/04/Fansite-Puzzler_WKarana04.jpg)
 
 This puzzle piece looks like it's below and slightly to the left of the previous puzzle piece. Where that previous piece looked like something that was being held, here we're seeing, I believe, a little bit of the person that is doing the holding.
 

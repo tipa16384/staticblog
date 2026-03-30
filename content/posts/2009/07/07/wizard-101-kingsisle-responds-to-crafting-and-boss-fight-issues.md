@@ -3,40 +3,16 @@ date: '2009-07-07T17:06:54-05:00'
 draft: false
 title: "Wizard 101: KingsIsle responds to crafting and boss fight issues"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/07/wizard-101-kingsisle-responds-to-crafting-and-boss-fight-issues/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Proving again just how awesome they are, KingsIsle will patch in some reagent and crafting changes early tomorrow morning. I'll have an \"in game\" report..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Crafting"
   - "Housing"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Proving again just how awesome they are, KingsIsle will patch in some reagent and crafting changes early tomorrow morning. I'll have an "in game" report...
+<!--more-->
 
 Proving again just how awesome they are, KingsIsle will patch in some reagent and crafting changes early tomorrow morning. I'll have an "in game" report about the changes tomorrow evening.
 

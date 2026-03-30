@@ -3,42 +3,21 @@ date: '2025-03-31T12:48:32-05:00'
 draft: false
 title: "I Know What I Did Last Weekend"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/03/31/i-know-what-i-did-last-weekend-3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O' STUFF."
-description: "Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O' STUFF."
-tags:
+categories:
   - "Gloomhaven"
   - "Pokemon"
   - "Steam Games"
+tags:
   - "A Dark Room"
   - "Arcade Paradise"
+  - "Pokemon"
   - "Sword for Hire"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/arcadeparadisebanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/03/arcadeparadisebanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/arcadeparadisebanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/arcadeparadisebanner.png"
 ---
+Arcade Paradise, A Dark Room, Pokemon TCG Pocket, Frosthaven and an update on Sword for Hire. LOTS O' STUFF.
+<!--more-->
 
 First up, I get so many spam comments in Russian on my blog. Do they think I speak Russian? If I let those comments through, would they only be read by other Russian scammers?
 
@@ -60,13 +39,13 @@ It's a time management sim, is what it is. The customers don't do their own laun
 
 It's a "just one more day" kind of game. Addictive.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/image-8-1024x397.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/image-8-1024x397.png" classes="center" >}}
 
 We finally start Frosthaven tonight. I printed up some wolves, because there will be wolves. I also painted the minis for the characters we're starting out with. I have the banner maid, Drew has the blinkblade, Kasul has the necromancer and Ally has the healer. Behind the painted minis are the enemies for the next couple scenarios, so I have a lot of painting left to do.
 
 Speaking of games with minis, looks like I have my third league matchup for the Malifaux league. Probably happening next week.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/image-9.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/image-9.png" classes="center" >}}
 
 **Sword for Hire**
 
@@ -74,7 +53,7 @@ I finished my "remove LLM" pass from the game, so now only the town map has LLM 
 
 The flow for the game is now going to be in two parts. The first part is the main game portion, which is built on the Textual terminal UI package. It works broadly similarly to HTML/CSS, so any web design experience is directly useful, which is good for me, as I am a web designer. The startup page will load the character select screen, and this can optionally flow into the character creation screen, the first page of which is above. Either flow leads into the town map, which is going to be modeled after an old Rogue-like called "Angband". I always liked their town map. And that will lead into the actual adventure.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/1-Screenshot-2025-03-31-at-12.11.16 PM-1024x900.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/1-Screenshot-2025-03-31-at-12.11.16 PM-1024x900.jpg" classes="center" >}}
 
 **Pokemon TCG Pocket**
 
@@ -86,7 +65,7 @@ Shining Revelry introduced, besides shinies, a bunch of new EX cards, chief amon
 
 The deck just powers up Giratina EX and Darkrai EX on the bench while Druddigon buys time. It's a very technical deck and I love it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/image-10.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/image-10.png" classes="center" >}}
 
 **A Dark Room**
 

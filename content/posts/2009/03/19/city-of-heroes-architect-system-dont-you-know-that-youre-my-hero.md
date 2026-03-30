@@ -3,40 +3,18 @@ date: '2009-03-19T07:45:35-05:00'
 draft: false
 title: "City of Heroes Architect system: Don't you know that you're my hero?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/19/city-of-heroes-architect-system-dont-you-know-that-youre-my-hero/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's the wave of the future. No, it's not the wave of the future. Handing the level making tools to the players is the wave..."
+categories:
   - "City of Heroes"
   - "MMORPG"
+tags:
   - "Architect"
   - "Issue 14"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg"
 ---
+It's the wave of the future. No, it's not the wave of the future. Handing the level making tools to the players is the wave...
+<!--more-->
 
 It's the wave of the future. No, it's not the wave of the future. Handing the level making tools to the players is the wave of the past, and it's made game after game stick around for years past the "sell by" date. Half Life, Warcraft III, Unreal 2... It doesn't take a genius to see that tapping the boundless enthusiasm and creativity of your players can be a *good thing*.
 
@@ -48,7 +26,9 @@ The concept behind Architect is that you are making a holodeck mission for the e
 
 I called my mission, "Contacts Night Off". What if all the mission contacts who seem to have no lives aside from standing around, waiting for a hero or villain to call them about a mission, just decided to go home? And sleep? Or just not get hassled by mission-seeking players?
 
-[![cityofheroes-2009-03-19-07-56-46-51](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51-480x359.jpg "cityofheroes-2009-03-19-07-56-46-51")](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-07-56-46-51.jpg)
 
 *Click to see this at full size*
 
@@ -56,7 +36,7 @@ Any new story arc starts with a contact. But -- they've all gone home! Enter Sam
 
 Sammy Super is impatient and whiny, but you've noticed that all YOUR contacts have gone missing as well. It's in your own best interests to track them down. So you accept, and head out -- or in this case, head into the light.
 
-[![cityofheroes-2009-03-19-07-57-09-07](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-07-57-09-07-461x480.jpg "cityofheroes-2009-03-19-07-57-09-07")](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-07-57-09-07.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-07-57-09-07-461x480.jpg" title="cityofheroes-2009-03-19-07-57-09-07" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-07-57-09-07.jpg)
 
 *Click to see this at full size*
 
@@ -64,7 +44,7 @@ The process is fairly painless; you can quickly make a mission simply by choosin
 
 I made a custom enemy group called The Contacts, with various levels of NPCs dressed in contact-y clothing. The kind of NPCs you might take a long look at and wonder what sort of mission they would give. Minions, Lieutenants, Bosses... and beyond that, several ranks of more difficult enemies. And of course, for the end of the mission, the rogue contact, Johnny Salve.
 
-![cityofheroes-2009-03-19-02-11-30-34](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-02-11-30-34.jpg "cityofheroes-2009-03-19-02-11-30-34")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-02-11-30-34.jpg" title="cityofheroes-2009-03-19-02-11-30-34" classes="center" >}}
 
 The bare bones of a mission created, I set it to test mode and entered the mission I just made.
 
@@ -72,11 +52,11 @@ Sammy Super stood before me, complaining about the rudeness of contacts these da
 
 Ah, Sammy Super. Could anyone be as generic as you?
 
-![cityofheroes-2009-03-19-02-19-05-14](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-02-19-05-14.jpg "cityofheroes-2009-03-19-02-19-05-14")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-02-19-05-14.jpg" title="cityofheroes-2009-03-19-02-19-05-14" classes="center" >}}
 
 I battled through hordes of contacts who just wanted to be left alone and it turns out all those people weren't quite as defenseless as they'd have us believe. They put up a heck of a fight, but in the end, I defeated them all, and finally came across Johnny Salve, chatting it up with other lazy contacts.
 
-![cityofheroes-2009-03-19-02-19-27-46](https://chasingdings.com/wp-content/uploads/2009/03/cityofheroes-2009-03-19-02-19-27-46.jpg "cityofheroes-2009-03-19-02-19-27-46")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/cityofheroes-2009-03-19-02-19-27-46.jpg" title="cityofheroes-2009-03-19-02-19-27-46" classes="center" >}}
 
 The jig's up, Johnny. You're coming with me.
 

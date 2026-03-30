@@ -3,40 +3,17 @@ date: '2009-03-06T00:49:19-05:00'
 draft: false
 title: "What's to love about Cryptic's Star Trek Online?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/06/whats-to-love-about-cryptics-star-trek-online/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ya know, I was going to start this forward looking collection of cool stuff about Cryptic's forthcoming Star Trek Online with a look backward at..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/sto.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/sto.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sto.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/sto.jpg"
 ---
+Ya know, I was going to start this forward looking collection of cool stuff about Cryptic's forthcoming Star Trek Online with a look backward at...
+<!--more-->
 
-![sto](https://chasingdings.com/wp-content/uploads/2009/03/sto.jpg "sto")
+
 
 Ya know, I was going to start this forward looking collection of cool stuff about Cryptic's forthcoming Star Trek Online with a look backward at Perpetual's time with the license, but I couldn't. The Perpetual people were making the game they wanted. It wasn't the game *I* wanted, but they weren't making it for me. They were making it for people who wanted a Star Trek game that wasn't very different from World of Warcraft.
 

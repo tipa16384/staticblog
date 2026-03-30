@@ -3,40 +3,17 @@ date: '2015-06-08T18:52:52-05:00'
 draft: false
 title: "GW2: Honor of the Waves"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/08/gw2-honor-of-the-waves/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't blog much these days. I blame Forge.gg. I stream the games, they pop-up on Forge with all the best clips I can find,..."
+categories:
   - "Guild Wars"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/T1IegWNo-original.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/T1IegWNo-original.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/T1IegWNo-original.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/T1IegWNo-original.jpg"
 ---
+I don't blog much these days. I blame Forge.gg. I stream the games, they pop-up on Forge with all the best clips I can find,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/T1IegWNo-original.jpg" title="I just don't like giants these days" class="align-center" >}}
+
 
 I don't blog much these days. I blame Forge.gg. I stream the games, they pop-up on Forge with all the best clips I can find, and I figure, hey, if anyone is all that interested in what I'm playing --> Forge.gg is that way :-) (I stream as Tipa there). But, the video quality can be low, and I don't know if anyone will bother looking, or, without much context, even what they're seeing there! But, because Forge.gg doesn't play well with FRAPS, I usually have FRAPS off, and Forge.gg on. So, no cool screenshots unless I swap them. And sometimes I do that.
 

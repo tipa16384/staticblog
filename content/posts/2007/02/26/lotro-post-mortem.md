@@ -3,38 +3,13 @@ date: '2007-02-26T11:13:38-05:00'
 draft: false
 title: "LoTRO Post Mortem"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/26/lotro-post-mortem/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Lord of the Rings Online is a casual MMO very much in the mold of World of Warcraft. After the stress test ended, I hoped..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Lord of the Rings Online is a casual MMO very much in the mold of World of Warcraft. After the stress test ended, I hoped...
+<!--more-->
 
 Lord of the Rings Online is a casual MMO very much in the mold of World of Warcraft. After the stress test ended, I hoped I could play some more and will likely pre-order it. I don't see this becoming my *primary* game, but I usually have a "serious" game and a "relax" game. My serious game at the moment is EverQuest 2. LotRO is well placed to be my "relax" game.
 

@@ -3,24 +3,8 @@ date: '2011-05-12T06:26:31-05:00'
 draft: false
 title: "Semi-Annual Blogroll: Sheep may safely graze edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/05/12/semi-annual-blogroll-sheep-may-safely-graze-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I work a full day in the office, then strap my laptop to my back, pedal home and work a full night as well. It's..."
+categories:
   - "Daily Blogroll"
   - "DC Universe Online"
   - "EverQuest"
@@ -30,26 +14,19 @@ tags:
   - "MMORPG"
   - "Vanguard"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/05/sheep2.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/05/sheep2.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/05/sheep2.png"
 ---
+I work a full day in the office, then strap my laptop to my back, pedal home and work a full night as well. It's...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/05/sheep2.png" title="The SOE sheep live in danger" class="align-center" >}}
+
 
 I work a full day in the office, then strap my laptop to my back, pedal home and work a full night as well. It's called crunch time, this is the third month of it, and work people pay me to do is taking priority over writing which nobody pays me anything to do. If I were working on a game, I could excitedly drop hints about it, but the only way you'll see what I'm writing is if you need to be bonded. Or you happened to be a bond agent. BUT! If you ARE, well, we've got something pretty amazing for you this summer :)
 
 On the plus side, that picture is part of my commute. One of the bennies about biking to work is that it's more acceptable to just stop by the side of the road, outside someone's house, and start taking pictures. If someone popped out of a CAR and started snapping shots, well, people would stare.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/05/sony-online-entertainment-office-480x351.jpg "Sony Online Entertainment")](https://chasingdings.com/wp-content/uploads/2011/05/sony-online-entertainment-office.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/05/sony-online-entertainment-office-480x351.jpg" title="Sony Online Entertainment" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/05/sony-online-entertainment-office.jpg)
 
 **The Great Sony Hack of 2011**
 
@@ -65,7 +42,7 @@ Anyone who plays EQ is there because of all the games available to them, EQ is t
 
 For the games in development, Planetside Next and EverQuest Next... I can't imagine SOE will have enough revenue to continue serious work on these games. They have to focus on rebuilding their money properties right now. I feel SOE's best hope is to separate from Sony, lose the mandate to put their MMOs on the PS3, and focus their efforts on a couple of really high performing games. I think it's long past time for SOE to become Verant once again.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/05/mowgli-dance-480x313.gif "Mowgli")](https://chasingdings.com/wp-content/uploads/2011/05/mowgli-dance.gif)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/05/mowgli-dance-480x313.gif" title="Mowgli" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/05/mowgli-dance.gif)
 
 **Skype is Microsoft's new MMO!**
 
@@ -75,7 +52,7 @@ I think it's a great idea. I just hate that the term "MMO", which we've come to 
 
 The worst are those places which try and explain that MMOs are games like WoW, [except for this one](http://techland.time.com/2011/05/11/warcraft-for-real-u-s-navy-launching-mmo-game-to-help-catch-pirates/). Kudos to that writer for also trying to compare it to a MUD, which it isn't.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/05/57c496b635305b23ef5a52149cfdbbf6-480x202.jpg" title="My old WoW guild" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/05/57c496b635305b23ef5a52149cfdbbf6-480x202.jpg" title="My old WoW guild" classes="center" >}}
 
 **WoW loses half a million players, attributes it to a rounding error**
 

@@ -3,43 +3,21 @@ date: '2008-12-22T08:50:27-05:00'
 draft: false
 title: "DOMO: Level 25, but Alchemy is hard :("
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/22/domo-level-25-but-alchemy-is-hard/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Taking on the Giant Butterfly outside the bandit camp in Copperhorn Mountain..."
+categories:
   - "Dream of Mirror Online"
   - "MMORPG"
+tags:
   - "Copperhorn Mountain"
   - "Eversun Inn Basement"
   - "Treasure Map"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-21-14-24-19-72.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-21-14-24-19-72.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-21-14-24-19-72.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-21-14-24-19-72.jpg"
 ---
+Taking on the Giant Butterfly outside the bandit camp in Copperhorn Mountain...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-21-14-24-19-72.jpg "domo-2008-12-21-14-24-19-72")
+
 
 *Taking on the Giant Butterfly outside the bandit camp in Copperhorn Mountain*
 
@@ -49,7 +27,7 @@ I have this grand design for my weapon upgrades. I REALLY want to make my own le
 
 The only thing standing between me and my new dagger is gaining level 10 in Alchemy. Any player can craft things up to level 9. To make the dagger, I'd have to allocate Commoner points to extend my Alchemy cap to level 19, and also extend my Meditation skill to 19, as the recipe takes Blue Powder, which cannot be gathered by anything less. I was lucky to get a Commoner's Spring from doing the Drill Sergeant quest in Swan Lake Basin, which gave me five points to allocate, and I got another Commoner point from handing a refined Dino Oil to an NPC in Copperhorn Mountain. Dino Oil is refined from 20 Dried Lizards found off the many and various lizards of Copperhorn Mountain; and so I spent most of Sunday lurking about there.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-21-15-08-45-64.jpg "domo-2008-12-21-15-08-45-64")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-21-15-08-45-64.jpg" title="domo-2008-12-21-15-08-45-64" classes="center" >}}
 
 *I came across the Sandstone Lady Bug after turning in my Dino Oil for a Commoner Spring*
 
@@ -57,7 +35,7 @@ There's no better way to really get to know a place in DOMO than by getting the 
 
 Many, many lizards, plants, moths and hedgehogs later, I hunted down the two bosses in the zone, slaughtered them, and earned the title of Darkdale Destroyer. The Darkdale Village Elder wouldn't offer me the quest to unlock the local dungeon, so it seemed (having gotten 24 back along the way) a good idea to try and clear out some older quests and perhaps reach 25.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-21-16-17-07-61.jpg "domo-2008-12-21-16-17-07-61")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-21-16-17-07-61.jpg" title="domo-2008-12-21-16-17-07-61" classes="center" >}}
 
 *Trying (and failing) to solo the Treasure Map instance in the Eversun Inn Basement*
 
@@ -67,7 +45,7 @@ Twenty minutes later, when the instance timer ran out, both Teddy and the lizard
 
 Itziar suggested I get a cask group and ask them to help. Well, I would have, but there were no cask groups around when I entered the instance. Soon, though, one showed up, and I got myself invited in. After we cleared the platform of casks, in we went (and there was another person who also needed it, so it was all good).
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-21-16-52-40-79.jpg "domo-2008-12-21-16-52-40-79")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-21-16-52-40-79.jpg" title="domo-2008-12-21-16-52-40-79" classes="center" >}}
 
 *With friends to help, the Treasure Map instance went much better*
 
@@ -75,7 +53,7 @@ My usual solo tactic was to do as much damage as I could without dying, run off,
 
 I stayed in the group for awhile, pulling and doing some AEing. When the healer (lv 15) complained she wasn't getting much xp with me in the group, I asked to be allowed to stay just for 10% more xp so I could reach level 25. She said okay, I leveled, gave my thanks, and headed out.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/domo-2008-12-21-19-52-12-93.jpg "domo-2008-12-21-19-52-12-93")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/domo-2008-12-21-19-52-12-93.jpg" title="domo-2008-12-21-19-52-12-93" classes="center" >}}
 
 *Itziar tells me the pink line joining us means this sprite and I feel a love connection. Um. I don't think so!*
 

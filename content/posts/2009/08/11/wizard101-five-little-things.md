@@ -3,40 +3,17 @@ date: '2009-08-11T11:00:44-05:00'
 draft: false
 title: "Wizard101: Five little things"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/11/wizard101-five-little-things/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I've been playing a lot of Wizard101 lately, working on getting my characters to level 20 so that I can explore Grizzleheim. The game is..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/w101almostperfect.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/w101almostperfect.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/w101almostperfect.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/w101almostperfect.jpg"
 ---
+I've been playing a lot of Wizard101 lately, working on getting my characters to level 20 so that I can explore Grizzleheim. The game is...
+<!--more-->
 
-![Grizzleheim!](https://chasingdings.com/wp-content/uploads/2009/08/w101almostperfect.jpg "Grizzleheim!")
+
 
 I've been playing a lot of Wizard101 lately, working on getting my characters to level 20 so that I can explore Grizzleheim. The game is so close to being perfect that when you get snags, you notice them all the more. Here are a few things that would make the experience all the better.
 

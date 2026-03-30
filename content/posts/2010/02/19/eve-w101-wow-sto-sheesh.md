@@ -3,45 +3,20 @@ date: '2010-02-19T08:20:10-05:00'
 draft: false
 title: "EVE, W101, WoW, STO... Sheesh!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/19/eve-w101-wow-sto-sheesh/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I am playing too many MMOs, it's true... but there's some good gaming out there...."
+categories:
   - "EVE Online"
   - "MMORPG"
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/ishtar.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/ishtar.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/ishtar.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/ishtar.jpg"
 ---
+I am playing too many MMOs, it's true... but there's some good gaming out there....
+<!--more-->
 
 I am playing too many MMOs, it's true... but there's some good gaming out there.
-
-![](https://chasingdings.com/wp-content/uploads/2010/02/ishtar.jpg "The Ishtar Priject")
 
 In EVE Online, the Ishtar Project saw a minor victory as I sold my two run Ishtar blueprint for 30 million ISK after only a couple of days on the market. That worked out incredibly well. In another stroke of luck, I put another Vexor blueprint in for invention and produced ANOTHER two run Ishtar blueprint. This one I will likely keep to make the Heavy Assault Cruiser of my dreams.
 
@@ -51,7 +26,7 @@ In three days time, I will finish training to fly the Ishtar. At that time I wil
 
 I imagine I will be buying my Ishtar, but the Ishtar blueprint trade has turned out to be very profitable, so I still come out ahead.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/WizardGraphicalClient-2010-02-18-21-26-10-19.jpg "Wings!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/WizardGraphicalClient-2010-02-18-21-26-10-19.jpg" title="Wings!" classes="center" >}}
 
 With all the new stuff in the Wizard101 Crowns store just waiting for me, I really had to go in there and check it out. It's been awhile since I have bought Crowns cards, and only one of my characters had enough Crowns to purchase anything. I got the angel wings for Allison Goldtalon; she has a bird thing going on from all the Grizzleheim gear, anyway.
 
@@ -61,7 +36,7 @@ KingsIsle has been focusing since Grizzleheim on its cash shop -- and they have 
 
 While on, I continued up through the Grand Chasm in Dragonspyre, which included another of those endless, soul-numbing towers. Eight floors of fighting. At least it was worth some decent experience. Allison is close to level 47, and Marissa is just inches from 45.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-18-21-41-53-73.jpg "Watch out for the Targ!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-18-21-41-53-73.jpg" title="Watch out for the Targ!" classes="center" >}}
 
 Longasc invited me to visit his Klingon's battleship last night. 1500 crew! That's just simply amazing. He's outleveled me on two characters already >< That's not so amazing, given how many games I'm playing.
 
@@ -73,7 +48,7 @@ I'm a SCIENCE officer! We go boop-beep-doop with tricorders!
 
 I ended the night exhausted, but 3/4 of the way through Commander 6. The Captain's rank is only a couple weeks away at this rate, but there's definitely no reason to rush through the game until there is some reason to do so.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/02/WoW-2010-02-14-19-27-36-73-480x384.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/WoW-2010-02-14-19-27-36-73-480x384.jpg" title="Click to enlarge" classes="center" >}}
 
 I haven't been playing as much WoW as I had been before STO started sucking my free time away. I've switched Tipa back to Combat spec. Assassination may be a really great spec for level 80 rogues, but I was just failing with it. Combat is much better for leveling and for the kind of AE-intensive groups I get through the Dungeon Finder.
 

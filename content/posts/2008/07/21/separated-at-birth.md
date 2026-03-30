@@ -3,41 +3,18 @@ date: '2008-07-21T01:39:25-05:00'
 draft: false
 title: "Separated at birth"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/21/separated-at-birth/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was dinking around on Wizard 101, when I thought it would be really cool to see if I could take Tara from Wizard 101,..."
+categories:
   - "City of Heroes"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/tara2.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/tara2.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/tara2.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/tara2.jpg"
 ---
+I was dinking around on Wizard 101, when I thought it would be really cool to see if I could take Tara from Wizard 101,...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/tara2.jpg "tara2")
+
 
 I was dinking around on Wizard 101, when I thought it would be really cool to see if I could take Tara from Wizard 101, and put her in City of Villains. It's supposed to let you make near any costume, right?
 
@@ -45,7 +22,7 @@ Well, turns out, first, CoV doesn't do a great job of modeling children. Fine, s
 
 Turns out it was a double xp weekend in CoV, so I joined a mission group and, well, levels in mission groups are crazy.
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/dmca.jpg "dmca")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/dmca.jpg" title="dmca" classes="center" >}}
 
 This photographer was taking pictures of me and my boys as we took out some flying bozos in the Cape district. So when I was through, I served him with a DMCA take down notice. I showed him the notice, and then I took him down.
 

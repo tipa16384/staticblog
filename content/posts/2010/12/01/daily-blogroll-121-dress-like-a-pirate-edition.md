@@ -3,44 +3,21 @@ date: '2010-12-01T06:00:45-05:00'
 draft: false
 title: "Daily Blogroll, 12/1 -- Dress Like a Pirate Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/01/daily-blogroll-121-dress-like-a-pirate-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was a 7.1 gig patch, but I did managed to get into Flying Lab's Pirates of the Burning Sea last night, and spent a..."
+categories:
   - "Daily Blogroll"
   - "EVE Online"
   - "Lord of the Rings"
   - "MMORPG"
   - "Pirates of the Burning Sea"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/potbs-2010-11-30-19-08-45-94.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/potbs-2010-11-30-19-08-45-94.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/potbs-2010-11-30-19-08-45-94.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/potbs-2010-11-30-19-08-45-94.jpg"
 ---
+It was a 7.1 gig patch, but I did managed to get into Flying Lab's Pirates of the Burning Sea last night, and spent a...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/11/potbs-2010-11-30-19-08-45-94.jpg "What")
+
 
 It was a 7.1 gig patch, but I did managed to get into Flying Lab's [Pirates of the Burning Sea](http://www.burningsea.com/page/home) last night, and spent a little more time with it tonight. Just went through the tutorial, did some of the Yuletide quests, joined a "society" (guild) named La Fédération, and wandered around the starting town. Veteran players were being helpful over the nationwide chat and the server was hopping. One server for North America, one for the EU, and a test server. I haven't played PotBS for a couple of years, but I was very much impressed by their improvements to the land game. The NPCs sing, dance, and make the town very much a lively place to stroll -- see the video at the end.
 

@@ -3,40 +3,17 @@ date: '2010-04-25T14:15:55-05:00'
 draft: false
 title: "Levels: What are they good for?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/25/levels-what-are-they-good-for/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "IcyWiz on Twitter shared her Beckett Magazine EQ2 code for a Ssraezha Observer's Staff. I happily toko it and redeemed it on my EQ2 account,..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/EverQuest2-2010-04-25-11-33-26-32.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/EverQuest2-2010-04-25-11-33-26-32.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/EverQuest2-2010-04-25-11-33-26-32.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/EverQuest2-2010-04-25-11-33-26-32.jpg"
 ---
+IcyWiz on Twitter shared her Beckett Magazine EQ2 code for a Ssraezha Observer's Staff. I happily toko it and redeemed it on my EQ2 account,...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/04/EverQuest2-2010-04-25-11-33-26-32.jpg "Verd and Tsuki in North Freeport")
+
 
 IcyWiz on Twitter shared her Beckett Magazine EQ2 code for a Ssraezha Observer's Staff. I happily toko it and redeemed it on my EQ2 account, only then remembering my only casters on that account were island babies -- characters I kept on the island for harvesting and crafting reasons and well, there was no reason to take them on. I spent a few hours this weekend leveling one of them, Tsuki, to 20, so she could wield the staff (it being an appearance slot item). The Timorous Deep newbie zone was its same old reliable experience machine and it didn't take me more than maybe three hours to get through it. This weekend being a bonus experience weekend helped, too.
 

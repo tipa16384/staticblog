@@ -3,24 +3,8 @@ date: '2011-10-10T06:00:07-05:00'
 draft: false
 title: "Daily Blogroll Oct 10: Columbus Day edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/10/10/daily-blogroll-oct-10-columbus-day-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I realized today that I have no clue whatsoever what the term \"MMO\" means anymore. I gave it some thought and came up with \"An..."
+categories:
   - "Daily Blogroll"
   - "Dark Ages of Camelot"
   - "Glitch"
@@ -29,20 +13,13 @@ tags:
   - "MMORPG"
   - "Star Corsairs"
   - "Web Logging"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/glitch.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/10/glitch.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/glitch.png"
 ---
+I realized today that I have no clue whatsoever what the term "MMO" means anymore. I gave it some thought and came up with "An...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/glitch.png" title="Creativity can be deadly" class="align-center" >}}
+
 
 I realized today that I have no clue whatsoever what the term "MMO" means anymore. I gave it some thought and came up with "An MMO is an online, real-time game where other people affect can your game." That's pretty vague. Clearly there are games which call themselves MMOs and can be played as if they were MMOs, or as if they were solo RPGs. I don't know. I just know the old definitions don't work.
 
@@ -56,15 +33,15 @@ Before I get started, an update on my MMO gaming: DDO on Sunday nights, D&D four
 
 Beau Turkey has done [a heck of a write-up](http://massively.joystiq.com/2011/10/09/rise-and-shiny-recap-glitch/) on Glitch, btw.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/01cf1aed618e714403893048aef63ded-480x253.jpg" title="Fighting giants in DAoC beta" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/01cf1aed618e714403893048aef63ded-480x253.jpg" title="Fighting giants in DAoC beta" classes="center" >}}
 
 It's been ten years since Dark Age of Camelot went live? Wow. I remember calling it "EQ Lite" based solely on the screenshots they released in the early rounds of beta. When I got into the beta myself, I realized just how impressive an achievement the game was. Yes, it clearly had been influenced by EverQuest, but it was its own game and would become one of the influences that would form the mechanics behind World of Warcraft.
 
-It would be physically impossible for anyone to spend more time in a game [than I spent in DAoC](https://chasingdings.com/daoc/). Scott Jennings, Mythic's one time DBA, [has a wonderful post from Matt Firor](http://www.brokentoys.org/2011/10/09/a-decade-of-camelot/), DAoC's original producer, one what it was like to ship an MMO before the market was crowded with hundreds of them.
+It would be physically impossible for anyone to spend more time in a game [than I spent in DAoC](https://tipa16384.github.io/wkblog/daoc/). Scott Jennings, Mythic's one time DBA, [has a wonderful post from Matt Firor](http://www.brokentoys.org/2011/10/09/a-decade-of-camelot/), DAoC's original producer, one what it was like to ship an MMO before the market was crowded with hundreds of them.
 
 It was a different world.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/Fullscreen-capture-1092011-92615-PM-480x336.jpg" title="Star Corsairs" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/Fullscreen-capture-1092011-92615-PM-480x336.jpg" title="Star Corsairs" classes="center" >}}
 
 After taking the world by storm with his sandbox browser MMO [Golemizer](http://www.golemizer.com/), indie MMO dev Dave Toulouse is set to unleash his second game, [Star Corsairs](http://www.starcorsairs.com/). It's an updated take on the old space exploration / trading games of the 80s (most notably [SunDog](http://en.wikipedia.org/wiki/SunDog:_Frozen_Legacy)) combined with the mining, ship construction and PvP of EVE Online. And maybe a smidgen of [Star Castle](http://en.wikipedia.org/wiki/Star_Castle). Explore, take on missions to protect the Federation, construct your own starship, blow stuff up, free to play. I'll have more on Star Corsairs when I've played it more.
 
@@ -74,7 +51,7 @@ Speaking of indie MMO development, Andorov posted an excellent list of [15 impor
 
 > Rule 4: Create a good company and MMO name. Recruiting for Joe Schmoe's Awesome MMORPG is going to be a lot more difficult than Excelsior Games' Islandia: The Re-Islanding. Most non-visionaries (which I may also refer to as dumb f**ks or DFs), though talented, are simple folk and easily impressed.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/10/lucentheartlogo-480x217.jpg "Lucent Heart")](https://chasingdings.com/wp-content/uploads/2011/10/lucentheartlogo.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/10/lucentheartlogo-480x217.jpg" title="Lucent Heart" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/10/lucentheartlogo.jpg)
 
 Lucent Heart, the "zodiac-inspired" dating MMO, not content with merely connecting up guys playing guys and guys playing scantily-clad girls, is about to [unleash dance battles upon the world](http://www.anjelsyndicate.org/2011/08/31/lucent-heart-first-expansion-adds-dance-battles/), says Anjel Syndicate.
 

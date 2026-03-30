@@ -3,85 +3,61 @@ date: '2009-04-26T09:04:12-05:00'
 draft: false
 title: "Wizard 101: All ten player houses"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/26/wizard-101-all-ten-player-houses/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I read on The Friendly Necromancer's site that little leprechauns had appeared all over Wizard City, ready, willing and hoping to give everyone who talked..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Player Housing"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-06-57-46-79.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-06-57-46-79.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-06-57-46-79.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-06-57-46-79.jpg"
 ---
+I read on The Friendly Necromancer's site that little leprechauns had appeared all over Wizard City, ready, willing and hoping to give everyone who talked...
+<!--more-->
 
 I read on [The Friendly Necromancer's site](http://thefriendlynecromancer.blogspot.com/2009/04/fwd-free-gold-on-test-realm.html) that little leprechauns had appeared all over Wizard City, ready, willing and hoping to give everyone who talked to them 50,000 gold.
 
-So, my excited overspending on [the first night of housing](https://chasingdings.com/index.php/2009/04/23/wizard-101-player-housing-on-test/) on the Test realm, was erased! When I logged in, I found more than that had been erased -- all the characters had been reset, and I had all my original money back but had to buy those islands again.
+So, my excited overspending on [the first night of housing](https://tipa16384.github.io/wkblog/index.php/2009/04/23/wizard-101-player-housing-on-test/) on the Test realm, was erased! When I logged in, I found more than that had been erased -- all the characters had been reset, and I had all my original money back but had to buy those islands again.
 
 With the leprechaun's help, I bought ALL TEN homes, just so I could bring them here as sort of a virtual real estate agent's storefront window.
 
 div.x { text-align:center; padding-bottom:10px; font-style:italic; }
 
-![wizardgraphicalclient-2009-04-26-06-57-46-79](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-06-57-46-79.jpg "wizardgraphicalclient-2009-04-26-06-57-46-79")
-
 Wizard City small island
 
-![wizardgraphicalclient-2009-04-26-07-00-47-72](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-00-47-72.jpg "wizardgraphicalclient-2009-04-26-07-00-47-72")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-00-47-72.jpg" title="wizardgraphicalclient-2009-04-26-07-00-47-72" classes="center" >}}
 
 Wizard City large island (with theater!)
 
-![wizardgraphicalclient-2009-04-26-07-02-46-28](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-02-46-28.jpg "wizardgraphicalclient-2009-04-26-07-02-46-28")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-02-46-28.jpg" title="wizardgraphicalclient-2009-04-26-07-02-46-28" classes="center" >}}
 
 Krokotopia small island (surprisingly roomy tent)
 
-![wizardgraphicalclient-2009-04-26-07-10-44-03](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-10-44-03.jpg "wizardgraphicalclient-2009-04-26-07-10-44-03")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-10-44-03.jpg" title="wizardgraphicalclient-2009-04-26-07-10-44-03" classes="center" >}}
 
 Krokotopia large island
 
-![wizardgraphicalclient-2009-04-26-07-12-30-50](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-12-30-50.jpg "wizardgraphicalclient-2009-04-26-07-12-30-50")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-12-30-50.jpg" title="wizardgraphicalclient-2009-04-26-07-12-30-50" classes="center" >}}
 
 Marleybone small island
 
-![wizardgraphicalclient-2009-04-26-07-13-59-52](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-13-59-52.jpg "wizardgraphicalclient-2009-04-26-07-13-59-52")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-13-59-52.jpg" title="wizardgraphicalclient-2009-04-26-07-13-59-52" classes="center" >}}
 
 Marleybone large island
 
-![wizardgraphicalclient-2009-04-26-07-15-56-67](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-15-56-67.jpg "wizardgraphicalclient-2009-04-26-07-15-56-67")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-15-56-67.jpg" title="wizardgraphicalclient-2009-04-26-07-15-56-67" classes="center" >}}
 
 Moo Shu small island
 
-![wizardgraphicalclient-2009-04-26-07-18-15-07](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-18-15-07.jpg "wizardgraphicalclient-2009-04-26-07-18-15-07")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-18-15-07.jpg" title="wizardgraphicalclient-2009-04-26-07-18-15-07" classes="center" >}}
 
 Moo Shu large island
 
-![wizardgraphicalclient-2009-04-26-07-21-56-30](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-21-56-30.jpg "wizardgraphicalclient-2009-04-26-07-21-56-30")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-21-56-30.jpg" title="wizardgraphicalclient-2009-04-26-07-21-56-30" classes="center" >}}
 
 Dragonspyre small island
 
-![wizardgraphicalclient-2009-04-26-07-20-15-85](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-20-15-85.jpg "wizardgraphicalclient-2009-04-26-07-20-15-85")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-26-07-20-15-85.jpg" title="wizardgraphicalclient-2009-04-26-07-20-15-85" classes="center" >}}
 
 Dragonspyre large island. It's a tower. You remember Dragonspyre towers, right?
 

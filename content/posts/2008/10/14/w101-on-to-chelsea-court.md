@@ -3,48 +3,25 @@ date: '2008-10-14T08:38:20-05:00'
 draft: false
 title: "W101: On to Chelsea Court"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/14/w101-on-to-chelsea-court/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Kinda embarrassed to have fallen asleep while grouping with Kasul in Chardok last night. Sorry, Kasul :( It was weird, though. Wake up, at the..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Baxter"
   - "Chelsea Court"
   - "Hyde Park"
   - "W101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg"
 ---
+Kinda embarrassed to have fallen asleep while grouping with Kasul in Chardok last night. Sorry, Kasul :( It was weird, though. Wake up, at the...
+<!--more-->
 
 Kinda embarrassed to have fallen asleep while grouping with Kasul in Chardok last night. Sorry, Kasul :( It was weird, though. Wake up, at the keyboard, no idea how long you've been out... I just shut down the computer and went to bed.
 
 Adora did hit 70 last night, though. This puts her in the right place to take advantage of the Shadow Odyssey's Moors of Ykesha solo zone, though. She has done barely any of the RoK quest grind, but I find that having done it twice, I can't bear the thought of doing it even once more. Maybe the Moors will help make the 70-80 run more exciting.
-
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-49-04-28.jpg "wizardgraphicalclient-2008-10-14-07-49-04-28")
 
 *Notes, notes, everywhere notes. I'm a bard at heart.*
 
@@ -56,7 +33,7 @@ So I made short work of that and finished a couple of other minor quests on the 
 
 I've just done exactly that with the Baxter fight, so I'm not worried. A Sprite Guardian lets me do damage without worrying about my own health. Actually, it wasn't a fight against Baxter. I was about to speak with him, when he was whisked away by clockworks. My job in Chelsea Court is to find these clockworks and rescue Baxter... so I can arrest him, I guess.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-52-56-21.jpg "wizardgraphicalclient-2008-10-14-07-52-56-21")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-14-07-52-56-21.jpg" title="wizardgraphicalclient-2008-10-14-07-52-56-21" classes="center" >}}
 
 *A boosted Seraph delivers the coup de grace to the clockwork. I've chased these guys from EverQuest to EverQuest 2 to City of Heroes to World of Warcraft and now Wizard 101. They're as bad as Orcs. Worse. Bad as ELVES.*
 

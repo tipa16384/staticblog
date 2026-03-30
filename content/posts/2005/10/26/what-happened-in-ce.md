@@ -3,38 +3,13 @@ date: '2005-10-26T00:00:00-05:00'
 draft: false
 title: "What happened in CE?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2005/10/26/what-happened-in-ce/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, fact is, sometimes I get really depressed. I can't do a thing about it. I start hitting my head with stuff, jabbing screwdrivers into..."
+categories:
   - "EverQuest"
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Well, fact is, sometimes I get really depressed. I can't do a thing about it. I start hitting my head with stuff, jabbing screwdrivers into...
+<!--more-->
 
 Well, fact is, sometimes I get really depressed. I can't do a thing about it. I start hitting my head with stuff, jabbing screwdrivers into my legs and so on. It's a huge pressure to keep it to myself at work, and when I get home, it explodes.
 

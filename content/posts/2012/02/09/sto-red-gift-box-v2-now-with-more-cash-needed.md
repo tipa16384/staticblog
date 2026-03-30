@@ -3,40 +3,17 @@ date: '2012-02-09T07:49:57-05:00'
 draft: false
 title: "STO: Red Gift Box, v2. Now with more cash needed!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/02/09/sto-red-gift-box-v2-now-with-more-cash-needed/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "At the winter holiday event. Cryptic dangled a Jem'Hadar starship in front of the players. \"Run the race in Q's Winter Wonderland,\" went the line,..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/02/lockbox_blog_020712.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/02/lockbox_blog_020712.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/lockbox_blog_020712.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/02/lockbox_blog_020712.jpg"
 ---
+At the winter holiday event. Cryptic dangled a Jem'Hadar starship in front of the players. "Run the race in Q's Winter Wonderland," went the line,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/lockbox_blog_020712.jpg" title="It'll cost you to open this box." class="align-center" >}}
+
 
 At the winter holiday event. Cryptic dangled a Jem'Hadar starship in front of the players. "Run the race in Q's Winter Wonderland," went the line, "and you will win a gift box that could contain this highly desirable ship!" The chance of that race dropping one of the red gift boxes was less than 1%. The chance that the red gift box, once obtained, would have a ship inside was far less than 1%. You could _buy_ gift boxes for $1 each. On the forums, people reported spending between $50 and $200 for red gift boxes until they obtained one of those ships.
 
@@ -78,7 +55,7 @@ More detail on these options [at this link](http://www.startrekonline.com/node/2
 
 The boxes drop for free. But opening them costs cash -- 100 CP per master key. That's a bit over a dollar per try. How much is this ship worth? A week's wages for something that is pretty comparable to the Excelsior-class ship already in the C Store.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/02/galor_blog_020812.jpg" title="The Cardassian Galor-class cruiser" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/02/galor_blog_020812.jpg" title="The Cardassian Galor-class cruiser" classes="center" >}}
 
 it's not a bad ship, the Galor ([full details here](http://startrekonline.com/node/2866)). It's appropriate to put it in the cash shop, the game having gone free to play, after all. What I object to is the lotto aspect of it. If you think the average player will spend $100 (random number pulled from the air, likely on the low side) on this ship, put it in the cash shop, charge $100 for it, and everyone who wants one can send the benjamins your way.
 

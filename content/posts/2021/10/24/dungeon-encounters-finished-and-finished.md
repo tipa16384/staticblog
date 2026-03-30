@@ -3,50 +3,28 @@ date: '2021-10-24T17:27:23-05:00'
 draft: false
 title: "Dungeon Encounters: Finished and finished."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/24/dungeon-encounters-finished-and-finished/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Everyone says that this game has no story and all the characters are the same and once you've played the first few levels, you've seen..."
+categories:
   - "Dungeon Encounters"
   - "PS4"
   - "PS5"
   - "Rogue-Likes"
   - "Switch"
   - "Tactical RPG"
+tags:
   - "Square-Enix"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130131-scaled.jpg"
 ---
+Everyone says that this game has no story and all the characters are the same and once you've played the first few levels, you've seen...
+<!--more-->
 
 Everyone says that this game has no story and all the characters are the same and once you've played the first few levels, you've seen all the game can offer. But, everyone is wrong.
 
 I've played for 50 hours and not seen all there is to see. I've gotten most of the trophies (I played on the PS5), but not all of them.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130306-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130306-scaled.jpg)The end
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130306-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024130306-scaled.jpg)The end
 
 *A man spent his life caring for his sickly brother. When his brother passed on, the man went to the Academy to find new meaning to his life. As he approached the Academy, he saw a dog waiting for him. When he looked into the dog's eyes, he saw his brother looking back at him. Together, they entered the labyrinth.*
 
@@ -58,7 +36,7 @@ In the Labyrinth, they could find they had more in common than they ever expecte
 
 There's a story, but you have to piece it together. One of the adventurers came to this world from a world much like ours when he put on a special headset to play the game "Dungeon Encounters". The game (in the game) is sold deep in the dungeon, but it has to be unlocked by destroying supercomputers.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024140207-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024140207-scaled.jpg)What is FF?
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024140207-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024140207-scaled.jpg)What is FF?
 
 Maybe you'd have to have remembered those old computerized dungeon crawls from the 70s, 80s and 90s to really enjoy Dungeon Encounters. So I'm not going to try and convince anyone to play -- there's a demo, see if it's something you might enjoy.
 
@@ -68,7 +46,7 @@ Just some observations, for now:
 
 When you get bugged about any particular dungeon mechanic, you can assume there's going to be an ability that can alleviate it.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024134120-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024134120-scaled.jpg)Super secret final encounter
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024134120-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/DUNGEON-ENCOUNTERS_20211024134120-scaled.jpg)Super secret final encounter
 
 I won't forget this game anytime real soon.
 

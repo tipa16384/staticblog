@@ -3,40 +3,17 @@ date: '2013-03-18T06:46:37-05:00'
 draft: false
 title: "DCUO: Ace Chemicals, Vat Defective"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/03/18/dcuo-ace-chemicals-vat-defective/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Patrolmen. We can deal with violent experiments that survive on toxic waste. Special security patrols, giant, venom-infused hounds and their masters, no problem. But if..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/MLOC103_DESIGNER-PC-17-22.30.410-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/03/MLOC103_DESIGNER-PC-17-22.30.410-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/MLOC103_DESIGNER-PC-17-22.30.410-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/MLOC103_DESIGNER-PC-17-22.30.410-480x300.jpg"
 ---
+Patrolmen. We can deal with violent experiments that survive on toxic waste. Special security patrols, giant, venom-infused hounds and their masters, no problem. But if...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/MLOC103_DESIGNER-PC-17-22.30.410-480x300.jpg" title="Chemo" class="align-center" >}}
+
 
 Patrolmen. We can deal with violent experiments that survive on toxic waste. Special security patrols, giant, venom-infused hounds and their masters, no problem. But if you want to see Team Spode start to panic, send in an Ace Patrolman with his Flamethrower of One Hit Doom.
 
@@ -44,7 +21,7 @@ Last night was Team Spode's first try at a Tier 1 group mission, the beginning o
 
 We were semi-prepared for the night, with many of us already sporting several pieces of T1 gear.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/MLOC103_DESIGNER-PC-18-00.20.290-480x299.jpg" title="Guess who shows up at the end..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/MLOC103_DESIGNER-PC-18-00.20.290-480x299.jpg" title="Guess who shows up at the end..." classes="center" >}}
 
 The Ace Chemicals mission brings together two old favorites from our pre-30 days; T. O. Morrow from Oolong Island, and Chemo from Blüdhaven. Morrow has come to Gotham City at the Joker's request to develop an improved version of his toxic gas. Unfortunately for the Joker and for Gotham City, Morrow has opted to double cross the Joker and is experimenting on the Joker's henchmen to create a better breed of monstrous human. Both heroes and villains just want Morrow to go away.
 
@@ -64,7 +41,7 @@ We return with a renewed focus; kill Chemlings fast, ignore Chemoids, kill Chemo
 
 Batman, woozy on Benadryl, and Commissioner Gordon stop by to hand us some loot and thank us for our really high repair bills with a case full of marks. After a quick pass for any stray interrobangs or briefings, we head back to the Watchtower to trade in our marks for some more T1 armor.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/CHARSELECT_CREATE-PC-18-00.43.260-480x300.jpg" title="Teal Lantern" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/CHARSELECT_CREATE-PC-18-00.43.260-480x300.jpg" title="Teal Lantern" classes="center" >}}
 
 Teal Lantern is able to afford her fourth piece of T1 gear, bringing her up to Combat Rating 40. Just a few more points before she can start working on T2 gear. Stingheal is even closer, and he's trying to figure out the fewest number of marks he can spend on T1 gear to get his CR to the level required to start on T2 gear. This will be the first piece of T1 gear for both Lord Spode and Kaptain KY.
 

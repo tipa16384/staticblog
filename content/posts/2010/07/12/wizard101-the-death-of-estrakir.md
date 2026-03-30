@@ -3,40 +3,19 @@ date: '2010-07-12T06:53:58-05:00'
 draft: false
 title: "Wizard101: The Death of Estrakir"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/12/wizard101-the-death-of-estrakir/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81-480x360.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81-480x360.jpg "The Death of Estrakir")](https://chasingdings.com/wp-content/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/07/WizardGraphicalClient-2010-07-11-23-19-08-81.jpg)
 
 Even though you no longer have to do the Celestia pre-quest in order to eventually head to that undersea expansion when it arrives later this year, why wouldn't you want to, right?
 

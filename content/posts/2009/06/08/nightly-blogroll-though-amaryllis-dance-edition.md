@@ -3,24 +3,8 @@ date: '2009-06-08T22:45:35-05:00'
 draft: false
 title: "Nightly Blogroll -- Though Amaryllis dance edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/08/nightly-blogroll-though-amaryllis-dance-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The \"Amaryllis\" edition stuff? Well, here it is, a warm Spring night, just started writing, and \" \" comes up on the playlist, and it..."
+categories:
   - "Aion"
   - "City of Heroes"
   - "Daily Blogroll"
@@ -31,20 +15,13 @@ tags:
   - "Pirates of the Burning Sea"
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/neosteambanner.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/neosteambanner.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/neosteambanner.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/neosteambanner.jpg"
 ---
+The "Amaryllis" edition stuff? Well, here it is, a warm Spring night, just started writing, and " " comes up on the playlist, and it...
+<!--more-->
 
-![neosteambanner](https://chasingdings.com/wp-content/uploads/2009/06/neosteambanner.jpg "neosteambanner")
+
 
 The "Amaryllis" edition stuff? Well, here it is, a warm Spring night, just started writing, and "{{< youtube NEOI5Ct9DL4 >}}" comes up on the playlist, and it just seemed to fit the mood so well...
 
@@ -58,7 +35,7 @@ It's not so much that your game has standard classes, it's what the players want
 
 Out of all the blog posts this weekend about people's experiences with Sims 3, [Ogrebears' is my favorite](http://ogrebear.com/?p=1031). You just KNOW that he's a rebel, in his leather jacket and emerald skin, [sitting at the school lunch table without a care](http://farm3.static.flickr.com/2474/3603078002_991e992b83.jpg?v=0) as the girls go crazy for him.
 
-Lots of people agree that the biggest problem with playing MMOs is having to play them with other people. When you're solo, you can start and stop when you like and you always get first roll on all the loot. And you don't have to deal with other people's problems. Melmoth from Killed in a Smiling Accident asks, with [game](http://wiki.guildwars.com/wiki/Henchman) [after](http://biobreak.wordpress.com/2009/05/27/imaginary-playmates/) [game](https://chasingdings.com/index.php/2008/10/22/eq-seeds-of-destruction-meet-caiffin-the-merc/) turning to NPCs to fill out your groups -- [will there be something you miss](http://kiasa.org/2009/06/08/we-even-picked-up-a-preacher-for-some-reason-and-a-bona-fide-companion/), after all, when all the other players disappear?
+Lots of people agree that the biggest problem with playing MMOs is having to play them with other people. When you're solo, you can start and stop when you like and you always get first roll on all the loot. And you don't have to deal with other people's problems. Melmoth from Killed in a Smiling Accident asks, with [game](http://wiki.guildwars.com/wiki/Henchman) [after](http://biobreak.wordpress.com/2009/05/27/imaginary-playmates/) [game](https://tipa16384.github.io/wkblog/index.php/2008/10/22/eq-seeds-of-destruction-meet-caiffin-the-merc/) turning to NPCs to fill out your groups -- [will there be something you miss](http://kiasa.org/2009/06/08/we-even-picked-up-a-preacher-for-some-reason-and-a-bona-fide-companion/), after all, when all the other players disappear?
 
 A month or so ago, Mythic called ex-Warhammer players back to the fold with an email detailing the exciting changes available for your exact character, name included. [Now they've sent out another letter](http://www.virginworlds.com/pg.php?n=10147) which mines your friends list so you can see which of your friends is still "carrying the banner".
 

@@ -3,41 +3,19 @@ date: '2011-08-29T06:23:08-05:00'
 draft: false
 title: "DDO: Team Spode is Mired in Kobolds"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/08/29/ddo-team-spode-is-mired-in-kobolds/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Team Spode isn't an adventuring party with a lot of principles, but there's one principle which we regard as iron-clad. And that is, never leave..."
+categories:
   - "Dungeons & Dragons Online"
   - "MMORPG"
+tags:
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-28-22-51-21-03-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-28-22-51-21-03-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/dndclient-2011-08-28-22-51-21-03-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/08/dndclient-2011-08-28-22-51-21-03-480x383.jpg"
 ---
+Team Spode isn't an adventuring party with a lot of principles, but there's one principle which we regard as iron-clad. And that is, never leave...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-28-22-51-21-03-480x383.jpg" title="Varath the Unloved" class="align-center" >}}
+
 
 Team Spode isn't an adventuring party with a lot of principles, but there's one principle which we regard as iron-clad. And that is, never leave loot on the table. This simple rule has served us well over the years.
 
@@ -55,7 +33,7 @@ You know, there's this thing about memory. After a decade or two of not playing 
 
 Nonetheless, Varath was a weak dragon and we soon had him down.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-28-22-53-51-17-480x384.jpg" title="Sinvala the Recently Deceased" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/dndclient-2011-08-28-22-53-51-17-480x384.jpg" title="Sinvala the Recently Deceased" classes="center" >}}
 
 We didn't realize the thing about the acid vs poison breath until Varath's mom, Sinvala the Vile, dropped by to avenge her son.
 
@@ -67,7 +45,7 @@ Our history with destroying crystals to kill kobolds got us (well, Gleek) wonder
 
 So: next time, we prepared for acid.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/08/dndclient-2011-08-29-00-07-10-82-480x384.jpg" title="Lewt" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/08/dndclient-2011-08-29-00-07-10-82-480x384.jpg" title="Lewt" classes="center" >}}
 
 We started Mired in Kobolds from the beginning once more. This time the kobolds died without any surprises like "armor" or "healing themselves". We learned not to step in the patches of spiky bushes. We learned to avoid a dragon's mouth when it's about to breathe acid. And we learned to kite.
 

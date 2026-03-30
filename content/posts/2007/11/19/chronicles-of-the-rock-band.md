@@ -3,37 +3,12 @@ date: '2007-11-19T12:45:56-05:00'
 draft: false
 title: "Chronicles of the Rock Band."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/19/chronicles-of-the-rock-band/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Rock Band is definitely the most expensive single game I have ever bought. The game itself costs $180 or so, requires (at release) a PS3..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Rock Band is definitely the most expensive single game I have ever bought. The game itself costs $180 or so, requires (at release) a PS3...
+<!--more-->
 
 Rock Band is definitely the most expensive single game I have ever bought. The game itself costs $180 or so, requires (at release) a PS3 or an XBox 360, only comes with one guitar controller...
 

@@ -3,40 +3,19 @@ date: '2010-11-24T01:23:45-05:00'
 draft: false
 title: "Thoughts on Elitism and Speed Runs, or, My Dinner with Thrall"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/24/thoughts-on-elitism-and-speed-runs-or-my-dinner-with-yhrall/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91-480x385.jpg "Waiting for a healer")](https://chasingdings.com/wp-content/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/lotroclient-2010-11-24-00-25-18-91.jpg)
 
 Last week, Spinks mused a bit over on her blog about the tendency of WoW players to [distill every activity down](http://spinksville.wordpress.com/2010/11/19/thought-of-the-day-on-elitism-and-speed-runs/) to its most efficient execution, even if some of the players would like things to go more casually. She suggested using some social engineering to gather like-minded players together:
 

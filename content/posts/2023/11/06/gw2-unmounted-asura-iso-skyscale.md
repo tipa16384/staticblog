@@ -3,40 +3,18 @@ date: '2023-11-06T07:34:02-05:00'
 draft: false
 title: "GW2: Unmounted Asura ISO Skyscale"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/06/gw2-unmounted-asura-iso-skyscale/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "All my friends have skyscales and I am jealous and also lazy."
-description: "All my friends have skyscales and I am jealous and also lazy."
-tags:
+categories:
   - "Guild Wars"
   - "Rift"
+tags:
   - "Skyscale"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/gw024.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/gw024.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/gw024.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/gw024.jpg"
 ---
+All my friends have skyscales and I am jealous and also lazy.
+<!--more-->
 
 So, I announced to Team Spode today that I am not leaving the zones of the new expansion, maybe ever, but at least not until I get my own little baby dragon to flit around with.
 
@@ -46,7 +24,7 @@ Arena.net isn't leaving players high and dry, though -- you get a rental skyscal
 
 It's up to Tyria's famed Commander -- me -- to set things right.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/gw025-1024x576.jpg" title="It's Tako Tuesday!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/gw025-1024x576.jpg" title="It's Tako Tuesday!" classes="center" >}}
 
 Since I haven't played many of the expansion storylines or living world episodes, it's always a little jarring to be told of all my famous deeds (killing gods! ending the dragon cycle! saving the world so many times!) when I haven't actually done any of these things. It's real imposter syndrome in the game. (yup, that was me. heheh. saved you all.)
 

@@ -3,50 +3,28 @@ date: '2022-11-07T23:42:14-05:00'
 draft: false
 title: "Gotham Knights - The Best Superhero Game You're Not Playing"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/11/07/gotham-knights-the-best-superhero-game-youre-not-playing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Gotham Knights is the perfect game for Batman fans who want an open world game with a good story."
-description: "Gotham Knights is the perfect game for Batman fans who want an open world game with a good story."
-tags:
+categories:
   - "Batman"
   - "Gotham Knights"
   - "Open World RPG"
   - "PS5"
   - "Video Game"
+tags:
   - "DC Comics"
   - "DC Universe Online"
   - "RPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/DALL·E-2022-11-07-22.23.47-digital-art-city-scape-at-night.png"
 ---
+Gotham Knights is the perfect game for Batman fans who want an open world game with a good story.
+<!--more-->
 
 Batman is dead, killed by his longtime foe Ra's al-Ghul. The city is in chaos with the loss of their defender. Commissioner Gordon is dead and the Gotham City Police are in the pocket of the mob. The Penguin has gone straight. Mr. Freeze is on a rampage. Harley Quinn has some nefarious plan in mind. Mindless shards of Clayface have been spotted. The League of Shadows is lurking about, the Court of Owls is on the move, and Batman's last case, the murder of a Professor Langstrom, is still unsolved.
 
 It's bad times in Old Gotham, and Gotham has to rely upon the only protectors it has left; the Gotham Knights -- Robin, Batgirl, Nightwing and Red Hood.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/Gotham-Knights_20221106101757-1024x576.jpg" title="What's \"Dr. Q\" up to now?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221106101757-1024x576.jpg" title="What's \"Dr. Q\" up to now?" classes="center" >}}
 
 Gotham Knights is a solo or co-op open world-ish RPG. I use "ish" here because the activities in the open world change each night depending upon the information gathered the previous night, as well as the plot that proceeds during the daytime chapters in The Belfry, the home base for the Knights and Bruce Wayne's butler Alfred, who is the surprisingly capable fifth member of the team.
 
@@ -56,7 +34,7 @@ The player can also, while in the Belfry, change which character they take on pa
 
 Lastly, for some reason, The Belfry has a completely playable original version of the arcade game Spy Hunter (a personal favorite) upstairs.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/Gotham-Knights_20221106103624-edited.jpg" title="Batgirl lurking about" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221106103624-edited.jpg" title="Batgirl lurking about" classes="center" >}}
 
 Nightwing excels in acrobatics and melee combat; Red Hood is focused more on range. Batgirl is an expert hacker, and Robin is a master of stealth.
 
@@ -66,7 +44,7 @@ As well as basic crimefighting, Gotham at night has a *bunch of other stuff goin
 
 So let's get into some details.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/Gotham-Knights_20221107174422-1024x576.jpg" title="Barbara's hobby is building doll house crime scenes with her dad in them" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221107174422-1024x576.jpg" title="Barbara's hobby is building doll house crime scenes with her dad in them" classes="center" >}}
 
 **Acting**
 
@@ -78,7 +56,7 @@ There's a dozen styles to unlock, and as many color schemes. Additionally, once 
 
 You can additionally change the color scheme of the Batcycle if that's more your style. Each character has their own customizations.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/Gotham-Knights_20221106101715-1024x576.jpg" title="You gotta have your FreeGlo egg" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221106101715-1024x576.jpg" title="You gotta have your FreeGlo egg" classes="center" >}}
 
 **Gear**
 
@@ -94,7 +72,7 @@ Most enemies are simple goons, but there's typically at least one and sometimes 
 
 It all leads to a very fluid flowing combat.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/Gotham-Knights_20221106210551-1024x576.jpg" title="The Voice of the Court of Owls silently judges you" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/Gotham-Knights_20221106210551-1024x576.jpg" title="The Voice of the Court of Owls silently judges you" classes="center" >}}
 
 **Difficulty level**
 

@@ -3,41 +3,19 @@ date: '2008-09-13T10:01:17-05:00'
 draft: false
 title: "Hello Kitty Online... yes, it's real."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/13/hello-kitty-online-yes-its-real/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's really, really hard to write about Hello Kitty Online without irony. But I have to come clean. I was a huge Hello Kitty fan..."
+categories:
   - "Hello Kitty Online"
   - "MMORPG"
+tags:
   - "Founders Beta"
-featured_image: "http://www.sanriotown.com/login/download/screenshots/HK_02.jpg"
-cover:
-  image: "http://www.sanriotown.com/login/download/screenshots/HK_02.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "http://www.sanriotown.com/login/download/screenshots/HK_02.jpg"
+thumbnailImage: "http://www.sanriotown.com/login/download/screenshots/HK_02.jpg"
 ---
+It's really, really hard to write about Hello Kitty Online without irony. But I have to come clean. I was a huge Hello Kitty fan...
+<!--more-->
 
-![](http://www.sanriotown.com/login/download/screenshots/HK_02.jpg)
+
 
 It's really, really hard to write about Hello Kitty Online without irony. But I have to come clean. I was a huge Hello Kitty fan back about fifteen years ago. Well, DUH, in an ironic way. Because that's the only way an adult can really enjoy Hello Kitty.
 

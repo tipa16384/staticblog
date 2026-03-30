@@ -3,43 +3,21 @@ date: '2008-07-10T06:36:13-05:00'
 draft: false
 title: "EQ: The Tower of Frozen Shadow"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/10/eq-the-tower-of-frozen-shadow/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "No, I totally don't like this screen shot. My only excuse is this is the only one I took!..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Fada Deaths"
   - "Tower of Frozen Shadow"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-08-22-41-13-04.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-08-22-41-13-04.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-08-22-41-13-04.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/eqgame-2008-07-08-22-41-13-04.jpg"
 ---
+No, I totally don't like this screen shot. My only excuse is this is the only one I took!...
+<!--more-->
 
-![eqgame-2008-07-08-22-41-13-04.jpg](https://chasingdings.com/wp-content/uploads/2008/07/eqgame-2008-07-08-22-41-13-04.jpg)
+
 
 No, I totally don't like this screen shot. My only excuse is this is the only one I took!
 
@@ -49,7 +27,7 @@ Once we finally made it to the second floor, we settled in for a long evening's 
 
 So we'll probably head back next week and just continue from the library. ToFS was meant for exactly this sort of group -- a slow progression through the floors. Sure, once we reach floor 7, I imagine we'll farm the daylights out of Tserrina just like everyone else does, but it's gonna take us a few nights to get there, and all the time, we'll be leveling so when we DO get there, we'll be able to take her down.
 
-![outsidetofs.jpg](https://chasingdings.com/wp-content/uploads/2008/07/outsidetofs.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/07/outsidetofs.jpg" classes="center" >}}
 
 It just wouldn't be a good night if it didn't start out with some hot Fada death action. And he was kind enough to die three times. Getting IN to ToFS is no easy task; it's guarded by these bone, stick and ice creatures, and if you have one now, you'll have a dozen in ten seconds and fifty half a minute later. Every strategy we tried to get outside and rez met with more death. Well, we eventually got everyone alive and inside... it wasn't a great way to start, but this is EverQuest we're talking about. "Easy" is for the other guys :)
 

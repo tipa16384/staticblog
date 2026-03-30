@@ -3,48 +3,23 @@ date: '2009-04-20T06:13:19-05:00'
 draft: false
 title: "Web log 4/20 -- Special Contest Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/20/web-log-420-special-contest-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I am SO EXCITED today! Last week, KingsIsle, developers of the wonderful MMO, Wizard 101, asked if I would be interested in participating in a..."
+categories:
   - "Daily Blogroll"
   - "MMORPG"
   - "Sci Fi"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/whatisawesome.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/whatisawesome.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/whatisawesome.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/whatisawesome.jpg"
 ---
+I am SO EXCITED today! Last week, KingsIsle, developers of the wonderful MMO, Wizard 101, asked if I would be interested in participating in a...
+<!--more-->
 
 I am SO EXCITED today! Last week, KingsIsle, developers of the wonderful MMO, Wizard 101, asked if I would be interested in participating in a little contest to help promote their new player housing. Players will be able to buy homes based on themes from each of the five worlds in game -- Wizard City, Krokotopia, Marleybone, Moo Shu and Dragonspyre. The vendors for these homes are going to be industrious builder turtles, who will exchange piles of gold for the keys to your new home. The names of these turtles will be determined by the players, and the readers of West Karana who also play Wizard 101 will be naming the turtle for Marleybone, which is my personal favorite world.
 
 I couldn't be more thrilled! If my blog works correctly, you should see a post with the contest details appear magically at around 11AM EST. The contest will run for ten days, so you have plenty of time, but get your votes in early :) Everyone who chooses the eventual winning name gets a prize, and the first one to send in the name that eventually gets chosen gets something even cooler!
 
-![whatisawesome](https://chasingdings.com/wp-content/uploads/2009/04/whatisawesome.jpg "whatisawesome")
-
-Must be something in the air, because suddenly, everyone is talking about -- FONTS. Yesterday, Todd Klein told us about [the dangers of using Microsoft's Comic Sans MS font face](https://chasingdings.com/index.php/2009/04/19/web-log-419/), today, Bryzon at Bryzon's Blurbs points at some videos of [cartoons translated to animated text](http://bryzon.blogspot.com/2009/04/typography-makes-everything-better.html), and science fiction problog io9 takes us through a baker's dozen [fonts for alien languages](http://io9.com/5218119/13-alien-languages-you-can-actually-read).
+Must be something in the air, because suddenly, everyone is talking about -- FONTS. Yesterday, Todd Klein told us about [the dangers of using Microsoft's Comic Sans MS font face](https://tipa16384.github.io/wkblog/index.php/2009/04/19/web-log-419/), today, Bryzon at Bryzon's Blurbs points at some videos of [cartoons translated to animated text](http://bryzon.blogspot.com/2009/04/typography-makes-everything-better.html), and science fiction problog io9 takes us through a baker's dozen [fonts for alien languages](http://io9.com/5218119/13-alien-languages-you-can-actually-read).
 
 Words are GOOD. MBP over at Mind Bending Puzzles wonders if today's kids could get excited about the sort of text adventures we all used to play in the 80s -- [and finds that they can](http://mindbendingpuzzles.blogspot.com/2009/04/what-sort-of-text-adventure-could-you.html)!
 

@@ -3,42 +3,22 @@ date: '2014-12-23T14:06:03-05:00'
 draft: false
 title: "Crushbone's Revenge's first day live..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/12/23/hey-hey-magical-sleigh-i-didnt-get-this-last-year-because-i-was-saving-up-for-the-frost-mimic/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Crushbone"
   - "Foundry"
-featured_image: "https://chasingdings.com/wp-content/uploads/2014/12/GameClient-2014-12-23-08-53-53-31-480x321.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2014/12/GameClient-2014-12-23-08-53-53-31-480x321.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/GameClient-2014-12-23-08-53-53-31-480x321.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/12/GameClient-2014-12-23-08-53-53-31-480x321.jpg"
 ---
+[...
+<!--more-->
 
-[![Magical Sleigh](https://chasingdings.com/wp-content/uploads/2014/12/GameClient-2014-12-23-08-53-53-31-480x321.jpg)](https://chasingdings.com/wp-content/uploads/2014/12/GameClient-2014-12-23-08-53-53-31.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2014/12/GameClient-2014-12-23-08-53-53-31.jpg)
 
 Hey, hey, magical sleigh. I didn't get this last year because I was saving up for the Frost Mimic.
 

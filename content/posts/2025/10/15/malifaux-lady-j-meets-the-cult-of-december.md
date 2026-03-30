@@ -3,39 +3,17 @@ date: '2025-10-15T08:13:48-05:00'
 draft: false
 title: "Malifaux: Lady J meets the Cult of December"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/10/15/malifaux-lady-j-meets-the-cult-of-december/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I died to a FREAKIN' PINATA?"
-description: "I died to a FREAKIN' PINATA?"
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "Pack Rat Gaming"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5423-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/IMG_5423-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5423-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/IMG_5423-scaled.jpg"
 ---
+I died to a FREAKIN' PINATA?
+<!--more-->
 
 Quick recap: Malifaux is a story-based miniatures skirmish game where factions battle it out for the resources of the magical world on the other side of a mysterious breach that was opened in Europe in the late 19th century. The Guild is the faction comprised of the European governments that seek to control access to that world. There are twelve "titans" in the magical world that manifest as spirits that form alliances with the humans that travel to that world; the titan December resides within former Guild prisoner Rasputina. Lady J -- Lady Justice -- is the head of the Guild's "Death Marshalls", a squad of death dealers charged with rooting out necromancers. After a epic battle left Lady J blind and weakened, and her lover and most of her squad dead, Justice started using necromancy herself in order to sense the world around her and bring back her dead squad to continue their mission.
 
@@ -43,7 +21,7 @@ Okay, that was a *not*-so-quick recap, but that's where we start.
 
 My opponent's husband actually worked with Wyrd Games on this fourth edition and has played many, many games, and so I came into the game not expecting to win (and I didn't), but Malifaux is just fun for the stories you tell, even if winning isn't going to happen.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/image-7-1024x683.png" title="I gave the header pic to ChatGPT and asked it to make it look exciting" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/image-7-1024x683.png" title="I gave the header pic to ChatGPT and asked it to make it look exciting" classes="center" >}}
 
 Deployment was flank (opposite corners), strategy was Plant Explosives (all units carry a bomb that must be placed on the opponent's half of the table).
 
@@ -51,7 +29,7 @@ My team is same as last: Raspy (Abominable), Mara, Ceddra, Snow Storm, Bashe, Si
 
 Opponent's team was: Lady J 2, Judge, frickin' pinata, some rider, some other minions. I'll be glad when the app is released on iOS so that I can look at my opponent's cards and recap the match.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/image-8-1024x557.png" title="Turn 1" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/image-8-1024x557.png" title="Turn 1" classes="center" >}}
 
 Turn 1 I had the Reshape the Landscape scheme, which just means putting four or five markers of my choice entirely on the enemy side of the board. That's easy for December; just plop some ice pillars there and call it done. We tied on the strategy and my opponent did not make their scheme, so 2-1 me.
 

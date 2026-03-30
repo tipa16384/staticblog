@@ -3,40 +3,19 @@ date: '2010-07-29T23:14:55-05:00'
 draft: false
 title: "Zynga's Frontierville is Capitalism for Kids"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/29/zyngas-frontierville-is-capitalism-for-kids/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
   - "Frontierville"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1-480x389.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1-480x389.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1-480x389.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1-480x389.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1-480x389.jpg "Clicking away in Frontierville")](https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/07/Fullscreen-capture-7282010-111025-PM1.jpg)
 
 While yesterday's look at Playfish' "My Empire" showed a game that at least reminds us of an actual game -- a city simulator in the vein of the popular Caesar series -- the core gamer saves their real scorn for the ubiquitous clicking games that made Zynga into the gaming powerhouse it is today. Make no mistake about it -- Acti-Blizzard, Electronic Arts, SOE and every other game development studio is taking a hard look at these games.
 
@@ -60,7 +39,7 @@ Success in Frontierville is based on INVESTMENTS.
 
 Since each investment guarantees a payoff, you will be able to accurately judge how best to invest your energy. It's easily possible to invest to heavily in short term investments, such as crops, and become unable to harvest them rapidly enough before you run out of energy and your crops potentially begin to wither. Long term investments don't share this penalty, but the return on investment is somewhat less, and requires careful management.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7292010-103156-PM.jpg "Hire migrant workers!")](https://chasingdings.com/wp-content/uploads/2010/07/Fullscreen-capture-7292010-103156-PM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/Fullscreen-capture-7292010-103156-PM.jpg" title="Hire migrant workers!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/07/Fullscreen-capture-7292010-103156-PM.jpg)
 
 Luckily for you, Frontierville has a solution: **migrant farmhands**. It may take YOU ten clicks to harvest your crops, but you can hire a migrant worker to harvest nine of them for NO clicks (but for 50 coins). Your friends will do all the heavy work for you, and all you have to do is count the coins, food and experience as they stream into your bank. Too bad you can only hire migrant farm workers twice per day.
 

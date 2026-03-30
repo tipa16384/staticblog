@@ -3,44 +3,22 @@ date: '2022-08-07T09:45:49-05:00'
 draft: false
 title: "GPT-3 interviews me about Stray."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/07/gpt-3-interviews-me-about-stray/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "For a game where AIs rule the world, I thought it would be fun to ask an AI to interview me about my experiences playing \"Stray\"..."
-description: "For a game where AIs rule the world, I thought it would be fun to ask an AI to interview me about my experiences playing \"Stray\"..."
-tags:
+categories:
   - "Cats"
   - "PS5"
   - "Puzzles"
   - "RPG"
   - "Video Game"
+tags:
   - "AI"
   - "Gpt-3"
   - "Stray"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/Stray_20220806152752-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/Stray_20220806152752-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Stray_20220806152752-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/Stray_20220806152752-scaled.jpg"
 ---
+For a game where AIs rule the world, I thought it would be fun to ask an AI to interview me about my experiences playing "Stray"...
+<!--more-->
 
 I thought it would be fun, with my focus this month on using AI tools for blogging, to have GPT-3 interview *me* about my experiences playing the recently released cat adventure, Stray. What follows is the unedited transcript. I have to keep prompting it to stop it from trying to complete both sides of the interview.
 
@@ -54,7 +32,7 @@ Toward the start of the game, just the experience of being a cat and doing cat t
 
 The graphics were fine. The cutscenes were done in game, so it was a natural flow between the opening of a level and the actual play. Now that I think about it, each level -- from the outside prologue, to the slums where we spent a lot of time, the Zurk-infested sewers, the tree-focused time in Anthill, the city center of Midtown, and the antiseptic lifelessness of the control center, all seemed like very different games, and a lot of that was due to the innovative use of lighting in these areas. Warm in the slums, neon in Midtown, fluorescent in the control center... very different feels. Ask me another question!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/Stray_20220806173237-1024x576.jpg" title="Everyone has their own talents" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/Stray_20220806173237-1024x576.jpg" title="Everyone has their own talents" classes="center" >}}
 
 **Did you find the game difficult?**
 
@@ -68,7 +46,7 @@ Well, I thought going in that this was going to be a story about a cat that got 
 
 There was never any doubt that the drone would succeed in its mission. We do find out the drone's big secret about midway through the game, though anyone who's seen the really similar in a lot of ways Detective Pikachu would have long before figured it out. A bit of a spoiler, I guess -- in the end, you're just a cat, alone, again, and it feels like something is missing. And the ending is a little bit vague about whether or not the cat's mission was ever fulfilled. Ask me another question!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/Stray_20220806145345-1024x576.jpg" title="I'm helping!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/Stray_20220806145345-1024x576.jpg" title="I'm helping!" classes="center" >}}
 
 **What was your favorite part of the game?**
 

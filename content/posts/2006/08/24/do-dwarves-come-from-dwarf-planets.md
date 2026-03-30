@@ -3,40 +3,19 @@ date: '2006-08-24T11:08:07-05:00'
 draft: false
 title: "Do Dwarves Come From Dwarf Planets?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/24/do-dwarves-come-from-dwarf-planets/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "General"
   - "Sci Fi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/pluto.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/pluto.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/pluto.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/pluto.gif"
 ---
+[...
+<!--more-->
 
-[![Pluto](https://chasingdings.com/wp-content/uploads/2006/08/pluto.gif)](https://chasingdings.com/applets/melon/Melon.html)Poor Pluto. For nearly a century it had been sitting at the big table with the other planets. And did it complain? It did not. It was just happy to be here.
+[
+
+](https://tipa16384.github.io/wkblog/applets/melon/Melon.html)Poor Pluto. For nearly a century it had been sitting at the big table with the other planets. And did it complain? It did not. It was just happy to be here.
 
 But rather than admit potentially a dozen smaller planets to that exclusive club, the [International Astronomer's Union](http://iau.org) decided to [demote Pluto](http://news.bbc.co.uk/1/hi/sci/tech/5282440.stm) to the status of a "dwarf planet".
 

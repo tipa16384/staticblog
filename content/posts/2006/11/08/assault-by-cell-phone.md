@@ -3,37 +3,12 @@ date: '2006-11-08T11:37:03-05:00'
 draft: false
 title: "Assault by Cell Phone"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/08/assault-by-cell-phone/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's this commercial... friends tell me it's from Verizon Wireless advertising their new RAZR phone but really, I can't watch it all the way through......"
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+There's this commercial... friends tell me it's from Verizon Wireless advertising their new RAZR phone but really, I can't watch it all the way through......
+<!--more-->
 
 There's this commercial... friends tell me it's from Verizon Wireless advertising their new RAZR phone but really, I can't watch it all the way through... it's just...
 

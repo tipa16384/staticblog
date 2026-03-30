@@ -3,43 +3,21 @@ date: '2022-08-12T07:00:00-05:00'
 draft: false
 title: "Twelve Angry Zoos"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/12/twelve-angry-zoos/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "\"Twelve Angry Zoos\" is a fast-paced arcade game that will test your reflexes and puzzle-solving skills. With 12 different zoos in 12 different cities, there's plenty of gameplay to keep you entertained."
-description: "\"Twelve Angry Zoos\" is a fast-paced arcade game that will test your reflexes and puzzle-solving skills. With 12 different zoos in 12 different cities, there's plenty of gameplay to keep you entertained."
-tags:
+categories:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
+tags:
   - "Craiyon"
   - "Funspot"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/12angryzoos.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/12angryzoos.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/12angryzoos.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/12angryzoos.png"
 ---
+"Twelve Angry Zoos" is a fast-paced arcade game that will test your reflexes and puzzle-solving skills. With 12 different zoos in 12 different cities, there's plenty of gameplay to keep you entertained.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 12th: “Twelve Angry Zoos”.
 
@@ -49,7 +27,7 @@ Each level is the home of one of the zoo's many different animals, and each leve
 
 Other animal challenges include the penguins, who must be fed fish, the giraffes, who must be watered, and the tigers, who must be given meat.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-04-19.24.26-a-street-fighter-arcade-game-with-an-elephant-and-a-penguin-as-the-fighters-1024x1024.png" title="Rock 'em, Sock 'em, Elephant vs Penguin Action!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-04-19.24.26-a-street-fighter-arcade-game-with-an-elephant-and-a-penguin-as-the-fighters-1024x1024.png" title="Rock 'em, Sock 'em, Elephant vs Penguin Action!" classes="center" >}}
 
 There are also challenges in the different city locations, such as cleaning up litter in New York or delivering medical supplies to a zoo in Africa.
 
@@ -59,7 +37,7 @@ The game is over if any of the zoos close down, and you must start again from th
 
 "Twelve Angry Zoos" is based on an earlier arcade game, "Six Angry Zoos". In the previous title, you managed six zoos, each with its own animal challenge. The new game features twice as many zoos and animals, as well as new challenges in the different city locations. "Angry Zoos" has clear parallels to 80s arcade hit "Paperboy", in which you must complete various tasks while avoiding obstacles. But "Twelve Angry Zoos" is its own game, with its own unique challenges (Paperboy's main character even makes a cameo appearance in one of the levels).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-04-19.24.05-teenage-mutant-ninja-penguins-1024x1024.png" title="Special prizes for winning: Teenage Mutant Ninja Penguins" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-04-19.24.05-teenage-mutant-ninja-penguins-1024x1024.png" title="Special prizes for winning: Teenage Mutant Ninja Penguins" classes="center" >}}
 
 So if you're looking for a new arcade game to play, or if you're a fan of "Paperboy", be sure to check out "Twelve Angry Zoos"!
 

@@ -3,42 +3,21 @@ date: '2008-10-06T08:00:20-05:00'
 draft: false
 title: "W101: Leaving Krokotopia"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/06/w101-leaving-krokotopia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "And I have the title to prove it...."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Krokotopia"
   - "Marleybone"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/taratheslayer.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/taratheslayer.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/taratheslayer.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/taratheslayer.jpg"
 ---
+And I have the title to prove it....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/taratheslayer.jpg "taratheslayer")
+
 
 *And I have the title to prove it.*
 
@@ -46,7 +25,7 @@ I didn't reroll as an Ice wizard :) I was just spending my mornings as I often d
 
 If you look behind Tara, you won't see the crowds of Wizard City or the blinding glare of Krokotopia. Tara is standing in the central square of Marleybone, its eternal night lit dimly by the glow of shop windows and the flickering magics of the minigame portals. She finished Krokotopia. Well, that's not *exactly* true. But she did earn the right to go to Marleybone; she didn't get there by tagging along on someone else's ticket.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-05-00-14-22-84.jpg "wizardgraphicalclient-2008-10-05-00-14-22-84")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-05-00-14-22-84.jpg" title="wizardgraphicalclient-2008-10-05-00-14-22-84" classes="center" >}}
 
 *The Arena Master.*
 
@@ -56,7 +35,7 @@ I met up with someone who was just a quest or two ahead of me. He helped me catc
 
 In the Grand Arena, the Arena Master sets you ever greater challenges to prove your worth to (if I remember right) earn one of the three badges that identifies the bearer as a member of the Order of the Fang. That, and a trip through the Vault of Ice, earns you the right to defeat the minotaur champion at the front of the Sphinx. There's always people willing to help with that boss, who has 2000 points of health and three friends, because he has some interesting rare drops.
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-05-13-20-27-60.jpg "wizardgraphicalclient-2008-10-05-13-20-27-60")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-05-13-20-27-60.jpg" title="wizardgraphicalclient-2008-10-05-13-20-27-60" classes="center" >}}
 
 *The Order of the Fang sends their love.*
 
@@ -70,7 +49,7 @@ I'd been hanging out with ANOTHER Oran (call him Oran T.), helping him with some
 
 There's plenty of other things to do in the Temple of Storms, but I was getting impatient to get to Marleybone, just the same way I'd been eager to leave its sands behind when I played in beta. The secret is, you only have to finish the storyline quests to move to the next world. There's a lot of quests left waiting for me in the Temple, but...
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-05-17-12-46-93.jpg "wizardgraphicalclient-2008-10-05-17-12-46-93")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-05-17-12-46-93.jpg" title="wizardgraphicalclient-2008-10-05-17-12-46-93" classes="center" >}}
 
 *I didn't get the kill shot. It sure wasn't my Guardian Sprite who, like usual, was making her own healing her number one priority. Oran T had some sort of lightning elemental pet, probably that got the kill shot. But -- DUST! The Buffy fan in me screams with glee.*
 
@@ -82,10 +61,10 @@ So I don't think I'll be removing him. But I do hope he learns to call first bef
 
 Some Marleybone pics (you'll be seeing a lot more of these as my friends and I work through this alternate version of London):
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-05-18-03-34-01.jpg "wizardgraphicalclient-2008-10-05-18-03-34-01")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-05-18-03-34-01.jpg" title="wizardgraphicalclient-2008-10-05-18-03-34-01" classes="center" >}}
 
 *Marcel Meow... hey, I don't name 'em.*
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/wizardgraphicalclient-2008-10-05-18-04-12-15.jpg "wizardgraphicalclient-2008-10-05-18-04-12-15")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/10/wizardgraphicalclient-2008-10-05-18-04-12-15.jpg" title="wizardgraphicalclient-2008-10-05-18-04-12-15" classes="center" >}}
 
 *By Jove, Holmes, you can't be serious!*

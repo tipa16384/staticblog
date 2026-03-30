@@ -3,39 +3,16 @@ date: '2007-12-12T08:41:48-05:00'
 draft: false
 title: "I love my Sony Reader, and so does my cat."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/12/12/i-love-my-sony-reader-and-so-does-my-cat/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I owned a house up in Monterey, California. I loved that old house; I raised my kids and my cats there, and it had oodles..."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/12/reader.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/12/reader.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/reader.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/12/reader.jpg"
 ---
+I owned a house up in Monterey, California. I loved that old house; I raised my kids and my cats there, and it had oodles...
+<!--more-->
 
-![reader.jpg](https://chasingdings.com/wp-content/uploads/2007/12/reader.jpg)
+
 
 I owned a house up in Monterey, California. I loved that old house; I raised my kids and my cats there, and it had oodles of space, and I had books pretty much everywhere. Two book cases in the garage, two in the family room with the computer, two in my bedroom, a huge one in the living room... because I really like reading.
 

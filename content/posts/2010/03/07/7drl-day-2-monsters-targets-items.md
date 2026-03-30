@@ -3,38 +3,13 @@ date: '2010-03-07T20:05:11-05:00'
 draft: false
 title: "7DRL Day 2: Monsters, Targets, Items"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/03/07/7drl-day-2-monsters-targets-items/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My 7DRL entry is moving along, but it's not moving quickly. I'd said even before I started this that, given a full time job, how..."
+categories:
   - "7DRL"
   - "Other Games"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+My 7DRL entry is moving along, but it's not moving quickly. I'd said even before I started this that, given a full time job, how...
+<!--more-->
 
 My 7DRL entry is moving along, but it's not moving quickly. I'd said even before I started this that, given a full time job, how the game was at the end of Sunday -- today -- is how it would have to be.
 

@@ -3,40 +3,17 @@ date: '2006-09-28T13:55:17-05:00'
 draft: false
 title: "EQ1: Hatchet, Serpent's Spine, and the Path to 75"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/09/28/eq1-hatchet-serpents-spine-and-the-path-to-75/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's a pretty small community of EQ2 bloggers; I think we all know each other by now. But there's no community of bloggers for the..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/09/nest.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/09/nest.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/nest.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/09/nest.jpg"
 ---
+It's a pretty small community of EQ2 bloggers; I think we all know each other by now. But there's no community of bloggers for the...
+<!--more-->
 
-![The Nest](https://chasingdings.com/wp-content/uploads/2006/09/nest.jpg)
+
 
 It's a pretty small community of EQ2 bloggers; I think we all know each other by now. But there's *no* community of bloggers for the original EverQuest. Sure, [Mobhunter](http://mobhunter.com/) is still going, and guilds still do their updates... but for the real *bloggishness* of someone detailing their character's travels and travails through the game that gave many of us such good times and memories... I can't find one. And thus the occasional EQ1 entry here.
 
@@ -54,7 +31,7 @@ I died once on the Sisters raid and, naturally lost my level. I've always insist
 
 The next night was supposed to be an experience night, but instead turned out to be a keying night for some Serpent's Spine zone. I skipped that to get some experience. I found, eventually, a non-guild pickup group doing easy nest missions. It was a good reminder of why I don't often group outside the guild. Three hours for 12% experience. Not worth it. I logged immediately after the mission and went to EQ2.
 
-![Hatchet the Torturer](https://chasingdings.com/wp-content/uploads/2006/09/hatchet.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/09/hatchet.jpg" classes="center" >}}
 
 The next night we attempted Hatchet the Torturer again. We're feeling a little pressure because two guilds at similar strength had just defeated Hatchet the night before. Not that competition means much in these days of instanced content, but it's **there** and you just have to deal with it.
 
@@ -72,7 +49,7 @@ Fun raids where everyone has to do their best and work as a team -- where the co
 
 In WoW, as a priest, my entire role was -- spam cure button, spam HOT button on MA, spam heal button. I was not required to do one other thing in groups or raids (well, I had to keep a DOT up on Onyxia, which btw would have been more meaningful if I'd stayed shadow-specced...) The CTRaid add-on and the Thottbot compendium of every last detail of the game just made raiding feel like "Raiding for Dummies".
 
-![Ashengate](https://chasingdings.com/wp-content/uploads/2006/09/ashengate.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/09/ashengate.jpg" classes="center" >}}
 
 We didn't kill Hatchet, but we might have if the room hadn't repopped during our last attempted. Everyone was paying attention, we were at the top of our game, but those adds were just too much to handle. We go back tonight to finish him.
 

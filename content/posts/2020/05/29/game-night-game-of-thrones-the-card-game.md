@@ -3,42 +3,20 @@ date: '2020-05-29T11:46:57-05:00'
 draft: false
 title: "Game Night: Game of Thrones: the Card Game"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/29/game-night-game-of-thrones-the-card-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Last year for my birthday, Kasul got me a huge, mysteriously heavy box and refused to say what was inside. Anticipation was killing me. When..."
+categories:
   - "Game Night"
   - "Lord of the Rings"
   - "Scythe"
   - "Tabletop Games"
+tags:
   - "Deckbuilding"
   - "Game of Thrones"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/lordsandladies.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/lordsandladies.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/lordsandladies.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/lordsandladies.jpg"
 ---
+Last year for my birthday, Kasul got me a huge, mysteriously heavy box and refused to say what was inside. Anticipation was killing me. When...
+<!--more-->
 
 Last year for my birthday, Kasul got me a huge, mysteriously heavy box and refused to say what was inside. Anticipation was killing me. When my birthday came, I opened it up and it was absolutely full of [Fantasy Flight Games'](https://www.fantasyflightgames.com/) [Game of Thrones, the Card Game](https://www.fantasyflightgames.com/en/products/a-game-of-thrones-lcg/) stuff. The base game, custom card holders for each noble house, every expansion, box after box of stuff.
 
@@ -48,7 +26,7 @@ I'd taken the game out of its box and taken a look. It's a deck building game si
 
 Each player chooses one of the books' major noble houses -- the steadfast Stark, the upstart Baratheon, the usurious Lannister, or the murderous Targaryen. They then build a deck comprised of heroes, lesser characters, events and equipment, and a second deck of plot complications. The players take turns writing their own stories upon the bloody soil of Westeros.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/gamearea-1.jpg" title="Sorry for all the mess. The kitchen table is also my work desk." >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/gamearea-1.jpg" title="Sorry for all the mess. The kitchen table is also my work desk." classes="center" >}}
 
 Each round starts with everyone playing their plot cards. These cards show the income you will receive for the round, as well as any effects -- you might get to tap or destroy a hero card, or might declare the treasury closed so that nobody gets money this turn, or you might be forced to ally with another noble house for this round, and so on.
 

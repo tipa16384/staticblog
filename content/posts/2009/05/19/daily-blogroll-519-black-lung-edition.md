@@ -3,24 +3,8 @@ date: '2009-05-19T08:09:23-05:00'
 draft: false
 title: "Daily Blogroll 5/19 -- Black Lung edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/19/daily-blogroll-519-black-lung-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In EVE Online, at my new home at the Sisters of EVE base in the Arnon system, with Mining IV, Refining III, and two Miner..."
+categories:
   - "Age of Conan"
   - "Champions Online"
   - "Chronicles of Spellborn"
@@ -35,20 +19,13 @@ tags:
   - "Pirates of the Burning Sea"
   - "Vanguard"
   - "Warhammer: Age of Reckoning"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg"
 ---
+In EVE Online, at my new home at the Sisters of EVE base in the Arnon system, with Mining IV, Refining III, and two Miner...
+<!--more-->
 
-![Kasul and I head to a combat mission in our Tristans](https://chasingdings.com/wp-content/uploads/2009/05/exefile-2009-05-18-23-31-07-25.jpg "Kasul and I head to a combat mission in our Tristans")
+
 
 In EVE Online, at my new home at the Sisters of EVE base in the Arnon system, with Mining IV, Refining III, and two Miner II mining lasers and purely selling in-system, I make about 27.5K ISK per minute of mining. If I processed the ore at my current level and sold it in the best market within seven jumps, I would make about 26K ISK/minute of mining, not including travel time. The question is, how many sessions of mining would it take to pay for the skills and equipment necessary to make refining more profitable than just selling the ore straight with no additional skills going toward mining? EVEMon has me at about ten days to having the skills necessary to fly a ORE Retriever mining barge... EVE is the first game I have HAD to play with a spreadsheet open.
 

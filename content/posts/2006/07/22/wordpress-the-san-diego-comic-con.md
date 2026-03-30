@@ -3,37 +3,12 @@ date: '2006-07-22T18:57:56-05:00'
 draft: false
 title: "Wordpress & the San Diego Comic-Con"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/22/wordpress-the-san-diego-comic-con/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Whilst poking around Friday, I found a nice Ruby script which converted from Simple PHP Blog, which I'd been using, to Wordpress, which... is what..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Whilst poking around Friday, I found a nice Ruby script which converted from Simple PHP Blog, which I'd been using, to Wordpress, which... is what...
+<!--more-->
 
 Whilst poking around Friday, I found a nice Ruby script which converted from Simple PHP Blog, which I'd been using, to Wordpress, which... is what this is. I have been building a custom theme for Wordpress but it is far from done. Also all the categories have been flummoxed... still, it is a beginning.
 

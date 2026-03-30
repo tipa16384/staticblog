@@ -3,43 +3,20 @@ date: '2009-03-26T07:40:35-05:00'
 draft: false
 title: "Shiny new hat & adventures in Aldenvault"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/26/shiny-new-hat-adventures-in-aldenvault/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was a sad day when the trolls discovered lawyers. I suppose that living in Freeport, they were bound to stumble upon some, sooner or..."
+categories:
   - "Chronicles of Spellborn"
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-25-21-39-46-26.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-25-21-39-46-26.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/everquest2-2009-03-25-21-39-46-26.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/everquest2-2009-03-25-21-39-46-26.jpg"
 ---
+It was a sad day when the trolls discovered lawyers. I suppose that living in Freeport, they were bound to stumble upon some, sooner or...
+<!--more-->
 
-![everquest2-2009-03-25-21-39-46-26](https://chasingdings.com/wp-content/uploads/2009/03/everquest2-2009-03-25-21-39-46-26.jpg "everquest2-2009-03-25-21-39-46-26")
 
-![eqgame-2009-03-26-08-12-24-54](https://chasingdings.com/wp-content/uploads/2009/03/eqgame-2009-03-26-08-12-24-54.jpg "eqgame-2009-03-26-08-12-24-54")
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/eqgame-2009-03-26-08-12-24-54.jpg" title="eqgame-2009-03-26-08-12-24-54" classes="center" >}}
 
 It was a sad day when the trolls discovered lawyers. I suppose that living in Freeport, they were bound to stumble upon some, sooner or later. The Dark Brotherhood, after all, is largely comprised of lawyers.
 
@@ -49,7 +26,7 @@ So, going forward, our models here at West Karana will all be fine, upstanding m
 
 One thing you have to say for today's trolls. They are a HUGE sight less ugly than the ones five hundred years back.
 
-![sb_client-2009-03-26-07-37-28-83](https://chasingdings.com/wp-content/uploads/2009/03/sb_client-2009-03-26-07-37-28-83.jpg "sb_client-2009-03-26-07-37-28-83")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/sb_client-2009-03-26-07-37-28-83.jpg" title="sb_client-2009-03-26-07-37-28-83" classes="center" >}}
 
 Kasul, Jalent and I traipsed around a little in Spellborn last night. Kasul and I started off with a long, long, LONG fight through some tunnels below Aldenvault to kill two named raptors and the trainer wot domesticated them. Lots of fun, and gee, it would have been wonderful to have taken a screen shot! It was kind of intense, though. The quick respawn rate meant we were fighting continuously without a lot of time to just step back and have a look around.
 

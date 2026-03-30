@@ -3,40 +3,19 @@ date: '2008-10-28T08:59:29-05:00'
 draft: false
 title: "Stout Henry Gets Lost"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/28/stout-henry-gets-lost/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "\"My name's not Ognob,\" said Ognob, for the third time in as many minutes. \"It's Daryl. And this is NOT the way back to my..."
+categories:
   - "Humor"
   - "Stout Henry"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/shgetslost.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/shgetslost.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+tags:
+  - "Stout Henry"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/shgetslost.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/shgetslost.jpg"
 ---
+"My name's not Ognob," said Ognob, for the third time in as many minutes. "It's Daryl. And this is NOT the way back to my...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/10/shgetslost.jpg "shgetslost")
+
 
 "My name's not Ognob," said Ognob, for the third time in as many minutes. "It's Daryl. And this is NOT the way back to my laboratory."
 

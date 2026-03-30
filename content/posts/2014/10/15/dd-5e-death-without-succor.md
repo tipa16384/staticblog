@@ -3,40 +3,17 @@ date: '2014-10-15T21:21:50-05:00'
 draft: false
 title: "D&D 5e -- Death Without Succor"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/10/15/dd-5e-death-without-succor/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was an odd chain of coincidences, we thought -- Escobert sends us through a secret tunnel, straight into a kobold and cultist ambush. Then..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2014/10/1-Fullscreen-capture-1092014-115643-PM-480x374.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2014/10/1-Fullscreen-capture-1092014-115643-PM-480x374.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2014/10/1-Fullscreen-capture-1092014-115643-PM-480x374.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/10/1-Fullscreen-capture-1092014-115643-PM-480x374.jpg"
 ---
+It was an odd chain of coincidences, we thought -- Escobert sends us through a secret tunnel, straight into a kobold and cultist ambush. Then...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2014/10/1-Fullscreen-capture-1092014-115643-PM-480x374.jpg" title="Incident at the Barn" class="align-center" >}}
+
 
 It was an odd chain of coincidences, we thought -- Escobert sends us through a secret tunnel, straight into a kobold and cultist ambush. Then he sends us to a mill -- straight into a cultist and mercenary, this time, ambush.
 

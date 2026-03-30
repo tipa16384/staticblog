@@ -3,40 +3,17 @@ date: '2006-01-30T00:00:00-05:00'
 draft: false
 title: "Nashuya - Shadow Knight"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/01/30/nashuya-shadow-knight/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Though in a couple of weeks, Nashuya could have been a Shadow Knight from level one, here and now, you still have to level to..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/images/nash20.jpg"
-cover:
-  image: "https://chasingdings.com/images/nash20.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/nash20.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/nash20.jpg"
 ---
+Though in a couple of weeks, Nashuya could have been a Shadow Knight from level one, here and now, you still have to level to...
+<!--more-->
 
-![](https://chasingdings.com/images/nash20.jpg)
+
 
 Though in a couple of weeks, Nashuya could have been a Shadow Knight from level one, here and now, you still have to level to 20 before you learn the mysteries of pain and suffering. Perhaps best to lead up to it, to talk around the subject... to make someone beg for it. But gosh durn it, doesn't she look cute in that anime gear. And people criticize the SOGA models!
 
@@ -54,6 +31,6 @@ Slinka's gear and spell, not to mention level, have NOT kept pace with Nashuya's
 
 Nashuya is a craftsman, which was a mistake. Slinka is undecided; perhaps she could be an armorcrafter. You need maybe two weapons, but you need seven pieces of armor. Too bad heavy armor is such a crafting chore.
 
-![](https://chasingdings.com/images/dinanash.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/images/dinanash.jpg" classes="center" >}}
 
 Long ago, Nashuya was just Dina's merchant; standing around day after day, selling stuff to people who came by, or through the broker. Now, she leads.

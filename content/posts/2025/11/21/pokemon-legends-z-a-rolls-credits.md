@@ -3,38 +3,17 @@ date: '2025-11-21T10:19:36-05:00'
 draft: false
 title: "Pokémon Legends: Z-A rolls credits"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/11/21/pokemon-legends-z-a-rolls-credits/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Is the latest entry in the Pokemon series worth buying a Switch 2 to play? Is it important to have played Pokemon X/Y first? These are questions!"
-description: "Is the latest entry in the Pokemon series worth buying a Switch 2 to play? Is it important to have played Pokemon X/Y first? These are questions!"
-tags:
+categories:
   - "Nintendo Switch"
   - "Pokemon"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+tags:
+  - "Pokemon"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/2025112021391100-D30A1E83A76029FCCC1E3AC4EF5B7C89L.jpg"
 ---
+Is the latest entry in the Pokemon series worth buying a Switch 2 to play? Is it important to have played Pokemon X/Y first? These are questions!
+<!--more-->
 
 I knew going in to Z-A that this was set in the same region as the earlier [*Pokemon X and Y*](https://en.wikipedia.org/wiki/Pok%C3%A9mon_X_and_Y) games. This was great, because I hadn't *played* those games; I'd taken a Poke-break from the series after Pearl/Diamond until I rejoined with *Sword/Shield*. The previous game with the "Legends" moniker, *Pokemon Legends: Arceus*, took place five hundred years before the events of Pearl/Diamond and only featured a couple of characters from that game. I thought there'd be a similar separation here.
 
@@ -46,7 +25,7 @@ For those, like me, new to the Kalos region, *Z-A* feels a little thin.
 
 You arrive as a tourist to Lumiose from some other place. As in every other Pokemon game, your character, presumably having grown up in a world where Pokemon and humans co-existed, knows absolutely nothing about catching and training Pokemon and has managed to get to this point of their life with no Pokemon of their own. But you're planning to change that by visiting the city where humans and Pokemon live together.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/1-2025110915163200-D30A1E83A76029FCCC1E3AC4EF5B7C89L-1024x640.jpg" title="Pokemon X/Y players might be triggered by this screenshot" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/1-2025110915163200-D30A1E83A76029FCCC1E3AC4EF5B7C89L-1024x640.jpg" title="Pokemon X/Y players might be triggered by this screenshot" classes="center" >}}
 
 Mostly. Lumiose is divided into human zones, where people live with their Pokemon companions, and wild zones, where portions of the city have been set aside for wild Pokemon to live without human interference. As the game progresses, more and more wild zones appear, crowding the people into a smaller area and causing a little bit of commotion. Additionally, mega shards are appearing in increasing volume through the city, and it all seems to be connected to the Prism Tower rising from the center of the city.
 
@@ -54,19 +33,19 @@ After exiting the train to Lumiose, you're immediately spotted by your eventual 
 
 *X/Y* players will immediately recognize the hotel owner and his Pokemon and will be full of questions that are not answered until near the end of the game. Me, I was just wondering how he got to be three meters tall. Is he a Pokemon? Meeting another man of the same stature later in the game just got me hoping I'd be able to go to the land of giants whence they came.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/1-2025110922425800-D30A1E83A76029FCCC1E3AC4EF5B7C89L-1024x576.jpg" title="Z-A main menu" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/1-2025110922425800-D30A1E83A76029FCCC1E3AC4EF5B7C89L-1024x576.jpg" title="Z-A main menu" classes="center" >}}
 
 Lumiose is a city under a secret siege. The mega crystals everywhere, combined with the mysterious emanations from Prism Tower, are forcing wild Pokemon to undergo *rogue mega evolution*, a process where Pokemon are forced to evolve and go berserk. Your job, as a new member of Team MZ, is to pacify them when they mega evolve. And I do say it is *your* job, as the other members of Team MZ are pretty ineffective on their own, and actually cannot do this at all unless you take the lead. In Team MZ, all these long term residents of the city all have Pokemon weaker than the random ones you're catching in the wild zones. Aside from AZ's Floette, of course.
 
 Progression requires you to fight in the Z-A ranking battles; you start at Z, gain points in the nightly Challenge Areas by battling other ranked trainers, spend those points on challenge cards, and use those cards to challenge trainers of your same rank to a promotion fight. These are essentially gym battles, as each of the later trainers you challenge focus on Pokemon of one type -- Electric, Fighting, Poison and so on. The gameplay loop is: capture Pokemon in wild zones, battle nightly in the challenge zone, pacify rogue mega Pokemon, and get promoted. There's also a *ton* of side quests to get you money, experience and the occasional new Pokemon.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/2025112022553300-D30A1E83A76029FCCC1E3AC4EF5B7C89L-1024x576.jpg" title="Huh." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/2025112022553300-D30A1E83A76029FCCC1E3AC4EF5B7C89L-1024x576.jpg" title="Huh." classes="center" >}}
 
 The reward for getting to Rank A is a wish that will be granted by the local redevelopment corporation if it is within their power to do so. Returning someone from the dead is something they *cannot* do, even though it was done at the climax of *Pokemon X/Y*. So it's not something they can do more than once, I guess. It did destroy Lumiose that one time, though, so maybe it's for the best.
 
 You're actually only given three options for wishes at the end of the game, and two of them aren't allowed. As in E. R. Eddison's *[The Worm Ouroboros](https://en.wikipedia.org/wiki/The_Worm_Ouroboros)*, the only possible wish is the wish to keep battling, and the challenge ladder becomes the *infinite* challenge ladder and the story continues, meeting your opponents from before once more and finally being able to capture legendary Pokemon Zygarde. Presumably it also closes some of the hanging plot threads, including one your friend/rival has been cagey about the entire game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/image-4.png" title="Pokemon playtimes" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/image-4.png" title="Pokemon playtimes" classes="center" >}}
 
 **Is it fun?**
 

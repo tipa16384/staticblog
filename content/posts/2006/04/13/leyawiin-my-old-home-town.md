@@ -3,40 +3,17 @@ date: '2006-04-13T00:00:00-05:00'
 draft: false
 title: "Leyawiin, my old home town"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/04/13/leyawiin-my-old-home-town/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I moved to Leyawiin, in Oblivion. Bought a house. It's a rat-trap. I keep it dark because any candle could burn the whole place down...."
+categories:
   - "Oblivion"
   - "Other Games"
-featured_image: "https://chasingdings.com/images/knighterrant.jpg"
-cover:
-  image: "https://chasingdings.com/images/knighterrant.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/knighterrant.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/knighterrant.jpg"
 ---
+I moved to Leyawiin, in Oblivion. Bought a house. It's a rat-trap. I keep it dark because any candle could burn the whole place down....
+<!--more-->
 
-![](https://chasingdings.com/images/knighterrant.jpg)
+
 
 I moved to Leyawiin, in Oblivion. Bought a house. It's a rat-trap. I keep it dark because any candle could burn the whole place down. Most nights, I sit and wait for television to be invented, but sometimes I wander about. I made the clothes of everyone at a swank dinner party disappear. That was pretty funny. Laughed all the way to jail for that one. I think the Countess may someday forgive me, but I'm not holding my breath.
 

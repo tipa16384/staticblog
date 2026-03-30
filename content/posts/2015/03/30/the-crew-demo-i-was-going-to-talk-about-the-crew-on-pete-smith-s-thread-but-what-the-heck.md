@@ -3,37 +3,12 @@ date: '2015-03-30T16:38:57-05:00'
 draft: false
 title: "The Crew demo... I was going to talk about The Crew on +Pete Smith 's thread, but, what the heck. ..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/03/30/the-crew-demo-i-was-going-to-talk-about-the-crew-on-pete-smith-s-thread-but-what-the-heck/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The Crew demo......"
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+The Crew demo......
+<!--more-->
 
 The Crew demo...
 

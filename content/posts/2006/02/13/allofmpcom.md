@@ -3,37 +3,12 @@ date: '2006-02-13T00:00:00-05:00'
 draft: false
 title: "AllofMP3.com"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/13/allofmpcom/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "First of all, they don't have every MP3. I don't care what they say. I don't even know if they say it... but ya know......"
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+First of all, they don't have every MP3. I don't care what they say. I don't even know if they say it... but ya know......
+<!--more-->
 
 First of all, they don't have **every** MP3. I don't care what they say. I don't even know if they say it... but ya know... given the name.
 

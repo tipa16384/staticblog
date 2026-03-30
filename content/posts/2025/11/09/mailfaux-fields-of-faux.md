@@ -3,38 +3,15 @@ date: '2025-11-09T08:00:00-05:00'
 draft: false
 title: "Mailfaux: Fields of Faux"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/11/09/mailfaux-fields-of-faux/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Our local Malifaux tournament was a chance to play against the best the game has to offer."
-description: "Our local Malifaux tournament was a chance to play against the best the game has to offer."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/1-IMG_5475-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/11/1-IMG_5475-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-IMG_5475-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-IMG_5475-scaled.jpg"
 ---
+Our local Malifaux tournament was a chance to play against the best the game has to offer.
+<!--more-->
 
 The thing about Malifaux is that it isn't a hugely popular game; I'd never heard of it before my partner brought it up and started getting into it. Warhammer I'd heard of. Malifaux -- not so much.
 

@@ -3,50 +3,28 @@ date: '2023-08-05T07:00:00-05:00'
 draft: false
 title: "Adventures in Bad Game Development"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/05/adventures-in-bad-game-development/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I've never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them."
-description: "I've never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them."
-tags:
+categories:
   - "Arcade Game"
   - "Blaugust"
   - "Blaugust 2023"
   - "Game Development"
+tags:
   - "Asteroids"
   - "Aws"
   - "Centipede"
   - "Javascript"
   - "Phaser"
   - "Space Invaders"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-04-23.05.25-classic-video-game-box-art-of-a-space-ship-shooting-a-centipede-with-asteroids-in-the-sky.png"
 ---
+I've never been able to make a good game, but I think I could make some bad ones if I just put a little effort into them.
+<!--more-->
 
 I'm going on vacation this next week. I have some parent visiting to do, but I should have a few days to myself. And I don't want to use it gaming. I have the [Phaser JavaScript game engine](https://phaser.io/) right here, and I want to make some quick games. Though given how slow I am, maybe one game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-14-1024x567.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-14-1024x567.png" classes="center" >}}
 
 **Real Asteroids**
 
@@ -74,7 +52,7 @@ It always kinda bothered me that the Asteroids arcade game had all these asteroi
 
 - After you destroy one, it's off to the next one.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-13-1024x683.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-13-1024x683.png" classes="center" >}}
 
 **Bug Pong**
 
@@ -92,7 +70,7 @@ What if, in Pong, the paddles took damage when they got hit by the ball?
 
 - Not sure how smart to make the AI player.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-12.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-12.png" classes="center" >}}
 
 **Bad Space Invaders**
 
@@ -100,7 +78,7 @@ The idea here was to make a standard Space Invaders, except the cannon only move
 
 Not sure this would be fun to play. The others might be.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-11.png" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-11.png" classes="center" >}}
 
 **AWS Othello**
 

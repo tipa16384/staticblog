@@ -3,41 +3,19 @@ date: '2009-07-22T20:37:47-05:00'
 draft: false
 title: "Wizard 101 Comic Contest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/22/wizard-101-comic-contest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Isaiah Spelldust of Defenders of the Spiral is having a comic contest! Well, I'm always up for a comic :) That's my entry above. Good..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Contest"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/w101comic4isaiah.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/w101comic4isaiah.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101comic4isaiah.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/w101comic4isaiah.jpg"
 ---
+Isaiah Spelldust of Defenders of the Spiral is having a comic contest! Well, I'm always up for a comic :) That's my entry above. Good...
+<!--more-->
 
-![Old Drake doesn](https://chasingdings.com/wp-content/uploads/2009/07/w101comic4isaiah.jpg "Old Drake doesn")
+
 
 Isaiah Spelldust of Defenders of the Spiral [is having a comic contest](http://defendersofthespiral.blogspot.com/2009/07/comic-contest.html)! Well, I'm always up for a comic :) That's my entry above. Good luck! Here's Isaiah with the rules:
 

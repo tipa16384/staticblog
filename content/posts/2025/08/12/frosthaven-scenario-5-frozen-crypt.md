@@ -3,39 +3,16 @@ date: '2025-08-12T08:18:15-05:00'
 draft: false
 title: "Frosthaven Scenario #5: Frozen Crypt"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/12/frosthaven-scenario-5-frozen-crypt/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Our heroes head back to the mainland to take on a race against time..."
-description: "Our heroes head back to the mainland to take on a race against time..."
-tags:
+categories:
   - "Frosthaven"
   - "Game Night"
   - "Tabletop Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5317-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/IMG_5317-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5317-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5317-scaled.jpg"
 ---
+Our heroes head back to the mainland to take on a race against time...
+<!--more-->
 
 Just wandering around the frozen forest around Frosthaven as one does, just kind of seeing what's what, who's who, pressing the flesh, smiling for the press. We were great heroes after our adventures at sea, but it would take some time before we would be able to return to our search for the magical coral fragments, as none of us were able to crack the nut of adventuring underwater. Not yet; we had people working on it, of course.
 
@@ -47,7 +24,7 @@ When we caught up to it (them? him? her? can you really tell?), they (I guess) s
 
 We weren't alone. Among the ice pillars were Ice Wraiths, and they didn't appreciate the disruption. What's worse, we could hear a magical thrumming and an eerie green light from a door on the other side of the wraiths...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/IMG_5318-225x300.jpg" title="Oooo zombies!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/IMG_5318-225x300.jpg" title="Oooo zombies!" classes="center" >}}
 
 Drew and his Blink Blade were back this week; we really missed the DPS last time. My scenario goal was to kill no enemy, so my plan (as Banner Spear) was to take on the support role and help wear down enemies. Since this was going to be a small map -- two small rooms -- I thought I would try and get the mastery point for summoning a banner on turn 1 and keeping it within three spaces the entire scenario. I swapped out some tanky cards for my health and strength banners.
 

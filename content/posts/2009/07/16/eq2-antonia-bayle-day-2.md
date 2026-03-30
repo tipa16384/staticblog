@@ -3,40 +3,17 @@ date: '2009-07-16T23:33:03-05:00'
 draft: false
 title: "EQ2: Antonia Bayle, Day 2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/16/eq2-antonia-bayle-day-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's been a year since Dina Tipa and Dera Arda were able to be in the same place on the same server. I've got a..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-17-00-12-16-44.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-17-00-12-16-44.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-17-00-12-16-44.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-17-00-12-16-44.jpg"
 ---
+It's been a year since Dina Tipa and Dera Arda were able to be in the same place on the same server. I've got a...
+<!--more-->
 
-![My money](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-17-00-12-16-44.jpg "My money")
+
 
 It's been a year since ~~Dina~~ Tipa and ~~Dera~~ Arda were able to be in the same place on the same server. I've got a HECK of a lot of "solo" quests to get done now, and now that I have a pet healer, they won't take forever because of downtime.
 

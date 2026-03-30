@@ -3,24 +3,8 @@ date: '2009-05-26T07:39:29-05:00'
 draft: false
 title: "Daily Blogroll 5/26 -- Back to the Grind edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/26/daily-blogroll-526-back-to-the-grind-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Had a fun weekend in New Hampshire! No gaming to speak of, but I didn't really miss it. My stepmom and I took a hike..."
+categories:
   - "Daily Blogroll"
   - "Darkfall"
   - "EVE Online"
@@ -29,20 +13,13 @@ tags:
   - "Mabinogi"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/mabinogibanner.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/mabinogibanner.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/mabinogibanner.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/mabinogibanner.jpg"
 ---
+Had a fun weekend in New Hampshire! No gaming to speak of, but I didn't really miss it. My stepmom and I took a hike...
+<!--more-->
 
-![Oh look! A bunny rabbit!](https://chasingdings.com/wp-content/uploads/2009/05/mabinogibanner.jpg "Oh look! A bunny rabbit!")
+
 
 Had a fun weekend in New Hampshire! No gaming to speak of, but I didn't really miss it. My stepmom and I took a hike in the back woods and saw the effects of the ice storm and the tornado they had last winter. Got bitten by deer flies, walked dogs, went to church, and what I mostly missed? Doing the blogroll? So... here 'tis :)
 

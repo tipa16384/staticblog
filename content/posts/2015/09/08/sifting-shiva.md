@@ -3,40 +3,17 @@ date: '2015-09-08T22:19:36-05:00'
 draft: false
 title: "Sifting Shiva"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/09/08/sifting-shiva/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We knew we were going to meet Saint Shiva tonight, but we weren't sure how. And it turned out to be a little different from..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/09/1-vlcsnap-2015-09-08-07h00m21s189.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/09/1-vlcsnap-2015-09-08-07h00m21s189.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-vlcsnap-2015-09-08-07h00m21s189.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/09/1-vlcsnap-2015-09-08-07h00m21s189.jpg"
 ---
+We knew we were going to meet Saint Shiva tonight, but we weren't sure how. And it turned out to be a little different from...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-vlcsnap-2015-09-08-07h00m21s189.jpg" title="Shiva Awakens" class="align-center" >}}
+
 
 We knew we were going to meet Saint Shiva tonight, but we weren't sure how. And it turned out to be a little different from what we expected. But naturally, we couldn't get right there. First, we had to deal with that most enticing of all MMO situations -- politics.
 
@@ -46,7 +23,7 @@ But, the mysterious traitor known only as "Ivy" has been leaking battle plans. T
 
 We are appropriately thankful that we can rely upon the Crystal Braves to have our back.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-ffxiv-2015-09-07-20-08-19-42.jpg" title="Ladies and Gentlemen, the Crystal Braves!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/1-ffxiv-2015-09-07-20-08-19-42.jpg" title="Ladies and Gentlemen, the Crystal Braves!" classes="center" >}}
 
 ... or maybe not. Gotta love how even the FFXIV writers are acknowledging that the various NPCs not only aren't planning on helping, they never had any intention of helping. Kasul and I love cataloging the silly excuses the NPCs give for never helping out on anything important. Instead, just asking us to dig up some allies to take care of the insidious existential threats that face all of Eorzea.
 
@@ -58,7 +35,7 @@ The initial attunement worked well, with the aethyric energy being sucked into t
 
 Thankfully, the duty finder didn't take long to make us a full party...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/1-ffxiv-2015-09-07-21-36-15-93.jpg" title="Slicing Shiva" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/1-ffxiv-2015-09-07-21-36-15-93.jpg" title="Slicing Shiva" classes="center" >}}
 
 The white aetheryte pulse succeeded! We kinda expected it would, though I have to admit getting a notice that our characters had not made the transition successfully and were now deleted would have made us sit up straight in our chairs for a moment as we recoiled in shock and appreciation and unsubbed from the game.
 
@@ -66,7 +43,7 @@ Iceheart seemed a little surprised to see us, and tried to enlist us to her side
 
 We couldn't allow for that. And so she... summoned Saint Shiva... by BECOMING Saint Shiva! She went through a heck of a transformation and like some sort of Eorzean Sailor Senshi became... Saint Shiva!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/09/SaintShivaSenshi.jpg" title="Artist conception: Iceheart transforms into Saint Shiva" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/09/SaintShivaSenshi.jpg" title="Artist conception: Iceheart transforms into Saint Shiva" classes="center" >}}
 
 The above picture was made using [Sailor Senshi Maker 3](http://www.dolldivine.com/sailor-moon-senshi-maker.php), btw.
 

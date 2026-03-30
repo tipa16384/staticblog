@@ -3,41 +3,18 @@ date: '2010-06-17T20:44:17-05:00'
 draft: false
 title: "Free2Play: The Remedy for All Ills"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/06/17/free2play-the-remedy-for-all-ills/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Dungeons & Dragons Online started fairly strong for a new MMO, peaked early and fell into obscurity. People complained, loudly, that for a game built..."
+categories:
   - "Dungeons & Dragons Online"
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/tabula_rasa-2007-12-30-09-17-08-46.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/06/tabula_rasa-2007-12-30-09-17-08-46.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/tabula_rasa-2007-12-30-09-17-08-46.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/tabula_rasa-2007-12-30-09-17-08-46.jpg"
 ---
+Dungeons & Dragons Online started fairly strong for a new MMO, peaked early and fell into obscurity. People complained, loudly, that for a game built...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/06/tabula_rasa-2007-12-30-09-17-08-46.jpg "Could F2P have saved Tabula Rasa?")
+
 
 Dungeons & Dragons Online started fairly strong for a new MMO, peaked early and fell into obscurity. People complained, loudly, that for a game built on the Guild Wars model (multiplayer hubs leading to solo/instanced content), they charged a bit much. Guild Wars, its inevitable competition, was after all free to play once you bought the box. Guild Wars also offered single player party play, a fairly unique combat mechanic and a strong RPG plot to take players through the story.
 
@@ -65,7 +42,7 @@ Here's the crux. The game is still pretty much the same as it ever was. If you'r
 
 The Lord of the Rings Online is, I feel, too POPULAR to make the easy switch to "freemium". It might have worked for Tabula Rasa, might still work for Pirates of the Burning Sea, but LotRO has had its time in the sun, and if its fires are now cooling, I can't see the move to freemium as anything but a very risky move.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/06/Fullscreen-capture-6172010-92744-PM-480x288.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/06/Fullscreen-capture-6172010-92744-PM-480x288.jpg" title="Click to enlarge" classes="center" >}}
 
 Just because I'm weird like that, I went to XFire and downloaded stats for a few MMOs. Now, I want to say first off that I don't trust XFire ranks AT ALL, and I think any projections of XFire users into total subscription numbers is just fantasy. However, these are not the only stats tracked by XFire. They also track the number of XFire users that have played a certain game each day, and the total number of minutes XFire users spent in that game.
 

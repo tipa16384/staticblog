@@ -3,41 +3,19 @@ date: '2023-12-15T21:02:37-05:00'
 draft: false
 title: "Advent of Code Day 15 -- Lens Library"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/12/15/advent-of-code-day-15-lens-library/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The lack of hands is all that is keeping the world's reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware."
-description: "The lack of hands is all that is keeping the world's reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware."
-tags:
+categories:
   - "Advent of Code"
-  - "AoC2023"
+tags:
+  - "AoC 2023"
   - "Hash"
   - "Laser"
   - "Reindeer"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/12/aoc2023-15.jpeg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/12/aoc2023-15.jpeg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/aoc2023-15.jpeg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/12/aoc2023-15.jpeg"
 ---
+The lack of hands is all that is keeping the world's reindeer from lasering everyone to death. Luckily, THIS reindeer has YOU. Beware.
+<!--more-->
 
 The header art was used with the permission of the artist, [YellowZorro](https://old.reddit.com/user/YellowZorro). You can find more of their [AoC-themed art here](https://old.reddit.com/r/adventofcode/comments/18ivwtz/2023_aoc_doodles_days_1315/)!
 
@@ -45,7 +23,7 @@ All the light you collected yesterday has to go somewhere, and that somewhere is
 
 That, of course, is [where you come in](https://adventofcode.com/2023/day/15).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/12/a67f24e7-3b38-41e1-b11a-f449f2506ec3-1024x585.webp" title="Dall-E 3 redrew the drawing. And this is why AI art is inferior." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/12/a67f24e7-3b38-41e1-b11a-f449f2506ec3-1024x585.webp" title="Dall-E 3 redrew the drawing. And this is why AI art is inferior." classes="center" >}}
 
 **Part 1**
 

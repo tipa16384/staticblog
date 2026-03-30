@@ -3,43 +3,22 @@ date: '2010-09-03T06:35:53-05:00'
 draft: false
 title: "Wizard101: Getting the school ready for Celestia"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/03/wizard101-getting-the-school-ready-for-celestia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "As part of Wizard101's second year celebration, every account gets a ninja pig transformation potion. Now everyone can understand for fifteen minutes how Myth wizards..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Celestia"
   - "Sandra Bullock"
   - "Teen Choice"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg"
 ---
+As part of Wizard101's second year celebration, every account gets a ninja pig transformation potion. Now everyone can understand for fifteen minutes how Myth wizards...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/09/WizardGraphicalClient-2010-09-02-20-49-06-61.jpg "Go ninja pig or go home!")
+
 
 As part of Wizard101's second year celebration, every account gets a ninja pig transformation potion. Now everyone can understand for fifteen minutes how Myth wizards feel every day of the year.
 
@@ -69,7 +48,7 @@ So anyway, who is one of the hottest teen icons on the planet???
 
 Not being a teen myself, I did what anyone would do -- asked Google.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-932010-71333-AM1-480x342.jpg "Let me Google that for you...")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-932010-71333-AM1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-932010-71333-AM1-480x342.jpg" title="Let me Google that for you..." classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-932010-71333-AM1.jpg)
 
 First result was KI's press release. Well, that's less than helpful. Second and third results were a collaboration with Yet Another Kid Social Networking Site. Because we need a few hundred more of those.
 

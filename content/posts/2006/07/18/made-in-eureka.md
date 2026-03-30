@@ -3,38 +3,13 @@ date: '2006-07-18T00:00:00-05:00'
 draft: false
 title: "Made In Eureka"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/07/18/made-in-eureka/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Who'd have thought a sleepy little Northern California lumber town would become the setting for a new Sci-Fi TV show?..."
+categories:
   - "Eureka"
   - "Sci Fi"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Who'd have thought a sleepy little Northern California lumber town would become the setting for a new Sci-Fi TV show?...
+<!--more-->
 
 Who'd have thought a sleepy little Northern California lumber town would become the setting for a new Sci-Fi TV show?
 

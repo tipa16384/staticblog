@@ -3,50 +3,26 @@ date: '2008-10-03T08:43:43-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Archmage"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/03/straight-talk-warhammer-the-archmage/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I admit it, life before Warhammer Online: Age of Reckoning was fairly bland and meaningless. My life before I became consumed by WHOOOOAAAAA was just..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
+tags:
   - "Archmage"
   - "High Elf"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/10/d2sorceress.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/10/d2sorceress.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/d2sorceress.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/10/d2sorceress.jpg"
 ---
+I admit it, life before Warhammer Online: Age of Reckoning was fairly bland and meaningless. My life before I became consumed by WHOOOOAAAAA was just...
+<!--more-->
 
 I admit it, life before Warhammer Online: Age of Reckoning was fairly bland and meaningless. My life before I became consumed by WHOOOOAAAAA was just a shadow -- a shadow OF a shadow, really. Before Public Quests, how could I really do a quest? Before the Tome of Knowledge, how would I know what to do? Before Open Groups, how would I ever find a group? MMOs before WAR were mostly people just standing around, without direction, without anything to do.
 
 WAR *changed* that, and changed it *forever*. Changed it to *death*. From now on, no other MMO developer will ever dare confuse players by not telling them exactly what to do and when. But really, when you already *have* WAR Everywhere, what do you even need other MMOs for?
 
 It's time for all those other game companies to really examine their lives, to just sit back and wonder why they are even in this crazy business when the one game to rule them all has already been written? They should all roll up those masters of high elven magics, those twisted sisters of arcane allegiance, the Archmage, and go WAAAAAAAAA on someone.
-
-![](https://chasingdings.com/wp-content/uploads/2008/10/d2sorceress.jpg "d2sorceress")
 
 *Simulated Warhammer screenshot.*
 

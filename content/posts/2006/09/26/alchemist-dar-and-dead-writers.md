@@ -3,38 +3,13 @@ date: '2006-09-26T10:41:42-05:00'
 draft: false
 title: "Alchemist Dar and Dead Writers"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/09/26/alchemist-dar-and-dead-writers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My sister, Hillary (I need to make up a fantasy name for her. Dad called her Mint. Actually, Mint was just short for a much,..."
+categories:
   - "General"
   - "Sci Fi"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+My sister, Hillary (I need to make up a fantasy name for her. Dad called her Mint. Actually, Mint was just short for a much,...
+<!--more-->
 
 My sister, Hillary (I need to make up a fantasy name for her. Dad called her Mint. Actually, Mint was just short for a much, much longer name, which could be embarassing, so I won't write it here. My nickname was Scrub. I guess he saw me on my hands and knees scrubbing floors or kitchen sinks, which were some of my chores when I was a kid. Vallerie was Weeds, and Jennifer was G-g-g-g-Ginger. Kinda straying from the point... but it's weird we all had botanical nicknames. From now on I'll refer to my sisters by their nicknames, to preserve the fragile anonymity that this very post ruins.)
 

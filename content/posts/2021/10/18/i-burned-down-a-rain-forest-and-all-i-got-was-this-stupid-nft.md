@@ -3,41 +3,19 @@ date: '2021-10-18T19:06:59-05:00'
 draft: false
 title: "I Burned Down a Rain Forest and All I Got Was This Stupid NFT"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/10/18/i-burned-down-a-rain-forest-and-all-i-got-was-this-stupid-nft/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "DC Fandome said -- sign up and get a special NFT just for you! Tweet it, and get another one! Well, I'm just about to..."
+categories:
   - "Blockchain"
   - "NFT"
+tags:
   - "DC Comics"
   - "Ethereum"
   - "Palm"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/10/51k1w0ALNL.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/10/51k1w0ALNL.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/51k1w0ALNL.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/10/51k1w0ALNL.jpg"
 ---
+DC Fandome said -- sign up and get a special NFT just for you! Tweet it, and get another one! Well, I'm just about to...
+<!--more-->
 
 DC Fandome said -- [sign up and get a special NFT *just for you*](https://www.dccomics.com/blog/2021/09/29/dc-x-palm-nft-faqs)! Tweet it, and *get another one*! Well, I'm just about to buy my Lambo, because I have an NFT and I'm gonna be RICH.
 
@@ -47,7 +25,7 @@ Do I own the Batman cover? Do I own the spinning GIF? Am I legally allowed to di
 
 Let's find out by reading [the 12 page agreement](https://nft.dcuniverse.com/terms-and-conditions) regarding the use of this spinning GIF that everyone who receives one of these NFTs explicitly agrees to:
 
-[![](https://chasingdings.com/wp-content/uploads/2021/10/ezgif.com-gif-maker.gif)](https://chasingdings.com/wp-content/uploads/2021/10/ezgif.com-gif-maker.gif)A representation of the metadata for my NFT
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/10/ezgif.com-gif-maker.gif" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/10/ezgif.com-gif-maker.gif)A representation of the metadata for my NFT
 
 **Can I transfer this NFT to my own, personal wallet?**
 
@@ -87,7 +65,7 @@ Ha ha ha.
 
 **Is this a scam?**
 
-I paid no money for this. What I was given is worthless. I don't see any store attached where I could pay actual money to buy this worthless link to an asset over which I have no rights, so... it's a toy. Maybe there's still people who would get excited about this. I thought NFTs were stupid [back when I first heard about them](https://chasingdings.com/2020/11/07/atarinft-io-the-dumbest-thing-atari-has-ever-done/) a year ago, and nothing that has happened since then has changed my mind.
+I paid no money for this. What I was given is worthless. I don't see any store attached where I could pay actual money to buy this worthless link to an asset over which I have no rights, so... it's a toy. Maybe there's still people who would get excited about this. I thought NFTs were stupid [back when I first heard about them](https://tipa16384.github.io/wkblog/2020/11/07/atarinft-io-the-dumbest-thing-atari-has-ever-done/) a year ago, and nothing that has happened since then has changed my mind.
 
 BTW, that spinning Atari Asteroids box that was worth (heh) $15,000 a year ago is apparently worth about $45 now. Given the price history, it never actually was transferred for that price. One user I clicked on [has apparently lost $7,500](https://wax.atomichub.io/explorer/account/ybeau.wam) by trading a wide variety of NFTs that point to ugly spinning GIFs. 
 

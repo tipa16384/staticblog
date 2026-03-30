@@ -3,39 +3,16 @@ date: '2011-06-19T15:31:08-05:00'
 draft: false
 title: "The Miseducation of MMO Players"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/06/19/the-miseducation-of-mmo-players/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I believe the only way to do anything is \"all in\". When I started getting into anime in the 80s, I took Japanese lessons to..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/06/go.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/06/go.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/go.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/06/go.jpg"
 ---
+I believe the only way to do anything is "all in". When I started getting into anime in the 80s, I took Japanese lessons to...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/06/go.jpg" title="White to play" class="align-left" >}}
+
 
 I believe the only way to do anything is "all in". When I started getting into anime in the 80s, [I took Japanese lessons](http://www.mpc.edu/) to better understand. When I watched the street racing anime [Initial D](http://en.wikipedia.org/wiki/Initial_D) recently, I learned for the first time how cars were tuned for specific road conditions (and watched a lot of [Top Gear](http://www.topgear.com/) with a new appreciation).
 

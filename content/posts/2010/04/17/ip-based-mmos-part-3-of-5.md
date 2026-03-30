@@ -3,38 +3,15 @@ date: '2010-04-17T12:45:41-05:00'
 draft: false
 title: "IP-based MMOs: Part 3 (of 5)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/17/ip-based-mmos-part-3-of-5/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If you're ever in the position where you'd want to tell a non-gamer about your hobby, you can either try to explain WHAT the game..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/928202_20060510_790screen013-225x225.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/928202_20060510_790screen013-225x225.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/928202_20060510_790screen013-225x225.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/928202_20060510_790screen013-225x225.jpg"
 ---
+If you're ever in the position where you'd want to tell a non-gamer about your hobby, you can either try to explain WHAT the game...
+<!--more-->
 
 If you're ever in the position where you'd want to tell a non-gamer about your hobby, you can either try to explain WHAT the game is (like, you're a dwarf or an elf, and you go out hunting Meezle Monsters, except if you come across the Grand Meezle, you better have some friends with you or you'll get smooshed with the Meezle Blaster, and that can hurt if you're not in the Stance of Unmeezlement, but of course, you can't use the Meezle Tooth Rot Ointment then). MUCH easier to just say, "oh, I'm playing that Star Wars game" or "yeah, I hung out with Bilbo in Rivendell the other day". Because people UNDERSTAND when you're playing in IP-based game. They can meet you halfway.
 
@@ -42,7 +19,9 @@ Game: [Huxley](http://huxley.ijji.com/)
 
 IP: Aldous Huxley's "[Brave New World](http://en.wikipedia.org/wiki/Brave_New_World)"
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/928202_20060510_790screen013-225x225.jpg "Huxley")](https://chasingdings.com/wp-content/uploads/2010/04/928202_20060510_790screen013.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/04/928202_20060510_790screen013.jpg)
 
 In response to what he saw as a very naive vision of a future where scientific progress would turn the Earth into a utopia, Aldous Huxley wrote "Brave New World", a novel of a "negative utopia". In Huxley's brave new world, technology has turned the human race stagnant, with people genetically engineered to be suited for their jobs. Drugs and sleep conditioning keep people happy in their roles as mindless consumers and workers. Films as diverse as *Blade Runner*, *Gattaca* and George Lucas' *THX-1138* have all explored the themes *Brave New World* set forth. The issues Huxley saw 80 years ago loom ever closer today.
 
@@ -54,7 +33,7 @@ Game: [LEGO Universe](http://universe.lego.com/en-us/Default.aspx)
 
 IP: [LEGO](http://www.lego.com/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4172010-90345-AM-225x225.jpg "LEGO Universe")](https://chasingdings.com/wp-content/uploads/2010/04/Fullscreen-capture-4172010-90345-AM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4172010-90345-AM-225x225.jpg" title="LEGO Universe" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/Fullscreen-capture-4172010-90345-AM.jpg)
 
 From their initial design in in 1949 to their modern form released in 1958, LEGO bricks have been keeping kids' hands busy for more than fifty years. The LEGO empire, ruled from Denmark, encompasses not only their trademark plastic bricks, but amusement parks, robotics kits, full kid-friendly CAD/CAM design software and, naturally, video games. With LEGO bricks, you can design and make nearly anything you can imagine.
 
@@ -64,7 +43,7 @@ Game: [Lord of the Rings Online](http://lotro.turbine.com/)
 
 IP: J. R. R. Tolkein's "[The Lord of the Rings](http://en.wikipedia.org/wiki/The_Lord_of_the_Rings)"
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/moria_orc_armor-225x225.jpg "An orc in Moria")](https://chasingdings.com/wp-content/uploads/2010/04/moria_orc_armor.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/moria_orc_armor-225x225.jpg" title="An orc in Moria" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/moria_orc_armor.jpg)
 
 J.R.R.Tolkein's epic-length follow-up to his children's book "The Hobbit" tells the story of a world where peaceful people would have to learn to master the darkness in their own hearts in order to defeat the darkness that threatens to engulf the world -- or, like the fallen leader of the Council of Wizards, Saruman, embrace it. Informed by memories of the lost, bucolic English countryside of his childhood and his experiences in World War I, Tolkein combined Nordic legends, his academic philological research and the tropes of heroic fantasy into the famous tale of an unassuming Hobbit and his eight companions who struggle against impossible odds to defeat an evil whose power they cannot imagine.
 
@@ -78,7 +57,7 @@ Game: [Pirates of the Caribbean Online](http://piratesonline.go.com/)
 
 IP: Disney's [Pirates of the Caribbean](http://disneyworld.disney.go.com/parks/magic-kingdom/attractions/pirates-of-the-caribbean/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/overview_header-225x225.jpg "Pirates of the Caribbean Online")](https://chasingdings.com/wp-content/uploads/2010/04/overview_header.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/overview_header-225x225.jpg" title="Pirates of the Caribbean Online" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/overview_header.jpg)
 
 Pirates of the Caribbean was [the last ride](http://en.wikipedia.org/wiki/Pirates_of_the_Caribbean_(attraction)) Walt Disney himself had a hand in creating. Originally intended to be a wax museum filled with static representations of pirates, advances in animatronic technology made it possible to build a water ride through stunningly animated tableaux depicting life as it might have been for a fictional pirate in the 1850s. At the end, a sudden drop down a waterfall brings riders back to the present day. Inspired by the attraction, Disney has to date produced three movies building on the theme of the pirate life. Starring Johnny Depp as the iconic Captain Jack Sparrow, the movies were such a hit that the ride itself has been changed to incorporate characters and scenes from the movie in an incestuous *pas de deux*.
 
@@ -88,7 +67,7 @@ Game: [Playboy Manager](http://www.playboymanager.com/)
 
 IP: [Playboy Magazine](http://www.playboy.com/)
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/1025594-pbymgr.jpg "Playboy Manager")](https://chasingdings.com/wp-content/uploads/2010/04/1025594-pbymgr.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/04/1025594-pbymgr.jpg" title="Playboy Manager" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/04/1025594-pbymgr.jpg)
 
 I can only imagine the kind of spam I'm going to be getting after this article.... Sigh. The things I do for my readers!
 

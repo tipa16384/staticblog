@@ -3,44 +3,24 @@ date: '2011-02-13T17:22:37-05:00'
 draft: false
 title: "Star Trek Online: FE302 \"Mine Enemy\" (spoilers!)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/13/star-trek-online-fe302-mine-enemy-spoilers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Feature Episode"
   - "Horta"
   - "Romulan"
   - "Tal Shiar"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-12-13-58-06-82-480x325.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-12-13-58-06-82-480x325.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-12-13-58-06-82-480x325.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-12-13-58-06-82-480x325.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-12-13-58-06-82-480x325.jpg "Mine Enemy")](https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-12-13-58-06-82.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-12-13-58-06-82.jpg)
 
 Mine enemy? Mine enemy is Cryptic, who, for the second feature episode in a row, couldn't handle the press of people wanting to do the episode the moment it went live. I guess they should make some sort of queue system, somewhere... The swarm of starships outside mission systems is just amazing.
 
@@ -50,7 +30,7 @@ Last week, in "The Vault", we traveled to an immense space station in the Romula
 
 But, just this: it's worth turning the voiceovers up so you can hear the Vulcan admiral pronounce "Hfihar". It's tiny joys like this that brighten the Alpha Quadrant.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-12-14-03-57-83-480x384.jpg" title="Longasc, Tipa, Four Eleven and friends." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-12-14-03-57-83-480x384.jpg" title="Longasc, Tipa, Four Eleven and friends." classes="center" >}}
 
 The Federation News Service formed up outside of the system; Longasc in his Excelsior, Four Eleven in her ship (wasn't paying enough attention, sorry!) and me in the Nebula. It was nice to stretch out in the big ships after having to swim through the Vault in a shuttle.
 
@@ -72,7 +52,7 @@ While we were chatting up the locals, we came across three missions. A drill ope
 
 When we confronted Madran with questions about the source of the magnesite in the mine, Madran admitted that he wasn't in charge of the mine itself, just the trading. The Romulans were entirely in charge of the mine itself. If we had questions about it, we would have to go looking ourselves.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-12-14-22-17-39-480x383.jpg" title="Discord in the Tal Shiar" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-12-14-22-17-39-480x383.jpg" title="Discord in the Tal Shiar" classes="center" >}}
 
 A Romulan foreman just inside the mine entrance had zero interest in tourists, but a little diplomacy got us past. (If you have skill in Diplomacy, you can skip this fight and gain an accolade). Inside, miners objected to our presence, and came at us with mining lasers. We had to take them down. This will likely make us no friends among the Ferengi...
 
@@ -84,7 +64,7 @@ We heard shouting through another door, and opened it to see a Romulan colonel h
 
 Commander Janek, once she saw us, planted a radiation mine and fled. That mine would instantly kill everyone in the area; destroying it was the first priority. After that was done, we captured her with great prejudice until she surrendered. We used diplomacy (again) to get her access codes and left her alone. Because we're cool like that.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-12-14-33-26-25-480x386.jpg" title="Soylent Orange is Horta!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-12-14-33-26-25-480x386.jpg" title="Soylent Orange is Horta!" classes="center" >}}
 
 The code opened a door deeper into the mine and what we found their froze our souls.
 
@@ -98,7 +78,7 @@ Out we ran, with our freed Romulans at our heels. We met our stymied mine forema
 
 Madran denied any knowledge of the Tal Shiar base. Uh huh.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-12-17-45-56-08-480x385.jpg" title="All out of Horta chow" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-12-17-45-56-08-480x385.jpg" title="All out of Horta chow" classes="center" >}}
 
 We each returned to the ready rooms of our individual starships to decode the files we downloaded from the Tal Shiar base. It was at this point that the servers crashed. Hours later, I managed to return.
 

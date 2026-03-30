@@ -3,45 +3,23 @@ date: '2022-11-28T20:50:00-05:00'
 draft: false
 title: "Advent of Code 2022 and other exciting news you should totally read!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/11/28/advent-of-code-2022-and-other-exciting-news-you-should-totally-read/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don't forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!"
-description: "Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don't forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!"
-tags:
+categories:
   - "Advent of Code"
   - "Gotham Knights"
   - "OpenAI"
   - "Tactics"
+tags:
   - "Deneb"
   - "Guardians of the Galaxy"
   - "Pico-8"
   - "Starro"
   - "Tactics Ogre"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/11/aoc-robot.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/11/aoc-robot.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/aoc-robot.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/11/aoc-robot.jpg"
 ---
+Advent of Code 2022 is just around the corner, and with it comes new challenges, new technologies, and new ways to have fun programming. Plus, Tactics Ogre: Reborn is almost finished, and Cyberpunk 2077 is waiting for me to dive in. And don't forget about the Gotham Knight Knews update, featuring Starro for four-player coop, and the new GPT-3 language model. And exclusive Guardians of the Galaxy Christmas Special spoilers!
+<!--more-->
 
 Last year was SO EXHAUSTING.
 
@@ -53,7 +31,7 @@ And just to be sure that I don't get those solutions done too quickly, I will so
 
 **Tactics Ogre: Reborn**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/image-1.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/image-1.png" classes="fig-20" >}}
 
 Started Chapter 4, which I think is the last chapter. I am pausing the game while I work on recruiting Deneb. The entire point of every Ogre Battle/Tactics Ogre game is recruiting Deneb. Still kinda mad I couldn't recruit her in Person of Lordly Caliber, but I did make a Witch unit that looked like her and named her Deneb. (She was in the game, but not recruitable, which really mocks what the Ogre series is all about).
 
@@ -61,7 +39,7 @@ Started Chapter 4, which I think is the last chapter. I am pausing the game whil
 
 It was so cheap on the Black Friday sale. I bought it. I guess I'll slot it in after Christmas sometime.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/image-2.png" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/image-2.png" classes="fig-20" >}}
 
 **Gotham Knight Knews**
 
@@ -69,7 +47,7 @@ Hey, they're adding Starro for four player coop! Now I just need three friends w
 
 **GPT-3 updates its language model!**
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/11/turkeyai-150x150.jpg" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/11/turkeyai-150x150.jpg" classes="fig-20" >}}
 
 They have added text-davinci-003. It wrote this entire article. I just said "write an article," and it wrote this article.
 

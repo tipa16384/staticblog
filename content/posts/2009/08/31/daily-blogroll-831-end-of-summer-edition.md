@@ -3,24 +3,8 @@ date: '2009-08-31T07:19:47-05:00'
 draft: false
 title: "Daily Blogroll 8/31 - End of Summer edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/31/daily-blogroll-831-end-of-summer-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Wow, can't believe it's almost autumn. Summer came so late to New England; cool and rainy through most of it, a couple of hot and..."
+categories:
   - "Champions Online"
   - "Chronicles of Spellborn"
   - "City of Heroes"
@@ -30,20 +14,13 @@ tags:
   - "Gratuitous Space Battles"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg"
 ---
+Wow, can't believe it's almost autumn. Summer came so late to New England; cool and rainy through most of it, a couple of hot and...
+<!--more-->
 
-![The Green Reaper checks out a billboard in Millennium City](https://chasingdings.com/wp-content/uploads/2009/08/GameClient-2009-08-30-21-20-36-81.jpg "The Green Reaper checks out a billboard in Millennium City")
+
 
 Wow, can't believe it's almost autumn. Summer came so late to New England; cool and rainy through most of it, a couple of hot and humid days, and now the cooler days are back. It's like living in Seattle.
 
@@ -69,4 +46,4 @@ This is definitely the season for betas. Over the past few years, a game's beta 
 
 Lastly, shout out to Cliffski of Positech Games, an indie developer whose [Gratuitous Space Battles](http://www.positech.co.uk/gratuitousspacebattles/index.html) lets you create mad space battles between huge fleets. Picture of me horribly failing my first battle in the preview beta for pre-order customers is below.
 
-![Gratuitous Space Battles](https://chasingdings.com/wp-content/uploads/2009/08/GSB-2009-08-31-08-08-18-09.jpg "Gratuitous Space Battles")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/GSB-2009-08-31-08-08-18-09.jpg" title="Gratuitous Space Battles" classes="center" >}}

@@ -3,40 +3,18 @@ date: '2020-09-08T22:28:15-05:00'
 draft: false
 title: "Life in Pandemia: At least the bicycle shops are doing well..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/08/life-in-pandemia-at-least-the-bicycle-shops-are-doing-well/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My next birthday is a \"5\" year -- a year evenly divisible by five. I'm not going to tell you how many times that five..."
+categories:
   - "Real Life"
+tags:
   - "Catrike559"
   - "Love in a Time of Corona"
   - "Peugeot"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1891.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/1-IMG_1891.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1891.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/1-IMG_1891.jpg"
 ---
+My next birthday is a "5" year -- a year evenly divisible by five. I'm not going to tell you how many times that five...
+<!--more-->
 
 My next birthday is a "5" year -- a year evenly divisible by five. I'm not going to tell you how many times that five can fit in the year, but it's more than five. So on my next birthday, I've decided that I'm going to do a "bucket list" activity and climb Mount Washington, the highest mountain in the northeast.
 
@@ -56,7 +34,7 @@ No dice. You now apparently need an appointment to even get in the place, and th
 
 Every bike they have has been sold, and they're selling every bike they receive. All these people with all their bikes are keeping them very busy. I was told to call back in three weeks, and they'd be able to tell me then when I could bring it in to be fixed.
 
-![](https://chasingdings.com/wp-content/uploads/2020/09/peugeot.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/peugeot.jpg" classes="center" >}}
 
 My local bike shop won't work on recumbents. I do have two other standard diamond frame bikes, but the trike -- that is super comfortable and just plain fun. I'll definitely be missing it.
 

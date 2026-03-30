@@ -3,44 +3,23 @@ date: '2021-09-26T09:05:56-05:00'
 draft: false
 title: "Ship of Heroes: Mission Beta Feedback"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/09/26/ship-of-heroes-mission-beta-feedback/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "City of Heroes INNN SPAAAAAAACE MMO Ship of Heroes posted an update on this summer's \"MIssion Beta\", in which I and apparently many, many others..."
+categories:
   - "Champions Online"
   - "City of Heroes"
   - "MMORPG"
   - "Ship of Heroes"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-redsigilbase.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-redsigilbase.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+tags:
+  - "Champions Online"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-redsigilbase.jpg"
 ---
+City of Heroes INNN SPAAAAAAACE MMO Ship of Heroes posted an update on this summer's "MIssion Beta", in which I and apparently many, many others...
+<!--more-->
 
 City of Heroes *INNN SPAAAAAAACE* MMO Ship of Heroes [posted an update](https://www.shipofheroes.com/2021-summer-beta-wrap-up/) on this summer's "MIssion Beta", in which I and apparently many, many others participated...
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/shipoffools-1.jpg)Just boppin' along...
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/shipoffools-1.jpg)Just boppin' along...
 
 One item that came up again and again in their post was the lack of difficult content. Now, I played through the showcase mission arc solo, and didn't have a lot of trouble. I did pick up on the consumable boosters, which weren't clearly explained, and that helped me get through some of the tougher fights. Carefully splitting groups using the terrain to block NPCs or just sending in a ranged attack from maximum range meant I never felt overwhelmed, when the superhero ethos is all about barreling in and making a big splash.
 

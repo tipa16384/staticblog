@@ -3,43 +3,21 @@ date: '2022-08-27T07:00:00-05:00'
 draft: false
 title: "The 27th Chamber: A Game about Time"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/27/the-27th-chamber-a-game-about-time/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day..."
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
+tags:
   - "Dall-E 2"
   - "Gpt-3"
   - "Metroidvania"
   - "Time Travel"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/27chamber.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/27chamber.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/27chamber.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/27chamber.png"
 ---
+I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day...
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 27th: “The 27th Chamber”.
 
@@ -47,7 +25,7 @@ Number: 27. Genre: Metroidvania. Title: "The 27th Chamber". Outline: You play as
 
 Soon, you discover that the facility was researching interdimensional travel, and that you are now trapped in a strange world full of deadly creatures. Can you find the mysterious 27th Chamber, and your way back home?
 
-![](https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-20-23.01.17-Playstation-game-featuring-a-middle-aged-scientist-of-average-height-and-build-and-graying-hair-working-on-electrical-machinery-from-the-1960s-2.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-20-23.01.17-Playstation-game-featuring-a-middle-aged-scientist-of-average-height-and-build-and-graying-hair-working-on-electrical-machinery-from-the-1960s-2.png" classes="center" >}}
 Hello Major Belseth,
 
 I have completed my investigation of the abandoned facility and I have some interesting findings to report. 
@@ -62,7 +40,7 @@ Thank you for your time,
 
 Dr. Quinn
 
-![](https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-20-23.10.27-Playstation-game-featuring-a-commanding-officer-in-a-secret-military-organization.-He-is-a-no-nonsense-kind-of-guy-who-expects-his-orders-to-be-follow-1-1024x1024.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-20-23.10.27-Playstation-game-featuring-a-commanding-officer-in-a-secret-military-organization.-He-is-a-no-nonsense-kind-of-guy-who-expects-his-orders-to-be-follow-1-1024x1024.png" classes="center" >}}
 Thank you for your report, Dr. Quinn. 
 
 I have a few questions about your findings. 
@@ -75,7 +53,7 @@ Thank you for your help in this matter. I look forward to hearing from you soon.
 
 Sincerely, Major Belseth
 
-![](https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-20-23.01.17-Playstation-game-featuring-a-middle-aged-scientist-of-average-height-and-build-and-graying-hair-working-on-electrical-machinery-from-the-1960s.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-20-23.01.17-Playstation-game-featuring-a-middle-aged-scientist-of-average-height-and-build-and-graying-hair-working-on-electrical-machinery-from-the-1960s.png" classes="center" >}}
 Dear Major Belseth, 
 
 Thank you for your questions. I have done some more investigation and I believe I have some answers for you. 
@@ -90,7 +68,7 @@ Thank you for your time,
 
 Dr. Quinn
 
-![](https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-20-23.10.27-Playstation-game-featuring-a-commanding-officer-in-a-secret-military-organization.-He-is-a-no-nonsense-kind-of-guy-who-expects-his-orders-to-be-follow-1-1024x1024.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-20-23.10.27-Playstation-game-featuring-a-commanding-officer-in-a-secret-military-organization.-He-is-a-no-nonsense-kind-of-guy-who-expects-his-orders-to-be-follow-1-1024x1024.png" classes="center" >}}
 Captain Seymour, 
 
 I am ordering you to assemble a squad of Marines and investigate the abandoned facility where Dr. Quinn has been conducting his research. 
@@ -105,7 +83,7 @@ Good luck,
 
 Major Belseth
 
-![](https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-20-23.25.21-Playstation-game-featuring-a-woman-who-is-dressed-as-a-captain-in-a-secret-military-organization.-She-is-tall-and-athletic-with-short-brown-hair-and--1024x1024.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-20-23.25.21-Playstation-game-featuring-a-woman-who-is-dressed-as-a-captain-in-a-secret-military-organization.-She-is-tall-and-athletic-with-short-brown-hair-and--1024x1024.png" classes="center" >}}
 Major Belseth,
 
 I have assembled a squad of Marines that I believe are well-suited for this mission. They are as follows: 

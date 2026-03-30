@@ -3,39 +3,16 @@ date: '2006-02-27T00:00:00-05:00'
 draft: false
 title: "I Hate Moving &amp; I Am Not Buck Dharma"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/27/i-hate-moving-amp-i-am-not-buck-dharma/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just in case anyone asks. I truly detest moving...."
+categories:
   - "General"
-featured_image: "https://chasingdings.com/images/simulator.jpg"
-cover:
-  image: "https://chasingdings.com/images/simulator.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/simulator.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/simulator.jpg"
 ---
+Just in case anyone asks. I truly detest moving....
+<!--more-->
 
-![](https://chasingdings.com/images/simulator.jpg)
+
 
 Just in case anyone asks. I truly detest moving.
 

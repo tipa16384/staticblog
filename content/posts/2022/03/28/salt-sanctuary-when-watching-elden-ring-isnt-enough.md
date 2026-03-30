@@ -3,44 +3,22 @@ date: '2022-03-28T08:03:14-05:00'
 draft: false
 title: "Salt & Sanctuary: When Watching Elden Ring Isn't Enough"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/28/salt-sanctuary-when-watching-elden-ring-isnt-enough/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My partner is playing our copy of Elden Ring, and I'd love to do more than just watch. Doesn't make much sense to buy another..."
+categories:
   - "Salt and Sanctuary"
+tags:
   - "2D"
   - "Black and White"
   - "Souls-Like"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328070627-scaled.jpg"
 ---
+My partner is playing our copy of Elden Ring, and I'd love to do more than just watch. Doesn't make much sense to buy another...
+<!--more-->
 
 My partner is playing our copy of Elden Ring, and I'd love to do more than just watch. Doesn't make much sense to buy another copy when I can just use his when he's done, but I wanted to play a Souls-like and I didn't much like Bloodborne (which I had for free). Enter Salt & Sanctuary, a 2D souls-like for those who think a third dimension is just showing off.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328070843-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328070843-scaled.jpg)Just hanging out. Is... someone shooting at me?
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328070843-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328070843-scaled.jpg)Just hanging out. Is... someone shooting at me?
 
 We've been watching a YouTuber ("[The Backlogs](https://www.youtube.com/c/TheBacklogs)") who focuses on gameplay challenges in Souls-like games. In our leadup to Elden Ring, we watched a LOT of stuff of his, and he showed off a LOT of Salt and Sanctuary.
 
@@ -52,7 +30,7 @@ Combat is very active, very twitchy, and uses stamina for your major attacks. Yo
 
 Resting respawns all non-boss enemies for easy farming purposes.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328071641-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328071641-scaled.jpg)Skill Tree. But not Skill Erdtree. That's something different.
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328071641-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328071641-scaled.jpg)Skill Tree. But not Skill Erdtree. That's something different.
 
 Even though I've watched some challenge runs, I had never actually spent any time comparing the various classes and weapons and all that. I thought that I would have fun and just go in to Salt and Sanctuary entirely *blind*, because *what is the worst that could happen*.
 
@@ -60,7 +38,7 @@ Well, for one, the first boss ended up (I found later) being almost entirely res
 
 There's a little candelabra before each boss that has candles lit on it signifying the proportion of players who died to it vs the ones who lived. I swear I made another candle light on that thing after all my deaths.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328071237-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2022/03/Salt-and-Sanctuary_20220328071237-scaled.jpg)Meeting a fellow traveler
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328071237-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/Salt-and-Sanctuary_20220328071237-scaled.jpg)Meeting a fellow traveler
 
 I'm not good at these games -- but it's the kind of game that I can get better at while playing. And maybe I'll spoil myself less on Elden Ring if I'm not just actively watching someone play it...
 

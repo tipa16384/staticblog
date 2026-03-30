@@ -3,48 +3,26 @@ date: '2022-07-11T08:24:06-05:00'
 draft: false
 title: "Is playing on the original hardware worth the trouble?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/07/11/is-playing-on-the-original-hardware-worth-the-trouble/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today's high resolution, digital monitors...."
+categories:
   - "Emulators"
   - "Tactical RPG"
+tags:
   - "Capture Card"
   - "Hdmi"
   - "Ogre Battle"
   - "Panzer Dragoon"
   - "Retroarch"
   - "Stream"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/20220710085048_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/20220710085048_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220710085048_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/20220710085048_1.jpg"
 ---
+I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today's high resolution, digital monitors....
+<!--more-->
 
 I went through a lot of trouble to be able to play Ogre Battle 64 on the original hardware with today's high resolution, digital monitors. Was it worth it?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/IMG_2613-1024x550.jpg" title="Intro from original hardware" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2613-1024x550.jpg" title="Intro from original hardware" classes="center" >}}
 
 Most older consoles were designed around the old cathode ray tube televisions -- one to three electron beams use electromagnets to shine on variously colored phosphors. The whole thing was high voltage and prone to interference from anything else going on electrically in the area.
 
@@ -56,9 +34,9 @@ Next up was a HDMI converter box that would take the composite video outputs fro
 
 It came up, but I had to fiddle with my monitor a bit to keep it from stretching it so much. The picture above is the best I was able to get it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/IMG_2611-1024x629.jpg" title="Dialog screen on original hardware" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2611-1024x629.jpg" title="Dialog screen on original hardware" classes="center" >}}
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/20220710084639_1-1024x576.jpg" title="Dialog screen on emulator" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/20220710084639_1-1024x576.jpg" title="Dialog screen on emulator" classes="center" >}}
 
 Above are dialog screens, one taken from the original hardware, and the other from the emulator.
 
@@ -68,7 +46,7 @@ The emulator does a pretty good job. The text box has a weird dashed line on the
 
 To take the N64 picture, I had to try to get the screen perfectly straight in the picture, with the camera's light sensor detecting a part of the screen that would give the best reproduction. For the emulator, I hit the F12 key (as this was run by the RetroArch front end on Steam).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/IMG_2609-1024x768.jpg" title="Are we the baddies?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/IMG_2609-1024x768.jpg" title="Are we the baddies?" classes="center" >}}
 
 I occasionally like to blog about the games I play, and sometimes I stream to Twitch so that I can go back later and grab some juicy bits without always having to have a finger hovering over the PRINT SCREEN button.
 

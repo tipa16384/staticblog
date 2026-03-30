@@ -3,26 +3,11 @@ date: '2011-02-20T20:52:35-05:00'
 draft: false
 title: "Star Trek Online: Ambassadors"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/02/20/star-trek-online-ambassadors/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This post is just about my two Star Trek Online characters, the Andorian science captain Tipa D'zoph, and my old-style Klingon tactical captain, Krontar...."
+categories:
   - "MMORPG"
   - "Star Trek"
+tags:
   - "Ambassador"
   - "Borg"
   - "Federation News Service"
@@ -30,20 +15,13 @@ tags:
   - "Krontar"
   - "Tipa"
   - "Undine"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg"
 ---
+This post is just about my two Star Trek Online characters, the Andorian science captain Tipa D'zoph, and my old-style Klingon tactical captain, Krontar....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-17-34-12-79-384x480.jpg" title="This one's for Longasc" class="align-center" >}}
+
 
 This post is just about my two Star Trek Online characters, the Andorian science captain Tipa D'zoph, and my old-style Klingon tactical captain, Krontar.
 
@@ -61,7 +39,7 @@ Then I turned to Tipa's ambassadorial outfit. You do have a fair amount of leewa
 
 They have all the cash shop outfit pieces at the tailor now; you don't have to have bought them before you see how they look on your character. This is a huge deal, and I hadn't heard anything about it. There was a REALLY cool little number for formal off-duty wear. I didn't buy it... but it looked hot.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-07-30-50-65-480x384.jpg" title="Krontar and Horta" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-20-07-30-50-65-480x384.jpg" title="Krontar and Horta" classes="center" >}}
 
 Having a high level character on both sides of the Federation-Klingon conflict means doing everything twice. I run a featured episode on Tipa, then log and run it on Krontar. For older missions that Tipa did long ago, though, Krontar goes it alone.
 
@@ -71,9 +49,9 @@ I like sitting there when I chat with people. Not my fleet -- I don't have one o
 
 Also in the ready room is the captain's private data terminal, which I use to rerun the latest episode, Frozen, again and again. More on that in the next post. When I leveled to Major General, the terminal informed me that my presence was now requested in the Gamma Orionis sector, at the battle fleet. I spent a lot of time there with Tipa; this would be my first time running it in a Bird of Prey.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-20-10-32-54-98-480x384.jpg" title="Partially assimilated" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-20-10-32-54-98-480x384.jpg" title="Partially assimilated" classes="center" >}}
 
-I'd hoped to get the Borg arc, but Klingons are skipped straight to the Undine arc for an excursion into fluidic space, starting with the mission "Assimilation" ([which I wrote about last July](https://chasingdings.com/index.php/2010/07/29/star-trek-online-assimilation/)). You fight a little skirmish with the Borg, who then suddenly break off to address an incursion from fluidic space.
+I'd hoped to get the Borg arc, but Klingons are skipped straight to the Undine arc for an excursion into fluidic space, starting with the mission "Assimilation" ([which I wrote about last July](https://tipa16384.github.io/wkblog/index.php/2010/07/29/star-trek-online-assimilation/)). You fight a little skirmish with the Borg, who then suddenly break off to address an incursion from fluidic space.
 
 At the end of the mission -- which is pretty long and involved -- you can choose an assimilated ship console as a reward. This is one of a set of four that give your ship a Borg-like feel, as for instance the USS Voyager did in the Delta quadrant [during a temporary alliance with the Borg](http://memory-alpha.org/wiki/Assimilation). More importantly, these consoles are often best-in-slot items. The Borg-ified engines obtained from the first Special Task Force, Infected, allows faster turning and higher warp speeds, making for a very fast ship.
 
@@ -81,7 +59,7 @@ The mission Assimilated also gives a console, a tactical console (I think) that 
 
 Once I saw that Assimilation was giving a Borg console, I redid the mission with Tipa and got the same mod for her Nebula. The entire mission was MUCH harder with a science officer in a science ship than with a tactical officer in a Bird of Prey, though both captains did have access to the squadrons of Scorpion fighters from "The Vault".
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/02/GameClient-2011-02-19-18-57-58-29-480x384.jpg" title="Fluidic space" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/02/GameClient-2011-02-19-18-57-58-29-480x384.jpg" title="Fluidic space" classes="center" >}}
 
 Birds of Prey (Bird-of-Preys?) are really beautiful ships. When Krontar made Brigadier General, he went big with a carrier-class ship. Damn thing couldn't hardly turn at all, but it sure made a big boom when it blew up. BoPs come with battle cloaks and near instant turning. It's just a really nice ship.
 

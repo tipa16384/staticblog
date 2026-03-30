@@ -3,38 +3,13 @@ date: '2008-03-15T19:07:53-05:00'
 draft: false
 title: "\"Wooing\" women \"gamers\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/15/wooing-women-gamers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Thanks for the heads up from MMORPG.com; I'd have missed this gem from CNN. It's partly old news about SOE's \"G.I.R.L.\" (Gonna Insult Roleplaying Ladies)..."
+categories:
   - "General"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Thanks for the heads up from MMORPG.com; I'd have missed this gem from CNN. It's partly old news about SOE's "G.I.R.L." (Gonna Insult Roleplaying Ladies)...
+<!--more-->
 
 Thanks for the heads up from MMORPG.com; I'd have missed this [gem from CNN](http://www.cnn.com/2008/TECH/ptech/02/27/women.gamers/). It's partly old news about SOE's "G.I.R.L." (Gonna Insult Roleplaying Ladies) program. I don't know what it really stands for, but from what I understand, SOE feels women don't play games or work on games, so they want to encourage more of them.
 

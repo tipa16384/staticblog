@@ -3,41 +3,19 @@ date: '2022-03-07T23:12:57-05:00'
 draft: false
 title: "7DRL 2022 Day 2: Dungeon Room"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/03/07/7drl-2022-day-2-dungeon-room/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn't look like much, but it's something. Also, by..."
+categories:
   - "7DRL"
   - "Rogue-Likes"
+tags:
   - "Berlin Interpretation"
   - "Rogue-Like"
   - "Tiled"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-2.gif"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/03/ezgif.com-gif-maker-2.gif"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-2.gif"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/03/ezgif.com-gif-maker-2.gif"
 ---
+The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn't look like much, but it's something. Also, by...
+<!--more-->
 
 The GIF here is basically all I got done for day 2 of 7DRL 2022. It doesn't look like much, but it's something. Also, by the "Berlin Interpretation", is my game even going to *be *a "Roguelike"?
 
@@ -45,7 +23,7 @@ To GET to that GIF, I had to do a LOT of coding. I loved [the tileset I found](h
 
 So I wrote a program to read in all those files, resize them (to 64x128), and create from them a tileset that I then imported into Tiled. I made a quick little room with the new tiles to try and sketch out a place to meet the Wizard of Yendor (the other critter in the room) and then... it didn't work at ALL with my rendering system.
 
-[![](https://chasingdings.com/wp-content/uploads/2022/03/image-5.png)](https://chasingdings.com/wp-content/uploads/2022/03/image-5.png)Wizard room in Tiled
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/03/image-5.png" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2022/03/image-5.png)Wizard room in Tiled
 
 The previous tileset I'd imported kinda shifts the second layer over the first by a position. This new room didn't do that. Also, the drawing surface for the old tiles was toward the top of the tile; this one was WAY at the bottom.
 

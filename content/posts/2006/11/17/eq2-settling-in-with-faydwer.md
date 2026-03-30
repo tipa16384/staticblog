@@ -3,40 +3,17 @@ date: '2006-11-17T15:04:33-05:00'
 draft: false
 title: "EQ2: Settling in with Faydwer"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/17/eq2-settling-in-with-faydwer/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The mad rush into Faydwer is slowing; most everyone is there now and finding their way around...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/rings.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/11/rings.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/rings.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/rings.jpg"
 ---
+The mad rush into Faydwer is slowing; most everyone is there now and finding their way around....
+<!--more-->
 
-![rings.jpg](https://chasingdings.com/wp-content/uploads/2006/11/rings.jpg)
+
 
 The mad rush into Faydwer is slowing; most everyone is there now and finding their way around.
 
@@ -54,7 +31,7 @@ It's likely that our tank just sucked. Or it could be that there is a tipping po
 
 I did a lot of mezzing last night. It seemed I could keep two things mezzed where I could only do one before. That may have something to do with my respec into the wisdom line. At 49 AA, two more to max out the bard chart, since I spent a point on the Troub chart. Whichever, I am going to have to respec anyway to take some block from the round shield line and put it into double attack in the same line. That's the way I had it in beta and it worked wonderfully.
 
-![EQ2Players forum signature](http://eq2players.station.sony.com/signature?characterId=392161201 "EQ2Players forum signature")
+{{< image src="http://eq2players.station.sony.com/signature?characterId=392161201" title="EQ2Players forum signature" classes="center" >}}
 
 A dirge in the Obelisk group asked if, knowing everything I know now, if I would have rolled a dirge instead of a troubador that day two years ago. If I had known then that troubs would not get the superfast running speed, then yes, I would have gone dirge just as every other troub would have. They did eventually extend that to troubs as well. I dunno. Everyone loves dirges, troubs are seen as only being useful for a specific purpose on raids... I have faith. I think troubs will get some love. I know from playing with the troub tree on beta that there are some pretty neat things we can do.
 
@@ -64,7 +41,7 @@ Still waffling about whether or not to make him a Fury. They're the druid flavor
 
 In Beta, the starter for the Staff of the Observers dropped off 30+ kobolds in Butcherblock. No longer, or Dorah couldn't find any. I went to Steamfont to kill slightly higher kobolds but no luck. I hear now that they drop only off 40+ kobolds in Steamfont. I killed a couple of those, but mostly was playing with the low greens -- 36-38. I'll probably try tonight to get some of the higher level ones but it can get risky; lots of wandering adds. I know the quest is really meant for people in their mid-fifties, but I really want the staff.
 
-![staff.jpg](https://chasingdings.com/wp-content/uploads/2006/11/staff.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/staff.jpg" classes="center" >}}
 
 Here's Derissa with the Staff and the Sentinel it summons.  That Sentinel was incredibly helpful when I was soloing in Kaladim. So yeah, I want this for Dorah. Derissa soloed everything up until the Kobold King, but without the fabled buff that came a couple days after, couldn't solo that. A kind templar tanked it for her.
 

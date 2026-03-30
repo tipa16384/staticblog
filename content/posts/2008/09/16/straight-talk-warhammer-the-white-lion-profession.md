@@ -3,44 +3,22 @@ date: '2008-09-16T01:18:53-05:00'
 draft: false
 title: "Straight Talk Warhammer: The White Lion profession."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/16/straight-talk-warhammer-the-white-lion-profession/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Warhammer Online. Warhammer. WAR. WAAAAGH. All ways to describe the game sweeping our interwebs in ways Google can easily find. More? Public quests? This game..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
   - "World of Warcraft"
+tags:
   - "Fakehammer"
   - "Not Funny"
   - "White Lion"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg"
 ---
+Warhammer Online. Warhammer. WAR. WAAAAGH. All ways to describe the game sweeping our interwebs in ways Google can easily find. More? Public quests? This game...
+<!--more-->
 
 Warhammer Online. Warhammer. WAR. WAAAAGH. All ways to describe the game sweeping our interwebs in ways Google can easily find. More? Public quests? This game has public quests. Tome of Knowledge? This is the ONLY GAME with a Tome of Knowledge. World of Warcraft: Wrath of the Lich King, coming this November, does not have public quests OR a Tome of Knowledge. Order. Destruction. War everywhere becomes WAR everywhere.
 
@@ -49,8 +27,6 @@ Public quests and the Tome of Knowledge and Order and Destruction and Realm vs R
 But we come here tonight not to talk about such things as public quests and the Tome of Knowledge, things exclusive to Warhammer Online, but about things you won't find on many other blogs. Like information about the White Lion profession, a profession you won't find in World of Warcraft, or Lord of the Rings Online's Mines of Moria expansion, or in Star Wars: Galaxies' Hoth expansion.
 
 Well, maybe there. But Hoth won't have Greenskins. WAAAAAGH! So that will be another thing not found in other games, except for World of Warcraft.
-
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-16-00-45-54-28.jpg "eqgame-2008-09-16-00-45-54-28")
 
 *Simulated Warhammer Online screenshot.*
 
@@ -62,7 +38,7 @@ These are scary guys.
 
 When a high elf kid says, "Ma, they had a White Lion guy come by Elf School and I kinda liked what he had to say," there is no discussion. High Elf law is really clear on this. Once your kid starts talking about the White Lions, you have to drop them off at a big bin in front of the White Lion union hall, and some guy in a parka comes by and collects them each night just after sundown, and then if you ever see your kid again, you won't recognize him. 'Cause they'll have that scary, wild look in their eyes, and you might want to say, "Honey? Is that you?" but you don't, because you don't want your throat ripped out by your own demon spawn.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/eqgame-2008-09-16-00-45-00-79.jpg "eqgame-2008-09-16-00-45-00-79")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/eqgame-2008-09-16-00-45-00-79.jpg" title="eqgame-2008-09-16-00-45-00-79" classes="center" >}}
 
 *Thinking about becoming a White Lion? Say hello to your girlfriend.*
 

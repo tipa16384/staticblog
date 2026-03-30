@@ -3,51 +3,32 @@ date: '2010-09-12T17:26:44-05:00'
 draft: false
 title: "Recettear: Decorating y'r Itemme Shoppe."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/12/recettear-decorating-yr-itemme-shoppe/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
   - "Recettear"
+tags:
   - "Carpe Fulgur"
   - "Item Shop"
+  - "Recettear"
   - "RPG"
   - "Single Player"
   - "Tear"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/recettear-2010-09-12-08-43-01-82-480x384.jpg "Reginald Drisby: Mouse with a Grudge")](https://chasingdings.com/wp-content/uploads/2010/09/recettear-2010-09-12-08-43-01-82.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/recettear-2010-09-12-08-43-01-82.jpg)
 
 [Carpe Fulgur](http://www.carpefulgur.com/) had the bad judgement to release [Recettear: An item Shop's Tale](http://www.carpefulgur.com/recettear/) while I was traveling. But that's okay. Recette and her mob-connected business fairy, Tear, would wait. Painting the shelves. That chocolate bar melting in the window was this guy's inheritance from his grandmother. "Sell it," she told him, "if you ever need the money."
 
 It had been in his family for generations, and he hated to let it go. Bring up the offer just a touch and he might part with it.
 
-[To recap the game a little](https://chasingdings.com/index.php/2010/07/22/recettear-an-item-shops-tale/), Recettear: An Item Shop's Tale is the story of a young girl, Recette, whose adventurer father borrows a large sum of money from the mob and promptly disappears, never to be seen again (as far as I know). Tear, the mob fairy, gets in contact with Recette fairly soon and informs her that the collateral for her father's loan was the family home, which is now forfeit. This is a bit of a shock for Recette, who was just getting used to being alone in the world. Now she's alone *and *homeless. Tear takes pity, and gives her a month to repay the loan -- which is so substantial that she can't tell Recette just how much it is (I estimate well over 1,000,000 pix -- pix being the currency of the land). Tear suggests she turn the house into an item shop and sell things to adventurers and townspeople and so on. Perhaps hire adventurers to go into dungeons and get things for them to sell.
+[To recap the game a little](https://tipa16384.github.io/wkblog/index.php/2010/07/22/recettear-an-item-shops-tale/), Recettear: An Item Shop's Tale is the story of a young girl, Recette, whose adventurer father borrows a large sum of money from the mob and promptly disappears, never to be seen again (as far as I know). Tear, the mob fairy, gets in contact with Recette fairly soon and informs her that the collateral for her father's loan was the family home, which is now forfeit. This is a bit of a shock for Recette, who was just getting used to being alone in the world. Now she's alone *and *homeless. Tear takes pity, and gives her a month to repay the loan -- which is so substantial that she can't tell Recette just how much it is (I estimate well over 1,000,000 pix -- pix being the currency of the land). Tear suggests she turn the house into an item shop and sell things to adventurers and townspeople and so on. Perhaps hire adventurers to go into dungeons and get things for them to sell.
 
 [The demo](http://www.carpefulgur.com/recettear/demo.htm) covers the first week, and gives you some of the flavor of the full game. You'll have little trouble exploring the first dungeon with your hired adventurer or making your first 10,000 pix payment (grats! You have paid off 1% of your debt!). You have a good feeling. You laughed at Tear's businesslike nature and Recette's obliviousness to her situation. You kinda felt weird about the Merchant Guild guildmaster who sells stuff cheap to Recette and then shows up at the store to buy it all back later.
 

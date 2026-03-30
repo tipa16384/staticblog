@@ -3,39 +3,14 @@ date: '2008-07-10T14:11:09-05:00'
 draft: false
 title: "Totally not competing with WoW, except we totally are."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/10/totally-not-competing-with-wow-except-we-totally-are/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It seems to be fashionable these days to basically rewrite WoW, with some changes, and then claim they are not competing with WoW. Except, you..."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+It seems to be fashionable these days to basically rewrite WoW, with some changes, and then claim they are not competing with WoW. Except, you...
+<!--more-->
 
-It seems to be fashionable these days to basically rewrite WoW, with some changes, and then [claim they are not competing with WoW](http://www.joystiq.com/2008/06/22/riccitiello-warhammer-wont-rival-world-of-warcraft/). Except, you know, they want a few million of their subscribers to switch over, and they have added lots of things to their game to explicitly make it similar to WoW, like [a solo-focused leveling path followed by a level-cap instance and raiding game](http://www.hartsman.com/2008/07/07/a-conversation-about-mmos/). Even [EQ2 gave that a go with their latest expansion](https://chasingdings.com/index.php/2007/11/16/eq2-how-did-beta-testers-test-rise-of-kunark/). [AoC is essentially the same](http://www.massively.com/2008/05/20/a-world-of-warcraft-players-guide-to-age-of-conan/). WAR will be essentially the same. All these games claiming to be about not competing with the behemoth, trying their best to be able to fill in the blanks in this sentence: "We're just like WoW, except for ____________ (insert feature here)".
+It seems to be fashionable these days to basically rewrite WoW, with some changes, and then [claim they are not competing with WoW](http://www.joystiq.com/2008/06/22/riccitiello-warhammer-wont-rival-world-of-warcraft/). Except, you know, they want a few million of their subscribers to switch over, and they have added lots of things to their game to explicitly make it similar to WoW, like [a solo-focused leveling path followed by a level-cap instance and raiding game](http://www.hartsman.com/2008/07/07/a-conversation-about-mmos/). Even [EQ2 gave that a go with their latest expansion](https://tipa16384.github.io/wkblog/index.php/2007/11/16/eq2-how-did-beta-testers-test-rise-of-kunark/). [AoC is essentially the same](http://www.massively.com/2008/05/20/a-world-of-warcraft-players-guide-to-age-of-conan/). WAR will be essentially the same. All these games claiming to be about not competing with the behemoth, trying their best to be able to fill in the blanks in this sentence: "We're just like WoW, except for ____________ (insert feature here)".
 
 So color me shocked when I loaded up the Wizard101 beta and said to myself, OMFG... this is NOTHING like WoW. These people are NOT competing with WoW. They could give a flying fish whether any WoW players like their game. They have packed more innovation into this one game -- this one game FOR CHILDREN -- than I have seen in the "grown up" MMO world in years.
 

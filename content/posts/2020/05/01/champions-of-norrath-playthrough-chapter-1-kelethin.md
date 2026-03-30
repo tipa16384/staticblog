@@ -3,58 +3,36 @@ date: '2020-05-01T11:32:28-05:00'
 draft: false
 title: "Champions of Norrath playthrough: Act 1, Kelethin"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/01/champions-of-norrath-playthrough-chapter-1-kelethin/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My post yesterday made me want to play EverQuest again. But one of the last things I want to do in gaming, is to play..."
+categories:
   - "Emulators"
   - "EverQuest"
+tags:
   - "Champions of Norrath"
   - "Crushbone"
   - "Faydark"
   - "Kelethin"
   - "PCSX2"
   - "PS2"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg"
 ---
+My post yesterday made me want to play EverQuest again. But one of the last things I want to do in gaming, is to play...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-07-01-16-71-1024x769.jpg" >}}
+
 
 My post yesterday made me want to play EverQuest again. But one of the last things I want to do in gaming, is to play EverQuest again. Maybe that doesn't make sense. In order to play either EQ1 or EQ2, I'd have to get really deep into it, and for a long time, because neither EverQuest is a game you play lightly or casually. I've done my time and waited out my parole. I did say I would be first in line for a new EverQuest and I wasn't lying. I'll dive deep into the next one to come out (and maybe that will be Pantheon, though with Aradune's death, who knows if non-streamers will ever be allowed to play it?)
 
 Until then, I have all the non-MMOs to play, including this one, Champions of Norrath. Champions of Norrath (CoN) came out in 2005, and is a prequel to the events in EQ1. We start in the tree city of Kelethin, which is under goblin attack.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-20-02-08-25-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-20-02-08-25-1024x769.jpg" classes="center" >}}
 
 In the time of EverQuest 1, there is no Wood Elf king; all the Faydark elves are ruled by King Tearis Thex, who is a high elf and rules from the city of Felwithe. EQ mascot Firiona Vie is his daughter. I would accept that this takes place in some distant past before the time of Tearis Thex, except for something that occurs later.
 
 "Goblins?" you cry. "There are no goblins in the Faydark!". I know, right? The closest goblins I can remember offhand are the aqua goblins in Dagnor's Cauldron. Lore issues are all over the place. Kelethin is in Lesser Faydark, not Greater Faydark. The orcs, when we encounter them, are green skinned (like Antonican orcs), not blue skinned (like Faydwer orcs).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-20-06-13-36-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-20-06-13-36-1024x769.jpg" classes="center" >}}
 
 The first time I played this, I played as a dark elf shadowknight because I really wondered how the absolutely anti-inky wood elves would deal with a howling daughter of Neriak. Turns out they liked her fine. This play through, I opted to go as a Barbarian Warrior. It was a long trip from Halas, but I still reached Kelethin without gaining any levels.
 
@@ -62,7 +40,7 @@ Champions of Norrath is a brutal, unforgiving game. It supports multiple players
 
 Playing solo, battles are a matter of moving forward very slowly to pick off one or two mobs and dealing with them before moving on. It is very, very easy to get overwhelmed. Mana and health potions drop frequently and you will be using them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-20-27-33-85-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-20-27-33-85-1024x769.jpg" classes="center" >}}
 
 The Kelethin guards help to clear Kelethin of goblins, and it's an easy place to grab some gear and a few levels before taking the elevator down to the Faydark floor and meeting up with Elgoain, the son of King Leithkorias. (I'm guessing they went with a more Tolkein-esque naming system for the elves). Elgoain calls us ill-equipped for the fight, and tasks us with clearing out some nearby goblin lairs for loot and levels.
 
@@ -70,7 +48,7 @@ I got some armor and a pair of axes. I thought I'd been looking pretty good. But
 
 These lairs are twisty and covered with false walls and ambush points. Goblin shamans will raise the fallen and nuke you from a distance. Goblin warriors will pull your attention while rogues come at you from behind. Thoroughly unpleasant creatures. By themselves they are weak, but they never come at you alone.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-21-15-30-25-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-21-15-30-25-1024x769.jpg" classes="center" >}}
 
 Having taken care of the goblins, it's time to face the orcs in their fortress which is not called Crushbone for some reason. They've locked and barred the gates, but Elgoain had a cunning plan to slip in through the back way where a stream comes in to provide water to the fortress. Elgoain has not been heard from since, and it's now my job to follow him down, find out his fate, and open the gates.
 
@@ -78,13 +56,13 @@ Elgoain, I soon find, broke his ankle not far into the first level of the dungeo
 
 Unfortunately, the time spent heading down and opening the gate was time Elgoain did not have, and he died in front of me, thanking me as he coughed his last.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-21-31-47-69-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-21-31-47-69-1024x769.jpg" classes="center" >}}
 
 Elgoain wasn't the only elf I met in those tunnels. Firiona Vie showed up as a ghostly presence who faded away after asking me to find her and warning me against some evil creature who even now nears. 
 
 Firiona Vie is the daughter of Tearis Thex. If he doesn't exist, she doesn't exist. But I guess we'll find out more about her backstory later.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/05/pcsx2-2020-04-30-23-15-40-01-1024x769.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/05/pcsx2-2020-04-30-23-15-40-01-1024x769.jpg" classes="center" >}}
 
 With the gate open, it's time to battle our way through the orcish siege engines until we finally get to ~~Crushbone ~~proper. We pursue the orc commander through a spider-filled lair to a dead end where he taunts us a bit and drops the name of Mayong Mistmoore, a vampire lord whose estate is in Lesser Faydark and who becomes a demigod by the time of EQ2. I'm trying to remember if Mistmoore was aligned with the orcs in EverQuest. Orcs worshiped Rallos Zek... anyway.
 

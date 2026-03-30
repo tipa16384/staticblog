@@ -3,40 +3,17 @@ date: '2009-07-15T00:15:29-05:00'
 draft: false
 title: "EQ2: Goodbye, Najena. Hello, Antonia Bayle."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/15/eq2-goodbye-najena-hello-antonia-bayle/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After naming their name/gender change potion \"Norrathian Witness Protection Program\", I was thinking SOE would have a cool name for the item that let you..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-15-00-07-40-83.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-15-00-07-40-83.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-15-00-07-40-83.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/EverQuest2-2009-07-15-00-07-40-83.jpg"
 ---
+After naming their name/gender change potion "Norrathian Witness Protection Program", I was thinking SOE would have a cool name for the item that let you...
+<!--more-->
 
-![Pulling lizards in the Sanctum of Fear](https://chasingdings.com/wp-content/uploads/2009/07/EverQuest2-2009-07-15-00-07-40-83.jpg "Pulling lizards in the Sanctum of Fear")
+
 
 After naming their name/gender change potion "Norrathian Witness Protection Program", I was thinking SOE would have a cool name for the item that let you switch your server, but it's just called "Character Transfer Token". So boring. Why not "Commotion Potion for Interworld Motion" or something?
 

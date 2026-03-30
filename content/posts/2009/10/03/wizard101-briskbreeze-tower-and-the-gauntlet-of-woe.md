@@ -3,50 +3,29 @@ date: '2009-10-03T22:32:35-05:00'
 draft: false
 title: "Wizard101: Briskbreeze Tower and the Gauntlet of Woe"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/03/wizard101-briskbreeze-tower-and-the-gauntlet-of-woe/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ever wondered what kind of tricks KingsIsle has in store for those brave enough to step into their new instance?..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66-480x360.jpg"
 ---
+Ever wondered what kind of tricks KingsIsle has in store for those brave enough to step into their new instance?...
+<!--more-->
 
 Ever wondered what kind of tricks KingsIsle has in store for those brave enough to step into their new instance?
 
 Yeah, me too. The quest that starts in Olde Town leads eventually to a new tower in Colossus Boulevard -- Briskbreeze Tower. Now THAT doesn't sound too bad, right?
 
-[![Third floor](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66-480x360.jpg "Third floor")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-15-58-36-66.jpg)
 
 And it isn't. The first three floors are groups of four rank 7 and 8 elite mobs, so no worse than many ordinary trash mob encounters in Dragonspyre.
 
 They're trying to lure you into a false sense of complacency. An NPC on the first floor of the tower warns you that the mobs in the tower will try and trick you, so as I, Amber Stargem and two other wizards I didn't know took on the first three encounters, we were very cautious. But -- no worse than many encounters in Dragonspyre and easier than some.
 
-[![First boss](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-16-12-34-94-480x360.jpg "First boss")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-16-12-34-94.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-16-12-34-94-480x360.jpg" title="First boss" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-16-12-34-94.jpg)
 
 We KNEW the first boss would have a trick, but he was going down well and we were a little relieved, when he pulled out a minion.
 
@@ -54,7 +33,7 @@ We decided to stick with the boss and ignore the minion -- forbiddingly named Ex
 
 When, a couple of rounds later, the Exploding Ember exploded, doing 10,000 to each wizard in the group, we understood our error.
 
-[![We won! Or did we?](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-22-44-51-36-480x360.jpg "We won! Or did we?")](https://chasingdings.com/wp-content/uploads/2009/10/WizardGraphicalClient-2009-10-03-22-44-51-36.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-22-44-51-36-480x360.jpg" title="We won! Or did we?" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2009/10/WizardGraphicalClient-2009-10-03-22-44-51-36.jpg)
 
 When I returned to Briskbreeze Tower, it seemed to be filled with a "GIVE ME TREASURE CARDS AND A PERMANENT HORSE!" party, with four or five wizards begging. Okay. First up. WHY do people always want TREASURE CARDS? They don't sell for that much and every wizard can make treasure cards from their own school, which are the most useful. I don't get it!
 

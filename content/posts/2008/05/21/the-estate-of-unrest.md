@@ -3,41 +3,18 @@ date: '2008-05-21T07:55:55-05:00'
 draft: false
 title: "The Estate of Unrest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/21/the-estate-of-unrest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Able was I ere I saw Unrest?..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-20-21-17-18-71.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-20-21-17-18-71.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-20-21-17-18-71.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/05/eqgame-2008-05-20-21-17-18-71.jpg"
 ---
+Able was I ere I saw Unrest?...
+<!--more-->
 
-![eqgame-2008-05-20-21-17-18-71.jpg](https://chasingdings.com/wp-content/uploads/2008/05/eqgame-2008-05-20-21-17-18-71.jpg)
+
 
 Able was I ere I saw Unrest?
 

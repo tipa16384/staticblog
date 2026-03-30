@@ -3,44 +3,22 @@ date: '2009-04-27T12:00:58-05:00'
 draft: false
 title: "Chronicles of Spellborn: Returning to Parliament"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/27/chronicles-of-spellborn-returning-to-parliament/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I spent a couple of days wandering lost through the silver mines in Quarterstone's Statue District, which ended the only way they could possibly end..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
+tags:
   - "Mines"
   - "Parliament"
   - "Quarterstone"
   - "Sorrowmist"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg"
 ---
+I spent a couple of days wandering lost through the silver mines in Quarterstone's Statue District, which ended the only way they could possibly end...
+<!--more-->
 
-![sb_client-2009-04-26-20-09-32-00](https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-26-20-09-32-00.jpg "sb_client-2009-04-26-20-09-32-00")
+
 
 I spent a couple of days wandering lost through the silver mines in Quarterstone's Statue District, which ended the only way they could possibly end -- with my character's death and revival at the dungeon exit, whereupon I took off. While wandering through the dungeon, which is mostly a PvP-enabled area, I was attacked by packs of hyenas, hunted by raptors, burned by salamanders and tied to a plank by pirates. Vicious, vicious place, and I only got half of the incredibly rare resource I needed to harvest there.
 
@@ -50,7 +28,7 @@ On Parliament, I advanced the epic House Shroud quest that moves us sneaky types
 
 Looks like I'll be on Parliament for awhile.
 
-![sb_client-2009-04-26-19-50-10-19](https://chasingdings.com/wp-content/uploads/2009/04/sb_client-2009-04-26-19-50-10-19.jpg "sb_client-2009-04-26-19-50-10-19")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/sb_client-2009-04-26-19-50-10-19.jpg" title="sb_client-2009-04-26-19-50-10-19" classes="center" >}}
 
 Had my first chance in awhile (remember: lost in a dungeon for days) to check my loot, and I found this cool looking leaf blade, plus a REALLY cool looking two hander sword and a meh two hander axe. I totally don't remember these dropping. This sword is level 13, the two two-handers were both level 15, and in Spellborn, higher level doesn't mean better stats -- weapons have no stats. They just look cooler.
 

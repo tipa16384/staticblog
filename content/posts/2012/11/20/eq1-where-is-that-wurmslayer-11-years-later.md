@@ -3,40 +3,17 @@ date: '2012-11-20T02:26:55-05:00'
 draft: false
 title: "EQ1: Where is that Wurmslayer, 11 years later?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/11/20/eq1-where-is-that-wurmslayer-11-years-later/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "After posting that ancient picture of my warrior, Nina, with the old EQ1 Wurmslayer, I got to wondering how it would look on her in..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/11/eqgame-2012-11-20-01-59-16-04-480x361.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/11/eqgame-2012-11-20-01-59-16-04-480x361.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/eqgame-2012-11-20-01-59-16-04-480x361.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/11/eqgame-2012-11-20-01-59-16-04-480x361.jpg"
 ---
+After posting that ancient picture of my warrior, Nina, with the old EQ1 Wurmslayer, I got to wondering how it would look on her in...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/11/eqgame-2012-11-20-01-59-16-04-480x361.jpg" title="Nashuya + Wurmslayer + Shield of Shadows" class="align-center" >}}
+
 
 After posting that ancient picture of my warrior, Nina, with the old EQ1 Wurmslayer, I got to wondering how it would look on her in new EQ, with the new(er) Luclin character models. Problem was EQ1 broke on me a couple years back and I uninstalled it.
 

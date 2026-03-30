@@ -3,41 +3,19 @@ date: '2009-02-18T07:58:18-05:00'
 draft: false
 title: "EQ2 Mish-mash!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/18/eq2-mish-mash/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Lots of updates to progressin EverQuest II and, unfortunately, not a lot of time to write about them, so here goes...."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Erollisi Day"
   - "Missing Mask"
   - "Return of the Light"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/outfits.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/outfits.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/outfits.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/outfits.jpg"
 ---
+Lots of updates to progressin EverQuest II and, unfortunately, not a lot of time to write about them, so here goes....
+<!--more-->
 
 Lots of updates to progressin EverQuest II and, unfortunately, not a lot of time to write about them, so here goes.
 
@@ -49,15 +27,13 @@ I love EQ2 and the friends who play, but I feel more and more as time passes tha
 
 Whatever happened to the social MMO? Did it die after EQ?
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/outfits.jpg "outfits")
-
 ANYWAY. Valentine's Day brought some new outfits to the EQ2 RMT store. Kaladim Stormguard armor is the bluish set on the left, and it looks really nice. Not nice enough to blow so much money on, but ... love the hat. You can get a similar hat just by itself (and another one which looks like that stocking cap that guy in Fat Albert used to wear), raising the chances that you'll soon be able to buy the brigand/swashie Hamburglar hat. When I was a guide back in EQ, people used to ask me all the time when they'd be able to get the hats like the halfling guards used to wear in and around Rivervale. I'd just tell them I wanted one, too! My main character wears a mask already; now she wants a hat to go along with it.
 
 Maybe soon!
 
 I was curious what the Wings of the Void cloak, which looks like two giant bat wings, would look like on a character who already had wings. Would they replace them? Would they just not show? Nope. Instead, you grow an additional pair of wings over your own set. The effect is creepy. I don't think many Fae or Arasai are going to be in the market for another set of wings. Way too many to keep clean.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-17-22-53-03-43.jpg "everquest2-2009-02-17-22-53-03-43")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-17-22-53-03-43.jpg" title="everquest2-2009-02-17-22-53-03-43" classes="center" >}}
 
 Last night, the Ascarey raid group finished clearing Veeshan's Peak's second wing. It was an enormously successful run -- first pull kills on Nexona, Druushk, Taskmaster and all the other dragons in the second wing, except for Xygoz. And even then, we didn't wipe.
 
@@ -69,13 +45,13 @@ This wakes Xygoz up, and he reluctantly gets back in the fight, but that is so e
 
 Xygoz, Ashenwing and Hoshkar completed my and Kasul's Trakanon keys, so now we're able to go take down the Big Bad himself.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-16-20-28-29-67.jpg "everquest2-2009-02-16-20-28-29-67")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-16-20-28-29-67.jpg" title="everquest2-2009-02-16-20-28-29-67" classes="center" >}}
 
 With the help of Kasul and Namien, Nostalgia completed the Return of the Light HQ and 2x Missing Mask HQ, and that brings the guild somewhat closer to level 42. Which is the answer to everything, of course. We were lucky enough to get a Nektropos Castle instance with the Swine Lord and the Chapel Billy up already, so all we had to camp was the Game Room Billy and the dark elf mask was nothing more than walking back and forth through the castle a million times. By the time we finished, I was lagging so badly I could barely move. I don't know what happened there.
 
 Someday, I'm getting a computer that can run EQ2 well. MAYBE Vanguard and Lord of the Rings as well, for a bonus.
 
-![](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-14-22-47-43-79.jpg "everquest2-2009-02-14-22-47-43-79")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-14-22-47-43-79.jpg" title="everquest2-2009-02-14-22-47-43-79" classes="center" >}}
 
 I finished some of the Valentine's Day quests on Brightknife. Gathering the roses in Enchanted Lands was a little challenging as most of the mobs there were way above her level. Fortunately, most of the ones in the area closest to the village weren't hostile, so I got the roses and presented them to unwary people on the Commonlands and Nektulos Forest docks. Didn't get any titles, but I did get a bunch of cool rewards, like a pet that tosses out hearts and a glowy thing that makes me all glowy. And a new cloak. In fact, I apparently loved the Valentine's outfit so much I wore it in place of my armor, as pointed out to me by someone in our Return of the Light group after we'd finished the instance.
 

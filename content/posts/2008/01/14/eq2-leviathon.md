@@ -3,40 +3,17 @@ date: '2008-01-14T08:37:07-05:00'
 draft: false
 title: "EQ2: Leviathon"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/14/eq2-leviathon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This was the fight I mentioned a few posts back, the one that takes an hour...."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-13-23-01-36-99.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-13-23-01-36-99.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-13-23-01-36-99.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-13-23-01-36-99.jpg"
 ---
+This was the fight I mentioned a few posts back, the one that takes an hour....
+<!--more-->
 
-![everquest2-2008-01-13-23-01-36-99.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-13-23-01-36-99.jpg)
+
 
 This was the fight I mentioned a few posts back, the one that takes an hour.
 

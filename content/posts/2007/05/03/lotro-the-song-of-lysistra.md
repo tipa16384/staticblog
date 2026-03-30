@@ -3,42 +3,17 @@ date: '2007-05-03T17:21:09-05:00'
 draft: false
 title: "LotRO: The Song of Lysistra"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/05/03/lotro-the-song-of-lysistra/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Young Frodo, to you has fallen the most perilous task. You must bring the Ring to Mordor. But first, kill twenty boars and bring me..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00117.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/05/screenshot00117.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00117.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00117.jpg"
 ---
+Young Frodo, to you has fallen the most perilous task. You must bring the Ring to Mordor. But first, kill twenty boars and bring me...
+<!--more-->
 
 *Young Frodo, to you has fallen the most perilous task. You must bring the Ring to Mordor. But first, kill twenty boars and bring me their tusks. I will also require their hooves, but I won't tell you that until you get back with the tusks.*
-
-![screenshot00117.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00117.jpg)
 
 Oh! Young Lysistra is come out of the West,
 
@@ -64,7 +39,7 @@ For a shifty elf Hunter they'd met at the bar
 
 Had taken the spot promised good Lysistra.
 
-![screenshot00109.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00109.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00109.jpg" classes="center" >}}
 
 So boldly she entered Brandybuck Hall;
 
@@ -90,7 +65,7 @@ There are groups in the North Downs more able by far
 
 That would gladly invite Captain Lysistra."
 
-![screenshot00112.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00112.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00112.jpg" classes="center" >}}
 
 The Hunter poured wine to a tall silver cup,
 
@@ -116,7 +91,7 @@ Do fear my Halberd for you will surely die"
 
 My arrows hunger for your blood, Lysistra."
 
-![screenshot00121.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00121.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00121.jpg" classes="center" >}}
 
 One cut to his hand and one slash to his ear,
 
@@ -142,7 +117,7 @@ An anguish-drenched cry could be heard from afar;
 
 The doughty young herald died for his Lysistra.
 
-![screenshot00106.jpg](https://chasingdings.com/wp-content/uploads/2007/05/screenshot00106.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/05/screenshot00106.jpg" classes="center" >}}
 
 She took up her banner, she took up her blade,
 

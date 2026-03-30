@@ -3,37 +3,12 @@ date: '2006-06-28T00:00:00-05:00'
 draft: false
 title: "EQ1 Progression Servers"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/06/28/eq-progression-servers/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Why would someone want to restart from scratch on the EverQuest progression servers?..."
+categories:
   - "EverQuest"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Why would someone want to restart from scratch on the EverQuest progression servers?...
+<!--more-->
 
 Why would someone want to restart from scratch on the EverQuest progression servers?
 

@@ -3,41 +3,18 @@ date: '2012-01-18T08:14:04-05:00'
 draft: false
 title: "EQ2: I wonder what he eats..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/18/eq2-i-wonder-what-he-eats/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When you think about it, Fae are just the right size to be eaten in one gulp by the EverQuest 2 jumping lizard mounts. I'm..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg"
 ---
+When you think about it, Fae are just the right size to be eaten in one gulp by the EverQuest 2 jumping lizard mounts. I'm...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/EverQuest2-2012-01-18-07-41-15-16-480x299.jpg" title="My lizard, Leapster" class="align-center" >}}
+
 
 When you think about it, Fae are just the right size to be eaten in one gulp by the EverQuest 2 jumping lizard mounts. I'm too terrified to dismount, and so I leap from place to place within Lesser Faydark, death from above for the invader Tier'Dal who nonetheless managed to drag me from my mount last night and slaughter me.
 
@@ -45,7 +22,7 @@ Experience is slow in the Lesser Fay. Every EQ2 story I read tells of people hit
 
 I cashed in all my station points to buy a month of "gold" membership, then almost immediately went back to Star Trek Online. STO, though, has become a mission grind to earn tokens from the three Borg space special task forces to equip my starship with the best gear. I'm just six missions from earning new engines. I'll finally be able to lose that worrying plasma leak.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-18-08-03-12-45-480x300.jpg" title="The USS Manchester is ALMOST de-Borged" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-18-08-03-12-45-480x300.jpg" title="The USS Manchester is ALMOST de-Borged" classes="center" >}}
 
 Last night was the first night of Star Trek Online's "free to play". Everything was busy. The STFs were AWFUL. One went pretty well, but the other two -- I don't want to insult anyone by suggesting that they have no idea what they are doing. But some of these people had no idea what they were doing.
 

@@ -3,40 +3,19 @@ date: '2010-09-14T21:03:02-05:00'
 draft: false
 title: "Treasure Abyss: Where's the Dragon?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/09/14/treasure-abyss-wheres-the-dragon/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
   - "Treasure Abyss"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-92709-PM-480x383.jpg "Four warriors with four swords")](https://chasingdings.com/wp-content/uploads/2010/09/Fullscreen-capture-9142010-92709-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/09/Fullscreen-capture-9142010-92709-PM.jpg)
 
 ***Quick Edit: Namco Bandai just added "Adventurer's Flags" to the Treasure Abyss cash shop. These allow you to plant a flag in the dungeon so you can return to that point later. Pretty handy for farming Dragon's Nest, especially the first couple encounters on floor 8 which drop pretty much everything you need for the Giant Sword. Also, the slot machines are a lot faster, and candles now show how much candle power they will restore. Dungeons are markes "CONQUERED" on the map after you have cleared them.***
 

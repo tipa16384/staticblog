@@ -3,43 +3,20 @@ date: '2009-12-21T01:05:41-05:00'
 draft: false
 title: "Weekend Gaming: WoW, AoC, EVE, W101 et al"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/21/weekend-gaming-wow-aoc-eve-w101-et-al/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I just love this picture, I don't know why! I think it might be the best picture I've ever taken in the World of Warcraft...."
+categories:
   - "Age of Conan"
   - "EVE Online"
   - "MMORPG"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg"
 ---
+I just love this picture, I don't know why! I think it might be the best picture I've ever taken in the World of Warcraft....
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-20-13-22-36-37.jpg "Weeping Plant Boss")
+
 
 I just love this picture, I don't know why! I think it might be the best picture I've ever taken in the World of Warcraft. It's the dead boss at the end of the Orange Crystal part of Maraudon. I've been to the Orange Crystal side about a half dozen times now; Purple Crystal once. I think I've outgrown Uldaman now, I never get offered it any more. We just started with Zul'Farrak tonight.
 
@@ -49,7 +26,7 @@ I started out a week and a half ago at level 31 going through Razorfen. Then Sca
 
 I'm still not decided, but it is good, casual fun. It seems to take forever to get anything going in EQ2. In WoW, I press a button, start working on some quests, and then at some point it rings and I'm poisoning my blades for a dungeon run.
 
-![](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-20-10-06-02-05.jpg "Zephyr and Sleeper in a wormhole")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-20-10-06-02-05.jpg" title="Zephyr and Sleeper in a wormhole" classes="center" >}}
 
 The limited edition Zephyr probe ships are indeed friends to the Sleepers. There was a wormhole in Aunia. I scanned it down, looked around for the first Sleeper nest I could get to, and then shadowed those implacable aliens on their patrols. It occurred to me that a Sleeper nest is really the best possible hiding place for wormhole exploration -- anyone would hesitate before following a probe shuttle into that sort of headache.
 
@@ -57,7 +34,7 @@ I closed up my shop in Mandoo and headed back to Sinq Laison space. I did enjoy 
 
 Most of the time, though, I've been working on the market, scanning down and clearing plexes, and waiting for invention training to complete. I'm a little burned out on straight missioning; I'm really trying to make my money in the market, but as usually the case in EVE, always more skills needed to do it well.
 
-![](https://chasingdings.com/wp-content/uploads/2009/12/AgeOfConan-2009-12-20-11-47-25-96.jpg "She looks good with her head in a sack, though.")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/AgeOfConan-2009-12-20-11-47-25-96.jpg" title="She looks good with her head in a sack, though." classes="center" >}}
 
 Age of Conan is having a promotion where if you download a trial version of the game that gives you the first twenty levels, you never have to pay. Not unless you want to step outside the tutorial zone of Tortage, anyway. Funcom is very much hoping you will, as is Mythic with Warhammer's similar promotion (and so is KingsIsle, which has been doing this same thing since launch with Wizard101).
 
@@ -79,7 +56,7 @@ I took my first "night" mission -- night missions are solo quests -- and talked 
 
 AoC looks great, its combat at least attempts to be a little different, but I could not get past the entirely standard quest lines. I played an assassin, which may have been a mistake -- it's the kind of class that plays identically in any fantasy game. I may try some of the other classes, the unique ones especially. It's free, after all!
 
-![](https://chasingdings.com/wp-content/uploads/2009/12/WizardGraphicalClient-2009-12-21-00-38-36-98.jpg "The Forge in the Village of Sorrows")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/WizardGraphicalClient-2009-12-21-00-38-36-98.jpg" title="The Forge in the Village of Sorrows" classes="center" >}}
 
 I took a few days off of Wizard101 after finishing Grizzleheim up last week. This weekend, I continued on with the Moo Shu quest lines. I started work on road to the Death Oni, the longest and most difficult of the Moo Shu quests. I'm probably about halfway done with it, with the Village of Sorrow quests to finish, and then the Tree of Life and its mysteries.
 

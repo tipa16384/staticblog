@@ -3,38 +3,13 @@ date: '2007-02-01T12:52:41-05:00'
 draft: false
 title: "STO: Sex Gods of Sol III"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/02/01/sto-sex-gods-of-sol-iii/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's a race in the Star Trek universe with a racial ability so amazing, so irresistible, that when I read a thread about racial choices..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+There's a race in the Star Trek universe with a racial ability so amazing, so irresistible, that when I read a thread about racial choices...
+<!--more-->
 
 There's a race in the Star Trek universe with a racial ability so amazing, so irresistible, that when I read a thread about [racial choices in Star Trek Online](http://www.startrek-online.net/messageboard/showthread.php?t=5441), I just had to add my thoughts on the compelling qualities of this mystical race.
 

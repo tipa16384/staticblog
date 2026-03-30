@@ -3,46 +3,23 @@ date: '2009-03-30T07:58:02-05:00'
 draft: false
 title: "Lord of the Rings: Lore and History of the Hedge-Maze"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/30/lord-of-the-rings-lore-and-history-of-the-hedge-maze/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In the times of war and strife, still there must be hope. Spring brings with it new life, and the Free Peoples of Bree have..."
+categories:
   - "Lord of the Rings"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/lotroclient-2009-03-29-14-36-10-46.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/lotroclient-2009-03-29-14-36-10-46.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/lotroclient-2009-03-29-14-36-10-46.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/lotroclient-2009-03-29-14-36-10-46.jpg"
 ---
+In the times of war and strife, still there must be hope. Spring brings with it new life, and the Free Peoples of Bree have...
+<!--more-->
 
-![lotroclient-2009-03-29-14-36-10-46](https://chasingdings.com/wp-content/uploads/2009/03/lotroclient-2009-03-29-14-36-10-46.jpg "lotroclient-2009-03-29-14-36-10-46")
+
 
 In the times of war and strife, still there must be hope. Spring brings with it new life, and the Free Peoples of Bree have chosen for a time to put aside their worries and cares and take joy in the seasons turn from the cold fastness of winter's reign to spring's joyous green awakening.
 
 Mayor Graeme Tenderlarch has caused to be built, with the lore of the elves, the good cheer of the Halflings, which some call Hobbits, the craftsmanship and drink of the Dwarves, and the industry of Man, a Hedge Maze in the festival portion of the Horsefields above Bree.
 
-![salchram](https://chasingdings.com/wp-content/uploads/2009/03/salchram.jpg "salchram")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/salchram.jpg" title="salchram" classes="center" >}}
 
 In these dark times, it is rare that the Fair Folk come willingly or for long into the lands of Men, but the Hedge Maze, called in the Sindarin tongue "salchram", holds a special place in their history of the Third Age.
 

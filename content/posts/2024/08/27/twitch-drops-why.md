@@ -3,47 +3,25 @@ date: '2024-08-27T07:48:05-05:00'
 draft: false
 title: "Twitch Drops: Why?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/27/twitch-drops-why/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "It's an army of low-effort streamers playing commercials to hundreds of hidden browser tabs."
-description: "It's an army of low-effort streamers playing commercials to hundreds of hidden browser tabs."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Open World RPG"
   - "Palworld"
+tags:
   - "Twitch"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/1-Palworld-Screenshot-2024.08.26-07.46.02.07.jpg"
 ---
+It's an army of low-effort streamers playing commercials to hundreds of hidden browser tabs.
+<!--more-->
 
 With the latest content update, Palworld included a new base ornament that let you reskin one of your pals. It came with a free skin, with others promised to be on the way.
 
 Everyone expected that this was going to be what a future cash shop would look like -- new looks for your pals. Purely cosmetic. I don't really have a problem with this... if people want to pay money to have a shinier virtual pet, more power to them. Final Fantasy XIV seems to be doing pretty well, and the last time I checked their online store, I didn't see anything that would give anyone an advantage in a raid or anything like that. The FFXIV endgame is cosplay, always has been.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-28.png" title="Twitchy" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-28.png" title="Twitchy" classes="center" >}}
 
 For a couple of months we've been able to give our pink kitty shades, and that's it. Now, though, they have three new skins available; a golden Relaxasaurus, a Quivern with a sailor hat, and a Chillet with snorkel, mask and tube.
 

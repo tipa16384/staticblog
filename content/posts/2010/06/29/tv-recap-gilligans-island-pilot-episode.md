@@ -3,39 +3,18 @@ date: '2010-06-29T22:33:11-05:00'
 draft: false
 title: "TV Recap: Gilligan's Island (pilot episode)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/06/29/tv-recap-gilligans-island-pilot-episode/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "TV Recaps"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/Gilligans_Island_title_card.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/06/Gilligans_Island_title_card.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/Gilligans_Island_title_card.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/Gilligans_Island_title_card.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/Gilligans_Island_title_card.jpg "Gilligan")](https://chasingdings.com/wp-content/uploads/2010/06/Gilligans_Island_title_card.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/06/Gilligans_Island_title_card.jpg)
 
 Aside from the famous theme song which tells the story, the American television audience of 1964 never saw the events that drove the ill-fated crew and passengers away from civilization and onto an uncharted ~~densely jungled~~ desert isle. The pilot episode, "Marooned", tells the whole story, but that's been lost to the desert sands of time... until now, that is. The WB has the whole thing -- the entire run, the 98 regular shows and the unaired pilot. So for the very first time perhaps in forty years... a recap of the very first episode of [Gilligan's Island](http://en.wikipedia.org/wiki/Gilligan).
 

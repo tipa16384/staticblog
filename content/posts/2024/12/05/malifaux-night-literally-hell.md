@@ -3,42 +3,20 @@ date: '2024-12-05T15:00:00-05:00'
 draft: false
 title: "Malifaux Night: Literally Hell"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/12/05/malifaux-night-literally-hell/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Tuesday night Malifaux. The snow outside was no match for the ice that waited for me inside."
-description: "Tuesday night Malifaux. The snow outside was no match for the ice that waited for me inside."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "Euripides"
   - "Foundry"
   - "Savage"
   - "The Haven"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/12/1-IMG_4886-001.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/12/1-IMG_4886-001.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/1-IMG_4886-001.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/12/1-IMG_4886-001.jpg"
 ---
+Tuesday night Malifaux. The snow outside was no match for the ice that waited for me inside.
+<!--more-->
 
 I'm always a bit overmatched when I play Malifaux. I'm a known quantity now; I play Mei Feng 2. I'm going to litter the place with scrap markers. And I'm going to panic.
 

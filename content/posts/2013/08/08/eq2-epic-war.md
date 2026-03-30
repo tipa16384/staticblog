@@ -3,40 +3,17 @@ date: '2013-08-08T07:15:27-05:00'
 draft: false
 title: "EQ2: Epic War"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/08/08/eq2-epic-war/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My defiler, Etha, got her epic weapon over the weekend. It's a deadly spear with a disreputable history, an appropriate weapon for a defiler. (Etha..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/08/eq2epics-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/08/eq2epics-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/08/eq2epics-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/08/eq2epics-480x383.jpg"
 ---
+My defiler, Etha, got her epic weapon over the weekend. It's a deadly spear with a disreputable history, an appropriate weapon for a defiler. (Etha...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/08/eq2epics-480x383.jpg" title="Weapons of Powah" class="align-center" >}}
+
 
 My defiler, Etha, got her epic weapon over the weekend. It's a deadly spear with a disreputable history, an appropriate weapon for a defiler. (Etha is, of course, named after my original EverQuest character, about whom I've been sharing early, early EQ screen shots on Google+).
 
@@ -46,7 +23,7 @@ EQ2 has, for me, become a little boring. For awhile, our guild was grouping and 
 
 I've even found myself looking up players on EQ2U to check out their gear before grouping with them. Which means MY gear has to measure up, because people will be doing the same to me. Which means -- hours and hours grinding gear in the solo dungeons.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/08/EverQuest2-2013-07-24-22-19-33-02-480x319.jpg" title="Kerafrym sizes up a snack" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/08/EverQuest2-2013-07-24-22-19-33-02-480x319.jpg" title="Kerafrym sizes up a snack" classes="center" >}}
 
 The solo questlines are pretty fun, but short. The latest content dump, Darkness Dawns, brought a quest for an awesome cloak that ended with a challenging group fight (who tanked it twice for a random group? Me! Yay!) It also (we know now) set up the game's next expansion, Tears of Veeshan, by showcasing the game's Big Bad, the prismatic dragon Kerafrym, as you, the player, hand him the keys to the world's destruction. He was able to destroy the moon Luclin BEFORE you powered him up with one of those rare artifacts, the magic amplifying Tear of Veeshan. Now... all reality is on the chopping block.
 

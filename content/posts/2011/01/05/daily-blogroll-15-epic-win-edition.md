@@ -3,45 +3,24 @@ date: '2011-01-05T06:00:33-05:00'
 draft: false
 title: "Daily Blogroll 1/5 - Epic Win edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/05/daily-blogroll-15-epic-win-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Allods Online"
   - "MMORPG"
   - "Rift"
   - "Star Trek"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/chrome-2010-10-31-09-17-11-35-480x304.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/chrome-2010-10-31-09-17-11-35-480x304.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2010-10-31-09-17-11-35-480x304.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2010-10-31-09-17-11-35-480x304.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2010-10-31-09-17-11-35-480x304.jpg "WIN!")](https://chasingdings.com/wp-content/uploads/2011/01/chrome-2010-10-31-09-17-11-35.jpg)
+[
 
-If [you want to hear about](http://dragonchasers.com/2011/01/04/rift-the-hook-is-in-the-name/) [the huge controversy](http://forums.riftgame.com/showthread.php?19362-One-hour-beta-impression) over [Jef Reahard's one hour dismissal of Rift](http://massively.joystiq.com/2011/01/04/rift-beta-events-impressions-from-the-staff/), well, [I've already said all I'm going to say about it](https://chasingdings.com/index.php/2011/01/04/1-hour-review-of-your-life/). There's lots of MMOs, like [Kung FOO](http://foo.perfectworld.com/), [Fists of Fu](http://fistsoffu.outspark.com/landing/007), and [Mabinogi](http://mabinogi.nexon.net/) that I played for an hour or two and felt no attachment. If someone had come up to me and asked me how I felt about those games after that hour or two playing them, I'd have told them what I thought.
+](https://tipa16384.github.io/wkblog/uploads/2011/01/chrome-2010-10-31-09-17-11-35.jpg)
+
+If [you want to hear about](http://dragonchasers.com/2011/01/04/rift-the-hook-is-in-the-name/) [the huge controversy](http://forums.riftgame.com/showthread.php?19362-One-hour-beta-impression) over [Jef Reahard's one hour dismissal of Rift](http://massively.joystiq.com/2011/01/04/rift-beta-events-impressions-from-the-staff/), well, [I've already said all I'm going to say about it](https://tipa16384.github.io/wkblog/index.php/2011/01/04/1-hour-review-of-your-life/). There's lots of MMOs, like [Kung FOO](http://foo.perfectworld.com/), [Fists of Fu](http://fistsoffu.outspark.com/landing/007), and [Mabinogi](http://mabinogi.nexon.net/) that I played for an hour or two and felt no attachment. If someone had come up to me and asked me how I felt about those games after that hour or two playing them, I'd have told them what I thought.
 
 Anyway, what I wanted to talk about on this first blogroll of the new year is: what makes an MMO polished? A [comment on one of Beau's posts on Facebook](http://www.facebook.com/spouseaggro/posts/130153673714641) (warning: link goes to Facebook) turned into a discussion between me and a person who probably won't friend me now that, among other things, a serious, polished MMO would, or would not, have full voiceovers.
 
@@ -83,7 +62,7 @@ I don't think you need a shrink for that. Blizzard just watched what players did
 
 What's the perfect game for someone who doesn't care for games like Rift? [TERA Online](http://www.tera-online.com/) might just fit the bill. It's a Korean PvP-oriented sandbox game, which narrows its niche to the approximately three people who will still be playing a month after it launches. Jef Reahard writes about the rumors, written on a Korean fan site, about comments that [might hint at a possible Japanese release sometime this year, with a North American launch to follow at some point](http://massively.joystiq.com/2011/01/04/tera-north-american-release-rumors-abound/).
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/teraplate3.png "TERA Online")](https://chasingdings.com/wp-content/uploads/2011/01/teraplate3.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/teraplate3.png" title="TERA Online" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/teraplate3.png)
 
 It's got nekkid ladies!
 
@@ -93,7 +72,7 @@ Epic Hero comes through [with a peek at a video from an upcoming MMO](http://epi
 
 I wonder if it's at all related to [Dragon Sky](http://www.avault.com/reviews/pc/dragon-sky-pc-review/), a game that came out a couple years ago?
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-152011-14634-AM-480x384.jpg "Code???")](https://chasingdings.com/wp-content/uploads/2011/01/Fullscreen-capture-152011-14634-AM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-152011-14634-AM-480x384.jpg" title="Code???" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/Fullscreen-capture-152011-14634-AM.jpg)
 
 Anyway, the video flashes some pages of code toward the end -- written in 'C', Python and JavaScript -- and who knows why? What an odd thing to include. Maybe it supports modding in those languages, but it's STILL a really odd sight in a promo video.
 

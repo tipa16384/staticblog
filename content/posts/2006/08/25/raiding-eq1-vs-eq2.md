@@ -3,41 +3,18 @@ date: '2006-08-25T11:33:55-05:00'
 draft: false
 title: "Raiding: EQ1 vs EQ2"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/25/raiding-eq1-vs-eq2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "You'd get the impression from my blog that EQ2 is the only game I play. It isn't so. Nearly every night, it is the original..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/labs.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/labs.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/labs.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/labs.jpg"
 ---
+You'd get the impression from my blog that EQ2 is the only game I play. It isn't so. Nearly every night, it is the original...
+<!--more-->
 
-![Fighting in the Labs](https://chasingdings.com/wp-content/uploads/2006/08/labs.jpg)
+
 
 You'd get the impression from my blog that EQ2 is the only game I play. It isn't so. Nearly every night, it is the original EverQuest I load up when I get home from work. There's nearly always a raid in progress; my Eastern Time guild starts hours before I get home. They usually can use another cleric.
 
@@ -59,7 +36,7 @@ And as soon as the raiding is done, I'll camp right to EverQuest 2.
 
 Last night, the guild Rennaisance hosted an open Labs raid. I'd never been on one of those, they needed some DPS, so I lied and said I was, got in the raid, found out where the labs were (on top of the Halls of Fate -- who knew?) and joined in for some edge of the seat 24-person raid action.
 
-![Stygian Chain](https://chasingdings.com/wp-content/uploads/2006/08/stygian.jpg)Being a troubador is a challenge (for me, anyway) in a raid. Getting the correct resist songs up, caster buffs if I'm in a caster-heavy group or mitigation if in a tank group, figuring the best time to cast Jester's Cap and that song that gives a decent proc to all combat abilities and spells for 20 seconds while stunning me (I call it my Waltz of Mass Destruction - WMD). I have to stay alive as well if I can, so at times I am right in the thick of things stabbing away, other times hanging back a bit and hitting it with arrows and songs if I am getting low on health.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/stygian.jpg" classes="fig-20" >}}Being a troubador is a challenge (for me, anyway) in a raid. Getting the correct resist songs up, caster buffs if I'm in a caster-heavy group or mitigation if in a tank group, figuring the best time to cast Jester's Cap and that song that gives a decent proc to all combat abilities and spells for 20 seconds while stunning me (I call it my Waltz of Mass Destruction - WMD). I have to stay alive as well if I can, so at times I am right in the thick of things stabbing away, other times hanging back a bit and hitting it with arrows and songs if I am getting low on health.
 
 Since the maximum raid size in EQ2 is so small, everyone has a vital role to play.
 

@@ -3,37 +3,12 @@ date: '2007-03-11T10:35:29-05:00'
 draft: false
 title: "An MMO Brokerage?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/03/11/the-mmo-brokerage/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Brenlo has said that your Station Pass money is distributed proportionally among the games you play based on the time you play them...."
+categories:
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Brenlo has said that your Station Pass money is distributed proportionally among the games you play based on the time you play them....
+<!--more-->
 
 [Brenlo has said](http://tagn.wordpress.com/2007/03/02/how-your-station-access-money-allocated/) that your Station Pass money is distributed proportionally among the games you play based on the time you play them.
 

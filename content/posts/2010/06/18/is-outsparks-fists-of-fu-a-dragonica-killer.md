@@ -3,39 +3,18 @@ date: '2010-06-18T23:01:25-05:00'
 draft: false
 title: "Is Outspark's Fists of Fu a Dragonica Killer?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/06/18/is-outsparks-fists-of-fu-a-dragonica-killer/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/06/image2840-480x260.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/06/image2840-480x260.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/image2840-480x260.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/06/image2840-480x260.png"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/06/image2840-480x260.png "Fists of Fu")](https://chasingdings.com/wp-content/uploads/2010/06/image2840.png)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/06/image2840.png)
 
 Casual gaming portal [Outspark](http://www.outspark.com/), known mainly for its Fiesta Online MMO and snowboard racing sim Project Powder, looks to be soon entering the F2P beat 'm up MMO world with the forthcoming "[Fists of Fu](http://fistsoffu.outspark.com/)".
 

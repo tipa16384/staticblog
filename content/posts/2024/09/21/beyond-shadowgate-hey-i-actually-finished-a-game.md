@@ -3,41 +3,19 @@ date: '2024-09-21T20:20:28-05:00'
 draft: false
 title: "Beyond Shadowgate: Hey, I actually finished a game!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/09/21/beyond-shadowgate-hey-i-actually-finished-a-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Thanks to a lot of help from chat! Am... am I a streamer now?"
-description: "Thanks to a lot of help from chat! Am... am I a streamer now?"
-tags:
+categories:
   - "Adventure"
   - "Steam Games"
   - "Text Adventure Game"
+tags:
   - "Beyond Shadowgate"
   - "Shadowgate"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.35.06.66.jpg"
 ---
+Thanks to a lot of help from chat! Am... am I a streamer now?
+<!--more-->
 
 I like to stream games on Twitch as I play them in case I want to go back over what happened or to grab screenshots and stuff for blog posts. It doesn't cost anything, I'm not on camera or mic, so why not? Streaming was one of the first things I started doing once I got fiber internet.
 
@@ -47,7 +25,7 @@ Today, while streaming through the latter half of Beyond Shadowgate, a player na
 
 I was fumbling my way through, but with flitchard's help, I was able to speed to the endings -- to three of the four endings.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.37.26.59-1024x574.jpg" title="Ending \"A\"" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.37.26.59-1024x574.jpg" title="Ending \"A\"" classes="center" >}}
 
 So now that the game is done, how is it?
 
@@ -59,7 +37,7 @@ Anyway. The Beyond Shadowgate Kickstarter had various stretch goals that would b
 
 The puzzles ranged from easy to frustrating; if my fairy godmother hadn't been whispering from chat, at least one puzzle would have taken much longer. And, one puzzle I would never have solved, as I'd missed looting an item a long time ago and had to go back to get it. Thankfully, there is really no time when you can't head out and return to an earlier place to get something you may have missed.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.42.55.28-1024x576.jpg" title="Ending \"B\" (the best ending)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/09/1-Desktop-Screenshot-2024.09.21-18.42.55.28-1024x576.jpg" title="Ending \"B\" (the best ending)" classes="center" >}}
 
 As a Kickstarter backer, I got some additional content along with the game -- a full walkthrough guide, a comic book prequel, a comic book walkthrough for the original game of Shadowgate and a full soundtrack. The music was pretty good and appropriate to the era. When in the other game vignettes, those games' music played.
 

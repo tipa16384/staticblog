@@ -3,40 +3,18 @@ date: '2009-02-27T08:00:22-05:00'
 draft: false
 title: "EQ2: Hooded Justice never looked so sweet"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/02/27/eq2-hooded-justice-never-looked-so-sweet/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Back in, oh, I guess this would be the early 90s, I had a friend who was so excited about finally putting all her paintings..."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "RMT"
   - "Station Marketplace"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/02/feedingtime.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/02/feedingtime.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/feedingtime.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/02/feedingtime.jpg"
 ---
+Back in, oh, I guess this would be the early 90s, I had a friend who was so excited about finally putting all her paintings...
+<!--more-->
 
 Back in, oh, I guess this would be the early 90s, I had a friend who was so excited about finally putting all her paintings -- 'paintings' -- on this new World Wide Web thing. I'd known she liked art, but painting? I didn't know she did that.
 
@@ -46,21 +24,19 @@ Oooh, Van Gogh must have been turning in his grave. This was quite a long time a
 
 Anyway, I present this new PAINTING by me, which I PAINTED, and in no way is a screenshot run through a Photoshop filter.
 
-![feedingtime](https://chasingdings.com/wp-content/uploads/2009/02/feedingtime.jpg "feedingtime")
-
 *"Feeding Time", ca 2009, acrylics on canvas (not Photoshop)*
 
 The huggable kobold there is one of two new 'house items' added to the Station Marketplace RMT store recently. The other one is a stern looking high elf. Yeah. Can you imagine trying to sleep with some ELF looking at you? Brrrr. The kobold only cost 100 Sonybucks, and every account had gotten 150 when all this started, so I bought the kobold and set him up in my room in the guild hall. Then Kasul fed him a platter of dead rats. THOSE didn't last very long.
 
-![everquest2-2009-02-27-06-58-56-43](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-27-06-58-56-43.jpg "everquest2-2009-02-27-06-58-56-43")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-27-06-58-56-43.jpg" title="everquest2-2009-02-27-06-58-56-43" classes="center" >}}
 
 *Helm of the Good Ship Lollipop*
 
-![everquest2-2009-02-27-06-59-12-97](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-27-06-59-12-97.jpg "everquest2-2009-02-27-06-59-12-97")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-27-06-59-12-97.jpg" title="everquest2-2009-02-27-06-59-12-97" classes="center" >}}
 
 *Helm of Mom's Silk Pillowcase*
 
-![everquest2-2009-02-27-06-59-57-94](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-27-06-59-57-94.jpg "everquest2-2009-02-27-06-59-57-94")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-27-06-59-57-94.jpg" title="everquest2-2009-02-27-06-59-57-94" classes="center" >}}
 
 *Armor of My Corpse Is Safety Green*
 
@@ -70,9 +46,9 @@ The middle helm, though -- I am getting SO CLOSE to spending money in the RMT st
 
 The last is a full set of ranger-looking armor. If they make this in black, I might go for it.
 
-![everquest2-2009-02-26-22-42-33-30](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-26-22-42-33-30.jpg "everquest2-2009-02-26-22-42-33-30")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-26-22-42-33-30.jpg" title="everquest2-2009-02-26-22-42-33-30" classes="center" >}}
 
-![everquest2-2009-02-27-08-31-12-20](https://chasingdings.com/wp-content/uploads/2009/02/everquest2-2009-02-27-08-31-12-20.jpg "everquest2-2009-02-27-08-31-12-20")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/02/everquest2-2009-02-27-08-31-12-20.jpg" title="everquest2-2009-02-27-08-31-12-20" classes="center" >}}
 
 There was some discussion in the guild hall last night about the executioner's hood. I said Fae look cute in EVERYTHING. Kasul said I couldn't find a way to make a Fae look cute in that hood. A few minutes with the broker, and I think she looks cute.
 

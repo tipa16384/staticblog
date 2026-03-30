@@ -3,46 +3,21 @@ date: '2010-01-09T11:51:56-05:00'
 draft: false
 title: "World of Warcraft: I suck at this whole DPS thing."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/09/world-of-warcraft-i-suck-at-this-whole-dps-thing/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Bhagpuss commented on my previous WoW article that he never really cared to know how much DPS he was doing in a group, and was..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-09-10-20-42-35-480x397.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-09-10-20-42-35-480x397.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/WoW-2010-01-09-10-20-42-35-480x397.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/WoW-2010-01-09-10-20-42-35-480x397.jpg"
 ---
+Bhagpuss commented on my previous WoW article that he never really cared to know how much DPS he was doing in a group, and was...
+<!--more-->
 
-Bhagpuss commented on [my previous WoW article](https://chasingdings.com/index.php/2009/12/29/wow-behind-the-green-door/) that he never really cared to know how much DPS he was doing in a group, and was just satisfied if the instance went well. I can kinda see his point. It's a game, right? As long as you're having fun, the game is doing its job.
+Bhagpuss commented on [my previous WoW article](https://tipa16384.github.io/wkblog/index.php/2009/12/29/wow-behind-the-green-door/) that he never really cared to know how much DPS he was doing in a group, and was just satisfied if the instance went well. I can kinda see his point. It's a game, right? As long as you're having fun, the game is doing its job.
 
 That's one way to look at it. I, though, was a rogue in EverQuest. EQ rogues have a lot more going for them than WoW rogues; there's a lot of things they can do that make them highly valued for their unique capabilities. They share with WoW rogues, though, the ability to do more single target melee damage than any other class.
 
 That the dungeons I'm seeing in WoW seem built for magic AoE damage isn't important here. I have faith that at some point in time, there will be dungeons where mobs with lots of hit points come one at a time. I'll be ready.
-
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-09-10-20-42-35-480x397.jpg" title="Click to enlarge" class="align-center" >}}
 
 I don't have the option of ignoring my DPS. In WoW classic 5 man dungeons, that's all I bring to the group. Nobody wants me to sap stuff or disable traps. For me to just be satisfied if the rest of the group could carry me through dungeons regardless of my performance would be really wrong.
 
@@ -54,7 +29,7 @@ This is necessary. If someone is doing triple my DPS, I need to know why. If I m
 
 With good buffs, my DPS in Blackrock Depths is between 200-250. This morning, the random dungeon finder took me to Dire Maul East for the first time. You can see that Recount put me at the bottom of the damage chart. The bottom three characters on that list had approximately the same GearScores. The top two were heavily twinked. Warstoge was the tank, was buffed better than me and had AEs. Still, I usually am in the same general level of damage as the tank, usually somewhat better. I was drastically under the bar this time (and I expected to get a comment about that, but I didn't -- they were a good group).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/01/WoW-2010-01-09-10-28-58-51-480x318.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/WoW-2010-01-09-10-28-58-51-480x318.jpg" title="Click to enlarge" classes="center" >}}
 
 I'd noticed that my poisons were resisted in the instance. Most of the mobs are plants, and plants are mostly or entirely immune to nature damage -- the sort of damage poisons cause. Reading through Recount's damage detail made it clear. My damage is usually split fairly evenly through straight melee, Sinister Strike (my combo point-building move) and poisons -- Instant Poison if mobs are dying fast, Deadly Poison if the are dying slowly enough for its DoT to make a difference. Since mobs were dying slowly (level 56-58, one to three levels above mine), I doubled up on Deadly Poison.
 

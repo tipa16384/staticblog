@@ -3,41 +3,19 @@ date: '2023-08-29T07:00:00-05:00'
 draft: false
 title: "Loot Piñatas: How much are you worth?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/29/loot-pinatas-how-much-are-you-worth/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Bree at MassivelyOP asked today if MMO studios prioritize younger or older players. The answer is super simple."
-description: "Bree at MassivelyOP asked today if MMO studios prioritize younger or older players. The answer is super simple."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
   - "MMORPG"
+tags:
   - "Massivelyop"
   - "Ranting"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/moneybags.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/moneybags.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/moneybags.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/moneybags.jpg"
 ---
+Bree at MassivelyOP asked today if MMO studios prioritize younger or older players. The answer is super simple.
+<!--more-->
 
 Bree at MassivelyOP asked today if [MMO studios should prioritize younger or older players](https://massivelyop.com/2023/08/28/the-daily-grind-should-mmo-studios-prioritize-younger-or-older-players/). The answer is super simple.
 

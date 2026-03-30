@@ -3,40 +3,17 @@ date: '2008-04-10T00:09:14-05:00'
 draft: false
 title: "EQ: Tsuki (Oyasumi Nasai)"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/10/eq-tsuki-oyasumi-nasai/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "That was a crappy picture of my EQ1 mage in the Shard of Hate article, so I logged back into EQ and took a better..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-09-20-11-01-28.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-09-20-11-01-28.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-09-20-11-01-28.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-09-20-11-01-28.jpg"
 ---
+That was a crappy picture of my EQ1 mage in the Shard of Hate article, so I logged back into EQ and took a better...
+<!--more-->
 
-![eqgame-2008-04-09-20-11-01-28.jpg](https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-09-20-11-01-28.jpg)
+
 
 That was a crappy picture of my EQ1 mage in the Shard of Hate article, so I logged back into EQ and took a better picture. There's her epic that I spent so much time camping. The robe is the Fabled Robe of the Ishva that I camped along with a lot of other people the first or second year of Fableds. It's weird, but now that I think back on it, usually around Fabled season I was not playing EQ. It was very cyclical for me. The green glowy on her off hand I got from some BoT tower boss -- I believe the air one.
 

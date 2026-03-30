@@ -3,37 +3,12 @@ date: '2006-10-30T11:19:23-05:00'
 draft: false
 title: "Music for Asylums: A BOC Hallowe'en"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/10/30/music-for-asylums-a-boc-halloween/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Sure, millions have written, asking, \"Tipa, I know and agree that Blue Oyster Cult is the most kick-buttingest rock band EVER, but they have SO..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Sure, millions have written, asking, "Tipa, I know and agree that Blue Oyster Cult is the most kick-buttingest rock band EVER, but they have SO...
+<!--more-->
 
 Sure, millions have written, asking, "Tipa, I know and agree that Blue Oyster Cult is the most kick-buttingest rock band EVER, but they have SO MANY GREAT SONGS! Which songs should I have on my Hallowe'en playlist?"
 

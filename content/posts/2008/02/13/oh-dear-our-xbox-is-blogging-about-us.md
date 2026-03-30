@@ -3,37 +3,12 @@ date: '2008-02-13T09:58:12-05:00'
 draft: false
 title: "Oh dear... our Xbox is blogging about us..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/13/oh-dear-our-xbox-is-blogging-about-us/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Scurvsnicker's Xbox - 2/13/2008..."
+categories:
   - "Other Games"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Scurvsnicker's Xbox - 2/13/2008...
+<!--more-->
 
 > Scurvsnicker's Xbox - 2/13/2008
 

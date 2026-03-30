@@ -3,46 +3,23 @@ date: '2009-10-25T22:48:50-05:00'
 draft: false
 title: "Dragon Age Journeys: More than just a tie-in."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/25/dragon-age-journeys-more-than-just-a-tie-in/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Tactical, party-based RPGs in a browser? For free? Yeah, it exists. For all that it is a tie-in to Bioware's forthcoming RPG Dragon Age: Origins,..."
+categories:
   - "Dragon Age Origins"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/Fullscreen-capture-10252009-84934-PM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/Fullscreen-capture-10252009-84934-PM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/Fullscreen-capture-10252009-84934-PM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/Fullscreen-capture-10252009-84934-PM.jpg"
 ---
+Tactical, party-based RPGs in a browser? For free? Yeah, it exists. For all that it is a tie-in to Bioware's forthcoming RPG Dragon Age: Origins,...
+<!--more-->
 
-![Dragon Age Journeys](https://chasingdings.com/wp-content/uploads/2009/10/Fullscreen-capture-10252009-84934-PM.jpg "Dragon Age Journeys")
+
 
 Tactical, party-based RPGs in a browser? For free? Yeah, it exists. For all that it is a tie-in to Bioware's forthcoming RPG Dragon Age: Origins, EA 2D's [Dragon Age Journeys](http://www.dragonagejourneys.com) is not only an introduction to the lore and characters of that game, but an excellent RPG in its own right.
 
 In first chapter of three dealing with side stories in the DA:O milieu, "The Deep Roads", you come to the Dwarven city of Ozrammar to defend it against the Darkspawn that prowl the subterranean passages to and from the ancient city. The world above faces destruction by the magic-crazed forces of evil. By sealing off Ozrammar from the world, the dwarves felt their city would be a safe haven in a world gone mad. It's about to become an abattoir instead.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2009/10/Fullscreen-capture-10252009-102543-PM-480x354.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/Fullscreen-capture-10252009-102543-PM-480x354.jpg" title="Click to enlarge" classes="center" >}}
 
 DAJ follows the common practice of giving you fairly few options at character creation time and letting you choose your own path and abilities as you level. Choosing between the dwarf, human and elf races determines the classes you may choose, and choosing a class from those on offer limit the selection of character origins - the specific story of your character. Like its parent game, there are only a certain number of stories to be told in DAJ. Your particular origin in DAJ doesn't seem to change the quests you are offered, however.
 
@@ -54,7 +31,7 @@ Warriors are the tanks, and talents can add taunt and various debuffs on the opp
 
 You will soon meet up with a mage and a warrior in your travels, so you may want to pick a rogue to start out in order to get experience with all three archetypes as you adventure through the dark tunnels.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2009/10/Fullscreen-capture-10252009-104424-PM-479x359.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/Fullscreen-capture-10252009-104424-PM-479x359.jpg" title="Click to enlarge" classes="center" >}}
 
 Combat takes place on a hex grid that at times has randomly placed obstacles to provide cover and line-of-sight problems. Dragon Age Journeys proudly displays its old-school roots: Pen and paper Dungeons & Dragons was originally played on just such a map, and that carried over to SSI's D&D Gold Box RPGs and New World Computing's Heroes of Might and Magic.
 
@@ -64,7 +41,7 @@ Combat follows the general flow of tactical RPGs. Characters are sorted by their
 
 Since wounds do not affect a monster's ability to cause damage, focus fire is definitely the best strategy. As the characters level and train in AE abilities, the strategy becomes one of bunching the enemies nicely before sending them to their eternal reward all at once (and there's an achievement for that).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2009/10/Fullscreen-capture-10252009-110445-PM-480x346.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/10/Fullscreen-capture-10252009-110445-PM-480x346.jpg" title="Click to enlarge" classes="center" >}}
 
 Soon after you win your first battle, you'll level and get your first crack and choosing the general focus for your character's growth. Take a look at all the abilities and especially the ultimate ability in each chain, and work toward that. Waffling about what weapons to specialize in or what sort of wizard you want to be won't help. Pick a path and stick with it, or you'll be too weak for some of the later battles.
 

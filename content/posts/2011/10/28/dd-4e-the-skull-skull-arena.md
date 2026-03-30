@@ -3,40 +3,17 @@ date: '2011-10-28T06:45:08-05:00'
 draft: false
 title: "D&D 4E: The Skull-Skull Arena"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/10/28/dd-4e-the-skull-skull-arena/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There was probably a way to get through this without fighting... but we're all experts. We're all MMO vets. See a monster, kill a monster...."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/10/FantasyGrounds-2011-10-27-23-15-45-18-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/10/FantasyGrounds-2011-10-27-23-15-45-18-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/FantasyGrounds-2011-10-27-23-15-45-18-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/10/FantasyGrounds-2011-10-27-23-15-45-18-480x360.jpg"
 ---
+There was probably a way to get through this without fighting... but we're all experts. We're all MMO vets. See a monster, kill a monster....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/10/FantasyGrounds-2011-10-27-23-15-45-18-480x360.jpg" title="The Skull Skull Arena" class="align-center" >}}
+
 
 There was probably a way to get through this without fighting... but we're all experts. We're all MMO vets. See a monster, kill a monster.
 

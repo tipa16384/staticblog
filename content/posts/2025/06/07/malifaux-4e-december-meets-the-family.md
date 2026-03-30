@@ -3,43 +3,21 @@ date: '2025-06-07T21:12:46-05:00'
 draft: false
 title: "Malifaux 4e: December Meets the Family"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/06/07/malifaux-4e-december-meets-the-family/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Or, Perdita, Neverborn Hunter, runs head-first into the Wall of Ice at the Edge of the World."
-description: "Or, Perdita, Neverborn Hunter, runs head-first into the Wall of Ice at the Edge of the World."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "December"
   - "Family"
   - "Packrat Gaming"
   - "Perdita"
   - "Rasputina"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/06/perdita.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/06/perdita.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/perdita.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/06/perdita.png"
 ---
+Or, Perdita, Neverborn Hunter, runs head-first into the Wall of Ice at the Edge of the World.
+<!--more-->
 
 I'd won my first 4e game with Rasputina (Abominable), AKA Raspy2. Was it a fluke? Could I win against someone who *had* played in the last six months? Those were questions I had.
 
@@ -49,7 +27,7 @@ Since the last time I played, the cold water alligator Bashe's rules were releas
 
 I'd been hearing good things about the Watchman keyword versatile, Harris J-5, a clockwork that... wields a huge watch on a chain. I didn't really have a place for it on my team without giving up something I'd miss. But we're still early in the fourth edition, it's time to stretch a little. I had J-5 replace the Blessed of December -- both hard hitting, mobile models. One hiccup: J-5 doesn't have the December keyword, and so could not be considered an ally of Rasputina, merely a friendly unit. J-5 could not use Ice Mirror and could not cast the biting winds that can move the enemy. But, it could absorb some damage for nearby units, and it hit really hard.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/image-2-1024x593.png" title="Starting out." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/image-2-1024x593.png" title="Starting out." classes="center" >}}
 
 Perdita Ortega is the leader of the Hermanos de Armas -- Brothers in Arms -- gang, a crew of rough-and-tumble old West types who would shoot ya as soon as look at ya. Perdita's crew gives each other Family tokens, which can be spent to add temporary upgrades to power up their cards. When the Family gets together, they can be a force to be reckoned with, but even alone, they are formidable. Two in particular -- Francisco and Santiago -- made spoiling my plans a particular pastime of theirs.
 
@@ -65,7 +43,7 @@ Informants scores when you have control of the same number or more of the five c
 
 **Turn 4: **Last scheme: "Scout the Rooftops", just put two scheme markers on two terrains height 2 or higher and not within 6" of your own deployment zone. Perdita hatched a plot to knock me off all my strategy points so that they would score the double point, I would not score a strategy point, and I would then lose the game. It was a daring plot, involving Perdita knocking my units away from their strategy points with long distance attacks. Perdita knocked my Acolyte away and that was that for that point. They sent a model up to contest the center point and knocked Bashe away from the point he was guarding in the enemy deployment zone. But, Bashe hadn't activated, so moved right back and used the common December crew action to blow the pistolero guarding it back to the corner, where they could not move up to threaten the point. My summoned Silent One was able to kill the pistolero threatening the center point. It was entirely luck, but instead of losing the two points, I gained them, and won the game, 7-5.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/06/image-3-1024x622.png" title="End of Turn 1" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/06/image-3-1024x622.png" title="End of Turn 1" classes="center" >}}
 
 Okay, that picture above shows that we had 2-1 strategy points -- Silent One on the bottom left, Raspy and Acolyte taking control from the model that I've forgotten the name of. The second Silent One is summoned, and doesn't count for the point.
 

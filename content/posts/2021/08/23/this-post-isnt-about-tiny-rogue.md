@@ -3,41 +3,20 @@ date: '2021-08-23T23:14:30-05:00'
 draft: false
 title: "This Post Isn't About Mini Rogue"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/23/this-post-isnt-about-tiny-rogue/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It could be. I've been playing a lot of it. But, it isn't...."
+categories:
   - "Blaugust"
   - "Real Life"
   - "Tabletop Games"
+tags:
+  - "Blaugust"
   - "Blogging"
   - "Mini Rogue"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2295.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/1-IMG_2295.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2295.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/1-IMG_2295.jpg"
 ---
+It could be. I've been playing a lot of it. But, it isn't....
+<!--more-->
 
 It *could* be. I've been playing a lot of it. But, it isn't.
 
@@ -49,7 +28,7 @@ Even at that point of what I considered great success, my posts had no more than
 
 And then, I just. Stopped.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/2-IMG_2300.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/2-IMG_2300.jpg)Finishing a game of Mini Rogue
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/2-IMG_2300.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/2-IMG_2300.jpg)Finishing a game of Mini Rogue
 
 I stopped so hard that I couldn't even be bothered to renew my blog's hosting or domain name, and so, West Karana died (though of course I had backups. I'm a professional software engineer. I back shit up.)
 

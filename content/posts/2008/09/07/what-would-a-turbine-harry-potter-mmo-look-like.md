@@ -3,41 +3,21 @@ date: '2008-09-07T13:07:32-05:00'
 draft: false
 title: "What would a Turbine Harry Potter MMO look like?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/07/what-would-a-turbine-harry-potter-mmo-look-like/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Openedge left a comment to one of my Wizard 101 posts that implied Turbine might be working on a Harry Potter MMO. This isn't the..."
+categories:
   - "MMORPG"
+tags:
   - "Harry Potter"
   - "Turbine"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/potter.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/potter.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/potter.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/potter.jpg"
 ---
+Openedge left a comment to one of my Wizard 101 posts that implied Turbine might be working on a Harry Potter MMO. This isn't the...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/potter.jpg "potter") Openedge left a comment to one of my Wizard 101 posts that implied Turbine might be working on a Harry Potter MMO. This isn't the first time they have turned a popular property into an MMO; they did it a couple of years ago with Dungeons and Dragons, and last year with Lord of the Rings Online.
+
+
+Openedge left a comment to one of my Wizard 101 posts that implied Turbine might be working on a Harry Potter MMO. This isn't the first time they have turned a popular property into an MMO; they did it a couple of years ago with Dungeons and Dragons, and last year with Lord of the Rings Online.
 
 So given how they handled those two properties, what could we guess about a Harry Potter MMO?
 

@@ -3,50 +3,26 @@ date: '2008-09-11T19:00:31-05:00'
 draft: false
 title: "Vanguard's character model update? BIG WIN."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/11/vanguards-character-model-update-big-win/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Vanguard offered its Game Update #6 yesterday, finally fixing and updating their character models, something promised pretty much from launch. Worth it? Definitely...."
+categories:
   - "MMORPG"
   - "Vanguard"
+tags:
   - "Characters"
   - "Game Update 6"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg"
 ---
+Vanguard offered its Game Update #6 yesterday, finally fixing and updating their character models, something promised pretty much from launch. Worth it? Definitely....
+<!--more-->
 
 Vanguard offered its Game Update #6 yesterday, finally fixing and updating their character models, something promised pretty much from launch. Worth it? Definitely.
 
 Prior to the fix, my halfling bard had had her eyelids removed, and further changes to the ambient lighting system had left her face perpetually in shadow. Here she is pre-patch and as she appears now; below is a closeup of her face.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-08-24-22-18-05-18.jpg "vgclient-2008-08-24-22-18-05-18")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-11-18-32-42-00.jpg" title="vgclient-2008-09-11-18-32-42-00" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-11-18-32-42-00.jpg "vgclient-2008-09-11-18-32-42-00")
-
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-11-18-33-07-81.jpg "vgclient-2008-09-11-18-33-07-81")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-11-18-33-07-81.jpg" title="vgclient-2008-09-11-18-33-07-81" classes="center" >}}
 
 *Today I'm going to sing a serious song about love, commitment and OOOH LOOK AT THAT PRETTY BIRD!!!!*
 
@@ -54,11 +30,11 @@ Her breasts are bigger, her armor is more detailed and seems made of more separa
 
 Humans weren't hit as hard with the ugly stick pre-patch, and aside from looking burlier and getting eyelids and a new haircut, Stout Henry doesn't look all that different. Here's the before-and-after to judge for yourself.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-08-26-06-24-32-34.jpg "vgclient-2008-08-26-06-24-32-34")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-08-26-06-24-32-34.jpg" title="vgclient-2008-08-26-06-24-32-34" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-11-18-34-57-70.jpg "vgclient-2008-09-11-18-34-57-70")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-11-18-34-57-70.jpg" title="vgclient-2008-09-11-18-34-57-70" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/vgclient-2008-09-11-18-35-08-14.jpg "vgclient-2008-09-11-18-35-08-14")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/vgclient-2008-09-11-18-35-08-14.jpg" title="vgclient-2008-09-11-18-35-08-14" classes="center" >}}
 
 *Damn, I'm good looking.*
 

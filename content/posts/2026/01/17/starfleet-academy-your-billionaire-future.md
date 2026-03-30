@@ -3,39 +3,17 @@ date: '2026-01-17T11:19:11-05:00'
 draft: false
 title: "Starfleet Academy: Your Billionaire Future"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2026/01/17/starfleet-academy-your-billionaire-future/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "There's an interesting story in Starfleet Academy, but it's not a story billionaires would want to tell."
-description: "There's an interesting story in Starfleet Academy, but it's not a story billionaires would want to tell."
-tags:
+categories:
   - "Sci Fi"
   - "Star Trek"
+tags:
   - "Starfleet Academy"
-featured_image: "https://chasingdings.com/wp-content/uploads/2026/01/starfleetacademy.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2026/01/starfleetacademy.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2026/01/starfleetacademy.png"
 ---
+There's an interesting story in Starfleet Academy, but it's not a story billionaires would want to tell.
+<!--more-->
 
 Every year, at the end of the year, the billionaires of the world gather, in their super yachts, at destinations that cater to the rich. This year, almost all of them congregated in the Caribbean island of St. Bart's. They live in a world where there are no needs or wants that aren't instantly satisfied, can travel anywhere at any time, and the people outside their bubble might as well not exist.
 

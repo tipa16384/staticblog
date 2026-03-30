@@ -3,38 +3,13 @@ date: '2008-03-16T08:25:07-05:00'
 draft: false
 title: "Play2Train -- Emergency Response Training in Second Life"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/16/play2train-emergency-response-training-in-second-life/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In response to yesterday's post about my return to Second Life, reader Deep Semaphore pointed me toward Play2Train, a simulation of various emergency scenarios done..."
+categories:
   - "MMORPG"
   - "Second Life"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+In response to yesterday's post about my return to Second Life, reader Deep Semaphore pointed me toward Play2Train, a simulation of various emergency scenarios done...
+<!--more-->
 
 In response to yesterday's post about my return to Second Life, reader Deep Semaphore pointed me toward [Play2Train](http://irhbt.typepad.com/play2train/), a simulation of various emergency scenarios done in Second Life, developed under the guidance of the Idaho Bioterrorism Awareness and Preparedness Program.
 

@@ -3,40 +3,17 @@ date: '2009-12-08T07:27:09-05:00'
 draft: false
 title: "EVE Online: Cul-de-Wormhole"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/08/eve-online-cul-de-wormhole/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I don't really like making posts about EVE back-to-back. It IS my main game, these days, but I am oft reminded of some tips to..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg"
 ---
+I don't really like making posts about EVE back-to-back. It IS my main game, these days, but I am oft reminded of some tips to...
+<!--more-->
 
-![Ringed planet, moon and Retriever](https://chasingdings.com/wp-content/uploads/2009/12/ExeFile-2009-12-06-21-29-39-48.jpg "Ringed planet, moon and Retriever")
+
 
 I don't really like making posts about EVE back-to-back. It IS my main game, these days, but I am oft reminded of some tips to EVE bloggers I read on [CrazyKinux](http://www.crazykinux.com/)'s blog a few months ago: Nobody wants to read about how you did a level 4 mission. I try to keep the day-to-day out of the blog. But corp-mates have insisted I repeat yesterday's wormhole adventure twice, so I might as well just write it here.
 

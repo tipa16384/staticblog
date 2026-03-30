@@ -3,40 +3,18 @@ date: '2023-10-25T07:00:00-05:00'
 draft: false
 title: "Baldur's Gate 3: Guilty"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/10/25/baldurs-gate-3-guilty/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I said I wasn't going to replay Baldur's Gate 3, but then I went ahead and did. Am doing."
-description: "I said I wasn't going to replay Baldur's Gate 3, but then I went ahead and did. Am doing."
-tags:
+categories:
   - "Baldur's Gate 3"
   - "Dungeons & Dragons"
+tags:
   - "Act I"
   - "Bard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/snapedit_1698202481176.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/10/snapedit_1698202481176.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/snapedit_1698202481176.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/snapedit_1698202481176.png"
 ---
+I said I wasn't going to replay Baldur's Gate 3, but then I went ahead and did. Am doing.
+<!--more-->
 
 I have a confession to make. It's not something I want to admit.
 
@@ -54,7 +32,7 @@ So I did find Karlach and Wyll, their quests are started. I do like Karlach, but
 
 I probably will use Wyll later, when we have a few more levels.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/Baldurs-Gate-3_20231024080720-1024x576.jpg" title="Nashuya the Bard" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/Baldurs-Gate-3_20231024080720-1024x576.jpg" title="Nashuya the Bard" classes="center" >}}
 
 So, what's different?
 

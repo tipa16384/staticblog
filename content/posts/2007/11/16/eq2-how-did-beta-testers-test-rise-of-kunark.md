@@ -3,40 +3,17 @@ date: '2007-11-16T08:41:48-05:00'
 draft: false
 title: "EQ2: How did beta testers test Rise of Kunark?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/16/eq2-how-did-beta-testers-test-rise-of-kunark/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Rise of Kunark is a beautiful expansion, but the tuning has problems. Three days in, and I'm stumped as to how the tuning I've seen..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-15-22-05-55-71.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-15-22-05-55-71.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-15-22-05-55-71.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-15-22-05-55-71.jpg"
 ---
+Rise of Kunark is a beautiful expansion, but the tuning has problems. Three days in, and I'm stumped as to how the tuning I've seen...
+<!--more-->
 
-![eq2 field of bone](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-15-22-05-55-71.jpg)
+
 
 Rise of Kunark is a beautiful expansion, but the tuning has problems. Three days in, and I'm stumped as to how the tuning I've seen so far in the Kylong Plains and the Fens of Nathsar was done.
 
@@ -50,7 +27,7 @@ The Fens, like the Kylong Plains, is covered with solo mobs. There are no mobs g
 
 When EQ2 launched, overland zones were a mix of solo, heroic and group mobs -- they were mixed-use zones. If you wanted to solo, there were mobs you could grind on. If you were in a group, there was plenty for you as well. Everyone got great experience according to their playstyle, and while you were soloing in a zone, you could be looking for a group in that zone as well. I loved the Thundering Steppes for this.
 
-![eq2 drinal field of bone](https://chasingdings.com/wp-content/uploads/2007/11/everquest2-2007-11-15-20-54-05-51.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2007/11/everquest2-2007-11-15-20-54-05-51.jpg" classes="center" >}}
 
 Over time, the player base moved on, and the zones were readjusted to be only solo mobs. This made sense. When nobody groups in a place, group-only content is wasted.
 

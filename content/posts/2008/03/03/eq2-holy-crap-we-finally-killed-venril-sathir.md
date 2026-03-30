@@ -3,46 +3,23 @@ date: '2008-03-03T09:09:02-05:00'
 draft: false
 title: "EQ2: Holy crap, we finally killed Venril Sathir"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/03/eq2-holy-crap-we-finally-killed-venril-sathir/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Aside from a couple of T1 raids, we've been working on Venril Sathir every night since we killed the Overking. Last night, we finally got..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-02-22-34-02-71.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-02-22-34-02-71.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-02-22-34-02-71.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-02-22-34-02-71.jpg"
 ---
+Aside from a couple of T1 raids, we've been working on Venril Sathir every night since we killed the Overking. Last night, we finally got...
+<!--more-->
 
-![everquest2-2008-03-02-22-34-02-71.jpg](https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-02-22-34-02-71.jpg)
+
 
 Aside from a couple of T1 raids, we've been working on Venril Sathir every night since we killed the Overking. Last night, we finally got him.
 
 He isn't a HARD kill, but it's the kind of raid where you have to pay attention -- you have to keep your power around 50%; you can't do anything but autoattack when a certain debuff is placed on you; and you have to keep the helper statues stunned with an item you get from Pawbuster. It's not easy to keep track of everything and do the kind of dps needed to kill him; last night it all came together and he died.
 
-![everquest2-2008-03-02-22-45-13-83.jpg](https://chasingdings.com/wp-content/uploads/2008/03/everquest2-2008-03-02-22-45-13-83.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/03/everquest2-2008-03-02-22-45-13-83.jpg" classes="center" >}}
 
 Venril Sathir's death also advanced the quest for my mythical epic; here I am singing my heart out to the evil harp that was stored in his throne room. Supposedly only troubadors can see it, so to everyone else, it probably looks like I'm singing to the moon or something.
 

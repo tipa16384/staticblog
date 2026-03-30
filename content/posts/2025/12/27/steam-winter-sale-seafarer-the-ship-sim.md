@@ -3,39 +3,17 @@ date: '2025-12-27T13:14:25-05:00'
 draft: false
 title: "Steam Winter Sale: Seafarer, the Ship Sim"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/12/27/steam-winter-sale-seafarer-the-ship-sim/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Dive into the world of commercial shipping as you patrol the seas and learn to love ISO 668 cargo containers."
-description: "Dive into the world of commercial shipping as you patrol the seas and learn to love ISO 668 cargo containers."
-tags:
+categories:
   - "Steam Games"
+tags:
   - "Seafarer"
   - "Simulation Game"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/12/1-20251226095656_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/12/1-20251226095656_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-20251226095656_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/12/1-20251226095656_1.jpg"
 ---
+Dive into the world of commercial shipping as you patrol the seas and learn to love ISO 668 cargo containers.
+<!--more-->
 
 Okay. I don't play a *lot* of job simulators, or at least I don't seem to play them for very long. But... I'm going to need to fill in some backstory on how I came to be looking for and ultimately purchasing this Seafarer: the Ship Sim.
 
@@ -45,7 +23,7 @@ Early in the musical, Jackman's Barnum is working doing some sort of desk job at
 
 That bugged me. The bank would just accept the word of someone who wasn't even an officer of the company that he could pledge these ships as collateral for an attraction that had nothing to do with commercial shipping?
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/research.jpg" title="I did my own research!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/research.jpg" title="I did my own research!" classes="center" >}}
 
 So I DiD  mY oWn ReSeArCh. Barnum never did any such thing, first, and second, ships found sunk would be printed in the paper; it was *huge news*, and passing ships would be sending word of any ships they found in distress or sunk to their own companies and Lloyd's, the major insurer of record for the shipping industry. Lloyd's published Lloyd's List, a weekly newspaper where all these things would be published for everyone to read.
 
@@ -57,7 +35,7 @@ Modern day shipping has the benefit of GPS and instant communication, but hasn't
 
 I went looking for a commercial shipping simulator set in the Age of Sail. I found Seafarer: The Ship Sim, a commercial shipping simulator set in something like the present day.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/1-20251220201612_1-1024x576.jpg" title="A ship at sail" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/1-20251220201612_1-1024x576.jpg" title="A ship at sail" classes="center" >}}
 
 Seafarer is not a simulation of actual commercial shipping; it tells you that up front. There's no shipping lanes, no regulations, no balancing of cargo so that the ship doesn't capsize, and initially, no other crew.
 
@@ -73,7 +51,7 @@ Until you unlock fast travel at level 4, most of your time is spent at the helm,
 
 The tedium is broken up every so often by engine trouble. Until you hire a ship's engineer, this is your job to handle. You should have bought supplies (oil, fuel, air filters, oil filters) at dock. If you have these items, you can run around to the engines and do what needs doing. If you do not have these items, you have to signal Tide Patrol to come get you for massive penalties.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/12/20251227121924_1-1024x429.jpg" title="Sweatshirt guy steers, I navigate" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/12/20251227121924_1-1024x429.jpg" title="Sweatshirt guy steers, I navigate" classes="center" >}}
 
 With an engineer hired, you can send them to deal with engine troubles and they will do their best. You can also hire an officer who will steer your ship and who clearly has more patience than I do. About the only job left for you to do is loading and unloading cargo and plotting the course. Once fast travel is unlocked, you can plot a course and then follow it quickly on the map screen. You can't exit to see your container ship speedboating along the path; presumably it just simulates you playing on your phone and now and again looking up to see if you've crashed into anything.
 

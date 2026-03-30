@@ -3,37 +3,12 @@ date: '2008-05-21T20:17:13-05:00'
 draft: false
 title: "Liveblogging American Idol 2 hour finale -- Spoilers!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/21/liveblogging-american-idol-2-hour-finale/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ryan says one David got 56% of the 96 million votes, the other, 44%. This is about the separation over at DialIdol. http://dialidol.com/asp/predictions/Predictions.asp..."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Ryan says one David got 56% of the 96 million votes, the other, 44%. This is about the separation over at DialIdol. http://dialidol.com/asp/predictions/Predictions.asp...
+<!--more-->
 
 Ryan says one David got 56% of the 96 million votes, the other, 44%. This is about the separation over at DialIdol. http://dialidol.com/asp/predictions/Predictions.asp
 

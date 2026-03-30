@@ -3,40 +3,17 @@ date: '2012-01-01T23:13:51-05:00'
 draft: false
 title: "STO: I'd buy that for $138!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/01/sto-id-buy-that-for-138/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Update: There's a thread on the Star Trek Online forums tracking this. Apparently the percentage for winning a ship from a red box is 0.65%,..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-01-16-24-29-25-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-01-16-24-29-25-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-01-16-24-29-25-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-01-16-24-29-25-480x270.jpg"
 ---
+Update: There's a thread on the Star Trek Online forums tracking this. Apparently the percentage for winning a ship from a red box is 0.65%,...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-01-16-24-29-25-480x270.jpg" title="Inside the Jem'Hadar bug ship." class="align-center" >}}
+
 
 ***Update:** There's a [thread on the Star Trek Online forums](http://forums.startrekonline.com/showthread.php?t=244540) tracking this. Apparently the percentage for winning a ship from a red box is 0.65%, making the average number of boxes to open (and hence dollars to pay) 153.*
 
@@ -58,7 +35,7 @@ You absolutely do not need to pay money in this lotto to play Star Trek Online. 
 
 This is the face of Star Trek Online on the eve of its free-to-playness.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2012-01-01-17-27-56-17-480x270.jpg" title="The Prometheus Multi-Vector Advanced Escort" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2012-01-01-17-27-56-17-480x270.jpg" title="The Prometheus Multi-Vector Advanced Escort" classes="center" >}}
 
 I am absolutely willing to give money to a F2P game that plays honestly by me. After spending $25 on worthless red boxes, I went _back_ to the cash shop and spent money on the Prometheus Multi-Vector Advanced Escort for my latest max level character, Vice Admiral T'Pral. It separates into three sections; you choose which one to command, and the others follow behind and attack what you attack. Each section has different capabilities; the Alpha section is balanced; the Beta section focuses on weapon power; the Gamma section focuses on auxiliary effects -- buffs and debuffs in MMO lingo.
 
@@ -70,7 +47,7 @@ Remember that you will get every ship you _need_ for free as you level. The whol
 
 I wanted to write about the new leveling path (where the old Feature Episodes have been worked into the leveling path so that now every mission you run is a story mission, with no randomly-generated missions required at all). It was a lot of fun, and the duty officer/cow clicking mechanic helped out a great deal. Of my three characters, T'pral finished leveling with the best gear and skills, and I didn't spend a dime until the end. (Well, scratch that -- I bought the NX Enterprise months and months ago, but it was pure vanity as it only replaced her starter ship).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/GameClient-2011-12-30-13-08-55-38-480x270.jpg" title="The Free-metheus" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/GameClient-2011-12-30-13-08-55-38-480x270.jpg" title="The Free-metheus" classes="center" >}}
 
 T'pral was previously in the free version of the Prometheus; nearly identical to the cash shop one, except it doesn't split apart. She's doing a victory flyby of a destroyed Borg mother ship from one of the random Borg incursion events. You get good dilithium for the victory.
 

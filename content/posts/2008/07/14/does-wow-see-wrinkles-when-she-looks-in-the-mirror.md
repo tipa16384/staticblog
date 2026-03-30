@@ -3,24 +3,8 @@ date: '2008-07-14T08:44:21-05:00'
 draft: false
 title: "Does WoW see wrinkles when she looks in the mirror?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/14/does-wow-see-wrinkles-when-she-looks-in-the-mirror/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I have nothing against old MMOs. In fact, I spend most of my time in one of the oldest. But I know that EQ is..."
+categories:
   - "Age of Conan"
   - "Dark Ages of Camelot"
   - "EverQuest"
@@ -28,22 +12,13 @@ tags:
   - "Warhammer: Age of Reckoning"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+I have nothing against old MMOs. In fact, I spend most of my time in one of the oldest. But I know that EQ is...
+<!--more-->
 
 I have nothing against old MMOs. In  fact, I spend most of my time in [one of the oldest](http://nostalgiatheguild.org). But I know that EQ is old, and I play it now not to see new things, but just to reminisce about all the good times I had in it.
 
-People have been going off to World of Warcraft for years, and starting their adventures in Azeroth. [I've even done it](https://chasingdings.com/index.php/2005/11/28/kanda-is/) (and my gosh, has it been three years already?). But I've been reading [the adventures of Cownose](http://cownosethe50poundcat.blogspot.com/), who recently starting in WoW, and [Ogrebears](http://ogrebear.com/), who is just starting, any my first thought for them both was, why would they want to start out with that old game?
+People have been going off to World of Warcraft for years, and starting their adventures in Azeroth. [I've even done it](https://tipa16384.github.io/wkblog/index.php/2005/11/28/kanda-is/) (and my gosh, has it been three years already?). But I've been reading [the adventures of Cownose](http://cownosethe50poundcat.blogspot.com/), who recently starting in WoW, and [Ogrebears](http://ogrebear.com/), who is just starting, any my first thought for them both was, why would they want to start out with that old game?
 
 And I startled myself thinking that, because it was the first time I had even thought of World of Warcraft as being *old*. And yet, it is. It's no longer the young upstart, it's something they market to older people. When your spokesmen are a 60s scifi television star and a 70s action show star, you have to wonder, who are they targeting with WoW? My PARENTS?
 

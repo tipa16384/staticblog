@@ -3,42 +3,21 @@ date: '2010-11-27T01:05:18-05:00'
 draft: false
 title: "Daily Blogroll: Black Friday Edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/27/daily-blogroll-black-friday-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Daily Blogroll"
   - "EverQuest"
   - "MMORPG"
   - "Neopets"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-25-22-16-43-8-480x263.jpg "Breen Friday")](https://chasingdings.com/wp-content/uploads/2010/11/GameClient-2010-11-25-22-16-43-8.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/GameClient-2010-11-25-22-16-43-8.jpg)
 
 I'm actually sitting in Star Trek Online right now, hovering above the Deferi Mining Outpost 3, waiting for the Breen capital ship "Desna" to show up. So I can kill it.
 
@@ -52,7 +31,7 @@ Single player RPGs don't have a shelf life. You can play them for years. MMOs DO
 
 Spinks and company have been talking for a few days about [the ups and downs of grouping in MMOs](http://spinksville.wordpress.com/2010/11/26/should-mmos-encourage-grouping-how-about-helping-you-make-in-game-friends/). Clearly, one of the differences between MMOs and single player RPGs is the opportunity to form or find a community. Single player games get played through, then put on the shelf. MMOs either end up on the shelf within days, or being played for years. Likely more than anything else, it's the community that will either keep you or drive you away.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/Fullscreen-capture-11272010-124604-AM-480x294.jpg "Fullscreen capture 11272010 124604 AM")](https://chasingdings.com/wp-content/uploads/2010/11/Fullscreen-capture-11272010-124604-AM.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/11/Fullscreen-capture-11272010-124604-AM-480x294.jpg" title="Fullscreen capture 11272010 124604 AM" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/11/Fullscreen-capture-11272010-124604-AM.jpg)
 
 Everyone loves pets. Even your pets, right? The kids browser MMO Neopets(*) lets your pets have pets, too -- they call them petpets. But what if the petpets want pets? Hey, we're all in luck. Neopets now has the Petpetpet Habitarium, where you can breed petpetpets to your heart's content. It's actually a clever little RTS for young gamer geeks because, guys, we have to bring up the next generation of gamers right.
 It's good that petpetpets turn into gems after awhile, because otherwise, they'd be yelling about getting them some petpetpetpets.

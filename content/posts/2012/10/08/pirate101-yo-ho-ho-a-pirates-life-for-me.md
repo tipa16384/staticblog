@@ -3,41 +3,20 @@ date: '2012-10-08T22:45:52-05:00'
 draft: false
 title: "Pirate101: Yo ho ho, a Pirate's Life for Me"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/08/pirate101-yo-ho-ho-a-pirates-life-for-me/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "General"
   - "MMORPG"
   - "Pirate101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-08-22-32-11-71-480x269.jpg "Pirate 101")](https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-08-22-32-11-71.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-22-32-11-71.jpg)
 
 .yarr {
 
@@ -75,7 +54,7 @@ Yes, well, you play one of the good pirates. At least in this game, you play an 
 
 And if you're very lucky, a pirate parrot :)
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-08-19-44-41-05-480x270.jpg" title="Eaten by a sky squid! Yuk!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-19-44-41-05-480x270.jpg" title="Eaten by a sky squid! Yuk!" classes="center" >}}
 
 Character creation will be familiar to any Ravenwood student. You come into the world of Pirate101 an orphan child (and of course, {{< youtube 6Xuq7kdNaOk >}}).
 
@@ -89,7 +68,7 @@ The details of your wicked past and craven future determine the companions you w
 
 Pirate101, you see, is at its heart a tactical battle game, and the companions you meet along the way are your army.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-08-20-51-15-27-480x384.jpg" title="Pirate101 battle screen" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-20-51-15-27-480x384.jpg" title="Pirate101 battle screen" classes="center" >}}
 
 Each fight, your companions are chosen at random from among your crew. You can influence which are chosen more often, but the final selection, and the placement on the battle grid, are not under your control.
 
@@ -99,7 +78,7 @@ Yes, all our crews are anthropomorphic animal pirates. So are all the enemies. Y
 
 The objectives change from map to map. Usually you kill everything you see, but sometimes you target a specific enemy, or complete some objective on the map while trying to keep alive, or get onto the enemies ship.... because ship battles? That's a thing.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-08-19-55-57-41-480x360.jpg" title="Ship to ship battles" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-19-55-57-41-480x360.jpg" title="Ship to ship battles" classes="center" >}}
 
 If you get bored with island life, you can take to the sky streams in your customizable and upgradeable sky ship, there to pursue enemy ships, get broadsides to them, and pelt them with cannons until they are weak enough to be boarded, at which point the battle moves onto the battle grid and continues conventionally.
 
@@ -107,7 +86,7 @@ Battling ship to ship earns you nautical levels, levels which improve your survi
 
 After each battle, you can drop out of ship view into deck view and make furious repairs to the deck of your ship. Enemy ships will drop various conditions onto your deck, and if not cleared, will become obstacles for your next battle.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Pirate-2012-10-08-21-30-51-79-480x384.jpg" title="Tall Tara Templeton" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Pirate-2012-10-08-21-30-51-79-480x384.jpg" title="Tall Tara Templeton" classes="center" >}}
 
 This is just the briefest overview of Pirate101. I'm not going to call it a review, because it's not a review. I leveled to the middle levels in Alpha, but the game has changed substantially since then (ship-to-ship combat wasn't in, in Alpha, for instance), and I'll reserve a final judgement to maybe never.
 

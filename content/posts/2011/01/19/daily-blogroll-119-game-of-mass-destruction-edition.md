@@ -3,24 +3,8 @@ date: '2011-01-19T06:00:58-05:00'
 draft: false
 title: "Daily Blogroll 1/19 -- Game of Mass Destruction edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/01/19/daily-blogroll-119-game-of-mass-destruction-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I absolutely would love to know how many people people are REALLY playing World of Warcraft vs Lord of the Rings Online vs Warhammer Online..."
+categories:
   - "Black Prophecy"
   - "Daily Blogroll"
   - "DC Universe Online"
@@ -30,20 +14,13 @@ tags:
   - "Final Fantasy"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/01/firefox-2011-01-18-23-58-38-07.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/01/firefox-2011-01-18-23-58-38-07.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/firefox-2011-01-18-23-58-38-07.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/01/firefox-2011-01-18-23-58-38-07.jpg"
 ---
+I absolutely would love to know how many people people are REALLY playing World of Warcraft vs Lord of the Rings Online vs Warhammer Online...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2011/01/firefox-2011-01-18-23-58-38-07.jpg "Milmo")
+
 
 I absolutely would love to know how many people people are REALLY playing World of Warcraft vs Lord of the Rings Online vs Warhammer Online vs Total Global Annihilation (Online) and so on. Heaven knows its not in the interest of gaming companies to tell us. To me, it means they have something to hide. Every company is all so excited to reveal their numbers when they are trending up. When they are silent, that can only be bad news.
 
@@ -71,7 +48,7 @@ Not that there's anything wrong with that.
 
 Just weird to think that in the BSG Universe, MMOs would be impossible, it being a crime for the humans to connect computers together into a network. And the Cylons can build interactive, sharable fantasy worlds in their minds. Beau Hindman @ Massively [got a peek at the upcoming BSG Online](http://massively.joystiq.com/2011/01/18/first-impressions-battlestar-galactica-online/), the browser-based MMO where you can face off against either the robotic Cylons or the human Colonials and go pewpew boomboom. People wonder whatever happened to Jumpgate Evolution and info is scarce on Black Prophecy, so who knows, maybe this is the space dogfighting game we've been waiting for.
 
-[![](https://chasingdings.com/wp-content/uploads/2011/01/world_of_starcraft-480x269.jpg "world_of_starcraft")](https://chasingdings.com/wp-content/uploads/2011/01/world_of_starcraft.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/01/world_of_starcraft-480x269.jpg" title="world_of_starcraft" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2011/01/world_of_starcraft.jpg)
 
 **World of Starcraft**
 

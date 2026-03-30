@@ -3,43 +3,21 @@ date: '2007-11-04T06:06:17-05:00'
 draft: false
 title: "Rock Band: Naming my fake band."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/11/04/rock-band-naming-my-fake-band/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "We got a little closer to being the most famous fake cover band in our living room yesterday when we finally bought an Xbox 360..."
+categories:
   - "General"
   - "Other Games"
+tags:
   - "Rock Band"
   - "W. B. Yeats"
   - "Xbox 360"
-featured_image: "https://chasingdings.com/wp-content/uploads/2007/11/stp60768.JPG"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2007/11/stp60768.JPG"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/stp60768.JPG"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2007/11/stp60768.JPG"
 ---
+We got a little closer to being the most famous fake cover band in our living room yesterday when we finally bought an Xbox 360...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2007/11/stp60768.JPG)
+
 
 We got a little closer to being the most famous fake cover band in our living room yesterday when we finally bought an Xbox 360 so we could run Rock Band when it comes out in a couple of weeks (and, we also pre-ordered the game itself).
 

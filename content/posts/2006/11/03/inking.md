@@ -3,44 +3,23 @@ date: '2006-11-03T17:15:42-05:00'
 draft: false
 title: "Inking"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/11/03/inking/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Note: My decision to take the pencil sketch and redraw and ink it in Photoshop over the objections of the assistant sales manager for the..."
+categories:
   - "General"
   - "My Work"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/11/crestblue.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/11/crestblue.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/crestblue.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/11/crestblue.jpg"
 ---
+Note: My decision to take the pencil sketch and redraw and ink it in Photoshop over the objections of the assistant sales manager for the...
+<!--more-->
 
-![crestblue.jpg](https://chasingdings.com/wp-content/uploads/2006/11/crestblue.jpg)* Note: My decision to take the pencil sketch and redraw and ink it in Photoshop over the objections of the assistant sales manager for the line who said the sketch's roughness was "why we liked it," was vindicated when the sales manager said she liked it, but needed the background to be a blue gradient to match the backgrounds of the models in the brochure. Woohoo! And just another note: Photoshop CS2 is a real dog on my cheap work computer. My uncle Bruce Holloway is a professional illustrator. We visited him this summer while we were out in New Hampshire. He has this beautiful state of the art Mac and Photoshop setup, and he works on the second floor of a reconverted old barn with floor-to-ceiling windows looking out over picture-postcard rural New Hampshire beauty.*
+
+
+* Note: My decision to take the pencil sketch and redraw and ink it in Photoshop over the objections of the assistant sales manager for the line who said the sketch's roughness was "why we liked it," was vindicated when the sales manager said she liked it, but needed the background to be a blue gradient to match the backgrounds of the models in the brochure. Woohoo! And just another note: Photoshop CS2 is a real dog on my cheap work computer. My uncle Bruce Holloway is a professional illustrator. We visited him this summer while we were out in New Hampshire. He has this beautiful state of the art Mac and Photoshop setup, and he works on the second floor of a reconverted old barn with floor-to-ceiling windows looking out over picture-postcard rural New Hampshire beauty.*
 
 *(Getting off on a tangent here, sorry). Uncle Bruce was working on a duck stamp for the feds when we were there. He's done them for the state of NH a few times, but this was his first time at the national level. Unfortunately, it looks like he was [eliminated in the first round of judging](http://www.fws.gov/duckstamps/federal/results/fedscores03.htm). Keeping us Holloways held down by the Man is the only explanation I can think of. I don't see anywhere that has copies of the pictures sent in for judging but seeing the original... my kids were astonished that someone to whom they were related could do such beautiful art.*
 
-![After Inking](https://chasingdings.com/wp-content/uploads/2006/11/inkafter.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/inkafter.jpg" classes="center" >}}
 
 For the cover of our new Basil & Maude brochure, the people in charge wanted a pencil sketch someone drew. Thinking a pencil sketch wouldn't be the nicest thing in the world, I decided to try and improve it. Bringing it into Photoshop and playing with levels and threshhold couldn't hide that it was a pencil sketch with some things that really needed correcting.
 
@@ -52,4 +31,4 @@ I definitely have a new appreciation for comic book inkers... artists every bit 
 
 Here's the original.
 
-![Ink Before](https://chasingdings.com/wp-content/uploads/2006/11/inkbefore.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/11/inkbefore.jpg" classes="center" >}}

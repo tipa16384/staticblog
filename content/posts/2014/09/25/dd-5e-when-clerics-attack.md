@@ -3,40 +3,17 @@ date: '2014-09-25T07:28:26-05:00'
 draft: false
 title: "D&D 5e: When Clerics Attack"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/09/25/dd-5e-when-clerics-attack/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I’ve never seen such a tough crowd. I do mean crowd. The humans are stepping on each other’s shadows, and even we more compact sort..."
+categories:
   - "D&D 4e"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg"
 ---
+I’ve never seen such a tough crowd. I do mean crowd. The humans are stepping on each other’s shadows, and even we more compact sort...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2014/09/1-Fullscreen-capture-9182014-105212-PM-480x328.jpg" title="Cultists on the River" class="align-center" >}}
+
 
 I’ve never seen such a tough crowd. I do mean crowd. The humans are stepping on each other’s shadows, and even we more compact sort are having to watch our step. Still, they seem upset, and why? How often do you get to see a DRAGON?
 

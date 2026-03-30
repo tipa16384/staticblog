@@ -3,40 +3,17 @@ date: '2009-10-11T10:22:18-05:00'
 draft: false
 title: "EVE Online: Spreadsheet Power"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/10/11/eve-online-spreadsheet-power/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's an item in EVE Online, dropped commonly by rats in missions, that can be reprocessed with minimal skills and its component minerals sold for..."
+categories:
   - "EVE Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/10/evespreadsheet.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/10/evespreadsheet.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/evespreadsheet.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/10/evespreadsheet.jpg"
 ---
+There's an item in EVE Online, dropped commonly by rats in missions, that can be reprocessed with minimal skills and its component minerals sold for...
+<!--more-->
 
-![Business for fun and profit, but mostly profit](https://chasingdings.com/wp-content/uploads/2009/10/evespreadsheet.jpg "Business for fun and profit, but mostly profit")
+
 
 There's an item in EVE Online, dropped commonly by rats in missions, that can be reprocessed with minimal skills and its component minerals sold for twice the cost of that item on the market. In fact, you can buy unlimited quantities of that item ON the market, reprocess it, and immediately sell the minerals for competitive prices and make a 50% profit. For that matter, you can put a buy order out for as many of this item as you can afford for a competitive price, and people will SEEK YOU OUT to sell you this item.
 

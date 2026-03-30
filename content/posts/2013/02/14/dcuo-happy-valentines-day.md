@@ -3,40 +3,17 @@ date: '2013-02-14T07:23:31-05:00'
 draft: false
 title: "DCUO: Happy Valentine's Day!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/14/dcuo-happy-valentines-day/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Happy Valentine's Day!..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-14-06.52.060-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-14-06.52.060-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-14-06.52.060-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-14-06.52.060-480x342.jpg"
 ---
+Happy Valentine's Day!...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-14-06.52.060-480x342.jpg" title="I've been locked in your heart-shaped box" class="align-center" >}}
+
 
 Happy Valentine's Day!
 

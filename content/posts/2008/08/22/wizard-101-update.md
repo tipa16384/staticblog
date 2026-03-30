@@ -3,40 +3,17 @@ date: '2008-08-22T07:56:31-05:00'
 draft: false
 title: "Wizard 101 update"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/22/wizard-101-update/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Kid's MMO Wizard \"Harry WHO?\" 101 came out with a huge update yesterday. Even though I stopped playing the game much to avoid burning out..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-22-07-20-33-96.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-22-07-20-33-96.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-22-07-20-33-96.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/wizardgraphicalclient-2008-08-22-07-20-33-96.jpg"
 ---
+Kid's MMO Wizard "Harry WHO?" 101 came out with a huge update yesterday. Even though I stopped playing the game much to avoid burning out...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/wizardgraphicalclient-2008-08-22-07-20-33-96.jpg "wizardgraphicalclient-2008-08-22-07-20-33-96")
+
 
 Kid's MMO Wizard "Harry WHO?" 101 came out with a huge update yesterday. Even though I stopped playing the game much to avoid burning out before it goes live, it seemed a big enough deal to warrant stopping by.
 

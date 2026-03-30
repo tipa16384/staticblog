@@ -3,45 +3,23 @@ date: '2020-10-09T08:04:18-05:00'
 draft: false
 title: "Ogre Battle: Deneb's Garden and the Slums of Zenobia"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/09/ogre-battle-denebs-garden-and-the-slums-of-zenobia/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I took Wednesday night off to watch the VP debates, which were way more fun than any dumb game. Thursday, with the drop of Fall..."
+categories:
   - "Super Nintendo"
+tags:
   - "Ogre Battle"
   - "RPG"
   - "Snes"
   - "The March of the Black Queen"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-000.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-000.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-000.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-000.png"
 ---
+I took Wednesday night off to watch the VP debates, which were way more fun than any dumb game. Thursday, with the drop of Fall...
+<!--more-->
 
 I took Wednesday night off to watch the VP debates, which were way more fun than any dumb game. Thursday, with the drop of Fall Guys Season 2, was already pretty full, but after embarrassing myself for awhile dodging swinging axes and spiky rollers, I thought it was about time to check in on the battling ogres.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-001.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-001.png" classes="center" >}}
 
 Deneb is the Ogre Battle series' answer to Final Fantasy's Cid. She's always going to show up *somewhere*. Rumor has it that she's not even human -- in reality she is an evil spirit that possesses young women, though she denies this.
 
@@ -49,7 +27,7 @@ Because she is evil, your task in Ogre Battle is to root her out and make her pa
 
 Of course, that's exactly what I did do. After all, my reputation is *so bad* that people could hardly think worse of me. Plus, I have a secret weapon. I keep my hands clean. I let others do the dirty work.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-007.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-007.png" classes="center" >}}
 
 My "Ali" -- alignment -- is maxed at 100. I am pure and blameless and above the messy work of killing. I am a melee character but I lead from behind. Bruno, the wizard next to me, is a terror to all he meets. His alignment is **2**. The samurai in front of him? His alignment is 38. When it comes to the end game, I will toss these losers under the bus and surround myself with others of the elite and just bask in the roaring of the crowds.
 
@@ -57,7 +35,7 @@ Letting Deneb live did indeed lose me whatever shreds of reputation I once had.
 
 Since I cleared Deneb's Garden faster than I expected, I moved on to the Slums of Zenobia.
 
-![](https://chasingdings.com/wp-content/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-006.png)Check out my bad reputation!
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/Ogre-Battle-The-March-of-the-Black-Queen-U-006.png" classes="center" >}}Check out my bad reputation!
 
 Zenobia was once the capital of the Empire, but it has fallen on hard times. It's now considered a backwater, but it is still surrounded by impressive walls of wood, thick enough to withstand any army, but not high enough to stop a flying unit... or defeat a few magical termites, such as those given by a sympathetic monk in a hidden temple.
 

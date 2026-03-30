@@ -3,41 +3,18 @@ date: '2013-03-01T07:28:50-05:00'
 draft: false
 title: "D&D4e: Temporarily Alive"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/03/01/dd4e-temporarily-alive/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "When there's undead behind you, undead ahead of you, undead below you and for all I know, undead above, you just have to wonder if..."
+categories:
   - "D&D 4e"
   - "Other Games"
   - "Roll20"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg"
 ---
+When there's undead behind you, undead ahead of you, undead below you and for all I know, undead above, you just have to wonder if...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-02-28-23-36-23-48-480x288.jpg" title="Exploring a crypt with Roll20.net" class="align-center" >}}
+
 
 When there's undead behind you, undead ahead of you, undead below you and for all I know, undead above, you just have to wonder if maybe this "living" thing is just a mistake. A mistake the gods are trying to fix.
 
@@ -61,7 +38,7 @@ A poorly carved tunnel leads into the ground. The goliath has to crouch in order
 
 There are undead, but nothing too deadly. These are undead who will not be scheming a way into the chapel any longer. After sending a half dozen undead back to their graves, the party pauses for a brief rest in the well-constructed foyer to a mausoleum.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/03/chrome-2013-02-28-23-58-14-30-480x341.jpg" title="Still Alive!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/03/chrome-2013-02-28-23-58-14-30-480x341.jpg" title="Still Alive!" classes="center" >}}
 
 We start on our new adventure! There were supposed to be six of us, but only four were able to make it. We did our best. The DM, Chris, threw some softball encounters at us as we figured out the rules and tried to do things the right way. Always something more to learn, with D&D.
 

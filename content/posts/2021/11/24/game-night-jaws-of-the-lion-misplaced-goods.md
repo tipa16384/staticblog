@@ -3,42 +3,20 @@ date: '2021-11-24T10:25:52-05:00'
 draft: false
 title: "Game Night: Jaws of the Lion, \"Misplaced Goods\""
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/11/24/game-night-jaws-of-the-lion-misplaced-goods/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Our Jaws of the Lion campaign continues. We're nearing the end, and all of our characters have gotten their late game power ups. We're clearing..."
+categories:
   - "Game Night"
   - "Gloomhaven"
   - "Miniatures"
+tags:
   - "Jaws of the Lion"
   - "Misplaced Goods"
   - "Missing Goods"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/11/IMG_2383_resized.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/11/IMG_2383_resized.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/IMG_2383_resized.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/11/IMG_2383_resized.jpg"
 ---
+Our Jaws of the Lion campaign continues. We're nearing the end, and all of our characters have gotten their late game power ups. We're clearing...
+<!--more-->
 
 Our Jaws of the Lion campaign continues. We're nearing the end, and all of our characters have gotten their late game power ups. We're clearing out our quest log before heading to the end game.
 
@@ -46,7 +24,7 @@ The header image is a spoiler, by the way. I'd be concerned if I thought anyone 
 
 I'm still so far from being able to paint minis, but there is paint on the minis and I am calling that a win. Once I learn to highlight and dry brush, I may revisit these. If you want to know what each of the secret minis does, well, you'll just have to play the game -- I won't spoil that.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/11/IMG_2385_resized.jpg)](https://chasingdings.com/wp-content/uploads/2021/11/IMG_2385_resized.jpg)The party takes on some unwelcome guests
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/11/IMG_2385_resized.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/11/IMG_2385_resized.jpg)The party takes on some unwelcome guests
 
 The plot for "Misplaced Goods" is that an Inox merchant we met in a City Event asked us to track down some goods that went missing from her shop. She suspected they were spirited away to a warehouse down by the waterfront, and something about the foul ichor the thieves left behind made her reluctant to try and track them down herself.
 

@@ -3,43 +3,19 @@ date: '2008-05-05T13:03:25-05:00'
 draft: false
 title: "Short Subjects: SF mini reviews"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/05/05/short-subjects-sf-mini-reviews/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Tor has been continuing their free release of books in electronic form, and I have been totally enjoying these free glimpses into new works, formatted..."
+categories:
   - "Sci Fi"
+tags:
   - "Iain M. Banks"
   - "John Scalzi"
   - "Matter"
   - "Old Man's War"
   - "Robert Charles Wilson"
   - "The Spin"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Tor has been continuing their free release of books in electronic form, and I have been totally enjoying these free glimpses into new works, formatted...
+<!--more-->
 
 Tor has been continuing their free release of books in electronic form, and I have been totally enjoying these free glimpses into new works, formatted to display well on my Sony Reader. First, though, is a book still hammered into the beating heart of dead trees.
 

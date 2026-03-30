@@ -3,49 +3,27 @@ date: '2020-10-22T08:03:52-05:00'
 draft: false
 title: "Solasta: Crown of the Magister"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/22/solasta-crown-of-the-magister/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This game flew entirely under my radar, but maybe it's the Dungeons & Dragons 5e-compliant tactical RPG we need right now. Coming out at almost..."
+categories:
   - "Steam Games"
+tags:
   - "5e"
   - "Crown of the Magister"
   - "D&d"
   - "RPG"
   - "Solasta"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/20201022065807_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/20201022065807_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022065807_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201022065807_1.jpg"
 ---
+This game flew entirely under my radar, but maybe it's the Dungeons & Dragons 5e-compliant tactical RPG we need right now. Coming out at almost...
+<!--more-->
 
 This game flew entirely under my radar, but maybe it's the Dungeons & Dragons 5e-compliant tactical RPG we need right now. Coming out at almost the same time the Baldur's Gate 3 D&D 5e-compliant game was released to Steam early access, you can't help but compare them. Like when "Volcano!" and "Dante's Inferno" came out at the same time, or "Armageddon" and "That Other Giant Asteroid Hitting the Earth Movie" I can't remember. ("Deep Impact". Thanks, Google.)
 
 A couple quick comparisons: First, Solasta is a lot cheaper. Second, it's not made by a huge studio, so it has a lot fewer race and class options from which to choose. And most unusual for me: You get to create all four characters of your core party, instead of just the hero.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201021222152_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201021222152_1-1024x576.jpg" classes="center" >}}
 
 Not that I did anything that the game wouldn't have given me, anyway -- although I only looked at the pre-rolled characters long enough to see they existed, when I'd finished creating my party, I saw that they were pretty much the exact same characters the game had suggested would be appropriate -- a paladin, cleric, rogue and wizard.
 
@@ -53,7 +31,7 @@ But they were *my* bog-standard balanced adventuring party.
 
 If I do this again, I think I will probably just go with three wizards and a cleric. Boom boom boom boom scream. There being three wizardly traditions from which to choose -- Green magic (druidic magic), Arcane magic (boom), and Loremaster magic (knowledge-focused). Clerics get to choose between Life and Oblivion foci, depending on if they want to just sit around and cast a heal every so often, or become a legendary divine instrument of justice bringing peace to the victimized and terror to their tormentors. Up to them.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201022070628_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201022070628_1-1024x576.jpg" classes="center" >}}
 
 Character creation is a blast. You can choose to use a point-based system to carefully nudge your characteristics into a balanced, non-OP character, or you can just keep re-rolling the dice until you get one with 18s across the board. Again, one boring option, one option that should have every goblin you come across spitting "haxx0r!" at you from ruined lungs as it lays dying.
 
@@ -63,7 +41,7 @@ My future three wizard/one cleric team will be all stuck up bastards who refuse 
 
 The quest giver will be left simultaneously in awe at the vast power and majesty of the three august wizards and their faithful cleric friend with anger issues, and in thankful terror that the wizards found their reward acceptable and let the quest giver live. Because the quest giver *knew* that it could have gone another way. That's why there were *multiple* sacks of reward.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201021211400_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201021211400_1-1024x576.jpg" classes="center" >}}
 
 But that's not the team I'm rolling with this first time out. Although, I'm increasingly thinking it *should* be.
 

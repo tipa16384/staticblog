@@ -3,39 +3,15 @@ date: '2008-07-09T14:18:49-05:00'
 draft: false
 title: "The Middleblog"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/09/the-middleblog/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just discovered the blog of Javier Grillo-Marxuach, the creator, writer and artist for \"The Middleman\" comics and the new TV series of the same name...."
+categories:
   - "General"
   - "Sci Fi"
+tags:
   - "The Middleman"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Just discovered the blog of Javier Grillo-Marxuach, the creator, writer and artist for "The Middleman" comics and the new TV series of the same name....
+<!--more-->
 
 Just discovered [the blog of Javier Grillo-Marxuach](http://themiddleblog.livejournal.com/), the creator, writer and artist for "The Middleman" comics and the new TV series of the same name. Monday nights. ABC Family. Lots of inside info about upcoming episodes and behind the scenes stuff. Yeah, I know YOU'RE already watching the best comedy SF show on television right now, but I'm just letting those other people who are too good and hip to watch television know about it.
 

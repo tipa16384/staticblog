@@ -3,24 +3,8 @@ date: '2009-04-19T10:01:48-05:00'
 draft: false
 title: "Web log 4/19"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/19/web-log-419/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Welcome to the Sunday Web Log!..."
+categories:
   - "City of Heroes"
   - "Daily Blogroll"
   - "EverQuest"
@@ -30,18 +14,11 @@ tags:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/marleybonepokemon.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/marleybonepokemon.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/marleybonepokemon.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/marleybonepokemon.jpg"
 ---
+Welcome to the Sunday Web Log!...
+<!--more-->
 
 Welcome to the Sunday Web Log!
 
@@ -64,7 +41,5 @@ Syp at Bio Break finds out how Free Realms can be the gateway drug to a MMO addi
 Suzina of Kill Ten Rats [liked MMOs better back when they were called MUDs and you knew everyone in the game](http://www.killtenrats.com/2009/04/19/small-world-vs-big-world/). While I'm not sure her call for servers small enough that you can get to know everyone is really a good idea in this modern age, giving players the tools to form a strong community is vital to the "worldy" feeling in an MMO. If not very small communities, then at least [really great hangouts](http://spinksville.wordpress.com/2009/04/19/social-media-vs-in-game-hangout/) as Spinks of Spinksville suggests.
 
 That's all for today, but if you're a Pokemon fan like the lady below, why not visit her in Marleybone and talk to her about YOUR favorite Pokemon?
-
-![Marleybone Pokemon](https://chasingdings.com/wp-content/uploads/2009/04/marleybonepokemon.jpg "Marleybone Pokemon")
 
 *Me, I liked Charmander better.*

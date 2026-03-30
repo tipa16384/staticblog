@@ -3,47 +3,25 @@ date: '2022-08-09T07:00:00-05:00'
 draft: false
 title: "The Nine-Lives Chronicles"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/09/the-nine-lives-chronicles/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "You play as a young woman who discovers she has nine lives. Along with eight other people who also have nine lives, you must use your extra lives to help others and make the world a better place."
-description: "You play as a young woman who discovers she has nine lives. Along with eight other people who also have nine lives, you must use your extra lives to help others and make the world a better place."
-tags:
+categories:
   - "Bandai Wonderswan"
   - "Blaugust"
   - "Blaugust 2022"
   - "Final Fantasy"
   - "OpenAI"
   - "Turn-Based Rpgs"
+tags:
   - "Claire"
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
   - "Nine Lives Chronicles"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-01-20.27.11-A-woman-looking-at-nine-reflections-of-herself-in-nine-different-historical-periods-painterly-style.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-01-20.27.11-A-woman-looking-at-nine-reflections-of-herself-in-nine-different-historical-periods-painterly-style.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-01-20.27.11-A-woman-looking-at-nine-reflections-of-herself-in-nine-different-historical-periods-painterly-style.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-01-20.27.11-A-woman-looking-at-nine-reflections-of-herself-in-nine-different-historical-periods-painterly-style.png"
 ---
+You play as a young woman who discovers she has nine lives. Along with eight other people who also have nine lives, you must use your extra lives to help others and make the world a better place.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 9th, "The Nine-Lives Chronicles".
 
@@ -67,7 +45,7 @@ With each life she lives, Claire will come one step closer to understanding the 
 
 Since this is a turn-based RPG, gameplay consists mostly of Claire exploring her world, talking to people, and engaging in battles. Battles are fought using a traditional turn-based system, with Claire and her party members taking turns attacking and defending. However, since Claire has nine lives, she can choose to use one of her extra lives to continue fighting even if she is defeated. This adds an extra layer of strategy to battles, as you must decide when to use Claire's extra lives wisely.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/craiyon_202056_Claire__a_woman_with_nine_lives_looking_at_a_portal_to_another_world_.png" title="Claire walking into her next life" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/craiyon_202056_Claire__a_woman_with_nine_lives_looking_at_a_portal_to_another_world_.png" title="Claire walking into her next life" classes="center" >}}
 
 **Graphics**
 

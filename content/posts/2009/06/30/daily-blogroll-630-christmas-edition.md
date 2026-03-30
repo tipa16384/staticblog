@@ -3,24 +3,8 @@ date: '2009-06-30T08:25:29-05:00'
 draft: false
 title: "Daily Blogroll 6/30 - Christmas edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/30/daily-blogroll-630-christmas-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Only 178 days till Christmas! With 2009 halfway gone now, I thought you'd want to know...."
+categories:
   - "Aion"
   - "Champions Online"
   - "Daily Blogroll"
@@ -31,20 +15,13 @@ tags:
   - "Star Trek"
   - "Vanguard"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg"
 ---
+Only 178 days till Christmas! With 2009 halfway gone now, I thought you'd want to know....
+<!--more-->
 
-![It](https://chasingdings.com/wp-content/uploads/2009/06/TS3-2009-06-30-08-10-20-98.jpg "It")
+
 
 [Only 178 days till Christmas](http://www.allcapecod.com/shoptillchristmas.cfm)! With 2009 halfway gone now, I thought you'd want to know.
 

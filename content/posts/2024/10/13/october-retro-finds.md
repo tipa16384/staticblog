@@ -3,43 +3,21 @@ date: '2024-10-13T08:00:00-05:00'
 draft: false
 title: "October retro finds!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/10/13/october-retro-finds/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly."
-description: "We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly."
-tags:
+categories:
   - "Final Fantasy"
   - "Final Fantasy XII"
   - "Lord of the Rings"
   - "PS2"
+tags:
   - "Collector's Edition"
   - "Livestream 2"
   - "War in the North"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/10/IMG_4727-scaled.jpeg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/10/IMG_4727-scaled.jpeg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/IMG_4727-scaled.jpeg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/10/IMG_4727-scaled.jpeg"
 ---
+We didn’t find much in our latest dive into the local retro game store scene, but we’d found a couple things. Mostly.
+<!--more-->
 
 I’m working on some plays of other games, so this is going to just be a shorter post just because I’m still here and felt I should write something.
 
@@ -49,13 +27,13 @@ But! It was out for the XBox and the PlayStation 3! So we went looking for it, a
 
 Am I going to play it? Again? Unlikely. I do have a genuine PS3 set up next to my desk, but I just *did* play through it and if I was going to continue, I’d continue on Steam. I just wanted to acknowledge it somehow — collect it. Steam may decide to delete it from my library, but I’ll still be able to play it if I want. I have the disk.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image-1-1024x576.jpeg" title="FFXII Collector’s Edition is not “The Zodiac Age” remake, as far as I know" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image-1-1024x576.jpeg" title="FFXII Collector’s Edition is not “The Zodiac Age” remake, as far as I know" classes="center" >}}
 
 I was pretty excited when I saw that Final Fantasy XII collector’s edition box. I have the game, of course, but not the special edition. Comes with an extra disk with art, interviews, music and stuff — totally cool. When I got it home, I thought I would rip it to the rest of my PCSX2 PS2 library, and so I did. I’ve been working on ripping Kabul’s PS2 collection, so I thought, as long as I had everything set up, that I would go ahead and finish ripping his games.
 
 One of those games was… well, you know what’s coming. In his own defense, he didn’t remember that he’d bought it. So now I can sell mine back to some different retro store, I guess. Don’t need two copies. Let someone else have that fun.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/10/image.jpeg" title="Livestreamers" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/10/image.jpeg" title="Livestreamers" classes="center" >}}
 
 The Switch game was Kasul’s. The game is Livestream 2: Escape from Togaezuka Happy Place. A Japanese game in Cantonese sold in Hong Kong. Although the case is in Chinese, the game itself, being made for an international audience, can be played in English.
 

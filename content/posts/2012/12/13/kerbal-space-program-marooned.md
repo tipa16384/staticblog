@@ -3,40 +3,17 @@ date: '2012-12-13T08:12:31-05:00'
 draft: false
 title: "Kerbal Space Program: Marooned"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/12/13/kerbal-space-program-marooned/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "There's this movie that used to come on TV occasionally when I was a kid called \"Marooned)\" -- stars Richard Crenna, Gene Hackman and other..."
+categories:
   - "Kerbal Space Program"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg"
 ---
+There's this movie that used to come on TV occasionally when I was a kid called "Marooned)" -- stars Richard Crenna, Gene Hackman and other...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-12-22-48-07-28-480x342.jpg" title="Rescue!" class="align-center" >}}
+
 
 There's this movie that used to come on TV occasionally when I was a kid called "[Marooned](http://en.wikipedia.org/wiki/Marooned_(film))" -- stars Richard Crenna, Gene Hackman and other famous people. Three Apollo astronauts are trapped in orbit with air running out. A desperate rescue mission on a military rocket that is in no way ready for launch is proposed. It's a really great movie.
 
@@ -46,7 +23,7 @@ After upgrading to the full version of Kerbal Space Program, I was testing diffe
 
 So this is important. Always have RCS thrusters and RCS fuel available on your last stage.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/12/ksppostcard-480x360.png "wish you were here at Mun")](https://chasingdings.com/wp-content/uploads/2012/12/ksppostcard.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/ksppostcard-480x360.png" title="wish you were here at Mun" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/12/ksppostcard.png)
 
 In KSP, you can leave your current flight and go back to the Kerbal Space Center and do more research or flying, what have you. This lets you leave satellites or space stations in orbit so you can return to them later, or do other things while planetary missions are in progress. I did this, leaving my Kerbals in orbit. My new mission -- this being a sandbox game, at the moment you make your own missions, and this was mine -- rescue those Kerbals.
 
@@ -54,7 +31,7 @@ I needed a new rocket, but first I needed to learn how to meet another object in
 
 Also, how does he get away with such a simple looking rocket? That's not what mine is like.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-13-00-00-23-25-480x358.jpg" title="Interceptor v1.5" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-13-00-00-23-25-480x358.jpg" title="Interceptor v1.5" classes="center" >}}
 
 Here's mine, version 1.5 of a series that went from 1.0 to 1.8. But this was the best. Command pod is an airplane type, because in "Marooned", they are met in space by an experimental space plane. Wings because they look cool. Below that is the passenger module, big enough for four Kerbals. This module includes radial parachutes and RCS thrusters. Connecting the two are a ASAS, an anti-spin ring, and RCS propellant.
 
@@ -66,7 +43,7 @@ So this was last Sunday.
 
 Even with the tips in the video, I could not get anywhere near the marooned Kerbals. It was very frustrating. I'd spend hours working on new rockets. Once I came within 2km of the lost spacecraft, but I just couldn't match orbits
 
-[![](https://chasingdings.com/wp-content/uploads/2012/12/kspsurvive.png " I survived Kerbal Space Program. Will you?")](https://chasingdings.com/wp-content/uploads/2012/12/kspsurvive.png)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/kspsurvive.png" title=" I survived Kerbal Space Program. Will you?" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/12/kspsurvive.png)
 
 If you've followed along on Google+, you've seen these postcards before. I needed to make something out of each night's adventures.
 
@@ -82,7 +59,7 @@ With that, he was able to bump into the passenger module hatch, grab on and boar
 
 I wanted to come down at the Kerbal Space Center, and after jettisoning my orbital stage, was using RCS thrusters to pick my landing spot. When it looked like I'd miss the KSC and land in the water, I panicked and made sure I'd hit land on the previous continent, because I wanted a screen shot of all the Kerbals alive, and on the land.
 
-[![](https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-12-23-31-24-56-480x300.jpg "Marooned? In space? We can help!")](https://chasingdings.com/wp-content/uploads/2012/12/KSP-2012-12-12-23-31-24-56.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-12-23-31-24-56-480x300.jpg" title="Marooned? In space? We can help!" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2012/12/KSP-2012-12-12-23-31-24-56.jpg)
 
 I was ready to give up and rescue these guys later, but I couldn't stop thinking about them up in orbit, confident they weren't forgotten. It took me three real life nights, and 26 game days, to rescue them.
 

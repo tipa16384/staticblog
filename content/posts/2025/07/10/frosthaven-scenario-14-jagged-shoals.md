@@ -3,45 +3,23 @@ date: '2025-07-10T08:01:31-05:00'
 draft: false
 title: "Frosthaven Scenario 14: Jagged Shoals"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/07/10/frosthaven-scenario-14-jagged-shoals/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?"
-description: "They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?"
-tags:
+categories:
   - "Frosthaven"
   - "Game Night"
   - "Gloomhaven"
   - "Other Games"
+tags:
   - "Jagged Shoals"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5225-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/07/IMG_5225-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/07/IMG_5225-scaled.jpg"
 ---
+They say that a pig can consume a body in eight minutes. What about ten pigs? That are also fish somehow?
+<!--more-->
 
 Picture above is how it ended. Or rather, how I ended. Surrounded by lightning eels and piranha pigs with a pig herder staring me in the face with a lizardry grin twisting his scaly skin around.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/image-2-1024x515.png" title="After the first turn" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/image-2-1024x515.png" title="After the first turn" classes="center" >}}
 
 Our Deathwalker's life goal is to travel by sled, boat, or some other conveyance we haven't yet figured out, five times. When Jagged Shoals unlocked with a boat icon, we immediately made it a priority.
 
@@ -51,7 +29,7 @@ Well, we felt we were just the crew to turn this poor captain's fate around, and
 
 You and we both, brother. Captain Clueless floated the idea of just killing the turtle and returning to Frosthaven with enough food to feed the hungry for weeks. We felt the turtle deserved at least a little respect, and we pointed the turtle back in the general direction we came. What happens to the turtle when it reaches Frosthaven, happens.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/07/image-3-1024x624.png" title="The end is nigh" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/07/image-3-1024x624.png" title="The end is nigh" classes="center" >}}
 
 When we finally, somehow, made it to Jagged Shoals, we immediately knew why we'd come: the same sort of crystal that had driven the Algox and the Lurkers mad was present here as well. Here it was gathering all the most dangerous denizens to its call -- the eels, the pigs, the herders.
 

@@ -3,42 +3,21 @@ date: '2010-07-04T17:48:46-05:00'
 draft: false
 title: "Fantasy Earth Zero review: MMORTS goes mainstream"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/07/04/fantasy-earth-zero-mmorts-goes-mainstream/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Fantasy Earth Zero"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83-480x268.jpg "A Dragon Summons in Fantasy Earth Zero")](https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83.jpg)
+[
 
-![](https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-18-56-32-99.jpg "Not all outfits are this revealing.")
+](https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-04-07-53-57-83.jpg)
+
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-04-18-56-32-99.jpg" title="Not all outfits are this revealing." classes="center" >}}
 
 [Fantasy Earth Zero](http://fez.gamepotusa.com/) is a [Massively Multiplayer Real Time Strategy](http://www.massively.com/category/mmorts/) game originally published by Final Fantasy-makers Square Enix, but now by Gamepot USA. Although FEZ in some ways resembles a variant of the Asian free-to-play model (and it is now F2P), once you finish the comprehensive tutorial and are led to the main part of the game, the game's true nature becomes clear. The players are the soldiers in the massive armies of five nations, all vying for control of the rich center country, the source of the best treasure and resources. (A sixth nation sits apart, neutral, and is the only place where players from opposing nations may meet outside of battle).
 
@@ -52,7 +31,7 @@ The game leads the player through a basic starting clearing (here's how you move
 
 At character creation, the player chooses between one of five realms, each ruled over by a more or less benevolent warlord. All of them love peace, but understand that were they to abandon war, then their own nation would be invaded and overrun by the warlords of the other four nations. Thus, they must fight, and the best defense being a strong offense, they must win. A nation's capital city is always safe (as far as I know), but everything else is up for grabs.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-18-00-26-54-480x360.jpg "Contested nation battle map")](https://chasingdings.com/wp-content/uploads/2010/07/FEzero_Client-2010-07-04-18-00-26-54.jpg)Fantasy Earth Zero map
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-04-18-00-26-54-480x360.jpg" title="Contested nation battle map" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2010/07/FEzero_Client-2010-07-04-18-00-26-54.jpg)Fantasy Earth Zero map
 
 A territory surrounded on all sides by its nations territories is safe, and may be used as a hunting ground (graded in tiers from one to four stars) for members of that nation to gain xp and loot by fighting NPC enemies. A territory that borders the territory of another nation is contested; when enemy players of the other nation enter the territory, after a period of time it becomes a battlefield, and the players of the two nations battle for control.
 

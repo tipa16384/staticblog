@@ -3,40 +3,17 @@ date: '2010-02-12T07:28:45-05:00'
 draft: false
 title: "\"Syp\" pulls out the big guns? I'm ready."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/12/syp-pulls-out-the-big-guns-im-ready/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Okay, I think this has gotten a bit out of hand. This is MY blog, and I DO moderate the comments. Syp, if you and..."
+categories:
   - "General"
   - "Humor"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/syphead.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/syphead.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/syphead.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/syphead.jpg"
 ---
+Okay, I think this has gotten a bit out of hand. This is MY blog, and I DO moderate the comments. Syp, if you and...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/syphead.jpg "Sypheads Unite")
+
 
 Okay, I think this has gotten a bit out of hand. This is MY blog, and I DO moderate the comments. Syp, if [you and your minions](http://biobreak.wordpress.com/2010/02/11/low-blows-and-fancy-free/) insist upon spamming my blog with your negative comments, I'm just going to delete them. West Karana is a safe, supportive site for people who love MMO games and the people who play them -- not some sort of weird gathering place for people who are only allowed to think as you do.
 

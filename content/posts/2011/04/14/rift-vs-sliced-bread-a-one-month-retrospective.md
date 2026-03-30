@@ -3,40 +3,17 @@ date: '2011-04-14T07:22:22-05:00'
 draft: false
 title: "Rift vs Sliced Bread: A one month retrospective."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/04/14/rift-vs-sliced-bread-a-one-month-retrospective/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Rift's \"Droughtlands\" is the kind of land only a wily coyote could love, filled with dead-end canyons and high, high mesas. Harlan's Vista rises from..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg"
 ---
+Rift's "Droughtlands" is the kind of land only a wily coyote could love, filled with dead-end canyons and high, high mesas. Harlan's Vista rises from...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-08-23-32-31-05-480x383.jpg" title="Harlan's Vista" class="align-center" >}}
+
 
 Rift's "Droughtlands" is the kind of land only a wily coyote could love, filled with dead-end canyons and high, high mesas. Harlan's Vista rises from a sticky sea of tar and rifts. On the very top is an ancient wardstone. I was doing quests around the Vista and noticed that the wardstone -- far above me -- was taken by the Guardians. As a good Defiant, once I'd finished my tasks on the ground, I scouted the twisty, mobby path up, found the wardstone and got an achievement! Yay! A picture was duly taken of this momentous moment and sent out through Twitter, where it was ignored by everyone. Some followers may have unfollowed me at that time.
 
@@ -46,7 +23,7 @@ No instructions on where the energy was or how to collect it. After bumbling aro
 
 This is Rift at its strongest, when it departs from the status quo and sends a little bundle of fun your way. There were a bunch of quests for that same area, but I don't remember any of them (I know I had to kill stuff). But that "Never say Nether" one -- that stuck with me.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-14-07-30-19-22.jpg" title="Dina the Rogue" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-14-07-30-19-22.jpg" title="Dina the Rogue" classes="center" >}}
 
 More than a month in, and I still haven't hit max level. I just haven't had as much time to play as I'd have liked. I'm a level 47 rogue, and have done all the normal dungeon instances except Realm of the Fae (newbie Guardian instance) and Charmer's Caldera. I did Abyssal Precipice last night for the first time, even though I was a level or two too low and entirely unprepared. That got me my first couple bits of gear I'll need (including a dagger with the necessary HIT stat) when I hit 50 to start on the Expert T1 dungeons, which prepare you for the Expert T2 dungeons, which prepare you for raids.
 
@@ -62,7 +39,7 @@ I joined the Abyssal Precipice group last night in my melee dps spec (my roles a
 
 This, again, is Rift at its strongest. It's not quite yet to the level of "bring the player, not the class", but it's closer than many games.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-03-20-28-45-64-480x384.jpg" title="A River of Souls event rift" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-03-20-28-45-64-480x384.jpg" title="A River of Souls event rift" classes="center" >}}
 
 Dynamic events and the soul mechanic are Rift's bread and butter. There's room for improvement in the other areas.
 

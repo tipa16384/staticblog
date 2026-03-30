@@ -3,47 +3,23 @@ date: '2008-08-16T11:40:46-05:00'
 draft: false
 title: "First expansion reactions"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/16/first-expansion-reactions/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'll be seeing these live hopefully later today, but here's my first reactions to the expansions...."
+categories:
   - "EverQuest"
   - "MMORPG"
+tags:
   - "Fan Faire"
   - "Seeds of Destruction"
   - "The Shadow Odyssey"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/befallen.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/befallen.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/befallen.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/befallen.jpg"
 ---
+I'll be seeing these live hopefully later today, but here's my first reactions to the expansions....
+<!--more-->
 
 I'll be seeing these live hopefully later today, but here's my first reactions to the expansions.
 
 EQ2: The Shadow Odyssey
-
-![](https://chasingdings.com/wp-content/uploads/2008/08/befallen.jpg "befallen")
 
 So, we're getting Lost Dungeons of Norrath, EQ2 style. I don't know if this means the return of the Wayfarers, but I kind of hope it doesn't, as the Wayfarer's led into the ugly Gates of Discord and Omens of War expansions, which kinda broke the whole fantasy feel of EQ with their SciFi aliens from across the 8th dimension, a mistake finally corrected with Dragons of Norrath.
 
@@ -55,7 +31,7 @@ It won't really feel like Befallen unless you can fall into a deep hole, die, lo
 
 Ah, Befallen memories.
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eq000361.jpg "eq000361")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/08/eq000361.jpg" title="eq000361" classes="center" >}}
 
 Remember how much people hated that whole aliens from across the 8th dimension thing in GoD and OoW? Well, they're BACK.
 

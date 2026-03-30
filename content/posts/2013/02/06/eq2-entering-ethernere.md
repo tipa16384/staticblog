@@ -3,40 +3,17 @@ date: '2013-02-06T08:03:34-05:00'
 draft: false
 title: "EQ2: Entering Ethernere"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/06/eq2-entering-ethernere/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My cleric, Arda (née Dera), turned level 92 a few days ago. Though this is the threshold for the new Chains of Eternity expansion, I..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-05-22-34-49-03-480x294.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-05-22-34-49-03-480x294.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-05-22-34-49-03-480x294.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-05-22-34-49-03-480x294.jpg"
 ---
+My cleric, Arda (née Dera), turned level 92 a few days ago. Though this is the threshold for the new Chains of Eternity expansion, I...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-05-22-34-49-03-480x294.jpg" title="Druid Ring of Doom" class="align-center" >}}
+
 
 My cleric, Arda (née Dera), turned level 92 a few days ago. Though this is the threshold for the new Chains of Eternity expansion, I wasn't going to repeat a mistake I made when Scatter dinged that level a couple months back: I wasn't going to leave good, experience-generating quests in the Withered Lands undone.
 
@@ -50,7 +27,7 @@ Scatter at 95 is more or less invulnerable to normal mobs, even level 95 mobs. I
 
 But with Arda, she'll be the one getting uber-powerful. Her tank, the mercenary, will be getting a more linear power boost. Tests in the Dracur Prime solo instance in Skyshrine, though, have been encouraging.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/EverQuest2-2013-02-05-22-53-42-54-480x300.jpg" title="On the Shores of Ethernere" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/EverQuest2-2013-02-05-22-53-42-54-480x300.jpg" title="On the Shores of Ethernere" classes="center" >}}
 
 The CoE quest line for the good people of Qeynos involves saving local heroine, demigod, spokesmodel and avatar of Tunare, Firiona Vie, from the living death brought on by a mysterious force from the Ethernere, the celestial waiting room where the dead pause on the way to their final resting places.
 

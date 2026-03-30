@@ -3,40 +3,19 @@ date: '2020-08-25T07:28:27-05:00'
 draft: false
 title: "Blaugust #25: Blogging in a Time of Corona"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/25/blaugust-25-blogging-in-a-time-of-corona/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I thought I was so incredibly original when I started using the tag #loveinatimeofcorona on all my Instagram posts back at the beginning of the..."
+categories:
   - "Blaugust"
   - "Real Life"
+tags:
+  - "Blaugust"
   - "Coronavirus"
   - "Girls Screaming in Existential Dread"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/coronavirus.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/coronavirus.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/coronavirus.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/coronavirus.jpg"
 ---
+I thought I was so incredibly original when I started using the tag #loveinatimeofcorona on all my Instagram posts back at the beginning of the...
+<!--more-->
 
 I thought I was so incredibly original when I started using the tag *#loveinatimeofcorona* on [all my Instagram posts](https://www.instagram.com/decisivenotice/) back at the beginning of the pandemic. Now I see it everywhere. And I saw it everywhere on Instagram, too. But now it's *everywhere*.
 
@@ -50,7 +29,7 @@ I mentioned yesterday that I don't consider what I do here to be content creatio
 
 It has affected me as a blogger, though. I wasn't even blogging before the pandemic. Most of the stuff I shared, I shared on Instagram.
 
-![](https://chasingdings.com/wp-content/uploads/2020/08/virus-300x169.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/08/virus-300x169.jpg" classes="center" >}}
 
 March 13th, 2020, was the last day any of us could work at the office. After that, we all were forced to work at home. That meant that I didn't have to commute to work, or commute home, or get dressed, or shower, or do anything, really. All I really had to do was be online with my work laptop somewhere between 8:00-8:30AM, ready to work, headset on.
 

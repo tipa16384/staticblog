@@ -3,43 +3,22 @@ date: '2008-11-03T09:51:20-05:00'
 draft: false
 title: "Wizard 101: Shiritaki Temple and the Plague Oni"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/03/wizard-101-shiritakai-temple-and-the-plague-oni/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Well, apparently, all the demons in Wizard 101 are elephants. Who knew? The Plague Oni went down in the concentrated fire of three wizards after..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Plague Oni"
   - "Shiritakai Temple"
   - "W101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+  - "Wizard101"
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg"
 ---
+Well, apparently, all the demons in Wizard 101 are elephants. Who knew? The Plague Oni went down in the concentrated fire of three wizards after...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-17-59-57-21.jpg "wizardgraphicalclient-2008-11-01-17-59-57-21")
+
 
 Well, apparently, all the demons in Wizard 101 are elephants. Who knew? The Plague Oni went down in the concentrated fire of three wizards after a long, long instance.
 
@@ -47,11 +26,11 @@ I found out why Moo Shu is so dead for me. I was in a low population realm -- AK
 
 Anyway, I selected the most crowded server, Ambrose, and Moo Shu was suddenly full of life. I finished up my Kishibe Village quests, and sat myself down in front of Shiritakai Temple while I went and got a snack. When I returned, there were bunches of people (um, three) in front of the instance pads; I stepped on, they did the same, and we were ported into the instance.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-16-51-10-39.jpg "wizardgraphicalclient-2008-11-01-16-51-10-39")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-16-51-10-39.jpg" title="wizardgraphicalclient-2008-11-01-16-51-10-39" classes="center" >}}
 
 Dr. Katzenstein greeted us with a warning. With a...? WHO? I thought I killed you back in Marleybone! Oh well, looks like even pretty well polished games like Wizard 101 still has some bugs.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-18-02-42-49.jpg "wizardgraphicalclient-2008-11-01-18-02-42-49")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-18-02-42-49.jpg" title="wizardgraphicalclient-2008-11-01-18-02-42-49" classes="center" >}}
 
 I like to hold off on "Kill X" quests in W101 because you often end up fighting things that count toward that total; sometimes as guards in boss fights, sometimes because you went left instead of right and found yourself in a battle. That was the case in Shiritakai, when some elemental fights cleared out a couple of quests I hadn't done yet. It's nice when things work out that way.
 
@@ -61,7 +40,7 @@ Anyway, even with a nearly full group (someone left along the way), it still too
 
 My last spell, which I will get next level, is Sanctuary, a spell that makes all Life spells more powerful for the duration of the battle. Yours, AND the monster's. Put that right next to Dryad in my "do not use, ever" deck. Sure, it would be handy, but not at the cost in pips. Kill faster, less healing needed.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-01-18-28-39-62.jpg "wizardgraphicalclient-2008-11-01-18-28-39-62")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-01-18-28-39-62.jpg" title="wizardgraphicalclient-2008-11-01-18-28-39-62" classes="center" >}}
 
 I changed up my outfit a little. Redyed some items to look classier. I was admiring people's outfits in that Plague Oni group, and I was a little embarrassed to be seen in my crappy clothes and unimaginative colors, so I did something about it.
 

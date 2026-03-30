@@ -3,37 +3,12 @@ date: '2008-02-04T14:11:19-05:00'
 draft: false
 title: "Speak, friend, and flush"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/02/04/speak-friend-and-flush/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Via boingboing, news of toilets in Finland that unlock when you text \"open\" at them...."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Via boingboing, news of toilets in Finland that unlock when you text "open" at them....
+<!--more-->
 
 Via [boingboing](http://www.boingboing.net/2008/02/04/sms-opens-public-toi.html), news of toilets in Finland that [unlock when you text](http://www.cellular-news.com/story/29010.php) "open" at them.
 

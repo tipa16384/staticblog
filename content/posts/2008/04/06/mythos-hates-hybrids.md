@@ -3,42 +3,19 @@ date: '2008-04-06T08:27:36-05:00'
 draft: false
 title: "Mythos hates hybrids"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/06/mythos-hates-hybrids/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Mythos will be hitting open beta \"real soon now\", so if you haven't already, you'll have your chance to get into some free-to-play, Diablo-inspired, action-MMO-RPG..."
+categories:
   - "MMORPG"
   - "Mythos"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/mythos-2008-04-04-19-12-18-28.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/04/mythos-2008-04-04-19-12-18-28.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/mythos-2008-04-04-19-12-18-28.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/mythos-2008-04-04-19-12-18-28.jpg"
 ---
+Mythos will be hitting open beta "real soon now", so if you haven't already, you'll have your chance to get into some free-to-play, Diablo-inspired, action-MMO-RPG...
+<!--more-->
 
-![mythos-2008-04-04-19-12-18-28.jpg](https://chasingdings.com/wp-content/uploads/2008/04/mythos-2008-04-04-19-12-18-28.jpg)
 
-[Mythos](https://chasingdings.com/index.php/category/mmos/mythos/) will be hitting open beta "real soon now", so if you haven't already, you'll have your chance to get into some free-to-play, Diablo-inspired, [action-MMO-RPG fun](http://www.massively.com/category/mythos/) within weeks. When you get there, though, there's one thing you really, really have to know when you begin to build your character.
+
+[Mythos](https://tipa16384.github.io/wkblog/index.php/category/mmos/mythos/) will be hitting open beta "real soon now", so if you haven't already, you'll have your chance to get into some free-to-play, Diablo-inspired, [action-MMO-RPG fun](http://www.massively.com/category/mythos/) within weeks. When you get there, though, there's one thing you really, really have to know when you begin to build your character.
 
 Mythos hates hybrids. It's sad!
 

@@ -3,43 +3,23 @@ date: '2009-01-10T14:28:28-05:00'
 draft: false
 title: "Wizard 101: Kensington... and DRAGONSPYRE!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/01/10/wizard-101-kensington-and-dragonspyre/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'm mad at my Sprite. Most of the time, she's a good pal. We go out in the world, fight evil, have a laugh, do..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Dragonspyre"
   - "Kensington Court"
   - "Malistaire"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/01/ohthomas.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/01/ohthomas.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/ohthomas.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/01/ohthomas.jpg"
 ---
+I'm mad at my Sprite. Most of the time, she's a good pal. We go out in the world, fight evil, have a laugh, do...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/ohthomas.jpg "ohthomas")I'm mad at my Sprite. Most of the time, she's a good pal. We go out in the world, fight evil, have a laugh, do magic tricks... Sure, sometimes she asks about boys, but I just laugh it off. She's not ready, you know? She just isn't ready for that thing.
+
+
+I'm mad at my Sprite. Most of the time, she's a good pal. We go out in the world, fight evil, have a laugh, do magic tricks... Sure, sometimes she asks about boys, but I just laugh it off. She's not ready, you know? She just isn't ready for that thing.
 
 But little Sprites grow into Pixies so fast these days, and I blame myself. I should have known, should have had "the Talk", before she met... Thomas.
 
@@ -59,13 +39,13 @@ I thought tonight would be a wonderful night to do Kensington, and Thomas and Su
 
 Kensington is fight after fight with mobs that have north of 2000 health each. And they come in groups of four. And they are all elites. And a lot of them heal themselves. And it takes about three hours.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-09-23-48-50-27.jpg "wizardgraphicalclient-2009-01-09-23-48-50-27")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-09-23-48-50-27.jpg" title="wizardgraphicalclient-2009-01-09-23-48-50-27" classes="center" >}}
 
 Whenever I would cast my sprite, she'd be all "Oh, Thomas! Do you need a heal? Do you need another heal? What if you still get hurt? Will kisses make it better?" Poor Suri, who did most of the damage and took most of the aggro, would be perilously close to dying (while I charged up heals to keep her alive), and Thomas would be at full health, surrounded by four or five Heals over Time, and my Sprite tossing Pixies at him like she'd just come back from a fire sale at the Pixie Deluxe Warehouse.
 
 It was kind of embarrassing, actually. She was just ALL OVER him.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-10-00-11-21-10.jpg "wizardgraphicalclient-2009-01-10-00-11-21-10")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-10-00-11-21-10.jpg" title="wizardgraphicalclient-2009-01-10-00-11-21-10" classes="center" >}}
 
 It took so long that each of us had to go off and do other things in the middle. We managed it, though. We killed Stoker -- TWICE. We each got a good amount of experience (and I finally leveled to 46!) I discovered I had a bat pet I didn't know I had. Suri says I must have picked it up from Wavebringer during one of my Plague Oni runs... so they were worth SOMETHING anyway.
 
@@ -77,7 +57,7 @@ Thomas, though, went on to Dragonspyre, just released on the Test server.
 
 When I woke up, I went, too :)
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-10-08-55-15-18.jpg "wizardgraphicalclient-2009-01-10-08-55-15-18")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-10-08-55-15-18.jpg" title="wizardgraphicalclient-2009-01-10-08-55-15-18" classes="center" >}}
 
 There's a little mini quest you have to do before you can go to Dragonspyre. You have to go back and talk to Merle Ambrose, and he'll send you to talk to Cyrus Drake, the malevolent professor of the Myth school -- and brother to the villain of W101, Malistaire, former head of the Death school.
 
@@ -85,7 +65,7 @@ Cyrus sends you to meet him in the Myth tower, where he goes bonkers and attacks
 
 Some of the players just got a little TOO into it. I think they have teacher issues.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-10-09-02-27-29.jpg "wizardgraphicalclient-2009-01-10-09-02-27-29")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-10-09-02-27-29.jpg" title="wizardgraphicalclient-2009-01-10-09-02-27-29" classes="center" >}}
 
 After what seemed like HOURS of loading, we were finally let in to see the Fifth World. Off to the left as you enter if the Basilica, home of the old Dragonspyre Academy, the most prestigious school of magic on the spiral. Gone, now. Destroyed. Enmeshed in Malistaire's evil. He tossed out the old dragons who ran the place, and now he is the big boss.
 
@@ -93,7 +73,7 @@ I ran down the stairs and right into Cyrus Drake! Taking up my sword, I prepared
 
 We wizards would, once again, have to be the foot soldiers in this magical war between two brothers.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-10-09-10-37-73.jpg "wizardgraphicalclient-2009-01-10-09-10-37-73")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-10-09-10-37-73.jpg" title="wizardgraphicalclient-2009-01-10-09-10-37-73" classes="center" >}}
 
 Time was short, and the need was great, so I did the only thing I could think of to do, the thing that would do the most good, the quickest.
 
@@ -105,11 +85,11 @@ Many of the patterns seemed familiar, but there are some hats that look like dra
 
 I think I know now how John Wayne must have felt.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-10-09-16-40-21.jpg "wizardgraphicalclient-2009-01-10-09-16-40-21")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-10-09-16-40-21.jpg" title="wizardgraphicalclient-2009-01-10-09-16-40-21" classes="center" >}}
 
 After surviving a full-press Pun Ambush in the Library (I won't repeat them here... I don't want to draw out the torture), I was sent deeper into the city to talk with Zatharax, who told me I'd have to spark the crystals in six towers -- the towers of the old schools of magic -- in order to open the portal that brings me deeper into Dragonspyre. He sent me into a three dimensional maze of confusion.
 
-![](https://chasingdings.com/wp-content/uploads/2009/01/wizardgraphicalclient-2009-01-10-10-00-06-45.jpg "wizardgraphicalclient-2009-01-10-10-00-06-45")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/01/wizardgraphicalclient-2009-01-10-10-00-06-45.jpg" title="wizardgraphicalclient-2009-01-10-10-00-06-45" classes="center" >}}
 
 Doors that teleport you places. Tower tops crawling with evil creatures. Twisting paths and dead ends.
 

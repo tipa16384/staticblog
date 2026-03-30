@@ -3,39 +3,15 @@ date: '2014-12-24T16:37:48-05:00'
 draft: false
 title: "Weekly Foundry Reviews -- December 24, 2014"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/12/24/in-retrospect-we-should-have-chosen-this-week-to-review-christmas-themed-foundries-of-which-there/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[gallery ids=\"11279,11280,11281,11282\"]..."
+categories:
   - "MMORPG"
   - "Neverwinter"
+tags:
   - "Foundry"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+[gallery ids="11279,11280,11281,11282"]...
+<!--more-->
 
 [gallery ids="11279,11280,11281,11282"]
 

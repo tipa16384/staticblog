@@ -3,40 +3,17 @@ date: '2013-02-25T23:05:39-05:00'
 draft: false
 title: "Things to do in DCUO when you're dead."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/25/what-to-do-in-dcuo-when-youre-dead/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Just like in the original Guild Wars, the road to level cap in DC Universe Online is pretty much an extended tutorial ahead of the..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/DCGame-2013-02-24-20-36-47-62-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/DCGame-2013-02-24-20-36-47-62-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/DCGame-2013-02-24-20-36-47-62-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/DCGame-2013-02-24-20-36-47-62-480x300.jpg"
 ---
+Just like in the original Guild Wars, the road to level cap in DC Universe Online is pretty much an extended tutorial ahead of the...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/DCGame-2013-02-24-20-36-47-62-480x300.jpg" title="Ding! 30!" class="align-center" >}}
+
 
 Just like in the original Guild Wars, the road to level cap in DC Universe Online is pretty much an extended tutorial ahead of the real game. As in Rift, the instances you get while leveling are just rough sketches of the instances as they appear at max level, when you get a chance at the REAL fight. And better loot.
 
@@ -44,13 +21,13 @@ I started Nurse Goebbels (please, feel free to report this name I now regret) (a
 
 She shot to ~~60~~ **30**. The last instance was a fight against Brother Eye, the sentient downed Batman satellite that was designed to kill all superheroes, but upgraded itself to kill all humans. I was having real issues with the final encounter, but Seeker Elru saved the day, I dinged all over the place, and headed up to the Hall of Doom to start my ascension to the upper ranks of super villainy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MHQS102_DESIGNERDATA-PC-25-21.33.200-480x343.jpg" title="Nurse G and Seeker Elru" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MHQS102_DESIGNERDATA-PC-25-21.33.200-480x343.jpg" title="Nurse G and Seeker Elru" classes="center" >}}
 
 Well, it's just been a whirlwind. When I turned 30, Seeker Elru took me around to some of the two person content; acceptable because we won't be doing such in Team Spode. I don't want to see anything Team Spode will see before we get to it as a group. Anyway, you do the Tier 1 duos and Tier 1 4 mans to get enough gear to do the Tier 1 solo challenge dungeons.
 
 But before all that could happen, I would have to Learn 2 Play, Noob.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MPYR0205_DESIGNERDATA-PC-24-20.51.310-480x343.jpg" title="The villains give the Sinestro Corps a hand" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MPYR0205_DESIGNERDATA-PC-24-20.51.310-480x343.jpg" title="The villains give the Sinestro Corps a hand" classes="center" >}}
 
 Problem with soloing is, you don't have to worry about anyone but yourself. As such, my powers were mostly oriented toward keeping enemies away from myself so that I could mow them down with my pistols, which would charge up that same attack and my self heals.
 

@@ -3,43 +3,21 @@ date: '2023-08-21T07:00:00-05:00'
 draft: false
 title: "Weighing in on the Linus Tech Tips Controversy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/21/weighing-in-on-the-linus-tech-tips-controversy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Linus is reportedly taking a week off to play RAID: Shadow Legends, or so I assume."
-description: "Linus is reportedly taking a week off to play RAID: Shadow Legends, or so I assume."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
+tags:
   - "Gamer's Nexus"
   - "Linus Tech Tips"
   - "LTT"
   - "Project Farm"
   - "Raid Shadow Legends"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/ltt.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/ltt.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/ltt.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/ltt.webp"
 ---
+Linus is reportedly taking a week off to play RAID: Shadow Legends, or so I assume.
+<!--more-->
 
 We watch a fair amount of gaming content creators, and I just marvel at some of the streamers who do the exact same thing, every day, or seek out the most grindy content and do something no normal gamer would ever find fun, such as seeing how much you could progress your character by standing in just one spot, for instance.
 
@@ -49,13 +27,13 @@ I wonder what's keeping them in their game of choice when they could be streamin
 
 So while I was doing research on game streamers who are obviously lying about how much they would rather be playing R:SL, I found out that Linus of Linus Tech Tips fame had once made the terrible mistake of talking about R:SL.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-47.png" title="LTT had some feedback" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-47.png" title="LTT had some feedback" classes="center" >}}
 
 In their WAN follow-up video where they talked about the controversy, one of the co-hosts went on to talk about his favorite characters, but he may have been being sarcastic.
 
 The only reason I really bring this up now is two-fold: First, it's been long enough that it's no longer all that controversial when someone shills R:SL. Everyone knows what kind of game it really is. A very perniciously grating *gacha* game constantly urging the player to *buybuybuy*. The game has two modes; one, where you auto battle along a corridor to a boss fight, which takes a few minutes. Two, where you merge your units to make a new unit. The best units have recipes of specific lesser units that need to be expended as ingredients. Acquiring these lesser units is where most of the money comes in.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-48.png" title="Stolen goods?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-48.png" title="Stolen goods?" classes="center" >}}
 
 Second reason is that Linus is having a *very bad week*. A competing tech review channel, Gamer's Nexus, {{< youtube FGW3TPytTjc >}} for being full of errors that might cause people to make a decision on hardware to purchase based on bad information. Adding insult to injury, LTT auctioned off a prototype GPU cooler after absolutely trashing it in the video. Developer Billet Labs was livid, as this was one of their only prototypes, cost them a lot of money to make, and was expecting it to be returned. They also had sent LTT a video card that worked with their cooler, but Linus opted to instead use a different video card for reasons, and then later said that they could have gone back and done the review over with the correct video card, but that that would have cost them $200-$500 to do, and wasn't worth it.
 

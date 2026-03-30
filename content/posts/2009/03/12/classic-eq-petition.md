@@ -3,46 +3,25 @@ date: '2009-03-12T07:17:20-05:00'
 draft: false
 title: "Classic EQ Petition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/12/classic-eq-petition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/najena-480x360.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/najena-480x360.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/najena-480x360.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/najena-480x360.jpg"
 ---
+[...
+<!--more-->
 
-[![najena](https://chasingdings.com/wp-content/uploads/2009/03/najena-480x360.jpg "najena")](https://chasingdings.com/wp-content/uploads/2009/03/najena.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2009/03/najena.jpg)
 
 It's probably just because EverQuest was my first really huge MMO (though not my first; Nexus: Kingdom of the Wind was my first), but I've never really felt about any other MMO the way I felt about EQ. Even though sometimes it was frustrating, it was always fun, and it's the friends I met there and the memories I have that have kept me subscribed since May of 1999.
 
 SOE announced in January that they would be combining the Druzzil Ro server with the Combine server. The Combine server was the last remaining progression server, a server that gradually opened up content based on players reaching certain milestones until the servers unlocked everything.
 
-They also announced that they would be [adding a NEW server in March](https://chasingdings.com/index.php/2008/12/19/everquest-merging-servers-adding-new-server-in-2009/), this month, for the EverQuest 10th anniversary, and that they would have a poll open in January to decide upon the rule set for this new server.
+They also announced that they would be [adding a NEW server in March](https://tipa16384.github.io/wkblog/index.php/2008/12/19/everquest-merging-servers-adding-new-server-in-2009/), this month, for the EverQuest 10th anniversary, and that they would have a poll open in January to decide upon the rule set for this new server.
 
 As far as I know, they never had this poll (or if so, I never saw it). But I haven't heard anything about this new server since the announcement last year. So there still might be time to influence the new server.
 

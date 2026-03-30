@@ -3,44 +3,21 @@ date: '2010-12-10T06:00:26-05:00'
 draft: false
 title: "Daily Blogroll 12/10 -- Bite from your wallet edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/10/daily-blogroll-1210-bite-from-your-wallet-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I was thinking about some of the things we know about Star Wars: The Old Republic. It's going to be a subscription game. It cost..."
+categories:
   - "Daily Blogroll"
   - "EverQuest"
   - "MMORPG"
   - "Star Trek"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/EverQuest2-2010-12-09-20-24-37-78.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/EverQuest2-2010-12-09-20-24-37-78.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/EverQuest2-2010-12-09-20-24-37-78.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/EverQuest2-2010-12-09-20-24-37-78.jpg"
 ---
+I was thinking about some of the things we know about Star Wars: The Old Republic. It's going to be a subscription game. It cost...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/12/EverQuest2-2010-12-09-20-24-37-78.jpg "In my Mistmoore Crag Estate")
+
 
 I was thinking about some of the things we know about Star Wars: The Old Republic. [It's going to be a subscription game](http://darthhater.com/2010/12/07/ea-at-ubs-media-and-communications-conference). It cost a hell of a lot to produce -- perhaps [more than $100 million](http://www.eurogamer.net/articles/swtor-is-eas-largest-ever-project). And yet they think they're gonna have no trouble making their money back [even if they have less than a million subscribers](http://www.escapistmagazine.com/news/view/105946-EA-Old-Republic-Doesnt-Need-a-Million-Subscribers).
 

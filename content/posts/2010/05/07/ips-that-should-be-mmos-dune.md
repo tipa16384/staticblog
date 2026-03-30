@@ -3,39 +3,16 @@ date: '2010-05-07T06:47:38-05:00'
 draft: false
 title: "IPs that SHOULD be MMOs, part 3: Dune"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/07/ips-that-should-be-mmos-dune/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It is the best selling science fiction novel, ever. It has been adapted as a film), a mini-series, a duology of genre-defining video games, a..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/dunelego.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/dunelego.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dunelego.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/dunelego.jpg"
 ---
+It is the best selling science fiction novel, ever. It has been adapted as a film), a mini-series, a duology of genre-defining video games, a...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/05/dunelego.jpg" title="Click to see the builder's (RebelRock) gallery" class="align-center" >}}
+
 
 It is the best selling science fiction novel, ever. It has been adapted as a [film](http://en.wikipedia.org/wiki/Dune_(film)), a [mini-series](http://en.wikipedia.org/wiki/Frank_Herbert), a duology of genre-defining [video games](http://en.wikipedia.org/wiki/Dune_II), a comic, the basis of many songs, paintings, poems and other works. Frank Herbert's 1965 *[Dune](http://en.wikipedia.org/wiki/Dune_(novel))* is as gigantic a presence in the science fiction world as Tolkein's *The Lord of the Rings* is in fantasy.
 

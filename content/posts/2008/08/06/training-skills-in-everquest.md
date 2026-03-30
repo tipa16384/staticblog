@@ -3,44 +3,22 @@ date: '2008-08-06T07:46:34-05:00'
 draft: false
 title: "Training skills in EverQuest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/08/06/training-skills-in-everquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "The clock on the cable box in the living room is twenty minutes slow; I know I shouldn't rely upon it. I was trying to..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
+tags:
   - "Choo Choo"
   - "Crypt of Nadox"
   - "Train to Zone"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-06-06-59-07-90.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-06-06-59-07-90.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-06-06-59-07-90.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/08/eqgame-2008-08-06-06-59-07-90.jpg"
 ---
+The clock on the cable box in the living room is twenty minutes slow; I know I shouldn't rely upon it. I was trying to...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/08/eqgame-2008-08-06-06-59-07-90.jpg "eqgame-2008-08-06-06-59-07-90")
+
 
 The clock on the cable box in the living room is twenty minutes slow; I *know* I shouldn't rely upon it. I was trying to be clever and use my Asus Eee from the living room to SSH into my Linux box and copy the latest episode of The Middleman to my Vista laptop so that my PS3 could find it and play it. I have this crazy idea that I can use the Eee to control every piece of electronics in the house. I'd managed all that, when I noticed the Eee had a different time from the cable box -- the correct time -- and that I was late for the Tuesday Nostalgia group.
 

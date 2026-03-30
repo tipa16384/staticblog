@@ -3,40 +3,17 @@ date: '2013-07-31T06:04:50-05:00'
 draft: false
 title: "Neverwinter: Of Dancing Girls and Dragons"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/07/31/neverwinter-of-naked-dancing-girls-and-dragons/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "All I really ever want from a Dungeons & Dragons game are dungeons and dragons. So many games emphasize the former over the latter, hiding..."
+categories:
   - "MMORPG"
   - "Neverwinter"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/07/GameClient-2013-07-29-22-49-15-86-480x270.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/07/GameClient-2013-07-29-22-49-15-86-480x270.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/GameClient-2013-07-29-22-49-15-86-480x270.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/GameClient-2013-07-29-22-49-15-86-480x270.jpg"
 ---
+All I really ever want from a Dungeons & Dragons game are dungeons and dragons. So many games emphasize the former over the latter, hiding...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/GameClient-2013-07-29-22-49-15-86-480x270.jpg" title="Garrundar the Vile and friends" class="align-center" >}}
+
 
 All I really ever want from a Dungeons & Dragons game are dungeons and dragons. So many games emphasize the former over the latter, hiding those dragons away for a very long time. I think there's something primal in all humans that wants to battle a dragon, some monster that is such an ancient enemy that it has embedded itself into our very DNA. Jack Vance [wrote a story](http://en.wikipedia.org/wiki/The_Dragon_Masters) about meeting our ancient enemy, the dragons, on some distant world. Turned out they feared THEIR ancient enemy -- humans -- just as much. Epic battles ensued.
 
@@ -48,13 +25,13 @@ This is going to be a problem when we eventually hit the hard mode dungeons at m
 
 Even when NOT fighting, people don't talk, or very rarely. That's just the gestalt of random groups. Talking is the taboo.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/GameClient-2013-07-29-20-44-28-21-480x270.jpg" title="Impress of our skill" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/07/GameClient-2013-07-29-20-44-28-21-480x270.jpg" title="Impress of our skill" classes="center" >}}
 
 Each week, we look forward to diving into the Foundry, player-created adventures where regular players can unleash their creativity and tell their own stories with many of the same tools Cryptic's own designers use. Sometimes these dungeon-masters really surprise us with their storytelling, humor and adventure. And then there's adventures like this one, which started off asking people not to get on his case about his spelling mistakes.
 
 If you KNOW your spelling is crappy, wouldn't you take steps to make sure you had a spelling checker work through your text? But, poor spelling was only the beginning of the issues.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/GameClient-2013-07-31-06-51-33-57-335x480.jpg" title="Beata Connubium" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/07/GameClient-2013-07-31-06-51-33-57-335x480.jpg" title="Beata Connubium" classes="center" >}}
 
 I guess I was one of the 1 STAR SPAMER (BOT)....
 

@@ -3,43 +3,23 @@ date: '2020-05-14T11:15:16-05:00'
 draft: false
 title: "World of Warships: Submarines Sail In"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/05/14/world-of-warships-submarines-sail-in/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "\"Frankly, my dear, I don't give a damn about depth charges\"..."
+categories:
   - "MMORPG"
   - "World of Warships"
+tags:
   - "Clark Gable"
   - "Run Silent Run Deep"
   - "Submarines"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/05/runsilent.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/05/runsilent.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/runsilent.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/05/runsilent.png"
 ---
+"Frankly, my dear, I don't give a damn about depth charges"...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2020/05/runsilent.png)"Frankly, my dear, I don't give a damn about depth charges"
+
+
+"Frankly, my dear, I don't give a damn about depth charges"
 
 World of Warships is [due to introduce their newest ship class](https://worldofwarships.com/en/news/game-updates/update-094-soviet-cruisers/?utm_source=emarsys&utm_medium=active&utm_campaign=Patch094#submarine-battle), submarines, in a couple of weeks on May 27, a day already pretty darn busy on my personal calendar. (New EverQuest servers, SpaceX launches astronauts to the ISS, etc.)
 

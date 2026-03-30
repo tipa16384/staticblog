@@ -3,37 +3,12 @@ date: '2007-08-07T09:49:40-05:00'
 draft: false
 title: "If elections in the US were held today..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2007/08/07/if-elections-in-the-us-were-held-today/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Then apparently I'd be voting for Dennis Kucinich. Pick Your Candidate pegged him as holding my position on nearly every issue aside from Net Neutrality...."
+categories:
   - "General"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Then apparently I'd be voting for Dennis Kucinich. Pick Your Candidate pegged him as holding my position on nearly every issue aside from Net Neutrality....
+<!--more-->
 
 Then apparently I'd be voting for Dennis Kucinich. [Pick Your Candidate](http://www.dehp.net/candidate/index.php) pegged him as holding my position on nearly every issue aside from Net Neutrality. [His Wikipedia entry](http://en.wikipedia.org/wiki/Kucinich) describes him as a vegan who opposes a knee-jerk military response in the Middle East, is for universal health care in the US, and so on. Good stuff. He's an Ohio representative, and former mayor of Cleveland, so he's got all the experience he needs to do the job. Opposes the Democratic machine when he doesn't agree with it. That makes his shifting opinion of abortion rights (was against it, now for it) seem like a real change of heart than a hearkening to the polls.
 

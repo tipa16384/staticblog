@@ -3,46 +3,21 @@ date: '2009-04-06T00:44:34-05:00'
 draft: false
 title: "Wizard 101: To lose oneself in Rebirth"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/06/wizard-101-to-lose-oneself-in-rebirth/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "To lose oneself in reverb, in all that is and all that seems. So, ladies, fish and gentlemen, here's my angled dream. To see me..."
+categories:
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-16-52-69.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-16-52-69.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-16-52-69.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-16-52-69.jpg"
 ---
+To lose oneself in reverb, in all that is and all that seems. So, ladies, fish and gentlemen, here's my angled dream. To see me...
+<!--more-->
 
 *To lose oneself in reverb, in all that is and all that seems. So, ladies, fish and gentlemen, here's my angled dream. To see me in the blue sky bag, and meet me by the sea.* -- *Blue Oyster Cult*
 
 C'mon, I *know* someone at KingsIsle is a BÖC fan.
 
 Anyway, I dived deep into the Test server this week end, and swam out with a new spell card pasted into my spellbook. And here it is.
-
-![wizardgraphicalclient-2009-04-04-11-16-52-69](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-16-52-69.jpg "wizardgraphicalclient-2009-04-04-11-16-52-69")
 
 It's a PvP-only spell called Rebirth. For seven pips, it heals everyone in the group for 650 points, and then tops it off with a 400 point damage shield. Pretty slick, right?
 
@@ -58,7 +33,7 @@ That's not to say I haven't needed healing, or someone in my group hasn't needed
 
 In PvP, though, it's all about AEs. A group heal/shield would be amazingly useful, and you can be sure the Life wizard on the other team will be using theirs. So: PvP only.
 
-![wizardgraphicalclient-2009-04-04-10-57-42-24](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-04-10-57-42-24.jpg "wizardgraphicalclient-2009-04-04-10-57-42-24")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-04-10-57-42-24.jpg" title="wizardgraphicalclient-2009-04-04-10-57-42-24" classes="center" >}}
 
 I was REALLY hoping we would get another damage spell. Our last damage spell was from the mid twenties somewhere, Centaur, which requires a life trap, a life blade, and a push from a strong wind to break a thousand. Add a prism to that when facing Life mobs, because it's all about the Life mobs in this quest.
 
@@ -66,7 +41,7 @@ The spell quest took me all over the Spiral, but mostly in Dragonspyre, where I 
 
 Because the Labyrinth, an instance off the Necropolis in Dragonspyre, is filled with Life mobs. To gain access to the wizard who held the second half of the crystal that contained the mystic Rota of Reading, I would have to kill a Life boss for the key to the second area, kill Life, Storm and Myth bosses for the key to the third area, and finally -- Scarrik Gallowgaunt himself. Who was only an Elite mob with around 1400 points. I got lucky with the prisms and he and his inevitable add (timed carefully so the prowling Gallium Paladin wouldn't join the battle) soon fell to the power of Centaur.
 
-![wizardgraphicalclient-2009-04-04-11-19-28-41](https://chasingdings.com/wp-content/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-19-28-41.jpg "wizardgraphicalclient-2009-04-04-11-19-28-41")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/04/wizardgraphicalclient-2009-04-04-11-19-28-41.jpg" title="wizardgraphicalclient-2009-04-04-11-19-28-41" classes="center" >}}
 
 Threaded my way back out of the tangled web of quests to find myself in front of the Life school professor, Moolinda Wu, who granted me the Rebirth spell and my prancy friend, here.
 

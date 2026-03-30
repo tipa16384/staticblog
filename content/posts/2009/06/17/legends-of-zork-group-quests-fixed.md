@@ -3,38 +3,13 @@ date: '2009-06-17T07:04:29-05:00'
 draft: false
 title: "Legends of Zork group quests fixed"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/06/17/legends-of-zork-group-quests-fixed/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Actually, the folks at Jolt claimed to have fixed group quests for this hands-off browser RPG weeks ago, and maybe they did, but my first..."
+categories:
   - "Legends of Zork"
   - "Other Games"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Actually, the folks at Jolt claimed to have fixed group quests for this hands-off browser RPG weeks ago, and maybe they did, but my first...
+<!--more-->
 
 Actually, the folks at Jolt claimed to have fixed group quests for this hands-off browser RPG weeks ago, and maybe they did, but my first couple experiences with it were just our group wiping to every single monster and coming out of the whole thing missing a lot of action points and with no xp or loot.
 

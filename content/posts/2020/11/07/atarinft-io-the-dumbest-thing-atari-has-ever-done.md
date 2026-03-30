@@ -3,42 +3,21 @@ date: '2020-11-07T19:52:35-05:00'
 draft: false
 title: "AtariNFT.io -- the dumbest thing Atari has ever done."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/11/07/atarinft-io-the-dumbest-thing-atari-has-ever-done/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I hate to be hyperbolic about this. But... I just can't...."
+categories:
   - "Atari 2600"
   - "Blockchain"
   - "Emulators"
   - "NFT"
+tags:
   - "Asteroids"
+  - "Atari 2600"
   - "Non-Fungible Token"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/11/atari.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/11/atari.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/atari.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/11/atari.png"
 ---
+I hate to be hyperbolic about this. But... I just can't....
+<!--more-->
 
 I hate to be hyperbolic about this. But... I just can't.
 
@@ -50,13 +29,13 @@ If this sounds amazing to you, then take yourself over to [AtariNFT.io](https://
 
 Here's the original e-mail announcing this awesome achievement:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/11/image.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/11/image.png" classes="center" >}}
 
 We couldn't actually believe that they were asking people to buy gifs of Atari 2600 boxes. Surely... something more than that? Not just buying pictures of boxes that you could... buy and sell on a marketplace? That you could actually just make yourself for free by just taking pictures of the boxes or finding them online (except not on the blockchain then...)
 
 If you're still thinking that directing friends and family toward WAX.IO so they can look at your collection of Atari 2600 box gifs, here's what the store looks like:
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/11/image-1-1024x592.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/11/image-1-1024x592.png" classes="center" >}}
 
 Standard gacha mechanics.
 
@@ -64,7 +43,7 @@ Let's do some math.
 
 You decide you want to get the "Collector's Edition" Atari 2600 Asteroids Blockchain Edition gif.
 
-![](https://chasingdings.com/wp-content/uploads/2020/11/Atari_Box_Collectors_3.gif)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/11/Atari_Box_Collectors_3.gif" classes="center" >}}
 
 Which is right here, btw -- it's "fungible", but this is what you've decided you really want. It's not enough that you have this gif, you want it to be on the *blockchain*, and so you start your Atari adventure.
 
@@ -76,13 +55,13 @@ You want to save money, so you buy the packs at 50 for $39.99, or about $0.80 pe
 
 I wrote a quick Python program to help me figure out the probability of having a 50% chance of getting the Asteroids collectible I so desperately desire (that gif up there, that's what I want).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/11/image-2.png" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/11/image-2.png" classes="center" >}}
 
 According to this script, it would take 4951 packs to have a 50% chance of getting your Asteroid gif (as seen above). Because you are careful with your money, you bought in bulk at $0.80 a pack, so your 50/50 chance would cost you $3,961.00.
 
 Of course, even those people who really want Atari 2600 box gifs (as seen above) might hesitate at that price. So off to the market!
 
-![](https://chasingdings.com/wp-content/uploads/2020/11/image-3.png)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/11/image-3.png" classes="center" >}}
 
 There are two of these gifs on the market. The prices are cut off, but the first is being sold for $15,000.00, and the second for $5,000,000.00. So there's a price range going on here.
 

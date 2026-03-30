@@ -3,46 +3,23 @@ date: '2010-02-08T06:54:18-05:00'
 draft: false
 title: "Star Trek Online: One Week Later"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/02/08/star-trek-online-one-week-later/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's a week after launch. I'm Lieutenant Commander rank 8 -- level 18 of 50. Those who have rushed to the end are paying the..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/02/queue.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/02/queue.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/queue.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/02/queue.jpg"
 ---
+It's a week after launch. I'm Lieutenant Commander rank 8 -- level 18 of 50. Those who have rushed to the end are paying the...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/queue.jpg "Loving the queue")
+
 
 It's a week after launch. I'm Lieutenant Commander rank 8 -- level 18 of 50. Those who have rushed to the end are paying the price for being first. Skills that don't work as described or don't work at all, a general lack of content. A friend of mine just can't enter the Sol system, has to start a new character every time. It's not been a spotless launch.
 
 But when you're in the game, just doing missions and exploring enemy starbases... it's pretty cool.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-05-22-48-37-08.jpg "The Guardian of Forever")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-05-22-48-37-08.jpg" title="The Guardian of Forever" classes="center" >}}
 
 Any game based on a famous intellectual property is going to have a lot of "must see" places. Lord of the Rings Online has its Weathertop, Star Wars Galaxies has its Mos Eisley, and Star Trek Online has its City on the Edge of Forever.
 
@@ -52,7 +29,7 @@ The Mirror Universe? That's in the game. Tribbles? THEY are in the game. Patting
 
 Many people have found themselves to be accidental tribble breeders.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-06-20-13-04-61.jpg "The Doomsday Device")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-06-20-13-04-61.jpg" title="The Doomsday Device" classes="center" >}}
 
 The storyline missions that send you into the famous bits of Star Trek Online, like the mission to once more take on the ravenous, world-eating Doomsday Device, aren't nearly enough to level you to the next rank. You'll have to spend plenty of time on the more bread-and-butter aspects of the game to get ahead.
 
@@ -60,7 +37,7 @@ There's good reason to do so outside of pure experience. Doing the randomly gene
 
 Patrol missions take you around to every planet in a sector, and these pre-written episodes often net uncommon to rare gear, or occasionally, a new crew member.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-07-22-03-55-40.jpg "There")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-07-22-03-55-40.jpg" title="There" classes="center" >}}
 
 Crew members are as vital to your progression in Star Trek Online as your ship. You don't just gear yourself up; you need to make sure each of your crew has the skills and gear to make it in Starfleet. That opens up a vast number of strategic possibilities; you can have an away team member specialize in opening up targets of opportunity ('expose' attacks) so you can take advantage ('exploit' attacks), which often kill an enemy in one hit. Or you can draw an enemy's attention so that your crew can get high-damage flanking attacks.
 
@@ -68,15 +45,15 @@ In space, your crew gives your ship special abilities -- like sensor jamming, hi
 
 You can also pick up new skills and train crew members in your same area (science, tactical or engineering) what you learn. I believe this is the only way to have your crew members learn rank III skills. Common crew members have rank I skills, uncommon and rare crew members have one or more rank II skills, but you alone can learn rank III skills. Unfortunately, I don't believe you can trade crew members that you have trained up, though the care and breeding of crew members could be an exciting mini game at some point.
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-07-19-04-24-10.jpg "Kim Cardassian")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-07-19-04-24-10.jpg" title="Kim Cardassian" classes="center" >}}
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-07-19-14-30-94.jpg "Romulan Subcommander")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-07-19-14-30-94.jpg" title="Romulan Subcommander" classes="center" >}}
 
 Some community members have made character creation a game of its own, and have produced guides showing how to make[ Cardassians, Romulans and Jem'Hadar](http://stotricorder.com/index.php?option=com_content&view=article&id=76:how-to-create-a-cardassian-&catid=1:latest-news) from the bits and pieces in the alien creator.
 
 I've seen bobble-headed Little Green Men, bird-looking aliens, all manner and types of species running around the starbases....
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-07-22-49-53-08.jpg "Holding a fortified position in PvP")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-07-22-49-53-08.jpg" title="Holding a fortified position in PvP" classes="center" >}}
 
 As fun as flitting around the galaxy blowing holes in Romulans IS, sometimes you just want to have a little quick fun. For those times, PvP is just the thing.
 
@@ -86,7 +63,7 @@ The game is far more balanced on the ground PvP side. It's the only place, by th
 
 And you win badges for PvP gear (although I haven't found where that vendor is, yet).
 
-![](https://chasingdings.com/wp-content/uploads/2010/02/GameClient-2010-02-06-21-38-59-83.jpg "Taking on the Crystalline Entity")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/02/GameClient-2010-02-06-21-38-59-83.jpg" title="Taking on the Crystalline Entity" classes="center" >}}
 
 OMG! The Crystalline Entity! Yeah, that is NOT an easy thing to defeat. That's one of the fleet actions in (I believe) the Alpha Centauri sector, and the closest thing to a raid at this time. Longasc finally finished the fight by ramming it at full impulse.
 

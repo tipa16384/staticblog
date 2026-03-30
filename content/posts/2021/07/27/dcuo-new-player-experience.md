@@ -3,40 +3,18 @@ date: '2021-07-27T00:38:19-05:00'
 draft: false
 title: "DCUO: New Player Experience"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/07/27/dcuo-new-player-experience/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I like my main character, Teal Green, just fine. Well, most of the time. She started out as a hard light controller -- a deputy..."
+categories:
   - "MMORPG"
   - "Steam Games"
+tags:
   - "DC Universe Online"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/07/1-20210725214657_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/07/1-20210725214657_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/1-20210725214657_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/07/1-20210725214657_1.jpg"
 ---
+I like my main character, Teal Green, just fine. Well, most of the time. She started out as a hard light controller -- a deputy...
+<!--more-->
 
 I like my main character, Teal Green, just fine. Well, most of the time. She started out as a hard light controller -- a deputy of the Green Lantern corp. But I soured on all the constant comboing and didn't feel I contributed much DPS. With wild abandon, I tried a few different DPS options, finally settling on Munitions when it came out. I later changed over to become an electricity-based healer, and that is where I am today. My DPS is ... reasonable. Team Spode (the league I belong to) is usually at the tops of the DPS charts, and I'm usually third or fourth behind Lord Spode's ice tank and Stingheal's sorcery healer.
 
@@ -44,7 +22,7 @@ But, as I said, I like her *most* of the time. Sometimes I just want to try some
 
 I made a mental list of new things I wanted to try. I knew I wanted to twirl a staff as my fighting style, so that was first. I wanted to make a villain. I wanted to try a new power set -- I chose earth, which is a tank power set with decent damage. I wanted to try a new travel power, so I chose acrobatics. There's a bunch to choose from. Most people choose flight -- Teal Green flies. Super speed is another popular one. I'm not sure I have seen anyone choose acrobatics.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/1-MMET101_AUDIO-PC-26-22.24.180-1024x791.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/1-MMET101_AUDIO-PC-26-22.24.180-1024x791.jpg" classes="center" >}}
 
 I named her... Wyoming Knot. (Why? Why not?)
 
@@ -64,7 +42,7 @@ Combat Rating comes from gear, and is used to gate what content is available to 
 
 As of this writing, Wy Knot has about 26 skill points and, as she is not yet level 30, does not have a defined CR. Since she is past level 10, she can do missions in World of Flashpoint, the latest episode, but no earlier episodes are yet available (they will open up when she hits 30).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2021/07/20210726223740_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/07/20210726223740_1-1024x576.jpg" classes="center" >}}
 
 **What is in an Episode?**
 

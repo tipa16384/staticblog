@@ -3,50 +3,27 @@ date: '2009-08-14T08:01:17-05:00'
 draft: false
 title: "Weekly update: EVE, Champions and Wizard 101"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/14/weekly-update-eve-champions-and-wizard-101/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "This has been a pretty decent week in EVE Online, which is running neck and neck with Wizard 101 as my main game. Earlier, Otakudyne..."
+categories:
   - "Champions Online"
   - "EVE Online"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg"
 ---
+This has been a pretty decent week in EVE Online, which is running neck and neck with Wizard 101 as my main game. Earlier, Otakudyne...
+<!--more-->
 
-![WTF is the story with this?](https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-13-21-09-39-94.jpg "WTF is the story with this?")
+
 
 This has been a pretty decent week in EVE Online, which is running neck and neck with Wizard 101 as my main game. Earlier, Otakudyne corp officer Sredans made a Dominix battleship for me as reward in part for a couple of nights of mining; I'll be able to fly that Sunday evening. I was kinda disappointed to not find the skill to fly Gallente Battleships among the skills sold by the Federation Navy loyalty point store, so I put in a BUY order for the skill at a 20% discount from the average regional price set to expire just about the time I will need to train it. If nobody sells me one for my three million ISK, I'll just buy it, no big woop. After all, I AM a millionaire.
 
-![I](https://chasingdings.com/wp-content/uploads/2009/08/ExeFile-2009-08-13-23-05-43-40.jpg "I")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/ExeFile-2009-08-13-23-05-43-40.jpg" title="I" classes="center" >}}
 
 Yup, last night I hit 100 million ISK for the first time, then promptly lost it by placing that BUY order. I'll be losing a lot more than that when I buy the 1-run only Gallente Navy Comet blueprint after I earn a few more loyalty points. The Comet is the rarest of Gallente frigates, and having one is a real feather in the warp drive. I haven't had a frigate since I lost my flagship, Isis' Dark Laughter, in a stupid stare-down with a fleet of battleships. Yeah, I really thought I could outrun all those missiles. The blueprint will cost 30,000 LP and 10m ISK. Or I could get it for 50,000 LP and no ISK if I wanted to farm low-sec rats for their drops. Or I could just spend 80,000 LP and get it already made. It's all about the options.
 
-![Savarstaad Pass](https://chasingdings.com/wp-content/uploads/2009/08/WizardGraphicalClient-2009-08-14-00-05-13-35.jpg "Savarstaad Pass")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/WizardGraphicalClient-2009-08-14-00-05-13-35.jpg" title="Savarstaad Pass" classes="center" >}}
 
 My Myth and Balance duo finished the first section of Grizzleheim, Savarstaad Pass, last night. About 3/4 of a level for level 20 wizard Marissa, and maybe a quarter of a level for level 30 wizard Allison. I was kinda hoping Grizzleheim would be an alternative to leveling through Krokotopia, but that apparently won't be happening, so it's back to Krok for the team until Marissa reaches level 25 and can continue on to Grizzleheim's next quest hub.
 
@@ -54,7 +31,7 @@ The encounters would have demolished Marissa had she been soloing. I'd been on t
 
 Aside from a couple of touch-and-go fights (before I specced Marissa for Life secondary), the trip through Savarstaad settled down and it was fairly enjoyable with a good haul of house items. One jewelry upgrade dropped for Marissa; everything else was sold. Lots of harvests waiting for the ability to trade them back to Tara for crafting.
 
-![Daddy](https://chasingdings.com/wp-content/uploads/2009/08/GameClient-2009-08-09-19-00-08-39.jpg "Daddy")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/08/GameClient-2009-08-09-19-00-08-39.jpg" title="Daddy" classes="center" >}}
 
 Took two different heroes from creation, through the tutorials and through both crisis zones last weekend. I'm so good at the tutorial now that I could complete all missions -- including optional ones -- in less than an hour.
 

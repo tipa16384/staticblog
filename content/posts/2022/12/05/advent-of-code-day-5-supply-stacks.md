@@ -3,52 +3,30 @@ date: '2022-12-05T22:57:46-05:00'
 draft: false
 title: "Advent of Code Day 5 -- Supply Stacks"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/05/advent-of-code-day-5-supply-stacks/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input."
-description: "The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input."
-tags:
+categories:
   - "Advent of Code"
   - "Game Development"
+tags:
   - "Java"
   - "Lua"
   - "Pico-8"
   - "Python"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-05-22.32.41-Several-Christmas-elves-unloading-crates-from-an-old-riverboat-painted-by-Bob-Eggleton-detailed-and-intricate.png"
 ---
+The promised difficulty boost for Day 5 failed to materialize, instead being largely a puzzle about reading formatted input.
+<!--more-->
 
 [Today's puzzle](https://adventofcode.com/2022/day/5) had our star-seeking elves unloading Yet More Supplies from their old steamship. For elves with a hard deadline of Christmas Eve staring them in the face, they sure are taking their sweet time getting ready to head out to the star groves.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/12/image-4.png" title="What could it be" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/12/image-4.png" title="What could it be" classes="center" >}}
 
 Topaz (who runs the contest) likes to put hints into the picture that is slowly drawn as the challenges open about what's going on, and here it looks like we are definitely going to end up in a Mosquito Coast/African Queen scenario. So drag out your Joseph Conrad, because things are gonna get sweaty.
 
 But, not yet. We're still dealing with the fatally disorganized pointy-ear set, and they need to get those crates unloaded and you need to let them know what the top of those crate stacks are gonna be so they can get the elve-edores ready to shift supplies.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/12/image-5.png" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/12/image-5.png" classes="fig-20" >}}
 
 The puzzle input is actually a drawing of how the crates are currently stacked on the dock. In the example given, there are three stacks with 1-3 crates already placed. The rather confused and quite possibly drunk elf with the crane is shifting the crates, Tower of Hanoi-like, from one stack to another.
 

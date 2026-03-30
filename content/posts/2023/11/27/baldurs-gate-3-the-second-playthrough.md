@@ -3,40 +3,18 @@ date: '2023-11-27T08:02:20-05:00'
 draft: false
 title: "Baldur's Gate 3: the Second Playthrough"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/27/baldurs-gate-3-the-second-playthrough/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "This time, I saved them what needed saving."
-description: "This time, I saved them what needed saving."
-tags:
+categories:
   - "Baldur's Gate 3"
+tags:
   - "RPG"
   - "Steam"
   - "Team Spode"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/snapedit_1701088982383.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/snapedit_1701088982383.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/snapedit_1701088982383.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/snapedit_1701088982383.png"
 ---
+This time, I saved them what needed saving.
+<!--more-->
 
 I'm sitting in the Circus of the End Times in Riventon, outside Baldur's Gate. I've tricked the djinn into giving me his always-returning thunder spear, which should go to Karlach, who just wants to be useful and find a measure of revenge before her inevitable doom. Wyll is looking forward to saving his father, the Duke, from the clutches of the evil Lord Gortash and perhaps finding some redemption, though his devilish pact will always stand between them. Minthara wants nothing more than to see Orrin, devotee of the god of murder, die to her blade. And Isobel, fair Isobel, was saved and reunited with her angelic lover.
 

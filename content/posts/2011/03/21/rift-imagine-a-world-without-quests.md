@@ -3,40 +3,17 @@ date: '2011-03-21T06:19:13-05:00'
 draft: false
 title: "Rift: Imagine a world without quests..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/03/21/rift-imagine-a-world-without-quests/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Pictured is the Droughtlands, from a high vantage above the desert floor on a plateau called Lantern Hook. There's a neutral city within it, and..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-19-19-37-26-25-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-19-19-37-26-25-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/rift-2011-03-19-19-37-26-25-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/03/rift-2011-03-19-19-37-26-25-480x269.jpg"
 ---
+Pictured is the Droughtlands, from a high vantage above the desert floor on a plateau called Lantern Hook. There's a neutral city within it, and...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-19-19-37-26-25-480x269.jpg" title="Droughtlands" class="align-center" >}}
+
 
 Pictured is the Droughtlands, from a high vantage above the desert floor on a plateau called Lantern Hook. There's a neutral city within it, and a dungeon ("The Fall of Lantern Hook") beneath it. I had no idea where this place was until a crafting daily sent me here, but it's a nice place. The area is around my level (39) and I could skip the Moonshade Highlands and work on Droughtlands quests, just like I skipped out of Scarlett Gorge to work on Scarwood Reach quests, and Scarwood Reach quests to work on Moonshade Highlands quests.
 
@@ -60,7 +37,7 @@ Seriously, I'm trying to save your lives, NPCs. If you have a trinket that will 
 
 The quest hub mechanic is Rift's weakest point. What would the game be like, I wonder, without quest hubs? Where what quests did exist, were integral to the plot of the game? When I get sent into a fairy wood to pick mushrooms, I'm not thinking "Yay! Bringing the fight to Regulos!". I'm thinking, "this quest sucks. I am wasting my time."
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/03/rift-2011-03-20-08-43-15-35-480x384.jpg" title="A big gun" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/03/rift-2011-03-20-08-43-15-35-480x384.jpg" title="A big gun" classes="center" >}}
 
 Quests are not meant to challenge players. They are just meant as busywork to keep people in the game while they are waiting to do something fun. They could be removed and just replaced with a mechanic that would deliver XP, coin and the occasional trinket to you as long as you were online with no difference to total enjoyment of the game.
 

@@ -3,40 +3,17 @@ date: '2013-07-03T07:20:09-05:00'
 draft: false
 title: "EQ: Why I stopped playing EverQuest"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/07/03/eq-why-i-stopped-playing-everquest/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I had this concept of going through my EQ characters that had corresponding characters in EQ2, tracing their experiences through the two games. First up:..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/07/dera.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/07/dera.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/dera.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/07/dera.png"
 ---
+I had this concept of going through my EQ characters that had corresponding characters in EQ2, tracing their experiences through the two games. First up:...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/dera.png" title="Dera Then and Now" class="align-center" >}}
+
 
 I had this concept of going through my EQ characters that had corresponding characters in EQ2, tracing their experiences through the two games. First up: Dera, my halfling cleric. Everything was going along smoothly until I actually logged in to EverQuest to get a better screen shot. Soon I found myself in an AE group in a temporarily-uber version of Blackburrow. And then I remembered what I hated (and liked) about the MMO granddaddy.
 
@@ -44,7 +21,7 @@ I rolled Dera up when one of the last new non-transfer PvE servers, Stromm, came
 
 So while I waited for a raid spot to open up, I would be playing a newbie cleric on another server on another account. Clerics were in wild demand on the new server, and I was soon invited into a casual raid guild, Lost Sock Patrol. We weren't uber, but we weren't terribly far behind the curve, either. LSP reached our peak when we awoke the Sleeper, switching Sleeper's Tomb from the classic loot table to the new, less uber loot table, and earning us the spite and hatred of the entire server.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/08d8b230f806d06787f2792f3dd459db-480x384.jpg" title="Just before waking the Sleeper" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/07/08d8b230f806d06787f2792f3dd459db-480x384.jpg" title="Just before waking the Sleeper" classes="center" >}}
 
 We managed to stagger on for awhile after that, but the uber guilds in their wroth destroyed us on the forums and poached a lot of our people, and in the end the guild was dead and I moved to Viking Alliance, where we continued raiding up through Plane of Time.
 
@@ -52,7 +29,7 @@ I was missing my friends back on Erollisi Marr, though, so when the option came 
 
 There was ALWAYS room for a cleric. And a cleric was what I played until EQ2 came out, and I starting playing that game -- as the cleric, Dera. (And later as the bard, Tipa). I played both games for awhile before finally moving permanently to EQ2.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/07/eqgame-2013-07-03-00-08-33-62-480x270.jpg" title="Last night, in Blackburrow" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/07/eqgame-2013-07-03-00-08-33-62-480x270.jpg" title="Last night, in Blackburrow" classes="center" >}}
 
 The fall of EverQuest was gradual. The uberguilds were bleeding players who couldn't keep up with the grueling schedules as they left school and started real lives. Same thing was happening to second tier guilds like Crimson Eternity. Worse, in a desperate bid to stay alive, the uberguilds were lowering their requirements enough to attract second and third tier raiders hoping to end their raiding careers in an uberguild. EMarr's remaining uberguiid, Magister, had lowered their standards far enough that they were even recruiting players we'd rejected. That worked as well for them as you'd expect. They vanished, and EQ downsized itself to no longer require fifty to seventy people for a raid. New raids would be smaller. The era of the uberguild was over.
 

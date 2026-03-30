@@ -3,42 +3,20 @@ date: '2020-12-26T11:57:17-05:00'
 draft: false
 title: "Game Night: Christmas! Chess and Small World of Warcraft"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/12/26/game-night-christmas-chess-and-small-world-of-warcraft/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Gamers gotta game, even on Christmas Day..."
-description: "Gamers gotta game, even on Christmas Day..."
-tags:
+categories:
   - "Game Night"
   - "Tabletop Games"
+tags:
   - "Chess"
   - "Small World of Warcraft"
   - "Smallworld"
   - "The Dragon Staff of Maladoria"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/12/2-IMG_2047.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/12/2-IMG_2047.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2-IMG_2047.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/12/2-IMG_2047.jpg"
 ---
+Gamers gotta game, even on Christmas Day...
+<!--more-->
 
 I don't think anyone could watch "The Queen's Gambit" and not immediately want to pull out a chessboard. After we watched the series, my son started getting into chess online again. I eventually remembered that I have a 3D printer (two, actually), and that I hadn't yet printed a chess set. I think if you have a 3D printer, you are obligated to eventually print one.
 
@@ -64,7 +42,7 @@ I got a notice the next morning that they were actually out of stock, but they c
 
 Blizzard had been sending me mail for days urging me to check out their store. I did; Small World of Warcraft was on it *and in stock*, so I smashed that like and subscribe and had it in my greedy hands a couple of days later.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/4-IMG_2050.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/4-IMG_2050.jpg" classes="center" >}}
 
 In all the Small World games, you and the other players each choose from a number of randomly selected race and ability pairs -- for instance, Rampaging Dwarves or Mountaineering Gnomes. Those can cost a number of Victory points to buy, depending on how far down on the stack they are. Once selected, you get their counters, usually about nine of them, and any other tokens that are used by your race or ability.
 
@@ -74,7 +52,7 @@ Taking new territory requires spending units, and more units are required if uni
 
 Taken territory must be held, and if an opponent conquers you, you lose at least one unit permanently. You will not be able to keep expanding for very long before you simply have no more units to play.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/12/3-IMG_2049.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/12/3-IMG_2049.jpg" classes="center" >}}
 
 This is where Small World brings in its unique mechanic: You can send your race into decline. You, the player, can keep control of the territory you have with that race, but you can no longer play that race -- it just remains on the board, potentially continuing to give you the victory points you earn for having territory.
 

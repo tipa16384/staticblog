@@ -3,41 +3,19 @@ date: '2023-10-31T00:19:01-05:00'
 draft: false
 title: "D&D Session 2: Gnomengarde"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/10/31/dd-session-2-gnomengarde/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Our adventuring party -- half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes -- travel to the tunnel city of rock gnomes, Gnomengarde."
-description: "Our adventuring party -- half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes -- travel to the tunnel city of rock gnomes, Gnomengarde."
-tags:
+categories:
   - "Dungeons & Dragons"
   - "Game Night"
+tags:
   - "Gnomengarde"
   - "Gnomes"
   - "Mimic"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/10/gnomengarde.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/10/gnomengarde.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/gnomengarde.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/10/gnomengarde.png"
 ---
+Our adventuring party -- half-orc cleric Harka, barbarian Gregory, warlock Loreflower and the tricky bard with many banes -- travel to the tunnel city of rock gnomes, Gnomengarde.
+<!--more-->
 
 **Chapter 1: The Dubious Welcome**
 
@@ -45,7 +23,7 @@ The Stonehill Inn’s timbers creaked in the gentle embrace of dusk as the four 
 
 The town should have been alight with cheers and the clamor of tankards raised in their honor. Instead, a hush clung to the cobblestones, only the autumn leaves daring to whisper their praise. The windows shuttered, the villagers hid from the dragon’s unseen gaze, and the air carried a tension, as if the very breath of the beast chilled the bones of the townsfolk.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-19-300x300.png" title="Harbin Wester" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-19-300x300.png" title="Harbin Wester" classes="fig-20" >}}
 
 At the heart of this silence stood Harbin Wester's abode, a structure bloated with the ego of its master, yet quivering with the cowardice that seeped from its cracks. The door remained barred, a wooden sentinel that refused passage.
 
@@ -83,7 +61,7 @@ As they approached what seemed to be the main entrance, a disembodied female voi
 
 From the mist-shrouded cliffs, Ulla and Pog, the unseen gnome sentinels, kept watch, their presence betrayed only by fleeting shadows and the occasional flash of movement, like figments of the imagination.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-20-300x300.png" title="King Korboz" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-20-300x300.png" title="King Korboz" classes="fig-20" >}}
 
 The adventurers were undeterred. Gregory's booming laugh met the challenge. "We seek only to parley, little guardians! We come by the request of your neighbor, Phandalin!"
 
@@ -121,7 +99,7 @@ The mechanical legs of the Barrel Crabs clicked a staccato rhythm, a counterpoin
 
 It was in a chamber of flickering shadows and whirring gears that they encountered the epitome of gnomish madness: Facktoré, her hair a wild mane of untamed ideas, her apron a tapestry of oil stains and scorch marks. She was the conductor of a symphony of destruction, surrounded by her most grandiose creation—the autoloading crossbow defense platform.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-21-300x300.png" title="Facktoré" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-21-300x300.png" title="Facktoré" classes="fig-20" >}}
 
 The quartet of ballistas, like gargantuan spiders ready to pounce, trained their menacing bolts upon the intruders. At the heart of this mechanical monstrosity sat Facktoré, her hands dancing across levers and buttons with a chaotic grace.
 
@@ -155,7 +133,7 @@ With the keen sense that any one of these wooden giants could be the mimic they 
 
 Harka’s eyes glittered with a dangerous mirth as she motioned Facktoré forward. "If you will not confess, you shall assist," she growled, her voice a commanding echo.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-22-300x300.png" title="In the brewery" class="align-right" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-22-300x300.png" title="In the brewery" classes="fig-20" >}}
 
 Facktoré, her hands trembling, touched the casks under Harka’s watchful gaze. One after another revealed nothing but the rich fragrance of fermenting fungi—until her hand met the cask that did not release her. A guttural sound escaped the gnome as the wood grain of the cask shifted, the mimic revealing itself with a horrid contortion of its form.
 
@@ -193,7 +171,7 @@ The Bard’s words, a soothing balm, eased the tension as they ventured forth. "
 
 The locked room that awaited them held more than treasure; it held the truth of Gnomengarde’s unraveling. King Korboz, once proud ruler, now sat within, a prisoner of his own madness. The Bard, with the gentle coaxing of a practiced storyteller, spun the tale of their encounter with the mimic, of its defeat, and the end of its reign of terror.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/10/image-23-300x226.png" title="Korboz and Gnerkli" class="align-left" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/10/image-23-300x226.png" title="Korboz and Gnerkli" classes="fig-20" >}}
 
 Moved by the Bard's words, King Korboz unlocked the doors, revealing the solemn figure of King Gnerkli, bound not by chains, but by the treachery of glue. His anger was a palpable force, his words sharp as the blades they had just stilled. "Freedom, at last! And you, Korboz, have much to answer for!"
 

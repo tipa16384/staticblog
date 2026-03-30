@@ -3,40 +3,17 @@ date: '2008-01-12T21:54:52-05:00'
 draft: false
 title: "EQ2: The Court of Korocust"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/12/eq2-the-court-of-korocust/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'd never done the Court of Korocust before. It's a simple instance at the bottom of Chardok -- collect three ground spawns and one mob..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-12-01-35-19-54.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-12-01-35-19-54.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-12-01-35-19-54.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-12-01-35-19-54.jpg"
 ---
+I'd never done the Court of Korocust before. It's a simple instance at the bottom of Chardok -- collect three ground spawns and one mob...
+<!--more-->
 
-![everquest2-2008-01-12-01-35-19-54.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-12-01-35-19-54.jpg)
+
 
 I'd never done the Court of Korocust before. It's a simple instance at the bottom of Chardok -- collect three ground spawns and one mob drop, then summon a named, once for each member of the group. Fun part where you have to be sent to prison to collect one bit from a cell there.
 
@@ -50,7 +27,7 @@ The barbie in the picture above is my mentor in Clan of Shadows. If I don't make
 
 And if I do make it in, it will be she who removes my right ring finger, the mark of the Clan.
 
-![everquest2-2008-01-12-01-21-27-79.jpg](https://chasingdings.com/wp-content/uploads/2008/01/everquest2-2008-01-12-01-21-27-79.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/01/everquest2-2008-01-12-01-21-27-79.jpg" classes="center" >}}
 
 *Sigh*. I tried, I really did, to make an EQ2 post without Dina in it.
 

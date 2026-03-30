@@ -3,41 +3,21 @@ date: '2010-11-25T07:57:29-05:00'
 draft: false
 title: "Wizard101: Gardening 103"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/11/25/wizard101-gardening-103/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Gardening"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-25-07-31-22-54-480x383.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-25-07-31-22-54-480x383.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-25-07-31-22-54-480x383.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-25-07-31-22-54-480x383.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-25-07-31-22-54-480x383.jpg "Why did it have to be bugs?")](https://chasingdings.com/wp-content/uploads/2010/11/WizardGraphicalClient-2010-11-25-07-31-22-54.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/11/WizardGraphicalClient-2010-11-25-07-31-22-54.jpg)
 
 It has not been a happy day for the Boomshrooms in my Wizard101 garden on the test server. Rank 2 bugs have moved in, and are buzzing around it, disturbing its rest. The Boomshroom is a difficulty 2 plant, even though it is only rank 1. I guess that means the bugs it gets can't be driven away by the rank 1 spells.
 

@@ -3,39 +3,18 @@ date: '2010-05-28T22:00:09-05:00'
 draft: false
 title: "Les Miserables -- the video game"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/28/les-miserables-the-video-game/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5282010-90653-PM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5282010-90653-PM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/Fullscreen-capture-5282010-90653-PM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/Fullscreen-capture-5282010-90653-PM.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5282010-90653-PM.jpg "Cosette vs erstwhile lover, Marius")](https://chasingdings.com/wp-content/uploads/2010/05/Fullscreen-capture-5282010-90653-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/Fullscreen-capture-5282010-90653-PM.jpg)
 
 A couple of weeks ago, Glee featured Lea Michele and Idina Menzel doing a duet with Fantine's haunting anthem from Les Miserables, "I Dreamed a Dream". That brought me back twenty years to when I couldn't get enough of the musical; I ended up seeing it twice while it was in San Francisco, and then once a couple years later when a touring company visited San Jose. I'd memorized all the songs. I'd even read the book.
 

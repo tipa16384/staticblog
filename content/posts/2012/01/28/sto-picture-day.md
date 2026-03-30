@@ -3,40 +3,17 @@ date: '2012-01-28T01:06:25-05:00'
 draft: false
 title: "STO: Picture Day"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/01/28/sto-picture-day/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I noticed today I'd gotten my monthly allotment of C Store points in Star Trek Online (I get some each month for being a subscriber)...."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/01/tpral-480x207.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/01/tpral-480x207.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/tpral-480x207.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/01/tpral-480x207.jpg"
 ---
+I noticed today I'd gotten my monthly allotment of C Store points in Star Trek Online (I get some each month for being a subscriber)....
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/tpral-480x207.jpg" title="Admiral T'pral's crew" class="align-center" >}}
+
 
 I noticed today I'd gotten my monthly allotment of C Store points in Star Trek Online (I get some each month for being a subscriber). There wasn't anything I particularly wanted to _buy_... I have all the ships I need. Maybe some of the uniform options.
 
@@ -46,7 +23,7 @@ Then I decided I really needed a changeling on my crew. I brought my Romulan bri
 
 All the males on my crew got Odo's uniform. All the females got Kira's, but in Starfleet section colors. You can see all my bridge officers above. Not all of them are thrilled with their new look. I guess they liked the regulation thigh-high boots of the old uniform.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/01/flyby-480x382.jpg" title="T'pral's Fleet" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/01/flyby-480x382.jpg" title="T'pral's Fleet" classes="center" >}}
 
 Not much of an admiral without a fleet; after collecting all the bridge crew together, I thought I should do the same for her ships. My science admiral has an entirely different fleet, and my Klingon yet another. This is T'pral's. Mostly escorts. I scaled them to the relative sizes of the ships according to the Memory Alpha wiki. The Akira came out larger than I expected.
 

@@ -3,42 +3,19 @@ date: '2012-10-18T23:14:25-05:00'
 draft: false
 title: "Game Log: Guild Wars 2, Diablo 3"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2012/10/18/game-log-guild-wars-2-diablo-3/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I may have missed the Combat Wombat romp through the Brisban Highlands last night, but that doesn't mean I couldn't run through it solo tonight!..."
+categories:
   - "Diablo 3"
   - "Guild Wars"
   - "MMORPG"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-18-23-44-12-32-480x269.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-18-23-44-12-32-480x269.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-18-23-44-12-32-480x269.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2012/10/Gw2-2012-10-18-23-44-12-32-480x269.jpg"
 ---
+I may have missed the Combat Wombat romp through the Brisban Highlands last night, but that doesn't mean I couldn't run through it solo tonight!...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Gw2-2012-10-18-23-44-12-32-480x269.jpg" title="The Tipster in Brisban Highlands" class="align-center" >}}
+
 
 I may have missed the Combat Wombat romp through the Brisban Highlands last night, but that doesn't mean I couldn't run through it solo tonight! I was 16, going on 17... fellows will fall in line. Eager young lads, and grueways and cads, will offer me food and wine...
 
@@ -50,7 +27,7 @@ I also did some other exploration. There was a heart I couldn't fill in because 
 
 Still kinda weak in a fight. I like dagger/pistol, but might have to rethink that combo, get a little more survivability. I did change to a better heal with a longer cool-down. But my power does not seem to be scaling with my level. I should probably head back to the city and see if I can find any upgrades on the auction house.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2012/10/Diablo-III-2012-10-18-20-53-37-07-480x280.jpg" title="Uber Zard" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2012/10/Diablo-III-2012-10-18-20-53-37-07-480x280.jpg" title="Uber Zard" classes="center" >}}
 
 SPEAKING OF UPGRADES ON THE AUCTION HOUSE... someone wasn't watching the AH as closely as they ought to have been, because I got such a bargain. See, we're coming into the level range where level 60 items can have the attribute of reduced level requirements. So I snagged myself a sword with hundreds of INT and oodles of DPS for very little gold; I think it increased my DPS from 1800 to 8600.
 

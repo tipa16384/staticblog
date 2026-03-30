@@ -3,39 +3,16 @@ date: '2006-02-18T00:00:00-05:00'
 draft: false
 title: "Living In A Dream"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/02/18/living-in-a-dream/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Was going to show my family where I was moving using Google Earth; but according to them, the place I am moving to, doesn't exist......"
+categories:
   - "General"
-featured_image: "https://chasingdings.com/images/smilax.jpg"
-cover:
-  image: "https://chasingdings.com/images/smilax.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/images/smilax.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/images/smilax.jpg"
 ---
+Was going to show my family where I was moving using Google Earth; but according to them, the place I am moving to, doesn't exist......
+<!--more-->
 
-![](https://chasingdings.com/images/smilax.jpg)
+
 
 Was going to show my family where I was moving using Google Earth; but according to them, the place I am moving to, doesn't exist...
 

@@ -3,39 +3,15 @@ date: '2008-10-21T09:51:08-05:00'
 draft: false
 title: "W101: Why Flee when you can Sploit? KI, please fix."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/10/21/w101-why-flee-when-you-can-quit-ki-please-fix/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In Wizard 101, if you happen to be drawn into a fight you either don't want or can't handle, you have the option to Flee...."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Exploit"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+In Wizard 101, if you happen to be drawn into a fight you either don't want or can't handle, you have the option to Flee....
+<!--more-->
 
 In Wizard 101, if you happen to be drawn into a fight you either don't want or can't handle, you have the option to Flee. This teleports you to safety, but drains all your mana. It also informs your groupmates that you fled. Fleeing when you are just trying to run someplace and keep getting caught up in battles is okay. Teleporting to random people on your friends list hoping to surprise them in a boss battle for loot or trying to get to a world you haven't unlocked, and then fleeing -- that's pretty low.
 

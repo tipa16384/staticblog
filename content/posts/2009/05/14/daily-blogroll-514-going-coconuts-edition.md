@@ -3,24 +3,8 @@ date: '2009-05-14T07:37:06-05:00'
 draft: false
 title: "Daily Blogroll 5/14 -- Going Coconuts edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/05/14/daily-blogroll-514-going-coconuts-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One of the nice things about doing the Daily Blogroll is that it takes the pressure off trying to do something fun every night. Tuesday..."
+categories:
   - "Age of Conan"
   - "Daily Blogroll"
   - "Darkfall"
@@ -29,20 +13,13 @@ tags:
   - "Vanguard"
   - "Wizard101"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/05/killbears.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/05/killbears.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/killbears.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/05/killbears.jpg"
 ---
+One of the nice things about doing the Daily Blogroll is that it takes the pressure off trying to do something fun every night. Tuesday...
+<!--more-->
 
-![killbears](https://chasingdings.com/wp-content/uploads/2009/05/killbears.jpg "killbears")
+
 
 One of the nice things about doing the Daily Blogroll is that it takes the pressure off trying to do something fun every night. Tuesday night, Kasul and I were playing LotRO, running around doing quests in the Lone Lands, and I realized I was bored senseless by the tedium of LotRO's quest grind. Last night was all W101; a friend and I did a couple Moo Shu Onis and then farmed Baron Greebly for cool stuff, and we let each other see our homes. I was playing with a good friend each time, but LotRO's soul-crushing quest grind couldn't be saved. I suspect LotRO won't be on my hard drive much longer. I love the players, but the game is just a grind in pretty clothes.
 

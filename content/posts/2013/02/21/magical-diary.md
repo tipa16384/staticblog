@@ -3,40 +3,17 @@ date: '2013-02-21T07:47:32-05:00'
 draft: false
 title: "Magical Diary"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/21/magical-diary/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Stop me if you've heard this one. A child living in our modern world discovers she has magical powers and is invited to attend a..."
+categories:
   - "Magical Diary"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg"
 ---
+Stop me if you've heard this one. A child living in our modern world discovers she has magical powers and is invited to attend a...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MagicalDiary-2013-02-20-22-58-02-51-480x300.jpg" title="Yearbook, Freshman Year at Iris Academy" class="align-center" >}}
+
 
 Stop me if you've heard this one. A child living in our modern world discovers she has magical powers and is invited to attend a wizard school and become part of a magical community hidden from the mundanes.
 
@@ -44,7 +21,7 @@ Magical Diary is basically about a year in the life of a student of Hogwart's, w
 
 A lot of times, I don't know where I first heard about a game, but this time it's pretty clear... Jane Smith (if that's her REAL NAME...) [started posting](https://plus.google.com/108839098650920765119/posts) about this intriguing little [_otome_](http://en.wikipedia.org/wiki/Otome_game) (o-toe-meh) game on G+, and everything she said about it was strange. As it was on sale for $3.75 on Steam, it was a great impulse buy. And it's everything I thought it would be.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MagicalDiary-2013-02-20-21-44-40-77-480x300.jpg" title="An existential crisis" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-21-44-40-77-480x300.jpg" title="An existential crisis" classes="center" >}}
 
 At 13, you were playing with your friends when you suddenly levitated! You couldn't repeat it, and both you and your friends just explained it away and forgot about it -- until some wizards came to your home and offered you the Choice -- to attend the Iris Academy in Vermont and become a full-fledged witch, or to lose your undeveloped powers and forget about magic forever -- literally magically forget.
 
@@ -52,7 +29,7 @@ Naturally, you choose magic, and find yourself in the cloistered halls of Iris A
 
 Your goal, for your first year, is to learn about magic, survive the exams, deal with your two roommates (Virginia, from a magical family, and Ellen, a ~~mudblood~~ wild seed like yourself) and sort out the various relationship dramas you'll be pulled into. It IS an otome game, after all, and this is high school, and you'll almost certainly be in one or more relationships during the year. Who you hook up with depends entirely on the sorts of classes you take, after school activities in which you take part, and so on.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MagicalDiary-2013-02-20-21-49-19-78-480x300.jpg" title="Not as creepy as it looks." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MagicalDiary-2013-02-20-21-49-19-78-480x300.jpg" title="Not as creepy as it looks." classes="center" >}}
 
 Based on the Steam achievements, the path my first year took (which was heavily influenced by events over which I had little control) is just one of many stories that can be told in Magical Diary. Around you, your fellow students are working through their own separate stories of which you might not be a part (like, why DID that the door to that boys' room suddenly catch on fire? Why did Damien get expelled? What was the reason for Virginia's sudden 'illness'? What is the school's secret society?)
 

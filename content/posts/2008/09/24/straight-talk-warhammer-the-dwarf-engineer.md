@@ -3,42 +3,20 @@ date: '2008-09-24T07:55:04-05:00'
 draft: false
 title: "Straight Talk Warhammer: The Dwarf Engineer"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/09/24/straight-talk-warhammer-the-dwarf-engineer/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Ever since Blizzard created the MMORPG genre with World of Warcraft, generations of people wondered if the genre they invented would end with that game..."
+categories:
   - "Humor"
   - "MMORPG"
   - "Straight Talk Warhammer"
   - "Warhammer: Age of Reckoning"
+tags:
   - "Dwarf"
   - "Engineer"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/09/bomberman.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/09/bomberman.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/bomberman.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/09/bomberman.jpg"
 ---
+Ever since Blizzard created the MMORPG genre with World of Warcraft, generations of people wondered if the genre they invented would end with that game...
+<!--more-->
 
 Ever since Blizzard created the MMORPG genre with World of Warcraft, generations of people wondered if the genre they invented would end with that game -- it was just so good, such a shining gem of perfection, that to add or subtract any one thing to that game would just mar its sublime beauty.
 
@@ -46,15 +24,13 @@ And then Mythic dreamed of a new game, one as polished as WoW, but with things W
 
 None other than Warhammer Online: Age of Reckoning. That's WO:AoR, which is kind of like how a ghost would say "war". And there's no WAR class better at turning people to ghosts than WAR's own little mad bomber, the Dwarf Engineer.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/bomberman.jpg "bomberman")
-
 *Simulated Warhammer screenshot.*
 
 A dwarf engineer walks casually out of a post office, schoolhouse, shopping center, whatever. He scratches a match to fiery life on the back of his knuckle, lights a cigar, and -- BOOM! -- terrified screams are brought to a sudden end as the entire building goes up in flames. He takes a deep drag from the cigar, smiles, and walks slowly away.
 
 Because Engineers don't kill people one at a time. An Engineer isn't happy unless he is killing people by the dozens. An Engineer isn't happy unless he's destroyed the peace and happiness of an entire nation.
 
-![](https://chasingdings.com/wp-content/uploads/2008/09/boom.jpg "boom")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/09/boom.jpg" title="boom" classes="center" >}}
 
 Try and turn away all dwarfs at the border, and they protest and call it 'profiling' and tie up the international courts for MONTHS. The is why you must fight dwarfs THERE so you don't have to fight them HERE. Take the fight to them. That's the only way to kill an Engineer. Hit them where they live, hit them fast, and hit them hard.
 

@@ -3,43 +3,23 @@ date: '2010-08-25T18:24:04-05:00'
 draft: false
 title: "Facebook thinks I'm an idiot."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/08/25/facebook-thinks-im-an-idiot/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "Facebook Games"
+tags:
   - "Adware"
   - "Facebook"
   - "Scam"
   - "Spyware"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg "Stupid ad.")](https://chasingdings.com/wp-content/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/08/Fullscreen-capture-8252010-71315-PM.jpg)
 
 Okay, seriously? I get this ad on my adbar when I load up Facebook. Looks like some me-too Bejeweled clone, so already it gets a negative one zillion on the Tipa Cool Game Scale. BUT! WAIT! You can also ad(d) to your ~~pain~~ enjoyment by installing the "mywebsearch toolbar"! OMG! I was HOPING someone would let me install MORE SPYWARE ON MY COMPUTER!
 

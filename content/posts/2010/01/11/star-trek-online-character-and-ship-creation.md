@@ -3,74 +3,49 @@ date: '2010-01-11T23:00:32-05:00'
 draft: false
 title: "Star Trek Online: Character and Ship Creation"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/01/11/star-trek-online-character-and-ship-creation/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Every article about Star Trek Online is going to discuss the character creator. Cryptic is justly famous for the extreme customization it allows in its..."
+categories:
   - "MMORPG"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-42-62.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-42-62.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-48-42-62.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-48-42-62.jpg"
 ---
+Every article about Star Trek Online is going to discuss the character creator. Cryptic is justly famous for the extreme customization it allows in its...
+<!--more-->
 
 Every article about Star Trek Online is going to discuss the character creator. Cryptic is justly famous for the extreme customization it allows in its games. In City of Heroes, designing a hero (or villain) was a game in itself. Champions Online took that one step further, allowing you unprecedented ability to customize your powers as well. Star Trek Online has the challenge to allow you room to express your creativity, yet still keep you and your ship recognizably part of Starfleet (or the Klingon Empire).
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-42-62.jpg "Human")
-
 Human
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-45-34.jpg "Andorian")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-48-45-34.jpg" title="Andorian" classes="center" >}}
 
 Andorian
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-48-77.jpg "Bajoran")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-48-48-77.jpg" title="Bajoran" classes="center" >}}
 
 Bajoran
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-51-57.jpg "Benzite")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-48-51-57.jpg" title="Benzite" classes="center" >}}
 
 Benzite
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-54-74.jpg "Betazoid")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-48-54-74.jpg" title="Betazoid" classes="center" >}}
 
 Betazoid
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-48-57-58.jpg "Bolian")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-48-57-58.jpg" title="Bolian" classes="center" >}}
 
 Bolian
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-49-00-34.jpg "Saurian")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-49-00-34.jpg" title="Saurian" classes="center" >}}
 
 Saurian
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-49-03-85.jpg "Trill")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-49-03-85.jpg" title="Trill" classes="center" >}}
 
 Trill
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-09-17-49-07-24.jpg "Vulcan")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-09-17-49-07-24.jpg" title="Vulcan" classes="center" >}}
 
 Vulcan
 
@@ -80,29 +55,29 @@ Previous to the most recent patch, Ferengi was a valid race selection, but that'
 
 If you don't find a race you like, you can define your own, with as crinkly a forehead as you can imagine.
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-07-20-54-54-25.jpg "A previously unknown alien species!")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-07-20-54-54-25.jpg" title="A previously unknown alien species!" classes="center" >}}
 
 Weird how every alien species are obviously mammalian....
 
-At level 6, or after you complete the mission "Stop the Signal" (described in [the previous post](https://chasingdings.com/index.php/2010/01/11/star-trek-online-a-first-look/)), you'll be able to create a loyal member of the Klingon Empire. They have their own selection of races....
+At level 6, or after you complete the mission "Stop the Signal" (described in [the previous post](https://tipa16384.github.io/wkblog/index.php/2010/01/11/star-trek-online-a-first-look/)), you'll be able to create a loyal member of the Klingon Empire. They have their own selection of races....
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-10-13-57-32-38.jpg "Klingon")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-10-13-57-32-38.jpg" title="Klingon" classes="center" >}}
 
 Klingon
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-10-13-58-06-03.jpg "Gorn")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-10-13-58-06-03.jpg" title="Gorn" classes="center" >}}
 
 Gorn
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-10-13-58-09-18.jpg "Lethean")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-10-13-58-09-18.jpg" title="Lethean" classes="center" >}}
 
 Lethean
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-10-13-58-13-61.jpg "Naussican")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-10-13-58-13-61.jpg" title="Naussican" classes="center" >}}
 
 Naussican
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/GameClient-2010-01-10-13-58-16-37.jpg "Orion")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/GameClient-2010-01-10-13-58-16-37.jpg" title="Orion" classes="center" >}}
 
 Orion
 
@@ -110,7 +85,7 @@ After a few missions, the Borg invasion is defeated and you get the chance to re
 
 While there, why not customize your rather plain looking ship with the fittings YOU want, along with a custom paint job, decals and so forth? There's a limit to what you can do to your newbie ship -- advanced ships allow you more options for customization.
 
-![](https://chasingdings.com/wp-content/uploads/2010/01/screenshot_2010-01-07-21-58-1.jpg "The U.S.S. Newton")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/01/screenshot_2010-01-07-21-58-1.jpg" title="The U.S.S. Newton" classes="center" >}}
 
 In the big fleet battles, where ships are gathered together at the warp-in point, it's fun to look around and see what people have done with their ships.
 

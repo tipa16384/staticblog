@@ -3,40 +3,17 @@ date: '2015-06-11T11:41:57-05:00'
 draft: false
 title: "TIS-100: A puzzle from the dawn of computing"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/11/if-you-ever-thought-back/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If you ever thought back with longing to beautiful summer days spent filling out code sheets with a worn-down pencil and a well-thumbed processor instruction..."
+categories:
   - "Other Games"
   - "TIS-100"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/tis100-2015-06-11-07-13-27-35.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/tis100-2015-06-11-07-13-27-35.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/tis100-2015-06-11-07-13-27-35.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/tis100-2015-06-11-07-13-27-35.jpg"
 ---
+If you ever thought back with longing to beautiful summer days spent filling out code sheets with a worn-down pencil and a well-thumbed processor instruction...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/tis100-2015-06-11-07-13-27-35.jpg" title="I think you wanted to make that zero a four?" class="align-center" >}}
+
 
 If you ever thought back with longing to beautiful summer days spent filling out code sheets with a worn-down pencil and a well-thumbed processor instruction code book your only companions, well, Zachtronics' TIS-100 might just be your worst nightmare.
 

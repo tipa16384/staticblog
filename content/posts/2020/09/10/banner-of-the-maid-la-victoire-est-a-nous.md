@@ -3,42 +3,20 @@ date: '2020-09-10T07:44:35-05:00'
 draft: false
 title: "Banner of the Maid: La Victoire est à Nous!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/10/banner-of-the-maid-la-victoire-est-a-nous/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My opinion of this French Revolution-themed visual novel/tactical strategy game keeps rising as I work my way through the campaign. Once you get past the..."
+categories:
   - "Nintendo Switch"
   - "Switch"
   - "Visual Novel"
+tags:
   - "Banner of the Maid"
   - "Girls Screaming in Chinese"
   - "Tactics"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/2020090922571700-6E70575A2F28D56E573EC0C8FC82FD05.jpg"
 ---
+My opinion of this French Revolution-themed visual novel/tactical strategy game keeps rising as I work my way through the campaign. Once you get past the...
+<!--more-->
 
 My opinion of this French Revolution-themed visual novel/tactical strategy game keeps rising as I work my way through the campaign. Once you get past the fact that the main army commanders are all teenage girls, there's a decent story there, and the battles are just over the top.
 
@@ -48,7 +26,7 @@ She won the battle, but now found *her* army in the same situation -- surrounded
 
 After that, Desaix collapses and is taken away for medical leave. It's unclear if he's coming back.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020090921291400-6E70575A2F28D56E573EC0C8FC82FD05.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020090921291400-6E70575A2F28D56E573EC0C8FC82FD05.jpg" classes="center" >}}
 
 Although Pauline does regroup with the rest of her army, she is being dogged by enemy forces led by enemy commanders Brigitte (who holds a well-defended fortification on high ground), Anne (who liked the taste of failure in the last update) and Léonore, who leads some heavy cavalry on a flanking attack midway through the battle.
 
@@ -56,7 +34,7 @@ The battlefield had a trio of defense fortifications we could man, an artillery 
 
 I started Paulette near the stand, sent spy master Adélaïde and heavy cavalry Murat to guard the north approach, Pauline and Aimée and some infantry regiments to handle Brigitte's armies, and all the rest along with the mounted healer to defend against the armies to the south.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/2020091006510700-6E70575A2F28D56E573EC0C8FC82FD05.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/2020091006510700-6E70575A2F28D56E573EC0C8FC82FD05.jpg" classes="center" >}}
 
 I had to save and restore a lot. When Brigitte sent her armies down, I had to pull Murat off the northern defense, leaving Adélaïde alone to handle whoever turned up. It turned out to be three cavalry. I started sending Pauline up to help, but she killed them all. Then she went to handle Brigitte's reinforcements. And lastly, she took out Brigitte herself.
 

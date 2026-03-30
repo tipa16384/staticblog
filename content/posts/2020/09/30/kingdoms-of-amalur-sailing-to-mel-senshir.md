@@ -3,40 +3,18 @@ date: '2020-09-30T07:58:01-05:00'
 draft: false
 title: "Kingdoms of Amalur: Sailing to Mel Senshir"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/09/30/kingdoms-of-amalur-sailing-to-mel-senshir/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Rathir and Mel Senshir are twin cities, on either side of a strait that separates the lands of mortals and Fae from the land of..."
+categories:
   - "Steam Games"
+tags:
   - "Kingdoms of Amalur: Reckoning"
   - "RPG"
   - "Twitch"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/09/20200929233714_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/09/20200929233714_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/20200929233714_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/09/20200929233714_1.jpg"
 ---
+Rathir and Mel Senshir are twin cities, on either side of a strait that separates the lands of mortals and Fae from the land of...
+<!--more-->
 
 Rathir and Mel Senshir are twin cities, on either side of a strait that separates the lands of mortals and Fae from the land of the Tuatha, fallen Fae who seek to destroy the mortal worlds.
 
@@ -44,19 +22,19 @@ Mel Senshir holds back the evil horde, but just barely. Like Minas Tirith, every
 
 The High King of the Fae, though, has told my character, the Fateless One, that she has been given the power to break the chains of Fate and forge a new destiny. It may have been what she was working on before she was betrayed... by a gnome...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/20200929210824_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/20200929210824_1-1024x576.jpg" classes="center" >}}
 
 That was the discovery I made while following threads to the gnomish city of Adessa. Unfortunately, the people who knew the answers about my previous life were hardly inclined to answer questions about it while they were trying to do the same with my current life.
 
 An epic battle along the walls of Adessa proved little but the guilt of my attacker. I wouldn't find any answers there.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/20200929233620_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/20200929233620_1-1024x576.jpg" classes="center" >}}
 
 Time is short, though, so I've decided to leave the side quests on the mainland behind for now, and move to Mel Senshir. All I have are my friends, my bow, my blades, and an army of Mel Senshir refugees.
 
 The last time I blogged about KoA:RR, I was still trapped in Gallows End, working to find a ship to return me to the mainland and dodging Dead Kel, the re-animated pirate who owes his cursed existence to the deadly mistake of the island god Akara, who revived him when all he wanted to do was go out in a blaze of glory.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/20200928212914_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/20200928212914_1-1024x576.jpg" classes="center" >}}
 
 By offering to sacrifice myself to become a Scion of Akara, I gained the god's blessing and Dead Kel's enmity. He sent his girlfriend, the Witch of Whispers, after me, but I saw through her ruse and defeated her. Then it was his illusion master friend whose name escapes me. I entered the Avatar state and took down his duplicates and then he himself. 
 
@@ -64,7 +42,7 @@ I followed Akara's call to a vast, underground cavern where the god was revealed
 
 It was an epic fight for the ages.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/09/20200928213504_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/09/20200928213504_1-1024x576.jpg" classes="center" >}}
 
 With Dead Kel gone, there was nothing stopping Captain Brattigan from attempting to sail his ship back to the mainland, aside from her own legendary incompetence as a ship captain. Also, she requires me to meet her needs. Of which there are many.
 

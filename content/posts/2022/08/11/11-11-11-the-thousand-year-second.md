@@ -3,43 +3,21 @@ date: '2022-08-11T07:00:00-05:00'
 draft: false
 title: "11/11/11: The Thousand Year Second"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/11/11-11-11-the-thousand-year-second/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "“11/11/11: The Thousand Year Second” is a turn-based strategy game about time, relationships, and choices."
-description: "“11/11/11: The Thousand Year Second” is a turn-based strategy game about time, relationships, and choices."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
   - "Turn-Based Rpgs"
   - "Video Game"
+tags:
   - "Dall-E 2"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-03-21.07.52-high-resolution-35MM-photo-aliens-standing-around-a-statue-of-a-human.-the-statue-is-painted-with-realistic-colors-and-is-covered-with-moss.-they-are.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-03-21.07.52-high-resolution-35MM-photo-aliens-standing-around-a-statue-of-a-human.-the-statue-is-painted-with-realistic-colors-and-is-covered-with-moss.-they-are.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-03-21.07.52-high-resolution-35MM-photo-aliens-standing-around-a-statue-of-a-human.-the-statue-is-painted-with-realistic-colors-and-is-covered-with-moss.-they-are.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-03-21.07.52-high-resolution-35MM-photo-aliens-standing-around-a-statue-of-a-human.-the-statue-is-painted-with-realistic-colors-and-is-covered-with-moss.-they-are.png"
 ---
+“11/11/11: The Thousand Year Second” is a turn-based strategy game about time, relationships, and choices.
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 11th: “11/11/11: The Thousand Year Second”.
 
@@ -47,7 +25,7 @@ I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each 
 
 Your group of alien scientists arrives on Earth a thousand years after the Standstill to find that all of humanity is still frozen in place. You must explore the world to uncover the reason for the Standstill and how to rescue humanity. Your journey will take you across frozen landscapes, through ancient ruins, and into the hearts of people long since forgotten. "11/11/11: The Thousand Year Second" is a turn-based strategy game that challenges you to think critically and make difficult choices as you attempt to save humanity. With hundreds of unique characters and multiple endings, "11/11/11: The Thousand Year Second" is a deeply replayable game with endless possibilities.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/image.png" title="Other possible cover images (Midjourney)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/image.png" title="Other possible cover images (Midjourney)" classes="center" >}}
 
 "11/11/11" stays fairly true to gameplay familiar to turn-based strategy fans: You'll move your characters around a map, taking turns with the enemy to attack or defend. There are some new wrinkles here. In order to achieve one of the multiple endings, you'll have to make choices that will affect not only the flow of battle, but also how people react to you after the fighting is over.
 
@@ -57,7 +35,7 @@ The enemies -- and possibly the reason humanity is frozen -- turn out to be dolp
 
 As you win battles against the dolphins and start freeing the surface world, time will begin to pass again for the humans, bringing a third faction into the game. The humans have been living in a frozen instant for the past thousand years, and they're not too happy to see aliens -- and dolphins in their mech suits -- running around. You'll need to tread carefully as you try to help them adjust to a new world -- one where they're not the only ones with intelligence, technology, and power.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-03-21.24.18-Ancient-ruins-with-a-hexagonal-floor.-Standing-in-the-ruins-is-a-feathered-alien-a-dolphin-in-a-spacesuit-and-a-human-woman-covered-in-vines-1024x1024.png" title="Actual game graphics. (Dall-E 2)" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-03-21.24.18-Ancient-ruins-with-a-hexagonal-floor.-Standing-in-the-ruins-is-a-feathered-alien-a-dolphin-in-a-spacesuit-and-a-human-woman-covered-in-vines-1024x1024.png" title="Actual game graphics. (Dall-E 2)" classes="center" >}}
 
 **Gameplay**
 
@@ -69,7 +47,7 @@ When you attack an enemy unit, you'll enter into a battle scene. Battles are als
 
 As you progress through the game, you'll unlock new abilities for your units. These abilities can be used in battle to give you an edge over your opponents. You'll also be able to find or purchase items that can be equipped by your units to boost their stats or give them new abilities.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-03-22.14.34-a-cyberpunk-dolphin-in-a-mech-suit-1024x1024.png" title="The... enemy?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-03-22.14.34-a-cyberpunk-dolphin-in-a-mech-suit-1024x1024.png" title="The... enemy?" classes="center" >}}
 
 There are hundreds of unique characters in "11/11/11: The Thousand Year Second", each with their own backstories and motivations. As you rescue humans from the dolphins' clutches, they'll join your cause -- but not all of them will see eye-to-eye with your methods. You'll need to manage these relationships carefully if you want to keep everyone working together towards a common goal. The dolphins aren't the only ones enhanced with alien technology -- some of the humans have it too. And as time starts moving again for humanity, they're going to want answers about what happened during the thousand years they were frozen in place...
 

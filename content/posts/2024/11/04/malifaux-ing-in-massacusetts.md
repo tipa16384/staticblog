@@ -3,43 +3,21 @@ date: '2024-11-04T08:00:00-05:00'
 draft: false
 title: "Malifaux-ing in Massachusetts"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/11/04/malifaux-ing-in-massacusetts/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?"
-description: "To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?"
-tags:
+categories:
   - "Malifaux"
   - "Strategy"
   - "Tabletop Games"
   - "Tactics"
+tags:
   - "Halloween"
   - "Tournament"
   - "Webway Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/11/carverbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/11/carverbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/carverbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/11/carverbanner.png"
 ---
+To celebrate Halloween, Kasul and I traveled to Webways in Marlborough, Massachusetts for a Carver Day tournament. Carver Day?
+<!--more-->
 
 I thought Carver Day was some holiday I didn't know about. Google says that it's actually in January, to celebrate George Washington Carver, and celebrates the death of the famous inventory. There's also a Carver Day in July to honor his birth. November is... I dunno what's in November. Only an hour and a half trip to this Worcester suburb and through some of Massachusetts famously terrible drivers and much more terrible roads to a small store absolutely filled to the brim with Malifaux players, some Magic players, and a wedding reception.
 
@@ -47,13 +25,13 @@ Somebody was lost.[1](#63081634-a1dd-4dad-b226-dd42e2695a10)
 
 Kasul was playing Asylum, a new keyword for him. It's "One Flew Over the Cuckoo's Nest" turned up to 1000. They have a lot of healing, but can be squishy. He won two games and lost one. One of those winning games was a forfeit where his opponent quit, first turn, after Kasul killed two of her crew. So, not a bad outing for his first time with that crew.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/IMG_4814-1024x576.jpg" title="My Crüe" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4814-1024x576.jpg" title="My Crüe" classes="center" >}}
 
 For this, I brought almost all of my painted models (one spider decided to crawl free from its base so I reglued it and forced it to stay home to dry). This includes my new Arcane Emissary, the big Minotaur toward the middle. More on him in a future post. There was going to be judging painting, and I figured, why not? My models aren't well-painted -- more on that later in *this* post -- but at least (most of them) *are* painted and it took a long time...
 
 My first match was against Von Schill.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/IMG_4816-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4816-1024x576.jpg" classes="center" >}}
 
 **Von Schill. Keyword: FREIKORPS**
 
@@ -87,7 +65,7 @@ Seamus and a lot of his crew have the "Terrifying" aura, which requires any atta
 
 I thought we weren't going to have time for turn 4, but we did, so I'd set up for end of game scoring, different than end of turn scoring, and missed a possible point. We tied at 5-5.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/11/IMG_4820-1024x576.jpg" title="Seeing double!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/11/IMG_4820-1024x576.jpg" title="Seeing double!" classes="center" >}}
 
 **Parker Barrows. Keyword: Bandit **
 

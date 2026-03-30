@@ -3,44 +3,21 @@ date: '2010-12-08T06:00:22-05:00'
 draft: false
 title: "Daily Blogroll 12/8 -- Holy NDA, Batman! edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/12/08/daily-blogroll-123-holy-nda-batman-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Superhero comics have to be the most consistently grim form of literature imaginable. Here you have people with cosmic supernatural powers, and those powers bring..."
+categories:
   - "Daily Blogroll"
   - "EVE Online"
   - "EverQuest"
   - "Final Fantasy"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/12/lantern.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/12/lantern.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/lantern.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/12/lantern.png"
 ---
+Superhero comics have to be the most consistently grim form of literature imaginable. Here you have people with cosmic supernatural powers, and those powers bring...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2010/12/lantern.png "DCUO brings console gaming to MMOs")
+
 
 Superhero comics have to be the most consistently grim form of literature imaginable. Here you have people with cosmic supernatural powers, and those powers bring them no joy. Instead, they are crushed by tragedy after unthinkable tragedy. Their lives are living nightmares, and for most heroes, there is no peace even in death. Satan once bet God that he could shake the faith of his most pious worshiper, a rich man named Job. God said sure, go for it, and Job was robbed of his wealth and his family. Satan went on to wrack Job with terrible illnesses, but Job struggled on, never losing faith. We see that in the Book of Job was written the very first superhero story.
 

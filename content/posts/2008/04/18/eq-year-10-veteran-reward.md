@@ -3,39 +3,16 @@ date: '2008-04-18T07:48:02-05:00'
 draft: false
 title: "EQ Year 10 Veteran Reward"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/04/18/eq-year-10-veteran-reward/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Tonight is the first meeting of our EQ Nostalgia group, and I've been swamped with work to do. I had to create some forums, try..."
+categories:
   - "EverQuest"
   - "MMORPG"
   - "Nostalgia the Guild"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-18-06-24-34-78.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-18-06-24-34-78.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-18-06-24-34-78.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/04/eqgame-2008-04-18-06-24-34-78.jpg"
 ---
+Tonight is the first meeting of our EQ Nostalgia group, and I've been swamped with work to do. I had to create some forums, try...
+<!--more-->
 
 Tonight is the first meeting of our EQ Nostalgia group, and I've been swamped with work to do. I had to [create some forums](http://nostalgia.chasingdings.com/), try to pull a roster together, try to make this a fun experience for our little group. I think I'm ready for tonight.
 
@@ -44,7 +21,5 @@ One advantage EQ vets have over people entirely new to the game is the huge vari
 Right now, I'm a level 2 ranger waiting in the Gloomingdeep Mines for 7PM to roll around. I made a Drakkin wizard alt last night and took her partially through the tutorial. Although the first couple of quests are easy, a group will make the last few far faster. I worry, though, that our experience will be nerfed too much because of being grouped... but, hopefully, we'll be able to kill so much more stuff, so much faster, to make up for it.
 
 The just-added tenth year veteran reward is a little clockwork merchant that very much reminds me of the WoW repair bot that also sold useful items. Here's me, my bot, and the stuff he sells:
-
-![eqgame-2008-04-18-06-24-34-78.jpg](https://chasingdings.com/wp-content/uploads/2008/04/eqgame-2008-04-18-06-24-34-78.jpg)
 
 If you're in the Nostalgia group, register for and [READ THE BOARDS](http://nostalgia.chasingdings.com)!!! And see you tonight :)

@@ -3,40 +3,15 @@ date: '2008-01-31T10:56:07-05:00'
 draft: false
 title: "PotBS: Flying Labs responds to lag concerns"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/01/31/potbs-flying-labs-responds-to-lag-concerns/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "In the comments to my \"first glance\" post for the Pirates of the Burning Sea, Rusty from Flying Labs responded to my experiences with lag..."
+categories:
   - "MMORPG"
   - "Pirates of the Burning Sea"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+In the comments to my "first glance" post for the Pirates of the Burning Sea, Rusty from Flying Labs responded to my experiences with lag...
+<!--more-->
 
-In the comments to my "[first glance](https://chasingdings.com/index.php/2008/01/30/a-glance-at-pirates-of-the-burning-sea/)" post for the Pirates of the Burning Sea, Rusty from Flying Labs responded to my experiences with lag and random disconnections while playing. To be fair, it was my son who was having the lag, on Rackham, and he mentioned that a lot of people were complaining about it at the time. My problem was with losing the connection. It's possible they were related.
+In the comments to my "[first glance](https://tipa16384.github.io/wkblog/index.php/2008/01/30/a-glance-at-pirates-of-the-burning-sea/)" post for the Pirates of the Burning Sea, Rusty from Flying Labs responded to my experiences with lag and random disconnections while playing. To be fair, it was my son who was having the lag, on Rackham, and he mentioned that a lot of people were complaining about it at the time. My problem was with losing the connection. It's possible they were related.
 
 Rusty wrote:
 

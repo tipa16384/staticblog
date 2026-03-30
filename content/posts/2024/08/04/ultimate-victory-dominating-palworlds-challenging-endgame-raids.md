@@ -3,42 +3,20 @@ date: '2024-08-04T16:45:52-05:00'
 draft: false
 title: "Ultimate Victory: Dominating Palworld’s Challenging Endgame Raids"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/04/ultimate-victory-dominating-palworlds-challenging-endgame-raids/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "To take on this boss, you need to be ferocious, serene, muscle-headed and impatient."
-description: "To take on this boss, you need to be ferocious, serene, muscle-headed and impatient."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2024"
   - "Open World RPG"
   - "Palworld"
+tags:
   - "Bellanoir Libero"
   - "Raiding"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/bellanoirultra.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/bellanoirultra.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/bellanoirultra.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/bellanoirultra.png"
 ---
+To take on this boss, you need to be ferocious, serene, muscle-headed and impatient.
+<!--more-->
 
 There's a lot to do in the Palworld endgame. I think most players don't even know there *is* an endgame. The main quest will lead you through killing the first tower boss, with the implication that you might want to go and do what needs to be done to the other tower bosses.
 
@@ -50,7 +28,7 @@ They added raids after the release; I've written about them. Bellenoir and Blaza
 
 I accidentally summoned Ultra when I meant to just summon normal Bellenoir Libero a couple days ago, and I got well into her second phase. I kept dying, but my base pals kept hanging on each time I made my way back, and if I hadn't run out of time, we'd have had her.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-14.png" title="Midfight" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-14.png" title="Midfight" classes="center" >}}
 
 I was farming the non-ultra Libero with Oserks, an electric-type pal that would use electricity attacks to keep her staggered. Ultra tore through them the first time and I didn't think it would go differently the next time. I saw on Reddit that someone said Bellanoir Libero herself was the perfect Pal to take down Ultra, and I thought that sounded fun,
 
@@ -62,7 +40,7 @@ Now comes the really, *really* time consuming part. All Pals, like Pokemon, have
 
 Thankfully, Palworld added potions you can buy that will raise these, so it wasn't as hard as all that. Now the true work begins: Breeding the 2000 or so Libero to condense to power up the Liberos that were going to be on the team. You also have to get Pal souls to get yet another stat boost from the Palworld statues, typically done by killing the Anubis pal a few hundred times to get his Large Soul that can be processed down into the other souls necessary.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/Palworld-Screenshot-2024.07.31-20.21.20.86-1024x429.jpg" title="My oil base in Sakurajima" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/Palworld-Screenshot-2024.07.31-20.21.20.86-1024x429.jpg" title="My oil base in Sakurajima" classes="center" >}}
 
 Dear reader, I went a long way down that road before I opted to use mods to get the rest of the way. There are people who spend weeks in this process, but two days was enough for me. I was working on perfecting the IVs -- I already had all the pals I would need bred and waiting, and many of them were fully condensed -- when I decided I just wanted to get it done. I'd prepared a few of the Libero, I had nothing else to prove.
 
@@ -72,7 +50,7 @@ There's some ruins at the base of Mt. Obsidian which feature an enclosed room. L
 
 There's no McDonald's in Palworld, so I'd have to make them myself. They take cow meat. My only two cows were milk cows, but somehow they were boy and girl (don't ask). I sent them to the breeding pen and had them lay several dozen eggs (I really mean it about not asking). I hatched those into baby cows, then brought them to the electric slaughterhouse (why do you keep insisting I answer questions?) and rendered them into milk and meat.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-15-1024x585.png" title="Sorry for the AI. There was a REAL photo I could have used, BUT..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-15-1024x585.png" title="Sorry for the AI. There was a REAL photo I could have used, BUT..." classes="center" >}}
 
 I brought that meat to the farm and had my Jormuntide Ignis dragon grill them up. The farm had plenty of fixings and bread to add. I brought them to my raid base and set them out in the feed box, summoned my Liberos, and when they were full... I summoned Ultra.
 

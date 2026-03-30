@@ -3,40 +3,18 @@ date: '2020-10-03T15:32:03-05:00'
 draft: false
 title: "Kingdoms of Amalur: Two times a failure."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/10/03/kingdoms-of-amalur-two-times-a-failure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I finished Kingdoms of Amalur: Re-Reckoning today at 51 1/2 hours, making it one of the shorter RPGs I've finished. According to the Steam achievement,..."
+categories:
   - "Steam Games"
+tags:
   - "Kingdoms of Amalur: Reckoning"
   - "RPG"
   - "Spoilers"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/10/20201003105145_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/10/20201003105145_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201003105145_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/10/20201003105145_1.jpg"
 ---
+I finished Kingdoms of Amalur: Re-Reckoning today at 51 1/2 hours, making it one of the shorter RPGs I've finished. According to the Steam achievement,...
+<!--more-->
 
 I finished Kingdoms of Amalur: Re-Reckoning today at 51 1/2 hours, making it one of the shorter RPGs I've finished. According to the Steam achievement, only 2% of the people who purchased this remake on Steam have killed the final boss as of today.
 
@@ -44,7 +22,7 @@ Achievement%Destiny Defiant (final boss)2.0Hero of Mel Senshir (reached final co
 
 I've played the original twice before, but never finished it. From my Steam achievements on the original game, I can see that I got past the "No Destiny" point, and was into the desert area leading to Adessa when I stopped playing. Interestingly, according to Steam achievements, only 2% of the players of the original game reached the end -- same percentage as in the remake.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201003105145_1-1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201003105145_1-1-1024x576.jpg" classes="center" >}}
 
 Similarly, 88.6% of the people who bought the original game on Steam actually played it long enough to get through the tutorial, while 87.9% have done so on the remake. About 12% of the players for either game just don't really play it, and 98% of the people with the game never finish it.
 
@@ -58,7 +36,7 @@ One obvious reason -- DS3 is a very short game. I started it on June 24 and fini
 
 Kingdoms of Amalur: Re-Reckoning comes with two DLC included for free, one of which I completed and the other I nearly completed until a bug cut that short. Even with those additional runs, the game came out quite a bit shorter than Skyrim (150 hours) and Octopath Traveler (135 hours), but about the same as Pillars of Eternity (60.5 hours). 13.9% of PoE players completed the game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201003105344_1-1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201003105344_1-1-1024x576.jpg" classes="center" >}}
 
 My guess is the blandness of the setting. You generally go from hub to hub, picking up fetch and kill quests, do the needful, return, and head to the next hub. That is the structure of the game from the beginning to the very end -- I was still doing those things in the final area before the boss citadel.
 
@@ -74,7 +52,7 @@ Another might be that the game is not challenging at all on "normal" mode. Once 
 
 The big surprise: all those non-finishers are missing out on a great murder mystery.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2020/10/20201003111101_1-1024x576.jpg" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2020/10/20201003111101_1-1024x576.jpg" classes="center" >}}
 
 There are three questions about your history that you spend the entire game trying to answer:
 

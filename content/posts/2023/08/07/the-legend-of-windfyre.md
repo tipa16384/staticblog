@@ -3,38 +3,15 @@ date: '2023-08-07T07:00:00-05:00'
 draft: false
 title: "The Legend of Windfyre"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/07/the-legend-of-windfyre/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I'm off to New Hampshire for the day, so here's a story about Windfyre, the dragon that lives in New Hampshire's White Mountains."
-description: "I'm off to New Hampshire for the day, so here's a story about Windfyre, the dragon that lives in New Hampshire's White Mountains."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-06-08.08.31-A-childrens-story-illustration-of-the-dragon-that-lives-in-the-White-Mountains-whose-breath-makes-blizzards.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/DALL·E-2023-08-06-08.08.31-A-childrens-story-illustration-of-the-dragon-that-lives-in-the-White-Mountains-whose-breath-makes-blizzards.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-06-08.08.31-A-childrens-story-illustration-of-the-dragon-that-lives-in-the-White-Mountains-whose-breath-makes-blizzards.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/DALL·E-2023-08-06-08.08.31-A-childrens-story-illustration-of-the-dragon-that-lives-in-the-White-Mountains-whose-breath-makes-blizzards.png"
 ---
+I'm off to New Hampshire for the day, so here's a story about Windfyre, the dragon that lives in New Hampshire's White Mountains.
+<!--more-->
 
 Gather 'round, young ones, for I've got a tale to share that will send shivers down your spines and awe in your hearts. It's a story about a dragon, a grand and fearsome beast, that roams the jagged peaks of New Hampshire's White Mountains. The locals here call it "Windfyre," a name that strikes fear into even the boldest of souls.
 

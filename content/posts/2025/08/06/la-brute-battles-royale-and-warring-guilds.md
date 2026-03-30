@@ -3,41 +3,19 @@ date: '2025-08-06T19:44:35-05:00'
 draft: false
 title: "La Brute: Battles Royale and Warring Guilds"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/08/06/la-brute-battles-royale-and-warring-guilds/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Beneath this seeming auto battler is a surprisingly deep strategy game..."
-description: "Beneath this seeming auto battler is a surprisingly deep strategy game..."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2025"
   - "Browser Game"
   - "Other Games"
+tags:
   - "My Brute"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/08/LaBrute.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/08/LaBrute.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/08/LaBrute.png"
 ---
+Beneath this seeming auto battler is a surprisingly deep strategy game...
+<!--more-->
 
 *It occurs to me that people might not want to play a game in French if they themselves do not read French well or at all. No worries -- La Brute is localized to many languages, including English. I just prefer to play it in the original language. If you want all the French to go away, just open the preferences and change the language. *
 
@@ -51,7 +29,7 @@ So, that's basically it, and that might keep you interested for a few days, but 
 
 Unless.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-20.png" title="Clan Wars!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-20.png" title="Clan Wars!" classes="center" >}}
 
 **Clan Wars!**
 
@@ -59,7 +37,7 @@ The name "Clan Wars" implies the existence of clans. Yup, they exist. There is n
 
 That's when I discovered Clan Wars. You click the checkbox showing your interest, and then you're paired up with other clans. Each day seven(*) of your brutes are selected to face brutes from the other clan. First to win four battles without running out of brutes wins the war. The day after winning or losing, you're paired with another clan.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-21-1024x514.png" title="Recent battle results" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-21-1024x514.png" title="Recent battle results" classes="center" >}}
 
 Your clan has an invisible rank that raises as you win battle, pairing you against ever more dangerous foes. My clan is small -- eight of my own characters and two randos who joined for some reason and then quit after their first rank. But I can use their zombie brutes in my wars, so it's all good.
 
@@ -71,13 +49,13 @@ Sometimes my opponents catch on. That's fine. All I have to do is outthink them.
 
 Now, if that were all,  well...
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-22-1024x617.png" title="I swapped the language to English so I don't have to retype all this" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-22-1024x617.png" title="I swapped the language to English so I don't have to retype all this" classes="center" >}}
 
 Well, if you have a character slot free, you can make a *special* brute for the Battle Royale. This one levels super fast, and you can change your destiny three times for free to make the perfect brute. The max level is random for each event (103 for the current one), and after a week to prep, they start pitting the brutes together. Last brute alive gets to be promoted to a regular brute, level 1, same destiny. Every other brute gets unceremoniously deleted.
 
 We're two days into this tournament, and my character is still alive. This is the first time that has happened.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/08/image-23-300x203.png" title="Destiny tree" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/08/image-23-300x203.png" title="Destiny tree" classes="center" >}}
 
 The header image is of my current Battle Royale brute, Shahara, named after my son's snake. The brute named after his in-game handle, Xakkoris, was a previous Battle Royale brute who lost, but I liked him and opted to just restart him as a new regular character.
 

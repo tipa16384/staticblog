@@ -3,43 +3,21 @@ date: '2024-08-12T07:00:00-05:00'
 draft: false
 title: "D&amp;D: I -- no, WE -- have a white dragon problem"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/08/12/dd-i-no-we-have-a-white-dragon-problem/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "The problem is, we're about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room."
-description: "The problem is, we're about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room."
-tags:
+categories:
   - "3D Printing"
   - "Blaugust"
   - "Blaugust 2024"
   - "Dungeons & Dragons"
   - "Miniatures"
   - "Tabletop Games"
+tags:
   - "Dragons"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/08/IMG_4558-EDIT-scaled.jpg"
 ---
+The problem is, we're about to battle the final boss battle of the Icespire campaign, but Cryovain refuses to come out of his dressing room.
+<!--more-->
 
 I have a 3D printer downstairs.
 
@@ -51,7 +29,7 @@ This, of course, is a lie. Kasul has completely redone the optics of one of his 
 
 Until of course, it did. In so, so many ways. I've had to take the hot end apart, change the nozzles, clean it, it wants to be lubed now... nothing unusual, normal wear and tear. But what I hate is when I do all these things and I still fail to get decent prints out of it. It was perfect when I first put it together and plugged it in.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-23-1024x589.png" title="We should just use LEGO instead of minis." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-23-1024x589.png" title="We should just use LEGO instead of minis." classes="center" >}}
 
 I think the current problems stem from when I had to replace the nozzle of the AnkerMake. It uses a 17mm long nozzle; I didn't have one of those, so I used the shorter ones I had on hand for the Ender and the Prusa. I'm thinking now that I really needed to use the correct size.
 
@@ -61,7 +39,7 @@ AnkerMake provided their own slicer for their printer, which worked fine, I gues
 
 That dragon on the right was the clue. The filament was not being retracted when it was done with a stroke. Molten filament just kept on running free. I looked at the retraction settings in the default profile. No retraction. What I suspected was true.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/08/image-24-1024x641.png" title="We should just use clay instead of minis" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/08/image-24-1024x641.png" title="We should just use clay instead of minis" classes="center" >}}
 
 I could have started modifying the settings to add retraction back in, but there's a lot of nuance to those settings and I felt this is the sort of stuff someone else had probably already done.
 

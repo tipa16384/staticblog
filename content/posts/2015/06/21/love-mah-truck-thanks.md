@@ -3,40 +3,17 @@ date: '2015-06-21T22:03:33-05:00'
 draft: false
 title: "Love mah TRUCK!!!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/06/21/love-mah-truck-thanks/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Love mah TRUCK!!! Thanks for the rad paint, +Michael Birke !..."
+categories:
   - "Euro Truck Simulator 2"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/06/2015-06-20_00001.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/06/2015-06-20_00001.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/2015-06-20_00001.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/06/2015-06-20_00001.jpg"
 ---
+Love mah TRUCK!!! Thanks for the rad paint, +Michael Birke !...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/06/2015-06-20_00001.jpg" title="Check out the airbrush!" class="align-center" >}}
+
 
 Love mah TRUCK!!! Thanks for the rad paint, +[Michael Birke](https://plus.google.com/103687334769264813247) !
 

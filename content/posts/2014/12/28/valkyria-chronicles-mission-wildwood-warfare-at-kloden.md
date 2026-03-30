@@ -3,37 +3,14 @@ date: '2014-12-28T05:31:58-05:00'
 draft: false
 title: "Valkyria Chronicles mission: Wildwood Warfare at Kloden"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2014/12/28/valkyria-chronicles-mission-wildwood-warfare-at-kloden/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Valkyria Chronicles mission: Wildwood Warfare at Kloden..."
+categories:
   - "General"
-featured_image: "https://lh5.googleusercontent.com/-B5PWxQ8Qbc8/VJ-Qbl6WVII/AAAAAAAA9nM/EGsixX9dk7c/w506-h750/Valkyria%2B2014-12-28%2B00-05-35-22.jpg"
-cover:
-  image: "https://lh5.googleusercontent.com/-B5PWxQ8Qbc8/VJ-Qbl6WVII/AAAAAAAA9nM/EGsixX9dk7c/w506-h750/Valkyria%2B2014-12-28%2B00-05-35-22.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://lh5.googleusercontent.com/-B5PWxQ8Qbc8/VJ-Qbl6WVII/AAAAAAAA9nM/EGsixX9dk7c/w506-h750/Valkyria%2B2014-12-28%2B00-05-35-22.jpg"
+thumbnailImage: "https://lh5.googleusercontent.com/-B5PWxQ8Qbc8/VJ-Qbl6WVII/AAAAAAAA9nM/EGsixX9dk7c/w506-h750/Valkyria%2B2014-12-28%2B00-05-35-22.jpg"
 ---
+Valkyria Chronicles mission: Wildwood Warfare at Kloden...
+<!--more-->
 
 **Valkyria Chronicles mission: Wildwood Warfare at Kloden**
 
@@ -63,6 +40,8 @@ Then the Edelweiss moves up, and B platoon assaults the enemy tank when it moves
 
 That might have saved a turn or two, maybe. But a win is a win.
 
-[#ValkyriaChronicles](https://plus.google.com/s/%23ValkyriaChronicles)  ﻿[![](https://lh5.googleusercontent.com/-B5PWxQ8Qbc8/VJ-Qbl6WVII/AAAAAAAA9nM/EGsixX9dk7c/w506-h750/Valkyria%2B2014-12-28%2B00-05-35-22.jpg)]()
+[#ValkyriaChronicles](https://plus.google.com/s/%23ValkyriaChronicles)  ﻿[
+
+]()
 
 [This was posted on Google+](https://plus.google.com/108460561201888322767/posts/B8fYCg8qZYE)

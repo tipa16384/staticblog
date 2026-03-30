@@ -3,40 +3,18 @@ date: '2025-03-17T08:00:00-05:00'
 draft: false
 title: "Sword for Hire: Vertical Slice &amp; Vibe Coding"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/03/17/sword-for-hire-vertical-slice-vibe-coding/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "When it's mapped out, Sword for Hire isn't as large as it looks in the book. But, it is possible to play through the game and level up."
-description: "When it's mapped out, Sword for Hire isn't as large as it looks in the book. But, it is possible to play through the game and level up."
-tags:
+categories:
   - "Text Adventure Game"
+tags:
   - "Python"
   - "Tunnels & Trolls"
   - "Vibe Coding"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/03/swordforhiremap.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/03/swordforhiremap.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/swordforhiremap.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/03/swordforhiremap.png"
 ---
+When it's mapped out, Sword for Hire isn't as large as it looks in the book. But, it is possible to play through the game and level up.
+<!--more-->
 
 I was watching a documentary about the creation of the first XCOM game a long, long time ago. The game devs were so focused on the concept of making their "vertical slice" -- enough of the game so that all the important systems could be demonstrated to work.
 
@@ -48,13 +26,13 @@ The game, as printed, was punishing. If you just did it as a just-rolled charact
 
 The player won't win their first time through, but they will win if they keep at it and keep leveling up their stats. The second part of the adventure should be just about the right difficulty for someone who has finished this one.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/image-6.png" title="No spoilers!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/image-6.png" title="No spoilers!" classes="center" >}}
 
 There's a lot of bugs in the game; sometimes options appear when they shouldn't, mostly. I've been madly implementing the mechanisms to update what the player sees when they've got loot or when they have killed monsters; it's not perfect. And it does have to be more perfect than it is. Right now, you can equip stuff you shouldn't be able to equip, like two weapons and a shield. And, I didn't really deal with torches correctly. The printed adventure assumes you can just light a torch on your character sheet, but I'm going to have to give the player opportunities to do it before they enter dark rooms, rather than "You are in a dark room -- do you light a torch?".
 
 Also, torches are going to severely disadvantage those who wield two-handed weapons, like bows. T&T rules say enemies get a free shot when you swap weapons, and what happens to the torch? Torch management is a huge thing in the printed adventure, but I find it unfun. Poison management is a huge thing in the printed adventure as well, and while I do support poison, I don't let it be applied, yet. Most of the items that can be activated, I just have the code do it when necessary so that I don't have to implement a mechanism to do it. The healing amulet heals as needed. If you say you light a torch, I believe you have one, and that you're holding it in your teeth or something.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/03/image-7.png" title="The \"Temple of Khazan\", for leveling up" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/03/image-7.png" title="The \"Temple of Khazan\", for leveling up" classes="center" >}}
 
 Other things I added to make things easier. You heal a wound every time you move. (You also heal intellectual exhaustion for wizards, every time you move). If you die and you have treasure, then "a mysterious figure" will take one of your treasures and place you back before you made that bad decision where you died.
 

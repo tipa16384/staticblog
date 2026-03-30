@@ -3,50 +3,28 @@ date: '2025-11-12T08:30:09-05:00'
 draft: false
 title: "You had ONE JOB, Dark Quest 4!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/11/12/you-had-one-job-dark-quest-4/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "You had one job -- bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!"
-description: "You had one job -- bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!"
-tags:
+categories:
   - "HeroQuest"
   - "Tabletop Games"
+tags:
   - "Dark Quest"
   - "Dark Quest 4"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/11/1-20250610202611_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/11/1-20250610202611_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-20250610202611_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/11/1-20250610202611_1.jpg"
 ---
+You had one job -- bring the HeroQuest board game experience to a videogame. And you did it. You nailed it. Good job!
+<!--more-->
 
 We play a lot of HeroQuest here in Chez Tanglewood; you'll have seen that from all of my posts about it. It's really fun because we're never quite sure what's going to happen. Kasul plays the unseen evil sorcerer that is controlling the scenario and all the monsters. The rest of us play different characters -- barbarian, dwarf, rogue and elf. And because we're all different people, we're not always working together. This leads to some hilarious situations. My character died once, and I had to start over with a new clone. In our last game, the rogue died and we had to use a one-time-only artifact to bring him back so he wouldn't have to start over.
 
 One might say that one of HeroQuest's strengths is forcing people to work together.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/1-20251111235955_1-1024x639.jpg" title="A DQ4 boss fight, with Knight, Dwarf and Fire Mage" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/1-20251111235955_1-1024x639.jpg" title="A DQ4 boss fight, with Knight, Dwarf and Fire Mage" classes="center" >}}
 
 Dark Quest 4, the latest entry in a series explicitly designed to bring HeroQuest onto consoles and Steam, understands that in most cases, it's just going to be one player vs the computer. It simplifies things somewhat; you bring three heroes on an adventure, not four, and the adventures seem to be somewhat shorter than in the tabletop game.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/20251111220057_1-1024x583.jpg" title="The mission tree" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/20251111220057_1-1024x583.jpg" title="The mission tree" classes="center" >}}
 
 The Elder has called you to this remote camp in the middle of nowhere because a great evil is stirring, and he needs stout adventurers to stop it. You've all come for the promise of loot and danger. The barbarian, dwarf and wizard arrive first and are sent off immediately -- the prince has been taken captive and there is no time to waste! While away doing that, the other adventurers arrive; archer, fire mage, knight, lancer and so on. But two are missing, and they will be found in the endless dungeons, if you can track them down.
 
@@ -58,11 +36,11 @@ Adventurers start with no gear, no potions, and only their most basic ability un
 
 (You should always go for the loot. At least in the early missions, even in a total party wipe, you get to keep the loot you found).
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/20251110201035_1-1024x583.jpg" title="The Camp with most of the adventurers" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/20251110201035_1-1024x583.jpg" title="The Camp with most of the adventurers" classes="center" >}}
 
 The camp is where you'll spend that loot. The trainer sells you new ability cards, and these are unique to each adventurer. These will be your highest priority. The blacksmith crafts gear for gold -- one of each kind of gear, so you'll have to move gear around a bit. The alchemist makes one-use-per-mission potions that can prevent an early death or provide other useful effects. The merchant sells game changing items. He's the last to unlock, and has the most expensive items. But they are the kinds of items you will build teams around.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/11/20251110210918_1-1024x583.jpg" title="A cutscene" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/11/20251110210918_1-1024x583.jpg" title="A cutscene" classes="center" >}}
 
 Like the board game, DQ4 is at its heart a tactical RPG. Each unit has its own movement, health, attacks, spells, and so on. When an enemy is on the board, initiative is rolled and adventurers and monsters move in that order. Since you always know when something is going to move, deciding when to move adventurers into danger or to move them behind a wall for safety becomes a big part of the game. Run into the room YOLOing it up? Cautiously lure the enemies out one at a time? Buff up a tank and have them stand in the door while doing ranged attacks with the others?
 

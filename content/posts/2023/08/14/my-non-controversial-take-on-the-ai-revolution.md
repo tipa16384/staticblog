@@ -3,43 +3,21 @@ date: '2023-08-14T08:10:52-05:00'
 draft: false
 title: "My Non-Controversial Take on the AI Revolution"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/08/14/my-non-controversial-take-on-the-ai-revolution/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "At least, I haven't heard anyone contravene my take, yet."
-description: "At least, I haven't heard anyone contravene my take, yet."
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2023"
+tags:
   - "ChatGPT"
   - "Copilot"
   - "Github"
   - "Programming"
   - "Substack"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/08/revolution.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/08/revolution.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/revolution.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/08/revolution.png"
 ---
+At least, I haven't heard anyone contravene my take, yet.
+<!--more-->
 
 At least, I haven't heard anyone contravene my take, yet.
 
@@ -47,7 +25,7 @@ My first personal experience with what we're calling AI these days was with Gith
 
 Github Copilot is a large language model (LLM) AI trained on this entire corpus of source code. It watches what you type and suggests completion, based on what it has learned from other programmers. In its most helpful mode, it will read your comments on what the code should do, and just offer you the complete solution.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-32.png" title="I asked for a C++ program to return a list of primes. This is probably someone's verbatim code." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-32.png" title="I asked for a C++ program to return a list of primes. This is probably someone's verbatim code." classes="center" >}}
 
 The first time I tried this, I felt like my job was in danger; if not now, then within a very few years.
 
@@ -59,7 +37,7 @@ Copilot is blocked at our company, but I have enough experience with it now to k
 
 However, Copilot does have its place.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/08/image-33.png" title="Copilot code" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/08/image-33.png" title="Copilot code" classes="center" >}}
 
 I know nothing about how to make a web page scraper in C++. I asked Copilot to write a function that would read the Google homepage and return the number of HTML DIV elements on it. Copilot kindly worked its way through the CURL library to hand me this solution.
 

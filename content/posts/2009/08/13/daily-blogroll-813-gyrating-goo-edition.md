@@ -3,24 +3,8 @@ date: '2009-08-13T08:00:24-05:00'
 draft: false
 title: "Daily Blogroll 8/13: Gyrating Goo edition"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/08/13/daily-blogroll-813-gyrating-goo-edition/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I THINK this screen shot came while we were raiding the City of Mist for Jalanea's shaman epic. Remember when guilds used to raid the..."
+categories:
   - "Aion"
   - "Champions Online"
   - "Daily Blogroll"
@@ -29,26 +13,19 @@ tags:
   - "EverQuest"
   - "MMORPG"
   - "Wizard101"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg"
 ---
+I THINK this screen shot came while we were raiding the City of Mist for Jalanea's shaman epic. Remember when guilds used to raid the...
+<!--more-->
 
-![Remember when guilds used to RAID the City of Mist?](https://chasingdings.com/wp-content/uploads/2009/08/181914a4c5ed9798708c0fb8240c540a.jpg "Remember when guilds used to RAID the City of Mist?")
+
 
 I THINK this screen shot came while we were raiding the City of Mist for Jalanea's shaman epic. Remember when guilds used to raid the City of Mist? Something I really liked about EverQuest was the mix of raid targets in leveling zones. Now it's all instances and keeping people away from each other as much as possible. Sad.
 
 Speaking of EverQuest, most gaming sites have been showing the new trailer for EverQuest's hundred and twentieth (or so...) expansion, "Underfoot". This trailer, "[The Road to Underfoot](http://www.gametrailers.com/video/debut-trailer-everquest-underfoot/54174)", shows all manner of giant killing all over Norrath that lead up to the opening of the Plane of the Duke of Below to players this autumn. Both group and raid targets are on the table, and both high and low level, so gear up, find someone taller than yourself, and have at 'em. Gnomes and haffers, go crazy :)
 
-Wolfshead, who famously took EverQuest 2 apart in his "15 Minutes" look at the Queen's Colony newbie island, has turned his critical eye toward [the first of the newer newbie experiences, Greater Faydark and Kelethin](http://www.wolfsheadonline.com/?p=2828). I don't want to be all [Ms. Negative](https://chasingdings.com/index.php/2009/08/13/eq2-how-to-find-the-banker-in-kelethin/) about the post, but, as with his last article, I don't agree that WoW is the gold standard by which all Fantasy MMORPGs shall be judged. I liked the original Kelethin in EQ1, like the update done in EQ2, and I've done enough of the quests to understand why it is that the Fae overrun the place and there's precious little there to do with the other races native to Faydwer. So I'm not an impartial judge.
+Wolfshead, who famously took EverQuest 2 apart in his "15 Minutes" look at the Queen's Colony newbie island, has turned his critical eye toward [the first of the newer newbie experiences, Greater Faydark and Kelethin](http://www.wolfsheadonline.com/?p=2828). I don't want to be all [Ms. Negative](https://tipa16384.github.io/wkblog/index.php/2009/08/13/eq2-how-to-find-the-banker-in-kelethin/) about the post, but, as with his last article, I don't agree that WoW is the gold standard by which all Fantasy MMORPGs shall be judged. I liked the original Kelethin in EQ1, like the update done in EQ2, and I've done enough of the quests to understand why it is that the Fae overrun the place and there's precious little there to do with the other races native to Faydwer. So I'm not an impartial judge.
 
 He liked the community, though. The community for both EverQuest and EverQuest 2 are among the best anywhere.
 

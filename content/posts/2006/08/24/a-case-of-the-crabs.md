@@ -3,41 +3,18 @@ date: '2006-08-24T09:10:30-05:00'
 draft: false
 title: "A Case of the Crabs"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/08/24/a-case-of-the-crabs/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I logged in intending to make some serious progress toward my Hoo'loh hat. And I did; I quickly found a Halls of Fate group headed..."
+categories:
   - "EverQuest"
   - "General"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/08/crab.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/08/crab.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/crab.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/08/crab.jpg"
 ---
+I logged in intending to make some serious progress toward my Hoo'loh hat. And I did; I quickly found a Halls of Fate group headed...
+<!--more-->
 
-![Bonesnapper](https://chasingdings.com/wp-content/uploads/2006/08/crab.jpg)
+
 
 I logged in intending to make some serious progress toward my Hoo'loh hat. And I did; I quickly found a Halls of Fate group headed by the wizard/conjurer duo with whom I'd killed the scrollbearer and escorted Hoo'loh at the beginning of the quest. Helped a lot by an EC tank and healer, we wasted the zone and got all the kill updates but one for the hat. The last one is in the Palace of the Awakened, from one of creatures guarding the green dragon.
 
@@ -45,7 +22,7 @@ I really want to finish the hat quest so I can start on the Mark of the Awakened
 
 I won these snot-green arms in HoF. I was very sad to say goodbye to my cute little purple spiked shoulderpads.
 
-![Motley Armor](https://chasingdings.com/wp-content/uploads/2006/08/tailor.jpg)I'd no sooner finished HoF, than Matteo from Legends invited me along to kill Bonesnapper, the giant crab in the latest adventure pack. I love Legends; without them inviting me along on raids now and again, I'd hardly ever have a chance to raid. We need lots more people in Revolution to get to raid strength!
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/08/tailor.jpg" classes="fig-20" >}}I'd no sooner finished HoF, than Matteo from Legends invited me along to kill Bonesnapper, the giant crab in the latest adventure pack. I love Legends; without them inviting me along on raids now and again, I'd hardly ever have a chance to raid. We need lots more people in Revolution to get to raid strength!
 
 The crab has adds at certain points, and a punishing hit point/power drain AE every twenty seconds. Not near as bad as Darathar; and yet we wiped four or five times before we killed him. He dropped a pair of legendary pants, that I won. I guess this wasn't the drop people were hoping from him. I still felt kinda guilty for winning the pants -- seems I always win something nice when I raid with Legends.
 

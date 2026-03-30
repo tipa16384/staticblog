@@ -3,38 +3,13 @@ date: '2008-03-07T10:55:35-05:00'
 draft: false
 title: "Hello Kitty Online and Emergent Behavior in Raids"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/03/07/hello-kitty-online-and-emergent-behavior-in-raids/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Do that Hello Kitty Online! video...."
+categories:
   - "Hello Kitty Online"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+Do that Hello Kitty Online! video....
+<!--more-->
 
 - Do that Hello Kitty Online! video.
 

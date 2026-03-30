@@ -3,47 +3,25 @@ date: '2023-11-07T07:00:00-05:00'
 draft: false
 title: "HeroQuest: The Rescue of Sir Ragnar"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/07/heroquest-the-rescue-of-sir-ragnar/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Where the wizard runs ahead of the rest of the party and everyone else pays the price. Again."
-description: "Where the wizard runs ahead of the rest of the party and everyone else pays the price. Again."
-tags:
+categories:
   - "Game Night"
   - "HeroQuest"
   - "Tabletop Games"
+tags:
   - "Orc"
   - "Wizard"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/rescueofsirragnar.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/rescueofsirragnar.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/rescueofsirragnar.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/rescueofsirragnar.png"
 ---
+Where the wizard runs ahead of the rest of the party and everyone else pays the price. Again.
+<!--more-->
 
 Midjourney -- the text-to-image program I used for this post's title image -- has released a tool to tune Midjourney to an almost ridiculous extent, and once tuned, to keep using this tuning for other images. This is WAY beyond Dall-E 2. I'm betting Dall-E 3 will raise the bar again, but I'm happy.
 
 So back to our wayward wizard. The wizard is played by a guy, my son, who plays a *lot* of D&D in real life with a couple different groups. You would *think* that he would know the value of everyone sticking together and letting the big meat shields stand in the front. He didn't, and he did pay the price.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/IMG_4027-1024x768.jpg" title="Clockwise from bottom left -- barbarian, Zargon, wizard, and me with dwarf and elf off-camera" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/IMG_4027-1024x768.jpg" title="Clockwise from bottom left -- barbarian, Zargon, wizard, and me with dwarf and elf off-camera" classes="center" >}}
 
 Zargon spake thus: *"[Sir Ragnar](https://heroquest.fandom.com/wiki/Loretome:Sir_Ragnar), one of the Emperor's most powerful knights, has been captured. There is reason to believe that he is being held prisoner by Ulag, the Orc Warlord. You are to find Sir Ragnar and bring him back to the stairway. [Prince Magnus](https://warhammerfantasy.fandom.com/wiki/Magnus_the_Pious) will pay 240 gold coins to be divided among the Heroes, if they rescue Sir Ragnar. No reward will be paid if Sir Ragnar is killed during the escape."*
 

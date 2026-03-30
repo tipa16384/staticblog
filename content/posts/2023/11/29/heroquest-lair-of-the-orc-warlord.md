@@ -3,42 +3,20 @@ date: '2023-11-29T07:00:00-05:00'
 draft: false
 title: "HeroQuest: Lair of the Orc Warlord"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2023/11/29/heroquest-lair-of-the-orc-warlord/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it."
-description: "Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it."
-tags:
+categories:
   - "Game Night"
   - "HeroQuest"
   - "Midjourney"
   - "Tabletop Games"
+tags:
   - "ChatGPT"
   - "Dall-E 2"
-featured_image: "https://chasingdings.com/wp-content/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2023/11/b34850e8-93d7-41d7-afdc-eec711923a98.webp"
 ---
+Being the third foray into the dungeon. Sir Ragnar seeks revenge and only our blades and his gold can supply it.
+<!--more-->
 
 This is the third of the starter adventures in the new HeroQuest reprint.
 
@@ -46,7 +24,7 @@ Last session, we rescued Sir Ragnar from the clutches of the orcs. He was mostly
 
 Ragnar took up his sword and armor and headed toward the dungeon. As he neared it, he was consumed by an overwhelming fear and couldn't continue. Discouraged, but not defeated, he sent word to us that 180 gold would be ours to split if we would descend once again and take care of the orc warlord.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/IMG_4074-1024x768.jpg" title="Exploring the dungeon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/IMG_4074-1024x768.jpg" title="Exploring the dungeon" classes="center" >}}
 
 Ally played Zargon tonight, so I played her Barbarian. Kasul took back his Dwarf and Elf, and Drew continued with his Wizard.
 
@@ -60,7 +38,7 @@ Ally had bought a crossbow for the Barbarian last session. This is a three attac
 
 We did find a wizard's staff as a treasure in one of the rooms. The wizard gladly took it. It can attack diagonally, making it possible for the wizard, protected by two meat shields, to poke his staff in between them and trip up the odd orc.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/IMG_4075-1024x768.jpg" title="Zargon" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/IMG_4075-1024x768.jpg" title="Zargon" classes="center" >}}
 
 We're still not getting the amount of gold we really need in order to buy the best stuff from the armory, but I did have enough gold at the end of the night to buy a helmet, giving the Barbarian another defense die. Other players have said that the game gets easier every trial, as long as you search for treasure consistently and buy upgrades. We're three adventures in, and the Barbarian was never in any real danger. Part of that was the Wizard tanking, but the Dwarf and Elf soaked up their share of hits. I have a couple of potions I hadn't needed, good weapons and some armor... we'll see.
 
@@ -72,7 +50,7 @@ So -- adventures are fun, we can do a little roleplaying, anyone can "be Zargon"
 
 There's *decades* of expansions, both official and unofficial, for this game. This whole set of fourteen adventures is just a starting point. By the end, when we meet Zargon... we should be prepared. I hope.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2023/11/image-10-1024x574.png" title="Midjourney" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2023/11/image-10-1024x574.png" title="Midjourney" classes="center" >}}
 
 I made my own heroic fantasy art style for Midjourney that I have been using for the header images for the HeroQuest write-ups. While I do like the art style, Midjourney has a real issue with making stuff without huge issues.
 

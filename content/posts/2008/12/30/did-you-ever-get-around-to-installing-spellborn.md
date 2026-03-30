@@ -3,40 +3,17 @@ date: '2008-12-30T02:36:23-05:00'
 draft: false
 title: "Did you ever get around to installing Spellborn?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/12/30/did-you-ever-get-around-to-installing-spellborn/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Kinda ragged... spent all night backing up my blog, then I decided to make the new blog really snazzy, then I REALLY fouled things up..."
+categories:
   - "Chronicles of Spellborn"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-00-59-19-44.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-00-59-19-44.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-00-59-19-44.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-00-59-19-44.jpg"
 ---
+Kinda ragged... spent all night backing up my blog, then I decided to make the new blog really snazzy, then I REALLY fouled things up...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-00-59-19-44.jpg "sb_client-2008-12-30-00-59-19-44")
+
 
 Kinda ragged... spent all night backing up my blog, then I decided to make the new blog really snazzy, then I REALLY fouled things up so that I couldn't get email any more, and don't even ASK me how that happened, because I SWEAR I don't know...
 
@@ -44,7 +21,7 @@ I was thinking of sleep, when I thought, hey, company is gone, I have the use of
 
 I could and did indeed. After about an hour and a half of patching, anyway.
 
-![](https://chasingdings.com/wp-content/uploads/2008/12/sb_client-2008-12-30-01-15-17-87.jpg "sb_client-2008-12-30-01-15-17-87")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/12/sb_client-2008-12-30-01-15-17-87.jpg" title="sb_client-2008-12-30-01-15-17-87" classes="center" >}}
 
 When I mentioned in an article I wrote for Massively awhile back that you could make overweight characters in Spellborn, a commenter said, 'Gee, great, a game for lesbians.'
 

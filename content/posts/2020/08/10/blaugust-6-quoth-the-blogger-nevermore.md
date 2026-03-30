@@ -3,37 +3,16 @@ date: '2020-08-10T12:17:42-05:00'
 draft: false
 title: "Blaugust #6: Quoth the Blogger, \"Nevermore\"."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2020/08/10/blaugust-6-quoth-the-blogger-nevermore/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
+summary: "Back in sixth grade, first day of science class, the teacher asked us \"what is science?\" First day, we were supposed to answer that? The..."
+categories:
+  - "Blaugust"
 tags:
   - "Blaugust"
-featured_image: "https://chasingdings.com/wp-content/uploads/2020/08/green-lantern-oath-wallpaper_5883704.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2020/08/green-lantern-oath-wallpaper_5883704.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/green-lantern-oath-wallpaper_5883704.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2020/08/green-lantern-oath-wallpaper_5883704.jpg"
 ---
+Back in sixth grade, first day of science class, the teacher asked us "what is science?" First day, we were supposed to answer that? The...
+<!--more-->
 
 Back in sixth grade, first day of science class, the teacher asked us "what is science?" First day, we were supposed to answer that? The paper was blank, the pencil was blunt, and I was just there wracking my brains, trying to figure out what science was. All I could think of when I thought about science were old movies with lots crazy guys in lab coats working with beakers and tubes and bubbling stuff, so I put down "Science is chemistry!"
 
@@ -64,7 +43,7 @@ So, given all that, here's one:
 > Wider den Tod ist kein Krautlein gewachsen
 > - James Blish, "They Shall Have Stars"
 
-[I've written before](https://chasingdings.com/?p=611) that my mother encouraged me to read books I really had no business reading. James Blish had huge success writing up novelizations of Star Trek episodes. We didn't get Star Trek at home, but sometimes when we visited my grandmother, who had cable, I'd find it on and would watch, raptly. It was through those novelizations (that I would beg from my mom whenever we'd go to the grocery store, which at that time also had spinning racks of paperbacks for sale) -- it was through those novelizations that I knew James Blish, and was introduced to his other works, including a really thick book called "[Cities in Flight](https://en.wikipedia.org/wiki/Cities_in_Flight)", which was an omnibus collection of four shorter novels telling the story of the diaspora of Earth's (which is to say, America's) cities (following first Scranton, Pennsylvania before moving on to New York City) into space after the twin discoveries of faster than light travel that works better the more massive the ship, and life extension drugs.
+[I've written before](https://tipa16384.github.io/wkblog/?p=611) that my mother encouraged me to read books I really had no business reading. James Blish had huge success writing up novelizations of Star Trek episodes. We didn't get Star Trek at home, but sometimes when we visited my grandmother, who had cable, I'd find it on and would watch, raptly. It was through those novelizations (that I would beg from my mom whenever we'd go to the grocery store, which at that time also had spinning racks of paperbacks for sale) -- it was through those novelizations that I knew James Blish, and was introduced to his other works, including a really thick book called "[Cities in Flight](https://en.wikipedia.org/wiki/Cities_in_Flight)", which was an omnibus collection of four shorter novels telling the story of the diaspora of Earth's (which is to say, America's) cities (following first Scranton, Pennsylvania before moving on to New York City) into space after the twin discoveries of faster than light travel that works better the more massive the ship, and life extension drugs.
 
 The lab where they developed the life extension drugs had that quote inscribed above the door -- "Against Death doth no Simple Grow" -- there is no herb that can stay death. But, of course, they do find a treatment.
 

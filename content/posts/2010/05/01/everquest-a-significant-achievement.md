@@ -3,40 +3,19 @@ date: '2010-05-01T16:00:19-05:00'
 draft: false
 title: "EverQuest: A significant achievement"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/05/01/everquest-a-significant-achievement/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "EverQuest"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/05/eqgame-2010-05-01-08-32-35-48.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/05/eqgame-2010-05-01-08-32-35-48.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/eqgame-2010-05-01-08-32-35-48.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/05/eqgame-2010-05-01-08-32-35-48.jpg"
 ---
+[...
+<!--more-->
 
-[![](https://chasingdings.com/wp-content/uploads/2010/05/eqgame-2010-05-01-08-32-35-48.jpg "Pellucid Caverns")](https://chasingdings.com/wp-content/uploads/2010/05/eqgame-2010-05-01-08-32-35-48.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/05/eqgame-2010-05-01-08-32-35-48.jpg)
 
 Progression through EverQuest's Underfoot expansion is built entirely through their new achievement system. It's all about the achievement, isn't it? You can get achievements for steamrolling dungeons, doing them without deaths or other limitations (like no crowd control), just exploring new zones.... Not so different from achievements in any other MMO, though perhaps not to the level of World of Warcraft.
 
@@ -44,7 +23,7 @@ In previous expansions, finding your progress through it wasn't all that easy. I
 
 Who can forget the clumsy system of glowing tattoos used by the Planes of Power? Or the collections to maintain in the Gates of Discord (such that most people NEVER completed the GoD progression!). Similar issues for each expansion -- you could judge your progression through the Dragons of Norrath by seeing who would talk to you and what they'd offer. The appearance of The Void changes as you reset history in Seeds of Destruction. And so on.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2010/05/eqgame-2010-05-01-08-31-45-50-423x479.jpg" title="Click to enlarge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2010/05/eqgame-2010-05-01-08-31-45-50-423x479.jpg" title="Click to enlarge" classes="center" >}}
 
 Given all the wonderfully bizarre ways DOE's invented to track progression, it's amazing that it took them until Underfoot to make an actual mechanism for it. But they've done it, and not content with doing anything by halves, pretty much everything you do in Underfoot is tracked somehow by the achievement window.
 

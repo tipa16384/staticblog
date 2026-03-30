@@ -3,27 +3,12 @@ date: '2022-07-29T08:06:45-05:00'
 draft: false
 title: "Breaking the 4th Wall: A Mysterious Point-and-Click Adventure"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/07/29/breaking-the-4th-wall-a-mysterious-point-and-click-adventure/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I ran across this gem by accident, actually -- an AI told me about it...."
+categories:
   - "Adventure"
   - "Android"
   - "Comic"
+tags:
   - "11sheep"
   - "80s and 90s"
   - "Adrian"
@@ -39,22 +24,15 @@ tags:
   - "Point and Click"
   - "Scott Pilgrim"
   - "Video Cameras"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot_2022.07.29_07.15.30.416.png"
 ---
+I ran across this gem by accident, actually -- an AI told me about it....
+<!--more-->
 
 I ran across this gem by accident, actually -- an AI told me about it.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/Screenshot_2022.07.29_07.16.44.717-1024x576.png" title="Scene from Breaking the 4th Wall" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot_2022.07.29_07.16.44.717-1024x576.png" title="Scene from Breaking the 4th Wall" classes="center" >}}
 
 This is a point and click adventure game, That's a genre we hardly ever see these days, past their heyday in the 80s and 90s. The last one I can think of is Disco Elysium, the excellence of which makes it a hard act to follow.
 
@@ -62,7 +40,7 @@ Breaking the 4th Wall follows Adrian, a man paralyzed by crippling anxiety. Gett
 
 The three scenes released so far all play out in indie comic-like panels. These panels are actually views from video cameras (as becomes explicit after a certain point in the game), so as Adrian moves around, he might appear in more than one of them at a time. Each has clues as to what Adrian should be doing in order to conquer a fear and move on to the next puzzle in his life.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/07/Screenshot_2022.07.29_07.16.34.983-1024x576.png" title="Just another week of hell" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/07/Screenshot_2022.07.29_07.16.34.983-1024x576.png" title="Just another week of hell" classes="center" >}}
 
 This game is on the Steam store, listed as being released last December and requiring Windows 7 or better to run. It isn't actually available on the store. The website for the game (www.breakingfourthwall.com) doesn't seem to be hooked up, the developer, Mashigene Games, doesn't appear to have any internet presence. Publisher 11Sheep does list the game, but there is no further information than what we have.
 

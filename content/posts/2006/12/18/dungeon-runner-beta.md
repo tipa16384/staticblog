@@ -3,41 +3,16 @@ date: '2006-12-18T13:49:01-05:00'
 draft: false
 title: "Dungeon Runner Beta"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2006/12/18/dungeon-runner-beta/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "If Blizzard had decided to expand Diablo instead of Warcraft into an MMO, the result might have been much like Dungeon Runner, the soon-to-be-released Action..."
+categories:
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2006/12/boss.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2006/12/boss.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2006/12/boss.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2006/12/boss.jpg"
 ---
+If Blizzard had decided to expand Diablo instead of Warcraft into an MMO, the result might have been much like Dungeon Runner, the soon-to-be-released Action...
+<!--more-->
 
 If Blizzard had decided to expand Diablo instead of Warcraft into an MMO, the result might have been much like Dungeon Runner, the soon-to-be-released Action MMO from NCSoft.
-
-![boss.jpg](https://chasingdings.com/wp-content/uploads/2006/12/boss.jpg)
 
 *Outlined in red means Extra Evil.*
 
@@ -45,7 +20,7 @@ It's massively multiplayer stripped to the bare essentials; Fighter, Mage or Ran
 
 These well-to-do forest denizens leave tons of weapons, armor and jewelry for you. You're a mage but would like a shield and some heavy armor for when things get too close? You can do that. Fighter who would like a long range poison attack to start things off? No problem. Any class can use any equipment and learn any abilities, but of course rangers can best use their abilities and so forth.
 
-![obelisk.jpg](https://chasingdings.com/wp-content/uploads/2006/12/obelisk.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/12/obelisk.jpg" classes="center" >}}
 
 *The central square of appropriately-named town Townston.*
 
@@ -53,7 +28,7 @@ The first place you come to after leaving the newbie area is Townston, a town in
 
 This is pretty much the only place you will actually see other players; all the adventure content is instanced. From the leafy Dew Forest to the twisted corridors of the dungeon Algernon, it's all you unless you invite another.
 
-![townston.jpg](https://chasingdings.com/wp-content/uploads/2006/12/townston.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/12/townston.jpg" classes="center" >}}
 
 *Asking an NPC about the giant question-mark above his head.*
 
@@ -61,13 +36,13 @@ Dungeon Runner's art is right out of World of Warcraft, and it doesn't take a me
 
 This is a game made for short sessions of hacking and slashing. The Obelisk in the center of town whisks you to other towns or the last place you ~~saved the game~~ used a waypoint portal, deep in the dungeon.
 
-![battle.jpg](https://chasingdings.com/wp-content/uploads/2006/12/battle.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/12/battle.jpg" classes="center" >}}
 
 *Ranger strategy: Get things coming at you in a line, then autofire. *
 
 If you liked Diablo, you'll love Dungeon Runner. Townston contains portals to the level 1-20 starter dungeon, Algernon (which has sub-dungeons nearly every level within), and a group 20+ dungeon called the Horrible Dungeon of Inescapable Evil which I have not yet tried. I'm assuming there will be additional towns with even yet more dungeons coming (or implemented but just not seen by me) to keep you logging in.
 
-![ring.jpg](https://chasingdings.com/wp-content/uploads/2006/12/ring.jpg)
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2006/12/ring.jpg" classes="center" >}}
 
 *Dungeon Runner has the oddest item names -- ever. *
 

@@ -3,38 +3,13 @@ date: '2015-07-04T14:56:35-05:00'
 draft: false
 title: "The Chronicles of Spellborn, Reborn?"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/07/04/the-chronicles-of-spellbo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[gallery ids=\"11618,11619,11620,11621,11622,11623\"]..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: ""
-cover:
-  image: "<image path/url>"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
 ---
+[gallery ids="11618,11619,11620,11621,11622,11623"]...
+<!--more-->
 
 [gallery ids="11618,11619,11620,11621,11622,11623"]
 

@@ -3,43 +3,21 @@ date: '2022-08-13T07:00:00-05:00'
 draft: false
 title: "Thirteen Step Program: A Psychological Thriller"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/08/13/thirteen-step-program-a-psychological-thriller/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "You play as a young woman who is struggling with addiction. After hitting rock bottom, you enter into recovery and start attending AA meetings. However, you quickly discover that not all is as it seems within the group…"
-description: "You play as a young woman who is struggling with addiction. After hitting rock bottom, you enter into recovery and start attending AA meetings. However, you quickly discover that not all is as it seems within the group…"
-tags:
+categories:
   - "Blaugust"
   - "Blaugust 2022"
   - "OpenAI"
   - "Psychological Thriller"
+tags:
   - "Craiyon"
   - "Dall-E 2"
   - "Gpt-3"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-05-19.50.36-a-close-up-of-a-females-eye-with-dark-circles-around-it.-The-pupil-is-dilated-and-there-is-a-single-tear-running-down-the-cheek.-The-woman-looks-tir.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-05-19.50.36-a-close-up-of-a-females-eye-with-dark-circles-around-it.-The-pupil-is-dilated-and-there-is-a-single-tear-running-down-the-cheek.-The-woman-looks-tir.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-05-19.50.36-a-close-up-of-a-females-eye-with-dark-circles-around-it.-The-pupil-is-dilated-and-there-is-a-single-tear-running-down-the-cheek.-The-woman-looks-tir.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-05-19.50.36-a-close-up-of-a-females-eye-with-dark-circles-around-it.-The-pupil-is-dilated-and-there-is-a-single-tear-running-down-the-cheek.-The-woman-looks-tir.png"
 ---
+You play as a young woman who is struggling with addiction. After hitting rock bottom, you enter into recovery and start attending AA meetings. However, you quickly discover that not all is as it seems within the group…
+<!--more-->
 
 I asked OpenAI’s GPT-3 to generate 31 different videogame ideas, one for each day of Blaugust, each dealing in some way with that particular day of the month. Here’s its idea for August 13th: “The Thirteen Step Program”.
 
@@ -51,13 +29,13 @@ You start attending the meetings, and things seem to be going well. However, you
 
 The fully voiced opening cutscene introduces the main characters of the game. The pastor that runs the group, who remains unnamed throughout the game, seems kind and helpful at first. But there's something off about him... The other members of the group are all women, and each one has their own dark secrets.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/DALL·E-2022-08-05-20.02.40-35mm-800-film-speed-photograph-of-modern-day-women-sitting-in-a-circle-in-a-dim-room.-A-man-dressed-as-a-pastor-is-standing-in-the-center-of-the-circl-1024x1024.png" title="From the opening cutscene..." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/DALL·E-2022-08-05-20.02.40-35mm-800-film-speed-photograph-of-modern-day-women-sitting-in-a-circle-in-a-dim-room.-A-man-dressed-as-a-pastor-is-standing-in-the-center-of-the-circl-1024x1024.png" title="From the opening cutscene..." classes="center" >}}
 
 As you progress through the game, attending meetings and completing tasks for the group, you slowly start to piece together what is really going on. And it isn't pretty.
 
 The game takes some very dark turns, and is definitely not for the faint of heart. The gameplay itself is mostly exploration-based, with some simple puzzles to solve along the way. The graphics are gorgeous, and create a truly creepy atmosphere. The voice acting is also top-notch.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2022/08/image-1.png" title="What can she see?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2022/08/image-1.png" title="What can she see?" classes="center" >}}
 
 **Graphics**
 

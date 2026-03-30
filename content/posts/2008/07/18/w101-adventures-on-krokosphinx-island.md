@@ -3,41 +3,19 @@ date: '2008-07-18T01:15:06-05:00'
 draft: false
 title: "W101: Adventures on Krokosphinx Island"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/07/18/w101-adventures-on-krokosphinx-island/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "My sister is in labor with my new niece or nephew, and I don't want to go to sleep until he or she is born!..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Krokosphinx Island"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/07/krokosphinx.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/07/krokosphinx.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/krokosphinx.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/07/krokosphinx.jpg"
 ---
+My sister is in labor with my new niece or nephew, and I don't want to go to sleep until he or she is born!...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/07/krokosphinx.jpg "krokosphinx")
+
 
 My sister is in labor with my new niece or nephew, and I don't want to go to sleep until he or she is born! So exciting, since I think she (or he) will likely be the last baby born of their generation. Allyson, Shannon, Andrew, Jazzmin, Ilsa, Ellie -- and now Fruity (temporary name). My cousin Adam still has time to get in the running here, but who knows...
 

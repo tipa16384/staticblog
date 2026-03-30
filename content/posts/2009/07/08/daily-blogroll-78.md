@@ -3,24 +3,8 @@ date: '2009-07-08T08:09:39-05:00'
 draft: false
 title: "Daily Blogroll 7/8"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/07/08/daily-blogroll-78/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I love the feeling of peace and serenity EVE Online gives. And then sometimes weird, exciting stuff happens. A corps-mate and I were testing weapons..."
+categories:
   - "Aion"
   - "City of Heroes"
   - "Daily Blogroll"
@@ -28,20 +12,13 @@ tags:
   - "Free Realms"
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/07/ExeFile-2009-07-08-07-40-15-58.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/07/ExeFile-2009-07-08-07-40-15-58.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/ExeFile-2009-07-08-07-40-15-58.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/07/ExeFile-2009-07-08-07-40-15-58.jpg"
 ---
+I love the feeling of peace and serenity EVE Online gives. And then sometimes weird, exciting stuff happens. A corps-mate and I were testing weapons...
+<!--more-->
 
-![The Myrmidon ](https://chasingdings.com/wp-content/uploads/2009/07/ExeFile-2009-07-08-07-40-15-58.jpg "The Myrmidon ")
+
 
 I love the feeling of peace and serenity EVE Online gives. And then sometimes weird, exciting stuff happens. A corps-mate and I were testing weapons fire and tank abilities last night when a battle broke out behind us as rival corps met outside a station. It was great, and for some reason reminded me of the very first story I ever read about EVE Online, about [The Great Scam](http://www.wirm.net/nightfreeze/part1.html) which put the game on everyone's long range scanners.
 

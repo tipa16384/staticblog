@@ -3,39 +3,17 @@ date: '2025-10-28T07:00:00-05:00'
 draft: false
 title: "Malifaux 4e: Rasputina vs Seamus"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2025/10/28/malifaux-4e-rasputina-vs-seamus/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "I showed this to my opponent. \"Look, snipers, on a rooftop, in a book depository, shooting a VIP and his partner? No?\" Nope. Meant nothing to him."
-description: "I showed this to my opponent. \"Look, snipers, on a rooftop, in a book depository, shooting a VIP and his partner? No?\" Nope. Meant nothing to him."
-tags:
+categories:
   - "Malifaux"
   - "Tabletop Games"
+tags:
   - "Pack Rat Gaming"
-featured_image: "https://chasingdings.com/wp-content/uploads/2025/10/1-IMG_5451-scaled.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2025/10/1-IMG_5451-scaled.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/1-IMG_5451-scaled.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2025/10/1-IMG_5451-scaled.jpg"
 ---
+I showed this to my opponent. "Look, snipers, on a rooftop, in a book depository, shooting a VIP and his partner? No?" Nope. Meant nothing to him.
+<!--more-->
 
 It was the third and last battle of the Malifaux league; we'll have a tournament to decide it all in a couple of weeks.
 
@@ -43,7 +21,7 @@ Since the last game, Wyrd Games released their Fourth Edition crew builder for i
 
  It occurred to me, after I got to the store and found myself without an opponent, to check on Discord and see if there'd been an issue.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/image-13.png" title="I guess I should have checked earlier" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/image-13.png" title="I guess I should have checked earlier" classes="center" >}}
 
 This battle was one in which I felt I only made one real mistake, but otherwise played fairly well. Usually, after a match, I go over it to figure out ways in which I could have played better. I'm not sure I could think of anything I really did terribly wrong, but there are things I would do differently.
 
@@ -71,7 +49,7 @@ In the Malifaux lore, Seamus actually *is* Jack the Ripper. Most of his crew are
 
 *Dead Dandy*: Likes to attack enemies that are alone.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-08_22_14-AM-1024x683.png" title="Everything okay, Seamus? You good?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2025/10/ChatGPT-Image-Oct-27-2025-08_22_14-AM-1024x683.png" title="Everything okay, Seamus? You good?" classes="center" >}}
 
 Deployment was Wedge, which is a good one for December. Strategy was Recover Evidence. I hadn't played this one before. Each player makes a strategy marker entirely on the enemy table half; additional strategy markers are created when you kill an enemy. Additionally, once per game, a player can convert scheme markers entirely on the enemy half of the board into a strategy marker, the number of scheme markers required is the turn number. One first turn, two second turn, and so on.
 

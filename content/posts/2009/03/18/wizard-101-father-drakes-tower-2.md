@@ -3,42 +3,20 @@ date: '2009-03-18T07:44:32-05:00'
 draft: false
 title: "Wizard 101: Father Drake's Tower"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/03/18/wizard-101-father-drakes-tower-2/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Malistaire has gotten a really bad rep. Sure, he destroyed parts of Wizard City, stole the Krokonomicon from Krokotopia, plotted with Marleybone's nefarious Dr. Katzenstein,..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Dragonspyre"
   - "Malistaire"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg"
 ---
+Malistaire has gotten a really bad rep. Sure, he destroyed parts of Wizard City, stole the Krokonomicon from Krokotopia, plotted with Marleybone's nefarious Dr. Katzenstein,...
+<!--more-->
 
-![wizardgraphicalclient-2009-03-14-20-02-42-60](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-14-20-02-42-60.jpg "wizardgraphicalclient-2009-03-14-20-02-42-60")
+
 
 Malistaire has gotten a really bad rep. Sure, he destroyed parts of Wizard City, stole the Krokonomicon from Krokotopia, plotted with Marleybone's nefarious Dr. Katzenstein, nearly killed the Moo Shu Emperor, and teamed up with the Dragon Titan whose army destroyed Dragonspyre, but really. Can you blame him?
 
@@ -50,7 +28,7 @@ Now, post-Malistaire-berserkination, Ravenwood no longer turns out weak wizards 
 
 "Oh, hi, random wizard from the past. Yes, I am sure you were a great wizard in your day. Yes, I would love to have heard more of your story but it seems my balance blade, life blade, life trap and a BIG HELPING OF CENTAUR BUTT has rudely interrupted you."
 
-![wizardgraphicalclient-2009-03-15-14-16-14-94](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-15-14-16-14-94.jpg "wizardgraphicalclient-2009-03-15-14-16-14-94")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-15-14-16-14-94.jpg" title="wizardgraphicalclient-2009-03-15-14-16-14-94" classes="center" >}}
 
 Anyway.
 
@@ -58,7 +36,7 @@ Stone cold killer wizard I may be, but Dragonspyre fights are so long and so ted
 
 It wasn't actually that bad, and my trip up the tower really impressed Father Drake, who was more than happy to give me all the scales I could ever need with which to forge my drake's armor.
 
-![wizardgraphicalclient-2009-03-15-14-25-08-96](https://chasingdings.com/wp-content/uploads/2009/03/wizardgraphicalclient-2009-03-15-14-25-08-96.jpg "wizardgraphicalclient-2009-03-15-14-25-08-96")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/03/wizardgraphicalclient-2009-03-15-14-25-08-96.jpg" title="wizardgraphicalclient-2009-03-15-14-25-08-96" classes="center" >}}
 
 Oh yes, I do have a drake now!
 

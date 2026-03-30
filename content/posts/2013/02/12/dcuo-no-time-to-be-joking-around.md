@@ -3,40 +3,17 @@ date: '2013-02-12T07:46:27-05:00'
 draft: false
 title: "DCUO: No time for jokes"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/02/12/dcuo-no-time-to-be-joking-around/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "One thing I really do love about DC Universe Online is its call-outs to all the various incarnations of the characters. For instance, Robin. In..."
+categories:
   - "DC Universe Online"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/02/MPYR0167_AUDIO-PC-10-22.37.390-480x300.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/02/MPYR0167_AUDIO-PC-10-22.37.390-480x300.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MPYR0167_AUDIO-PC-10-22.37.390-480x300.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/02/MPYR0167_AUDIO-PC-10-22.37.390-480x300.jpg"
 ---
+One thing I really do love about DC Universe Online is its call-outs to all the various incarnations of the characters. For instance, Robin. In...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MPYR0167_AUDIO-PC-10-22.37.390-480x300.jpg" title="Harlequin & Robin" class="align-center" >}}
+
 
 One thing I really do love about DC Universe Online is its call-outs to all the various incarnations of the characters. For instance, Robin. In recent years, the various Robins have turned into competent fighters in their own right, leading their own super groups, and in general just kicking butt.
 
@@ -44,7 +21,7 @@ A lot of us remember, though, Robin's original purpose -- to be kidnapped more t
 
 Harlequin's confusion when she kidnapped Robin and got Team Spode instead made for an awkward moment all around. She wanted Batman. ROBIN wanted Batman. We all kinda wondered what was keeping the big guy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/MADV103_DESIGNERDATA-PC-10-23.41.390-480x343.jpg" title="Get your teeth brighter with Ultra-Humanite!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/MADV103_DESIGNERDATA-PC-10-23.41.390-480x343.jpg" title="Get your teeth brighter with Ultra-Humanite!" classes="center" >}}
 
 We followed up our fun at the Chuckle Hut with a quick blitz through Area 51, and then a reprise of Gorilla Island. What was intended to be a quick run.
 
@@ -54,7 +31,7 @@ There's a script going on, in the encounter, and I haven't figured out exactly w
 
 While breaking off to take care of the turrets.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-11-22.01.080-480x343.jpg" title="An occult table?" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/02/LAIR_FLOORPLAN_01_MATINEE-PC-11-22.01.080-480x343.jpg" title="An occult table?" classes="center" >}}
 
 We've started rolling for "NEED" on everything, instead of "GREED". Doctor Apocrypha vented his frustration at everyone rolling for "NEED" in his instance groups, and then gave a bunch of really good reasons why people should always be rolling "NEED", when they have the opportunity, in DCUO.
 

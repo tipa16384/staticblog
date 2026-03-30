@@ -3,24 +3,8 @@ date: '2010-04-16T06:59:58-05:00'
 draft: false
 title: "The West Karana Friday Offer Wall!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2010/04/16/the-west-karana-friday-offer-wall/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Unlike other offer walls, this one probably won't infect your computer with anything TOO harmful...."
+categories:
   - "Champions Online"
   - "Daily Blogroll"
   - "Final Fantasy"
@@ -29,22 +13,17 @@ tags:
   - "Other Games"
   - "Runes of Magic"
   - "Star Trek"
-featured_image: "https://chasingdings.com/wp-content/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg"
 ---
+Unlike other offer walls, this one probably won't infect your computer with anything TOO harmful....
+<!--more-->
 
 Unlike other offer walls, this one probably won't infect your computer with anything TOO harmful.
 
-[![](https://chasingdings.com/wp-content/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg "Gratuitous Space Battles")](https://chasingdings.com/wp-content/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg)
+[
+
+](https://tipa16384.github.io/wkblog/uploads/2010/04/GSB-2010-04-16-07-24-40-94.jpg)
 
 Like watching pretty alien spaceships blow up in all sorts of interesting ways? I do! I bought [Gratuitous Space Battles](http://www.positech.co.uk/gratuitousspacebattles/index.html) the day it came out and every now and then, I build some fleets and watch them get crazy on the devious (but not as devious as me) enemy. Positech Games sent me a 25% off code for the game, good for seven days only, and two of those days have already passed, so if you've been wanting the game, be the first to use up this discount code when ordering: **BNXP00099**.
 

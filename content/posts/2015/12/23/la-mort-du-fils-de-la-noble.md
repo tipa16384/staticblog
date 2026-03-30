@@ -3,40 +3,17 @@ date: '2015-12-23T16:12:51-05:00'
 draft: false
 title: "La Mort du Fils de la Noble"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2015/12/23/la-mort-du-fils-de-la-noble/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It was probably the most damning condemnation of religion I've ever come to see in a video game. Final Fantasy XIV's pope-analogue, the Archbishop Thordan..."
+categories:
   - "Final Fantasy"
   - "MMORPG"
-featured_image: "https://chasingdings.com/wp-content/uploads/2015/12/vlcsnap-2015-12-23-13h35m10s233.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2015/12/vlcsnap-2015-12-23-13h35m10s233.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/vlcsnap-2015-12-23-13h35m10s233.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2015/12/vlcsnap-2015-12-23-13h35m10s233.jpg"
 ---
+It was probably the most damning condemnation of religion I've ever come to see in a video game. Final Fantasy XIV's pope-analogue, the Archbishop Thordan...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/vlcsnap-2015-12-23-13h35m10s233.jpg" title="A sudden, stabbing pain..." class="align-center" >}}
+
 
 It was probably the most damning condemnation of religion I've ever come to see in a video game. Final Fantasy XIV's pope-analogue, the Archbishop Thordan VII, acknowledges to his bastard son, Lord Commander Aymeric, that the entire Ishgardian religion is nothing more than a sham. They've known all along that all Ishgardians contain the power of the ancient dragons. Religion is just a convenient tool to focus all that inherent power into the body of the Archbishop and his personal guard, the Heaven's Ward.
 
@@ -48,7 +25,7 @@ Saving Aymeric from the Vault exposed the corrupt underbelly of the Church. With
 
 It was a stupid death. The Heaven's Ward joined the Archbishop on the conveniently arrived airship and flew away to look for the fabled Allagan fortress of Azys Lla, and we returned, despondent, to Count Fortemps to inform him of the death of his son.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/vlcsnap-2015-12-23-13h32m19s52.jpg" title="Bismark gets the munchies" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/vlcsnap-2015-12-23-13h32m19s52.jpg" title="Bismark gets the munchies" classes="center" >}}
 
 The reason Azys Lla, the Allagan origin of primal power, hasn't released its power on the world is that the Allagans, before they disappeared, thoughtfully locked the place away and threw away the key. Threw the key to the safekeeping of the Vanu in the Sea of Clouds, that mysterious realm from which we could not gather all the gatherable aethyr currents because we couldn't figure out how to jump onto the slightly higher land that came maddeningly close to being within reach. Evil, evil level designers.
 
@@ -62,7 +39,7 @@ Well, there was nothing we could do about that but gather six of our closest str
 
 It took just two tries, not too bad for a new trial where most of the people had not done it before. The key to Azys Lla hung before us. Then the Archbishop swooped down, grabbed the key which opened and shone a light to Azys Lla. The Archbishop and the Heaven's Ward went off to follow.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/vlcsnap-2015-12-23-13h26m39s190.jpg" title="The Enterprise at Azys Lla" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/vlcsnap-2015-12-23-13h26m39s190.jpg" title="The Enterprise at Azys Lla" classes="center" >}}
 
 Well, it's not like we don't all have personal airships at this point, the Mage Cutters we used to assault Nidhogg in his Aery. But I guess those wouldn't be enough, because NOBODY EVEN MENTIONED THEM. Instead, we were told to see if Cid could take us in HIS airship.
 
@@ -74,7 +51,7 @@ News has come from Tataru that the Archon conjurer Y'shtola may not be all dead,
 
 The Gridanian Seedseer and Y'shtola's summoner guildmaster sister managed to gain the help of aethyric spirits to gather Y'shtola's essence from the Lifestream and reassemble her mortal body. Taking her back out of heaven, basically.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/1-vlcsnap-2015-12-23-15h43m50s112.jpg" title="Following the road to Shayarlan with Alphinaud and Y'shtola" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/1-vlcsnap-2015-12-23-15h43m50s112.jpg" title="Following the road to Shayarlan with Alphinaud and Y'shtola" classes="center" >}}
 
 Kasul and I chatted for awhile about whether or not she would once again adopt a mask before remembering that it was similarly-initialed Scion Yda who wore the mask. I think she's still dead at this point. Though you know the rule about death -- nobody is dead until you see the body. And probably not even then. Someone should see if they reappeared up at the start of the Ul'dah sewer zone.
 
@@ -86,7 +63,7 @@ And the way would be open! Opened with bombs! Lots of bombs!
 
 Goblins WILL be goblins, I suppose.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2015/12/ffxiv-2015-12-21-20-55-39-67.jpg" title="Goblins. 'Nuff said." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2015/12/ffxiv-2015-12-21-20-55-39-67.jpg" title="Goblins. 'Nuff said." classes="center" >}}
 
 I also made level 60 a few days ago. And finally finished the Paladin Heavensward job quest. The quest involves following the trail of the sword Oathkeeper, lost during the string of betrayals that tore apart the Ul'dan Sultansworn paladins. Well, not lost so much as "stolen". By a traitor to the guild. Anyway, there's been a guy trying to become a paladin by tracking down the sword and picking up the pieces of gear apparently left in various spots by the thief while learning what it means to be a paladin.
 

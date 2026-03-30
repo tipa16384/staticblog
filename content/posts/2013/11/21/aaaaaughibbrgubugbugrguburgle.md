@@ -3,40 +3,17 @@ date: '2013-11-21T07:24:20-05:00'
 draft: false
 title: "Aaaaaughibbrgubugbugrguburgle!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2013/11/21/aaaaaughibbrgubugbugrguburgle/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "Finally -- FINALLY! -- got into the Hearthstone beta last night. I've been looking forward to this game since... well, probably since I stopped playing..."
+categories:
   - "Hearthstone"
   - "Other Games"
-featured_image: "https://chasingdings.com/wp-content/uploads/2013/11/Hearthstone-2013-11-21-06-23-08-99.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2013/11/Hearthstone-2013-11-21-06-23-08-99.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/Hearthstone-2013-11-21-06-23-08-99.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2013/11/Hearthstone-2013-11-21-06-23-08-99.jpg"
 ---
+Finally -- FINALLY! -- got into the Hearthstone beta last night. I've been looking forward to this game since... well, probably since I stopped playing...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/Hearthstone-2013-11-21-06-23-08-99.jpg" title="My \"Murloc Deck\" about to go to work" class="align-center" >}}
+
 
 Finally -- FINALLY! -- got into the Hearthstone beta last night. I've been looking forward to this game since... well, probably since I stopped playing Wizard101. Deck construction was always the part I liked best about that game. Always having that perfect card available. Welcoming additional players in my circle because the more enemies, the sweeter the victory.
 
@@ -46,7 +23,7 @@ I thought I was the only one in my circles who hadn't got into the beta, but app
 
 Your avatar on the game board is a Hero, one of Norrath's notable nameds. I got started off as the mage Jaina Proudmoore, leader of the Kirin Tor and ruler of Dalaran. Heroes from the other normal WoW classes may be unlocked by defeating them in practice battles. I didn't see newer classes such as Deathknight or Monk, but I'd be surprised if they didn't show up soon. Both showed up in the tutorial, after all -- the Deathknight in the person of Illidan himself.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2013/11/Hearthstone-2013-11-20-20-50-41-06.jpg" title="Blame the terrible game designers!" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2013/11/Hearthstone-2013-11-20-20-50-41-06.jpg" title="Blame the terrible game designers!" classes="center" >}}
 
 Despite the warning, Illidan was a pushover.... IN THE TUTORIAL. The AI players have a bit more bite in the practice game. And when it's time to meet other players...
 

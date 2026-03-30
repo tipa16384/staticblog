@@ -3,43 +3,21 @@ date: '2022-12-17T23:06:06-05:00'
 draft: false
 title: "Advent of Code Day 17 -- Pyroclastic Flow"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2022/12/17/advent-of-code-day-17-pyroclastic-flow/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "They say \"Pyroclastic Flow\", but it's really Tetris. Rock Tetris. With 100,000,000 pieces. Massive."
-description: "They say \"Pyroclastic Flow\", but it's really Tetris. Rock Tetris. With 100,000,000 pieces. Massive."
-tags:
+categories:
   - "Advent of Code"
   - "Game Development"
+tags:
   - "Advent"
   - "Elephant"
   - "Python"
   - "Tetris"
   - "Volcano"
-featured_image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2022/12/DALL·E-2022-12-17-22.26.37-An-elephant-wearing-a-Christmas-stocking-cap-looking-at-a-giant-statue-of-a-Tetris-game-in-a-cave-lit-with-lava-by-Bob-Eggleton-detailed-and-intrica.png"
 ---
+They say "Pyroclastic Flow", but it's really Tetris. Rock Tetris. With 100,000,000 pieces. Massive.
+<!--more-->
 
 If ever there was a day to write a game for, this one would be it. Because it is Tetris.
 

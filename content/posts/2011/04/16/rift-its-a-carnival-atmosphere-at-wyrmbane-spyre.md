@@ -3,40 +3,17 @@ date: '2011-04-16T14:38:04-05:00'
 draft: false
 title: "Rift: It's a carnival atmosphere at Wyrmbane Spyre..."
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2011/04/16/rift-its-a-carnival-atmosphere-at-wyrmbane-spyre/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I'd been playing around on EverQuest II this afternoon after spending the past few days fervently leveling to 48 on Rift. I was just about..."
+categories:
   - "MMORPG"
   - "Rift"
-featured_image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-15-20-51-13-480x384.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-15-20-51-13-480x384.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-16-15-20-51-13-480x384.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-16-15-20-51-13-480x384.jpg"
 ---
+I'd been playing around on EverQuest II this afternoon after spending the past few days fervently leveling to 48 on Rift. I was just about...
+<!--more-->
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-15-20-51-13-480x384.jpg" title="Waiting for Phase 2" class="align-center" >}}
+
 
 I'd been playing around on EverQuest II this afternoon after spending the past few days fervently leveling to 48 on Rift. I was just about to explore Nektropos Castle on my flighty berserker when [MMO Gamer Chick](http://mmogamerchick.wordpress.com/) reminded me, via Twitter, about Rift's Phase 2 event!
 
@@ -44,13 +21,13 @@ So I logged out of EQ2 and logged right into a queue on Rift. Half an hour later
 
 GAH.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-15-21-56-28-480x384.jpg" title="They couldn't find a mailbox." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-16-15-21-56-28-480x384.jpg" title="They couldn't find a mailbox." classes="center" >}}
 
 By craftily listening to guild chat, I found that the Phase 2 event would be starting at Wyrmbane Spyre in Shymmersynds, a portal I had found on my own By Exploring even though sub fifties like myself have no business there. I did that event daily where you fight three shades in Meridian real quick and then headed over to join the party.
 
 It was a crazy, carnival atmosphere there. I thought I looked absolutely dashing in my new tunic and glowy weapons, but I have no illusions I'll be able to contribute to whatever is going to go down. I just want the adventure and, you know, the loot.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2011/04/rift-2011-04-16-15-24-20-46-480x383.jpg" title="Taking some shade while waiting" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2011/04/rift-2011-04-16-15-24-20-46-480x383.jpg" title="Taking some shade while waiting" classes="center" >}}
 
 With people chatting and trading and showing off their gear and chatting about the event, there's a real air of excitement on the edge of the dragonbone sea. In ten minutes I'll be back in the queue and, perhaps, your faithful reporter embedded with a legion of hopeful heroes.
 

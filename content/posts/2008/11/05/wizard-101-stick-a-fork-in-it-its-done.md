@@ -3,51 +3,29 @@ date: '2008-11-05T10:00:42-05:00'
 draft: false
 title: "Wizard 101: Stick a fork in it, it's done"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2008/11/05/wizard-101-stick-a-fork-in-it-its-done/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "It's done, it's over, and aside from finishing a couple of quests in Village of Sorrows and heading back into Shiritaki Temple for the blue..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Death Oni"
   - "Dragonspyre"
   - "Jade Oni"
   - "Moo Shu"
   - "Oyotomi"
-featured_image: "https://chasingdings.com/wp-content/uploads/2008/11/ninjas.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2008/11/ninjas.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/ninjas.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2008/11/ninjas.jpg"
 ---
+It's done, it's over, and aside from finishing a couple of quests in Village of Sorrows and heading back into Shiritaki Temple for the blue...
+<!--more-->
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/ninjas.jpg "ninjas")
+
 
 It's done, it's over, and aside from finishing a couple of quests in Village of Sorrows and heading back into Shiritaki Temple for the blue oyster I missed, and of course, farming nameds for loot, I'm finished with Wizard 101. I hold the Spiral key to the world of Dragonspyre, and when it opens, I'll be there.
 
 Well? I had to do SOMETHING while watching history being made!
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-04-23-58-20-33.jpg "wizardgraphicalclient-2008-11-04-23-58-20-33")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-04-23-58-20-33.jpg" title="wizardgraphicalclient-2008-11-04-23-58-20-33" classes="center" >}}
 
 I was working on some boring Kill X quests in the Village of Sorrows when a friend stopped by to help kill. He was carrying, instead of a wand or a staff, a glowing sword, and when he went to use it, he'd jump right into the middle of the dueling circle and attack the monster directly.
 
@@ -55,23 +33,23 @@ I HAD to have it.
 
 We quested together for a bit and when we got to the next boss fight, it was Oyotomi -- the very demon that dropped my friend's sword! Oyotomi is just sitting RIGHT THERE out in the open in the Village of Sorrows -- anyone can just keep killing him for loot with no need to do an instance or anything.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-00-03-25-49.jpg "wizardgraphicalclient-2008-11-05-00-03-25-49")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-05-00-03-25-49.jpg" title="wizardgraphicalclient-2008-11-05-00-03-25-49" classes="center" >}}
 
 I didn't get the sword on the first kill, so I just farmed him a few times. After the third or fourth kill, Death mobs being insanely easy for Life wizards to kill, I got my own Oyotomi's Jade Blade, the Life wizard's epic weapon. It gives a pip at the start of each fight AND bumps up the power pip chance, as well as hitting for 90 base damage.
 
 I also managed to snag Oyotomi's Snowstorm Pendant, which summons a blizzard to snow your enemies with Ice magic. I quickly replaced my banshee pendant I'd been wearing since Firecat Alley.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-00-41-30-47.jpg "wizardgraphicalclient-2008-11-05-00-41-30-47")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-05-00-41-30-47.jpg" title="wizardgraphicalclient-2008-11-05-00-41-30-47" classes="center" >}}
 
 After some more quests and general running around, fate brought me face-to-bark with the Tree of Life. It didn't look that lively, actually. I had found a curious dagger inside some named pig's belly, plunged it into the heart of the tree, and stood back in amazement as the act opened a portal into the Spirit Realm, where the Oni no Death acted to corrupt all Life.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-00-57-42-25.jpg "wizardgraphicalclient-2008-11-05-00-57-42-25")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-05-00-57-42-25.jpg" title="wizardgraphicalclient-2008-11-05-00-57-42-25" classes="center" >}}
 
 I took that personally. Very. And I communicated my displeasure to the Death Demon in the clearest means possible.
 
 Restored to health, the Tree of Life granted me one of its holy fruit with which to heal the Emperor. Along with the Emperor's shattered blade I'd taken from the War Oni, and the item from the Plague Oni (can't remember what it was :/ A book, I think.), the Emperor's wound would heal as well.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-02-34-25-60.jpg "wizardgraphicalclient-2008-11-05-02-34-25-60")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-05-02-34-25-60.jpg" title="wizardgraphicalclient-2008-11-05-02-34-25-60" classes="center" >}}
 
 I was prevented from using these items by the sudden appearance of the Jade Oni. 7500 health. Innate 75% resistance to damage from Life spells. Herself a Life wizard. I looked at my deck full of Life spells and knew this wasn't going to be an easy fight.
 
@@ -81,7 +59,7 @@ I lost the first fight and rebuilt my deck around my secondary school, Fire, and
 
 The fight was extremely long -- secondary schools can't take advantage of power pips -- but I still had plenty of cards in my deck when the Jade Oni had the rug pulled out from under her. She didn't drop my epic robe, unfortunately, so I'll be meeting her again pretty soon.
 
-![](https://chasingdings.com/wp-content/uploads/2008/11/wizardgraphicalclient-2008-11-05-02-40-03-75.jpg "wizardgraphicalclient-2008-11-05-02-40-03-75")
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2008/11/wizardgraphicalclient-2008-11-05-02-40-03-75.jpg" title="wizardgraphicalclient-2008-11-05-02-40-03-75" classes="center" >}}
 
 I fed the Emperor the fruit of the Tree of Life and put his weapon and that other thing near him, and he was instantly, magically healed.
 

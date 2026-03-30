@@ -3,41 +3,19 @@ date: '2024-03-28T07:00:00-05:00'
 draft: false
 title: "Starship Simulator: The Demo"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2024/03/28/starship-simulator-the-demo/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 summary: "About 200 lightyears inward from Sol hangs a giant nebula in the middle of nothing, and you can go there."
-description: "About 200 lightyears inward from Sol hangs a giant nebula in the middle of nothing, and you can go there."
-tags:
+categories:
   - "Kickstarter"
   - "Starship Simulator"
+tags:
   - "Star Trek"
   - "Steam"
   - "VR"
-featured_image: "https://chasingdings.com/wp-content/uploads/2024/03/starshipsimulatorbanner.png"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2024/03/starshipsimulatorbanner.png"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/starshipsimulatorbanner.png"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2024/03/starshipsimulatorbanner.png"
 ---
+About 200 lightyears inward from Sol hangs a giant nebula in the middle of nothing, and you can go there.
+<!--more-->
 
 According to the science station on the bridge of the UNSF Magellan, the center of the galaxy is north of 25,000 light years away, it will take a bit less than four days to get there at our cruising speed of 2,000,000 times the speed of light, and there we will find either a gas dwarf planet or perhaps a terrestrial planet. It kept changing its mind.
 
@@ -47,7 +25,7 @@ The concept itself is enough to get anyone who grew up on the Enterprise D saliv
 
 I'd engineered. On a starship.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Starshipsimulator-Screenshot-2024.03.27-17.30.22.83.jpg" title="It was good to see the fusion reactor finally come to life." class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Starshipsimulator-Screenshot-2024.03.27-17.30.22.83.jpg" title="It was good to see the fusion reactor finally come to life." classes="center" >}}
 
 There are seven decks on the Magellan, making this quite a bit smaller than the Enterprise. The bottom two decks are devoted to engineering; living quarters, science labs, lounges, a hanger deck and various other to-be-implemented areas. The only other currently interesting bit of the ship available in the demo is up on the command deck.
 
@@ -55,7 +33,7 @@ They say that sitting in the captain's chair for the first time changes you. It 
 
 Engage the glittery ball, captain!
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Starshipsimulator-Screenshot-2024.03.27-17.25.20.94.jpg" title="Science station" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Starshipsimulator-Screenshot-2024.03.27-17.25.20.94.jpg" title="Science station" classes="center" >}}
 
 From their station on the bridge, the science officer can scan planets and other objects in the system, check out the stellar neighborhood, and bring up the library computer's information on any phenomena in range -- and also add to it with new scans. The science officer can send likely candidates to the helm for the pilot to use in charting a course.
 
@@ -63,11 +41,11 @@ The game promises a fully realized simulation of our solar system and galaxy. Th
 
 Starship Simulator isn't called Galaxy Simulator, for a reason. In the demo, the planets didn't have moons, didn't appear to move at all, actually. You can't orbit a planet. A tutorial mission has you setting a course to Alpha Centauri, a binary star system fairly near to us, in stellar terms. Upon arriving -- one star. We also have a fairly good idea about at least some of the planets in the system, but that didn't seem to be translated here. Our actual closest neighbor sun, the red dwarf Proxima Centauri (the third star in the system, about a light year distant from the other two), wasn't there at all. I was dubious at how well the game was going to simulate the galaxy.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Starshipsimulator-Screenshot-2024.03.27-17.54.43.94.jpg" title="Holographic local neighborhood display on the bridge" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Starshipsimulator-Screenshot-2024.03.27-17.54.43.94.jpg" title="Holographic local neighborhood display on the bridge" classes="center" >}}
 
 From Earth, looking toward the center of galaxy shows a bright, glowing river of stars. The center of the galaxy in Starship Simulator is dark and barren. A single nebula corewards was the only obvious landmark along the way, and it was mysterious and beautiful and very three dimensional up close. That far from Sol, though, almost every planet was within 0.01 AU from its sun, which seemed a tad unrealistic.
 
-{{< figure src="https://chasingdings.com/wp-content/uploads/2024/03/Starshipsimulator-Screenshot-2024.03.27-18.44.06.51.jpg" title="Conference room view" class="align-center" >}}
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2024/03/Starshipsimulator-Screenshot-2024.03.27-18.44.06.51.jpg" title="Conference room view" classes="center" >}}
 
 As a member of the Magellan crew, you are assigned tasks on a first come/first serve basis. The only NPCs I saw in the demo were the engineering staff, who significantly didn't rush to fix issues I caused when I went down there to play a little mischief, so I guess that's not quite in yet.
 

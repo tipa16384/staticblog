@@ -3,42 +3,22 @@ date: '2009-04-20T10:00:15-05:00'
 draft: false
 title: "Wizard 101: Name the Turtles!"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/04/20/wizard-101-name-the-turtles/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "[..."
+categories:
   - "MMORPG"
   - "Wizard101"
+tags:
   - "Contest"
   - "Name the Turtles"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/04/builderturtle.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/04/builderturtle.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/builderturtle.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/04/builderturtle.jpg"
 ---
+[...
+<!--more-->
 
-[![Name the Marleybone Turtle!](https://chasingdings.com/wp-content/uploads/2009/04/builderturtle.jpg "Name the Marleybone Turtle!")](https://chasingdings.com/index.php/2009/04/20/wizard-101-name-the-marleybone-turtle/builderturtle/)
+[
+
+](https://tipa16384.github.io/wkblog/index.php/2009/04/20/wizard-101-name-the-marleybone-turtle/builderturtle/)
 
 I come from a big family, so big that Mom didn't even bother to name us! It was always "Hey, you!" and "That one, no not you, that OTHER one!" and "Everyone to my LEFT, time for dinner. Everyone to my RIGHT, homework time!". On my birth certificate, it just says "Baby Turtle #117".
 

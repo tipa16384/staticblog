@@ -3,40 +3,17 @@ date: '2009-12-15T06:41:02-05:00'
 draft: false
 title: "World of Warcraft: Just-in-Time Grouping"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2009/12/15/world-of-warcraft-just-in-time-grouping/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "He was like that when I got here! Honest!..."
+categories:
   - "MMORPG"
   - "World of Warcraft"
-featured_image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-12-22-20-55-09.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-12-22-20-55-09.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-12-22-20-55-09.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-12-22-20-55-09.jpg"
 ---
+He was like that when I got here! Honest!...
+<!--more-->
 
-![Dead Body Alert! (DBA)](https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-12-22-20-55-09.jpg "Dead Body Alert! (DBA)")
+
 
 He was like that when I got here! Honest!
 
@@ -52,7 +29,7 @@ When I returned to Azeroth, before 3.3, I was mostly doing what I mostly did bef
 
 Now I still do quests, but I'm queued up for dungeons at the same time. My first time through WoW, all I cared about was leveling, leveling, leveling. Most dungeons I only did once, until Sunken Temple and Maraudon when I started actually needing to farm gear (or rather, the people in my guild did, and I played a priest, so I saw those two dungeons a LOT).
 
-![Clanka Clanka](https://chasingdings.com/wp-content/uploads/2009/12/WoW-2009-12-12-21-07-42-24-225x225.jpg "Clanka Clanka") I've taken some flack for diving straight into the "easy mode" bits of WoW. I have all the add ons I think I could use. Auctioneer sells all my loot for me -- and now I have over 100g, from starting at 15g -- more than enough to buy my epic mount when I hit level 40. QuestHelper (combined with the new built-in map enhancements that also came with 3.3) keeps my non-dungeon time efficient. And Azeroth Advisor makes me look like less of a noob when I'm in a dungeon.
+{{< image src="https://tipa16384.github.io/wkblog/uploads/2009/12/WoW-2009-12-12-21-07-42-24-225x225.jpg" title="Clanka Clanka" classes="center" >}} I've taken some flack for diving straight into the "easy mode" bits of WoW. I have all the add ons I think I could use. Auctioneer sells all my loot for me -- and now I have over 100g, from starting at 15g -- more than enough to buy my epic mount when I hit level 40. QuestHelper (combined with the new built-in map enhancements that also came with 3.3) keeps my non-dungeon time efficient. And Azeroth Advisor makes me look like less of a noob when I'm in a dungeon.
 
 Seriously, Azeroth Advisor is worth ten times the price. It sent me newsletters with info about Uldaman and Scarlet Monastery -- Cathedral, and wouldn't you know that those two dungeons came up pretty soon after. It tells me how to play a rogue, what poisons to use (Crippling Poison to defeat runners? Brilliant!), and in general, how to make it seem like maybe it HASN'T been over three years since I last played.
 

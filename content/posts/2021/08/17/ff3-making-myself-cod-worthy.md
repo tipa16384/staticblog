@@ -3,48 +3,27 @@ date: '2021-08-17T22:41:03-05:00'
 draft: false
 title: "FF3 -- Making Myself CoD-Worthy"
 author: "Tipa"
-showToc: true
-TocOpen: false
-hidemeta: false
-comments: false
-canonicalURL: "https://chasingdings.com/2021/08/17/ff3-making-myself-cod-worthy/"
-disableHLJS: false
-disableShare: false
-hideSummary: false
-searchHidden: true
-ShowReadingTime: true
-ShowBreadCrumbs: true
-ShowPostNavLinks: true
-ShowWordCount: true
-ShowRssButtonInSectionTermList: true
-UseHugoToc: true
-summary: ""
-description: "Desc Text."
-tags:
+summary: "I didn't have big goals for tonight. Grind to 50 with the jobs I intend to take on the trip to the World of Darkness...."
+categories:
   - "Blaugust"
   - "Final Fantasy"
   - "Final Fantasy XIV"
   - "MMORPG"
   - "Steam Games"
+tags:
+  - "Blaugust"
   - "Steam"
-featured_image: "https://chasingdings.com/wp-content/uploads/2021/08/20210817213623_1.jpg"
-cover:
-  image: "https://chasingdings.com/wp-content/uploads/2021/08/20210817213623_1.jpg"
-  alt: "<alt text>"
-  caption: "<text>"
-  relative: false
-  hidden: false
-editPost:
-  URL: "https://github.com/tipa16384/staticblog/tree/main/content"
-  Text: "Suggest Changes"
-  appendFilePath: true
+coverImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
+thumbnailImage: "https://tipa16384.github.io/wkblog/uploads/2021/08/20210817213623_1.jpg"
 ---
+I didn't have big goals for tonight. Grind to 50 with the jobs I intend to take on the trip to the World of Darkness....
+<!--more-->
 
 I didn't have big goals for tonight. Grind to 50 with the jobs I intend to take on the trip to the World of Darkness. And then... maybe jump into Final Fantasy XIV Online, and try the MMO version of FF3's final boss.
 
 So that's what I did.
 
-[![](https://chasingdings.com/wp-content/uploads/2021/08/20210817221325_1-1024x576.jpg)](https://chasingdings.com/wp-content/uploads/2021/08/20210817221325_1.jpg)
+[{{< image src="https://tipa16384.github.io/wkblog/uploads/2021/08/20210817221325_1-1024x576.jpg" classes="center" >}}](https://tipa16384.github.io/wkblog/uploads/2021/08/20210817221325_1.jpg)
 
 Three of the jobs are basically no-brainers. Ninja is the most capable physical attacker in the game. Devout is the best healer, and Sage is the best magical attacker, having access to all black magic, white magic, and summoner spells.
 
